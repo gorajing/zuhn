@@ -28,9 +28,9 @@
 - `INS-260327-0053` Building products doesn't require sacrificing normal life—authentic entrepreneurial spirit coexists with being a kid.
 - `INS-260329-EC98` Build for people like you — authentic understanding of customer pain produces better products and more resilient motivation than external market research.
 - `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
-- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260322-BD0D` You can't market a company without a character, but the character must be real and sustainable — manufactured personas always collapse over time.
 - `INS-260321-5598` Professional CEOs trained to say nothing on stage now lose to founder CEOs interesting enough to fill 3 hours on Joe Rogan — the 80-year reign of synthetic corporate communication is over.
+- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260403-DE45` Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.

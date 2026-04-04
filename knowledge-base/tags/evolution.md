@@ -49,6 +49,7 @@
 - `INS-260403-C436` RuBisCo is a terrible enzyme that dominates Earth because it arrived first and scaled before alternatives could emerge.
 - `INS-260330-43CA` RuBisCo is a terrible enzyme that confuses O2 for CO2 half the time, yet 40 billion tons of it dominate Earth because plants went all-in before oxygen levels rose.
 - `INS-260325-436A` Mutations occur at random without consideration of whether they help or harm the organism — it is the environment that sorts winners from losers.
+- `INS-260403-F68A` RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260330-B468` Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260330-11EB` RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
 - `INS-260330-D4CC` RuBisCo fails 50% of the time in today's atmosphere but remains life's only carbon-fixation enzyme because plants invested too heavily to switch.

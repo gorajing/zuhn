@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 481 insights
+> 484 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -255,6 +255,7 @@
 - `INS-260327-AB2A` [high] Businesses whose customer retention depends on continuous novelty face unsustainable product development costs and event
 - `INS-260330-40DA` [high] Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260327-38D8` [high] Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
+- `INS-260403-B8CD` [high] Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260327-E153` [high] Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
 - `INS-260327-0E86` [high] Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260403-2152` [high] Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
@@ -264,6 +265,7 @@
 - `INS-260402-4605` [high] Eminence constrains innovation more than obscurity constrains execution.
 - `INS-260403-A862` [high] Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
 - `INS-260403-262F` [high] RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
+- `INS-260403-F68A` [high] RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260330-B468` [high] Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260330-11EB` [high] RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
 - `INS-260330-D4CC` [high] RuBisCo fails 50% of the time in today's atmosphere but remains life's only carbon-fixation enzyme because plants invested too heavily to switch.
@@ -302,6 +304,7 @@
 - `INS-260330-242D` [high] Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
 - `INS-260403-9442` [high] Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260330-ED9D` [high] Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
+- `INS-260403-0DC2` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize products to win placement.
 - `INS-260403-4874` [high] Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260403-887A` [high] Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each shelf slot so valuable that suppliers compete on price and customization to win it.
 - `INS-260403-6670` [high] Costco stocks 4,000 SKUs vs Walmart's 140,000, making each slot fiercely contested by suppliers willing to cut prices.

@@ -29,6 +29,7 @@
 - `INS-260403-837D` Photosystem II was discovered first but named second, and understanding why reduces the cognitive friction of learning the system.
 - `INS-260330-0143` Photosystem II was discovered before Photosystem I but acts first in the chain — explicitly flagging discovery-vs-logic order mismatches helps learners navigate confusing nomenclature.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
+- `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
 - `INS-260329-E914` Start with the simplest working example and layer complexity incrementally rather than teaching theory first.
 - `INS-260329-07D3` Sequence learning around small complete projects that each introduce exactly one new concept.

@@ -55,7 +55,7 @@ related:
   - INS-260403-A65D
   - INS-260403-8F31
   - INS-260403-19C0
-  - INS-260403-8C50
+  - INS-260403-C2CF
 ---
 Greg McAdoo of Sequoia coined the term 'proxy for demand' — evidence that people are already doing the thing you enable, just with worse tools. This reframes validation from 'do people like our product' to 'are people already suffering without it.' The distinction matters because the latter is observable before you even have users.
 

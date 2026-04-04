@@ -5,11 +5,11 @@
 - `INS-260323-1930` Musicians like Charlie Puth experience notes as colors, tastes, and shapes — talent at the highest levels isn't doing the same thing better, it's literally perceiving reality differently.
 - `INS-260330-593E` Nerds who can't accept their limitations either become crackpots (denial) or self-hating anti-nerds (reaction formation), while healthy acceptance enables actual productive work.
 - `INS-260326-2259` Duckworth's data shows grit is unrelated or inversely related to talent — the most gifted people often lack the perseverance to realize their potential.
+- `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
+- `INS-260326-1CB1` Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260328-68BA` The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-A64F` Talent only reveals itself when the environment activates it — a person can go their whole life without entering the domain that would unlock their natural ability.
 - `INS-260323-E3FD` The 10,000-hour rule was misunderstood as 'practice creates excellence' — Gladwell himself clarifies it means practice is necessary but insufficient without innate talent, which is the hardware that skill (software) runs on.
-- `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
-- `INS-260326-1CB1` Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
 - `INS-260403-D51E` Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 - `INS-260403-22DF` The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.

@@ -26,10 +26,10 @@
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
-- `INS-260320-3798` Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
-- `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
+- `INS-260320-3798` Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
+- `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.

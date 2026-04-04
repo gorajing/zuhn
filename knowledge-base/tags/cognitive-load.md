@@ -20,6 +20,7 @@
 - `INS-260403-6F40` Photosynthesis never converts sunlight directly into glucose — it chains through excited electrons, proton gradients, ATP, and NADPH as intermediate carriers, each step smaller and more manageable than the whole.
 - `INS-260403-F63E` Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.
 - `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
+- `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - `INS-260330-B047` Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
 - `INS-260329-65CD` Use the simplest tool available when learning something new — complexity in the environment competes with complexity in the subject.
 - `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.

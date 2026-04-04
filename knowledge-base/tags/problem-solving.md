@@ -46,7 +46,6 @@
 - `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
 - `INS-260330-64D8` If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
-- `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260323-A14D` Problems that appear impossible often result from the wrong framing, not the wrong physics.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
@@ -56,6 +55,7 @@
 - `INS-260329-5398` The Squeeze Theorem shows that if a quantity is trapped between two bounds that converge to the same limit, the quantity must also converge to that limit — eliminating the need for direct computation.
 - `INS-260322-9C84` Problems that seem inescapable may simply be artifacts of the dimensional framework you're operating within.
 - `INS-260325-C724` When you can't find an answer directly, discovering constraints the answer must satisfy often lets you work backward to it.
+- `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260327-A608` Great products start by identifying real problems, not by showcasing technology capabilities.
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.

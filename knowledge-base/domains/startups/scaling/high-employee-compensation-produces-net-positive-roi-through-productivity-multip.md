@@ -50,7 +50,7 @@ stance: >-
   profit driver when the productivity multiplier exceeds the wage premium
 related:
   - INS-260327-D480
-  - INS-260403-8A80
+  - INS-260403-365D
   - INS-260403-C125
   - INS-260403-5CB5
   - INS-260403-E2D9

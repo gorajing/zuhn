@@ -44,6 +44,7 @@
 - `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
+- `INS-260403-464D` Photosynthesis stores energy by pumping protons across a membrane, then harvests it through ATP synthase—the same store-then-release pattern behind batteries, message queues, and pricing arbitrage.
 - `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
 - `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.

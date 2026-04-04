@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 238 insights
+> 239 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -209,6 +209,7 @@
 - `INS-260403-5215` [medium] Photosystem II was discovered before Photosystem I, so the 'first' complex in the chain is called II — and renaming would cause more confusion than it solves.
 - `INS-260330-0143` [medium] Photosystem II was discovered before Photosystem I but acts first in the chain — explicitly flagging discovery-vs-logic order mismatches helps learners navigate confusing nomenclature.
 - `INS-260330-78B8` [medium] Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
+- `INS-260403-07C3` [medium] Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - `INS-260329-8D19` [medium] OOP's core discipline — decomposing complexity into objects with defined interfaces — transfers to organizational design, product architecture, and any domain requiring structured abstraction.
 - `INS-260329-DBFE` [medium] Class inheritance (Chef → ItalianChef) mirrors how humans naturally organize knowledge into categories and subcategories, making OOP surprisingly intuitive when taught with real-world analogies.
 - `INS-260329-41BC` [medium] OOP inheritance mirrors human prototype-based categorization, making it more cognitively natural than its reputation suggests.

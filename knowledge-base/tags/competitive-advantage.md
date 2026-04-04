@@ -25,12 +25,6 @@
 - `INS-260327-4081` Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
 - `INS-260330-883E` The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
-- `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
-- `INS-260323-C0BD` GSP and Lex Fridman agree that in martial arts, skill level is by far the most important factor — it trumps strength, size, and even heart.
-- `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
-- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
-- `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
 - `INS-260325-0895` Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
 - `INS-260330-413D` Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.
 - `INS-260403-5593` Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
@@ -67,7 +61,13 @@
 - `INS-260330-DDF0` Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
+- `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
+- `INS-260323-C0BD` GSP and Lex Fridman agree that in martial arts, skill level is by far the most important factor — it trumps strength, size, and even heart.
+- `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
+- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
+- `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260403-4423` Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.

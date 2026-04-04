@@ -6,6 +6,7 @@
 - `INS-260403-D0EE` Beyond a threshold, your stuff starts making your decisions for you.
 - `INS-260330-CECB` SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.
 - `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
+- `INS-260403-2DC4` Plants rationally invest in workaround enzymes for RuBisCo's failures rather than replacing the enzyme itself.
 - `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260403-B5E2` RuBisCo was rational in a low-oxygen world — the trap emerged when oxygen levels rose after plants had fully committed to the enzyme.
 - `INS-260402-9D7B` The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.

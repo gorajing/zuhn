@@ -47,13 +47,12 @@ stance: >-
   more valuable than frictionless access because they concentrate high-value
   demand
 related:
-  - INS-260403-546E
-  - INS-260403-2C00
   - INS-260403-C40D
   - INS-260403-08FE
   - INS-260403-FDB8
+  - INS-260403-B8CD
+  - INS-260403-2C00
   - INS-260403-747B
-  - INS-260403-137D
 ---
 The $60-120 membership fee should theoretically make customer acquisition fatally difficult. Instead, it selects for households with ~$100K average income who become loyal, high-spending patrons. Business owners — just one-third of members — generate two-thirds of sales. The confusing warehouse layout forces customers through most aisles, increasing discovery and spend.
 

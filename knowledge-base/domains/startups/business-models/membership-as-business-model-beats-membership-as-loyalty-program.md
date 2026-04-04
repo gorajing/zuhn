@@ -54,7 +54,7 @@ related:
   - INS-260403-0650
   - INS-260403-CED6
   - INS-260403-5C88
-  - INS-260403-1208
+  - INS-260403-8757
 ---
 Costco derives 75% of its revenue from membership fees, not product markup. This fundamentally changes incentive structure compared to Amazon Prime, where the subscription is a loyalty layer on top of a margin-based business. When membership IS the business model, raising prices becomes self-destructive — a few extra cents today costs $60 in lost renewals tomorrow. This creates a self-reinforcing loop: low prices drive 90% renewal rates, which drive predictable revenue, which enables even lower prices.
 

@@ -14,15 +14,15 @@
 - `INS-260327-5297` When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260330-3A0D` Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
+- `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
+- `INS-260327-6017` Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
 - `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
 - `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
 - `INS-260327-DD1D` Quitting during a crisis reduces competition and can create better startup conditions than boom times.
 - `INS-260323-B426` Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
 - `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
-- `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
-- `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
-- `INS-260327-6017` Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
 - `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260403-07C6` Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.

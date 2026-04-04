@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 21 insights
+> 22 insights
 
 - `INS-260403-D375` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - `INS-260403-D984` [high] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
@@ -12,6 +12,7 @@
 - `INS-260403-66D0` [high] Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
 - `INS-260403-92EB` [high] Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
 - `INS-260403-8C50` [high] Sequoia's 'proxy for demand' — people using bad tools to do the thing you enable — is the strongest antidote to investors' biggest early-stage fear.
+- `INS-260403-BDBE` [high] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - `INS-260403-F7DD` [high] Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - `INS-260403-EF30` [high] Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260403-280B` [high] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.

@@ -56,8 +56,8 @@ related:
   - INS-260403-3946
   - INS-260403-C436
   - INS-260330-6ECA
+  - INS-260403-F68A
   - INS-260403-262F
-  - INS-260330-BFA2
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, fails roughly half the time — grabbing oxygen instead of CO2 and producing a toxic byproduct. Yet it became the most abundant protein on Earth (~40 billion tons at any given time). Plants 'went all-in' on the RuBisCo strategy early when atmospheric conditions were different, and by the time those conditions changed (rising O2 levels), the switching cost was insurmountable. Instead of evolving a better enzyme, plants evolved elaborate workaround pathways to detoxify RuBisCo's mistakes.
 

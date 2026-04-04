@@ -2,6 +2,7 @@
 
 - `INS-260403-1A71` In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
+- `INS-260403-05DF` Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 - `INS-260403-74CD` Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
 - `INS-260403-2081` Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.
 - `INS-260403-48BF` Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
@@ -26,6 +27,7 @@
 - `INS-260403-2247` Mention monetization to show you've thought about it, but don't elaborate — the model is probably wrong anyway.
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-A709` VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
+- `INS-260403-13ED` Early business models are usually wrong, so pitching them wastes time and can make you look naive — talk about what you've built instead.
 - `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - `INS-260403-5C8E` Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
@@ -42,6 +44,7 @@
 - `INS-260403-D430` A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 - `INS-260403-9AB3` Describe your startup narrowly and concretely rather than expansively, because all-encompassing descriptions carry no information.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260403-39B0` Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-0F5C` Sequoia's 'proxy for demand'—people using bad tools to solve your problem—is the strongest early-stage fundraising signal.

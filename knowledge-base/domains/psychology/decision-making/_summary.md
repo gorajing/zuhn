@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 77 insights
+> 78 insights
 
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
@@ -49,6 +49,7 @@
 - `INS-260403-803A` [high] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260403-F075` [high] Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
 - `INS-260403-3F91` [high] Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.
+- `INS-260403-2DC4` [high] Plants rationally invest in workaround enzymes for RuBisCo's failures rather than replacing the enzyme itself.
 - `INS-260403-B5E2` [high] RuBisCo was rational in a low-oxygen world — the trap emerged when oxygen levels rose after plants had fully committed to the enzyme.
 - `INS-260330-3899` [high] People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error.
 - `INS-260403-5AAC` [high] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.

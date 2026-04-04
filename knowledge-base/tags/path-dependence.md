@@ -24,6 +24,7 @@
 - `INS-260330-B71B` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must continuously neutralize — legacy system bugs become permanent line items.
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260403-262F` RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
+- `INS-260403-F68A` RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260330-3EE4` RuBisCo is terrible at distinguishing CO2 from O2 but dominates because plants went all-in before the environment changed, illustrating how early adoption creates irreversible lock-in.
 - `INS-260330-7B11` RuBisCo is a terrible enzyme that won by being produced in massive quantities — 40 billion tons on Earth — because 'good enough at scale' beats 'perfect but scarce.'
 - `INS-260330-00AA` Because Muhammad governed Medina as both prophet and political leader, Islam never developed a separate civic-vs-religious legal tradition the way Christianity did.

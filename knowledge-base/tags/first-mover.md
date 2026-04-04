@@ -6,7 +6,6 @@
 - `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
-- `INS-260323-9F61` Barabasi's model shows hubs form naturally when networks grow and new nodes preferentially attach to well-connected nodes -- a tiny initial bias compounds into dominance.
 - `INS-260330-2064` A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities.
 - `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
 - `INS-260330-E039` RuBisCo is bad at its job but became the most abundant protein on Earth (40 billion tons) because early plants scaled it before alternatives evolved.
@@ -25,12 +24,14 @@
 - `INS-260330-43CA` RuBisCo is a terrible enzyme that confuses O2 for CO2 half the time, yet 40 billion tons of it dominate Earth because plants went all-in before oxygen levels rose.
 - `INS-260330-3897` Thiel calculated that 75% of PayPal's value in 2001 came from cash flows in 2011 and beyond — you want to be the last mover who wins the game, not the first mover who gets a one-third pawn advantage.
 - `INS-260403-262F` RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
+- `INS-260403-F68A` RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260330-B468` Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260403-C949` Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - `INS-260330-3EE4` RuBisCo is terrible at distinguishing CO2 from O2 but dominates because plants went all-in before the environment changed, illustrating how early adoption creates irreversible lock-in.
 - `INS-260330-0E1E` RuBisCo is a slow, error-prone enzyme that life committed to early and now cannot replace despite 40 billion tons of it being needed to compensate for its inefficiency.
 - `INS-260330-4C3A` RuBisCo is a terrible enzyme that plants can never replace because their entire metabolism depends on it — a biological case study in permanent lock-in from early architectural decisions.
 - `INS-260330-7B11` RuBisCo is a terrible enzyme that won by being produced in massive quantities — 40 billion tons on Earth — because 'good enough at scale' beats 'perfect but scarce.'
+- `INS-260323-9F61` Barabasi's model shows hubs form naturally when networks grow and new nodes preferentially attach to well-connected nodes -- a tiny initial bias compounds into dominance.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
 - `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.

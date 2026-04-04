@@ -26,5 +26,6 @@
 - `INS-260330-C729` Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
 - `INS-260330-D17A` Near a black hole singularity, it's not the strength of gravity that kills you but the difference in gravitational pull between your head and feet — the gradient stretches you apart.
 - `INS-260330-21A8` Thylakoid membranes store energy by pumping protons to create concentration gradients that drive ATP synthase, functioning like a rechargeable battery.
+- `INS-260403-464D` Photosynthesis stores energy by pumping protons across a membrane, then harvests it through ATP synthase—the same store-then-release pattern behind batteries, message queues, and pricing arbitrage.
 - `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
 - `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.

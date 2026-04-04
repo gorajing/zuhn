@@ -13,6 +13,7 @@
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260403-5BAC` Costco stocks only ~4,000 items vs 140,000 at Walmart, making suppliers compete fiercely for limited shelf space.
 - `INS-260330-B284` Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
+- `INS-260403-0DC2` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize products to win placement.
 - `INS-260403-4874` Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260403-887A` Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each shelf slot so valuable that suppliers compete on price and customization to win it.
 - `INS-260403-6670` Costco stocks 4,000 SKUs vs Walmart's 140,000, making each slot fiercely contested by suppliers willing to cut prices.

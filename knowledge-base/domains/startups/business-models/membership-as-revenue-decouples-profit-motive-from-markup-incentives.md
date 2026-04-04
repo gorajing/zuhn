@@ -47,14 +47,12 @@ stance: >-
   per-transaction margins will consistently deliver lower prices because raising
   prices costs them the annual fee.
 related:
-  - INS-260403-B2CB
   - INS-260403-5C88
-  - INS-260403-3F5F
   - INS-260403-1C25
-  - INS-260403-0650
   - INS-260403-1208
   - INS-260403-F634
   - INS-260403-3F91
+  - INS-260403-8757
 ---
 Costco makes 75% of its money from membership fees, not product markups. This fundamentally changes its incentive structure: raising a product price generates pennies today but risks losing a $60-120 annual renewal. The self-imposed 15% maximum markup (vs Walmart's 24% or Home Depot's 35%) is not generosity — it's rational behavior when your real product is continued membership. This model explains Costco's 90% renewal rate and suggests that any business can radically improve customer alignment by shifting revenue from transaction margins to access fees.
 

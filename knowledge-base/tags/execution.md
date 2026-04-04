@@ -33,6 +33,7 @@
 - `INS-260329-3FF3` Doing something enough times guarantees outcomes that individual attempts leave to chance.
 - `INS-260323-CB34` Founders who try to be every team member stifle company growth and drain energy from the entire organization.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
+- `INS-260403-2074` If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260323-BDC1` The tension between dreaming and pragmatism is not a contradiction to resolve but a dance to maintain — you need both the north star and the day-by-day execution.
 - `INS-260328-9FC0` A fake startup looks like a startup from the outside — office, team, fundraising — but has never shipped a product or served a real customer.
@@ -45,7 +46,6 @@
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
-- `INS-260403-2074` If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
 - `INS-260403-5BAD` Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.

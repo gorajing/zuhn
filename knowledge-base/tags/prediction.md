@@ -13,9 +13,9 @@
 - `INS-260403-EB56` Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260330-2F13` You cannot predict future knowledge — if you could, you'd already have it — so linear extrapolations of doom ignore the most powerful variable: human creativity.
-- `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260327-FD99` We imagine the future as a modified version of the present because we can only project from what we currently know, systematically missing the genuinely novel.
 - `INS-260323-15F4` Philip Tetlock's 20-year study of 284 experts and 80,000 predictions found that the most confident, framework-driven experts (hedgehogs) were the least accurate — often worse than random chance.
+- `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260330-156C` After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.

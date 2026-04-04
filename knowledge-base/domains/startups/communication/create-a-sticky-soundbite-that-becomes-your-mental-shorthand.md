@@ -50,12 +50,11 @@ stance: >-
   phrase like 'the X of Y' get remembered by investors who hear hundreds of
   pitches
 related:
-  - INS-260403-D375
   - INS-260403-81CE
   - INS-260403-2A1D
   - INS-260403-F171
   - INS-260403-7FBE
-  - INS-260403-0AF4
+  - INS-260403-BDBE
   - INS-260403-87CD
   - INS-260403-D984
 ---

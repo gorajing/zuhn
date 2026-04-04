@@ -44,6 +44,10 @@
 - `INS-260329-21C0` Skills compound multiplicatively—each new adjacent skill doesn't just add value, it multiplies the value of every skill acquired before it.
 - `INS-260329-E6C3` Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
+- `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
+- `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
+- `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
 - `INS-260329-5A47` Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
@@ -66,13 +70,9 @@
 - `INS-260402-3F92` A company growing 1% weekly reaches 1.7x/year; at 5% weekly it reaches 12.6x/year — human intuition dramatically underestimates this divergence.
 - `INS-260403-07D2` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
 - `INS-260403-458A` Time to $1B revenue compressed from 45 years (IBM) to 7-8 years for modern companies, creating a double effect on founder wealth.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
 - `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
-- `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
-- `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
-- `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
-- `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260403-1904` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.

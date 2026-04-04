@@ -21,10 +21,17 @@
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
 - `INS-260403-F63E` Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
+- `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
+- `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
+- `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
+- `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
+- `INS-260330-649B` Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
+- `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260403-1A71` In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
+- `INS-260403-05DF` Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 - `INS-260403-B3CA` Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
 - `INS-260403-E51B` Audiences ignore or penalize explicit self-promotion but are heavily influenced by implicit behavioral signals of confidence.
 - `INS-260403-74CD` Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
@@ -37,18 +44,13 @@
 - `INS-260403-F171` Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
-- `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
-- `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
-- `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
-- `INS-260330-649B` Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
-- `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
 - `INS-260329-5BB0` Ensure your partner judges you on the same metrics you judge yourself — misaligned scorecards create unwinnable games.
 - `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
+- `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
-- `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260403-85F1` Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
 - `INS-260403-07C1` Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
@@ -72,6 +74,7 @@
 - `INS-260403-74EA` Founders should describe their startup as narrowly as possible rather than gesturing at everything it could become.
 - `INS-260403-6712` As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260403-39B0` Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 - `INS-260403-5A4F` Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.

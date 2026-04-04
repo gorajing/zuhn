@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260329-61E5
   - INS-260330-C8ED
+  - INS-260403-07C3
   - INS-260403-5215
   - INS-260403-837D
-  - INS-260402-89DE
   - INS-260403-F63E
 evidence:
   - id: INS-260329-DACC

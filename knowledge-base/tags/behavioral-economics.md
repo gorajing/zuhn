@@ -7,6 +7,7 @@
 - `INS-260327-C316` People treat money as the most rational domain of their lives while making consistently irrational financial decisions driven by fear, status anxiety, and emotional needs.
 - `INS-260403-B6FF` Costco's mandatory membership triggers sunk-cost loyalty universally, while Amazon Prime's optional model only captures customers who already self-selected as loyal.
 - `INS-260403-CE5F` Costco's mandatory membership triggers sunk-cost reasoning on every shopping trip, while Amazon Prime's optional nature lets non-subscribers self-select out.
+- `INS-260403-543E` Both Costco and Amazon Prime exploit sunk-cost psychology, but Costco's mandatory fee creates universal lock-in while Prime's optional fee only captures self-selecting customers.
 - `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260403-3F91` Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.

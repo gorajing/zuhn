@@ -46,6 +46,7 @@ stance: >-
   selection creates through customer choice.
 related:
   - INS-260403-36D8
+  - INS-260403-0DC2
   - INS-260403-180D
   - INS-260403-89B5
   - INS-260403-6670

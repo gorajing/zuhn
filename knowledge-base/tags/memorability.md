@@ -11,6 +11,7 @@
 - `INS-260403-FE37` A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
 - `INS-260403-7FBE` A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
+- `INS-260403-BDBE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - `INS-260403-F7DD` Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - `INS-260403-B3CA` A single compelling phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.

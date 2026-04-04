@@ -14,6 +14,7 @@
 - `INS-260403-7FBE` A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - `INS-260403-CC25` Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - `INS-260403-66D0` Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
+- `INS-260403-BDBE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
@@ -40,6 +41,7 @@
 - `INS-260403-2247` Mention monetization to show you've thought about it, but don't elaborate — the model is probably wrong anyway.
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-3482` Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
+- `INS-260403-13ED` Early business models are usually wrong, so pitching them wastes time and can make you look naive — talk about what you've built instead.
 - `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - `INS-260403-4A4A` Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
 - `INS-260403-D7C4` Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
@@ -60,6 +62,7 @@
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260403-39B0` Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 - `INS-260403-507E` Describe your startup as a specific, graspable thing rather than abstracting it into meaningless generality.
 - `INS-260403-5A4F` Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
@@ -83,4 +86,5 @@
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 - `INS-260403-A65D` Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
+- `INS-260403-C2CF` Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.
 - `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.

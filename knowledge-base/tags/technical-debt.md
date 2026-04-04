@@ -13,8 +13,6 @@
 - `INS-260330-DF69` RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
 - `INS-260403-D482` RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
-- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
-- `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260330-56D6` RuBisCo is terrible at its job but irreplaceable — biology's ultimate lesson in path dependence and first-mover lock-in.
 - `INS-260330-8B93` RuBisCo is a terrible enzyme that won the planet because switching costs exceeded optimization pressure.
 - `INS-260403-1731` RuBisCo dominates carbon fixation despite failing half the time because plants went all-in before alternatives could evolve.
@@ -22,6 +20,7 @@
 - `INS-260329-9BC0` Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
 - `INS-260330-B71B` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must continuously neutralize — legacy system bugs become permanent line items.
 - `INS-260403-262F` RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
+- `INS-260403-F68A` RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260330-11EB` RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
 - `INS-260403-A907` Once a system is deeply invested in a suboptimal approach, compensating around its flaws becomes cheaper than replacing it.
 - `INS-260330-3EE4` RuBisCo is terrible at distinguishing CO2 from O2 but dominates because plants went all-in before the environment changed, illustrating how early adoption creates irreversible lock-in.
@@ -29,6 +28,8 @@
 - `INS-260330-4C3A` RuBisCo is a terrible enzyme that plants can never replace because their entire metabolism depends on it — a biological case study in permanent lock-in from early architectural decisions.
 - `INS-260403-9F4B` RuBisCo was designed for a low-oxygen atmosphere and became increasingly dysfunctional as plants themselves filled the air with oxygen.
 - `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
+- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
+- `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
 - `INS-260403-3F05` RuBisCo shows how early design choices become permanent constraints that systems compensate around rather than replace.
 - `INS-260330-B7B1` Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.

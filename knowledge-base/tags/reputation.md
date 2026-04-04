@@ -9,13 +9,13 @@
 - `INS-260330-E77D` Myths propagate most effectively when the source simply stays silent and lets others fill in the narrative.
 - `INS-260323-3614` Pakman deleted a controversial tweet under threat pressure, which he deeply regrets — the attacks escalated anyway, and deleting removed his ability to show context when support arrived.
 - `INS-260329-409F` You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.
-- `INS-260322-D6B8` As you age, competing on individual technical skill puts you against younger rivals; building influence and reputation shifts your career to inbound opportunities that come to you.
-- `INS-260329-388E` Goodwill functions like a financial asset that compounds over time and generates measurable returns.
-- `INS-260329-9E6C` Goodwill from overdelivering compounds into referrals, retention, and pricing power that outpaces short-term extraction.
 - `INS-260329-B77F` Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
 - `INS-260330-3274` Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
+- `INS-260322-D6B8` As you age, competing on individual technical skill puts you against younger rivals; building influence and reputation shifts your career to inbound opportunities that come to you.
+- `INS-260329-388E` Goodwill functions like a financial asset that compounds over time and generates measurable returns.
 - `INS-260323-F282` Today almost no one associates Nobel with dynamite -- his prize program so thoroughly overwrote his legacy that 'Nobel' means scientific achievement, not weapons.
 - `INS-260321-FB3F` Every time a public figure gets destroyed, it's because of something too short to contain context — say everything you think, but say it on a podcast or in an essay.
+- `INS-260329-9E6C` Goodwill from overdelivering compounds into referrals, retention, and pricing power that outpaces short-term extraction.
 - `INS-260403-22DF` The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260403-1904` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260330-AA25` Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.

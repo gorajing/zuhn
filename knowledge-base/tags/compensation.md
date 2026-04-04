@@ -2,10 +2,10 @@
 
 - `INS-260330-ACDA` Salary sharing in tech primarily serves status positioning, not transparency.
 - `INS-260330-B306` Developer satisfaction with pay is driven by peer comparison ($50K→$225K→$900K→$25M chain), not absolute income levels.
+- `INS-260403-E2D9` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive, making the wage premium a profit driver rather than a cost.
 - `INS-260330-75E2` When founders don't pay themselves, fired co-founders use unpaid wage claims as leverage to negotiate accelerated vesting they aren't entitled to.
 - `INS-260330-3B0A` Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve.
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
-- `INS-260403-E2D9` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive, making the wage premium a profit driver rather than a cost.
 - `INS-260330-CEAE` Plants produce 40 billion tons of RuBisCo to compensate for its ~50% failure rate rather than evolving a replacement.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260403-85DE` An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
@@ -21,6 +21,7 @@
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260403-5CB5` Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
 - `INS-260403-C125` Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
+- `INS-260403-365D` Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
 - `INS-260403-8A80` Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-3062` Costco pays double the retail average ($21/hr vs ~$10.50) yet gets 3x more productive employees, making the higher wage a net-positive investment rather than an expense.
 - `INS-260403-16B4` Performance-based pay in startups and professional services forces legacy organizations to match market rates or lose their best young talent.

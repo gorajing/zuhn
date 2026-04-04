@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3620 actionable insights
+Generated on 2026-04-04 | 3626 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1465,6 +1465,7 @@ Generated on 2026-04-04 | 3620 actionable insights
 - [INS-260403-79E0] The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - [INS-260403-0218] Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 - [INS-260403-EB56] Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
+- [INS-260403-07C3] Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1626,6 +1627,7 @@ Generated on 2026-04-04 | 3620 actionable insights
 - [INS-260403-7292] Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
 - [INS-260403-2081] Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.
 - [INS-260403-2F86] Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
+- [INS-260403-05DF] Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1930,6 +1932,7 @@ Generated on 2026-04-04 | 3620 actionable insights
 - [INS-260403-F7DD] Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - [INS-260403-7FBE] A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - [INS-260403-C5D8] If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
+- [INS-260403-BDBE] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2738,6 +2741,8 @@ Generated on 2026-04-04 | 3620 actionable insights
 - [INS-260403-DAB4] Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - [INS-260403-507E] Describe your startup as a specific, graspable thing rather than abstracting it into meaningless generality.
 - [INS-260403-FC45] Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
+- [INS-260403-13ED] Early business models are usually wrong, so pitching them wastes time and can make you look naive — talk about what you've built instead.
+- [INS-260403-39B0] Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3790,6 +3795,7 @@ Generated on 2026-04-04 | 3620 actionable insights
 - [INS-260403-EA2D] Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 - [INS-260403-7333] Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - [INS-260403-88AF] Prioritize testing the hypothesis whose failure would make your entire business model collapse, regardless of how easy other hypotheses are to test.
+- [INS-260403-C2CF] Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.
