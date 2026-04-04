@@ -48,7 +48,6 @@ related:
   - INS-260323-C8AC
   - INS-260321-347D
   - INS-260327-CC05
-  - INS-260327-7D0B
   - INS-260327-4C5E
 stance: 'After the dot-com crash, VCs stopped rushing to IPO'
 evidence:

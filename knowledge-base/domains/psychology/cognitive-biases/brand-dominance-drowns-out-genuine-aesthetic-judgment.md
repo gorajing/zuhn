@@ -49,10 +49,11 @@ stance: >-
   quality measure fame, not quality.
 related:
   - INS-260325-EC7A
-  - INS-260329-277B
   - INS-260330-FE21
   - INS-260403-8391
   - INS-260330-548E
+  - INS-260329-277B
+  - INS-260403-74CD
   - INS-260403-B505
   - INS-260403-A5FF
   - INS-260403-7093

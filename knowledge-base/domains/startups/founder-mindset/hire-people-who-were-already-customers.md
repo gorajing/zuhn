@@ -19,10 +19,10 @@ sources:
     url: 'https://youtu.be/CxFQykWiJqY'
 related:
   - INS-260329-C36D
+  - INS-260403-FED6
   - INS-260329-3392
   - INS-260327-52C1
   - INS-260327-89C7
-  - INS-260329-A80B
   - INS-260324-40AA
   - INS-260330-A14D
 date_extracted: '2026-03-20'

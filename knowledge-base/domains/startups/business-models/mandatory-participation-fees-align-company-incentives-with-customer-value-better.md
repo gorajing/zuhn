@@ -53,13 +53,13 @@ related:
   - INS-260325-206C
   - INS-260323-7F22
   - INS-260322-B450
-  - INS-260327-2B62
   - INS-260327-7435
   - INS-260327-1576
   - INS-260327-7681
   - INS-260327-624F
   - INS-260327-B6D6
   - INS-260327-7BE4
+  - INS-260330-F9CA
 ---
 Costco derives 75% of its revenue from membership fees, which fundamentally reshapes its priorities. Every pricing decision is evaluated against whether it might cost a $60-$120 renewal next year, making short-term margin extraction irrational. This contrasts with Amazon Prime, where the optional subscription creates loyalty but doesn't restructure the underlying business model — Amazon still profits primarily from transactions.
 

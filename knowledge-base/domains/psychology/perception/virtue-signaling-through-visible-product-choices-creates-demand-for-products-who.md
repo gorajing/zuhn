@@ -42,10 +42,10 @@ stance: >-
 related:
   - INS-260327-C13D
   - INS-260327-57A4
+  - INS-260403-0435
   - INS-260324-A046
   - INS-260327-4C26
   - INS-260327-86FE
-  - INS-260327-A620
 evidence:
   - id: INS-260327-4C26
     type: TRANSFERS_TO

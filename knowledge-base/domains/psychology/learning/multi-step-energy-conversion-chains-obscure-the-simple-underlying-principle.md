@@ -51,7 +51,7 @@ related:
   - INS-260403-6F40
   - INS-260330-F2B6
   - INS-260330-6E5F
-  - INS-260330-8A2E
+  - INS-260403-E374
 ---
 Photosynthesis appears overwhelmingly complex: Photosystem II, cytochrome complex, Photosystem I, ATP synthase, NADPH production — each with dozens of molecules and sub-reactions. But the entire light-dependent stage reduces to a single repeating mechanism: absorb photon energy → excite electron → use that energy to move protons across a membrane → let the gradient drive useful work.
 

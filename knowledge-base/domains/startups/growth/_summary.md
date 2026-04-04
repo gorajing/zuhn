@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 61 insights
+> 63 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -19,6 +19,7 @@
 - `INS-260402-7FF5` [high] Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260330-A949` [high] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - `INS-260403-5648` [high] The Calvin Cycle produces 6 G3P molecules but must feed 5 back to regenerate the cycle — only 1/6 of output is 'profit,' the rest is reinvestment.
+- `INS-260403-2CA2` [high] The Calvin Cycle produces 6 G3P molecules but must feed 5 back to keep running, yielding only 1 as net output — a universal pattern in self-sustaining systems.
 - `INS-260403-1DE4` [high] Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260330-410A` [high] Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260403-EAC6` [high] Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
@@ -59,6 +60,7 @@
 - `INS-260403-D522` [medium] The most dynamic economic sector attracts the most ambitious people, causing it to expand fractally and set standards for the broader economy.
 - `INS-260403-D2A9` [medium] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 - `INS-260330-D711` [medium] The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
+- `INS-260403-0435` [medium] Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260403-1AD3` [medium] Startup ecosystems need a critical mass threshold before they become self-reinforcing through network effects.
 - `INS-260402-C49E` [medium] Graham quantifies from running a forum that users were about 3x more likely to upvote content that outraged them, suggesting outrage amplification is structural to engagement-sorted platforms.
 - `INS-260330-7D6D` [medium] Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.

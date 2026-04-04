@@ -53,7 +53,6 @@ stance: >-
   organizational and technological lock-in
 related:
   - INS-260330-53A9
-  - INS-260330-8C52
   - INS-260330-54ED
   - INS-260330-22C0
   - INS-260403-D482

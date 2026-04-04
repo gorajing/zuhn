@@ -4,6 +4,7 @@
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
+- `INS-260403-D984` Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 - `INS-260403-2FE1` A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260403-85F1` Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
@@ -12,6 +13,7 @@
 - `INS-260403-CC25` Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
+- `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
 - `INS-260403-E319` Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260403-FF86` Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
@@ -40,12 +42,14 @@
 - `INS-260403-D430` A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
+- `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-B274` Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
 - `INS-260403-F3FF` Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260403-86DB` Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
 - `INS-260403-8013` As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.
+- `INS-260403-30D8` Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - `INS-260403-3837` Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.

@@ -46,7 +46,6 @@ related:
   - INS-260324-A046
   - INS-260330-D006
   - INS-260327-5D71
-  - INS-260327-45BD
   - INS-260330-3257
 evidence:
   - id: INS-260330-D006

@@ -7,6 +7,7 @@
 - `INS-260403-1C25` Mandatory fees force companies to optimize for long-term customer satisfaction since raising prices risks losing the entire membership revenue stream.
 - `INS-260403-5C88` When membership fees are the primary revenue source, the company's incentive naturally aligns with keeping prices low to drive renewals.
 - `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
+- `INS-260403-0650` When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - `INS-260325-1585` Subscriptions shifted from delivering value to exploiting inertia — most extract more from convenience-addiction than they provide in service.

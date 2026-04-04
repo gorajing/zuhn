@@ -53,12 +53,12 @@ related:
   - INS-260323-35D4
   - INS-260327-5B30
   - INS-260327-4212
-  - INS-260328-D2EC
   - INS-260330-DF2C
   - INS-260330-3899
   - INS-260403-E319
   - INS-260403-0701
   - INS-260403-BEAC
+  - INS-260403-E393
 ---
 A VC who spoke at YC described investing in experienced repeat founders whose business model he expected to change three times before they got it right — and he invested anyway. The business model at seed stage is a collection of guesses about areas where founders typically lack expertise. Dwelling on it displaces discussion of what you actually know: the problem space and what you've built.
 

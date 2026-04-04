@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 231 insights
+> 232 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -24,6 +24,7 @@
 - `INS-260330-DF2C` [high] Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260330-E8BD` [high] Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260403-050D` [high] Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
+- `INS-260403-E374` [high] ATP synthase harvests energy from proton concentration gradients — a pattern that generalizes to knowledge, markets, and motivation.
 - `INS-260330-3879` [high] The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.
 - `INS-260330-91EA` [high] Huygens discovered that his pendulum clocks synchronized not because of their internal mechanisms but because they shared a wooden beam that transmitted mechanical vibrations between them.
 - `INS-260330-7CFB` [high] Good explanations are defined by being criticizable and hard to vary, with scientific testability being one form of criticizability rather than the fundamental criterion.

@@ -52,7 +52,6 @@ stance: >-
   complexity dramatically reduces cognitive load and dropout rates.
 related:
   - INS-260320-76D2
-  - INS-260327-F867
   - INS-260329-70D5
   - INS-260329-979B
   - INS-260329-9CED

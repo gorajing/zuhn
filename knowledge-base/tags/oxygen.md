@@ -7,6 +7,7 @@
 - `INS-260330-57E6` PSII splits water to replace stolen electrons, producing oxygen as literal waste — yet this byproduct enabled the entire aerobic biosphere.
 - `INS-260330-C7C2` Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
 - `INS-260403-B4F1` All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
+- `INS-260403-EFE6` Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
 - `INS-260330-13A1` Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
 - `INS-260330-9231` Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth.
 - `INS-260330-656A` Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.

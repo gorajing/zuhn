@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 171 insights
+> 174 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -16,6 +16,7 @@
 - `INS-260403-7F91` [high] VCs invest too much at series A because board seats are expensive, not because startups need the capital.
 - `INS-260330-0AA7` [high] Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260330-B6FA` [high] Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
+- `INS-260403-054F` [high] Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
 - `INS-260403-E319` [high] Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` [high] Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260403-FF86` [high] Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
@@ -95,6 +96,7 @@
 - `INS-260403-6712` [high] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
+- `INS-260403-91F9` [high] Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` [high] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-B274` [high] Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
@@ -105,6 +107,7 @@
 - `INS-260403-8448` [high] Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
 - `INS-260403-5B89` [high] Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
 - `INS-260403-77B4` [high] PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
+- `INS-260403-30D8` [high] Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - `INS-260403-17A3` [high] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
 - `INS-260403-3837` [high] Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.

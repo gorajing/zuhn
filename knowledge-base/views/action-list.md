@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3454 actionable insights
+Generated on 2026-04-04 | 3460 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1583,6 +1583,7 @@ Generated on 2026-04-04 | 3454 actionable insights
 - [INS-260403-B3CA] Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
 - [INS-260403-1E82] Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
 - [INS-260403-61B0] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
+- [INS-260403-74CD] Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1871,6 +1872,7 @@ Generated on 2026-04-04 | 3454 actionable insights
 - [INS-260403-2FE1] A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
 - [INS-260403-85F1] Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - [INS-260403-ED1E] Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
+- [INS-260403-D984] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2622,6 +2624,9 @@ Generated on 2026-04-04 | 3454 actionable insights
 - [INS-260403-7964] Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
 - [INS-260403-3837] Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 - [INS-260403-D972] Never take a corp dev meeting unless you've already decided to sell right now.
+- [INS-260403-054F] Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
+- [INS-260403-91F9] Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
+- [INS-260403-30D8] Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2664,6 +2669,7 @@ Generated on 2026-04-04 | 3454 actionable insights
 - [INS-260403-C161] Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
 - [INS-260403-D2A9] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 - [INS-260403-1DE4] Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
+- [INS-260403-0435] Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.

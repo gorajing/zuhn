@@ -49,7 +49,6 @@ stance: >-
   solving than your business model, because they expect the business model to
   change multiple times before you get it right.
 related:
-  - INS-260403-6F52
   - INS-260403-C625
   - INS-260403-8346
   - INS-260403-1852

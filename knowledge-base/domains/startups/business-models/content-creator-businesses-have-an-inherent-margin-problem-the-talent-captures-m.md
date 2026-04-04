@@ -55,7 +55,6 @@ stance: >-
   extract the majority of revenue.
 related:
   - INS-260323-F753
-  - INS-260323-FEAB
   - INS-260322-B450
   - INS-260324-2AD8
   - INS-260324-861B
@@ -63,7 +62,8 @@ related:
   - INS-260327-9DA6
   - INS-260330-0998
   - INS-260330-F9CA
-  - INS-260403-1C25
+  - INS-260403-0650
+  - INS-260327-E07A
 evidence:
   - id: INS-260323-F753
     type: SUPPORTS

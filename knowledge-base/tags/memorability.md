@@ -3,6 +3,7 @@
 - `INS-260403-F171` Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260403-941F` Create a single sticky phrase like 'the X of Y' that anchors you in evaluators' minds — if you can't compress your startup into one phrase, your plans aren't focused enough.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
+- `INS-260403-D984` Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 - `INS-260403-2FE1` A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260403-85F1` Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.

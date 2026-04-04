@@ -34,8 +34,8 @@
 - `INS-260403-D8C1` Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
 - `INS-260330-4F7B` Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
-- `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
 - `INS-260330-75A3` Facebook built a community translation platform covering 104 languages instead of just translating the top 4, which prepared them for explosive growth in markets like Hindi that didn't matter at launch.
+- `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
 - `INS-260330-3E3C` Glial cells outnumber neurons 10:1 and make up half the brain's mass, proving that support infrastructure is the majority of any high-performing system.
 - `INS-260403-15DD` When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 - `INS-260403-3615` Infrastructure consolidation reliably creates the conditions for an application-layer startup boom, as cheap reliable infrastructure enables new use cases.

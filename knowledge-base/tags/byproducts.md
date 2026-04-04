@@ -6,6 +6,7 @@
 - `INS-260403-C0D4` Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260403-5C74` Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
 - `INS-260403-882A` Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
+- `INS-260403-EFE6` Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
 - `INS-260403-31AF` Oxygen — the gas that enabled all animal life — was originally just a waste product of early photosynthesis.
 - `INS-260330-0CFF` Oxygen was a 'useless byproduct' of photosynthesis that accidentally enabled all animal life — the most consequential output was the one nobody designed for.
 - `INS-260330-41F6` Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value.

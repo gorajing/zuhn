@@ -4,6 +4,7 @@
 - `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260327-470B` Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-616B` Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
+- `INS-260403-0650` When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - `INS-260324-DB86` Shrinkflation generates 3-5% revenue growth for years even as volumes decline, but there's a ceiling — Kraft Heinz hit it in 2019 with a $15B loss when customers stopped buying entirely.

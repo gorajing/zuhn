@@ -47,8 +47,8 @@ related:
   - INS-260325-CB41
   - INS-260329-CA4F
   - INS-260329-A90C
+  - INS-260403-9B3A
   - INS-260330-12D5
-  - INS-260403-CF23
 ---
 Charlie Munger's inversion principle — 'tell me where I'm going to die so I'll never go there' — works because human brains are wired to respond more strongly to threats than opportunities. When you frame wealth-building as 'avoid these 28 poverty behaviors' rather than 'do these 28 rich behaviors,' the threat-detection system activates and compliance increases.
 

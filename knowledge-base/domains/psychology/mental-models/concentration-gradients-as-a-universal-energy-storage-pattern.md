@@ -49,7 +49,6 @@ stance: >-
   The principle of storing energy by creating imbalances across barriers appears
   identically in biological membranes, batteries, and economic systems.
 related:
-  - INS-260330-6E5F
   - INS-260330-972B
   - INS-260330-49E9
   - INS-260330-7E39
@@ -57,8 +56,9 @@ related:
   - INS-260330-C729
   - INS-260330-1677
   - INS-260330-F2B6
-  - INS-260330-3C3C
   - INS-260403-861A
+  - INS-260403-F249
+  - INS-260403-E374
 evidence:
   - id: INS-260330-7E39
     type: EXTENDS

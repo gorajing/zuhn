@@ -2,14 +2,15 @@
 
 - `INS-260403-99CE` Oxygen — the gas that enabled all animal life — is literally a waste product of photosynthesis's water-splitting reaction.
 - `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
-- `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
+- `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260330-E786` Oxygen was a toxic waste byproduct of early photosynthesis that became the foundation of all animal life — the 'most useful useless byproduct in history.'
 - `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260403-D85D` Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all complex animal life — side effects of a process can eclipse the intended output in value.
 - `INS-260330-19E1` Midgley rejected ethanol (safe, effective, but low-margin) in favor of tetraethyl lead (cheap, high-margin, known toxic) — a decision that generated ~$3B in profits but caused an estimated 100 million deaths globally.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
 - `INS-260403-882A` Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
+- `INS-260403-EFE6` Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
 - `INS-260330-3CD9` Critical decisions must be evaluated through every employee's eyes, not just the people directly involved.
 - `INS-260330-5B0C` Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.
 - `INS-260330-725C` Critical decisions must be evaluated through the eyes of every employee, not just the people in the conversation.

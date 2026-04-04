@@ -1,12 +1,13 @@
 # Topic: strategy
 
-> 177 insights
+> 180 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260403-76E9` [high] Google's secret was positioning where the web naturally wanted to go rather than trying to force the web to go somewhere else.
 - `INS-260323-9BC8` [high] Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.
+- `INS-260403-747B` [high] Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260403-C40D` [high] Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
 - `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
@@ -86,6 +87,7 @@
 - `INS-260330-026F` [high] Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
 - `INS-260330-4983` [high] RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
 - `INS-260403-335F` [high] RuBisCo shows how a 'good enough' early bet can permanently lock a system into managing costly workarounds rather than redesigning.
+- `INS-260403-9B3A` [high] RuBisCo's evolutionary story shows how early strategic commitments become permanent even when they stop working well.
 - `INS-260329-CB6D` [high] The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
 - `INS-260324-224B` [high] Axon was a struggling single-product startup for a decade — then police accountability protests created massive bodycam demand, and the company snowballed tailwinds into a market-defining position.
 - `INS-260330-0027` [high] PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
@@ -101,6 +103,7 @@
 - `INS-260403-22E9` [high] Cruise ships register under flags of convenience like Panama or Liberia to exploit favorable labor laws, saving millions in wages and enabling a global low-cost workforce.
 - `INS-260403-8C20` [high] When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
+- `INS-260403-FED6` [high] The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260403-92CC` [high] Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.
 - `INS-260330-C7CB` [high] The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260330-EB48` [high] RuBisCo is a terrible enzyme that plants can't replace because all of biology is built on it — a pattern that recurs in technology and business strategy.

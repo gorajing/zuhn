@@ -59,6 +59,7 @@ related:
   - INS-260330-E068
   - INS-260402-2074
   - INS-260403-5648
+  - INS-260403-2CA2
 ---
 In the Calvin Cycle, three rounds of carbon fixation produce six G3P molecules, but five of those six are immediately consumed to regenerate the three RuBP molecules needed to restart the cycle. Only one G3P—roughly 17% of gross output—becomes available product.
 

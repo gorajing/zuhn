@@ -43,9 +43,9 @@ stance: >-
   behavior.
 related:
   - INS-260323-40AA
+  - INS-260403-0435
   - INS-260403-0041
   - INS-260327-C6DC
   - INS-260327-5688
-  - INS-260402-8C0E
 ---
 Graham describes a cascade effect in consumer behavior: sophisticated buyers genuinely care about design quality and choose accordingly (doctors switching from Cadillac to Lexus). Aspirational buyers then imitate those choices, not because they independently evaluated design, but because they want to signal membership in a higher social tier. This means focus groups capture the stated preference (the flashy feature) but miss the revealed preference (imitation of tastemakers). Companies that bet on genuine design quality capture the tastemaker tier first, then benefit from the aspiration cascade. This has implications beyond cars — any market with visible consumption follows this pattern.

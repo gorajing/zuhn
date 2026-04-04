@@ -47,7 +47,6 @@ stance: >-
   than a pleasure reward, which means moderate risk is a tool for cognitive
   performance, not just thrill-seeking.
 related:
-  - INS-260329-8067
   - INS-260330-0ED2
   - INS-260330-FCFA
   - INS-260402-FEA3

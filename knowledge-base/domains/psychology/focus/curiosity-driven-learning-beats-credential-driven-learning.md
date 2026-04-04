@@ -47,7 +47,6 @@ stance: >-
   when AI automates routine cognitive work.
 related:
   - INS-260323-C984
-  - INS-260325-CB41
   - INS-260323-3C7B
   - INS-260323-810D
   - PRI-260321-7307

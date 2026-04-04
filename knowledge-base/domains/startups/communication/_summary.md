@@ -1,8 +1,9 @@
 # Topic: communication
 
-> 13 insights
+> 14 insights
 
 - `INS-260403-D375` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
+- `INS-260403-D984` [high] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 - `INS-260403-2A1D` [high] Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260403-ED1E` [high] Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 - `INS-260403-FE37` [high] A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.

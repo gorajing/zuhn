@@ -51,7 +51,6 @@ stance: >-
   of their key structural advantages.
 related:
   - INS-260325-3B2A
-  - INS-260327-27DA
   - INS-260403-D198
   - INS-260326-967C
   - PRI-260328-59DC

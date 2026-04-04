@@ -49,11 +49,11 @@ stance: >-
   to bet on you is more valuable than broad market validation in the early
   stages of a deep-tech startup.
 related:
+  - INS-260403-FED6
   - INS-260327-C083
   - INS-260328-9415
   - INS-260330-DFC8
   - PRI-260325-E2D3
-  - INS-260324-72E8
 evidence:
   - id: INS-260324-72E8
     type: CHALLENGES

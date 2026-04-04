@@ -20,6 +20,7 @@
 - `INS-260330-026F` Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
 - `INS-260330-4983` RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
 - `INS-260403-335F` RuBisCo shows how a 'good enough' early bet can permanently lock a system into managing costly workarounds rather than redesigning.
+- `INS-260403-9B3A` RuBisCo's evolutionary story shows how early strategic commitments become permanent even when they stop working well.
 - `INS-260330-EB48` RuBisCo is a terrible enzyme that plants can't replace because all of biology is built on it — a pattern that recurs in technology and business strategy.
 - `INS-260403-3946` RuBisCo is a terrible enzyme that won because it arrived first and scaled before alternatives could emerge.
 - `INS-260330-0B8D` RuBisCo is a bad enzyme that became irreplaceable because plants scaled around it before its environment changed.

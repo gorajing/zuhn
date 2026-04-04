@@ -54,12 +54,11 @@ stance: >-
   energy storage and work extraction across biological, economic, and
   information systems
 related:
-  - INS-260330-40EC
   - INS-260330-B38B
   - INS-260330-24BA
   - INS-260403-0429
+  - INS-260403-E374
   - INS-260403-050D
-  - INS-260330-7FF3
   - PRI-260403-6E50
   - INS-260403-8125
 evidence:

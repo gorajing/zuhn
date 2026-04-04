@@ -43,11 +43,11 @@ stance: >-
   made waste time and delay execution without gaining useful information.
 related:
   - INS-260325-58F5
-  - INS-260328-80E7
   - INS-260328-12EE
+  - INS-260328-80E7
+  - INS-260403-054F
   - INS-260402-0F36
   - INS-260322-A208
-  - INS-260323-846D
 evidence:
   - id: INS-260322-A208
     type: TRANSFERS_TO

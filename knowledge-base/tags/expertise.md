@@ -19,6 +19,7 @@
 - `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
+- `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
 - `INS-260330-AE22` A practitioner who teaches from the ground up transfers more usable knowledge than an expert who skips foundations.
@@ -27,7 +28,6 @@
 - `INS-260330-F7B2` High-floor interfaces like Vim reward invested learning time with speed gains that low-floor tools cannot match.
 - `INS-260330-9484` Byron Ferguson spine-tests every arrow to ensure consistent flex behavior before shooting, separating equipment variance from skill variance.
 - `INS-260330-CC7D` You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
-- `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260323-089E` The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
 - `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
 - `INS-260330-B68F` JJ, an indigenous guide, can draw 19 conclusions from a single set of animal tracks that a trained Western naturalist sees as just impressions in sand.

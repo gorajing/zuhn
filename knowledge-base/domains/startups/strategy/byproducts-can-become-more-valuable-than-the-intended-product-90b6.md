@@ -47,13 +47,11 @@ stance: >-
   rather than the designed primary output.
 related:
   - INS-260323-0AF3
-  - INS-260330-6AB7
-  - INS-260330-13A1
   - INS-260403-726B
   - INS-260403-5C74
   - INS-260403-99CE
+  - INS-260403-EFE6
   - INS-260330-41F6
-  - INS-260403-31AF
 evidence:
   - id: INS-260330-6AB7
     type: TRANSFERS_TO

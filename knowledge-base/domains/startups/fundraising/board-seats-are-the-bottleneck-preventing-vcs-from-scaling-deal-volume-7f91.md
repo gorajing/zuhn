@@ -44,7 +44,6 @@ stance: >-
   company need, creating a structural misalignment that the first firm to break
   will capture disproportionate deal flow.
 related:
-  - INS-260327-176D
   - INS-260402-8424
   - INS-260403-CF7C
   - INS-260403-498A

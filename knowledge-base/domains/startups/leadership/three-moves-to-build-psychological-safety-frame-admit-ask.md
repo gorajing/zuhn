@@ -56,7 +56,6 @@ related:
   - INS-260327-A817
   - INS-260403-FFF0
   - INS-260327-6FFC
-  - INS-260328-0B42
 evidence:
   - id: INS-260320-26B1
     type: TRANSFERS_TO
