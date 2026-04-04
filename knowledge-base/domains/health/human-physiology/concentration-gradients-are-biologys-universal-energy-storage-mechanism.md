@@ -52,15 +52,14 @@ stance: >-
   membranes rather than through direct chemical bonds, making gradient
   management the fundamental bioenergetic skill
 related:
-  - INS-260330-972B
   - INS-260330-9FAA
   - INS-260330-666E
   - INS-260330-7FF3
   - INS-260330-1677
   - INS-260404-6876
   - INS-260403-37C4
+  - INS-260404-AC2C
   - INS-260330-F2B6
-  - INS-260403-099C
   - INS-260404-D39D
 evidence:
   - id: INS-260330-9FAA

@@ -17,4 +17,5 @@
 - `INS-260403-5C88` When membership fees are the primary revenue source, the company's incentive naturally aligns with keeping prices low to drive renewals.
 - `INS-260404-37B5` When membership fees are the primary revenue source, the company's profit motive and customer value become structurally aligned.
 - `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
+- `INS-260404-C4B9` Making membership the profit center forces the company to optimize for customer value rather than margin extraction.
 - `INS-260404-0298` Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.

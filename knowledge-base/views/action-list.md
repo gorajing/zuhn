@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3846 actionable insights
+Generated on 2026-04-04 | 3851 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1689,6 +1689,7 @@ Generated on 2026-04-04 | 3846 actionable insights
 - [INS-260404-9C25] Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 - [INS-260404-DD77] Never tell an audience you're passionate—show it through specificity and demeanor, because explicit confidence claims trigger bullshit detectors.
 - [INS-260404-B31C] Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
+- [INS-260404-CFD5] Never explicitly claim passion or quality — show confidence implicitly through behavior, because audiences write off self-promotion as bullshit.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2906,6 +2907,9 @@ Generated on 2026-04-04 | 3846 actionable insights
 - [INS-260404-AFE6] When investors lack time and technical background to evaluate your product, your own confidence becomes the single biggest piece of evidence they use.
 - [INS-260404-40D1] Smart early-stage investors expect your business model to be wrong — talking about it wastes time and risks being remembered for a bad model rather than a good product.
 - [INS-260404-C03F] As a startup description approaches 'could be anything,' its informational content approaches zero — narrow and gripping beats broad and forgettable.
+- [INS-260404-5483] Don't dwell on business models in early pitches — investors expect them to be wrong and you'll crowd out what actually matters: the problem and the product.
+- [INS-260404-683B] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless boilerplate.
+- [INS-260404-B887] Tell specific stories about real users and their problems to counter the investor's biggest fear: that you've built something based on untested theories about what the world needs.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3795,6 +3799,7 @@ Generated on 2026-04-04 | 3846 actionable insights
 - [INS-260403-857E] Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
 - [INS-260404-FF84] Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 - [INS-260404-BFD0] Effort spent looking productive doesn't just waste resources — it actively makes organizations less productive.
+- [INS-260404-9F51] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, yielding only 1 net G3P per cycle.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.

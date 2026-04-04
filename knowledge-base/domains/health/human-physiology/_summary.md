@@ -1,6 +1,6 @@
 # Topic: human-physiology
 
-> 34 insights
+> 35 insights
 
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-B061` [high] PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth.
@@ -11,6 +11,7 @@
 - `INS-260330-8538` [high] Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260404-EE01` [high] Stress is not the silent killer — lack of recovery from stress is.
 - `INS-260330-81E0` [high] Biological function is a direct consequence of physical form at every organizational level.
+- `INS-260404-AC2C` [high] Cells store usable energy by pumping protons across thylakoid membranes to create concentration gradients that drive ATP synthase like water drives a turbine.
 - `INS-260330-BC3E` [high] Biology uses concentration gradients across membranes as universal batteries — the same mechanism powers photosynthesis, cellular respiration, nerve impulses, and kidney filtration.
 - `INS-260330-8C6A` [high] Thylakoids charge like batteries by pumping protons across membranes, then discharge through ATP synthase — the same gradient-to-currency pattern powers mitochondria, neurons, and kidneys.
 - `INS-260330-7E39` [high] The thylakoid membrane works like a battery — protons are pumped in to create a concentration gradient, then ATP synthase harvests the gradient as they flow back out.

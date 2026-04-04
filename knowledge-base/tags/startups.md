@@ -3,8 +3,8 @@
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
 - `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
-- `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
+- `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260402-27A1` A failed startup teaches more founder skills in one year than several years at a big company.
 - `INS-260321-4E98` Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.
 - `INS-260403-DEF6` PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.

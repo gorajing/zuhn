@@ -53,11 +53,11 @@ related:
   - INS-260330-0BCC
   - INS-260330-F82A
   - INS-260330-47CF
-  - INS-260403-A907
   - INS-260403-C514
   - INS-260403-2DC4
   - INS-260404-AE3C
   - INS-260403-9442
+  - INS-260330-8BF6
 ---
 Rather than evolving a more accurate carbon-fixing enzyme, plants developed an entire secondary metabolic pathway to detoxify RuBisCo's mistakes (converting phosphoglycolate into glycine and useful Calvin cycle intermediates). This is the biological equivalent of building an elaborate error-handling system around a buggy core library.
 

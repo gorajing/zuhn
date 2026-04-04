@@ -53,6 +53,7 @@
 - `INS-260403-481F` Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
 - `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
+- `INS-260404-5483` Don't dwell on business models in early pitches — investors expect them to be wrong and you'll crowd out what actually matters: the problem and the product.
 - `INS-260403-270E` Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-88E8` Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - `INS-260403-1852` Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
@@ -83,6 +84,7 @@
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260404-3161` Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - `INS-260403-37E2` Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
+- `INS-260404-683B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless boilerplate.
 - `INS-260403-7964` Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-9679` Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-B7B7` Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
@@ -135,6 +137,7 @@
 - `INS-260404-4024` Specific user stories and proxy-for-demand evidence resolve the biggest investor objection: that nobody actually wants what you've built.
 - `INS-260404-5248` Specific user stories — especially founder-as-user stories — are the strongest early signal of demand for investors evaluating pre-traction startups.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
+- `INS-260404-B887` Tell specific stories about real users and their problems to counter the investor's biggest fear: that you've built something based on untested theories about what the world needs.
 - `INS-260404-7609` Tell stories about specific users and their problems rather than citing market sizes — investors' biggest fear is that nobody actually wants your product.
 - `INS-260403-D7DF` Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.

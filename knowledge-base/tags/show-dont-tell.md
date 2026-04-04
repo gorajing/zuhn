@@ -6,6 +6,7 @@
 - `INS-260404-CDCB` Telling investors you're passionate makes them write you off as bullshitters; showing confidence through substance and demeanor is what actually persuades.
 - `INS-260404-4F69` Never say 'we're passionate' — people ignore or penalize explicit self-praise, but they're deeply influenced by implicit confidence signals.
 - `INS-260403-2081` Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.
+- `INS-260404-CFD5` Never explicitly claim passion or quality — show confidence implicitly through behavior, because audiences write off self-promotion as bullshit.
 - `INS-260403-1B2D` Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.
 - `INS-260403-B505` Never explicitly claim passion or greatness — audiences ignore or penalize it, but absorb the same message when conveyed implicitly through behavior and specifics.
 - `INS-260404-C1FF` Show confidence through behavior — never explicitly claim passion or quality, which triggers audiences to write you off.

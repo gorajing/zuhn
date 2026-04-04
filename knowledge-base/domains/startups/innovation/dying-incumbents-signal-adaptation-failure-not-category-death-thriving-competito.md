@@ -49,7 +49,6 @@ stance: >-
   When major players in an industry collapse, the cause is almost always their
   failure to adapt rather than the obsolescence of the entire category
 related:
-  - INS-260324-FF33
   - INS-260327-418E
   - INS-260327-0710
   - INS-260327-1B4A
@@ -59,6 +58,7 @@ related:
   - INS-260403-CF09
   - INS-260403-FED6
   - INS-260404-3070
+  - INS-260404-CD53
 ---
 The 'Retail Apocalypse' narrative attributed store closures to Amazon making physical retail obsolete. But the reality is more nuanced: Sears tried to do everything poorly, Toys-R-Us dismissed the internet, J.C. Penney alienated its customer base. Meanwhile, in the exact same market conditions, Costco, Ross, Aldi, Lush, and Dollar General were growing.
 

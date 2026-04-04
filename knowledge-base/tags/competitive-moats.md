@@ -19,6 +19,7 @@
 - `INS-260330-3FF4` RuBisCo evolved when CO2 was abundant and O2 scarce — when conditions changed, it became terrible, yet no alternative has displaced it in 450 million years because every plant depends on it.
 - `INS-260330-AFAD` Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
 - `INS-260330-519D` Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
+- `INS-260404-60F4` Photosynthesis was inefficient from the start but dominated because it created the oxygen-rich atmosphere that made alternatives even harder.
 - `INS-260330-BE78` Both debaters agree that conservative withdrawal from academia accelerated its leftward drift, illustrating how disengagement from institutions causes them to radicalize faster.
 - `INS-260330-ACCD` China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
 - `INS-260330-0294` Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.

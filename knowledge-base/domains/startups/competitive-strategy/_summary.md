@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 524 insights
+> 526 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -204,6 +204,7 @@
 - `INS-260327-2BAD` [high] Cannabis businesses cannot achieve the scale economies that other industries enjoy because state-by-state legalization c
 - `INS-260327-290C` [high] Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t
 - `INS-260402-7DCC` [high] 'Industry best practice' in technology shields managers from blame but guarantees mediocre results that bolder competitors will exploit.
+- `INS-260404-60F4` [high] Photosynthesis was inefficient from the start but dominated because it created the oxygen-rich atmosphere that made alternatives even harder.
 - `INS-260327-4F94` [high] Health services promoted through influencer sponsorships face disproportionate backlash when problems emerge because fol
 - `INS-260330-8D4F` [high] DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
 - `INS-260327-0B3B` [high] American cities built around cars resist public transit investment because the car-centric infrastructure creates consti
@@ -332,6 +333,7 @@
 - `INS-260404-1EA6` [high] Costco's 4,000 SKUs versus Walmart's 140,000 gives it outsized supplier leverage because brands compete fiercely for limited shelf slots.
 - `INS-260404-35BB` [high] Costco stocks only ~4,000 SKUs vs Walmart's 140,000, giving it enormous leverage because suppliers desperately want to be the one choice.
 - `INS-260404-37BB` [high] Offering fewer choices per category forces suppliers to compete for limited slots, driving prices down far more than bulk purchasing alone.
+- `INS-260404-3EA3` [high] Costco stocks only 4,000 items vs 140,000 at Walmart, turning extreme curation into extreme supplier leverage.
 - `INS-260404-57E3` [high] Costco's 4,000 SKUs vs Walmart's 140,000 creates extreme supplier competition for limited slots, driving prices down.
 - `INS-260404-7F16` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, giving it enormous leverage because suppliers compete fiercely for limited shelf space.
 - `INS-260403-36D8` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.

@@ -11,6 +11,7 @@
 - `INS-260403-74CD` Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
 - `INS-260404-F3C6` Never explicitly claim passion or quality — audiences dismiss it as bullshit and respond only to behavioral confidence signals.
 - `INS-260403-2081` Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.
+- `INS-260404-CFD5` Never explicitly claim passion or quality — show confidence implicitly through behavior, because audiences write off self-promotion as bullshit.
 - `INS-260403-48BF` Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
 - `INS-260404-C1FF` Show confidence through behavior — never explicitly claim passion or quality, which triggers audiences to write you off.
 - `INS-260403-A290` Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
@@ -37,6 +38,7 @@
 - `INS-260403-E393` Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260403-481F` Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
 - `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
+- `INS-260404-5483` Don't dwell on business models in early pitches — investors expect them to be wrong and you'll crowd out what actually matters: the problem and the product.
 - `INS-260403-270E` Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-1852` Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
 - `INS-260404-DA2E` Smart investors care about the problem and solution at early stage — your business model is just guesses about stuff outside your expertise.

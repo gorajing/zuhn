@@ -53,6 +53,7 @@ related:
   - INS-260404-37B5
   - INS-260404-E39D
   - INS-260403-0650
+  - INS-260404-C4B9
 ---
 Costco makes 75% of its money from membership fees, not product markups. This creates a structural incentive where the company must keep prices low and quality high to justify renewal — raising prices would gain pennies today but lose $60-120 next year per member. This is fundamentally different from Amazon Prime, where the subscription creates loyalty but doesn't change the underlying margin-based business model.
 

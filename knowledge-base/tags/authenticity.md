@@ -6,18 +6,18 @@
 - `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260403-7586` Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
-- `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
-- `INS-260403-5808` Earnestness isn't the opposite of one thing — it's the center that many different failure modes orbit.
 - `INS-260325-36EA` Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
+- `INS-260403-5808` Earnestness isn't the opposite of one thing — it's the center that many different failure modes orbit.
+- `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260327-8B1A` You can't know yourself in others' company because social settings automatically activate performance mode.
 - `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
+- `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
 - `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260327-7F6A` Thompson's gonzo journalism was both his greatest creative achievement and commercially unsustainable - the paradox every creative person faces between authenticity and viability.
 - `INS-260323-C2F1` After his father's death, McConaughey discovered that excessive reverence for dreams and people kept him from fully engaging — reducing reverence while maintaining respect enabled courage.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
-- `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260327-37C8` Thompson's self-destruction wasn't separate from his creativity - it was the cost of trying to maintain authenticity while the world demanded he become a product.
 - `INS-260327-8DFE` Giertz sharing her brain tumor journey publicly created deeper audience loyalty than any product launch, because genuine vulnerability builds trust that curated content cannot.
@@ -31,9 +31,9 @@
 - `INS-260327-0053` Building products doesn't require sacrificing normal life—authentic entrepreneurial spirit coexists with being a kid.
 - `INS-260329-EC98` Build for people like you — authentic understanding of customer pain produces better products and more resilient motivation than external market research.
 - `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
-- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260322-BD0D` You can't market a company without a character, but the character must be real and sustainable — manufactured personas always collapse over time.
 - `INS-260321-5598` Professional CEOs trained to say nothing on stage now lose to founder CEOs interesting enough to fill 3 hours on Joe Rogan — the 80-year reign of synthetic corporate communication is over.
+- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260403-DE45` Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.

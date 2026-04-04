@@ -53,5 +53,6 @@ related:
   - INS-260404-8466
   - INS-260404-35BB
   - INS-260404-1EA6
+  - INS-260404-3EA3
 ---
 By offering only one or two choices per product category instead of dozens, Costco creates a winner-take-all dynamic among suppliers. Brands will accept lower margins and even re-engineer their packaging to win exclusive placement in front of 94 million members. This is counterintuitive — conventional retail wisdom says more selection attracts more customers. But Costco's constraint turns into leverage: suppliers who want access to that concentrated demand must compete on price and quality. The 4,000-SKU limit also simplifies operations, reduces stocking costs, and eliminates the paradox of choice for shoppers. It's a case where doing less creates a compounding advantage across multiple dimensions simultaneously.

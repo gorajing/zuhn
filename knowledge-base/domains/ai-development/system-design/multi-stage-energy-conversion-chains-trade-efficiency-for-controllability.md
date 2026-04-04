@@ -54,11 +54,10 @@ related:
   - INS-260330-2C71
   - INS-260330-498B
   - INS-260403-6129
-  - INS-260403-AC7A
   - INS-260404-1B29
   - INS-260404-596E
   - INS-260404-9428
-  - INS-260404-040D
+  - INS-260403-AC7A
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, photon energy excites an electron, which then passes through four protein complexes (PSII, Cytochrome, PSI, ATP Synthase), losing energy at each step. Each step captures a small, usable amount of that energy — pumping protons, generating ATP, producing NADPH — before the Calvin Cycle finally synthesizes sugar.
 

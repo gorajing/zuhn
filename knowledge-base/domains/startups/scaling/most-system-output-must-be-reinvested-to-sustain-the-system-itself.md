@@ -50,10 +50,10 @@ stance: >-
   ratio is a feature, not a bug.
 related:
   - INS-260403-5648
+  - INS-260404-9F51
   - INS-260330-E068
   - INS-260404-F69A
   - INS-260330-8C52
-  - INS-260330-6AB7
 ---
 In the Calvin Cycle, 3 turns of the cycle fix 3 CO2 molecules and produce 6 G3P molecules, but 5 of those 6 must be recycled to regenerate the 3 RuBP molecules needed to restart. Only 1 G3P (roughly 17%) represents net output. This mirrors a fundamental pattern in scaling systems: the larger and more complex the operation, the higher the fraction of throughput consumed by maintenance.
 

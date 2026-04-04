@@ -54,7 +54,7 @@ related:
   - INS-260403-2918
   - INS-260330-1084
   - INS-260330-30FB
-  - INS-260404-F908
+  - INS-260404-AC2C
 ---
 The video makes photosynthesis comprehensible by framing the entire process as an energy narrative: photon excites electron → electron loses energy through transport chain → energy charges thylakoid battery → battery drives ATP synthase → ATP/NADPH power Calvin Cycle → carbon gets fixed into G3P. Each step is a clear energy transformation with a 'before' and 'after' state.
 

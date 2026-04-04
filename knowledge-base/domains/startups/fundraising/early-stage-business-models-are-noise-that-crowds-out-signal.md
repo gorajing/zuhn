@@ -54,13 +54,13 @@ related:
   - INS-260328-F752
   - INS-260403-EE10
   - INS-260403-FF86
-  - INS-260403-0267
   - INS-260403-E319
   - INS-260403-0701
   - INS-260403-1290
   - INS-260403-A172
   - INS-260403-C496
-  - INS-260403-270E
+  - INS-260403-C8B9
+  - INS-260403-088E
 ---
 Graham recounts a VC who invested in experienced founders despite their business model being 'crap' — because at this stage, that's expected. The model will probably change three times before they get it right. Mentioning you've thought about monetization shows maturity, but going deep into unit economics or revenue projections is counterproductive for two reasons: it's not what smart investors evaluate at this stage, and a spectacularly wrong model will push the things you want investors to remember out of their heads.
 

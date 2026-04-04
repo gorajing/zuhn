@@ -53,7 +53,6 @@ stance: >-
   differentials all function as exploitable gradients
 related:
   - INS-260403-099C
-  - INS-260403-791A
   - INS-260403-A0C5
   - INS-260330-49E9
   - INS-260330-2E41

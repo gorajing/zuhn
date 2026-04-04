@@ -34,6 +34,7 @@
 - `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-0650` When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
+- `INS-260404-C4B9` Making membership the profit center forces the company to optimize for customer value rather than margin extraction.
 - `INS-260404-60D6` Costco makes 75% of revenue from membership fees, which forces it to prioritize low prices and quality to drive renewals rather than extracting margin per transaction.
 - `INS-260404-0298` Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.

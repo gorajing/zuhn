@@ -3,6 +3,8 @@
 - `INS-260327-9F10` Creatine is the most evidence-based supplement for both physical and cognitive performance
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260327-236D` Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.
+- `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
+- `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260322-6042` Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
 - `INS-260330-7AE9` Expert meditators don't hold perfect focus — they recover from distraction faster, making each mind-wandering episode a training rep rather than a failure.
@@ -20,8 +22,6 @@
 - `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260322-E90F` Stare at a wall for 10-15 minutes when you can't focus — it acts as a mental bandwidth reset that reliably produces flow state afterward, with diminishing returns past 15 minutes.
 - `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
-- `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
-- `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
 - `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
 - `INS-260327-0833` Every hour spent on non-compounding activities is an hour your competitor is building.
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.

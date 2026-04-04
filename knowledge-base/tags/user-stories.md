@@ -7,6 +7,7 @@
 - `INS-260403-3837` Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 - `INS-260404-5D18` Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
 - `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
+- `INS-260404-B887` Tell specific stories about real users and their problems to counter the investor's biggest fear: that you've built something based on untested theories about what the world needs.
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260404-2FC0` Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
 - `INS-260404-9E71` Investors' biggest early-stage fear is that you built something nobody wants — specific user stories and proxy-for-demand signals neutralize this more than market data.

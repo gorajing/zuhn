@@ -1,5 +1,6 @@
 # Tag: demographic-filtering
 
+- `INS-260404-EC27` Costco's $60 fee and warehouse chaos seem like obstacles but actually select for affluent, high-spending customers averaging $100K household income.
 - `INS-260404-BBC5` Costco's $60 membership fee filters for affluent households averaging $100K income, turning an acquisition barrier into a demographic selection mechanism.
 - `INS-260403-B8CD` Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260404-E65A` Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.

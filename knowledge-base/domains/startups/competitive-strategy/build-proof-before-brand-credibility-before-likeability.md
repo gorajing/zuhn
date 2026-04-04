@@ -49,10 +49,10 @@ stance: >-
   create only copyable promises
 related:
   - INS-260327-D7AA
+  - INS-260404-CFD5
   - INS-260327-C083
   - INS-260323-D621
   - INS-260330-90C3
-  - INS-260403-A290
 evidence:
   - id: INS-260330-90C3
     type: CHALLENGES

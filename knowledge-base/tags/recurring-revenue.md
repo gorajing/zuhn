@@ -29,6 +29,7 @@
 - `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-0650` When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
+- `INS-260404-C4B9` Making membership the profit center forces the company to optimize for customer value rather than margin extraction.
 - `INS-260404-0298` Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.

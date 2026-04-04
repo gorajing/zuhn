@@ -51,7 +51,6 @@ stance: >-
   anything' its information content approaches zero.
 related:
   - INS-260330-B5DF
-  - INS-260403-86DB
   - INS-260403-41FF
   - INS-260403-0973
   - INS-260403-74EA

@@ -19,8 +19,8 @@
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
 - `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
 - `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
+- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
 - `INS-260329-356A` A limit depends entirely on a function's behavior near a point, not at the point — a function can be undefined or have a completely different value at x=a and still have a perfectly well-defined limit there.
 - `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
-- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
 - `INS-260404-7C79` Halving revenue on a 5%-weekly growth curve only puts you 15 weeks behind, regardless of how long you run.

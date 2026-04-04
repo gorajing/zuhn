@@ -52,12 +52,12 @@ related:
   - INS-260330-B5DF
   - INS-260403-86DB
   - INS-260403-41FF
-  - INS-260403-047B
   - INS-260403-9680
   - INS-260403-0973
   - INS-260403-74EA
   - INS-260404-3161
   - INS-260404-CA98
+  - INS-260403-9AB3
 ---
 Founders resist narrow descriptions because their product could become so much more, but as you approach a description of 'anything,' the information content approaches zero. Investors will discard sentences like 'a system to collaboratively leverage information value' and wait impatiently for you to say what you actually built.
 

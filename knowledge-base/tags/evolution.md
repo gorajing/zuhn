@@ -9,33 +9,34 @@
 - `INS-260330-4B22` Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth.
 - `INS-260330-EEAE` Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation.
 - `INS-260323-1D46` Donald Hoffman's interface theory argues that organisms evolved to perceive fitness-relevant simplifications, not objective reality — truth is expensive, useful illusion is efficient.
-- `INS-260330-D304` RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
-- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
-- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
-- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
-- `INS-260404-AE3C` RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
-- `INS-260404-1D8F` RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
-- `INS-260404-B6E8` Plants produce massive quantities of a flawed enzyme rather than evolving a better one, mirroring how humans double down on suboptimal commitments.
-- `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
 - `INS-260330-E5DC` RuBisCo worked perfectly in low-oxygen atmospheres but its O2-confusion failure mode was invisible until plants changed their own environment — success can hide latent vulnerabilities.
 - `INS-260330-D5DD` Placebos may work because the brain evolved to maintain distress signals until help arrives — external authority cues grant 'permission' to switch from help-seeking to healing mode.
 - `INS-260330-4634` Dinosaurs dominated for 300 million years without developing intelligence, and without their extinction asteroid, mammals would still be rodents — proving intelligence is not evolution's inevitable destination.
 - `INS-260325-CB41` Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
 - `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
+- `INS-260330-D304` RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
+- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
+- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
+- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
+- `INS-260404-AE3C` RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
+- `INS-260404-D975` Once deeply committed to a strategy, systems cope with its flaws rather than replace it, because replacement cost exceeds inefficiency cost.
+- `INS-260404-1D8F` RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
+- `INS-260404-B6E8` Plants produce massive quantities of a flawed enzyme rather than evolving a better one, mirroring how humans double down on suboptimal commitments.
+- `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-0C95` Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
-- `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
+- `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
+- `INS-260325-FAC2` When our ancestors began walking on two legs 4.4 million years ago, females could no longer carry babies on their backs while foraging — this created the evolutionary pressure for pair bonding.
 - `INS-260330-12D5` Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
 - `INS-260325-75A3` Evolution works like a staircase: random mutations create the rise, natural selection creates the run, and cumulative steps produce complexity humans struggle to intuit.
 - `INS-260330-F056` Humans evolved uniquely white scleras to make gaze direction obvious — a cooperative trade-off that predators cannot afford.
 - `INS-260325-DFA5` If God chose evolution by natural selection as the mechanism to create humans, billions of years of animal predation, disease, and extinction were built into the design — this challenges God's goodness more than God's existence.
 - `INS-260325-2F1E` Evolution by natural selection — God's chosen mechanism for creating humans — required billions of years of animal suffering and extinction, which seems deeply unexpected from a loving, all-powerful creator.
 - `INS-260325-E7D4` A 3% advantage takes about 1,000 generations to spread — 25,000 years for humans but only 20,000 minutes for bacteria, showing change speed is about generations, not clock time.
-- `INS-260325-FAC2` When our ancestors began walking on two legs 4.4 million years ago, females could no longer carry babies on their backs while foraging — this created the evolutionary pressure for pair bonding.
 - `INS-260404-3608` When replacement cost exceeds compensation cost, scaling the workaround beats re-architecting — the same logic that keeps RuBisCo in every plant on Earth.
 - `INS-260404-4010` RuBisCo is terrible at its job but plants invested so heavily in it that 40 billion tons exist on Earth rather than evolving a replacement.
 - `INS-260330-4EC0` RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme.

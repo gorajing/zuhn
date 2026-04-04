@@ -54,7 +54,6 @@ related:
   - INS-260327-442D
   - INS-260321-3312
   - INS-260330-7882
-  - INS-260403-35E7
 evidence:
   - id: INS-260324-1275
     type: CHALLENGES

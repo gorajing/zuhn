@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 152 insights
+> 154 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -49,6 +49,7 @@
 - `INS-260329-3924` [high] You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260327-4CCE` [high] Both ElevenLabs and Lovable converged on approximately 50/50 splits between experienced operators and high-slope generalists on their leadership teams.
 - `INS-260403-3062` [high] Costco pays double the retail average ($21/hr vs ~$10.50) yet gets 3x more productive employees, making the higher wage a net-positive investment rather than an expense.
+- `INS-260404-9F51` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, yielding only 1 net G3P per cycle.
 - `INS-260327-91E7` [high] Scaling requires hiring domain experts and having genuine humility to learn from them.
 - `INS-260330-304C` [high] Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
 - `INS-260329-C92A` [high] When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
@@ -113,6 +114,7 @@
 - `INS-260403-E1EB` [high] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.
 - `INS-260403-857E` [medium] Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
+- `INS-260404-6A20` [medium] Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
 - `INS-260404-FF84` [medium] Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 - `INS-260403-43E5` [medium] Costco pays $21/hour (2x retail average) and gets 3x employee productivity, making generous wages a competitive advantage.
 - `INS-260404-1936` [medium] Costco's $21/hr average wage (2x retail average) produces employees 3x more productive than competitors.

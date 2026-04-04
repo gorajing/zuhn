@@ -4,6 +4,7 @@
 - `INS-260330-CC30` RuBisCo confuses O2 for CO2 up to 50% of the time, but plants compensate by producing ~40 billion tons of it rather than evolving a replacement.
 - `INS-260327-A654` U.S. Middle East involvement started with a single 1930s oil concession that created an oil-military-alliance feedback loop so embedded in policy doctrine that withdrawal became structurally impossible.
 - `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
+- `INS-260404-D975` Once deeply committed to a strategy, systems cope with its flaws rather than replace it, because replacement cost exceeds inefficiency cost.
 - `INS-260404-1D8F` RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260403-B5E2` RuBisCo was rational in a low-oxygen world — the trap emerged when oxygen levels rose after plants had fully committed to the enzyme.
 - `INS-260404-4010` RuBisCo is terrible at its job but plants invested so heavily in it that 40 billion tons exist on Earth rather than evolving a replacement.

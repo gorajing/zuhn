@@ -12,9 +12,9 @@
 - `INS-260329-FEF4` Computational thinking — decomposition, pattern recognition, abstraction, algorithms — is a general reasoning toolkit that transfers across all domains.
 - `INS-260329-04FA` CS50 teaches computational thinking as a universal problem-decomposition skill, not just a precursor to coding.
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
-- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
 - `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift.
+- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260403-34C0` Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end.
 - `INS-260329-D8C7` The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
 - `INS-260330-4FA3` Medieval educated people already knew Earth was spherical; the Columbus-proved-it-round story was invented in the 1800s by Washington Irving.
@@ -43,20 +43,20 @@
 - `INS-260403-8C20` The classic five-paragraph essay is secretly a list of 3 things, and disguising this prevents students from learning that real essays are vehicles for discovering new ideas.
 - `INS-260403-41BC` Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
+- `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
 - `INS-260329-E4BA` Pass/fail options remove the fear barrier that prevents capable people from attempting unfamiliar domains.
 - `INS-260323-A19F` The argument that a word is too powerful to study in academic contexts is self-defeating — powerful words demand more engagement, not less.
 - `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
-- `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
 - `INS-260325-1345` A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
 - `INS-260403-49E7` Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260329-31A2` freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
+- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
-- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260329-1D8D` Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
 - `INS-260403-805E` School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
 - `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.

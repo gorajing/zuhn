@@ -58,11 +58,11 @@ related:
   - INS-260403-DB16
   - INS-260403-1A5A
   - INS-260403-2CA2
+  - INS-260404-9F51
   - INS-260403-5648
   - INS-260404-F69A
   - INS-260330-E068
   - INS-260403-07D2
-  - INS-260330-8C52
 ---
 In the Calvin Cycle's third phase, 3 molecules of RuBP are converted into 6 molecules of G3P, but 5 of those 6 must be fed back into the cycle to regenerate the original 3 RuBP molecules. Only one G3P — roughly 17% of total output — leaves as net production. This isn't inefficiency; it's the mathematical requirement for sustainability.
 

@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 90 insights
+> 91 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -43,6 +43,7 @@
 - `INS-260330-09DE` [high] Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260330-C172` [high] Knowledge is best validated like a crossword puzzle: each answer must fit independently (evidence) AND be consistent with intersecting answers (coherence).
 - `INS-260330-B33F` [high] Susan Haack's crossword model says knowledge gains strength from answers interlocking and reinforcing each other, not from building on a single foundation.
+- `INS-260404-3500` [high] Photosynthesis converts sunlight to sugar through a long chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each step losing energy but gaining reliability.
 - `INS-260330-AA77` [high] If a new element can be expressed as a combination of existing ones, it adds no new capability.
 - `INS-260330-DEF7` [high] The linearity constraint — parallel lines stay parallel, origin stays fixed — eliminates most possible transformations, making the remaining ones tractable and powerful.
 - `INS-260330-E03A` [high] NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.

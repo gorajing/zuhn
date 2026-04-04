@@ -1,12 +1,13 @@
 # Topic: business-models
 
-> 213 insights
+> 215 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260322-FCFC` [high] Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
 - `INS-260327-07FC` [high] Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
+- `INS-260404-EC27` [high] Costco's $60 fee and warehouse chaos seem like obstacles but actually select for affluent, high-spending customers averaging $100K household income.
 - `INS-260404-BBC5` [high] Costco's $60 membership fee filters for affluent households averaging $100K income, turning an acquisition barrier into a demographic selection mechanism.
 - `INS-260327-CCAE` [high] Esports drew audiences rivaling traditional sports and attracted Fortune 500 sponsors, but broadcast deals never materialized at meaningful scale -- no team or league has ever turned a profit, and the entire industry collapsed when the expected broadcast payday never arrived.
 - `INS-260324-5B35` [high] Brisket shrinks to 40% yield after trimming and smoking, requires 10-18 hours of intuition-based cooking, and can't be made on demand — making BBQ the anti-franchise food category.
@@ -116,6 +117,7 @@
 - `INS-260403-B2CB` [high] Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-0650` [high] When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` [high] Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
+- `INS-260404-C4B9` [high] Making membership the profit center forces the company to optimize for customer value rather than margin extraction.
 - `INS-260404-60D6` [high] Costco makes 75% of revenue from membership fees, which forces it to prioritize low prices and quality to drive renewals rather than extracting margin per transaction.
 - `INS-260404-0298` [high] Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
 - `INS-260327-4C5E` [high] External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address

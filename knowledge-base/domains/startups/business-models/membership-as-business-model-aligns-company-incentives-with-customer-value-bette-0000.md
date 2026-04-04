@@ -59,6 +59,7 @@ related:
   - INS-260404-E39D
   - INS-260404-B8AE
   - INS-260404-A938
+  - INS-260404-C4B9
 ---
 Traditional retail uses loss leaders to get customers in the door, then profits from markup on other items. This creates a fundamental misalignment: the company benefits from sneaking in higher margins wherever possible. Costco inverts this by making 75% of revenue from membership fees, with a self-imposed 15% maximum markup. This means Costco's rational economic choice is always to lower prices and improve quality, because that's what drives the $60-120/year renewal that actually pays the bills.
 

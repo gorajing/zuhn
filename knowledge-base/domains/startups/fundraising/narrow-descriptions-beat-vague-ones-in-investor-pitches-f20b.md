@@ -56,6 +56,7 @@ related:
   - INS-260403-9AB3
   - INS-260404-0430
   - INS-260404-CA98
+  - INS-260404-683B
 ---
 When founders try to encompass everything their product could become, their description approaches zero content — investors hear 'a system to collaboratively leverage information' and tune out. Graham recommends treating your pitch like an algorithm of successive approximations: start with a gripping but perhaps overly-narrow description, then flesh it out. The analogy to incremental development is precise — at every point you need a 'working description' in the investor's head, just as you need working code at every commit.
 

@@ -23,6 +23,7 @@
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260403-857E` Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
+- `INS-260404-6A20` Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
 - `INS-260404-FF84` Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 - `INS-260404-1936` Costco's $21/hr average wage (2x retail average) produces employees 3x more productive than competitors.
 - `INS-260403-5CB5` Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.

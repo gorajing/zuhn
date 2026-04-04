@@ -22,6 +22,7 @@
 - `INS-260403-BF47` Costco makes 75% of profit from membership fees, which structurally aligns its incentives with delivering maximum customer value.
 - `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-0650` When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
+- `INS-260404-C4B9` Making membership the profit center forces the company to optimize for customer value rather than margin extraction.
 - `INS-260404-0298` Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
 - `INS-260403-E2D9` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive, making the wage premium a profit driver rather than a cost.
 - `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
@@ -36,6 +37,7 @@
 - `INS-260404-7F16` Costco stocks only 4,000 SKUs versus Walmart's 140,000, giving it enormous leverage because suppliers compete fiercely for limited shelf space.
 - `INS-260404-CEA8` Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
 - `INS-260403-83A8` Carrying 4,000 SKUs instead of 140,000 makes each slot so valuable that suppliers will cut prices and customize products to win placement.
+- `INS-260404-6A20` Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
 - `INS-260404-1936` Costco's $21/hr average wage (2x retail average) produces employees 3x more productive than competitors.
 - `INS-260403-5CB5` Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
 - `INS-260403-365D` Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
