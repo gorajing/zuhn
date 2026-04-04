@@ -4,11 +4,6 @@
 - `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
 - `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
-- `INS-260329-EB4B` Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
-- `INS-260329-ADC4` Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
-- `INS-260329-C0A7` The business bottleneck is almost never in the domain the founder enjoys most.
-- `INS-260327-7CE9` Build the hardest part first while you're most motivated—dancing around easy features kills momentum.
-- `INS-260403-30E5` When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
 - `INS-260329-EC01` Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
 - `INS-260328-0540` Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
@@ -18,6 +13,11 @@
 - `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
 - `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
 - `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
+- `INS-260329-EB4B` Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
+- `INS-260329-ADC4` Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
+- `INS-260329-C0A7` The business bottleneck is almost never in the domain the founder enjoys most.
+- `INS-260327-7CE9` Build the hardest part first while you're most motivated—dancing around easy features kills momentum.
+- `INS-260403-30E5` When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260404-3214` Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260403-3482` Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.

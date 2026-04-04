@@ -3,8 +3,8 @@
 - `INS-260330-1222` Building a custom periscope mirror rig to film underwater gunfire required predicting where phenomena would occur, making the engineering itself a form of hypothesis testing.
 - `INS-260325-A006` Experimental archaeology hasn't solved how the pyramids were built, but it has definitively ruled out ramp theories -- the ramps would require more material than the pyramids themselves.
 - `INS-260403-4050` Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
-- `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260403-62B2` BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
+- `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260330-32E6` When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
 - `INS-260403-A60E` A founding vision reframed as a hypothesis inherits the scientific requirement of testability, forcing founders to specify conditions under which they'd abandon the idea.
 - `INS-260403-B1F2` Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.

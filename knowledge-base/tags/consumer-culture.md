@@ -18,11 +18,6 @@
 - `INS-260327-6E86` When book discovery shifts from expert curation to algorithmic recommendation based on engagement metrics, the books tha
 - `INS-260327-45BD` Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,
 - `INS-260327-4F8C` Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
-- `INS-260327-AC84` Blind-box collectible products combine scarcity, gambling mechanics, and social media completionism to create purchasing
-- `INS-260327-B772` The fragrance industry exemplifies maximum value capture through branding: production costs are under 5% of retail price
-- `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
-- `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
-- `INS-260327-7498` When Western markets adopt cultural products, they systematically remove the cultural context that creates authentic val
 - `INS-260327-0710` Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260327-7A5A` Celebrities who launch product lines exploit parasocial fan relationships to bypass normal quality evaluation, resulting
 - `INS-260327-A8DF` Collectible product trends follow the same speculative bubble pattern as financial assets: early authentic collectors, f
@@ -39,3 +34,8 @@
 - `INS-260327-CCD0` Plant-based meat alternatives that position themselves as replacements for meat face rejection when taste comparison ine
 - `INS-260327-472A` Meal replacement products appeal to efficiency-maximizing consumers who are vocal online but represent a tiny fraction o
 - `INS-260327-4233` Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
+- `INS-260327-AC84` Blind-box collectible products combine scarcity, gambling mechanics, and social media completionism to create purchasing
+- `INS-260327-B772` The fragrance industry exemplifies maximum value capture through branding: production costs are under 5% of retail price
+- `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
+- `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
+- `INS-260327-7498` When Western markets adopt cultural products, they systematically remove the cultural context that creates authentic val

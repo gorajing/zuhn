@@ -16,7 +16,6 @@
 - `INS-260327-B815` Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights r
 - `INS-260327-E68D` Haunted house operators must generate an entire years revenue in 4-6 weeks, creating extreme operational intensity and h
 - `INS-260327-FD4C` Self-storage facilities profit during economic booms (people buy too much) and busts (people downsize) because both cond
-- `INS-260327-0FD9` Viral food content creates demand spikes that overwhelm restaurant operations, produce long wait times, and disappoint c
 - `INS-260327-584D` Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficie
 - `INS-260327-6EB5` Nations and companies that control essential natural resources wield power disproportionate to the resources economic va
 - `INS-260327-F867` UNIQLO (timeless basics) and Zara (fast-fashion trends) both succeed in clothing by targeting opposite ends of the same 
@@ -35,4 +34,5 @@
 - `INS-260327-A462` Companies that tried to disrupt walking with scooters and segways failed because they competed against an activity that 
 - `INS-260327-C1F6` AI investment follows the same pattern as the dot-com bubble: revolutionary technology generates massive investment, mos
 - `INS-260327-07C9` Platforms like Temu sell products below cost as a customer acquisition strategy subsidized by investor capital, creating
+- `INS-260327-0FD9` Viral food content creates demand spikes that overwhelm restaurant operations, produce long wait times, and disappoint c
 - `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.

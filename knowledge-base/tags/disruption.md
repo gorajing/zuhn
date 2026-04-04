@@ -15,9 +15,6 @@
 - `INS-260327-6976` Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260404-8326` Business models expire like perishable goods, requiring proactive reinvention before market shifts make them irrelevant.
-- `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
-- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
-- `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260327-D570` The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
@@ -45,16 +42,18 @@
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
-- `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
-- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
-- `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
+- `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
+- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
+- `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
+- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
+- `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.
-- `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
 - `INS-260404-B1BC` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260403-9276` Annotate each business model with its trajectory (growing, shrinking, shifting) to detect slow-moving disruption before it becomes irreversible.
@@ -71,3 +70,4 @@
 - `INS-260403-FED6` The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260404-96E6` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
 - `INS-260403-87BE` Sears, Toys-R-Us, and J.C. Penney died from self-inflicted adaptation failures while Ross, Aldi, and Costco thrived in the same environment.
+- `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
