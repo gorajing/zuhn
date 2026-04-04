@@ -73,9 +73,9 @@ related:
   - PRI-260327-3BD9
   - PRI-260327-942E
   - INS-260403-AFCD
-  - INS-260327-679A
   - INS-260327-7D0B
   - INS-260329-B77F
+  - INS-260329-A6DB
 ---
 Duffy's Snap case study provides a detailed champion-building blueprint. Nick (head of security engineering at Snap, 375M active users) was identified as a potential champion early. The progressive testing process: Multiple discovery calls (customer speaks 60%+ of the time, tracked by call recording). Customized demos using their language and workflow. Introduced M1 metrics (proof points from Adobe, Airbnb) early — not product features. Before starting a POV, agreed on success metrics (M2) and mapped the decision process (who else needs to be involved?).
 

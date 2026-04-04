@@ -52,9 +52,9 @@ related:
   - INS-260403-5BAC
   - INS-260403-5BBC
   - INS-260403-DC2D
+  - INS-260404-36D7
   - INS-260403-E143
   - INS-260403-180D
-  - INS-260403-E981
 ---
 Conventional retail wisdom says more selection means more customers. Costco proves the opposite: by offering only one or two choices per category instead of dozens, it concentrates all purchasing volume into those few items. Suppliers compete fiercely to be that single choice, which means they'll lower prices and even reengineer products (like redesigning cashew containers to save 24,000 pallets annually).
 

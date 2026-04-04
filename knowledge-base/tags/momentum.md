@@ -1,9 +1,9 @@
 # Tag: momentum
 
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
+- `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260327-377A` Napoleon's relentless pursuit after Bassano prevented the Austrians from regrouping, turning a battlefield win into the destruction of an entire army.
 - `INS-260327-0FA9` After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.
-- `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260320-20F2` Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260327-7CE9` Build the hardest part first while you're most motivated—dancing around easy features kills momentum.

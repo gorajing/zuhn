@@ -32,6 +32,7 @@
 - `INS-260403-270E` Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-1852` Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
 - `INS-260403-1DB7` Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
+- `INS-260404-4B69` Smart investors expect early business models to be wrong, so talking about them wastes time better spent on the problem you solve.
 - `INS-260404-4605` Don't pitch your business model to early-stage investors — they assume it's wrong and care about the problem you're solving.
 - `INS-260403-8346` Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
 - `INS-260403-2247` Mention monetization to show you've thought about it, but don't elaborate — the model is probably wrong anyway.

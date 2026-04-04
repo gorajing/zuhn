@@ -52,6 +52,7 @@ related:
   - INS-260403-2C00
   - INS-260403-C40D
   - INS-260403-747B
+  - INS-260404-6E7B
 ---
 The $60-120 membership fee should theoretically make customer acquisition fatally difficult. Instead, it selects for households with ~$100K average income who become loyal, high-spending patrons. Business owners — just one-third of members — generate two-thirds of sales. The confusing warehouse layout forces customers through most aisles, increasing discovery and spend.
 

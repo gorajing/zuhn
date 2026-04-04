@@ -53,10 +53,11 @@ related:
   - INS-260403-384C
   - INS-260403-34B4
   - INS-260330-3037
+  - INS-260404-C290
   - INS-260404-2DB6
-  - INS-260404-869D
   - INS-260403-FC01
   - INS-260403-CD2A
+  - INS-260404-869D
 ---
 The thylakoid membrane acts as a battery by maintaining a proton concentration gradient — high inside, low outside. When protons flow back through ATP synthase, that stored potential converts to usable chemical energy. The key insight is that the value isn't in the protons themselves, but in the asymmetry across the barrier.
 

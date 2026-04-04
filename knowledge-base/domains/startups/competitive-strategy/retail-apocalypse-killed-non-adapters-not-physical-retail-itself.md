@@ -50,11 +50,11 @@ related:
   - INS-260328-D0F6
   - INS-260330-E615
   - INS-260330-E54B
-  - INS-260403-CF09
   - INS-260403-FED6
   - INS-260403-3673
   - INS-260403-D8A2
   - INS-260403-87BE
+  - INS-260403-B378
 ---
 The 'retail apocalypse' narrative frames Amazon as inevitably killing physical stores, but the data tells a different story. The companies that died — Sears (tried everything, did nothing well), Toys-R-Us (ignored the internet), J.C. Penney (forgot its customers) — failed because of specific strategic mistakes, not because physical retail was doomed. Meanwhile, Ross, Lush, Aldi, Dollar General, and Costco all grew during the same period.
 

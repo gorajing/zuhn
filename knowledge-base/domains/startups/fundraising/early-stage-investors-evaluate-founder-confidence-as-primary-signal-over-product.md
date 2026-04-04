@@ -60,10 +60,10 @@ related:
   - INS-260327-5688
   - INS-260330-1C50
   - INS-260403-0F95
-  - INS-260403-A290
   - INS-260403-5C8E
   - INS-260403-E4C6
-  - INS-260403-915E
+  - INS-260404-22B3
+  - INS-260403-A290
   - INS-260404-CDCB
 ---
 At the earliest stages, most investors can't deeply evaluate the technical merits of what you've built — they lack both the domain expertise and the time. So they rely heavily on proxy signals, and founder confidence ranks highest. But this must be shown, not told: saying 'we're passionate' or 'our product is great' gets ignored or triggers bullshit detectors.

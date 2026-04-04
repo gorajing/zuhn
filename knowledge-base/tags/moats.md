@@ -50,5 +50,6 @@
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
+- `INS-260404-6E7B` Costco's $60 membership fee, confusing layout, and bulk quantities filter for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 - `INS-260403-1636` Plants evolved entire metabolic pathways to handle RuBisCo's toxic byproducts rather than replacing RuBisCo, making the entrenched system more resilient over time.
 - `INS-260403-FDB8` Costco's $60 entry fee filters for affluent households averaging $100K income, who then spend more and renew at 90%.

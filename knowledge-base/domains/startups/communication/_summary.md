@@ -1,7 +1,8 @@
 # Topic: communication
 
-> 26 insights
+> 27 insights
 
+- `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-621F` [high] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - `INS-260403-D984` [high] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.

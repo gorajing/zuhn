@@ -3,10 +3,10 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 250 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 171 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 153 | 2026-03-31 |
-| How to Do Great Work | blog | 95 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 254 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 176 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 158 | 2026-03-31 |
+| How to Do Great Work | blog | 99 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -1006,6 +1006,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 4 | 2026-03-30 |
 | The Reddits | blog | 4 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
+| The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 4 | 2026-03-30 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
@@ -2323,7 +2324,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |
 | The Real Reason to End the Death Penalty | blog | 0 | 2026-03-31 |
-| The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 0 | 2026-03-30 |
 | The Rise of the AI Underground | blog | 0 | 2026-03-31 |
 | The Risk of Discovery | blog | 0 | 2026-03-31 |
 | The Ronco Principle | blog | 0 | 2026-03-31 |

@@ -40,7 +40,6 @@ stance: >-
   not just their own brand but the retail category because retailers reduce
   shelf space allocation after being burned by unsold inventory.
 related:
-  - INS-260327-0710
   - PRI-260324-7ED9
   - INS-260327-B946
   - PRI-260328-7E58

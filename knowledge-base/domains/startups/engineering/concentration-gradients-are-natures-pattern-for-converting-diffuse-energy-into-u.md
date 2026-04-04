@@ -54,7 +54,6 @@ stance: >-
   controlled channel is a universal engineering pattern that applies far beyond
   biology
 related:
-  - INS-260330-40EC
   - INS-260330-3C3C
   - INS-260330-24BA
   - INS-260404-46AA

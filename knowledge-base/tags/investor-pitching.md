@@ -1,5 +1,6 @@
 # Tag: investor-pitching
 
+- `INS-260404-22B3` Saying 'we're passionate' or 'our product is great' triggers skepticism, while behavioral confidence — specificity, pace, eye contact — builds genuine credibility.
 - `INS-260403-DE45` Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.
 - `INS-260403-6A55` Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
 - `INS-260403-A172` Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.

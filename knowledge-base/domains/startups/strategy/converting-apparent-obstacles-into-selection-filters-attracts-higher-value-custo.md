@@ -58,7 +58,6 @@ related:
   - INS-260403-137D
   - INS-260403-9104
   - INS-260403-64E7
-  - INS-260404-01B1
 ---
 Costco's mandatory membership fee appears to be a fatal barrier to customer acquisition — charging people just to enter the store. In practice, the fee functions as a demographic filter that selects for affluent households (average income ~$100K) and business owners (one-third of members generating two-thirds of sales). The upfront cost triggers sunk-cost psychology that deepens loyalty while simultaneously ensuring the customer base has high purchasing power.
 

@@ -50,7 +50,6 @@ stance: >-
   to access.
 related:
   - INS-260403-5BAC
-  - INS-260403-5BBC
   - INS-260403-E981
   - INS-260403-4874
   - INS-260404-6945
@@ -58,7 +57,6 @@ related:
   - INS-260403-0DC2
   - INS-260404-4B5D
   - INS-260404-37BB
-  - INS-260404-7D8F
 ---
 Most retailers treat shelf space as inventory to fill — more products means more potential sales. Costco inverts this by radically constraining selection to roughly 4,000 SKUs. This artificial scarcity transforms the power dynamic with suppliers: instead of Costco needing products to fill shelves, suppliers need Costco's limited slots to access its affluent, high-volume membership base.
 

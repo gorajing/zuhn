@@ -54,12 +54,12 @@ related:
   - INS-260403-C625
   - INS-260403-600F
   - INS-260403-0267
-  - INS-260403-E319
   - INS-260403-1290
   - INS-260403-A709
   - INS-260403-3482
-  - INS-260403-1DB7
+  - INS-260404-4B69
   - INS-260403-13ED
+  - INS-260403-1DB7
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong — expecting it to change three times before they got it right. The founders were experienced repeat entrepreneurs who'd just raised millions, and even their model was crap. He invested anyway because at this stage, business models are just guesses about things outside the founders' expertise.
 

@@ -8,7 +8,7 @@
 - `INS-260327-C9A3` People share products not because you asked them to, but because recommending remarkable things makes THEM look good.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260403-7A31` Investor ecosystems grow organically from successful exits — they cannot be seeded artificially or attracted by incentives.
-- `INS-260403-CACE` The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
+- `INS-260403-CACE` The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260403-D2B1` Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform.
 - `INS-260330-84F4` Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.

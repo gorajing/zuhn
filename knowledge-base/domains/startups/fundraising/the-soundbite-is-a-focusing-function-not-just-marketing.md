@@ -44,14 +44,13 @@ stance: >-
   The inability to describe your startup in one compelling phrase signals
   insufficient strategic focus, not just poor communication
 related:
-  - INS-260320-080B
   - INS-260329-EBBB
   - INS-260403-9681
   - INS-260403-D375
   - INS-260403-FE37
   - INS-260403-0AF4
-  - INS-260403-85F1
   - INS-260403-74DB
+  - INS-260404-D8C7
   - INS-260404-8D37
   - INS-260404-621F
 ---

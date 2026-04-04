@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 951 insights across 22 topics
+> 952 insights across 23 topics
 
 ## Topics
 
@@ -28,3 +28,4 @@
 | platform-shifts | 34 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
 | product-strategy | 70 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | system-building | 209 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |
+| system-design | 1 | The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency. |

@@ -46,7 +46,6 @@ stance: >-
   hardship destroyed their recession-proof status by abandoning the exact value
   proposition (cheap calories) that made them resilient.
 related:
-  - INS-260324-9E37
   - PRI-260328-8284
   - INS-260403-4A2F
   - INS-260330-7462

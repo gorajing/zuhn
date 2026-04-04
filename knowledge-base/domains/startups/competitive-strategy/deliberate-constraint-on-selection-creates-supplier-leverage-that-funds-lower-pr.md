@@ -49,11 +49,11 @@ stance: >-
   Radically limiting product selection to 4,000 SKUs versus 30,000-140,000 at
   competitors generates more negotiating power than scale alone
 related:
+  - INS-260404-36D7
   - INS-260404-1843
   - INS-260403-DC2D
   - INS-260403-887A
   - INS-260404-6945
-  - INS-260403-0DC2
   - INS-260403-115B
   - INS-260404-7D8F
 ---

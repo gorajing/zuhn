@@ -58,10 +58,10 @@
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-1D8D` Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
 - `INS-260403-805E` School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
-- `INS-260403-CACE` The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
 - `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260403-3442` 20 years of schooling teaches problem-solving but never problem-choosing, which is the skill that determines startup success.
+- `INS-260403-CACE` The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260323-B497` Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.
 - `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260329-8299` CS50's success proves that designing for complete beginners captures the largest possible audience.

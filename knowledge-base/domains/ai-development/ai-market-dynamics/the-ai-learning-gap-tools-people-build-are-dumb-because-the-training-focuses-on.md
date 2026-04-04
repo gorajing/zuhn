@@ -50,7 +50,6 @@ related:
   - INS-260327-EA4E
   - INS-260330-95E8
   - INS-260325-95A6
-  - INS-260330-C870
   - INS-260403-7A31
 stance: >-
   MIT research shows $291B wasted on AI because the ecosystem trained people to

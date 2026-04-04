@@ -46,7 +46,6 @@ stance: >-
   presentation because investors expect the model to be wrong and it crowds out
   discussion of the problem and product.
 related:
-  - INS-260328-F752
   - INS-260330-990F
   - INS-260330-DF2C
   - INS-260329-4605
@@ -56,5 +55,6 @@ related:
   - INS-260403-CC25
   - INS-260403-8D2C
   - INS-260403-6982
+  - INS-260403-2E90
 ---
 Graham relays a VC who invested in a company while openly acknowledging their business model was 'crap' — and expected it to change three times. The lesson: at the early stage, your business model is a set of guesses about things outside your expertise. Meanwhile, the problem you're solving and what you've built are areas where you have genuine insight and credibility. Spending precious minutes on the weaker material doesn't just waste time — it can actively backfire if the model sounds 'spectacularly wrong,' because investors will remember you as 'the company with the boneheaded plan' rather than 'the company that solved that important problem.' The priority hierarchy is clear: problem and product first, business model as a brief afterthought.

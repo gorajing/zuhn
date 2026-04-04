@@ -47,10 +47,11 @@ stance: >-
   substance is the strongest persuasion tool in high-stakes presentations.
 related:
   - INS-260403-A290
-  - INS-260403-915E
   - INS-260403-1B2D
   - INS-260403-22FE
   - INS-260403-B3CA
+  - INS-260404-22B3
+  - INS-260403-915E
   - INS-260404-CDCB
 ---
 Graham identifies a sharp asymmetry in how confidence signals are received. Explicit claims ('we're passionate,' 'our product is great') are either ignored or actively penalized — audiences categorize the speaker as a bullshitter. But implicit confidence — speaking with authority about the problem, showing genuine excitement through depth of knowledge — is the single biggest piece of evidence investors use to evaluate early-stage startups where the product itself is hard to assess. This maps to a broader persuasion principle: the channel through which a message arrives determines whether it's believed. Self-reported enthusiasm arrives through a channel with zero credibility. Demonstrated enthusiasm arrives through behavior, which is much harder to fake.
