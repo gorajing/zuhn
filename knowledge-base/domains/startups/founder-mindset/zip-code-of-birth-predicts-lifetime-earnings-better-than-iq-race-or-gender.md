@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260329-047C
   - INS-260403-BDE0
+  - INS-260404-E65A
   - INS-260330-0C0C
   - INS-260323-9867
-  - INS-260402-8F1E
 evidence:
   - id: INS-260330-0C0C
     type: TRANSFERS_TO

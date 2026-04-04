@@ -47,10 +47,11 @@ stance: >-
   per-transaction margins will consistently deliver lower prices because raising
   prices costs them the annual fee.
 related:
-  - INS-260403-5C88
   - INS-260403-1C25
   - INS-260403-F634
+  - INS-260404-98F5
   - INS-260404-60D6
+  - INS-260403-5C88
   - INS-260404-A938
   - INS-260403-3864
 ---

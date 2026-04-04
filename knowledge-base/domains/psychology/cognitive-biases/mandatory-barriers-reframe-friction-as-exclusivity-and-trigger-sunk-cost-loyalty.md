@@ -50,12 +50,11 @@ stance: >-
   barrier to entry into a psychological commitment device that increases
   spending and loyalty beyond what free-entry models achieve.
 related:
-  - INS-260327-7BE4
-  - INS-260327-0755
   - INS-260403-3F91
   - INS-260403-CE5F
   - INS-260403-543E
   - INS-260404-2D53
+  - INS-260404-3156
   - INS-260403-9104
   - INS-260404-30CA
 ---

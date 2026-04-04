@@ -49,7 +49,7 @@ stance: >-
   Attempting to seem more corporate or experienced than you are actively
   conceals the raw talent that smart investors are actually looking for.
 related:
-  - INS-260330-990F
+  - INS-260404-92AC
   - INS-260403-DE45
   - INS-260403-7586
   - INS-260403-915E

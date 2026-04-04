@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260327-B6D6
   - INS-260403-08FE
+  - INS-260404-3156
   - INS-260403-1C25
   - INS-260403-0435
-  - INS-260404-94BB
 ---
 Businesses that advertise low headline prices then add fees during checkout create more consumer resentment than businesses with higher but transparent all-in pricing.
 

@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 146 insights
+> 147 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -77,6 +77,7 @@
 - `INS-260327-DAE5` [high] Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
 - `INS-260329-50D5` [high] TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
 - `INS-260330-F3E4` [high] Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
+- `INS-260404-F69A` [high] The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate its starting materials, yielding only 1 net output per full cycle.
 - `INS-260403-AEBD` [high] Restructuring resource assignments can create room for growth without acquiring new resources.
 - `INS-260404-2839` [high] The retail apocalypse killed Sears, Toys-R-Us, and RadioShack not because physical retail is dead, but because these specific companies failed to adapt while competitors like Costco and Aldi thrived.
 - `INS-260329-1962` [high] Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.

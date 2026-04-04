@@ -44,9 +44,9 @@ resolutions:
 related:
   - INS-260327-FD4C
   - INS-260327-B6B7
+  - INS-260404-1EA6
   - PRI-260328-EAC4
   - INS-260404-1843
-  - PRI-260328-8284
   - INS-260330-0FF7
 stance: >-
   America has 50,000 self-storage facilities and 2 billion sq ft of extra

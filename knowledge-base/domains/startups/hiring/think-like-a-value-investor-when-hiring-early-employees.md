@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260327-DAA4
   - INS-260329-7C84
+  - INS-260404-92AC
   - INS-260326-7B2A
   - INS-260330-790A
-  - INS-260329-F21F
   - INS-260403-8A8B
 evidence:
   - id: INS-260330-790A

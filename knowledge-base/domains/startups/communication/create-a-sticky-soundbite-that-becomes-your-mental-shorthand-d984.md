@@ -49,9 +49,9 @@ related:
   - INS-260403-6F52
   - INS-260403-448F
   - INS-260403-B3A4
+  - INS-260404-D242
   - INS-260403-BDBE
   - INS-260403-2A1D
   - INS-260403-FE37
-  - INS-260403-2FE1
 ---
 Professional investors hear hundreds of pitches that blur together. The first filter is simply being remembered. A carefully crafted descriptive phrase — Viaweb's 'the Microsoft Word of ecommerce' — acts as a mental handle that persists after the presentation ends. The phrase should be launched clearly but apparently casually, preferably near the beginning. Beyond its tactical value in pitches, the exercise of distilling your startup into one compelling phrase is diagnostic: if you can't do it, your plans may not be sufficiently focused. This mirrors the narrow-description principle — compression forces clarity, and clarity is what sticks.

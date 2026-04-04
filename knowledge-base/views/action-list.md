@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3778 actionable insights
+Generated on 2026-04-04 | 3784 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1063,6 +1063,7 @@ Generated on 2026-04-04 | 3778 actionable insights
 - [INS-260403-6652] Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - [INS-260403-5CA6] Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.
 - [INS-260404-D6EE] Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
+- [INS-260404-92AC] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1661,6 +1662,7 @@ Generated on 2026-04-04 | 3778 actionable insights
 - [INS-260404-D672] When investors can't evaluate the tech, your own confidence becomes the largest piece of evidence they use to form an opinion.
 - [INS-260404-4F69] Never say 'we're passionate' — people ignore or penalize explicit self-praise, but they're deeply influenced by implicit confidence signals.
 - [INS-260404-C887] Show don't tell applies to confidence — saying 'we're passionate' gets you written off as a bullshitter, while demonstrating mastery creates belief.
+- [INS-260404-D242] Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2849,6 +2851,9 @@ Generated on 2026-04-04 | 3778 actionable insights
 - [INS-260404-B43A] Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
 - [INS-260404-516B] Overly specific beats overly general when describing your startup to investors.
 - [INS-260404-4024] Specific user stories and proxy-for-demand evidence resolve the biggest investor objection: that nobody actually wants what you've built.
+- [INS-260404-9710] Smart investors expect early business models to change multiple times, so discussing them in detail wastes precious pitch minutes.
+- [INS-260404-438C] When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
+- [INS-260404-71F3] Overly broad startup descriptions become meaningless noise that investors immediately discard.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3805,6 +3810,7 @@ Generated on 2026-04-04 | 3778 actionable insights
 - [INS-260404-8B1C] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
 - [INS-260404-B435] Costco's $60 membership fee filters for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 - [INS-260404-30CA] Costco's $60 membership fee, confusing warehouse layout, and bulk-only format all filter for affluent, high-spending customers while creating loyalty through sunk-cost psychology.
+- [INS-260404-E65A] Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

@@ -6,6 +6,7 @@
 - `INS-260329-9524` Splitting data into train/validate/test sets prevents models from memorizing answers instead of learning patterns.
 - `INS-260330-B153` Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
+- `INS-260404-92AC` Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
 - `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260404-523C` With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.

@@ -46,13 +46,13 @@ stance: >-
   Breakthrough value often emerges as a side effect of solving a different
   problem rather than from direct pursuit
 related:
-  - INS-260330-2119
   - INS-260330-13A1
   - INS-260330-90B6
   - INS-260403-31AF
   - INS-260403-726B
   - INS-260403-99CE
   - INS-260403-EFE6
+  - INS-260404-0FEB
   - INS-260403-227B
 ---
 Photosynthesis evolved to capture solar energy and fix carbon for plant growth. Oxygen was literally garbage — 'the most useful useless byproduct in the history of useless byproducts.' Yet this waste product transformed Earth's atmosphere and enabled the entire animal kingdom.

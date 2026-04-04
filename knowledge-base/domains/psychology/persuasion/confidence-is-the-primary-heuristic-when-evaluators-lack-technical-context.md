@@ -54,11 +54,10 @@ related:
   - INS-260325-9AD4
   - INS-260322-7723
   - INS-260403-4337
-  - INS-260403-6620
   - INS-260403-DFC3
+  - INS-260404-438C
   - INS-260404-523C
   - INS-260403-915E
-  - INS-260403-47B7
 ---
 Most investors at Demo Day lack the technical background to independently evaluate what a startup has built, and the time constraint (ten minutes) makes deep evaluation impossible anyway. In this information-poor environment, investors fall back on heuristic signals, and the strongest one is the founder's own conviction.
 

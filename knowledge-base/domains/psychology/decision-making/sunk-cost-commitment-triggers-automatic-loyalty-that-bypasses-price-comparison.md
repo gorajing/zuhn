@@ -53,9 +53,9 @@ related:
   - INS-260327-875C
   - INS-260404-94BB
   - INS-260404-2D53
+  - INS-260404-3156
   - INS-260403-9104
   - INS-260404-AC1B
-  - INS-260404-01B1
 ---
 Both Costco and Amazon Prime exploit sunk-cost psychology, but Costco's mandatory fee creates a stronger effect. When membership is optional (like Prime), customers self-sort — each individually calculating whether the fee is worth it, creating loyalty without fundamentally changing purchasing behavior. When membership is mandatory, the sunk cost becomes the default frame: every shopping trip elsewhere feels like waste. Customers stop comparing prices and automatically default to Costco.
 

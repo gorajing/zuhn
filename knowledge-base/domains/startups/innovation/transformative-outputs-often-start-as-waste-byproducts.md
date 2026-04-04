@@ -55,7 +55,6 @@ stance: >-
   of systems optimized for entirely different goals
 related:
   - INS-260325-2F1E
-  - INS-260330-B27A
   - INS-260330-19C3
   - INS-260330-41F6
   - INS-260330-30FB

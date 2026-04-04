@@ -47,7 +47,6 @@ stance: >-
   investors than an accurate but vague one, because vague descriptions approach
   zero informational content.
 related:
-  - INS-260327-D2A6
   - INS-260403-7E27
   - INS-260403-91F9
   - INS-260403-047B

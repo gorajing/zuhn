@@ -51,10 +51,8 @@ stance: >-
   Systems designed for one environment will silently degrade when their
   operating environment shifts, requiring external monitoring to detect
 related:
-  - INS-260330-CA97
   - INS-260330-E5DC
   - INS-260330-4441
-  - INS-260330-50B3
   - INS-260330-DF69
   - INS-260330-A3EB
   - INS-260403-9F4B

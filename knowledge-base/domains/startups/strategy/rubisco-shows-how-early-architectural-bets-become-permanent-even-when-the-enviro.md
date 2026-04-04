@@ -59,6 +59,7 @@ related:
   - INS-260403-A5D5
   - INS-260403-9F4B
   - INS-260403-B5E2
+  - INS-260404-2695
 ---
 RuBisCo evolved when atmospheric oxygen was negligible, optimized solely for grabbing CO2. When photosynthesis itself flooded the atmosphere with oxygen, RuBisCo started confusing O2 for CO2 roughly half the time, producing a toxic byproduct. But plants had already built their entire carbon fixation strategy around it — 40 billion tons of it exist on Earth at any moment.
 

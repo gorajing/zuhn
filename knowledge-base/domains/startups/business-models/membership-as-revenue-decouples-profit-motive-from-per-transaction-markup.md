@@ -48,9 +48,9 @@ related:
   - INS-260404-60D6
   - INS-260404-0000
   - INS-260403-1C25
-  - INS-260403-F634
   - INS-260403-CDB9
   - INS-260404-12A4
   - INS-260404-A938
+  - INS-260404-98F5
 ---
 Costco generates 75% of its profit from membership fees, not product margins. This fundamentally changes its optimization target: instead of maximizing markup per item, it maximizes the probability that each member renews next year. The self-imposed 15% max markup rule (vs Walmart's 24% or Home Depot's 35%) is not charity — it's rational profit maximization on a different axis. This model creates a virtuous cycle: low prices drive 90% renewal rates, which fund even lower prices. The key insight for business model design is that shifting your revenue source changes your incentive structure, which changes your behavior, which changes your competitive position — all without requiring more discipline or willpower.

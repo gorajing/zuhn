@@ -1,6 +1,7 @@
 # Tag: presentation
 
 - `INS-260404-D6EE` Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
+- `INS-260404-92AC` Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
 - `INS-260403-2F86` Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
 - `INS-260404-6388` When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
 - `INS-260404-523C` With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.

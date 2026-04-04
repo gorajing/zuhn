@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 88 insights
+> 89 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -70,6 +70,7 @@
 - `INS-260330-7511` [high] The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
 - `INS-260330-3698` [high] Mentally reversing roles in a conflict reveals whether both sides operate under the same ethical constraints.
 - `INS-260330-5779` [high] If reversing which side uses a tactic produces an absurd or unthinkable scenario, the two sides are not morally equivalent in that dimension.
+- `INS-260404-9428` [high] Photosynthesis splits into light reactions (capture energy as ATP/NADPH) and the Calvin Cycle (spend it on carbon fixation), enabling each stage to optimize independently.
 - `INS-260330-E2F5` [high] The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
 - `INS-260330-5DFF` [high] In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure.
 - `INS-260402-2C6B` [high] Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
