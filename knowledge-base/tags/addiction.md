@@ -3,7 +3,6 @@
 - `INS-260327-FD92` Acupressure on specific points combined with deep breathing can interrupt addictive impulses within 60 seconds
 - `INS-260327-E6FE` Addiction recovery requires dopamine receptor upregulation through extended abstinence and nutrient support
 - `INS-260327-7099` Despite nicotine occurring naturally in the body as a neurotransmitter, exogenous nicotine via pouches raises blood pressure, increases heart rate, and is highly addictive.
-- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260403-C512` Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260403-A22E` It took roughly 100 years for society to develop customs against cigarettes, but new addictive technologies now emerge every few years.
@@ -17,6 +16,7 @@
 - `INS-260330-544F` Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes.
 - `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
 - `INS-260403-3BD3` If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
+- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260325-C830` Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260325-B5EF` Brain imaging shows behavioral addictions from tech activate the same areas as drug addictions.
 - `INS-260323-369C` The most dangerous aspect of addiction for creative people is the false belief that substances are the source of creativity — Callaghan proved the creative engine survives intact after sobriety.

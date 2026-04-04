@@ -16,13 +16,13 @@
 - `INS-260329-0B55` Union-Find achieves near-constant amortized operations by lazily flattening tree paths only when queried, not eagerly during union.
 - `INS-260322-24FB` The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
-- `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
-- `INS-260325-EDE1` Saladino raised testosterone from 500 to 857 at age 48 through 5 natural interventions — no TRT needed.
-- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260404-5309` RuBisCo's oxygen-confusion problem shows that optimization for one context creates vulnerabilities when context shifts — a pattern visible in careers, companies, and cognitive habits.
 - `INS-260403-3BD3` If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
 - `INS-260404-EC33` Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
 - `INS-260404-B6E8` Plants produce massive quantities of a flawed enzyme rather than evolving a better one, mirroring how humans double down on suboptimal commitments.
+- `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
+- `INS-260325-EDE1` Saladino raised testosterone from 500 to 857 at age 48 through 5 natural interventions — no TRT needed.
+- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
 - `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260329-FD7F` Maximum and minimum values in optimization problems occur precisely where the derivative equals zero — where change momentarily stops.
@@ -45,8 +45,8 @@
 - `INS-260329-ADCD` Calculus formalizes the business intuition that optimal scale is where the cost of the next unit equals the revenue it generates.
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - `INS-260329-21C6` Hormozi applies business principles — friction reduction, single-metric optimization, and systemization — to nutrition, producing a sustainable high-protein diet that requires zero willpower or cooking skill.
-- `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
+- `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260402-3C79` Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.
 - `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.

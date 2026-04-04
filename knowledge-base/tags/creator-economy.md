@@ -10,7 +10,7 @@
 - `INS-260330-0B50` ByteDance used a deliberate five-step playbook to solve the chicken-and-egg creator supply problem: lower barriers, create challenges, distribute fame, pay top creators, and assign account managers.
 - `INS-260320-446F` Hire content creators directly (Gmail in bio, 5-10K followers) — if their email is at an agency, the arbitrage is already gone.
 - `INS-260403-E8E3` Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.
-- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260403-6E76` The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins.
 - `INS-260329-6B2C` Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.
+- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
