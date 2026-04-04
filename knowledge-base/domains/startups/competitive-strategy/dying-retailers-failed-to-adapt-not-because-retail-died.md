@@ -46,10 +46,10 @@ related:
   - INS-260327-77A0
   - INS-260328-D0F6
   - INS-260403-3673
-  - INS-260403-D8A2
   - INS-260403-87BE
   - INS-260403-91DB
   - INS-260403-6CA8
-  - INS-260404-3070
+  - INS-260404-CD53
+  - INS-260403-D8A2
 ---
 The popular narrative that Amazon killed retail obscures the real lesson: companies like Sears tried to do everything poorly, Toys-R-Us dismissed the internet, and J.C. Penney lost touch with its customers. Meanwhile, retailers with clear strategies — Costco's membership model, Aldi's extreme curation, Dollar General's underserved-market focus — grew during the same period. This pattern recurs in every 'disrupted' industry: the disruption narrative provides cover for companies that simply stopped evolving. For founders, this means industry-level threat narratives are often less relevant than whether your specific business is adapting to what customers actually want.

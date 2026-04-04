@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 235 insights
+> 237 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -16,6 +16,7 @@
 - `INS-260404-86F8` [high] Costco's $60 membership fee, confusing layouts, and bulk-only quantities each filter for affluent, high-spending customers who become loyal advocates.
 - `INS-260404-975A` [high] Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
 - `INS-260403-243A` [high] Costco's $60 membership fee and bulk-only format filter for affluent, high-spending households averaging $100K income who renew at 90%.
+- `INS-260404-029D` [high] Costco's $60 membership fee and confusing warehouse layout filter for affluent, high-spending customers rather than repelling them.
 - `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260330-ABB1` [high] The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
@@ -25,6 +26,7 @@
 - `INS-260403-5B4E` [high] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260404-CC7C` [high] RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260403-0162` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement — scaling around inefficiency creates permanent cost.
+- `INS-260404-47F5` [high] Plants produce 40 billion tons of an inefficient enzyme rather than fix it — volume compensates where optimization cannot.
 - `INS-260330-2332` [high] Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.
 - `INS-260323-BD2B` [high] JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
 - `INS-260404-15E4` [high] Oxygen was a waste product of photosynthesis that became the foundation of all animal life — the ultimate accidental platform.

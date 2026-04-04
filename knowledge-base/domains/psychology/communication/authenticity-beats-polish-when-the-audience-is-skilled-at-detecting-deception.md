@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260329-F063
   - INS-260404-92AC
+  - INS-260404-DD77
   - INS-260404-F3C6
   - PRI-260403-0ABD
   - INS-260404-C1FF
-  - INS-260325-E84D
 ---
 Graham's advice to 'not try to seem more than you are' rests on an information asymmetry insight: experienced investors have seen thousands of pitches and have finely calibrated bullshit detectors, while first-time founders have essentially zero experience producing convincing deception. The expected outcome of attempted deception is therefore net negative — you won't fool them, and the attempt itself signals poor judgment.
 

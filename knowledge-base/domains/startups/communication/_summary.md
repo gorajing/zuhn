@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 32 insights
+> 33 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-621F` [high] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
@@ -19,6 +19,7 @@
 - `INS-260403-BDBE` [high] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - `INS-260403-F7DD` [high] Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - `INS-260403-EF30` [high] Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
+- `INS-260404-6C20` [high] The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
 - `INS-260403-280B` [high] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
 - `INS-260404-CF2A` [high] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 - `INS-260404-24FB` [medium] Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.

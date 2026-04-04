@@ -44,7 +44,7 @@ related:
   - INS-260404-3070
   - PRI-260328-0993
   - INS-260403-D8A2
-  - INS-260323-5106
+  - INS-260404-CD53
 ---
 Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosystem of smaller tenants depended on anchor foot traffic.
 

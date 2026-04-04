@@ -52,7 +52,6 @@ related:
   - INS-260403-754F
   - INS-260327-6AA0
   - INS-260327-99E5
-  - INS-260327-6742
 stance: >-
   Price AI products using three factors: value creation vs human cost, unit
   economics including hidden storage costs, and representative customer sur...

@@ -1,6 +1,5 @@
 # Tag: sunk-cost-fallacy
 
-- `INS-260403-3F91` Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.
 - `INS-260404-94BB` Costco's mandatory $60-120 membership fee triggers sunk-cost reasoning that makes customers stop comparing prices and shop exclusively at Costco.
 - `INS-260404-2D53` Costco's mandatory $60-120 membership triggers sunk-cost reasoning that makes customers stop comparing prices, creating loyalty that optional programs cannot replicate.
 - `INS-260403-B6FF` Costco's mandatory membership triggers sunk-cost loyalty universally, while Amazon Prime's optional model only captures customers who already self-selected as loyal.
@@ -9,3 +8,4 @@
 - `INS-260403-546E` Costco's mandatory membership exploits sunk-cost psychology more effectively than Amazon Prime because there is no opt-out comparison path.
 - `INS-260404-3156` Costco's mandatory $60-120 fee triggers sunk-cost reasoning that makes customers stop comparing prices with competitors.
 - `INS-260403-543E` Both Costco and Amazon Prime exploit sunk-cost psychology, but Costco's mandatory fee creates universal lock-in while Prime's optional fee only captures self-selecting customers.
+- `INS-260403-3F91` Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.

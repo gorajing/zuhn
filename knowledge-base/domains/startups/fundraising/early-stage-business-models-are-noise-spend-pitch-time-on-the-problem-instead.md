@@ -56,12 +56,12 @@ related:
   - INS-260403-6F52
   - INS-260403-C625
   - INS-260403-600F
-  - INS-260403-0267
   - INS-260403-E319
   - INS-260403-1290
-  - INS-260403-1852
   - INS-260403-A172
   - INS-260403-8346
+  - INS-260403-C496
+  - INS-260404-32B5
 ---
 Paul Graham recounts a VC who invested in a company despite knowing their business model was wrong — he expected it to change three times before they got it right. These were experienced repeat founders who'd just raised millions, and even their model was bad. At the earliest stages, business models are just guesses about domains that probably aren't the founders' expertise.
 

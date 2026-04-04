@@ -57,7 +57,7 @@ related:
   - INS-260324-B0D3
   - INS-260322-D69E
   - INS-260324-FF33
-  - INS-260327-0710
+  - INS-260330-8F0F
 stance: >-
   Casper, built to disrupt retail mattress stores, found that retail sales grew
   74% year-over-year with 15% higher average orders

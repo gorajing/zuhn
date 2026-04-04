@@ -48,11 +48,11 @@ stance: >-
 related:
   - INS-260330-2BA7
   - INS-260330-5670
-  - INS-260330-90B6
   - INS-260403-5C74
   - INS-260403-726B
+  - INS-260404-D0A5
+  - INS-260330-90B6
   - INS-260403-FDD8
-  - INS-260403-EFE6
 ---
 Photosynthesis exists to produce G3P (and from it, glucose) for the plant's own energy needs. Oxygen is literally called a 'useless byproduct' in the process — it's what's left over when water molecules are split to replenish electrons in Photosystem II. Yet this 'waste' enabled the entire animal kingdom, including humans.
 

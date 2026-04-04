@@ -18,6 +18,7 @@
 - `INS-260403-1EB3` Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
+- `INS-260404-32B5` Smart early-stage investors expect your business model to be wrong—spend pitch time on the problem and product instead.
 - `INS-260404-4DF7` At early stage, your business model is probably wrong — talking about the problem you're solving sounds smarter and is more memorable than guesses about monetization.
 - `INS-260403-E319` Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.

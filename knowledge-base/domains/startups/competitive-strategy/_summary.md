@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 520 insights
+> 522 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -336,6 +336,7 @@
 - `INS-260404-8466` [high] Costco stocks 4,000 SKUs versus Walmart's 140,000, concentrating all purchasing volume into fewer suppliers who compete fiercely for shelf space.
 - `INS-260404-6945` [high] Costco stocks only 4,000 items versus Walmart's 140,000, which gives it immense buying power per SKU because suppliers fight to be the one choice in each category.
 - `INS-260404-1843` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
+- `INS-260404-7B3A` [high] Offering only 1-2 choices per category forces suppliers to compete on price and quality for scarce shelf space.
 - `INS-260403-5BBC` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
 - `INS-260404-7D8F` [high] Costco's 4,000 SKUs vs Walmart's 140,000 creates immense supplier leverage because brands compete fiercely for limited shelf space.
@@ -511,6 +512,7 @@
 - `INS-260403-47C0` [medium] Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.
 - `INS-260324-1C12` [medium] The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
 - `INS-260403-04C9` [medium] McDonald's rejected a 2015 investor proposal to spin off its real estate into a REIT, arguing that the integration of food operations and property ownership is what makes both sides work.
+- `INS-260404-CD53` [medium] Sears, Toys-R-Us, and J.C. Penney died from internal failures to adapt, not from Amazon killing retail.
 - `INS-260403-3673` [medium] Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect while Ross, Aldi, Dollar General, and Costco thrived in the same period — the common factor is adaptation, not channel.
 - `INS-260403-CA93` [medium] Unlike agriculture, cities, and industrialization which all spread widely, the startup revolution may remain concentrated in a few dominant hubs.
 - `INS-260403-3F9C` [medium] Silicon Valley's transformation from charming college town to suburban sprawl creates an opening for competitor cities that preserve urban livability.

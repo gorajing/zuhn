@@ -49,7 +49,6 @@ stance: >-
   deploying millions per deal becomes fundamentally mismatched with what
   startups actually need.
 related:
-  - INS-260327-7435
   - INS-260403-5B46
   - INS-260403-4904
   - INS-260403-CF7C

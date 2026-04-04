@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 89 insights
+> 90 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -80,6 +80,7 @@
 - `INS-260330-972B` [medium] The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260403-861A` [medium] ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
 - `INS-260403-34B4` [medium] Thylakoid proton gradients store energy by creating imbalance across a membrane—a pattern that maps to any system where controlled asymmetry drives useful work.
+- `INS-260404-91A0` [medium] Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest energy as protons flow back through ATP synthase.
 - `INS-260403-EE83` [medium] Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
 - `INS-260403-A0C5` [medium] Photosynthesis charges thylakoids like batteries by pumping protons to one side — any system that creates deliberate imbalance stores potential energy for later use.
 - `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.

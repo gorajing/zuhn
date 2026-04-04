@@ -52,9 +52,9 @@ related:
   - INS-260403-7292
   - INS-260404-58AE
   - INS-260404-4F69
+  - INS-260404-DD77
   - INS-260403-5C8E
   - INS-260403-E4C6
-  - INS-260403-A290
 ---
 When investors evaluate early startups they often can't fully assess the technical merits, so the founder's own confidence becomes the single biggest piece of evidence. But this confidence must be transmitted implicitly through command of the problem domain, comfort with hard questions, and genuine enthusiasm visible in how you talk about what you've built.
 

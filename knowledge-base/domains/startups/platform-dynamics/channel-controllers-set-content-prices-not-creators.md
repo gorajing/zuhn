@@ -48,7 +48,7 @@ related:
   - INS-260327-19E5
   - INS-260403-0435
   - INS-260324-157A
-  - INS-260403-096C
+  - INS-260404-62D5
 ---
 Graham identifies that iTunes succeeded not by selling music but by controlling the default path onto the iPod. The toll must stay below the threshold of attention — once it becomes painful, users route around it. This tollbooth model means the platform owner's incentive is always to make content as cheap as possible to maximize device adoption.
 

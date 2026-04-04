@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 89 insights
+> 90 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -39,6 +39,7 @@
 - `INS-260402-8ACF` [high] Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260403-3BD3` [high] If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
 - `INS-260404-AE3C` [high] RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
+- `INS-260404-1D8F` [high] RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260403-EB12` [high] True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260330-C9A6` [high] Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260402-40D7` [high] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.

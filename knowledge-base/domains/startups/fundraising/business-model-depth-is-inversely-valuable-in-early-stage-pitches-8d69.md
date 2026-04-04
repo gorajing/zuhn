@@ -51,13 +51,13 @@ related:
   - INS-260322-CCE8
   - INS-260327-99CE
   - INS-260330-DF2C
-  - INS-260330-3899
   - INS-260403-A27F
   - INS-260403-0701
   - INS-260403-7E18
   - INS-260403-7B28
   - INS-260403-8D2C
   - INS-260403-52DB
+  - INS-260403-DAB4
 ---
 Graham cites a VC who invested in experienced founders despite their business model being 'crap' — because he expected it to be crap at that stage. The business model will likely change three times before working. If you're solving an important problem, talking about that makes you sound smarter than guessing about monetization.
 

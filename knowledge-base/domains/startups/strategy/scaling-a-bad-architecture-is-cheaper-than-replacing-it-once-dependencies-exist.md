@@ -59,6 +59,7 @@ related:
   - INS-260403-532D
   - INS-260404-EC33
   - INS-260330-68C8
+  - INS-260404-47F5
   - INS-260404-CC7C
 ---
 Plants produce an estimated 40 billion tons of RuBisCo at any given time — making it the most abundant protein on Earth — purely to compensate for its ~50% error rate. They also evolved entire secondary pathways (photorespiration, glycine recycling) just to clean up RuBisCo's mistakes. This is cheaper, evolutionarily, than replacing the enzyme.

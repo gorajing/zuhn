@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-5755
   - INS-260330-3FF4
+  - INS-260404-1D8F
   - INS-260404-AE3C
   - INS-260403-D563
   - INS-260330-E039
-  - INS-260330-50B3
 ---
 RuBisCo evolved when atmospheric CO2 was high and oxygen was scarce. When oxygen levels rose, the enzyme became fundamentally confused — binding oxygen instead of CO2 roughly half the time. Yet after 450 million years of evolution, no plant lineage has replaced it. The switching cost is systemic: every metabolic pathway, every cellular structure, every regulatory mechanism assumes RuBisCo is the carbon fixation engine. This is identical to how QWERTY keyboards, x86 architecture, or early startup technical decisions persist — not because they're optimal, but because the entire ecosystem has co-evolved around them. The practical implication: your earliest architectural choices have disproportionate permanence, so invest more deliberation there than seems warranted.

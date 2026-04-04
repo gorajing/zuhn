@@ -52,9 +52,9 @@ related:
   - INS-260403-D99D
   - INS-260327-52C1
   - INS-260325-5A93
+  - INS-260404-DD77
   - INS-260403-A8E8
   - INS-260403-DE45
-  - INS-260403-A290
 ---
 Graham identifies 'fraud' as the telltale word that distinguishes a hater from an ordinary critic. The logic is structural: a hater can't deny the target's fame (it's what triggers them), and they're convinced the target has no talent, so the only reconciliation is deception — the target must have tricked everyone. This makes 'fraud' accusations a reliable signal for filtering criticism.
 

@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-1677
   - INS-260403-37C4
+  - INS-260404-91A0
   - INS-260330-666E
   - INS-260403-172E
-  - INS-260404-6876
 ---
 Rather than directly coupling photon energy to glucose production, photosynthesis uses an intermediate buffering step: the electron transport chain pumps protons into the thylakoid, creating a concentration gradient. Protons then flow back through ATP Synthase, converting this stored potential into ATP on demand. This decouples the intermittent input (photons) from the downstream consumer (Calvin Cycle).
 

@@ -44,7 +44,7 @@ related:
   - INS-260404-2839
   - INS-260324-5481
   - INS-260327-2BE1
-  - INS-260327-25D7
+  - INS-260404-CD53
 ---
 GameStop core business was dead the moment digital distribution became viable because no amount of operational excellence can overcome the elimination of the physical product you exist to sell.
 

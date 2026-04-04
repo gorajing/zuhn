@@ -51,9 +51,9 @@ related:
   - INS-260403-BEAC
   - INS-260404-D4A0
   - INS-260404-DA2E
+  - INS-260404-32B5
   - INS-260403-0267
   - INS-260403-A172
-  - INS-260403-481F
 ---
 Paul Graham shares an anecdote of a VC investing in experienced founders whose business model he considered wrong — because he expected it to be wrong at that stage. The business model is just guesses about areas outside your expertise. Worse, a spectacularly wrong model creates a negative anchor: investors remember you as 'the company with the boneheaded money plan' rather than 'the company that solved that important problem.'
 

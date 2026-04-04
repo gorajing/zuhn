@@ -1,9 +1,10 @@
 # Topic: persuasion
 
-> 67 insights
+> 68 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
+- `INS-260404-DD77` [high] Never tell an audience you're passionate—show it through specificity and demeanor, because explicit confidence claims trigger bullshit detectors.
 - `INS-260403-2F86` [high] Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
 - `INS-260404-6388` [high] When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
 - `INS-260404-F161` [high] In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.

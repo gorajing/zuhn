@@ -52,12 +52,13 @@ related:
   - INS-260403-1A73
   - INS-260403-8F31
   - INS-260403-035A
+  - INS-260404-4F3A
   - INS-260404-7609
   - INS-260403-419B
-  - INS-260404-2FC0
   - INS-260403-7072
   - INS-260404-AC2B
   - INS-260404-4024
+  - INS-260404-2FC0
 ---
 The biggest fear for early-stage investors is that founders have built something based on a priori theories about what the world needs. Market size figures ('it's a $5B market') don't address this fear at all — they're like an aspiring actor citing Tom Hanks' salary. What Sequoia calls 'proxy for demand' is far more convincing: what are people doing right now, with inadequate tools, that demonstrates they need your solution?
 

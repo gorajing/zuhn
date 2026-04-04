@@ -50,10 +50,10 @@ stance: >-
   change multiple times before you get it right.
 related:
   - INS-260403-3482
+  - INS-260404-32B5
   - INS-260403-C625
   - INS-260404-10FF
   - INS-260403-8346
-  - INS-260403-1852
   - INS-260403-2DE3
   - INS-260403-6A55
 ---

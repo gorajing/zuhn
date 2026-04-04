@@ -51,10 +51,11 @@ stance: >-
   even when the original solution becomes half-broken under new conditions.
 related:
   - INS-260330-7B09
-  - INS-260330-8BF6
   - INS-260330-BFA2
   - INS-260403-05D8
   - INS-260404-EC33
+  - INS-260330-8BF6
+  - INS-260404-47F5
   - INS-260403-9442
 ---
 RuBisCo, the enzyme responsible for carbon fixation in all plants, was evolved in a low-oxygen atmosphere where it worked adequately. When plants themselves raised atmospheric oxygen levels, RuBisCo started grabbing O2 instead of CO2 roughly half the time, producing toxic byproducts. Yet plants had already built their entire metabolic architecture around it.

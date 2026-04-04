@@ -3,10 +3,10 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 286 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 216 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 196 | 2026-03-31 |
-| How to Do Great Work | blog | 130 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 290 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 221 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 201 | 2026-03-31 |
+| How to Do Great Work | blog | 134 | 2026-03-31 |
 | February 2025 Startups Raising Capital | blog | 40 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
@@ -918,6 +918,7 @@ Generated on 2026-04-04 | 2421 sources
 | Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 4 | 2026-03-30 |
 | Free AI Hiring Kit for Startup Founders | blog | 4 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
+| From Sci-Fi to Reality 🗣️ | blog | 4 | 2026-03-30 |
 | Gangster affordability | blog | 4 | 2026-03-30 |
 | Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 4 | 2026-03-30 |
 | Global Ranking of the Most Valuable Private Startups in 2025 | blog | 4 | 2026-03-30 |
@@ -2209,7 +2210,6 @@ Generated on 2026-04-04 | 2421 sources
 | From 0 to 56,500: Celebrating One Year of The VC Corner 🚀🎉 | blog | 0 | 2026-03-30 |
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
 | From Numbers to Narrative: Financial Modeling for Founders 📊 | blog | 0 | 2026-03-30 |
-| From Sci-Fi to Reality 🗣️ | blog | 0 | 2026-03-30 |
 | Gaming Superpowers for Non-Game Founders with Gabi Shalel (Plarium) & Gigi Levy-Weiss | blog | 0 | 2026-03-31 |
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
 | General and Surprising | blog | 0 | 2026-03-31 |

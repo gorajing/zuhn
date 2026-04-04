@@ -55,9 +55,9 @@ related:
   - INS-260330-3FF4
   - INS-260330-CC30
   - INS-260403-962E
+  - INS-260404-1D8F
   - INS-260404-4010
   - INS-260403-1110
-  - INS-260404-BC18
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, confuses oxygen for CO2 roughly half the time, creating toxic byproducts that plants must neutralize with additional enzymatic machinery. Despite this catastrophic inefficiency, every photosynthetic organism on Earth still uses it because the entire metabolic architecture was built around it.
 

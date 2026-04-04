@@ -55,12 +55,12 @@ related:
   - INS-260403-0F95
   - INS-260403-6620
   - INS-260403-74CD
-  - INS-260403-7292
   - INS-260403-2F86
   - INS-260404-58AE
   - INS-260404-E6EA
   - INS-260404-F3C6
   - INS-260404-5BBF
+  - INS-260403-A290
 ---
 Graham identifies a sharp asymmetry in how confidence signals are processed. Explicit claims ('we're passionate,' 'our product is great') are filtered out or actively penalized — audiences treat them as empty rhetoric or, worse, as bullshitter markers. But the same underlying message conveyed through body language, demo quality, and the way you talk about the problem lands with full force.
 

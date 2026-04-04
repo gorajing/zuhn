@@ -22,11 +22,13 @@
 - `INS-260403-CC25` Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - `INS-260403-66D0` Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
 - `INS-260403-BDBE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
+- `INS-260404-6C20` The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
 - `INS-260404-3212` Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
 - `INS-260404-CF2A` Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
+- `INS-260404-32B5` Smart early-stage investors expect your business model to be wrong—spend pitch time on the problem and product instead.
 - `INS-260404-4DF7` At early stage, your business model is probably wrong — talking about the problem you're solving sounds smarter and is more memorable than guesses about monetization.
 - `INS-260403-E319` Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
@@ -111,6 +113,7 @@
 - `INS-260403-F3FF` Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260404-F560` As a startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.
 - `INS-260403-86DB` Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
+- `INS-260404-167D` Pitch a narrow, concrete description first and expand later—vague descriptions register as zero content.
 - `INS-260403-F981` As a startup description approaches capturing everything it could become, its informational content approaches zero.
 - `INS-260403-20D6` Approach your pitch like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-B29D` Vague all-encompassing descriptions are parsed as meaningless boilerplate; narrow concrete descriptions create a working mental model investors can build on.
@@ -133,6 +136,7 @@
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 - `INS-260404-EF17` Replace market-size slides with concrete stories of specific users and the problems they face.
+- `INS-260404-4F3A` Specific user stories beat market-size slides because they directly counter the investor's primary fear: that nobody actually wants your product.
 - `INS-260404-EE85` Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 - `INS-260403-A65D` Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
 - `INS-260404-B01F` Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.

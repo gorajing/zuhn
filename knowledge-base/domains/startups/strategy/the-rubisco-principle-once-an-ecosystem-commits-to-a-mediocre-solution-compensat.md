@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260327-E4F1
   - INS-260330-B468
-  - INS-260330-EB1B
   - INS-260330-F9B4
   - INS-260403-F290
   - INS-260330-EB48
@@ -62,6 +61,7 @@ related:
   - INS-260403-C436
   - INS-260404-AE3C
   - INS-260330-B390
+  - INS-260330-7ECB
 evidence:
   - id: INS-260327-E4F1
     type: CONTRADICTS

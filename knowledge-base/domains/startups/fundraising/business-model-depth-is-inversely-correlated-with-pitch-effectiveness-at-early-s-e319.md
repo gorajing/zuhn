@@ -49,11 +49,11 @@ stance: >-
   with forgettable guesses
 related:
   - INS-260403-B008
+  - INS-260404-32B5
   - INS-260403-0267
   - INS-260403-3482
   - INS-260404-10FF
   - INS-260403-C496
-  - INS-260404-DA2E
   - INS-260403-D33B
   - INS-260403-FED1
   - INS-260403-481F

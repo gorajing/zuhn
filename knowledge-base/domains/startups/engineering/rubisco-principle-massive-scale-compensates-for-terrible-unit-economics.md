@@ -55,7 +55,6 @@ stance: >-
   for fundamentally flawed core processes by scaling volume rather than fixing
   the underlying mechanism
 related:
-  - INS-260330-7B09
   - INS-260330-D4CC
   - INS-260404-B20E
   - INS-260330-4489

@@ -58,7 +58,7 @@ related:
   - INS-260404-975A
   - INS-260404-6E7B
   - INS-260404-30CA
-  - INS-260404-E65A
+  - INS-260404-029D
 ---
 Costco turns three apparent disadvantages into compounding advantages. The mandatory membership fee ($60-$120) selects for households earning ~$100,000 average income. The warehouse layout that seems confusing forces customers through more aisles, increasing discovery and basket size. The bulk quantities attract business owners—one-third of members who drive two-thirds of sales.
 
