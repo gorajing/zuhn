@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 309 insights
+> 310 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -179,6 +179,7 @@
 - `INS-260329-B22B` [high] The surrogate vs. natural key choice embodies a universal trade-off between meaningful identifiers and stable abstractions.
 - `INS-260329-AC6E` [high] Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
 - `INS-260327-74CF` [high] The most dangerous pattern in history is repeating: powerful entities restrict access to transformative technology to maintain their position, whether ancient priests hoarding literacy or modern companies hoarding AI.
+- `INS-260403-368A` [high] Every era misses spectacular events from other eras, so temporal FOMO cancels itself out.
 - `INS-260330-0DF9` [high] At normal speed, an underwater gunshot is one event; at 27,450 fps, it becomes three distinct phenomena with separate physics.
 - `INS-260330-59E3` [high] Going from 30fps to 27,450fps doesn't just make underwater gunfire look smoother — it reveals three separate physical mechanisms that are categorically invisible at normal speed.
 - `INS-260330-A5C4` [high] Slowing time by 1000x reveals physical complexity that human perception is biologically incapable of registering.

@@ -49,11 +49,11 @@ stance: >-
   win, earning customer trust, then systematically asking what lateral
   feature-industries can be consolidated onto the same infrastructure.
 related:
-  - INS-260322-6DFC
+  - INS-260403-021D
   - PRI-260328-43F1
   - INS-260330-7FFE
   - INS-260330-EF74
-  - INS-260330-F22A
+  - INS-260322-6DFC
 evidence:
   - id: INS-260322-642F
     type: EXTENDS

@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260323-DA4E
   - INS-260327-8C74
+  - INS-260403-D294
   - INS-260323-A55A
   - INS-260329-36FF
-  - PRI-260325-2C13
 ---
 Humans struggle to reason about continuous quantities like time — 'life is short' remains an abstraction until you reframe it as discrete countable events. Graham's insight is that parenthood forces this conversion: you only get 52 weekends with your 2-year-old, only 8 Christmases where magic is real. When you see '8 of something' on a shelf, scarcity is obvious.
 

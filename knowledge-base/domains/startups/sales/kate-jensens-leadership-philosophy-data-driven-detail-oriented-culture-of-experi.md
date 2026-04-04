@@ -69,6 +69,7 @@ related:
   - INS-260403-B1F2
   - INS-260327-BE1F
   - INS-260328-711E
+  - INS-260403-AFCD
 evidence:
   - id: INS-260328-711E
     type: TRANSFERS_TO

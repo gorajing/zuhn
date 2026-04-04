@@ -67,6 +67,8 @@ related:
   - INS-260330-2E54
   - PRI-260323-1187
   - INS-260330-4BFD
+  - INS-260403-BADD
+  - INS-260403-D294
 evidence:
   - id: INS-260321-D959
     type: SUPPORTS

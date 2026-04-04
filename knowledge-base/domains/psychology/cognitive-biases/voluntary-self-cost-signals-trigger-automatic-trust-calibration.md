@@ -53,7 +53,6 @@ stance: >-
   Humans are hardwired to increase trust when a communicator voluntarily incurs
   a cost to their own position, because costly signals are harder to fake
 related:
-  - INS-260322-627E
   - PRI-260320-5947
   - INS-260329-EF96
   - INS-260329-DC86

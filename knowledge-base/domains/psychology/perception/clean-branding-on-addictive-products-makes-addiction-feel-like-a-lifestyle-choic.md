@@ -41,10 +41,10 @@ stance: >-
   recognizing the addiction risk.
 related:
   - INS-260327-FCC4
+  - INS-260403-E652
   - INS-260323-369C
   - INS-260327-86FE
   - INS-260330-A33E
-  - PRI-260328-1545
 ---
 When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wellness products rather than recognizing the addiction risk.
 

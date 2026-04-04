@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 34 insights
+> 35 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -35,4 +35,5 @@
 - `INS-260403-FF57` [medium] Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 - `INS-260403-BA5D` [medium] In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - `INS-260403-E592` [medium] Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
+- `INS-260403-AFCD` [medium] Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
 - `INS-260330-A1DB` [medium] India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.

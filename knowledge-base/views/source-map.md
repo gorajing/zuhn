@@ -247,6 +247,7 @@ Generated on 2026-04-04 | 2421 sources
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
 | 1,000,000 | blog | 5 | 2026-03-31 |
+| 12 Financial Models📊, Claude Opus 4.6🤖, AI Dominates🔥 | blog | 5 | 2026-03-30 |
 | 12 Ruthless CEO Emails Every Founder Should Study | blog | 5 | 2026-03-30 |
 | 18 Lessons from Harry Stebbings That Every Founder Should Know | blog | 5 | 2026-03-30 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
@@ -449,6 +450,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Brutally Honest 10-Year Startup Journey Map | blog | 5 | 2026-03-30 |
 | The Bus Ticket Theory of Genius | blog | 5 | 2026-03-31 |
 | The Creator Economy 2025 | blog | 5 | 2026-03-30 |
+| The Dark Side of the 9-9-6 Work Culture⏰, AI's Impact on SaaS Growth🤖, VCs Are Rethinking Deal Sourcing🔍 | blog | 5 | 2026-03-30 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The economic consequences of the Iran war | blog | 5 | 2026-03-30 |
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
@@ -488,6 +490,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | There isn't always a "long arc" of morality | blog | 5 | 2026-03-30 |
 | Trapped in the hell of social comparison | blog | 5 | 2026-03-30 |
+| Travis Kalanick: 10 Lessons on Stealth Building, Physical AI, and His New Startup Adams (2026) | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
 | Updated thoughts on AI risk | blog | 5 | 2026-03-30 |
@@ -761,6 +764,7 @@ Generated on 2026-04-04 | 2421 sources
 | Your life needs more ‘existential grit.’ Here’s how to find it | Kate Bowler | youtube | 5 | 2026-03-25 |
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
+| 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 4 | 2026-03-30 |
@@ -796,6 +800,8 @@ Generated on 2026-04-04 | 2421 sources
 | Could VC be a Casualty of the Recession? | blog | 4 | 2026-03-31 |
 | Crazy New Ideas | blog | 4 | 2026-03-31 |
 | Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
+| Cybersecurity’s Future Belongs to Startups | blog | 4 | 2026-03-31 |
+| Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
@@ -844,6 +850,7 @@ Generated on 2026-04-04 | 2421 sources
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
 | Subject: Airbnb | blog | 4 | 2026-03-31 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
+| The Acceleration of Addictiveness | blog | 4 | 2026-03-31 |
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
 | The Anatomy of Determination | blog | 4 | 2026-03-31 |
@@ -1033,6 +1040,7 @@ Generated on 2026-04-04 | 2421 sources
 | Vectors | Chapter 1, Essence of linear algebra | youtube | 4 | 2026-03-30 |
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
+| What Will We Miss? | youtube | 4 | 2026-03-30 |
 | What’s the Future of Vertical SaaS in an AGI World? Jamie Cuffe, CEO of Pace | youtube | 4 | 2026-03-26 |
 | Where to invest in a multipolar world (WW3?) | youtube | 4 | 2026-03-22 |
 | Why 90% of Startup CEOs Are Failing | John Kim Sendbird | youtube | 4 | 2026-03-23 |
@@ -1761,7 +1769,6 @@ Generated on 2026-04-04 | 2421 sources
 | @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 0 | 2026-03-30 |
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 0 | 2026-03-30 |
-| 10 Characteristics of Great Value Propositions | blog | 0 | 2026-03-31 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 0 | 2026-03-31 |
 | 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 0 | 2026-03-31 |
@@ -1769,7 +1776,6 @@ Generated on 2026-04-04 | 2421 sources
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
 | $1,000 Head Start For America's Youth | blog | 0 | 2026-03-30 |
 | 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 0 | 2026-03-30 |
-| 12 Financial Models📊, Claude Opus 4.6🤖, AI Dominates🔥 | blog | 0 | 2026-03-30 |
 | 12 Mistakes To Avoid When Turning An Idea Into A Business | blog | 0 | 2026-03-31 |
 | 121 Startups Fundraising Right Now (With Pitch Decks) | Exclusive Deal Flow for 2025 | blog | 0 | 2026-03-30 |
 | 13 Essential Strategyzer Links On Organizational Culture | blog | 0 | 2026-03-31 |
@@ -1992,8 +1998,6 @@ Generated on 2026-04-04 | 2421 sources
 | 🤩 Community Wisdom: Understanding designer jargon, eng vs. PM responsibilities, finding user research participants, creating shareable usage stats, and roadmaps informing OKRs | blog | 0 | 2026-03-31 |
 | Copy What You Like | blog | 0 | 2026-03-31 |
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
-| Cybersecurity’s Future Belongs to Startups | blog | 0 | 2026-03-31 |
-| Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 0 | 2026-03-30 |
 | Dario Amodei, AGI, and the Long Game of Safe AI | blog | 0 | 2026-03-30 |
 | Data-Driven Equity Splitting📊, The Path to PMF, Figma's $12.5 Bn Valuation🎨 | blog | 0 | 2026-03-30 |
 | DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup Guide | blog | 0 | 2026-03-30 |
@@ -2228,7 +2232,6 @@ Generated on 2026-04-04 | 2421 sources
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
 | The 60-year-old code behind $5 trillion in healthcare | blog | 0 | 2026-03-30 |
-| The Acceleration of Addictiveness | blog | 0 | 2026-03-31 |
 | The Agrifoodtech Effect 🍽️ | blog | 0 | 2026-03-30 |
 | The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
 | The Airbnbs | blog | 0 | 2026-03-31 |
@@ -2241,7 +2244,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Citrini post is just a scary bedtime story | blog | 0 | 2026-03-30 |
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
-| The Dark Side of the 9-9-6 Work Culture⏰, AI's Impact on SaaS Growth🤖, VCs Are Rethinking Deal Sourcing🔍 | blog | 0 | 2026-03-30 |
 | The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 0 | 2026-03-30 |
 | The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
 | The End of SaaS⚡, Fintech Trends Q3 2024💳, Optionality in Venture Funds💡 | blog | 0 | 2026-03-30 |
@@ -2321,7 +2323,6 @@ Generated on 2026-04-04 | 2421 sources
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
 | Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 0 | 2026-03-30 |
 | Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 0 | 2026-03-30 |
-| Travis Kalanick: 10 Lessons on Stealth Building, Physical AI, and His New Startup Adams (2026) | blog | 0 | 2026-03-30 |
 | Trolls | blog | 0 | 2026-03-31 |
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Two Kinds of Judgement | blog | 0 | 2026-03-31 |
@@ -2418,7 +2419,6 @@ Generated on 2026-04-04 | 2421 sources
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
 | What If Everyone JUMPED At Once? | youtube | 0 | 2026-03-30 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 0 | 2026-03-30 |
-| What Will We Miss? | youtube | 0 | 2026-03-30 |
 | When You Truly Work for Yourself | youtube | 0 | 2026-03-30 |
 | Why Are Things Creepy? | youtube | 0 | 2026-03-30 |
 | Why Costco is Cheaper than Amazon | youtube | 0 | 2026-03-30 |

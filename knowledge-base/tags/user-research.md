@@ -2,9 +2,9 @@
 
 - `INS-260327-89E4` Stop running surveys—face-to-face interviews reveal the real pain points that users can't articulate in forms.
 - `INS-260327-DB8F` PMF is not strategy—it's the volume of genuine user conversations you have.
+- `INS-260403-D7DF` Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260320-080B` Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
-- `INS-260403-D7DF` Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-6CE6` Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-E69C` Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.

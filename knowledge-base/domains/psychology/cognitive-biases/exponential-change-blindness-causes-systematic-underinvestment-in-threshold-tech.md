@@ -55,6 +55,7 @@ related:
   - INS-260330-C499
   - PRI-260403-50EF
   - INS-260325-90C6
+  - INS-260403-D294
 ---
 The essay explicitly calls out that humans are 'inherently bad at expecting exponential change, even though it's so common in fields like investing, or biology.' This cognitive bias — expecting linear progress when the underlying dynamics are exponential — creates a systematic market inefficiency in longevity investing and research funding.
 

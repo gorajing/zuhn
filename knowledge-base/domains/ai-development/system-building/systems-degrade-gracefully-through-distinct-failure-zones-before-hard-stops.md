@@ -49,7 +49,6 @@ related:
   - INS-260330-5A13
   - INS-260330-5FED
   - INS-260330-A3B7
-  - INS-260330-D88C
 stance: Minecraft shows five distinct degradation zones before total failure
 evidence:
   - id: INS-260330-D7CC

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 453 insights
+> 457 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -188,6 +188,7 @@
 - `INS-260327-4F94` [high] Health services promoted through influencer sponsorships face disproportionate backlash when problems emerge because fol
 - `INS-260330-8D4F` [high] DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
 - `INS-260327-0B3B` [high] American cities built around cars resist public transit investment because the car-centric infrastructure creates consti
+- `INS-260403-9E2D` [high] A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
 - `INS-260330-DD63` [high] Innovation clusters geographically because innovators need complementary tech, talent, and early-adopter customers co-located.
 - `INS-260330-DC14` [high] Innovation clusters emerge where multiple competing entities operate near an unexplored frontier — remove either decentralization or the frontier and innovation dies.
 - `INS-260324-8656` [high] GoPro launched 9 generations and 20 models in 10 years, flooding the market with trivial improvements — Insta360 stayed quietly product-first with soft-spoken founders and grew to a $10B valuation.
@@ -251,6 +252,7 @@
 - `INS-260326-841D` [high] Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
 - `INS-260403-35E7` [high] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260402-4605` [high] Eminence constrains innovation more than obscurity constrains execution.
+- `INS-260403-A862` [high] Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
 - `INS-260403-262F` [high] RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
 - `INS-260330-B468` [high] Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260330-11EB` [high] RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
@@ -349,6 +351,7 @@
 - `INS-260325-1585` [high] Subscriptions shifted from delivering value to exploiting inertia — most extract more from convenience-addiction than they provide in service.
 - `INS-260330-9313` [high] Apple's high-quality iPhones flood secondary markets, forcing new models to compete against still-excellent used versions of themselves.
 - `INS-260330-27E8` [high] Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
+- `INS-260403-7E95` [high] Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - `INS-260329-7CDE` [high] Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260403-65D2` [high] Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
 - `INS-260324-A9DF` [high] Taco Bell outperforms McDonald's, Burger King, and KFC in per-store earnings because Yum Brands concentrated resources on its winner while letting KFC and Pizza Hut stagnate.
@@ -383,6 +386,7 @@
 - `INS-260330-5F7E` [high] Creating enormous value doesn't guarantee capturing any of it — airlines created more value than Google but captured approximately zero cumulative profit over 100 years.
 - `INS-260330-A0AE` [high] Creating enormous value (X) guarantees nothing about capturing it (Y%) — airlines created $195B in revenue but cumulative profits ≈ zero over 100 years, while Google captured far more from a smaller market.
 - `INS-260330-228D` [high] The amount of value you create for the world has no relationship to how much of that value you keep — industry structure determines capture.
+- `INS-260403-8402` [high] Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260403-37FD` [high] Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
 - `INS-260328-F752` [high] VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
 - `INS-260327-94FE` [high] Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.

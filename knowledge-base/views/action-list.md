@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3446 actionable insights
+Generated on 2026-04-04 | 3454 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1095,6 +1095,8 @@ Generated on 2026-04-04 | 3446 actionable insights
 - [INS-260403-45D5] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
 - [INS-260403-D06F] Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
 - [INS-260403-F075] Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
+- [INS-260403-D294] Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
+- [INS-260403-3BD3] If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1256,6 +1258,7 @@ Generated on 2026-04-04 | 3446 actionable insights
 - [INS-260403-3CD9] Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - [INS-260403-FA30] Coders knocked out of flow need 15+ minutes to return — if they can return at all.
 - [INS-260403-DDEB] Flow triggers most reliably when challenge slightly exceeds skill — stretch but don't snap.
+- [INS-260403-6CE8] We'll increasingly be defined by what we say no to, as the default environment becomes saturated with compelling distractions.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -2061,6 +2064,8 @@ Generated on 2026-04-04 | 3446 actionable insights
 - [INS-260403-35E7] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - [INS-260403-3C9D] LVMH's free sanitizer from perfume factories bought permanent brand reclassification as a socially responsible corporation.
 - [INS-260403-D328] Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
+- [INS-260403-9E2D] A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
+- [INS-260403-7E95] Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3034,6 +3039,7 @@ Generated on 2026-04-04 | 3446 actionable insights
 - [INS-260403-5EB4] In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 - [INS-260403-8BE9] Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
 - [INS-260403-20B1] Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
+- [INS-260403-AFCD] Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -3187,6 +3193,8 @@ Generated on 2026-04-04 | 3446 actionable insights
 - [INS-260403-C4CD] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - [INS-260403-E86E] The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - [INS-260403-A8F3] Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
+- [INS-260403-0D90] Customers rarely choose products on function alone — emotional belonging and social perception are often the decisive factors.
+- [INS-260403-0196] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

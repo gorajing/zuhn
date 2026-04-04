@@ -53,7 +53,6 @@ stance: >-
   into portfolio companies while reducing operational complexity.
 related:
   - INS-260322-8D47
-  - INS-260327-7B2B
   - INS-260327-E1EB
   - INS-260327-473D
   - INS-260330-27E8

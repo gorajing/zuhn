@@ -54,7 +54,6 @@ stance: >-
   them of their own unexplored potential
 related:
   - INS-260323-D621
-  - INS-260327-8B1A
   - INS-260328-7CA9
   - INS-260327-200C
   - PRI-260403-5C44

@@ -53,6 +53,7 @@ related:
   - INS-260403-AEAF
   - PRI-260328-33E5
   - INS-260403-0B14
+  - INS-260403-7E95
 stance: >-
   When an industry treats marketing as beneath it, the first firm to market
   aggressively gains a permanent structural advantage.

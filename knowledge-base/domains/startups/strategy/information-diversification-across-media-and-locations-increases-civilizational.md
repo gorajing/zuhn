@@ -55,11 +55,11 @@ stance: >-
   and locations is a more robust survival strategy than concentrating it in one
   optimized archive.
 related:
+  - INS-260403-6AD0
   - INS-260330-466E
   - INS-260327-691F
   - INS-260325-415A
   - INS-260330-FFAB
-  - INS-260323-1811
 evidence:
   - id: INS-260323-1811
     type: TRANSFERS_TO

@@ -1,5 +1,6 @@
 # Tag: cultural-evolution
 
+- `INS-260403-A22E` It took roughly 100 years for society to develop customs against cigarettes, but new addictive technologies now emerge every few years.
 - `INS-260330-F8B6` The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
 - `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260402-1CAD` Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload.

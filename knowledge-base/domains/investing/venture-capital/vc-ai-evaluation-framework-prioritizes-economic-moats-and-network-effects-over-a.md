@@ -53,7 +53,6 @@ stance: >-
   The primary filter for AI startup investment should be defensibility through
   proprietary data and network effects, not the sophistication of the AI itself
 related:
-  - INS-260323-7B63
   - INS-260322-22D0
   - INS-260330-B5DF
   - INS-260403-5BFB
