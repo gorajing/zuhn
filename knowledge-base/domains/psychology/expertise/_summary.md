@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 37 insights
+> 39 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
@@ -21,12 +21,14 @@
 - `INS-260403-A06E` [high] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
 - `INS-260330-7D21` [high] Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260330-F6B1` [high] Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
+- `INS-260403-D2A5` [high] Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260403-B6FD` [high] False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260402-72EF` [high] Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260402-0D16` [high] Programming languages shape how practitioners think, making adoption a cognitive transformation rather than a simple tool swap — which is why features take decades to go mainstream.
 - `INS-260330-2666` [high] Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
 - `INS-260402-E11A` [high] If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
 - `INS-260403-7093` [high] Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
+- `INS-260403-EDB9` [high] The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260403-A1DF` [high] Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-D022` [high] Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - `INS-260403-83E2` [medium] Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.

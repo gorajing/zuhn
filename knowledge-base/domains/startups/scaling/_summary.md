@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 119 insights
+> 120 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -105,6 +105,7 @@
 - `INS-260330-2D53` [medium] China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
 - `INS-260329-2612` [medium] Consistent hashing maps both nodes and data onto a ring, so adding or removing a node only redistributes a fraction of data rather than reshuffling everything.
 - `INS-260329-A80B` [medium] Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
+- `INS-260403-3A7A` [medium] Inconsistent cross-department innovation collaboration signals the need to formalize innovation processes with dedicated tooling.
 - `INS-260403-FCD7` [medium] YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260403-6061` [medium] Innovation culture transformation at scale takes 3-5 years with committed leadership; without leadership commitment, it takes forever.
 - `INS-260330-1F41` [medium] Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.

@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 47 insights
+> 48 insights
 
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
@@ -19,6 +19,7 @@
 - `INS-260330-9931` [high] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260330-FD28` [high] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
 - `INS-260402-8ACF` [high] Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
+- `INS-260403-EB12` [high] True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260330-C9A6` [high] Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260402-40D7` [high] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260403-B9E5` [high] Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.

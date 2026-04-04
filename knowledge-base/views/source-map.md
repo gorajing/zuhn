@@ -423,6 +423,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating Giants | blog | 5 | 2026-03-30 |
 | The Brand Age | blog | 5 | 2026-03-31 |
 | The Bus Ticket Theory of Genius | blog | 5 | 2026-03-31 |
+| The Creator Economy 2025 | blog | 5 | 2026-03-30 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
 | The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
@@ -453,6 +454,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Submarine | blog | 5 | 2026-03-31 |
 | The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
+| The Ultimate Guide to Writing Powerful AI Prompts | blog | 5 | 2026-03-30 |
 | The Verticalization of Everything | blog | 5 | 2026-03-31 |
 | The Wartime CEO: 9 Leadership Principles for Strong Startups | blog | 5 | 2026-03-31 |
 | The Weeb Economy | blog | 5 | 2026-03-30 |
@@ -462,6 +464,7 @@ Generated on 2026-04-04 | 2421 sources
 | Undergraduation | blog | 5 | 2026-03-31 |
 | Updated thoughts on AI risk | blog | 5 | 2026-03-30 |
 | VC 3.0: How AI Is Changing Startup Funding Forever | blog | 5 | 2026-03-30 |
+| VC Return Analysis: Single-Tab Model for Faster Decisions | blog | 5 | 2026-03-30 |
 | Venture Debt for Startups: 6 Must-Know Lessons Before You Sign the Term Sheet | blog | 5 | 2026-03-30 |
 | Was Brex's Acquisition A Failure? | blog | 5 | 2026-03-30 |
 | Web 2.0 | blog | 5 | 2026-03-31 |
@@ -726,6 +729,7 @@ Generated on 2026-04-04 | 2421 sources
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
+| Best innovation management software for your business | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
@@ -739,11 +743,15 @@ Generated on 2026-04-04 | 2421 sources
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
+| SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
+| The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
+| The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
+| The Word "Hacker" | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | 10 Reasons Why Your Small Business Will Fail - and How To Avoid These Tragic Mistakes | youtube | 4 | 2026-03-23 |
 | 100+ JavaScript Concepts you Need to Know | youtube | 4 | 2026-03-30 |
@@ -1811,7 +1819,6 @@ Generated on 2026-04-04 | 2421 sources
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
-| Best innovation management software for your business | blog | 0 | 2026-03-31 |
 | Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
 | Beyond Smart | blog | 0 | 2026-03-31 |
 | Bill Gates's €1bn Climate fund🔋, Paths to Product-Market Fit🎯, State of AI investing📊 | blog | 0 | 2026-03-30 |
@@ -2122,7 +2129,6 @@ Generated on 2026-04-04 | 2421 sources
 | Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank Lessons for Founders | blog | 0 | 2026-03-30 |
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
-| SaaS Cohort Analysis Model + Excel Template | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 0 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 0 | 2026-03-30 |
@@ -2181,7 +2187,6 @@ Generated on 2026-04-04 | 2421 sources
 | The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
 | The Airbnbs | blog | 0 | 2026-03-31 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
-| The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 0 | 2026-03-30 |
 | The Anatomy of Determination | blog | 0 | 2026-03-31 |
 | The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 0 | 2026-03-30 |
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
@@ -2191,7 +2196,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Case for Big Action to Regulate Artificial Intelligence | blog | 0 | 2026-03-30 |
 | The Citrini post is just a scary bedtime story | blog | 0 | 2026-03-30 |
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
-| The Creator Economy 2025 | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
 | The Dark Side of the 9-9-6 Work Culture⏰, AI's Impact on SaaS Growth🤖, VCs Are Rethinking Deal Sourcing🔍 | blog | 0 | 2026-03-30 |
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 0 | 2026-03-30 |
@@ -2238,7 +2242,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 0 | 2026-03-30 |
 | The Real Reason to End the Death Penalty | blog | 0 | 2026-03-31 |
 | The Reddits | blog | 0 | 2026-03-31 |
-| The Right Kind of Stubborn | blog | 0 | 2026-03-31 |
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 0 | 2026-03-30 |
 | The Rise of the AI Underground | blog | 0 | 2026-03-31 |
 | The Risk of Discovery | blog | 0 | 2026-03-31 |
@@ -2259,7 +2262,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Two Kinds of Moderate | blog | 0 | 2026-03-31 |
 | The Ultimate Go-To-Market Strategy Framework 🚀 | blog | 0 | 2026-03-30 |
 | The Ultimate Guide to Finding Investors for Your Startup 🚀 | blog | 0 | 2026-03-30 |
-| The Ultimate Guide to Writing Powerful AI Prompts | blog | 0 | 2026-03-30 |
 | The Ultimate Investors List of Lists 🚀 | blog | 0 | 2026-03-30 |
 | The Ultimate Open-Source AI Agent Directory | blog | 0 | 2026-03-30 |
 | 🎯 The Ultimate Pitch Deck Collection | blog | 0 | 2026-03-30 |
@@ -2285,7 +2287,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Venture Capital Apocalypse | blog | 0 | 2026-03-30 |
 | The Venture Capital Playbook | blog | 0 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 0 | 2026-03-31 |
-| The Word "Hacker" | blog | 0 | 2026-03-31 |
 | This Week #0: Advice on growth, product, and leadership | blog | 0 | 2026-03-31 |
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
@@ -2299,7 +2300,6 @@ Generated on 2026-04-04 | 2421 sources
 |  | blog | 0 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 0 | 2026-03-30 |
 | VC Math Explained📊, Grow with Roll-Ups 🔄, The Top 1%🧠 | blog | 0 | 2026-03-30 |
-| VC Return Analysis: Single-Tab Model for Faster Decisions | blog | 0 | 2026-03-30 |
 | VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |
 | Venture Capital Unveiled: Time for Change! | blog | 0 | 2026-03-30 |
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 0 | 2026-03-30 |

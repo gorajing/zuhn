@@ -48,7 +48,7 @@ related:
   - PRI-260323-00C6
   - INS-260403-8DE1
   - INS-260329-3177
-  - PRI-260403-4612
+  - INS-260403-F148
 stance: >-
   AI infrastructure includes human expectations, staff training, and cultural
   readiness — not just data pipelines and cloud credits.

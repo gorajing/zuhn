@@ -47,7 +47,6 @@ stance: >-
   on unstructured creativity, because structure de-risks experimentation and
   creates repeatable processes.
 related:
-  - INS-260330-19F1
   - INS-260402-4605
   - INS-260403-6731
   - INS-260403-6AB5

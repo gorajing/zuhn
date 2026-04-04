@@ -17,6 +17,7 @@
 - `INS-260402-EC9F` Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260403-E642` Innovating the business model itself—not just the product—is the primary driver of durable market disruption.
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
+- `INS-260329-D5FF` Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
 - `INS-260325-0895` Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
 - `INS-260330-413D` Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.
 - `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.
@@ -44,7 +45,6 @@
 - `INS-260330-8326` Apple's refusal to make large acquisitions is its competitive advantage, not a missed opportunity.
 - `INS-260330-DDF0` Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
-- `INS-260329-D5FF` Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
 - `INS-260323-8392` Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260330-49C8` DoorDash founders personally delivering food, dispatching drivers, and handling support gave them the domain expertise to design their dispatch algorithm and customer experience — manual work is competitive intelligence, not just bootstrapping.
 - `INS-260330-7CC0` Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
@@ -56,8 +56,8 @@
 - `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
-- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260403-4423` Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
+- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260403-9AB5` Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.

@@ -56,8 +56,8 @@ related:
   - INS-260323-0961
   - INS-260330-363D
   - INS-260330-9743
-  - INS-260330-1B74
   - INS-260330-AEE3
+  - INS-260330-206B
 stance: 'In transcendental consciousness, thinking dissolves but ''I am'' remains'
 evidence:
   - id: INS-260323-0961

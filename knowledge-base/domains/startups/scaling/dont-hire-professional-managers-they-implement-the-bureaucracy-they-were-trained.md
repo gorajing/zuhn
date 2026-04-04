@@ -50,7 +50,6 @@ stance: >-
   the hierarchical command-and-control systems they were trained to consider
   'good management.'
 related:
-  - INS-260327-C464
   - INS-260327-2B75
   - INS-260322-D5EB
   - INS-260402-0727

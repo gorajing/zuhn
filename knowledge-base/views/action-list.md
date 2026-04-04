@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3241 actionable insights
+Generated on 2026-04-04 | 3246 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1008,6 +1008,7 @@ Generated on 2026-04-04 | 3241 actionable insights
 - [INS-260402-0BFF] Having zero controversial private opinions is evidence of conformity, not correctness.
 - [INS-260403-C5BA] Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn.
 - [INS-260403-B462] Brand recognition is so powerful in art judgment that the Mona Lisa shown anonymously would be walked past by most viewers.
+- [INS-260403-57F6] Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1070,6 +1071,7 @@ Generated on 2026-04-04 | 3241 actionable insights
 - [INS-260403-420A] Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - [INS-260403-F1C6] Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - [INS-260403-225B] A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
+- [INS-260403-EB12] True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -2384,6 +2386,7 @@ Generated on 2026-04-04 | 3241 actionable insights
 - [INS-260402-F5E0] Break vague reluctance into specific fears to discover most are unfounded.
 - [INS-260402-8C0E] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
 - [INS-260402-4B96] Startups are where gaming the system stops working because users only care if your product solves their problem.
+- [INS-260403-3E9A] Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -2740,6 +2743,7 @@ Generated on 2026-04-04 | 3241 actionable insights
 - [INS-260403-0701] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - [INS-260403-CF09] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - [INS-260403-47BF] Lack of structured innovation processes is itself a warning sign that the organization is behind.
+- [INS-260403-F148] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3006,6 +3010,7 @@ Generated on 2026-04-04 | 3241 actionable insights
 - [INS-260403-9AB5] Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
 - [INS-260403-2DB2] Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - [INS-260403-9B5D] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
+- [INS-260403-FB4D] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

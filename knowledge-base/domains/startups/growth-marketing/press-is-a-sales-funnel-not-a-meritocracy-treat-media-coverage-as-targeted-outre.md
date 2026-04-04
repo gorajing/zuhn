@@ -57,7 +57,6 @@ stance: >-
   memorized before meetings, and deliberate scheduling — not organic discovery
   by journalists seeking the best stories.
 related:
-  - INS-260327-B8E5
   - INS-260327-E9F3
   - INS-260327-A815
   - INS-260329-75B6

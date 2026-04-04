@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260403-F0DF
   - INS-260402-4605
+  - INS-260403-1B53
+  - INS-260403-0372
   - INS-260321-E654
   - INS-260403-EFAF
-  - INS-260330-3FCF
-  - INS-260322-88C3
 ---
 Osterwalder and Pigneur insist that the Chief Entrepreneur must have 'prestige and power'—not just a title, but genuine organizational authority equal to the execution side of the house. This is a specific structural prescription, not just a platitude about valuing innovation.
 

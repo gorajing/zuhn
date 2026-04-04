@@ -1,10 +1,10 @@
 # Tag: defensibility
 
 - `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
-- `INS-260403-5DD7` Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
+- `INS-260403-5DD7` Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
 - `INS-260403-BE7C` Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
 - `INS-260403-D62F` AI marketplace defensibility scales with the difficulty of organizing previously offline or fragmented supply, not model sophistication.

@@ -19,9 +19,9 @@
 - `INS-260330-37F6` Plot percent monthly active vs days-since-acquisition by cohort; if the curve flattens you have PMF, if not stop all growth tactics and fix the product.
 - `INS-260330-D41A` A retention curve that flattens proves product-market fit; one that slopes to zero means growth tactics are premature.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
-- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-1A73` Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
+- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
 - `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
 - `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.

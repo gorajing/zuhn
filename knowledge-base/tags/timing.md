@@ -25,6 +25,7 @@
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260403-07C6` Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
 - `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
+- `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260403-1AE5` New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
 - `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
 - `INS-260323-1494` Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.

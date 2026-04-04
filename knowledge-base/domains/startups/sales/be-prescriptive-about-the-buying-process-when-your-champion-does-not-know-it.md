@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260325-FDF5
   - INS-260330-C095
+  - INS-260403-FB4D
   - INS-260327-6B78
   - PRI-260327-117F
-  - INS-260330-F4DD
 evidence:
   - id: INS-260325-FDF5
     type: CONTRADICTS

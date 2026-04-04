@@ -13,6 +13,7 @@
 - `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
 - `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
+- `INS-260403-FB4D` Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 - `INS-260330-6D59` Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward.
 - `INS-260403-2DB2` Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - `INS-260323-C90C` True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.

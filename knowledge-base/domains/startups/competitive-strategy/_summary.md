@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 418 insights
+> 419 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -381,6 +381,7 @@
 - `INS-260327-D285` [medium] Don't just build a better product—build a business model that makes incumbents look exploitative.
 - `INS-260327-D570` [medium] The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
 - `INS-260402-D534` [medium] Business models emerge from iterative experimentation, not from top-down strategic planning.
+- `INS-260403-B1D6` [medium] Countries with stronger civil liberties grow richer because open discourse selects for efficient solutions over politically favored ones.
 - `INS-260330-BC21` [medium] Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
 - `INS-260330-8D0C` [medium] The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.
 - `INS-260403-CA1E` [medium] Large companies shift from user-serving to user-exploiting, creating predictable openings for startups that genuinely serve users.

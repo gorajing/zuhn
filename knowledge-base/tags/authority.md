@@ -7,5 +7,6 @@
 - `INS-260403-5C1D` Authority-imposed tests are hackable proxies; market tests honestly measure only what they actually test.
 - `INS-260402-86C4` Adults hiding their flaws while enforcing high standards on children creates a generation that feels secretly, hopelessly inadequate compared to an illusion.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
+- `INS-260403-1B53` The same trait that makes hackers disrespectful of hierarchy is what makes them capable of breakthrough innovation.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
 - `INS-260327-F961` Start every sales conversation by establishing the doctor frame: 'Is it okay if I ask you a few questions to figure out what's going on, so I can make sure I recommend the right thing? Prescribing without diagnosis is malpractice.'

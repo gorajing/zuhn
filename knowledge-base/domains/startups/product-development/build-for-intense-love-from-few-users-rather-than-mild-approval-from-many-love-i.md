@@ -47,11 +47,11 @@ stance: >-
   a product merely liked by many users almost never converts to love at scale.
 related:
   - INS-260330-9055
+  - INS-260403-3E9A
   - INS-260321-7D7C
   - INS-260403-A51A
   - INS-260403-B635
   - INS-260325-086C
-  - PRI-260325-7A6B
 evidence:
   - id: INS-260325-086C
     type: TRANSFERS_TO

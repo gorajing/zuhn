@@ -45,10 +45,10 @@ resolutions:
     safeguard that benefits everyone across time.
 related:
   - PRI-260323-287B
+  - INS-260403-B1D6
   - INS-260323-DEF0
   - INS-260325-C5AA
   - INS-260330-BE78
-  - INS-260325-FD0F
 stance: >-
   Both liberal and conservative Supreme Courts agree on free speech because each
   recognizes they may be in the minority tomorrow and will need speech...
