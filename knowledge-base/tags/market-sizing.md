@@ -2,6 +2,7 @@
 
 - `INS-260327-85E2` Cloud replaced software with software ($350B to $650B TAM); AI replaces services with software, starting from a tens-of-trillions base.
 - `INS-260322-BBED` AI's economic impact and design space exceeds the internet era, meaning more companies will reach $1B+ and $10B+ valuations than in previous technology cycles.
+- `INS-260403-101D` The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
 - `INS-260322-054E` The largest AI opportunity is not replacing existing software but replacing labor tasks where the cost-to-value equation was previously inverted.
 - `INS-260330-174B` Monopolies claim they're in huge markets to avoid regulation, while competitive businesses claim they're in tiny unique niches to attract capital — both are lying.
 - `INS-260330-420D` Monopolists frame themselves in huge markets (Google calls itself a 'technology company' in a $1T market) while struggling competitors claim tiny intersections ('the only British food restaurant in Palo Alto').

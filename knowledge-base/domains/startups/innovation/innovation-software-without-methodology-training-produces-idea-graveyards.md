@@ -46,7 +46,6 @@ stance: >-
   methodology and training programs, making methodology integration the single
   most important selection criterion over feature count.
 related:
-  - INS-260323-4794
   - INS-260327-FDF4
   - INS-260329-5901
   - INS-260330-DF31

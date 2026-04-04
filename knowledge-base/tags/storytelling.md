@@ -7,16 +7,16 @@
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260323-2627` Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
-- `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
-- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
-- `INS-260330-F4DD` Press works like a sales funnel: get warm intros through recently-covered founders, memorize your bullet-point narrative, invest reporters' time via face-to-face meetings, and follow up with collateral before launch day.
-- `INS-260327-3574` Pitch a mindset shift in the world, not your product's features — this transforms you from an arrogant doctor into a movement leader.
 - `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260403-4730` Fundraising has a binary transition point where signal rises above noise, making incremental pitch improvements less effective than crossing the threshold.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-035A` Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 - `INS-260403-1A73` Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
+- `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
+- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
+- `INS-260330-F4DD` Press works like a sales funnel: get warm intros through recently-covered founders, memorize your bullet-point narrative, invest reporters' time via face-to-face meetings, and follow up with collateral before launch day.
+- `INS-260327-3574` Pitch a mindset shift in the world, not your product's features — this transforms you from an arrogant doctor into a movement leader.
 - `INS-260327-D7AA` Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.
 - `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
 - `INS-260327-2E84` Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.

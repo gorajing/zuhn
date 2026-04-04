@@ -1,6 +1,7 @@
 # Tag: healthcare
 
 - `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
+- `INS-260403-D82B` Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 - `INS-260327-10E8` When healthcare is tied to employment, every layoff and career transition creates a gap in medical coverage that directly increases mortality risk.
 - `INS-260327-1F6A` Americans aged 25-44 are 2.5x more likely to die than peers in other wealthy nations, with a 20-year life expectancy gap between the richest and poorest US counties.
 - `INS-260403-4E71` Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.

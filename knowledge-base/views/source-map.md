@@ -3,9 +3,9 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 158 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 50 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 35 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 162 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 54 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 40 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -238,6 +238,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why fearlessness beats experience every time | Steve Stoute for Big Think+ | youtube | 6 | 2026-03-25 |
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
 | Code with claw | audio | 5 | 2026-03-31 |
+| SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
@@ -473,6 +474,7 @@ Generated on 2026-04-04 | 2421 sources
 | Web3 Gaming Is An Evolution, Not A Revolution - NFX | blog | 5 | 2026-03-31 |
 | What a liberal immigration enforcement policy might look like | blog | 5 | 2026-03-30 |
 | What Business Can Learn from Open Source | blog | 5 | 2026-03-31 |
+| What Comes Next Is Bigger Than SaaS Ever Was | blog | 5 | 2026-03-31 |
 | What Great Startups Do Differently to Find Product-Market Fit | blog | 5 | 2026-03-30 |
 | What Happened to Yahoo | blog | 5 | 2026-03-31 |
 | What Happened With Bio Anchors? | blog | 5 | 2026-03-30 |
@@ -487,6 +489,7 @@ Generated on 2026-04-04 | 2421 sources
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
 | Where does a liberal go from here? | blog | 5 | 2026-03-30 |
 | Where To Build Your Startup | blog | 5 | 2026-03-31 |
+| Where VCs Are Betting on AI in 2025 | blog | 5 | 2026-03-30 |
 | Why America's extremes will both fail | blog | 5 | 2026-03-30 |
 | Why does America feel worse than other countries? Crime. | blog | 5 | 2026-03-30 |
 | Why LatAm Is On The Rise | blog | 5 | 2026-03-31 |
@@ -1643,7 +1646,6 @@ Generated on 2026-04-04 | 2421 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| SVAI   Keynote 2 | audio | 0 | 2026-03-31 |
 | @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 0 | 2026-03-30 |
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 0 | 2026-03-30 |
@@ -2310,7 +2312,6 @@ Generated on 2026-04-04 | 2421 sources
 | Weird Languages | blog | 0 | 2026-03-31 |
 | Welcome to Chaos World | blog | 0 | 2026-03-30 |
 | What Can Quantum Computers Actually Do | blog | 0 | 2026-03-30 |
-| What Comes Next Is Bigger Than SaaS Ever Was | blog | 0 | 2026-03-31 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
 | What happens if the world pulls its money out of America? | blog | 0 | 2026-03-30 |
 | What I Read This Week… | blog | 0 | 2026-03-30 |
@@ -2329,7 +2330,6 @@ Generated on 2026-04-04 | 2421 sources
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
 | When To Do What You Love | blog | 0 | 2026-03-31 |
 | Where to See Silicon Valley | blog | 0 | 2026-03-31 |
-| Where VCs Are Betting on AI in 2025 | blog | 0 | 2026-03-30 |
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
 | Why are federal agents gunning down Americans in the streets? | blog | 0 | 2026-03-30 |

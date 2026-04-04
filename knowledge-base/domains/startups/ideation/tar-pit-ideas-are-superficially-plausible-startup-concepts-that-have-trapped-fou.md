@@ -60,7 +60,6 @@ related:
   - INS-260325-898A
   - INS-260327-CD36
   - INS-260329-ABD9
-  - INS-260330-3591
   - INS-260402-841D
 evidence:
   - id: INS-260330-3591

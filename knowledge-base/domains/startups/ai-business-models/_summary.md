@@ -1,8 +1,9 @@
 # Topic: ai-business-models
 
-> 13 insights
+> 14 insights
 
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
+- `INS-260403-101D` [high] The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
 - `INS-260322-EDA4` [high] New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - `INS-260325-FADB` [high] Open Router observes companies on their platform doing tens of millions in revenue with just five people, made possible by models powering what previously required large teams.
 - `INS-260322-54F3` [high] The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.

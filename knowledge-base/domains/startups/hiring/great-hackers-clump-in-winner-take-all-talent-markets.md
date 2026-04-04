@@ -42,7 +42,6 @@ stance: >-
   Talent attraction follows a power law where being slightly better than
   competitors yields disproportionately more great hackers, not linearly more.
 related:
-  - INS-260330-7241
   - INS-260330-2200
   - INS-260330-E881
   - INS-260402-46AD

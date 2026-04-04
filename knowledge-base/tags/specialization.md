@@ -9,8 +9,8 @@
 - `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260330-16B1` Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
 - `INS-260403-41BC` Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
-- `INS-260322-54F3` The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.
 - `INS-260327-C571` Finkel can read cuneiform scripts that perhaps only a handful of people alive can read - when these scholars die, the ability to directly access thousands of ancient texts may die with them.
+- `INS-260322-54F3` The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.
 - `INS-260327-E3DE` A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
 - `INS-260330-ACCD` China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.

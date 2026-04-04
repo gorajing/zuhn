@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 43 insights
+> 44 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -45,3 +45,4 @@
 - `INS-260325-B315` [medium] The 25-year boom after systemic collapse historically creates the most dramatic progress and opportunity.
 - `INS-260325-4300` [medium] Progress depends on feedback loops of belief, investment, and results — if society stops believing, it stops building.
 - `INS-260325-F306` [medium] From 1870-1920 humanity had five major technological revolutions; from 1970-2020 we had only one definitive one (computing) and possibly two.
+- `INS-260403-F160` [medium] Software history follows translation → creation → reality-breaking phases, and AI is entering the third phase where the constraint is vision, not capability.

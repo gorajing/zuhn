@@ -54,7 +54,6 @@ stance: >-
   mechanism, the system must develop compensatory workarounds rather than
   fundamental redesigns because the switching cost is prohibitive
 related:
-  - INS-260330-B71B
   - INS-260330-48F2
   - INS-260330-B3D5
   - INS-260330-C134
@@ -64,6 +63,7 @@ related:
   - INS-260330-0E77
   - INS-260330-B061
   - INS-260330-72E1
+  - INS-260330-F5CF
 evidence:
   - id: INS-260330-B061
     type: EXTENDS

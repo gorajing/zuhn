@@ -7,8 +7,8 @@
 - `INS-260321-2BF9` NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
 - `INS-260323-8DE7` NVIDIA created CUDA to let any programmer use GPU parallel processing via familiar languages — a speculative infrastructure bet that paid off when AI researchers adopted it for deep learning.
 - `INS-260323-6230` NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
-- `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260323-750A` Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
+- `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260321-D484` Jensen predicts $1T in NVIDIA bookings through 2027, but TSMC manufacturing is the real bottleneck — NVIDIA has locked up 70% of TSMC's 3nm node capacity.
 - `INS-260321-21BE` Google's TPU (Tensor Processing Unit) is already competitive for AI workloads, but NVIDIA's software ecosystem moat delays competitors — the 90% monopoly era will gradually end.
 - `INS-260323-7F36` The install base is the single most important factor for a computing platform; elegant architectures like RISC failed while the 'barely aesthetic' x86 survived because install base trumps design purity.

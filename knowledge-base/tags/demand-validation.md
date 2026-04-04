@@ -2,6 +2,7 @@
 
 - `INS-260403-3421` Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
 - `INS-260403-92EB` Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
+- `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-035A` Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
 - `INS-260403-F4F6` Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.

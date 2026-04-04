@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3276 actionable insights
+Generated on 2026-04-04 | 3287 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -222,6 +222,7 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260329-206D] Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - [INS-260330-4AD5] AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
 - [INS-260403-CE95] When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens.
+- [INS-260403-D82B] Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -229,6 +230,7 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260330-EE25] Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - [INS-260330-2154] When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.
 - [INS-260330-30CE] Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
+- [INS-260403-304E] RuBisCo was designed for low-oxygen atmospheres; when plants raised oxygen levels, it started failing silently half the time — a cautionary tale for AI model drift.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -1022,6 +1024,7 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260403-4363] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - [INS-260403-37D9] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - [INS-260403-7586] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
+- [INS-260403-9542] Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1688,6 +1691,7 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260322-EDA4] New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - [INS-260403-2E0F] The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
 - [INS-260403-3517] Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.
+- [INS-260403-101D] The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
 
 ## startups/bootstrapping
 - [INS-260320-39A3] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -2500,6 +2504,9 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260403-035A] Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
 - [INS-260403-2B6E] Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
 - [INS-260403-B9A9] Minimal profitability removes investors' ability to exploit founders' desperation for capital.
+- [INS-260403-5C8E] Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
+- [INS-260403-9679] Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
+- [INS-260403-39F9] Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2679,6 +2686,9 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260403-36D1] Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
 - [INS-260403-2759] Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 
+## startups/health-innovation
+- [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
+
 ## startups/hiring
 - [INS-260330-B525] PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
 - [INS-260330-B384] Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
@@ -2769,6 +2779,7 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260403-F148] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - [INS-260403-D62D] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
 - [INS-260403-FAD8] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
+- [INS-260403-E7E1] When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2902,6 +2913,9 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260330-FE65] Every exponential growth curve is actually the early phase of a logistic (S-curve) that must eventually saturate, so the key question is always when and where the inflection point hits.
 - [INS-260402-BA91] Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.
 - [INS-260403-A6AF] A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
+
+## startups/platform-dynamics
+- [INS-260403-15DD] When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 
 ## startups/problem-solving
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
@@ -3443,6 +3457,7 @@ Generated on 2026-04-04 | 3276 actionable insights
 - [INS-260403-F0C3] Always validate that customers want the core offering before optimizing secondary features.
 - [INS-260403-832E] Company launch and product launch are distinct events, and conflating them causes founders to delay fundraising unnecessarily.
 - [INS-260403-B635] Having a few users who truly love your product matters infinitely more than having many indifferent users.
+- [INS-260403-8CE6] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

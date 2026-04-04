@@ -50,7 +50,6 @@ resolutions:
     demanding direct proof.
 related:
   - INS-260323-2FC3
-  - INS-260322-9436
   - INS-260403-CBB0
   - INS-260330-A4A5
   - PRI-260328-39FA
@@ -59,6 +58,7 @@ related:
   - INS-260325-96FB
   - INS-260327-DC0B
   - INS-260330-AB5D
+  - INS-260403-2702
 stance: >-
   Physics forces you beyond the limitation of human senses to develop intuitions
   that apply at different distances, scales, and ways of thinking

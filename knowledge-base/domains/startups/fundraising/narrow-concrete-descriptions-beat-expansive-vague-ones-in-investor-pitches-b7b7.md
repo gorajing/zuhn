@@ -49,10 +49,10 @@ stance: >-
   approach zero information content.
 related:
   - INS-260330-87BD
+  - INS-260403-9679
   - INS-260403-2A1D
   - INS-260403-B3A4
   - INS-260402-529F
-  - INS-260327-BF43
 ---
 Founders resist narrow descriptions because early-stage startups have many possibilities, but as a description approaches 'could be anything,' its information content approaches zero. Investors discard vague boilerplate like 'collaboratively leverage the value of information' and wait impatiently for something concrete.
 

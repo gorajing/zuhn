@@ -60,7 +60,6 @@ related:
   - INS-260325-E1FA
   - INS-260327-D65E
   - INS-260329-075C
-  - INS-260402-876A
 ---
 Chase identifies a tension in agent design: running an LLM in a loop (ask what to do, execute, repeat) requires implicit planning ability that current models don't reliably have. The practical solution is 'flow engineering' (from the AlphaCodium paper): explicitly designing the graph or state machine of agent actions, effectively offloading planning from the model to human engineers.
 

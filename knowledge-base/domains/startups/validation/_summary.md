@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 96 insights
+> 98 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -14,6 +14,7 @@
 - `INS-260330-E089` [high] Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
 - `INS-260403-DF7F` [high] Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - `INS-260327-CECA` [high] Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
+- `INS-260403-8CE6` [high] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
 - `INS-260330-32E6` [high] When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
 - `INS-260403-DD95` [high] Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260403-B87D` [high] Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
@@ -54,6 +55,7 @@
 - `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
 - `INS-260403-DC32` [high] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
+- `INS-260403-D563` [high] RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
 - `INS-260403-BF09` [high] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260329-78CB` [high] High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.

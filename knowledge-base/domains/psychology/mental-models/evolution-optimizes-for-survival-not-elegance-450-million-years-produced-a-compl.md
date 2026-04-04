@@ -54,10 +54,10 @@ stance: >-
   of robustness not a bug to be fixed
 related:
   - INS-260329-5B50
+  - INS-260403-DC6C
   - PRI-260323-0F93
   - INS-260402-4AB4
   - INS-260403-3E9A
-  - INS-260327-E7A3
 evidence:
   - id: INS-260329-5B50
     type: CHALLENGES

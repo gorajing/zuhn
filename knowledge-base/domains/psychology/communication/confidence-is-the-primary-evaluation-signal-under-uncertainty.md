@@ -57,6 +57,7 @@ related:
   - INS-260330-5BC4
   - INS-260327-4367
   - INS-260329-13D2
+  - INS-260403-9542
 ---
 Graham identifies a fundamental dynamic in high-stakes presentations: when evaluators can't properly assess the substance (due to time constraints or knowledge gaps), they fall back on meta-signals — primarily, how confident the presenter seems. This isn't about telling people you're passionate or your product is great (audiences tune that out or write you off as a bullshitter). Confidence must be implicit, shown not told.
 

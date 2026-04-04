@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260322-823B
   - INS-260327-DCAF
+  - INS-260403-EA93
   - INS-260323-DA4A
   - INS-260330-A44F
-  - INS-260327-E0B0
 evidence:
   - id: INS-260322-823B
     type: TRANSFERS_TO

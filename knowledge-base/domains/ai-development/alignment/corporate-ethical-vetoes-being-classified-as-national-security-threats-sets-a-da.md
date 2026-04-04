@@ -51,9 +51,8 @@ stance: >-
   standards becomes a competitive disadvantage and a punishable position.
 related:
   - INS-260321-86F1
-  - INS-260321-1A03
-  - INS-260326-CA8C
   - INS-260327-FC68
+  - INS-260321-1A03
   - INS-260327-561F
   - INS-260330-946B
 evidence:

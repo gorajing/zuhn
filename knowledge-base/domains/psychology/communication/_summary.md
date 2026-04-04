@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 20 insights
+> 21 insights
 
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
@@ -12,6 +12,7 @@
 - `INS-260402-9E2D` [high] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - `INS-260330-24CD` [high] Steven Pinker identified five distinct types of swearing, each serving a different communicative and emotional function.
 - `INS-260330-B711` [high] Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
+- `INS-260403-9542` [high] Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 - `INS-260330-B85B` [high] Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
 - `INS-260330-C9C2` [high] Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
 - `INS-260403-1A96` [high] The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.

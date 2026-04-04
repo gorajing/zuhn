@@ -47,10 +47,10 @@ resolutions:
     majority coalition that demands accountability.
 related:
   - INS-260403-0267
+  - INS-260403-39F9
   - INS-260321-3521
   - PRI-260323-9D46
   - PRI-260403-26B9
-  - INS-260403-1852
 stance: >-
   The activist investor playbook — identify underperformance, build external
   credibility, assemble a coalition, and force accountability — is a unive...

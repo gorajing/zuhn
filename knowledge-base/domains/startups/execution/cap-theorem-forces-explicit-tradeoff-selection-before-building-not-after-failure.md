@@ -51,10 +51,10 @@ stance: >-
   consistency-availability tradeoff before the first line of code.
 related:
   - INS-260329-5DB9
+  - INS-260403-DC6C
   - INS-260323-3F30
   - INS-260329-148D
   - INS-260329-50D5
-  - PRI-260323-0F93
   - INS-260330-CDF8
 evidence:
   - id: INS-260329-5DB9

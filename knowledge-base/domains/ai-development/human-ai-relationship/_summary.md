@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 48 insights
+> 49 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -23,6 +23,7 @@
 - `INS-260323-9D6E` [high] Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
 - `INS-260329-7BAF` [high] Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
 - `INS-260323-7424` [high] The obsession with parameter counts mirrors the 1990s gigahertz race — what matters is end-user utility, not raw numbers.
+- `INS-260403-D82B` [high] Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 - `INS-260329-F635` [high] Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
 - `INS-260329-EDA2` [high] It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
 - `INS-260329-500E` [high] AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.

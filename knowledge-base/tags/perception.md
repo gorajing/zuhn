@@ -3,6 +3,7 @@
 - `INS-260330-5F36` Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
+- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260323-1D46` Donald Hoffman's interface theory argues that organisms evolved to perceive fitness-relevant simplifications, not objective reality — truth is expensive, useful illusion is efficient.
 - `INS-260327-EDE4` In deep space, without familiar environmental cues like horizon, gravity, and day-night cycles, human perception begins to deconstruct, revealing how much of 'reality' depends on context.
@@ -17,7 +18,6 @@
 - `INS-260330-41A5` People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
 - `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
-- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
 - `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
 - `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.

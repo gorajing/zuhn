@@ -1,0 +1,3 @@
+# Tag: healthcare-infrastructure
+
+- `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.

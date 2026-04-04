@@ -47,7 +47,6 @@ stance: >-
   credibility faster than founders who answer questions candidly
 related:
   - INS-260330-DF31
-  - INS-260330-87BD
   - INS-260330-0AA7
   - INS-260403-028F
   - INS-260403-81CE

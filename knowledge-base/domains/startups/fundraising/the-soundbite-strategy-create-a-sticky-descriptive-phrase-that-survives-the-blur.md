@@ -52,7 +52,6 @@ stance: >-
   single memorable descriptive phrase ('the Microsoft Word of ecommerce') is a
   necessary survival mechanism for being remembered at all
 related:
-  - INS-260323-5EA1
   - INS-260330-4FB9
   - INS-260330-2294
   - INS-260330-8F91

@@ -1,12 +1,12 @@
 # Tag: venture-capital
 
+- `INS-260327-4434` Facebook, Google, Netflix, and Amazon genuinely made billions with data, creating the proof point that thousands of startups cited to justify their own data-driven narratives -- but none of those startups (Groupon, Yelp, Blue Apron, Stitch Fix, etc.) replicated the success, and the same pattern is now repeating with AI.
+- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
 - `INS-260403-358D` VC money flowing into startups that spend it on ads at incumbent platforms creates a self-reinforcing bubble.
 - `INS-260403-3C81` The post-2000 tech market didn't re-bubble because acquisition-based exits are structurally less prone to irrational exuberance than IPO-based exits.
 - `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
 - `INS-260324-72E8` After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
 - `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
-- `INS-260327-4434` Facebook, Google, Netflix, and Amazon genuinely made billions with data, creating the proof point that thousands of startups cited to justify their own data-driven narratives -- but none of those startups (Groupon, Yelp, Blue Apron, Stitch Fix, etc.) replicated the success, and the same pattern is now repeating with AI.
-- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
 - `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
 - `INS-260403-E1E4` Infrastructure windows are spotted through network proximity to technical founders, not through market analysis or public data.
 - `INS-260403-7C47` As you move earlier in the funding spectrum, help matters exponentially more than money.

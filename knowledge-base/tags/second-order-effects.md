@@ -1,8 +1,8 @@
 # Tag: second-order-effects
 
 - `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
-- `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
+- `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260330-E786` Oxygen was a toxic waste byproduct of early photosynthesis that became the foundation of all animal life — the 'most useful useless byproduct in history.'
 - `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260403-D85D` Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all complex animal life — side effects of a process can eclipse the intended output in value.
@@ -11,6 +11,7 @@
 - `INS-260330-3CD9` Critical decisions must be evaluated through every employee's eyes, not just the people directly involved.
 - `INS-260330-5B0C` Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.
 - `INS-260330-725C` Critical decisions must be evaluated through the eyes of every employee, not just the people in the conversation.
+- `INS-260403-15DD` When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 - `INS-260330-41F6` Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value.
 - `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
 - `INS-260330-72E1` Plants increased atmospheric oxygen through photosynthesis, which then caused their own key enzyme RuBisCo to fail half the time — a biological case of success undermining itself.

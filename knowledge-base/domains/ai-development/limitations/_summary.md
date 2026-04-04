@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 36 insights
+> 38 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -12,6 +12,7 @@
 - `INS-260325-1080` [high] The diagonal argument doesn't just prove something can't be done — it builds the exact thing that breaks the attempt.
 - `INS-260330-EE25` [high] Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260330-C681` [high] AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
+- `INS-260403-304E` [high] RuBisCo was designed for low-oxygen atmospheres; when plants raised oxygen levels, it started failing silently half the time — a cautionary tale for AI model drift.
 - `INS-260330-82B5` [high] One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260330-30CE` [high] Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260323-9773` [high] OpenAI's own research confirms hallucinations cannot be eliminated even with perfect training data because they are inherent to probabilistic generation — and reasoning models make it worse by multiplying the dice rolls.
@@ -20,6 +21,7 @@
 - `INS-260323-A5EC` [high] LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
 - `INS-260323-2D1D` [high] Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
 - `INS-260330-B076` [high] Nearly all life on Earth is fusion-powered — photons from solar fusion cascade through photosynthesis into every biological process, revealing how apparent diversity masks single-source dependency.
+- `INS-260403-F9C7` [high] Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
 - `INS-260323-7625` [high] While per-token costs have decreased, reasoning models burn dramatically more tokens per task, so actual inference costs per useful output have increased — the opposite of what AI CEOs claim.
 - `INS-260330-47E0` [high] From Russell's paradox to Gödel's theorem to the halting problem, self-reference is the single mechanism that breaks formal systems.
 - `INS-260325-ED75` [high] Conway's FRACTRAN — a generalization of 3x+1 — is Turing-complete and subject to the halting problem, raising the possibility that Collatz itself is undecidable.

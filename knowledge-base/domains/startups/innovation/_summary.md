@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 29 insights
+> 30 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
@@ -20,6 +20,7 @@
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
 - `INS-260403-FAD8` [high] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
 - `INS-260403-CACE` [high] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
+- `INS-260403-E7E1` [high] When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260403-47BF` [medium] Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - `INS-260403-5D81` [medium] Applying behavioral science to innovation training ensures skills actually transfer to daily work rather than fading post-program.
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.

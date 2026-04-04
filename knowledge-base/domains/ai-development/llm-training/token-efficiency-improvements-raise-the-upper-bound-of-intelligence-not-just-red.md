@@ -51,16 +51,15 @@ stance: >-
   frontier, not just saving compute, because high-quality training data is
   finite and a 2x efficiency gain effectively doubles available data.
 related:
-  - INS-260322-474A
   - INS-260323-4E12
   - INS-260325-FD14
   - INS-260322-1A20
   - INS-260330-A660
+  - INS-260322-474A
   - INS-260330-697F
   - INS-260330-30AB
   - INS-260330-5F36
   - INS-260330-3879
-  - INS-260330-70F5
 evidence:
   - id: INS-260325-FD14
     type: SUPPORTS
