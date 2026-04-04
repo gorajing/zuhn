@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260323-7B63
   - INS-260322-019A
+  - INS-260404-397F
   - INS-260325-FBE5
   - INS-260323-4EE4
-  - INS-260327-289F
 ---
 The article draws a direct parallel between Stoke Space's hydrogen-cooled reentry approach and the Wright Brothers' three-axis control system. In both cases, the breakthrough came from applying a different mental model to an existing problem — mimicking birds for flight, using fuel as coolant for reentry. The ideas were 'obvious' enough that Stoke's founders assumed someone else had already tried their approach and were shocked to find no one had.
 

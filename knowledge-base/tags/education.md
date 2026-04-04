@@ -12,8 +12,8 @@
 - `INS-260329-FEF4` Computational thinking — decomposition, pattern recognition, abstraction, algorithms — is a general reasoning toolkit that transfers across all domains.
 - `INS-260329-04FA` CS50 teaches computational thinking as a universal problem-decomposition skill, not just a precursor to coding.
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
-- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
+- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift.
 - `INS-260403-34C0` Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end.
 - `INS-260329-D8C7` The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
@@ -33,6 +33,7 @@
 - `INS-260329-047C` The zip code you're born in predicts earnings better than IQ, race, or degree — college's real value is changing your social environment.
 - `INS-260402-D9D0` Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
 - `INS-260403-62AF` A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
+- `INS-260404-200B` Smart people miss important ideas primarily because they haven't lived long enough to encounter them, not because the ideas are too complex.
 - `INS-260330-5DA6` Physics departments deliberately flunk most students in elementary physics, encouraged by engineering departments that don't want engineers building bridges that fall down — intentional difficulty filters for fundamental competence.
 - `INS-260330-83BC` Girls' prefrontal cortex develops 1-2 years earlier than boys', giving them a structural advantage in education systems built around executive function.
 - `INS-260404-0B86` Embedding business education inside real projects with real stakes produces deeper learning than classroom instruction.

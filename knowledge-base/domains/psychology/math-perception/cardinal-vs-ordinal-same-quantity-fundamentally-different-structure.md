@@ -51,7 +51,6 @@ stance: >-
   properties.
 related:
   - INS-260325-C523
-  - INS-260323-527B
   - INS-260330-594E
   - INS-260403-384F
   - INS-260403-EA82

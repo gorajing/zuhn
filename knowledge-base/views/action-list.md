@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3807 actionable insights
+Generated on 2026-04-04 | 3811 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -951,6 +951,7 @@ Generated on 2026-04-04 | 3807 actionable insights
 - [INS-260403-8BF4] Cutting words isn't just style — it's how you discover what you actually mean.
 - [INS-260403-D16C] Physical clutter taxes cognition by forcing continuous environmental parsing.
 - [INS-260403-518E] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
+- [INS-260404-023C] Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1170,6 +1171,7 @@ Generated on 2026-04-04 | 3807 actionable insights
 - [INS-260403-EA34] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
 - [INS-260403-222E] Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.
 - [INS-260404-AB0F] When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
+- [INS-260404-F227] Optimizing creative output for audience surprise is less effective than following genuine curiosity, because curiosity-driven exploration surfaces authentically novel ideas.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -2242,6 +2244,7 @@ Generated on 2026-04-04 | 3807 actionable insights
 - [INS-260403-6424] Claiming a list is exhaustive ('The 7 secrets') exploits readers' need to verify completeness, making it effective linkbait but intellectually dishonest.
 - [INS-260403-D20A] List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments.
 - [INS-260403-6BF7] Developer influencers who master visibility often outperform technically superior peers in career outcomes.
+- [INS-260404-5AC1] Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 
 ## startups/developer-tools
 - [INS-260329-9A58] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
@@ -3492,6 +3495,7 @@ Generated on 2026-04-04 | 3807 actionable insights
 - [INS-260403-6D0D] Deliberately choose which customer jobs, pains, and gains you will NOT address.
 - [INS-260403-FCA6] Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
 - [INS-260404-3FDF] Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
+- [INS-260404-380C] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

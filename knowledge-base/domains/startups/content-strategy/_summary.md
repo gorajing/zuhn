@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 35 insights
+> 36 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260329-127F` [high] Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
@@ -24,6 +24,7 @@
 - `INS-260330-7251` [high] Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services.
 - `INS-260329-BC11` [high] Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
 - `INS-260329-D5FF` [high] Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
+- `INS-260404-5AC1` [high] Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 - `INS-260329-D212` [high] Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
 - `INS-260329-0F10` [high] The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
 - `INS-260329-3332` [high] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.

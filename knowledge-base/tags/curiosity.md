@@ -4,6 +4,7 @@
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
+- `INS-260404-F227` Optimizing creative output for audience surprise is less effective than following genuine curiosity, because curiosity-driven exploration surfaces authentically novel ideas.
 - `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260327-A817` AI can execute defined tasks, but asking the right questions—knowing what to solve—remains uniquely human.
 - `INS-260403-A51A` Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.

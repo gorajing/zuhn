@@ -8,6 +8,8 @@
 - `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
+- `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
+- `INS-260330-601A` A cosmic ray proton traveling at 99.9999999999991% light speed would measure Earth as only 17 metres thick — Earth is literally flat to that observer.
 - `INS-260330-CDF8` Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
 - `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
@@ -23,6 +25,7 @@
 - `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
 - `INS-260330-4B9A` On a flat disc Earth, gravity would pull toward the center of mass creating increasingly sideways forces at edges, making normal life impossible.
 - `INS-260330-D3AA` On a flat disc Earth, gravity would pull increasingly sideways toward the center as you moved to edges, making the periphery uninhabitable.
+- `INS-260404-E0FD` Spinning objects feel lighter because gravity's torque is redirected into precession, not because weight actually decreases.
 - `INS-260330-5265` Our everyday experience with catching baseballs at 90 mph provides zero useful intuition for what happens at 1000 mph because energy scales with velocity squared.
 - `INS-260325-A72C` Physics succeeds by stripping everything to ideal cases (spherical cows) then adding complexity back — a strategy that works for physics but fails for psychology or biology.
 - `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
@@ -33,6 +36,4 @@
 - `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
 - `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
 - `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
-- `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
-- `INS-260330-601A` A cosmic ray proton traveling at 99.9999999999991% light speed would measure Earth as only 17 metres thick — Earth is literally flat to that observer.
 - `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.

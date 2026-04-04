@@ -56,7 +56,6 @@ stance: >-
   essential for reliable decision-making.
 related:
   - INS-260326-CA8C
-  - INS-260330-0BC2
   - INS-260330-6CB7
   - INS-260330-DBAD
   - INS-260330-9EBA

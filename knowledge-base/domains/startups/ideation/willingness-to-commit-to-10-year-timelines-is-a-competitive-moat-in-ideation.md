@@ -47,6 +47,7 @@ related:
   - INS-260322-AAEA
   - INS-260329-4DBC
   - INS-260403-E172
+  - INS-260404-200B
 stance: >-
   Most founders filter out ideas requiring more than two years to work, so
   simply imagining ideas with longer timelines dramatically reduces competit...

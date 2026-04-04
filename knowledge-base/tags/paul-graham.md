@@ -14,8 +14,8 @@
 - `INS-260404-8890` How founders respond to advice — chasing all implications vs. filtering through preconceptions — is the strongest early signal of startup success.
 - `INS-260403-862E` Genuine problem interest predicts startup success better than ambition for money or status.
 - `INS-260403-7180` The best founders combine relentless drive with creative adaptability rather than relying on brute-force determination alone.
-- `INS-260403-99B1` Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260403-DFBC` Future generations will view waiting for symptoms before diagnosing disease the way we view pre-anaesthesia surgery — as needlessly barbaric.
+- `INS-260403-99B1` Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260404-4B69` Smart investors expect early business models to be wrong, so talking about them wastes time better spent on the problem you solve.
 - `INS-260404-10FF` Don't spend pitch time on your business model — investors expect it to be wrong at early stage, and a bad one will overshadow your real strengths.
 - `INS-260404-9F1D` Narrow, gripping descriptions convey more signal than broad visionary language when pitching investors.

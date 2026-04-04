@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 205 insights
+> 206 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -47,6 +47,7 @@
 - `INS-260327-130C` [high] In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end
 - `INS-260403-5BBE` [high] Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260402-8170` [high] Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
+- `INS-260404-83D5` [high] Apple Pay earned bank fees not by disrupting banks but by reducing their fraud costs, demonstrating that ecosystem orchestrators capture value by creating savings for incumbents.
 - `INS-260329-2D77` [high] Spending $9M to acquire 10,000 permanent customers generating $12M ARR creates $120M in enterprise value — tax-free until exit.
 - `INS-260329-5514` [high] Revenue and profit grow enterprise value by a multiple (3-20x), making equity appreciation the dominant wealth creation lever over personal income.
 - `INS-260327-795D` [high] Modern arcades survive by stacking revenue streams: games, food, drinks, prizes, party bookings, creating per-visit reve

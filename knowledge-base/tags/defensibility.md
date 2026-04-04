@@ -18,6 +18,7 @@
 - `INS-260403-6412` Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
 - `INS-260403-9E2D` A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
 - `INS-260403-862D` Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
+- `INS-260404-397F` Apple Pay's moat comes from simultaneously delivering seamless UX to consumers, mobile customer access to merchants, business continuity to networks, and fraud reduction to banks — all of which must be matched together.
 - `INS-260330-0294` Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.
 - `INS-260402-8595` Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.

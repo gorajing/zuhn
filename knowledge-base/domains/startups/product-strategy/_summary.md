@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 52 insights
+> 53 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -45,6 +45,7 @@
 - `INS-260403-C4CD` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260403-FDD8` [high] Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.
+- `INS-260404-380C` [high] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260403-0196` [high] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260403-9B5D` [medium] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.

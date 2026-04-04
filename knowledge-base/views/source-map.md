@@ -860,6 +860,7 @@ Generated on 2026-04-04 | 2421 sources
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Apple Business Model | blog | 4 | 2026-03-31 |
+| Apple Pay’s Uncopyable Business Model Delivers What Nobody Else Could | blog | 4 | 2026-03-31 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
 | ARM Business Model | blog | 4 | 2026-03-31 |
 | Assess & Design Your Innovation Portfolio | blog | 4 | 2026-03-31 |
@@ -910,6 +911,7 @@ Generated on 2026-04-04 | 2421 sources
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
 | Founder Control | blog | 4 | 2026-03-31 |
 | Founder-Market Fit: The VC Test You Must Pass | blog | 4 | 2026-03-30 |
+| Founder Mode👨‍💼, The Extinction of VC💀, How to Build More Pipeline🚀 | blog | 4 | 2026-03-30 |
 | Founder Mode | blog | 4 | 2026-03-31 |
 | Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 4 | 2026-03-30 |
 | Free AI Hiring Kit for Startup Founders | blog | 4 | 2026-03-30 |
@@ -1022,6 +1024,7 @@ Generated on 2026-04-04 | 2421 sources
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 4 | 2026-03-30 |
 | The Equity Equation | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
+| The Free Founder OS: 58 Templates + 10,000 Investor List | blog | 4 | 2026-03-30 |
 | The future isn't what it used to be | blog | 4 | 2026-03-30 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 4 | 2026-03-30 |
@@ -1039,6 +1042,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 4 | 2026-03-30 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
 | The Secrets of Stealth Startups 🔒🤐 | blog | 4 | 2026-03-30 |
+| The Shape of the Essay Field | blog | 4 | 2026-03-31 |
 | The shape of the multipolar world is a little clearer | blog | 4 | 2026-03-30 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
@@ -1293,6 +1297,7 @@ Generated on 2026-04-04 | 2421 sources
 | Andrew Callaghan: Channel 5, Gonzo, QAnon, O-Block, Politics & Alex Jones | Lex Fridman Podcast #425 | youtube | 3 | 2026-03-24 |
 | Anna Frebel: Origin and Evolution of the Universe, Galaxies, and Stars | Lex Fridman Podcast #378 | youtube | 3 | 2026-03-24 |
 | Annie Jacobsen: Nuclear War, CIA, KGB, Aliens, Area 51, Roswell & Secrecy | Lex Fridman Podcast #420 | youtube | 3 | 2026-03-24 |
+| Anti-Gravity Wheel? | youtube | 3 | 2026-03-30 |
 | B-Team Jiu Jitsu: Craig Jones, Nicky Rod, and Nicky Ryan | Lex Fridman Podcast #363 | youtube | 3 | 2026-03-24 |
 | Bassem Youssef: Israel-Palestine, Gaza, Hamas, Middle East, Satire & Fame | Lex Fridman Podcast #424 | youtube | 3 | 2026-03-24 |
 | Benjamin Netanyahu: Israel, Palestine, Power, Corruption, Hate, and Peace | Lex Fridman Podcast #389 | youtube | 3 | 2026-03-24 |
@@ -2095,7 +2100,6 @@ Generated on 2026-04-04 | 2421 sources
 | Anthropic's 2022 Pitch Deck Leaked (10 Slides → $380B) | blog | 0 | 2026-03-30 |
 | “Anyone can cook”: How v0 is bringing Git workflows to vibe coding | Guillermo Rauch (Vercel CEO) | blog | 0 | 2026-03-31 |
 | Apple Pay: An Obvious Value Proposition | blog | 0 | 2026-03-31 |
-| Apple Pay’s Uncopyable Business Model Delivers What Nobody Else Could | blog | 0 | 2026-03-31 |
 | April Dunford on product positioning, segmentation, and optimizing your sales process | blog | 0 | 2026-03-31 |
 | Are Gains the Opposite of Pains? | blog | 0 | 2026-03-31 |
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
@@ -2197,7 +2201,6 @@ Generated on 2026-04-04 | 2421 sources
 | Fashionable Problems | blog | 0 | 2026-03-31 |
 | Five Founders | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
-| Founder Mode👨‍💼, The Extinction of VC💀, How to Build More Pipeline🚀 | blog | 0 | 2026-03-30 |
 | Founders: Are You Raising Enough? Or Too Much? Here’s the Tool You Need | blog | 0 | 2026-03-30 |
 | Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 0 | 2026-03-30 |
 | Free M&A Accretion Dilution Model 2026: Excel Template for EPS Analysis | blog | 0 | 2026-03-30 |
@@ -2318,7 +2321,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
-| The Free Founder OS: 58 Templates + 10,000 Investor List | blog | 0 | 2026-03-30 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
@@ -2339,7 +2341,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Ronco Principle | blog | 0 | 2026-03-31 |
 | The SaaS Financial Model Most Founders Get Wrong | blog | 0 | 2026-03-30 |
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
-| The Shape of the Essay Field | blog | 0 | 2026-03-31 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |
 | The Trouble with the Segway | blog | 0 | 2026-03-31 |
@@ -2405,7 +2406,6 @@ Generated on 2026-04-04 | 2421 sources
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
-| Anti-Gravity Wheel? | youtube | 0 | 2026-03-30 |
 | Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 0 | 2026-03-30 |
 | Backspin Basketball Flies Off Dam | youtube | 0 | 2026-03-30 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |

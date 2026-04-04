@@ -6,6 +6,7 @@
 - `INS-260329-4CFD` Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years.
 - `INS-260330-9CC6` Ramsey views YouTube Shorts and TikTok clips as free advertisements — 'little old ladies at Costco with a sample biscuit' — that funnel people to books, courses, and long-form shows.
 - `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
+- `INS-260404-5AC1` Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 - `INS-260329-3332` A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
 - `INS-260329-63DD` Comprehensive long-form tutorials dominate search results because they fully satisfy user intent, creating compounding organic traffic that short content cannot match.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.

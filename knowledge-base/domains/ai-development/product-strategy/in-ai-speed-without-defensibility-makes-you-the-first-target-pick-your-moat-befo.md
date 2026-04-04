@@ -50,10 +50,10 @@ stance: >-
   in from day one, not added after scale.
 related:
   - INS-260330-6A47
+  - INS-260404-397F
   - PRI-260324-36BF
   - INS-260323-4EE4
   - INS-260329-DF50
-  - PRI-260328-82BE
   - INS-260325-FBE5
   - INS-260323-7B63
   - INS-260329-82B1

@@ -49,7 +49,6 @@ stance: >-
   Discussions degenerate not because topics lack definite answers but because
   participants have incorporated positions into their identity
 related:
-  - INS-260323-9E75
   - INS-260404-7C3F
   - INS-260404-89C3
   - INS-260403-A408

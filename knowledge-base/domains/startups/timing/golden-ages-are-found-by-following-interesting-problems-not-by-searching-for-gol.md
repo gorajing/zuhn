@@ -51,10 +51,10 @@ stance: >-
   interesting problems — if you're smart and honest about what fascinates you,
   you'll naturally congregate where golden ages are forming.
 related:
-  - INS-260321-80A9
-  - INS-260322-D6B8
   - INS-260325-E8BC
+  - INS-260404-5AC1
   - PRI-260325-2800
+  - INS-260321-80A9
   - INS-260325-812F
 evidence:
   - id: INS-260321-80A9

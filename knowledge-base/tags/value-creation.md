@@ -4,8 +4,8 @@
 - `INS-260329-4F04` Experts who previously spent 90% of time generating work now spend that time on quality assurance of AI output, increasing their throughput dramatically.
 - `INS-260327-5D62` AI's biggest contact center opportunity is enabling new customer interactions that couldn't exist before, not just automating existing ones at lower cost.
 - `INS-260326-3D8D` Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
-- `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
 - `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
+- `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
 - `INS-260403-C55B` Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260403-E642` Innovating the business model itself—not just the product—is the primary driver of durable market disruption.

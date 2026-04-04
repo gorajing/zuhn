@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 255 insights
+> 256 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -72,6 +72,7 @@
 - `INS-260330-B7C6` [high] Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
 - `INS-260403-62AF` [high] A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
 - `INS-260329-04CB` [high] Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
+- `INS-260404-200B` [high] Smart people miss important ideas primarily because they haven't lived long enough to encounter them, not because the ideas are too complex.
 - `INS-260330-6C09` [high] Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
 - `INS-260402-E76D` [high] Innocence is not ignorance — it's the open-mindedness required for continued learning, and premature cynicism permanently narrows intellectual horizons.
 - `INS-260330-FB50` [high] Newton invented calculus at age 23 because 1600s mathematics couldn't calculate a falling moon's trajectory — necessity of the problem forced creation of an entirely new mathematical discipline.

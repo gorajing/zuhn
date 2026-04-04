@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260402-86C4
   - INS-260403-62AF
+  - INS-260404-200B
   - INS-260403-875B
   - INS-260402-8F1E
-  - INS-260330-DA0B
 ---
 Graham observes that exclusive institutions function like exclusive clubs: the primary advantage of membership is knowing you aren't missing much. Those excluded can only imagine the benefits, which are invariably larger in imagination than reality. This creates a perverse dynamic where the psychological cost of exclusion exceeds the actual value of inclusion.
 

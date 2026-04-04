@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 78 insights
+> 79 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -40,6 +40,7 @@
 - `INS-260330-4B9A` [high] On a flat disc Earth, gravity would pull toward the center of mass creating increasingly sideways forces at edges, making normal life impossible.
 - `INS-260330-04F9` [high] On a flat disc Earth, gravity would pull increasingly sideways toward the center as you moved to the edges, making walking, water flow, and weather radically different from our spherical experience.
 - `INS-260330-D3AA` [high] On a flat disc Earth, gravity would pull increasingly sideways toward the center as you moved to edges, making the periphery uninhabitable.
+- `INS-260404-E0FD` [high] Spinning objects feel lighter because gravity's torque is redirected into precession, not because weight actually decreases.
 - `INS-260330-FEDD` [high] Daniel Barringer spent 27 years drilling for an iron meteorite that had vaporized on impact 50,000 years earlier — our intuition about low-speed collisions doesn't transfer to high-energy events.
 - `INS-260330-5265` [high] Our everyday experience with catching baseballs at 90 mph provides zero useful intuition for what happens at 1000 mph because energy scales with velocity squared.
 - `INS-260330-DBA4` [high] We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.

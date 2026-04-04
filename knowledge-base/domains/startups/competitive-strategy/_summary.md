@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 518 insights
+> 519 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -252,6 +252,7 @@
 - `INS-260403-5554` [high] Carnival and Royal Caribbean own dozens of sub-brands spanning mainstream to luxury, isolating disasters like Costa Concordia from damaging their full portfolio.
 - `INS-260327-7D53` [high] No CTO has ever said their cloud bill is cheap — multi-model, multi-cloud platforms win by giving enterprises what hyperscalers refuse: freedom from lock-in.
 - `INS-260327-C673` [high] Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
+- `INS-260404-397F` [high] Apple Pay's moat comes from simultaneously delivering seamless UX to consumers, mobile customer access to merchants, business continuity to networks, and fraud reduction to banks — all of which must be matched together.
 - `INS-260330-4F2A` [high] When users can freely use competing marketplaces simultaneously, network effects erode — making supply-side lock-in the critical strategic priority.
 - `INS-260323-A1FE` [high] Jet engine turbine blades must simultaneously optimize for temperature resistance (1,500C), centripetal force (20 metric tons per blade), oxidation resistance, creep resistance, weight, and manufacturing precision — and you can't max one without sacrificing others, making the integration itself the competitive moat.
 - `INS-260325-436A` [high] Mutations occur at random without consideration of whether they help or harm the organism — it is the environment that sorts winners from losers.

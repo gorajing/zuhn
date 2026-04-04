@@ -50,6 +50,7 @@ related:
   - INS-260323-9F38
   - INS-260330-97A0
   - INS-260330-D17A
+  - INS-260404-E0FD
 ---
 Relative to Earth, humans and even jet airplanes move at negligible fractions of the speed of light. This means our trajectory through spacetime is dominated by movement through time, not space. Consequently, we are far more affected by how mass curves time than how it curves space.
 

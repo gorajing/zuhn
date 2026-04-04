@@ -4,3 +4,4 @@
 - `INS-260403-9F5A` Entrepreneurs who obsess over product while neglecting repeatable, scalable, and profitable business model design build ventures that survive only as long as investor funding lasts.
 - `INS-260404-A375` Technology should reinforce or transform your business model, not drive it — the business model question comes first.
 - `INS-260403-BB22` Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
+- `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.

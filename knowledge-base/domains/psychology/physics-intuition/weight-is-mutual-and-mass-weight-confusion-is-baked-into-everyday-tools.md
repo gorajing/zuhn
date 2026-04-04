@@ -48,11 +48,11 @@ stance: >-
   The widespread confusion between mass and weight is systematically reinforced
   by scales that display mass units while measuring force.
 related:
+  - INS-260404-E0FD
   - INS-260327-6664
   - INS-260325-0C45
   - INS-260330-5E03
   - INS-260330-E70C
-  - INS-260330-C9A6
 evidence:
   - id: INS-260327-6664
     type: SUPPORTS

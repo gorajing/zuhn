@@ -44,6 +44,7 @@
 - `INS-260329-25FC` Project-based progression creates natural 'need to know' hooks that make abstract programming concepts memorable.
 - `INS-260330-AE22` A practitioner who teaches from the ground up transfers more usable knowledge than an expert who skips foundations.
 - `INS-260329-49E6` Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
+- `INS-260404-200B` Smart people miss important ideas primarily because they haven't lived long enough to encounter them, not because the ideas are too complex.
 - `INS-260402-4BC7` Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-C8ED` Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.

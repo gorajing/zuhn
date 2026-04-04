@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 315 insights
+> 316 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -281,6 +281,7 @@
 - `INS-260327-6F26` [medium] Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
 - `INS-260329-DD0F` [medium] Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
 - `INS-260329-27A3` [medium] Learning concepts layered on top of each other in context transfers better than learning them in isolation.
+- `INS-260404-59D1` [medium] The video builds from 'you can't hold this' to 'watch me lift it overhead' — each step making the next seem more impossible, which deepens engagement with the explanation.
 - `INS-260325-59D4` [medium] Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260327-9447` [medium] Most people have never been adults - they've learned to perform the social behaviors associated with adulthood while remaining emotionally and psychologically undeveloped.
 - `INS-260325-EC93` [medium] Psychopathy is difficult but not impossible to treat; CBT, medication, and parent training all show effectiveness.

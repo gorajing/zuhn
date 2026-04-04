@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 36 insights
+> 37 insights
 
 - `INS-260404-5BBF` [high] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - `INS-260404-92AC` [high] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
@@ -28,6 +28,7 @@
 - `INS-260330-A8F8` [high] Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
 - `INS-260403-272E` [high] Jessica Livingston's aversion to attention meant she was written out of YC's history despite being co-founder and primary culture-builder.
 - `INS-260403-2AF0` [high] Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
+- `INS-260404-7F34` [high] Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-6652` [high] Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - `INS-260330-CD7A` [medium] Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260404-D6EE` [medium] Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.

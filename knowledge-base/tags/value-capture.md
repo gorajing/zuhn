@@ -3,6 +3,7 @@
 - `INS-260327-89AE` Doug Leone argues AI value will accrue to companies solving domain-specific last-mile problems in the application layer, not to foundation models or infrastructure tooling.
 - `INS-260325-2BDB` Eugene from ZDOT AI argued durable value lies in platform infrastructure — model-as-a-service, enterprise deployment, and APIs — sitting between foundation models and applications.
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
+- `INS-260404-83D5` Apple Pay earned bank fees not by disrupting banks but by reducing their fraud costs, demonstrating that ecosystem orchestrators capture value by creating savings for incumbents.
 - `INS-260330-5B5E` The amount of value you create (X) and the percentage you capture (Y%) are completely independent — airlines create more value than Google Search but capture almost none of it.
 - `INS-260330-B138` X (value created) and Y% (value captured) are completely independent — airlines create $195B in value but capture ~0% profit, while Google captures enormous profit from a smaller market.
 - `INS-260330-5F7E` Creating enormous value doesn't guarantee capturing any of it — airlines created more value than Google but captured approximately zero cumulative profit over 100 years.

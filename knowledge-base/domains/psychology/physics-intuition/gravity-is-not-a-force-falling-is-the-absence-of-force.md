@@ -53,6 +53,7 @@ related:
   - INS-260330-A149
   - INS-260330-97A0
   - INS-260330-86A7
+  - INS-260404-E0FD
 ---
 Newton described gravity as a force pulling masses together, but Einstein showed this picture is incomplete. The equivalence principle states that freefall is indistinguishable from floating in empty space with no forces acting on you — a person falling off a roof feels no force at all. What we call 'gravity' is actually the natural tendency of objects to follow straight paths (geodesics) through spacetime that has been curved by mass and energy.
 

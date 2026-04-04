@@ -44,8 +44,8 @@ related:
   - INS-260327-D0F3
   - INS-260327-D8D1
   - INS-260330-0346
+  - INS-260404-5AC1
   - INS-260321-7C97
-  - INS-260321-69E1
 stance: >-
   Fresh graduates (23-25) who grew up vibe coding think differently and generate
   the best new ideas at AI companies.

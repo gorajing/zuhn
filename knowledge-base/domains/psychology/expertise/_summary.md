@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 63 insights
+> 64 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
@@ -51,6 +51,7 @@
 - `INS-260403-5808` [medium] Earnestness isn't the opposite of one thing — it's the center that many different failure modes orbit.
 - `INS-260403-A868` [medium] Elite developer talent is qualitatively different from average, following power-law rather than normal distribution.
 - `INS-260402-26B0` [medium] Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
+- `INS-260404-F227` [medium] Optimizing creative output for audience surprise is less effective than following genuine curiosity, because curiosity-driven exploration surfaces authentically novel ideas.
 - `INS-260403-2BAF` [medium] People who do great work don't become haters, and haters don't produce great work — the orientations are mutually exclusive.
 - `INS-260403-AB5C` [medium] Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260403-0AE1` [medium] Jessica Livingston's 'Social Radar' worked precisely because applicants dismissed her as a secretary — attention would have disrupted her ability to read people.

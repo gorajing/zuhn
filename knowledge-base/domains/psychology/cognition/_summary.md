@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 72 insights
+> 73 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -27,6 +27,7 @@
 - `INS-260330-0C49` [high] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
 - `INS-260330-4114` [high] A phone ringing in Destin's pocket instantly crashed his backwards-bike riding because the new neural pathway required active attention the old one didn't.
 - `INS-260402-FE91` [high] If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
+- `INS-260404-023C` [high] Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - `INS-260330-EA8B` [high] Profanity is processed by the limbic system rather than the left hemisphere language areas, which is why Tourette's patients and people with left-hemisphere damage can still swear.
 - `INS-260330-7994` [high] Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260403-4672` [high] Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.

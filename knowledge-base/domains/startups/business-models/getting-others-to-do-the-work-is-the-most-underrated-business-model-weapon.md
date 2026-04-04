@@ -54,6 +54,7 @@ related:
   - INS-260404-F827
   - INS-260403-7E7C
   - INS-260322-FCFC
+  - INS-260404-380C
 ---
 Facebook's entire value — the content, connections, conversations — is created by users while the company simply maintains the platform. IKEA shifts assembly labor to customers. Red Hat builds a billion-dollar business on top of open-source community work. This pattern of externalizing value creation is described as a 'least publicized weapon of mass destruction' in business model design, and for good reason.
 

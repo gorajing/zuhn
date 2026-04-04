@@ -12,6 +12,7 @@
 - `INS-260403-AFCD` Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
 - `INS-260403-0350` For SMBs, AI agents are pure value-add filling gaps they couldn't afford to fill; for enterprises, agents must replace entrenched processes, creating friction.
 - `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
+- `INS-260404-B5EB` Apple 'mobilized' the payments ecosystem by letting all existing players continue business as usual while adding a mobile layer, rather than forcing ecosystem rewiring.
 - `INS-260330-13E8` Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time.
 - `INS-260403-B198` Revolutionary framing creates a false dichotomy; the winning strategy is evolving what already works with new capabilities layered on top.
 - `INS-260330-118D` Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.

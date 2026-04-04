@@ -11,11 +11,14 @@
 - `INS-260329-DACC` Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
 - `INS-260329-1075` Family metaphors (parent, child, sibling) for nested structures leverage existing human intuition about relational hierarchies.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
+- `INS-260404-023C` Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-72D5` Layer concepts incrementally through progressively harder problems rather than front-loading all theory before practice.
 - `INS-260329-0068` Project-based progressive learning embeds concepts in context, producing stronger recall and motivation than abstract-first teaching.
 - `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
 - `INS-260329-979B` CS50 starts with Scratch (visual blocks) before C to let students internalize programming concepts without fighting syntax simultaneously.
+- `INS-260329-8F86` ADTs define what operations are possible; data structures define how those operations are implemented — mastering this separation is what distinguishes great programmers.
+- `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
 - `INS-260404-52FC` CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260330-E47D` Teaching core intuitions before precise definitions helps learners build mental scaffolding that makes formalism meaningful.
@@ -55,14 +58,13 @@
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
 - `INS-260329-71AB` Teaching data types in order of concreteness (strings → numbers → booleans → lists → dicts → classes) mirrors the concrete-to-abstract gradient that human cognition uses to build durable mental models.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
-- `INS-260329-8F86` ADTs define what operations are possible; data structures define how those operations are implemented — mastering this separation is what distinguishes great programmers.
-- `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
 - `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
 - `INS-260329-E6A1` Errors during learning are features, not bugs — they create the friction that makes correct patterns stick.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
 - `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
 - `INS-260329-B6A6` Layering complexity one concept at a time onto familiar examples builds more durable understanding than front-loading complete explanations.
 - `INS-260329-27A3` Learning concepts layered on top of each other in context transfers better than learning them in isolation.
+- `INS-260404-59D1` The video builds from 'you can't hold this' to 'watch me lift it overhead' — each step making the next seem more impossible, which deepens engagement with the explanation.
 - `INS-260329-F20E` Teaching building blocks without immediate practical context creates a stronger conceptual breakthrough when the payoff finally arrives.
 - `INS-260329-2349` Delaying the 'why' behind foundational concepts creates a powerful aha moment when the payoff finally arrives.
 - `INS-260329-AC6E` Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
