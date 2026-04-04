@@ -57,6 +57,5 @@ related:
   - INS-260403-85F1
   - INS-260403-87CD
   - INS-260403-D984
-  - INS-260403-26D3
 ---
 Professional investors hear so many pitches they blur together — the first survival filter is simply being remembered. Graham recommends crafting a phrase in the 'the X of Y' format (e.g., 'the Microsoft Word of ecommerce' for Viaweb) and launching it near the beginning of your talk. But the deeper insight is that this exercise is diagnostic: if you can't compress your startup into one compelling phrase, your plans may not be sufficiently focused. This connects to information theory — lossy compression only works when there's a coherent signal to compress. A startup trying to be everything resists compression because there's no single core to extract. The soundbite test thus serves double duty: a communication tool for investors and a strategic clarity test for founders.

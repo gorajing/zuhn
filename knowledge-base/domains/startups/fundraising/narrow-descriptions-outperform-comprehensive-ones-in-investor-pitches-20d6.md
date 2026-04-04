@@ -53,7 +53,7 @@ related:
   - INS-260403-B7B7
   - INS-260403-9679
   - INS-260403-7964
-  - INS-260403-19D8
+  - INS-260403-37E2
 ---
 Paul Graham observes that founders resist narrow descriptions because early-stage startups could become anything. But as a description approaches 'could be anything,' its information content approaches zero. Investors discard vague statements as meaningless boilerplate.
 

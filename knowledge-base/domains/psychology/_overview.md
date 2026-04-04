@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 1917 insights across 20 topics
+> 1919 insights across 20 topics
 
 ## Topics
 
@@ -19,10 +19,10 @@
 | group-dynamics | 54 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
 | learning | 238 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 60 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
-| mental-models | 81 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
+| mental-models | 82 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
 | negotiation | 5 | Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy. |
 | perception | 315 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
-| persuasion | 44 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
+| persuasion | 45 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
 | physics-intuition | 77 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 93 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
 | resilience | 146 | Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen. |

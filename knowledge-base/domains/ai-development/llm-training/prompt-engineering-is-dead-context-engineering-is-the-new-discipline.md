@@ -52,7 +52,6 @@ related:
   - INS-260321-82FE
   - INS-260326-2410
   - INS-260327-79E8
-  - INS-260328-3446
 stance: The game has shifted from crafting clever prompts to context engineering
 evidence:
   - id: INS-260328-3446

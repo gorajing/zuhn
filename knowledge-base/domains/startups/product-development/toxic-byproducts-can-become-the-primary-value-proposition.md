@@ -56,7 +56,6 @@ related:
   - INS-260403-882A
   - INS-260330-0CFF
   - INS-260330-E786
-  - INS-260330-41F6
 evidence:
   - id: INS-260330-C607
     type: EXTENDS

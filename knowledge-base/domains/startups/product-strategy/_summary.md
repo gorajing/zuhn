@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 46 insights
+> 48 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -29,6 +29,7 @@
 - `INS-260403-EC8A` [high] Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral.
 - `INS-260403-5FBD` [high] Value proposition fit and business model viability are independent variables — companies need both to survive.
 - `INS-260403-A8F3` [high] Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
+- `INS-260403-83A8` [high] Carrying 4,000 SKUs instead of 140,000 makes each slot so valuable that suppliers will cut prices and customize products to win placement.
 - `INS-260403-D4EA` [high] Fast iteration beats careful planning only when the medium allows cheap revision.
 - `INS-260330-118D` [high] Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.
 - `INS-260330-62D6` [high] Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
@@ -39,6 +40,7 @@
 - `INS-260330-9231` [high] Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth.
 - `INS-260403-C4CD` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
+- `INS-260403-FDD8` [high] Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.
 - `INS-260403-0196` [high] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260403-9B5D` [medium] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.

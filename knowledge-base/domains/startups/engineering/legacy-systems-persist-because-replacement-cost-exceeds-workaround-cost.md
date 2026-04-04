@@ -48,7 +48,6 @@ stance: >-
   the flaws are severe
 related:
   - INS-260330-23CD
-  - INS-260330-4983
   - INS-260330-CEAE
   - INS-260402-5242
   - INS-260402-1FE9
@@ -57,6 +56,7 @@ related:
   - INS-260330-C02D
   - INS-260330-53A9
   - INS-260330-BFA2
+  - INS-260403-D482
 ---
 The enzyme RuBisCo was designed for a low-oxygen atmosphere and now confuses O2 with CO2 roughly half the time, producing toxic byproducts. Yet plants went 'all-in' on the RuBisCo strategy and simply evolved cleanup pathways for the toxic waste rather than replacing the enzyme itself.
 

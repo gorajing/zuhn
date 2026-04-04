@@ -56,6 +56,7 @@ related:
   - INS-260403-323A
   - INS-260403-6BD9
   - INS-260403-0435
+  - INS-260403-2AE7
   - INS-260329-EBBB
 ---
 Costco's warehouse layout — no decorations, forklift-loaded shelves, deliberately confusing navigation — should rationally frustrate shoppers. Instead, customers interpret the experience as treasure-hunting, feeling rewarded when they discover deals. This parallels IKEA's do-it-yourself model where customers feel pride in assembly rather than resentment at the lack of service.

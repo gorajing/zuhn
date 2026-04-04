@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 81 insights
+> 82 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -43,6 +43,7 @@
 - `INS-260330-AA77` [high] If a new element can be expressed as a combination of existing ones, it adds no new capability.
 - `INS-260330-DEF7` [high] The linearity constraint — parallel lines stay parallel, origin stays fixed — eliminates most possible transformations, making the remaining ones tractable and powerful.
 - `INS-260330-E03A` [high] NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
+- `INS-260403-D2FD` [high] The electron transport chain extracts energy through four sequential protein complexes rather than one step, a pattern that applies to any value-extraction system.
 - `INS-260330-E068` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
 - `INS-260330-B599` [high] Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
 - `INS-260330-CE2F` [high] JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.

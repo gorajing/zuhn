@@ -46,9 +46,9 @@ stance: >-
   fundraising.
 related:
   - INS-260322-DAF2
+  - INS-260403-C5D8
   - PRI-260328-0BE1
   - INS-260325-F451
   - INS-260323-40AA
-  - INS-260403-AEAF
 ---
 Andy Raskin's framework replaces the 'arrogant doctor' pitch (I have a pain, here's my solution) with a movement narrative. The five steps: (1) articulate a mindset shift already happening, (2) show why joining is life-or-death for the buyer, (3) define the buyer's mission, (4) explain why old tools are inadequate, (5) show how your solution overcomes obstacles. Salesforce's 'software is over' narrative defined the cloud movement despite not being the first SaaS company. Gong's 'goodbye opinions, hello reality' narrative elevated them from a sales enablement tool to a CRO strategic platform. The key insight: say the shift IS happening (urgency) not that it SHOULD happen (aspiration).

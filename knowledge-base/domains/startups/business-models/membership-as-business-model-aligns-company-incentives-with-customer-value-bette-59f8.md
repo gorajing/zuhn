@@ -50,13 +50,12 @@ stance: >-
   is structurally incentivized to maximize customer value rather than maximize
   per-transaction margin
 related:
-  - INS-260327-DF8C
   - INS-260329-A575
+  - INS-260403-FAE1
   - INS-260403-0650
   - INS-260403-5C88
   - INS-260403-1208
   - INS-260403-1C25
-  - INS-260403-BF47
 ---
 Costco derives 75% of its profit from membership fees, not product sales. This fundamentally changes its optimization function: raising prices would generate pennies today but cost $60-120 in lost renewals next year. The self-imposed 15% max markup (vs Walmart's 24% or Home Depot's 35%) is rational because the company's survival depends on members feeling the membership is worth renewing — which 90% do annually.
 

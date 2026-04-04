@@ -49,7 +49,6 @@ stance: >-
   damages credibility, while demonstrating genuine belief through behavior and
   tone is the strongest early-stage signal investors use to evaluate founders.
 related:
-  - INS-260403-1B2D
   - INS-260403-5C8E
   - INS-260403-B216
   - INS-260403-B3CA

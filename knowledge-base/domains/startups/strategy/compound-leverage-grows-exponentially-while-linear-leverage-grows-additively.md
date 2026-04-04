@@ -44,11 +44,11 @@ stance: >-
   Chaining leverage mechanisms compounds their effect exponentially rather than
   adding linearly, making system design more important than individual force
 related:
+  - INS-260403-AABF
   - INS-260330-0C1B
   - PRI-260328-F0B4
   - INS-260329-DFDB
   - INS-260321-7D76
-  - PRI-260328-49CB
 evidence:
   - id: INS-260330-0C1B
     type: EXTENDS

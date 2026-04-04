@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3601 actionable insights
+Generated on 2026-04-04 | 3605 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1620,6 +1620,7 @@ Generated on 2026-04-04 | 3601 actionable insights
 - [INS-260403-E51B] Audiences ignore or penalize explicit self-promotion but are heavily influenced by implicit behavioral signals of confidence.
 - [INS-260403-2F4E] Never say 'we're passionate' or 'our product is great' — these trigger instant credibility discounting.
 - [INS-260403-7292] Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
+- [INS-260403-2081] Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1923,6 +1924,7 @@ Generated on 2026-04-04 | 3601 actionable insights
 - [INS-260403-BFD1] The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 - [INS-260403-F7DD] Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - [INS-260403-7FBE] A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
+- [INS-260403-C5D8] If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2723,6 +2725,8 @@ Generated on 2026-04-04 | 3601 actionable insights
 - [INS-260403-2E90] Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - [INS-260403-5A4F] Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - [INS-260403-0F5C] Sequoia's 'proxy for demand'—people using bad tools to solve your problem—is the strongest early-stage fundraising signal.
+- [INS-260403-4A4A] Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
+- [INS-260403-37E2] Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

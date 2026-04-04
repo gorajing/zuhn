@@ -63,6 +63,7 @@ related:
   - INS-260330-5F35
   - INS-260329-8C69
   - INS-260329-1A3B
+  - INS-260403-2AE7
 ---
 Hormozi draws a critical distinction between obstacles and objections that most sales training conflates. An obstacle is something that blocks progress before you ask for the sale — it's low stakes and easy to address through curious questioning. An objection is the same concern raised after the prospect knows the price — now it's high stakes and they're in a defensive posture.
 
