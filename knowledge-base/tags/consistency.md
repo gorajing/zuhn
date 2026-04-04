@@ -18,8 +18,8 @@
 - `INS-260329-1F3F` Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
 - `INS-260329-9A5A` People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
-- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
+- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260323-BC20` The true measure of a leader is the quality of decisions they make on ordinary days, not how they perform in dramatic crises.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260327-0826` Good closers try to get hot; great closers never get cold because they've analyzed exactly what they do differently during hot streaks and systematized every detail.

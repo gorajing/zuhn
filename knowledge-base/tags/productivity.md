@@ -5,8 +5,8 @@
 - `INS-260321-18D0` Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260322-76B5` A Bali-based cybersecurity consultant now works 30 minutes per day — reviewing agent-completed security tests and reports that previously took one person two weeks per test — while generating ~150M won monthly.
 - `INS-260329-9D26` Using AI as an input filter and output accelerator compounds into roughly 100x individual productivity gains.
-- `INS-260321-0C99` Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
 - `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
+- `INS-260321-0C99` Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
 - `INS-260329-72C1` AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.
 - `INS-260321-9824` Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
 - `INS-260320-E683` Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.

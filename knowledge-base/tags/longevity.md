@@ -1,9 +1,9 @@
 # Tag: longevity
 
-- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260325-E8BC` Your biological age is malleable through lifestyle changes, even though your chronological age is fixed.
 - `INS-260325-39FD` Longevity medicine aims to extend disease-free years, not prevent death — and one extra healthy year is worth $38 trillion.
 - `INS-260403-CA5A` Getting humans to 160 likely means we've solved cancer, heart disease, and organ failure — making further extension near-unlimited.
+- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260403-1CB1` Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches.
 - `INS-260327-A478` Blue Zone centenarian counts may be inflated by birth record errors and pension fraud in regions with historically poor documentation, undermining dietary conclusions drawn from this data.
 - `INS-260325-1550` Creatine at 10-20g/day provides brain energy and longevity benefits beyond the standard 5g muscle dose — the brain is a primary consumer.

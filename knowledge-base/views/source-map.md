@@ -147,8 +147,8 @@ Generated on 2026-04-04 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | 2504.19874v1 | pdf | 8 | 2026-03-26 |
+| After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -200,10 +200,10 @@ Generated on 2026-04-04 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
@@ -242,8 +242,8 @@ Generated on 2026-04-04 | 2421 sources
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
+| 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 5 | 2026-03-31 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
@@ -1062,6 +1062,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why to Start a Startup in a Bad Economy | blog | 4 | 2026-03-31 |
 | Why TV Lost | blog | 4 | 2026-03-31 |
 | WIRTW: China's minerals, AI financing, Nobel winners, robotics... | blog | 4 | 2026-03-30 |
+| WIRTW: Elon's $1T Package, Prediction Markets on Google, And More | blog | 4 | 2026-03-30 |
 | Writing and Speaking | blog | 4 | 2026-03-31 |
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
 | You are no longer the smartest type of thing on Earth | blog | 4 | 2026-03-30 |
@@ -2393,7 +2394,6 @@ Generated on 2026-04-04 | 2421 sources
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |
 | WIRTW: Deepseek Breakthrough | blog | 0 | 2026-03-30 |
-| WIRTW: Elon's $1T Package, Prediction Markets on Google, And More | blog | 0 | 2026-03-30 |
 | WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B Valuation | blog | 0 | 2026-03-30 |
 | WIRTW: Micron's $100B Megafab | blog | 0 | 2026-03-30 |
 | WIRTW: Record Government Shutdown Ends | blog | 0 | 2026-03-30 |
