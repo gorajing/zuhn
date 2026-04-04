@@ -44,16 +44,16 @@ stance: >-
   prevents you from knowing what's 'impossible' and stamina lets you sustain the
   intensity needed to break through barriers.
 related:
-  - INS-260323-4AF5
   - INS-260325-BE8A
   - INS-260323-1307
   - INS-260327-0B7C
   - INS-260327-E3D5
   - PRI-260328-B11D
+  - INS-260403-7180
   - INS-260403-FE3B
   - INS-260402-E140
   - INS-260326-291C
-  - PRI-260328-3169
+  - INS-260403-C2BE
 evidence:
   - id: INS-260330-3138
     type: CHALLENGES

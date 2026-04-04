@@ -61,6 +61,7 @@ related:
   - INS-260329-FCC6
   - INS-260329-CABE
   - INS-260330-C681
+  - INS-260403-2376
 stance: >-
   When you tell an AI to do something, you give it a description of a goal, not
   the goal itself

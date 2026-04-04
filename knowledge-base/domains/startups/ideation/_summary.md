@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 79 insights
+> 81 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -26,6 +26,7 @@
 - `INS-260330-9E91` [high] Resource scarcity predictions assume fixed knowledge, but knowledge creation continuously converts worthless things into resources — europium was essential for color TV until LCD screens made it irrelevant.
 - `INS-260402-237D` [high] Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260402-2CAF` [high] Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
+- `INS-260403-816B` [high] The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - `INS-260322-185B` [high] You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
 - `INS-260329-9513` [high] Filter business ideas through three lenses — what pains you, what you do professionally, and what you care about — to find ideas grounded in authentic experience.
 - `INS-260329-5891` [high] Pick a business topic from your pain, profession, or passion — these three lenses ensure you have authentic knowledge and motivation.
@@ -51,6 +52,7 @@
 - `INS-260325-D624` [high] GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
 - `INS-260403-5441` [high] The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260403-AA8F` [high] Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
+- `INS-260403-CA1F` [high] Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
 - `INS-260330-5043` [high] Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260321-7109` [high] SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260330-4EF8` [high] A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.

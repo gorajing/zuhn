@@ -55,6 +55,7 @@ related:
   - INS-260403-7C88
   - INS-260321-3521
   - INS-260403-39F6
+  - INS-260403-BCB1
 ---
 When YC interviewed the Airbnb founders, the partners didn't even like the idea and the company had no growth. But the founders' energy was so obvious that the interview required no deliberation — the partners just looked at each other and smiled. Brian Chesky was nicknamed 'The Tasmanian Devil' for his relentless energy. This pattern suggests that earnestness and execution speed are more reliable predictors of startup success than the initial idea, because ideas evolve but founder character tends to be stable.
 

@@ -50,7 +50,7 @@ related:
   - INS-260403-03BD
   - INS-260403-2B63
   - INS-260327-0E57
-  - INS-260330-D61A
+  - INS-260403-4EBF
 ---
 The Summer Founders Program revealed that young people commonly labeled as lazy worked 'ridiculously hard' when given real ownership. A researcher studying the cohort found exceptional work ethic was the single common trait, and founders consistently met every commitment — contradicting stereotypes about their age group.
 

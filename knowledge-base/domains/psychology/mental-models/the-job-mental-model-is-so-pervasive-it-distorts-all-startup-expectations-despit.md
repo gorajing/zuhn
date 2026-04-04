@@ -47,10 +47,10 @@ stance: >-
   universal.
 related:
   - INS-260327-200C
+  - INS-260403-BCB1
   - INS-260403-C9DC
   - INS-260402-E140
   - INS-260327-FCCF
-  - INS-260402-D739
 evidence:
   - id: INS-260327-200C
     type: SUPPORTS

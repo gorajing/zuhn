@@ -44,10 +44,10 @@ stance: >-
   than scoring high on a fixed checklist of skills
 related:
   - INS-260330-CC0F
+  - INS-260403-7180
   - INS-260403-3A49
   - INS-260403-7C88
   - PRI-260403-2E59
-  - INS-260403-805E
   - INS-260402-0727
   - INS-260403-D833
 ---

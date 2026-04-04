@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3616 actionable insights
+Generated on 2026-04-04 | 3620 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1303,6 +1303,7 @@ Generated on 2026-04-04 | 3616 actionable insights
 - [INS-260330-4E10] Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - [INS-260403-94C4] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - [INS-260403-B4DC] Adopting an infinite-game mindset — focused on expanding what's possible rather than defending what exists — is the winning strategic posture during major technological disruption.
+- [INS-260403-BCB1] Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 
 ## psychology/founder-psychology
 - [INS-260329-1A64] When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
@@ -2351,6 +2352,7 @@ Generated on 2026-04-04 | 3616 actionable insights
 - [INS-260403-71D1] YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - [INS-260403-4A2F] The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
 - [INS-260403-CCB7] Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
+- [INS-260403-2376] 'Make something people want' tells you where to go; 'be relentlessly resourceful' tells you how to get there day by day.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2536,6 +2538,7 @@ Generated on 2026-04-04 | 3616 actionable insights
 - [INS-260403-886D] Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
 - [INS-260403-B05A] What you work on and who you work with matter more than how many hours you put in.
 - [INS-260403-802D] The learning from direct customer testing is tacit and compounding — it cannot be transferred through reports, making founder-led discovery non-delegable.
+- [INS-260403-7180] The best founders combine relentless drive with creative adaptability rather than relying on brute-force determination alone.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -3005,6 +3008,7 @@ Generated on 2026-04-04 | 3616 actionable insights
 - [INS-260403-573F] The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
 - [INS-260403-6857] Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
 - [INS-260403-06D5] In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
+- [INS-260403-816B] The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.

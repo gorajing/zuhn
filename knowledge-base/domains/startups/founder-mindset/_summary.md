@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 303 insights
+> 305 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -147,6 +147,7 @@
 - `INS-260323-7F3E` [high] True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.
 - `INS-260402-FEA3` [high] The real world rewards nerds because scale lets niches cluster and real stakes make competence trump charisma.
 - `INS-260325-17BF` [high] Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
+- `INS-260403-7180` [high] The best founders combine relentless drive with creative adaptability rather than relying on brute-force determination alone.
 - `INS-260403-7C88` [high] Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260329-388E` [high] Goodwill functions like a financial asset that compounds over time and generates measurable returns.
 - `INS-260322-1A20` [high] In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
@@ -285,6 +286,7 @@
 - `INS-260323-0277` [medium] Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260330-F348` [medium] Musk doesn't seek sources of strength — quitting simply isn't in his option set, which removes the need for ongoing motivation.
 - `INS-260327-DD1D` [medium] Quitting during a crisis reduces competition and can create better startup conditions than boom times.
+- `INS-260403-4EBF` [medium] Many seemingly passive people develop relentless resourcefulness once freed from institutional environments that punished it.
 - `INS-260328-A46F` [medium] Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260330-95E8` [medium] OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
 - `INS-260329-A6F0` [medium] Strategic imbalance for a defined period produces better lifetime outcomes than perpetual moderate balance that never breaks free of constraints.

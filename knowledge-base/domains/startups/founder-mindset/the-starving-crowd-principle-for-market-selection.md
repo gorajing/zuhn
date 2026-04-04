@@ -49,10 +49,10 @@ stance: >-
   through marketing excellence.
 related:
   - INS-260327-47BA
+  - INS-260403-2376
   - INS-260322-A208
   - INS-260403-97DB
   - INS-260403-25A8
-  - INS-260329-4020
 evidence:
   - id: INS-260322-A208
     type: TRANSFERS_TO

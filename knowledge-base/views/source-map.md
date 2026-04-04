@@ -808,8 +808,10 @@ Generated on 2026-04-04 | 2421 sources
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
+| 8 AI Prompts That Replace a $25K/Year Financial Analyst | blog | 4 | 2026-03-30 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | A founding vision for a startup is similar to a scientific hypothesis | blog | 4 | 2026-03-31 |
+| A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 4 | 2026-03-31 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
 | A Local Revolution? | blog | 4 | 2026-03-31 |
 | A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
@@ -848,6 +850,7 @@ Generated on 2026-04-04 | 2421 sources
 | Data-Driven Equity Splitting📊, The Path to PMF, Figma's $12.5 Bn Valuation🎨 | blog | 4 | 2026-03-30 |
 | DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup Guide | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
+| Deep Dive: 5 Forces Causing The Population Collapse | blog | 4 | 2026-03-30 |
 | Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
@@ -861,6 +864,7 @@ Generated on 2026-04-04 | 2421 sources
 | Founder Mode | blog | 4 | 2026-03-31 |
 | Free AI Hiring Kit for Startup Founders | blog | 4 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
+| Gangster affordability | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 4 | 2026-03-30 |
@@ -879,6 +883,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
+| Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 4 | 2026-03-30 |
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 4 | 2026-03-30 |
 | Investor Herd Dynamics | blog | 4 | 2026-03-31 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
@@ -894,10 +899,12 @@ Generated on 2026-04-04 | 2421 sources
 | Made in USA | blog | 4 | 2026-03-31 |
 | Maker's Schedule, Manager's Schedule | blog | 4 | 2026-03-31 |
 | Mean People Fail | blog | 4 | 2026-03-31 |
+| Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 4 | 2026-03-30 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 4 | 2026-03-30 |
+| Organic Startup Ideas | blog | 4 | 2026-03-31 |
 | Overcoming the “blank page” challenge with AI | blog | 4 | 2026-03-31 |
 | Persuade xor Discover | blog | 4 | 2026-03-31 |
 | Political Backflow From Europe | blog | 4 | 2026-03-30 |
@@ -910,8 +917,10 @@ Generated on 2026-04-04 | 2421 sources
 | Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 4 | 2026-03-30 |
 | Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 4 | 2026-03-30 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
+| Relentlessly Resourceful | blog | 4 | 2026-03-31 |
 | Resilient Businesses Compete Beyond Technology, Product & Price | blog | 4 | 2026-03-31 |
 | Return of the Mac | blog | 4 | 2026-03-31 |
+| Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 4 | 2026-03-30 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
@@ -1917,7 +1926,6 @@ Generated on 2026-04-04 | 2421 sources
 | 59 Startup Pitch Decks That Raised Millions—See What Works | blog | 0 | 2026-03-30 |
 | 61 Startups Actively Raising Capital (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
 | 6,631,372 | blog | 0 | 2026-03-31 |
-| 8 AI Prompts That Replace a $25K/Year Financial Analyst | blog | 0 | 2026-03-30 |
 | 8 Concrete Tips On How To Intentionally Design Great Corporate Culture | blog | 0 | 2026-03-31 |
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
 | 8 Free Excel Templates Every Startup Founder Should Use | blog | 0 | 2026-03-30 |
@@ -1936,7 +1944,6 @@ Generated on 2026-04-04 | 2421 sources
 | A designer’s guide to AI: Building in Cursor (instead of Figma) lets you prototype 10x faster, simplifies collaboration, and accelerates getting ideas out of your head | Joel Unger | blog | 0 | 2026-03-31 |
 | A designer's guide to Cursor: How to build interactive prototypes with sound, explore visual styles, and transform data visualizations | Elizabeth Lin | blog | 0 | 2026-03-31 |
 | A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) | blog | 0 | 2026-03-31 |
-| A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 0 | 2026-03-31 |
 | A framework for PM skill development | Vikrama Dhiman (Gojek) | blog | 0 | 2026-03-31 |
 | A free year of Devin: the world’s most advanced autonomous AI software engineer | blog | 0 | 2026-03-31 |
 | "A full software engineering teammate": OpenAI product lead on getting the most out of Codex | Alexander Embiricos | blog | 0 | 2026-03-31 |
@@ -2080,7 +2087,6 @@ Generated on 2026-04-04 | 2421 sources
 | 🤩 Community Wisdom: Understanding designer jargon, eng vs. PM responsibilities, finding user research participants, creating shareable usage stats, and roadmaps informing OKRs | blog | 0 | 2026-03-31 |
 | Copy What You Like | blog | 0 | 2026-03-31 |
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
-| Deep Dive: 5 Forces Causing The Population Collapse | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Cryptocurrencies | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Drug Development | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Mag7 (Part 1) | blog | 0 | 2026-03-30 |
@@ -2135,7 +2141,6 @@ Generated on 2026-04-04 | 2421 sources
 | From Numbers to Narrative: Financial Modeling for Founders 📊 | blog | 0 | 2026-03-30 |
 | From Sci-Fi to Reality 🗣️ | blog | 0 | 2026-03-30 |
 | Gaming Superpowers for Non-Game Founders with Gabi Shalel (Plarium) & Gigi Levy-Weiss | blog | 0 | 2026-03-31 |
-| Gangster affordability | blog | 0 | 2026-03-30 |
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
 | General and Surprising | blog | 0 | 2026-03-31 |
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
@@ -2176,7 +2181,6 @@ Generated on 2026-04-04 | 2421 sources
 | How VCs and Startups can beat currency depreciation 🌍 | blog | 0 | 2026-03-30 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 0 | 2026-03-30 |
 | How You Know | blog | 0 | 2026-03-31 |
-| Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
@@ -2194,7 +2198,6 @@ Generated on 2026-04-04 | 2421 sources
 | Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
 | Mastercard brings 85+ firms into crypto payments push | blog | 0 | 2026-03-30 |
 | Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 0 | 2026-03-30 |
-| Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 0 | 2026-03-30 |
 | Megarounds make a comeback💰, The State of GenAI🤖, Doing Diligence Well🕵️ | blog | 0 | 2026-03-30 |
 | Meta Shrinks to Move Faster: Superintelligence Labs Explained | blog | 0 | 2026-03-30 |
 | Meta’s Multi-Billion, Multi-Year Nvidia Partnership | blog | 0 | 2026-03-30 |
@@ -2221,7 +2224,6 @@ Generated on 2026-04-04 | 2421 sources
 | Open Thread 426 | blog | 0 | 2026-03-30 |
 | OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 0 | 2026-03-30 |
 | OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 0 | 2026-03-30 |
-| Organic Startup Ideas | blog | 0 | 2026-03-31 |
 | Orthodox Privilege | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
@@ -2230,9 +2232,7 @@ Generated on 2026-04-04 | 2421 sources
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RAQs | blog | 0 | 2026-03-31 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
-| Relentlessly Resourceful | blog | 0 | 2026-03-31 |
 | Resistance is necessary, but it's not enough | blog | 0 | 2026-03-30 |
-| Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 0 | 2026-03-30 |
 | Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
 | Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank Lessons for Founders | blog | 0 | 2026-03-30 |

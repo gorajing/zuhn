@@ -63,6 +63,7 @@ related:
   - INS-260325-5977
   - INS-260325-05E4
   - INS-260328-AE33
+  - INS-260403-4EBF
 ---
 The psychologists monitoring Michael identified a clear pattern: the people who survive isolation healthiest are those who actively self-stimulate — counting steps, doing push-ups, singing, narrating to cameras, reciting the alphabet backward. Michael instinctively adopted these strategies (200 steps, push-ups, talking to the camera, counting) and the experts noted this kept him 'cognitively aware.' The former prisoner William Brown described concentrating on breathing as his survival mechanism.
 

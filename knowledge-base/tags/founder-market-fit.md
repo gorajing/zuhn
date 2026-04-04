@@ -8,6 +8,7 @@
 - `INS-260402-D739` The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
 - `INS-260328-A9D2` Dalton's core advice framework for pivots: every person has one perfect startup idea — the one where they have the most unfair advantages, best network, and deepest expertise.
 - `INS-260327-D982` The exercise of picking a startup idea should be reframed from 'find a good startup idea' to 'find a good idea for your team' — founder-market fit is the single most predictive evaluation criterion.
+- `INS-260403-816B` The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - `INS-260329-5891` Pick a business topic from your pain, profession, or passion — these three lenses ensure you have authentic knowledge and motivation.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.

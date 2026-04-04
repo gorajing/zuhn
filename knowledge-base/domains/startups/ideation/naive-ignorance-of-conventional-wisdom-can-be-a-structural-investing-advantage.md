@@ -43,10 +43,10 @@ stance: >-
   artificial constraints that more experienced investors impose.
 related:
   - INS-260328-AA1F
+  - INS-260403-BCB1
   - INS-260321-3521
   - INS-260403-71D1
   - INS-260403-B2EB
-  - INS-260330-1002
 evidence:
   - id: INS-260330-B6AD
     type: CHALLENGES
