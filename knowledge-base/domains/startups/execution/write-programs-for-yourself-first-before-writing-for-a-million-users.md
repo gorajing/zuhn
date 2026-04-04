@@ -54,7 +54,6 @@ related:
   - INS-260403-5593
   - INS-260330-A3AF
   - INS-260327-A653
-  - INS-260330-8890
 evidence:
   - id: INS-260330-A3AF
     type: TRANSFERS_TO

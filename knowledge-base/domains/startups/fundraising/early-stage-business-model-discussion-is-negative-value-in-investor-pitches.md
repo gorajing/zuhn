@@ -48,11 +48,11 @@ stance: >-
   you, because any model you have is probably wrong and a spectacularly wrong
   one will crowd out what investors should remember about you.
 related:
+  - INS-260403-2247
   - INS-260403-97DB
   - INS-260403-A172
   - INS-260403-054F
   - INS-260403-481F
-  - INS-260403-1852
   - INS-260403-3155
 ---
 A top VC told Y Combinator founders that even experienced repeat founders with millions in funding had a business model that was 'crap' and would change three times. He invested anyway because he expected it to be wrong at that stage. Smart investors know this.

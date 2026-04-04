@@ -34,8 +34,6 @@
 - `INS-260329-163B` Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.
 - `INS-260323-F9AC` Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
-- `INS-260322-4B63` Most people who aren't creating content are stopped by fear of negative comments from anonymous strangers, not by lack of ability or time.
-- `INS-260327-D982` The exercise of picking a startup idea should be reframed from 'find a good startup idea' to 'find a good idea for your team' — founder-market fit is the single most predictive evaluation criterion.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260321-C14C` The biggest failure mode in Silicon Valley is assuming that being smart at building products means you're smart at negotiating contracts, managing politics, or understanding war — 'if you don't know who the mark is, you're the mark.'
 - `INS-260328-F303` The startup game is already nearly impossible when taking a real shot — not even taking a real shot is a guaranteed waste of time.
@@ -49,6 +47,8 @@
 - `INS-260328-FFC3` Telling a great engineer to 'build better software' is useless — telling them to invest in sales is transformative.
 - `INS-260323-CF93` Intelligence is multi-dimensional — Bezos left theoretical physics when he saw people who could effortlessly do what was hard for him, then discovered his genius was lateral-thinking invention.
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
+- `INS-260322-4B63` Most people who aren't creating content are stopped by fear of negative comments from anonymous strangers, not by lack of ability or time.
+- `INS-260327-D982` The exercise of picking a startup idea should be reframed from 'find a good startup idea' to 'find a good idea for your team' — founder-market fit is the single most predictive evaluation criterion.
 - `INS-260330-4A1F` Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
 - `INS-260327-8521` Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
 - `INS-260322-C6CE` Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.

@@ -46,11 +46,11 @@ stance: >-
   A 4.7-star rating with thousands of reviews is more trustworthy than a 5-star
   rating with 19 reviews because visible imperfection signals authenticity
 related:
+  - INS-260403-A8E8
   - INS-260329-78AE
   - INS-260403-22FE
   - INS-260403-A290
   - INS-260403-74CD
-  - INS-260322-627E
 evidence:
   - id: INS-260327-7DBC
     type: TRANSFERS_TO

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3546 actionable insights
+Generated on 2026-04-04 | 3557 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1112,6 +1112,8 @@ Generated on 2026-04-04 | 3546 actionable insights
 - [INS-260403-91CC] Push past obvious functional jobs to find the social and emotional motivations that create the strongest customer attachment.
 - [INS-260403-16F2] The most effective way to direct your ambient thinking is upstream: choose situations where the most urgent problems are the ones you actually want to solve.
 - [INS-260403-FBC0] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
+- [INS-260403-3D7D] RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
+- [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1607,6 +1609,7 @@ Generated on 2026-04-04 | 3546 actionable insights
 - [INS-260403-48BF] Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
 - [INS-260403-1A71] In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - [INS-260403-E51B] Audiences ignore or penalize explicit self-promotion but are heavily influenced by implicit behavioral signals of confidence.
+- [INS-260403-2F4E] Never say 'we're passionate' or 'our product is great' — these trigger instant credibility discounting.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1906,6 +1909,7 @@ Generated on 2026-04-04 | 3546 actionable insights
 - [INS-260403-D984] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 - [INS-260403-26D3] Inability to describe your startup in one compelling phrase signals unfocused strategy, not just poor messaging.
 - [INS-260403-8C50] Sequoia's 'proxy for demand' — people using bad tools to do the thing you enable — is the strongest antidote to investors' biggest early-stage fear.
+- [INS-260403-66D0] Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2680,6 +2684,11 @@ Generated on 2026-04-04 | 3546 actionable insights
 - [INS-260403-88E8] Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - [INS-260403-D5F2] Investors discard vague descriptions as boilerplate; narrow concrete ones give them a working mental model to build on.
 - [INS-260403-ABBB] Fundraising damages startups primarily by becoming the top idea in the founder's mind, starving product work of background processing cycles.
+- [INS-260403-2247] Mention monetization to show you've thought about it, but don't elaborate — the model is probably wrong anyway.
+- [INS-260403-20D6] Approach your pitch like successive approximation: start grippingly narrow, then flesh out.
+- [INS-260403-1949] Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
+- [INS-260403-6982] A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
+- [INS-260403-B29D] Vague all-encompassing descriptions are parsed as meaningless boilerplate; narrow concrete descriptions create a working mental model investors can build on.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3524,6 +3533,7 @@ Generated on 2026-04-04 | 3546 actionable insights
 - [INS-260403-F6F9] Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
 - [INS-260403-62B4] Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - [INS-260403-4850] The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.
+- [INS-260403-C125] Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3591,6 +3601,7 @@ Generated on 2026-04-04 | 3546 actionable insights
 - [INS-260403-8C56] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
 - [INS-260403-9276] Annotate each business model with its trajectory (growing, shrinking, shifting) to detect slow-moving disruption before it becomes irreversible.
 - [INS-260403-137D] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
+- [INS-260403-FDB8] Costco's $60 entry fee filters for affluent households averaging $100K income, who then spend more and renew at 90%.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

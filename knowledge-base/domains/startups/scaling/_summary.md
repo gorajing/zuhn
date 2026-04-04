@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 130 insights
+> 131 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -103,6 +103,7 @@
 - `INS-260403-E1EB` [high] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.
 - `INS-260403-5CB5` [medium] Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
+- `INS-260403-C125` [medium] Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
 - `INS-260403-8A80` [medium] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-F745` [medium] The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.
 - `INS-260403-4E23` [medium] A founder measured his team's output before and after acquisition by a competent big company and found a 13x productivity decline from organizational overhead alone.

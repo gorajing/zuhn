@@ -49,11 +49,11 @@ stance: >-
   discount you as a bullshitter, while showing confidence through demeanor and
   conviction is the single biggest evidence signal for non-technical evaluators.
 related:
-  - INS-260403-2F22
   - INS-260403-5C8E
+  - INS-260403-2F22
   - INS-260403-B216
   - INS-260403-48BF
-  - INS-260403-0F95
+  - INS-260403-2F4E
   - INS-260403-FAC0
   - INS-260403-ED1F
 ---

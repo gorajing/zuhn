@@ -46,7 +46,7 @@ related:
   - INS-260403-8A80
   - INS-260403-3062
   - INS-260403-E2D9
+  - INS-260403-C125
   - INS-260330-7E58
-  - INS-260322-FD23
 ---
 Costco pays its 245,000 workers an average of $21/hour—double the U.S. retail average—plus superior health insurance and retirement benefits. The result isn't just goodwill: employees are three times more productive than industry average. This reframes the wage decision from cost-center thinking to investment thinking. The productivity multiplier means Costco's effective labor cost per unit of output may actually be lower than competitors paying minimum wage. This pattern appears across industries: Costco, In-N-Out, and similar companies demonstrate that the cheapest labor isn't the most cost-effective labor. For startups scaling operations, this suggests that compensation strategy should be evaluated on output-per-dollar, not cost-per-head.

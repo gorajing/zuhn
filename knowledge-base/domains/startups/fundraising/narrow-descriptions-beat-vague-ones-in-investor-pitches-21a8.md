@@ -56,6 +56,7 @@ related:
   - INS-260403-D430
   - INS-260403-A0C4
   - INS-260403-06E0
+  - INS-260403-B29D
   - INS-260403-D5F2
 ---
 Founders resist narrow descriptions because early-stage startups have many possible directions, and a concise label feels like it cuts off optionality. But Graham argues this is backwards — the more expansive the description, the less information it contains. Saying 'a system to collaboratively leverage the value of information' communicates nothing, while 'an easy web-based database' gives investors a concrete mental model they can evaluate.

@@ -44,7 +44,6 @@ stance: >-
   power users because churned and resurrected users dominate growth accounting
   after initial growth.
 related:
-  - INS-260325-EE14
   - INS-260320-00C2
   - INS-260327-1599
   - INS-260329-8BD3
@@ -54,6 +53,7 @@ related:
   - INS-260330-70BC
   - INS-260330-9C48
   - INS-260330-4553
+  - INS-260330-21CC
 evidence:
   - id: INS-260325-EE14
     type: EXTENDS

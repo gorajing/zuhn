@@ -48,11 +48,11 @@ stance: >-
   outperform a broad aspirational one because vague descriptions approach zero
   information content.
 related:
+  - INS-260403-B29D
   - INS-260403-A0C4
   - INS-260403-21A8
   - INS-260403-06E0
   - INS-260403-EE70
-  - INS-260403-B274
 ---
 When founders describe their product broadly to capture all future possibilities, investors hear nothing — the description's information content approaches zero. Paul Graham compares this to incremental development: start with a gripping but perhaps overly narrow description, then flesh it out. A 'web-based database' is infinitely more useful than 'a system to collaboratively leverage the value of information.'
 

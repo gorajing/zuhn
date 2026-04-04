@@ -57,13 +57,13 @@ stance: >-
   dysfunction
 related:
   - INS-260327-2B94
-  - INS-260330-EBFD
   - INS-260330-8C52
+  - INS-260403-07D2
   - INS-260330-E068
   - INS-260403-5648
   - INS-260403-E52B
-  - INS-260403-2CA2
   - INS-260402-2074
+  - INS-260403-2CA2
 evidence:
   - id: INS-260330-7B09
     type: SUPPORTS

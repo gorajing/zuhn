@@ -54,6 +54,7 @@ related:
   - INS-260403-A172
   - INS-260403-E319
   - INS-260403-2DE3
+  - INS-260403-6982
 ---
 A top VC told YC founders he invested in a company whose business model was wrong and would probably change three times before working. The founders were experienced repeat entrepreneurs backed by a top firm, and even their model was bad. The VC invested anyway because at this stage, business models are just guesses about areas outside the founders' expertise.
 

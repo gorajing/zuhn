@@ -50,7 +50,6 @@ stance: >-
   Systems optimized for one environment become actively self-sabotaging when the
   environment changes in ways their design assumed were impossible
 related:
-  - INS-260325-0895
   - INS-260330-B71B
   - INS-260330-EACA
   - INS-260403-F52E

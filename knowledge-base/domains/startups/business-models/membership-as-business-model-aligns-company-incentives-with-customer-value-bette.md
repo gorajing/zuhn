@@ -48,13 +48,12 @@ stance: >-
   survival depends on continuously delivering value rather than extracting
   margin from individual transactions.
 related:
-  - INS-260403-B2CB
   - INS-260403-5C88
   - INS-260403-3F5F
   - INS-260403-1C25
+  - INS-260403-CDB9
+  - INS-260403-B2CB
   - INS-260403-59F8
-  - INS-260403-0650
-  - INS-260403-F634
 ---
 Most retailers use loss leaders to get customers in the door, then profit from markups on other items. Costco inverts this: it caps markups at 15% (vs. Walmart's 24% or Home Depot's 35%) and makes nearly all its profit from the $60-$120 annual membership fee. This creates a fundamentally different incentive structure — raising prices would gain cents today but risk losing $60 in renewal revenue next year.
 

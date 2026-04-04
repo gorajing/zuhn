@@ -57,6 +57,7 @@ related:
   - INS-260330-3FF4
   - INS-260403-818F
   - INS-260330-DF69
+  - INS-260403-3D7D
 ---
 RuBisCo was optimized for an atmosphere rich in CO2 and nearly devoid of oxygen. When photosynthesis itself changed the atmosphere by flooding it with oxygen, RuBisCo started confusing O2 for CO2 up to half the time. Plants couldn't redesign the enzyme — they could only bolt on expensive compensatory mechanisms (C4 pathways, photorespiration recycling).
 

@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 63 insights
+> 64 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -64,4 +64,5 @@
 - `INS-260403-1AD3` [medium] Startup ecosystems need a critical mass threshold before they become self-reinforcing through network effects.
 - `INS-260402-C49E` [medium] Graham quantifies from running a forum that users were about 3x more likely to upvote content that outraged them, suggesting outrage amplification is structural to engagement-sorted platforms.
 - `INS-260330-7D6D` [medium] Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
+- `INS-260403-07D2` [medium] The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
 - `INS-260330-4AE7` [medium] Use a 3-4 week growth flatline as a concrete pivot trigger, provided you've been executing with full effort.

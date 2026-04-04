@@ -51,10 +51,10 @@ stance: >-
   membrane applies far beyond biology to any system with a selective barrier
 related:
   - INS-260330-7FF3
+  - INS-260403-8294
   - INS-260330-24BA
   - INS-260330-100F
   - INS-260330-3037
-  - INS-260330-21A8
   - INS-260330-F2B6
   - PRI-260403-70D0
 evidence:

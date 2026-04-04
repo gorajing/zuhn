@@ -49,7 +49,6 @@ stance: >-
   concentrate high-value customers and create loyalty that open-access
   competitors cannot replicate
 related:
-  - INS-260323-F68A
   - INS-260323-FEAB
   - INS-260322-1435
   - INS-260327-7681
@@ -59,6 +58,7 @@ related:
   - INS-260403-2C00
   - INS-260403-1C25
   - INS-260403-C40D
+  - INS-260403-747B
 ---
 The $60-120 annual fee seems like it would fatally limit customer acquisition — why would anyone pay just to enter a store? But the fee performs three functions simultaneously: it selects for households earning ~$100K+ (the demographic most valuable to retailers), it triggers sunk-cost psychology that discourages price comparison shopping, and it funds the low-margin model that keeps those customers coming back. Business members, just one-third of the base, drive two-thirds of sales.
 

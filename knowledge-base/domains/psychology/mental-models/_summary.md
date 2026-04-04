@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 79 insights
+> 80 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -18,6 +18,7 @@
 - `INS-260403-CD2A` [high] Thylakoid proton gradients drive ATP synthesis the same way any maintained imbalance across a boundary stores exploitable energy.
 - `INS-260403-172E` [high] Photosynthesis charges thylakoids like batteries by pumping protons to one side, then harvests energy as they flow back — a pattern that appears across biology and engineering.
 - `INS-260330-3037` [high] Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.
+- `INS-260403-8294` [high] Cells store energy by pumping protons across membranes to create concentration gradients, which then drive ATP synthase like water through a turbine.
 - `INS-260330-7FF3` [high] ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
 - `INS-260403-0429` [high] Photosynthesis stores energy by pumping protons across a membrane to create a gradient — the same principle applies to information asymmetry, skill gaps, and market inefficiencies.
 - `INS-260402-0F45` [high] Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
