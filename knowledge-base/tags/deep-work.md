@@ -1,6 +1,7 @@
 # Tag: deep-work
 
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
+- `INS-260403-FA30` Coders knocked out of flow need 15+ minutes to return — if they can return at all.
 - `INS-260329-D481` Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.
 - `INS-260322-BEA3` The first thing you focus on each day gets prime mental real estate with zero competition — so give that slot to your single most important task.
 - `INS-260329-9A30` A meeting that costs a manager one of 100+ time slots costs a maker one of only 10 weekly work blocks — a 10x asymmetric penalty.

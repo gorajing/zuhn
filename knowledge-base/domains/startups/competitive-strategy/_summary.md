@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 448 insights
+> 453 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -175,6 +175,7 @@
 - `INS-260330-AFAD` [high] Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
 - `INS-260330-FF09` [high] The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260330-519D` [high] Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
+- `INS-260403-202E` [high] Microsoft created XMLHttpRequest for Outlook, inadvertently enabling the Ajax revolution that killed the desktop era.
 - `INS-260323-07BE` [high] Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.
 - `INS-260330-9014` [high] Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-F932` [high] If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
@@ -226,6 +227,7 @@
 - `INS-260330-6C35` [high] Monopolists frame themselves in huge markets to avoid regulation while competitors frame themselves in tiny intersections to appear unique — both systematically distort reality.
 - `INS-260330-CC49` [high] Monopolists describe their market as the union of many large markets to appear small; competitors describe theirs as the intersection of narrow niches to appear unique.
 - `INS-260323-E551` [high] Tudor maintained his ice monopoly by systematically undercutting copycat businesses on price until they gave up or went bankrupt.
+- `INS-260403-1258` [high] A monopoly's real death is when new entrants stop considering it a threat, which precedes financial decline by years.
 - `INS-260323-0EE2` [high] ASML's monopoly exists because EUV requires solving dozens of 'impossible' problems simultaneously — mirrors smooth to 2.3 atoms, tin droplets hit 50,000 times/second with zero misses, and 13.5nm light generation — and no competitor can replicate the full stack.
 - `INS-260403-5554` [high] Carnival and Royal Caribbean own dozens of sub-brands spanning mainstream to luxury, isolating disasters like Costa Concordia from damaging their full portfolio.
 - `INS-260327-7D53` [high] No CTO has ever said their cloud bill is cheap — multi-model, multi-cloud platforms win by giving enterprises what hyperscalers refuse: freedom from lock-in.
@@ -292,6 +294,7 @@
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
+- `INS-260403-D328` [high] Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260330-C761` [high] When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.
 - `INS-260403-D8C1` [high] Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260403-1F40` [high] Jurisdiction-specific regulation prevents winner-take-all dynamics and protects local startups from global incumbents.
@@ -413,9 +416,11 @@
 - `INS-260403-CA1E` [medium] Large companies shift from user-serving to user-exploiting, creating predictable openings for startups that genuinely serve users.
 - `INS-260403-94AD` [medium] Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
 - `INS-260329-CABE` [medium] Big and small goals require similar effort, but big goals face less competition because most people dismiss them as unrealistic.
+- `INS-260403-162F` [medium] Deep customer understanding makes competitor tracking largely irrelevant.
 - `INS-260403-943D` [medium] Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
 - `INS-260402-7E2A` [medium] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
+- `INS-260403-CEBA` [medium] Technology leads are temporary; customer understanding compounds into durable competitive advantage.
 - `INS-260330-DCE1` [medium] Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
 - `INS-260403-6412` [medium] Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
 - `INS-260330-F116` [medium] The early Islamic empire's rapid territorial expansion was enabled by centuries of Byzantine-Sassanian warfare that left both empires depleted — plus plague weakening the Sassanians further.

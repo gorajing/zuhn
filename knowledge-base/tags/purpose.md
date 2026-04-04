@@ -6,6 +6,7 @@
 - `INS-260327-4739` Meaningful work exists at the intersection of what you love, what you're good at, what the world needs, and what you can be paid for - missing any one creates imbalance.
 - `INS-260327-73CB` The most meaningful work combines multiple domains rather than maximizing one - the person who connects their varied interests often contributes more than the pure specialist.
 - `INS-260330-B5BF` Your most authentic purpose signals come from pre-puberty childhood inclinations before social conditioning buried them.
+- `INS-260403-79E0` The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260325-E9B1` Meaning is found when you reach a motivation so fundamental that asking 'but why?' feels like a category error — for parents it is their children, for the religious it is God, for others it is the pursuit of understanding.
 - `INS-260327-015B` Rosolie faces genuine mortal danger regularly from poachers, animals, and the jungle itself - and reports a depth of meaning that safe career optimization cannot provide.
 - `INS-260330-BC1B` Men's deaths of despair (3x higher than women's) are driven by feeling 'worthless' and 'useless'—a purpose crisis compounded by isolation, not just material hardship.

@@ -56,11 +56,11 @@ stance: >-
   but compressed data structures that cluster similar fitness payoff functions
   for efficient action selection.
 related:
+  - INS-260403-CF23
   - INS-260329-70F2
   - INS-260329-1075
   - INS-260330-6165
   - INS-260330-81E0
-  - INS-260330-4DC5
 evidence:
   - id: INS-260330-81E0
     type: CHALLENGES

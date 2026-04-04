@@ -47,8 +47,8 @@ related:
   - INS-260327-7498
   - INS-260327-A40E
   - INS-260330-E615
+  - INS-260403-79AD
   - INS-260327-F405
   - INS-260330-766D
-  - PRI-260324-90E8
 ---
 Graham distinguishes YC from traditional VCs not by its investment thesis or deal terms but by its culture — the family dinners, the converted house, the authentic atmosphere that 'everyone who walked in could sense.' This culture wasn't designed; it emerged from the founders' genuine relationship and values. The lesson generalizes: organizations whose primary value is community or network effects (accelerators, educational institutions, creative collectives) cannot manufacture their culture through brand guidelines or mission statements. The culture must emerge authentically from the founders' actual values and relationships. This is why YC clones consistently fail — they copy the mechanics (batch model, demo day) but cannot replicate the cultural substrate.

@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 162 insights
+> 163 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -8,6 +8,7 @@
 - `INS-260323-4D5E` [high] People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
 - `INS-260329-5A24` [high] Declaring amnesty for past failures lets teams diagnose the real problem instead of defending their territory.
 - `INS-260330-FA07` [high] Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
+- `INS-260403-48CC` [high] Push purpose and strategy understanding down so frontline staff can make decisions without managerial approval.
 - `INS-260328-2CFF` [high] A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260324-92E9` [high] The systematic replacement of marketing/sales CEOs with finance/analytics CEOs post-2011 created a corporate monoculture optimized for yesterday's targets.
 - `INS-260327-32B8` [high] Twitter's board engineered four CEO transitions in a decade, each time resetting strategy before the previous direction could produce results -- the board itself was the constant destabilizing force.

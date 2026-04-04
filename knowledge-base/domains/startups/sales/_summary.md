@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 175 insights
+> 178 insights
 
 - `INS-260329-913C` [high] Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days.
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
@@ -44,6 +44,7 @@
 - `INS-260328-A666` [high] At companies like Palantir, the CEO doesn't delegate deal origination — the sales team is built as a multiplier around the founder.
 - `INS-260327-C464` [high] Entire departments at enterprise accounts have staked their careers on being experts in legacy systems -- even with a clear ROI case for modernization, the VP of IT who only knows on-premise systems sees your cloud solution as a career threat.
 - `INS-260327-0E57` [high] SMB: easy to motivate (direct access to power), hard to enable (limited resources). Enterprise: hard to motivate (risk-averse, slow, process-heavy), easier to enable once committed.
+- `INS-260403-11CC` [high] Map every stakeholder type and craft distinct messaging for each before entering a deal.
 - `INS-260330-760D` [high] Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
 - `INS-260328-070D` [high] Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260327-A903` [high] Don't say 'love what you're doing at [Company]' -- find specific things you uniquely have in common with the recipient (same college building, used their specific product feature, niche shared interest) to create real connection.
@@ -73,6 +74,7 @@
 - `INS-260327-679A` [high] Kate Jensen builds Anthropic's sales culture around data obsession, deliberate experimentation (letting ICs propose and test hypotheses), and vulnerability — celebrating wins while learning quickly from failures.
 - `INS-260329-1DE0` [high] Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260327-8C1C` [high] Instead of 'I'll walk you through everything in our product,' say 'I've thought through this problem at length and have a very specific perspective on solving it' -- nine out of ten founders miss this and jump straight to features.
+- `INS-260403-19D8` [high] Technology-first pitches create obstacles; outcome-first pitches close deals.
 - `INS-260330-2BEC` [high] Founders should aggressively drive prospects to yes or no, because a thousand maybes consume all resources while producing zero revenue.
 - `INS-260327-C5D0` [high] MEDDPICC qualifies whether you should be in a deal and what to do to win it, complementing any underlying sales methodology.
 - `INS-260327-E3CA` [high] Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
@@ -160,6 +162,7 @@
 - `INS-260329-A57C` [high] Compile all email, social media, and phone contacts into one master list and reach out to 100 per day with personalized messages.
 - `INS-260329-E900` [medium] Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.
 - `INS-260327-999C` [medium] OpenAI built a separate dedicated GTM team for ChatGPT Enterprise rather than using their existing API sales org, gaining speed and focus — then merged both orgs into one unified team once both motions were proven.
+- `INS-260403-7F89` [medium] The bottleneck to customer understanding is internal process friction, not lack of resources.
 - `INS-260327-B18F` [medium] End every sales interview by asking 'Based on our conversation, do you think I'd be a good fit? And if so, what are the next steps?' — it's a simple close that demonstrates selling instinct.
 - `INS-260327-CC57` [medium] A typical enterprise AE day: 7:30am standup, 8am customer call, follow-up calls for an hour, two financial reviews, two new business meetings, four afternoon calls, then evening prep -- most of it is existing account management, not new deal excitement.
 - `INS-260329-D0F4` [medium] Give exceptional free work to 100 people and 1-5 will convert into paying relationships, outperforming most employment income.

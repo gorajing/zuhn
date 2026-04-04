@@ -46,7 +46,6 @@ stance: >-
   of product excellence can overcome.
 related:
   - INS-260321-B85C
-  - INS-260327-CF53
   - INS-260328-75B8
   - INS-260328-12EE
   - INS-260329-7B2D

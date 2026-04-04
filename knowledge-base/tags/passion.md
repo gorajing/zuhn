@@ -1,6 +1,7 @@
 # Tag: passion
 
 - `INS-260329-C66E` Passion is a byproduct of getting good at something, not the prerequisite for starting.
+- `INS-260403-79E0` The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260330-207D` Career anxiety is best addressed by channeling it into dedicated pursuit of your passion rather than retreating to safer options.
 - `INS-260329-F21F` Passion emerges from competence, not the other way around — so pick based on opportunity, not feeling.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.

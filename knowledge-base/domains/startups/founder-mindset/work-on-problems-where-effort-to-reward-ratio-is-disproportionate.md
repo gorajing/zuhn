@@ -45,7 +45,6 @@ stance: >-
   highest-leverage ones.
 related:
   - INS-260325-EC93
-  - INS-260321-7D76
   - INS-260323-9C11
   - INS-260326-E0E1
   - INS-260327-0E57
@@ -54,6 +53,7 @@ related:
   - INS-260402-4AB4
   - INS-260403-3E9A
   - INS-260330-1E5E
+  - INS-260327-B72F
 evidence:
   - id: INS-260327-B72F
     type: SUPPORTS

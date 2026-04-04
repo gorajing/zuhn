@@ -10,6 +10,7 @@
 - `INS-260330-43F7` How-to's work for mechanical tasks but become traps when applied to creative mastery or internal freedom.
 - `INS-260329-4D06` 'People skills' isn't a trait — it's a hundred micro-skills like greeting by name, not interrupting, and smiling when someone enters.
 - `INS-260329-1D3B` Soft skills decompose into trainable micro-behaviors — patience is just a bundle of specific habits you can practice.
+- `INS-260403-79E0` The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260329-F51D` The Google engineer observes that excellent programmers are distinguished not by knowing more data structures but by knowing when each one is the right choice for the task.
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260330-BF96` Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.

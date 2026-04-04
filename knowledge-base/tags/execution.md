@@ -14,6 +14,7 @@
 - `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260330-2CE5` YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
 - `INS-260329-4E70` The boring middle is a feature of ambitious paths, not a signal to pivot.
+- `INS-260403-3346` Operational competence earns the trust needed for strategic ambition.
 - `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
 - `INS-260403-30E5` When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260325-0FED` Since the Panic Monster only responds to real consequences, effective execution in unstructured work requires manufacturing genuine external deadlines.

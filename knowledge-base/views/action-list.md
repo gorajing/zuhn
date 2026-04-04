@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3432 actionable insights
+Generated on 2026-04-04 | 3446 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -929,6 +929,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-A408] Step beyond asking 'is this true?' to asking 'why is this topic being written about at all?' — the selection of subject matter is itself a form of manipulation.
 - [INS-260403-951B] Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - [INS-260403-A6B1] Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
+- [INS-260403-8BF4] Cutting words isn't just style — it's how you discover what you actually mean.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1253,6 +1254,8 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-AA0B] Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - [INS-260403-1CC5] Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
 - [INS-260403-3CD9] Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
+- [INS-260403-FA30] Coders knocked out of flow need 15+ minutes to return — if they can return at all.
+- [INS-260403-DDEB] Flow triggers most reliably when challenge slightly exceeds skill — stretch but don't snap.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -1422,6 +1425,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-B508] Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - [INS-260403-E6FD] Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 - [INS-260403-FC01] The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
+- [INS-260403-79E0] The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1575,6 +1579,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-B216] Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
 - [INS-260403-B3CA] Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
 - [INS-260403-1E82] Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
+- [INS-260403-61B0] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2055,6 +2060,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-3155] Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
 - [INS-260403-35E7] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - [INS-260403-3C9D] LVMH's free sanitizer from perfume factories bought permanent brand reclassification as a socially responsible corporation.
+- [INS-260403-D328] Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2268,6 +2274,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-323A] Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
 - [INS-260403-0A1C] Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
 - [INS-260403-144A] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
+- [INS-260403-3346] Operational competence earns the trust needed for strategic ambition.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2609,6 +2616,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-481F] Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
 - [INS-260403-7964] Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
 - [INS-260403-3837] Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
+- [INS-260403-D972] Never take a corp dev meeting unless you've already decided to sell right now.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2896,6 +2904,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-BDCC] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - [INS-260403-B4F1] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
 - [INS-260403-268F] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
+- [INS-260403-F8A2] Innovation functions need CEO-level reporting to survive organizational inertia.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3009,6 +3018,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-4102] Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
 - [INS-260403-3FF5] Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - [INS-260403-7CAA] Keeping the company running during crisis gives employees stability and purpose, not just revenue.
+- [INS-260403-48CC] Push purpose and strategy understanding down so frontline staff can make decisions without managerial approval.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -3359,6 +3369,9 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260330-EEA9] Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
 - [INS-260403-7E7C] Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
 - [INS-260403-D49E] Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
+- [INS-260403-7F89] The bottleneck to customer understanding is internal process friction, not lack of resources.
+- [INS-260403-11CC] Map every stakeholder type and craft distinct messaging for each before entering a deal.
+- [INS-260403-19D8] Technology-first pitches create obstacles; outcome-first pitches close deals.
 
 ## startups/scaling
 - [INS-260322-F46F] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
@@ -3602,6 +3615,7 @@ Generated on 2026-04-04 | 3432 actionable insights
 - [INS-260403-419B] Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.
 - [INS-260403-19C0] Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.
 - [INS-260403-FBF0] Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built.
+- [INS-260403-22D3] Test customer desirability cheaply before committing to expensive technology builds.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

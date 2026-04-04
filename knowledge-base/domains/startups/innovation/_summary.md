@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 47 insights
+> 48 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
@@ -9,6 +9,7 @@
 - `INS-260403-130D` [high] Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
 - `INS-260403-1C09` [high] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260403-71A6` [high] The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
+- `INS-260403-F8A2` [high] Innovation functions need CEO-level reporting to survive organizational inertia.
 - `INS-260403-9627` [high] Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260403-1B53` [high] The same trait that makes hackers disrespectful of hierarchy is what makes them capable of breakthrough innovation.
 - `INS-260403-427E` [high] Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.

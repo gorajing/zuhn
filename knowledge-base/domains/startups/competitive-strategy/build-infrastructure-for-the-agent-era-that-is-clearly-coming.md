@@ -46,7 +46,6 @@ stance: >-
 related:
   - INS-260322-EAB6
   - INS-260323-59C9
-  - INS-260323-D41A
   - INS-260322-BEA3
   - INS-260326-3D8D
   - INS-260327-63B5
@@ -54,6 +53,7 @@ related:
   - PRI-260328-8317
   - INS-260321-4E98
   - INS-260327-A9D5
+  - INS-260330-AB67
 evidence:
   - id: INS-260322-EAB6
     type: EXTENDS

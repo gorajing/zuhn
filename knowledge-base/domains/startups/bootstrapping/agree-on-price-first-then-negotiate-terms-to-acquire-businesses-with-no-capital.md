@@ -45,9 +45,10 @@ stance: >-
   while terms determine actual cash outlay.
 related:
   - INS-260328-0C4C
-  - INS-260329-CB10
   - INS-260329-21AF
+  - INS-260329-CB10
   - INS-260329-545B
   - INS-260329-1085
+  - INS-260403-11CC
 ---
 Hormozi's core acquisition framework splits every deal into two sequential negotiations. First, agree on the seller's asking price (or close to it) — this satisfies their emotional anchor. Second, negotiate terms: seller financing with payments made from the business's own cash flow, minimal or zero down payment, and extended payment periods. This works because most small business sellers care more about their headline number than the payment structure. The tactic converts what looks like a large capital requirement into an operating expense paid by the asset itself, making acquisitions possible with near-zero personal capital.

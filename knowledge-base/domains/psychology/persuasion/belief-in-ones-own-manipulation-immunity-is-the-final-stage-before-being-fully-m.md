@@ -54,11 +54,11 @@ stance: >-
   persuasion are uniquely vulnerable to being captured by the very forces they
   claim to see through
 related:
+  - INS-260403-61B0
   - PRI-260403-57EC
   - INS-260403-C37D
   - INS-260403-AC74
   - INS-260327-D7E6
-  - INS-260327-2F78
 evidence:
   - id: INS-260327-D7E6
     type: CHALLENGES

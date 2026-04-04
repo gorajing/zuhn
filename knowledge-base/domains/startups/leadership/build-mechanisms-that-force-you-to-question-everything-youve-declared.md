@@ -50,10 +50,10 @@ stance: >-
   protecting the status quo.
 related:
   - PRI-260328-521E
+  - INS-260403-48CC
   - INS-260402-71A7
   - INS-260330-9575
   - INS-260322-88C3
-  - INS-260323-CB34
 evidence:
   - id: INS-260330-9575
     type: TRANSFERS_TO

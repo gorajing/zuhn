@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 230 insights
+> 231 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -223,6 +223,7 @@
 - `INS-260329-E6AF` [medium] The tutorial's use of a single company database that grows in complexity across topics creates interconnected mental models rather than fragmented concept knowledge.
 - `INS-260329-BCCB` [medium] Long-form tutorials that build cumulatively create stronger foundational understanding than consuming the same material in disconnected short videos.
 - `INS-260330-5609` [medium] Treating approximation-then-refinement as a deliberate skill — not a compromise — unlocks problem-solving across domains.
+- `INS-260403-79E0` [medium] The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260329-7F70` [medium] Anticipating the 'valley of despair' in skill acquisition transforms it from a quit signal into a progress marker.
 - `INS-260330-550F` [medium] Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
 - `INS-260329-075F` [medium] Present the pain point before the solution to create intrinsic motivation for learning the concept.

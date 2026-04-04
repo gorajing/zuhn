@@ -273,6 +273,7 @@ Generated on 2026-04-04 | 2421 sources
 | A Version 1.0 | blog | 5 | 2026-03-31 |
 | Achieve Product-Market Fit with our Brand-New Value Proposition Canvas | blog | 5 | 2026-03-31 |
 | After Credentials | blog | 5 | 2026-03-31 |
+| AGI Is Closer Than You Think💡, Prompt Engineering Is Dead🧠, AI Will Eat Application Software⚠️ | blog | 5 | 2026-03-30 |
 | AI Agents Are Coming: The Agentic Revolution Explained | blog | 5 | 2026-03-30 |
 | AI In a Bubble?🫧, Moats Revisited🛡️, AI makes the old VC playbook obsolete⚡ | blog | 5 | 2026-03-30 |
 | AI Is Like Water | blog | 5 | 2026-03-31 |
@@ -291,6 +292,7 @@ Generated on 2026-04-04 | 2421 sources
 | Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
 | At BioCity, Customer Obsession Fuels The Next Generation Of Healthcare | blog | 5 | 2026-03-31 |
 | At least five interesting things: Buy Local edition (#74) | blog | 5 | 2026-03-30 |
+| B2B Sales Playbook: Tech Capabilities to Clear Value Props | blog | 5 | 2026-03-31 |
 | Barbara Corcoran Shark Tank Interview: 10-Minute Masterclass on Building, Storytelling, and Investing | blog | 5 | 2026-03-30 |
 | Be Good | blog | 5 | 2026-03-31 |
 | Beating the Averages | blog | 5 | 2026-03-31 |
@@ -389,6 +391,7 @@ Generated on 2026-04-04 | 2421 sources
 | Links For February 2026 | blog | 5 | 2026-03-30 |
 | Mark Cuban Interview: Startup Lessons, AI Insights, and Dealflow Opportunities for Founders | blog | 5 | 2026-03-30 |
 | Maybe you should have bought an electric car | blog | 5 | 2026-03-30 |
+| Microsoft is Dead | blog | 5 | 2026-03-31 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
 | Moltbook: After The First Weekend | blog | 5 | 2026-03-30 |
 | News from the Front | blog | 5 | 2026-03-31 |
@@ -768,6 +771,7 @@ Generated on 2026-04-04 | 2421 sources
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | 4 Stages of Go-To-Market Strategy | blog | 4 | 2026-03-30 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
+| 7 Insights from our Webinar with Hubert Joly | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
@@ -794,6 +798,7 @@ Generated on 2026-04-04 | 2421 sources
 | Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
+| Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
 | Founder-Market Fit: The VC Test You Must Pass | blog | 4 | 2026-03-30 |
@@ -821,6 +826,7 @@ Generated on 2026-04-04 | 2421 sources
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | Overcoming the “blank page” challenge with AI | blog | 4 | 2026-03-31 |
+| Persuade xor Discover | blog | 4 | 2026-03-31 |
 | Political Backflow From Europe | blog | 4 | 2026-03-30 |
 | Post-Medium Publishing | blog | 4 | 2026-03-31 |
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
@@ -857,6 +863,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
 | The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 4 | 2026-03-31 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
+| The Venture Arrogance Score🧮, The Bay is back🏙️, The $100B Empire You’ve Never Heard Of🏛️ | blog | 4 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 4 | 2026-03-31 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
 | What to Do | blog | 4 | 2026-03-31 |
@@ -941,6 +948,7 @@ Generated on 2026-04-04 | 2421 sources
 | How To Convert Customers With Cold Emails | Startup School | youtube | 4 | 2026-03-27 |
 | How To Count Past Infinity | youtube | 4 | 2026-03-30 |
 | How to Create a Frequency so Magnetic Your Desires Chase You | youtube | 4 | 2026-03-23 |
+| How to enter ‘flow state’ on command | Steven Kotler for Big Think | youtube | 4 | 2026-03-30 |
 | How to Lead With Radical Candor | Kim Scott | TED | youtube | 4 | 2026-03-27 |
 | How To Release A Single In 2026 (The Step-By-Step Plan) | youtube | 4 | 2026-03-22 |
 | “How We Can Eliminate Crime” | Ben Horowitz and Garrett Langley | youtube | 4 | 2026-03-22 |
@@ -1805,7 +1813,6 @@ Generated on 2026-04-04 | 2421 sources
 | 59 Startup Pitch Decks That Raised Millions—See What Works | blog | 0 | 2026-03-30 |
 | 61 Startups Actively Raising Capital (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
 | 6,631,372 | blog | 0 | 2026-03-31 |
-| 7 Insights from our Webinar with Hubert Joly | blog | 0 | 2026-03-31 |
 | 8 AI Prompts That Replace a $25K/Year Financial Analyst | blog | 0 | 2026-03-30 |
 | 8 Concrete Tips On How To Intentionally Design Great Corporate Culture | blog | 0 | 2026-03-31 |
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
@@ -1851,7 +1858,6 @@ Generated on 2026-04-04 | 2421 sources
 | Addressing the Legal & Compliance Challenge | blog | 0 | 2026-03-31 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
 | After the Ladder | blog | 0 | 2026-03-31 |
-| AGI Is Closer Than You Think💡, Prompt Engineering Is Dead🧠, AI Will Eat Application Software⚠️ | blog | 0 | 2026-03-30 |
 | AGI Vibes Are Getting Weird, 2025 SaaS Valuations, Most Active Angels | blog | 0 | 2026-03-30 |
 | AI Agents🤖, Founder Mode👨‍💻, Global IPOs📈 | blog | 0 | 2026-03-30 |
 | AI Agents🤖, Rise of “Venture Banks” 🏦, US Venture Capital Outlook 📅  | blog | 0 | 2026-03-30 |
@@ -1914,7 +1920,6 @@ Generated on 2026-04-04 | 2421 sources
 | Assess how your Innovation Programs are Performing | blog | 0 | 2026-03-31 |
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 0 | 2026-03-31 |
-| B2B Sales Playbook: Tech Capabilities to Clear Value Props | blog | 0 | 2026-03-31 |
 | Barriers to Entry in VC🚧, Rise of the AI Wrappers🤖, Google's AI Future Report 🔮 | blog | 0 | 2026-03-30 |
 | Become an Innovation Expert at the 2020 Strategyzer Bootcamp | blog | 0 | 2026-03-31 |
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
@@ -2025,7 +2030,6 @@ Generated on 2026-04-04 | 2421 sources
 | Distribution Is the Final Moat | blog | 0 | 2026-03-30 |
 | Do Founders Ever Take a Vacation?🌴,AI and Longevity🤖, Venture Trends Q2 2024📊 | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
-| Don't Talk to Corp Dev | blog | 0 | 2026-03-31 |
 | Early Work | blog | 0 | 2026-03-31 |
 | Elena Verna | blog | 0 | 2026-03-26 |
 | Elon Musk sues OpenAI ⚖️, Rethinking the startup MVP 🔄, The Future of Digital Health 🩺, & more! | blog | 0 | 2026-03-30 |
@@ -2134,7 +2138,6 @@ Generated on 2026-04-04 | 2421 sources
 | Megarounds make a comeback💰, The State of GenAI🤖, Doing Diligence Well🕵️ | blog | 0 | 2026-03-30 |
 | Meta Shrinks to Move Faster: Superintelligence Labs Explained | blog | 0 | 2026-03-30 |
 | Meta’s Multi-Billion, Multi-Year Nvidia Partnership | blog | 0 | 2026-03-30 |
-| Microsoft is Dead | blog | 0 | 2026-03-31 |
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
 | Monzo hits $5bn valuation 🚀, A Guide to Founder Salary 💵, Entrepreneurship in Africa 💡, & more! | blog | 0 | 2026-03-30 |
 | Multi-Product In Pictures | blog | 0 | 2026-03-30 |
@@ -2163,7 +2166,6 @@ Generated on 2026-04-04 | 2421 sources
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 0 | 2026-03-30 |
 | Organic Startup Ideas | blog | 0 | 2026-03-31 |
 | Orthodox Privilege | blog | 0 | 2026-03-31 |
-| Persuade xor Discover | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
 | Programming Bottom-Up | blog | 0 | 2026-03-31 |
@@ -2313,7 +2315,6 @@ Generated on 2026-04-04 | 2421 sources
 | The VC Corner 📰 #8 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #9 | blog | 0 | 2026-03-30 |
 | The VC Math Problem📊, Inside a16z’s Speedrun💸, The 5% Rule for AGI🧠 | blog | 0 | 2026-03-30 |
-| The Venture Arrogance Score🧮, The Bay is back🏙️, The $100B Empire You’ve Never Heard Of🏛️ | blog | 0 | 2026-03-30 |
 | The Venture Capital Apocalypse | blog | 0 | 2026-03-30 |
 | This Week #0: Advice on growth, product, and leadership | blog | 0 | 2026-03-31 |
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
@@ -2397,7 +2398,6 @@ Generated on 2026-04-04 | 2421 sources
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |
 | How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | youtube | 0 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 0 | 2026-03-30 |
-| How to enter ‘flow state’ on command | Steven Kotler for Big Think | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |

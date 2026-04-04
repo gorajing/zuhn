@@ -41,10 +41,10 @@ stance: >-
   permanence vs novelty.
 related:
   - INS-260324-DC98
+  - INS-260403-8BF4
   - INS-260327-4445
   - INS-260329-ACE6
   - INS-260329-939E
-  - INS-260327-F405
 ---
 UNIQLO (timeless basics) and Zara (fast-fashion trends) both succeed in clothing by targeting opposite ends of the same consumer psychology: permanence vs novelty.
 

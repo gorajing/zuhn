@@ -51,10 +51,10 @@ stance: >-
   different interference risk than mass-produced troll farm content.
 related:
   - INS-260403-BDE0
+  - INS-260403-61B0
   - INS-260322-96D1
   - INS-260323-87F3
   - INS-260327-679A
-  - PRI-260328-95E3
 evidence:
   - id: INS-260327-679A
     type: TRANSFERS_TO

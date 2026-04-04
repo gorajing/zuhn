@@ -49,8 +49,8 @@ related:
   - INS-260330-F324
   - INS-260330-E77D
   - INS-260330-2EB0
+  - INS-260403-07C1
   - INS-260325-59D4
-  - INS-260328-2BCF
 stance: >-
   Rosolie must publicize the uncontacted tribes' existence to raise funds for
   their protection, even though publicity itself threatens them.

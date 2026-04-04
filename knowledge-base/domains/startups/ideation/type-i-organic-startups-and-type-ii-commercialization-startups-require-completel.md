@@ -55,6 +55,7 @@ related:
   - INS-260322-C472
   - INS-260403-0973
   - INS-260403-37FD
+  - INS-260403-79AD
 ---
 Graham distinguishes two startup types: Type I startups that evolve naturally from founders identifying opportunities (most software companies), and Type II startups called into being to commercialize scientific discoveries (most pharma companies). Type II startups are straightforward to create—fund research, commercialize what emerges—but they don't generate startup culture.
 

@@ -1,8 +1,9 @@
 # Topic: founder-psychology
 
-> 18 insights
+> 19 insights
 
 - `INS-260330-D644` [high] Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
+- `INS-260403-E3E6` [high] Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
 - `INS-260330-9BF3` [high] Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260329-1DA3` [high] An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260330-90C3` [high] Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.

@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 162 insights
+> 164 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -30,6 +30,7 @@
 - `INS-260325-B61B` [high] After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260327-AAFA` [high] Every TikTok video, every scroll, every notification trains your brain to expect that level of stimulation as normal, progressively making books, conversations, and deep work feel intolerably boring.
 - `INS-260323-9D21` [high] Boxing saved Atlas from self-destruction by providing structure and discipline that redirected violent anger into mastery -- the same energy that fueled street fights became the engine for world-class training.
+- `INS-260403-FA30` [high] Coders knocked out of flow need 15+ minutes to return — if they can return at all.
 - `INS-260330-E823` [high] Blinks function as scene breaks that reset time perception, and dopamine controls blink rate—explaining why ADHD (low dopamine) causes both poor time management and poor focus.
 - `INS-260330-0C31` [high] Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
 - `INS-260329-DABC` [high] Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
@@ -95,6 +96,7 @@
 - `INS-260327-A817` [high] AI can execute defined tasks, but asking the right questions—knowing what to solve—remains uniquely human.
 - `INS-260325-1D95` [high] The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
 - `INS-260325-CDEA` [high] The brain runs on a fixed ATP energy budget; no hack can expand its bandwidth for attention.
+- `INS-260403-DDEB` [high] Flow triggers most reliably when challenge slightly exceeds skill — stretch but don't snap.
 - `INS-260329-A077` [high] Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
 - `INS-260328-3FCE` [high] The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
 - `INS-260325-0A49` [high] The Dark Playground is where procrastinators spend time on leisure activities that bring no real enjoyment because they're unearned.

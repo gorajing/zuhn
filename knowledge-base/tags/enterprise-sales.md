@@ -14,6 +14,7 @@
 - `INS-260327-6AA0` Decision criteria isn't one thing — it's three: technical (features, integrations, security), economic (ROI, resources to implement, priority ranking), and relationship (partnership fit, industry strength, roadmap) — and each stakeholder weights these differently.
 - `INS-260327-C6DC` When buyers lack defined decision criteria, elite sellers craft it for them — embedding their unique differentiators as 'must-haves' that disqualify competitors.
 - `INS-260328-A666` At companies like Palantir, the CEO doesn't delegate deal origination — the sales team is built as a multiplier around the founder.
+- `INS-260403-11CC` Map every stakeholder type and craft distinct messaging for each before entering a deal.
 - `INS-260330-760D` Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
 - `INS-260327-CBBB` With pipeline down 47%, deal values down 32%, sales cycles up 32%, and 33% more stakeholders involved, the era of FOMO-driven buying is over — champions now fear messing up more than missing out, so sellers must de-risk rather than create urgency.
 - `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.

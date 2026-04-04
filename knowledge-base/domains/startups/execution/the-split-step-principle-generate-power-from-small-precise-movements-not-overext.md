@@ -46,11 +46,11 @@ resolutions:
     committing enough force to be effective without losing the ability to
     redirect.
 related:
-  - INS-260323-FE33
   - INS-260323-61FE
+  - INS-260403-DDEB
   - PRI-260328-024A
+  - INS-260323-FE33
   - INS-260325-3589
-  - INS-260323-0827
 stance: >-
   Stevens generates maximum throwing power from a small precise hip split rather
   than a big lunging movement

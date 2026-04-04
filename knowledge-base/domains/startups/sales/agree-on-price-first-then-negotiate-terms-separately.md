@@ -51,6 +51,7 @@ related:
   - INS-260330-F0F2
   - INS-260329-AADB
   - INS-260329-1085
+  - INS-260403-11CC
 ---
 Hormozi's mentor taught him a two-phase negotiation framework: first agree on the total price, then separately negotiate the terms of payment. This is powerful because sellers anchor on the headline number — if you agree to their price, they feel they've won, making them more flexible on terms.
 

@@ -9,8 +9,8 @@
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260330-ED04` Nakamura's daily routine of modifying his MOCVD reactor each morning and testing each afternoon created an iteration cycle no well-funded lab could match.
 - `INS-260328-17D7` In consumer AI there is no moat — only momentum. Ship fastest, distribute widest, iterate hardest.
+- `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.
 - `INS-260327-EB3E` Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260330-EF64` Delay growing your user base because users create compatibility constraints that freeze your design and prevent the continuous redesign that produces quality.
 - `INS-260329-393C` Whenever you find yourself copy-pasting code or repeating a manual process, you've found a missing abstraction that will cost more to fix later.
 - `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
-- `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.

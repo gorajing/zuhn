@@ -51,11 +51,11 @@ stance: >-
   flexibility that makes ordinary innovation trivially easy by comparison.
 related:
   - INS-260325-0873
+  - INS-260403-21A5
   - INS-260325-0147
   - PRI-260328-9EC9
   - INS-260323-7F3E
   - PRI-260403-3906
-  - INS-260330-8AC8
   - INS-260403-76C3
   - INS-260403-C4E2
 evidence:
