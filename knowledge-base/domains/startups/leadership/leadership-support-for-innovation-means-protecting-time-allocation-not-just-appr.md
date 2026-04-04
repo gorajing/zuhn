@@ -54,11 +54,11 @@ related:
   - INS-260329-24CE
   - INS-260330-1F41
   - INS-260330-8920
-  - INS-260330-4B16
   - INS-260403-D022
   - INS-260403-6731
   - INS-260403-6AB5
   - INS-260403-9FE2
+  - INS-260403-3A7A
 ---
 Budget allocation for innovation programs is table stakes. The more insidious failure mode is when managers refuse to adapt workloads and deadlines to enable team participation in innovation activities. Teams nominally assigned to an innovation sprint but still expected to hit all their operational deadlines will always deprioritize innovation—it's rational behavior in a system that doesn't actually value what it claims to value.
 

@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 254 insights
+> 255 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -168,6 +168,7 @@
 - `INS-260325-622D` [high] Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260402-D534` [high] Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
 - `INS-260330-5263` [high] The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
+- `INS-260404-5AEB` [high] Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - `INS-260402-F04F` [high] People prefer to believe in innate genius because it absolves them of the responsibility to try harder.
 - `INS-260330-7ABB` [high] Two things don't have to literally match for our brains to see a connection — the 'law of near enough' plus selection and confirmation bias make any vague prediction seem prophetic.
 - `INS-260330-9FA5` [high] The Mandate of Heaven explained dynastic change through moral failure, creating an unfalsifiable narrative that persisted for 3,000 years.

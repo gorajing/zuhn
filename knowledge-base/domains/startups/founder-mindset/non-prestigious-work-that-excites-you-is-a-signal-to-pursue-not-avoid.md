@@ -51,7 +51,7 @@ related:
   - INS-260403-E365
   - INS-260403-E4C6
   - INS-260330-DA0B
-  - INS-260402-D9D0
+  - INS-260404-8A87
 ---
 Graham identifies a recurring historical pattern: work that becomes recognized as important was often despised or dismissed when it first appeared. Raymond Chandler wrote literal pulp fiction; he's now considered one of the best writers of the 20th century. Graham frames this as a usable recipe: excitement about low-prestige work plus the ability to articulate what everyone else is overlooking equals a signal to seek out that work, not avoid it.
 

@@ -148,6 +148,7 @@ Generated on 2026-04-04 | 2421 sources
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | 2504.19874v1 | pdf | 8 | 2026-03-26 |
+| February 2025 Startups Raising Capital | blog | 8 | 2026-03-30 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -321,6 +322,7 @@ Generated on 2026-04-04 | 2421 sources
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | “Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯 | blog | 5 | 2026-03-30 |
 | CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
+| Copy What You Like | blog | 5 | 2026-03-31 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
 | Dario Amodei Says AGI Is 1-3 Years Away: Full Breakdown | blog | 5 | 2026-03-30 |
@@ -874,7 +876,6 @@ Generated on 2026-04-04 | 2421 sources
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
 | Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 4 | 2026-03-30 |
-| February 2025 Startups Raising Capital | blog | 4 | 2026-03-30 |
 | Fierce Nerds | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
@@ -991,6 +992,7 @@ Generated on 2026-04-04 | 2421 sources
 | What I Read This Week… | blog | 4 | 2026-03-30 |
 | What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
+| What We Can Learn From Microsoft's Strategic Challenges | blog | 4 | 2026-03-31 |
 | Where to See Silicon Valley | blog | 4 | 2026-03-31 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
@@ -2098,7 +2100,6 @@ Generated on 2026-04-04 | 2421 sources
 | 🤩 Community Wisdom: Time spent working vs. learning, being in the room where it happens, accelerating early PM career, DS org structure, and improving ways of working | blog | 0 | 2026-03-31 |
 | 🤩 Community wisdom: Unbounded retention, evaluating a PM, collecting user feedback, copywriting, and open-sourcing | blog | 0 | 2026-03-31 |
 | 🤩 Community Wisdom: Understanding designer jargon, eng vs. PM responsibilities, finding user research participants, creating shareable usage stats, and roadmaps informing OKRs | blog | 0 | 2026-03-31 |
-| Copy What You Like | blog | 0 | 2026-03-31 |
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
 | Deep Dive: A Primer on Cryptocurrencies | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Drug Development | blog | 0 | 2026-03-30 |
@@ -2372,7 +2373,6 @@ Generated on 2026-04-04 | 2421 sources
 | What Makes a Good Product-Market Fit?🎯, Global Markets Snapshot📊, GDP Growth Projections📈 | blog | 0 | 2026-03-30 |
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
-| What We Can Learn From Microsoft's Strategic Challenges | blog | 0 | 2026-03-31 |
 | What We Look for in Founders | blog | 0 | 2026-03-31 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |

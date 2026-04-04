@@ -53,11 +53,11 @@ stance: >-
 related:
   - INS-260328-C2CB
   - INS-260330-0F55
+  - INS-260404-8326
   - INS-260403-1B15
   - INS-260322-CCE8
   - INS-260403-8CDD
   - INS-260403-4A4A
-  - PRI-260403-1D59
 ---
 The article's core architectural argument is that business models must be designed and prototyped 'like an architect designs buildings'—through iterative sketching, testing, and refinement. This directly opposes the traditional approach of writing lengthy business plans that predict what a company will sell in five years. The credit goes partly to decreased information processing costs making rapid iteration feasible.
 

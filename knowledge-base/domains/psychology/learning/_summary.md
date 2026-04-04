@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 244 insights
+> 246 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -67,6 +67,7 @@
 - `INS-260330-FBF0` [high] Destin explicitly states he understands things better when working with his hands, then 3D-prints pulleys so viewers can see the principle decomposed — moving from watching to manipulating transforms comprehension.
 - `INS-260330-5DD4` [high] In the heat equation, high-frequency components decay exponentially faster than low-frequency ones, so complexity smooths out over time — a principle that applies to markets, skills, and ideas.
 - `INS-260329-49E6` [high] Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
+- `INS-260404-8A87` [high] Only copy work you authentically enjoy, not work you admire for its status.
 - `INS-260330-B7C6` [high] Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
 - `INS-260403-62AF` [high] A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
 - `INS-260329-04CB` [high] Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
@@ -193,6 +194,7 @@
 - `INS-260330-B4F1` [medium] Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
 - `INS-260330-AE22` [medium] A practitioner who teaches from the ground up transfers more usable knowledge than an expert who skips foundations.
 - `INS-260330-9033` [medium] Presenting proofs as guided exercise sequences — even in a lecture format — forces the active engagement that produces genuine understanding.
+- `INS-260404-C99B` [medium] Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
 - `INS-260403-472E` [medium] The biggest killer of potentially successful projects is never starting them due to premature quality standards.
 - `INS-260330-1718` [medium] Deutsch argues you don't need to know every fact — understanding the deep underlying theories (quantum theory, computation, epistemology, evolution) lets a single person comprehend anything knowable.
 - `INS-260330-B2B8` [medium] Stuart Firestein argues science begins where facts run out — riding the wave beyond the circle of knowledge is more productive than bobbing within it.

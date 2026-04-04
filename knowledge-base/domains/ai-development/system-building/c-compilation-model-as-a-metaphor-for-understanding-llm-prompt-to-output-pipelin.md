@@ -51,7 +51,6 @@ stance: >-
   machine code → execution) provides a useful mental model for understanding how
   LLMs process prompts through tokenization, inference, and output generation.
 related:
-  - INS-260323-4794
   - INS-260320-C65B
   - INS-260329-B170
   - INS-260329-9CED

@@ -48,9 +48,9 @@ stance: >-
   patterns, requiring ground-up infrastructure rebuilding.
 related:
   - INS-260321-3967
+  - INS-260404-8326
   - PRI-260328-DD90
   - INS-260327-0B69
   - INS-260327-FDF4
-  - PRI-260328-AC85
 ---
 The team discovered that commercial voice AI completely failed when engaging patients with dementia, Parkinson's, ALS-related dysphasia, and non-English-dominant elderly users. The barriers weren't surface-level — interruption patterns assumed neurotypical response times, noise cancellation discarded clinically valuable ambient audio, and conversation flow couldn't adapt to cognitive impairment patterns. Rather than fine-tuning existing systems, they rebuilt infrastructure from scratch including: classifying background noise instead of discarding it, diarizing caregiver cross-talk as useful clinical signal, and building an adaptive intelligence layer that learns across calls about each patient's cognitive state and cultural context. The World Economic Forum estimates AI will leave behind five billion people — this case demonstrates exactly how that exclusion happens at the technical level.

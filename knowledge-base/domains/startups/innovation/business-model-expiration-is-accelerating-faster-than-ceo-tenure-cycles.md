@@ -48,10 +48,10 @@ related:
   - INS-260322-0D87
   - INS-260321-C513
   - INS-260403-1000
+  - INS-260404-8326
   - PRI-260328-A82C
   - INS-260323-19A8
   - INS-260321-B7CB
-  - PRI-260403-5FC4
   - INS-260403-8CDD
 ---
 Osterwalder and Pigneur argue that the era of a CEO managing one business model through their entire tenure is over. Business models now 'expire like yoghurt in the fridge,' and the expiration rate is accelerating. This means execution excellence alone—the skill that typically earns someone the CEO role—is necessary but insufficient.

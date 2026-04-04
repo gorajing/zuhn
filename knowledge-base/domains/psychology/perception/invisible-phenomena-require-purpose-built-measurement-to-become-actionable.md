@@ -56,7 +56,6 @@ related:
   - PRI-260323-2E5A
   - INS-260327-D570
   - INS-260330-AB5D
-  - INS-260402-E994
   - INS-260403-9C60
 evidence:
   - id: INS-260327-D570

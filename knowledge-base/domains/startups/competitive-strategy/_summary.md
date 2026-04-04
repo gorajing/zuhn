@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 493 insights
+> 494 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -127,6 +127,7 @@
 - `INS-260330-6050` [high] Build where incumbents face structural inability to compete, not just unwillingness.
 - `INS-260327-7F1B` [high] Glass bottles are better for the environment but lost to plastic and aluminum because transportation costs per unit are 
 - `INS-260403-3C2C` [high] Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.
+- `INS-260404-7E24` [high] Internal infrastructure and capabilities can be repackaged into new business lines, as demonstrated by both Amazon's AWS and Microsoft's Azure.
 - `INS-260327-724D` [high] Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv
 - `INS-260327-F651` [high] Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
 - `INS-260330-1964` [high] Attack incumbents where their own business model or architecture prevents them from responding, not where they simply haven't bothered yet.

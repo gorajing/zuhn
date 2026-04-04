@@ -49,7 +49,6 @@ stance: >-
   winners will fundamentally reimagine every user interaction based on what
   current AI models can do.
 related:
-  - INS-260322-CCE8
   - INS-260323-0539
   - INS-260321-C513
   - INS-260329-8F98

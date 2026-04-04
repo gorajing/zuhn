@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3669 actionable insights
+Generated on 2026-04-04 | 3674 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1034,6 +1034,7 @@ Generated on 2026-04-04 | 3669 actionable insights
 - [INS-260403-359D] Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
 - [INS-260403-8D87] Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
 - [INS-260403-31B1] Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
+- [INS-260404-5AEB] Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1150,6 +1151,7 @@ Generated on 2026-04-04 | 3669 actionable insights
 - [INS-260403-1202] Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
 - [INS-260403-EA34] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
 - [INS-260403-222E] Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.
+- [INS-260404-AB0F] When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1469,6 +1471,8 @@ Generated on 2026-04-04 | 3669 actionable insights
 - [INS-260403-EB56] Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - [INS-260403-07C3] Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - [INS-260403-DC52] Learn history by reading exciting books on specific topics rather than attempting comprehensive chronological surveys.
+- [INS-260404-C99B] Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
+- [INS-260404-8A87] Only copy work you authentically enjoy, not work you admire for its status.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -3078,6 +3082,7 @@ Generated on 2026-04-04 | 3669 actionable insights
 - [INS-260403-2DF9] Innovation practice requires leaders to trust evidence from testing processes rather than overriding them with intuition.
 - [INS-260403-C6A6] Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.
 - [INS-260403-6224] Innovation program assessment requires dual axes: value creation and culture change capacity.
+- [INS-260404-63B0] Inventing future growth engines requires a structurally separate organization that operates independently from the team optimizing the existing business.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.

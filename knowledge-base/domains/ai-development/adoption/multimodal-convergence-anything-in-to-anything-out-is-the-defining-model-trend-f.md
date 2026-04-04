@@ -55,7 +55,6 @@ related:
   - INS-260323-C4EE
   - INS-260320-105E
   - INS-260327-1B9A
-  - INS-260327-178E
 stance: >-
   Labs are merging previously separate text, image, and video capabilities into
   unified models that accept any input modality and produce any output
