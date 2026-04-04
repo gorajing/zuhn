@@ -13,11 +13,11 @@
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
+- `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
+- `INS-260323-F853` Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
 - `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
-- `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
-- `INS-260323-F853` Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260321-13C6` Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
 - `INS-260323-2CCA` Musk's WWII veteran grandfather had next-level PTSD but never bragged about his medals — the generation that viscerally understood war is gone, leaving decision-makers without that embodied knowledge.

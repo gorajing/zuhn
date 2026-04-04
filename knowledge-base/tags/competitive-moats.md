@@ -27,4 +27,5 @@
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260330-7819` Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
 - `INS-260403-204E` In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
+- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260330-E17D` The Indus Valley Civilization thrived peacefully for over a millennium but collapsed partly because it had almost no weapons or military capability.

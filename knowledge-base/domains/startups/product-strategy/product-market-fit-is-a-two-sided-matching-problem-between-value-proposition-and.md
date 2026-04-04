@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260321-5C24
   - INS-260403-DF7F
+  - INS-260403-7E7C
   - INS-260403-E642
   - PRI-260323-1B96
-  - INS-260403-0701
 ---
 Osterwalder makes an underappreciated point: achieving fit between your value proposition and customer needs is necessary but not sufficient. The business model must also work — unit economics, channel costs, revenue model, and cost structure all need to close. This creates a two-dimensional failure space that many startups navigate poorly. They iterate on product-market fit (do customers want this?) while ignoring business model fit (can we deliver this profitably?). The Value Proposition Canvas deliberately zooms into only two of the nine Business Model Canvas blocks, which means founders must zoom back out to check whether a validated value proposition actually maps to a viable business. Many beloved products with strong customer fit (social apps, developer tools) failed because the business model never closed.

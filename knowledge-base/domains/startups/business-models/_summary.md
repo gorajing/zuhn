@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 131 insights
+> 135 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -8,9 +8,11 @@
 - `INS-260327-07FC` [high] Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-CCAE` [high] Esports drew audiences rivaling traditional sports and attracted Fortune 500 sponsors, but broadcast deals never materialized at meaningful scale -- no team or league has ever turned a profit, and the entire industry collapsed when the expected broadcast payday never arrived.
 - `INS-260324-5B35` [high] Brisket shrinks to 40% yield after trimming and smoking, requires 10-18 hours of intuition-based cooking, and can't be made on demand — making BBQ the anti-franchise food category.
+- `INS-260403-1A5A` [high] Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
 - `INS-260327-1576` [high] BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260324-C33C` [high] Unlike most food trends, bubble tea innovation flows from Asia to the West — Chinese and Taiwanese chains invest millions in US franchising while Americans have the highest disposable income and lowest product familiarity.
 - `INS-260403-E642` [high] Innovating the business model itself—not just the product—is the primary driver of durable market disruption.
+- `INS-260403-7E18` [high] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
 - `INS-260325-B8CB` [high] BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
 - `INS-260330-C7C2` [high] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
 - `INS-260324-2244` [high] Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
@@ -50,6 +52,7 @@
 - `INS-260330-D556` [high] When unit sales plateau, shift monetization from selling new devices to extracting recurring revenue from every device already in users' hands.
 - `INS-260324-748A` [high] The best haunted houses gross 7+ figures in just 4-6 weekends — but only if you own the land and build everything yourself, because no bank will fund a seasonal attraction.
 - `INS-260330-067C` [high] Bing is culturally perceived as a failure but generates $5B/year in profit — public perception of a product's success is decoupled from its financial performance.
+- `INS-260403-E78B` [high] High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260327-6F08` [high] The home security industry business model is contract lock-in rather than service quality, with sales commissions incent
 - `INS-260324-B7C0` [high] Unilever's ice cream division (Ben & Jerry's, Magnum, Klondike) grew only 4% in 20 years despite owning the world's best brands — they're now actively trying to sell the entire division.
 - `INS-260327-442D` [high] Lionsgate's acquisition of Artisan Entertainment gave them 8,000+ titles whose syndication licensing generated steady recurring revenue -- like a SaaS business -- that cushioned the inherent volatility of new film production.
@@ -86,6 +89,7 @@
 - `INS-260327-E52A` [high] Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
 - `INS-260403-F4CC` [high] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
 - `INS-260327-39D4` [high] 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
+- `INS-260403-2D99` [high] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - `INS-260327-46F6` [high] When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychological
 - `INS-260330-EDAC` [high] After rapid expansion led to $1.5 million in debt from failing franchise stores, Domino's switched to requiring franchisees to successfully manage an existing store for a year before opening their own — with no upfront fee.
 - `INS-260327-DF8C` [high] Resource businesses that maximize short-term extraction rates deplete reserves faster, while those that manage sustainab

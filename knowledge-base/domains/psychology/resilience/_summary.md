@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 136 insights
+> 137 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -68,6 +68,7 @@
 - `INS-260329-B011` [high] People who stay poor consistently choose comfort today and push pain to tomorrow, then are surprised when today becomes yesterday's tomorrow and the deferred pain arrives.
 - `INS-260329-764E` [high] Focusing on the act of creating rather than follower counts prevents the motivational collapse that kills most content efforts.
 - `INS-260325-6DD8` [high] Psychopathy affects ~1% of adults, is caused by both genetics and environment, and is treatable through CBT, medication, and parent management training.
+- `INS-260403-E300` [high] Making failure publicly visible locks founders into persistence more effectively than potential upside.
 - `INS-260327-8DFE` [high] Giertz sharing her brain tumor journey publicly created deeper audience loyalty than any product launch, because genuine vulnerability builds trust that curated content cannot.
 - `INS-260327-0061` [high] Most people have quietly given up and no one's noticed - because in a comfortable society, resignation looks exactly like contentment.
 - `INS-260329-3848` [high] Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.

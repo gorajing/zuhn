@@ -49,7 +49,6 @@ stance: >-
   political makes it psychologically feel intractable, reducing motivation to
   seek solutions.
 related:
-  - INS-260323-4473
   - INS-260327-E7B8
   - INS-260329-0B76
   - INS-260325-898A

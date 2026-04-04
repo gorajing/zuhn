@@ -44,7 +44,6 @@ stance: >-
   The primary ceiling on business growth is the founder's own skill gaps, not
   market conditions or capital constraints.
 related:
-  - INS-260327-31BD
   - INS-260327-8521
   - INS-260329-58E7
   - INS-260330-98EA

@@ -31,6 +31,7 @@
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
 - `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
+- `INS-260403-9680` Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
 - `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
 - `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.

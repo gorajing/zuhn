@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 18 insights
+> 19 insights
 
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - `INS-260403-37D9` [high] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
@@ -18,5 +18,6 @@
 - `INS-260330-A370` [high] The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
 - `INS-260330-5A9E` [high] Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
 - `INS-260330-A8F8` [high] Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
+- `INS-260403-272E` [high] Jessica Livingston's aversion to attention meant she was written out of YC's history despite being co-founder and primary culture-builder.
 - `INS-260330-CD7A` [medium] Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260330-FAB4` [medium] As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.

@@ -50,7 +50,6 @@ stance: >-
   announcements are engaging in self-defeating behavior that directly reduces
   their own chances of success.
 related:
-  - INS-260323-D621
   - INS-260327-7D75
   - PRI-260403-26B9
   - PRI-260403-2E59
@@ -59,7 +58,6 @@ related:
   - INS-260328-3959
   - INS-260328-3F19
   - INS-260330-1C50
-  - INS-260402-FFB2
 evidence:
   - id: INS-260329-0014
     type: EXTENDS

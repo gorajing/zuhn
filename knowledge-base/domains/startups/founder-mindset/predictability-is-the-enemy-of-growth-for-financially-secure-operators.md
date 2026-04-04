@@ -41,7 +41,7 @@ related:
   - INS-260327-F544
   - INS-260327-7FDA
   - INS-260330-AC36
+  - INS-260403-9680
   - INS-260327-A59A
-  - INS-260330-36B4
 ---
 Justin Kan's challenge to Michael Seibel crystallized this: 'You could literally write everything that will happen between now and retirement if you stay at YC. Is that the life you want?' For people who are financially secure, the default path becomes the dangerous one because it removes the growth stimulus. The discomfort of starting over is not a bug but a feature — it is the only way to discover your actual capabilities outside the protective shell of an institution.

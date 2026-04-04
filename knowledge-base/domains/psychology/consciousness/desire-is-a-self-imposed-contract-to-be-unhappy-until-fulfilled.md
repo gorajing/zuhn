@@ -47,11 +47,11 @@ stance: >-
   disturbed until the desired object is obtained — and obtaining it merely
   returns you to your pre-desire baseline, not a new peak.
 related:
+  - INS-260403-1AE5
   - INS-260330-9933
   - INS-260330-78B1
   - INS-260402-9288
   - PRI-260328-6136
-  - INS-260330-3FCF
 evidence:
   - id: INS-260330-9933
     type: SUPPORTS

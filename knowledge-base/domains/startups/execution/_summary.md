@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 190 insights
+> 193 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -48,6 +48,7 @@
 - `INS-260329-59A5` [high] For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
 - `INS-260402-E22E` [high] As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260327-0004` [high] Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
+- `INS-260403-9680` [high] Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
 - `INS-260327-7CE9` [high] Build the hardest part first while you're most motivated—dancing around easy features kills momentum.
 - `INS-260330-8103` [high] Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
 - `INS-260330-49C8` [high] DoorDash founders personally delivering food, dispatching drivers, and handling support gave them the domain expertise to design their dispatch algorithm and customer experience — manual work is competitive intelligence, not just bootstrapping.
@@ -136,6 +137,7 @@
 - `INS-260326-E411` [high] Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
 - `INS-260329-E6DB` [high] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
+- `INS-260403-9A4C` [high] Most startups die from giving up, not from insurmountable external forces.
 - `INS-260403-906E` [high] Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
 - `INS-260403-A14B` [high] Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260329-818A` [high] HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
@@ -186,6 +188,7 @@
 - `INS-260329-1F4D` [medium] Block your first 8 hours for uninterrupted work until you have enough team leverage that directing others outproduces your own output.
 - `INS-260329-F0DE` [medium] Pull-based CDNs auto-fetch on first request (good for regularly updated sites); push-based CDNs require manual upload (good for large, rarely changed files).
 - `INS-260329-57D7` [medium] Auditing every meeting with 'is this still necessary?' and quarterly purging recurring meetings compounds into significant time recapture.
+- `INS-260403-10D8` [medium] Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent.
 - `INS-260329-5EE7` [medium] Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
 - `INS-260329-6253` [medium] Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
 - `INS-260327-3A71` [medium] In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.

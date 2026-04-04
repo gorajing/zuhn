@@ -7,6 +7,7 @@
 - `INS-260330-F534` New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
 - `INS-260329-B77F` Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
+- `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
 - `INS-260329-20E8` Branding works through classical conditioning — people associate a symbol with accumulated positive experiences until the symbol itself triggers those feelings.
 - `INS-260329-EBBB` Branding is the deliberate pairing of your product with things customers already like, through outcomes they experience.
@@ -18,5 +19,4 @@
 - `INS-260322-683B` Less than 10% of brands succeed, and the common factor among those that do is preserving a single undiluted brand message through every stage of organizational growth.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
-- `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - `INS-260327-F405` Giertz's products succeed not because they're technically superior but because they express genuine personality that creates emotional connection with users.

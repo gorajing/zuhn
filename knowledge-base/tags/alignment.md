@@ -31,3 +31,4 @@
 - `INS-260330-DF02` Productivity falls with the square of employee count due to pairwise communication overhead, making alignment the single most important word for scaling companies.
 - `INS-260330-3585` Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-725F` Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
+- `INS-260403-066E` A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.

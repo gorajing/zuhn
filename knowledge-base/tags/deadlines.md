@@ -4,3 +4,4 @@
 - `INS-260328-217C` Deadline-free procrastination silently extends forever because the Panic Monster never wakes up, making it the primary source of long-term regret.
 - `INS-260325-D797` The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260325-0FED` Since the Panic Monster only responds to real consequences, effective execution in unstructured work requires manufacturing genuine external deadlines.
+- `INS-260403-10D8` Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent.

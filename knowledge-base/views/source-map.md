@@ -254,6 +254,7 @@ Generated on 2026-04-04 | 2421 sources
 | 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
 | 500,000 | blog | 5 | 2026-03-31 |
 | 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
+| 7 Ways To Tank Your Business Model | blog | 5 | 2026-03-31 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
 | A Fundraising Survival Guide | blog | 5 | 2026-03-31 |
 | A guide to AI prototyping for product managers | blog | 5 | 2026-03-31 |
@@ -327,6 +328,7 @@ Generated on 2026-04-04 | 2421 sources
 | How Art Can Be Good | blog | 5 | 2026-03-31 |
 | How ChatGPT Prompts Are Becoming Startups: From Idea to MVP | blog | 5 | 2026-03-30 |
 | How Elad Gil Built a One-Person Multi-Billion Venture Machine | blog | 5 | 2026-03-30 |
+| How Not to Die | blog | 5 | 2026-03-31 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
 | How People Get Rich Now | blog | 5 | 2026-03-31 |
 | How technology has already changed the world in my lifetime | blog | 5 | 2026-03-30 |
@@ -360,7 +362,9 @@ Generated on 2026-04-04 | 2421 sources
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
 | Is the MVP Dead? Rethinking Lean Startup Strategies | blog | 5 | 2026-03-30 |
 | Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance | blog | 5 | 2026-03-30 |
+| Jessica Livingston | blog | 5 | 2026-03-31 |
 | Last Rights | blog | 5 | 2026-03-30 |
+| Lessons from 140+ angel investments | blog | 5 | 2026-03-31 |
 | Let the Chinese cars in | blog | 5 | 2026-03-30 |
 | Let's save the human species! | blog | 5 | 2026-03-30 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
@@ -716,6 +720,7 @@ Generated on 2026-04-04 | 2421 sources
 | Your life needs more ‘existential grit.’ Here’s how to find it | Kate Bowler | youtube | 5 | 2026-03-25 |
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
+| 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
@@ -724,7 +729,9 @@ Generated on 2026-04-04 | 2421 sources
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
+| How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
+| IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
@@ -732,6 +739,8 @@ Generated on 2026-04-04 | 2421 sources
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
+| The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
+| The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
@@ -1627,7 +1636,6 @@ Generated on 2026-04-04 | 2421 sources
 | 13 Traps That Can Render Your Market Research Irrelevant | blog | 0 | 2026-03-31 |
 | 14 Essential Links For Working With The Business Model Canvas | blog | 0 | 2026-03-31 |
 | 14 habits of highly effective product managers | blog | 0 | 2026-03-31 |
-| 14 Ways to Apply the Business Model Canvas | blog | 0 | 2026-03-31 |
 | 144 Family Offices That Cut Pre-Seed Checks | blog | 0 | 2026-03-30 |
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 0 | 2026-03-30 |
 | 15,000+ VCs, Angels & The Glassdoor of Venture Capital | blog | 0 | 2026-03-30 |
@@ -1675,7 +1683,6 @@ Generated on 2026-04-04 | 2421 sources
 | 6,631,372 | blog | 0 | 2026-03-31 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 0 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 0 | 2026-03-31 |
-| 7 Ways To Tank Your Business Model | blog | 0 | 2026-03-31 |
 | 8 AI Prompts That Replace a $25K/Year Financial Analyst | blog | 0 | 2026-03-30 |
 | 8 Concrete Tips On How To Intentionally Design Great Corporate Culture | blog | 0 | 2026-03-31 |
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
@@ -1997,7 +2004,6 @@ Generated on 2026-04-04 | 2421 sources
 | How much software budget do you need for an early stage fund? | blog | 0 | 2026-03-30 |
 | How Natural Tradeoff And Failure Components? | blog | 0 | 2026-03-30 |
 | How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 0 | 2026-03-30 |
-| How Not to Die | blog | 0 | 2026-03-31 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How Solar Beat Coal, Gas, and Nuclear Combined | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
@@ -2009,7 +2015,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
 | How to Disagree | blog | 0 | 2026-03-31 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 0 | 2026-03-30 |
-| How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 0 | 2026-03-30 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 0 | 2026-03-30 |
@@ -2030,7 +2035,6 @@ Generated on 2026-04-04 | 2421 sources
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
 | Investor Herd Dynamics | blog | 0 | 2026-03-31 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
-| IRR vs Return Multiple: VC Math + Excel Template | blog | 0 | 2026-03-30 |
 | Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 0 | 2026-03-30 |
 | Is There Such a Thing as Good Taste? | blog | 0 | 2026-03-31 |
 | Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 0 | 2026-03-30 |
@@ -2038,13 +2042,11 @@ Generated on 2026-04-04 | 2421 sources
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
 | It's Charisma, Stupid | blog | 0 | 2026-03-31 |
 | Java's Cover | blog | 0 | 2026-03-31 |
-| Jessica Livingston | blog | 0 | 2026-03-31 |
 | Keep Your Identity Small | blog | 0 | 2026-03-31 |
 | Learn With Me | blog | 0 | 2026-03-30 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Learning from Founders | blog | 0 | 2026-03-31 |
 | Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 0 | 2026-03-30 |
-| Lessons from 140+ angel investments | blog | 0 | 2026-03-31 |
 | Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
 | Life is Short | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
@@ -2206,12 +2208,10 @@ Generated on 2026-04-04 | 2421 sources
 | The First On-Chain Yield Engine Bringing Institutional Yield Opportunities to Everyday Investors | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Founders Fund Story🔥, YC Investing Patterns📊, AI in the Enterprise🔍 | blog | 0 | 2026-03-30 |
-| The Four Quadrants of Conformism | blog | 0 | 2026-03-31 |
 | The Free Founder OS: 58 Templates + 10,000 Investor List | blog | 0 | 2026-03-30 |
 | The future isn't what it used to be | blog | 0 | 2026-03-30 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
-| The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 0 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 0 | 2026-03-30 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
 | The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of "Quiet") | blog | 0 | 2026-03-31 |

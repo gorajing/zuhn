@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260325-898A
   - INS-260327-E7B8
+  - INS-260403-7E7C
   - PRI-260327-117F
   - INS-260329-3D14
-  - INS-260330-CCD8
 stance: In business you solve a problem and move on
 evidence:
   - id: INS-260325-898A

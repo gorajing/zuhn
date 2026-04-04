@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 94 insights
+> 96 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -17,6 +17,7 @@
 - `INS-260330-32E6` [high] When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
 - `INS-260403-DD95` [high] Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260403-B87D` [high] Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
+- `INS-260403-C96F` [high] When there's no product or traction data, the founders themselves are the entire investment thesis.
 - `INS-260329-34A9` [high] Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
 - `INS-260323-2726` [high] Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.
 - `INS-260330-5EA4` [high] If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
@@ -78,6 +79,7 @@
 - `INS-260330-5ED4` [high] Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
 - `INS-260327-89C7` [high] YC teaches you to flip your thinking — instead of starting with a cool idea or technology, start with: who are the customers and what problems do they have?
 - `INS-260327-FC5D` [high] Finding the one feature that drives the aha moment is very hard, but your customers will tell you through their behavior.
+- `INS-260403-B635` [high] Having a few users who truly love your product matters infinitely more than having many indifferent users.
 - `INS-260402-D8E7` [medium] Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260323-A2E5` [medium] Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
 - `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.

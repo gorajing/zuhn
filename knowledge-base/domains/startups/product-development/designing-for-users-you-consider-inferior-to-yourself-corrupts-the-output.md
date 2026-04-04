@@ -45,10 +45,10 @@ stance: >-
   unsophisticated audiences.
 related:
   - INS-260402-3DBF
+  - INS-260403-B635
   - INS-260330-EF64
   - INS-260330-0F52
   - INS-260323-E2ED
-  - INS-260329-B0BA
 ---
 Graham notes that C, Lisp, and Smalltalk were created by designers who used them, while Cobol, Ada, and Java were created for others. The pattern extends to architecture: few US housing project architects expected to live in their designs. When you design for people you consider less sophisticated, condescension leaks into every decision.
 

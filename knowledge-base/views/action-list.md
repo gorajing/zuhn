@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3228 actionable insights
+Generated on 2026-04-04 | 3241 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1672,6 +1672,7 @@ Generated on 2026-04-04 | 3228 actionable insights
 - [INS-260330-7A80] Panic is the collapse of sequential reasoning — restoring it requires forcing yourself to make one decision at a time rather than trying to solve the whole crisis simultaneously.
 - [INS-260330-FE21] Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
 - [INS-260330-B625] Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
+- [INS-260403-E300] Making failure publicly visible locks founders into persistence more effectively than potential upside.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -1748,6 +1749,10 @@ Generated on 2026-04-04 | 3228 actionable insights
 - [INS-260403-4E16] Shifting from task-based to outcome-based pricing for AI agents mirrors healthcare's fee-for-service to value-based care transition, emphasizing quality over quantity.
 - [INS-260403-BE7C] Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
 - [INS-260403-F4CC] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
+- [INS-260403-1A5A] Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
+- [INS-260403-7E18] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
+- [INS-260403-E78B] High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
+- [INS-260403-2D99] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2171,6 +2176,9 @@ Generated on 2026-04-04 | 3228 actionable insights
 - [INS-260403-EFAF] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 - [INS-260403-532D] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - [INS-260403-3058] Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
+- [INS-260403-9680] Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
+- [INS-260403-10D8] Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent.
+- [INS-260403-9A4C] Most startups die from giving up, not from insurmountable external forces.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2670,6 +2678,7 @@ Generated on 2026-04-04 | 3228 actionable insights
 - [INS-260403-C977] Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
 - [INS-260403-7F6F] Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
 - [INS-260403-D966] Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
+- [INS-260403-E497] Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3176,6 +3185,7 @@ Generated on 2026-04-04 | 3228 actionable insights
 - [INS-260330-760D] Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
 - [INS-260330-6611] Build a product that sells itself, then hire salespeople anyway — they serve different functions.
 - [INS-260330-EEA9] Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
+- [INS-260403-7E7C] Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
 
 ## startups/scaling
 - [INS-260322-F46F] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
@@ -3241,6 +3251,7 @@ Generated on 2026-04-04 | 3228 actionable insights
 - [INS-260403-B387] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - [INS-260403-E1EB] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - [INS-260403-B8A3] Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
+- [INS-260403-066E] A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3296,6 +3307,7 @@ Generated on 2026-04-04 | 3228 actionable insights
 - [INS-260403-5B4E] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - [INS-260403-D444] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - [INS-260403-3E46] If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.
+- [INS-260403-C0FE] Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3395,6 +3407,7 @@ Generated on 2026-04-04 | 3228 actionable insights
 - [INS-260403-27AA] Change only one variable per A/B test to maintain causal attribution.
 - [INS-260403-F0C3] Always validate that customers want the core offering before optimizing secondary features.
 - [INS-260403-832E] Company launch and product launch are distinct events, and conflating them causes founders to delay fundraising unnecessarily.
+- [INS-260403-B635] Having a few users who truly love your product matters infinitely more than having many indifferent users.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

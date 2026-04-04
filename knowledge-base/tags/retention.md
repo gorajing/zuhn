@@ -8,6 +8,7 @@
 - `INS-260330-677A` John Gottman's four horsemen of relationship failure (criticism, contempt, defensiveness, stonewalling) map precisely to customer support anti-patterns that cause churn.
 - `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
+- `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260327-C673` Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
 - `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
 - `INS-260330-FA4C` Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.

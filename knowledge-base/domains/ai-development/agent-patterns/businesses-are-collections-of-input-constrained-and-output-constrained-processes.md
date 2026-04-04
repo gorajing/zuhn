@@ -54,11 +54,11 @@ resolutions:
     valuable, but they require completely different approaches to deployment,
     pricing, and change management.
 related:
+  - INS-260403-2D99
   - INS-260328-75B8
   - INS-260328-6E7A
   - PRI-260328-9F8C
   - PRI-260328-D401
-  - INS-260321-7D76
   - INS-260328-4A93
 stance: >-
   Reframing businesses as collections of input-constrained processes (customer

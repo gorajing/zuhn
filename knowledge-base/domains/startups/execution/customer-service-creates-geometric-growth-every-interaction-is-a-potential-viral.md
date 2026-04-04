@@ -55,7 +55,6 @@ related:
   - INS-260322-D57C
   - INS-260327-EF89
   - INS-260323-0FDA
-  - INS-260327-BEB1
   - INS-260327-724D
 stance: 'Customer service is the #1 underrated competency in modern business'
 ---

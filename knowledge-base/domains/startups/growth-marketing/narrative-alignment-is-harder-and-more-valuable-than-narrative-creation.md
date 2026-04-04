@@ -49,5 +49,6 @@ related:
   - INS-260330-7B1C
   - INS-260403-B198
   - INS-260323-E15B
+  - INS-260403-066E
 ---
 Andy discovered that his real skill isn't finding the story (though that matters) but helping CEOs achieve alignment across their leadership teams. When he follows up with CEOs after their narrative work, they consistently report the story became a unifying element across sales, product, marketing, and leadership. The implication: a 70% correct narrative that the whole company is aligned on beats a 100% perfect narrative that only the CEO understands. Narrative alignment becomes the North Star that coordinates all company functions.

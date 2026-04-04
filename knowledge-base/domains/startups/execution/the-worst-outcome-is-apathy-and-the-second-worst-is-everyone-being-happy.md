@@ -46,11 +46,11 @@ stance: >-
   signal—apathy means nobody cares, and universal satisfaction means there's
   nothing left to build.
 related:
+  - INS-260403-B635
   - INS-260330-49A4
   - PRI-260328-B2EA
   - INS-260330-E089
   - INS-260330-E263
-  - INS-260322-5650
 ---
 Jain's hierarchy of product outcomes: worst is apathy (nobody cares), second worst is universal happiness (nothing left to build). The best state is dedicated users with a thousand things to complain about—that means engagement, expectations, and a roadmap of what to build next.
 

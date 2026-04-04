@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 117 insights
+> 119 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -76,6 +76,7 @@
 - `INS-260329-22A8` [high] One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
 - `INS-260323-F310` [high] LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260329-BC36` [high] Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
+- `INS-260403-066E` [high] A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
 - `INS-260330-F08F` [high] Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260323-5341` [high] Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
 - `INS-260330-696D` [high] Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
@@ -104,6 +105,7 @@
 - `INS-260330-2D53` [medium] China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
 - `INS-260329-2612` [medium] Consistent hashing maps both nodes and data onto a ring, so adding or removing a node only redistributes a fraction of data rather than reshuffling everything.
 - `INS-260329-A80B` [medium] Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
+- `INS-260403-FCD7` [medium] YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260403-6061` [medium] Innovation culture transformation at scale takes 3-5 years with committed leadership; without leadership commitment, it takes forever.
 - `INS-260330-1F41` [medium] Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260330-240A` [medium] Bacteria explored far more genetic sequence space than eukaryotes over 4 billion years yet never became complex — proving that more iteration on the same architecture cannot overcome structural energy constraints.

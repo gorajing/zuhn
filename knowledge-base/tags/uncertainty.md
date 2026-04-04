@@ -15,8 +15,8 @@
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
 - `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
 - `INS-260323-581C` The fundamental driver of conflict in international politics is the inability to know another state's future intentions, making worst-case preparation rational.
-- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
 - `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
+- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
 - `INS-260322-1A20` In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
 - `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
 - `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.

@@ -13,6 +13,7 @@
 - `INS-260321-C6C0` Post-2008 regulations pushed risky lending from regulated banks to private credit — a $2T opaque market with higher fees, less oversight, and now rising defaults.
 - `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
 - `INS-260324-2244` Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
+- `INS-260403-2D99` Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - `INS-260330-1B47` Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.
 - `INS-260330-E811` Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
 - `INS-260323-07BE` Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.

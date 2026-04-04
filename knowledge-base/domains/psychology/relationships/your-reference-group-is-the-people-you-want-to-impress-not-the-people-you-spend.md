@@ -51,7 +51,6 @@ stance: >-
   physical proximity to peers — your internal reference group matters more than
   your social circle.
 related:
-  - INS-260328-2854
   - INS-260329-1A64
   - INS-260330-725C
   - INS-260403-BDE0

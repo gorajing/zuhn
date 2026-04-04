@@ -4,3 +4,4 @@
 - `INS-260403-76C3` Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260323-089E` The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
+- `INS-260403-1750` Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.

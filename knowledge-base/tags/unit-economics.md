@@ -10,6 +10,7 @@
 - `INS-260321-E8CB` One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
 - `INS-260323-DD40` Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
 - `INS-260324-5B35` Brisket shrinks to 40% yield after trimming and smoking, requires 10-18 hours of intuition-based cooking, and can't be made on demand — making BBQ the anti-franchise food category.
+- `INS-260403-1A5A` Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
 - `INS-260329-2EAA` Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
 - `INS-260324-D612` Pizza has the lowest food costs in fast food (flour, canned tomatoes, subsidized cheese), needs minimal space, and 50% of US pizza shops are still independent — unlike burgers where 90% are chains.
 - `INS-260329-27A7` Charging $35/session to 8 students yields $280/hr versus $60/hr in a 1-on-1 model — a 4.5x increase for the same time block.
@@ -19,12 +20,12 @@
 - `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-D2A9` Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
-- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
-- `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
-- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260329-1085` Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
+- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
+- `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
+- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.

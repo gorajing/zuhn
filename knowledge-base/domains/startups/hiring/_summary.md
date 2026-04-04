@@ -1,11 +1,12 @@
 # Topic: hiring
 
-> 30 insights
+> 31 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-2691` [high] Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.
 - `INS-260330-7E58` [high] In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
+- `INS-260403-E497` [high] Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 - `INS-260403-7F6F` [high] Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
 - `INS-260330-E4D9` [high] Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved.
 - `INS-260403-1DC9` [high] Corporate recruiters optimize for personal career safety (nobody gets fired for hiring Stanford) rather than actual candidate quality.

@@ -51,11 +51,11 @@ stance: >-
   channels.
 related:
   - INS-260327-2C46
+  - INS-260403-7E7C
   - INS-260325-FDF5
   - PRI-260403-5DEA
   - INS-260323-73AB
   - PRI-260328-1D90
-  - INS-260330-C095
   - INS-260327-50CE
   - INS-260329-8602
 evidence:

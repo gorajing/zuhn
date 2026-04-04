@@ -1,7 +1,7 @@
 # Tag: observation
 
-- `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.
 - `INS-260402-4E59` Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
+- `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.
 - `INS-260330-24B6` A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.
 - `INS-260330-5EFD` Destin solved his observation limitation by inverting the aquarium concept — building a structure to keep water out of the camera area rather than keeping water in around the gun.
 - `INS-260330-1222` Building a custom periscope mirror rig to film underwater gunfire required predicting where phenomena would occur, making the engineering itself a form of hypothesis testing.

@@ -6,8 +6,8 @@
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
 - `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
-- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
@@ -39,6 +39,7 @@
 - `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
 - `INS-260327-DAE5` Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
 - `INS-260327-A927` Nvidia feels like working for multiple startups — each division has its own survival pressure, P&L accountability, and startup mentality.
+- `INS-260403-066E` A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
 - `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.

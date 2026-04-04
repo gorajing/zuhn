@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260330-0AE2
   - INS-260402-7E2A
+  - INS-260403-4672
   - PRI-260403-F981
   - INS-260321-D959
   - INS-260330-8E8A
-  - INS-260402-1414
 evidence:
   - id: INS-260330-0AE2
     type: SUPPORTS

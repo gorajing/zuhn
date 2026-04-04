@@ -55,7 +55,6 @@ stance: >-
   bias and social signaling.
 related:
   - INS-260325-B4D1
-  - INS-260320-70FA
   - INS-260329-3C67
   - INS-260329-4B99
   - INS-260328-68BA

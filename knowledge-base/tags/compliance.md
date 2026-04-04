@@ -8,4 +8,5 @@
 - `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260325-B11F` We do not punish children into learning how to swim — we teach them skills. Emotional regulation is an even more important skill that punishment cannot teach.
 - `INS-260330-7D5F` Forcing public affirmation of falsehoods establishes that truth itself is dangerous, creating a self-reinforcing compliance spiral.
+- `INS-260403-2D99` Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.

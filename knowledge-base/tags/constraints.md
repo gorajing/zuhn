@@ -4,13 +4,13 @@
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260330-8638` The arrow hits the target precisely because it flexes around the obstacle, not despite it.
 - `INS-260330-BB53` Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
+- `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely.
 - `INS-260329-9157` Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
 - `INS-260329-47DD` Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
 - `INS-260329-F556` The best database schemas encode business rules structurally through keys, types, and constraints rather than trusting application code to enforce them.
 - `INS-260329-67CB` Database constraints like foreign keys, NOT NULL, and ON DELETE CASCADE enforce business rules at the lowest shared layer, preventing corrupt data regardless of which application writes to the database.
 - `INS-260329-9BEF` JavaScript's evolution from var (global scope) to let/const (block scope, immutability) demonstrates how language-level constraints prevent entire classes of bugs that developer discipline cannot.
 - `INS-260330-3B0B` Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
-- `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely.
 - `INS-260330-4F49` Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
 - `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
@@ -24,11 +24,11 @@
 - `INS-260325-C724` When you can't find an answer directly, discovering constraints the answer must satisfy often lets you work backward to it.
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260330-66F7` Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
+- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260329-ADC4` Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
 - `INS-260329-C0A7` The business bottleneck is almost never in the domain the founder enjoys most.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
-- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260330-FC16` LA's shade balls were originally 'bird balls' for airports and mine ponds — repurposed to solve a completely different water chemistry problem.
@@ -43,3 +43,4 @@
 - `INS-260321-9C2E` Charlie Puth's vast musical index becomes a liability without collaborators to constrain him — 'if you only know one sound, you'll use it, but too many options means you need someone to tell you to sit down.'
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
 - `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
+- `INS-260403-C0FE` Mapping a competitor's business model reveals their structural limits and what moves they cannot make.

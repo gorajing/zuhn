@@ -43,7 +43,6 @@ stance: >-
   If your first sale covers acquisition cost plus fulfillment for the next
   customer, you can scale indefinitely without external capital.
 related:
-  - INS-260321-801C
   - INS-260323-DD40
   - INS-260327-07C9
   - INS-260329-644B
@@ -53,6 +52,7 @@ related:
   - INS-260403-F4CC
   - INS-260321-AA91
   - INS-260329-8F7C
+  - INS-260329-21AF
 evidence:
   - id: INS-260329-C754
     type: SUPPORTS

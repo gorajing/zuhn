@@ -21,6 +21,7 @@
 - `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260402-9681` Multiple successful YC founders independently ranked persistence above intelligence as the dominant success factor.
+- `INS-260403-9A4C` Most startups die from giving up, not from insurmountable external forces.
 - `INS-260329-19F9` The 5-phase emotional cycle (uninformed optimism → informed pessimism → despair → informed optimism → achievement) explains why serial-starters never build wealth.
 - `INS-260329-E6C3` Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
 - `INS-260329-1FEE` Serial starters keep abandoning projects at the valley of despair and restarting with uninformed optimism — the fix is committing long enough for it to be unreasonable to still be bad.

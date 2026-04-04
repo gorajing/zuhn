@@ -2,10 +2,11 @@
 
 - `INS-260320-20F2` Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
+- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260330-8103` Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
-- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
+- `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
 - `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
@@ -17,7 +18,6 @@
 - `INS-260403-0267` Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-A709` VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
-- `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-2691` Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.
 - `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
@@ -30,4 +30,5 @@
 - `INS-260329-3392` Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
 - `INS-260329-9F8D` Start free, then raise your price incrementally with each batch of customers as your testimonial stack and confidence grow.
 - `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
+- `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis.
 - `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.

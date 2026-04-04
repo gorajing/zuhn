@@ -53,7 +53,6 @@ stance: >-
   strategies themselves become competitive advantages
 related:
   - INS-260327-E4F1
-  - INS-260330-A029
   - INS-260330-B468
   - INS-260330-EB1B
   - INS-260330-F9B4
@@ -62,6 +61,7 @@ related:
   - INS-260403-3946
   - INS-260403-EFAF
   - INS-260330-B390
+  - INS-260330-7ECB
 evidence:
   - id: INS-260327-E4F1
     type: CONTRADICTS

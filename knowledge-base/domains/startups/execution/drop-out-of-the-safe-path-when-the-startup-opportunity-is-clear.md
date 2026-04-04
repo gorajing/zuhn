@@ -45,13 +45,14 @@ stance: >-
   corporate path, the rational move is to leave immediately rather than
   completing credentials that add diminishing value.
 related:
+  - INS-260403-9680
   - INS-260327-2684
   - INS-260403-7F6F
   - INS-260403-CACE
   - INS-260330-5A0A
-  - INS-260402-8EED
   - INS-260327-9431
   - INS-260329-F0DD
+  - INS-260402-8EED
 evidence:
   - id: INS-260327-9431
     type: SUPPORTS

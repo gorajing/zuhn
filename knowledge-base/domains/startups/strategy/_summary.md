@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 156 insights
+> 157 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -66,6 +66,7 @@
 - `INS-260403-215E` [high] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - `INS-260403-21A2` [high] Overpaying customers make it rational to ignore the future until it's too late.
 - `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
+- `INS-260403-C0FE` [high] Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 - `INS-260329-3BEE` [high] The market you operate in constrains your upside more than your effort level does.
 - `INS-260403-FB8E` [high] Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
 - `INS-260403-7DEC` [high] Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.

@@ -53,11 +53,11 @@ stance: >-
   decision-making framework that prevents feature creep and enables coherent
   trade-offs across engineering disciplines
 related:
+  - INS-260403-2D99
   - PRI-260321-AD44
   - INS-260327-289F
   - INS-260323-197A
   - INS-260330-8890
-  - INS-260322-4B4A
 evidence:
   - id: INS-260323-197A
     type: TRANSFERS_TO
