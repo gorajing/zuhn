@@ -53,12 +53,12 @@ related:
   - INS-260403-6670
   - INS-260403-E981
   - INS-260403-37F4
-  - INS-260403-83A8
   - INS-260404-4B5D
   - INS-260403-0DC2
   - INS-260404-8C84
   - INS-260404-6BA2
   - INS-260404-1843
+  - INS-260403-DC2D
 ---
 By offering only one or two choices per product category instead of dozens, Costco transforms each shelf slot into extremely valuable real estate that suppliers fight to occupy. This willingness to walk away — or create Kirkland Signature alternatives — gives Costco leverage to demand lower prices and even reengineer products (like redesigning cashew containers to save 24,000 pallets per year).
 

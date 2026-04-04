@@ -41,10 +41,10 @@ stance: >-
   rates down while default costs rise.
 related:
   - INS-260329-6079
+  - INS-260404-B8AE
   - INS-260403-CED6
   - INS-260403-DD63
   - INS-260404-A520
-  - INS-260404-0000
   - INS-260329-0D70
   - INS-260330-AF2B
   - INS-260403-7C60

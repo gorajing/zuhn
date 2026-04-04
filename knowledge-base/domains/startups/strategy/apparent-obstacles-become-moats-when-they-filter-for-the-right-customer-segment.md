@@ -49,7 +49,6 @@ stance: >-
   layouts, and bulk-only sizing—simultaneously select for high-spending, loyal
   customers who generate disproportionate lifetime value.
 related:
-  - INS-260403-08FE
   - INS-260403-FDB8
   - INS-260404-AC1B
   - INS-260404-6E7B

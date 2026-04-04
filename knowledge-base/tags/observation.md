@@ -16,7 +16,7 @@
 - `INS-260330-0DF9` At normal speed, an underwater gunshot is one event; at 27,450 fps, it becomes three distinct phenomena with separate physics.
 - `INS-260329-F4B2` The derivative concept teaches that understanding a process at any moment requires looking at infinitesimally small intervals around that moment, not at broad averages.
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
-- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.
 - `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260330-5A13` Study how your current system fails at the edges to discover what to build next.
+- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.

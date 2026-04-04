@@ -44,8 +44,6 @@ stance: >-
   business as expensive, fundamentally changing the psychological framing of the
   transaction.
 related:
-  - INS-260327-8388
-  - INS-260327-8389
   - INS-260328-F3C4
   - INS-260403-1E4A
   - INS-260330-707D

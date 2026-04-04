@@ -1,5 +1,6 @@
 # Tag: pitching
 
+- `INS-260404-5BBF` Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - `INS-260404-C64D` Startup pitching is structurally broken: people bad at explaining talk to people bad at understanding, and even Google got rejected.
 - `INS-260403-B3CA` Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
 - `INS-260403-7292` Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
@@ -27,6 +28,7 @@
 - `INS-260404-4DF7` At early stage, your business model is probably wrong — talking about the problem you're solving sounds smarter and is more memorable than guesses about monetization.
 - `INS-260403-E319` Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
+- `INS-260404-3214` Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260404-B43A` Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
 - `INS-260403-DAB4` Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - `INS-260404-BF04` Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
@@ -93,6 +95,7 @@
 - `INS-260404-71F3` Overly broad startup descriptions become meaningless noise that investors immediately discard.
 - `INS-260404-8AB9` As your startup description approaches 'could be anything,' its information content approaches zero — investors discard it as boilerplate.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
+- `INS-260404-9830` Approach your pitch like successive approximation — start grippingly narrow, then flesh out.
 - `INS-260404-9882` Approach your pitch like successive approximation: start grippingly narrow, then flesh out, rather than starting broad and hoping investors fill in the gaps.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
@@ -123,6 +126,7 @@
 - `INS-260403-D7DF` Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
+- `INS-260404-EE85` Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 - `INS-260403-A65D` Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
 - `INS-260404-B01F` Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 - `INS-260403-C2CF` Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.

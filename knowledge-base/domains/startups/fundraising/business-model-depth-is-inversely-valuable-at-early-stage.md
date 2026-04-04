@@ -54,10 +54,10 @@ related:
   - INS-260403-FF86
   - INS-260403-1290
   - INS-260403-C496
-  - INS-260403-DAB4
   - INS-260404-4B69
   - INS-260403-3482
   - INS-260404-10FF
+  - INS-260404-9710
 ---
 A top VC told YC founders that a company he just invested in had a wrong business model that would probably change three times — and he invested anyway. Smart investors at the seed stage are evaluating the problem space and team, not unit economics.
 

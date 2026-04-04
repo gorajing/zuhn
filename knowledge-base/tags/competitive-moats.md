@@ -25,6 +25,7 @@
 - `INS-260403-3155` Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
 - `INS-260330-ED9D` Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
 - `INS-260404-4B5D` Costco stocks ~4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers compete on price and customization to win placement.
+- `INS-260404-57E3` Costco's 4,000 SKUs vs Walmart's 140,000 creates extreme supplier competition for limited slots, driving prices down.
 - `INS-260403-D8C1` Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260330-D460` Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
 - `INS-260327-FAD7` During the sneaker bubble, shoes flew off shelves without discounts, anyone could flip pairs for thousands, and shops opened everywhere -- when the market crashed, most stores went bankrupt because revenue had masked the absence of any real expertise or moat.
@@ -35,8 +36,8 @@
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260330-7819` Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
 - `INS-260403-204E` In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
-- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
+- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260330-E17D` The Indus Valley Civilization thrived peacefully for over a millennium but collapsed partly because it had almost no weapons or military capability.
 - `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.

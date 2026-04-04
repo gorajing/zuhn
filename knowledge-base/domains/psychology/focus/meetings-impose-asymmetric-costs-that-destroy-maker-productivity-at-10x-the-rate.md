@@ -52,10 +52,10 @@ stance: >-
   100+ small slots.
 related:
   - INS-260325-DAD7
-  - INS-260321-4B99
   - INS-260329-9A30
+  - INS-260321-4B99
   - INS-260403-A112
-  - PRI-260328-F0B4
+  - INS-260404-57E3
 evidence:
   - id: INS-260325-DAD7
     type: TRANSFERS_TO

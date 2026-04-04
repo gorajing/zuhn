@@ -49,7 +49,6 @@ stance: >-
   Paying workers significantly above market rate is not a cost center but a
   profit driver when the productivity multiplier exceeds the wage premium
 related:
-  - INS-260327-D480
   - INS-260403-365D
   - INS-260403-C125
   - INS-260404-CEA8

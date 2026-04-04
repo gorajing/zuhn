@@ -51,15 +51,14 @@ stance: >-
   because raising prices trades pennies today for dollars of churn tomorrow.
 related:
   - INS-260324-C496
-  - INS-260327-1576
   - INS-260403-5C88
   - INS-260403-0650
   - INS-260403-59F8
   - INS-260403-FAE1
   - INS-260403-CED6
-  - INS-260404-12A4
   - INS-260404-37B5
-  - INS-260404-60D6
+  - INS-260404-B8AE
+  - INS-260404-A938
 ---
 Traditional retail uses loss leaders to get customers in the door, then profits from markup on other items. This creates a fundamental misalignment: the company benefits from sneaking in higher margins wherever possible. Costco inverts this by making 75% of revenue from membership fees, with a self-imposed 15% maximum markup. This means Costco's rational economic choice is always to lower prices and improve quality, because that's what drives the $60-120/year renewal that actually pays the bills.
 

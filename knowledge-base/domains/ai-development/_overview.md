@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 954 insights across 23 topics
+> 956 insights across 24 topics
 
 ## Topics
 
@@ -29,3 +29,4 @@
 | product-strategy | 70 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | system-building | 209 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |
 | system-design | 3 | Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production. |
+| systems-design | 2 | Chloroplasts charge thylakoids like batteries by pumping protons steadily, then release them through ATP synthase — the biological equivalent of a message queue enabling batch processing. |

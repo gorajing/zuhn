@@ -47,7 +47,6 @@ stance: >-
   founders who emphasize it as lacking awareness.
 related:
   - INS-260328-F752
-  - INS-260403-FF86
   - INS-260403-CEC0
   - INS-260403-C8B9
   - INS-260404-4B69

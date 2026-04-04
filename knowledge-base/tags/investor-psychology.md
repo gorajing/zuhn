@@ -12,6 +12,7 @@
 - `INS-260404-F3C6` Never explicitly claim passion or quality — audiences dismiss it as bullshit and respond only to behavioral confidence signals.
 - `INS-260403-2081` Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.
 - `INS-260403-48BF` Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
+- `INS-260404-C1FF` Show confidence through behavior — never explicitly claim passion or quality, which triggers audiences to write you off.
 - `INS-260403-A290` Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260403-1E82` Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
 - `INS-260403-1EB3` Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
@@ -20,6 +21,7 @@
 - `INS-260404-4DF7` At early stage, your business model is probably wrong — talking about the problem you're solving sounds smarter and is more memorable than guesses about monetization.
 - `INS-260403-E319` Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
+- `INS-260404-3214` Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260404-B43A` Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
 - `INS-260403-DAB4` Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - `INS-260404-BF04` Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
@@ -67,6 +69,7 @@
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
 - `INS-260403-39B0` Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
+- `INS-260404-9830` Approach your pitch like successive approximation — start grippingly narrow, then flesh out.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-0F5C` Sequoia's 'proxy for demand'—people using bad tools to solve your problem—is the strongest early-stage fundraising signal.
 - `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.

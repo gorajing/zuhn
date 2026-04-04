@@ -7,6 +7,7 @@
 - `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260327-8DC5` If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
+- `INS-260404-7C3F` Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - `INS-260327-D77C` The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
 - `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
@@ -14,7 +15,6 @@
 - `INS-260330-C548` Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.
 - `INS-260403-C1B7` People who didn't attend elite schools suffer more from imagining what they missed than from any actual educational gap.
 - `INS-260403-5A91` When someone cheats in the domain they claim to care most about, it reveals a disconnect between stated values and actual psychology that is deeply diagnostic.
-- `INS-260404-7C3F` Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260403-2BAF` People who do great work don't become haters, and haters don't produce great work — the orientations are mutually exclusive.

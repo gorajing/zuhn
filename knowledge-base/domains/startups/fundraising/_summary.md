@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 245 insights
+> 248 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -20,6 +20,7 @@
 - `INS-260404-4DF7` [high] At early stage, your business model is probably wrong — talking about the problem you're solving sounds smarter and is more memorable than guesses about monetization.
 - `INS-260403-E319` [high] Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` [high] Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
+- `INS-260404-3214` [high] Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260404-B43A` [high] Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
 - `INS-260403-DAB4` [high] Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - `INS-260404-BF04` [high] Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
@@ -142,6 +143,7 @@
 - `INS-260404-71F3` [high] Overly broad startup descriptions become meaningless noise that investors immediately discard.
 - `INS-260404-8AB9` [high] As your startup description approaches 'could be anything,' its information content approaches zero — investors discard it as boilerplate.
 - `INS-260403-91F9` [high] Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
+- `INS-260404-9830` [high] Approach your pitch like successive approximation — start grippingly narrow, then flesh out.
 - `INS-260404-9882` [high] Approach your pitch like successive approximation: start grippingly narrow, then flesh out, rather than starting broad and hoping investors fill in the gaps.
 - `INS-260403-A0C4` [high] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
@@ -214,6 +216,7 @@
 - `INS-260403-1949` [high] Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260403-1444` [high] Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 - `INS-260403-1A73` [high] Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
+- `INS-260404-EE85` [high] Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 - `INS-260403-A65D` [high] Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
 - `INS-260330-AF2B` [high] A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round.
 - `INS-260403-9C63` [high] VC pathologies trace back to fund economics that demand huge deal sizes, not to the personal failings of individual investors.

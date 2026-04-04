@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3786 actionable insights
+Generated on 2026-04-04 | 3792 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -399,6 +399,9 @@ Generated on 2026-04-04 | 3786 actionable insights
 - [INS-260330-CA97] RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
 - [INS-260402-8A7A] Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
 - [INS-260404-93CD] Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
+
+## ai-development/systems-design
+- [INS-260404-59B6] Chloroplasts charge thylakoids like batteries by pumping protons steadily, then release them through ATP synthase — the biological equivalent of a message queue enabling batch processing.
 
 ## automation/content-creation
 - [INS-260320-D58E] An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
@@ -1064,6 +1067,7 @@ Generated on 2026-04-04 | 3786 actionable insights
 - [INS-260403-5CA6] Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.
 - [INS-260404-D6EE] Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
 - [INS-260404-92AC] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
+- [INS-260404-5BBF] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1663,6 +1667,7 @@ Generated on 2026-04-04 | 3786 actionable insights
 - [INS-260404-4F69] Never say 'we're passionate' — people ignore or penalize explicit self-praise, but they're deeply influenced by implicit confidence signals.
 - [INS-260404-C887] Show don't tell applies to confidence — saying 'we're passionate' gets you written off as a bullshitter, while demonstrating mastery creates belief.
 - [INS-260404-D242] Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
+- [INS-260404-C1FF] Show confidence through behavior — never explicitly claim passion or quality, which triggers audiences to write you off.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2855,6 +2860,9 @@ Generated on 2026-04-04 | 3786 actionable insights
 - [INS-260404-9710] Smart investors expect early business models to change multiple times, so discussing them in detail wastes precious pitch minutes.
 - [INS-260404-438C] When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - [INS-260404-71F3] Overly broad startup descriptions become meaningless noise that investors immediately discard.
+- [INS-260404-3214] Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
+- [INS-260404-9830] Approach your pitch like successive approximation — start grippingly narrow, then flesh out.
+- [INS-260404-EE85] Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

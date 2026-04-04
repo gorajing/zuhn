@@ -6,6 +6,9 @@
 - `INS-260403-384F` Calling two things 'infinite' (or any shared label) hides that one may be categorically larger than the other.
 - `INS-260330-2EF0` Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
 - `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
+- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
+- `INS-260403-C313` Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
+- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-14BD` Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
@@ -35,9 +38,6 @@
 - `INS-260323-D479` Nobel believed his explosives would 'put an end to war sooner than peace congresses' by making mutual destruction too horrifying -- the same argument made for nuclear weapons decades later.
 - `INS-260323-4711` Active engagement makes short intervals feel fast but long periods feel slow, while boredom does the opposite — a key asymmetry in human time perception.
 - `INS-260325-D25C` We accept that squishing a bug in the past would change the future, but we refuse to believe that our present actions have the same cascading effects.
-- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
-- `INS-260403-C313` Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
-- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260403-BCB1` Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 - `INS-260327-9562` Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.

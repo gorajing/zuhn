@@ -7,6 +7,7 @@
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260329-2EAA` Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
 - `INS-260404-DD00` Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
+- `INS-260404-B8AE` Mandatory membership fees make the company's primary revenue dependent on customer satisfaction, not transaction margins.
 - `INS-260403-CED6` When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
 - `INS-260404-A938` When revenue comes from membership renewal, every pricing decision optimizes for long-term trust rather than short-term margin.
 - `INS-260404-12A4` Mandatory fees force companies to continuously justify membership value, aligning long-term incentives with customer satisfaction.

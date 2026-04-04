@@ -57,6 +57,7 @@ related:
   - INS-260403-DC2D
   - INS-260404-8C84
   - INS-260404-6BA2
+  - INS-260404-57E3
 ---
 By carrying only 4,000 unique items versus a supermarket's 30,000 or Walmart's 140,000, Costco transforms each product slot into intensely contested real estate. Suppliers will lower prices, customize packaging, and reengineer products (like the cashew container saving 24,000 pallets/year) just to be one of the one or two options available to Costco's 94 million members.
 

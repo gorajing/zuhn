@@ -6,6 +6,7 @@
 - `INS-260403-857E` Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
 - `INS-260404-FF84` Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 - `INS-260403-43E5` Costco pays $21/hour (2x retail average) and gets 3x employee productivity, making generous wages a competitive advantage.
+- `INS-260404-1936` Costco's $21/hr average wage (2x retail average) produces employees 3x more productive than competitors.
 - `INS-260403-5CB5` Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
 - `INS-260403-C125` Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
 - `INS-260404-0FE4` Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.

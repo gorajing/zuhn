@@ -51,8 +51,8 @@ related:
   - INS-260403-D984
   - INS-260404-92AC
   - INS-260404-D242
+  - INS-260404-EE85
   - INS-260403-3482
-  - INS-260403-30D8
 evidence:
   - id: INS-260322-3646
     type: EXTENDS

@@ -53,5 +53,6 @@ related:
   - INS-260404-4B5D
   - INS-260404-8C84
   - INS-260404-35BB
+  - INS-260404-57E3
 ---
 Costco carries roughly 4,000 unique items compared to a supermarket's 30,000 or Walmart's 140,000. This radical constraint seems like a disadvantage — less choice for customers — but it creates a powerful negotiating dynamic. Suppliers compete fiercely for one of very few slots per category, willingly lowering prices and even redesigning packaging (like reengineering cashew containers to save 24,000 pallets annually). The leverage compounds: fewer SKUs means higher volume per item, which means more negotiating power per supplier relationship. This is a case where imposing a constraint on yourself creates leverage over others — the scarcity of shelf space becomes a weapon rather than a limitation.

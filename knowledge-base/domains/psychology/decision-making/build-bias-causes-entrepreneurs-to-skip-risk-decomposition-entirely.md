@@ -46,7 +46,6 @@ stance: >-
   The psychological pull toward building tangible artifacts causes systematic
   under-investment in hypothesis identification and prioritization
 related:
-  - INS-260327-B9BB
   - INS-260327-3C19
   - INS-260402-D0F3
   - PRI-260323-C49D

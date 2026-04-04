@@ -9,12 +9,12 @@
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260329-0DA4` An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
 - `INS-260327-39D4` 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
+- `INS-260322-9DDD` a16z's platform model worked because its founders had been VC customers (entrepreneurs), giving them a perspective that career VCs structurally couldn't have.
+- `INS-260323-BF81` Altman believes AI tools now enable a single person to build a company worth over a billion dollars, delivering products that previously required teams of hundreds.
 - `INS-260323-C4E2` When someone emails Cuban asking what kind of business to start, that question itself reveals they are not ready — real entrepreneurs already know because they cannot stop thinking about the problem.
 - `INS-260329-4E70` The boring middle is a feature of ambitious paths, not a signal to pivot.
 - `INS-260329-50BD` The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
 - `INS-260329-24CE` Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
-- `INS-260322-9DDD` a16z's platform model worked because its founders had been VC customers (entrepreneurs), giving them a perspective that career VCs structurally couldn't have.
-- `INS-260323-BF81` Altman believes AI tools now enable a single person to build a company worth over a billion dollars, delivering products that previously required teams of hundreds.
 - `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260327-8D86` Rosolie's Jungle Keepers protects 50,000+ acres not through activism alone but through startup-style fundraising, marketing, and organizational building.
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.

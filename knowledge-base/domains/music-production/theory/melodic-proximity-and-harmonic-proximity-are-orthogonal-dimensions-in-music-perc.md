@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260322-6D1D
   - INS-260322-4B37
+  - INS-260404-9830
   - INS-260403-9679
   - INS-260403-20D6
-  - INS-260403-7964
 stance: Notes a half step apart in pitch are worlds apart in feeling
 evidence:
   - id: INS-260330-A4A5

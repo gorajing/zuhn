@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 224 insights
+> 228 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -26,6 +26,7 @@
 - `INS-260403-0162` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement — scaling around inefficiency creates permanent cost.
 - `INS-260330-2332` [high] Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.
 - `INS-260323-BD2B` [high] JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
+- `INS-260404-15E4` [high] Oxygen was a waste product of photosynthesis that became the foundation of all animal life — the ultimate accidental platform.
 - `INS-260330-90B6` [high] Oxygen — the molecule enabling all animal life — is literally a waste product of photosynthesis, not its purpose.
 - `INS-260330-C607` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260330-7462` [high] Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
@@ -37,6 +38,7 @@
 - `INS-260330-B3DD` [high] Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
 - `INS-260403-9104` [high] Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260404-445D` [high] Costco systematically turns every apparent weakness — fees, confusing layout, limited selection — into a competitive moat.
+- `INS-260404-9783` [high] Costco turns membership fees, confusing layouts, and bulk-only sizing into loyalty drivers and competitive moats.
 - `INS-260403-2C00` [high] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
@@ -107,6 +109,7 @@
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260403-0B14` [high] Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260403-E796` [high] Early commitment to a 'good enough' approach creates lock-in that persists even when the approach becomes demonstrably suboptimal.
+- `INS-260404-BC18` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve an alternative, mirroring how startups cement early technical choices.
 - `INS-260404-8947` [high] RuBisCo is terrible at its job but irreplaceable — early commitment plus ecosystem adaptation creates permanent lock-in.
 - `INS-260330-026F` [high] Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
 - `INS-260403-1110` [high] RuBisCo is terrible at its job but 450 million years of ecosystem lock-in means plants produce 40 billion tons of it rather than evolve a replacement.
@@ -209,6 +212,7 @@
 - `INS-260330-22A2` [medium] Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260330-24E0` [medium] When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
 - `INS-260330-23CD` [medium] Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
+- `INS-260404-96E6` [medium] Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
 - `INS-260403-87BE` [medium] Sears, Toys-R-Us, and J.C. Penney died from self-inflicted adaptation failures while Ross, Aldi, and Costco thrived in the same environment.
 - `INS-260403-7E6A` [medium] North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260323-A075` [medium] Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.

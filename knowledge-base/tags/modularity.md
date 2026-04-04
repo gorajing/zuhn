@@ -7,6 +7,7 @@
 - `INS-260403-6129` Breaking value conversion into intermediate carrier steps (ATP, NADPH) enables flexible downstream use at the cost of per-step energy loss.
 - `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
 - `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
+- `INS-260404-A08A` The electron transport chain loses energy at every step, but each step performs a distinct useful function — a design pattern that applies to any multi-stage data or inference pipeline.
 - `INS-260403-8125` Photosynthesis converts chaotic photon energy into standardized ATP/NADPH currencies before using them — a universal design pattern for managing complexity.
 - `INS-260403-7738` Photosynthesis routes energy through photons → excited electrons → proton gradients → ATP → G3P, losing energy at every step but enabling precise control at each stage.
 - `INS-260404-1CA4` The electron transport chain deliberately loses energy at each step to capture it in usable forms — a design pattern favoring reliability over theoretical efficiency.
