@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 28 insights
+> 29 insights
 
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
@@ -24,6 +24,7 @@
 - `INS-260330-A8F8` [high] Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
 - `INS-260403-272E` [high] Jessica Livingston's aversion to attention meant she was written out of YC's history despite being co-founder and primary culture-builder.
 - `INS-260403-2AF0` [high] Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
+- `INS-260403-6652` [high] Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - `INS-260330-CD7A` [medium] Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260403-7FFA` [medium] Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260403-3D61` [medium] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.

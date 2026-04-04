@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 208 insights
+> 210 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -43,6 +43,7 @@
 - `INS-260402-91B5` [high] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260330-2CE5` [high] YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
 - `INS-260327-294E` [high] Give AI all your implicit context explicitly—that's the real skill, not clever prompting.
+- `INS-260403-558D` [high] Release crude, iterate fast — nature's imagination outperforms your own.
 - `INS-260323-8392` [high] Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260330-A86C` [high] Cybercriminal schemes evolve through rapid trial-and-error iteration — fail, diagnose, fix, repeat — the same process successful startups use to find product-market fit.
 - `INS-260327-0595` [high] Sequoia's Pat Grady: 'Raise your hand if you have a data flywheel. Now what business metric does it move? Less certainty means your flywheel is fake.'
@@ -93,6 +94,7 @@
 - `INS-260403-FF4E` [high] Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
 - `INS-260327-5B30` [high] Check with your investors before assuming they want you to keep grinding on a failing idea.
 - `INS-260326-C305` [high] YC's number one pre-launch advice is simply 'launch' — if your MVP takes more than two months, you're iterating in a vacuum.
+- `INS-260403-D1D0` [high] Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
 - `INS-260330-BC6F` [high] A YC company that improperly converted from a Connecticut LLC to a Delaware Corporation discovered the mistake years later during fundraising, requiring four law firms and $500K to resolve.
 - `INS-260329-E333` [high] Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
 - `INS-260329-4253` [high] Protect maker time in three stages: off-hours when solo, morning-first with back-to-front scheduling at mid-stage, and full maker days at scale.

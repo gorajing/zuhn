@@ -2,6 +2,7 @@
 
 - `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260327-D570` The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
+- `INS-260403-4788` If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260402-7E2A` Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - `INS-260322-98D2` Robinhood succeeded by combining three bets that were each individually contrarian (zero commissions, mobile-first, populist brand) into a single offering no incumbent could replicate quickly.

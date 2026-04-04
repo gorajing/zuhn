@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 464 insights
+> 468 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -47,6 +47,7 @@
 - `INS-260327-BB71` [high] The biggest AI opportunity isn't building agents—it's building the infrastructure every agent will need.
 - `INS-260329-B77F` [high] Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
 - `INS-260327-8682` [high] Intuit's expansion playbook: after accounting (the anchor), the next problem was invoicing and getting paid (right next to accounting), then payroll, then credit — each one right next to the last.
+- `INS-260403-B446` [high] Building differentiates you early when the market is noisy with pure salespeople, but sales reputation compounds while technical skills depreciate.
 - `INS-260330-A3F2` [high] Massive value can be unlocked by removing bureaucratic barriers between complementary but disconnected markets rather than building something new.
 - `INS-260403-43B9` [high] Competitors can copy products far more easily than they can replicate an entire business model ecosystem.
 - `INS-260327-4431` [high] When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
@@ -86,6 +87,7 @@
 - `INS-260327-2BE1` [high] GoPro launched 9 generations and 20 models in 10 years but still collapsed because the action camera market was too small for a single-product company, while Nikon and Canon survived smartphones by diversifying into semiconductors, healthcare, and 3D printing.
 - `INS-260327-77C7` [high] When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
 - `INS-260330-8F33` [high] Nakamura chose gallium nitride specifically because everyone else had abandoned it, giving him a field with almost no competition.
+- `INS-260403-4788` [high] If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
 - `INS-260327-6EB5` [high] Nations and companies that control essential natural resources wield power disproportionate to the resources economic va
 - `INS-260327-325B` [high] Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
 - `INS-260327-CC35` [high] Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
@@ -160,6 +162,7 @@
 - `INS-260403-5F8E` [high] Anti-piracy patrols create classic free-rider problems where non-paying companies benefit equally, making voluntary collective defense inherently unstable.
 - `INS-260330-6D3B` [high] Letting a small but loud faction define your brand alienates the majority you need to win.
 - `INS-260323-3BA4` [high] OpenClaw beat every well-funded agentic AI startup because competitors 'all take themselves too seriously' — it's hard to compete against someone who's just there to have fun, with lobster memes, weird branding, and a soul.md that gives agents personality.
+- `INS-260403-68C8` [high] Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
 - `INS-260403-9689` [high] A gatekeeper between you and your customers holds existential power over your business regardless of how good your product is.
 - `INS-260327-0BDD` [high] When affluent consumers discover and popularize budget shopping channels (thrift stores, discount retailers), prices ris
 - `INS-260327-CADA` [high] The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
@@ -440,6 +443,7 @@
 - `INS-260330-E615` [medium] McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260330-8E95` [medium] The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.
 - `INS-260329-9BC0` [medium] Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
+- `INS-260403-1D43` [medium] Incumbent game studios will use AI to cut costs and add depth to existing formats, but category-defining breakthroughs require AI-native thinking from new entrants.
 - `INS-260330-E5F2` [medium] Netflix will never produce documentaries about ongoing fraud because a single lawsuit threatens institutional-scale liability, while independent journalists like Coffeezilla face proportionally lower consequences.
 - `INS-260327-C54D` [medium] Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
 - `INS-260403-F234` [medium] Buying distribution then forcing technology change fails because legacy organizations resist replacing systems that already work for them.

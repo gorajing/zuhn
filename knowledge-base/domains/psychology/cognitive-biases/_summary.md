@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 247 insights
+> 249 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -100,6 +100,7 @@
 - `INS-260403-AFC4` [high] Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260403-393C` [high] Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.
 - `INS-260323-97A1` [high] Everyone expected a spy to look like James Bond; the actual spy was a goofy, church-going college kid who talked to everyone — our threat models are shaped by fiction, not reality.
+- `INS-260403-4101` [high] Informal delivery forces people to actually understand your work, which most won't bother to do.
 - `INS-260330-13B2` [high] People don't value privacy or decentralization until someone goes to jail or gets deplatformed, creating a predictable cycle of complacency and panic.
 - `INS-260330-3851` [high] The Columbus flat-Earth myth persists because the hero-vs-ignorance narrative is more compelling than the boring truth that educated people already knew Earth was round.
 - `INS-260329-882A` [high] Phishing works primarily by exploiting authority bias and urgency, not by exploiting technical ignorance about email systems.
@@ -183,6 +184,7 @@
 - `INS-260327-6C64` [high] In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
 - `INS-260330-D066` [high] Obviously false statements serve as loyalty tests that bind groups together, not as attempts at deception.
 - `INS-260330-1E6A` [high] Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
+- `INS-260403-1046` [high] Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260326-4F90` [high] Better inputs beat better reasoning — most self-improvement focuses on the wrong variable.
 - `INS-260330-4746` [high] Even at $50M+ net worth, people feel they 'don't have enough' because their social circle shifts to include billionaires who outclass them on every dimension.
 - `INS-260330-6566` [high] The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.

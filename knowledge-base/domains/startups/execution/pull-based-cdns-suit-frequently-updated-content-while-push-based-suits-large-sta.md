@@ -48,11 +48,11 @@ stance: >-
   frequency, not just traffic volume — mismatching leads to either stale content
   or unnecessary origin load.
 related:
+  - INS-260403-D1D0
   - INS-260327-88FE
   - INS-260320-C8CC
   - INS-260329-812E
   - INS-260330-0B79
-  - INS-260320-71C1
 evidence:
   - id: INS-260320-C8CC
     type: EXTENDS

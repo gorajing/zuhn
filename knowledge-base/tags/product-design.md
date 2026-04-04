@@ -7,13 +7,14 @@
 - `INS-260403-AFBB` AI products should optimize for user absence, not presence — the best product is one you never have to look at.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1B47` Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.
+- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260327-CC35` Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260402-AEA1` Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
-- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
 - `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
+- `INS-260403-06D5` In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 - `INS-260403-8E4D` Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260403-A5B8` The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users.
@@ -29,6 +30,7 @@
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
 - `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 - `INS-260403-9B5D` SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
+- `INS-260403-6D0D` Deliberately choose which customer jobs, pains, and gains you will NOT address.
 - `INS-260403-E86E` The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - `INS-260403-35CB` Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.

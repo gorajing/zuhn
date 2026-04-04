@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 178 insights
+> 179 insights
 
 - `INS-260329-913C` [high] Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days.
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
@@ -170,6 +170,7 @@
 - `INS-260329-3036` [medium] Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
 - `INS-260329-4B45` [medium] Customers in a buying cycle naturally need adjacent products — not offering them just sends that revenue to competitors.
 - `INS-260329-57B3` [medium] Labels like 'you're a smart decision-maker' or 'you're clearly a family man' given during objection handling create identity commitments that can be referenced during the close to increase conversion.
+- `INS-260403-08AE` [medium] Instead of forcing yourself into traditional sales, find the selling modality that matches your natural communication style.
 - `INS-260329-2A5A` [medium] Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
 - `INS-260329-3D14` [medium] Treating negotiation as mutual value discovery rather than extraction creates better deals and preserves relationships.
 - `INS-260328-93F7` [medium] Sales interviews disproportionately weight how you describe handling objections because it simultaneously reveals listening skills, composure, and problem-solving ability.

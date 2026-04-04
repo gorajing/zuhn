@@ -48,7 +48,6 @@ stance: >-
   Dominant systems that capture an ecosystem early persist despite severe flaws
   because switching costs exceed the cost of workarounds
 related:
-  - INS-260320-20F2
   - INS-260330-50B3
   - INS-260403-2CDA
   - INS-260330-4441

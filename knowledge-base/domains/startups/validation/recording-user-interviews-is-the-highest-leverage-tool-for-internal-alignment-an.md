@@ -49,7 +49,6 @@ stance: >-
   persuasive than summarizing findings, making recordings the single most
   effective alignment tool.
 related:
-  - INS-260325-0892
   - INS-260323-FDC1
   - INS-260327-89E4
   - INS-260330-568F

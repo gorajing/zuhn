@@ -47,15 +47,15 @@ stance: >-
   prerequisite for the most significant contributions.
 related:
   - INS-260329-640C
+  - INS-260403-EA34
   - INS-260329-EFA8
   - INS-260329-5FB5
   - INS-260402-9681
-  - INS-260330-85E1
   - INS-260327-5AF9
   - INS-260329-E078
   - INS-260329-444F
   - INS-260329-D9A4
-  - INS-260403-9EB1
+  - INS-260330-85E1
 evidence:
   - id: INS-260329-EFA8
     type: SUPPORTS

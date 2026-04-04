@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260327-7F56
   - PRI-260403-0ABD
+  - INS-260403-08AE
   - INS-260330-1F41
   - INS-260329-13D2
-  - INS-260403-6947
 ---
 Graham identifies a paradox in presentation delivery: you need a completely different voice and manner for speaking to a group versus conversation, yet the goal is to make this artificial mode sound conversational and spontaneous. He draws a parallel to writing — 'good writing is an elaborate effort to seem spontaneous.'
 

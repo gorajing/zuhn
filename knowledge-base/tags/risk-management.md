@@ -17,9 +17,9 @@
 - `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
 - `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
 - `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
+- `INS-260330-3672` High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
 - `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
 - `INS-260327-C935` At Aspern-Essling, Napoleon's pontoon bridges across the Danube broke repeatedly from Austrian fire-ships and debris, stranding his army on the wrong side of the river.
-- `INS-260330-3672` High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
 - `INS-260403-34E0` Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
 - `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.

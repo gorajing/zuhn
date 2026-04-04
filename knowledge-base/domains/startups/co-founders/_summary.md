@@ -1,6 +1,6 @@
 # Topic: co-founders
 
-> 42 insights
+> 43 insights
 
 - `INS-260325-9B73` [high] Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260326-D8B9` [high] No one ever says 'great person, wrong skills' when co-founders split — it's always 'brilliant person, impossible to work with.'
@@ -34,6 +34,7 @@
 - `INS-260330-64E1` [high] Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - `INS-260326-967C` [high] Co-founders who discover the idea together feel true ownership; co-founders recruited into someone else's idea always have one foot out the door.
 - `INS-260403-87CF` [high] Once a startup hub reaches critical mass, it's the people — not tax breaks, office space, or weather — that sustain the ecosystem.
+- `INS-260403-3B67` [high] The builder + seller co-founder combination is the most common successful startup pattern and what VCs actively look for.
 - `INS-260325-F1BC` [high] Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260330-3E6F` [high] Among YC's highest-valued companies, none had significantly unequal founder equity splits.
 - `INS-260330-75E2` [high] When founders don't pay themselves, fired co-founders use unpaid wage claims as leverage to negotiate accelerated vesting they aren't entitled to.

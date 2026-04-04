@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260330-7D07
   - PRI-260403-0ABD
+  - INS-260403-B446
   - PRI-260328-95E3
   - INS-260327-60A0
-  - INS-260329-4A96
 ---
 Every prospect has heard thousands of pitches. Their brain has a pattern: detect sales pitch, activate resistance, tune out. The pattern interrupt breaks this cycle by doing something unexpected. Instead of 'I'd like to walk you through our platform,' try 'I've thought about your specific problem at length and have a very specific perspective on solving it.'
 

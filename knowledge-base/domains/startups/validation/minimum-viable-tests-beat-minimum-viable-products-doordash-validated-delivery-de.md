@@ -56,5 +56,6 @@ related:
   - INS-260329-4B07
   - INS-260330-5D4F
   - PRI-260323-8EEA
+  - INS-260403-4101
 ---
 Stanley Tang describes how DoorDash started as paloaltodelivery.com — a landing page thrown together in about an hour with PDF restaurant menus scraped from the internet and a personal cell phone number at the bottom. They had no drivers, no backend, no dispatch system, no algorithms. Yet orders came in organically and grew from 1 to 2 to 5 to 10 per day, all through word of mouth. The key insight is that when people are willing to endure a terrible user experience — calling a phone number, looking up PDF menus — you've found genuine demand that justifies building a real product. This reframes validation from 'build a basic product' to 'run the cheapest possible experiment that tests whether demand exists at all.' The ugliness of the test IS the signal — if people tolerate it, the need is real.

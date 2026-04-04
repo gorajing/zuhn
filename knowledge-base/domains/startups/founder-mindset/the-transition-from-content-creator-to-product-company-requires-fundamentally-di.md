@@ -52,7 +52,6 @@ stance: >-
   other, and the transition itself is the hardest creative challenge.
 related:
   - INS-260323-FF23
-  - INS-260323-2040
   - INS-260320-630D
   - INS-260322-BD0D
   - INS-260321-5598
@@ -61,6 +60,7 @@ related:
   - INS-260327-165D
   - INS-260327-6D58
   - INS-260327-7CAF
+  - INS-260327-555D
 evidence:
   - id: INS-260323-FF23
     type: CHALLENGES

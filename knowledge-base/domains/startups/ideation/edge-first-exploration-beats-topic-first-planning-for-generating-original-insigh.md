@@ -51,7 +51,6 @@ stance: >-
   generated topic lists are useless without edge
 related:
   - INS-260325-560A
-  - INS-260323-FDC1
   - INS-260402-4451
   - INS-260403-A408
   - INS-260402-8223

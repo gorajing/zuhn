@@ -42,7 +42,6 @@ stance: >-
   Products that are 10X better than existing alternatives create their own
   market demand, while incremental improvements get ignored in crowded markets.
 related:
-  - INS-260320-5A6F
   - INS-260329-D062
   - INS-260329-72D5
   - INS-260330-7BAE

@@ -60,11 +60,11 @@ related:
   - INS-260323-73AB
   - INS-260322-70DD
   - INS-260323-1975
-  - INS-260323-1CA4
   - INS-260327-52C1
   - PRI-260328-E921
   - INS-260329-89DA
   - INS-260327-77FA
+  - INS-260328-A666
 ---
 Pete Kazanjy from YC makes the case that sales before product-market fit is a completely different activity from sales after PMF. Pre-PMF sales requires vision (selling what the product will become), credibility (being the expert who built it), constant experimentation, and a tight feedback loop with the engineering team. These are founder skills, not sales rep skills.
 

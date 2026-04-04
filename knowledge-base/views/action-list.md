@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3509 actionable insights
+Generated on 2026-04-04 | 3522 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1041,6 +1041,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-3D61] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 - [INS-260403-0949] Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
 - [INS-260403-2AF0] Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
+- [INS-260403-6652] Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1106,6 +1107,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-3BD3] If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
 - [INS-260403-F03A] Judge purchases by projected usage, not by the deal you got.
 - [INS-260403-97B4] When inspiration strikes, act on it immediately because it won't survive being shelved.
+- [INS-260403-91CC] Push past obvious functional jobs to find the social and emotional motivations that create the strongest customer attachment.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1128,6 +1130,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-B08E] Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
 - [INS-260403-C135] Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - [INS-260403-1202] Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
+- [INS-260403-EA34] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1439,6 +1442,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-E6FD] Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 - [INS-260403-FC01] The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
 - [INS-260403-79E0] The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
+- [INS-260403-0218] Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -2302,6 +2306,8 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-144A] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 - [INS-260403-3346] Operational competence earns the trust needed for strategic ambition.
 - [INS-260403-C4BE] Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
+- [INS-260403-558D] Release crude, iterate fast — nature's imagination outperforms your own.
+- [INS-260403-D1D0] Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2919,6 +2925,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-F7DA] Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 - [INS-260403-573F] The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
 - [INS-260403-6857] Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
+- [INS-260403-06D5] In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
@@ -3234,6 +3241,8 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-A8F3] Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - [INS-260403-0D90] Customers rarely choose products on function alone — emotional belonging and social perception are often the decisive factors.
 - [INS-260403-0196] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
+- [INS-260403-EAF7] Solve the real problem and deliberately ignore peripheral concerns that seem important but aren't.
+- [INS-260403-6D0D] Deliberately choose which customer jobs, pains, and gains you will NOT address.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3419,6 +3428,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-7F89] The bottleneck to customer understanding is internal process friction, not lack of resources.
 - [INS-260403-11CC] Map every stakeholder type and craft distinct messaging for each before entering a deal.
 - [INS-260403-19D8] Technology-first pitches create obstacles; outcome-first pitches close deals.
+- [INS-260403-08AE] Instead of forcing yourself into traditional sales, find the selling modality that matches your natural communication style.
 
 ## startups/scaling
 - [INS-260322-F46F] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
@@ -3573,6 +3583,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260330-8907] Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
 - [INS-260403-4E7A] Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - [INS-260403-7219] The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
+- [INS-260403-93A5] Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
@@ -3657,6 +3668,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-2824] Ensure your call-to-action directly measures what your hypothesis actually claims.
 - [INS-260403-27AA] Change only one variable per A/B test to maintain causal attribution.
 - [INS-260403-F0C3] Always validate that customers want the core offering before optimizing secondary features.
+- [INS-260403-1E4A] Use one Value Proposition Canvas per customer segment — never combine payers, users, and other segments.
 - [INS-260403-832E] Company launch and product launch are distinct events, and conflating them causes founders to delay fundraising unnecessarily.
 - [INS-260403-10D8] AI coaches that ask structured questions help teams articulate what they already know and pinpoint what they still need to learn about customers.
 - [INS-260403-B635] Having a few users who truly love your product matters infinitely more than having many indifferent users.
@@ -3679,6 +3691,7 @@ Generated on 2026-04-04 | 3509 actionable insights
 - [INS-260403-E816] Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.
 - [INS-260403-63E2] Rank hypotheses by how catastrophically wrong you could be, then test the most dangerous ones first.
 - [INS-260403-260B] Validate that the problem exists and matters before testing whether your solution addresses it.
+- [INS-260403-113D] Separate customer observation from solution design by temporarily forgetting what you offer.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

@@ -54,11 +54,11 @@ stance: >-
   and cross-game interoperability, not from enabling users to earn money.
 related:
   - INS-260323-6230
-  - INS-260323-6043
   - INS-260330-8481
   - INS-260402-DCC5
   - INS-260330-0998
-  - PRI-260328-FD47
+  - INS-260323-6043
+  - INS-260403-1D43
   - INS-260403-3656
 ---
 NFX argues that the core web3 gaming evolution has two pillars: NFTs as true ownership of virtual goods (currently locked in platform walled gardens like Steam), and tokens as portable in-game currencies. The earn element is a byproduct, not the core value proposition.

@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 234 insights
+> 235 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -162,6 +162,7 @@
 - `INS-260329-023F` [high] Real learning happens when you build projects without following a tutorial, forcing yourself to problem-solve independently.
 - `INS-260330-4E95` [high] Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
 - `INS-260403-41BC` [high] Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
+- `INS-260403-0218` [high] Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 - `INS-260403-B508` [high] Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - `INS-260329-A937` [medium] Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
 - `INS-260329-975C` [medium] Granular chapter structure gives learners constant progress signals and easy re-entry points, reducing the intimidation of long-form content.

@@ -13,6 +13,7 @@
 - `INS-260330-6EF1` The world's roundest object was made by starting 2mm oversized and grinding progressively finer — extreme quality comes from iterative refinement, not one-shot precision.
 - `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
 - `INS-260329-7691` Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
+- `INS-260403-558D` Release crude, iterate fast — nature's imagination outperforms your own.
 - `INS-260330-A86C` Cybercriminal schemes evolve through rapid trial-and-error iteration — fail, diagnose, fix, repeat — the same process successful startups use to find product-market fit.
 - `INS-260329-2AB9` Fast, imperfect decisions outperform slow, perfect ones because action generates information that analysis cannot.
 - `INS-260403-EFAF` Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.

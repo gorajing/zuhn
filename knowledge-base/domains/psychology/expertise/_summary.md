@@ -1,8 +1,9 @@
 # Topic: expertise
 
-> 53 insights
+> 55 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
+- `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260403-2822` [high] Founders don't ignore startup advice out of stubbornness — they reject it because counterintuitive truths sound like bad advice.
 - `INS-260403-0C33` [high] If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
@@ -17,6 +18,7 @@
 - `INS-260403-B08E` [high] Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
 - `INS-260330-FE49` [high] Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260330-E881` [high] Expert hackers are a tiny minority, but their tool choices cascade to the majority through influence, authority, and the software they create.
+- `INS-260403-2612` [high] Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
 - `INS-260403-E2FB` [high] Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply.
 - `INS-260403-2B63` [high] Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
 - `INS-260403-DE28` [high] Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.

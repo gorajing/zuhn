@@ -14,6 +14,7 @@
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
+- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260330-FCBC` Controlling access to essential inputs creates stronger lock-in than product quality.
@@ -25,6 +26,7 @@
 - `INS-260330-EEED` Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260403-962E` RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
+- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
 - `INS-260403-0AF6` Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
 - `INS-260403-9E2D` A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
 - `INS-260323-7F36` The install base is the single most important factor for a computing platform; elegant architectures like RISC failed while the 'barely aesthetic' x86 survived because install base trumps design purity.
@@ -40,7 +42,6 @@
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
-- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 - `INS-260403-1636` Plants evolved entire metabolic pathways to handle RuBisCo's toxic byproducts rather than replacing RuBisCo, making the entrenched system more resilient over time.

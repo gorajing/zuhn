@@ -45,10 +45,10 @@ stance: >-
   get dramatically better outcomes than those who discuss Twitter-sourced or
   theoretical concerns.
 related:
+  - INS-260403-6D0D
   - INS-260329-9513
   - INS-260329-EC98
   - INS-260328-D2EC
   - INS-260329-5891
-  - INS-260327-89C7
 ---
 Michael's prep framework for advice sessions: identify the top three real problems in your business — not pop problems, fake problems, or things you read about on Twitter. The 'stomach ache' test is the filter: if it doesn't make you uncomfortable, it's probably not your real problem. One of the top-three stomach-ache problems is often 'we're not having fun' or 'we have low morale' — and that's a totally valid agenda item to bring up explicitly. The anti-pattern is the founder who comes in with a detailed agenda about renaming the company while the business has been 'shot in eight places' — they're discussing a sprained ankle while bleeding out. An adviser's job is to detect when someone is dancing around the core topic and redirect.

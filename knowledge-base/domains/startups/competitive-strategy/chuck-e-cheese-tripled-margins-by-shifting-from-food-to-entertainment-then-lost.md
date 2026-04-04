@@ -45,8 +45,8 @@ related:
   - INS-260323-6230
   - INS-260324-E7A2
   - INS-260327-F7C0
+  - INS-260403-CAAB
   - INS-260327-470B
-  - INS-260323-AB5F
   - INS-260327-795D
 stance: >-
   Chuck-E-Cheese pivoted from pizza to arcade games in the 90s, nearly tripling

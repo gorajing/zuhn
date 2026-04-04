@@ -44,10 +44,10 @@ stance: >-
   Market competition is won by the tightest customer-value fit, not by the
   longest feature list.
 related:
+  - INS-260403-6D0D
   - INS-260329-CBF3
   - INS-260330-FE9E
   - INS-260323-3239
   - INS-260322-5A72
-  - INS-260403-E78B
 ---
 The 'open slot' metaphor reframes competition: each customer segment has a slot that will be filled by whichever value proposition best matches their specific jobs, pains, and gains. This means a product with fewer features can beat a feature-rich competitor if those features more precisely address high-intensity pains. The strategy canvas visualization — mapping competing value propositions on the same variables — makes this concrete. You can see exactly where you over-serve (wasted resources) and under-serve (vulnerability). This framing discourages the default startup behavior of adding features to match competitors and instead redirects energy toward deepening fit on the dimensions that matter most to the target segment.

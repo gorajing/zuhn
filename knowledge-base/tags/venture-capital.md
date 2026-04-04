@@ -17,6 +17,7 @@
 - `INS-260322-3646` In VC, waiting 10-15 years for portfolio outputs to evaluate GP performance is dangerously slow — judge by deal-sourcing quality, win rate, and investment quality at the time of decision.
 - `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260321-1992` Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
+- `INS-260403-3B67` The builder + seller co-founder combination is the most common successful startup pattern and what VCs actively look for.
 - `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260329-D37E` The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
 - `INS-260403-37FD` Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.

@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260329-277B
   - INS-260327-89C7
+  - INS-260403-113D
   - PRI-260320-D2E1
   - INS-260403-162F
-  - INS-260329-B6DF
 ---
 Hormozi articulates a structural asymmetry in competitive dynamics: the company focused on customers receives real-time market data that drives product improvement, while the company focused on competitors receives delayed, filtered information that drives imitation. This creates a compounding gap — the customer-focused company keeps innovating from primary data while the competitor-focused one chases yesterday's moves.
 

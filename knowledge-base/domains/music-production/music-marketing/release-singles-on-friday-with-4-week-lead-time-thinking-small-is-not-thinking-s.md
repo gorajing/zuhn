@@ -42,11 +42,11 @@ resolutions:
     small. Exception: if you have zero followers and zero data, it genuinely
     doesn't matter what day you release.
 related:
+  - INS-260403-D1D0
   - INS-260330-5D4F
   - INS-260326-C305
+  - INS-260403-93A5
   - PRI-260328-2014
-  - INS-260327-A98E
-  - INS-260330-8481
 stance: >-
   Release on Friday (international release day) with minimum 4 weeks from master
   delivery

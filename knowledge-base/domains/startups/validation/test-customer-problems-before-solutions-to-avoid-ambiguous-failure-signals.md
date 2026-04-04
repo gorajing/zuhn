@@ -46,5 +46,6 @@ related:
   - INS-260402-4AB4
   - INS-260325-898A
   - INS-260330-B15C
+  - INS-260403-EAF7
 ---
 When a solution test fails, founders face an attribution problem: was the solution wrong, or does the pain not exist? By first running lightweight problem-validation experiments — interviewing customers about their jobs, pains, and gains — you establish a factual baseline. Only after confirming the problem is real and prioritized should you test solution fit. This sequencing principle (problem → solution → business model) prevents wasted build cycles on solutions to phantom problems and ensures negative results carry clear, actionable signal.

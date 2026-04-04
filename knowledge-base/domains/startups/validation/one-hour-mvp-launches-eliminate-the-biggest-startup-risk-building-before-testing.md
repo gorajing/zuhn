@@ -52,10 +52,10 @@ stance: >-
   wants, not shipping something ugly.
 related:
   - INS-260321-13EA
-  - INS-260326-C305
   - INS-260330-E6B7
+  - INS-260403-D1D0
+  - INS-260326-C305
   - INS-260330-C391
-  - INS-260329-75B6
 evidence:
   - id: INS-260321-13EA
     type: CONTRADICTS

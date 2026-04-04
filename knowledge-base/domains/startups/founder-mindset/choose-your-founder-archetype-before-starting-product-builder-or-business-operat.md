@@ -42,11 +42,11 @@ resolutions:
     co-founder yet, you may not be ready to start. This counters the
     solo-founder myth and the 'just figure it out as you go' approach.
 related:
+  - INS-260403-3B67
   - INS-260329-2BCC
   - INS-260327-F9C3
   - INS-260327-9C00
   - INS-260322-5831
-  - INS-260403-805E
   - INS-260327-6725
 stance: >-
   You must be either the tech/product founder or the business/revenue founder,

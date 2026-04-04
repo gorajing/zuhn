@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 47 insights
+> 49 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -32,6 +32,7 @@
 - `INS-260330-39C6` [high] Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
 - `INS-260330-68EF` [high] France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
 - `INS-260330-D808` [high] The rapid smartphone upgrade cycle of 2007-2016 was an anomaly driven by technology's growth phase, not a permanent market condition.
+- `INS-260403-93A5` [high] Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 - `INS-260325-6F7F` [high] For most of human history, people saw the past as a golden age from which they had fallen — the idea that the future could be better only emerged in the 1500-1600s.
 - `INS-260330-1F25` [high] Look for the widest gap between what's now technically possible and how things are still being done.
 - `INS-260330-D6ED` [high] Build when the delta between what's now possible and how things currently work is at its widest.
@@ -41,6 +42,7 @@
 - `INS-260325-EBDD` [high] Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
 - `INS-260328-3446` [high] We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
 - `INS-260403-C37B` [medium] Major consumer AI apps will follow the iPhone pattern—emerging roughly 18 months after developers internalize the platform's design possibilities.
+- `INS-260403-CAAB` [medium] Major AI game breakouts are delayed because inference speed, cost, model quality, and media generation must all mature simultaneously — just as internet games waited for bandwidth, GPUs, and memory.
 - `INS-260328-9C16` [medium] Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
 - `INS-260325-8062` [medium] From 1870-1920 we got electricity, internal combustion, telecom, synthetic chemistry, and public health revolutions; from 1970-2020, mainly just information technology.
 - `INS-260325-66BE` [medium] In 1800 nobody thought lacking refrigerators or plumbing was extreme poverty because it was normal — our descendants may view our era the same way.

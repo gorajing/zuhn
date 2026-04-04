@@ -29,6 +29,7 @@
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.
 - `INS-260323-144F` Lunar rocks match Earth's isotope ratios at parts-per-million precision — an empirical fact that invalidates the most physically elegant Moon formation model, demonstrating that measurement precision can overturn theoretical elegance.
 - `INS-260329-95EF` Shrinking the measurement interval from average to instantaneous rate of change is the core technique for converting rough observations into precise understanding.
+- `INS-260327-62AB` Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -39,7 +40,6 @@
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260330-1A63` Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
 - `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
-- `INS-260327-62AB` Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - `INS-260330-201F` The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.
 - `INS-260403-99D1` Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
 - `INS-260330-901B` The silicon sphere (Avogadro) and Watt Balance (Planck's constant) provide independent checks on each other — dual independent approaches beat single-method perfection.

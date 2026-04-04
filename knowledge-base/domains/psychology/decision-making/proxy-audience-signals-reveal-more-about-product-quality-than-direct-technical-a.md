@@ -48,7 +48,6 @@ stance: >-
   Who adopts a technology and why they adopt it are more predictive of its
   long-term success than its technical specifications.
 related:
-  - INS-260327-38D8
   - INS-260327-E75F
   - INS-260330-BF8F
   - INS-260402-B12D
@@ -56,6 +55,7 @@ related:
   - INS-260330-E263
   - PRI-260322-94C4
   - INS-260321-86E7
+  - INS-260403-7F06
 ---
 Graham's 'wrong people like it' heuristic examines not just whether people use a technology, but which people and for what reasons. Java attracted suits who followed press coverage, enterprise programmers amazed by anything better than C++, and students chasing job prospects — all extrinsically motivated groups. Meanwhile, the programmers he most admired were indifferent to Java.
 

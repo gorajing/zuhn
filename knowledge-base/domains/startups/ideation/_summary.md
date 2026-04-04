@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 76 insights
+> 78 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -20,6 +20,7 @@
 - `INS-260403-2C50` [high] The best deals for creative and entrepreneurial communities are in cities that were once rich and then became poor — solid infrastructure at bargain prices.
 - `INS-260327-D982` [high] The exercise of picking a startup idea should be reframed from 'find a good startup idea' to 'find a good idea for your team' — founder-market fit is the single most predictive evaluation criterion.
 - `INS-260403-699B` [high] Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
+- `INS-260403-B2EB` [high] YC funded Steve and Alexis despite rejecting their idea, then steered them to Reddit — proving founder quality matters more than initial pitch.
 - `INS-260330-66A0` [high] The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260330-FBC0` [high] Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260330-9E91` [high] Resource scarcity predictions assume fixed knowledge, but knowledge creation continuously converts worthless things into resources — europium was essential for color TV until LCD screens made it irrelevant.
@@ -69,6 +70,7 @@
 - `INS-260330-69C6` [medium] The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260403-F7DA` [medium] Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 - `INS-260321-4B38` [medium] Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.
+- `INS-260403-06D5` [medium] In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 - `INS-260328-6F5B` [medium] YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.
 - `INS-260323-8897` [medium] Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.
 - `INS-260403-44ED` [medium] Projects conceived as charities but requiring company economics to operate are fertile ground for startup ideas precisely because they're overlooked.

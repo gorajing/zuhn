@@ -48,10 +48,10 @@ stance: >-
   tangential details where their true complexity lives
 related:
   - INS-260327-6AB1
+  - INS-260403-6652
   - INS-260330-DAAD
   - INS-260329-5C65
   - PRI-260321-5857
-  - INS-260330-B360
 evidence:
   - id: INS-260330-B360
     type: CONTRADICTS

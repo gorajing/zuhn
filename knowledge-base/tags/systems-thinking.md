@@ -23,14 +23,14 @@
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
+- `INS-260330-247C` Most government policies are iatrogenic — they create more harm than good — and their true cost is hidden by currency expansion rather than transparent taxation.
 - `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
 - `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
 - `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
 - `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
-- `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
-- `INS-260330-247C` Most government policies are iatrogenic — they create more harm than good — and their true cost is hidden by currency expansion rather than transparent taxation.
+- `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-1298` Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
@@ -72,9 +72,9 @@
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260325-7974` Western individualism is scientifically wrong: we are constantly being reshaped by the actions of people we will never meet.
 - `INS-260330-946B` Trump demonstrated that democratic norms are insufficient guardrails — institutions need explicit laws and structural constraints designed to contain worst-case actors.
+- `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
 - `INS-260325-7D50` Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.
-- `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.

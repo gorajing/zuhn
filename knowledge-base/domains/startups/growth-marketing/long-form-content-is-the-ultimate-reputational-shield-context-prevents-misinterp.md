@@ -48,11 +48,11 @@ resolutions:
     they sound oral. For founders: your most controversial and important ideas
     should be expressed in the longest form possible, never the shortest.
 related:
+  - INS-260403-6652
   - INS-260330-CDE1
   - INS-260330-2294
   - INS-260330-DB4B
   - INS-260323-B497
-  - INS-260326-C692
 stance: >-
   Every time a public figure gets destroyed, it's because of something too short
   to contain context

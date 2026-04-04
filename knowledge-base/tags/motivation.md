@@ -7,19 +7,19 @@
 - `INS-260403-0949` Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
 - `INS-260330-C8E2` Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
 - `INS-260330-6418` The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
+- `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
 - `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
-- `INS-260403-0C33` If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
-- `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
-- `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
 - `INS-260403-81A4` Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
 - `INS-260403-5BF9` Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
+- `INS-260403-0C33` If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
+- `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
+- `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
 - `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
 - `INS-260330-CC9E` Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
 - `INS-260329-B1D0` Pay off debts in order of speed (smallest first), not interest rate, because quick wins sustain behavioral momentum that math alone cannot.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
-- `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
 - `INS-260329-5C65` Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content.
 - `INS-260330-EDDD` ADHD hyper-focus on enjoyable tasks proves the focus circuitry works—the deficit is specifically in the dopamine system that should enable focus on non-preferred tasks.
 - `INS-260330-0C31` Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
@@ -55,6 +55,7 @@
 - `INS-260329-68C8` We repeat behaviors that are reinforcing (aligned with deeper purpose), not just those that are rewarding (pleasurable).
 - `INS-260330-2D6D` Nakamura explicitly credited being shunned by PhD colleagues as the source of his 'fighting spirit' that sustained years of grueling daily work.
 - `INS-260326-4164` 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.
+- `INS-260322-E22A` When a colleague's casual remark about her 'declining directing skills' triggered depression, she channeled the resulting anger into accepting two simultaneously impossible K-pop MV projects — and won best MV awards for both.
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
 - `INS-260329-28B0` At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
@@ -80,5 +81,4 @@
 - `INS-260329-B4C8` Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260327-0E57` SMB: easy to motivate (direct access to power), hard to enable (limited resources). Enterprise: hard to motivate (risk-averse, slow, process-heavy), easier to enable once committed.
-- `INS-260322-E22A` When a colleague's casual remark about her 'declining directing skills' triggered depression, she channeled the resulting anger into accepting two simultaneously impossible K-pop MV projects — and won best MV awards for both.
 - `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.

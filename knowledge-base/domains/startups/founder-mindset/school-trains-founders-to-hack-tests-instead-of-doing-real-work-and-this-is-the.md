@@ -48,7 +48,6 @@ stance: >-
   rather than produce genuine value.
 related:
   - INS-260322-EF20
-  - INS-260323-1975
   - INS-260327-8C1C
   - INS-260327-D5B5
   - INS-260327-E992
@@ -57,6 +56,7 @@ related:
   - INS-260330-DE1D
   - INS-260330-52C7
   - INS-260330-F737
+  - INS-260403-7C88
 evidence:
   - id: INS-260330-F737
     type: SUPPORTS

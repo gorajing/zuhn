@@ -49,7 +49,7 @@ related:
   - INS-260403-7B04
   - INS-260327-77C7
   - INS-260327-A458
+  - INS-260403-93A5
   - INS-260325-A08A
-  - INS-260330-7251
 ---
 NFX argues that AI is unique in how quickly it reached the technology diffusion point. Genome sequencing costs took decades to plummet. EV battery costs dropped over years. But AI got the equivalent of the $200 battery or $100 genome sequence basically immediately — through open-source models, API access, and the literal ability to copy-paste code. This compression means the standard startup playbook of 'build something hard, enjoy a few years of technical moat, then worry about distribution' doesn't work. Founders needed to identify whether they were building a new industry on top of AI (door #1) or doubling down on brand differentiation (door #2) months ago. The ones who haven't recognized this transition are competing with a playbook designed for a slower commoditization cycle.

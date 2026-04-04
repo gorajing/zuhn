@@ -42,7 +42,6 @@ stance: >-
   customers actually want, because perfection is impossible without customer
   feedback.
 related:
-  - INS-260321-13EA
   - INS-260329-B0BA
   - INS-260330-1D9D
   - INS-260322-5650

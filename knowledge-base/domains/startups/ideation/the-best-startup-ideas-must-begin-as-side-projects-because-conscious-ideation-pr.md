@@ -55,7 +55,6 @@ stance: >-
   plausible-sounding, which is worse than obviously bad ideas because they waste
   more time before failing.
 related:
-  - INS-260321-6D01
   - INS-260327-42F0
   - INS-260402-EE6E
   - INS-260330-AB6E

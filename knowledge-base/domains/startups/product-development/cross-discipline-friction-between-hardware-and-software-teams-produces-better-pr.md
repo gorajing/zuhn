@@ -52,7 +52,6 @@ stance: >-
   productive friction that improves both disciplines when forced into shared
   decision-making
 related:
-  - INS-260322-B264
   - INS-260327-BB4A
   - INS-260329-7255
   - INS-260329-AA2C
@@ -62,6 +61,7 @@ related:
   - INS-260402-5242
   - INS-260403-6A69
   - INS-260403-E7E1
+  - INS-260403-0185
 evidence:
   - id: INS-260329-7255
     type: SUPPORTS

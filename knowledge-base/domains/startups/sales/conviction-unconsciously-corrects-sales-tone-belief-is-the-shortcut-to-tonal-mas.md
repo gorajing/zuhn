@@ -45,7 +45,6 @@ stance: >-
   A salesperson who genuinely believes in their product will unconsciously adopt
   the correct persuasive tone without explicit tonal training.
 related:
-  - INS-260327-4E36
   - INS-260329-EF96
   - INS-260329-100D
   - INS-260329-A80B

@@ -7,6 +7,7 @@
 - `INS-260321-9906` Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-B711` Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
+- `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - `INS-260329-579D` The limit operation is the conceptual bridge that transforms approximate finite calculations into exact infinite-process results.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260330-D7CD` Earth's rotation deflected a football field goal by a third of an inch — enough to change the outcome — proving that forces we dismiss as negligible can be decisive at the margin.

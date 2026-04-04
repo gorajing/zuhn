@@ -487,6 +487,7 @@ Generated on 2026-04-04 | 2421 sources
 | The SaaS Reset: Why the 10x ARR Club Is Now a Ghost Town | blog | 5 | 2026-03-30 |
 | The Second-Time Founder Effect: How Experience Shapes Startup Success | blog | 5 | 2026-03-30 |
 | The Secret Strategy of Stealth Startups | blog | 5 | 2026-03-30 |
+| The Sequoia Playbook: How VC Discipline Compounds Returns | blog | 5 | 2026-03-30 |
 | The Story of Replit: From Internet Cafes to AI Sovereignty | blog | 5 | 2026-03-30 |
 | The Submarine | blog | 5 | 2026-03-31 |
 | The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
@@ -780,12 +781,14 @@ Generated on 2026-04-04 | 2421 sources
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
 | 2020 Year in Review | blog | 4 | 2026-03-31 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 4 | 2026-03-30 |
+| 25 proven tactics to accelerate AI adoption at your company | blog | 4 | 2026-03-31 |
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
 | 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Innovative Business Pivots In The Age Of The Pandemic | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | 4 Stages of Go-To-Market Strategy | blog | 4 | 2026-03-30 |
+| 5 Common Mistakes to Avoid When Using the Value Proposition Canvas | blog | 4 | 2026-03-31 |
 | 5 Lean Startup Essentials to Reduce Risk and Uncertainty | blog | 4 | 2026-03-31 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 4 | 2026-03-31 |
@@ -795,9 +798,11 @@ Generated on 2026-04-04 | 2421 sources
 | A Local Revolution? | blog | 4 | 2026-03-31 |
 | A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 4 | 2026-03-31 |
+| Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 4 | 2026-03-30 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
 | ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 4 | 2026-03-30 |
+| AI Games Are Coming | blog | 4 | 2026-03-31 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
@@ -862,6 +867,7 @@ Generated on 2026-04-04 | 2421 sources
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
+| Putting Ideas into Words | blog | 4 | 2026-03-31 |
 | Quick Essay: A Short History of OpenAI  | blog | 4 | 2026-03-30 |
 | Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 4 | 2026-03-30 |
 | Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 4 | 2026-03-30 |
@@ -871,6 +877,7 @@ Generated on 2026-04-04 | 2421 sources
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 4 | 2026-03-30 |
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 4 | 2026-03-30 |
+| Six Principles for Making New Things | blog | 4 | 2026-03-31 |
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
 | Stablecoins Are Defense Tech | blog | 4 | 2026-03-31 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
@@ -893,6 +900,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 4 | 2026-03-30 |
+| The Reddits | blog | 4 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
@@ -1006,6 +1014,7 @@ Generated on 2026-04-04 | 2421 sources
 | Joscha Bach: Life, Intelligence, Consciousness, AI & the Future of Humans | Lex Fridman Podcast #392 | youtube | 4 | 2026-03-24 |
 | Keyu Jin: China's Economy, Tariffs, Trade, Trump, Communism & Capitalism | Lex Fridman Podcast #477 | youtube | 4 | 2026-03-24 |
 | Kim Jong-Un's New Strategy: Explained | youtube | 4 | 2026-03-30 |
+| Learn to Sell, Learn to Build | youtube | 4 | 2026-03-30 |
 | Levels of Wealth: Inside The Secret Lives of The Ultra-Rich | youtube | 4 | 2026-03-30 |
 | Marc Andreessen: Future of the Internet, Technology, and AI | Lex Fridman Podcast #386 | youtube | 4 | 2026-03-24 |
 | Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422 | youtube | 4 | 2026-03-24 |
@@ -1827,7 +1836,6 @@ Generated on 2026-04-04 | 2421 sources
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
 | 234 Tech European Conferences in 2025 | blog | 0 | 2026-03-30 |
-| 25 proven tactics to accelerate AI adoption at your company | blog | 0 | 2026-03-31 |
 | 2,500+ Angel Investors for AI & SaaS Startups | blog | 0 | 2026-03-30 |
 | 26 Pitch Decks That Raised $393M (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
 | 3 Activities To Encourage Dynamic Strategic Thinking | blog | 0 | 2026-03-31 |
@@ -1843,7 +1851,6 @@ Generated on 2026-04-04 | 2421 sources
 | $40K Mistake: Building Features Nobody Wanted | blog | 0 | 2026-03-30 |
 | $46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder) | blog | 0 | 2026-03-31 |
 | 5 Characteristics Of A Great Strategy Workshop Facilitator | blog | 0 | 2026-03-31 |
-| 5 Common Mistakes to Avoid When Using the Value Proposition Canvas | blog | 0 | 2026-03-31 |
 | 5 Forces Acting Upon Your Business Model | blog | 0 | 2026-03-31 |
 | 5 OpenClaw agents run my home, finances, and code | Jesse Genet | blog | 0 | 2026-03-31 |
 | 5 Questions You Never Dared to Ask About the Business Model Canvas | blog | 0 | 2026-03-31 |
@@ -1891,7 +1898,6 @@ Generated on 2026-04-04 | 2421 sources
 | a16z Raises$7.2bn💵, Optimal VC Portfolio Construction🧮, AI Index🤖 | blog | 0 | 2026-03-30 |
 | a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise Startup Funding | blog | 0 | 2026-03-30 |
 | Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 0 | 2026-03-31 |
-| Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 0 | 2026-03-30 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
 | Addressing the Legal & Compliance Challenge | blog | 0 | 2026-03-31 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
@@ -1903,7 +1909,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI Bubble📉, Canva acquires Leonardo AI🎨, How to Write Cold Emails✉️ | blog | 0 | 2026-03-30 |
 | AI Co-Pilots Every Startup & VC Needs in Their Toolbox 🛠️ | blog | 0 | 2026-03-30 |
 | AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 0 | 2026-03-30 |
-| AI Games Are Coming | blog | 0 | 2026-03-31 |
 | AI is changing the rules of the game in Go-to-Market 🔄 | blog | 0 | 2026-03-30 |
 | AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 0 | 2026-03-30 |
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
@@ -2191,7 +2196,6 @@ Generated on 2026-04-04 | 2421 sources
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
 | Programming Bottom-Up | blog | 0 | 2026-03-31 |
-| Putting Ideas into Words | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RAQs | blog | 0 | 2026-03-31 |
@@ -2218,7 +2222,6 @@ Generated on 2026-04-04 | 2421 sources
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
 | Shield AI Air Force Deal, Google's TurboQuant, and Meta's Brain-Predictive AI | blog | 0 | 2026-03-30 |
 | Short Dive: The Trump Administration's Fiscal Strategy | blog | 0 | 2026-03-30 |
-| Six Principles for Making New Things | blog | 0 | 2026-03-31 |
 | Smaller Funds Outperform📈, When Machines Learn to Speak🗣️, Venture Trends Q1 2025📊 | blog | 0 | 2026-03-30 |
 | Snapshot: Viaweb, June 1998 | blog | 0 | 2026-03-31 |
 | Software with a Soul: AI's Underestimated Frontier | blog | 0 | 2026-03-31 |
@@ -2288,7 +2291,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Python Paradox | blog | 0 | 2026-03-31 |
 | The Race for AI Supremacy is Over🏁, State of VC and Its Impact on DPI📉, SaaS VC Trends☁️ | blog | 0 | 2026-03-30 |
 | The Real Reason to End the Death Penalty | blog | 0 | 2026-03-31 |
-| The Reddits | blog | 0 | 2026-03-31 |
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 0 | 2026-03-30 |
 | The Rise of the AI Underground | blog | 0 | 2026-03-31 |
 | The Risk of Discovery | blog | 0 | 2026-03-31 |
@@ -2296,7 +2298,6 @@ Generated on 2026-04-04 | 2421 sources
 | The SaaS Financial Model Most Founders Get Wrong | blog | 0 | 2026-03-30 |
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
 | The Secrets of Stealth Startups 🔒🤐 | blog | 0 | 2026-03-30 |
-| The Sequoia Playbook: How VC Discipline Compounds Returns | blog | 0 | 2026-03-30 |
 | The Shape of the Essay Field | blog | 0 | 2026-03-31 |
 | The shape of the multipolar world is a little clearer | blog | 0 | 2026-03-30 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
@@ -2406,7 +2407,6 @@ Generated on 2026-04-04 | 2421 sources
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Learn to Sell, Learn to Build | youtube | 0 | 2026-03-30 |
 | Making Money Isn't About Luck | youtube | 0 | 2026-03-30 |
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |

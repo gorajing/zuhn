@@ -47,14 +47,13 @@ resolutions:
     them excellently, then expand. Stated interest is noise; credit card
     willingness is signal.
 related:
+  - INS-260403-93A5
   - PRI-260328-1D90
   - INS-260330-C24F
   - INS-260322-06EA
   - PRI-260328-0C15
-  - INS-260327-735A
   - INS-260327-9610
   - INS-260327-978B
-  - INS-260330-410A
 stance: >-
   Rella tried to serve everyone on social media, built a confused Frankenstein
   product, nearly died

@@ -47,10 +47,10 @@ stance: >-
   the other.
 related:
   - INS-260327-5CB6
+  - INS-260403-EA34
   - INS-260330-F22A
   - INS-260327-3930
   - PRI-260323-7B35
-  - INS-260330-8FEC
 ---
 The biotech industry oscillates between favoring platform companies (west coast) and asset-focused companies (east coast), but this is a false dichotomy. The winning strategy is a symbiotic loop: build platform IP that generates many potential assets, license or partner on most of them for non-dilutive revenue, and funnel that revenue into developing your strongest lead asset toward the clinic.
 

@@ -27,6 +27,7 @@
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
+- `INS-260403-1D43` Incumbent game studios will use AI to cut costs and add depth to existing formats, but category-defining breakthroughs require AI-native thinking from new entrants.
 - `INS-260324-8656` GoPro launched 9 generations and 20 models in 10 years, flooding the market with trivial improvements — Insta360 stayed quietly product-first with soft-spoken founders and grew to a $10B valuation.
 - `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260322-F6AA` Industries whose profitability depends on making processes boring, difficult, and time-consuming are most vulnerable to LLM disruption — and many don't realize this is their actual business model.
@@ -40,9 +41,9 @@
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
 - `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
-- `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
+- `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
