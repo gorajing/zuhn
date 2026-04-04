@@ -52,8 +52,8 @@ related:
   - INS-260403-160A
   - INS-260403-1217
   - INS-260403-D543
-  - INS-260403-CF7C
   - INS-260403-DB16
+  - INS-260402-8424
 ---
 Graham frames YC's emergence through biological analogy: when a new ecological niche opens, a new species evolves to fill it rather than existing species simply shrinking. The dramatic reduction in web startup costs (to ~$15K) created a funding gap too small for VCs to address efficiently but large enough to support a new institutional form.
 

@@ -49,8 +49,8 @@ related:
   - INS-260329-8386
   - INS-260323-8893
   - INS-260403-4423
+  - INS-260403-A57D
   - INS-260330-5036
-  - INS-260330-9751
 ---
 Paul Graham argues that the ratio of help to money in venture funding follows a scaling law analogous to surface-area-to-volume in biology. Late-stage investors provide massive capital with comparatively little guidance, while the earliest-stage investors provide almost no capital but intensive operational help. This is because early founders face existential questions — what to build, who should be a cofounder, what to focus on — that money alone cannot answer.
 

@@ -52,7 +52,6 @@ related:
   - INS-260330-4E10
   - INS-260330-B906
   - INS-260402-C13F
-  - INS-260403-7C47
 evidence:
   - id: INS-260330-B906
     type: TRANSFERS_TO

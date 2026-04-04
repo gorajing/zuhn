@@ -50,7 +50,7 @@ related:
   - INS-260403-EA2C
   - INS-260329-B6A6
   - INS-260330-2F74
-  - INS-260325-C523
+  - INS-260403-A6B1
 ---
 Graham draws an analogy to installment plans: advertising low monthly payments obscures a higher total cost. Similarly, languages that optimize for readability-per-line (like Basic or Python) make each line approachable, but the total reading effort (effort-per-line × number-of-lines) is higher because programs are longer. Math notation makes the same tradeoff — a single page of math takes 30 minutes to read, but expressing those ideas in prose would fill a book.
 

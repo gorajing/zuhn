@@ -51,7 +51,7 @@ related:
   - INS-260323-9492
   - PRI-260328-C581
   - INS-260321-9A03
+  - INS-260403-1269
   - INS-260325-95A6
-  - INS-260322-3D21
 ---
 MIT found a fundamental tension: over 90% of workers report using personal AI tools (ChatGPT, etc.) independently, even as corporate AI adoption remains low. This creates a dangerous feedback loop for enterprise AI vendors — employees who experience good consumer AI daily become increasingly intolerant of static, contextless enterprise tools. 60% of organizations evaluated enterprise AI tools, but only 20% reached pilot and just 5% reached production. One CIO captured it: 'We have seen dozens of demos this year. Maybe one or two are genuinely useful. The rest are wrappers or science projects.' The demand signal is real — it is the supply that fails to meet the bar employees have already internalized from consumer AI.

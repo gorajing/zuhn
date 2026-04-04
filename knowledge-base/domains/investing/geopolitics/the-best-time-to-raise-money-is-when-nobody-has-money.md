@@ -45,8 +45,8 @@ related:
   - INS-260322-9DDD
   - INS-260322-0C91
   - INS-260327-33E0
+  - INS-260403-A57D
   - INS-260328-A417
-  - INS-260330-B6FA
 stance: >-
   a16z was criticized for raising their first fund in 2009 during the financial
   crisis, but it turned out that raising when nobody else has capital g...

@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 174 insights
+> 175 insights
 
 - `INS-260329-913C` [high] Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days.
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
@@ -19,6 +19,7 @@
 - `INS-260327-BEB1` [high] In the SaaS era you rent services rather than sell products, which means every function — sales, marketing, product, CS — must be accountable to the same customer outcomes, and silo-protecting leaders are organizational cancers.
 - `INS-260327-4E28` [high] With typical B2B conversion rates (50% open, 10% reply, 25% to demo, 10% to customer), you need approximately 800 cold emails per customer -- plan for 50+ emails per day.
 - `INS-260327-FA43` [high] Competition isn't just your rival vendor — it's the CIO who wants to build it internally, the adjacent solution competing for the same budget, the 'do nothing' option, and inertia (Whyte's least favorite because it means you haven't qualified well enough).
+- `INS-260403-D49E` [high] Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260330-6611` [high] Build a product that sells itself, then hire salespeople anyway — they serve different functions.
 - `INS-260330-24A5` [high] Build products that spread through individual users but hire consultative salespeople to help enterprises navigate adoption — viral growth and sales are complementary.
 - `INS-260330-B8C5` [high] Instead of free trials, offer annual agreements with a 30-60 day opt-out clause to get real commitment while giving prospects comfort.

@@ -50,7 +50,6 @@ related:
   - INS-260403-1CC5
   - INS-260322-A36C
   - INS-260329-3FA6
-  - INS-260403-D022
 evidence:
   - id: INS-260322-A36C
     type: TRANSFERS_TO

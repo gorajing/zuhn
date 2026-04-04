@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 98 insights
+> 99 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -95,6 +95,7 @@
 - `INS-260329-1739` [medium] Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
 - `INS-260403-C228` [medium] A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260328-372B` [medium] Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.
+- `INS-260403-45AA` [medium] Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.
 - `INS-260329-DFD1` [medium] TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.
 - `INS-260403-99D1` [medium] Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
 - `INS-260403-4CE7` [medium] Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.

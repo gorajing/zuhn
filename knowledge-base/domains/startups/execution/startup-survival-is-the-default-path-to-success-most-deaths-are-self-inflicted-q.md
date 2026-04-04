@@ -55,6 +55,7 @@ related:
   - PRI-260403-26B9
   - INS-260403-57FF
   - INS-260403-87CF
+  - INS-260403-30E5
 ---
 Paul Graham observes that startups rarely die 'in mid keystroke' — actively shipping features and closing deals. Instead, they quietly crawl off and die when founders become demoralized. The implication is profound: if survival itself is the bottleneck, then the meta-strategy of simply refusing to quit dominates all tactical advice about product, market, or fundraising.
 

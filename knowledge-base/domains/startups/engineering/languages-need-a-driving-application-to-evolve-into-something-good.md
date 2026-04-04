@@ -54,6 +54,7 @@ related:
   - INS-260402-9676
   - INS-260403-A5B8
   - INS-260329-EDA2
+  - INS-260403-1269
 ---
 Graham notes that the best programming languages all evolved together with some application they were being used to write: C for systems programming, Lisp for symbolic differentiation. The application provides constant, concrete feedback that prevents the design from drifting into theoretical elegance disconnected from real needs.
 

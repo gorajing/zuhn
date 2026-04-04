@@ -58,6 +58,7 @@ related:
   - INS-260402-CCC3
   - PRI-260323-0F93
   - PRI-260403-57EC
+  - INS-260403-1034
 ---
 New Story's framework for managing radical innovation is instructive: be highly selective about which 'crazy until it's not' ideas to pursue, ensure none would sink the organization if it fails, and commit fully to the ones you choose. They applied this to 3D-printed homes — allocating significant capital despite widespread skepticism, but not betting the entire organization on it.
 

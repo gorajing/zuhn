@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3296 actionable insights
+Generated on 2026-04-04 | 3302 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -927,6 +927,8 @@ Generated on 2026-04-04 | 3296 actionable insights
 - [INS-260402-A693] Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - [INS-260402-12D0] Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
 - [INS-260403-A408] Step beyond asking 'is this true?' to asking 'why is this topic being written about at all?' — the selection of subject matter is itself a form of manipulation.
+- [INS-260403-951B] Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
+- [INS-260403-A6B1] Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -2205,6 +2207,7 @@ Generated on 2026-04-04 | 3296 actionable insights
 - [INS-260403-9A4C] Most startups die from giving up, not from insurmountable external forces.
 - [INS-260403-566D] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
 - [INS-260403-3835] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
+- [INS-260403-30E5] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2513,6 +2516,7 @@ Generated on 2026-04-04 | 3296 actionable insights
 - [INS-260403-5C8E] Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - [INS-260403-9679] Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - [INS-260403-39F9] Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
+- [INS-260403-A57D] Expecting to raise more money makes startups slack on profitability, which makes raising money harder.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3243,6 +3247,7 @@ Generated on 2026-04-04 | 3296 actionable insights
 - [INS-260330-6611] Build a product that sells itself, then hire salespeople anyway — they serve different functions.
 - [INS-260330-EEA9] Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
 - [INS-260403-7E7C] Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
+- [INS-260403-D49E] Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 
 ## startups/scaling
 - [INS-260322-F46F] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
@@ -3467,6 +3472,7 @@ Generated on 2026-04-04 | 3296 actionable insights
 - [INS-260403-832E] Company launch and product launch are distinct events, and conflating them causes founders to delay fundraising unnecessarily.
 - [INS-260403-B635] Having a few users who truly love your product matters infinitely more than having many indifferent users.
 - [INS-260403-8CE6] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
+- [INS-260403-45AA] Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

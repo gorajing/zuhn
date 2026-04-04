@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 195 insights
+> 196 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -78,6 +78,7 @@
 - `INS-260327-24F4` [high] Zero failures means you're not placing enough bets at the frontier.
 - `INS-260327-7FDA` [high] If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
 - `INS-260326-C657` [high] Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
+- `INS-260403-30E5` [high] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
 - `INS-260329-6020` [high] After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260403-EFAF` [high] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.

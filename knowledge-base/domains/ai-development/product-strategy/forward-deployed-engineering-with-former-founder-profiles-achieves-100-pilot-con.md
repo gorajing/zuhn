@@ -56,7 +56,7 @@ related:
   - INS-260320-D4BD
   - PRI-260328-935A
   - PRI-260328-FD47
-  - PRI-260328-6A8D
+  - INS-260403-30E5
   - INS-260327-CED9
 ---
 Cuffe's forward-deployed engineering model comes from Retool and Palantir. The critical profile: former founders — engineers who want to be commercial, or commercial people who are technical. The key differentiator from typical customer success is that these engineers can both work inside the product with customers AND ship code directly into the core codebase. When they encounter an issue with a customer, they don't create a ticket and pass it to someone else — they fix it immediately. This creates an extremely tight feedback loop: customer problem to code fix to production without handoffs. The flywheel compounds: deployment times decrease as FDEs push solutions back into the platform, making each subsequent deployment higher-leverage. Cuffe emphasizes that 80% of Pace's team is engineering with FDE sitting on top — maintaining this ratio prevents the FDE team from becoming disconnected from product investment.

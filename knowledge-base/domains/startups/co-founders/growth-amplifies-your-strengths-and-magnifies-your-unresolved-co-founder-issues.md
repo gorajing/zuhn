@@ -51,7 +51,6 @@ related:
   - INS-260327-8F76
   - INS-260330-DC22
   - INS-260323-0683
-  - INS-260330-3138
 evidence:
   - id: INS-260330-3138
     type: SUPPORTS

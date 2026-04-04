@@ -15,5 +15,5 @@
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
 - `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
 - `INS-260402-0F36` The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
-- `INS-260328-9C16` Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
 - `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
+- `INS-260328-9C16` Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.

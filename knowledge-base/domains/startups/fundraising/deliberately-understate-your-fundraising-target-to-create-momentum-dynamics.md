@@ -41,10 +41,10 @@ stance: >-
   raise more total money because reaching milestones faster creates social proof
   and urgency.
 related:
+  - INS-260403-A57D
   - INS-260329-9F8D
   - PRI-260403-26B9
   - INS-260326-870E
   - INS-260329-CB2C
-  - INS-260322-A31D
 ---
 Graham uses the angle-of-attack metaphor from aviation: aim too steep and you stall. If you say you're raising $250k when you want $500k, you're 'more than half done' at $150k, which signals momentum and creates urgency for undecided investors. Conversely, saying $500k makes $150k look like a slow start, which reads as failure. The key insight is that understating your target has almost no downside — it doesn't cap your raise, and most successful startups end up raising more than originally stated. This exploits the herd psychology of investors, where each commitment makes the next easier.

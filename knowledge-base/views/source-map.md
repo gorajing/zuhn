@@ -400,6 +400,7 @@ Generated on 2026-04-04 | 2421 sources
 | San Francisco's urban revival is in danger | blog | 5 | 2026-03-30 |
 | Save us, Digital Cronkite! | blog | 5 | 2026-03-30 |
 | See New Marketplaces Where Others See Crowds: The Inside Story of A.Team | blog | 5 | 2026-03-31 |
+| Seed Strapping: A Smarter Startup Funding Strategy | blog | 5 | 2026-03-30 |
 | SEIU Delenda Est | blog | 5 | 2026-03-30 |
 | Series A & B Cap Table Guide + Free Excel Template | blog | 5 | 2026-03-30 |
 | Slightly Against The "Other People's Money" Argument Against Aid | blog | 5 | 2026-03-30 |
@@ -431,6 +432,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The economic consequences of the Iran war | blog | 5 | 2026-03-30 |
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
+| The Fatal Pinch | blog | 5 | 2026-03-31 |
 | The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
 | The Future of Startup Funding | blog | 5 | 2026-03-31 |
 | The Future of Web Startups | blog | 5 | 2026-03-31 |
@@ -487,6 +489,7 @@ Generated on 2026-04-04 | 2421 sources
 | What I've Learned from Users | blog | 5 | 2026-03-31 |
 | What Startups Are Really Like | blog | 5 | 2026-03-31 |
 | What the Bubble Got Right | blog | 5 | 2026-03-31 |
+| What Venture Capitalists Look for in Startups | blog | 5 | 2026-03-30 |
 | What You Can't Say | blog | 5 | 2026-03-31 |
 | What You'll Wish You'd Known | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
@@ -733,13 +736,16 @@ Generated on 2026-04-04 | 2421 sources
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
+| 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
+| A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
+| Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
@@ -749,6 +755,7 @@ Generated on 2026-04-04 | 2421 sources
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
+| Good Writing | blog | 4 | 2026-03-31 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
@@ -767,6 +774,7 @@ Generated on 2026-04-04 | 2421 sources
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
+| Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 4 | 2026-03-30 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
@@ -779,6 +787,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
+| The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 4 | 2026-03-31 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
@@ -1674,7 +1683,6 @@ Generated on 2026-04-04 | 2421 sources
 | 14 Essential Links For Working With The Business Model Canvas | blog | 0 | 2026-03-31 |
 | 14 habits of highly effective product managers | blog | 0 | 2026-03-31 |
 | 144 Family Offices That Cut Pre-Seed Checks | blog | 0 | 2026-03-30 |
-| 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 0 | 2026-03-30 |
 | 15,000+ VCs, Angels & The Glassdoor of Venture Capital | blog | 0 | 2026-03-30 |
 | 153 Startups Fundraising Right Now (and Their Decks) | blog | 0 | 2026-03-30 |
 | $1.5T Bet On America, Google's AI Biology Breakthrough, And More. | blog | 0 | 2026-03-30 |
@@ -1730,7 +1738,6 @@ Generated on 2026-04-04 | 2421 sources
 | 9 Ways To Make The Business Model Canvas Part Of Your DNA | blog | 0 | 2026-03-31 |
 | A 3-step AI coding workflow for solo founders | Ryan Carson (5x founder) | blog | 0 | 2026-03-31 |
 | A 4-step framework for building delightful products | Nesrine Changuel (Spotify, Google, Skype) | blog | 0 | 2026-03-31 |
-| A Buddhist Sun Miracle? | blog | 0 | 2026-03-30 |
 | A builder’s guide to living a long and healthy life | blog | 0 | 2026-03-31 |
 | A Collection of the Best 89 VC and Founder Essays  | blog | 0 | 2026-03-30 |
 | A Conversation with JCal about the Evolution of Media | blog | 0 | 2026-03-30 |
@@ -1826,7 +1833,6 @@ Generated on 2026-04-04 | 2421 sources
 | Apple Business Model | blog | 0 | 2026-03-31 |
 | Apple Pay: An Obvious Value Proposition | blog | 0 | 2026-03-31 |
 | Apple Pay’s Uncopyable Business Model Delivers What Nobody Else Could | blog | 0 | 2026-03-31 |
-| Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 0 | 2026-03-30 |
 | April Dunford on product positioning, segmentation, and optimizing your sales process | blog | 0 | 2026-03-31 |
 | Are Gains the Opposite of Pains? | blog | 0 | 2026-03-31 |
 | ARM Business Model | blog | 0 | 2026-03-31 |
@@ -2003,7 +2009,6 @@ Generated on 2026-04-04 | 2421 sources
 | Global AI Adoption📊, SaaS Multiples Compress📉, How People Use ChatGPT💬 | blog | 0 | 2026-03-30 |
 | Global Ranking of the Most Valuable Private Startups in 2025 | blog | 0 | 2026-03-30 |
 | Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 0 | 2026-03-30 |
-| Good Writing | blog | 0 | 2026-03-31 |
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
 | GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
@@ -2123,7 +2128,6 @@ Generated on 2026-04-04 | 2421 sources
 | Putting Ideas into Words | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
 | Quick Essay: A Short History of OpenAI  | blog | 0 | 2026-03-30 |
-| Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 0 | 2026-03-30 |
 | Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RAQs | blog | 0 | 2026-03-31 |
@@ -2147,7 +2151,6 @@ Generated on 2026-04-04 | 2421 sources
 | Schlep Blindness | blog | 0 | 2026-03-31 |
 | See Randomness | blog | 0 | 2026-03-31 |
 | Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 0 | 2026-03-30 |
-| Seed Strapping: A Smarter Startup Funding Strategy | blog | 0 | 2026-03-30 |
 | Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 0 | 2026-03-30 |
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 0 | 2026-03-30 |
@@ -2215,7 +2218,6 @@ Generated on 2026-04-04 | 2421 sources
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 0 | 2026-03-30 |
 | The Equity Equation | blog | 0 | 2026-03-31 |
 | The Fall of the Nerds | blog | 0 | 2026-03-30 |
-| The Fatal Pinch | blog | 0 | 2026-03-31 |
 | The First On-Chain Yield Engine Bringing Institutional Yield Opportunities to Everyday Investors | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Founders Fund Story🔥, YC Investing Patterns📊, AI in the Enterprise🔍 | blog | 0 | 2026-03-30 |
@@ -2260,7 +2262,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Shape of the Essay Field | blog | 0 | 2026-03-31 |
 | The shape of the multipolar world is a little clearer | blog | 0 | 2026-03-30 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
-| The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 0 | 2026-03-31 |
 | The Top Idea in Your Mind | blog | 0 | 2026-03-31 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |
 | The Trouble with the Segway | blog | 0 | 2026-03-31 |
@@ -2324,7 +2325,6 @@ Generated on 2026-04-04 | 2421 sources
 | What to Do | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
 | What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook | blog | 0 | 2026-03-30 |
-| What Venture Capitalists Look for in Startups | blog | 0 | 2026-03-30 |
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 0 | 2026-03-31 |
 | What We Look for in Founders | blog | 0 | 2026-03-31 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |

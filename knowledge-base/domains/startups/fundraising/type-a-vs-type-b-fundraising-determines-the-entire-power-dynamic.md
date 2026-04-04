@@ -44,11 +44,12 @@ stance: >-
   and most failed fundraises happen because founders do Type B while expecting
   Type A treatment.
 related:
-  - INS-260330-B6FA
   - INS-260330-404B
   - INS-260330-7346
   - INS-260402-2E19
+  - INS-260330-B6FA
   - INS-260328-D220
+  - INS-260403-A57D
   - PRI-260403-26B9
   - INS-260402-E522
 ---

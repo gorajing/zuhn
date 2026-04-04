@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 24 insights
+> 25 insights
 
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
@@ -19,6 +19,7 @@
 - `INS-260330-4605` [high] The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
 - `INS-260402-D0F2` [high] Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260330-ABBF` [medium] Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
+- `INS-260403-4CF9` [medium] Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260330-6A3A` [medium] The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260330-A1AF` [medium] Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
