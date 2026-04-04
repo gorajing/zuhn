@@ -56,7 +56,6 @@ related:
   - INS-260330-3037
   - INS-260330-21A8
   - INS-260330-F2B6
-  - INS-260330-3C3C
   - PRI-260403-70D0
 evidence:
   - id: INS-260330-100F

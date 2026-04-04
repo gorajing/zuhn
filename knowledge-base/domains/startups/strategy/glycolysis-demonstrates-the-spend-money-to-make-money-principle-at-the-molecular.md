@@ -50,11 +50,11 @@ stance: >-
   willingness to invest before seeing returns is what separates productive
   systems from stagnant ones.
 related:
-  - INS-260330-1298
   - INS-260330-EBFD
   - INS-260330-E068
+  - INS-260403-5648
+  - INS-260330-1298
   - INS-260330-47CF
-  - INS-260330-8C52
   - INS-260330-696D
 evidence:
   - id: INS-260330-E068

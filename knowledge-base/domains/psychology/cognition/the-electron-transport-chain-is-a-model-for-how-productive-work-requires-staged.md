@@ -53,7 +53,6 @@ stance: >-
   reactions rather than single large ones, and human productivity follows the
   same thermodynamic logic
 related:
-  - INS-260330-CA62
   - INS-260330-3082
   - INS-260330-5C36
   - INS-260330-85D7

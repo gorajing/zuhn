@@ -55,7 +55,6 @@ stance: >-
   is the concentration gradient: value is stored not in absolute quantity but in
   maintained asymmetry across a boundary.
 related:
-  - INS-260330-972B
   - INS-260330-9FAA
   - INS-260330-7E39
   - INS-260330-49E9

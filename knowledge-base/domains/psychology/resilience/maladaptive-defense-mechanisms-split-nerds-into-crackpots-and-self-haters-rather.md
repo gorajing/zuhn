@@ -56,11 +56,11 @@ stance: >-
   the crackpot nerd and the self-hating nerd respectively, while healthy
   acceptance produces actual contributions.
 related:
-  - PRI-260323-400D
   - INS-260327-BEC7
   - INS-260329-640C
+  - PRI-260323-400D
   - INS-260323-F853
-  - INS-260330-B5D6
+  - INS-260403-FF74
 evidence:
   - id: INS-260327-BEC7
     type: TRANSFERS_TO

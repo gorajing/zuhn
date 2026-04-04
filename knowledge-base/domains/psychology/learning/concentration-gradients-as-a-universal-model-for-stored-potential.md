@@ -51,8 +51,8 @@ related:
   - INS-260330-972B
   - INS-260330-49E9
   - INS-260403-384C
+  - INS-260403-0429
   - INS-260330-7E39
-  - INS-260330-7FF3
 ---
 In photosynthesis, the thylakoid membrane pumps protons to one side, creating a concentration gradient. When protons flow back through ATP synthase, that stored potential converts into usable energy (ATP). The membrane's role is critical — without it maintaining the gradient, the energy dissipates uselessly.
 

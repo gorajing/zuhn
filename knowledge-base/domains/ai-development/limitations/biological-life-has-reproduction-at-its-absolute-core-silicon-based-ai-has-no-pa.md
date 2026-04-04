@@ -54,9 +54,9 @@ resolutions:
 related:
   - INS-260325-0E70
   - INS-260330-56D6
+  - INS-260403-2457
   - INS-260330-8538
   - INS-260330-EB48
-  - PRI-260323-A05E
 stance: >-
   The biological stack starts with reproduction at the cellular level; the
   silicon stack has no reproduction capability at all

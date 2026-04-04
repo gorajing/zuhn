@@ -42,10 +42,10 @@ stance: >-
   physical intuition than the common 'disorder' metaphor
 related:
   - INS-260330-B38B
+  - INS-260403-0429
   - INS-260403-172E
   - INS-260327-9DB0
   - PRI-260403-70D0
-  - INS-260330-F671
   - INS-260330-AB3E
 evidence:
   - id: INS-260327-9DB0

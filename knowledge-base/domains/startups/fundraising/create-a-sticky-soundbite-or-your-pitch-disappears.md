@@ -54,7 +54,7 @@ related:
   - INS-260403-FE37
   - INS-260403-2A1D
   - INS-260403-B3A4
-  - INS-260403-D375
+  - INS-260403-941F
   - INS-260403-2204
 ---
 Graham observes that after hearing enough pitches, investors experience a blur effect where companies become indistinguishable. The first cut in fundraising isn't impressing investors — it's simply being one of the startups they remember afterward. The Hollywood formula ('X meets Y') translates to startups as 'the X of Y' — Viaweb was 'the Microsoft Word of ecommerce.'

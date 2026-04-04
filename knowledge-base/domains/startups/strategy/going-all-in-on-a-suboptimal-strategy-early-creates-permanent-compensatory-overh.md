@@ -62,7 +62,6 @@ related:
   - INS-260403-D482
   - INS-260330-CC30
   - INS-260330-EB1B
-  - INS-260330-4983
   - INS-260330-CEAE
 evidence:
   - id: INS-260330-CC30

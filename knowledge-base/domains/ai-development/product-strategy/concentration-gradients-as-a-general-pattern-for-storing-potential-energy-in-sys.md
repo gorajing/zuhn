@@ -49,10 +49,10 @@ stance: >-
   channels to do useful work.
 related:
   - PRI-260403-6E50
+  - INS-260403-0429
   - INS-260330-3037
   - INS-260330-3C3C
   - INS-260330-49E9
   - INS-260403-099C
-  - PRI-260403-70D0
 ---
 In photosynthesis, the thylakoid membrane is 'charged like a battery' by pumping protons to one side, creating a concentration gradient. This stored potential energy is then released through ATP synthase in a controlled way to do useful work. This gradient pattern appears across domains: in product launches, building anticipation (concentration of attention) before a controlled release drives conversion. In marketplaces, concentrating supply or demand on one side before opening the valve creates network effects. In AI systems, accumulating context and embeddings creates information gradients that power retrieval and generation. The key insight is that the membrane — the barrier that maintains the gradient — is as important as the energy source itself. Without controlled release through specific channels, the stored energy dissipates uselessly.

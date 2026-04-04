@@ -1,11 +1,12 @@
 # Topic: competitive-strategy
 
-> 419 insights
+> 420 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
 - `INS-260327-432E` [high] Start with a niche so small that big companies won't bother, then expand from strength.
 - `INS-260327-E093` [high] As a 19-year-old dropout with no credibility, he offered advertisers performance-based pricing — absorbing all risk — and grew to $150M ARR in 4 years.
+- `INS-260403-F52E` [high] RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260330-0871` [high] Facebook's $1B Instagram acquisition — mocked as absurd for an 18-month-old app with zero revenue — generated $24B/year by 2019 and eliminated its top competitor.
 - `INS-260330-0317` [high] Facebook bought WhatsApp for $19B not for its $1.2M revenue but to prevent Google from acquiring it and to absorb its 1B+ user base into the Facebook data ecosystem.
 - `INS-260323-960A` [high] The activist investor playbook — identify underperformance, build external credibility, assemble a coalition, and force accountability — is a universal framework for organizational change.

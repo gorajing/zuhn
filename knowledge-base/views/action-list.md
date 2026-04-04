@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3246 actionable insights
+Generated on 2026-04-04 | 3252 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1021,6 +1021,7 @@ Generated on 2026-04-04 | 3246 actionable insights
 - [INS-260403-0479] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - [INS-260403-4363] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - [INS-260403-37D9] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
+- [INS-260403-7586] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1249,6 +1250,7 @@ Generated on 2026-04-04 | 3246 actionable insights
 - [INS-260403-76C3] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - [INS-260403-DB0A] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
 - [INS-260403-97D6] Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
+- [INS-260403-FF74] Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -1528,6 +1530,7 @@ Generated on 2026-04-04 | 3246 actionable insights
 - [INS-260403-915E] Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - [INS-260403-B505] Never explicitly claim passion or greatness — audiences ignore or penalize it, but absorb the same message when conveyed implicitly through behavior and specifics.
 - [INS-260403-1B2D] Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.
+- [INS-260403-941F] Create a single sticky phrase like 'the X of Y' that anchors you in evaluators' minds — if you can't compress your startup into one phrase, your plans aren't focused enough.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2478,6 +2481,9 @@ Generated on 2026-04-04 | 3246 actionable insights
 - [INS-260403-B3A4] Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - [INS-260403-E393] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - [INS-260403-B7B7] Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
+- [INS-260403-6620] Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
+- [INS-260403-EE70] Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.
+- [INS-260403-035A] Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

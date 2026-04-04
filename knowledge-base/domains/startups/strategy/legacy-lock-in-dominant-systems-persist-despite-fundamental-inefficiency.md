@@ -50,7 +50,6 @@ stance: >-
   inefficiency.
 related:
   - INS-260330-8D0C
-  - INS-260330-56D6
   - INS-260330-3EE4
   - INS-260330-53A9
   - INS-260330-54ED
@@ -59,6 +58,7 @@ related:
   - INS-260330-4983
   - INS-260403-D482
   - INS-260330-4489
+  - INS-260330-CC30
 evidence:
   - id: INS-260323-E559
     type: SUPPORTS

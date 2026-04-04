@@ -45,10 +45,10 @@ resolutions:
     debt.
 related:
   - INS-260327-32B8
+  - INS-260403-2457
   - INS-260324-62A8
   - INS-260327-CFD5
   - PRI-260328-D5EB
-  - INS-260330-B390
 stance: OpenAI started as a research lab with no product plans
 ---
 Altman describes how OpenAI began with no idea they'd build products, sell APIs, or need massive capital. As reality diverged from assumptions, they patched the organizational structure again and again — nonprofit to capped-profit to complex hybrid. Each patch was reasonable individually but created structural fragility.

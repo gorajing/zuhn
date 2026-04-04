@@ -53,12 +53,11 @@ stance: >-
   one-at-a-time investments cannot replicate.
 related:
   - INS-260322-9DDD
-  - INS-260323-B0EA
-  - INS-260327-EAB0
   - INS-260403-2759
   - INS-260330-3E6B
   - INS-260330-3FCF
   - INS-260403-5B46
+  - INS-260327-EAB0
   - INS-260403-DD41
 evidence:
   - id: INS-260327-EA4E
