@@ -24,6 +24,7 @@
 - `INS-260330-43CA` RuBisCo is a terrible enzyme that confuses O2 for CO2 half the time, yet 40 billion tons of it dominate Earth because plants went all-in before oxygen levels rose.
 - `INS-260404-60F4` Photosynthesis was inefficient from the start but dominated because it created the oxygen-rich atmosphere that made alternatives even harder.
 - `INS-260330-3897` Thiel calculated that 75% of PayPal's value in 2001 came from cash flows in 2011 and beyond — you want to be the last mover who wins the game, not the first mover who gets a one-third pawn advantage.
+- `INS-260404-D39F` RuBisCo is a terrible enzyme that won the planet because plants went all-in before oxygen made it obsolete, and now 40 billion tons of it persist because switching is harder than coping.
 - `INS-260403-262F` RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
 - `INS-260403-F68A` RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260330-B468` Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.

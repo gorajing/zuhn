@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 154 insights
+> 156 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -91,6 +91,7 @@
 - `INS-260330-F08F` [high] Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260323-5341` [high] Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
 - `INS-260403-7B60` [high] Palo Alto's rising costs pushed the active startup center toward Mountain View, a pattern that repeats in every tech hub.
+- `INS-260404-1F1B` [high] Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
 - `INS-260330-696D` [high] Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260404-1C01` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260404-E651` [high] Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.
@@ -114,6 +115,7 @@
 - `INS-260403-E1EB` [high] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.
 - `INS-260403-857E` [medium] Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
+- `INS-260404-ABB1` [medium] Costco's $21/hour average wage (double the retail average) produces 3x more productive employees, making generosity operationally rational.
 - `INS-260404-6A20` [medium] Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
 - `INS-260404-FF84` [medium] Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 - `INS-260403-43E5` [medium] Costco pays $21/hour (2x retail average) and gets 3x employee productivity, making generous wages a competitive advantage.

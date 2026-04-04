@@ -46,10 +46,10 @@ resolutions:
     than retail shelf space.
 related:
   - PRI-260324-7ED9
+  - INS-260404-B350
   - INS-260330-DC0D
   - INS-260403-F4CC
   - INS-260327-C75F
-  - INS-260404-1843
   - INS-260330-744E
   - INS-260403-5348
 stance: >-

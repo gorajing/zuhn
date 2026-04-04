@@ -58,7 +58,7 @@ related:
   - INS-260404-3E82
   - INS-260404-36D7
   - INS-260404-41AA
-  - INS-260404-7B3A
+  - INS-260404-AB9A
 ---
 Costco stocks only about 4,000 unique items compared to 30,000 at a typical supermarket and 140,000 at a Walmart Supercenter. This radical constraint creates a winner-take-all dynamic: suppliers compete intensely to be the one or two choices in each category, willingly lowering prices and adapting products to Costco's specifications. The result is a compounding flywheel—fewer SKUs means more volume per SKU, which means more leverage per negotiation, which means lower prices, which drives membership renewals.
 

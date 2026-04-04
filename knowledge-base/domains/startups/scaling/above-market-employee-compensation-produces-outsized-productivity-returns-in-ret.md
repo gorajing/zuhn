@@ -55,6 +55,7 @@ related:
   - INS-260403-8A80
   - INS-260403-5CB5
   - INS-260404-CEA8
+  - INS-260404-ABB1
 ---
 Costco pays an average of $21/hour—double the US retail average—plus better health insurance and retirement benefits. Rather than increasing costs, this investment produces employees who are three times more productive than the industry average. The company treats compensation as a strategic input to its low-cost model, not a line item to minimize.
 

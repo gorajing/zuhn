@@ -48,15 +48,15 @@ stance: >-
   actively displaces the things worth remembering
 related:
   - INS-260323-6351
-  - INS-260327-5B30
   - INS-260329-3BEE
   - INS-260330-1002
   - INS-260330-A954
-  - INS-260402-7FCC
   - INS-260403-600F
   - INS-260403-1852
   - INS-260403-3482
   - INS-260403-6A55
+  - INS-260404-5483
+  - INS-260404-40D1
 ---
 Paul Graham recounts a VC who invested in a company despite knowing their business model was wrong — because he expected it to be wrong at that stage, even from experienced founders. The business model is just guesses about stuff that probably isn't your expertise.
 

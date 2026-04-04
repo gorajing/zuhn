@@ -49,13 +49,13 @@ stance: >-
 related:
   - INS-260403-8013
   - INS-260404-F560
+  - INS-260404-D543
   - INS-260404-72EE
   - INS-260404-FE9F
   - INS-260404-0BB0
-  - INS-260404-C03F
   - INS-260403-39B0
   - INS-260403-F981
   - INS-260404-8AB9
-  - INS-260404-167D
+  - INS-260404-C03F
 ---
 Paul Graham identifies a calculus-like relationship between description breadth and communication power: the more general your pitch, the less it conveys. Founders resist narrow descriptions because early-stage products have many possible futures, but investors can't hold onto vague abstractions like 'collaboratively leverage the value of information.' The fix is incremental approximation—start with a gripping but perhaps overly narrow description, then flesh it out. This mirrors incremental development: at every point you have 'working code,' meaning a working mental model in the investor's head. The narrow-first approach also forces founders to confront whether they actually know what they're building.

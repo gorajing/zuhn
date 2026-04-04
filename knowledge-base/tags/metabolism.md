@@ -1,5 +1,6 @@
 # Tag: metabolism
 
+- `INS-260404-A1E2` Every calorie you eat traces back to a photon from solar fusion that was captured by chlorophyll and converted through the electron transport chain into chemical energy.
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260404-EFA8` The light-dependent reactions prove that virtually all life on Earth is fusion-powered, with photosynthesis as the critical conversion step from stellar to chemical energy.
 - `INS-260330-F2B6` Both photosynthesis and cellular respiration use the same trick: pump protons across a membrane to create a concentration gradient, then harvest that gradient through ATP synthase.

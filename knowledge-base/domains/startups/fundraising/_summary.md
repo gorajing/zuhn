@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 276 insights
+> 279 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -24,6 +24,7 @@
 - `INS-260403-C625` [high] Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260404-3214` [high] Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260404-B43A` [high] Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
+- `INS-260404-16E1` [high] Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - `INS-260404-8D69` [high] Early-stage business models are guesses outside your expertise — pitch the problem and product instead, since investors expect the model to change multiple times.
 - `INS-260403-DAB4` [high] Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - `INS-260404-BF04` [high] Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
@@ -169,6 +170,7 @@
 - `INS-260403-A0C4` [high] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-B274` [high] Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
+- `INS-260404-D543` [high] As your startup description approaches 'could be anything,' its information content approaches zero—start narrow and expand.
 - `INS-260403-D5F2` [high] Investors discard vague descriptions as boilerplate; narrow concrete ones give them a working mental model to build on.
 - `INS-260404-F20B` [high] Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.
 - `INS-260403-F3FF` [high] Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
@@ -203,6 +205,7 @@
 - `INS-260403-1034` [high] Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
 - `INS-260328-D26B` [high] The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
 - `INS-260403-ED1F` [high] Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
+- `INS-260404-3713` [high] Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 - `INS-260328-0C4C` [high] Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
 - `INS-260403-8D8D` [high] Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
 - `INS-260330-C8E1` [high] Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.

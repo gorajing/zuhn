@@ -35,6 +35,7 @@
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260404-3214` Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260404-B43A` Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
+- `INS-260404-16E1` Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - `INS-260404-8D69` Early-stage business models are guesses outside your expertise — pitch the problem and product instead, since investors expect the model to change multiple times.
 - `INS-260403-DAB4` Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - `INS-260404-BF04` Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
@@ -118,6 +119,7 @@
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-B274` Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
+- `INS-260404-D543` As your startup description approaches 'could be anything,' its information content approaches zero—start narrow and expand.
 - `INS-260403-D5F2` Investors discard vague descriptions as boilerplate; narrow concrete ones give them a working mental model to build on.
 - `INS-260404-F20B` Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.
 - `INS-260403-F3FF` Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
@@ -132,6 +134,7 @@
 - `INS-260403-30D8` Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - `INS-260403-3837` Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
+- `INS-260404-3713` Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 - `INS-260403-FC45` Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
 - `INS-260403-21C4` Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
@@ -153,3 +156,4 @@
 - `INS-260404-B01F` Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 - `INS-260403-C2CF` Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.
 - `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
+- `INS-260404-3D06` Tell stories about specific users and their problems rather than citing market sizes—investors fear you've built something nobody actually wants.

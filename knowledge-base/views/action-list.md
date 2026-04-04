@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3873 actionable insights
+Generated on 2026-04-04 | 3879 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1696,6 +1696,7 @@ Generated on 2026-04-04 | 3873 actionable insights
 - [INS-260404-5A3D] Realizing that selectors barely scrutinize you motivates more active self-presentation.
 - [INS-260404-5343] Explicit claims of passion or quality trigger audience skepticism, while implicit demonstration of those same qualities through confident behavior is the most powerful signal available.
 - [INS-260404-132E] Demonstrate demand by showing what people painfully do today with bad tools, not by citing market size numbers.
+- [INS-260404-0CD8] Never say 'we're passionate' or 'our product is great'—such messages must be implicit or audiences write you off as bullshitters.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2245,6 +2246,7 @@ Generated on 2026-04-04 | 3873 actionable insights
 - [INS-260404-CA58] Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - [INS-260404-462B] Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
 - [INS-260404-26AE] RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
+- [INS-260404-6E47] Costco's membership fee filters for affluent households averaging $100K income, ensuring high per-visit spending and loyal renewal behavior.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2927,6 +2929,9 @@ Generated on 2026-04-04 | 3873 actionable insights
 - [INS-260404-983E] At the early stage, pitch the problem and solution, not the business model — investors expect the model to be wrong anyway.
 - [INS-260404-103B] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - [INS-260404-873C] Describe your startup as a specific, graspable thing rather than an expansive vision statement.
+- [INS-260404-16E1] Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
+- [INS-260404-D543] As your startup description approaches 'could be anything,' its information content approaches zero—start narrow and expand.
+- [INS-260404-3713] Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -4047,6 +4052,7 @@ Generated on 2026-04-04 | 3873 actionable insights
 - [INS-260404-80AC] The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
 - [INS-260404-9E71] Investors' biggest early-stage fear is that you built something nobody wants — specific user stories and proxy-for-demand signals neutralize this more than market data.
 - [INS-260404-4E13] Test cards and learning cards formalize the experiment-learn loop into a repeatable validation system.
+- [INS-260404-3D06] Tell stories about specific users and their problems rather than citing market sizes—investors fear you've built something nobody actually wants.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

@@ -53,10 +53,10 @@ stance: >-
   cost of compensating for the original strategy's flaws.
 related:
   - INS-260403-1731
+  - INS-260404-D39F
   - INS-260330-6ECA
   - INS-260330-BFA2
   - INS-260403-262F
-  - INS-260330-11EB
   - INS-260330-5DFF
   - INS-260403-962E
 evidence:

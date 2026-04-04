@@ -60,6 +60,7 @@
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260404-3214` Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260404-B43A` Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
+- `INS-260404-16E1` Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - `INS-260404-8D69` Early-stage business models are guesses outside your expertise — pitch the problem and product instead, since investors expect the model to change multiple times.
 - `INS-260403-DAB4` Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - `INS-260404-BF04` Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.

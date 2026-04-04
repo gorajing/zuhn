@@ -48,7 +48,6 @@ stance: >-
   Organisms and organizations that go all-in on a good-enough approach and scale
   it massively will outcompete those waiting for an optimal solution
 related:
-  - INS-260330-43CA
   - INS-260330-7B11
   - INS-260330-68C8
   - INS-260404-16B0

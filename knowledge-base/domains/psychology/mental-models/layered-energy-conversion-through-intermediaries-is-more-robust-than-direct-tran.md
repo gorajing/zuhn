@@ -51,7 +51,6 @@ stance: >-
   Complex systems reliably convert resources by chaining multiple small lossy
   steps rather than attempting a single efficient leap.
 related:
-  - INS-260330-09F8
   - INS-260330-2C71
   - INS-260403-6F40
   - INS-260403-AC7A

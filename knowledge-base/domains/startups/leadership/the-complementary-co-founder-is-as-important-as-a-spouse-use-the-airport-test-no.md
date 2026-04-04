@@ -51,7 +51,6 @@ related:
   - INS-260325-57CA
   - INS-260404-DF8E
   - INS-260325-3B2A
-  - INS-260326-3CDE
   - INS-260330-8550
 stance: Finding a co-founder is as serious as choosing a spouse
 evidence:

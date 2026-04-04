@@ -4,6 +4,7 @@
 - `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
 - `INS-260330-6E5F` ATP synthase converts proton concentration gradients into chemical energy — the same barrier-and-gradient pattern appears in effective system architectures.
 - `INS-260330-EAA3` Controlled imbalances released through constrained channels are the universal pattern for converting raw energy into useful work.
+- `INS-260404-47BC` Chloroplasts charge thylakoids like batteries by pumping protons to one side of a membrane, then harvest energy as protons flow back through ATP synthase — a pattern that generalizes to any gradient across a barrier.
 - `INS-260404-037F` ATP synthase works by deliberately creating a proton imbalance across a membrane, then channeling the natural pressure to equalize through a single enzyme that captures the energy.
 - `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
 - `INS-260404-73DA` Chloroplasts charge thylakoids like batteries via proton concentration gradients — the same imbalance-as-stored-energy pattern appears in markets, learning, and attention.

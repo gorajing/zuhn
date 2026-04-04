@@ -19,6 +19,7 @@
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260404-CA58` Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
+- `INS-260404-6E47` Costco's membership fee filters for affluent households averaging $100K income, ensuring high per-visit spending and loyal renewal behavior.
 - `INS-260330-FCBC` Controlling access to essential inputs creates stronger lock-in than product quality.
 - `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.
 - `INS-260403-43B9` Competitors can copy products far more easily than they can replicate an entire business model ecosystem.

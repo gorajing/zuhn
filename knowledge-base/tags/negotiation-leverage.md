@@ -1,5 +1,6 @@
 # Tag: negotiation-leverage
 
+- `INS-260404-B350` Radical SKU reduction turns shelf space into a scarce resource that suppliers compete to access, granting the retailer outsized negotiating power.
 - `INS-260403-DC2D` Costco stocks ~4,000 items vs. Walmart's 140,000, making suppliers compete fiercely for the one or two slots per category.
 - `INS-260403-0DC2` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize products to win placement.
 - `INS-260403-887A` Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each shelf slot so valuable that suppliers compete on price and customization to win it.

@@ -55,7 +55,7 @@ related:
   - INS-260403-EDA2
   - INS-260404-3B9D
   - INS-260404-16B0
-  - INS-260403-3946
+  - INS-260404-D39F
 ---
 RuBisCo, the enzyme responsible for all carbon fixation in photosynthesis, is remarkably bad at its job — it confuses oxygen for CO2 roughly half the time, producing toxic byproducts plants must then clean up. Yet it became the universal standard because it was the first enzyme that could convert inorganic carbon to organic carbon, and early organisms simply made huge quantities of it to compensate for its inefficiency.
 

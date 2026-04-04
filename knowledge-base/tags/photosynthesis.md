@@ -1,6 +1,7 @@
 # Tag: photosynthesis
 
 - `INS-260325-6A2C` Life may use quantum tunneling and coherence in processes like photosynthesis — if so, studying biology could shortcut quantum engineering challenges.
+- `INS-260404-A1E2` Every calorie you eat traces back to a photon from solar fusion that was captured by chlorophyll and converted through the electron transport chain into chemical energy.
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-B061` PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth.
 - `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 530 insights
+> 533 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -27,6 +27,7 @@
 - `INS-260404-CA58` [high] Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - `INS-260327-0710` [high] Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260327-6B78` [high] Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
+- `INS-260404-6E47` [high] Costco's membership fee filters for affluent households averaging $100K income, ensuring high per-visit spending and loyal renewal behavior.
 - `INS-260330-D801` [high] Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
 - `INS-260330-FCBC` [high] Controlling access to essential inputs creates stronger lock-in than product quality.
 - `INS-260329-6D3B` [high] Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
@@ -114,6 +115,7 @@
 - `INS-260330-7DAA` [high] Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
 - `INS-260327-25D7` [high] Salesforce wasn't the first SaaS company, but by defining 'software is over' they became permanently associated with the cloud movement.
 - `INS-260403-5BAC` [high] Costco stocks only ~4,000 items vs 140,000 at Walmart, making suppliers compete fiercely for limited shelf space.
+- `INS-260404-B350` [high] Radical SKU reduction turns shelf space into a scarce resource that suppliers compete to access, granting the retailer outsized negotiating power.
 - `INS-260403-DC2D` [high] Costco stocks ~4,000 items vs. Walmart's 140,000, making suppliers compete fiercely for the one or two slots per category.
 - `INS-260403-AABF` [high] Self-imposed constraints compound into structural advantages because each constraint reinforces the others and makes the whole system harder to copy piecemeal.
 - `INS-260330-9197` [high] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
@@ -228,6 +230,7 @@
 - `INS-260330-8A87` [high] Silicon Valley overvalues growth rates and undervalues durability — 75-85% of a tech company's value comes from cash flows a decade or more in the future.
 - `INS-260330-3897` [high] Thiel calculated that 75% of PayPal's value in 2001 came from cash flows in 2011 and beyond — you want to be the last mover who wins the game, not the first mover who gets a one-third pawn advantage.
 - `INS-260327-85EB` [high] Generalist fast-food chains lose market share to specialists in every category because consumers increasingly prefer the
+- `INS-260404-D39F` [high] RuBisCo is a terrible enzyme that won the planet because plants went all-in before oxygen made it obsolete, and now 40 billion tons of it persist because switching is harder than coping.
 - `INS-260330-B71B` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must continuously neutralize — legacy system bugs become permanent line items.
 - `INS-260403-0240` [high] Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260330-1FED` [high] Rockefeller secured 50-75% railroad discounts by negotiating when railroads were desperate, then used the cost advantage to bankrupt competitors through sustained price wars.

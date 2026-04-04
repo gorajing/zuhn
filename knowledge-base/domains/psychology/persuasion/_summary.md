@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 73 insights
+> 74 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -41,6 +41,7 @@
 - `INS-260404-5343` [high] Explicit claims of passion or quality trigger audience skepticism, while implicit demonstration of those same qualities through confident behavior is the most powerful signal available.
 - `INS-260403-A290` [high] Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260403-1E82` [high] Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
+- `INS-260404-0CD8` [high] Never say 'we're passionate' or 'our product is great'—such messages must be implicit or audiences write you off as bullshitters.
 - `INS-260403-F171` [high] Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
 - `INS-260403-21A5` [high] Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.

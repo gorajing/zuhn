@@ -57,7 +57,6 @@ related:
   - INS-260330-B3D5
   - INS-260330-F5CF
   - INS-260330-EACA
-  - INS-260330-F222
 evidence:
   - id: INS-260330-EACA
     type: EXTENDS

@@ -52,10 +52,10 @@ stance: >-
   actually capable of becoming.
 related:
   - INS-260325-0873
+  - INS-260404-3713
   - INS-260330-C367
   - INS-260330-4711
   - INS-260320-B99F
-  - INS-260323-9146
 evidence:
   - id: INS-260320-B99F
     type: TRANSFERS_TO

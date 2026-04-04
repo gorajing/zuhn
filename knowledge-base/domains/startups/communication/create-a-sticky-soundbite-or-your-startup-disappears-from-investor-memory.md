@@ -55,11 +55,11 @@ related:
   - INS-260327-B034
   - INS-260327-80A8
   - INS-260403-74DB
-  - INS-260403-C5D8
   - INS-260404-C2BC
   - INS-260403-85F1
   - INS-260404-8D37
   - INS-260403-21C4
+  - INS-260404-621F
 ---
 Paul Graham frames memorability as a survival problem: professional investors hear enough pitches that they all blur together, so the first cut is simply being one they remember. The mechanism is a descriptive phrase — usually 'the X of Y' or 'the X Y' — launched casually near the beginning of your talk.
 

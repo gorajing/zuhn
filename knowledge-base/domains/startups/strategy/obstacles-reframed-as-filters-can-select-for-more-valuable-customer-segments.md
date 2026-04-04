@@ -49,7 +49,6 @@ stance: >-
   confusing layouts — can actually concentrate a higher-value customer base and
   increase per-customer lifetime value.
 related:
-  - INS-260403-2C00
   - INS-260403-C40D
   - INS-260403-747B
   - INS-260403-137D
