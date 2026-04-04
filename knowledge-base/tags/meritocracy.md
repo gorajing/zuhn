@@ -1,7 +1,7 @@
 # Tag: meritocracy
 
-- `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260327-70EF` Napoleon created many marshals for political reasons — rewarding loyalty, balancing factions — which diluted the rank and made it unreliable as an indicator of capability.
+- `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260403-7644` Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260403-8A25` Cram schools reveal the exact weaknesses in any credentialing system—their decline signals the system is becoming harder to game.
 - `INS-260321-3D65` Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.

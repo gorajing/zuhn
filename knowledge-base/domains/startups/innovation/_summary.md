@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 17 insights
+> 19 insights
 
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
@@ -13,6 +13,8 @@
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
 - `INS-260403-CACE` [high] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
+- `INS-260403-47BF` [medium] Lack of structured innovation processes is itself a warning sign that the organization is behind.
+- `INS-260403-5D81` [medium] Applying behavioral science to innovation training ensures skills actually transfer to daily work rather than fading post-program.
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-4FA4` [medium] For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.
 - `INS-260403-17E1` [medium] Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses.

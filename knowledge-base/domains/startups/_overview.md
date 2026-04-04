@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 2663 insights across 34 topics
+> 2673 insights across 34 topics
 
 ## Topics
 
@@ -15,7 +15,7 @@
 | content-strategy | 32 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | engineering | 22 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
-| execution | 188 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
+| execution | 189 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 286 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
 | founder-psychology | 47 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 123 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
@@ -25,18 +25,18 @@
 | health-innovation | 11 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
 | hiring | 29 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 71 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| innovation | 17 | Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model. |
+| innovation | 19 | Lack of structured innovation processes is itself a warning sign that the organization is behind. |
 | leadership | 162 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
 | market-entry | 26 | AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing. |
 | mental-models | 5 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | platform-dynamics | 1 | Software is too complex and iterative for a publisher-intermediary model that works for music or books. |
-| problem-solving | 6 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
+| problem-solving | 7 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 5 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 135 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-strategy | 33 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
 | quality | 10 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 173 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
-| scaling | 115 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
+| scaling | 117 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | strategy | 153 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 42 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 89 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 93 | Pretty much 100% of startups that make something popular manage to make money from it. |

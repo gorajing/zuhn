@@ -1,9 +1,10 @@
 # Topic: scaling
 
-> 115 insights
+> 117 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
+- `INS-260403-DD41` [high] YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
 - `INS-260327-BA93` [high] AI-native founders grow 20% faster while wanting to raise $250K less—the venture equation is shifting.
 - `INS-260327-968C` [high] Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
 - `INS-260403-B387` [high] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
@@ -106,6 +107,7 @@
 - `INS-260403-6061` [medium] Innovation culture transformation at scale takes 3-5 years with committed leadership; without leadership commitment, it takes forever.
 - `INS-260330-1F41` [medium] Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260330-240A` [medium] Bacteria explored far more genetic sequence space than eukaryotes over 4 billion years yet never became complex — proving that more iteration on the same architecture cannot overcome structural energy constraints.
+- `INS-260403-C05F` [medium] Combining specialized innovation programs at different organizational levels produces better results than relying on one.
 - `INS-260330-B3D9` [medium] Netflix laid off a third of employees post-dot-com crash and got more done with fewer people by retaining only their best performers.
 - `INS-260329-96EC` [medium] Transitioning from doing the work to licensing the system for doing the work shifts you from linear to exponential scaling.
 - `INS-260403-16B4` [medium] Performance-based pay in startups and professional services forces legacy organizations to match market rates or lose their best young talent.

@@ -1,7 +1,7 @@
 # Tag: bias
 
-- `INS-260322-F65F` AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
 - `INS-260326-AE6C` A quantizer that minimizes reconstruction error (MSE) does NOT give accurate similarity search -- at 1 bit, MSE-optimal quantization inflates inner products by a factor of 2/pi.
+- `INS-260322-F65F` AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
 - `INS-260330-92BB` Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making.
 - `INS-260330-FBE1` Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses.

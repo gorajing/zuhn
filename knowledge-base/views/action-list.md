@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3209 actionable insights
+Generated on 2026-04-04 | 3217 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1380,6 +1380,7 @@ Generated on 2026-04-04 | 3209 actionable insights
 - [INS-260403-A51A] Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
 - [INS-260403-472E] The biggest killer of potentially successful projects is never starting them due to premature quality standards.
 - [INS-260403-62AF] A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
+- [INS-260403-449D] Programs where participants work on real projects during training transfer skills more effectively than lecture-based alternatives.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -2161,6 +2162,7 @@ Generated on 2026-04-04 | 3209 actionable insights
 - [INS-260403-5514] The critical question for aspiring founders is not which technology to learn but whether they are producing things or just consuming them.
 - [INS-260403-EFAF] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 - [INS-260403-532D] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
+- [INS-260403-3058] Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2716,6 +2718,7 @@ Generated on 2026-04-04 | 3209 actionable insights
 - [INS-260403-F87C] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 - [INS-260403-0701] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - [INS-260403-CF09] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
+- [INS-260403-47BF] Lack of structured innovation processes is itself a warning sign that the organization is behind.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2853,6 +2856,7 @@ Generated on 2026-04-04 | 3209 actionable insights
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
 - [INS-260330-8D7C] LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
 - [INS-260402-3C79] Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.
+- [INS-260403-BEAC] Founders frequently come in worried about fundraising or growth when the real issue is product quality or company health.
 
 ## startups/product
 - [INS-260403-6CE6] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
@@ -3374,6 +3378,10 @@ Generated on 2026-04-04 | 3209 actionable insights
 - [INS-260403-DF7F] Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - [INS-260403-DD95] Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - [INS-260403-DC32] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
+- [INS-260403-979D] Account for environmental conditions when interpreting A/B test results to avoid false generalizations.
+- [INS-260403-2824] Ensure your call-to-action directly measures what your hypothesis actually claims.
+- [INS-260403-27AA] Change only one variable per A/B test to maintain causal attribution.
+- [INS-260403-F0C3] Always validate that customers want the core offering before optimizing secondary features.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

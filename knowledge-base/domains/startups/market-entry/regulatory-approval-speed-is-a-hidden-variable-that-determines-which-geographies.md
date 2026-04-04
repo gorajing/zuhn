@@ -1,0 +1,75 @@
+---
+id: INS-260403-50F6
+domain: startups
+topic: market-entry
+title: >-
+  Regulatory approval speed is a hidden variable that determines which
+  geographies win manufacturing investment
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - regulation
+  - manufacturing
+  - market-entry
+  - japan
+  - permitting
+sources:
+  - type: blog
+    title: Japan can be America's arsenal
+    author:
+      - '@type': Person
+        name: Rie Yano - Coral Capital
+        url: 'https://substack.com/@rieyano'
+        description: >-
+          SF based Partner at Coral Capital (HQ in Tokyo, investing globally).
+          Vitalist, exited founder, always dancing. Dispatches on human agency,
+          AI, and designing a life that still feels like yours.
+        identifier: 'user:742196'
+        image:
+          '@type': ImageObject
+          contentUrl: >-
+            https://substackcdn.com/image/fetch/$s_!UjI-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5284770c-f3c5-4281-9bdd-3b9dae7f7c7c_640x641.jpeg
+          thumbnailUrl: >-
+            https://substackcdn.com/image/fetch/$s_!UjI-!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5284770c-f3c5-4281-9bdd-3b9dae7f7c7c_640x641.jpeg
+    url: 'https://www.noahpinion.blog/p/japan-can-be-americas-arsenal'
+date_extracted: '2026-04-03'
+last_accessed: null
+access_count: 0
+indexed: false
+embedded: false
+resolutions:
+  one_line: >-
+    Regulatory finality—not just regulatory speed—determines where
+    capital-intensive manufacturing actually gets built.
+  standard: >-
+    In the U.S., building physical infrastructure is slow and unpredictable: 3-7
+    year approval timelines are common, and permits are frequently challenged in
+    court even after regulatory compliance. This creates a compounding problem
+    where capital sits idle and timelines balloon unpredictably.
+
+
+    Japan's centralized bureaucratic process provides a fundamentally different
+    value proposition: once approved, projects proceed without litigation risk.
+    This regulatory finality means capital-intensive infrastructure can be built
+    quickly and operated with long-term confidence. For hardware startups and
+    deep-tech companies, this isn't a marginal consideration—it determines
+    whether production timelines are measured in months or years.
+
+
+    The insight for founders and investors is that regulatory environment
+    analysis should weight finality and predictability as heavily as speed. A
+    system that's moderately fast but provides certainty may be far more
+    valuable than one that's theoretically faster but allows indefinite legal
+    challenge.
+stance: >-
+  Centralized bureaucratic regulatory systems that provide finality (like
+  Japan's) attract more capital-intensive manufacturing than legalistic systems
+  where permits can be challenged indefinitely in court (like the U.S.).
+---
+In the U.S., building physical infrastructure is slow and unpredictable: 3-7 year approval timelines are common, and permits are frequently challenged in court even after regulatory compliance. This creates a compounding problem where capital sits idle and timelines balloon unpredictably.
+
+Japan's centralized bureaucratic process provides a fundamentally different value proposition: once approved, projects proceed without litigation risk. This regulatory finality means capital-intensive infrastructure can be built quickly and operated with long-term confidence. For hardware startups and deep-tech companies, this isn't a marginal consideration—it determines whether production timelines are measured in months or years.
+
+The insight for founders and investors is that regulatory environment analysis should weight finality and predictability as heavily as speed. A system that's moderately fast but provides certainty may be far more valuable than one that's theoretically faster but allows indefinite legal challenge.

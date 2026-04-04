@@ -1,8 +1,8 @@
 # Tag: execution
 
-- `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
 - `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.
+- `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260329-CA16` Break abstract success traits into the smallest observable behaviors until instructions are followable at your current skill level.
 - `INS-260323-0B5E` Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
@@ -14,6 +14,7 @@
 - `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260330-2CE5` YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
 - `INS-260329-4E70` The boring middle is a feature of ambitious paths, not a signal to pivot.
+- `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
 - `INS-260325-0FED` Since the Panic Monster only responds to real consequences, effective execution in unstructured work requires manufacturing genuine external deadlines.
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260329-1F3F` Burning your escape routes forces the persistence that passion-based motivation cannot sustain.

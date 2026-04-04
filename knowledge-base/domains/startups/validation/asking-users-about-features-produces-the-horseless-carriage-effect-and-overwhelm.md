@@ -49,7 +49,6 @@ stance: >-
   Direct feature questions in user interviews generate feedback that feels
   irresistibly actionable but systematically misleads product decisions.
 related:
-  - INS-260322-58B7
   - INS-260323-40AA
   - INS-260330-139D
   - INS-260330-0B79

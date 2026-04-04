@@ -1,8 +1,9 @@
 # Topic: group-dynamics
 
-> 36 insights
+> 37 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
+- `INS-260403-F322` [high] Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
 - `INS-260330-3528` [high] English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260330-4B55` [high] Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.

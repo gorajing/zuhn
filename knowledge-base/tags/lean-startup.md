@@ -14,5 +14,6 @@
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260323-E15F` When every founder can build fast with AI tools, the bottleneck shifts permanently from execution speed to insight discovery speed.
+- `INS-260403-F0C3` Always validate that customers want the core offering before optimizing secondary features.
 - `INS-260330-3F24` If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
 - `INS-260403-4CE7` Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.

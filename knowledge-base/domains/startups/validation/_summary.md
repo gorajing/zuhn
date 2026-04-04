@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 89 insights
+> 93 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -37,6 +37,8 @@
 - `INS-260403-64D0` [high] The startup environment's rapid success/failure cycle makes it uniquely suited to reveal which evaluation signals actually predict performance.
 - `INS-260330-D5BD` [high] Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
 - `INS-260330-E6B7` [high] DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.
+- `INS-260403-2824` [high] Ensure your call-to-action directly measures what your hypothesis actually claims.
+- `INS-260403-27AA` [high] Change only one variable per A/B test to maintain causal attribution.
 - `INS-260329-3EC3` [high] Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260330-40E9` [high] Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.
 - `INS-260330-2576` [high] Users will say 'yes that sounds great' to almost any feature idea, but that enthusiasm rarely translates to actual switching behavior.
@@ -61,6 +63,7 @@
 - `INS-260323-92AD` [high] Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
 - `INS-260327-B12E` [high] Start with customer problems, not technology — talk to as many people as possible about their problems and what skills you can bring.
 - `INS-260323-1B87` [high] Most founders talk to 3-5 customers per week and think that's enough; Kim insists on 3-5 per day with 24-hour follow-up cycles during the PMF search phase.
+- `INS-260403-F0C3` [high] Always validate that customers want the core offering before optimizing secondary features.
 - `INS-260323-F9E5` [high] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
 - `INS-260330-0F52` [high] Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
 - `INS-260330-3F24` [high] If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
@@ -80,6 +83,7 @@
 - `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260403-3569` [medium] Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-2718` [medium] Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
+- `INS-260403-979D` [medium] Account for environmental conditions when interpreting A/B test results to avoid false generalizations.
 - `INS-260329-6B2C` [medium] Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.
 - `INS-260403-508D` [medium] Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - `INS-260330-22D6` [medium] Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.

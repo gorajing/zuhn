@@ -49,7 +49,6 @@ stance: >-
   rational for diversified investors.
 related:
   - INS-260325-7D50
-  - INS-260327-A927
   - INS-260327-CD77
   - INS-260327-BA93
   - INS-260327-0E28
@@ -58,6 +57,7 @@ related:
   - INS-260330-64E1
   - INS-260403-CF7C
   - INS-260402-8424
+  - PRI-260403-26B9
 evidence:
   - id: INS-260403-3CD0
     type: EXTENDS

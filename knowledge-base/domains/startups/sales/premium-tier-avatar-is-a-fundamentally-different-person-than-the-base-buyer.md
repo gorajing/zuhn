@@ -53,6 +53,7 @@ related:
   - INS-260329-1DE0
   - INS-260329-825D
   - PRI-260328-70D9
+  - INS-260403-F0C3
 ---
 A common mistake when creating premium tiers is imagining the current $100 buyer deciding to spend $1,000. Hormozi argues this is wrong — the $1,000 buyer is a different person entirely. They have different financial capacity, different pain intensity, different accessibility requirements, and different decision-making frameworks.
 

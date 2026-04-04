@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 1700 insights across 20 topics
+> 1703 insights across 20 topics
 
 ## Topics
 
@@ -12,12 +12,12 @@
 | communication | 18 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
 | consciousness | 94 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
 | decision-making | 47 | What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result. |
-| expertise | 35 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
+| expertise | 36 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
 | focus | 159 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 16 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 18 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
-| group-dynamics | 36 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
-| learning | 221 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
+| group-dynamics | 37 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
+| learning | 222 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 60 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
 | mental-models | 69 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
 | negotiation | 2 | Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse. |

@@ -252,6 +252,7 @@ Generated on 2026-04-04 | 2421 sources
 | 2024 Annual Letter | blog | 5 | 2026-03-30 |
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
+| 500,000 | blog | 5 | 2026-03-31 |
 | 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
 | A Fundraising Survival Guide | blog | 5 | 2026-03-31 |
@@ -464,6 +465,7 @@ Generated on 2026-04-04 | 2421 sources
 | What I Did this Summer | blog | 5 | 2026-03-31 |
 | What I Worked On | blog | 5 | 2026-03-31 |
 | What I've Learned from Hacker News | blog | 5 | 2026-03-31 |
+| What I've Learned from Users | blog | 5 | 2026-03-31 |
 | What Startups Are Really Like | blog | 5 | 2026-03-31 |
 | What the Bubble Got Right | blog | 5 | 2026-03-31 |
 | What You Can't Say | blog | 5 | 2026-03-31 |
@@ -710,10 +712,15 @@ Generated on 2026-04-04 | 2421 sources
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
+| 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
+| Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
+| Japan can be America's arsenal | blog | 4 | 2026-03-30 |
+| 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
+| Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
@@ -1638,7 +1645,6 @@ Generated on 2026-04-04 | 2421 sources
 | 4 Important Facts About Business Model Innovation For 2016 & Beyond | blog | 0 | 2026-03-31 |
 | 4 Innovative Business Pivots In The Age Of The Pandemic | blog | 0 | 2026-03-31 |
 | 4 Mistakes That Can Kill Your Business Model | blog | 0 | 2026-03-31 |
-| 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 0 | 2026-03-31 |
 | 4 Stages of Go-To-Market Strategy | blog | 0 | 2026-03-30 |
 | 400+ Seed VCs Backing Startups in the US & Europe 💰 | blog | 0 | 2026-03-30 |
 | $40K Mistake: Building Features Nobody Wanted | blog | 0 | 2026-03-30 |
@@ -1652,7 +1658,6 @@ Generated on 2026-04-04 | 2421 sources
 | 5 Tools For New Business Success | blog | 0 | 2026-03-31 |
 | 50 AI Agent Startup Ideas for 2025 (Across 10 Industries) | blog | 0 | 2026-03-30 |
 | 50 Real Startup Pitch Decks That Raised $380M+ | blog | 0 | 2026-03-30 |
-| 500,000 | blog | 0 | 2026-03-31 |
 | 59 Startup Pitch Decks That Raised Millions—See What Works | blog | 0 | 2026-03-30 |
 | 6 Roles That Can Position Your Company For The Future | blog | 0 | 2026-03-31 |
 | 61 Startups Actively Raising Capital (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
@@ -1790,7 +1795,6 @@ Generated on 2026-04-04 | 2421 sources
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
-| Best innovation executive programs: Drive growth through action | blog | 0 | 2026-03-31 |
 | Best innovation management software for your business | blog | 0 | 2026-03-31 |
 | Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
 | Beyond Smart | blog | 0 | 2026-03-31 |
@@ -2026,11 +2030,9 @@ Generated on 2026-04-04 | 2421 sources
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
 | It's Charisma, Stupid | blog | 0 | 2026-03-31 |
-| Japan can be America's arsenal | blog | 0 | 2026-03-30 |
 | Java's Cover | blog | 0 | 2026-03-31 |
 | Jessica Livingston | blog | 0 | 2026-03-31 |
 | Keep Your Identity Small | blog | 0 | 2026-03-31 |
-| 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 0 | 2026-03-30 |
 | Learn With Me | blog | 0 | 2026-03-30 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Learning from Founders | blog | 0 | 2026-03-31 |
@@ -2061,7 +2063,6 @@ Generated on 2026-04-04 | 2421 sources
 | Musk, Trump, and the VCs Picking Sides ⚔️, Thoma Bravo’s Record $34.4B Fundraise💸, VCs Are Funding 2 Things💡 | blog | 0 | 2026-03-30 |
 | MVP Mastery: The Key to Building What Matters 📈 | blog | 0 | 2026-03-30 |
 | Neuralink's 21 Telepathy Trials in 2 Years | blog | 0 | 2026-03-30 |
-| Next-Token Predictor Is An AI's Job, Not Its Species | blog | 0 | 2026-03-30 |
 | Novelty and Heresy | blog | 0 | 2026-03-31 |
 | NVIDIA and the $1T AI Buildout for the Agent Era | blog | 0 | 2026-03-30 |
 | One Year of The VC Corner: From 0 to 62,000 🚀 | blog | 0 | 2026-03-30 |
@@ -2311,7 +2312,6 @@ Generated on 2026-04-04 | 2421 sources
 | What happens if the world pulls its money out of America? | blog | 0 | 2026-03-30 |
 | What I Read This Week… | blog | 0 | 2026-03-30 |
 | What if AI succeeds but OpenAI fails? | blog | 0 | 2026-03-30 |
-| What I've Learned from Users | blog | 0 | 2026-03-31 |
 | What Kate Saw in Silicon Valley | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |
 | What Made Lisp Different | blog | 0 | 2026-03-31 |

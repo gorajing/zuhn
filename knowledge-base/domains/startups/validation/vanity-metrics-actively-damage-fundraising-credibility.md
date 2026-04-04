@@ -1,0 +1,64 @@
+---
+id: INS-260403-F6EC
+domain: startups
+topic: validation
+title: Vanity metrics actively damage fundraising credibility
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - vanity-metrics
+  - investor-relations
+  - credibility
+  - pitch
+sources:
+  - type: blog
+    title: "\U0001F511 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital"
+    author:
+      - '@type': Person
+        name: Ruben Dominguez
+        url: 'https://substack.com/@rubendominguez'
+        description: 'Investing, building, writing '
+        identifier: 'user:95342670'
+        image:
+          '@type': ImageObject
+          contentUrl: >-
+            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+          thumbnailUrl: >-
+            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    url: 'https://www.thevccorner.com/p/key-startup-metrics-vcs'
+date_extracted: '2026-04-03'
+last_accessed: null
+access_count: 0
+indexed: false
+embedded: false
+resolutions:
+  one_line: >-
+    Metrics that don't connect to revenue, retention, or scalability harm
+    credibility when presented to sophisticated investors.
+  standard: >-
+    Founders often default to the largest numbers available — total registered
+    users, app downloads, social media reach, or top-line revenue growth —
+    because they look impressive on a slide. But experienced VCs immediately see
+    through these because they obscure the health indicators that actually
+    matter. A million signups with 5% DAU/MAU reveals a retention crisis.
+    Impressive revenue growth paired with a burn rate that outpaces it signals
+    unsustainable unit economics.
+
+
+    The fix is reframing every metric around the question VCs actually ask: 'Is
+    this business model repeatable and scalable?' Replace total users with
+    DAU/MAU ratio, replace download counts with activation and retention curves,
+    replace top-line revenue with gross margin and CAC payback period. This
+    reframing doesn't just satisfy investors — it forces founders into more
+    honest and useful operational thinking about what's actually working in
+    their business.
+stance: >-
+  Presenting vanity metrics like total signups, social media followers, or raw
+  download counts in a VC pitch signals analytical immaturity and erodes
+  investor trust rather than building it.
+---
+Founders often default to the largest numbers available — total registered users, app downloads, social media reach, or top-line revenue growth — because they look impressive on a slide. But experienced VCs immediately see through these because they obscure the health indicators that actually matter. A million signups with 5% DAU/MAU reveals a retention crisis. Impressive revenue growth paired with a burn rate that outpaces it signals unsustainable unit economics.
+
+The fix is reframing every metric around the question VCs actually ask: 'Is this business model repeatable and scalable?' Replace total users with DAU/MAU ratio, replace download counts with activation and retention curves, replace top-line revenue with gross margin and CAC payback period. This reframing doesn't just satisfy investors — it forces founders into more honest and useful operational thinking about what's actually working in their business.

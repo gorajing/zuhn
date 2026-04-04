@@ -1,7 +1,7 @@
 # Tag: culture
 
-- `INS-260325-11A6` AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
 - `INS-260323-8E4D` The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
+- `INS-260325-11A6` AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
 - `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
 - `INS-260325-F8B8` The Roman toga was impossible to put on alone — its design literally encoded dependency on slave labor into the daily fabric of elite life.
@@ -20,9 +20,6 @@
 - `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
 - `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
 - `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
-- `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
-- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
-- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-2691` Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
@@ -30,6 +27,9 @@
 - `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
 - `INS-260330-BF00` The Roman shift from citizen-soldiers to mercenary armies created a workforce with zero loyalty to the institution, directly accelerating collapse.
 - `INS-260330-B384` Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
+- `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
+- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
+- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260403-74E5` Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.

@@ -47,7 +47,6 @@ stance: >-
   what you will do if it fails and how to minimize downside is more important
   than planning for upside.
 related:
-  - INS-260321-C3E6
   - INS-260323-ACD9
   - INS-260325-0C4A
   - INS-260329-D062
@@ -57,6 +56,7 @@ related:
   - INS-260328-0932
   - INS-260329-6B87
   - INS-260329-96BA
+  - INS-260402-CCC3
 evidence:
   - id: INS-260321-C3E6
     type: EXTENDS

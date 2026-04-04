@@ -43,8 +43,8 @@ related:
   - INS-260329-180B
   - PRI-260328-0BE1
   - INS-260322-3C3D
+  - INS-260403-F0C3
   - INS-260330-2B45
-  - INS-260330-FFDB
 stance: >-
   Ship the minimal core feature fast and let actual user feedback determine
   where the product goes next.

@@ -44,7 +44,6 @@ stance: >-
   misleading when that spending is increasingly funded by debt rather than
   income growth.
 related:
-  - INS-260327-76DA
   - INS-260327-1555
   - INS-260327-B6B7
   - PRI-260328-6136

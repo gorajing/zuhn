@@ -54,7 +54,7 @@ related:
   - INS-260330-F22A
   - INS-260330-D61A
   - INS-260326-7B2A
-  - INS-260403-BDE0
+  - INS-260403-F322
 ---
 When YC told New Story to double their target from 50 to 100 houses in 100 days, it forced them to fundamentally rethink their go-to-market approach rather than just working harder. They ended up delivering 115. The key mechanism is that bold goals change the solution space you explore — incremental goals let you optimize existing approaches, while 2x goals force you to find entirely new ones.
 
