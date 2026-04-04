@@ -46,11 +46,11 @@ stance: >-
   Physical interaction with a system produces deeper conceptual understanding
   than watching demonstrations or hearing explanations alone
 related:
-  - INS-260330-CA43
   - INS-260329-2DF2
+  - INS-260403-E2FB
   - INS-260327-4C73
   - PRI-260328-9F8C
-  - INS-260327-8521
+  - INS-260330-CA43
   - INS-260330-AEF1
 evidence:
   - id: INS-260327-8521

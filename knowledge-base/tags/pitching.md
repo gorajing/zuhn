@@ -12,12 +12,15 @@
 - `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260403-AC74` Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - `INS-260403-448F` A single sticky descriptive phrase is the minimum requirement for investor recall, and inability to create one signals insufficiently focused plans.
+- `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-E393` Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260403-1852` Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
+- `INS-260403-C5C0` Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
+- `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260403-9679` Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-B7B7` Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
 - `INS-260403-EE70` Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.
@@ -35,3 +38,4 @@
 - `INS-260403-D7DF` Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
+- `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.

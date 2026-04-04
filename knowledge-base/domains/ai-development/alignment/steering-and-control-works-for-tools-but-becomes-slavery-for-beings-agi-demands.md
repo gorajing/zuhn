@@ -60,6 +60,7 @@ related:
   - INS-260326-7ADF
   - INS-260322-C935
   - INS-260327-D24A
+  - INS-260403-1325
 stance: >-
   The current alignment paradigm of steering/control is appropriate for
   tool-like AI but becomes morally equivalent to slavery when applied to

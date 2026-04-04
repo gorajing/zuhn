@@ -33,6 +33,7 @@
 - `INS-260329-D6AA` Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
 - `INS-260329-85E9` HFT order books are maintained entirely in-memory with replicated copies for fault tolerance, avoiding all disk I/O.
 - `INS-260329-C991` HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
+- `INS-260403-6129` Breaking value conversion into intermediate carrier steps (ATP, NADPH) enables flexible downstream use at the cost of per-step energy loss.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260330-AC7F` CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
 - `INS-260330-82B2` The stack (short-lived, auto-managed) vs heap (long-lived, manually managed) split mirrors stateless vs stateful architecture.

@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 207 insights
+> 208 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -110,6 +110,7 @@
 - `INS-260329-6AF5` [high] Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
 - `INS-260330-C06E` [high] Real-time AI latency is solved in the serving infrastructure (caching, batching), not in the model architecture
 - `INS-260329-148D` [high] AWS's multi-AZ and multi-region architecture demonstrates that true high availability requires geographic distribution, but each level of distribution multiplies data consistency complexity.
+- `INS-260403-6129` [high] Breaking value conversion into intermediate carrier steps (ATP, NADPH) enables flexible downstream use at the cost of per-step energy loss.
 - `INS-260329-05BB` [high] HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.
 - `INS-260321-9906` [high] Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
 - `INS-260329-8C14` [high] The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.

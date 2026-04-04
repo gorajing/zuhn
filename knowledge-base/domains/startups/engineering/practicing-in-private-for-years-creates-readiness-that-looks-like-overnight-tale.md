@@ -51,7 +51,6 @@ stance: >-
   an enabling change makes it suddenly deployable.
 related:
   - INS-260327-45B4
-  - INS-260327-23F8
   - INS-260325-B1D8
   - INS-260325-EBDD
   - INS-260327-BA97

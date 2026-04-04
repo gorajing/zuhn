@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 70 insights
+> 73 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -23,6 +23,7 @@
 - `INS-260330-0C1B` [high] A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
 - `INS-260330-31A9` [high] Black shade balls absorb more solar energy than water would, yet the water beneath them is cooler because the air inside each ball acts as thermal insulation.
 - `INS-260403-8A25` [high] Cram schools reveal the exact weaknesses in any credentialing system—their decline signals the system is becoming harder to game.
+- `INS-260403-C55B` [high] Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
 - `INS-260330-1815` [high] Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
 - `INS-260330-2689` [high] The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260330-AE66` [high] All real-world exponentials are actually the early phase of logistic curves bounded by some limiting factor.
@@ -66,8 +67,10 @@
 - `INS-260330-B38B` [medium] ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
 - `INS-260330-972B` [medium] The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260403-861A` [medium] ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
+- `INS-260403-EE83` [medium] Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
 - `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
 - `INS-260330-1953` [medium] Underwater bubbles oscillating and collapsing under Rayleigh-Plesset dynamics concentrate enough energy to produce light (sonoluminescence), demonstrating how oscillating collapse amplifies small inputs into extreme outputs.
+- `INS-260403-45E3` [medium] Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
 - `INS-260330-E497` [medium] Plants' photosynthesis created the oxygen-rich atmosphere that now poisons their own RuBisCo enzyme, forcing them to compensate with volume and detox pathways rather than evolving a better enzyme.
 - `INS-260402-1F58` [medium] The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.

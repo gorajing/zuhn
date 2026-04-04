@@ -46,7 +46,6 @@ related:
   - INS-260403-172E
   - INS-260327-9DB0
   - PRI-260403-70D0
-  - INS-260330-AB3E
 evidence:
   - id: INS-260327-9DB0
     type: TRANSFERS_TO

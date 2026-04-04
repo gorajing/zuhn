@@ -14,24 +14,24 @@
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260330-77E2` Two-step lookahead improved Wordle solving from 3.6 to 3.43 — significant but diminishing returns over greedy one-step.
 - `INS-260329-0B55` Union-Find achieves near-constant amortized operations by lazily flattening tree paths only when queried, not eagerly during union.
+- `INS-260322-24FB` The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.
+- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
 - `INS-260325-EDE1` Saladino raised testosterone from 500 to 857 at age 48 through 5 natural interventions — no TRT needed.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
-- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
-- `INS-260322-24FB` The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
 - `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260329-FD7F` Maximum and minimum values in optimization problems occur precisely where the derivative equals zero — where change momentarily stops.
 - `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
 - `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
-- `INS-260330-0C1B` A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
-- `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
-- `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
-- `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
 - `INS-260330-3879` The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.
 - `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
 - `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
 - `INS-260330-B4F1` Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
+- `INS-260330-0C1B` A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
+- `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
+- `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
+- `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
 - `INS-260329-36D9` Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260329-8D70` Binary search trees average O(log n) but degrade to O(n) when data arrives sorted — this single gap motivated AVL trees, red-black trees, and the entire field of self-balancing structures.
 - `INS-260330-8E95` The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.

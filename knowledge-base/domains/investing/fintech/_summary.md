@@ -1,6 +1,6 @@
 # Topic: fintech
 
-> 75 insights
+> 76 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
@@ -15,6 +15,7 @@
 - `INS-260323-4B09` [high] Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
 - `INS-260329-A6EA` [high] Your investment strategy should shift from human capital to financial assets as your capital base grows.
 - `INS-260323-9A29` [high] Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
+- `INS-260403-A447` [high] Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses.
 - `INS-260329-76EE` [high] HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
 - `INS-260330-D6EF` [high] Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260403-3CD0` [high] Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.

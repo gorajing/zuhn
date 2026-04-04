@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 159 insights
+> 162 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -77,6 +77,7 @@
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260403-0B14` [high] Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
+- `INS-260403-E796` [high] Early commitment to a 'good enough' approach creates lock-in that persists even when the approach becomes demonstrably suboptimal.
 - `INS-260330-026F` [high] Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
 - `INS-260330-4983` [high] RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
 - `INS-260329-CB6D` [high] The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
@@ -115,6 +116,7 @@
 - `INS-260402-8F1E` [high] Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
 - `INS-260402-CF0A` [high] Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
 - `INS-260403-CF7C` [high] Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.
+- `INS-260403-1325` [high] Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.
 - `INS-260330-E180` [high] Putin delayed pension reform for 13 years after vowing never to touch it, then was forced into a more extreme version that caused his worst-ever approval crisis.
 - `INS-260330-5E47` [high] Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
 - `INS-260330-38B9` [high] Singapore explicitly designed its education, healthcare, housing, and legal system to attract multinational corporations — treating the entire nation as a product built for a specific customer segment.
@@ -139,6 +141,7 @@
 - `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260330-E474` [medium] The 1054 Orthodox-Catholic schism — driven by theological identity differences, not resource competition — created a 1000-year fracture, showing that value misalignment produces the most permanent organizational splits.
 - `INS-260330-FAB8` [medium] The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
+- `INS-260403-4F1B` [medium] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-9DCD` [medium] Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.
 - `INS-260330-440E` [medium] The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260330-E17D` [medium] The Indus Valley Civilization thrived peacefully for over a millennium but collapsed partly because it had almost no weapons or military capability.

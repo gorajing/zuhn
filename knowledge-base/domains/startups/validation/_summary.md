@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 99 insights
+> 100 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -73,6 +73,7 @@
 - `INS-260330-CFBA` [high] Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
 - `INS-260329-C893` [high] If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
 - `INS-260330-901B` [high] The silicon sphere (Avogadro) and Watt Balance (Planck's constant) provide independent checks on each other — dual independent approaches beat single-method perfection.
+- `INS-260403-7072` [high] Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
 - `INS-260330-E8C6` [high] Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
 - `INS-260330-F268` [high] If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
 - `INS-260330-F3A8` [high] Choosing the wrong interview subjects means even perfect questions yield strategically irrelevant answers.

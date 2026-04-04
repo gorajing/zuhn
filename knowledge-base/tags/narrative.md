@@ -10,10 +10,10 @@
 - `INS-260330-1D61` The myth that pre-Columbus Europeans believed in a flat Earth was a modern-era insult repeated until it became accepted fact.
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
 - `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
-- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-2783` Friedrich Miescher isolated DNA in 1869, but Watson and Crick are remembered because they synthesized others' work into a communicable model.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
 - `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
+- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260325-EC7A` Greek and Roman statues were vibrantly painted — our image of austere white marble is an accident of decay, known for over a century but still shaping perception.
 - `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
 - `INS-260323-B811` When casualties become 'averaging 10,000 a month' instead of named individuals with stories, moral weight evaporates — telling individual stories is an act of resistance against statistical dehumanization.
@@ -27,3 +27,4 @@
 - `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260330-FAB8` The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
+- `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.

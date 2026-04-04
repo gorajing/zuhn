@@ -52,7 +52,7 @@ related:
   - PRI-260328-6A8D
   - PRI-260328-FD47
   - INS-260322-A892
-  - PRI-260323-7B35
+  - INS-260403-97DB
   - INS-260403-30BF
 ---
 Graham challenges the assumption that business requires business expertise. The critical bottleneck in startup creation is building something people love, which is fundamentally a product/engineering challenge. Monetization — what MBAs are trained for — is the easier second phase. This inverts the conventional hierarchy where business strategy drives product decisions.

@@ -19,6 +19,7 @@
 - `INS-260330-9367` Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
 - `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
 - `INS-260403-C37D` Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
+- `INS-260403-F171` Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260403-941F` Create a single sticky phrase like 'the X of Y' that anchors you in evaluators' minds — if you can't compress your startup into one phrase, your plans aren't focused enough.
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.

@@ -1,11 +1,12 @@
 # Topic: fundraising
 
-> 138 insights
+> 142 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
 - `INS-260330-87BD` [high] The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260403-B3A4` [high] Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
+- `INS-260403-CEC0` [high] Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure.
 - `INS-260328-AB0C` [high] Much AI-era ARR is run-rate revenue from usage-based pricing, multiplied by 12, on customers who could leave tomorrow.
 - `INS-260402-6BB6` [high] Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260403-9EB1` [high] Angels must predict pre-traction potential; VCs can react to demonstrated success.
@@ -29,6 +30,7 @@
 - `INS-260330-6204` [high] Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
 - `INS-260403-9D89` [high] Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies.
 - `INS-260330-C84C` [high] If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
+- `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260403-600F` [high] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` [high] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
@@ -38,6 +40,7 @@
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260403-5C8E` [high] Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` [high] Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
+- `INS-260403-C5C0` [high] Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
 - `INS-260403-5D7D` [high] Seed-stage startups are too mobile for small regional grants to anchor them geographically.
 - `INS-260402-66A5` [high] VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260330-7BF5` [high] Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
@@ -68,6 +71,7 @@
 - `INS-260403-4423` [high] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
 - `INS-260403-78B7` [high] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
+- `INS-260403-0973` [high] Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260403-9679` [high] Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-B7B7` [high] Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
 - `INS-260403-EE70` [high] Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.

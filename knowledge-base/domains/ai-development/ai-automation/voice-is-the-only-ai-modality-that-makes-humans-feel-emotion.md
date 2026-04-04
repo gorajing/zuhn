@@ -51,7 +51,6 @@ related:
   - INS-260323-5609
   - INS-260322-6D1D
   - INS-260323-099F
-  - INS-260325-D82A
 stance: Voice uniquely carries emotional information that text and images cannot
 evidence:
   - id: INS-260327-F405

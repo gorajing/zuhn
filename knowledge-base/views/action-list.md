@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3302 actionable insights
+Generated on 2026-04-04 | 3313 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1099,6 +1099,7 @@ Generated on 2026-04-04 | 3302 actionable insights
 - [INS-260403-7093] Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 - [INS-260403-83E2] Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - [INS-260403-AAE4] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
+- [INS-260403-E2FB] Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1432,6 +1433,7 @@ Generated on 2026-04-04 | 3302 actionable insights
 - [INS-260330-6AA3] The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
 - [INS-260402-0F45] Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
 - [INS-260402-2C6B] Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
+- [INS-260403-C55B] Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
 
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
@@ -1544,6 +1546,7 @@ Generated on 2026-04-04 | 3302 actionable insights
 - [INS-260403-B505] Never explicitly claim passion or greatness — audiences ignore or penalize it, but absorb the same message when conveyed implicitly through behavior and specifics.
 - [INS-260403-1B2D] Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.
 - [INS-260403-941F] Create a single sticky phrase like 'the X of Y' that anchors you in evaluators' minds — if you can't compress your startup into one phrase, your plans aren't focused enough.
+- [INS-260403-F171] Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2386,6 +2389,7 @@ Generated on 2026-04-04 | 3302 actionable insights
 - [INS-260403-F7F4] Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
 - [INS-260403-862E] Genuine problem interest predicts startup success better than ambition for money or status.
 - [INS-260403-A485] Making bullshit-minimization an explicit priority when choosing employers or customers yields outsized quality-of-life gains.
+- [INS-260403-F657] If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2517,6 +2521,10 @@ Generated on 2026-04-04 | 3302 actionable insights
 - [INS-260403-9679] Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - [INS-260403-39F9] Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - [INS-260403-A57D] Expecting to raise more money makes startups slack on profitability, which makes raising money harder.
+- [INS-260403-CEC0] Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure.
+- [INS-260403-97DB] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
+- [INS-260403-C5C0] Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
+- [INS-260403-0973] Describe your startup as a specific thing rather than an abstract platform that could be anything.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3066,6 +3074,7 @@ Generated on 2026-04-04 | 3302 actionable insights
 - [INS-260403-0041] Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
 - [INS-260403-5C06] NFX's 5-level AI spectrum shows most founders default to AI enhancement (L1-3) rather than pursuing AI-first products (L4-5) where transformative value lives.
 - [INS-260403-35CB] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
+- [INS-260403-C4CD] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3371,6 +3380,7 @@ Generated on 2026-04-04 | 3302 actionable insights
 - [INS-260403-3E46] If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.
 - [INS-260403-C0FE] Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 - [INS-260403-EAE5] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
+- [INS-260403-4F1B] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3473,6 +3483,7 @@ Generated on 2026-04-04 | 3302 actionable insights
 - [INS-260403-B635] Having a few users who truly love your product matters infinitely more than having many indifferent users.
 - [INS-260403-8CE6] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
 - [INS-260403-45AA] Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.
+- [INS-260403-7072] Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

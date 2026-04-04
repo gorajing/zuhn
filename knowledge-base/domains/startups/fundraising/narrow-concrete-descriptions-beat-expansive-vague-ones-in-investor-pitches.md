@@ -45,10 +45,10 @@ stance: >-
   generality approaches infinity
 related:
   - INS-260403-86DB
+  - INS-260403-0973
   - INS-260403-B3A4
   - INS-260403-8013
   - INS-260403-EE70
-  - INS-260403-C610
   - INS-260403-047B
   - INS-260403-9680
 ---

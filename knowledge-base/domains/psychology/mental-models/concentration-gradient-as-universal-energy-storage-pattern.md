@@ -55,7 +55,6 @@ stance: >-
   information systems
 related:
   - INS-260330-EAA3
-  - INS-260330-6E5F
   - INS-260330-FA36
   - INS-260330-40EC
   - INS-260330-B38B
@@ -64,6 +63,7 @@ related:
   - INS-260330-7FF3
   - INS-260330-49E9
   - PRI-260403-6E50
+  - INS-260403-384C
 evidence:
   - id: INS-260330-24BA
     type: EXTENDS

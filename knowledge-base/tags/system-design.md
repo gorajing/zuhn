@@ -28,6 +28,7 @@
 - `INS-260329-F66E` C++ lambda capture by value vs reference is a microcosm of the universal architectural choice between isolated copies and shared state at every system boundary.
 - `INS-260329-C1A4` Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
 - `INS-260329-F887` Load balancers distribute traffic but become single points of failure — always deploy in redundant pairs with automatic failover.
+- `INS-260403-6129` Breaking value conversion into intermediate carrier steps (ATP, NADPH) enables flexible downstream use at the cost of per-step energy loss.
 - `INS-260329-075C` OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
 - `INS-260329-8C14` The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.
 - `INS-260329-F211` Start with the simplest working thing, then layer one concept at a time — this applies equally to teaching and to building systems.

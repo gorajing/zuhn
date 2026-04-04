@@ -51,10 +51,10 @@ stance: >-
   imbalances across barriers, not by direct energy transfer
 related:
   - INS-260330-40EC
+  - INS-260403-EE83
   - INS-260403-861A
   - INS-260330-B38B
   - INS-260330-7FF3
-  - INS-260330-3C3C
 evidence:
   - id: INS-260330-40EC
     type: SUPPORTS

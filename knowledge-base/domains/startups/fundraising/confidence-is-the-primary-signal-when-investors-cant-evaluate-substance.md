@@ -55,11 +55,11 @@ related:
   - INS-260328-D866
   - INS-260330-1002
   - INS-260402-4719
-  - INS-260403-028F
   - INS-260403-915E
   - INS-260402-E140
   - INS-260403-047B
   - INS-260403-5EB4
+  - INS-260403-C96F
 ---
 Graham identifies an asymmetry in investor pitches: founders who are bad at explaining talk to investors who are bad at understanding. Given brief time and limited technical background, investors fall back on meta-signals—chiefly, whether the founders themselves seem genuinely impressed by what they've built.
 

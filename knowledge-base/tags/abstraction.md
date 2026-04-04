@@ -58,9 +58,6 @@
 - `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
 - `INS-260329-8015` The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
 - `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
-- `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
-- `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
-- `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
@@ -74,6 +71,9 @@
 - `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
 - `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
 - `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
+- `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
+- `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
+- `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260329-B6A6` Layering complexity one concept at a time onto familiar examples builds more durable understanding than front-loading complete explanations.

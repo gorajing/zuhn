@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260327-47BA
   - INS-260322-A208
+  - INS-260403-97DB
   - INS-260329-4020
   - INS-260329-CBF3
-  - INS-260330-0BBA
 evidence:
   - id: INS-260322-A208
     type: TRANSFERS_TO

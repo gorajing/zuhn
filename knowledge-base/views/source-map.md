@@ -3,9 +3,9 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 162 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 54 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 40 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 166 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 59 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 44 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -285,6 +285,7 @@ Generated on 2026-04-04 | 2421 sources
 | Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
 | At BioCity, Customer Obsession Fuels The Next Generation Of Healthcare | blog | 5 | 2026-03-31 |
 | At least five interesting things: Buy Local edition (#74) | blog | 5 | 2026-03-30 |
+| Barbara Corcoran Shark Tank Interview: 10-Minute Masterclass on Building, Storytelling, and Investing | blog | 5 | 2026-03-30 |
 | Be Good | blog | 5 | 2026-03-31 |
 | Beating the Averages | blog | 5 | 2026-03-31 |
 | Before the Startup | blog | 5 | 2026-03-31 |
@@ -752,6 +753,7 @@ Generated on 2026-04-04 | 2421 sources
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
+| Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
@@ -790,6 +792,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 4 | 2026-03-31 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
+| What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
 | 10 Reasons Why Your Small Business Will Fail - and How To Avoid These Tragic Mistakes | youtube | 4 | 2026-03-23 |
@@ -1844,7 +1847,6 @@ Generated on 2026-04-04 | 2421 sources
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 0 | 2026-03-31 |
 | B2B Sales Playbook: Tech Capabilities to Clear Value Props | blog | 0 | 2026-03-31 |
-| Barbara Corcoran Shark Tank Interview: 10-Minute Masterclass on Building, Storytelling, and Investing | blog | 0 | 2026-03-30 |
 | Barriers to Entry in VC🚧, Rise of the AI Wrappers🤖, Google's AI Future Report 🔮 | blog | 0 | 2026-03-30 |
 | Become an Innovation Expert at the 2020 Strategyzer Bootcamp | blog | 0 | 2026-03-31 |
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
@@ -1924,7 +1926,6 @@ Generated on 2026-04-04 | 2421 sources
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
 | Could VC be a Casualty of the Recession? | blog | 0 | 2026-03-31 |
 | Crazy New Ideas | blog | 0 | 2026-03-31 |
-| Crypto Is A Tool That Was Exploited. | blog | 0 | 2026-03-31 |
 | Cybersecurity’s Future Belongs to Startups | blog | 0 | 2026-03-31 |
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 0 | 2026-03-30 |
 | Dario Amodei, AGI, and the Long Game of Safe AI | blog | 0 | 2026-03-30 |
@@ -2322,7 +2323,6 @@ Generated on 2026-04-04 | 2421 sources
 | What Made Lisp Different | blog | 0 | 2026-03-31 |
 | What Makes a Good Product-Market Fit?🎯, Global Markets Snapshot📊, GDP Growth Projections📈 | blog | 0 | 2026-03-30 |
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
-| What to Do | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
 | What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook | blog | 0 | 2026-03-30 |
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 0 | 2026-03-31 |

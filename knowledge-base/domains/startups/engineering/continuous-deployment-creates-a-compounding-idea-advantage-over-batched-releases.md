@@ -50,7 +50,6 @@ related:
   - INS-260403-21AF
   - INS-260403-0372
   - INS-260330-2E58
-  - INS-260402-300A
   - INS-260403-FB8E
 evidence:
   - id: INS-260323-1C32

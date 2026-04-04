@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 289 insights
+> 290 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -116,6 +116,7 @@
 - `INS-260323-D8A9` [high] RFK Sr believed moral courage — standing by principle when it threatens your career and status — is the most important and rarest human quality.
 - `INS-260325-F9CF` [high] 19th-century optimists assumed technology would end war — the world wars shattered that illusion and fueled anti-progress backlash that persists today.
 - `INS-260323-4A3D` [high] In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
+- `INS-260403-F657` [high] If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
 - `INS-260327-47BA` [high] Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
 - `INS-260329-6BE8` [high] Chasing new opportunities instead of deepening existing ones is the main reason entrepreneurs stay poor.
 - `INS-260329-58E7` [high] Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.

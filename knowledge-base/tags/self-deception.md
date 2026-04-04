@@ -2,8 +2,8 @@
 
 - `INS-260327-680A` Claude Code feels like programming with the best programmer you've ever met — and that intoxicating feeling is exactly what should make you suspicious of your output quality.
 - `INS-260403-D467` Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
-- `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
+- `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260330-0AE2` Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260330-712D` When excited about a new trend, ruthlessly separate the real value proposition from the fantasies you're projecting onto it.
 - `INS-260402-F04F` People prefer to believe in innate genius because it absolves them of the responsibility to try harder.

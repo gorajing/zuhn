@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 40 insights
+> 41 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
@@ -15,6 +15,7 @@
 - `INS-260403-A8B1` [high] Across wildly different fields, Graham's heroes shared exactly two traits: excessive care about their work and absolute refusal to pander.
 - `INS-260330-FE49` [high] Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260330-E881` [high] Expert hackers are a tiny minority, but their tool choices cascade to the majority through influence, authority, and the software they create.
+- `INS-260403-E2FB` [high] Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply.
 - `INS-260403-2B63` [high] Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
 - `INS-260403-DE28` [high] Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
 - `INS-260402-D0F3` [high] Dishonesty in thinking doesn't just produce biased conclusions — it produces boring ones by preventing the discovery of surprising ideas.

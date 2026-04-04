@@ -12,7 +12,6 @@
 - `INS-260329-FEF4` Computational thinking — decomposition, pattern recognition, abstraction, algorithms — is a general reasoning toolkit that transfers across all domains.
 - `INS-260329-04FA` CS50 teaches computational thinking as a universal problem-decomposition skill, not just a precursor to coding.
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
-- `INS-260322-35FA` Watching live DJ mix sets on YouTube is the most efficient way to internalize a genre because DJs curate 30+ tracks from deep listening into a coherent sonic narrative.
 - `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
 - `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift.
@@ -66,3 +65,4 @@
 - `INS-260329-939E` CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
 - `INS-260329-1741` CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
+- `INS-260322-35FA` Watching live DJ mix sets on YouTube is the most efficient way to internalize a genre because DJs curate 30+ tracks from deep listening into a coherent sonic narrative.

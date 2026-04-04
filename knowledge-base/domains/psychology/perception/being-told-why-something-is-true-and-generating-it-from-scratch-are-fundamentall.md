@@ -48,6 +48,7 @@ stance: >-
   The deepest understanding of an idea comes from feeling you could have
   invented it yourself, not from being shown a proof or explanation.
 related:
+  - INS-260403-E2FB
   - INS-260325-7080
   - INS-260329-DD0F
   - INS-260330-053D

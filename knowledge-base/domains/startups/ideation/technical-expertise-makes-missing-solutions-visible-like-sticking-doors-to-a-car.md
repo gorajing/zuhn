@@ -48,7 +48,6 @@ stance: >-
   tool you acquire after finding an idea.
 related:
   - INS-260327-FFA7
-  - INS-260327-D570
   - INS-260327-8358
   - INS-260330-5043
   - INS-260403-924B

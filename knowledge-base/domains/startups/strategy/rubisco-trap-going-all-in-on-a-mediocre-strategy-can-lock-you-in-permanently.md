@@ -48,7 +48,7 @@ stance: >-
   become trapped by their own success — the switching cost exceeds the
   optimization gain, so they compensate with volume instead of redesigning.
 related:
-  - INS-260330-FCBC
+  - INS-260403-E796
   - INS-260330-53A9
   - INS-260403-A907
   - PRI-260328-935B
