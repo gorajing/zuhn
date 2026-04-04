@@ -2,12 +2,11 @@
 
 - `INS-260327-E6FE` Addiction recovery requires dopamine receptor upregulation through extended abstinence and nutrient support
 - `INS-260330-2F9F` Cold water exposure uniquely raises dopamine 2.5x above baseline with a sustained multi-hour elevation rather than the spike-crash pattern of stimulants.
+- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260330-17C3` Romantic love elevates dopamine (the same reward pathway as cocaine addiction) and alters serotonin in patterns matching OCD, producing obsessive rumination and addictive attachment.
-- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
-- `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
 - `INS-260330-544F` Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260330-EDDD` ADHD hyper-focus on enjoyable tasks proves the focus circuitry works—the deficit is specifically in the dopamine system that should enable focus on non-preferred tasks.
@@ -23,6 +22,7 @@
 - `INS-260325-9507` Between ages 10-12, brains become hyper-wired for social rewards — social media exploits this precise window, making adolescent addiction neurobiological rather than behavioral.
 - `INS-260325-4CF9` The brain's wanting system is diffuse and insatiable; the liking system is small and satiable. Tech exploits the wanting system.
 - `INS-260325-7417` The brain's wanting circuit is easy to trigger but impossible to satisfy, creating the hedonic treadmill that technology exploits for engagement.
+- `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
 - `INS-260330-968D` Place high-friction habits in the first 8 hours after waking when dopamine and norepinephrine are naturally elevated, and low-friction habits in the afternoon serotonergic window.
 - `INS-260330-BCAF` Extend your positive anticipation to encompass the full habit envelope — before, during, and after — rather than only celebrating completion.
 - `INS-260330-F9C1` Novel shared experiences drive the dopamine system that sustains romantic love, making deliberate novelty-seeking the most brain-aligned strategy for long-term relationship maintenance.

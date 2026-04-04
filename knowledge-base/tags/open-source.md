@@ -25,11 +25,11 @@
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260320-0063` n8n workflows can be exported as JSON and shared on GitHub with Google Doc templates -- the business analysis workflow repo has 98 stars and is MIT licensed.
+- `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260323-3BA4` OpenClaw beat every well-funded agentic AI startup because competitors 'all take themselves too seriously' — it's hard to compete against someone who's just there to have fun, with lobster memes, weird branding, and a soul.md that gives agents personality.
 - `INS-260325-522A` Kilo Code grew to 1.5 million users in under a year by being fully open-source and supporting any model provider, making model freedom their core differentiator.
 - `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - `INS-260323-7D3C` Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
-- `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260330-7675` Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - `INS-260323-CD28` Wikipedia works because everyone intuitively knows what an encyclopedia entry should look like — shared understanding of the goal enables collaboration without centralized control.
