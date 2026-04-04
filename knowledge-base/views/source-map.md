@@ -554,6 +554,7 @@ Generated on 2026-04-04 | 2421 sources
 | What the Bubble Got Right | blog | 5 | 2026-03-31 |
 | What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook | blog | 5 | 2026-03-30 |
 | What Venture Capitalists Look for in Startups | blog | 5 | 2026-03-30 |
+| What We Look for in Founders | blog | 5 | 2026-03-31 |
 | What You Can't Say | blog | 5 | 2026-03-31 |
 | What You'll Wish You'd Known | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
@@ -840,7 +841,9 @@ Generated on 2026-04-04 | 2421 sources
 | A new-parent gift guide | blog | 4 | 2026-03-31 |
 | A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 4 | 2026-03-31 |
+| A Word to the Resourceful | blog | 4 | 2026-03-31 |
 | a16z New Media and How We Invested in 20+ YC Startups in 5 Months | blog | 4 | 2026-03-30 |
+| a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise Startup Funding | blog | 4 | 2026-03-30 |
 | Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 4 | 2026-03-30 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
@@ -923,6 +926,7 @@ Generated on 2026-04-04 | 2421 sources
 | How is this time different?  | blog | 4 | 2026-03-22 |
 | How machines are becoming better investors than humans | blog | 4 | 2026-03-30 |
 | How much software budget do you need for an early stage fund? | blog | 4 | 2026-03-30 |
+| How Natural Tradeoff And Failure Components? | blog | 4 | 2026-03-30 |
 | How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 4 | 2026-03-30 |
 | How Solar Beat Coal, Gas, and Nuclear Combined | blog | 4 | 2026-03-30 |
 | How to Be an Expert in a Changing World | blog | 4 | 2026-03-31 |
@@ -2032,10 +2036,8 @@ Generated on 2026-04-04 | 2421 sources
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
 | A Way to Detect Bias | blog | 0 | 2026-03-31 |
-| A Word to the Resourceful | blog | 0 | 2026-03-31 |
 | A year free of PostHog ($16,500 value): The all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, LLM analytics platform | blog | 0 | 2026-03-31 |
 | a16z Raises$7.2bn💵, Optimal VC Portfolio Construction🧮, AI Index🤖 | blog | 0 | 2026-03-30 |
-| a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise Startup Funding | blog | 0 | 2026-03-30 |
 | Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 0 | 2026-03-31 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
 | Addressing the Legal & Compliance Challenge | blog | 0 | 2026-03-31 |
@@ -2209,7 +2211,6 @@ Generated on 2026-04-04 | 2421 sources
 | Hidden Open Thread 425.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | High Resolution Fundraising | blog | 0 | 2026-03-31 |
-| How Natural Tradeoff And Failure Components? | blog | 0 | 2026-03-30 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
@@ -2379,7 +2380,6 @@ Generated on 2026-04-04 | 2421 sources
 | What Makes a Good Product-Market Fit?🎯, Global Markets Snapshot📊, GDP Growth Projections📈 | blog | 0 | 2026-03-30 |
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
-| What We Look for in Founders | blog | 0 | 2026-03-31 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |

@@ -1,8 +1,8 @@
 # Tag: urgency
 
+- `INS-260325-C884` A Life Calendar — one box per week of a 90-year life — makes finite time concrete enough to function as an artificial Panic Monster for non-deadline goals.
 - `INS-260403-81A4` Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
 - `INS-260403-97B4` When inspiration strikes, act on it immediately because it won't survive being shelved.
-- `INS-260325-C884` A Life Calendar — one box per week of a 90-year life — makes finite time concrete enough to function as an artificial Panic Monster for non-deadline goals.
 - `INS-260327-5AF9` The idea that if you haven't succeeded by 30 it's probably over is survivorship bias mythology - most meaningful achievements historically come from people in their 40s, 50s, and beyond.
 - `INS-260402-841D` Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-E3ED` Shameless urgency—like chasing PG to his car—signals genuine conviction that investors can't ignore.

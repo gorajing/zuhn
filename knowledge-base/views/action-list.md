@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3772 actionable insights
+Generated on 2026-04-04 | 3778 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1136,6 +1136,7 @@ Generated on 2026-04-04 | 3772 actionable insights
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
 - [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
+- [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1959,6 +1960,7 @@ Generated on 2026-04-04 | 3772 actionable insights
 - [INS-260330-3B0A] Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve.
 - [INS-260402-2A1D] College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
 - [INS-260402-225A] Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
+- [INS-260404-DF8E] Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.
 
 ## startups/communication
 - [INS-260330-D511] Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
@@ -1988,6 +1990,7 @@ Generated on 2026-04-04 | 3772 actionable insights
 - [INS-260404-E0B5] The inability to craft a one-phrase startup description signals unfocused strategy, not just weak messaging.
 - [INS-260404-D8C7] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - [INS-260404-756D] If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.
+- [INS-260404-4127] Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2612,6 +2615,9 @@ Generated on 2026-04-04 | 3772 actionable insights
 - [INS-260403-B05A] What you work on and who you work with matter more than how many hours you put in.
 - [INS-260403-802D] The learning from direct customer testing is tacit and compounding — it cannot be transferred through reports, making founder-led discovery non-delegable.
 - [INS-260403-7180] The best founders combine relentless drive with creative adaptability rather than relying on brute-force determination alone.
+- [INS-260404-8890] How founders respond to advice — chasing all implications vs. filtering through preconceptions — is the strongest early signal of startup success.
+- [INS-260404-8A02] Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
+- [INS-260404-F708] Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.

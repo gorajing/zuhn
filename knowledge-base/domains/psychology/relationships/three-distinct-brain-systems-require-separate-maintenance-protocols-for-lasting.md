@@ -53,7 +53,6 @@ stance: >-
   love (dopamine/novelty), and attachment (oxytocin/touch) — and neglecting any
   one degrades the others.
 related:
-  - INS-260325-B4A8
   - INS-260325-9B73
   - INS-260329-61CF
   - INS-260329-2460

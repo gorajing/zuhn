@@ -44,10 +44,10 @@ stance: >-
   that compound over years.
 related:
   - INS-260325-BE8A
+  - INS-260404-F708
   - INS-260330-F737
   - INS-260327-8254
   - INS-260327-3349
-  - INS-260402-F08D
 evidence:
   - id: INS-260330-F737
     type: EXTENDS

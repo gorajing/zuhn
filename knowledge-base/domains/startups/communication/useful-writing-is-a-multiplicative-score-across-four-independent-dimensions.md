@@ -55,7 +55,7 @@ related:
   - INS-260326-6D53
   - INS-260329-EC78
   - INS-260329-976E
-  - INS-260330-0DCA
+  - INS-260330-DBAD
 ---
 Paul Graham frames useful writing as a multiplicative function of four components: correctness, importance, novelty, and strength. The multiplicative framing is critical — a piece that scores 10/10 on correctness but 0/10 on novelty is still useless. This contrasts with additive mental models where being really good at one thing compensates for weakness in another.
 

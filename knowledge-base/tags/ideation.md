@@ -12,6 +12,7 @@
 - `INS-260329-5891` Pick a business topic from your pain, profession, or passion — these three lenses ensure you have authentic knowledge and motivation.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260329-ABD9` Find ideas others have discarded rather than trying to discover something nobody has ever considered.
+- `INS-260404-9823` In startups, the best ideas initially seem bad because obviously good ones are already taken — founders need imagination to find the sweet spot of productive craziness.
 - `INS-260330-8AC8` Yahoo, Google, Facebook, and Apple all started as side projects — the best ideas are such outliers that your conscious mind rejects them as company ideas.
 - `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
 - `INS-260403-C9DC` The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.

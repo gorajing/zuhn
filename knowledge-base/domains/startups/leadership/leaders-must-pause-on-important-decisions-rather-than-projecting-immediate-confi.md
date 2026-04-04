@@ -56,9 +56,10 @@ stance: >-
   consider all perspectives.
 related:
   - INS-260328-A4EB
-  - INS-260330-7987
   - INS-260330-DB4B
   - INS-260330-50D4
+  - INS-260404-1289
+  - INS-260330-7987
   - INS-260327-F014
   - INS-260330-DC3B
   - INS-260403-BA62

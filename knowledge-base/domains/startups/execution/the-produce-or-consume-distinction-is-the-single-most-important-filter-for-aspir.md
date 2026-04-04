@@ -50,8 +50,8 @@ related:
   - INS-260403-573F
   - INS-260327-3A71
   - INS-260403-805E
+  - INS-260404-8A02
   - PRI-260328-59DC
-  - INS-260330-5A0A
 ---
 Graham defines technology broadly — programming, welding, making clothes, making videos — and says the specific choice barely matters. What matters is being on the production side. 'Are you writing computer games, or just playing them? That's the cutoff.' He reinforces this with Steve Jobs learning calligraphy: an apparently useless skill that gave Apple a decisive advantage in graphic design when the Macintosh launched.
 

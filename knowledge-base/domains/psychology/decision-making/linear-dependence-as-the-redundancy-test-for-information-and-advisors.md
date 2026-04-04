@@ -47,11 +47,11 @@ stance: >-
   Adding more information sources or advisors only improves decisions when they
   are linearly independent from existing inputs
 related:
+  - INS-260404-1289
   - INS-260403-C135
   - INS-260330-2F13
   - PRI-260403-88F5
   - INS-260329-EE04
-  - INS-260330-1854
 evidence:
   - id: INS-260328-12EE
     type: EXTENDS

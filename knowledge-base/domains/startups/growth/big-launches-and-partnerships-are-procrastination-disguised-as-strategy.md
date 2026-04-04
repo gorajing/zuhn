@@ -51,7 +51,6 @@ stance: >-
   recruitment that actually drives early growth
 related:
   - INS-260327-B302
-  - INS-260327-643E
   - INS-260327-DAE5
   - INS-260403-7C88
   - INS-260326-967C

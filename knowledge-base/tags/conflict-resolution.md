@@ -2,12 +2,12 @@
 
 - `INS-260323-C304` In debates on deeply emotional geopolitical topics, the anger and frustration themselves are data — suppressing emotion loses important information about the stakes.
 - `INS-260323-874F` The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.
+- `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
+- `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - `INS-260330-F140` Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
-- `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
-- `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260325-5A68` Wright warns that when things become fully black-and-white — all good or all evil — that is exactly when conflict becomes most dangerous.
 - `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
 - `INS-260403-D99D` The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.

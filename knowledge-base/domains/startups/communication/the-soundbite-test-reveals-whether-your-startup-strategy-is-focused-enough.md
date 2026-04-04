@@ -50,7 +50,6 @@ stance: >-
   communication difficulty.
 related:
   - INS-260327-DB8F
-  - INS-260403-2822
   - INS-260403-B3A4
   - INS-260403-ED1E
   - INS-260404-E0B5

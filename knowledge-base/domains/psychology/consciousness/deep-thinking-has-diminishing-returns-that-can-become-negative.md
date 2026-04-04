@@ -53,6 +53,7 @@ related:
   - INS-260327-12B5
   - INS-260327-D10B
   - INS-260402-F3D7
+  - INS-260404-8D23
 ---
 Analytical thinking has diminishing returns that can become negative. Early reflection produces genuine insight. Continued deeper analysis reaches a point where additional thought generates more questions than answers, more uncertainty than clarity, and more anxiety than peace.
 

@@ -55,11 +55,11 @@ related:
   - INS-260330-3585
   - INS-260330-3CD9
   - INS-260330-47FB
-  - INS-260330-725C
   - INS-260402-2B96
   - INS-260325-55D8
   - INS-260403-E319
   - INS-260403-B133
+  - INS-260403-C1F5
 ---
 Graham identifies a structural incompatibility between bureaucratic incentive systems and venture capital. In government organizations, the important thing is not making the right choice but making a choice that can be defended later if it fails. This creates systematic bias toward the smooth-talking MBA over the nerdy college students — not because bureaucrats are stupid, but because their personal risk calculus rationally favors defensible losses over spectacular but unjustifiable wins.
 

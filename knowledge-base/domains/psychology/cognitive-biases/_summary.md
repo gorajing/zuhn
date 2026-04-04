@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 264 insights
+> 265 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -38,6 +38,7 @@
 - `INS-260327-56B3` [high] While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
 - `INS-260330-3BBC` [high] Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260402-0392` [high] People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
+- `INS-260404-8D23` [high] Failing to chase down uncomfortable implications is a form of weakness-driven conservatism, not a failure of intellect.
 - `INS-260325-537A` [high] Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.
 - `INS-260330-BD04` [high] Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
 - `INS-260330-5EAC` [high] Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.

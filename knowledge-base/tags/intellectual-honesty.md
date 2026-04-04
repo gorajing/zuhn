@@ -4,6 +4,7 @@
 - `INS-260327-6D77` Taste isn't about button placement or dark mode — it's having high enough standards that you won't stamp your name on something that doesn't actually help the user.
 - `INS-260402-3639` Obscure writing about big ideas creates a self-reinforcing trap: it attracts ambitious novices, repels critical thinkers, and has a built-in defense because you can't prove text is meaningless.
 - `INS-260403-8D87` Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
+- `INS-260404-8D23` Failing to chase down uncomfortable implications is a form of weakness-driven conservatism, not a failure of intellect.
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260330-1118` Steel-manning works as an intellectual upgrade only when the person doing it genuinely risks being persuaded, not as performative fairness.
 - `INS-260327-48A5` Before arguing against any position, construct the strongest possible version of that position - this single practice does more for thinking quality than any other technique.

@@ -60,7 +60,8 @@ related:
   - INS-260330-52C7
   - INS-260402-8813
   - INS-260403-7C88
-  - INS-260403-7180
+  - INS-260404-F708
+  - INS-260404-B715
 ---
 NFX's 'Goldilocks Zone' concept explicitly rejects the idea that good leadership means finding the middle ground. Instead, the right answer for a specific company at a specific moment might be quite extreme — but it's calibrated to context rather than defaulting to a pole. The essay illustrates this across four axes: short-term vs. long-term thinking, 'take time to heal' vs. 'back to business,' worst-case vs. best-case planning, and realism vs. optimism.
 

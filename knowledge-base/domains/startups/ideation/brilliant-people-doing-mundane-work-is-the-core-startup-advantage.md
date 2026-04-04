@@ -46,11 +46,11 @@ stance: >-
   overqualified people on immediate, unglamorous problems that big companies
   would assign to junior staff.
 related:
+  - INS-260404-8A02
   - INS-260327-E2BC
   - INS-260403-5593
   - INS-260327-D5CC
   - INS-260402-E2AF
-  - INS-260403-924B
 ---
 Graham defines the startup essence as 'having brilliant people do work that's beneath them'—think Einstein designing refrigerators. Big companies try to match people to roles; startups gain leverage by having research-caliber minds solve immediate, prosaic problems like UI design or customer support workflows.
 

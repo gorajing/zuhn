@@ -44,10 +44,10 @@ stance: >-
   expertise.
 related:
   - INS-260329-E0DE
+  - INS-260404-DF8E
   - INS-260323-4082
   - INS-260322-116B
   - INS-260330-88B0
-  - INS-260323-9C11
 evidence:
   - id: INS-260330-88B0
     type: TRANSFERS_TO

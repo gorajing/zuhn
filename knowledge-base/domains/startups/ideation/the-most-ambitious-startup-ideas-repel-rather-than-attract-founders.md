@@ -50,12 +50,11 @@ stance: >-
   ideas systematically underexplored.
 related:
   - INS-260322-88C3
-  - INS-260323-5B9F
   - INS-260403-6890
   - INS-260404-9A82
   - INS-260404-CA58
   - INS-260330-AB6E
-  - INS-260403-A65D
+  - INS-260404-9823
 evidence:
   - id: INS-260403-6890
     type: SUPPORTS

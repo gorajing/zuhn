@@ -51,7 +51,7 @@ related:
   - INS-260330-B09B
   - INS-260403-1287
   - INS-260327-D982
-  - INS-260402-E140
+  - INS-260404-8890
 ---
 Paul Graham identifies a meta-trend underlying all changes in startup funding: founders are becoming increasingly powerful relative to investors. This means every pain point founders experience—slow closes, herd-following investors, tranched deals, option pool manipulation—will eventually be eliminated.
 

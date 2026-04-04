@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 306 insights
+> 309 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -35,6 +35,7 @@
 - `INS-260327-E63E` [high] Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-1338` [high] Even if we perfectly redistributed wealth, the deeper crisis is that society accords prestige to those who manage symbols and money rather than those who produce real value.
 - `INS-260403-5D18` [high] Some people converge on their life's work early like Mozart, while others like Newton restlessly explore multiple fields — both paths can produce great work, and the 'single calling' narrative is often hindsight bias.
+- `INS-260404-8890` [high] How founders respond to advice — chasing all implications vs. filtering through preconceptions — is the strongest early signal of startup success.
 - `INS-260323-2F50` [high] Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
 - `INS-260329-5A47` [high] Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260323-810D` [high] At 54 with grown children and strong convictions, Carlson finds that pure curiosity ('I was just interested') is the most sustainable and honest driver -- outlasting career anxiety, reputation management, and fear.
@@ -43,6 +44,7 @@
 - `INS-260329-0935` [high] Sustained focus on one domain compounds returns far more than spreading effort across many.
 - `INS-260321-13C6` [high] Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
 - `INS-260329-595E` [high] Depth in one area compounds returns faster than breadth across many.
+- `INS-260404-8A02` [high] Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
 - `INS-260403-C9C2` [high] Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
 - `INS-260327-3F64` [high] Ruthless time discipline and daily exercise are the actual differentiators at the highest level.
 - `INS-260329-CBF3` [high] The market rewards what is required, not what you tried — if your best isn't enough, the answer is to become better, not to feel good about falling short.
@@ -69,6 +71,7 @@
 - `INS-260323-53FF` [high] People who score high in financial avoidance save less, carry more high-interest debt, and have higher financial stress — saying 'I'm bad with numbers' is ego protection, not truth.
 - `INS-260329-1CB0` [high] Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260329-EFA8` [high] Whether in college or career, the first four years should maximize learning speed — early income is a bonus, not the objective.
+- `INS-260404-F708` [high] Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
 - `INS-260328-0540` [high] Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
 - `INS-260329-A024` [high] Focus is inversely proportional to the number of things you say yes to — the most focused person says yes to exactly one thing.
 - `INS-260323-7BB8` [high] Instead of asking 'what do you want to be?' (astronaut, writer, game designer), ask 'what do you want to do?' — follow the activities that bring joy moment-to-moment, and the career identity will emerge from that.

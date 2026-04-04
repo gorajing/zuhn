@@ -53,9 +53,9 @@ resolutions:
     beyond your control, executing on second-order improvements is not 'deck
     chairs on the Titanic' — it's the only rational action available.
 related:
-  - INS-260323-6944
   - INS-260330-0DCA
   - INS-260330-BBDA
+  - INS-260404-8D23
   - INS-260403-3F05
   - INS-260330-BE78
 stance: >-

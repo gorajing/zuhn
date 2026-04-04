@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 18 insights
+> 19 insights
 
 - `INS-260403-94C4` [high] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260329-D9A4` [high] Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
@@ -20,3 +20,4 @@
 - `INS-260330-BA71` [medium] Champion-level performance correlates with intensity of drive rather than any particular personality archetype.
 - `INS-260403-BCB1` [medium] Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 - `INS-260330-B67C` [medium] Marx argued that classes become self-aware not through shared traits but through the struggle itself — conflict creates identity, not the other way around.
+- `INS-260404-B715` [medium] Successful founders tend to have a piratical gleam — they break unimportant rules while caring deeply about the important ones.

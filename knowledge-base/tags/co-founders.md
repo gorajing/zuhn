@@ -22,6 +22,7 @@
 - `INS-260330-CD65` YC data shows 100% failure rate when companies added random co-founders between interview and batch start.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260402-8813` Co-founders matter most not for splitting work but for creating mutual obligation that sustains effort through unbearable lows.
+- `INS-260404-DF8E` Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.
 - `INS-260403-3B67` The builder + seller co-founder combination is the most common successful startup pattern and what VCs actively look for.
 - `INS-260327-6725` The right co-founder feels obvious from the first conversation—if it's not electric, keep looking.
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.

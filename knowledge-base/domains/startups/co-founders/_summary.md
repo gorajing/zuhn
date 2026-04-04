@@ -1,6 +1,6 @@
 # Topic: co-founders
 
-> 43 insights
+> 44 insights
 
 - `INS-260325-9B73` [high] Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260326-D8B9` [high] No one ever says 'great person, wrong skills' when co-founders split — it's always 'brilliant person, impossible to work with.'
@@ -32,6 +32,7 @@
 - `INS-260325-C5AE` [high] Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260402-8813` [high] Co-founders matter most not for splitting work but for creating mutual obligation that sustains effort through unbearable lows.
 - `INS-260330-64E1` [high] Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
+- `INS-260404-DF8E` [high] Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.
 - `INS-260326-967C` [high] Co-founders who discover the idea together feel true ownership; co-founders recruited into someone else's idea always have one foot out the door.
 - `INS-260403-87CF` [high] Once a startup hub reaches critical mass, it's the people — not tax breaks, office space, or weather — that sustain the ecosystem.
 - `INS-260403-3B67` [high] The builder + seller co-founder combination is the most common successful startup pattern and what VCs actively look for.

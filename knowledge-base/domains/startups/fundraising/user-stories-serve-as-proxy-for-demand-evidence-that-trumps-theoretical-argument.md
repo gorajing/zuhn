@@ -53,7 +53,6 @@ stance: >-
   because they directly address the core fear that nobody actually wants what
   you've built.
 related:
-  - INS-260403-5441
   - INS-260403-17A3
   - INS-260403-419B
   - INS-260404-9A82

@@ -54,7 +54,6 @@ stance: >-
   typical startup overconfidence and make inflated promises.
 related:
   - INS-260322-06EA
-  - INS-260323-0277
   - INS-260327-125F
   - INS-260327-B7FC
   - INS-260327-E3ED
@@ -63,6 +62,7 @@ related:
   - INS-260403-A172
   - INS-260403-4337
   - INS-260402-3D61
+  - INS-260404-10FF
 evidence:
   - id: INS-260322-06EA
     type: CONTRADICTS

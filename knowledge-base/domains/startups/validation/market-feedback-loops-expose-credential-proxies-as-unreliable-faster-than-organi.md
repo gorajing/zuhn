@@ -54,7 +54,7 @@ related:
   - INS-260327-80A8
   - INS-260404-8C42
   - INS-260403-25EE
-  - INS-260402-2B96
+  - INS-260404-8890
 ---
 Graham's core methodological insight is that YC functions as a natural experiment in talent evaluation because the feedback loop is tight: invest based on founder assessment, observe market outcome within a year. This is fundamentally different from large organizations where individual contribution is hard to isolate and career outcomes unfold over decades, allowing credential bias to persist unchallenged.
 

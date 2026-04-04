@@ -57,10 +57,10 @@ stance: >-
   of deeper thinking.
 related:
   - INS-260323-8B90
+  - INS-260404-8D23
   - INS-260330-BBDA
   - INS-260403-886D
   - INS-260330-BE78
-  - INS-260403-280B
 evidence:
   - id: INS-260323-8B90
     type: SUPPORTS
