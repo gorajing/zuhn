@@ -7,11 +7,11 @@
 - `INS-260330-AA8B` YC data shows all 9 companies that added random co-founders between interview and batch start fell apart within a year.
 - `INS-260330-CD65` YC data shows 100% failure rate when companies added random co-founders between interview and batch start.
 - `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
+- `INS-260404-8A02` Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
+- `INS-260403-743D` Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - `INS-260403-71D1` YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - `INS-260403-D1D0` Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
 - `INS-260330-A78C` YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
-- `INS-260404-8A02` Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
-- `INS-260403-743D` Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260403-77B4` PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260328-3A00` YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
