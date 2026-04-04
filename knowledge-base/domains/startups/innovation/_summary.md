@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 85 insights
+> 86 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -70,6 +70,7 @@
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-24AE` [medium] Innovation needs its own dedicated hierarchy paralleling the existing business structure, not ad-hoc committees.
 - `INS-260403-4FA4` [medium] For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.
+- `INS-260404-6BBB` [medium] Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 - `INS-260403-5F44` [medium] Innovation should live in every job rather than be siloed into a dedicated department or role.
 - `INS-260403-E172` [medium] Thriving innovation requires maintaining a large pipeline of 150-200 ideas per year across varying scales.
 - `INS-260403-C6A6` [medium] Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.

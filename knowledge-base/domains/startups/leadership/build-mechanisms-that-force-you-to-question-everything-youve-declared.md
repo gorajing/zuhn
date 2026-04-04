@@ -49,11 +49,11 @@ stance: >-
   day one, what would you do?' — which prevents the leadership team from
   protecting the status quo.
 related:
+  - INS-260404-6BBB
   - PRI-260328-521E
   - INS-260403-48CC
   - INS-260402-71A7
   - INS-260330-9575
-  - INS-260322-88C3
 evidence:
   - id: INS-260330-9575
     type: TRANSFERS_TO

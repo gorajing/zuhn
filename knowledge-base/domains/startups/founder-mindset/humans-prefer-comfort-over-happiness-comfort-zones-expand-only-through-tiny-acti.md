@@ -48,10 +48,10 @@ resolutions:
 related:
   - INS-260320-8B06
   - INS-260323-543C
+  - INS-260404-A850
   - PRI-260323-A3A3
   - PRI-260403-88F5
   - INS-260325-05E4
-  - INS-260323-4DF1
   - INS-260328-F60B
 stance: >-
   People stay in situations they hate because familiarity feels safer than the

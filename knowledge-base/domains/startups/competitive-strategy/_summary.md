@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 529 insights
+> 530 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -489,6 +489,7 @@
 - `INS-260403-CEBA` [medium] Technology leads are temporary; customer understanding compounds into durable competitive advantage.
 - `INS-260404-BA3D` [medium] Viaweb put cgi-bin in their URLs specifically to fool competitors into thinking they used a different technology stack.
 - `INS-260404-462B` [medium] Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
+- `INS-260404-20F3` [medium] Building on top of a fragmented tool stack turns ecosystem expansion into a tailwind rather than competitive threat.
 - `INS-260330-DCE1` [medium] Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
 - `INS-260404-CCE7` [medium] ARM invests in chip designs eight years before they generate revenue, creating a depth of IP that fast-followers cannot shortcut.
 - `INS-260403-6412` [medium] Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.

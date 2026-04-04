@@ -47,8 +47,8 @@ related:
   - INS-260324-6C5F
   - INS-260329-B28C
   - INS-260329-3EC3
+  - INS-260404-1E47
   - INS-260329-5B18
   - INS-260403-0435
-  - INS-260329-793D
 ---
 Hormozi demonstrates that generic offers ('I help people get fit') compete on price because they feel interchangeable, while specific offers ('I help busy executive moms lose 20 pounds in 12 weeks') command premium pricing. The mechanism is perceived specificity — when a customer feels the offer was designed exactly for their situation, they assign it higher value and are less price-sensitive. This is counterintuitive because entrepreneurs fear shrinking their market, but the math works out: fewer customers at much higher prices often produces more revenue with less operational complexity. The narrowing process involves stacking demographic, psychographic, and situational constraints until the avatar feels like one specific person.

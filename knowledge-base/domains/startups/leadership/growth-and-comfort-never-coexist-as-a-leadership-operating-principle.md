@@ -48,7 +48,6 @@ related:
   - INS-260404-56AC
   - INS-260329-F21F
   - INS-260329-7AAB
-  - INS-260323-8848
 stance: >-
   Feeling uncomfortable in a role signals growth opportunity, not inadequacy —
   systematically seek discomfort rather than avoiding it.

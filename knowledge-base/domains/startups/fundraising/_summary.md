@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 275 insights
+> 276 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -94,6 +94,7 @@
 - `INS-260404-06B9` [high] The startups where VCs need compulsion over founders are not the ones that become big hits driving fund returns.
 - `INS-260404-30B2` [high] The best startups set fundraising norms because VCs compete hardest for them, making founder-favorable terms a quality signal.
 - `INS-260330-7BF5` [high] Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
+- `INS-260404-EF52` [high] Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260403-1287` [high] Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
 - `INS-260403-498A` [high] As startups need less capital, founders retain more equity and control, compressing investor ownership inexorably.
 - `INS-260403-20A7` [high] The single heuristic for predicting fundraising evolution is to ask what founders dislike and expect it to disappear.

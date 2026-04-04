@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 219 insights
+> 220 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -204,6 +204,7 @@
 - `INS-260322-AABB` [medium] The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
 - `INS-260403-49E7` [medium] Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
 - `INS-260404-C8FA` [medium] BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
+- `INS-260404-BA8B` [medium] Visual canvases like the Business Model Canvas create shared language that reduces misalignment in strategic discussions.
 - `INS-260403-97F5` [medium] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260404-D711` [medium] Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
 - `INS-260404-6A15` [medium] Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.

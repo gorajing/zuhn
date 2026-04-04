@@ -53,11 +53,11 @@ stance: >-
   participants to map ideas to specific business model components rather than
   talking in generalities.
 related:
+  - INS-260404-BA8B
   - INS-260323-197A
   - INS-260329-CBEB
   - INS-260329-8C69
   - INS-260403-EF30
-  - INS-260404-0AF3
 ---
 Most strategy discussions fail because participants talk past each other using vague language about 'value' and 'differentiation' without grounding those concepts in specific business model components. The Business Model Canvas and Value Proposition Canvas solve this by decomposing strategy into discrete, interrelated blocks — each with trigger questions that force specificity.
 

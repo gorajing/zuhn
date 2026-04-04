@@ -40,8 +40,8 @@ related:
   - INS-260322-F46F
   - INS-260404-2BAD
   - INS-260327-B357
+  - INS-260404-7680
   - INS-260403-8011
-  - INS-260327-956D
 stance: >-
   Fuelfinance is building an MCP integration that lets Claude talk directly to
   your financial data inside Fuel

@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 25 insights
+> 26 insights
 
 - `INS-260403-D98E` [high] Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260403-4DFB` [high] In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
@@ -19,6 +19,7 @@
 - `INS-260403-4C61` [high] NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
 - `INS-260403-2B1D` [high] Consensus-driven investment processes guarantee that the most outlier ideas — which generate the biggest returns — get rejected.
 - `INS-260403-7BEC` [high] VCs losing deals to other VCs preserves the industry; VCs losing deals to no one destroys it.
+- `INS-260404-7680` [medium] Each attack stopped and integration added makes the security platform smarter, creating a compounding data moat that new entrants cannot replicate.
 - `INS-260403-330E` [medium] In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260403-B9E6` [medium] Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260403-E1E4` [medium] Infrastructure windows are spotted through network proximity to technical founders, not through market analysis or public data.

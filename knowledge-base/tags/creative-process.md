@@ -7,6 +7,7 @@
 - `INS-260404-B7E4` You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
 - `INS-260403-472E` The biggest killer of potentially successful projects is never starting them due to premature quality standards.
 - `INS-260402-F957` Hackers start original and get good; scientists start good and get original — requiring opposite educational models.
+- `INS-260404-6BBB` Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 - `INS-260402-A94F` Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
 - `INS-260402-2074` Expect to discard 70-75% of initial output as the normal cost of producing quality work.

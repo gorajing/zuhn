@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 145 insights
+> 146 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -90,6 +90,7 @@
 - `INS-260329-180B` [high] Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260323-E15F` [high] When every founder can build fast with AI tools, the bottleneck shifts permanently from execution speed to insight discovery speed.
 - `INS-260329-AAD1` [high] Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
+- `INS-260404-4E13` [high] Test cards and learning cards formalize the experiment-learn loop into a repeatable validation system.
 - `INS-260330-201F` [high] The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.
 - `INS-260323-92AD` [high] Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
 - `INS-260327-B12E` [high] Start with customer problems, not technology — talk to as many people as possible about their problems and what skills you can bring.

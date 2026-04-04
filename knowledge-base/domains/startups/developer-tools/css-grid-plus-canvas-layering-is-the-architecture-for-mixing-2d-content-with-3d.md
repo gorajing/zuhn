@@ -50,11 +50,11 @@ stance: >-
   is the cleanest architecture for combining traditional web content with 3D
   graphics
 related:
+  - INS-260404-BA8B
   - INS-260329-9CFE
   - INS-260329-44C9
   - INS-260327-415B
   - INS-260327-A620
-  - INS-260330-DF31
 evidence:
   - id: INS-260329-44C9
     type: EXTENDS

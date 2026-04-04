@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 56 insights
+> 58 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -49,6 +49,7 @@
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260403-FDD8` [high] Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.
 - `INS-260404-380C` [high] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
+- `INS-260404-1E47` [high] The customer profile (jobs, pains, gains) should drive value proposition design, not the other way around.
 - `INS-260403-0196` [high] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260403-9B5D` [medium] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
@@ -56,5 +57,6 @@
 - `INS-260403-B5C0` [medium] Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 - `INS-260403-6A69` [medium] Great hardware buys time against bad policies, but the reputational damage compounds while the hardware advantage doesn't.
 - `INS-260403-35CB` [medium] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
+- `INS-260404-A850` [medium] Dynamic, AI-driven posture adjustment beats static security configurations because threat landscapes change faster than humans can respond.
 - `INS-260330-C95F` [medium] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - `INS-260330-2AA7` [medium] Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.

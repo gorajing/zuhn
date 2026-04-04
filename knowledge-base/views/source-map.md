@@ -849,6 +849,7 @@ Generated on 2026-04-04 | 2421 sources
 | A Word to the Resourceful | blog | 4 | 2026-03-31 |
 | a16z New Media and How We Invested in 20+ YC Startups in 5 Months | blog | 4 | 2026-03-30 |
 | a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise Startup Funding | blog | 4 | 2026-03-30 |
+| Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 4 | 2026-03-31 |
 | Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 4 | 2026-03-30 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Addressing the Legal & Compliance Challenge | blog | 4 | 2026-03-31 |
@@ -1093,6 +1094,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
 | Why Hire Offshore?  | blog | 4 | 2026-03-30 |
 | Why It's Safe for Founders to Be Nice | blog | 4 | 2026-03-31 |
+| Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 4 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 4 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
 | Why There Aren't More Googles | blog | 4 | 2026-03-31 |
@@ -2078,7 +2080,6 @@ Generated on 2026-04-04 | 2421 sources
 | A Way to Detect Bias | blog | 0 | 2026-03-31 |
 | A year free of PostHog ($16,500 value): The all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, LLM analytics platform | blog | 0 | 2026-03-31 |
 | a16z Raises$7.2bn💵, Optimal VC Portfolio Construction🧮, AI Index🤖 | blog | 0 | 2026-03-30 |
-| Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 0 | 2026-03-31 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
 | After the Ladder | blog | 0 | 2026-03-31 |
@@ -2393,7 +2394,6 @@ Generated on 2026-04-04 | 2421 sources
 | Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 0 | 2026-03-31 |
-| Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |

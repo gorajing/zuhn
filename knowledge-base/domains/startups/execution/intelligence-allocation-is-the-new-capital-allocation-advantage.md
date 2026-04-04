@@ -47,11 +47,12 @@ stance: >-
   determine startup winners in the AI era.
 related:
   - INS-260325-B1D8
-  - INS-260322-88FC
   - INS-260323-4EE4
+  - INS-260322-88FC
   - INS-260324-62A8
   - INS-260330-AE4B
   - INS-260330-DD9C
+  - INS-260404-7680
 evidence:
   - id: INS-260323-4EE4
     type: EXTENDS

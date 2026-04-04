@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3869 actionable insights
+Generated on 2026-04-04 | 3873 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1967,6 +1967,7 @@ Generated on 2026-04-04 | 3869 actionable insights
 - [INS-260404-D711] Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
 - [INS-260404-6A15] Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
 - [INS-260404-BCA2] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.
+- [INS-260404-BA8B] Visual canvases like the Business Model Canvas create shared language that reduces misalignment in strategic discussions.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -3248,6 +3249,7 @@ Generated on 2026-04-04 | 3869 actionable insights
 - [INS-260404-17DD] Established business models produce antibodies that kill fragile new initiatives transferred too early.
 - [INS-260404-CD55] Embedding legal and compliance as collaborative partners in the innovation program design phase transforms them from blockers into enablers.
 - [INS-260404-BFAB] Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
+- [INS-260404-6BBB] Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3551,6 +3553,7 @@ Generated on 2026-04-04 | 3869 actionable insights
 - [INS-260404-380C] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - [INS-260404-C720] Start by making a few users love you rather than many users tolerate you.
 - [INS-260404-8E0B] Oxygen — the molecule enabling all animal life — is just a waste product of photosynthesis, which exists to make glucose for plants.
+- [INS-260404-1E47] The customer profile (jobs, pains, gains) should drive value proposition design, not the other way around.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -4043,6 +4046,7 @@ Generated on 2026-04-04 | 3869 actionable insights
 - [INS-260404-1773] Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.
 - [INS-260404-80AC] The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
 - [INS-260404-9E71] Investors' biggest early-stage fear is that you built something nobody wants — specific user stories and proxy-for-demand signals neutralize this more than market data.
+- [INS-260404-4E13] Test cards and learning cards formalize the experiment-learn loop into a repeatable validation system.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.
