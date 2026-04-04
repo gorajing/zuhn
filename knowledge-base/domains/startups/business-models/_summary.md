@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 166 insights
+> 167 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -17,6 +17,7 @@
 - `INS-260403-3F10` [high] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-0A97` [high] Business models progress through predictable stages from high-risk exploration to low-risk exploitation, and mapping this journey enables better strategic decisions.
 - `INS-260403-7E18` [high] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
+- `INS-260403-0414` [high] Durable competitive advantage comes from business model design, not product or technology superiority alone.
 - `INS-260325-B8CB` [high] BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
 - `INS-260330-C7C2` [high] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
 - `INS-260324-2244` [high] Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.

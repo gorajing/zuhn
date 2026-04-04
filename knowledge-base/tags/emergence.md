@@ -21,7 +21,7 @@
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
 - `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
 - `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
-- `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
+- `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
 - `INS-260330-6DEB` Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.

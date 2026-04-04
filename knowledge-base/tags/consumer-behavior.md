@@ -7,7 +7,6 @@
 - `INS-260329-67D1` Letting customers choose their own quantity shifts price blame from the business to the buyer.
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
-- `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260327-4D3A` Even consumers who cognitively recognize that limited drops are manufactured scarcity still experience genuine urgency a
 - `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
 - `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
@@ -26,11 +25,10 @@
 - `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
 - `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
 - `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor
+- `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260330-8639` A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
-- `INS-260403-13E6` Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
-- `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260327-7AB5` Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
 - `INS-260327-77C7` When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
 - `INS-260327-CADA` The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
@@ -52,3 +50,5 @@
 - `INS-260327-415B` When products are designed primarily to be shared on social media, they optimize for visual impact at the expense of the
 - `INS-260327-99E5` 80% of consumers say they want sustainable products; less than 5% actually buy them when they cost more.
 - `INS-260327-A620` Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that 
+- `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
+- `INS-260403-13E6` Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.

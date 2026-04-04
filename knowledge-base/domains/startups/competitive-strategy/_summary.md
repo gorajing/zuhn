@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 474 insights
+> 475 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -204,6 +204,7 @@
 - `INS-260330-66C7` [high] Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
 - `INS-260327-6017` [high] Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
 - `INS-260324-6C5F` [high] Customers pay 2-5x more for Disney/Universal than Six Flags because branded attractions, $9 butterbeer, and character performers create emotional value that generic roller coasters can't match.
+- `INS-260403-A0F7` [high] Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260403-862D` [high] Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
 - `INS-260402-E470` [high] Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260325-C29B` [high] Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.

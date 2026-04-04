@@ -6,3 +6,4 @@
 - `INS-260330-A1AF` Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
 - `INS-260330-1DCA` We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
 - `INS-260403-2CA3` Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.
+- `INS-260403-462F` Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.

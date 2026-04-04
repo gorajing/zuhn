@@ -50,11 +50,11 @@ stance: >-
   different results (1+omega = omega, but omega+1 ≠ omega), revealing that
   commutativity is a special property of finite systems, not a universal law.
 related:
+  - INS-260403-384F
   - INS-260329-21C0
   - INS-260329-579D
   - PRI-260325-5760
   - INS-260329-90C3
-  - INS-260330-64D8
   - INS-260330-AA77
 evidence:
   - id: INS-260329-21C0

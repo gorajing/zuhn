@@ -1,3 +1,3 @@
 # Tag: assessment
 
-- `INS-260330-13A8` Facial micro-expressions and body language cues are meaningless without first establishing each individual's unique behavioral baseline through dialogue.
+- `INS-260403-462F` Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.

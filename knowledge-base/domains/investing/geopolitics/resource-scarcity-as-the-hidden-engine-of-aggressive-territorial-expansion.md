@@ -50,8 +50,8 @@ related:
   - INS-260330-8D0C
   - INS-260330-13EE
   - INS-260330-FAB8
+  - INS-260403-AEBD
   - INS-260330-570F
-  - INS-260327-473D
 evidence:
   - id: INS-260330-8D0C
     type: EXTENDS

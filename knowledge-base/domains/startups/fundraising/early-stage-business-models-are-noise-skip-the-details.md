@@ -57,6 +57,7 @@ related:
   - INS-260403-6A55
   - INS-260403-D7C4
   - INS-260403-2E90
+  - INS-260403-462F
 ---
 Graham cites a VC who invested in a company despite knowing their business model was wrong — expecting it to change three times before working. If top VCs with experienced founders expect business models to be crap at this stage, spending your scarce pitch minutes on yours is doubly wasteful: it burns time you could spend on the problem and product (things you actually know), and if the model seems spectacularly wrong, it becomes what investors remember about you instead of the important problem you're solving.
 

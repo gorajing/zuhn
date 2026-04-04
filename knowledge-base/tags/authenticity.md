@@ -19,18 +19,15 @@
 - `INS-260327-37C8` Thompson's self-destruction wasn't separate from his creativity - it was the cost of trying to maintain authenticity while the world demanded he become a product.
 - `INS-260327-8DFE` Giertz sharing her brain tumor journey publicly created deeper audience loyalty than any product launch, because genuine vulnerability builds trust that curated content cannot.
 - `INS-260327-F7BC` Become who you're afraid to be - the traits you suppress most actively are usually the ones whose expression would transform your life most dramatically.
-- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
-- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
-- `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
 - `INS-260330-B885` Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260403-7878` Readers trust bloggers more than mainstream media because online writing lacks the invisible fingerprints of PR firms shaping editorial content.
 - `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260327-0053` Building products doesn't require sacrificing normal life—authentic entrepreneurial spirit coexists with being a kid.
 - `INS-260329-EC98` Build for people like you — authentic understanding of customer pain produces better products and more resilient motivation than external market research.
 - `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
-- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260322-BD0D` You can't market a company without a character, but the character must be real and sustainable — manufactured personas always collapse over time.
 - `INS-260321-5598` Professional CEOs trained to say nothing on stage now lose to founder CEOs interesting enough to fill 3 hours on Joe Rogan — the 80-year reign of synthetic corporate communication is over.
+- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260403-DE45` Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.
@@ -40,4 +37,7 @@
 - `INS-260330-5A82` Phil Knight failed at selling encyclopedias but effortlessly sold running shoes because customers sensed his genuine conviction in the product's superiority.
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
 - `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
+- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
+- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
+- `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
 - `INS-260330-E8C6` Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.

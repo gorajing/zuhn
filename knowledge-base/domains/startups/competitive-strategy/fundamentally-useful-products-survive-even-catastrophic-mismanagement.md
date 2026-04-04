@@ -48,10 +48,10 @@ stance: >-
   companies.
 related:
   - PRI-260403-C76D
+  - INS-260403-A0F7
   - PRI-260322-DCDB
   - INS-260324-8656
   - PRI-260328-43F1
-  - PRI-260328-82BE
 ---
 Graham makes a striking observation: Reddit's traffic grew continuously even through a long stretch after Steve Huffman left when management was, at best, harmless. He explicitly notes that most companies would be in deep trouble if you took your eye off the ball for six months, but Reddit was different.
 

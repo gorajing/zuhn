@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 167 insights
+> 168 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -153,6 +153,7 @@
 - `INS-260330-4AAD` [medium] Toussaint L'Ouverture made conquered enemy generals into his own generals because he valued cultural elevation over revenge.
 - `INS-260329-4F3F` [medium] When everyone knows the numbers, you spend less time convincing them why the new priority matters.
 - `INS-260403-96FA` [medium] The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
+- `INS-260403-8C36` [medium] Leaders should provide fertile ground for innovative thinking by asking better questions rather than prescribing answers.
 - `INS-260329-4531` [medium] Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
 - `INS-260323-2038` [medium] Lex Fridman argues that jiu-jitsu is humbling and that humility is a powerful tool for innovation and leadership, especially for tech leaders who rarely experience physical vulnerability.
 - `INS-260330-00AA` [medium] Because Muhammad governed Medina as both prophet and political leader, Islam never developed a separate civic-vs-religious legal tradition the way Christianity did.

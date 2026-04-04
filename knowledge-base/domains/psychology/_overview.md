@@ -1,13 +1,13 @@
 # Domain: psychology
 
-> 1908 insights across 20 topics
+> 1910 insights across 20 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | behavior-change | 17 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
-| cognition | 66 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
+| cognition | 67 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
 | cognitive-biases | 252 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 29 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
 | consciousness | 96 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
@@ -19,7 +19,7 @@
 | group-dynamics | 54 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
 | learning | 237 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 60 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
-| mental-models | 80 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
+| mental-models | 81 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
 | negotiation | 5 | Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy. |
 | perception | 313 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
 | persuasion | 44 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |

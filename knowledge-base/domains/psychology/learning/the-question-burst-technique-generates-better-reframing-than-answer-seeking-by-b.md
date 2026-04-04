@@ -50,10 +50,10 @@ stance: >-
   brainstorming because it disrupts the brain's habitual rush to solution mode.
 related:
   - INS-260403-FFF0
+  - INS-260403-8C36
   - INS-260403-2949
   - PRI-260327-3BD9
   - INS-260329-EAFD
-  - INS-260329-0F39
 evidence:
   - id: INS-260329-EAFD
     type: SUPPORTS

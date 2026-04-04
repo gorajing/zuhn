@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 194 insights
+> 195 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -186,6 +186,7 @@
 - `INS-260323-A075` [medium] Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
 - `INS-260330-6D49` [medium] Moving the capital from Rome to Constantinople traded short-term Western control for a thousand years of Eastern survival — a masterclass in strategic repositioning.
 - `INS-260330-777A` [medium] Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
+- `INS-260403-462F` [medium] Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
 - `INS-260403-3EFB` [medium] Visual canvas tools with predefined sections and trigger questions channel abstract strategy conversations into concrete, testable business assumptions.
 - `INS-260403-3EEA` [medium] Tangible visual artifacts created during workshops serve as persistent reference points that enable teams to act on ideas after the session ends.
 - `INS-260323-4457` [medium] A product that takes months to reach a testable state is burning the founder's most scarce resource — time to learn whether the idea even matters — on engineering before validation.

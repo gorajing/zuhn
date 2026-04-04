@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3151 insights across 34 topics
+> 3157 insights across 34 topics
 
 ## Topics
 
@@ -8,10 +8,10 @@
 | ----- | -------- | ------- |
 | ai-business-models | 14 | AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record. |
 | bootstrapping | 34 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
-| business-models | 166 | Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable. |
+| business-models | 167 | Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable. |
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 20 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
-| competitive-strategy | 474 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 475 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 35 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | engineering | 29 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
@@ -26,17 +26,17 @@
 | hiring | 36 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 78 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
 | innovation | 59 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
-| leadership | 167 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
+| leadership | 168 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
 | market-entry | 35 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | mental-models | 5 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | platform-dynamics | 10 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
-| problem-solving | 7 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
+| problem-solving | 8 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 11 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 139 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-strategy | 46 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
 | quality | 12 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 179 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
-| scaling | 132 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
-| strategy | 194 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| scaling | 133 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
+| strategy | 195 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 51 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
 | validation | 124 | Pretty much 100% of startups that make something popular manage to make money from it. |

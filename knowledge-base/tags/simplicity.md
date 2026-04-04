@@ -10,10 +10,10 @@
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260325-F500` Thoreau: deliberate simplicity strips away everything that is not life — the 'loser' who chooses less experiences more.
 - `INS-260403-59F4` Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
-- `INS-260327-2101` Default to deterministic prompt-chain workflows over agentic systems — most professional tasks follow the same steps every time.
-- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260403-E143` Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which gives it enormous leverage because suppliers compete fiercely for the one or two slots available.
 - `INS-260403-36D8` Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
+- `INS-260327-2101` Default to deterministic prompt-chain workflows over agentic systems — most professional tasks follow the same steps every time.
+- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
 - `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.

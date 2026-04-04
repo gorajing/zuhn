@@ -51,7 +51,6 @@ stance: >-
   can cause it to expand to contain the entire original set — volume A of the
   Hyperwebster minus its leading A equals the whole dictionary.
 related:
-  - INS-260325-4677
   - INS-260330-D2D2
   - INS-260325-72AE
   - INS-260330-594E

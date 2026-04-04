@@ -46,11 +46,11 @@ stance: >-
   of intellectual dishonesty that exploits readers' completionist instinct — a
   reflexive challenge they can't ignore.
 related:
+  - INS-260403-AA5B
   - INS-260402-E148
   - INS-260329-4A69
   - INS-260330-9BB7
   - INS-260402-89DE
-  - INS-260330-90C3
 ---
 Graham identifies a specific dishonesty in list formats: claiming exhaustiveness when you haven't earned it. Titles like 'The 7 Secrets of Success' trigger a reflexive challenge — readers must check whether they already know all 7, creating an irresistible pull. This is the same psychological mechanism as a whodunit.
 

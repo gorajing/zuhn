@@ -59,6 +59,7 @@ related:
   - INS-260329-9CBB
   - INS-260329-5398
   - INS-260330-B4B9
+  - INS-260403-868C
 ---
 Calculus 1 begins with limits for a reason: the entire edifice of derivatives and integrals depends on the idea that you can take a process (like computing slopes of secant lines or areas of rectangles) and ask what happens as you push it toward an impossible-seeming boundary. The limit formalizes this by defining exactness not through reaching a point, but through being arbitrarily close. This is a profound conceptual shift — you never actually divide zero by zero or sum infinitely many things, yet you get exact answers by proving that any desired precision can be achieved.
 

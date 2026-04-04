@@ -51,12 +51,12 @@ stance: >-
   properties.
 related:
   - INS-260325-C523
-  - INS-260325-72AE
   - INS-260323-527B
   - INS-260330-594E
+  - INS-260403-384F
   - INS-260403-EA82
+  - INS-260325-72AE
   - INS-260327-9DB0
-  - PRI-260323-6644
 evidence:
   - id: INS-260323-527B
     type: CHALLENGES

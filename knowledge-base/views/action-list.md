@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3590 actionable insights
+Generated on 2026-04-04 | 3594 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2113,6 +2113,7 @@ Generated on 2026-04-04 | 3590 actionable insights
 - [INS-260403-9E2D] A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
 - [INS-260403-7E95] Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - [INS-260403-C949] Recessions reduce startup competition because most potential founders irrationally wait for better times.
+- [INS-260403-A0F7] Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3130,6 +3131,7 @@ Generated on 2026-04-04 | 3590 actionable insights
 - [INS-260403-48CC] Push purpose and strategy understanding down so frontline staff can make decisions without managerial approval.
 - [INS-260403-EEDB] The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.
 - [INS-260403-96FA] The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
+- [INS-260403-8C36] Leaders should provide fertile ground for innovative thinking by asking better questions rather than prescribing answers.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -3563,6 +3565,7 @@ Generated on 2026-04-04 | 3590 actionable insights
 - [INS-260403-62B4] Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - [INS-260403-4850] The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.
 - [INS-260403-C125] Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
+- [INS-260403-AEBD] Restructuring resource assignments can create room for growth without acquiring new resources.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3631,6 +3634,7 @@ Generated on 2026-04-04 | 3590 actionable insights
 - [INS-260403-9276] Annotate each business model with its trajectory (growing, shrinking, shifting) to detect slow-moving disruption before it becomes irreversible.
 - [INS-260403-137D] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 - [INS-260403-FDB8] Costco's $60 entry fee filters for affluent households averaging $100K income, who then spend more and renew at 90%.
+- [INS-260403-462F] Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

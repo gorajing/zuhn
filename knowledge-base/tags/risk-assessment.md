@@ -16,6 +16,6 @@
 - `INS-260403-A7FD` When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
 - `INS-260329-8B1C` Spelling out worst-case scenarios in concrete steps reveals that the feared outcome is almost always a manageable experience rather than a catastrophe.
 - `INS-260403-CA57` Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
-- `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260330-1DCA` We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
+- `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260330-975D` Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.

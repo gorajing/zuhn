@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 80 insights
+> 81 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -28,6 +28,7 @@
 - `INS-260403-C55B` [high] Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
 - `INS-260330-1815` [high] Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
 - `INS-260330-2689` [high] The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
+- `INS-260403-AA5B` [high] Constructing something guaranteed to differ from every item on a list proves the list is fundamentally incomplete.
 - `INS-260330-AE66` [high] All real-world exponentials are actually the early phase of logistic curves bounded by some limiting factor.
 - `INS-260330-1AB0` [high] All real-world exponentials are logistic curves that saturate when the growth medium is exhausted, making the S-curve the true model for any bounded growth process.
 - `INS-260330-3591` [high] Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.

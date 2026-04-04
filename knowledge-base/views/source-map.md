@@ -403,6 +403,7 @@ Generated on 2026-04-04 | 2421 sources
 | Microsoft is Dead | blog | 5 | 2026-03-31 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
 | Moltbook: After The First Weekend | blog | 5 | 2026-03-30 |
+| Musk, Trump, and the VCs Picking Sides ⚔️, Thoma Bravo’s Record $34.4B Fundraise💸, VCs Are Funding 2 Things💡 | blog | 5 | 2026-03-30 |
 | News from the Front | blog | 5 | 2026-03-31 |
 | No, China doesn't plan 1000 years ahead | blog | 5 | 2026-03-30 |
 | Non-Dilutive Funding: How Startups Grow Without Equity Loss | blog | 5 | 2026-03-30 |
@@ -451,6 +452,7 @@ Generated on 2026-04-04 | 2421 sources
 | The $100B Question: How SaaS Giants Are Rewriting the Rules of Value with AI in 2025  | blog | 5 | 2026-03-30 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
 | The $2 Trillion Founder Playbook: The Untold Story of How Larry Page Reclaimed Google | blog | 5 | 2026-03-30 |
+| The 60-year-old code behind $5 trillion in healthcare | blog | 5 | 2026-03-30 |
 | The 9 Habits of Ultra-Fast Iterations | blog | 5 | 2026-03-31 |
 | The Age of the Essay | blog | 5 | 2026-03-31 |
 | The AI-First Marketplace | blog | 5 | 2026-03-31 |
@@ -857,7 +859,9 @@ Generated on 2026-04-04 | 2421 sources
 | Having Kids | blog | 4 | 2026-03-31 |
 | Headcount Planning Template to Control Startup Burn | blog | 4 | 2026-03-30 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
+|  How Do VCs Really Make Decisions?💡 | blog | 4 | 2026-03-30 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
+| How much software budget do you need for an early stage fund? | blog | 4 | 2026-03-30 |
 | How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 4 | 2026-03-30 |
 | How to Disagree | blog | 4 | 2026-03-31 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
@@ -893,6 +897,7 @@ Generated on 2026-04-04 | 2421 sources
 | Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 4 | 2026-03-30 |
 | Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 4 | 2026-03-30 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
+| Resilient Businesses Compete Beyond Technology, Product & Price | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
@@ -1006,6 +1011,7 @@ Generated on 2026-04-04 | 2421 sources
 | Hollywood lied to you about Ancient Rome. Here’s the truth | Mary Beard: Full Interview | youtube | 4 | 2026-03-25 |
 | How accepting impermanence can end the struggle to “fix” your life | Robert Waldinger | youtube | 4 | 2026-03-25 |
 | How AI Agents Will Transform in 2026 (a16z Big Ideas) | youtube | 4 | 2026-03-22 |
+| How An Infinite Hotel Ran Out Of Room | youtube | 4 | 2026-03-30 |
 | How Axon Became Wall Street's Hottest Stock | youtube | 4 | 2026-03-24 |
 | How Boba Shops Really Make Money | youtube | 4 | 2026-03-24 |
 | How childhood wiring impacts adult life, in 90 minutes | Becky Kennedy: Full Interview | youtube | 4 | 2026-03-25 |
@@ -2133,10 +2139,8 @@ Generated on 2026-04-04 | 2421 sources
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | High Resolution Fundraising | blog | 0 | 2026-03-31 |
 | How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 0 | 2026-03-30 |
-|  How Do VCs Really Make Decisions?💡 | blog | 0 | 2026-03-30 |
 | How machines are becoming better investors than humans | blog | 0 | 2026-03-30 |
 | How Money Flows 🌊, Chamath’s $380M Loss🤯, VCs Eating PE with AI🔀 | blog | 0 | 2026-03-30 |
-| How much software budget do you need for an early stage fund? | blog | 0 | 2026-03-30 |
 | How Natural Tradeoff And Failure Components? | blog | 0 | 2026-03-30 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How Solar Beat Coal, Gas, and Nuclear Combined | blog | 0 | 2026-03-30 |
@@ -2184,7 +2188,6 @@ Generated on 2026-04-04 | 2421 sources
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
 | Monzo hits $5bn valuation 🚀, A Guide to Founder Salary 💵, Entrepreneurship in Africa 💡, & more! | blog | 0 | 2026-03-30 |
 | Multi-Product In Pictures | blog | 0 | 2026-03-30 |
-| Musk, Trump, and the VCs Picking Sides ⚔️, Thoma Bravo’s Record $34.4B Fundraise💸, VCs Are Funding 2 Things💡 | blog | 0 | 2026-03-30 |
 | MVP Mastery: The Key to Building What Matters 📈 | blog | 0 | 2026-03-30 |
 | Neuralink's 21 Telepathy Trials in 2 Years | blog | 0 | 2026-03-30 |
 | Novelty and Heresy | blog | 0 | 2026-03-31 |
@@ -2216,7 +2219,6 @@ Generated on 2026-04-04 | 2421 sources
 | RAQs | blog | 0 | 2026-03-31 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
 | Relentlessly Resourceful | blog | 0 | 2026-03-31 |
-| Resilient Businesses Compete Beyond Technology, Product & Price | blog | 0 | 2026-03-31 |
 | Resistance is necessary, but it's not enough | blog | 0 | 2026-03-30 |
 | Return of the Mac | blog | 0 | 2026-03-31 |
 | Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 0 | 2026-03-30 |
@@ -2261,7 +2263,6 @@ Generated on 2026-04-04 | 2421 sources
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
-| The 60-year-old code behind $5 trillion in healthcare | blog | 0 | 2026-03-30 |
 | The Agrifoodtech Effect 🍽️ | blog | 0 | 2026-03-30 |
 | The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
@@ -2404,7 +2405,6 @@ Generated on 2026-04-04 | 2421 sources
 | Don’t chase happiness. Become antifragile | Tal Ben-Shahar | Big Think | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 0 | 2026-03-30 |
-| How An Infinite Hotel Ran Out Of Room | youtube | 0 | 2026-03-30 |
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
