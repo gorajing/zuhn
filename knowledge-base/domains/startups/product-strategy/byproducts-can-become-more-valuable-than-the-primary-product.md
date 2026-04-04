@@ -46,7 +46,6 @@ stance: >-
   rather than the designed primary output.
 related:
   - INS-260323-0AF3
-  - INS-260327-FF4D
   - INS-260330-19C3
   - INS-260330-C7C2
   - INS-260404-A51E
@@ -55,6 +54,7 @@ related:
   - INS-260330-C607
   - INS-260330-30FB
   - PRI-260403-53D6
+  - INS-260403-D85D
 evidence:
   - id: INS-260330-30FB
     type: EXTENDS

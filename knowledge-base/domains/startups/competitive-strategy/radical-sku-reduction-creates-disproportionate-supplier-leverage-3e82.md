@@ -51,11 +51,11 @@ related:
   - INS-260327-8388
   - INS-260327-8389
   - INS-260329-E44D
-  - INS-260403-4874
   - INS-260403-83A8
   - INS-260404-7D8F
   - INS-260404-1EA6
   - INS-260404-57E3
+  - INS-260404-41AA
 ---
 Where a typical supermarket carries 30,000 items and Walmart Supercenters stock 140,000, Costco offers roughly 4,000. This constraint — usually seen as a limitation — creates enormous buying power. Suppliers compete fiercely for one of only one or two slots per category, willing to lower prices and even re-engineer packaging (like the cashew container redesign that saved 24,000 pallets annually).
 

@@ -52,6 +52,7 @@ related:
   - INS-260403-726B
   - INS-260404-F8E6
   - INS-260404-FF39
+  - INS-260404-8E0B
 ---
 Photosynthesis evolved to produce glucose for plant energy. Oxygen was merely the leftover from splitting water molecules — a 'useless byproduct' as the video puts it. Yet this waste product became the foundation for all aerobic life on Earth, arguably the most consequential chemical output in biological history.
 

@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 270 insights
+> 272 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -52,6 +52,7 @@
 - `INS-260403-2E90` [high] Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` [high] A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260404-589C` [high] At the early stage, business model details are your worst material — mention you've thought about it, then move on to the problem and product.
+- `INS-260404-93E3` [high] Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` [high] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
@@ -133,6 +134,7 @@
 - `INS-260404-3A71` [high] Narrow descriptions that risk seeming limiting actually convey more information than expansive ones that try to capture all possibilities.
 - `INS-260404-683B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless boilerplate.
 - `INS-260403-7964` [high] Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
+- `INS-260404-8660` [high] Founders should describe their startup as a specific narrow thing rather than a vague platform, because investors discard abstract language as meaningless boilerplate.
 - `INS-260403-9679` [high] Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-B7B7` [high] Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
 - `INS-260403-EE70` [high] Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.

@@ -52,8 +52,8 @@ related:
   - INS-260403-172E
   - INS-260403-791A
   - INS-260403-37C4
+  - INS-260404-BDE5
   - INS-260330-1677
-  - INS-260404-6876
 ---
 In the light-dependent reactions, the thylakoid membrane maintains a proton concentration gradient — high inside, low outside. Protons naturally flow back through ATP synthase, and that flow generates ATP. The membrane's role is purely to maintain the imbalance.
 

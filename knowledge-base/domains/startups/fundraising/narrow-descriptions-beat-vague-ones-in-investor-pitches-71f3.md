@@ -49,10 +49,10 @@ stance: >-
   information content.
 related:
   - INS-260403-AF27
-  - INS-260403-D430
   - INS-260404-8AB9
+  - INS-260403-D430
   - INS-260403-8013
-  - INS-260403-208D
+  - INS-260404-8660
 ---
 As a startup's description approaches 'a system to allow people to collaboratively leverage the value of information,' its actual information content approaches zero. Investors will discard vague statements as boilerplate and wait impatiently for you to explain what you actually built.
 

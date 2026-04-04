@@ -44,10 +44,10 @@ stance: >-
   revenue than optimizing for immediate extraction, because goodwill compounds
   through referrals, retention, and pricing power.
 related:
-  - INS-260327-194D
   - INS-260327-DF8C
   - PRI-260328-A4AC
   - PRI-260322-8FD4
+  - INS-260404-AB9A
   - PRI-260328-7E58
   - INS-260329-595E
 ---

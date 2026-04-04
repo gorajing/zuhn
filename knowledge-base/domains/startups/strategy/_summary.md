@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 237 insights
+> 238 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -182,6 +182,7 @@
 - `INS-260323-8F70` [high] Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
 - `INS-260328-988F` [high] A YC LP told Michael that 97% of venture returns come from the US market — Michael dismissed it at first but now sees it as largely correct.
 - `INS-260329-1F17` [high] Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort/Sacrifice) — reducing the denominator often matters more than inflating the numerator.
+- `INS-260404-50A7` [high] Costco's $60 membership fee filters for affluent, high-spending customers while triggering sunk-cost commitment that reduces price comparison shopping.
 - `INS-260403-137D` [high] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 - `INS-260404-8B1C` [high] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
 - `INS-260328-031A` [high] Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.

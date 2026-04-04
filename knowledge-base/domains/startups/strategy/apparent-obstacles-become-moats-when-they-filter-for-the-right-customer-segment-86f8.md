@@ -50,7 +50,6 @@ stance: >-
   competitive advantage, not a liability
 related:
   - INS-260323-FEAB
-  - INS-260327-7681
   - INS-260403-9104
   - INS-260403-08FE
   - INS-260403-243A
@@ -59,6 +58,7 @@ related:
   - INS-260404-6E7B
   - INS-260404-30CA
   - INS-260404-029D
+  - INS-260404-50A7
 ---
 Costco turns three apparent disadvantages into compounding advantages. The mandatory membership fee ($60-$120) selects for households earning ~$100,000 average income. The warehouse layout that seems confusing forces customers through more aisles, increasing discovery and basket size. The bulk quantities attract business owners—one-third of members who drive two-thirds of sales.
 

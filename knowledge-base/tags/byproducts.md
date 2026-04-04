@@ -22,6 +22,7 @@
 - `INS-260330-13A1` Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
 - `INS-260403-76EE` Oxygen — the gas that enabled all complex animal life — is just a waste product of photosynthesis, not its purpose.
 - `INS-260330-9231` Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth.
+- `INS-260404-8E0B` Oxygen — the molecule enabling all animal life — is just a waste product of photosynthesis, which exists to make glucose for plants.
 - `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260403-FDD8` Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.
 - `INS-260404-15E4` Oxygen was a waste product of photosynthesis that became the foundation of all animal life — the ultimate accidental platform.

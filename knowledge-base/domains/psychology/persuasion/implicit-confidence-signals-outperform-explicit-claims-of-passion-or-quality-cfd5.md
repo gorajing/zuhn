@@ -53,12 +53,12 @@ related:
   - INS-260329-B77F
   - INS-260329-E900
   - INS-260329-7C84
-  - INS-260330-795D
   - INS-260403-0F95
   - INS-260403-B505
   - INS-260403-DAB1
   - INS-260403-35E7
   - INS-260403-1E82
+  - INS-260403-74CD
 ---
 When evaluators have limited time and technical background, they rely heavily on the presenter's own confidence as a proxy signal. But this confidence must be demonstrated, not declared. Saying 'we're passionate' is the communication equivalent of telling someone you're funny — it achieves the opposite of its intent.
 

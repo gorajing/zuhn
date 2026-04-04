@@ -58,10 +58,10 @@ related:
   - INS-260403-D7DF
   - INS-260403-3421
   - INS-260403-DC32
-  - INS-260403-92EB
   - INS-260403-30D8
   - INS-260403-8C50
   - INS-260403-66D0
+  - INS-260403-F8FF
 ---
 Graham cites Sequoia's Greg McAdoo on looking for 'proxy for demand' — evidence that people are already doing something with inadequate tools that shows they need what you're building. This is fundamentally a persuasion principle about revealed preference: watching someone struggle with a spreadsheet to do what your product handles natively is more convincing than any market size estimate.
 

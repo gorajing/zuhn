@@ -60,7 +60,6 @@ related:
   - INS-260330-545E
   - INS-260403-C725
   - INS-260404-CDD2
-  - INS-260404-A08A
 evidence:
   - id: INS-260330-545E
     type: TRANSFERS_TO

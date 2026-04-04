@@ -57,6 +57,7 @@ related:
   - INS-260403-B5E2
   - INS-260404-B7B6
   - INS-260404-581C
+  - INS-260404-0BED
 ---
 RuBisCo evolved when Earth's atmosphere had minimal oxygen, so its inability to distinguish O2 from CO2 was irrelevant. But as photosynthetic organisms succeeded, they flooded the atmosphere with oxygen — their own byproduct — making RuBisCo's design flaw catastrophic. Plants literally poisoned their own key enzyme's operating environment through success.
 

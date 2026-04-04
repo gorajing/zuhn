@@ -53,13 +53,13 @@ related:
   - INS-260324-6C5F
   - INS-260327-7681
   - INS-260403-46BD
-  - INS-260403-9104
   - INS-260403-08FE
   - INS-260404-ED19
   - INS-260404-007B
   - INS-260404-975A
-  - INS-260404-94BB
   - INS-260404-029D
+  - INS-260404-86F8
+  - INS-260403-9104
 ---
 Costco's membership fee should theoretically make customer acquisition fatally difficult. Instead, it selects for households earning ~$100,000 average income, creates sunk-cost commitment that reduces price comparison behavior, and generates the revenue that funds low prices. Similarly, the confusing warehouse layout forces customers to wander through aisles (increasing impulse purchases), and bulk quantities attract business owners who represent one-third of members but two-thirds of sales.
 

@@ -52,11 +52,10 @@ stance: >-
   investors than any market size number or growth projection.
 related:
   - INS-260403-92EB
-  - INS-260403-3837
   - INS-260403-66D0
+  - INS-260404-44A4
   - INS-260404-B31C
   - INS-260403-D7DF
-  - INS-260403-EA2D
 ---
 Sequoia's Greg Mcadoo calls it the 'proxy for demand'—what are people doing right now, using inadequate tools, that proves they need what you're building? This is far more convincing than top-down market sizing (which Paul Graham compares to an aspiring actor citing Tom Hanks's salary). Market size numbers are abstract and unfalsifiable; proxy-for-demand evidence is concrete and verifiable.
 

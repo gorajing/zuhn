@@ -47,6 +47,7 @@
 - `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
 - `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
+- `INS-260404-93E3` Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
@@ -86,6 +87,7 @@
 - `INS-260403-37E2` Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
 - `INS-260404-683B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless boilerplate.
 - `INS-260403-7964` Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
+- `INS-260404-8660` Founders should describe their startup as a specific narrow thing rather than a vague platform, because investors discard abstract language as meaningless boilerplate.
 - `INS-260403-9679` Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-B7B7` Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
 - `INS-260403-EE70` Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.

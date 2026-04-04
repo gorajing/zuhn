@@ -16,7 +16,7 @@
 - `INS-260404-2BAD` Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
 - `INS-260403-5FBD` Value proposition fit and business model viability are independent variables — companies need both to survive.
 - `INS-260403-7E7C` Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
-- `INS-260403-6342` Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
-- `INS-260403-09F6` Musicians' biggest AHA moment was seeing that the canvas captured what they already understood intuitively but never wrote down.
 - `INS-260403-C0FE` Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 - `INS-260403-3EFB` Visual canvas tools with predefined sections and trigger questions channel abstract strategy conversations into concrete, testable business assumptions.
+- `INS-260403-6342` Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
+- `INS-260403-09F6` Musicians' biggest AHA moment was seeing that the canvas captured what they already understood intuitively but never wrote down.

@@ -1,5 +1,6 @@
 # Tag: costco
 
+- `INS-260404-95FC` Costco pays double the US retail average ($21/hr) and gets employees who are three times more productive.
 - `INS-260404-DD00` Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
 - `INS-260404-B8AE` Mandatory membership fees make the company's primary revenue dependent on customer satisfaction, not transaction margins.
 - `INS-260403-CED6` When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
@@ -13,6 +14,7 @@
 - `INS-260404-F827` When membership IS the business model (not a perk), the company's profit motive aligns with delivering maximum customer value.
 - `INS-260403-FAE1` Making membership the primary revenue source forces the company to optimize for long-term customer satisfaction over short-term margin extraction.
 - `INS-260404-837E` Costco makes 75% of profit from membership fees, freeing it to keep markups at 11% average versus 24-35% for competitors.
+- `INS-260404-66A1` When membership fees are the primary revenue source, the company's survival depends on consistently delivering enough value to justify renewal.
 - `INS-260403-3864` Costco makes 75% of profit from membership fees, which means raising prices costs $60 in lost renewals for pennies of margin gain.
 - `INS-260403-8757` Costco derives 75% of profit from membership fees, making customer satisfaction the direct driver of revenue rather than markup.
 - `INS-260404-E39D` When membership fees are the primary revenue source, the business is incentivized to minimize prices rather than maximize margins on each sale.

@@ -54,10 +54,10 @@ related:
   - INS-260403-2C00
   - INS-260403-C40D
   - INS-260403-9104
-  - INS-260403-3F91
   - INS-260403-FDB8
   - INS-260403-243A
   - INS-260404-01B1
+  - INS-260403-747B
 ---
 The membership fee appears to be a fatal obstacle to customer acquisition — you literally cannot enter the store without paying. But this friction acts as a demographic filter: it selects for households with ~$100K average income who are willing to invest upfront for value. Business owners, who make up one-third of members, account for two-thirds of sales.
 

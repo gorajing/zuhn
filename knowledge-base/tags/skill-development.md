@@ -2,9 +2,9 @@
 
 - `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260320-F78E` Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
-- `INS-260329-C66E` Passion is a byproduct of getting good at something, not the prerequisite for starting.
 - `INS-260403-9DE0` If you can get better at something through practice, objective quality must exist in that domain.
 - `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
+- `INS-260329-C66E` Passion is a byproduct of getting good at something, not the prerequisite for starting.
 - `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
 - `INS-260329-557C` The capacity to do the same unrewarding thing repeatedly without quitting is learnable and is the main thing separating successful people from everyone else.
 - `INS-260329-F21F` Passion emerges from competence, not the other way around — so pick based on opportunity, not feeling.

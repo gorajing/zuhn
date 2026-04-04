@@ -8,3 +8,4 @@
 - `INS-260330-41F6` Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value.
 - `INS-260330-13A1` Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
 - `INS-260403-4964` The App Store, launched a year after iPhone, became a stronger moat than the hardware itself through developer network effects.
+- `INS-260404-8E0B` Oxygen — the molecule enabling all animal life — is just a waste product of photosynthesis, which exists to make glucose for plants.

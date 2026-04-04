@@ -58,6 +58,7 @@ related:
   - INS-260403-37D9
   - INS-260403-1A71
   - INS-260404-EBB3
+  - INS-260404-5343
 ---
 Graham identifies that most investors at Demo Day lack both the time and technical background to properly evaluate early-stage products. In this information vacuum, the founder's own confidence becomes 'probably the single biggest piece of evidence.' This isn't about bluster — saying 'we're passionate' or 'our product is great' triggers the opposite reaction, marking founders as bullshitters.
 

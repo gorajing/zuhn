@@ -47,7 +47,6 @@ stance: >-
   problem rather than from direct pursuit
 related:
   - INS-260330-13A1
-  - INS-260330-90B6
   - INS-260403-31AF
   - INS-260403-99CE
   - INS-260403-EFE6

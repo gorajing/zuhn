@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3856 actionable insights
+Generated on 2026-04-04 | 3862 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1075,6 +1075,7 @@ Generated on 2026-04-04 | 3856 actionable insights
 - [INS-260404-5BBF] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - [INS-260404-F965] Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - [INS-260404-A526] Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
+- [INS-260404-0AF3] Crafting a sticky one-phrase description of your startup is both a memorability tactic and a litmus test for whether your strategy is focused enough.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1692,6 +1693,7 @@ Generated on 2026-04-04 | 3856 actionable insights
 - [INS-260404-B31C] Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
 - [INS-260404-CFD5] Never explicitly claim passion or quality — show confidence implicitly through behavior, because audiences write off self-promotion as bullshit.
 - [INS-260404-5A3D] Realizing that selectors barely scrutinize you motivates more active self-presentation.
+- [INS-260404-5343] Explicit claims of passion or quality trigger audience skepticism, while implicit demonstration of those same qualities through confident behavior is the most powerful signal available.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2030,6 +2032,7 @@ Generated on 2026-04-04 | 3856 actionable insights
 - [INS-260404-4127] Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 - [INS-260404-3212] Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
 - [INS-260404-6C20] The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
+- [INS-260404-44A4] Investors care more about seeing what workarounds real people use today than hearing billion-dollar TAM numbers, because workarounds prove demand exists while market stats are abstract.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2914,6 +2917,8 @@ Generated on 2026-04-04 | 3856 actionable insights
 - [INS-260404-5483] Don't dwell on business models in early pitches — investors expect them to be wrong and you'll crowd out what actually matters: the problem and the product.
 - [INS-260404-683B] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless boilerplate.
 - [INS-260404-B887] Tell specific stories about real users and their problems to counter the investor's biggest fear: that you've built something based on untested theories about what the world needs.
+- [INS-260404-93E3] Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
+- [INS-260404-8660] Founders should describe their startup as a specific narrow thing rather than a vague platform, because investors discard abstract language as meaningless boilerplate.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3538,6 +3543,7 @@ Generated on 2026-04-04 | 3856 actionable insights
 - [INS-260404-3FDF] Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
 - [INS-260404-380C] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - [INS-260404-C720] Start by making a few users love you rather than many users tolerate you.
+- [INS-260404-8E0B] Oxygen — the molecule enabling all animal life — is just a waste product of photosynthesis, which exists to make glucose for plants.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

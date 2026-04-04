@@ -49,10 +49,10 @@ stance: >-
   mitochondria
 related:
   - INS-260327-5DB4
+  - INS-260404-2D92
   - INS-260330-54A3
   - INS-260330-2C71
   - INS-260330-4B45
-  - PRI-260403-181B
   - INS-260330-A18F
 evidence:
   - id: INS-260330-2C71

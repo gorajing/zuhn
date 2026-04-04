@@ -54,7 +54,7 @@ related:
   - INS-260404-95E9
   - INS-260330-2E41
   - INS-260330-1677
-  - INS-260404-AC2C
+  - INS-260404-BDE5
 ---
 The light-dependent reactions don't convert photon energy directly into glucose. Instead, they build a proton concentration gradient across thylakoid membranes — essentially charging a biological battery. ATP synthase then harvests this stored potential energy to produce ATP, which the Calvin Cycle finally uses to build sugar.
 

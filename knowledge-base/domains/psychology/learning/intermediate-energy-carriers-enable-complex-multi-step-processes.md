@@ -48,7 +48,6 @@ stance: >-
   robust than attempting direct conversion
 related:
   - INS-260330-1298
-  - INS-260330-5670
   - INS-260330-2C71
   - INS-260404-F908
   - INS-260404-3500

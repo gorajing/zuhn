@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 92 insights
+> 93 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -42,6 +42,7 @@
 - `INS-260404-AE3C` [high] RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
 - `INS-260404-D975` [high] Once deeply committed to a strategy, systems cope with its flaws rather than replace it, because replacement cost exceeds inefficiency cost.
 - `INS-260404-1D8F` [high] RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
+- `INS-260404-0BED` [high] RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
 - `INS-260403-EB12` [high] True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260330-C9A6` [high] Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260402-40D7` [high] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.

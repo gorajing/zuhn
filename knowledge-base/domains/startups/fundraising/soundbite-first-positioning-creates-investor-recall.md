@@ -48,11 +48,11 @@ stance: >-
   but a forcing function that reveals whether your startup's plans are
   sufficiently focused.
 related:
-  - INS-260403-EF30
-  - INS-260403-FE37
   - INS-260403-448F
+  - INS-260403-FE37
+  - INS-260403-EF30
+  - INS-260404-0AF3
   - INS-260403-2FE1
-  - INS-260403-941F
 ---
 Professional investors hear so many pitches they blur together. The first survival filter is simply being remembered. Hollywood uses 'X meets Y'; startups use 'the X of Y' (e.g., Viaweb was 'the Microsoft Word of ecommerce'). Launch this phrase clearly but apparently casually, preferably near the beginning of your talk.
 

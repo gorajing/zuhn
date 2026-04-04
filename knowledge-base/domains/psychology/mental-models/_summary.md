@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 91 insights
+> 92 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -87,6 +87,7 @@
 - `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
 - `INS-260330-1953` [medium] Underwater bubbles oscillating and collapsing under Rayleigh-Plesset dynamics concentrate enough energy to produce light (sonoluminescence), demonstrating how oscillating collapse amplifies small inputs into extreme outputs.
 - `INS-260403-45E3` [medium] Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
+- `INS-260404-2D92` [medium] The electron transport chain loses energy at every step but gains the ability to produce multiple useful outputs (ATP, NADPH, oxygen) from a single photon.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
 - `INS-260330-E497` [medium] Plants' photosynthesis created the oxygen-rich atmosphere that now poisons their own RuBisCo enzyme, forcing them to compensate with volume and detox pathways rather than evolving a better enzyme.
 - `INS-260402-1F58` [medium] The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.

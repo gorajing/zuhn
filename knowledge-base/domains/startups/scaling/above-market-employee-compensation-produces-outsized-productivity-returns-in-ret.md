@@ -50,12 +50,11 @@ stance: >-
   productivity per employee, making high wages a cost-reduction strategy rather
   than a cost increase in labor-intensive operations.
 related:
-  - INS-260327-D480
   - INS-260403-857E
+  - INS-260404-95FC
   - INS-260403-8A80
   - INS-260403-5CB5
   - INS-260404-CEA8
-  - INS-260403-43E5
 ---
 Costco pays an average of $21/hour—double the US retail average—plus better health insurance and retirement benefits. Rather than increasing costs, this investment produces employees who are three times more productive than the industry average. The company treats compensation as a strategic input to its low-cost model, not a line item to minimize.
 

@@ -23,6 +23,7 @@
 - `INS-260404-F827` When membership IS the business model (not a perk), the company's profit motive aligns with delivering maximum customer value.
 - `INS-260403-FAE1` Making membership the primary revenue source forces the company to optimize for long-term customer satisfaction over short-term margin extraction.
 - `INS-260404-837E` Costco makes 75% of profit from membership fees, freeing it to keep markups at 11% average versus 24-35% for competitors.
+- `INS-260404-66A1` When membership fees are the primary revenue source, the company's survival depends on consistently delivering enough value to justify renewal.
 - `INS-260403-3864` Costco makes 75% of profit from membership fees, which means raising prices costs $60 in lost renewals for pennies of margin gain.
 - `INS-260403-8757` Costco derives 75% of profit from membership fees, making customer satisfaction the direct driver of revenue rather than markup.
 - `INS-260403-CDB9` When 75% of revenue comes from membership fees, the rational move is always to lower prices to protect renewals.

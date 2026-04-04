@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 55 insights
+> 56 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -44,6 +44,7 @@
 - `INS-260403-B73A` [high] When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
 - `INS-260403-76EE` [high] Oxygen — the gas that enabled all complex animal life — is just a waste product of photosynthesis, not its purpose.
 - `INS-260330-9231` [high] Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth.
+- `INS-260404-8E0B` [high] Oxygen — the molecule enabling all animal life — is just a waste product of photosynthesis, which exists to make glucose for plants.
 - `INS-260403-C4CD` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260403-FDD8` [high] Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.

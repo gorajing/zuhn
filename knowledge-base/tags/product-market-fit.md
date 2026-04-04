@@ -7,12 +7,12 @@
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260404-CF2A` Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
+- `INS-260403-94AD` Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
+- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260327-DB8F` PMF is not strategy—it's the volume of genuine user conversations you have.
 - `INS-260327-1996` Conrad says Rippling took two years to start working, but he had zero doubt it would — so his entire job was preventing the team from quitting before they got there.
-- `INS-260403-94AD` Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
-- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
@@ -56,6 +56,10 @@
 - `INS-260327-A815` A repeatable sales motion means a non-founder can sell and close — you know your ICP, your pitch, your lead sources, and deals move predictably through the funnel before you hire a sales leader.
 - `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
+- `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
+- `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
+- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
+- `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260323-D679` Fireship got 3,121 free signups from his massive YouTube audience but only 0.3% converted to paid — proving that free distribution masks product-market fit failure until the money conversation starts.
 - `INS-260330-E089` Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
@@ -76,7 +80,3 @@
 - `INS-260330-5ED4` Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
 - `INS-260327-FC5D` Finding the one feature that drives the aha moment is very hard, but your customers will tell you through their behavior.
 - `INS-260403-B635` Having a few users who truly love your product matters infinitely more than having many indifferent users.
-- `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
-- `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
-- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
-- `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.

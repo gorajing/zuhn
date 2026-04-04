@@ -1,5 +1,6 @@
 # Tag: demand-signal
 
+- `INS-260404-44A4` Investors care more about seeing what workarounds real people use today than hearing billion-dollar TAM numbers, because workarounds prove demand exists while market stats are abstract.
 - `INS-260403-30D8` Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - `INS-260404-7609` Tell stories about specific users and their problems rather than citing market sizes — investors' biggest fear is that nobody actually wants your product.
 - `INS-260404-4F3A` Specific user stories beat market-size slides because they directly counter the investor's primary fear: that nobody actually wants your product.

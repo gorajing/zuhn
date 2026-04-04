@@ -18,8 +18,8 @@
 - `INS-260329-C474` A frozen yogurt store doing $800K revenue yields roughly $93K in owner take-home, illustrating the salary-not-wealth trap of small retail.
 - `INS-260403-BB22` Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
 - `INS-260323-0026` Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
-- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260402-E2FF` Make the adversary's business model unviable rather than trying to block every specific attack.
+- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-D2A9` Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 - `INS-260403-5648` The Calvin Cycle produces 6 G3P molecules but must feed 5 back to regenerate the cycle — only 1/6 of output is 'profit,' the rest is reinvestment.
@@ -37,6 +37,6 @@
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260404-1C01` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
-- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
+- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.

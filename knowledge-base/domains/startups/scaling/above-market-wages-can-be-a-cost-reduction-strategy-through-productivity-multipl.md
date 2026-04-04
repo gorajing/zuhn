@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260330-7E58
   - INS-260403-5CB5
+  - INS-260404-95FC
   - INS-260404-CEA8
   - INS-260404-E1B0
   - INS-260403-8A80
-  - INS-260403-E2D9
 ---
 The conventional cost-cutting playbook treats labor as an expense to minimize. Costco pays its 245,000 workers an average of $21/hour—double the U.S. retail average—with superior health insurance and retirement benefits. The result is employees who are three times more productive than the industry norm. The math works because the productivity multiplier (3x) far exceeds the wage premium (2x), and reduced turnover eliminates the hidden costs of constant hiring, training, and institutional knowledge loss. This creates another virtuous cycle: better-paid workers provide better service, which reinforces the membership value proposition, which drives renewals. The insight extends beyond retail—any business where employee quality directly affects customer experience may find that above-market compensation is the cheaper strategy.

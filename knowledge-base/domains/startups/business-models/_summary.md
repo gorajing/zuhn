@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 216 insights
+> 218 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -106,6 +106,7 @@
 - `INS-260404-F827` [high] When membership IS the business model (not a perk), the company's profit motive aligns with delivering maximum customer value.
 - `INS-260403-FAE1` [high] Making membership the primary revenue source forces the company to optimize for long-term customer satisfaction over short-term margin extraction.
 - `INS-260404-837E` [high] Costco makes 75% of profit from membership fees, freeing it to keep markups at 11% average versus 24-35% for competitors.
+- `INS-260404-66A1` [high] When membership fees are the primary revenue source, the company's survival depends on consistently delivering enough value to justify renewal.
 - `INS-260403-3864` [high] Costco makes 75% of profit from membership fees, which means raising prices costs $60 in lost renewals for pennies of margin gain.
 - `INS-260403-8757` [high] Costco derives 75% of profit from membership fees, making customer satisfaction the direct driver of revenue rather than markup.
 - `INS-260403-CDB9` [high] When 75% of revenue comes from membership fees, the rational move is always to lower prices to protect renewals.
@@ -209,6 +210,7 @@
 - `INS-260404-9D4E` [medium] Declining businesses should default to renovation over elimination because existing infrastructure has recoverable value.
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` [medium] Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
+- `INS-260404-95FC` [medium] Costco pays double the US retail average ($21/hr) and gets employees who are three times more productive.
 - `INS-260403-E2D9` [medium] Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive, making the wage premium a profit driver rather than a cost.
 - `INS-260403-BE18` [medium] Somali piracy independently reinvented venture capital, equity splits, and performance bonuses because these are convergent solutions to coordination under uncertainty.
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.

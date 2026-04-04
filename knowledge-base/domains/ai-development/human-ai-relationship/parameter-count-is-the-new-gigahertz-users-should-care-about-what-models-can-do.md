@@ -43,11 +43,11 @@ resolutions:
     focus on task performance and user utility rather than architectural
     bragging rights.
 related:
+  - INS-260404-44A4
   - PRI-260328-B2EA
   - PRI-260321-14D8
   - INS-260330-C9FA
   - INS-260322-474A
-  - PRI-260323-2E5A
 stance: >-
   The obsession with parameter counts mirrors the 1990s gigahertz race — what
   matters is end-user utility, not raw numbers.

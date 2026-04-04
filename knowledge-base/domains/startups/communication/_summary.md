@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 33 insights
+> 34 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-621F` [high] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
@@ -13,6 +13,7 @@
 - `INS-260403-FE37` [high] A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
 - `INS-260403-7FBE` [high] A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - `INS-260330-D511` [high] Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
+- `INS-260404-44A4` [high] Investors care more about seeing what workarounds real people use today than hearing billion-dollar TAM numbers, because workarounds prove demand exists while market stats are abstract.
 - `INS-260403-66D0` [high] Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
 - `INS-260403-92EB` [high] Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
 - `INS-260403-8C50` [high] Sequoia's 'proxy for demand' — people using bad tools to do the thing you enable — is the strongest antidote to investors' biggest early-stage fear.

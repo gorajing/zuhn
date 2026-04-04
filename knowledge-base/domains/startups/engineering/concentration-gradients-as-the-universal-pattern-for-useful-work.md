@@ -55,7 +55,7 @@ related:
   - INS-260330-1677
   - INS-260330-7E39
   - INS-260403-37C4
-  - INS-260404-95E9
+  - INS-260404-BDE5
 ---
 In the light-dependent reactions, photon energy doesn't directly build glucose. Instead, it's converted through a multi-step electron transport chain that pumps hydrogen ions into the thylakoid, creating a concentration gradient. Those protons then flow through ATP synthase to produce ATP — the actual energy currency. The raw photon energy must be accumulated and concentrated before it becomes useful.
 

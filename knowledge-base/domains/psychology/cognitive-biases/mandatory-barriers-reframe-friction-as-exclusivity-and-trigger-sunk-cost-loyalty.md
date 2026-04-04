@@ -54,8 +54,8 @@ related:
   - INS-260403-CE5F
   - INS-260404-2D53
   - INS-260404-3156
+  - INS-260404-50A7
   - INS-260403-9104
-  - INS-260404-30CA
   - INS-260404-3D8F
 ---
 The $60 membership fee seems like it should be a fatal obstacle—why would customers pay just to enter a store? But the fee works as a commitment device. Once paid, customers rationalize continued use: 'I've already invested, so I should shop here to get my money's worth.' This stops them from price-comparing at competitors, creating loyalty that voluntary programs cannot match.

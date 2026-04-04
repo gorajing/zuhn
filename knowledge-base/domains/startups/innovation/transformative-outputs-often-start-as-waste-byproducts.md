@@ -61,6 +61,7 @@ related:
   - INS-260403-FDD8
   - INS-260404-E60B
   - INS-260404-D0A5
+  - INS-260404-8E0B
 ---
 When early photosynthetic organisms evolved water-splitting to replenish electrons, oxygen was literally waste — a toxic byproduct that poisoned most existing life in the Great Oxygenation Event. Yet this 'useless' output became the foundation for aerobic respiration and all complex animal life, fundamentally reshaping Earth's biosphere.
 
