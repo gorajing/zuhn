@@ -51,8 +51,8 @@ related:
   - INS-260403-A57D
   - INS-260330-B6FA
   - INS-260330-B09B
+  - INS-260403-1287
   - INS-260329-2A70
   - INS-260330-404B
-  - INS-260330-7346
 ---
 Dalton describes a company doing $8M in revenue that is profitable and debating whether to even bother raising a Series A — because the process is high-pain, uncertain, and carries reputational damage if it fails. As AI makes companies more capital-efficient, the cost-benefit of traditional fundraising deteriorates. Failed fundraises are especially toxic: VCs talk to each other constantly about who's raising, and a failed raise forces a 6-month cooldown. This creates a growing market for low-friction alternatives like Standard Capital. The implication is that VCs who maintain baroque processes will lose deal flow to simpler alternatives, not because founders can't endure the process, but because they no longer need to.

@@ -1,7 +1,8 @@
 # Topic: venture-capital
 
-> 13 insights
+> 14 insights
 
+- `INS-260403-D98E` [high] Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260403-8002` [high] Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate.
 - `INS-260403-B008` [high] Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
 - `INS-260403-9775` [high] VC portfolio math requires every bet to be capable of returning the fund because most investments return zero.

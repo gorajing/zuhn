@@ -53,8 +53,8 @@ related:
   - INS-260321-3660
   - INS-260402-D739
   - INS-260403-C610
+  - INS-260403-573F
   - INS-260323-09E4
-  - PRI-260328-59DC
 ---
 Before TechCrunch and the VC content explosion, founders operated with less information but more originality. Now, the abundance of investor advice, funding announcements, and batch company lists creates a powerful consensus machine that homogenizes thinking. Founders who base their life decisions on podcasts are, by definition, producing non-unique ideas because millions of others consumed the same content and drew the same conclusions.
 

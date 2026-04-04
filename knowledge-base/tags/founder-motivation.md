@@ -6,4 +6,5 @@
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260330-8CD4` Starting a company from genuine mission conviction creates durable advantages in persistence, team alignment, and external support that purely opportunistic ventures cannot replicate.
 - `INS-260327-A675` Parker Conrad credits his 'revenge fantasy' after being ousted from Zenefits as the fuel that sustained him through Rippling's brutal early years.
+- `INS-260403-573F` The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
 - `INS-260403-830F` Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.

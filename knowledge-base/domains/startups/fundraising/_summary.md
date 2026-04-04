@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 142 insights
+> 144 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -28,6 +28,7 @@
 - `INS-260322-8F80` [high] Flying to a city and stacking every investor and customer meeting into 2-3 days creates a forcing function where FOMO compounds — meetings multiply, terms improve, and nobody wants to miss the deal.
 - `INS-260403-1904` [high] Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260330-6204` [high] Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
+- `INS-260403-696C` [high] Falling startup costs make large VC checks unnecessary, eroding the traditional fund model.
 - `INS-260403-9D89` [high] Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies.
 - `INS-260330-C84C` [high] If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
@@ -44,6 +45,7 @@
 - `INS-260403-5D7D` [high] Seed-stage startups are too mobile for small regional grants to anchor them geographically.
 - `INS-260402-66A5` [high] VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260330-7BF5` [high] Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
+- `INS-260403-1287` [high] Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
 - `INS-260403-498A` [high] As startups need less capital, founders retain more equity and control, compressing investor ownership inexorably.
 - `INS-260403-20A7` [high] The single heuristic for predicting fundraising evolution is to ask what founders dislike and expect it to disappear.
 - `INS-260328-4EA0` [high] Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 39 insights
+> 40 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -11,6 +11,7 @@
 - `INS-260330-13A1` [high] Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
 - `INS-260403-FB4D` [high] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 - `INS-260403-204E` [high] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
+- `INS-260403-E86E` [high] The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - `INS-260403-0041` [high] Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
 - `INS-260330-0BBA` [high] Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260330-C870` [high] Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.

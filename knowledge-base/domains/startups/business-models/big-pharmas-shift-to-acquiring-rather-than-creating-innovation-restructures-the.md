@@ -51,11 +51,11 @@ stance: >-
   creates both opportunity and a funding gap that forces early-stage ventures to
   be more capital-efficient and market-aware
 related:
+  - INS-260403-D98E
   - INS-260322-3A00
   - INS-260403-57FF
   - INS-260330-6204
   - INS-260402-8424
-  - INS-260403-498A
 ---
 The pharmaceutical industry is undergoing a structural shift where large companies' internal research has failed to deliver blockbuster drugs, leading them to outsource innovation by acquiring promising startups at later stages. While this creates acquisition opportunities for startups, it also means the expensive, risky early-stage R&D now falls on smaller companies with far fewer resources.
 

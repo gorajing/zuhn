@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 425 insights
+> 427 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -113,6 +113,7 @@
 - `INS-260330-D108` [high] Photosynthesis 'rather sucks' — it's complicated, inefficient, and confusing — yet it powers all complex life because it was first and sufficient.
 - `INS-260330-EEED` [high] Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
 - `INS-260330-E853` [high] Rockefeller treated every recession as a buying opportunity — the 1873 depression let him acquire Pittsburgh, Philadelphia, and New York refineries at fractions of their value because he was one of the few still profitable.
+- `INS-260403-E3CC` [high] Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260330-EC7C` [high] Britain's enclosure movement privatized common fields, boosting agricultural output but impoverishing tenant farmers — a pattern that repeats in every platform economy shift.
 - `INS-260330-6050` [high] Build where incumbents face structural inability to compete, not just unwillingness.
 - `INS-260327-7F1B` [high] Glass bottles are better for the environment but lost to plastic and aluminum because transportation costs per unit are 
@@ -316,6 +317,7 @@
 - `INS-260330-43CF` [high] PayPal started with 20,000 eBay power sellers, Facebook with 10,000 Harvard students — markets dismissed as worthless that enabled 25-60% penetration in months before expanding outward.
 - `INS-260330-C9C6` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-568A` [high] Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
+- `INS-260403-CE7C` [high] Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - `INS-260402-F4E5` [high] Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260328-02A0` [high] Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time.
 - `INS-260403-600C` [high] Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic.

@@ -48,7 +48,6 @@ stance: >-
   treating ideas as fixed blueprints.
 related:
   - INS-260323-C4E2
-  - INS-260321-3660
   - INS-260322-3E59
   - INS-260329-EAFD
   - INS-260330-AB6E

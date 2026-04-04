@@ -49,11 +49,11 @@ stance: >-
   capital is worth because unsophisticated investors don't understand startup
   timelines and will pressure founders for returns.
 related:
-  - INS-260322-A31D
   - INS-260330-478B
   - INS-260330-EE5E
   - PRI-260403-26B9
-  - INS-260323-1B42
+  - INS-260322-A31D
+  - INS-260403-1287
 evidence:
   - id: INS-260323-1B42
     type: SUPPORTS

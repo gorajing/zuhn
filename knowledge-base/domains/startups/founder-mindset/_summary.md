@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 290 insights
+> 291 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -168,6 +168,7 @@
 - `INS-260329-A01C` [high] The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260402-27A1` [high] A failed startup teaches more founder skills in one year than several years at a big company.
 - `INS-260327-80A8` [high] A startup success is your customer success — focus on whether they are getting value, not on vanity metrics.
+- `INS-260403-4431` [high] Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
 - `INS-260329-E0DE` [high] Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
 - `INS-260323-475F` [high] Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
 - `INS-260323-A700` [high] The martyr archetype wears exhaustion as a badge of honor, but burnout reduces productivity by 10%+ and early burnout can cost $300K/year in lost high-earning years — suffering itself is the opposite path to wealth.

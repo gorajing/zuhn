@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 162 insights
+> 164 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -57,6 +57,7 @@
 - `INS-260330-D88C` [high] Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
 - `INS-260323-1643` [high] Netanyahu's formula for Israel's GDP growth from $17K to $54K per capita: free market reforms plus a permanent pipeline of knowledge workers from military intelligence who become technology entrepreneurs.
 - `INS-260330-C087` [high] Innovation requires freedom to fail — eliminating downside risk through regulation also kills upside innovation potential.
+- `INS-260403-04AF` [high] Software IP is nearly worthless as a moat because the field evolves faster than patents can protect, but bio/techbio IP remains a genuine durability source.
 - `INS-260330-ACE7` [high] Apple transfers patents to Irish subsidiaries and 'rents' them back, converting US profit into deductible expenses because IP has no objectively verifiable price.
 - `INS-260330-012D` [high] LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
 - `INS-260330-BF8F` [high] Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
@@ -91,6 +92,7 @@
 - `INS-260330-CB2E` [high] Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
 - `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
+- `INS-260403-8C20` [high] When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260403-92CC` [high] Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.
 - `INS-260330-C7CB` [high] The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.

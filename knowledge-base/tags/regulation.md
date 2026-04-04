@@ -33,4 +33,5 @@
 - `INS-260330-C087` Innovation requires freedom to fail — eliminating downside risk through regulation also kills upside innovation potential.
 - `INS-260330-0027` PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
 - `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
+- `INS-260403-8C20` When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260403-1325` Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.

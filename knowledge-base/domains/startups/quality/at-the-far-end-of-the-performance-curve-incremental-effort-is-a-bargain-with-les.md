@@ -52,11 +52,11 @@ stance: >-
   to even attempt, making it a bargain to try.
 related:
   - INS-260402-B12D
+  - INS-260403-4431
   - INS-260402-C4FF
   - INS-260325-8B36
   - INS-260329-F3F0
   - INS-260403-4942
-  - INS-260327-EE5E
 evidence:
   - id: INS-260402-B12D
     type: EXTENDS

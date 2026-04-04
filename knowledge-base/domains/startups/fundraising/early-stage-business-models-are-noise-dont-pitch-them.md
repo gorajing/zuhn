@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260322-A02C
   - INS-260327-5B30
-  - INS-260327-D2A6
   - INS-260329-3BEE
   - INS-260330-A38C
   - INS-260330-D644
@@ -61,6 +60,7 @@ related:
   - INS-260403-6F52
   - INS-260403-C625
   - INS-260403-86DB
+  - INS-260403-600F
 ---
 A top VC told YC founders that a company he'd just invested millions in had a business model he expected to change three times before they got it right — and he invested anyway. At the early stage, the business model is a collection of guesses about things that aren't the founders' area of expertise. Smart investors know this. They're evaluating the team's ability to identify and solve real problems, not their ability to forecast revenue streams.
 

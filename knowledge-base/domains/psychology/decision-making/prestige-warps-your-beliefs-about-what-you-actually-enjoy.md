@@ -53,8 +53,8 @@ related:
   - INS-260402-D0F3
   - INS-260403-D64B
   - INS-260403-57F6
+  - INS-260403-A4EB
   - INS-260403-DE28
-  - INS-260325-4CF9
 ---
 Paul Graham argues that prestige acts like a powerful magnet warping your beliefs about what you enjoy. People don't pursue novel-writing because they love the craft of making up elaborate lies — they pursue it because novelists win Nobel prizes and the identity seems admirable. This creates a systematic bias: when choosing between two paths that seem equally appealing, the less prestigious one likely reflects your genuine preference because prestige has already inflated the other.
 

@@ -48,15 +48,15 @@ stance: >-
   specific problem, not where startups are generically prestigious
 related:
   - INS-260322-8F3F
-  - INS-260327-4DDE
   - INS-260329-C0A7
   - INS-260330-DD63
+  - INS-260327-4DDE
+  - INS-260403-573F
   - INS-260402-D739
   - INS-260403-C381
   - INS-260403-C9DC
   - INS-260330-8FC5
   - INS-260403-5BFB
-  - INS-260403-9DC6
 evidence:
   - id: INS-260330-8FC5
     type: SUPPORTS

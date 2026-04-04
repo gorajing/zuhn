@@ -11,3 +11,4 @@
 - `INS-260403-CC4E` Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-FF57` Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
+- `INS-260403-E86E` The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.

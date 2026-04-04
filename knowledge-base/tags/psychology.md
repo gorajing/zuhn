@@ -2,9 +2,9 @@
 
 - `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
 - `INS-260329-8C14` The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.
+- `INS-260403-34E0` Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - `INS-260330-61C3` The Killingsworth & Gilbert study (Science, 2010) found that what you're thinking matters less for happiness than whether your thoughts match your current activity.
 - `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
-- `INS-260403-34E0` Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - `INS-260330-EF10` Pay off high-interest debt and build 6-12 months of emergency savings before investing, because financial stress causes panic selling that destroys returns.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
@@ -26,8 +26,8 @@
 - `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
 - `INS-260325-3754` Research consistently shows approximately two-thirds of people exposed to potentially traumatic events continue functioning normally — resilience is the norm, not the exception.
-- `INS-260324-988E` Nightclubs make money from men buying $1,000 tables and $100 bottles to impress women — promoters are the invisible workforce that fills clubs with attractive women to create the demand signal.
 - `INS-260325-9B73` Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
+- `INS-260324-988E` Nightclubs make money from men buying $1,000 tables and $100 bottles to impress women — promoters are the invisible workforce that fills clubs with attractive women to create the demand signal.
 - `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
 - `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.

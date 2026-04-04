@@ -11,8 +11,8 @@
 - `INS-260330-CF99` Johnson frames all psychiatric disorders as narrowed reality tunnels — addiction to substances, thoughts, or self-narratives — that psychedelics can blast open.
 - `INS-260330-5828` External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative.
 - `INS-260330-544F` Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes.
-- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
+- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260325-C830` Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260325-B5EF` Brain imaging shows behavioral addictions from tech activate the same areas as drug addictions.
 - `INS-260323-369C` The most dangerous aspect of addiction for creative people is the false belief that substances are the source of creativity — Callaghan proved the creative engine survives intact after sobriety.

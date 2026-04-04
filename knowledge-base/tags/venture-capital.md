@@ -7,6 +7,7 @@
 - `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
 - `INS-260324-72E8` After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
 - `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
+- `INS-260403-D98E` Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
 - `INS-260403-E1E4` Infrastructure windows are spotted through network proximity to technical founders, not through market analysis or public data.
 - `INS-260403-7C47` As you move earlier in the funding spectrum, help matters exponentially more than money.
@@ -23,6 +24,8 @@
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260403-696C` Falling startup costs make large VC checks unnecessary, eroding the traditional fund model.
+- `INS-260403-1287` Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
 - `INS-260403-20A7` The single heuristic for predicting fundraising evolution is to ask what founders dislike and expect it to disappear.
 - `INS-260328-3959` A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
 - `INS-260403-028F` Startup investors need domain expertise and skin in the game—two things structurally absent from government bureaucracies.

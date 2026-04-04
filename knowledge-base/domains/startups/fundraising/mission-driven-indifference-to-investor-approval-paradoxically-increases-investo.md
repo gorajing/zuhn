@@ -53,8 +53,8 @@ related:
   - INS-260402-9075
   - INS-260403-6890
   - INS-260403-12FD
-  - INS-260403-20A7
   - PRI-260403-26B9
   - INS-260403-9A4C
+  - INS-260403-10D8
 ---
 Graham describes the Chatterous founders deciding their service was something the world needed, resolving to continue even if it meant living in their parents' basements. Once they internalized this, investors sensed the shift and became more interested. This isn't just negotiation leverage — it's information signaling. A founder willing to operate without funding reveals genuine conviction in the opportunity, low burn rate, and emotional durability. All three reduce investor risk. The paradox is that the founders most desperate for money are least likely to get it, while those who've made peace with bootstrapping become magnets for capital. The practical application: before fundraising, genuinely commit to a path that works without outside money.

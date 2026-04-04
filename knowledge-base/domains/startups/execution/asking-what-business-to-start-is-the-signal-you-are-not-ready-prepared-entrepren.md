@@ -58,7 +58,6 @@ related:
   - INS-260327-61AE
   - INS-260327-39D4
   - INS-260328-9FC0
-  - INS-260329-FE15
 stance: >-
   When someone emails Cuban asking what kind of business to start, that question
   itself reveals they are not ready

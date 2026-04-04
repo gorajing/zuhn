@@ -42,8 +42,6 @@ stance: >-
   breakthrough work than raw ability or determination, because it serves as both
   a proxy for ability and a substitute for willpower.
 related:
-  - INS-260323-C814
-  - INS-260327-BEEE
   - INS-260329-6BFC
   - INS-260329-723A
   - INS-260330-D61A
@@ -52,5 +50,7 @@ related:
   - INS-260330-E126
   - INS-260402-D9D0
   - INS-260402-8223
+  - INS-260403-D64B
+  - INS-260403-94C4
 ---
 Paul Graham identifies a third ingredient for genius beyond natural ability and determination: a disinterested obsessive interest in something that matters. This 'bus ticket collector' quality means pursuing a topic purely because you find it fascinating, not for status or money. The key insight is that obsessive interest does double duty — it acts as a proxy for ability (you won't obsess over math without aptitude) and substitutes for willpower (curiosity pulls you forward without needing to push). This reframes the recipe for genius from 'be talented and work hard' to 'find something that matters and become obsessively, selflessly interested in it.'

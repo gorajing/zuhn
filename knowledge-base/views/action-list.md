@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3313 actionable insights
+Generated on 2026-04-04 | 3320 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1082,6 +1082,8 @@ Generated on 2026-04-04 | 3313 actionable insights
 - [INS-260403-EB12] True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - [INS-260403-B710] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - [INS-260403-81A4] Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
+- [INS-260403-6EDC] Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
+- [INS-260403-803A] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -2007,6 +2009,8 @@ Generated on 2026-04-04 | 3313 actionable insights
 - [INS-260403-8256] Non-digitized industries (legal, manufacturing, construction) are the highest-value targets for AI startups because no cloud incumbent blocks entry.
 - [INS-260403-F66F] Fragmented markets with entrenched but low-quality incumbents let startups capture outsized value through aggregation and 10X better experiences.
 - [INS-260403-599B] When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
+- [INS-260403-E3CC] Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
+- [INS-260403-CE7C] Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2525,6 +2529,7 @@ Generated on 2026-04-04 | 3313 actionable insights
 - [INS-260403-97DB] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - [INS-260403-C5C0] Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
 - [INS-260403-0973] Describe your startup as a specific thing rather than an abstract platform that could be anything.
+- [INS-260403-1287] Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2784,6 +2789,7 @@ Generated on 2026-04-04 | 3313 actionable insights
 - [INS-260403-AEB3] Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
 - [INS-260403-39BB] Great startup ideas sit in the Venn diagram overlap of 'seems like a bad idea' and 'is actually a good idea.'
 - [INS-260403-F7DA] Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
+- [INS-260403-573F] The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
@@ -3075,6 +3081,7 @@ Generated on 2026-04-04 | 3313 actionable insights
 - [INS-260403-5C06] NFX's 5-level AI spectrum shows most founders default to AI enhancement (L1-3) rather than pursuing AI-first products (L4-5) where transformative value lives.
 - [INS-260403-35CB] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - [INS-260403-C4CD] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
+- [INS-260403-E86E] The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

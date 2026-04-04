@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 50 insights
+> 52 insights
 
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
@@ -14,6 +14,7 @@
 - `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260330-8FC5` [high] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260330-6689` [high] Each individual integration step in the Greater Bay Area plan has a reasonable economic justification, making organized resistance to the cumulative erosion of autonomy far more difficult than opposing a single dramatic change.
+- `INS-260403-6EDC` [high] Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - `INS-260330-ED37` [high] Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism.
 - `INS-260330-2C57` [high] Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260403-C313` [high] Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
@@ -32,6 +33,7 @@
 - `INS-260330-92BB` [high] Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making.
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
+- `INS-260403-803A` [high] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260330-3899` [high] People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error.
 - `INS-260403-5AAC` [high] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260403-225B` [high] A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.

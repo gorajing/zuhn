@@ -46,7 +46,6 @@ stance: >-
   work that actually builds companies.
 related:
   - INS-260321-3521
-  - INS-260325-3E9F
   - INS-260323-8893
   - INS-260327-7E3D
   - INS-260327-8D86
@@ -55,6 +54,7 @@ related:
   - INS-260328-D220
   - INS-260328-372B
   - INS-260329-0DA4
+  - INS-260330-B6FA
 evidence:
   - id: INS-260328-896B
     type: TRANSFERS_TO

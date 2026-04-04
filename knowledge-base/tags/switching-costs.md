@@ -8,6 +8,7 @@
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260327-3DE7` AI will make it trivial to port data and clone product experiences, eroding brand as a meaningful B2B moat.
+- `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260403-1731` RuBisCo dominates carbon fixation despite failing half the time because plants went all-in before alternatives could evolve.
 - `INS-260329-9BC0` Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
 - `INS-260330-DCFB` Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.

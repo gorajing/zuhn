@@ -52,6 +52,7 @@ related:
   - INS-260328-4EA0
   - PRI-260327-942E
   - INS-260329-89DA
+  - INS-260403-CE7C
 ---
 Most B2B companies are actually enterprise companies that just haven't realized it yet. And the biggest misconception about enterprise sales is how much the CEO is personally involved. At Palantir, for example, a junior salesperson isn't cold-calling Boeing for a $100M deal. There's massive executive sponsorship and founder-level involvement in originating these deals.
 

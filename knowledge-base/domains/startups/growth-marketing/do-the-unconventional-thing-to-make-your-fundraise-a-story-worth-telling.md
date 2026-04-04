@@ -51,7 +51,7 @@ related:
   - PRI-260403-26B9
   - INS-260403-86DB
   - INS-260403-7E27
-  - INS-260403-1852
+  - INS-260403-1287
 ---
 Johnson didn't just raise $3.1M—he did it in 14 days as a 21-year-old Yale junior, making it 'the largest round of any startup currently in the Ivy League.' The unconventional approach (a Yale student building an AI social app, raising the biggest Ivy League round) created a story that generated its own momentum.
 

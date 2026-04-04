@@ -47,10 +47,10 @@ stance: >-
   produces more consistent execution than relying on internal motivation
 related:
   - PRI-260328-E53E
+  - INS-260403-4431
   - INS-260323-979C
   - INS-260330-207D
   - INS-260330-293E
-  - INS-260329-3848
 evidence:
   - id: INS-260330-293E
     type: CHALLENGES

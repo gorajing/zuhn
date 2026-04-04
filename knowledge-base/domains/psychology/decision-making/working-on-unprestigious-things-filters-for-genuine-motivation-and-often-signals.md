@@ -52,10 +52,10 @@ stance: >-
   motives that lead ambitious people astray.
 related:
   - INS-260403-F657
+  - INS-260403-4431
   - INS-260403-2B63
   - INS-260403-A06E
   - INS-260330-1C90
-  - INS-260403-94C4
   - INS-260402-0392
 evidence:
   - id: INS-260330-1C90

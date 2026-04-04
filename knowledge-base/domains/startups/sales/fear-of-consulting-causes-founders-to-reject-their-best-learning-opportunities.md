@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260402-D739
   - INS-260327-4DDE
+  - INS-260403-573F
   - PRI-260328-04FA
   - INS-260330-6C68
-  - PRI-260323-1B96
 ---
 YC has funded thousands of companies, yet Dalton can't recall seeing many die because they did too much consulting. The real consulting boogeyman — a big company wanting your startup to build completely bespoke software with no reusable value (like Disney asking for a white-label social network) — is extremely rare. Yet founders dismiss opportunities as 'consulting' constantly.
 
