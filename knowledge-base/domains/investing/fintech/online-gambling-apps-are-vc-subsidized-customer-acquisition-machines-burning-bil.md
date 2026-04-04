@@ -48,7 +48,6 @@ related:
   - INS-260322-D7B1
   - INS-260327-C54D
   - INS-260403-DEF6
-  - INS-260322-1435
   - INS-260330-1FE2
 stance: >-
   FanDuel and DraftKings are spending billions on advertising and sign-up

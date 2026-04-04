@@ -48,12 +48,12 @@ stance: >-
   the productivity, making high wages a cost-reduction strategy rather than an
   expense
 related:
+  - INS-260404-E1B0
   - INS-260403-43E5
   - INS-260403-5CB5
   - INS-260403-857E
   - INS-260404-CEA8
   - INS-260403-E2D9
-  - INS-260403-C125
   - INS-260404-0FE4
   - INS-260404-FF84
 ---

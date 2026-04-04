@@ -32,6 +32,7 @@
 - `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-270E` Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-1852` Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
+- `INS-260404-DA2E` Smart investors care about the problem and solution at early stage — your business model is just guesses about stuff outside your expertise.
 - `INS-260403-1DB7` Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
 - `INS-260404-4B69` Smart investors expect early business models to be wrong, so talking about them wastes time better spent on the problem you solve.
 - `INS-260404-4605` Don't pitch your business model to early-stage investors — they assume it's wrong and care about the problem you're solving.

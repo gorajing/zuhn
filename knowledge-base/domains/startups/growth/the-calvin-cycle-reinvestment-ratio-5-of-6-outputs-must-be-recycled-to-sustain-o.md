@@ -56,6 +56,7 @@ related:
   - INS-260330-E068
   - INS-260403-5648
   - INS-260403-E52B
+  - INS-260404-1C01
 ---
 In the Calvin Cycle's final accounting, 3 molecules of RuBP are processed with CO2, ATP, and NADPH to produce 6 molecules of G3P (the ultimate useful product of photosynthesis). But 5 of those 6 G3Ps must be immediately reinvested to regenerate the 3 RuBP molecules needed to keep the cycle running. Only 1 G3P — roughly 17% of total output — is available for the plant to actually use for growth, structure, or energy storage.
 

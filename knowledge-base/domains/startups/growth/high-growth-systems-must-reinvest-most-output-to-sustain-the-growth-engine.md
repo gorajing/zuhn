@@ -56,6 +56,7 @@ related:
   - INS-260403-E52B
   - INS-260403-07D2
   - INS-260403-2CA2
+  - INS-260404-1C01
 ---
 In the Calvin Cycle's carbon fixation, three turns of the cycle convert 3 CO2 molecules into 6 G3P molecules, but 5 of those 6 must be recycled to regenerate the 3 RuBP molecules that keep the cycle running. Only one G3P — roughly 17% of total output — leaves the cycle as usable product. The cycle literally cannot function if you extract more.
 

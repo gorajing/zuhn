@@ -54,12 +54,12 @@ related:
   - INS-260330-E811
   - INS-260330-53A9
   - INS-260330-C02D
-  - INS-260330-9A60
   - INS-260330-4983
   - INS-260330-22C0
   - PRI-260403-C34A
   - INS-260403-D482
   - INS-260403-8CD3
+  - INS-260404-4010
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and oxygen scarce, making its poor specificity irrelevant. As plants' own success flooded the atmosphere with oxygen, RuBisCo started grabbing O2 instead of CO2 roughly half the time, creating toxic byproducts. But by then, the entire plant kingdom had built its metabolism around RuBisCo. Rather than replace the enzyme, plants evolved elaborate workaround pathways to detoxify the waste products.
 

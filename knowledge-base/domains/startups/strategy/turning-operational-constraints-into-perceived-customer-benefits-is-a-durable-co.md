@@ -58,6 +58,7 @@ related:
   - INS-260403-2AE7
   - INS-260404-007B
   - INS-260404-2087
+  - INS-260404-8D5F
 ---
 Costco's warehouse layout with no back rooms, forklift-loaded shelves, and deliberately confusing navigation exists primarily to cut costs. But customers experience these as signals that they're getting wholesale deals—the industrial feel communicates 'no frills, just value.' Similarly, IKEA's flat-pack do-it-yourself model saves shipping costs but makes customers feel pride of ownership. The constraint becomes the brand.
 

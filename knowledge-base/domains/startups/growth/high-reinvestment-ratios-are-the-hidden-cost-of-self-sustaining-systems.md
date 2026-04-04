@@ -49,11 +49,11 @@ stance: >-
   Sustainable growth systems require reinvesting the vast majority of output
   back into the system, leaving only a fraction as usable product
 related:
-  - INS-260330-8C52
-  - INS-260330-6AB7
-  - INS-260330-E068
-  - INS-260403-5648
   - INS-260403-E52B
+  - INS-260403-5648
+  - INS-260330-6AB7
+  - INS-260404-1C01
+  - INS-260330-E068
 ---
 In the Calvin Cycle, 3 molecules of RuBP are processed through carbon fixation and reduction to produce 6 molecules of G3P. But 5 of those 6 must be recycled to regenerate the starting 3 RuBP molecules. The net yield is just 1 G3P per full cycle — an 83% reinvestment rate.
 

@@ -50,7 +50,6 @@ stance: >-
   one, because early dominance compounds even when the core mechanism is flawed
 related:
   - INS-260330-8B93
-  - INS-260330-3FCF
   - INS-260403-C436
   - INS-260403-F68A
   - INS-260330-6ECA

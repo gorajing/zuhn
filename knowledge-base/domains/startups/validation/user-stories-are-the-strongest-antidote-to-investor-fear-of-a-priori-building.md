@@ -51,8 +51,8 @@ stance: >-
   primary fear
 related:
   - INS-260322-2155
-  - INS-260403-1A73
   - INS-260403-19C0
+  - INS-260404-3217
   - INS-260403-1EB3
   - INS-260404-CF2A
   - INS-260403-419B

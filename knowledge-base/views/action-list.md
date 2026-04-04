@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3756 actionable insights
+Generated on 2026-04-04 | 3761 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1656,6 +1656,7 @@ Generated on 2026-04-04 | 3756 actionable insights
 - [INS-260404-F3C6] Never explicitly claim passion or quality — audiences dismiss it as bullshit and respond only to behavioral confidence signals.
 - [INS-260404-22B3] Saying 'we're passionate' or 'our product is great' triggers skepticism, while behavioral confidence — specificity, pace, eye contact — builds genuine credibility.
 - [INS-260404-D672] When investors can't evaluate the tech, your own confidence becomes the largest piece of evidence they use to form an opinion.
+- [INS-260404-4F69] Never say 'we're passionate' — people ignore or penalize explicit self-praise, but they're deeply influenced by implicit confidence signals.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1983,6 +1984,7 @@ Generated on 2026-04-04 | 3756 actionable insights
 - [INS-260404-8D37] A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
 - [INS-260404-E0B5] The inability to craft a one-phrase startup description signals unfocused strategy, not just weak messaging.
 - [INS-260404-D8C7] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
+- [INS-260404-756D] If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2832,6 +2834,9 @@ Generated on 2026-04-04 | 3756 actionable insights
 - [INS-260404-EAB7] Business models at early stage are guesses about things outside your expertise — spend that time on the problem and product instead.
 - [INS-260404-0BB0] As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.
 - [INS-260404-5D18] Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
+- [INS-260404-DA2E] Smart investors care about the problem and solution at early stage — your business model is just guesses about stuff outside your expertise.
+- [INS-260404-8AB9] As your startup description approaches 'could be anything,' its information content approaches zero — investors discard it as boilerplate.
+- [INS-260404-3217] Investors' biggest early-stage fear is that you built from theory, not need — specific user stories and 'proxy for demand' signals directly counter this.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

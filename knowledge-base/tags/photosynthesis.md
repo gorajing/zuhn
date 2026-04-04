@@ -12,3 +12,4 @@
 - `INS-260330-C7C2` Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
 - `INS-260403-BA93` Photosynthesis is complicated, inefficient, and confusing—yet it powers virtually all life because it got there first.
 - `INS-260330-39B0` Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
+- `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.

@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260403-BEAC
   - INS-260403-88E8
+  - INS-260404-DA2E
   - INS-260403-C496
   - INS-260403-A172
   - INS-260403-0267
-  - INS-260403-3482
 ---
 Graham recounts a VC who invested in a company whose business model he knew was wrong — he expected it to change three times before they got it right. The business model at seed stage is just guesses about areas outside the founders' core expertise. Spending precious pitch minutes on it is doubly harmful: it wastes time that could go toward demonstrating technical depth on the problem, and a spectacularly wrong model can overwrite the investor's memory of everything good you showed.
 

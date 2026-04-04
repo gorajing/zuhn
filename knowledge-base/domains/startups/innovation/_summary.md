@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 79 insights
+> 80 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -53,6 +53,7 @@
 - `INS-260404-F8E6` [high] Oxygen — the molecule all animal life depends on — is a waste product that photosynthesis discards while making glucose.
 - `INS-260403-F75F` [high] Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260403-FAD8` [high] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
+- `INS-260404-FF39` [high] Oxygen — the molecule enabling all animal life — was originally a toxic waste product of early photosynthesis, suggesting that transformative innovations often emerge as byproducts.
 - `INS-260403-8CDD` [high] Turnaround plans fix execution problems but cannot address fundamental business model expiration.
 - `INS-260403-CACE` [high] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260403-EFE6` [high] Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.

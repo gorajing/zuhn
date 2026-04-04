@@ -52,10 +52,10 @@ stance: >-
   humans have ever created.
 related:
   - INS-260330-44BC
+  - INS-260404-1A18
   - INS-260330-AB58
   - INS-260404-9213
   - PRI-260328-22EC
-  - INS-260330-7C58
   - INS-260330-3C4C
   - INS-260403-3831
 evidence:

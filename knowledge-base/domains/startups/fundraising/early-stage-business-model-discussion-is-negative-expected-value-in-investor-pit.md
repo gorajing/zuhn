@@ -56,7 +56,6 @@ stance: >-
   startups because the model is almost certainly wrong and displaces discussion
   of the problem and product
 related:
-  - INS-260327-58AC
   - INS-260329-FCC6
   - INS-260403-E393
   - INS-260404-BF04

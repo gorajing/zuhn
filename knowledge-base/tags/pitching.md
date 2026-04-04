@@ -8,6 +8,7 @@
 - `INS-260404-D8C7` A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-621F` Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
+- `INS-260404-756D` If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.
 - `INS-260403-D984` Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 - `INS-260403-2FE1` A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
@@ -45,6 +46,7 @@
 - `INS-260403-270E` Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-88E8` Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - `INS-260403-1852` Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
+- `INS-260404-DA2E` Smart investors care about the problem and solution at early stage — your business model is just guesses about stuff outside your expertise.
 - `INS-260403-1DB7` Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
 - `INS-260404-4B69` Smart investors expect early business models to be wrong, so talking about them wastes time better spent on the problem you solve.
 - `INS-260404-4605` Don't pitch your business model to early-stage investors — they assume it's wrong and care about the problem you're solving.
@@ -84,6 +86,7 @@
 - `INS-260403-39B0` Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 - `INS-260403-507E` Describe your startup as a specific, graspable thing rather than abstracting it into meaningless generality.
 - `INS-260403-5A4F` Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
+- `INS-260404-8AB9` As your startup description approaches 'could be anything,' its information content approaches zero — investors discard it as boilerplate.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260404-9882` Approach your pitch like successive approximation: start grippingly narrow, then flesh out, rather than starting broad and hoping investors fill in the gaps.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
@@ -106,6 +109,7 @@
 - `INS-260403-21C4` Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
 - `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
+- `INS-260404-3217` Investors' biggest early-stage fear is that you built from theory, not need — specific user stories and 'proxy for demand' signals directly counter this.
 - `INS-260404-AC2B` Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
 - `INS-260404-5248` Specific user stories — especially founder-as-user stories — are the strongest early signal of demand for investors evaluating pre-traction startups.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.

@@ -59,6 +59,7 @@ related:
   - INS-260403-A65D
   - INS-260403-C2CF
   - INS-260403-1EB3
+  - INS-260404-3217
 ---
 Graham cites Sequoia's concept of 'proxy for demand' — observable evidence that people currently use inadequate tools to solve the problem you're addressing. The hierarchy of credibility is clear: best is when founders built it for themselves (Apple, Microsoft, Google all started this way), next is solving problems for people you know personally, and weakest is abstract market sizing.
 

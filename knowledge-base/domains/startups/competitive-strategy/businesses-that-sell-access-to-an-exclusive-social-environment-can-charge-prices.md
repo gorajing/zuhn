@@ -41,10 +41,10 @@ stance: >-
   rather than any cost-based calculation.
 related:
   - INS-260404-F827
+  - INS-260404-37B5
   - INS-260403-0650
   - INS-260403-7E7C
   - INS-260330-6611
-  - INS-260404-0000
   - INS-260327-57A4
 evidence:
   - id: INS-260327-57A4

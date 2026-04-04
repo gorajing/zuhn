@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 236 insights
+> 239 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -54,6 +54,7 @@
 - `INS-260403-270E` [high] Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-88E8` [high] Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - `INS-260403-1852` [high] Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
+- `INS-260404-DA2E` [high] Smart investors care about the problem and solution at early stage — your business model is just guesses about stuff outside your expertise.
 - `INS-260403-1DB7` [high] Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
 - `INS-260404-4B69` [high] Smart investors expect early business models to be wrong, so talking about them wastes time better spent on the problem you solve.
 - `INS-260404-4605` [high] Don't pitch your business model to early-stage investors — they assume it's wrong and care about the problem you're solving.
@@ -134,6 +135,7 @@
 - `INS-260403-39B0` [high] Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 - `INS-260403-507E` [high] Describe your startup as a specific, graspable thing rather than abstracting it into meaningless generality.
 - `INS-260403-5A4F` [high] Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
+- `INS-260404-8AB9` [high] As your startup description approaches 'could be anything,' its information content approaches zero — investors discard it as boilerplate.
 - `INS-260403-91F9` [high] Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260404-9882` [high] Approach your pitch like successive approximation: start grippingly narrow, then flesh out, rather than starting broad and hoping investors fill in the gaps.
 - `INS-260403-A0C4` [high] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
@@ -195,6 +197,7 @@
 - `INS-260330-EE5E` [high] Small investors who don't understand startup timelines (uncles, neighbors putting in $5-10K) become the most problematic investors because they treat startup equity like a short-term liquid investment.
 - `INS-260330-478B` [high] Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
 - `INS-260403-39F9` [high] Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
+- `INS-260404-3217` [high] Investors' biggest early-stage fear is that you built from theory, not need — specific user stories and 'proxy for demand' signals directly counter this.
 - `INS-260404-AC2B` [high] Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
 - `INS-260404-5248` [high] Specific user stories — especially founder-as-user stories — are the strongest early signal of demand for investors evaluating pre-traction startups.
 - `INS-260403-53AA` [high] Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.

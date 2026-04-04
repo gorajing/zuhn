@@ -49,10 +49,10 @@ stance: >-
   higher-value customers who spend more per visit.
 related:
   - INS-260403-2C00
+  - INS-260404-AC1B
   - INS-260403-B8CD
   - INS-260403-243A
   - INS-260404-B435
-  - INS-260403-747B
 ---
 Costco's mandatory membership fee appears to be a massive acquisition barrier. In practice, it functions as a demographic filter: the $60-120 annual cost selects for households with average incomes near $100,000. These customers spend more per visit, renew at 90%, and generate stable, predictable revenue. Similarly, its warehouse aesthetic and confusing layout — apparent negatives — force customers to wander through aisles, increasing exposure and impulse purchases, while making shoppers feel like savvy deal-hunters rather than manipulated consumers.
 

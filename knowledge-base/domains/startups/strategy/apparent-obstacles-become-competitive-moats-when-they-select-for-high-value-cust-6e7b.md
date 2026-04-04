@@ -51,14 +51,13 @@ stance: >-
   psychological investment.
 related:
   - INS-260323-FEAB
-  - INS-260327-7681
   - INS-260403-747B
   - INS-260403-137D
-  - INS-260403-9104
   - INS-260403-08FE
-  - INS-260403-3F91
   - INS-260403-243A
   - INS-260403-0CF7
+  - INS-260404-975A
+  - INS-260404-B435
   - INS-260404-01B1
 ---
 Costco turns three apparent obstacles into advantages. The $60 membership fee selects for affluent households (average income ~$100K) and triggers sunk-cost commitment. The confusing warehouse layout forces customers to wander through aisles, increasing exposure and impulse purchases. Bulk-only quantities attract business owners who represent one-third of members but two-thirds of sales.

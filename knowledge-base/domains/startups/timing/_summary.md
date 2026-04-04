@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 54 insights
+> 55 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -46,6 +46,7 @@
 - `INS-260403-CAAB` [medium] Major AI game breakouts are delayed because inference speed, cost, model quality, and media generation must all mature simultaneously — just as internet games waited for bandwidth, GPUs, and memory.
 - `INS-260404-D40E` [medium] Map the business environment — trends, competition, customer context, and macro forces — to validate whether your timing is right.
 - `INS-260328-9C16` [medium] Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
+- `INS-260404-1A18` [medium] Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260325-8062` [medium] From 1870-1920 we got electricity, internal combustion, telecom, synthetic chemistry, and public health revolutions; from 1970-2020, mainly just information technology.
 - `INS-260325-66BE` [medium] In 1800 nobody thought lacking refrigerators or plumbing was extreme poverty because it was normal — our descendants may view our era the same way.
 - `INS-260330-4E01` [medium] HEAL sector jobs will outnumber new STEM jobs 3:1 by 2030, but only 24% of HEAL workers are male and the share is falling with no organized effort to reverse it.

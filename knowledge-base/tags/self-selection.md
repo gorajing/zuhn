@@ -4,3 +4,4 @@
 - `INS-260329-8986` CS50's enrollment data proves that perceived prerequisites are the real gatekeepers, not actual skill requirements.
 - `INS-260403-A4EB` Your colleagues self-selected for the same reasons you did, which amplifies whatever motivated the choice — money makes it worse, interest makes it better.
 - `INS-260329-E4BA` Pass/fail options remove the fear barrier that prevents capable people from attempting unfamiliar domains.
+- `INS-260404-AC1B` Costco's $60-$120 membership fee filters for affluent customers ($100K average household income) who spend more and renew at 90%.

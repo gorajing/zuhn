@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 197 insights
+> 199 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -83,6 +83,7 @@
 - `INS-260327-5D01` [high] Legal cannabis businesses face the paradox of competing with the illegal market on price while bearing the compliance co
 - `INS-260403-616B` [high] Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260327-0E28` [high] Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
+- `INS-260404-AC1B` [high] Costco's $60-$120 membership fee filters for affluent customers ($100K average household income) who spend more and renew at 90%.
 - `INS-260404-DD00` [high] Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
 - `INS-260403-CED6` [high] When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
 - `INS-260404-A938` [high] When revenue comes from membership renewal, every pricing decision optimizes for long-term trust rather than short-term margin.
@@ -100,6 +101,7 @@
 - `INS-260403-8757` [high] Costco derives 75% of profit from membership fees, making customer satisfaction the direct driver of revenue rather than markup.
 - `INS-260403-CDB9` [high] When 75% of revenue comes from membership fees, the rational move is always to lower prices to protect renewals.
 - `INS-260403-5C88` [high] When membership fees are the primary revenue source, the company's incentive naturally aligns with keeping prices low to drive renewals.
+- `INS-260404-37B5` [high] When membership fees are the primary revenue source, the company's profit motive and customer value become structurally aligned.
 - `INS-260403-BF47` [high] Costco makes 75% of profit from membership fees, which structurally aligns its incentives with delivering maximum customer value.
 - `INS-260403-B2CB` [high] Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-0650` [high] When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.

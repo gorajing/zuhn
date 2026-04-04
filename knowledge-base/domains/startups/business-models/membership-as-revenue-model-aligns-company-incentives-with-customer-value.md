@@ -57,6 +57,7 @@ related:
   - INS-260404-837E
   - INS-260404-60D6
   - INS-260404-F827
+  - INS-260404-37B5
 ---
 Most retailers profit from markups on goods, creating an inherent tension: every price increase benefits the company at the customer's expense. Costco inverts this by deriving 75% of its profit from membership fees, with a self-imposed 15% maximum markup on all products. This means raising prices would generate trivial short-term gains while risking the $60-$120 annual renewal that constitutes the actual business.
 

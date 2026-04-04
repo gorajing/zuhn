@@ -4,13 +4,13 @@
 - `INS-260329-895D` Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion.
 - `INS-260404-D8C7` A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
+- `INS-260404-756D` If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.
 - `INS-260403-D984` Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 - `INS-260403-2FE1` A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
 - `INS-260403-ED1E` Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 - `INS-260403-7FBE` A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
-- `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - `INS-260330-F534` New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
 - `INS-260329-B77F` Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
@@ -23,6 +23,7 @@
 - `INS-260323-181D` Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260322-683B` Less than 10% of brands succeed, and the common factor among those that do is preserving a single undiluted brand message through every stage of organizational growth.
+- `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - `INS-260403-B3CA` A single compelling phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.

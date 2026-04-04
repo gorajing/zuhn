@@ -49,11 +49,11 @@ related:
   - INS-260322-A02C
   - INS-260323-5F8A
   - INS-260322-EF20
-  - INS-260322-A892
   - INS-260321-2F09
   - PRI-260323-1B96
   - INS-260328-982A
   - INS-260328-070D
   - INS-260403-805E
+  - INS-260403-5EB4
 ---
 A VC speaking at Y Combinator described investing in a company whose business model he knew was wrong—expecting it to change three times before working. Even experienced repeat founders with millions in funding had bad business models at the early stage. This reveals a key asymmetry: investors evaluate early startups primarily on whether founders have built a compelling product that solves an important problem. Business model discussion is just guesses about areas outside most technical founders' expertise. Worse, a spectacularly wrong business model can crowd out the memorable parts of a pitch—investors remember you as 'the company with the boneheaded revenue plan' instead of 'the company that solved that important problem.'

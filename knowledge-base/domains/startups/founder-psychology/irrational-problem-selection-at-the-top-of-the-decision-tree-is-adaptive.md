@@ -54,10 +54,10 @@ related:
   - INS-260329-783C
   - INS-260330-EA94
   - INS-260330-0E4C
-  - INS-260330-3591
   - INS-260330-C0B9
   - PRI-260328-39FA
   - INS-260402-4AB4
+  - PRI-260323-0F93
 ---
 Graham observes that persistent people are usually quite rational — except at the very top of their decision tree. When choosing between problems of roughly equal expected value, they follow personal preference, even deliberately widening their bands of acceptable EV to ensure the problem they love qualifies. Empirically, this works.
 

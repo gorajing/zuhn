@@ -56,7 +56,7 @@ related:
   - INS-260403-0DC2
   - INS-260404-6BA2
   - INS-260404-4B5D
-  - INS-260404-36D7
+  - INS-260404-35BB
   - INS-260403-115B
 ---
 Most retailers compete by offering more choice, assuming variety attracts customers. Costco inverts this by offering 1-2 options per category from ~4,000 total SKUs compared to a typical supermarket's 30,000. This artificial scarcity creates intense supplier competition for the limited slots, driving prices down and quality up without Costco needing to exert traditional negotiating pressure.

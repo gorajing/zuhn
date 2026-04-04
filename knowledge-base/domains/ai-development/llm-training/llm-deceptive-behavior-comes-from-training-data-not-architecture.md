@@ -43,9 +43,9 @@ resolutions:
 related:
   - PRI-260403-EA13
   - PRI-260403-67FC
+  - INS-260404-3217
   - PRI-260328-0AB1
   - INS-260323-BEF0
-  - PRI-260328-D893
 stance: >-
   Scary stories about LLMs trying to deceive or resist shutdown are reflections
   of training data patterns, not emergent architectural properties

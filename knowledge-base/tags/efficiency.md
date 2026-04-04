@@ -20,12 +20,12 @@
 - `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
 - `INS-260403-7738` Photosynthesis routes energy through photons → excited electrons → proton gradients → ATP → G3P, losing energy at every step but enabling precise control at each stage.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
-- `INS-260323-71B3` GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
 - `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260403-3307` Photosynthesis is inefficient and confusing but dominates Earth's energy economy because nothing could displace an entrenched global ecosystem.
 - `INS-260330-39B0` Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
 - `INS-260324-1C12` The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
 - `INS-260330-85D7` Photosynthesis uses a four-complex electron transport chain because staged extraction captures energy that a single-step conversion would waste as heat.
+- `INS-260323-71B3` GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
 - `INS-260321-822B` The fastest AI companies reach $100M revenue significantly faster than SaaS predecessors, with top performers growing 693% YoY — driven by product demand, not sales spend — and running at $500K-1M ARR per FTE versus the old SaaS benchmark of $400K.
 - `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260323-D621` If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.

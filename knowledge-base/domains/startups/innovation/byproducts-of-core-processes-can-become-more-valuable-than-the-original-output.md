@@ -44,16 +44,16 @@ stance: >-
   The most transformative outputs of a system are often unintended side effects
   rather than the designed primary product
 related:
-  - INS-260330-19C3
   - INS-260330-413D
   - INS-260330-C607
   - INS-260330-3AB4
   - INS-260330-E786
   - INS-260330-C7C2
   - INS-260330-0CFF
-  - INS-260330-41F6
   - INS-260330-9231
   - INS-260403-C0D4
+  - INS-260403-D85D
+  - INS-260404-A51E
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen was literally waste — the video calls it 'the most useful useless byproduct in history.' Yet this waste product transformed Earth's atmosphere, enabled aerobic respiration, and made all animal life possible. The byproduct became orders of magnitude more consequential than the primary product.
 

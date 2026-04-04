@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 142 insights
+> 144 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -87,6 +87,7 @@
 - `INS-260323-5341` [high] Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
 - `INS-260403-7B60` [high] Palo Alto's rising costs pushed the active startup center toward Mountain View, a pattern that repeats in every tech hub.
 - `INS-260330-696D` [high] Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
+- `INS-260404-1C01` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260404-E651` [high] Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.
 - `INS-260403-4935` [high] If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
 - `INS-260329-9DF3` [high] Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
@@ -120,6 +121,7 @@
 - `INS-260330-2D53` [medium] China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
 - `INS-260404-46AA` [medium] Photosynthesis stores energy by pumping protons across a membrane to create a concentration gradient, then harvests that gradient through ATP synthase — accumulation before extraction.
 - `INS-260329-2612` [medium] Consistent hashing maps both nodes and data onto a ring, so adding or removing a node only redistributes a fraction of data rather than reshuffling everything.
+- `INS-260404-8D5F` [medium] Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.
 - `INS-260329-A80B` [medium] Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
 - `INS-260403-3A7A` [medium] Inconsistent cross-department innovation collaboration signals the need to formalize innovation processes with dedicated tooling.
 - `INS-260403-FCD7` [medium] YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.

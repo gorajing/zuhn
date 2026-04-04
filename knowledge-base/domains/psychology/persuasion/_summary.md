@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 57 insights
+> 58 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -20,6 +20,7 @@
 - `INS-260404-CDCB` [high] Telling investors you're passionate makes them write you off as bullshitters; showing confidence through substance and demeanor is what actually persuades.
 - `INS-260403-E51B` [high] Audiences ignore or penalize explicit self-promotion but are heavily influenced by implicit behavioral signals of confidence.
 - `INS-260403-B216` [high] Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
+- `INS-260404-4F69` [high] Never say 'we're passionate' — people ignore or penalize explicit self-praise, but they're deeply influenced by implicit confidence signals.
 - `INS-260403-74CD` [high] Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
 - `INS-260404-F3C6` [high] Never explicitly claim passion or quality — audiences dismiss it as bullshit and respond only to behavioral confidence signals.
 - `INS-260403-2081` [high] Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.

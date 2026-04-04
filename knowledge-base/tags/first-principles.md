@@ -19,6 +19,9 @@
 - `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.
 - `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-B904` Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
+- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
+- `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260323-189B` Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
 - `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
 - `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
@@ -26,10 +29,9 @@
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
 - `INS-260329-5398` The Squeeze Theorem shows that if a quantity is trapped between two bounds that converge to the same limit, the quantity must also converge to that limit — eliminating the need for direct computation.
 - `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.
-- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
-- `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
-- `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260326-AB92` Evolution selects for stability not optimality, biology punishes radical intervention with cascading side effects, yet first-principles leaps succeed precisely because they bypass the system rather than trying to reform it.
+- `INS-260327-1ACE` After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
+- `INS-260330-1D3B` An IRS tax inspector with no knowledge of Bitcoin or Tor cracked the Silk Road case through simple date-filtered Google searches, while FBI and DEA specialists with years of work and advanced tools hadn't identified Ross.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260402-5242` Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.
 - `INS-260327-767B` In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
@@ -46,8 +48,6 @@
 - `INS-260323-DA1E` John Bell revolutionized physics by re-examining the EPR paradox that everyone had dismissed as 'settled' — his theorem proved that local hidden variables make different predictions than quantum mechanics, turning a philosophical debate into a testable experiment.
 - `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
 - `INS-260325-DFC7` FlashIntel CEO Yi Shi: find industries where standards are not set, apply tech first — tokens are the new currency in the AI era.
-- `INS-260327-1ACE` After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
-- `INS-260330-1D3B` An IRS tax inspector with no knowledge of Bitcoin or Tor cracked the Silk Road case through simple date-filtered Google searches, while FBI and DEA specialists with years of work and advanced tools hadn't identified Ross.
 - `INS-260330-D8E4` Lane's most striking claim is that H2 + CO2 is thermodynamically less stable than living cells — life is downhill energetically, blocked only by kinetic barriers that the right catalyst can overcome.
 - `INS-260327-24D2` Parker Conrad argues CEOs must develop firsthand understanding of every area rather than delegating to domain experts and trusting them to figure it out.
 - `INS-260322-3CFB` Optimizing for stewardship (what you do and serve) rather than status (titles and positions) produces both deeper fulfillment and better career outcomes.
