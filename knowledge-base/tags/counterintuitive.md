@@ -10,5 +10,5 @@
 - `INS-260324-160B` Texas has the most BBQ spots per capita but a 33% failure rate — lower than less competitive states like California and New York where failure rates are even higher.
 - `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
-- `INS-260403-08FE` Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
 - `INS-260330-CFBF` Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
+- `INS-260403-08FE` Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.

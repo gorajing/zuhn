@@ -1,5 +1,6 @@
 # Tag: neuroscience
 
+- `INS-260323-5EA1` Rick Beato believes all children are born with perfect pitch and lose it around nine months (when they become 'culturally bound listeners'); exposing babies to high-information music prenatally and in the first months engages the social brain for 'native music fluency.'
 - `INS-260330-5D64` Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
 - `INS-260330-6270` Shivering releases succinate from muscles which activates brown fat thermogenesis — resisting shiver during cold exposure eliminates the fat-burning benefit.
 - `INS-260330-2F9F` Cold water exposure uniquely raises dopamine 2.5x above baseline with a sustained multi-hour elevation rather than the spike-crash pattern of stimulants.
@@ -24,6 +25,9 @@
 - `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
 - `INS-260330-92BB` Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making.
 - `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
+- `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
+- `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
+- `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
 - `INS-260325-C830` Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260330-4E50` In ADHD, the default mode network and task-directed networks fire together instead of alternating, and dopamine acts as the conductor that should keep them anti-correlated.
@@ -32,9 +36,6 @@
 - `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
 - `INS-260325-9B9A` Heavy screen use does not just exploit weak impulse control — it actively stunts the brain's ability to develop that control, creating a vicious cycle.
 - `INS-260325-1D95` The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
-- `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
-- `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
-- `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
 - `INS-260330-45FF` Emotional engagement with a subject accelerates learning 3-4x compared to detached, obligation-driven study.
 - `INS-260330-70A8` David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
 - `INS-260329-0487` Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.
@@ -56,4 +57,3 @@
 - `INS-260325-5F3C` The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
 - `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
 - `INS-260330-85D9` The brain's willpower center grows only from doing unwanted tasks, not merely difficult ones you enjoy.
-- `INS-260323-5EA1` Rick Beato believes all children are born with perfect pitch and lose it around nine months (when they become 'culturally bound listeners'); exposing babies to high-information music prenatally and in the first months engages the social brain for 'native music fluency.'

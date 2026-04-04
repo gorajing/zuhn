@@ -1,16 +1,18 @@
 # Tag: motivation
 
 - `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
+- `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - `INS-260330-293E` When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - `INS-260330-C8E2` Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
 - `INS-260330-6418` The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
-- `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
 - `INS-260403-0949` Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
+- `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
 - `INS-260403-81A4` Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
 - `INS-260403-5BF9` Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
+- `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
 - `INS-260403-0C33` If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
@@ -28,7 +30,6 @@
 - `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
 - `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
 - `INS-260329-177E` The 'Season of No' is a deliberate period of saying no to all social activities and entertainment to create an environment that makes intense work the only option.
-- `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
 - `INS-260403-A4EB` Your colleagues self-selected for the same reasons you did, which amplifies whatever motivated the choice — money makes it worse, interest makes it better.
 - `INS-260403-9A57` LatAm founders' shared vision of regional transformation creates collaborative network density that purely profit-driven ecosystems struggle to replicate.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
@@ -55,6 +56,7 @@
 - `INS-260329-68C8` We repeat behaviors that are reinforcing (aligned with deeper purpose), not just those that are rewarding (pleasurable).
 - `INS-260330-2D6D` Nakamura explicitly credited being shunned by PhD colleagues as the source of his 'fighting spirit' that sustained years of grueling daily work.
 - `INS-260326-4164` 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.
+- `INS-260322-E22A` When a colleague's casual remark about her 'declining directing skills' triggered depression, she channeled the resulting anger into accepting two simultaneously impossible K-pop MV projects — and won best MV awards for both.
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
 - `INS-260329-28B0` At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260328-8DF8` People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
@@ -81,5 +83,3 @@
 - `INS-260329-B4C8` Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260327-0E57` SMB: easy to motivate (direct access to power), hard to enable (limited resources). Enterprise: hard to motivate (risk-averse, slow, process-heavy), easier to enable once committed.
-- `INS-260322-E22A` When a colleague's casual remark about her 'declining directing skills' triggered depression, she channeled the resulting anger into accepting two simultaneously impossible K-pop MV projects — and won best MV awards for both.
-- `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.

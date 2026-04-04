@@ -24,9 +24,9 @@
 - `INS-260403-3673` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect while Ross, Aldi, Dollar General, and Costco thrived in the same period — the common factor is adaptation, not channel.
 - `INS-260403-9F4B` RuBisCo was designed for a low-oxygen atmosphere and became increasingly dysfunctional as plants themselves filled the air with oxygen.
 - `INS-260330-DF69` RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
+- `INS-260325-17BF` Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
 - `INS-260403-C5FB` Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
 - `INS-260403-D8A2` Sears, Toys-R-Us, and RadioShack died not because retail died but because they failed to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
-- `INS-260325-17BF` Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
 - `INS-260403-6628` Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.
 - `INS-260330-98EA` The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-CF3E` RuBisCo evolved in a low-oxygen atmosphere, then photosynthesis itself raised oxygen levels until RuBisCo started confusing O2 for CO2 half the time — success changed the environment in ways that undermined the winning strategy.

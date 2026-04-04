@@ -33,15 +33,27 @@
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260403-F7DE` Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
-- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
+- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
 - `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
+- `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
+- `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
+- `INS-260329-8067` Inversion thinking leverages evolutionary threat-detection to make behavior change stick.
+- `INS-260329-A90C` Inversion — defining what to avoid — is more actionable than defining what to pursue because threat-detection is neurologically stronger than reward-seeking.
+- `INS-260330-D385` Judging other systems as 'primitive' based on missing features you value reveals your bias, not their inferiority.
+- `INS-260329-A011` Reframe every purchase as the number of hours you must work to afford it, accounting for taxes.
+- `INS-260329-882A` Phishing works primarily by exploiting authority bias and urgency, not by exploiting technical ignorance about email systems.
+- `INS-260402-A999` People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality.
+- `INS-260403-CF54` The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality.
+- `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
+- `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
+- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
@@ -56,18 +68,6 @@
 - `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
-- `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
-- `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
-- `INS-260329-8067` Inversion thinking leverages evolutionary threat-detection to make behavior change stick.
-- `INS-260329-A90C` Inversion — defining what to avoid — is more actionable than defining what to pursue because threat-detection is neurologically stronger than reward-seeking.
-- `INS-260330-D385` Judging other systems as 'primitive' based on missing features you value reveals your bias, not their inferiority.
-- `INS-260329-A011` Reframe every purchase as the number of hours you must work to afford it, accounting for taxes.
-- `INS-260329-882A` Phishing works primarily by exploiting authority bias and urgency, not by exploiting technical ignorance about email systems.
-- `INS-260402-A999` People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality.
-- `INS-260403-CF54` The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality.
-- `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
-- `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
-- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260329-74E5` Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
 - `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
@@ -210,6 +210,6 @@
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
+- `INS-260403-7333` Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
-- `INS-260403-7333` Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.

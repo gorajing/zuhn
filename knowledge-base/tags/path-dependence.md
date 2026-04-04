@@ -29,6 +29,7 @@
 - `INS-260403-D482` RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - `INS-260330-00AA` Because Muhammad governed Medina as both prophet and political leader, Islam never developed a separate civic-vs-religious legal tradition the way Christianity did.
+- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260403-0162` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement — scaling around inefficiency creates permanent cost.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260403-A5D5` RuBisCo's inability to distinguish O2 from CO2 was irrelevant in a low-oxygen world but became a 50% failure rate once plants oxygenated the atmosphere they depended on.
@@ -38,4 +39,3 @@
 - `INS-260403-E796` Early commitment to a 'good enough' approach creates lock-in that persists even when the approach becomes demonstrably suboptimal.
 - `INS-260330-8D99` Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
-- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.

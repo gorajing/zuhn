@@ -1,9 +1,9 @@
 # Tag: perception
 
 - `INS-260330-5F36` Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
+- `INS-260322-9436` Notes a half step apart in pitch are worlds apart in feeling — degree 5 and sharp 4 are adjacent melodically but on opposite sides of the feeling circle.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
-- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260323-1D46` Donald Hoffman's interface theory argues that organisms evolved to perceive fitness-relevant simplifications, not objective reality — truth is expensive, useful illusion is efficient.
 - `INS-260327-EDE4` In deep space, without familiar environmental cues like horizon, gravity, and day-night cycles, human perception begins to deconstruct, revealing how much of 'reality' depends on context.
@@ -12,6 +12,7 @@
 - `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
 - `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
 - `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
+- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-8B24` Direct experience consistently overrides and corrects media-constructed mental models of people and places.
@@ -62,4 +63,3 @@
 - `INS-260330-6D52` The same physical touch can feel arousing or irritating depending on context, proving that context — not technique — is the primary lever for sexual pleasure.
 - `INS-260403-07C1` Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
 - `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
-- `INS-260322-9436` Notes a half step apart in pitch are worlds apart in feeling — degree 5 and sharp 4 are adjacent melodically but on opposite sides of the feeling circle.

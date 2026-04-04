@@ -16,6 +16,9 @@
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - `INS-260403-A6B1` Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 - `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
+- `INS-260330-E0F5` Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
+- `INS-260403-53C9` Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
+- `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
 - `INS-260329-A218` Deliberately exposing learners to common errors builds debugging intuition that error-avoidance pedagogy cannot produce.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
@@ -23,9 +26,6 @@
 - `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
 - `INS-260329-C1E1` Tight write-test-observe cycles teach abstract concepts faster than front-loaded theory because they catch misconceptions before they compound.
 - `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
-- `INS-260330-E0F5` Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
-- `INS-260403-53C9` Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
-- `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
 - `INS-260403-449A` If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
 - `INS-260329-2ECE` Hormozi's call recording requirement reveals that reviewing your own recorded performance creates a feedback loop that live practice alone cannot match.
@@ -45,9 +45,9 @@
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260330-BEE7` Successful founders personally handle customer support, obsess over tiny product details, and maintain the tightest possible feedback loop with users — especially in the first year.
 - `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
+- `INS-260323-B374` High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
-- `INS-260323-B374` High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260326-C692` Start by asking for criticism of yourself before criticizing others — it builds trust and credibility for harder conversations.
 - `INS-260330-26E7` Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.

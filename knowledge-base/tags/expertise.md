@@ -6,6 +6,14 @@
 - `INS-260329-B408` The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
 - `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
+- `INS-260330-BD04` Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
+- `INS-260330-5EAC` Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
+- `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
+- `INS-260327-5547` In any field, the person who says 'it's complicated' probably knows more than the person who says 'it's simple' - expertise produces humility, not certainty.
+- `INS-260403-47B7` Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.
+- `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
+- `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
+- `INS-260330-66E6` Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
 - `INS-260404-BE07` A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
 - `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
@@ -15,14 +23,6 @@
 - `INS-260403-9DE0` If you can get better at something through practice, objective quality must exist in that domain.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
-- `INS-260330-BD04` Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
-- `INS-260330-5EAC` Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
-- `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
-- `INS-260327-5547` In any field, the person who says 'it's complicated' probably knows more than the person who says 'it's simple' - expertise produces humility, not certainty.
-- `INS-260403-47B7` Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.
-- `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
-- `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
-- `INS-260330-66E6` Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
 - `INS-260330-AE22` A practitioner who teaches from the ground up transfers more usable knowledge than an expert who skips foundations.
@@ -41,10 +41,10 @@
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
 - `INS-260329-F51D` The Google engineer observes that excellent programmers are distinguished not by knowing more data structures but by knowing when each one is the right choice for the task.
 - `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
+- `INS-260328-3FA4` Dalton was typecast as the 'music/consumer guy' when his real expertise was hiring, firing, growth, developer tools, and open source — founders should look at portfolios and operating history, not bios.
 - `INS-260403-6857` Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
 - `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
 - `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
-- `INS-260328-3FA4` Dalton was typecast as the 'music/consumer guy' when his real expertise was hiring, firing, growth, developer tools, and open source — founders should look at portfolios and operating history, not bios.
 - `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
 - `INS-260330-AEF1` Jeff the stranger instantly earned trust and admiration by understanding the pulley system and knowing exactly what to do — practical knowledge created immediate social connection and value.
 - `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.

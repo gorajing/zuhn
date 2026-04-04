@@ -11,6 +11,7 @@
 - `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
 - `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution.
 - `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
+- `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260403-BC89` Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
 - `INS-260329-72AC` Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
@@ -18,7 +19,6 @@
 - `INS-260329-5F37` Every CS50P example follows a pattern of intentionally broken code → diagnosis → fix, training students to see confusion as the precursor to understanding rather than evidence of inability.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
-- `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260329-3763` The structured debugging process taught in programming — isolate, reproduce, trace, fix — is a universal diagnostic framework applicable far beyond code.
 - `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.

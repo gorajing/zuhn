@@ -27,8 +27,8 @@
 - `INS-260403-BDBE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
 - `INS-260403-323A` Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
-- `INS-260403-699B` Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
 - `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
+- `INS-260403-699B` Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
 - `INS-260403-B7B7` Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
 - `INS-260403-39B0` Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 - `INS-260403-D5F2` Investors discard vague descriptions as boilerplate; narrow concrete ones give them a working mental model to build on.

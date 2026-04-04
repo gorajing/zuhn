@@ -5,6 +5,7 @@
 - `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
 - `INS-260322-13D6` AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
+- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
 - `INS-260403-951B` Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
@@ -53,13 +54,12 @@
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260327-6F12` The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
 - `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
-- `INS-260403-8779` Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
-- `INS-260402-EE6E` The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
-- `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
-- `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
 - `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-7F3E` True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.
+- `INS-260403-8779` Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
+- `INS-260402-EE6E` The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
+- `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
+- `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
 - `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
-- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.

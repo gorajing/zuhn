@@ -45,13 +45,13 @@
 - `INS-260329-4293` Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
 - `INS-260402-7182` When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
-- `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
 - `INS-260323-1871` Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
 - `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
 - `INS-260329-6204` Structuring long work days around energy allocation and task batching sustains output without burnout.
 - `INS-260323-A700` The martyr archetype wears exhaustion as a badge of honor, but burnout reduces productivity by 10%+ and early burnout can cost $300K/year in lost high-earning years — suffering itself is the opposite path to wealth.
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
 - `INS-260329-3473` When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.
+- `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
 - `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
 - `INS-260322-B264` The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
 - `INS-260403-857E` Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.

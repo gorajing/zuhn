@@ -3,8 +3,8 @@
 - `INS-260323-825F` The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
 - `INS-260330-293E` When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
-- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260330-121C` Sugar-laden foods show addiction-like price inelasticity (0.77-0.81) — when prices rise, consumption barely drops, matching the 'hedonic actor' model where cost becomes irrelevant to the fix.
+- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260326-A7CB` The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
@@ -25,6 +25,6 @@
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260326-8B81` Fluoride takes 20+ years to clear from bones, childhood attachment patterns take decades of therapy to rewire, and toxic organizational culture persists years after the people who created it leave.
 - `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
+- `INS-260329-21C6` Hormozi applies business principles — friction reduction, single-metric optimization, and systemization — to nutrition, producing a sustainable high-protein diet that requires zero willpower or cooking skill.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
 - `INS-260403-6857` Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
-- `INS-260329-21C6` Hormozi applies business principles — friction reduction, single-metric optimization, and systemization — to nutrition, producing a sustainable high-protein diet that requires zero willpower or cooking skill.

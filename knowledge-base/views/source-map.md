@@ -358,6 +358,7 @@ Generated on 2026-04-04 | 2421 sources
 | How Creandum Built a $2B VC Fund Backing Spotify and Lovable | blog | 5 | 2026-03-30 |
 | How Elad Gil Built a One-Person Multi-Billion Venture Machine | blog | 5 | 2026-03-30 |
 | How Harry Stebbings Turned a Podcast Into a $400M Venture Fund | blog | 5 | 2026-03-30 |
+| How Money Flows 🌊, Chamath’s $380M Loss🤯, VCs Eating PE with AI🔀 | blog | 5 | 2026-03-30 |
 | How Not to Die | blog | 5 | 2026-03-31 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
 | How People Get Rich Now | blog | 5 | 2026-03-31 |
@@ -2186,7 +2187,6 @@ Generated on 2026-04-04 | 2421 sources
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | High Resolution Fundraising | blog | 0 | 2026-03-31 |
 | How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 0 | 2026-03-30 |
-| How Money Flows 🌊, Chamath’s $380M Loss🤯, VCs Eating PE with AI🔀 | blog | 0 | 2026-03-30 |
 | How Natural Tradeoff And Failure Components? | blog | 0 | 2026-03-30 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
