@@ -55,7 +55,6 @@ related:
   - INS-260327-DD5C
   - INS-260327-A815
   - PRI-260328-E921
-  - INS-260328-A666
   - INS-260329-4F67
 ---
 CLOSER stands for: Clarify why they're there (leverages that they took action toward you), Label the problem (restate their pain for confirmation), Overview past experiences (run the 'pain cycle' to temporarily elevate the importance of solving the problem — like how media makes a topic the defining election issue), Sell the vacation not the plane flight (talk about outcomes in Maui, not features of TSA and baggage), Explain away concerns (handle objections around time, money, decision-maker authority, or decision avoidance), and Reinforce the decision (the first 24 hours post-purchase determines how customers judge your business — deliver faster than promised).

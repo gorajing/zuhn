@@ -48,10 +48,10 @@ resolutions:
     contrast while giving the decision-maker agency.
 related:
   - INS-260323-7DAE
+  - INS-260404-7325
   - INS-260403-71D1
   - INS-260404-9823
   - INS-260402-3D61
-  - INS-260403-B2EB
 stance: >-
   Raibert deliberately made the top and bottom ideas on his project list boring
   and put 'pogo stick robot' in the middle

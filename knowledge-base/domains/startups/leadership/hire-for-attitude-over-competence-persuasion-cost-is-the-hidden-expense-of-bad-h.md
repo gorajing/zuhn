@@ -48,10 +48,10 @@ resolutions:
 related:
   - INS-260325-B115
   - INS-260327-3574
+  - INS-260404-8746
   - PRI-260328-BD81
   - INS-260327-9BFD
   - INS-260327-48BA
-  - INS-260323-8848
   - INS-260327-290C
 stance: >-
   In rapidly changing environments, people who resist change create a hidden

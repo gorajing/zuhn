@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3784 actionable insights
+Generated on 2026-04-04 | 3786 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1928,6 +1928,7 @@ Generated on 2026-04-04 | 3784 actionable insights
 - [INS-260404-F017] Each of the nine BMC blocks represents a critical decision area; removing any one risks missing a foundational pillar of the business.
 - [INS-260404-35B6] Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
 - [INS-260404-420F] Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
+- [INS-260404-A375] Technology should reinforce or transform your business model, not drive it — the business model question comes first.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2898,6 +2899,7 @@ Generated on 2026-04-04 | 3784 actionable insights
 - [INS-260403-1DE4] Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - [INS-260403-0435] Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - [INS-260403-D49B] Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
+- [INS-260404-9BC6] In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.

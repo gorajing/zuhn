@@ -59,9 +59,9 @@ related:
   - INS-260327-A22D
   - INS-260327-A9D5
   - INS-260327-5690
-  - INS-260327-EE5E
   - INS-260327-BB71
   - PRI-260328-8317
+  - PRI-260328-81F5
 ---
 The article identifies a structural asymmetry in AI agent adoption. In large enterprises, deploying an AI agent means navigating decision-maker hierarchies, entrenched departmental processes, proprietary systems integration, and organizational politics around job displacement. In SMBs, the same AI agent simply fills a role that never existed — there's no system to rip out, no department to reorganize, no incumbent to threaten.
 

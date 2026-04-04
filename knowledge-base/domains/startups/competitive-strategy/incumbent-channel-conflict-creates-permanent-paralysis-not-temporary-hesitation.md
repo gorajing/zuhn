@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260403-0350
   - INS-260327-EE5E
+  - INS-260404-2A8B
   - PRI-260328-95A5
   - PRI-260328-A4AC
-  - INS-260330-6050
 ---
 Hippo exploited a 150-year-old channel dependency in home insurance: incumbents built everything through agents, but agents were aging out (average age 58, 87% of new agents leaving within 3 years). When any executive proposed going direct, agents threatened to take their book of business to competitors. No CEO would risk a $10B agent-distributed book for a $1B direct experiment.
 

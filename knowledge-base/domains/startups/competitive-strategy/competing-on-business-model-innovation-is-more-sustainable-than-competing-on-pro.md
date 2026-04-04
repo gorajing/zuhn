@@ -56,7 +56,7 @@ related:
   - INS-260403-8402
   - INS-260403-E0FE
   - INS-260403-0414
-  - INS-260403-3F10
+  - INS-260404-2A8B
   - INS-260403-DDDC
 ---
 The article makes a key distinction between product competition and business model competition. Product features, even patented ones, can eventually be copied or made obsolete — Kodak's patents didn't save its film business from digital disruption. In contrast, a superior business model creates interlocking structural advantages (distribution, network effects, switching costs) that are fundamentally harder to replicate.

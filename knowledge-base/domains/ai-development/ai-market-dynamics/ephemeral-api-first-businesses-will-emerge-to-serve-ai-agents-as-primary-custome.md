@@ -58,7 +58,6 @@ stance: >-
   machine-to-machine micropayments
 related:
   - INS-260327-F0B2
-  - INS-260329-55D8
   - INS-260330-0F23
   - PRI-260328-8317
   - INS-260403-0350

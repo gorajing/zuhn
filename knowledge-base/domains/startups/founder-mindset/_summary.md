@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 309 insights
+> 310 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -120,6 +120,7 @@
 - `INS-260322-C9AC` [high] Founders who define themselves by a life mission rather than a specific product idea can pivot repeatedly without existential crisis.
 - `INS-260330-8CD4` [high] Starting a company from genuine mission conviction creates durable advantages in persistence, team alignment, and external support that purely opportunistic ventures cannot replicate.
 - `INS-260323-D8A9` [high] RFK Sr believed moral courage — standing by principle when it threatens your career and status — is the most important and rarest human quality.
+- `INS-260404-7325` [high] The secret weapon of top founders is that money isn't their primary driver — the company is their creative project.
 - `INS-260325-F9CF` [high] 19th-century optimists assumed technology would end war — the world wars shattered that illusion and fueled anti-progress backlash that persists today.
 - `INS-260323-4A3D` [high] In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
 - `INS-260403-F657` [high] If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.

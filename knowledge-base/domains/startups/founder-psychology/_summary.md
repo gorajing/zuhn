@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 54 insights
+> 55 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -24,6 +24,7 @@
 - `INS-260403-D833` [high] Fighting forces your brain into trick-finding mode instead of big-idea mode, making meanness a direct cognitive handicap for founders.
 - `INS-260323-F853` [high] Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
 - `INS-260323-3CC2` [high] Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
+- `INS-260404-FD24` [high] The cartoon archetype of the ruthless businessman is mathematically wrong for startups where growth comes from word-of-mouth.
 - `INS-260323-979C` [high] Your passion can start a business, but continuing to run it on personal emotion instead of facts, metrics, and processes is the most common path to failure.
 - `INS-260402-8C0E` [high] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
 - `INS-260325-0C4A` [high] Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.

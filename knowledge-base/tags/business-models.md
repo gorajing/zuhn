@@ -43,6 +43,7 @@
 - `INS-260327-4BC6` Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs i
 - `INS-260327-19E5` When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tole
 - `INS-260327-325B` Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
+- `INS-260404-2A8B` Companies from unrelated industries pose the greatest competitive threat because they compete with entirely different business model structures.
 - `INS-260330-6050` Build where incumbents face structural inability to compete, not just unwillingness.
 - `INS-260327-724D` Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv
 - `INS-260327-F651` Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
@@ -97,7 +98,7 @@
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
+- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260404-0022` Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.
 - `INS-260403-DB22` Most companies have sophisticated tools for execution but primitive tools for innovation and strategy design.
 - `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
-- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.

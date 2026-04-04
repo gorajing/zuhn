@@ -1,10 +1,10 @@
 # Tag: risk-taking
 
 - `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
+- `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
+- `INS-260403-5C89` Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
 - `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.
 - `INS-260327-2DF7` The 26-year-old Napoleon took risks in Italy that older, more cautious Austrian commanders wouldn't contemplate — and those risks paid off spectacularly.
-- `INS-260403-5C89` Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
-- `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260403-3548` Houdini refused surgery because accepting treatment contradicted his identity as someone who could overcome any physical challenge.
 - `INS-260330-669C` Ponzi's family decline from wealthy merchants to working class created a status-obsessed identity that made him reject honest work and pursue increasingly risky schemes.

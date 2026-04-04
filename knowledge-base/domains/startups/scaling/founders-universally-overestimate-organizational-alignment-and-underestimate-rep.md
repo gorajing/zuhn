@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260402-F08D
   - INS-260402-E140
+  - INS-260404-7325
   - INS-260402-66A5
   - INS-260330-F800
-  - INS-260330-5EB6
 ---
 Altman describes a test he runs at scaling companies: ask the founder if 10 random employees could name the top three company goals. 100% of founders say yes. Then he actually asks — and 100% of the time, no two employees give the same three goals in the same order. Founders announce goals at one all-hands meeting and assume the message sticks. It doesn't. The prescription is relentless repetition: weekly management meetings, monthly all-hands reviewing roadmap and results, quarterly planning cycles. Alignment is not a one-time communication event — it's an ongoing practice that requires repetition far beyond what feels necessary. Productivity at scale degrades with roughly the square of employee count without deliberate alignment systems.

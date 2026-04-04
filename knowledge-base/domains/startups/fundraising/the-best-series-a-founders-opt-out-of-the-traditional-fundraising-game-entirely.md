@@ -55,7 +55,6 @@ related:
   - INS-260403-71D1
   - INS-260403-BCB1
   - INS-260403-C9DC
-  - INS-260403-E6A7
   - INS-260403-39F6
 ---
 The founders who were most successful in Standard Capital's process were those who hadn't yet entered the traditional fundraising game at all. They hadn't built pitch decks, hadn't started back-channeling with VCs, and hadn't run any competitive process. They simply applied and said 'if we get in, we're doing it.'

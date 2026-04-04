@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 66 insights
+> 68 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -10,6 +10,7 @@
 - `INS-260330-3084` [high] Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
 - `INS-260402-910C` [high] Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
 - `INS-260403-C161` [high] Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
+- `INS-260404-7C79` [high] Halving revenue on a 5%-weekly growth curve only puts you 15 weeks behind, regardless of how long you run.
 - `INS-260402-2632` [high] Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - `INS-260330-AE70` [high] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
 - `INS-260330-DE80` [high] Apple pivoted its growth narrative from iPhone unit sales to ecosystem ARPU (services, accessories, subscriptions) once smartphone saturation made unit growth impossible.
@@ -18,6 +19,7 @@
 - `INS-260403-D49B` [high] Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
 - `INS-260330-7C05` [high] Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260402-7FF5` [high] Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
+- `INS-260404-9BC6` [high] In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
 - `INS-260330-A949` [high] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - `INS-260403-5648` [high] The Calvin Cycle produces 6 G3P molecules but must feed 5 back to regenerate the cycle — only 1/6 of output is 'profit,' the rest is reinvestment.
 - `INS-260403-2CA2` [high] The Calvin Cycle produces 6 G3P molecules but must feed 5 back to keep running, yielding only 1 as net output — a universal pattern in self-sustaining systems.

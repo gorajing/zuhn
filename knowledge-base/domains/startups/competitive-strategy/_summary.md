@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 514 insights
+> 516 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -101,6 +101,7 @@
 - `INS-260327-E07A` [high] Products branded around individual creators have a natural market ceiling equal to the creators engaged audience, and ca
 - `INS-260323-CB47` [high] In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260330-7FFE` [high] ShadowCrew's real innovation was building review, escrow, and vouching systems that let criminals trust each other — the same platform trust problems legitimate marketplaces solve.
+- `INS-260404-2A8B` [high] Companies from unrelated industries pose the greatest competitive threat because they compete with entirely different business model structures.
 - `INS-260330-C825` [high] Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
 - `INS-260330-923F` [high] A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
 - `INS-260330-D6D3` [high] Harvard Business Review's three market dominance paths — best price (logistics), best product (R&D), best overall solution (customer intimacy) — only the third requires near-zero capital, making it uniquely accessible to startups.
@@ -472,6 +473,7 @@
 - `INS-260403-943D` [medium] Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
 - `INS-260402-7E2A` [medium] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
+- `INS-260404-8746` [medium] Customer demand changes are symptoms of deeper technological, social, or demographic shifts — trace the root cause to build lasting advantage.
 - `INS-260403-CEBA` [medium] Technology leads are temporary; customer understanding compounds into durable competitive advantage.
 - `INS-260404-BA3D` [medium] Viaweb put cgi-bin in their URLs specifically to fool competitors into thinking they used a different technology stack.
 - `INS-260404-462B` [medium] Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.

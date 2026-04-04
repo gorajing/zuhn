@@ -2,6 +2,7 @@
 
 - `INS-260323-6D41` In evolutionary simulations, winning replicators consistently had the highest replication rate and lowest death rate -- speed of copying is the dominant competitive advantage.
 - `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
+- `INS-260404-9BC6` In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
 - `INS-260330-A949` If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260330-CB30` A small reduction or increase in daily/weekly growth rate compounds into order-of-magnitude differences in outcomes, making growth rate the single highest-leverage metric.

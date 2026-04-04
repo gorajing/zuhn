@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 201 insights
+> 203 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -159,11 +159,13 @@
 - `INS-260324-DB86` [high] Shrinkflation generates 3-5% revenue growth for years even as volumes decline, but there's a ceiling — Kraft Heinz hit it in 2019 with a $15B loss when customers stopped buying entirely.
 - `INS-260327-9DA6` [high] Twitter's decision to restrict its API and push users away from third-party clients (which served 20-30% of users) became one of the company's most costly strategic mistakes.
 - `INS-260329-C474` [high] A frozen yogurt store doing $800K revenue yields roughly $93K in owner take-home, illustrating the salary-not-wealth trap of small retail.
+- `INS-260404-D471` [high] Social activism and regulatory changes can render entire business models unviable, not just reduce margins.
 - `INS-260324-ABAC` [high] Steakhouses make up over half of the top 100 highest-grossing US restaurants because customers show up expecting to spend $50-100 per steak — the more predictable the menu and experience, the better.
 - `INS-260330-9137` [high] Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
 - `INS-260327-4ED3` [high] Subscriptions have been forced onto products that don't need them — heated car seats, printer ink, software — creating consumer resentment that is now driving backlash against all subscription models.
 - `INS-260327-B9BB` [high] The difference between gardening as a hobby and gardening as income is planning density -- specifically, succession planting where beds are never empty and each crop has a replacement already growing weeks ahead.
 - `INS-260403-97F8` [high] Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
+- `INS-260404-A375` [high] Technology should reinforce or transform your business model, not drive it — the business model question comes first.
 - `INS-260402-B2A2` [high] Tech industry phases are additive layers that compound value, not distinct eras that replace predecessors.
 - `INS-260324-157A` [high] Chinese merchants on Wish/Temu profit on $1-10 items because of low cost of living, cheap rural warehouses, and subsidized state-owned postal services — the platform takes a cut while owning zero inventory.
 - `INS-260327-C6A9` [high] Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards ear

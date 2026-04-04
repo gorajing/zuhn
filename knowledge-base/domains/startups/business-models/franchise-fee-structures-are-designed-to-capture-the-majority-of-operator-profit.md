@@ -46,7 +46,6 @@ stance: >-
   build independent wealth, optimizing for 20-25% ROI to beat the stock market
   while squeezing franchisees.
 related:
-  - INS-260327-E68D
   - INS-260327-C0C6
   - PRI-260328-5053
   - INS-260403-A115

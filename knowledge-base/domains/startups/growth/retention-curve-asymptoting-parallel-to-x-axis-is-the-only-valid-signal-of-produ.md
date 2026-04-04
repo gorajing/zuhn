@@ -50,5 +50,6 @@ related:
   - INS-260330-CB30
   - INS-260330-608C
   - INS-260403-B9E6
+  - INS-260404-7C79
 ---
 Alex Schultz describes Facebook's core growth diagnostic: plot the percentage of monthly active users against number of days since acquisition for each cohort. If this retention curve asymptotes to a line parallel to the x-axis, you have a viable business for some subset of the market. If it slopes down and intercepts the x-axis, the product will eventually lose all users regardless of acquisition efforts. Schultz used this same methodology for Facebook's self-service advertiser product and within 90 days of launch predicted one-year advertiser value to 97% accuracy. The method works with as few as 10,000 users.

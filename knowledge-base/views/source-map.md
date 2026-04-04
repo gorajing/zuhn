@@ -147,8 +147,8 @@ Generated on 2026-04-04 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -200,10 +200,10 @@ Generated on 2026-04-04 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
@@ -242,8 +242,8 @@ Generated on 2026-04-04 | 2421 sources
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 5 | 2026-03-31 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
@@ -824,6 +824,7 @@ Generated on 2026-04-04 | 2421 sources
 | 4 Stages of Go-To-Market Strategy | blog | 4 | 2026-03-30 |
 | $40K Mistake: Building Features Nobody Wanted | blog | 4 | 2026-03-30 |
 | 5 Common Mistakes to Avoid When Using the Value Proposition Canvas | blog | 4 | 2026-03-31 |
+| 5 Forces Acting Upon Your Business Model | blog | 4 | 2026-03-31 |
 | 5 Lean Startup Essentials to Reduce Risk and Uncertainty | blog | 4 | 2026-03-31 |
 | 5 Questions You Never Dared to Ask About the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
@@ -957,6 +958,7 @@ Generated on 2026-04-04 | 2421 sources
 | Maker's Schedule, Manager's Schedule | blog | 4 | 2026-03-31 |
 | Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 4 | 2026-03-30 |
 | Mean People Fail | blog | 4 | 2026-03-31 |
+| Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 4 | 2026-03-30 |
 | Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 4 | 2026-03-30 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 4 | 2026-03-30 |
@@ -998,6 +1000,7 @@ Generated on 2026-04-04 | 2421 sources
 | State of AI 2025🤖, Biggest Fundraisers💰, Build Distribution💌 | blog | 4 | 2026-03-30 |
 | Strategyzer Peer Learning Summit with MasterCard, GE, 3M, Intel, and Many More | blog | 4 | 2026-03-31 |
 | Subject: Airbnb | blog | 4 | 2026-03-31 |
+| Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 4 | 2026-03-30 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 4 | 2026-03-30 |
 | The Acceleration of Addictiveness | blog | 4 | 2026-03-31 |
@@ -1029,6 +1032,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 4 | 2026-03-30 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
 | The Secrets of Stealth Startups 🔒🤐 | blog | 4 | 2026-03-30 |
+| The shape of the multipolar world is a little clearer | blog | 4 | 2026-03-30 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
 | The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 4 | 2026-03-31 |
@@ -1055,6 +1059,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
 | Why Hire Offshore?  | blog | 4 | 2026-03-30 |
+| Why It's Safe for Founders to Be Nice | blog | 4 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 4 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
 | Why There Aren't More Googles | blog | 4 | 2026-03-31 |
@@ -2005,7 +2010,6 @@ Generated on 2026-04-04 | 2421 sources
 | 400+ Seed VCs Backing Startups in the US & Europe 💰 | blog | 0 | 2026-03-30 |
 | $46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder) | blog | 0 | 2026-03-31 |
 | 5 Characteristics Of A Great Strategy Workshop Facilitator | blog | 0 | 2026-03-31 |
-| 5 Forces Acting Upon Your Business Model | blog | 0 | 2026-03-31 |
 | 5 OpenClaw agents run my home, finances, and code | Jesse Genet | blog | 0 | 2026-03-31 |
 | 50 AI Agent Startup Ideas for 2025 (Across 10 Industries) | blog | 0 | 2026-03-30 |
 | 50 Real Startup Pitch Decks That Raised $380M+ | blog | 0 | 2026-03-30 |
@@ -2239,7 +2243,6 @@ Generated on 2026-04-04 | 2421 sources
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
 | Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
 | Mastercard brings 85+ firms into crypto payments push | blog | 0 | 2026-03-30 |
-| Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 0 | 2026-03-30 |
 | Megarounds make a comeback💰, The State of GenAI🤖, Doing Diligence Well🕵️ | blog | 0 | 2026-03-30 |
 | Meta Shrinks to Move Faster: Superintelligence Labs Explained | blog | 0 | 2026-03-30 |
 | Meta’s Multi-Billion, Multi-Year Nvidia Partnership | blog | 0 | 2026-03-30 |
@@ -2296,7 +2299,6 @@ Generated on 2026-04-04 | 2421 sources
 | State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 0 | 2026-03-30 |
 | State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 0 | 2026-03-30 |
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
-| Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Term Sheets Demystified 📄🤝 | blog | 0 | 2026-03-30 |
 | Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 0 | 2026-03-30 |
@@ -2337,7 +2339,6 @@ Generated on 2026-04-04 | 2421 sources
 | The SaaS Financial Model Most Founders Get Wrong | blog | 0 | 2026-03-30 |
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
 | The Shape of the Essay Field | blog | 0 | 2026-03-31 |
-| The shape of the multipolar world is a little clearer | blog | 0 | 2026-03-30 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |
 | The Trouble with the Segway | blog | 0 | 2026-03-31 |
@@ -2385,7 +2386,6 @@ Generated on 2026-04-04 | 2421 sources
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
 | Why Companies Invest in Open-Source Tech and Research | blog | 0 | 2026-03-30 |
-| Why It's Safe for Founders to Be Nice | blog | 0 | 2026-03-31 |
 | Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 0 | 2026-03-31 |

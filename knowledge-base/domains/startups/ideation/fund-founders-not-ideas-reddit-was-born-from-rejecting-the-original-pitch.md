@@ -46,7 +46,6 @@ stance: >-
   ideas while mediocre founders fail even with good ones.
 related:
   - INS-260321-3521
-  - INS-260323-0277
   - INS-260328-896B
   - INS-260328-F301
   - INS-260328-6F5B
