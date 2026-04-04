@@ -47,7 +47,6 @@ stance: >-
   because there is no rational dispute to resolve — only obsessive identity
   projection.
 related:
-  - INS-260327-2718
   - INS-260403-DAB1
   - INS-260327-1403
   - INS-260329-783C

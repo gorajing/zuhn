@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 60 insights
+> 63 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
@@ -18,10 +18,12 @@
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-268F` [high] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
+- `INS-260403-383F` [high] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
 - `INS-260403-F87C` [high] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 - `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260403-F148` [high] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
+- `INS-260403-3DF3` [high] Innovation success depends on making failures fast and cheap while extracting maximum learning from each experiment.
 - `INS-260403-499B` [high] Across 40 large organizations, intrapreneurship structures scored lowest — dedicated processes and incentives for internal ventures are exceptionally hard to build.
 - `INS-260403-BDCC` [high] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-4CD0` [high] Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
@@ -31,6 +33,7 @@
 - `INS-260403-81D4` [high] You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-D62D` [high] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
+- `INS-260403-E25F` [high] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
 - `INS-260403-1358` [high] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.

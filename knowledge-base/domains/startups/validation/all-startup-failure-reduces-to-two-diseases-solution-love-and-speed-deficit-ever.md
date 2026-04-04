@@ -50,9 +50,10 @@ related:
   - PRI-260328-B11D
   - PRI-260323-1B96
   - INS-260327-8254
+  - INS-260403-7252
   - PRI-260328-3BEF
-  - INS-260403-9C63
   - INS-260327-7C6B
+  - INS-260403-9C63
 stance: >-
   Co-founder departures, funding gaps, and market downturns are symptoms, not
   root causes

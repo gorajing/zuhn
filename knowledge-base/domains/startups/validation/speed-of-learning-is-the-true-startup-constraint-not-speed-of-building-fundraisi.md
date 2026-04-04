@@ -54,6 +54,7 @@ related:
   - INS-260329-9115
   - INS-260329-C0A7
   - INS-260403-402A
+  - INS-260403-CF0E
 stance: >-
   When every founder can build fast with AI tools, the bottleneck shifts
   permanently from execution speed to insight discovery speed.

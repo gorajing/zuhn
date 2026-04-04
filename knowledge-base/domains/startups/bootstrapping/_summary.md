@@ -1,6 +1,6 @@
 # Topic: bootstrapping
 
-> 34 insights
+> 35 insights
 
 - `INS-260320-20F2` [very_high] Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
@@ -21,6 +21,7 @@
 - `INS-260320-8688` [high] Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
 - `INS-260329-0B9D` [high] Cutting personal expenses to the bone isn't about getting rich slowly — it's about buying the freedom to take bigger entrepreneurial swings.
 - `INS-260403-FC36` [high] Ramen profitability is a trick for not dying en route to scale, not evidence that the business model works.
+- `INS-260403-9E0E` [high] Once a startup makes enough to cover founders' living expenses, the entire relationship with investors shifts from desperation to negotiation.
 - `INS-260321-E8CB` [high] One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
 - `INS-260320-E044` [high] Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260321-1992` [high] Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.

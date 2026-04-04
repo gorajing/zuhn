@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260323-8165
   - INS-260403-B1F2
+  - INS-260403-3DF3
   - INS-260403-FFEA
   - INS-260403-4050
-  - INS-260403-C737
   - INS-260403-99D1
 ---
 David Bland and Alex Osterwalder's framework decomposes business validation into nine experiment types, each targeting a different layer of uncertainty. Landing pages and online ads test demand and messaging cheaply before building anything. Clickable prototypes and explainer videos test whether the value proposition resonates visually. Split tests and web analytics validate optimization hypotheses on live traffic. Customer interviews and support analysis extract qualitative signals about pain severity and willingness to pay. Search trend analysis tests whether the market is growing or contracting before committing resources.

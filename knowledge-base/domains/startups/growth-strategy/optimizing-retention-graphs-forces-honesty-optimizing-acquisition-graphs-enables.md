@@ -46,7 +46,6 @@ stance: >-
   The metrics you choose to optimize determine whether you build real value or
   slop, because retention metrics cannot be gamed the way growth metrics can
 related:
-  - INS-260320-00C2
   - INS-260327-6D77
   - INS-260330-21CC
   - INS-260330-E61E

@@ -48,7 +48,6 @@ stance: >-
   models, customer experience, networks, and processes.
 related:
   - INS-260403-FB8E
-  - INS-260403-F87C
   - INS-260403-ACA8
   - INS-260403-CF09
   - INS-260403-DB22

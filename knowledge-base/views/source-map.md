@@ -421,6 +421,7 @@ Generated on 2026-04-04 | 2421 sources
 | Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved Medical Care | blog | 5 | 2026-03-30 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
 | Reverse Imposter Syndrome: A Founder’s Visibility Gap | blog | 5 | 2026-03-30 |
+| Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank Lessons for Founders | blog | 5 | 2026-03-30 |
 | Roundup #75: Checking in on the Bad Guys | blog | 5 | 2026-03-30 |
 | Roundup #76: Great Powers acting stupid | blog | 5 | 2026-03-30 |
 | Roundup #77: The Fix-Everything Button | blog | 5 | 2026-03-30 |
@@ -444,6 +445,7 @@ Generated on 2026-04-04 | 2421 sources
 | Startup Location Strategy in 2025: Does It Still Matter Where You Build? | blog | 5 | 2026-03-30 |
 | Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save or Sink Your Company | blog | 5 | 2026-03-30 |
 | Startup Valuation Methods: 8 Approaches Investors Use | blog | 5 | 2026-03-30 |
+| Startups in 13 Sentences | blog | 5 | 2026-03-31 |
 | Stuff | blog | 5 | 2026-03-31 |
 | Succinctness is Power | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
@@ -829,6 +831,7 @@ Generated on 2026-04-04 | 2421 sources
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
+| Assess & Design Your Innovation Portfolio | blog | 4 | 2026-03-31 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
@@ -920,6 +923,7 @@ Generated on 2026-04-04 | 2421 sources
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | Relentlessly Resourceful | blog | 4 | 2026-03-31 |
 | Resilient Businesses Compete Beyond Technology, Product & Price | blog | 4 | 2026-03-31 |
+| Resistance is necessary, but it's not enough | blog | 4 | 2026-03-30 |
 | Return of the Mac | blog | 4 | 2026-03-31 |
 | Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 4 | 2026-03-30 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
@@ -2016,7 +2020,6 @@ Generated on 2026-04-04 | 2421 sources
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |
 | Ask Me Anything session with Alex & Yves | blog | 0 | 2026-03-31 |
-| Assess & Design Your Innovation Portfolio | blog | 0 | 2026-03-31 |
 | Assess how your Innovation Programs are Performing | blog | 0 | 2026-03-31 |
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 0 | 2026-03-31 |
@@ -2232,10 +2235,8 @@ Generated on 2026-04-04 | 2421 sources
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RAQs | blog | 0 | 2026-03-31 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
-| Resistance is necessary, but it's not enough | blog | 0 | 2026-03-30 |
 | Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
-| Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank Lessons for Founders | blog | 0 | 2026-03-30 |
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
@@ -2261,7 +2262,6 @@ Generated on 2026-04-04 | 2421 sources
 | Startup Fundraising Resources: Investor Lists 2026 | blog | 0 | 2026-03-30 |
 | Startup MIS Excel Template to Track KPIs | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
-| Startups in 13 Sentences | blog | 0 | 2026-03-31 |
 | State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 0 | 2026-03-30 |
 | State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 0 | 2026-03-30 |
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |

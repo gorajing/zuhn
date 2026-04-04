@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 52 insights
+> 53 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -34,6 +34,7 @@
 - `INS-260326-20C8` [high] The same mechanism that makes founders avoid hard truths is what makes people avoid emotional intimacy — self-protection destroys what it claims to protect.
 - `INS-260325-CF3E` [high] People cannot learn from failure until they separate 'I made a mistake' from 'I am a failure' — the identity conflation blocks all forward motion.
 - `INS-260323-95FE` [high] Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
+- `INS-260403-7252` [high] Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
 - `INS-260323-A183` [high] Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
 - `INS-260323-5B9F` [high] Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd rather make YouTube content — that self-awareness is the kill signal most founders ignore for months.
 - `INS-260403-DAB1` [high] Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.

@@ -49,7 +49,6 @@ related:
   - INS-260321-3521
   - INS-260330-CECB
   - INS-260325-EF4C
-  - INS-260402-180C
 evidence:
   - id: INS-260402-180C
     type: SUPPORTS

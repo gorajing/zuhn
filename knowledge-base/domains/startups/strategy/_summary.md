@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 198 insights
+> 199 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -169,6 +169,7 @@
 - `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260330-E474` [medium] The 1054 Orthodox-Catholic schism — driven by theological identity differences, not resource competition — created a 1000-year fracture, showing that value misalignment produces the most permanent organizational splits.
 - `INS-260330-FAB8` [medium] The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
+- `INS-260403-0764` [medium] Before designing an innovation strategy, assess whether your current projects skew toward exploiting existing models or exploring new ones.
 - `INS-260403-4F1B` [medium] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-9DCD` [medium] Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.
 - `INS-260403-2AE7` [medium] Converting obstacles like confusing layouts and upfront fees into deal-hunting excitement and club exclusivity builds emotional loyalty that pure convenience cannot match.

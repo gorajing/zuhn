@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-08FA
   - INS-260402-2E19
+  - INS-260403-9E0E
   - INS-260403-5F03
   - INS-260403-4904
-  - INS-260403-CF7C
 ---
 The Airbnbs calculated their ramen profitability number at $4,000/month ($3,500 rent + $500 food) and taped it to their bathroom mirror. When they hit this target in February 2009, making $460, then $897, then $1,428 in successive weeks, they were 'airborne.' The metaphor is precise: ramen profitability is the moment a startup achieves flight — still low altitude, but no longer dependent on the runway.
 

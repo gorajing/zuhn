@@ -10,4 +10,5 @@
 - `INS-260330-2F22` When users request a feature, don't build it — instead investigate what underlying problem triggered the request.
 - `INS-260330-E089` Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
+- `INS-260403-CF0E` Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
 - `INS-260330-0F52` Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.

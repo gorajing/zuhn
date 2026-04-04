@@ -49,7 +49,6 @@ related:
   - INS-260403-4431
   - INS-260330-E263
   - PRI-260325-A95E
-  - INS-260330-E089
 stance: >-
   Boston Dynamics' extremely low attrition comes from people pursuing genuine
   fascination — you do it much better when you love it.

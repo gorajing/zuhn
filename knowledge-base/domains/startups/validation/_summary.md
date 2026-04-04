@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 128 insights
+> 129 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -50,6 +50,7 @@
 - `INS-260403-F4F6` [high] Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.
 - `INS-260403-58BB` [high] Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - `INS-260403-7E27` [high] Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
+- `INS-260403-CF0E` [high] Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
 - `INS-260403-64D0` [high] The startup environment's rapid success/failure cycle makes it uniquely suited to reveal which evaluation signals actually predict performance.
 - `INS-260330-D5BD` [high] Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
 - `INS-260330-E6B7` [high] DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.

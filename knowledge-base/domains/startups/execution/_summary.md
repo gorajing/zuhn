@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 218 insights
+> 219 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -182,6 +182,7 @@
 - `INS-260330-2952` [high] Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve.
 - `INS-260329-24CE` [high] Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
 - `INS-260330-D031` [high] Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
+- `INS-260403-91FD` [high] Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260327-10E0` [high] If you can't explain specifically why you'll beat competitors before building, don't start building.
 - `INS-260330-DC22` [high] Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
 - `INS-260329-3E28` [high] Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.

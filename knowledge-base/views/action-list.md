@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3626 actionable insights
+Generated on 2026-04-04 | 3634 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1816,6 +1816,7 @@ Generated on 2026-04-04 | 3626 actionable insights
 - [INS-260329-7192] Video editing + copywriting + social media + management transforms someone from a $50K specialist into a CMO-level operator — each skill multiplies rather than adds.
 - [INS-260329-1318] Selling expensive services on commission eliminates every traditional startup barrier except your ability to persuade.
 - [INS-260403-FC36] Ramen profitability is a trick for not dying en route to scale, not evidence that the business model works.
+- [INS-260403-9E0E] Once a startup makes enough to cover founders' living expenses, the entire relationship with investors shifts from desperation to negotiation.
 
 ## startups/business-models
 - [INS-260322-FCFC] Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
@@ -2356,6 +2357,7 @@ Generated on 2026-04-04 | 3626 actionable insights
 - [INS-260403-4A2F] The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
 - [INS-260403-CCB7] Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - [INS-260403-2376] 'Make something people want' tells you where to go; 'be relentlessly resourceful' tells you how to get there day by day.
+- [INS-260403-91FD] Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2925,6 +2927,7 @@ Generated on 2026-04-04 | 3626 actionable insights
 - [INS-260403-2759] Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - [INS-260403-538C] Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 - [INS-260403-98E1] Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
+- [INS-260403-EDFC] Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
 
 ## startups/health-innovation
 - [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
@@ -3043,6 +3046,9 @@ Generated on 2026-04-04 | 3626 actionable insights
 - [INS-260403-4CD0] Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
 - [INS-260403-65C3] When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
 - [INS-260403-F75F] Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
+- [INS-260403-383F] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
+- [INS-260403-3DF3] Innovation success depends on making failures fast and cheap while extracting maximum learning from each experiment.
+- [INS-260403-E25F] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3664,6 +3670,7 @@ Generated on 2026-04-04 | 3626 actionable insights
 - [INS-260403-137D] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 - [INS-260403-FDB8] Costco's $60 entry fee filters for affluent households averaging $100K income, who then spend more and renew at 90%.
 - [INS-260403-462F] Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
+- [INS-260403-0764] Before designing an innovation strategy, assess whether your current projects skew toward exploiting existing models or exploring new ones.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3796,6 +3803,7 @@ Generated on 2026-04-04 | 3626 actionable insights
 - [INS-260403-7333] Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - [INS-260403-88AF] Prioritize testing the hypothesis whose failure would make your entire business model collapse, regardless of how easy other hypotheses are to test.
 - [INS-260403-C2CF] Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.
+- [INS-260403-CF0E] Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

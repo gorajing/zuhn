@@ -12,5 +12,6 @@
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260403-CF09` Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
+- `INS-260403-E25F` Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
 - `INS-260403-8CDD` Turnaround plans fix execution problems but cannot address fundamental business model expiration.
 - `INS-260403-9AB5` Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.

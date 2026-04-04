@@ -14,6 +14,6 @@
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
 - `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
-- `INS-260403-A862` Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
 - `INS-260327-98DE` AI breakthroughs that look like bugs will become common across all knowledge work.
+- `INS-260403-A862` Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
 - `INS-260403-E492` Waiting for disease then treating it ('sick care') can't overcome aging's exponential decay — only preemptive renewal ('health care') can.

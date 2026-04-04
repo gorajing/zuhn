@@ -48,6 +48,7 @@ stance: >-
   A city cannot become a true startup hub if its primary admiration hierarchy
   ranks something else — like finance — above technological power
 related:
+  - INS-260403-9E0E
   - INS-260403-9CD9
   - INS-260402-E140
   - INS-260403-87CF

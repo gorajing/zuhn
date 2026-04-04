@@ -17,6 +17,7 @@
 - `INS-260403-DD95` Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
+- `INS-260403-CF0E` Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
 - `INS-260330-5D4F` Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260403-7333` Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.

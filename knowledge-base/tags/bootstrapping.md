@@ -12,11 +12,11 @@
 - `INS-260329-2A70` Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.
 - `INS-260403-0FEC` Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260324-748A` The best haunted houses gross 7+ figures in just 4-6 weekends — but only if you own the land and build everything yourself, because no bank will fund a seasonal attraction.
-- `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
-- `INS-260330-D6D3` Harvard Business Review's three market dominance paths — best price (logistics), best product (R&D), best overall solution (customer intimacy) — only the third requires near-zero capital, making it uniquely accessible to startups.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
+- `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260330-D6D3` Harvard Business Review's three market dominance paths — best price (logistics), best product (R&D), best overall solution (customer intimacy) — only the third requires near-zero capital, making it uniquely accessible to startups.
 - `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-1085` Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
 - `INS-260329-E884` If each customer pays enough in 30 days to cover their own acquisition cost plus the next customer's, growth becomes self-funding.
