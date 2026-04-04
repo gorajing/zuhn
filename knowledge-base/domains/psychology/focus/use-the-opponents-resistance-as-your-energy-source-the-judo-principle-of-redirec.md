@@ -50,7 +50,7 @@ related:
   - INS-260323-0827
   - INS-260323-BEE6
   - INS-260323-CE39
-  - INS-260330-E3D3
+  - INS-260404-CB96
 stance: 'In judo, you press until the opponent presses back'
 evidence:
   - id: INS-260323-71B3

@@ -826,6 +826,7 @@ Generated on 2026-04-04 | 2421 sources
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | A founding vision for a startup is similar to a scientific hypothesis | blog | 4 | 2026-03-31 |
 | A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 4 | 2026-03-31 |
+| A framework for PM skill development | Vikrama Dhiman (Gojek) | blog | 4 | 2026-03-31 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
 | A Local Revolution? | blog | 4 | 2026-03-31 |
 | A new-parent gift guide | blog | 4 | 2026-03-31 |
@@ -835,6 +836,7 @@ Generated on 2026-04-04 | 2421 sources
 | Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 4 | 2026-03-30 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
+| AGI Vibes Are Getting Weird, 2025 SaaS Valuations, Most Active Angels | blog | 4 | 2026-03-30 |
 | AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 4 | 2026-03-30 |
 | ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 4 | 2026-03-30 |
 | AI Games Are Coming | blog | 4 | 2026-03-31 |
@@ -888,6 +890,7 @@ Generated on 2026-04-04 | 2421 sources
 | Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 4 | 2026-03-30 |
 | Fierce Nerds | blog | 4 | 2026-03-31 |
+| Filters that Fight Back | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
 | Founder-Market Fit: The VC Test You Must Pass | blog | 4 | 2026-03-30 |
@@ -962,6 +965,7 @@ Generated on 2026-04-04 | 2421 sources
 | Resistance is necessary, but it's not enough | blog | 4 | 2026-03-30 |
 | Return of the Mac | blog | 4 | 2026-03-31 |
 | Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 4 | 2026-03-30 |
+| Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 4 | 2026-03-30 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
@@ -978,6 +982,7 @@ Generated on 2026-04-04 | 2421 sources
 | Strategyzer Peer Learning Summit with MasterCard, GE, 3M, Intel, and Many More | blog | 4 | 2026-03-31 |
 | Subject: Airbnb | blog | 4 | 2026-03-31 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
+| Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 4 | 2026-03-30 |
 | The Acceleration of Addictiveness | blog | 4 | 2026-03-31 |
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
@@ -2000,7 +2005,6 @@ Generated on 2026-04-04 | 2421 sources
 | A designer’s guide to AI: Building in Cursor (instead of Figma) lets you prototype 10x faster, simplifies collaboration, and accelerates getting ideas out of your head | Joel Unger | blog | 0 | 2026-03-31 |
 | A designer's guide to Cursor: How to build interactive prototypes with sound, explore visual styles, and transform data visualizations | Elizabeth Lin | blog | 0 | 2026-03-31 |
 | A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) | blog | 0 | 2026-03-31 |
-| A framework for PM skill development | Vikrama Dhiman (Gojek) | blog | 0 | 2026-03-31 |
 | A free year of Devin: the world’s most advanced autonomous AI software engineer | blog | 0 | 2026-03-31 |
 | "A full software engineering teammate": OpenAI product lead on getting the most out of Codex | Alexander Embiricos | blog | 0 | 2026-03-31 |
 | A guide to advanced B2B positioning | blog | 0 | 2026-03-31 |
@@ -2019,7 +2023,6 @@ Generated on 2026-04-04 | 2421 sources
 | Addressing the Legal & Compliance Challenge | blog | 0 | 2026-03-31 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
 | After the Ladder | blog | 0 | 2026-03-31 |
-| AGI Vibes Are Getting Weird, 2025 SaaS Valuations, Most Active Angels | blog | 0 | 2026-03-30 |
 | AI Agents🤖, Founder Mode👨‍💻, Global IPOs📈 | blog | 0 | 2026-03-30 |
 | AI Agents🤖, Rise of “Venture Banks” 🏦, US Venture Capital Outlook 📅  | blog | 0 | 2026-03-30 |
 | AI and product management | Marily Nika (Meta, Google) | blog | 0 | 2026-03-31 |
@@ -2164,7 +2167,6 @@ Generated on 2026-04-04 | 2421 sources
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
-| Filters that Fight Back | blog | 0 | 2026-03-31 |
 | Five Founders | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
 | Founder Control | blog | 0 | 2026-03-31 |
@@ -2259,7 +2261,6 @@ Generated on 2026-04-04 | 2421 sources
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
 | Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
-| Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
@@ -2285,7 +2286,6 @@ Generated on 2026-04-04 | 2421 sources
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
-| Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 0 | 2026-03-30 |
 | Term Sheets Demystified 📄🤝 | blog | 0 | 2026-03-30 |
 | Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 0 | 2026-03-30 |
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |

@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260323-61FE
   - INS-260403-DDEB
+  - INS-260404-CB96
   - PRI-260328-024A
   - INS-260323-FE33
-  - INS-260325-3589
 stance: >-
   Stevens generates maximum throwing power from a small precise hip split rather
   than a big lunging movement

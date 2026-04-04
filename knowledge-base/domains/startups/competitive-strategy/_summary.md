@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 505 insights
+> 507 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -407,6 +407,7 @@
 - `INS-260330-0C96` [high] Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260324-160B` [high] Texas has the most BBQ spots per capita but a 33% failure rate — lower than less competitive states like California and New York where failure rates are even higher.
 - `INS-260330-1DCA` [high] We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
+- `INS-260404-CB96` [high] The best defense turns the attacker's greatest strength into their greatest vulnerability.
 - `INS-260330-6B7F` [high] Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260327-E2BC` [high] AI startups either help professionals do their jobs, replace tasks entirely, or make previously impossible work feasible.
 - `INS-260327-F723` [high] The Stanley tumbler went from coveted status symbol to symbol of overconsumption within 18 months as the same social dynamics that drove adoption drove rejection.
@@ -476,6 +477,7 @@
 - `INS-260330-8481` [medium] TikTok is not ByteDance's endgame — it's a distribution channel for expansion into e-commerce, gaming, streaming, enterprise software, education, fintech, and cloud services.
 - `INS-260327-8AE7` [medium] Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
 - `INS-260330-E615` [medium] McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
+- `INS-260404-2365` [medium] Auto-retrieving filters wouldn't kill spam outright but would force spammers to add unsubscribe links, progressively improving the ecosystem.
 - `INS-260330-8E95` [medium] The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.
 - `INS-260329-9BC0` [medium] Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
 - `INS-260404-D149` [medium] OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.

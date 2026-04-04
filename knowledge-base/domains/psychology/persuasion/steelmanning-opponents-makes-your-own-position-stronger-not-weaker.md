@@ -48,7 +48,6 @@ stance: >-
   outcomes than attacking weak versions
 related:
   - INS-260323-EF23
-  - INS-260323-61FE
   - INS-260327-48A5
   - INS-260329-D215
   - INS-260330-4E09

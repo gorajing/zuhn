@@ -56,13 +56,14 @@ stance: >-
   stonewalling—are the same behaviors that drive customer churn, with
   stonewalling being the deadliest for startups
 related:
-  - INS-260326-CA66
   - INS-260323-1C33
   - INS-260330-82B5
   - INS-260330-0E4C
   - INS-260329-0014
+  - INS-260326-CA66
   - PRI-260323-DC25
   - INS-260329-1D08
+  - INS-260404-BAED
 evidence:
   - id: INS-260330-82B5
     type: TRANSFERS_TO

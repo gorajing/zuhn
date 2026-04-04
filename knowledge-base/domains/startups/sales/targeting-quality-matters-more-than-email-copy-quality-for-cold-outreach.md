@@ -54,12 +54,14 @@ stance: >-
   (finding people who actually need your product), not better copywriting --
   even a perfect email to the wrong person generates zero results.
 related:
-  - INS-260327-F95F
-  - INS-260327-8D7E
   - INS-260327-4E28
+  - INS-260327-8D7E
+  - INS-260327-F95F
   - INS-260322-F891
   - INS-260329-882A
   - INS-260327-04D8
+  - INS-260404-2365
+  - INS-260404-95D0
 evidence:
   - id: INS-260322-F891
     type: TRANSFERS_TO
