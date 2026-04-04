@@ -47,7 +47,6 @@ stance: >-
   solutions under uncertainty.
 related:
   - INS-260322-13D6
-  - INS-260325-C996
   - INS-260330-2F13
   - INS-260330-1DDE
   - INS-260403-21AF

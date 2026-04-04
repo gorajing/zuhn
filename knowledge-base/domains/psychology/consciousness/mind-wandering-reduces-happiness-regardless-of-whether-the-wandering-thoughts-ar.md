@@ -51,9 +51,9 @@ related:
   - INS-260325-C830
   - INS-260325-3223
   - INS-260325-C996
+  - INS-260404-2829
   - PRI-260325-A95E
   - INS-260323-9867
-  - INS-260326-4F90
   - INS-260330-FA1C
 ---
 A landmark study published in Science pinged 2,200+ adults on their iPhones throughout the day, asking what they were doing, thinking, and feeling. The key finding: people were less happy when their minds wandered than when they were present — even when the wandering thoughts were pleasant. What you're thinking about at a given moment was a far better predictor of happiness than what you were actually doing. This demolishes the common advice to 'think happy thoughts' as a primary mood strategy. Instead, the capacity to be fully engaged in your current activity — regardless of whether that activity is enjoyable — is the stronger lever for subjective well-being. The researchers concluded: 'A human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost.'

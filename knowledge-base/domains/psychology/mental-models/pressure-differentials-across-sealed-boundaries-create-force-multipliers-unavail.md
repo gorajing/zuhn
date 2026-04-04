@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-CAB3
   - INS-260330-24B6
+  - INS-260404-CC79
   - INS-260323-7F5D
   - INS-260330-0C1B
-  - INS-260330-FA36
 ---
 The vacuum cannon's design is elegant: vacuum inside the barrel eliminates drag, while positive pressure behind the ball provides propulsive force. The burst disc creates a sealed boundary that maintains the differential until deliberately broken. This two-sided approach — removing resistance on one side while adding force on the other — produces velocities a simple pressurized cannon cannot match.
 

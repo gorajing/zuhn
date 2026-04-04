@@ -54,7 +54,6 @@ stance: >-
   (gradients) and then harvesting the natural tendency toward equilibrium, not
   by direct energy transfer.
 related:
-  - INS-260330-9BC3
   - INS-260330-EAA3
   - INS-260403-050D
   - INS-260330-3037

@@ -59,6 +59,7 @@ related:
   - INS-260330-43E8
   - INS-260330-E0A7
   - INS-260330-2C4D
+  - INS-260404-EE01
 ---
 The claim that no one can stay in an anechoic chamber for more than 45 minutes spread across the internet despite being trivially falsifiable — the researchers who work in these chambers daily are obvious counterexamples. This persistence illustrates a selection bias in information spread: narratives about human fragility and dramatic failure modes propagate faster than stories about successful adaptation. 'Silence drives you insane' is viscerally compelling; 'your auditory gain adjusts and you hear your own breathing louder' is boring.
 

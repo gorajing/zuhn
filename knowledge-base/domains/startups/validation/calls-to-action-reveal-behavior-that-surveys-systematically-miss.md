@@ -48,9 +48,9 @@ related:
   - INS-260330-4D5C
   - INS-260403-2BEE
   - INS-260403-A7D0
-  - INS-260403-FBF0
   - INS-260403-C737
   - PRI-260323-8EEA
   - INS-260329-EC98
+  - INS-260403-DFC3
 ---
 The say-do gap is one of the most persistent traps in customer research: people routinely say they would buy something and then don't. Surveys and interviews capture stated intent, which is cheap to give and unreliable to act on. A strong call-to-action — pre-ordering, signing up with a credit card, sharing with their network — forces customers to put skin in the game. The strength of the signal is proportional to the cost of participation. Founders should design experiments on a spectrum from low-cost signals (email signup) to high-cost signals (pre-payment), using each stage to justify the next level of investment in building.

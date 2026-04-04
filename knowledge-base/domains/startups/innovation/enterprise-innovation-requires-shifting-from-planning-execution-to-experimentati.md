@@ -62,6 +62,8 @@ related:
   - INS-260403-F75F
   - INS-260403-5BAD
   - INS-260403-4D8F
+  - INS-260404-B1BC
+  - INS-260404-0A17
 ---
 The Strategyzer peer group meeting framework identifies seven distinct challenge layers for enterprise innovation adoption: selling leadership, removing obstacles, creating exploration mindsets, shifting to experimentation culture, designing organizational structures, scaling adoption, and measuring progress. Notably, four of these seven are fundamentally cultural and organizational challenges, not methodological ones. The tools (Business Model Canvas, Lean Startup) are well-understood; the hard part is changing how a large organization thinks about uncertainty and failure.
 

@@ -1,5 +1,6 @@
 # Tag: hedonic-treadmill
 
+- `INS-260404-2829` Research shows people who explicitly pursue happiness end up less happy and more depressed.
 - `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
 - `INS-260330-4746` Even at $50M+ net worth, people feel they 'don't have enough' because their social circle shifts to include billionaires who outclass them on every dimension.
 - `INS-260325-4CF9` The brain's wanting system is diffuse and insatiable; the liking system is small and satiable. Tech exploits the wanting system.

@@ -45,6 +45,7 @@
 - `INS-260323-CF27` Positive interactions require vulnerability -- exposing that you care, that you're stressed, that you want to be liked -- and this exposure is what transforms routine exchanges into genuine bonds.
 - `INS-260325-3A54` The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
+- `INS-260404-4F67` The number one predictor of happiness and the top enabler of antifragility are the same thing: quality relationships.
 - `INS-260327-B767` Learning to enjoy being alone transforms every relationship into a choice rather than a dependency.
 - `INS-260330-A075` Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward.
 - `INS-260325-7D50` Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.

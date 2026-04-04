@@ -57,6 +57,7 @@ related:
   - PRI-260325-7A6B
   - PRI-260324-2A76
   - INS-260325-9E0C
+  - INS-260404-4F67
 ---
 The Harvard study reframes relationships as literal biological regulators rather than just sources of emotional comfort. The exchange of positive emotion in close relationships helps maintain physiological equilibrium. Research shows that people who have a secure connection with a partner in late life experience slower brain decline, while lonely people experience more rapid cognitive deterioration.
 

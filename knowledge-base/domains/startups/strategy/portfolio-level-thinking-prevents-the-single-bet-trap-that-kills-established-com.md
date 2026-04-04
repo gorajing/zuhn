@@ -57,11 +57,11 @@ related:
   - INS-260326-BF32
   - INS-260327-EFA6
   - INS-260330-FF9A
-  - INS-260403-5FBD
   - INS-260403-990C
   - INS-260403-E642
   - INS-260403-BE7C
   - INS-260403-7E18
+  - INS-260403-CA57
 ---
 The Portfolio Map's core argument, drawing on Clay Christensen's work, is that company resilience comes from simultaneously managing business models at different lifecycle stages. An 'invincible company' isn't one with an unassailable moat around a single business — it's one that continuously feeds new models through the explore pipeline while extracting value from mature ones in the exploit portfolio.
 

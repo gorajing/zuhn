@@ -43,9 +43,9 @@ stance: >-
   companies transcend traditional industry categories
 related:
   - INS-260323-3D7D
+  - INS-260404-24FB
   - INS-260403-DB22
   - INS-260330-F9B4
   - INS-260330-7ECB
-  - INS-260327-C7BF
 ---
 Porter's 5 Forces assumes you can clearly define an industry to analyze competitive dynamics within it. The Value Chain assumes a linear manufacturing-oriented flow. Both frameworks were designed for an era of clear industry boundaries. When companies like Apple simultaneously compete in music, hardware, software, and services, the foundational assumption of a single industry context collapses. This doesn't mean these frameworks are useless — they still work for narrow competitive analysis — but they can't serve as the primary lens for designing new business models that may deliberately span multiple industries. Strategists need tools that start from customer value creation rather than industry positioning.

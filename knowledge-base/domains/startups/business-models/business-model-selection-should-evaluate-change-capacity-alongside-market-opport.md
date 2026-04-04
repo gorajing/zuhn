@@ -51,10 +51,10 @@ related:
   - INS-260403-DF7F
   - INS-260403-7333
   - INS-260403-F590
+  - INS-260404-BD46
   - INS-260403-E0FE
-  - INS-260403-C8B9
-  - INS-260403-DDDC
   - INS-260403-B5A5
+  - INS-260404-CC9A
 ---
 Osterwalder's framework implies that business model selection is not purely a market-facing decision. When companies generate multiple business model prototypes and must choose which to pursue, they need to evaluate each option against their specific change constraints: financial resources, human capital, cultural openness, and existing systems that must be modified.
 

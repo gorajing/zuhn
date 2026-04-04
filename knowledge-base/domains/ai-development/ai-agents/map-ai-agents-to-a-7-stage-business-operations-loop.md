@@ -47,14 +47,15 @@ resolutions:
     triggered. This transforms the founder's role from doing operational work to
     reviewing agent output at key decision points.
 related:
+  - INS-260404-FF0B
   - INS-260322-E4D8
   - INS-260322-A892
   - INS-260327-CC57
   - INS-260327-DD5C
-  - INS-260403-7E7C
   - INS-260329-4C93
   - INS-260330-3585
   - INS-260403-426A
+  - INS-260404-F017
 stance: >-
   Every AI employee should map to one of seven business operations stages:
   outreach, discovery, proposal, sales, onboarding, retention, and competiti...

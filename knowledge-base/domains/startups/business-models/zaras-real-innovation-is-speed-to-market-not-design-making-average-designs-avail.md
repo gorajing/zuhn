@@ -40,7 +40,6 @@ stance: >-
   produce mediocre designs faster than anyone else, which in fashion is more
   valuable than producing great designs slowly.
 related:
-  - INS-260327-DE27
   - INS-260403-0414
   - PRI-260328-4CC0
   - PRI-260322-8FD4

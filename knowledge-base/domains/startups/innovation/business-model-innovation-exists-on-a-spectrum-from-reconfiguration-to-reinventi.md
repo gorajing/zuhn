@@ -53,10 +53,10 @@ related:
   - INS-260403-9AB5
   - INS-260403-43B9
   - INS-260403-C3A3
-  - INS-260403-8D2C
   - INS-260403-0AF7
   - INS-260403-E556
   - INS-260403-6342
+  - INS-260403-F590
 ---
 The Lego Factory example demonstrates that meaningful business model innovation does not require tearing everything down. By simply reconfiguring their fulfillment and packing processes, Lego enabled user-designed custom sets — a fundamentally new value proposition built on existing infrastructure. This stands in contrast to the Sony Music example, where matching MySpace's model would require wholesale organizational transformation.
 

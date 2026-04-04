@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 60 insights
+> 61 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
@@ -14,6 +14,7 @@
 - `INS-260403-AAE4` [high] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260330-790A` [high] Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260402-46AD` [high] The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
+- `INS-260404-BE07` [high] A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
 - `INS-260403-A8B1` [high] Across wildly different fields, Graham's heroes shared exactly two traits: excessive care about their work and absolute refusal to pander.
 - `INS-260403-B08E` [high] Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
 - `INS-260403-222E` [high] Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.

@@ -49,8 +49,8 @@ related:
   - INS-260403-7E7C
   - INS-260403-CC25
   - INS-260403-054F
+  - INS-260404-BD46
   - INS-260403-DAB4
   - INS-260403-C8B9
-  - INS-260403-C496
 ---
 Most companies measure extensively but fail to derive their metrics from their specific business model structure. The result is resource misalignment — human, physical, and capital resources not concentrated on the elements that actually determine the model's success or failure. The discipline is to start from the business model canvas, identify which components are most critical and fragile, then define success factors and metrics specifically for those components. Beyond measurement, the best companies (Amazon, Hilti) go further: they continuously refine their existing model while simultaneously exploring ways to reinvent it entirely, treating execution as both optimization and exploration.

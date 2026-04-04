@@ -55,7 +55,7 @@ related:
   - INS-260329-B408
   - INS-260329-04FA
   - INS-260329-1741
-  - INS-260330-C4F1
+  - INS-260404-DBD2
 ---
 Graham makes a strong empirical claim: you can graduate with a CS degree from a top university and still not be good at programming. Tech companies know this, which is why they require coding tests regardless of academic credentials. The mechanism is motivation and context — when you're writing a game and need to figure something out, you learn faster because the problem is real and personally meaningful.
 

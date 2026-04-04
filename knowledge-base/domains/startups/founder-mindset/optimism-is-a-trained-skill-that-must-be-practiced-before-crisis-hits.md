@@ -51,8 +51,6 @@ stance: >-
   pathway isn't established.
 related:
   - INS-260323-4D4E
-  - INS-260325-B4CB
-  - INS-260325-0172
   - INS-260329-D1B8
   - INS-260330-BCAF
   - INS-260402-A558

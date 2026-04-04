@@ -48,6 +48,7 @@ stance: >-
   both survival and invention
 related:
   - INS-260403-62B2
+  - INS-260404-BD46
   - INS-260403-E25F
   - INS-260403-C8B9
   - INS-260403-8D2C

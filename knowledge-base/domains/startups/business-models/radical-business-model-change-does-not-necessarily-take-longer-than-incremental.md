@@ -51,7 +51,7 @@ related:
   - INS-260403-6342
   - INS-260403-A709
   - INS-260403-42F2
-  - INS-260322-F6AA
+  - INS-260404-CC9A
 ---
 Conventional wisdom assumes that bigger business model changes require proportionally more time. Osterwalder's framework challenges this by showing that factors like organizational culture, resource availability, and willingness to change can dominate the timeline. A change-ready organization can execute a radical pivot faster than a change-resistant one can implement a modest tweak.
 

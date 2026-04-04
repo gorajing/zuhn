@@ -59,6 +59,7 @@ related:
   - INS-260403-6982
   - INS-260403-6A55
   - INS-260403-F590
+  - INS-260404-FF0B
 ---
 Graham cites a VC who invested in a company whose business model he knew was 'crap' — expecting it to change three times before they got it right. The founders were experienced repeat entrepreneurs with millions in funding, and even their model was wrong. This is the norm, not the exception.
 

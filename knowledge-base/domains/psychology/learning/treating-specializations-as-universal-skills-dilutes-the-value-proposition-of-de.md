@@ -51,12 +51,11 @@ stance: >-
   specializations.
 related:
   - INS-260323-DA85
-  - INS-260327-E3DE
   - INS-260329-A862
-  - INS-260329-7192
   - INS-260330-B28C
   - INS-260403-AB5C
   - INS-260330-43EE
+  - INS-260329-7192
 evidence:
   - id: INS-260323-DA85
     type: SUPPORTS

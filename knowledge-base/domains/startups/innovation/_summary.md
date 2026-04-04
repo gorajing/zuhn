@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 75 insights
+> 76 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -39,6 +39,7 @@
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-D62D` [high] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
 - `INS-260403-E25F` [high] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
+- `INS-260404-BD46` [high] Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260403-910E` [high] Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
 - `INS-260404-63B0` [high] Inventing future growth engines requires a structurally separate organization that operates independently from the team optimizing the existing business.
 - `INS-260403-1358` [high] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.

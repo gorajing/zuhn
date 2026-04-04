@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 208 insights
+> 209 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -115,6 +115,7 @@
 - `INS-260321-9906` [high] Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
 - `INS-260329-8C14` [high] The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.
 - `INS-260329-01F2` [high] Path compression in union-find makes every find operation flatten the tree it traverses, so the data structure permanently improves its own performance with each use.
+- `INS-260404-93CD` [high] Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
 - `INS-260320-C8CC` [high] PM2 gives you auto-restart on crashes, per-service logs, memory/CPU monitoring, and easy management like `pm2 restart email`.
 - `INS-260320-4773` [high] Run all backend microservices via PM2 so Claude can read individual service logs in real-time without manual copy-pasting.
 - `INS-260329-3243` [high] HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.

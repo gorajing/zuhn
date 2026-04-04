@@ -7,3 +7,4 @@
 - `INS-260324-A9DF` Taco Bell outperforms McDonald's, Burger King, and KFC in per-store earnings because Yum Brands concentrated resources on its winner while letting KFC and Pizza Hut stagnate.
 - `INS-260403-215E` Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - `INS-260403-52DB` Managing multiple business models across lifecycle stages — not optimizing a single one — is how companies survive disruption.
+- `INS-260404-0A17` Business model innovation exists on a continuum from incremental improvement to radical invention, not as a binary choice.

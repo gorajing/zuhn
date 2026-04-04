@@ -52,6 +52,7 @@ related:
   - INS-260329-EBBB
   - INS-260403-79E0
   - INS-260328-A666
+  - INS-260404-F017
 ---
 NFX frames durability as a five-factor formula: Network Effects + Economies of Scale + Brand + Embedding + IP. The critical insight is timing — nearly all value in technology companies accrues in the out-years through compounding, but you can only capture that compounding if you've built durable mechanisms early. Founders who wait until they're scaled to think about defensibility find they've built a business that's easy to overtake.
 

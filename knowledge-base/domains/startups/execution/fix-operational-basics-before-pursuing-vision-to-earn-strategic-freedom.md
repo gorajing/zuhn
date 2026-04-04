@@ -42,7 +42,6 @@ stance: >-
   and instead ruthlessly fix broken operations first, because operational
   credibility buys the political capital needed for later strategic moves.
 related:
-  - INS-260320-DDD9
   - INS-260323-D41A
   - INS-260329-F21F
   - INS-260329-A937

@@ -47,10 +47,10 @@ stance: >-
   infrastructure) follows from these and cannot substitute for them.
 related:
   - INS-260323-9F61
-  - INS-260330-DD63
   - INS-260403-20BF
+  - INS-260404-E651
+  - INS-260330-DD63
   - INS-260326-967C
-  - INS-260327-E153
 ---
 Graham argues that startups require only two types of people present at founding: nerds who build and rich people who fund. Every other participant—lawyers, recruiters, designers—arrives after the reaction starts. This 'limiting reagent' framing explains why cities like Miami (rich, few nerds) and Pittsburgh (nerds, few rich) both fail to generate startups despite having one ingredient.
 

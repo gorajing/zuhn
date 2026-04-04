@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 205 insights
+> 207 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -144,6 +144,7 @@
 - `INS-260403-4904` [high] Falling startup costs silently decoupled founders from VCs, but the shift only becomes visible when funding dries up and founders discover they don't actually need it.
 - `INS-260330-D74A` [high] The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260402-B0AB` [high] You cannot have technical imagination without political imagination — suppressing one suppresses both.
+- `INS-260404-24FB` [high] Great strategic tools do one thing well and integrate with other specialized tools, rather than trying to cover everything.
 - `INS-260402-8F1E` [high] Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
 - `INS-260402-CF0A` [high] Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
 - `INS-260403-CF7C` [high] Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.
@@ -202,6 +203,7 @@
 - `INS-260323-4457` [medium] A product that takes months to reach a testable state is burning the founder's most scarce resource — time to learn whether the idea even matters — on engineering before validation.
 - `INS-260323-8B90` [medium] Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.
 - `INS-260403-6E76` [medium] The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins.
+- `INS-260404-0A17` [medium] Business model innovation exists on a continuum from incremental improvement to radical invention, not as a binary choice.
 - `INS-260323-224F` [medium] The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260330-3FCF` [medium] Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.

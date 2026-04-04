@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 132 insights
+> 133 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -16,6 +16,7 @@
 - `INS-260403-22D3` [high] Test customer desirability cheaply before committing to expensive technology builds.
 - `INS-260327-CECA` [high] Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
 - `INS-260403-1BCC` [high] Replace opinion-gathering with experiments that require customers to sacrifice something real — time, money, or reputation.
+- `INS-260404-FF0B` [high] Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 - `INS-260403-8CE6` [high] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
 - `INS-260330-32E6` [high] When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
 - `INS-260403-08E6` [high] Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.

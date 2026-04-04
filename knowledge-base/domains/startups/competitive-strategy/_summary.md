@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 494 insights
+> 495 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -442,6 +442,7 @@
 - `INS-260330-2064` [medium] A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities.
 - `INS-260329-5B18` [medium] Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
 - `INS-260329-E8EB` [medium] Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
+- `INS-260404-0095` [medium] Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260327-7F64` [medium] Reflection AI bets that autonomous coding is the gateway to superintelligence.
 - `INS-260327-3DE7` [medium] AI will make it trivial to port data and clone product experiences, eroding brand as a meaningful B2B moat.
 - `INS-260327-D285` [medium] Don't just build a better product—build a business model that makes incumbents look exploitative.

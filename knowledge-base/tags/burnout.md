@@ -1,6 +1,7 @@
 # Tag: burnout
 
 - `INS-260325-C59D` AI networks never rest, never sleep, and never need privacy — but forcing organic humans to match this inorganic pace will collapse them.
+- `INS-260404-EE01` Stress is not the silent killer — lack of recovery from stress is.
 - `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-0C31` Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
 - `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.

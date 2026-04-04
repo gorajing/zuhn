@@ -13,4 +13,5 @@
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
 - `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
+- `INS-260404-FF0B` Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 - `INS-260330-38E1` Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.

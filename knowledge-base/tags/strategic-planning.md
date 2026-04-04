@@ -8,3 +8,4 @@
 - `INS-260403-EAE5` The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - `INS-260403-0764` Before designing an innovation strategy, assess whether your current projects skew toward exploiting existing models or exploring new ones.
 - `INS-260403-C0FE` Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
+- `INS-260404-0A17` Business model innovation exists on a continuum from incremental improvement to radical invention, not as a binary choice.

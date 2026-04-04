@@ -47,7 +47,6 @@ stance: >-
   early-stage startups because investors expect the model to be wrong and will
   remember you for the bad model instead of the good problem.
 related:
-  - INS-260326-CA66
   - INS-260403-A709
   - INS-260403-0267
   - INS-260403-1DB7

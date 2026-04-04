@@ -49,11 +49,11 @@ stance: >-
   legitimate function of an innovation engine is to systematically reduce
   uncertainty through cheap, fast experimentation
 related:
+  - INS-260404-BD46
   - INS-260403-FF86
   - INS-260403-C8B9
   - INS-260403-2E90
   - INS-260403-C625
-  - INS-260403-1290
   - INS-260403-8D2C
   - INS-260403-7333
 ---

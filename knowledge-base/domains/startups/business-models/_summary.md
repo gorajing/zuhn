@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 181 insights
+> 184 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -49,6 +49,7 @@
 - `INS-260327-795D` [high] Modern arcades survive by stacking revenue streams: games, food, drinks, prizes, party bookings, creating per-visit reve
 - `INS-260324-468C` [high] Esports teams, leagues, and publishers collectively burned billions chasing a future where gaming tournaments would rival the NFL — no team or league ever turned a profit, even at their peak.
 - `INS-260324-D274` [high] Cupcakes (Sprinkles), froyo (Pinkberry), cookies (Crumbl) — every dessert fad follows identical dynamics: trendsetter creates category, copycats flood, saturation hits, market crashes.
+- `INS-260404-CC9A` [high] Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
 - `INS-260327-7681` [high] Western Unions high fees are sustainable because its customers — immigrants sending remittances, unbanked populations — 
 - `INS-260324-2AD8` [high] European football clubs generate billions in revenue from merchandise, TV rights, and sponsorships — yet they're barely cash-flow positive because they spend everything on player salaries to sustain on-field success.
 - `INS-260329-2EAA` [high] Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
@@ -124,6 +125,7 @@
 - `INS-260403-F4CC` [high] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
 - `INS-260327-39D4` [high] 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
 - `INS-260403-2D99` [high] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
+- `INS-260404-F017` [high] Each of the nine BMC blocks represents a critical decision area; removing any one risks missing a foundational pillar of the business.
 - `INS-260327-46F6` [high] When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychological
 - `INS-260330-EDAC` [high] After rapid expansion led to $1.5 million in debt from failing franchise stores, Domino's switched to requiring franchisees to successfully manage an existing store for a year before opening their own — with no upfront fee.
 - `INS-260327-DF8C` [high] Resource businesses that maximize short-term extraction rates deplete reserves faster, while those that manage sustainab
@@ -170,6 +172,7 @@
 - `INS-260403-4E71` [medium] Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.
 - `INS-260322-AABB` [medium] The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
 - `INS-260403-49E7` [medium] Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
+- `INS-260404-C8FA` [medium] BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
 - `INS-260403-97F5` [medium] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260403-0AF7` [medium] Existential constraints strip away incrementalism and force founders into genuinely novel business model territory.
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.

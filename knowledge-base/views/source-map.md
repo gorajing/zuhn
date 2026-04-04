@@ -814,6 +814,7 @@ Generated on 2026-04-04 | 2421 sources
 | $40K Mistake: Building Features Nobody Wanted | blog | 4 | 2026-03-30 |
 | 5 Common Mistakes to Avoid When Using the Value Proposition Canvas | blog | 4 | 2026-03-31 |
 | 5 Lean Startup Essentials to Reduce Risk and Uncertainty | blog | 4 | 2026-03-31 |
+| 5 Questions You Never Dared to Ask About the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
@@ -853,6 +854,7 @@ Generated on 2026-04-04 | 2421 sources
 | Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 4 | 2026-03-31 |
 | Business Model Evolution Using the Portfolio Map | blog | 4 | 2026-03-31 |
 | Business Model Generation Book Summary | Strategyzer | blog | 4 | 2026-03-31 |
+| Business Model Innovation in Existing Companies | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 1: Manage The Existing Business | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 4 | 2026-03-31 |
 | Business Strategy: The Business Model Patterns | blog | 4 | 2026-03-31 |
@@ -913,6 +915,7 @@ Generated on 2026-04-04 | 2421 sources
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
 | Learn With Me | blog | 4 | 2026-03-30 |
 | Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 4 | 2026-03-30 |
+| Let the Other 95% of Great Programmers In | blog | 4 | 2026-03-31 |
 | Life is Short | blog | 4 | 2026-03-31 |
 | LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 4 | 2026-03-30 |
 | Made in USA | blog | 4 | 2026-03-31 |
@@ -929,6 +932,7 @@ Generated on 2026-04-04 | 2421 sources
 | Political Backflow From Europe | blog | 4 | 2026-03-30 |
 | Post-Medium Publishing | blog | 4 | 2026-03-31 |
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
+| Programming Bottom-Up | blog | 4 | 2026-03-31 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
 | Putting Ideas into Words | blog | 4 | 2026-03-31 |
@@ -984,6 +988,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Venture Arrogance Score🧮, The Bay is back🏙️, The $100B Empire You’ve Never Heard Of🏛️ | blog | 4 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 4 | 2026-03-31 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
+| This Week #0: Advice on growth, product, and leadership | blog | 4 | 2026-03-31 |
 | Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 4 | 2026-03-30 |
 |  | blog | 4 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
@@ -1050,6 +1055,7 @@ Generated on 2026-04-04 | 2421 sources
 | Context Engineering Our Way to Long-Horizon Agents: LangChain’s Harrison Chase | youtube | 4 | 2026-03-26 |
 | Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447 | youtube | 4 | 2026-03-24 |
 | Demis Hassabis — Scaling, superhuman AIs, AlphaZero atop LLMs, AlphaFold | youtube | 4 | 2026-03-28 |
+| Don’t chase happiness. Become antifragile | Tal Ben-Shahar | Big Think | youtube | 4 | 2026-03-30 |
 | Editing Your DNA, with Nobel Prize Winner Dr. Jennifer Doudna | youtube | 4 | 2026-03-23 |
 | Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra | youtube | 4 | 2026-03-30 |
 | Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368 | youtube | 4 | 2026-03-24 |
@@ -1943,7 +1949,6 @@ Generated on 2026-04-04 | 2421 sources
 | 5 Characteristics Of A Great Strategy Workshop Facilitator | blog | 0 | 2026-03-31 |
 | 5 Forces Acting Upon Your Business Model | blog | 0 | 2026-03-31 |
 | 5 OpenClaw agents run my home, finances, and code | Jesse Genet | blog | 0 | 2026-03-31 |
-| 5 Questions You Never Dared to Ask About the Business Model Canvas | blog | 0 | 2026-03-31 |
 | 5 Tools For New Business Success | blog | 0 | 2026-03-31 |
 | 50 AI Agent Startup Ideas for 2025 (Across 10 Industries) | blog | 0 | 2026-03-30 |
 | 50 Real Startup Pitch Decks That Raised $380M+ | blog | 0 | 2026-03-30 |
@@ -2057,7 +2062,6 @@ Generated on 2026-04-04 | 2421 sources
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
-| Business Model Innovation in Existing Companies | blog | 0 | 2026-03-31 |
 | Business Model Portfolio Part 3: The Business Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
 | Change Your Name | blog | 0 | 2026-03-31 |
@@ -2202,7 +2206,6 @@ Generated on 2026-04-04 | 2421 sources
 | Keep Your Identity Small | blog | 0 | 2026-03-31 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Learning from Founders | blog | 0 | 2026-03-31 |
-| Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
 | Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 0 | 2026-03-30 |
@@ -2238,7 +2241,6 @@ Generated on 2026-04-04 | 2421 sources
 | Orthodox Privilege | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
-| Programming Bottom-Up | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
@@ -2350,7 +2352,6 @@ Generated on 2026-04-04 | 2421 sources
 | The VC Corner 📰 #8 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #9 | blog | 0 | 2026-03-30 |
 | The Venture Capital Apocalypse | blog | 0 | 2026-03-30 |
-| This Week #0: Advice on growth, product, and leadership | blog | 0 | 2026-03-31 |
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
 | Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 0 | 2026-03-30 |
@@ -2406,7 +2407,6 @@ Generated on 2026-04-04 | 2421 sources
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
 | C in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Don’t chase happiness. Become antifragile | Tal Ben-Shahar | Big Think | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 0 | 2026-03-30 |
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |

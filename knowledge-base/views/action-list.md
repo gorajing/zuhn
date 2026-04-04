@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3674 actionable insights
+Generated on 2026-04-04 | 3686 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -398,6 +398,7 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260330-EC22] Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
 - [INS-260330-CA97] RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
 - [INS-260402-8A7A] Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
+- [INS-260404-93CD] Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
 
 ## automation/content-creation
 - [INS-260320-D58E] An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
@@ -513,6 +514,7 @@ Generated on 2026-04-04 | 3674 actionable insights
 ## health/human-physiology
 - [INS-260330-E647] Neurons have extremely high metabolic rates, with the brain consuming about 25% of daily calories, making cognitive function the first casualty of energy deficits.
 - [INS-260330-5D64] Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
+- [INS-260404-EE01] Stress is not the silent killer — lack of recovery from stress is.
 
 ## health/nutrition
 - [INS-260325-3FD3] Burning feet is usually B1/B12 deficiency not permanent nerve damage — supplementation reverses it before nerves are destroyed.
@@ -912,6 +914,7 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260403-5C89] Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
 - [INS-260403-C512] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - [INS-260403-38C5] When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
+- [INS-260404-2829] Research shows people who explicitly pursue happiness end up less happy and more depressed.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -1792,6 +1795,8 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260403-0070] Trauma recovery begins when a person can say 'this is what happened to me and my reactions make sense' rather than 'something is wrong with me.'
 - [INS-260403-CCC3] Managing chatter requires building a personalized toolkit across three domains: solo techniques, social strategies, and environmental design.
 - [INS-260403-50B0] Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
+- [INS-260404-CC79] Antifragility means pressure makes the system stronger, not just intact.
+- [INS-260404-4F67] The number one predictor of happiness and the top enabler of antifragility are the same thing: quality relationships.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -1894,6 +1899,8 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260403-49E7] Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
 - [INS-260403-93E7] Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - [INS-260403-BB22] Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
+- [INS-260404-CC9A] Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
+- [INS-260404-F017] Each of the nine BMC blocks represents a critical decision area; removing any one risks missing a foundational pillar of the business.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2201,6 +2208,7 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260403-59F4] Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
 - [INS-260403-F100] The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
 - [INS-260403-0A7A] Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
+- [INS-260404-4130] Building the language up toward the problem lets small teams punch far above their weight.
 
 ## startups/execution
 - [INS-260323-CB34] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
@@ -2990,6 +2998,7 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260403-D51E] Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 - [INS-260403-85DE] An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
 - [INS-260403-5018] Choose the startup with the most determined founders over the smartest ones, treating your time as equity investment.
+- [INS-260404-DBD2] You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3083,6 +3092,7 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260403-C6A6] Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.
 - [INS-260403-6224] Innovation program assessment requires dual axes: value creation and culture change capacity.
 - [INS-260404-63B0] Inventing future growth engines requires a structurally separate organization that operates independently from the team optimizing the existing business.
+- [INS-260404-BD46] Unproven business models should be validated through many small experiments rather than detailed business plans.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3389,6 +3399,7 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260403-4942] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
 - [INS-260403-AC03] Slow, careful software development merely produces a polished version of your first wrong idea.
 - [INS-260403-8BA2] You don't need total consensus on rankings to have meaningful quality standards — a partial order where great is distinguishable from mediocre is enough.
+- [INS-260404-E8B2] Fewer components means fewer connections between them, and connection-count is where bugs actually live.
 
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
@@ -3844,6 +3855,7 @@ Generated on 2026-04-04 | 3674 actionable insights
 - [INS-260403-CF0E] Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
 - [INS-260403-DFC3] Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
 - [INS-260404-B01F] Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
+- [INS-260404-FF0B] Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

@@ -57,7 +57,7 @@ related:
   - INS-260330-2C4D
   - INS-260330-EE7E
   - INS-260330-1296
-  - INS-260325-537A
+  - INS-260404-EE01
 ---
 One of the most striking observations from the experiment was Derek describing his heartbeat as physically shaking his body 'like a device with a little motor inside.' His heart wasn't beating harder; his brain simply stopped suppressing the interoceptive signal because there was no competing exteroceptive input to prioritize. This reveals that we are constantly filtering out a rich stream of internal body data — it's not that we lack body awareness, but that the brain actively gates it in favor of external stimuli.
 

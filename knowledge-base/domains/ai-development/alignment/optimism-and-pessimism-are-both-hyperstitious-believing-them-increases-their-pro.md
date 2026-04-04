@@ -53,7 +53,6 @@ related:
   - INS-260321-9A03
   - INS-260323-3045
   - INS-260327-6F26
-  - INS-260329-348D
 stance: >-
   Both tech optimism and tech pessimism are self-fulfilling prophecies —
   believing the future will be better increases the likelihood you build it.
