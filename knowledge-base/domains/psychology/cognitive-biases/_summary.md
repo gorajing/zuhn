@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 271 insights
+> 272 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -154,6 +154,7 @@
 - `INS-260330-39D4` [high] Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
 - `INS-260403-D0EE` [high] Beyond a threshold, your stuff starts making your decisions for you.
 - `INS-260403-99FE` [high] When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
+- `INS-260404-13F1` [high] Once customers pay a membership fee, sunk-cost psychology makes them default to that retailer without comparing prices, converting a one-time payment into persistent behavioral change.
 - `INS-260404-3156` [high] Costco's mandatory $60-120 fee triggers sunk-cost reasoning that makes customers stop comparing prices with competitors.
 - `INS-260403-543E` [high] Both Costco and Amazon Prime exploit sunk-cost psychology, but Costco's mandatory fee creates universal lock-in while Prime's optional fee only captures self-selecting customers.
 - `INS-260330-CECB` [high] SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.

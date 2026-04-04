@@ -35,6 +35,7 @@
 - `INS-260403-0267` Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260403-88E8` Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - `INS-260403-1DB7` Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
+- `INS-260404-983E` At the early stage, pitch the problem and solution, not the business model — investors expect the model to be wrong anyway.
 - `INS-260404-4605` Don't pitch your business model to early-stage investors — they assume it's wrong and care about the problem you're solving.
 - `INS-260403-8346` Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
@@ -45,6 +46,7 @@
 - `INS-260403-6A55` Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
 - `INS-260403-5C8E` Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
+- `INS-260404-103B` Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260403-8D8D` Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
 - `INS-260330-EA94` Startups must choose depth of user love over breadth because weak enthusiasm cannot be upgraded to devotion, while intense love naturally expands.

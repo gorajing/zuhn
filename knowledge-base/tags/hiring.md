@@ -44,8 +44,6 @@
 - `INS-260402-33CA` Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - `INS-260330-E126` Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
 - `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
-- `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
-- `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
 - `INS-260330-956E` A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
 - `INS-260330-A9CB` Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
 - `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
@@ -63,6 +61,8 @@
 - `INS-260322-627E` Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
 - `INS-260330-26E7` Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.
 - `INS-260323-9146` Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
+- `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
+- `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
 - `INS-260323-A7F6` The most passionate (even abrasive) power users often make the best product builders — Blizzard secretly interviewed Jeff Kaplan over six months of lunches before hiring the guild leader who publicly told their competitor's devs to 'pull their heads out of their asses.'
 - `INS-260330-7241` Framework popularity is a legitimate engineering constraint because it determines hiring pool size and ecosystem support.
 - `INS-260328-7942` A VP of Sales from Google knows how to run a team against an established playbook — they don't know how to create one from scratch.

@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 218 insights
+> 219 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -89,6 +89,7 @@
 - `INS-260327-0E28` [high] Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
 - `INS-260404-AC1B` [high] Costco's $60-$120 membership fee filters for affluent customers ($100K average household income) who spend more and renew at 90%.
 - `INS-260404-DD00` [high] Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
+- `INS-260404-E298` [high] When profit comes from renewals rather than markups, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-B8AE` [high] Mandatory membership fees make the company's primary revenue dependent on customer satisfaction, not transaction margins.
 - `INS-260403-CED6` [high] When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
 - `INS-260404-A938` [high] When revenue comes from membership renewal, every pricing decision optimizes for long-term trust rather than short-term margin.

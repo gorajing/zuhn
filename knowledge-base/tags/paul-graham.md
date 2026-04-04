@@ -28,6 +28,8 @@
 - `INS-260403-AA8F` Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
 - `INS-260403-C9DC` The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.
 - `INS-260403-AEB3` Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
+- `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
+- `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260404-4B69` Smart investors expect early business models to be wrong, so talking about them wastes time better spent on the problem you solve.
 - `INS-260404-10FF` Don't spend pitch time on your business model — investors expect it to be wrong at early stage, and a bad one will overshadow your real strengths.
 - `INS-260404-9F1D` Narrow, gripping descriptions convey more signal than broad visionary language when pitching investors.
@@ -37,10 +39,8 @@
 - `INS-260404-5248` Specific user stories — especially founder-as-user stories — are the strongest early signal of demand for investors evaluating pre-traction startups.
 - `INS-260404-7609` Tell stories about specific users and their problems rather than citing market sizes — investors' biggest fear is that nobody actually wants your product.
 - `INS-260403-9C63` VC pathologies trace back to fund economics that demand huge deal sizes, not to the personal failings of individual investors.
-- `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
-- `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
+- `INS-260403-6279` History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
 - `INS-260403-39F6` When the Airbnb founders personally photographed hosts' apartments in New York, they didn't just improve listings — they discovered that hosts were in the same financial desperation they were, which deepened their mission.
 - `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - `INS-260330-CFBA` Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
-- `INS-260403-6279` History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.

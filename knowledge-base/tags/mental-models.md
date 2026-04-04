@@ -29,15 +29,14 @@
 - `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
-- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
-- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260403-F7DE` Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
+- `INS-260404-E4B8` Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
 - `INS-260404-0AF3` Crafting a sticky one-phrase description of your startup is both a memorability tactic and a litmus test for whether your strategy is focused enough.
+- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
-- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260404-2135` Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
@@ -57,10 +56,12 @@
 - `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
+- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
 - `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
+- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-91DD` CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
@@ -151,6 +152,20 @@
 - `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
 - `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
+- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- `INS-260330-E606` Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
+- `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
+- `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
+- `INS-260330-FEDD` Daniel Barringer spent 27 years drilling for an iron meteorite that had vaporized on impact 50,000 years earlier — our intuition about low-speed collisions doesn't transfer to high-energy events.
+- `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
+- `INS-260323-0E33` An outside observer sees objects freeze forever at a black hole's horizon, while the falling observer crosses it without noticing anything unusual -- both descriptions are simultaneously correct.
+- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
+- `INS-260330-C71A` The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
+- `INS-260330-AC34` The 'river model' of spacetime - where space flows inward like a waterfall - instantly resolves the paradox of how things cross the event horizon while appearing frozen from outside.
+- `INS-260330-86A7` Two objects moving in perfectly straight lines on a curved surface will converge — mimicking gravitational attraction without any force acting between them.
+- `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
+- `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
+- `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260329-36D9` Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
@@ -175,20 +190,6 @@
 - `INS-260323-12F2` The fundamental realization from vacuum physics: emptiness is the default state of the universe, and the presence of matter is what needs explaining.
 - `INS-260323-7F5D` Torricelli didn't just create a vacuum -- he reframed the entire question by showing that atmospheric pressure, not nature's horror of emptiness, explained all the phenomena.
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
-- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
-- `INS-260330-E606` Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
-- `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
-- `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
-- `INS-260330-FEDD` Daniel Barringer spent 27 years drilling for an iron meteorite that had vaporized on impact 50,000 years earlier — our intuition about low-speed collisions doesn't transfer to high-energy events.
-- `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
-- `INS-260323-0E33` An outside observer sees objects freeze forever at a black hole's horizon, while the falling observer crosses it without noticing anything unusual -- both descriptions are simultaneously correct.
-- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
-- `INS-260330-C71A` The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
-- `INS-260330-AC34` The 'river model' of spacetime - where space flows inward like a waterfall - instantly resolves the paradox of how things cross the event horizon while appearing frozen from outside.
-- `INS-260330-86A7` Two objects moving in perfectly straight lines on a curved surface will converge — mimicking gravitational attraction without any force acting between them.
-- `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
-- `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
-- `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260329-6B95` Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
 - `INS-260329-C472` Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
 - `INS-260329-BBF9` Reframe every purchase as 'would I work X hours for this item' to reveal its true cost.
@@ -215,13 +216,13 @@
 - `INS-260329-D1B8` Entrepreneurs repeat the cycle of uninformed optimism → informed pessimism → crisis of meaning → restart, never reaching informed optimism and achievement.
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
-- `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
+- `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
 - `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260403-3A49` Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.
 - `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
-- `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
+- `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
-- `INS-260403-7333` Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
+- `INS-260403-7333` Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.

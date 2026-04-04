@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 39 insights
+> 40 insights
 
 - `INS-260404-5BBF` [high] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - `INS-260404-92AC` [high] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
@@ -13,6 +13,7 @@
 - `INS-260403-0479` [high] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-3570` [high] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-7E66` [high] Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
+- `INS-260404-E4B8` [high] Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
 - `INS-260404-C64D` [high] Startup pitching is structurally broken: people bad at explaining talk to people bad at understanding, and even Google got rejected.
 - `INS-260402-9E2D` [high] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - `INS-260330-24CD` [high] Steven Pinker identified five distinct types of swearing, each serving a different communicative and emotional function.

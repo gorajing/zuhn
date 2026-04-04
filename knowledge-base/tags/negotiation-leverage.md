@@ -14,6 +14,7 @@
 - `INS-260404-AB9A` Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it outsized supplier leverage.
 - `INS-260403-36D8` Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
 - `INS-260404-6945` Costco stocks only 4,000 items versus Walmart's 140,000, which gives it immense buying power per SKU because suppliers fight to be the one choice in each category.
+- `INS-260404-9B82` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers voluntarily lower prices and customize products to win placement.
 - `INS-260403-5BBC` Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
 - `INS-260403-89B5` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
 - `INS-260404-7D8F` Costco's 4,000 SKUs vs Walmart's 140,000 creates immense supplier leverage because brands compete fiercely for limited shelf space.

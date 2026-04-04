@@ -46,6 +46,7 @@ related:
   - PRI-260403-2E59
   - PRI-260328-604D
   - INS-260330-BC6F
+  - INS-260404-E4B8
 ---
 When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychologically departed the core business before the new business has proven viable.
 

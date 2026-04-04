@@ -53,7 +53,6 @@ stance: >-
   problem they're solving and what they've built.
 related:
   - INS-260402-EA72
-  - INS-260403-C625
   - INS-260403-600F
   - INS-260403-E319
   - INS-260403-1290
@@ -62,6 +61,7 @@ related:
   - INS-260404-32B5
   - INS-260404-10FF
   - INS-260404-5483
+  - INS-260403-6A55
 ---
 Paul Graham recounts a VC who invested in a company despite knowing their business model was wrong — he expected it to change three times before they got it right. These were experienced repeat founders who'd just raised millions, and even their model was bad. At the earliest stages, business models are just guesses about domains that probably aren't the founders' expertise.
 

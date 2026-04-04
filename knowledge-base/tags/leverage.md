@@ -12,12 +12,12 @@
 - `INS-260323-2FF9` Options offer three distinct advantages over direct stock ownership: capped maximum loss (the premium paid), amplified returns through leverage, and the ability to hedge specific risks.
 - `INS-260327-7F54` PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
 - `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260327-6ACA` The US forced Britain to withdraw from Suez not through military threats but by threatening to collapse the pound sterling through selling reserves and blocking IMF support.
 - `INS-260327-8E45` Venice's earliest power base was salt — the essential food preservative of the medieval world that the lagoon naturally produced in abundance.
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
 - `INS-260327-178D` Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
 - `INS-260330-59BC` Singapore's lack of accountability let the PAP implement excellent policies efficiently, but the same lack of checks means a less benevolent successor could do permanent, lethal damage with no mechanism for removal.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260329-2242` Block your first 4-6 hours for the one thing that would make all other problems disappear.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
@@ -67,15 +67,15 @@
 - `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260403-4874` Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260404-1843` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
+- `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
+- `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
+- `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
+- `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
 - `INS-260330-B6FA` Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
 - `INS-260330-6204` Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
 - `INS-260330-376E` Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
 - `INS-260403-B9A9` Minimal profitability removes investors' ability to exploit founders' desperation for capital.
 - `INS-260330-08FA` The strongest fundraising position is not needing the money — reach ramen profitability before raising.
-- `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
-- `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
-- `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
-- `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
 - `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.

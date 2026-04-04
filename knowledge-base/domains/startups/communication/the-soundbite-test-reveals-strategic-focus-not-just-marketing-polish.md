@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-26D3
   - INS-260403-BFD1
+  - INS-260404-C2BC
   - INS-260404-0AF3
   - INS-260403-B3A4
-  - INS-260404-756D
 ---
 Graham frames the 'x of y' soundbite (e.g., 'the Microsoft Word of ecommerce') as both a pitch tactic and a strategic diagnostic. Professional investors hear hundreds of pitches that blur together — a sticky phrase ensures you're remembered past the first cut.
 

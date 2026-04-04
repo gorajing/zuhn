@@ -1,8 +1,8 @@
 # Tag: bureaucracy
 
 - `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
-- `INS-260327-B3B3` The Crusader States established after Jerusalem's capture became feudal kingdoms serving noble self-interest rather than the religious mission that justified their creation.
 - `INS-260402-5522` When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing.
+- `INS-260327-B3B3` The Crusader States established after Jerusalem's capture became feudal kingdoms serving noble self-interest rather than the religious mission that justified their creation.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260403-5348` Software purchase committees meant to save money force vendors to charge 10x more, because the overhead of selling through committees only justifies high-ticket deals.
 - `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.

@@ -49,12 +49,12 @@ related:
   - INS-260403-FF86
   - INS-260403-0701
   - INS-260403-1290
-  - INS-260403-A709
   - INS-260403-A172
   - INS-260403-C496
   - INS-260403-088E
   - INS-260403-2E90
   - INS-260403-1DB7
   - INS-260404-40D1
+  - INS-260404-B43A
 ---
 Paul Graham cites a VC who invested in a company knowing their business model was wrong and would change three times. At the early stage, business models are guesses about domains founders often don't understand well yet. Spending precious pitch minutes on these guesses crowds out the strongest signal founders can offer: deep understanding of a real problem and a working product that addresses it. Worse, a spectacularly wrong business model becomes the memorable thing — investors recall you as 'the company with the boneheaded monetization plan' rather than 'the team that solved that important problem.' The lesson extends beyond fundraising: in any persuasion context, lead with your strongest evidence, not your weakest guesses.

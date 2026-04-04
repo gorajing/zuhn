@@ -52,12 +52,11 @@ stance: >-
   investors than a comprehensive but vague one, because content approaches zero
   as generality approaches infinity
 related:
-  - INS-260330-B5DF
   - INS-260403-41FF
   - INS-260403-507E
+  - INS-260404-873C
   - INS-260404-3161
   - INS-260404-8660
-  - INS-260403-74EA
   - INS-260403-4760
 ---
 When founders try to capture every possibility their product might become, the description loses all information content — investors discard it as meaningless boilerplate. Paul Graham frames this as a calculus limit: as you approach a description of 'anything,' content approaches zero.

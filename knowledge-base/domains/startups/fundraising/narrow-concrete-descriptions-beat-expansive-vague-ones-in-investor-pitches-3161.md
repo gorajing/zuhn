@@ -56,8 +56,8 @@ related:
   - INS-260403-74EA
   - INS-260403-507E
   - INS-260404-516B
+  - INS-260404-873C
   - INS-260403-EE70
-  - INS-260403-9AB3
   - INS-260404-0427
 ---
 Founders resist narrow descriptions because their product has broad potential, but investors process pitches like lossy compression — vague language gets discarded as noise. Paul Graham frames this as an algorithm: start with a gripping but overly narrow description, then flesh it out incrementally. Each successive approximation should be a 'working description' in the investor's head, analogous to incremental software development where every commit produces working code.

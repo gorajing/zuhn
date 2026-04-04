@@ -59,9 +59,9 @@
 - `INS-260330-3A3E` When the people who build the product also support it, bugs get fixed faster and the knowledge gap between builders and users collapses.
 - `INS-260322-3C3D` ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
 - `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
-- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260325-B868` Progress begets progress through feedback loops where inventions like computers and steam engines amplify the capacity to invent further.
+- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260403-64D0` The startup environment's rapid success/failure cycle makes it uniquely suited to reveal which evaluation signals actually predict performance.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260329-DFD1` TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.

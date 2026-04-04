@@ -50,10 +50,10 @@ stance: >-
   moat
 related:
   - INS-260404-E65A
+  - INS-260404-B086
   - INS-260404-029D
   - INS-260404-30CA
   - INS-260404-975A
-  - INS-260404-6E7B
 ---
 Costco's membership fee should theoretically make customer acquisition fatally difficult, and its warehouse layout should confuse and annoy shoppers. Instead, the fee selects for an affluent demographic (average household income ~$100K) and business owners (one-third of members generating two-thirds of sales). The confusing layout forces wandering through aisles, increasing impulse discoveries.
 

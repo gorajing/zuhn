@@ -37,6 +37,6 @@
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260404-1C01` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
-- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
+- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.

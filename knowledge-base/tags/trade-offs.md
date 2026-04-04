@@ -3,9 +3,9 @@
 - `INS-260402-1FE9` Programmer time is the true scarce resource; burning machine cycles for simpler code is good waste.
 - `INS-260329-5DB9` The CAP theorem proves distributed systems can only guarantee two of three properties: consistency, availability, and partition tolerance.
 - `INS-260329-A171` Suffix arrays replaced suffix trees by storing only sorted indices instead of full tree structures, recovering equivalent power through the LCP auxiliary array.
-- `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260403-5CD6` The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - `INS-260330-66EF` Fossil evidence shows foragers were healthier than early farmers, yet every independent civilization chose agriculture anyway.
+- `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260404-1B29` Photosynthesis converts photon energy through 4+ protein complexes and multiple carrier molecules, losing energy at each step but producing storable chemical energy that raw sunlight cannot provide.
 - `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260403-7738` Photosynthesis routes energy through photons → excited electrons → proton gradients → ATP → G3P, losing energy at every step but enabling precise control at each stage.

@@ -10,7 +10,7 @@
 - `INS-260403-DB0A` Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
 - `INS-260330-CA88` Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
 - `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
+- `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
 - `INS-260330-4045` Confucian governance worked because each level of the hierarchy had explicit obligations downward, not just authority — making compliance feel like reciprocity rather than submission.
 - `INS-260330-1647` Confucius prescribed that in every hierarchical relationship, the superior must earn respect through care and education — authority without reciprocal obligation erodes legitimacy.
-- `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
 - `INS-260403-DB38` Large orgs divide into small groups via hierarchy, but each person's freedom shrinks proportionally to total org size because each group must act as one virtual person to the layer above.

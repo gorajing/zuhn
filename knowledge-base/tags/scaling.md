@@ -65,7 +65,7 @@
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
 - `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
-- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260403-0550` Shared language and cultural similarity across LatAm countries dramatically reduces the friction of multi-country expansion compared to Europe's patchwork.
 - `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260403-8B5A` Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
@@ -75,7 +75,7 @@
 - `INS-260330-85B8` Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
 - `INS-260322-A892` An early startup is like an egg (simple: find customers, build product, don't die) while a late-stage company is a full chicken (international, multi-product, M&A, compliance) — but three CEO responsibilities persist across all stages.
 - `INS-260325-6F89` The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
-- `INS-260403-0550` Shared language and cultural similarity across LatAm countries dramatically reduces the friction of multi-country expansion compared to Europe's patchwork.
+- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
 - `INS-260323-C90C` True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.
 - `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
 - `INS-260330-B7B1` Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
@@ -135,7 +135,6 @@
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
-- `INS-260330-22D6` Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
 - `INS-260403-5B4E` Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260403-0162` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement — scaling around inefficiency creates permanent cost.
@@ -145,3 +144,4 @@
 - `INS-260404-9229` When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
 - `INS-260403-EDA2` RuBisCo is a terrible enzyme that conquered the planet by being produced in enormous quantities — 40 billion tons — rather than being redesigned.
 - `INS-260330-391C` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.
+- `INS-260330-22D6` Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.

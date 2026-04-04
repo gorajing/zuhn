@@ -2,6 +2,7 @@
 
 - `INS-260404-95FC` Costco pays double the US retail average ($21/hr) and gets employees who are three times more productive.
 - `INS-260404-DD00` Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
+- `INS-260404-E298` When profit comes from renewals rather than markups, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-B8AE` Mandatory membership fees make the company's primary revenue dependent on customer satisfaction, not transaction margins.
 - `INS-260403-CED6` When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
 - `INS-260404-A193` When revenue comes from renewals rather than markups, the company is incentivized to keep prices low and quality high.
@@ -37,6 +38,7 @@
 - `INS-260403-115B` Costco stocks ~4,000 SKUs vs. Walmart's 140,000, making brands compete fiercely for limited shelf space and accepting lower margins to win placement.
 - `INS-260404-57E3` Costco's 4,000 SKUs vs Walmart's 140,000 creates extreme supplier competition for limited slots, driving prices down.
 - `INS-260404-7F16` Costco stocks only 4,000 SKUs versus Walmart's 140,000, giving it enormous leverage because suppliers compete fiercely for limited shelf space.
+- `INS-260404-9B82` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers voluntarily lower prices and customize products to win placement.
 - `INS-260404-CEA8` Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
 - `INS-260403-83A8` Carrying 4,000 SKUs instead of 140,000 makes each slot so valuable that suppliers will cut prices and customize products to win placement.
 - `INS-260404-6A20` Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
@@ -46,6 +48,7 @@
 - `INS-260404-8D5F` Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.
 - `INS-260403-747B` Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260404-41AA` Costco's 15% markup cap, warehouse layout, and limited selection create interlocking efficiencies that compound into an unreplicable cost advantage.
+- `INS-260404-B086` Costco's $60 membership fee, confusing warehouse layout, and bulk-only sizing all seem like obstacles but actually select for affluent, high-spending customers with $100K average household income.
 - `INS-260403-9104` Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260404-9783` Costco turns membership fees, confusing layouts, and bulk-only sizing into loyalty drivers and competitive moats.
 - `INS-260403-2AE7` Converting obstacles like confusing layouts and upfront fees into deal-hunting excitement and club exclusivity builds emotional loyalty that pure convenience cannot match.

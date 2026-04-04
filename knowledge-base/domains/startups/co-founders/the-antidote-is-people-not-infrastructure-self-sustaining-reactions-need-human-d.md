@@ -52,7 +52,6 @@ stance: >-
   catalysts at best; the self-sustaining driver is purely the density of
   startup-minded people
 related:
-  - INS-260323-BD20
   - INS-260327-1393
   - INS-260327-6B02
   - INS-260327-8D86
@@ -62,6 +61,7 @@ related:
   - INS-260403-46B2
   - INS-260403-2759
   - INS-260403-9A4C
+  - INS-260322-CFB1
 ---
 Graham explicitly dismisses physical infrastructure, weather, and similar factors as the engine of Silicon Valley. These things helped get it started, but the reaction is now self-sustaining based on people density alone. This is a crucial insight for cities trying to build startup ecosystems: you can't policy-engineer your way to a hub by building incubator spaces or offering tax incentives. Those are catalyst-stage interventions. The actual flywheel is: enough startup people attract more startup people, who normalize startup culture, who generate more chance meetings, which produce more successes, which attract more people.
 

@@ -9,19 +9,19 @@
 - `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
 - `INS-260323-6351` The two cardinal rules of investing: only use money you don't need short-term, and never leverage your portfolio — because black swan events can halve any stock overnight.
 - `INS-260329-7B15` Rich people buy things for zero dollars that can't go to zero, while poor people buy lottery tickets that almost certainly will.
+- `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
 - `INS-260329-B424` Options and leveraged positions let you control large assets with minimal capital, creating disproportionate upside potential.
 - `INS-260323-2FF9` Options offer three distinct advantages over direct stock ownership: capped maximum loss (the premium paid), amplified returns through leverage, and the ability to hedge specific risks.
 - `INS-260329-A9ED` HFT systems enforce automated pre-trade risk checks in microseconds to prevent runaway algorithms from causing financial disasters.
 - `INS-260323-1B42` Ray Dalio's core insight: the #1 mistake is trying to increase returns without managing risk — the best investors keep returns constant while systematically reducing the risk required to achieve them.
 - `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
-- `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
 - `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
-- `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
-- `INS-260327-C935` At Aspern-Essling, Napoleon's pontoon bridges across the Danube broke repeatedly from Austrian fire-ships and debris, stranding his army on the wrong side of the river.
 - `INS-260330-3672` High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
 - `INS-260403-34E0` Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
+- `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
+- `INS-260327-C935` At Aspern-Essling, Napoleon's pontoon bridges across the Danube broke repeatedly from Austrian fire-ships and debris, stranding his army on the wrong side of the river.
 - `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.
 - `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
@@ -38,15 +38,15 @@
 - `INS-260330-19E1` Midgley rejected ethanol (safe, effective, but low-margin) in favor of tetraethyl lead (cheap, high-margin, known toxic) — a decision that generated ~$3B in profits but caused an estimated 100 million deaths globally.
 - `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
 - `INS-260330-570F` Germany and Japan's drive for resource autarky revealed strategic weakness and led to fatal overextension.
+- `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-1217` Low startup costs align founder and investor risk appetites by letting founders diversify across multiple ventures over time.
 - `INS-260330-2BB3` Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
-- `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260329-79D3` Ramsey Solutions turns down advertisers that fail the 'would you send your sister there' test, even when the revenue is significant.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
-- `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
-- `INS-260403-63E2` Rank hypotheses by how catastrophically wrong you could be, then test the most dangerous ones first.
 - `INS-260330-7462` Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
 - `INS-260323-2DB0` Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
 - `INS-260330-D88C` Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
 - `INS-260403-215E` Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - `INS-260330-B27A` LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
+- `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
+- `INS-260403-63E2` Rank hypotheses by how catastrophically wrong you could be, then test the most dangerous ones first.

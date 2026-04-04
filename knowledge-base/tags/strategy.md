@@ -5,13 +5,13 @@
 - `INS-260320-901C` Six strategies combined took production systems from $300+/month to ~$10/month while processing 10x more data.
 - `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
-- `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
-- `INS-260326-79DF` Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
-- `INS-260323-DE39` Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
 - `INS-260402-9E2D` Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - `INS-260404-B04F` Plants produce 40 billion tons of a half-broken enzyme rather than evolving a better one, and still dominate Earth's biomass.
 - `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
 - `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
+- `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
+- `INS-260326-79DF` Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
+- `INS-260323-DE39` Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
 - `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
@@ -52,9 +52,9 @@
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
 - `INS-260329-277B` Being copied is a positive signal; the copier's attention on you means their attention isn't on their customers.
+- `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - `INS-260403-130D` Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
 - `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
-- `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.

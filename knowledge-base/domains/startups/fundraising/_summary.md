@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 272 insights
+> 275 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -66,6 +66,7 @@
 - `INS-260404-DA2E` [high] Smart investors care about the problem and solution at early stage — your business model is just guesses about stuff outside your expertise.
 - `INS-260403-1DB7` [high] Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
 - `INS-260404-4B69` [high] Smart investors expect early business models to be wrong, so talking about them wastes time better spent on the problem you solve.
+- `INS-260404-983E` [high] At the early stage, pitch the problem and solution, not the business model — investors expect the model to be wrong anyway.
 - `INS-260404-4605` [high] Don't pitch your business model to early-stage investors — they assume it's wrong and care about the problem you're solving.
 - `INS-260403-8346` [high] Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
 - `INS-260403-2247` [high] Mention monetization to show you've thought about it, but don't elaborate — the model is probably wrong anyway.
@@ -123,6 +124,7 @@
 - `INS-260403-C8A9` [high] Investor interest compounds exponentially because each commitment makes others more likely to invest.
 - `INS-260403-82CC` [high] Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
 - `INS-260404-438C` [high] When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
+- `INS-260404-103B` [high] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260330-975D` [high] Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
 - `INS-260403-4423` [high] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
@@ -135,6 +137,7 @@
 - `INS-260404-683B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless boilerplate.
 - `INS-260403-7964` [high] Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260404-8660` [high] Founders should describe their startup as a specific narrow thing rather than a vague platform, because investors discard abstract language as meaningless boilerplate.
+- `INS-260404-873C` [high] Describe your startup as a specific, graspable thing rather than an expansive vision statement.
 - `INS-260403-9679` [high] Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-B7B7` [high] Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
 - `INS-260403-EE70` [high] Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.

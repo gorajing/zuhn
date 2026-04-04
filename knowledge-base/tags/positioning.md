@@ -3,7 +3,6 @@
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
-- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 - `INS-260404-24FB` Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260404-D8C7` A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-621F` Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
@@ -18,6 +17,7 @@
 - `INS-260403-FE37` A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
 - `INS-260403-7FBE` A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
+- `INS-260404-C2BC` If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 - `INS-260403-BDBE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - `INS-260403-F7DD` Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
@@ -87,7 +87,6 @@
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260327-5B47` The painkiller market is $7B, vitamins are $36B, candy is $70-80B — a single product in a single deal may need candy messaging (delight stories) for users, vitamin messaging (benefit word-of-mouth) for evaluators, and painkiller messaging (prescriptive facts) for executives.
-- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260404-9783` Costco turns membership fees, confusing layouts, and bulk-only sizing into loyalty drivers and competitive moats.
 - `INS-260403-2C00` Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
@@ -95,3 +94,5 @@
 - `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-24E0` When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
 - `INS-260404-007B` Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
+- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
+- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.

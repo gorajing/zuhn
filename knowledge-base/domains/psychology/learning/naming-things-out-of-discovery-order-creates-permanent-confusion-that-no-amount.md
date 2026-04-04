@@ -59,6 +59,7 @@ related:
   - INS-260404-FDEA
   - INS-260404-78EB
   - INS-260404-BEF7
+  - INS-260404-E4B8
 ---
 In photosynthesis, Photosystem II fires before Photosystem I. The naming reflects the order of scientific discovery, not the order of the biological process. Every student who learns this topic must spend cognitive effort reconciling this mismatch, and even the CrashCourse instructor calls it out as unnecessarily complicated. The alternative name—plastoquinone oxidoreductase—is worse, so the confusing name persists.
 

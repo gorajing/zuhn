@@ -67,9 +67,11 @@
 - `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
 - `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
 - `INS-260404-438C` When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
+- `INS-260404-103B` Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260403-78B7` Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
 - `INS-260403-06E0` Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260404-8660` Founders should describe their startup as a specific narrow thing rather than a vague platform, because investors discard abstract language as meaningless boilerplate.
+- `INS-260404-873C` Describe your startup as a specific, graspable thing rather than an expansive vision statement.
 - `INS-260403-9679` Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-41FF` Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-D430` A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.

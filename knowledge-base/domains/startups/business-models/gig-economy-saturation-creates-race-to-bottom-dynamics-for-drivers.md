@@ -46,7 +46,6 @@ stance: >-
   drivers competing for stagnant or shrinking demand drives per-driver earnings
   below sustainable levels.
 related:
-  - INS-260324-ABAC
   - INS-260403-1E4A
   - INS-260323-7F22
   - INS-260327-F7C0

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 527 insights
+> 529 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -160,6 +160,7 @@
 - `INS-260404-3DD7` [high] RuBisCo's dominance in all plant life despite 50% error rates illustrates how early strategic commitment creates irreversible lock-in.
 - `INS-260403-1731` [high] RuBisCo dominates carbon fixation despite failing half the time because plants went all-in before alternatives could evolve.
 - `INS-260330-6A47` [high] In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
+- `INS-260404-26AE` [high] RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
 - `INS-260403-C436` [high] RuBisCo is a terrible enzyme that dominates Earth because it arrived first and scaled before alternatives could emerge.
 - `INS-260330-43CA` [high] RuBisCo is a terrible enzyme that confuses O2 for CO2 half the time, yet 40 billion tons of it dominate Earth because plants went all-in before oxygen levels rose.
 - `INS-260327-1ACE` [high] After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
@@ -340,6 +341,7 @@
 - `INS-260403-36D8` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
 - `INS-260404-8466` [high] Costco stocks 4,000 SKUs versus Walmart's 140,000, concentrating all purchasing volume into fewer suppliers who compete fiercely for shelf space.
 - `INS-260404-6945` [high] Costco stocks only 4,000 items versus Walmart's 140,000, which gives it immense buying power per SKU because suppliers fight to be the one choice in each category.
+- `INS-260404-9B82` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers voluntarily lower prices and customize products to win placement.
 - `INS-260404-1843` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
 - `INS-260404-7B3A` [high] Offering only 1-2 choices per category forces suppliers to compete on price and quality for scarce shelf space.
 - `INS-260403-5BBC` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.

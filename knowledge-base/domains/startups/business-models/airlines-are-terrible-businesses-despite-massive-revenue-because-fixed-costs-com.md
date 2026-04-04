@@ -45,7 +45,6 @@ related:
   - INS-260327-194D
   - PRI-260324-C63E
   - INS-260403-5D89
-  - INS-260329-72A5
 ---
 Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pricing, unionized labor, fuel volatility — systematically destroys margins.
 

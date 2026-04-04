@@ -8,6 +8,7 @@
 - `INS-260404-1D8F` RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
 - `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
+- `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
 - `INS-260404-2695` RuBisCo evolved when oxygen was scarce; when oxygen rose, plants added workarounds instead of replacing it — a pattern mirrored in legacy software.
 - `INS-260403-2CDA` RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.
 - `INS-260404-3608` When replacement cost exceeds compensation cost, scaling the workaround beats re-architecting — the same logic that keeps RuBisCo in every plant on Earth.

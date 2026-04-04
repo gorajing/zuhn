@@ -48,12 +48,11 @@ stance: >-
   suppliers compete for scarce shelf positions.
 related:
   - INS-260403-0DC2
+  - INS-260404-9B82
   - INS-260404-8C84
   - INS-260403-180D
   - INS-260404-1843
-  - INS-260403-887A
   - INS-260403-83A8
-  - INS-260404-37BB
 ---
 While a typical supermarket stocks 30,000 items and Walmart carries 140,000, Costco limits its selection to roughly 4,000. This constraint — which appears to be a weakness — creates extraordinary leverage. When there are only one or two slots per category, suppliers compete ferociously to be chosen, accepting lower margins and even redesigning products to Costco's specifications. In one case, Costco reengineered a cashew container to fit more per pallet, saving 24,000 pallets annually.
 

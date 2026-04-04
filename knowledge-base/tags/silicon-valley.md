@@ -10,8 +10,8 @@
 - `INS-260403-C381` Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration.
 - `INS-260330-DDF0` Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
 - `INS-260403-7471` Startups fail by default everywhere — hubs succeed by providing enough positive interventions to counteract the natural death rate.
-- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260403-20B1` Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
+- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260403-0530` New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260403-5BFB` Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.

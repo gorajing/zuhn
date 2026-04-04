@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3862 actionable insights
+Generated on 2026-04-04 | 3869 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1076,6 +1076,7 @@ Generated on 2026-04-04 | 3862 actionable insights
 - [INS-260404-F965] Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - [INS-260404-A526] Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - [INS-260404-0AF3] Crafting a sticky one-phrase description of your startup is both a memorability tactic and a litmus test for whether your strategy is focused enough.
+- [INS-260404-E4B8] Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1694,6 +1695,7 @@ Generated on 2026-04-04 | 3862 actionable insights
 - [INS-260404-CFD5] Never explicitly claim passion or quality — show confidence implicitly through behavior, because audiences write off self-promotion as bullshit.
 - [INS-260404-5A3D] Realizing that selectors barely scrutinize you motivates more active self-presentation.
 - [INS-260404-5343] Explicit claims of passion or quality trigger audience skepticism, while implicit demonstration of those same qualities through confident behavior is the most powerful signal available.
+- [INS-260404-132E] Demonstrate demand by showing what people painfully do today with bad tools, not by citing market size numbers.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2033,6 +2035,7 @@ Generated on 2026-04-04 | 3862 actionable insights
 - [INS-260404-3212] Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
 - [INS-260404-6C20] The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
 - [INS-260404-44A4] Investors care more about seeing what workarounds real people use today than hearing billion-dollar TAM numbers, because workarounds prove demand exists while market stats are abstract.
+- [INS-260404-C2BC] If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2240,6 +2243,7 @@ Generated on 2026-04-04 | 3862 actionable insights
 - [INS-260404-D149] OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - [INS-260404-CA58] Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - [INS-260404-462B] Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
+- [INS-260404-26AE] RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2919,6 +2923,9 @@ Generated on 2026-04-04 | 3862 actionable insights
 - [INS-260404-B887] Tell specific stories about real users and their problems to counter the investor's biggest fear: that you've built something based on untested theories about what the world needs.
 - [INS-260404-93E3] Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
 - [INS-260404-8660] Founders should describe their startup as a specific narrow thing rather than a vague platform, because investors discard abstract language as meaningless boilerplate.
+- [INS-260404-983E] At the early stage, pitch the problem and solution, not the business model — investors expect the model to be wrong anyway.
+- [INS-260404-103B] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
+- [INS-260404-873C] Describe your startup as a specific, graspable thing rather than an expansive vision statement.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

@@ -50,11 +50,11 @@ stance: >-
   (like ATP/NADPH) achieve greater flexibility and resilience than systems that
   couple input directly to output.
 related:
+  - INS-260404-9C57
   - INS-260404-C290
   - INS-260330-20FD
   - INS-260330-EAA3
   - INS-260404-596E
-  - INS-260330-1298
 ---
 Light-dependent reactions don't directly build sugar. Instead, they convert unpredictable photon energy into two standardized energy currencies: ATP and NADPH. The Calvin Cycle then draws on these currencies independently of whether the sun is currently shining at full intensity. This decoupling is what makes the system robust.
 

@@ -48,13 +48,13 @@ stance: >-
   offerings generates disproportionate negotiating power with suppliers,
   creating a self-reinforcing cost advantage.
 related:
-  - INS-260403-36D8
   - INS-260403-887A
   - INS-260403-6670
   - INS-260403-83A8
   - INS-260403-180D
   - INS-260403-0DC2
   - INS-260403-DC2D
+  - INS-260404-9B82
   - INS-260404-8C84
   - INS-260404-6BA2
   - INS-260404-3E82

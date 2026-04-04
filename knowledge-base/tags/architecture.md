@@ -17,6 +17,7 @@
 - `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
+- `INS-260404-A08A` The electron transport chain loses energy at every step, but each step performs a distinct useful function — a design pattern that applies to any multi-stage data or inference pipeline.
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-03B0` CS50P's curriculum progression from variables to functions to libraries to classes teaches the same abstraction layering principle that governs good software architecture.
 - `INS-260329-9FE0` CS50 Python's curriculum structure — building from functions to libraries to classes — mirrors how well-designed software systems layer abstractions.
@@ -42,7 +43,6 @@
 - `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
 - `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
 - `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
-- `INS-260404-A08A` The electron transport chain loses energy at every step, but each step performs a distinct useful function — a design pattern that applies to any multi-stage data or inference pipeline.
 - `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
@@ -52,6 +52,7 @@
 - `INS-260404-6876` Photosynthesis charges the thylakoid membrane like a battery by pumping protons to one side, then harvests that gradient through ATP synthase — useful work requires concentrated potential, not raw input.
 - `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260404-673B` When language and program evolve together, the architecture naturally aligns with the problem's real structure.
+- `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
 - `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.
 - `INS-260330-181B` Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.

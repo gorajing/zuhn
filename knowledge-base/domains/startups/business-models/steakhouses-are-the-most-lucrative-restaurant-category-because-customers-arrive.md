@@ -43,10 +43,10 @@ resolutions:
     what they're getting.
 related:
   - PRI-260324-C63E
+  - INS-260404-B086
   - INS-260329-A575
   - INS-260327-0FD9
   - INS-260330-7479
-  - INS-260327-80E9
 stance: >-
   Steakhouses make up over half of the top 100 highest-grossing US restaurants
   because customers show up expecting to spend $50-100 per steak

@@ -43,10 +43,10 @@ stance: >-
   per-unit markups make structurally better decisions for customers because
   short-term price gouging cannibalizes long-term renewal revenue
 related:
+  - INS-260404-E298
   - INS-260404-62D5
   - INS-260404-DD00
   - INS-260403-5C88
   - INS-260404-98F5
-  - INS-260404-A938
 ---
 Costco derives 75% of its profit from membership fees, not product markups. This fundamentally changes the optimization target: instead of maximizing per-item margin, the company optimizes for renewal rates. Raising prices would generate pennies today but cost $60-120 in lost renewals next year. This creates a rare structural alignment where what's good for the customer (low prices) is also what's good for the business (high renewal rates). The lesson generalizes: any business model where revenue depends on repeated voluntary re-enrollment will naturally resist the temptation to extract short-term value at the customer's expense.

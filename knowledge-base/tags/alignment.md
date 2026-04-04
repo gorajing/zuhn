@@ -22,11 +22,11 @@
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
-- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260329-8EF6` Verify that your partner's scorecard for you matches your own scorecard for yourself — misaligned metrics guarantee conflict.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
+- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.

@@ -35,6 +35,7 @@
 - `INS-260403-74E5` Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
 - `INS-260403-5F44` Innovation should live in every job rather than be siloed into a dedicated department or role.
 - `INS-260403-A99F` Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
+- `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
 - `INS-260404-F834` Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -50,7 +51,6 @@
 - `INS-260329-E45A` Punishment-based cultures cause employees to exert only the minimum effort needed to avoid being fired, forfeiting all discretionary effort above that bar.
 - `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260330-36B4` When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
-- `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.

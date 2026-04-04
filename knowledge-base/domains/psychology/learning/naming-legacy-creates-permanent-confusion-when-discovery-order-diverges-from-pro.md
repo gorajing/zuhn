@@ -56,6 +56,7 @@ related:
   - INS-260403-07C3
   - INS-260404-FDEA
   - INS-260404-BEF7
+  - INS-260404-E4B8
 ---
 Photosystem II was discovered after Photosystem I but acts first in the electron transport chain. This naming inversion is a trivial historical accident, yet it creates a comprehension stumble for every single person learning photosynthesis. The video explicitly flags this as confusing, and the alternative name (plastoquinone oxidoreductase) is worse.
 

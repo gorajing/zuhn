@@ -13,14 +13,14 @@
 - `INS-260404-E1B0` Costco pays $21/hour (double retail average) and gets 3x the productivity per employee in return.
 - `INS-260403-85DE` An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
-- `INS-260330-CBF3` Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
-- `INS-260330-855A` YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
-- `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
 - `INS-260330-48A8` Formal raise cycles prevent the cultural damage of rewarding whoever asks loudest.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
+- `INS-260330-CBF3` Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
+- `INS-260330-855A` YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
+- `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260403-857E` Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
 - `INS-260404-6A20` Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.

@@ -34,7 +34,7 @@
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260328-03BB` You will be judged by investors relative to your direct peers, not relative to the fastest-growing company in all of AI.
+- `INS-260322-047D` Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260330-B09B` Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
 - `INS-260403-27AC` Rejecting acquisition offers correlates with outsized outcomes because it selects for ambitious, conviction-driven founders.
-- `INS-260322-047D` Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260327-CD77` Start with an aggressively high price—first-time founders chronically underprice out of guilt.

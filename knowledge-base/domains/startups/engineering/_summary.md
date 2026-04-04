@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 41 insights
+> 42 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-C514` [high] Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
@@ -16,6 +16,7 @@
 - `INS-260403-89A5` [high] Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260404-673B` [high] When language and program evolve together, the architecture naturally aligns with the problem's real structure.
 - `INS-260403-F100` [high] The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
+- `INS-260404-1455` [high] Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
 - `INS-260404-2695` [high] RuBisCo evolved when oxygen was scarce; when oxygen rose, plants added workarounds instead of replacing it — a pattern mirrored in legacy software.
 - `INS-260403-2CDA` [high] RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.
 - `INS-260404-3608` [high] When replacement cost exceeds compensation cost, scaling the workaround beats re-architecting — the same logic that keeps RuBisCo in every plant on Earth.

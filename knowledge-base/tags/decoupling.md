@@ -1,6 +1,7 @@
 # Tag: decoupling
 
 - `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
+- `INS-260404-9C57` Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
 - `INS-260404-9428` Photosynthesis splits into light reactions (capture energy as ATP/NADPH) and the Calvin Cycle (spend it on carbon fixation), enabling each stage to optimize independently.
 - `INS-260403-8125` Photosynthesis converts chaotic photon energy into standardized ATP/NADPH currencies before using them — a universal design pattern for managing complexity.
 - `INS-260404-040D` Photosynthesis decouples light capture from sugar production via ATP/NADPH intermediaries, enabling flexibility that direct conversion could never achieve.

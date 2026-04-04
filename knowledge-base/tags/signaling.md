@@ -38,8 +38,8 @@
 - `INS-260404-5343` Explicit claims of passion or quality trigger audience skepticism, while implicit demonstration of those same qualities through confident behavior is the most powerful signal available.
 - `INS-260403-A290` Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
-- `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260403-6BF7` Developer influencers who master visibility often outperform technically superior peers in career outcomes.
+- `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260404-AFE6` When investors lack time and technical background to evaluate your product, your own confidence becomes the single biggest piece of evidence they use.
@@ -50,4 +50,5 @@
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260403-2F22` Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
 - `INS-260404-438C` When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
+- `INS-260404-103B` Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260403-7708` A firm like Sequoia taking 30% needs to improve outcomes by 43%—their brand signal alone may exceed that.

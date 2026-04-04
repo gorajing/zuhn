@@ -1,10 +1,10 @@
 # Tag: curiosity
 
 - `INS-260322-B693` Using AI to optimize exam performance produces 'human versions of AI' — the real educational opportunity is cultivating intrinsic motivation and original thinking.
+- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260404-F227` Optimizing creative output for audience surprise is less effective than following genuine curiosity, because curiosity-driven exploration surfaces authentically novel ideas.
-- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260327-A817` AI can execute defined tasks, but asking the right questions—knowing what to solve—remains uniquely human.
 - `INS-260402-0F45` Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.

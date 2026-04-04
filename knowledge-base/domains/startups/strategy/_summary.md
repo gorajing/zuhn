@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 238 insights
+> 239 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -42,6 +42,7 @@
 - `INS-260403-F290` [high] Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260330-B3DD` [high] Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
 - `INS-260404-41AA` [high] Costco's 15% markup cap, warehouse layout, and limited selection create interlocking efficiencies that compound into an unreplicable cost advantage.
+- `INS-260404-B086` [high] Costco's $60 membership fee, confusing warehouse layout, and bulk-only sizing all seem like obstacles but actually select for affluent, high-spending customers with $100K average household income.
 - `INS-260403-9104` [high] Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260404-445D` [high] Costco systematically turns every apparent weakness — fees, confusing layout, limited selection — into a competitive moat.
 - `INS-260404-9783` [high] Costco turns membership fees, confusing layouts, and bulk-only sizing into loyalty drivers and competitive moats.

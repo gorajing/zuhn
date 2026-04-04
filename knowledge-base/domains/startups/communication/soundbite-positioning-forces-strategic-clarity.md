@@ -50,14 +50,14 @@ stance: >-
 related:
   - INS-260403-82CC
   - INS-260404-0AF3
+  - INS-260404-C2BC
   - INS-260403-B3A4
   - INS-260403-BFD1
   - INS-260403-F7DD
-  - INS-260403-941F
   - INS-260403-FE37
   - INS-260403-3058
+  - INS-260403-941F
   - INS-260403-3EFB
-  - INS-260403-87CD
 ---
 Graham recommends launching a descriptive phrase early in your pitch that sticks in investors' heads—patterns like 'the X of Y' (Viaweb was 'the Microsoft Word of ecommerce'). Professional investors hear so many pitches that they blur together; the first cut is simply being remembered.
 

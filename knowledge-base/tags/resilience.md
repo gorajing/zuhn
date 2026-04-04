@@ -8,19 +8,19 @@
 - `INS-260329-3441` Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
 - `INS-260320-0F7C` Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
 - `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely.
+- `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
+- `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
+- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
+- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
+- `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
+- `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-7E6F` After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
 - `INS-260323-DA4E` Third-generation refugees maintain resilience through the frame 'nothing lasts forever' — historical perspective that no occupation is permanent provides psychological survival even when immediate hope is absent.
 - `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
-- `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
-- `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
-- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
-- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
-- `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
-- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
-- `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
 - `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
 - `INS-260329-03B5` Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
 - `INS-260325-5C03` The resilience paradox: we can identify many factors correlated with resilience, but none strongly predict who will be resilient next time, because the meta-skill is flexibly matching strategy to situation.
@@ -55,7 +55,6 @@
 - `INS-260325-F8EB` Research across over 100 studies consistently shows that about two-thirds of people exposed to potentially traumatic events show a resilient trajectory of continued healthy functioning.
 - `INS-260327-ECBB` Choosing to live with less than you can afford builds a psychological strength that living at maximum comfort systematically destroys.
 - `INS-260330-3E64` Rogan credits brutal exercise routines, sauna, and cold plunge as the primary mechanism that made surviving his cancellation attempt manageable.
-- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
@@ -90,3 +89,4 @@
 - `INS-260330-7462` Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
 - `INS-260330-D88C` Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
+- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.

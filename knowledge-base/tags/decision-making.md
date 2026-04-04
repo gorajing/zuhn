@@ -6,14 +6,12 @@
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260321-99C0` Share every major decision with AI daily, then monthly ask 'what was my biggest mistake in the past 6 months?' — accumulated context makes AI an increasingly powerful strategic advisor.
 - `INS-260325-3EF4` Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
-- `INS-260321-167A` Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
 - `INS-260329-5094` Spreadsheet decision matrices force you to name your criteria and weights before evaluating options, which counteracts gut-feel bias.
 - `INS-260329-FEA6` Spreadsheet-based weighted decision matrices force explicit priority ranking that reveals preferences hidden from intuitive reasoning.
-- `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
-- `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
+- `INS-260321-167A` Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
+- `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
-- `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260323-C4A2` Even in a fully deterministic universe, the inability to predict the future from within the system makes free will functionally real — a stance called compatibilism.
 - `INS-260323-3C7F` Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
 - `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
@@ -39,6 +37,8 @@
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
+- `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
+- `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260325-4A01` Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260325-95EB` Cherry-picking from Stoicism, Epicureanism, and Buddhism feels open-minded but produces a framework that contradicts itself at every genuine decision point.
@@ -129,8 +129,8 @@
 - `INS-260329-C430` 'I'll buy when I have money' inverts causation — the program creates the money, so waiting for money to buy the program is a logical impossibility.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
-- `INS-260403-DFC3` Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
-- `INS-260330-201F` The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.
 - `INS-260403-5B4E` Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
+- `INS-260403-DFC3` Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
+- `INS-260330-201F` The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.
