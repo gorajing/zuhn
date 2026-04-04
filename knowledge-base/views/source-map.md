@@ -3,9 +3,9 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 178 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 74 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 58 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 182 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 78 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 63 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -28,6 +28,7 @@ Generated on 2026-04-04 | 2421 sources
 | AK-47 Underwater at 27,450 frames per second (Part 2) - Smarter Every Day 97 | youtube | 19 | 2026-03-30 |
 | System Design Concepts Course and Interview Prep | youtube | 19 | 2026-03-29 |
 | Waking Up with Sam Harris - Looking for the Self (26 Minute Meditation) | youtube | 19 | 2026-03-30 |
+| How to Do Great Work | blog | 17 | 2026-03-31 |
 | Figma To App Store In 37 Minutes With AI [Tutorial] | youtube | 16 | 2026-03-29 |
 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | youtube | 16 | 2026-03-30 |
 | Why Apple Fails in India (& Why it Matters) | youtube | 16 | 2026-03-30 |
@@ -51,7 +52,6 @@ Generated on 2026-04-04 | 2421 sources
 | Apple's Money Problem (& Why It Won't Buy Netflix) | youtube | 14 | 2026-03-30 |
 | $6.7M ARR, No Paid Ads, and an Exit to Quizlet in 2 Years — Coconote | youtube | 14 | 2026-03-20 |
 | Why Are Bad Words Bad? | youtube | 14 | 2026-03-30 |
-| How to Do Great Work | blog | 13 | 2026-03-31 |
 | 2,000 Years of Chinese History! The Mandate of Heaven and Confucius: World History #7 | youtube | 13 | 2026-03-30 |
 | REPROGRAM your mind to be rich in 22 minutes.... | youtube | 13 | 2026-03-30 |
 | The Greatest Speech in History? Alexander the Great and the Opis Mutiny | youtube | 13 | 2026-03-26 |
@@ -528,6 +528,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why Women-Led Startups Outperform Yet Lack Funding | blog | 5 | 2026-03-30 |
 | Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 5 | 2026-03-30 |
 | YC Review💪, What VC ‘Value-Add’ Really Looks Like🧭, Private Markets Outlook📈 | blog | 5 | 2026-03-30 |
+| YC W26 DB💰, $1T Services Opportunity🤖, How to Set Up Claude Cowork⚙️ | blog | 5 | 2026-03-30 |
 | You Weren't Meant to Have a Boss | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
@@ -2373,7 +2374,6 @@ Generated on 2026-04-04 | 2421 sources
 | Writing and Speaking | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
-| YC W26 DB💰, $1T Services Opportunity🤖, How to Set Up Claude Cowork⚙️ | blog | 0 | 2026-03-30 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
 | YC's Handshake Deal Protocol🤝, The Generative AI Winners of 2025 🤖, Redefining Independent Media📰 | blog | 0 | 2026-03-30 |
 | You are no longer the smartest type of thing on Earth | blog | 0 | 2026-03-30 |

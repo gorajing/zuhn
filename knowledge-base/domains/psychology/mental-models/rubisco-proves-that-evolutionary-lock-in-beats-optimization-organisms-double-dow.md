@@ -61,7 +61,7 @@ related:
   - INS-260330-CC30
   - INS-260330-1650
   - INS-260330-CEAE
-  - PRI-260403-C34A
+  - INS-260403-2CDA
 evidence:
   - id: INS-260330-CC30
     type: EXTENDS

@@ -49,7 +49,6 @@ stance: >-
   $1B revenue is a durable structural trend driven by technology, not a
   temporary anomaly.
 related:
-  - INS-260323-F753
   - INS-260323-5341
   - INS-260327-A5F9
   - INS-260327-725F
@@ -59,6 +58,7 @@ related:
   - INS-260403-87AC
   - PRI-260328-0993
   - INS-260327-2B62
+  - INS-260403-7C71
 ---
 Graham traces a concrete metric: IBM (founded 1896) took 45 years to $1B revenue in 2020 dollars, HP (1939) took 25 years, Microsoft (1975) took 13 years, and modern fast-growing companies reach it in 7-8 years. This isn't just about reaching milestones sooner — faster growth creates a double effect on company value because valuation is a function of both revenue and growth rate.
 

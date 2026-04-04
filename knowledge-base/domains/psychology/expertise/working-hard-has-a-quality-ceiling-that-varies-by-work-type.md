@@ -45,7 +45,6 @@ stance: >-
   output quality, making overwork a form of showing off rather than
   productivity.
 related:
-  - INS-260322-FD23
   - INS-260325-9F01
   - INS-260325-5B08
   - INS-260323-E3FD

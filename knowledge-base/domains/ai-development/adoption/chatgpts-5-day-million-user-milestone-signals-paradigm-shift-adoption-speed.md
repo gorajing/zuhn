@@ -43,11 +43,10 @@ stance: >-
   of magnitude, indicating a qualitatively different category of disruption
 related:
   - INS-260322-3263
-  - INS-260321-6437
   - INS-260321-5DF8
-  - INS-260320-20F2
   - INS-260327-560D
   - INS-260330-410A
+  - INS-260321-6437
   - INS-260330-3398
   - INS-260330-9C48
   - INS-260330-B437

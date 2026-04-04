@@ -51,8 +51,8 @@ related:
   - INS-260327-D0F4
   - PRI-260328-6A8D
   - INS-260327-2B62
+  - INS-260403-3F5F
   - INS-260330-930D
-  - INS-260403-458A
   - INS-260323-D288
 stance: >-
   Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even

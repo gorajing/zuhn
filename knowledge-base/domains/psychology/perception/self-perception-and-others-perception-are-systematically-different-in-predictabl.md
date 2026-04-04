@@ -47,11 +47,11 @@ stance: >-
   predictable patterns: you overestimate your flaws' visibility while
   underestimating the impact of your energy, presence, and consistency.
 related:
-  - INS-260327-66AC
+  - INS-260403-B3CA
   - INS-260329-ABA1
   - INS-260329-438D
   - INS-260327-9BFD
-  - INS-260323-1B0B
+  - INS-260327-66AC
 evidence:
   - id: INS-260323-1B0B
     type: TRANSFERS_TO

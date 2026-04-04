@@ -55,16 +55,16 @@ stance: >-
   organizations that go all-in on a mediocre strategy early enough can dominate
   indefinitely by compensating with volume rather than switching
 related:
-  - INS-260330-E218
   - INS-260330-7B09
   - INS-260330-AB3C
   - INS-260330-E1B3
   - INS-260330-0E1E
-  - INS-260330-4C3A
   - INS-260330-43CA
   - INS-260330-D4CC
   - INS-260330-C134
   - INS-260330-0B8D
+  - INS-260330-E039
+  - INS-260330-EB48
 evidence:
   - id: INS-260330-AB3C
     type: TRANSFERS_TO

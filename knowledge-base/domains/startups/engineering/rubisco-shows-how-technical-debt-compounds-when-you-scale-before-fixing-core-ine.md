@@ -53,11 +53,11 @@ stance: >-
 related:
   - INS-260330-3FCF
   - INS-260403-EFAF
+  - INS-260403-262F
   - INS-260330-0B8D
   - INS-260330-6ECA
   - INS-260330-EB48
   - INS-260403-D518
-  - INS-260330-11EB
   - INS-260403-04AF
 ---
 RuBisCo evolved in a low-oxygen atmosphere where its inability to distinguish CO2 from O2 didn't matter. As plants flooded the atmosphere with oxygen, RuBisCo started grabbing O2 roughly half the time, producing a toxic byproduct (phosphoglycolate) that plants must actively detoxify. Rather than evolving a better enzyme, plants compensated by producing ~40 billion tons of RuBisCo globally and building entire metabolic pathways to clean up its mistakes.

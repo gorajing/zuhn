@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3403 actionable insights
+Generated on 2026-04-04 | 3411 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1568,6 +1568,7 @@ Generated on 2026-04-04 | 3403 actionable insights
 - [INS-260403-0AF4] Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
 - [INS-260403-22FE] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - [INS-260403-B216] Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
+- [INS-260403-B3CA] Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2591,6 +2592,9 @@ Generated on 2026-04-04 | 3403 actionable insights
 - [INS-260403-C496] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - [INS-260403-D430] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 - [INS-260403-5F03] Trivially low profitability gives startups infinite runway, making VC funding optional rather than existential.
+- [INS-260403-270E] Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
+- [INS-260403-A0C4] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
+- [INS-260403-87CD] A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2875,6 +2879,7 @@ Generated on 2026-04-04 | 3403 actionable insights
 - [INS-260403-81D4] You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
 - [INS-260403-343D] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - [INS-260403-BDCC] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
+- [INS-260403-B4F1] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3403,6 +3408,7 @@ Generated on 2026-04-04 | 3403 actionable insights
 - [INS-260403-E1EB] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - [INS-260403-B8A3] Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
 - [INS-260403-066E] A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
+- [INS-260403-8A80] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3464,6 +3470,8 @@ Generated on 2026-04-04 | 3403 actionable insights
 - [INS-260403-F290] Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - [INS-260403-3EFB] Visual canvas tools with predefined sections and trigger questions channel abstract strategy conversations into concrete, testable business assumptions.
 - [INS-260403-3EEA] Tangible visual artifacts created during workshops serve as persistent reference points that enable teams to act on ideas after the session ends.
+- [INS-260403-F249] Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest the imbalance through ATP synthase — a model for how deliberate asymmetry creation drives all productive work.
+- [INS-260403-2C00] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

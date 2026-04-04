@@ -11,8 +11,8 @@
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
-- `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260330-CCD4` Spotify's shift from search-based music access to algorithmic recommendations gave it unprecedented control over which artists succeed.
+- `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260327-B64E` Asking about everything a prospect has already tried and failed at surfaces deprivation, which creates the psychological urgency that drives buying decisions.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
 - `INS-260327-00EB` Bad sellers identify pain and pitch; good sellers indicate the cost; elite sellers implicate the pain so deeply the buyer feels they must act now or suffer personally.

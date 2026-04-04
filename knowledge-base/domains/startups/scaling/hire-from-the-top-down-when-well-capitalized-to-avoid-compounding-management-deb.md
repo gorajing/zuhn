@@ -46,11 +46,10 @@ stance: >-
   Hiring senior leaders first and delegating downward produces faster long-term
   growth than promoting from within, despite higher upfront cost.
 related:
-  - INS-260327-5CB6
-  - INS-260327-176D
   - INS-260329-CDD1
   - INS-260322-D5EB
   - INS-260327-1EC4
   - INS-260326-7B2A
+  - INS-260327-5CB6
 ---
 Hormozi contrasts his first three businesses, where he hired from the bottom up and promoted internally, with Acquisition.com where he hired directors of sales, marketing, people, IT, and portfolio operations from day one. The top-down approach meant he could delegate immediately to people who were better than him at their respective functions, accelerating growth. He frames this as a debt trade-off: every business incurs some form of debt (financial, management, cultural, or technical), and the question is which you prefer to pay down later. Taking on financial debt to hire senior talent avoids the harder-to-resolve management and cultural debt that accumulates when inexperienced people are promoted beyond their capabilities, as happened when Gym Launch promoted a frontline rep to director of customer service who then over-hired by 7x.

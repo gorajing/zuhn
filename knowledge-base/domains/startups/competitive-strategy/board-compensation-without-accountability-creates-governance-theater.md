@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260329-9A30
   - INS-260329-CDD1
+  - INS-260403-2C00
   - INS-260323-BD20
   - INS-260403-7F91
-  - INS-260329-C92A
 evidence:
   - id: INS-260329-9A30
     type: TRANSFERS_TO

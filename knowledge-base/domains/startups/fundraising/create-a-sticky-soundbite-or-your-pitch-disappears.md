@@ -50,9 +50,9 @@ stance: >-
   single memorable descriptive phrase ('the X of Y') is the minimum bar for
   being remembered at all.
 related:
-  - INS-260403-EF30
   - INS-260403-FE37
   - INS-260403-2A1D
+  - INS-260403-87CD
   - INS-260403-B3A4
   - INS-260403-2FE1
 ---

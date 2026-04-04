@@ -51,8 +51,8 @@ related:
   - INS-260403-AF27
   - INS-260403-2204
   - INS-260403-047B
+  - INS-260403-A0C4
   - INS-260403-D430
-  - INS-260403-EE70
 ---
 As startup descriptions approach generality — 'a system to allow people to collaboratively leverage the value of information' — their information content approaches zero. Investors discard such sentences as boilerplate and grow impatient waiting for the actual explanation.
 

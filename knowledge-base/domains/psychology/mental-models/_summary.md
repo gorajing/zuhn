@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 74 insights
+> 75 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -50,6 +50,7 @@
 - `INS-260330-24B6` [high] A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.
 - `INS-260330-A260` [high] JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
 - `INS-260330-628D` [high] Asking 'what can I reach by combining these primitives?' reveals the true power and limits of any system.
+- `INS-260403-C725` [high] The electron transport chain extracts energy through a series of small steps rather than one big reaction, a pattern that applies to how we should structure learning, negotiation, and value capture.
 - `INS-260330-D795` [high] Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
 - `INS-260330-9BB7` [high] Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
 - `INS-260330-6844` [high] Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.

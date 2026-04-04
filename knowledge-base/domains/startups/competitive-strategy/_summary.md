@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 441 insights
+> 443 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -106,6 +106,7 @@
 - `INS-260330-2CE3` [high] Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-7DAA` [high] Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
 - `INS-260327-25D7` [high] Salesforce wasn't the first SaaS company, but by defining 'software is over' they became permanently associated with the cloud movement.
+- `INS-260403-5BAC` [high] Costco stocks only ~4,000 items vs 140,000 at Walmart, making suppliers compete fiercely for limited shelf space.
 - `INS-260330-9197` [high] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
 - `INS-260402-086D` [high] Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260402-AEA1` [high] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
@@ -248,6 +249,7 @@
 - `INS-260326-841D` [high] Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
 - `INS-260403-35E7` [high] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260402-4605` [high] Eminence constrains innovation more than obscurity constrains execution.
+- `INS-260403-262F` [high] RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
 - `INS-260330-B468` [high] Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260330-11EB` [high] RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
 - `INS-260330-D4CC` [high] RuBisCo fails 50% of the time in today's atmosphere but remains life's only carbon-fixation enzyme because plants invested too heavily to switch.

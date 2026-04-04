@@ -51,10 +51,10 @@ stance: >-
   you actually know well
 related:
   - INS-260403-8346
+  - INS-260403-270E
   - INS-260403-0267
   - INS-260403-C625
   - INS-260403-1852
-  - INS-260403-A172
   - INS-260403-FC36
   - INS-260403-8CDD
   - INS-260403-97F8

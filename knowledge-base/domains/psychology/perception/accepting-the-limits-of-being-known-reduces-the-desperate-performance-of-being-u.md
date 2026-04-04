@@ -48,10 +48,10 @@ stance: >-
   connections that are actually available.
 related:
   - INS-260323-CF27
+  - INS-260403-B3CA
   - INS-260327-0017
   - INS-260329-EC98
   - INS-260323-7263
-  - INS-260403-E2FB
 evidence:
   - id: INS-260329-EC98
     type: TRANSFERS_TO

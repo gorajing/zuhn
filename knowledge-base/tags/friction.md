@@ -7,3 +7,4 @@
 - `INS-260403-FF57` Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 - `INS-260330-08D1` NASA's Mars InSight probe failed because it relied on friction with surrounding soil to dig deeper — the vine robot's tip extension approach eliminates this dependency entirely.
 - `INS-260330-2332` Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.
+- `INS-260403-2C00` Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.

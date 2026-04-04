@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260324-8C30
   - INS-260403-4FA4
+  - INS-260403-2C00
   - INS-260321-AA91
   - INS-260403-B2CB
-  - INS-260322-3259
 evidence:
   - id: INS-260324-8C30
     type: SUPPORTS

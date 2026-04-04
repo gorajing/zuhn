@@ -52,8 +52,8 @@ related:
   - INS-260402-E2FF
   - INS-260403-5FBD
   - INS-260403-3F10
+  - INS-260403-270E
   - INS-260403-7E7C
-  - PRI-260324-A608
   - INS-260403-7E18
 ---
 Historical examples from Diners Club (1950) to Netflix show that the most enduring disruptions come from reimagining how value flows between company and customer, not from better features. Xerox didn't win with better copiers—they won with leasing and per-copy pricing. Dollar Shave Club didn't make better razors—they changed the purchasing model.
