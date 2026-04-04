@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 46 insights
+> 47 insights
 
 - `INS-260322-2E33` [high] KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text.
 - `INS-260325-11A6` [high] AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
@@ -30,6 +30,7 @@
 - `INS-260327-C69F` [medium] We talk about aligning AI with human values, but what if human values also need updating? Alignment should be mutual, not unilateral.
 - `INS-260326-7995` [medium] Yudkowsky identifies the fundamental asymmetry of superintelligence development: normal science assumes we can learn from failures and retry, but a misaligned superintelligence eliminates the possibility of iteration.
 - `INS-260327-4E8E` [medium] If AI models in datacenters are like a 'country of geniuses,' the natural question is what their intent is — and this existential risk of autonomous AI action is the one area where limited US-China cooperation might be possible.
+- `INS-260403-1F58` [medium] The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260327-7F32` [medium] You can't train an intelligent system to trust you while it knows you can shut it off at any time - genuine trust requires mutual vulnerability.
 - `INS-260326-7B2C` [medium] Computational irreducibility guarantees that sufficiently complex AI systems will produce unintended consequences — alignment can be patched but never solved.
 - `INS-260326-73C0` [medium] Yudkowsky explains that a superintelligent AI need not be malicious to be lethal — virtually any terminal goal, even wanting to make 'tiny molecular squiggles,' convergently implies resource acquisition behavior that would destroy humanity as a side effect.

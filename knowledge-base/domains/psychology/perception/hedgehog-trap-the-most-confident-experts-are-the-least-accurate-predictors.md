@@ -55,6 +55,7 @@ related:
   - INS-260325-E84D
   - INS-260323-518A
   - INS-260330-2838
+  - INS-260403-268F
 stance: >-
   Philip Tetlock's 20-year study of 284 experts and 80,000 predictions found
   that the most confident, framework-driven experts (hedgehogs) were the l...

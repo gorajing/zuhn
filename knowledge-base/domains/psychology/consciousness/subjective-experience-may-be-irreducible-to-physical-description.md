@@ -46,10 +46,10 @@ stance: >-
   implying consciousness contains something beyond physical description.
 related:
   - INS-260323-1930
+  - INS-260403-1F58
   - INS-260325-33DA
   - INS-260330-AB38
   - INS-260325-6BDE
-  - INS-260323-D400
 ---
 Mary's Room: a scientist raised in a black-and-white room knows everything physical about color perception. When she sees red for the first time, does she learn something new? If yes, then complete physical knowledge doesn't capture subjective experience, suggesting consciousness contains irreducible qualia.
 

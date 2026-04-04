@@ -6,18 +6,18 @@
 - `INS-260403-5CD6` The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
-- `INS-260322-4B4A` There is no right answer in creative work, but there are people whose job it is to make their choices become the right answer through total commitment to execution.
 - `INS-260323-FC5B` Every love ends in death or divorce — so go all in, because the joy of full commitment vastly outweighs the guaranteed pain of eventual loss.
 - `INS-260330-1A55` In a study of 1,100 married people, 81% said they would remarry their current partner, which Fisher attributes to extended pre-commitment periods filtering incompatible matches.
 - `INS-260329-DFDD` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value the latter in each pair.
 - `INS-260329-9EFA` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value what you receive more than what you give up.
 - `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
+- `INS-260322-4B4A` There is no right answer in creative work, but there are people whose job it is to make their choices become the right answer through total commitment to execution.
 - `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
+- `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260403-9680` Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260329-E6C3` Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
 - `INS-260329-1FEE` Serial starters keep abandoning projects at the valley of despair and restarting with uninformed optimism — the fix is committing long enough for it to be unreasonable to still be bad.
-- `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260327-CA72` With no fallback options, fear stops paralyzing you and starts driving productive action.
 - `INS-260329-C91D` Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260402-9075` Most startups die not from bad decisions but from founders who never fully committed.

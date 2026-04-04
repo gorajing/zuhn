@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 2929 insights across 34 topics
+> 2931 insights across 34 topics
 
 ## Topics
 
@@ -24,8 +24,8 @@
 | growth-strategy | 59 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
 | health-innovation | 13 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
 | hiring | 32 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
-| ideation | 75 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| innovation | 44 | Lack of structured innovation processes is itself a warning sign that the organization is behind. |
+| ideation | 76 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
+| innovation | 45 | Lack of structured innovation processes is itself a warning sign that the organization is behind. |
 | leadership | 162 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
 | market-entry | 33 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | mental-models | 5 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |

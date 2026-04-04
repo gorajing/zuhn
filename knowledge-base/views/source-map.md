@@ -199,9 +199,9 @@ Generated on 2026-04-04 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
@@ -276,6 +276,7 @@ Generated on 2026-04-04 | 2421 sources
 | AI Agents Are Coming: The Agentic Revolution Explained | blog | 5 | 2026-03-30 |
 | AI In a Bubble?🫧, Moats Revisited🛡️, AI makes the old VC playbook obsolete⚡ | blog | 5 | 2026-03-30 |
 | AI Is Like Water | blog | 5 | 2026-03-31 |
+| AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt) | blog | 5 | 2026-03-31 |
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
 | AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
 | Airwallex: How an Outsider Built an $8B Fintech Empire | blog | 5 | 2026-03-30 |
@@ -314,6 +315,7 @@ Generated on 2026-04-04 | 2421 sources
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
 | Dario Amodei Says AGI Is 1-3 Years Away: Full Breakdown | blog | 5 | 2026-03-30 |
 | Deep Dives | blog | 5 | 2026-03-30 |
+| DeepSeek R1: The AI Disruption No One Saw Coming | blog | 5 | 2026-03-30 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
 | Design and Research | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
@@ -500,6 +502,7 @@ Generated on 2026-04-04 | 2421 sources
 | What Happened With Bio Anchors? | blog | 5 | 2026-03-30 |
 | What I Did this Summer | blog | 5 | 2026-03-31 |
 | What I Worked On | blog | 5 | 2026-03-31 |
+| What if AI succeeds but OpenAI fails? | blog | 5 | 2026-03-30 |
 | What I've Learned from Hacker News | blog | 5 | 2026-03-31 |
 | What I've Learned from Users | blog | 5 | 2026-03-31 |
 | What Startups Are Really Like | blog | 5 | 2026-03-31 |
@@ -786,11 +789,13 @@ Generated on 2026-04-04 | 2421 sources
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Could VC be a Casualty of the Recession? | blog | 4 | 2026-03-31 |
+| Crazy New Ideas | blog | 4 | 2026-03-31 |
 | Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
+| Founder-Market Fit: The VC Test You Must Pass | blog | 4 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
@@ -939,6 +944,7 @@ Generated on 2026-04-04 | 2421 sources
 | If Your Business is Failing, This Is Why | youtube | 4 | 2026-03-23 |
 | Intuit CEO Sasan Goodarzi’s Grown-Up CEO Playbook | youtube | 4 | 2026-03-26 |
 | Is AI a Scam? We Ask Prof. Emily Bender, Author of “The AI Con” | youtube | 4 | 2026-03-23 |
+| Is Your Red The Same as My Red? | youtube | 4 | 2026-03-30 |
 | iShowSpeed & MrBeast Leak The Secrets Of Youtube.. | youtube | 4 | 2026-03-22 |
 | Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405 | youtube | 4 | 2026-03-24 |
 | Joscha Bach: Life, Intelligence, Consciousness, AI & the Future of Humans | Lex Fridman Podcast #392 | youtube | 4 | 2026-03-24 |
@@ -1855,7 +1861,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 0 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 0 | 2026-03-30 |
 | AI-Powered Fundraising Prep: The Founder’s Tactical Playbook | blog | 0 | 2026-03-30 |
-| AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt) | blog | 0 | 2026-03-31 |
 | AI tools are overdelivering: results from our large-scale AI productivity survey | blog | 0 | 2026-03-31 |
 | Airbnb Business Model | blog | 0 | 2026-03-31 |
 | Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix) | blog | 0 | 2026-03-31 |
@@ -1974,7 +1979,6 @@ Generated on 2026-04-04 | 2421 sources
 | 🤩 Community Wisdom: Understanding designer jargon, eng vs. PM responsibilities, finding user research participants, creating shareable usage stats, and roadmaps informing OKRs | blog | 0 | 2026-03-31 |
 | Copy What You Like | blog | 0 | 2026-03-31 |
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
-| Crazy New Ideas | blog | 0 | 2026-03-31 |
 | Cybersecurity’s Future Belongs to Startups | blog | 0 | 2026-03-31 |
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 0 | 2026-03-30 |
 | Dario Amodei, AGI, and the Long Game of Safe AI | blog | 0 | 2026-03-30 |
@@ -2007,7 +2011,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: The Media Landscape - Sense-Making 2.0 | blog | 0 | 2026-03-30 |
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
 | Deep Dive: Why AI Will Break the Grid | blog | 0 | 2026-03-30 |
-| DeepSeek R1: The AI Disruption No One Saw Coming | blog | 0 | 2026-03-30 |
 | Defining Property | blog | 0 | 2026-03-31 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Disconnecting Distraction | blog | 0 | 2026-03-31 |
@@ -2033,7 +2036,6 @@ Generated on 2026-04-04 | 2421 sources
 | Five Founders | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
 | Founder Control | blog | 0 | 2026-03-31 |
-| Founder-Market Fit: The VC Test You Must Pass | blog | 0 | 2026-03-30 |
 | Founder Mode👨‍💼, The Extinction of VC💀, How to Build More Pipeline🚀 | blog | 0 | 2026-03-30 |
 | Founder Mode | blog | 0 | 2026-03-31 |
 | Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 0 | 2026-03-30 |
@@ -2334,7 +2336,6 @@ Generated on 2026-04-04 | 2421 sources
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
 | What happens if the world pulls its money out of America? | blog | 0 | 2026-03-30 |
 | What I Read This Week… | blog | 0 | 2026-03-30 |
-| What if AI succeeds but OpenAI fails? | blog | 0 | 2026-03-30 |
 | What Kate Saw in Silicon Valley | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |
 | What Made Lisp Different | blog | 0 | 2026-03-31 |
@@ -2398,7 +2399,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to enter ‘flow state’ on command | Steven Kotler for Big Think | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
-| Is Your Red The Same as My Red? | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Learn to Sell, Learn to Build | youtube | 0 | 2026-03-30 |
 | Making Money Isn't About Luck | youtube | 0 | 2026-03-30 |

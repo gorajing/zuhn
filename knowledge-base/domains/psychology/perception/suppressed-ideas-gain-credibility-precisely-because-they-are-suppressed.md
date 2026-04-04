@@ -47,6 +47,7 @@ stance: >-
   suppressed.
 related:
   - INS-260325-59D4
+  - INS-260403-39E9
   - INS-260325-36F0
   - INS-260403-B1F2
   - PRI-260323-27D6
@@ -55,7 +56,6 @@ related:
   - INS-260330-712D
   - INS-260330-4EF8
   - INS-260402-FE91
-  - INS-260403-F157
 evidence:
   - id: INS-260403-F157
     type: TRANSFERS_TO

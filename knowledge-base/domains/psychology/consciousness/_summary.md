@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 94 insights
+> 96 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -31,6 +31,7 @@
 - `INS-260330-203F` [high] Johnson argues set and setting are not soft variables but pharmacologically active factors that determine whether the same psilocybin dose produces healing or harm.
 - `INS-260330-43C9` [high] Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - `INS-260325-4C2E` [high] The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
+- `INS-260403-7F97` [high] Knowing every neural pathway involved in pain still cannot make someone who has never felt pain actually experience it.
 - `INS-260325-F6AF` [high] The 'hard problem' is why felt experience exists at all, not which brain regions correlate with which feelings.
 - `INS-260330-3672` [high] High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
 - `INS-260327-8DC5` [high] If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
@@ -75,6 +76,7 @@
 - `INS-260330-BCC7` [medium] Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.
 - `INS-260330-3888` [medium] Multi-week solo expeditions in the Amazon taught Rosolie that even the most independent people have been surrounded by others every day of their lives, and that true isolation fundamentally recalibrates appreciation for human connection.
 - `INS-260330-C366` [medium] Psychedelic therapy's one-session-lasting-change model breaks the pharmacological assumption that psychiatric treatment requires continuous chemical intervention.
+- `INS-260403-617C` [medium] Apes who learned sign language can answer questions and express emotions but have never once asked a question, revealing they don't model others as having distinct knowledge.
 - `INS-260330-7A69` [medium] Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
 - `INS-260327-B59B` [medium] A scientist who knows everything about color perception but has never seen color will still learn something new when she sees red for the first time - suggesting subjective experience transcends physical knowledge.
 - `INS-260327-0133` [medium] Alan Watts' dream escalation argument: an omniscient dreamer would inevitably choose to forget it's dreaming, suggesting limitation and uncertainty are features consciousness deliberately chooses over boring omniscience.

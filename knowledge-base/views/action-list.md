@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3411 actionable insights
+Generated on 2026-04-04 | 3413 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2857,6 +2857,7 @@ Generated on 2026-04-04 | 3411 actionable insights
 - [INS-260403-39BB] Great startup ideas sit in the Venn diagram overlap of 'seems like a bad idea' and 'is actually a good idea.'
 - [INS-260403-F7DA] Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 - [INS-260403-573F] The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
+- [INS-260403-6857] Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
@@ -2880,6 +2881,7 @@ Generated on 2026-04-04 | 3411 actionable insights
 - [INS-260403-343D] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - [INS-260403-BDCC] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - [INS-260403-B4F1] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
+- [INS-260403-268F] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
