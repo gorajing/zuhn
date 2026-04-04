@@ -31,8 +31,8 @@
 - `INS-260403-A290` Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
 - `INS-260403-6BF7` Developer influencers who master visibility often outperform technically superior peers in career outcomes.
-- `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
+- `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260403-5C8E` Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
