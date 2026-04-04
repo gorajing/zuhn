@@ -20,7 +20,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Consensus-driven investment processes guarantee that the most outlier ideas
@@ -54,6 +54,7 @@ related:
   - INS-260403-EA34
   - INS-260323-197A
   - INS-260320-DDD9
+  - INS-260404-D6EE
 ---
 Graham identifies a fundamental structural flaw in how most VC firms evaluate startups: decisions are driven by consensus both within the firm and across the broader VC community. Since any truly novel idea will initially seem bad to most people (otherwise someone would already be doing it), requiring multiple people to approve an investment creates a systematic filter against the highest-return opportunities. The more approval layers, the more outliers get lost.
 
