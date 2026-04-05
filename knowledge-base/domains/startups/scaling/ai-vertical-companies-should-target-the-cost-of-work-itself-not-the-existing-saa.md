@@ -57,6 +57,6 @@ related:
   - INS-260330-3E6B
   - INS-260402-91B5
   - INS-260403-B5C0
-  - PRI-260328-8317
+  - INS-260404-7A54
 ---
 Traditional market sizing for vertical SaaS looks at existing software spend in the category. But AI fundamentally changes the TAM calculation because these companies are not just replacing software — they are replacing human labor. When AI can handle customer service, shipping optimization, price setting, inventory management, and demand forecasting within a specific vertical, the addressable market expands from 'what companies spend on software' to 'what companies spend on people doing this work.' NFX argues this is at least an order of magnitude greater than current SaaS markets. This reframing explains why previously ignored niches are becoming multi-billion dollar opportunities and why the current $325B vertical SaaS market cap significantly understates the true opportunity. Companies that capture more of the customer experience on-platform — mirroring the evolution from horizontal to vertical marketplaces with embedded fintech — will capture disproportionate value.

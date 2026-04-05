@@ -4,6 +4,7 @@
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260329-EC98` Build for people like you — authentic understanding of customer pain produces better products and more resilient motivation than external market research.
 - `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
+- `INS-260404-016F` In mission-driven verticals, deep domain obsession signals the persistence VCs need to see for long adoption cycles.
 - `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260403-C610` The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
 - `INS-260402-D739` The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.

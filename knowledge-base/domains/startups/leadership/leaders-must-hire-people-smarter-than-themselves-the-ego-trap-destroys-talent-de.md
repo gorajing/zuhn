@@ -53,9 +53,9 @@ related:
   - INS-260322-2FAD
   - INS-260326-7B2A
   - INS-260327-A3E9
+  - INS-260330-2F52
   - INS-260403-2CA3
   - INS-260403-96FA
-  - INS-260404-8520
 stance: >-
   The misconception that leaders must be the most technically knowledgeable
   person on the team leads to hiring weaker people, which lowers talent den...

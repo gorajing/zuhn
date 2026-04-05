@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260402-5E4E
   - INS-260330-4DFA
+  - INS-260404-0CA7
   - PRI-260328-78A5
   - PRI-260328-8F94
-  - INS-260327-82AA
 ---
 Embedding as a durability factor works by integrating your product into customer operations so deeply that replacing it requires significant time, money, and organizational disruption. The key metrics are customer retention rate, net revenue retention, and net revenue expansion through cross-selling — each additional product sold deepens the embed.
 

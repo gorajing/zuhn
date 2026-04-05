@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 299 insights
+> 300 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -277,6 +277,7 @@
 - `INS-260328-D220` [medium] If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260403-59F0` [medium] The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
 - `INS-260404-312D` [medium] Investors — supposedly experts at recognizing productive companies — are just as susceptible to mistaking professional appearance for real output.
+- `INS-260404-016F` [medium] In mission-driven verticals, deep domain obsession signals the persistence VCs need to see for long adoption cycles.
 - `INS-260403-4730` [medium] Fundraising has a binary transition point where signal rises above noise, making incremental pitch improvements less effective than crossing the threshold.
 - `INS-260330-B09B` [medium] Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
 - `INS-260327-7E3D` [medium] The stark reality of fundraising differences between Boston and Silicon Valley comes down to fundamentally different investor risk cultures.

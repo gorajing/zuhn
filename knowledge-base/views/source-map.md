@@ -938,6 +938,7 @@ Generated on 2026-04-05 | 2421 sources
 | Founder Mode👨‍💼, The Extinction of VC💀, How to Build More Pipeline🚀 | blog | 4 | 2026-03-30 |
 | Founder Mode | blog | 4 | 2026-03-31 |
 | Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 4 | 2026-03-30 |
+| Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 4 | 2026-03-30 |
 | Free AI Hiring Kit for Startup Founders | blog | 4 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | From Sci-Fi to Reality 🗣️ | blog | 4 | 2026-03-30 |
@@ -1007,6 +1008,7 @@ Generated on 2026-04-05 | 2421 sources
 | Organic Startup Ideas | blog | 4 | 2026-03-31 |
 | Overcoming the “blank page” challenge with AI | blog | 4 | 2026-03-31 |
 | Persuade xor Discover | blog | 4 | 2026-03-31 |
+| Pitch Deck GPT 🤖📑 | blog | 4 | 2026-03-30 |
 | Political Backflow From Europe | blog | 4 | 2026-03-30 |
 | Post-Medium Publishing | blog | 4 | 2026-03-31 |
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
@@ -1094,6 +1096,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Venture Capital Squeeze | blog | 4 | 2026-03-31 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
 | This Week #0: Advice on growth, product, and leadership | blog | 4 | 2026-03-31 |
+| Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 4 | 2026-03-30 |
 | Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 4 | 2026-03-30 |
 | Trolls | blog | 4 | 2026-03-31 |
 | Two Kinds of Judgement | blog | 4 | 2026-03-31 |
@@ -1116,6 +1119,7 @@ Generated on 2026-04-05 | 2421 sources
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
 | Why Hire Offshore?  | blog | 4 | 2026-03-30 |
 | Why It's Safe for Founders to Be Nice | blog | 4 | 2026-03-31 |
+| Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 4 | 2026-03-31 |
 | Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 4 | 2026-03-31 |
 | Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 4 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 4 | 2026-03-30 |
@@ -2233,7 +2237,6 @@ Generated on 2026-04-05 | 2421 sources
 | Fashionable Problems | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
 | Founders: Are You Raising Enough? Or Too Much? Here’s the Tool You Need | blog | 0 | 2026-03-30 |
-| Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 0 | 2026-03-30 |
 | Free M&A Accretion Dilution Model 2026: Excel Template for EPS Analysis | blog | 0 | 2026-03-30 |
 | From 0 to 56,500: Celebrating One Year of The VC Corner 🚀🎉 | blog | 0 | 2026-03-30 |
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
@@ -2298,7 +2301,6 @@ Generated on 2026-04-05 | 2421 sources
 | Open Thread 426 | blog | 0 | 2026-03-30 |
 | OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 0 | 2026-03-30 |
 | Orthodox Privilege | blog | 0 | 2026-03-31 |
-| Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
@@ -2381,7 +2383,6 @@ Generated on 2026-04-05 | 2421 sources
 | The VC Corner 📰 #9 | blog | 0 | 2026-03-30 |
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
-| Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 0 | 2026-03-30 |
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
 | VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |
@@ -2396,7 +2397,6 @@ Generated on 2026-04-05 | 2421 sources
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
 | Why Companies Invest in Open-Source Tech and Research | blog | 0 | 2026-03-30 |
-| Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |

@@ -6,3 +6,4 @@
 - `INS-260327-8D86` Rosolie's Jungle Keepers protects 50,000+ acres not through activism alone but through startup-style fundraising, marketing, and organizational building.
 - `INS-260330-8CD4` Starting a company from genuine mission conviction creates durable advantages in persistence, team alignment, and external support that purely opportunistic ventures cannot replicate.
 - `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
+- `INS-260404-016F` In mission-driven verticals, deep domain obsession signals the persistence VCs need to see for long adoption cycles.
