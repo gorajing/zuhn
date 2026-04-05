@@ -172,7 +172,7 @@ RULES for the JSON:
 - Extract 3-5 insights from the content
 - Topics to use: ${topicHints}
 - shelf_life must be "evergreen" or "time-sensitive" ONLY
-- actionability must be "immediate" or "reference" or "emerging" ONLY
+- actionability must be "immediate" or "reference" or "inspiration" ONLY
 - confidence must be "low" or "medium" or "high" ONLY
 - Every insight MUST have a stance that is a directional claim
 
@@ -463,7 +463,7 @@ function refineExtractionPrompt(analysis: QualityAnalysis): void {
   if (analysis.zodFirstTryRate < 0.9) {
     refinements.push(
       "- ENUM ENFORCEMENT: shelf_life MUST be exactly \"evergreen\" or \"time-sensitive\". " +
-      "actionability MUST be exactly \"immediate\", \"reference\", or \"emerging\". " +
+      "actionability MUST be exactly \"immediate\", \"reference\", or \"inspiration\". " +
       "confidence MUST be exactly \"low\", \"medium\", or \"high\". " +
       "No other values. No variations. No creativity on enum fields."
     );

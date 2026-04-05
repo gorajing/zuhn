@@ -236,7 +236,7 @@ function classifyBatch(pairs: EdgePair[]): ClassifiedEdge[] {
   try {
     const raw = execFileSync("claude", ["-p", readFileSync(tmpFile, "utf-8")], {
       cwd: PROJECT_ROOT,
-      timeout: 60_000,
+      timeout: 120_000,
       maxBuffer: 1024 * 1024,
     }).toString();
 
