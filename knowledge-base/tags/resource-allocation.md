@@ -1,7 +1,6 @@
 # Tag: resource-allocation
 
 - `INS-260329-8DDF` Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory.
-- `INS-260327-236D` Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.
 - `INS-260330-D5DD` Placebos may work because the brain evolved to maintain distress signals until help arrives — external authority cues grant 'permission' to switch from help-seeking to healing mode.
 - `INS-260329-1B2A` Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
 - `INS-260327-3C19` As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
@@ -12,9 +11,9 @@
 - `INS-260403-4050` Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
 - `INS-260404-108C` Across money, time, and likely other resources, the biggest losses come not from obvious indulgence but from activities that mimic virtue while destroying value.
 - `INS-260328-23B4` Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.
+- `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260330-D487` Dedicate 100% of growth effort to a single channel per week to get clean signal on whether it works before moving on.
 - `INS-260330-323E` Test one growth channel at a time with full dedication for a week; only move on when you have a clear signal it works or doesn't.
-- `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260403-CF09` Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
@@ -26,3 +25,4 @@
 - `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260403-7E6A` North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260330-B5DF` The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
+- `INS-260327-236D` Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.

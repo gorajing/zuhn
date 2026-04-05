@@ -1,7 +1,5 @@
 # Tag: power-dynamics
 
-- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
-- `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
 - `INS-260330-3528` English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260403-7644` Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260402-116A` Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
@@ -9,11 +7,11 @@
 - `INS-260330-0FAF` Which words are 'worst' shifts historically: religious oaths were most taboo when the church held power, bodily words when Victorian propriety reigned, and identity slurs now that social equality is the dominant moral framework.
 - `INS-260327-1D3D` When the technological gap between groups becomes large enough, it creates the same social dynamics as perceived divine power - dependence, worship, and unquestioning obedience.
 - `INS-260330-E3ED` Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
-- `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
-- `INS-260330-3084` Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
 - `INS-260330-F8A2` The British created separate Christian, Jewish, and Muslim institutions in Palestine specifically to prevent unified Palestinian opposition.
 - `INS-260403-47C0` Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.
 - `INS-260330-3ECE` Rosalind Franklin's open data-sharing with Watson and Crick directly enabled them to claim credit for the DNA double helix discovery.
+- `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
+- `INS-260330-3084` Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
 - `INS-260330-7BF5` Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
 - `INS-260403-498A` As startups need less capital, founders retain more equity and control, compressing investor ownership inexorably.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
@@ -25,3 +23,5 @@
 - `INS-260330-68EF` France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
+- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
+- `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.

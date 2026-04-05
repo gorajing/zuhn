@@ -1,8 +1,5 @@
 # Tag: founder-psychology
 
-- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
-- `INS-260404-A8B9` Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
-- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
 - `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
@@ -10,6 +7,9 @@
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260403-DF73` Founders face coordinated pressure from VCs and executives to abandon instincts that are actually correct.
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
+- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
+- `INS-260404-A8B9` Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
+- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260330-1226` After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
 - `INS-260329-5412` Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.
 - `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.

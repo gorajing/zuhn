@@ -4,6 +4,7 @@
 - `INS-260403-99CE` Oxygen — the gas that enabled all animal life — is literally a waste product of photosynthesis's water-splitting reaction.
 - `INS-260404-E9F3` Oxygen is technically a waste byproduct of water-splitting in photosynthesis, yet it became the foundation of all animal life on Earth.
 - `INS-260403-D85D` Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all complex animal life — side effects of a process can eclipse the intended output in value.
+- `INS-260403-C0D4` Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260403-5C74` Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
 - `INS-260403-882A` Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
 - `INS-260403-227B` Oxygen—the gas that enabled all complex animal life—is technically just the waste product of photosynthesis splitting water to replace lost electrons.
@@ -12,7 +13,6 @@
 - `INS-260404-F8E6` Oxygen — the molecule all animal life depends on — is a waste product that photosynthesis discards while making glucose.
 - `INS-260404-FF39` Oxygen — the molecule enabling all animal life — was originally a toxic waste product of early photosynthesis, suggesting that transformative innovations often emerge as byproducts.
 - `INS-260403-EFE6` Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
-- `INS-260403-C0D4` Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260404-D8A5` Oxygen was a useless waste product of photosynthesis that accidentally became the foundation of all complex animal life.
 - `INS-260330-656A` Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.
 - `INS-260330-2119` Oxygen — the gas that enabled all animal life — was originally just a toxic waste product of photosynthesis, making it history's most valuable accidental byproduct.

@@ -1,8 +1,5 @@
 # Tag: opportunity-cost
 
-- `INS-260329-55DC` Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
-- `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
-- `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
 - `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260403-D294` Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
@@ -19,6 +16,7 @@
 - `INS-260403-A7FD` When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
 - `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
 - `INS-260329-F0DD` Test prep can be run from free libraries with zero startup cost, reaching $1,100/day within six months — outearning most post-college professional salaries without the four-year opportunity cost.
+- `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260327-5297` When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260329-B34E` People fail by building many half-finished bridges rather than completing one — getting to 90% on multiple paths yields zero while 100% on one path yields everything.
 - `INS-260329-50BD` The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
@@ -38,7 +36,6 @@
 - `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
 - `INS-260329-A01C` The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260329-1669` The belief that pursuing multiple opportunities increases the odds of one succeeding is a fallacy—any single one could have succeeded with full focus, but none will with divided attention.
-- `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260404-E36F` Early-stage business models are almost certainly wrong, so time spent on them displaces discussion of the problem and product where founders actually have insight.
 - `INS-260403-ABBB` Fundraising damages startups primarily by becoming the top idea in the founder's mind, starving product work of background processing cycles.
@@ -47,3 +44,6 @@
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260329-7D18` Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
 - `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.
+- `INS-260329-55DC` Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
+- `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
+- `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.

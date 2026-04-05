@@ -1,9 +1,9 @@
 # Tag: atp-synthase
 
+- `INS-260330-99CE` Thylakoid membranes charge like batteries by pumping protons to one side, then discharge through ATP synthase to produce ATP.
 - `INS-260330-8C6A` Thylakoids charge like batteries by pumping protons across membranes, then discharge through ATP synthase — the same gradient-to-currency pattern powers mitochondria, neurons, and kidneys.
 - `INS-260330-7E39` The thylakoid membrane works like a battery — protons are pumped in to create a concentration gradient, then ATP synthase harvests the gradient as they flow back out.
 - `INS-260330-1677` Chloroplasts charge thylakoids like batteries by pumping protons inside, then harvest that gradient through ATP synthase to produce ATP.
-- `INS-260330-99CE` Thylakoid membranes charge like batteries by pumping protons to one side, then discharge through ATP synthase to produce ATP.
 - `INS-260404-47BC` Chloroplasts charge thylakoids like batteries by pumping protons to one side of a membrane, then harvest energy as protons flow back through ATP synthase — a pattern that generalizes to any gradient across a barrier.
 - `INS-260403-B6E6` Thylakoids are charged like batteries by pumping protons to one side, then releasing them through ATP synthase to produce energy—imbalance is the engine.
 - `INS-260404-7060` Deliberately concentrating resources behind a bottleneck and releasing them through one optimized channel creates disproportionate output.

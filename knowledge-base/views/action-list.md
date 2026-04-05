@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3974 actionable insights
+Generated on 2026-04-05 | 3973 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1164,7 +1164,6 @@ Generated on 2026-04-05 | 3974 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
-- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.

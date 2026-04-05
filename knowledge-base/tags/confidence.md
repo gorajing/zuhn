@@ -1,7 +1,5 @@
 # Tag: confidence
 
-- `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
-- `INS-260330-6DE0` Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
 - `INS-260403-4363` When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
@@ -33,3 +31,5 @@
 - `INS-260404-438C` When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - `INS-260404-103B` Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
+- `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
+- `INS-260330-6DE0` Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
