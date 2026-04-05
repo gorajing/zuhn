@@ -49,7 +49,6 @@ stance: >-
   (calculator → mad libs → guessing game → translator → quiz app) produces
   better retention than concept-first abstract instruction
 related:
-  - INS-260327-DC0B
   - INS-260329-25FC
   - INS-260329-153F
   - INS-260329-0068
@@ -59,6 +58,7 @@ related:
   - INS-260329-975C
   - INS-260329-9AE9
   - INS-260403-743D
+  - INS-260404-8A18
 evidence:
   - id: INS-260325-B50B
     type: TRANSFERS_TO

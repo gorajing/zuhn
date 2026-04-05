@@ -46,11 +46,11 @@ stance: >-
   High Demo Day fundraising rates signal an accelerator is being too
   conservative in admissions, not that it is performing well.
 related:
+  - INS-260404-2250
   - INS-260322-0C91
   - INS-260328-372B
   - PRI-260403-26B9
   - INS-260328-3F19
-  - PRI-260403-E097
 ---
 Graham identifies a dangerous measurement trap: the only easily trackable metric for YC batches — post-Demo Day fundraising rate — has zero or even inverse correlation with the metric that actually matters (whether the batch contains a massive winner). This is because outlier-producing batches necessarily include more unconventional, harder-to-fund startups.
 

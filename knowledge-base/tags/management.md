@@ -8,6 +8,7 @@
 - `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
+- `INS-260404-4FDB` Codified anti-toxicity rules (like Sutton's 'No Asshole Rule') function as competitive moats for creative organizations by protecting psychological safety.
 - `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
 - `INS-260330-14CA` Delegate fully when consequences are low and your conviction is low; override only when consequences are catastrophic and your conviction is high.
 - `INS-260330-47FB` Critical decisions must be evaluated through the eyes of every employee, not just the people directly involved.

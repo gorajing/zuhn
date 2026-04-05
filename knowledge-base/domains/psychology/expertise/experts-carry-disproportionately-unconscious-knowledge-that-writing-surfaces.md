@@ -46,8 +46,8 @@ related:
   - INS-260403-7878
   - INS-260403-B508
   - INS-260327-24D2
+  - INS-260404-32C5
   - INS-260402-3639
-  - PRI-260328-E64D
 ---
 There's a counterintuitive asymmetry in who benefits most from writing: experts, not beginners. Graham notes that a great deal of knowledge is unconscious, and experts have a higher proportion of unconscious knowledge than novices. This means the gap between what an expert knows and what they can articulate is larger, not smaller.
 

@@ -48,7 +48,6 @@ stance: >-
   Good startup ideas must seem wrong to most people, because if they seemed
   obviously good, someone would already be executing them
 related:
-  - INS-260330-1E6A
   - INS-260402-3639
   - INS-260403-AA8F
   - INS-260403-AFC4

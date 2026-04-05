@@ -55,6 +55,7 @@ related:
   - INS-260403-D6FE
   - INS-260404-18F1
   - INS-260323-87F3
+  - INS-260404-616F
 ---
 Graham draws a direct parallel between speaking and writing: 'Good writing is an elaborate effort to seem spontaneous.' This reframes public speaking from a talent you either have or don't into a craft with specific techniques. The key insight is that everyday conversation gives you zero practice in the mode of speaking needed for presentations — it's a genuinely different skill that must be consciously developed.
 

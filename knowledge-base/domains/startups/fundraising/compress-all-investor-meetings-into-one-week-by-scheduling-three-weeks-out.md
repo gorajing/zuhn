@@ -56,6 +56,6 @@ related:
   - INS-260330-A38C
   - INS-260330-6900
   - INS-260402-5974
-  - PRI-260403-26B9
+  - INS-260404-2250
 ---
 Michael Seibel describes a common founder mistake: meeting investors one at a time over weeks or months, which kills urgency and signals desperation. The fix is to batch all meetings into a single week by telling investors 'we're building like crazy for the next two weeks, can we meet in week three?' This accomplishes three things simultaneously: (1) all meetings land in the same week, creating natural deal compression; (2) investors' calendars are more open three weeks out; (3) the framing signals that building takes priority over fundraising, flipping the power dynamic. The broader principle is that fundraising leverage comes from parallel processes and artificial scarcity — 'anything other than a check or wired funds is a no,' and deal heat (competitive demand) is the primary driver of favorable terms.

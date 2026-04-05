@@ -54,7 +54,6 @@ related:
   - PRI-260403-C229
   - INS-260329-55DC
   - INS-260330-0346
-  - INS-260329-7192
 evidence:
   - id: INS-260329-55DC
     type: EXTENDS

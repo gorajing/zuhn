@@ -48,11 +48,11 @@ stance: >-
   deliver more long-term value than the curriculum itself, because innovation
   problems are context-dependent and benefit from diverse outside perspectives.
 related:
+  - INS-260404-09EE
   - INS-260403-C05F
   - INS-260329-CD38
   - INS-260403-449D
   - INS-260329-9A58
-  - INS-260403-5BAD
 ---
 The comparison table reveals that platforms like Coursera lack networking and collaboration features despite offering strong content — and the article positions this as a meaningful gap, not a minor feature difference. Innovation problems are inherently context-dependent; a framework that works in fintech may fail in healthcare. Peer cohorts provide the ongoing diverse perspectives needed to adapt general frameworks to specific contexts.
 

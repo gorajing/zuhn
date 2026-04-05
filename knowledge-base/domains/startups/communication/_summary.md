@@ -1,8 +1,9 @@
 # Topic: communication
 
-> 36 insights
+> 38 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
+- `INS-260404-864F` [high] Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
 - `INS-260404-621F` [high] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - `INS-260404-756D` [high] If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.
@@ -21,6 +22,7 @@
 - `INS-260403-F7DD` [high] Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - `INS-260403-EF30` [high] Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260404-6C20` [high] The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
+- `INS-260404-616F` [high] Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-280B` [high] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
 - `INS-260404-CF2A` [high] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 - `INS-260404-24FB` [medium] Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.

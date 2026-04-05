@@ -46,12 +46,11 @@ stance: >-
   drawing conclusions about market dynamics or investment thesis from it is
   fundamentally unreliable.
 related:
-  - INS-260327-7E3D
   - INS-260328-7CA9
   - INS-260321-3521
+  - INS-260327-7E3D
   - INS-260403-1287
   - PRI-260403-26B9
-  - INS-260402-E522
 ---
 Michael shares a revealing personal experience: a competitor raised a large round that seemed inexplicable given that Michael's company had more traffic and had pitched the same investors. Years later, he discovered the founder had made the investing firm a billion dollars on a previous company -- the investment was essentially a loyalty play, not a market signal.
 

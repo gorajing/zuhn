@@ -46,7 +46,6 @@ stance: >-
   Selectively publishing only your strongest ideas is the correct strategy for
   essayists, despite being a well-known failure mode in scientific research.
 related:
-  - INS-260325-DF66
   - INS-260327-45B4
   - INS-260327-3F40
   - INS-260330-F500
@@ -56,6 +55,7 @@ related:
   - PRI-260323-27D6
   - INS-260403-A408
   - INS-260403-A6B1
+  - INS-260403-8C20
 ---
 In science, publication bias is a serious problem: only publishing positive results distorts the literature and wastes resources on already-disproven hypotheses. But Graham argues that in essay writing, the same behavior is exactly correct. You generate many ideas loosely, then ruthlessly filter to only publish the ones that survive scrutiny.
 

@@ -9,13 +9,14 @@
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
 - `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
 - `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
+- `INS-260404-9AEC` Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
-- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
-- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
+- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
+- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260330-E794` Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
 - `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
@@ -60,9 +61,9 @@
 - `INS-260323-422B` The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.
 - `INS-260329-6FAC` Write a contract to yourself committing to 10 years of compounding, which shifts behavior from short-term speculation to reasonable bets that inevitably compound.
 - `INS-260329-8542` Writing yourself a 10-year contract to add 1-2 zeros to your net worth transforms your decision-making from gambling to inevitable compounding.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
 - `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260404-7C79` Halving revenue on a 5%-weekly growth curve only puts you 15 weeks behind, regardless of how long you run.
 - `INS-260404-9BC6` In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
 - `INS-260330-A949` If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.

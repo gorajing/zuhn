@@ -57,7 +57,7 @@ related:
   - INS-260329-F969
   - INS-260327-A817
   - INS-260322-13D6
-  - INS-260329-ACE6
+  - INS-260404-09EE
 stance: Using AI to optimize exam performance produces 'human versions of AI'
 evidence:
   - id: INS-260329-F969

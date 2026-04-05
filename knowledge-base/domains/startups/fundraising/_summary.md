@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 286 insights
+> 288 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -38,6 +38,7 @@
 - `INS-260404-AFE6` [high] When investors lack time and technical background to evaluate your product, your own confidence becomes the single biggest piece of evidence they use.
 - `INS-260403-4337` [high] In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260404-ED0F` [high] With limited time and technical understanding, investors use your confidence as a proxy for product quality — but it must be shown, never stated.
+- `INS-260404-4682` [high] Convertible notes with different caps reward early-committing investors and break the deadlock of everyone waiting on everyone else.
 - `INS-260403-AC74` [high] Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - `INS-260403-D972` [high] Never take a corp dev meeting unless you've already decided to sell right now.
 - `INS-260403-B3CA` [high] A single compelling phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
@@ -130,6 +131,7 @@
 - `INS-260404-438C` [high] When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - `INS-260404-103B` [high] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260330-975D` [high] Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
+- `INS-260404-64EC` [high] Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
 - `INS-260403-4423` [high] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
 - `INS-260403-78B7` [high] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.

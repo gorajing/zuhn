@@ -47,7 +47,7 @@ related:
   - INS-260402-3639
   - INS-260330-45FF
   - INS-260323-B497
-  - INS-260327-9BA2
+  - INS-260404-864F
 stance: >-
   The argument that a word is too powerful to study in academic contexts is
   self-defeating — powerful words demand more engagement, not less.

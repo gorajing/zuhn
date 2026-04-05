@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3891 actionable insights
+Generated on 2026-04-05 | 3898 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -925,6 +925,7 @@ Generated on 2026-04-05 | 3891 actionable insights
 - [INS-260404-2829] Research shows people who explicitly pursue happiness end up less happy and more depressed.
 - [INS-260404-56AC] Professional success and stable routines mask stagnation by removing the discomfort that signals growth opportunities.
 - [INS-260404-FD88] When a goal seems impossible at scale, decomposing it to the smallest unit (one rep, one page, one call) circumvents the brain's overwhelm-triggered shutdown.
+- [INS-260404-9AEC] Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -2045,6 +2046,7 @@ Generated on 2026-04-05 | 3891 actionable insights
 - [INS-260404-44A4] Investors care more about seeing what workarounds real people use today than hearing billion-dollar TAM numbers, because workarounds prove demand exists while market stats are abstract.
 - [INS-260404-C2BC] If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 - [INS-260404-3C46] Crafting a single memorable phrase for your startup doubles as a test of strategic focus.
+- [INS-260404-616F] Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2285,6 +2287,7 @@ Generated on 2026-04-05 | 3891 actionable insights
 - [INS-260403-D20A] List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments.
 - [INS-260403-6BF7] Developer influencers who master visibility often outperform technically superior peers in career outcomes.
 - [INS-260404-5AC1] Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
+- [INS-260404-875B] Apply a sentence-level filter: if you wouldn't say it to a friend, rewrite it until you would.
 
 ## startups/developer-tools
 - [INS-260329-9A58] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
@@ -2946,6 +2949,8 @@ Generated on 2026-04-05 | 3891 actionable insights
 - [INS-260404-5721] Smart investors expect early-stage business models to be wrong, so pitch time is better spent on the problem and solution.
 - [INS-260404-17E3] A narrow, concrete description of what you built beats a grand vision statement when pitching investors.
 - [INS-260404-BD56] Specific user stories—especially about your own needs—are the strongest evidence of demand for early-stage startups.
+- [INS-260404-4682] Convertible notes with different caps reward early-committing investors and break the deadlock of everyone waiting on everyone else.
+- [INS-260404-64EC] Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3269,6 +3274,7 @@ Generated on 2026-04-05 | 3891 actionable insights
 - [INS-260404-CD55] Embedding legal and compliance as collaborative partners in the innovation program design phase transforms them from blockers into enablers.
 - [INS-260404-BFAB] Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
 - [INS-260404-6BBB] Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
+- [INS-260404-6394] Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3392,6 +3398,7 @@ Generated on 2026-04-05 | 3891 actionable insights
 - [INS-260404-CDF0] Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
 - [INS-260404-74F4] Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - [INS-260404-2BAD] Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
+- [INS-260404-4FDB] Codified anti-toxicity rules (like Sutton's 'No Asshole Rule') function as competitive moats for creative organizations by protecting psychological safety.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

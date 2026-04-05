@@ -1,6 +1,9 @@
 # Tag: cognitive-biases
 
+- `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260330-CFEA` Before defending any position, write the four strongest opposing arguments and imagine a world where you're wrong — this creates the cognitive wiggle room for humility and empathy.
+- `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
+- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260330-F734` Even 4chan has a moderation policy — 'free speech absolutism' is an illusion because every platform necessarily makes curation decisions, and the real question is whether those decisions are responsible.
@@ -9,7 +12,5 @@
 - `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260330-6620` Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.
-- `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
-- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260330-B4F1` Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
 - `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.

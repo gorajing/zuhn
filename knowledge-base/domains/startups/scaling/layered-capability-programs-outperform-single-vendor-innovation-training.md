@@ -52,6 +52,7 @@ related:
   - INS-260403-9AB5
   - INS-260403-3A7A
   - INS-260403-3326
+  - INS-260404-6394
 ---
 No single innovation program covers every organizational need. Execution platforms like Strategyzer work well for team-level deployment, while immersive programs at INSEAD or IMD shift leadership perspective. Scalable MOOCs build broad fluency, and consulting-led programs from BCG or McKinsey drive deep cultural change.
 

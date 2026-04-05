@@ -45,6 +45,6 @@
 - `INS-260327-A814` After the initial close, future-pace the customer: 'People love texting me when they hit their first milestone -- would you keep me in the loop on your transformation?' This cements commitment and shifts you from sales rep to partner.
 - `INS-260403-365D` Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
 - `INS-260404-EE20` Costco pays $21/hour (2x retail average) and gets 3x productivity, proving high wages can be the economically rational choice.
-- `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
-- `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
+- `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
+- `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.

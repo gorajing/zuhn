@@ -50,7 +50,6 @@ stance: >-
   applying domain-specific mental habits to unexpected inputs, which requires
   deep expertise before any ideas can form.
 related:
-  - INS-260320-F8FD
   - INS-260322-DAA1
   - INS-260323-3E21
   - PRI-260328-E64D

@@ -846,6 +846,7 @@ Generated on 2026-04-05 | 2421 sources
 | A free year of Devin: the world’s most advanced autonomous AI software engineer | blog | 4 | 2026-03-31 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
 | A Local Revolution? | blog | 4 | 2026-03-31 |
+| A Look Back At My Summer Reading List | blog | 4 | 2026-03-31 |
 | A new-parent gift guide | blog | 4 | 2026-03-31 |
 | A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 4 | 2026-03-31 |
@@ -858,6 +859,7 @@ Generated on 2026-04-05 | 2421 sources
 | Addressing the Legal & Compliance Challenge | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
 | AGI Vibes Are Getting Weird, 2025 SaaS Valuations, Most Active Angels | blog | 4 | 2026-03-30 |
+| AI Agents🤖, Rise of “Venture Banks” 🏦, US Venture Capital Outlook 📅  | blog | 4 | 2026-03-30 |
 | AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 4 | 2026-03-30 |
 | ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 4 | 2026-03-30 |
 | AI Games Are Coming | blog | 4 | 2026-03-31 |
@@ -941,6 +943,7 @@ Generated on 2026-04-05 | 2421 sources
 | Haters | blog | 4 | 2026-03-31 |
 | Having Kids | blog | 4 | 2026-03-31 |
 | Headcount Planning Template to Control Startup Burn | blog | 4 | 2026-03-30 |
+| High Resolution Fundraising | blog | 4 | 2026-03-31 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 | How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 4 | 2026-03-30 |
 |  How Do VCs Really Make Decisions?💡 | blog | 4 | 2026-03-30 |
@@ -1026,6 +1029,7 @@ Generated on 2026-04-05 | 2421 sources
 | SpaceX-xAI Merger: The $1.25T Company | blog | 4 | 2026-03-30 |
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
 | Stablecoins Are Defense Tech | blog | 4 | 2026-03-31 |
+| Stages of Board Deck Preparation📝, How to be helpful as a VC📚, Secondary Market VC Funds🔄 | blog | 4 | 2026-03-30 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
 | State of AI 2025🤖, Biggest Fundraisers💰, Build Distribution💌 | blog | 4 | 2026-03-30 |
 | Strategyzer Peer Learning Summit with MasterCard, GE, 3M, Intel, and Many More | blog | 4 | 2026-03-31 |
@@ -1110,6 +1114,7 @@ Generated on 2026-04-05 | 2421 sources
 | WIRTW: China's minerals, AI financing, Nobel winners, robotics... | blog | 4 | 2026-03-30 |
 | WIRTW: Elon's $1T Package, Prediction Markets on Google, And More | blog | 4 | 2026-03-30 |
 | WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B Valuation | blog | 4 | 2026-03-30 |
+| Write Like You Talk | blog | 4 | 2026-03-31 |
 | Writing and Speaking | blog | 4 | 2026-03-31 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 4 | 2026-03-30 |
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
@@ -2077,7 +2082,6 @@ Generated on 2026-04-05 | 2421 sources
 | "A full software engineering teammate": OpenAI product lead on getting the most out of Codex | Alexander Embiricos | blog | 0 | 2026-03-31 |
 | A guide to advanced B2B positioning | blog | 0 | 2026-03-31 |
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
-| A Look Back At My Summer Reading List | blog | 0 | 2026-03-31 |
 | A new perk for annual subscribers: A free year of some of the world's most beloved products (while supplies last) | blog | 0 | 2026-03-31 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
@@ -2088,7 +2092,6 @@ Generated on 2026-04-05 | 2421 sources
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
 | After the Ladder | blog | 0 | 2026-03-31 |
 | AI Agents🤖, Founder Mode👨‍💻, Global IPOs📈 | blog | 0 | 2026-03-30 |
-| AI Agents🤖, Rise of “Venture Banks” 🏦, US Venture Capital Outlook 📅  | blog | 0 | 2026-03-30 |
 | AI and product management | Marily Nika (Meta, Google) | blog | 0 | 2026-03-31 |
 | AI Bubble📉, Canva acquires Leonardo AI🎨, How to Write Cold Emails✉️ | blog | 0 | 2026-03-30 |
 | AI Co-Pilots Every Startup & VC Needs in Their Toolbox 🛠️ | blog | 0 | 2026-03-30 |
@@ -2242,7 +2245,6 @@ Generated on 2026-04-05 | 2421 sources
 | Hidden Open Thread 424.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 425.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
-| High Resolution Fundraising | blog | 0 | 2026-03-31 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
@@ -2308,7 +2310,6 @@ Generated on 2026-04-05 | 2421 sources
 | Something feels weird about this economy | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
 | Sponsorships | blog | 0 | 2026-03-30 |
-| Stages of Board Deck Preparation📝, How to be helpful as a VC📚, Secondary Market VC Funds🔄 | blog | 0 | 2026-03-30 |
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
@@ -2402,7 +2403,6 @@ Generated on 2026-04-05 | 2421 sources
 | WIRTW: Micron's $100B Megafab | blog | 0 | 2026-03-30 |
 | WIRTW: Record Government Shutdown Ends | blog | 0 | 2026-03-30 |
 | World’s Best Founders 🔍, Changing VC Landscape 💼, Venture Trends 🌐 | blog | 0 | 2026-03-30 |
-| Write Like You Talk | blog | 0 | 2026-03-31 |
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writes and Write-Nots | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |

@@ -48,7 +48,6 @@ stance: >-
   People cannot reliably reason about quantities that span more than 3-4 orders
   of magnitude without explicit anchoring comparisons
 related:
-  - INS-260323-3E21
   - INS-260323-527B
   - INS-260327-7DBF
   - INS-260329-8407
@@ -58,6 +57,7 @@ related:
   - INS-260330-A4A5
   - INS-260330-849D
   - INS-260330-649B
+  - INS-260403-280B
 ---
 The video demonstrates that people cannot intuit how insignificant 7 billion humans are relative to Earth's mass (6.588 sextillion tons). Even aggregating all human mass produces only 1/100th of a hydrogen atom's width of displacement. This isn't just a physics curiosity — it reveals a deep cognitive limitation. Humans evolved to reason about quantities in the hundreds or low thousands, not across 15+ orders of magnitude.
 

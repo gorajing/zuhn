@@ -3,6 +3,7 @@
 - `INS-260403-ABB7` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260403-951B` Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260403-8BF4` Cutting words isn't just style — it's how you discover what you actually mean.
+- `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260330-CAD2` Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
 - `INS-260403-A6B1` Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 - `INS-260402-F853` Writing forces idea formation that pure thinking cannot achieve alone.
@@ -18,8 +19,11 @@
 - `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260403-0218` Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 - `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
-- `INS-260327-BA97` Cuneiform was used for over 3,000 years - the most durable information technology ever created, outlasting every subsequent writing system and technology.
 - `INS-260403-61B0` Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
+- `INS-260327-BA97` Cuneiform was used for over 3,000 years - the most durable information technology ever created, outlasting every subsequent writing system and technology.
+- `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
+- `INS-260404-616F` Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-280B` Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
 - `INS-260403-2245` Qualifications are not scalars measuring weakness — they're a rich vocabulary expressing scope, certainty, knowledge source, and falsifiability.
+- `INS-260404-875B` Apply a sentence-level filter: if you wouldn't say it to a friend, rewrite it until you would.
 - `INS-260402-2074` Expect to discard 70-75% of initial output as the normal cost of producing quality work.

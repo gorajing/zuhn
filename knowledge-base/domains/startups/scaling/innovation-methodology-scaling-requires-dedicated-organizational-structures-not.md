@@ -59,7 +59,7 @@ related:
   - INS-260403-499B
   - INS-260403-C05F
   - INS-260404-63B0
-  - INS-260325-FDF5
+  - INS-260404-6394
 ---
 The participation criteria for Strategyzer's peer group reveal a maturity model for enterprise innovation adoption: organizations must have been 'working systematically with it at organization or department level for over 1 year' and have a 'senior position championing and managing the process.' This implies a progression from individual champion → departmental adoption → systematic organizational integration.
 

@@ -54,10 +54,10 @@ stance: >-
   malleability of one's job, role, or environment to produce lasting benefits.
 related:
   - INS-260320-DDD9
+  - INS-260404-9AEC
   - INS-260329-E76F
   - INS-260329-55DC
   - INS-260329-CD64
-  - INS-260403-3346
   - INS-260403-393C
 evidence:
   - id: INS-260320-DDD9

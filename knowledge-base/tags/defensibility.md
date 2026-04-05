@@ -28,5 +28,5 @@
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260403-E86E` The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
-- `INS-260403-04AF` Software IP is nearly worthless as a moat because the field evolves faster than patents can protect, but bio/techbio IP remains a genuine durability source.
 - `INS-260327-C900` Susan turned Tesla saying no to home supercharging into a multi-million dollar business by solving the problem herself.
+- `INS-260403-04AF` Software IP is nearly worthless as a moat because the field evolves faster than patents can protect, but bio/techbio IP remains a genuine durability source.

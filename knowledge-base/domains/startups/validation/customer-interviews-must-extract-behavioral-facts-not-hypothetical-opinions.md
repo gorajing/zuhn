@@ -46,11 +46,11 @@ stance: >-
   customer insights while hypothetical and opinion-based questions produce
   systematically misleading data
 related:
+  - INS-260404-875B
   - INS-260328-A4EB
   - INS-260403-560A
   - INS-260330-50D4
   - INS-260329-CCDE
-  - INS-260404-DD95
 ---
 Customer interviews fail when they collect opinions instead of behavioral facts. People are poor predictors of their own future actions — they'll say they'd pay for something they'd never actually buy. The fix is structural: replace hypothetical questions ('Would you use X?') with behavioral ones ('Tell me about the last time you dealt with Y'). This forces customers to draw from real experience rather than speculation.
 

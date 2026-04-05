@@ -44,7 +44,6 @@ stance: >-
   and most failed fundraises happen because founders do Type B while expecting
   Type A treatment.
 related:
-  - INS-260330-404B
   - INS-260330-7346
   - INS-260402-2E19
   - INS-260403-7D04

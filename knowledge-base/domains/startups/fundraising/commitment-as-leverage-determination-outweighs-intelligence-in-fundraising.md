@@ -49,8 +49,8 @@ related:
   - INS-260330-B6FA
   - INS-260403-0551
   - INS-260328-D220
+  - INS-260404-2250
   - INS-260403-1287
-  - INS-260328-3959
 ---
 Graham makes a counterintuitive claim: determination matters more than intelligence in startup success. VCs repeatedly invest in eminent professors and lose, while dropouts (Microsoft, Yahoo, Google) win. The mechanism is that determination creates a self-fulfilling prophecy — if investors and acquirers sense you'll succeed regardless, FOMO forces their hand.
 

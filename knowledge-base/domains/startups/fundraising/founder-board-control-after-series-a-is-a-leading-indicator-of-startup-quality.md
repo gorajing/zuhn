@@ -51,6 +51,7 @@ related:
   - INS-260402-E140
   - INS-260403-57FF
   - INS-260403-C949
+  - INS-260404-2250
 ---
 Paul Graham observed that among YC-funded companies, a dozen founders retained board majority after Series A — and these tended to be the strongest companies. This creates a self-reinforcing dynamic: the best startups have leverage to demand founder-friendly terms, which then normalizes those terms for the next generation of strong founders.
 

@@ -51,7 +51,6 @@ related:
   - INS-260404-BF04
   - PRI-260328-BDC2
   - INS-260404-4DF7
-  - INS-260330-C84C
   - INS-260330-9751
 evidence:
   - id: INS-260330-E414

@@ -1,13 +1,13 @@
 # Domain: psychology
 
-> 2071 insights across 20 topics
+> 2074 insights across 20 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
-| behavior-change | 20 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
-| cognition | 79 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
+| behavior-change | 21 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
+| cognition | 80 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
 | cognitive-biases | 274 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 41 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
 | consciousness | 96 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
@@ -16,7 +16,7 @@
 | focus | 173 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 19 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 20 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
-| group-dynamics | 57 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
+| group-dynamics | 58 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
 | learning | 258 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 61 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
 | mental-models | 92 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |

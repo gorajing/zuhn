@@ -1,6 +1,6 @@
 # Topic: behavior-change
 
-> 20 insights
+> 21 insights
 
 - `INS-260403-C512` [high] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
@@ -22,3 +22,4 @@
 - `INS-260403-9861` [medium] Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
 - `INS-260330-4088` [medium] Hamas gained popular support primarily through building schools, mosques, and clinics in Gaza, not through its militant activities.
 - `INS-260330-293E` [medium] When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
+- `INS-260404-9AEC` [medium] Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.

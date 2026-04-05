@@ -1,7 +1,7 @@
 # Tag: mental-models
 
-- `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
+- `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260322-83D4` The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260330-5A2A` All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
@@ -27,21 +27,29 @@
 - `INS-260329-8896` Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.
 - `INS-260329-7677` C++ pointer/reference semantics force you to think explicitly about whether you're copying data or pointing to shared data — a distinction that prevents entire categories of AI system bugs.
 - `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
+- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
+- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260403-F7DE` Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
-- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
-- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
+- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
 - `INS-260404-E4B8` Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
 - `INS-260404-0AF3` Crafting a sticky one-phrase description of your startup is both a memorability tactic and a litmus test for whether your strategy is focused enough.
-- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
+- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
+- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
+- `INS-260404-2135` Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
+- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
+- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
+- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
+- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
 - `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
+- `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260329-8067` Inversion thinking leverages evolutionary threat-detection to make behavior change stick.
@@ -54,14 +62,6 @@
 - `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
-- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
-- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
-- `INS-260404-2135` Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
-- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
-- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
-- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
-- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
-- `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-91DD` CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
@@ -84,6 +84,32 @@
 - `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
 - `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
 - `INS-260330-B4B9` Adding one thing before an infinite sequence gets absorbed (1+ω=ω), but adding one after creates something genuinely new (ω+1≠ω).
+- `INS-260330-3C3C` Chloroplasts store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase — the same gradient-to-work pattern appears in batteries, pricing arbitrage, and information asymmetry.
+- `INS-260330-B38B` ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
+- `INS-260404-2DB6` Pumping protons across a membrane to later drive ATP synthase is the same structural pattern as building any reserve that converts stored potential into on-demand work.
+- `INS-260330-FA36` Thylakoids work like batteries — pumping protons to one side of a membrane creates a concentration gradient whose equalization drives ATP synthase, showing that useful work comes from engineered imbalances, not raw energy.
+- `INS-260403-172E` Photosynthesis charges thylakoids like batteries by pumping protons to one side, then harvests energy as they flow back — a pattern that appears across biology and engineering.
+- `INS-260330-3037` Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.
+- `INS-260330-972B` The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
+- `INS-260403-861A` ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
+- `INS-260403-34B4` Thylakoid proton gradients store energy by creating imbalance across a membrane—a pattern that maps to any system where controlled asymmetry drives useful work.
+- `INS-260330-7FF3` ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
+- `INS-260403-37C4` Chloroplasts charge thylakoids like batteries by pumping protons across a membrane, then harvest energy as the gradient equalizes through ATP synthase.
+- `INS-260404-C290` ATP synthase converts a proton concentration gradient into chemical energy by forcing protons through a single constrained channel — a pattern that recurs in pricing arbitrage, attention funnels, and information asymmetry.
+- `INS-260404-91A0` Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest energy as protons flow back through ATP synthase.
+- `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
+- `INS-260403-A0C5` Photosynthesis charges thylakoids like batteries by pumping protons to one side — any system that creates deliberate imbalance stores potential energy for later use.
+- `INS-260330-31A9` Black shade balls absorb more solar energy than water would, yet the water beneath them is cooler because the air inside each ball acts as thermal insulation.
+- `INS-260330-AE66` All real-world exponentials are actually the early phase of logistic curves bounded by some limiting factor.
+- `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
+- `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
+- `INS-260330-CE2F` JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
+- `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
+- `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
+- `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
+- `INS-260330-6844` Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
+- `INS-260330-43D3` Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
+- `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
 - `INS-260329-74E5` Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
 - `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
@@ -127,32 +153,20 @@
 - `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
 - `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
-- `INS-260330-3C3C` Chloroplasts store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase — the same gradient-to-work pattern appears in batteries, pricing arbitrage, and information asymmetry.
-- `INS-260330-B38B` ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
-- `INS-260404-2DB6` Pumping protons across a membrane to later drive ATP synthase is the same structural pattern as building any reserve that converts stored potential into on-demand work.
-- `INS-260330-FA36` Thylakoids work like batteries — pumping protons to one side of a membrane creates a concentration gradient whose equalization drives ATP synthase, showing that useful work comes from engineered imbalances, not raw energy.
-- `INS-260403-172E` Photosynthesis charges thylakoids like batteries by pumping protons to one side, then harvests energy as they flow back — a pattern that appears across biology and engineering.
-- `INS-260330-3037` Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.
-- `INS-260330-972B` The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
-- `INS-260403-861A` ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
-- `INS-260403-34B4` Thylakoid proton gradients store energy by creating imbalance across a membrane—a pattern that maps to any system where controlled asymmetry drives useful work.
-- `INS-260330-7FF3` ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
-- `INS-260403-37C4` Chloroplasts charge thylakoids like batteries by pumping protons across a membrane, then harvest energy as the gradient equalizes through ATP synthase.
-- `INS-260404-C290` ATP synthase converts a proton concentration gradient into chemical energy by forcing protons through a single constrained channel — a pattern that recurs in pricing arbitrage, attention funnels, and information asymmetry.
-- `INS-260404-91A0` Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest energy as protons flow back through ATP synthase.
-- `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
-- `INS-260403-A0C5` Photosynthesis charges thylakoids like batteries by pumping protons to one side — any system that creates deliberate imbalance stores potential energy for later use.
-- `INS-260330-31A9` Black shade balls absorb more solar energy than water would, yet the water beneath them is cooler because the air inside each ball acts as thermal insulation.
-- `INS-260330-AE66` All real-world exponentials are actually the early phase of logistic curves bounded by some limiting factor.
-- `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
-- `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
-- `INS-260330-CE2F` JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
-- `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
-- `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
-- `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
-- `INS-260330-6844` Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
-- `INS-260330-43D3` Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
-- `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
+- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- `INS-260330-E606` Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
+- `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
+- `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
+- `INS-260330-FEDD` Daniel Barringer spent 27 years drilling for an iron meteorite that had vaporized on impact 50,000 years earlier — our intuition about low-speed collisions doesn't transfer to high-energy events.
+- `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
+- `INS-260323-0E33` An outside observer sees objects freeze forever at a black hole's horizon, while the falling observer crosses it without noticing anything unusual -- both descriptions are simultaneously correct.
+- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
+- `INS-260330-C71A` The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
+- `INS-260330-AC34` The 'river model' of spacetime - where space flows inward like a waterfall - instantly resolves the paradox of how things cross the event horizon while appearing frozen from outside.
+- `INS-260330-86A7` Two objects moving in perfectly straight lines on a curved surface will converge — mimicking gravitational attraction without any force acting between them.
+- `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
+- `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
+- `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260329-36D9` Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
@@ -177,20 +191,6 @@
 - `INS-260323-12F2` The fundamental realization from vacuum physics: emptiness is the default state of the universe, and the presence of matter is what needs explaining.
 - `INS-260323-7F5D` Torricelli didn't just create a vacuum -- he reframed the entire question by showing that atmospheric pressure, not nature's horror of emptiness, explained all the phenomena.
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
-- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
-- `INS-260330-E606` Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
-- `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
-- `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
-- `INS-260330-FEDD` Daniel Barringer spent 27 years drilling for an iron meteorite that had vaporized on impact 50,000 years earlier — our intuition about low-speed collisions doesn't transfer to high-energy events.
-- `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
-- `INS-260323-0E33` An outside observer sees objects freeze forever at a black hole's horizon, while the falling observer crosses it without noticing anything unusual -- both descriptions are simultaneously correct.
-- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
-- `INS-260330-C71A` The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
-- `INS-260330-AC34` The 'river model' of spacetime - where space flows inward like a waterfall - instantly resolves the paradox of how things cross the event horizon while appearing frozen from outside.
-- `INS-260330-86A7` Two objects moving in perfectly straight lines on a curved surface will converge — mimicking gravitational attraction without any force acting between them.
-- `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
-- `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
-- `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260329-6B95` Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
 - `INS-260329-C472` Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
 - `INS-260329-BBF9` Reframe every purchase as 'would I work X hours for this item' to reveal its true cost.
@@ -204,12 +204,12 @@
 - `INS-260404-3212` Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
-- `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
-- `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
-- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
+- `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 - `INS-260329-3FA6` Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
 - `INS-260323-CE39` Stevens generates maximum throwing power from a small precise hip split rather than a big lunging movement — overextending leaves you vulnerable and off-balance.
+- `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
+- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260404-9376` Elite founder thinking requires actively purging outdated beliefs, not just acquiring new ones.
 - `INS-260322-AF17` Founders resist comping themselves to public companies because it feels like comparing yourself to astronauts — but the winners (DoorDash, Facebook) were always benchmarking against the biggest players, not other startups.
 - `INS-260329-64A3` Arbitrage — same asset, two markets, different prices — is the meta-pattern behind all of Hormozi's 10 wealth strategies.
@@ -224,6 +224,6 @@
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
+- `INS-260403-7333` Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
-- `INS-260403-7333` Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.

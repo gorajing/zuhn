@@ -46,10 +46,10 @@ stance: >-
   and goodwill.
 related:
   - INS-260402-318B
+  - INS-260404-9AEC
   - PRI-260328-26AA
   - INS-260323-9A29
   - INS-260330-81E0
-  - INS-260330-6411
 evidence:
   - id: INS-260330-81E0
     type: TRANSFERS_TO

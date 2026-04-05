@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 57 insights
+> 58 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -22,6 +22,7 @@
 - `INS-260330-2B5F` [high] Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260403-76C3` [high] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260403-4D45` [high] Intolerant people always exist — waves of suppression happen when an ideology gives them coordinated direction.
+- `INS-260404-AF54` [high] Most investors' primary question is 'who else is investing?' — revealing that social proof, not independent analysis, drives the vast majority of investment decisions.
 - `INS-260402-62E3` [high] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
 - `INS-260402-116A` [high] Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
 - `INS-260330-E794` [high] Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.

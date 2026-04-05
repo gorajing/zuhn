@@ -3,10 +3,10 @@
 - `INS-260329-55DC` Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
-- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260403-D294` Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
+- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260325-0103` Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.

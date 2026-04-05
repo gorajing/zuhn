@@ -17,11 +17,11 @@
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
-- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-1085` Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
 - `INS-260329-E884` If each customer pays enough in 30 days to cover their own acquisition cost plus the next customer's, growth becomes self-funding.
 - `INS-260329-AADB` Structure offers so each customer pays back their acquisition cost within 30 days, turning customers into funding for the next customer.
 - `INS-260330-B0EB` Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
+- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-B6FA` Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
 - `INS-260403-5F03` Trivially low profitability gives startups infinite runway, making VC funding optional rather than existential.
