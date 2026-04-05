@@ -837,7 +837,9 @@ Generated on 2026-04-05 | 2421 sources
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
 | 8 AI Prompts That Replace a $25K/Year Financial Analyst | blog | 4 | 2026-03-30 |
 | 8 Tips For Conducting Interviews That Deliver Relevant Customer Insights | blog | 4 | 2026-03-31 |
+| A 4-step framework for building delightful products | Nesrine Changuel (Spotify, Google, Skype) | blog | 4 | 2026-03-31 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
+| A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) | blog | 4 | 2026-03-31 |
 | A founding vision for a startup is similar to a scientific hypothesis | blog | 4 | 2026-03-31 |
 | A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 4 | 2026-03-31 |
 | A framework for PM skill development | Vikrama Dhiman (Gojek) | blog | 4 | 2026-03-31 |
@@ -910,6 +912,7 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 4 | 2026-03-30 |
 | Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
 | Deep Dive: How Equity Tokenization Is Breaking TradFi Barriers | blog | 4 | 2026-03-30 |
+| Deep Dive: Is India the Next Economic Giant? | blog | 4 | 2026-03-30 |
 | Deep Dive: Prediction Markets | blog | 4 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Defining Property | blog | 4 | 2026-03-31 |
@@ -955,6 +958,7 @@ Generated on 2026-04-05 | 2421 sources
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
 | How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 4 | 2026-03-30 |
+| How to Write a Top 1% Cold DM to Investors | blog | 4 | 2026-03-30 |
 | How VCs and Startups can beat currency depreciation 🌍 | blog | 4 | 2026-03-30 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 4 | 2026-03-30 |
 | Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 4 | 2026-03-30 |
@@ -1134,6 +1138,7 @@ Generated on 2026-04-05 | 2421 sources
 | 지금 당신은 원하던 삶을 살고 있나요? 나답게 살기 위한 실리콘밸리 리더의 도전 이야기 | 퓨리오사AI 크리스 채 | youtube | 4 | 2026-03-22 |
 | Andrew Huberman: Peptides, Sleep Tech, and the End of Obesity | youtube | 4 | 2026-03-22 |
 | Andrew Huberman: Relationships, Drama, Betrayal, Sex, and Love | Lex Fridman Podcast #393 | youtube | 4 | 2026-03-24 |
+| Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 4 | 2026-03-30 |
 | Arm Yourself With Specific Knowledge | youtube | 4 | 2026-03-30 |
 | Asbestos is a bigger problem than we thought | youtube | 4 | 2026-03-23 |
 | Bayer’s Bill Anderson: Turning a 168 Year-Old Tanker Like a Speedboat | youtube | 4 | 2026-03-26 |
@@ -2062,7 +2067,6 @@ Generated on 2026-04-05 | 2421 sources
 | 89 Best Startup Essays by Top VCs & Founders (YC, a16z, Naval) | blog | 0 | 2026-03-30 |
 | 9 Ways To Make The Business Model Canvas Part Of Your DNA | blog | 0 | 2026-03-31 |
 | A 3-step AI coding workflow for solo founders | Ryan Carson (5x founder) | blog | 0 | 2026-03-31 |
-| A 4-step framework for building delightful products | Nesrine Changuel (Spotify, Google, Skype) | blog | 0 | 2026-03-31 |
 | A builder’s guide to living a long and healthy life | blog | 0 | 2026-03-31 |
 | A Collection of the Best 89 VC and Founder Essays  | blog | 0 | 2026-03-30 |
 | A Conversation with JCal about the Evolution of Media | blog | 0 | 2026-03-30 |
@@ -2070,7 +2074,6 @@ Generated on 2026-04-05 | 2421 sources
 | A Day in the Life of Your Customer Worksheet | blog | 0 | 2026-03-31 |
 | A designer’s guide to AI: Building in Cursor (instead of Figma) lets you prototype 10x faster, simplifies collaboration, and accelerates getting ideas out of your head | Joel Unger | blog | 0 | 2026-03-31 |
 | A designer's guide to Cursor: How to build interactive prototypes with sound, explore visual styles, and transform data visualizations | Elizabeth Lin | blog | 0 | 2026-03-31 |
-| A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) | blog | 0 | 2026-03-31 |
 | "A full software engineering teammate": OpenAI product lead on getting the most out of Codex | Alexander Embiricos | blog | 0 | 2026-03-31 |
 | A guide to advanced B2B positioning | blog | 0 | 2026-03-31 |
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
@@ -2195,7 +2198,6 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: Defense 2.0 - Protecting America | blog | 0 | 2026-03-30 |
 | Deep Dive: How China Built Its Industrial Power | blog | 0 | 2026-03-30 |
 | Deep Dive: Is AI Disrupting the Future of Work? | blog | 0 | 2026-03-30 |
-| Deep Dive: Is India the Next Economic Giant? | blog | 0 | 2026-03-30 |
 | Deep Dive: Moore's Law and Next Steps for Silicon | blog | 0 | 2026-03-30 |
 | Deep Dive on Humanoid Robots: The Case for a World Running Out of Workers | blog | 0 | 2026-03-30 |
 | Deep Dive: The Business Model of Healthcare | blog | 0 | 2026-03-30 |
@@ -2252,7 +2254,6 @@ Generated on 2026-04-05 | 2421 sources
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
-| How to Write a Top 1% Cold DM to Investors | blog | 0 | 2026-03-30 |
 | How You Know | blog | 0 | 2026-03-31 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
@@ -2406,7 +2407,6 @@ Generated on 2026-04-05 | 2421 sources
 | Writes and Write-Nots | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
-| Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 0 | 2026-03-30 |
 | Backspin Basketball Flies Off Dam | youtube | 0 | 2026-03-30 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |

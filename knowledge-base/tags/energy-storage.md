@@ -9,6 +9,8 @@
 - `INS-260330-9FAA` The thylakoid membrane acts as a biological battery — pumping protons to one side creates a concentration gradient that drives ATP synthase like water through a turbine.
 - `INS-260330-99CE` Thylakoid membranes charge like batteries by pumping protons to one side, then discharge through ATP synthase to produce ATP.
 - `INS-260404-47BC` Chloroplasts charge thylakoids like batteries by pumping protons to one side of a membrane, then harvest energy as protons flow back through ATP synthase — a pattern that generalizes to any gradient across a barrier.
+- `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
+- `INS-260404-73DA` Chloroplasts charge thylakoids like batteries via proton concentration gradients — the same imbalance-as-stored-energy pattern appears in markets, learning, and attention.
 - `INS-260330-3C3C` Chloroplasts store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase — the same gradient-to-work pattern appears in batteries, pricing arbitrage, and information asymmetry.
 - `INS-260330-49E9` The thylakoid membrane stores energy by pumping protons to create a concentration gradient — the same principle behind batteries, dams, and information asymmetry in markets.
 - `INS-260330-3037` Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.
@@ -17,8 +19,6 @@
 - `INS-260330-7FF3` ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
 - `INS-260403-37C4` Chloroplasts charge thylakoids like batteries by pumping protons across a membrane, then harvest energy as the gradient equalizes through ATP synthase.
 - `INS-260403-A0C5` Photosynthesis charges thylakoids like batteries by pumping protons to one side — any system that creates deliberate imbalance stores potential energy for later use.
-- `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
-- `INS-260404-73DA` Chloroplasts charge thylakoids like batteries via proton concentration gradients — the same imbalance-as-stored-energy pattern appears in markets, learning, and attention.
 - `INS-260330-21A8` Thylakoid membranes store energy by pumping protons to create concentration gradients that drive ATP synthase, functioning like a rechargeable battery.
 - `INS-260404-BDE5` Chloroplasts charge thylakoids like batteries by pumping protons across membranes, then harvest the gradient through ATP synthase.
 - `INS-260403-464D` Photosynthesis stores energy by pumping protons across a membrane, then harvests it through ATP synthase—the same store-then-release pattern behind batteries, message queues, and pricing arbitrage.

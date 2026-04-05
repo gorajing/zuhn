@@ -50,7 +50,6 @@ related:
   - INS-260330-3EE4
   - INS-260330-B8C6
   - INS-260330-09DE
-  - INS-260330-0C10
 stance: >-
   Python's dominance in AI comes from being the glue that composes disparate
   systems, creating a viral ecosystem cycle — not from the language itself.

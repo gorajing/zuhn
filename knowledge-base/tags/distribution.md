@@ -5,17 +5,6 @@
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
-- `INS-260330-2CE3` Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
-- `INS-260330-7DAA` Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
-- `INS-260403-9689` A gatekeeper between you and your customers holds existential power over your business regardless of how good your product is.
-- `INS-260403-0AF6` Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
-- `INS-260330-DCFB` Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
-- `INS-260403-A0B0` Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
-- `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
-- `INS-260330-856B` Tools must be embedded in existing popular systems to gain adoption — standalone merit is insufficient.
-- `INS-260324-5481` Facebook opened up to publishers in the late 2000s to boost engagement, then deprioritized publisher content once it had enough — destroying the distribution channel that BuzzFeed and VICE had built their entire businesses on.
-- `INS-260330-4DFA` Distribution beats product in the strategic hierarchy because running out of customers or money kills you before a mediocre product does.
-- `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260404-D68E` VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
 - `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
@@ -27,6 +16,17 @@
 - `INS-260321-ADB4` Allocate 80% of content to evergreen material (guides, frameworks, reference) and 20% to timely pieces. Every piece should exist in at least five formats: audio, video, short clips, newsletter, social thread.
 - `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
 - `INS-260330-0FB9` TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok.
+- `INS-260330-2CE3` Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
+- `INS-260330-7DAA` Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
+- `INS-260403-9689` A gatekeeper between you and your customers holds existential power over your business regardless of how good your product is.
+- `INS-260403-0AF6` Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
+- `INS-260330-DCFB` Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
+- `INS-260403-A0B0` Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
+- `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
+- `INS-260330-856B` Tools must be embedded in existing popular systems to gain adoption — standalone merit is insufficient.
+- `INS-260324-5481` Facebook opened up to publishers in the late 2000s to boost engagement, then deprioritized publisher content once it had enough — destroying the distribution channel that BuzzFeed and VICE had built their entire businesses on.
+- `INS-260330-4DFA` Distribution beats product in the strategic hierarchy because running out of customers or money kills you before a mediocre product does.
+- `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260403-E71A` Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
 - `INS-260403-C1E9` Software is too complex and iterative for a publisher-intermediary model that works for music or books.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.

@@ -48,7 +48,6 @@ stance: >-
   is itself a cognitive bias that causes real harm.
 related:
   - INS-260326-A7CB
-  - INS-260323-4D5E
   - PRI-260325-638B
   - PRI-260323-A47C
   - PRI-260403-88F5

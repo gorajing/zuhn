@@ -48,11 +48,11 @@ stance: >-
   inability when the investment is in themselves, revealing that resourcefulness
   is a choice gated by self-worth rather than actual capacity.
 related:
+  - INS-260404-2F16
   - INS-260403-4EBF
   - INS-260321-4178
   - INS-260322-760A
   - INS-260327-C316
-  - INS-260323-9C11
 evidence:
   - id: INS-260321-4178
     type: CHALLENGES

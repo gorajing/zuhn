@@ -58,6 +58,7 @@ related:
   - INS-260329-5094
   - INS-260329-EE04
   - INS-260330-4A16
+  - INS-260404-2F16
 ---
 Graham's most striking admission is that he can lay out the mathematically optimal strategy — fund far riskier startups, accept a 30% Demo Day fundraising rate — and still not do it. He compares this to instrument flying: pilots know intellectually to trust instruments over bodily sensation in clouds, yet spatial disorientation remains a leading cause of accidents.
 

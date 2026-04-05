@@ -50,8 +50,8 @@ related:
   - INS-260325-E9B1
   - INS-260325-AE23
   - INS-260403-C313
+  - INS-260404-2F16
   - INS-260327-C316
-  - INS-260326-9E23
   - INS-260330-5A66
 stance: >-
   People decide based on what they care about first, then construct rational
