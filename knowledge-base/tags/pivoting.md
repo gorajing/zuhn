@@ -9,6 +9,6 @@
 - `INS-260330-4AE7` Use a 3-4 week growth flatline as a concrete pivot trigger, provided you've been executing with full effort.
 - `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260404-70AE` Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
-- `INS-260402-3FC5` Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
+- `INS-260402-3FC5` Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.
 - `INS-260330-3AF9` Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.

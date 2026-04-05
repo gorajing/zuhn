@@ -45,11 +45,11 @@ stance: >-
   Individual decision-makers produce better designs than committees because they
   can take risks that groups would never approve.
 related:
-  - INS-260402-086D
   - INS-260402-AEA1
+  - INS-260405-8732
+  - INS-260402-086D
   - INS-260329-27DF
   - INS-260403-0C33
-  - INS-260322-7723
 ---
 Graham argues that the greatest danger of design-by-committee isn't the well-known problem of inconsistency — it's that committees won't take risks. A single person in charge can make bold bets that a group would never collectively approve, and in design (as in everything else), reward is proportionate to risk.
 

@@ -47,7 +47,6 @@ stance: >-
   by acknowledged skill gaps.
 related:
   - INS-260327-D7E6
-  - INS-260327-8DC5
   - INS-260329-3E3A
   - INS-260329-D1B0
   - INS-260325-36F0

@@ -47,10 +47,10 @@ stance: >-
   investment scaling only as evidence accumulates
 related:
   - INS-260403-FFEA
+  - INS-260405-DF08
   - INS-260404-2E6C
   - INS-260325-E84D
   - INS-260403-3DF3
-  - INS-260325-55D8
 ---
 Large companies habitually treat innovation as placing big bets — funding expensive pilot programs or building full prototypes before validating core assumptions. This approach is backwards: when uncertainty is highest, the probability of being wrong is also highest, so expensive experiments produce expensive failures.
 

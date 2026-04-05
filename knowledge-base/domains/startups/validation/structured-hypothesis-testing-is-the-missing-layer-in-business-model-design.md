@@ -45,10 +45,10 @@ stance: >-
   most business planning completely lacks
 related:
   - INS-260403-2824
+  - INS-260405-B32E
   - INS-260330-3AF9
   - INS-260403-B1F2
   - INS-260330-984C
   - INS-260403-8D2C
-  - INS-260403-F7DD
 ---
 The Strategyzer toolbox introduces Test Cards and Learning Cards as complementary instruments: the Test Card forces you to articulate what assumption you're testing and what evidence would validate or invalidate it before you run an experiment, while the Learning Card captures what you actually learned afterward. This simple pairing addresses a chronic problem in both startups and corporate innovation — teams run experiments but fail to formalize hypotheses upfront or systematically capture learnings. Without this structure, confirmation bias dominates: people interpret ambiguous results as validation. The discipline of writing down your expected outcome before testing is what separates evidence-based strategy from post-hoc rationalization.

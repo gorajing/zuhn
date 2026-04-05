@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3981 actionable insights
+Generated on 2026-04-05 | 3988 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1092,6 +1092,7 @@ Generated on 2026-04-05 | 3981 actionable insights
 - [INS-260404-B87E] Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
 - [INS-260405-76E4] Investors without technical depth use founder confidence as a proxy for product quality.
 - [INS-260405-AC51] Investors who hear many pitches need a single phrase to remember you by — creating one is table stakes for recall.
+- [INS-260405-194F] When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1164,6 +1165,7 @@ Generated on 2026-04-05 | 3981 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
+- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -1524,6 +1526,7 @@ Generated on 2026-04-05 | 3981 actionable insights
 - [INS-260404-D39D] ATP synthase is powered not by photons directly but by the proton gradient plants deliberately build up across membranes.
 - [INS-260404-6AD7] CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.
 - [INS-260404-3C96] The electron transport chain teaches that understanding complex systems requires tracing energy/value transformations at each intermediate step.
+- [INS-260405-6433] Screening participants for baseline expertise before a workshop allows the group to skip basics and immediately tackle advanced, nuanced challenges.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -3348,6 +3351,8 @@ Generated on 2026-04-05 | 3981 actionable insights
 - [INS-260404-2DB4] Companies must reinvent while successful because decline eliminates the resources needed for transformation.
 - [INS-260404-8256] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
 - [INS-260405-5617] When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
+- [INS-260405-9DF5] Early testing is habit-forming — the first win creates momentum that refinement-first teams never build.
+- [INS-260405-6BBC] Knowing the Business Model Canvas is not enough — running a room of skeptical executives through it productively requires a separate and trainable skill set.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -4157,6 +4162,8 @@ Generated on 2026-04-05 | 3981 actionable insights
 - [INS-260404-3879] Investors' biggest early-stage fear is you built from theory not need—specific user stories and inadequate-tool workarounds are the strongest counter-evidence.
 - [INS-260404-A95D] Demonstrating what workarounds people currently use proves demand more convincingly than citing market size numbers.
 - [INS-260404-61DA] Showing what people currently do with bad tools proves demand more convincingly than any market size number.
+- [INS-260405-DF08] Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
+- [INS-260405-B32E] Fidelity is a function of evidence gathered, not how good the idea seems internally.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

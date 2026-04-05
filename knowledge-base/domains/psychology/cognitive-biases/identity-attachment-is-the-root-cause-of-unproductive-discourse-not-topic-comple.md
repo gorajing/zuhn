@@ -54,7 +54,6 @@ related:
   - INS-260404-8F62
   - INS-260403-A408
   - INS-260323-DE7F
-  - INS-260404-7C3F
 ---
 Paul Graham observes that the common factor in unproductive discussions — whether about religion, politics, or programming languages — is not the inherent difficulty of the question but whether participants have made their position part of their identity. A discussion about Bronze Age battles stays rational because no one alive identifies with either side, while the same analytical framework applied to modern geopolitics triggers identity defense mechanisms.
 

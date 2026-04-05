@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 259 insights
+> 261 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -232,9 +232,11 @@
 - `INS-260329-41BC` [medium] OOP inheritance mirrors human prototype-based categorization, making it more cognitively natural than its reputation suggests.
 - `INS-260330-4FB9` [medium] Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
 - `INS-260330-56E0` [medium] The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
+- `INS-260405-8F5E` [medium] Experienced practitioners accumulate situational knowledge that no single instructor can replicate, making peer learning essential at the expert level.
 - `INS-260403-89B5` [medium] The 130,000 fps camera reveals failure dynamics invisible to the naked eye, proving that understanding often requires changing observation speed rather than adding theory.
 - `INS-260403-DC52` [medium] Learn history by reading exciting books on specific topics rather than attempting comprehensive chronological surveys.
 - `INS-260330-1E5E` [medium] On hard problems, stop trying to solve them directly — play with the structure until patterns emerge.
+- `INS-260405-6433` [medium] Screening participants for baseline expertise before a workshop allows the group to skip basics and immediately tackle advanced, nuanced challenges.
 - `INS-260329-07D3` [medium] Sequence learning around small complete projects that each introduce exactly one new concept.
 - `INS-260329-E402` [medium] Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
 - `INS-260330-B5BF` [medium] Your most authentic purpose signals come from pre-puberty childhood inclinations before social conditioning buried them.

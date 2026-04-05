@@ -43,11 +43,11 @@ stance: >-
   outperform those who rely on tactical playbooks because they can reason from
   fundamentals when playbooks fail.
 related:
+  - INS-260405-F5D8
   - INS-260326-291C
   - INS-260325-1EAC
   - INS-260329-4DBC
   - INS-260329-FEF4
-  - INS-260329-04FA
   - INS-260403-C6DC
 evidence:
   - id: INS-260329-FEF4

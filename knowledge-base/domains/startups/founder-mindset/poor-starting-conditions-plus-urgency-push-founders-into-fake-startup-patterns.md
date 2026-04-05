@@ -47,11 +47,11 @@ stance: >-
   tend to paper over gaps with grit rather than fixing the underlying conditions
   first.
 related:
-  - INS-260326-2259
+  - INS-260405-9DF5
   - INS-260330-579B
   - INS-260327-CEE4
+  - INS-260326-2259
   - INS-260403-03BD
-  - INS-260327-0E57
 evidence:
   - id: INS-260326-2259
     type: REFINES

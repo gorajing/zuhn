@@ -44,13 +44,12 @@ stance: >-
   the next level, because they reveal unknown unknowns that self-reflection
   cannot surface.
 related:
-  - INS-260323-D783
   - INS-260326-35CE
   - INS-260327-8DDE
   - INS-260329-B0F4
   - INS-260325-33DA
   - INS-260330-A075
-  - INS-260402-9E2D
+  - INS-260323-D783
 evidence:
   - id: INS-260402-9E2D
     type: CHALLENGES

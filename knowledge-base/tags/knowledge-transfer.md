@@ -2,5 +2,6 @@
 
 - `INS-260322-C0D3` Log every change and the data that caused it in a structured research log — when a smarter model arrives, hand it the log and it picks up exactly where the last model left off.
 - `INS-260330-750A` The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
+- `INS-260405-8F5E` Experienced practitioners accumulate situational knowledge that no single instructor can replicate, making peer learning essential at the expert level.
 - `INS-260404-5AC1` Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 - `INS-260404-2BAD` Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.

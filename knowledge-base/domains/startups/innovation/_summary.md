@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 97 insights
+> 99 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
@@ -27,6 +27,7 @@
 - `INS-260404-0240` [high] Company culture is an operating system that must be deliberately architected, not left to chance.
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-2E6C` [high] Innovation success depends on volume of cheap experiments, not quality of individual bets.
+- `INS-260405-6BBC` [high] Knowing the Business Model Canvas is not enough — running a room of skeptical executives through it productively requires a separate and trainable skill set.
 - `INS-260403-6224` [high] Innovation program assessment requires dual axes: value creation and culture change capacity.
 - `INS-260404-CD55` [high] Embedding legal and compliance as collaborative partners in the innovation program design phase transforms them from blockers into enablers.
 - `INS-260403-383F` [high] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
@@ -82,6 +83,7 @@
 - `INS-260404-6BBB` [medium] Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 - `INS-260403-5F44` [medium] Innovation should live in every job rather than be siloed into a dedicated department or role.
 - `INS-260404-09EE` [medium] Standard education systems optimize for convergent thinking, systematically destroying the creative capacity that innovation later demands.
+- `INS-260405-9DF5` [medium] Early testing is habit-forming — the first win creates momentum that refinement-first teams never build.
 - `INS-260404-6394` [medium] Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.
 - `INS-260403-E172` [medium] Thriving innovation requires maintaining a large pipeline of 150-200 ideas per year across varying scales.
 - `INS-260403-C6A6` [medium] Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.

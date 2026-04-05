@@ -47,10 +47,11 @@ stance: >-
 related:
   - INS-260325-36EA
   - INS-260327-5C91
-  - INS-260327-B2CC
   - INS-260327-52CF
   - INS-260327-58ED
+  - INS-260327-B2CC
   - INS-260329-EBCA
+  - INS-260405-194F
 ---
 Genuine kindness is a choice made by someone capable of the alternative. A person who is nice because they're afraid of conflict, dependent on approval, or incapable of assertiveness isn't choosing kindness - they're defaulting to it. Their niceness has no moral weight because it was never a free choice.
 

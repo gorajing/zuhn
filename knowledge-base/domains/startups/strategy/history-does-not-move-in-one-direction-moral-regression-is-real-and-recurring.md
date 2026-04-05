@@ -57,7 +57,6 @@ related:
   - INS-260330-8950
   - INS-260325-A46E
   - INS-260327-D24A
-  - INS-260330-14E1
 stance: >-
   Shapiro's counter to the 'arc of history bends toward progress' narrative: the
   20th century produced communism, Nazism, and the Holocaust

@@ -55,7 +55,6 @@ stance: >-
   not be sufficiently focused.
 related:
   - INS-260403-941F
-  - INS-260403-45AA
   - INS-260403-F171
   - INS-260403-ED1E
   - INS-260404-24FB

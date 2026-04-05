@@ -47,11 +47,11 @@ stance: >-
   Safety-critical systems require pre-planned responses to every failure mode
   because the moment of failure is the worst time to improvise
 related:
+  - INS-260405-9DF5
   - INS-260320-6CCE
   - INS-260327-DC65
   - INS-260403-63E2
   - INS-260402-92AE
-  - INS-260403-F75F
 evidence:
   - id: INS-260320-6CCE
     type: SUPPORTS

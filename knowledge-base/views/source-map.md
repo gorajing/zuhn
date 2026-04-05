@@ -325,6 +325,7 @@ Generated on 2026-04-05 | 2421 sources
 | Business models: the toolkit to design a disruptive company | blog | 5 | 2026-03-31 |
 | Can Sam Altman end up in jail?😮, “40% of startups die after a seed… 0.5-1% go IPO” 🏁 | blog | 5 | 2026-03-30 |
 | Cap Table Mastery: How to Manage Startup Equity from Seed to Series C | blog | 5 | 2026-03-30 |
+| China is quietly looking weaker | blog | 5 | 2026-03-30 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | “Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯 | blog | 5 | 2026-03-30 |
 | CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
@@ -376,6 +377,7 @@ Generated on 2026-04-05 | 2421 sources
 | How to Be an Angel Investor | blog | 5 | 2026-03-31 |
 | How to Be Silicon Valley | blog | 5 | 2026-03-31 |
 | How to Build AI Product Strategy (By OpenAI’s Product Lead) | blog | 5 | 2026-03-30 |
+| How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 5 | 2026-03-30 |
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 5 | 2026-03-30 |
 | How to Convince Investors | blog | 5 | 2026-03-31 |
 | How to Do Philosophy | blog | 5 | 2026-03-31 |
@@ -467,6 +469,7 @@ Generated on 2026-04-05 | 2421 sources
 | Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save or Sink Your Company | blog | 5 | 2026-03-30 |
 | Startup Valuation Methods: 8 Approaches Investors Use | blog | 5 | 2026-03-30 |
 | Startups in 13 Sentences | blog | 5 | 2026-03-31 |
+| State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 5 | 2026-03-30 |
 | Stuff | blog | 5 | 2026-03-31 |
 | Succinctness is Power | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
@@ -516,6 +519,7 @@ Generated on 2026-04-05 | 2421 sources
 | The New Operating Manual for Fintech-Enabled Marketplaces | blog | 5 | 2026-03-31 |
 | The Next Era of Gaming and AI | blog | 5 | 2026-03-31 |
 | The Next Frontier for 2-Sided Marketplaces: How Fintech Will Unlock Enormous Value | blog | 5 | 2026-03-31 |
+| The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 5 | 2026-03-30 |
 | The Origins of Wokeness | blog | 5 | 2026-03-31 |
 | The Other Road Ahead | blog | 5 | 2026-03-31 |
 | The Pentagon Threatens Anthropic | blog | 5 | 2026-03-30 |
@@ -867,6 +871,7 @@ Generated on 2026-04-05 | 2421 sources
 | A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 4 | 2026-03-31 |
 | A Word to the Resourceful | blog | 4 | 2026-03-31 |
+| A year free of PostHog ($16,500 value): The all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, LLM analytics platform | blog | 4 | 2026-03-31 |
 | a16z New Media and How We Invested in 20+ YC Startups in 5 Months | blog | 4 | 2026-03-30 |
 | a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise Startup Funding | blog | 4 | 2026-03-30 |
 | Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 4 | 2026-03-31 |
@@ -887,6 +892,7 @@ Generated on 2026-04-05 | 2421 sources
 | Alex Karp Interview: How Palantir Hit $500B Market Cap | blog | 4 | 2026-03-30 |
 | Amazon spends $2.75 billion on AI startup Anthropic💸, The Founders Guide to Optimizing Your Fundraise📘, The Pulse of SaaS☁️ & more! | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
+| Analysis Paralysis…Innovators Move Fast | blog | 4 | 2026-03-31 |
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Apple Business Model | blog | 4 | 2026-03-31 |
 | Apple Pay’s Uncopyable Business Model Delivers What Nobody Else Could | blog | 4 | 2026-03-31 |
@@ -896,6 +902,7 @@ Generated on 2026-04-05 | 2421 sources
 | Assess how your Innovation Programs are Performing | blog | 4 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 4 | 2026-03-31 |
 | Barriers to Entry in VC🚧, Rise of the AI Wrappers🤖, Google's AI Future Report 🔮 | blog | 4 | 2026-03-30 |
+| Become an Innovation Expert at the 2020 Strategyzer Bootcamp | blog | 4 | 2026-03-31 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
@@ -1025,6 +1032,7 @@ Generated on 2026-04-05 | 2421 sources
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 4 | 2026-03-30 |
 | Organic Startup Ideas | blog | 4 | 2026-03-31 |
+| Orthodox Privilege | blog | 4 | 2026-03-31 |
 | Overcoming the “blank page” challenge with AI | blog | 4 | 2026-03-31 |
 | Persuade xor Discover | blog | 4 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 4 | 2026-03-30 |
@@ -2127,7 +2135,6 @@ Generated on 2026-04-05 | 2421 sources
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
 | A Way to Detect Bias | blog | 0 | 2026-03-31 |
-| A year free of PostHog ($16,500 value): The all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, LLM analytics platform | blog | 0 | 2026-03-31 |
 | a16z Raises$7.2bn💵, Optimal VC Portfolio Construction🧮, AI Index🤖 | blog | 0 | 2026-03-30 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
@@ -2158,7 +2165,6 @@ Generated on 2026-04-05 | 2421 sources
 | An inside look at how the New York Times builds product | Alex Hardiman (CPO at The New York Times) | blog | 0 | 2026-03-31 |
 | An inside look at Mixpanel’s product journey | Vijay Iyengar (Head of Product) | blog | 0 | 2026-03-31 |
 | An NFT That Saves Lives | blog | 0 | 2026-03-31 |
-| Analysis Paralysis…Innovators Move Fast | blog | 0 | 2026-03-31 |
 | Announcing a brand-new podcast: “How I AI” with Claire Vo 🔥 | blog | 0 | 2026-03-31 |
 | Announcing Lenny and Friends Summit 🙌 | blog | 0 | 2026-03-31 |
 | Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann | blog | 0 | 2026-03-31 |
@@ -2171,7 +2177,6 @@ Generated on 2026-04-05 | 2421 sources
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |
 | Ask Me Anything session with Alex & Yves | blog | 0 | 2026-03-31 |
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
-| Become an Innovation Expert at the 2020 Strategyzer Bootcamp | blog | 0 | 2026-03-31 |
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
@@ -2187,7 +2192,6 @@ Generated on 2026-04-05 | 2421 sources
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
-| China is quietly looking weaker | blog | 0 | 2026-03-30 |
 | China's Startup Scene📉, Illiquidity is a Feature💡, Scaling SaaS💻 | blog | 0 | 2026-03-30 |
 | Choosing The Final Frontier: Launching a Rocket Company with Andy Lapsa of Stoke Space | blog | 0 | 2026-03-31 |
 | Coatue’s 18-Chart Report: Why AI Is Still Early, Not a Bubble | blog | 0 | 2026-03-30 |
@@ -2278,7 +2282,6 @@ Generated on 2026-04-05 | 2421 sources
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 0 | 2026-03-30 |
-| How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
@@ -2312,7 +2315,6 @@ Generated on 2026-04-05 | 2421 sources
 | Open Thread 425 | blog | 0 | 2026-03-30 |
 | Open Thread 426 | blog | 0 | 2026-03-30 |
 | OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 0 | 2026-03-30 |
-| Orthodox Privilege | blog | 0 | 2026-03-31 |
 | Power | blog | 0 | 2026-03-31 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
@@ -2328,7 +2330,6 @@ Generated on 2026-04-05 | 2421 sources
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
-| State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 0 | 2026-03-30 |
 | State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 0 | 2026-03-30 |
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
 | Tablets | blog | 0 | 2026-03-31 |
@@ -2350,7 +2351,6 @@ Generated on 2026-04-05 | 2421 sources
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Need to Read | blog | 0 | 2026-03-31 |
-| The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 0 | 2026-03-30 |
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |

@@ -56,6 +56,7 @@ related:
   - INS-260403-1EB3
   - INS-260404-3217
   - INS-260404-CF2A
+  - INS-260405-2CDB
 ---
 Graham identifies the core investor anxiety at early stage: that founders built something from a priori theories about what the world needs rather than observed demand. The antidote is what Sequoia's Greg Mcadoo calls the 'proxy for demand'—evidence that people are already doing something painful with inadequate tools, proving the need exists independent of your solution.
 

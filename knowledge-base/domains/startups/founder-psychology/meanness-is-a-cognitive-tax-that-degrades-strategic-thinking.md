@@ -47,8 +47,8 @@ related:
   - INS-260326-291C
   - INS-260327-7B8E
   - INS-260330-F737
-  - INS-260403-FE91
   - INS-260403-2B6E
+  - INS-260405-F5D8
   - INS-260404-9823
 ---
 Graham observes that fights are never sufficiently general — winning them requires situation-specific tricks rather than broadly applicable ideas. For startup founders, this is especially costly because startups win by transcending competitors, not by attacking them. The mental energy spent on adversarial maneuvering is indistinguishable in effort from real problem-solving but produces zero transferable value.

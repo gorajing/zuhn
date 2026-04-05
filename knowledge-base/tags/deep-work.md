@@ -21,3 +21,4 @@
 - `INS-260329-1F4D` Block your first 8 hours for uninterrupted work until you have enough team leverage that directing others outproduces your own output.
 - `INS-260326-E0E1` Deep work and genuine leadership both drain the same finite resource — you cannot maximize both on the same day.
 - `INS-260330-1F41` Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
+- `INS-260405-A30D` Five consecutive days of immersive practice with a focused cohort produces qualitatively different skill development than the same hours distributed over months.

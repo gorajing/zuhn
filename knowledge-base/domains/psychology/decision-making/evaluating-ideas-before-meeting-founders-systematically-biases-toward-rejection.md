@@ -48,11 +48,11 @@ stance: >-
   anchors the discussion on concept weaknesses rather than team strengths,
   making rejection the default outcome.
 related:
+  - INS-260405-F5D8
   - INS-260403-71D1
   - INS-260403-A60E
   - INS-260402-F08D
   - INS-260403-B2EB
-  - INS-260403-4337
 ---
 When Fred Wilson said his partnership was 'having a debate' about Airbnb, PG immediately pushed back: 'I'd recommend having the debate after meeting them instead of before. We had big doubts about this idea, but they vanished on meeting the guys.' This is a specific procedural insight about how evaluation order affects outcomes.
 

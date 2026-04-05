@@ -58,6 +58,7 @@ related:
   - INS-260327-EB3E
   - INS-260327-CBCB
   - INS-260329-B1A1
+  - INS-260405-A30D
 stance: 'Kaplan''s 6,000+ hours of EverQuest'
 evidence:
   - id: INS-260323-E3FD

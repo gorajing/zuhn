@@ -49,7 +49,7 @@ related:
   - INS-260402-1414
   - INS-260327-E833
   - INS-260322-F65F
-  - INS-260403-1A96
+  - INS-260405-B32E
   - INS-260404-CE92
 ---
 School teaches critical reading as evaluating whether an author's claims are true. Graham argues this is only the first level — real critical reading requires stepping back further to ask why this subject was chosen in the first place. A PR-placed article about suits coming back may contain nothing factually false, yet its mere existence as a published piece is the manipulation. The truth of individual claims is a red herring that distracts from the real question: who benefits from this topic occupying your attention? This meta-cognitive move — questioning the selection mechanism rather than the content — applies broadly: to news consumption, research agendas, social media trends, and even which problems you choose to work on.

@@ -48,10 +48,10 @@ stance: >-
   because the prospect experiences the transformation before committing.
 related:
   - INS-260403-19D8
+  - INS-260405-6433
   - INS-260329-9F8D
   - INS-260329-18BB
-  - INS-260329-03B5
-  - INS-260329-2242
+  - INS-260405-9DF5
 evidence:
   - id: INS-260329-2242
     type: CHALLENGES
