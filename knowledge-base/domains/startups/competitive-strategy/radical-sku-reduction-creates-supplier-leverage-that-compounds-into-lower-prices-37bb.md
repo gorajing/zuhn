@@ -50,6 +50,6 @@ related:
   - INS-260404-DFE8
   - INS-260404-7BEE
   - INS-260404-57E3
-  - INS-260404-9B82
+  - INS-260405-DEF2
 ---
 Costco stocks ~4,000 unique items versus Walmart's 140,000 or a typical supermarket's 30,000. This isn't just operational simplicity — it's a negotiating weapon. When you're one of only one or two brands on a shelf seen by 94 million members, you'll accept razor-thin margins to keep that position. Suppliers actively reengineer products (like redesigning cashew containers to save 24,000 pallets/year) to earn or retain Costco placement. This creates a compounding loop: fewer SKUs → more volume per SKU → more supplier leverage → lower prices → higher renewal → more members → even more volume per SKU. The counterintuitive insight is that constraining selection doesn't limit the business — it amplifies its core competitive advantage.

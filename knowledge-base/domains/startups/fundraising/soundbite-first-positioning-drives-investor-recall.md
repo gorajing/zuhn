@@ -59,6 +59,10 @@ related:
   - INS-260404-C2BC
   - INS-260404-24FB
   - INS-260403-26D3
+evidence:
+  - id: INS-260403-B3A4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Professional investors experience pitch fatigue—after enough presentations, they blur together. The first filter is simply being remembered, and the mechanism for that is a descriptive phrase that sticks. In Hollywood it's 'x meets y'; in startups it's 'the x of y' or 'the x y,' like Viaweb's 'the Microsoft Word of ecommerce.'
 

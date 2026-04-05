@@ -49,7 +49,6 @@ stance: >-
   in underserved niche segments and migrates toward the industry core over a
   decade, not the reverse.
 related:
-  - INS-260330-DC14
   - INS-260330-E670
   - INS-260403-4E7A
   - INS-260403-4690
@@ -59,6 +58,7 @@ related:
   - INS-260403-3F9C
   - INS-260403-1085
   - INS-260403-47BF
+  - INS-260403-D522
 ---
 In heavily regulated industries with powerful incumbents (like real estate with the NAR), startups cannot attack the core head-on. Instead, innovation begins in underserved niches — vacation homes, commercial rent-to-own, micro-fractional investing — where incumbents have little presence and regulatory scrutiny is lighter. Over time, as these peripheral models prove viable and build network effects, they migrate inward toward the industry's core transactions.
 

@@ -62,6 +62,10 @@ related:
   - INS-260404-029D
   - INS-260404-AC1B
   - INS-260404-3C9B
+evidence:
+  - id: INS-260404-6E7B
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Costco's membership fee, warehouse-style layout, and bulk quantities all look like obstacles on paper. In practice, each one filters for a specific customer: the $60 fee selects households averaging nearly $100K income, bulk sizes attract business owners (one-third of members generating two-thirds of sales), and the maze-like layout forces wandering through aisles, increasing impulse purchases.
 

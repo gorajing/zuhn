@@ -61,6 +61,10 @@ related:
   - INS-260403-6F52
   - INS-260403-C228
   - INS-260403-D375
+evidence:
+  - id: INS-260403-0AF4
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Graham argues that the first cut in fundraising is simply being remembered. Professional investors hear pitch after pitch until they all blur together. A descriptive phrase — 'the x of y' pattern like Viaweb's 'the Microsoft Word of ecommerce' — functions as a cognitive anchor that survives this blur.
 

@@ -54,6 +54,10 @@ related:
   - INS-260403-7072
   - INS-260403-53AA
   - INS-260404-AC2B
+evidence:
+  - id: INS-260404-09E8
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Investors evaluating early-stage startups are primarily screening for one failure mode: founders who built something based on untested theories about what the world needs. Abstract market-size arguments don't counter this fear—specific stories about specific users do.
 

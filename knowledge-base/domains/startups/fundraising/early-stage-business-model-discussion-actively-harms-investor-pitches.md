@@ -54,5 +54,12 @@ related:
   - INS-260404-5483
   - INS-260404-5D8B
   - INS-260404-5D3B
+evidence:
+  - id: INS-260404-5D8B
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-C625
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 A top VC told YC founders he invested in a company whose business model was wrong and would change three times — and he invested anyway because he expected it to be wrong at that stage. The failure mode isn't just wasting time; it's actively harmful. If your business model seems spectacularly wrong, it pushes out the things you want investors to remember. They'll categorize you as 'the company with the boneheaded monetization plan' rather than 'the company that solved that important problem.' The time is better spent on the problem and what you've built — areas where you actually have expertise and credibility.

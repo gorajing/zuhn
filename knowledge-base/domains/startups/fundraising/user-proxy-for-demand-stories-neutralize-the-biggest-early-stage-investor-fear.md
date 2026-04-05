@@ -53,5 +53,9 @@ related:
   - INS-260404-B887
   - INS-260403-035A
   - INS-260403-419B
+evidence:
+  - id: INS-260404-B887
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 The dominant fear for investors evaluating early-stage startups is that founders built something from a priori theories about what the world needs rather than observed demand. Sequoia explicitly looks for 'proxy for demand' — what are people doing now with inadequate tools that proves they need your product? The strongest version is when founders built for their own need (Apple, Microsoft, Yahoo, Google all originated this way). The next strongest is needs of people you know personally. This hierarchy matters because experienced investors recognize these patterns and weight them heavily. Abstract market-size arguments ('$5B TAM') are the weakest form — they're the startup equivalent of a new actor citing Tom Hanks' salary as evidence of career prospects.

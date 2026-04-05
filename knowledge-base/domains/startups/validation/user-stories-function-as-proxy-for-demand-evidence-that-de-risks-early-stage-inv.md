@@ -60,6 +60,10 @@ related:
   - INS-260404-3217
   - INS-260404-4024
   - INS-260404-3B9E
+evidence:
+  - id: INS-260403-419B
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Graham identifies the core investor fear at the early stage: that you've built something based on your own theories rather than real need. The antidote is specificity about users. Greg McAdoo of Sequoia calls it 'proxy for demand' — what are people doing now, using inadequate tools, that proves they need what you're making?
 

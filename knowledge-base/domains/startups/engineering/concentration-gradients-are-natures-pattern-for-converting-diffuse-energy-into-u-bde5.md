@@ -61,6 +61,22 @@ related:
   - INS-260404-59B6
   - INS-260404-91A0
   - INS-260404-47BC
+evidence:
+  - id: INS-260330-1677
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-7E39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-91A0
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-47BC
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-6876
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The light-dependent reactions don't directly create ATP. Instead, they use electron energy to pump protons into the thylakoid, creating a concentration gradient — an imbalance across a membrane. When protons push back through ATP synthase to equalize, that flow drives ATP production. The energy is stored in the gradient itself, not in any single molecule.
 

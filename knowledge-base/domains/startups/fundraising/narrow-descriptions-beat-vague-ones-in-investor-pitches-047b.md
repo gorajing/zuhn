@@ -58,6 +58,10 @@ related:
   - INS-260404-CA98
   - INS-260403-91F9
   - INS-260404-896B
+evidence:
+  - id: INS-260404-683B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Founders resist narrow descriptions because early-stage products have many possible futures. But as a description approaches 'could be anything,' its information content approaches zero. Investors will tune out 'a system to collaboratively leverage information value' but engage with 'an easy web-based database.' The right approach is successive approximation: start with a gripping but perhaps overly narrow description, then flesh it out. This mirrors incremental development — at every point you have a 'working description' in the investor's head, even if it doesn't capture everything yet.
 

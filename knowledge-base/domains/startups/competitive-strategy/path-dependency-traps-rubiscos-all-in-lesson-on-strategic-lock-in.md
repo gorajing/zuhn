@@ -51,10 +51,10 @@ stance: >-
   spent switching strategies early
 related:
   - INS-260330-B3D5
+  - INS-260405-7E85
   - INS-260330-3FF4
   - INS-260330-EACA
   - INS-260404-0BED
-  - INS-260403-F52E
 evidence:
   - id: INS-260330-B3D5
     type: SUPPORTS

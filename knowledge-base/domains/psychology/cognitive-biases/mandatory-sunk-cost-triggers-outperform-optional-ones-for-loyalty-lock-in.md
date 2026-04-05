@@ -58,6 +58,10 @@ related:
   - INS-260404-ED19
   - INS-260404-B46E
   - INS-260404-2D53
+evidence:
+  - id: INS-260403-B6FF
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Both Costco and Amazon Prime leverage sunk-cost psychology — once you've paid, you feel compelled to shop there to 'get your money's worth.' But the mechanism differs critically in one dimension: optionality. Amazon Prime users self-sort by individually calculating whether the subscription saves enough money. This creates loyalty among subscribers but doesn't change the company's fundamental business model.
 

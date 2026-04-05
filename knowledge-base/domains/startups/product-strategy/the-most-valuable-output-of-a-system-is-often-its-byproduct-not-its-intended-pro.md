@@ -61,6 +61,19 @@ related:
   - INS-260404-F8E6
   - INS-260404-FF39
   - INS-260404-D0A5
+evidence:
+  - id: INS-260330-90B6
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-5C74
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-726B
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-F8E6
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis evolved to fix carbon into glucose for plant energy and structure. Oxygen is literally the waste dumped out through stomata. Yet this 'useless byproduct' became the foundation of all aerobic life, fundamentally reshaping Earth's atmosphere and enabling the entire animal kingdom. The plant never optimized for oxygen production — it optimized for sugar.
 

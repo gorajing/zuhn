@@ -56,5 +56,6 @@ related:
   - INS-260403-035A
   - INS-260404-817A
   - INS-260404-3B9E
+  - INS-260405-F9EC
 ---
 Investors evaluating early-stage startups face a fundamental information problem: there's almost no data to assess whether the product will find market fit. Greg McAdoo from Sequoia calls what they look for a 'proxy for demand'—evidence that people are already doing the thing your product enables, just with worse tools. Specific user stories serve this function powerfully because they're concrete, verifiable, and hard to fabricate convincingly. The strongest version is when the founders themselves had the need (Apple, Microsoft, Yahoo, Google all started this way), because it signals both deep problem understanding and ongoing motivation. The next best thing is stories about people you know personally. Abstract market-size numbers, by contrast, are irrelevant at this stage—knowing the market is $5B doesn't tell an investor whether your specific product will capture any of it.

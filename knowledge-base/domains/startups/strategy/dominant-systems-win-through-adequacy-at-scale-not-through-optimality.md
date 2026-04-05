@@ -57,6 +57,10 @@ related:
   - INS-260403-BA93
   - INS-260404-9213
   - INS-260404-1A18
+evidence:
+  - id: INS-260404-9213
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Photosynthesis is described as a process that 'rather sucks' — it's complicated, inefficient, and confusing. RuBisCo fails at its core task roughly half the time. Yet photosynthesis became the dominant energy conversion system for life on Earth, not because it was elegant, but because it was first and sufficient.
 

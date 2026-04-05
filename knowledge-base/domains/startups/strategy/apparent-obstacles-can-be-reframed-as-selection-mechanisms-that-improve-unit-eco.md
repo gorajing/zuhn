@@ -57,6 +57,22 @@ related:
   - INS-260404-6E7B
   - INS-260404-B435
   - INS-260404-B2FB
+evidence:
+  - id: INS-260403-747B
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-B2FB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-0CF7
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-137D
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-01B1
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Conventional wisdom says reducing friction maximizes customer acquisition. Costco inverts this: the $60-120 annual fee acts as a demographic filter, selecting for affluent households (average income ~$100K) and business owners who purchase in bulk. Business members represent one-third of membership but generate two-thirds of sales.
 

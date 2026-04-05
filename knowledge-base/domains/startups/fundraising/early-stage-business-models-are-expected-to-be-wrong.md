@@ -59,6 +59,10 @@ related:
   - INS-260403-2DE3
   - INS-260403-6A55
   - INS-260403-1DB7
+evidence:
+  - id: INS-260403-8346
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 A VC speaking at Y Combinator described investing in experienced founders whose business model he knew was wrong—and expected it to change three times before they got it right. He invested anyway because at the early stage, the business model is just a bunch of guesses about stuff that's probably not the founders' area of expertise.
 

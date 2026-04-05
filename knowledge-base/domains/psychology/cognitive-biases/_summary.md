@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 279 insights
+> 280 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -97,6 +97,7 @@
 - `INS-260330-ECA9` [high] If you experience one event per second during waking hours, a one-in-a-million event should occur roughly every 35 days — making 'miracles' routine.
 - `INS-260404-94BB` [high] Costco's mandatory $60-120 membership fee triggers sunk-cost reasoning that makes customers stop comparing prices and shop exclusively at Costco.
 - `INS-260404-2D53` [high] Costco's mandatory $60-120 membership triggers sunk-cost reasoning that makes customers stop comparing prices, creating loyalty that optional programs cannot replicate.
+- `INS-260405-9F38` [high] Optional subscriptions self-select for rational evaluators who keep comparing prices; mandatory ones commit everyone equally.
 - `INS-260404-ED19` [high] Mandatory membership fees trigger stronger sunk-cost commitment than optional subscriptions because the buyer can't self-select out of the psychological lock-in.
 - `INS-260330-A84D` [high] Coke adopted the tobacco industry's playbook — funding counter-studies to cast doubt on the obesity-soda link rather than debating the science directly.
 - `INS-260403-47B7` [high] Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.

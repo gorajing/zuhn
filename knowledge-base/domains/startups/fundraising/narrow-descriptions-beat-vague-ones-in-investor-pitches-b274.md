@@ -57,6 +57,13 @@ related:
   - INS-260403-5A4F
   - INS-260404-9F1D
   - INS-260404-17E3
+evidence:
+  - id: INS-260404-8258
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-21A8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 As startup descriptions approach generality — 'a system to allow people to collaboratively leverage the value of information' — their information content approaches zero. Investors discard such sentences as boilerplate and grow impatient waiting for the actual explanation.
 

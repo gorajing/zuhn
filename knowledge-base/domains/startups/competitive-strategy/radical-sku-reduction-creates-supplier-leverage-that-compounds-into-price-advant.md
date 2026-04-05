@@ -56,6 +56,11 @@ related:
   - INS-260404-36D7
   - INS-260404-3EA3
   - INS-260404-7BEE
+  - INS-260405-DEF2
+evidence:
+  - id: INS-260403-DC2D
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Conventional retail wisdom says more selection means more customers. Costco proves the opposite: by offering only one or two choices per category instead of dozens, it concentrates all purchasing volume into those few items. Suppliers compete fiercely to be that single choice, which means they'll lower prices and even reengineer products (like redesigning cashew containers to save 24,000 pallets annually).
 

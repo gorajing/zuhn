@@ -60,6 +60,10 @@ related:
   - INS-260404-3161
   - INS-260404-459B
   - INS-260404-0427
+evidence:
+  - id: INS-260404-1002
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 When founders try to capture every possibility their product might evolve into, the description becomes so general it communicates nothing. Paul Graham compares this to a calculus limit: as you approach a description of 'anything,' the information content approaches zero. Investors will discard vague statements like 'a system to collaboratively leverage the value of information' as boilerplate.
 

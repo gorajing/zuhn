@@ -57,6 +57,19 @@ related:
   - INS-260403-F7DE
   - INS-260330-13A8
   - INS-260403-7BBD
+evidence:
+  - id: INS-260403-0DC2
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-887A
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-E981
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-180D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Conventional retail wisdom treats selection breadth as a competitive advantage — more choice means more customers served. Costco inverts this by stocking only 1-2 options per category across ~4,000 total SKUs. This creates a winner-take-all dynamic where suppliers compete fiercely for the sole Costco slot, driving prices down and willingness to customize up (e.g., reengineering cashew containers to save 24,000 pallets/year).
 

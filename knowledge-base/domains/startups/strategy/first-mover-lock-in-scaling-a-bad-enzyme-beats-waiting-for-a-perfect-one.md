@@ -56,6 +56,13 @@ related:
   - INS-260330-8BF6
   - INS-260404-47F5
   - INS-260403-9442
+evidence:
+  - id: INS-260404-EC33
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-05D8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in all plants, was evolved in a low-oxygen atmosphere where it worked adequately. When plants themselves raised atmospheric oxygen levels, RuBisCo started grabbing O2 instead of CO2 roughly half the time, producing toxic byproducts. Yet plants had already built their entire metabolic architecture around it.
 

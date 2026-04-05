@@ -60,6 +60,10 @@ related:
   - INS-260403-C8B9
   - INS-260403-88E8
   - INS-260403-2E90
+evidence:
+  - id: INS-260403-0267
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong — and expected it to change three times before they got it right. The founders were experienced repeat entrepreneurs who'd just raised millions, and even their model was bad. This is the norm, not the exception.
 

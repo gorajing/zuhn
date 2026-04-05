@@ -51,5 +51,15 @@ related:
   - INS-260404-6BA2
   - INS-260404-222A
   - INS-260403-36D8
+evidence:
+  - id: INS-260404-7F16
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-35BB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-36D7
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Conventional retail wisdom says more selection attracts more customers. Costco inverts this: by carrying only 4,000 SKUs (vs 30,000 at a typical supermarket or 140,000 at Walmart), it creates intense competition among suppliers for limited shelf space. Suppliers will lower prices and even reengineer products (like redesigning cashew containers to save 24,000 pallets/year) to win a Costco slot. If no supplier meets Costco's standards, it creates Kirkland Signature (25% of annual sales). This is a general strategic principle: constraining the supply side of a platform concentrates demand and shifts negotiating power. Apple's curated App Store, Netflix's limited catalog strategy, and Y Combinator's small batch sizes all exploit the same dynamic — scarcity of slots makes each slot more valuable.

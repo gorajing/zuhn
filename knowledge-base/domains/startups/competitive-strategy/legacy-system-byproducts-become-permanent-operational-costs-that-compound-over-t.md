@@ -55,8 +55,8 @@ related:
   - INS-260403-C4CD
   - INS-260330-0E77
   - INS-260330-B3D5
+  - INS-260405-7E85
   - INS-260330-F5CF
-  - INS-260330-EACA
 evidence:
   - id: INS-260330-EACA
     type: EXTENDS

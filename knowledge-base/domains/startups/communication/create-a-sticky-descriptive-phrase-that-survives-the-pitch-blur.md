@@ -54,5 +54,9 @@ related:
   - INS-260404-8D37
   - INS-260404-D8C7
   - INS-260404-756D
+evidence:
+  - id: INS-260404-D8C7
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Professional investors hear so many pitches that they blur together. The first survival filter is simply being remembered. A compact descriptive phrase — typically 'the X of Y' or 'the X Y' in startup contexts — creates a durable mental anchor. Viaweb used 'the Microsoft Word of ecommerce.' This exercise also functions as a diagnostic: if you can't compress your startup into one compelling phrase, your plans may not be sufficiently focused. The phrase should be launched early in the talk, delivered with apparent casualness rather than as a rehearsed tagline. It's doing double duty — helping investors remember you and forcing you to crystallize what you're actually building.

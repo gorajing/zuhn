@@ -57,5 +57,12 @@ related:
   - INS-260404-983E
   - INS-260403-8346
   - INS-260404-5721
+evidence:
+  - id: INS-260404-32B5
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-983E
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 A top VC told YC founders he invested in a company whose business model was wrong and would probably change three times — and he invested anyway because he expected it to be wrong at that stage. This reveals a fundamental asymmetry in what investors evaluate: the problem space and your technical insight are durable signals of founder quality, while the business model is just guesses about stuff that's probably not your expertise. Worse, a spectacularly wrong business model will push the things you want investors to remember out of their heads — they'll remember you as 'the company with the boneheaded revenue plan' instead of 'the company solving that important problem.' Allocate pitch time to your strongest material.

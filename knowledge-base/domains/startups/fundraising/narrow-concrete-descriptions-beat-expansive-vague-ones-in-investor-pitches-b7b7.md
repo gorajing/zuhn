@@ -53,8 +53,7 @@ related:
   - INS-260403-9679
   - INS-260403-20D6
   - INS-260404-9830
-  - INS-260404-9882
-  - INS-260404-C0E6
+  - INS-260405-466C
 ---
 Founders resist narrow descriptions because early-stage startups have many possibilities, but as a description approaches 'could be anything,' its information content approaches zero. Investors discard vague boilerplate like 'collaboratively leverage the value of information' and wait impatiently for something concrete.
 

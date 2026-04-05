@@ -59,7 +59,11 @@ related:
   - INS-260403-97F8
   - INS-260403-054F
   - INS-260403-0764
-  - INS-260403-F590
+  - INS-260403-B4B9
+evidence:
+  - id: INS-260403-054F
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 A top VC told Y Combinator founders that a company he'd just invested in had a wrong business model that would probably change three times — and he invested anyway because he expected it to be wrong at that stage. The business model is just guesses about things that probably aren't your area of expertise.
 

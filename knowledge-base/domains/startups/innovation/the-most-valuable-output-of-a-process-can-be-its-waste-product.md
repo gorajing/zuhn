@@ -55,6 +55,16 @@ related:
   - INS-260403-99CE
   - INS-260403-76EE
   - INS-260404-0FEB
+evidence:
+  - id: INS-260403-99CE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-0FEB
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-31AF
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Photosynthesis splits water molecules not to produce oxygen, but because chlorophyll desperately needs replacement electrons after losing its own to the electron transport chain. Oxygen is literally discarded as waste. Yet this 'useless byproduct' is what enabled the evolution of all aerobic life, fundamentally transforming Earth's biosphere.
 

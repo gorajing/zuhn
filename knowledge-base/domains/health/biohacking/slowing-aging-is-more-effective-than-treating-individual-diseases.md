@@ -59,6 +59,7 @@ related:
   - INS-260325-E8BC
   - INS-260325-785D
   - INS-260325-9112
+  - INS-260405-174B
 ---
 Aging is the single biggest risk factor for heart disease, cancer, diabetes, and most other diseases people worry about. The current medical paradigm treats each disease as a separate problem, but scientists increasingly argue this is backwards: if you slow the underlying aging process, you reduce risk across all age-related diseases simultaneously.
 

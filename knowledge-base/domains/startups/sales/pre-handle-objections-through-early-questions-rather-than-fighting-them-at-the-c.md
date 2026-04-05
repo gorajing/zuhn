@@ -62,7 +62,7 @@ related:
   - INS-260329-4D5E
   - INS-260404-4DF7
   - INS-260403-C496
-  - INS-260330-76DA
+  - INS-260405-4FC0
 ---
 The veteran identifies that amateur salespeople face a barrage of objections at the closing stage: 'I need to talk to my wife,' 'I don't have the budget,' 'I need to check with my business partner,' 'I've seen other vendors.' All of these could have been addressed earlier through deliberate questions.
 

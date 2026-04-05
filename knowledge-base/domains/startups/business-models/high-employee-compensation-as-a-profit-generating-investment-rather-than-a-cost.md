@@ -53,5 +53,16 @@ related:
   - INS-260404-8A1D
   - INS-260404-E1B0
   - INS-260404-ABB1
+  - INS-260405-C8BC
+evidence:
+  - id: INS-260404-CEA8
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-8A1D
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-5CB5
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Costco's average wage of $21/hour is double the US retail average, supplemented by superior health insurance and retirement benefits. Rather than dragging on margins, this investment yields employees who are reportedly three times more productive than the industry average. The math works: if you pay 2x but get 3x productivity, you're ahead on a per-unit-of-output basis while also benefiting from lower turnover, better customer experience, and reduced training costs. This challenges the common cost-minimization approach to retail labor. The broader principle is that labor compensation exists on a curve where underinvestment can be more expensive than overpayment — the optimal point is often well above market rate because the relationship between pay and productivity is non-linear.

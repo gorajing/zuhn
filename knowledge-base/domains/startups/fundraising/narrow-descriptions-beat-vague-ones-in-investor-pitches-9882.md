@@ -49,7 +49,6 @@ stance: >-
   meaningless boilerplate.
 related:
   - INS-260402-15A7
-  - INS-260403-B7B7
   - INS-260403-9679
   - INS-260403-7964
   - INS-260403-20D6

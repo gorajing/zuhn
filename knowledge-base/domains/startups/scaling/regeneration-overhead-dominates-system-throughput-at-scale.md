@@ -61,6 +61,10 @@ related:
   - INS-260404-1C01
   - INS-260404-D1F6
   - INS-260404-9F51
+evidence:
+  - id: INS-260404-9F51
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 The Calvin Cycle fixes 3 CO2 molecules onto 3 RuBP, ultimately producing 6 G3P molecules. But 5 of those 6 G3P must be fed back to regenerate the 3 RuBP needed to restart the cycle. The net output is just 1 G3P per 3 turns — an 83% regeneration overhead.
 

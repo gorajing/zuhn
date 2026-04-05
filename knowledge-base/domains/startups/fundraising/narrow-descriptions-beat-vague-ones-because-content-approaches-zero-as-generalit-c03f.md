@@ -61,6 +61,10 @@ related:
   - INS-260404-0BB0
   - INS-260403-6712
   - INS-260404-F560
+evidence:
+  - id: INS-260404-0BB0
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Paul Graham uses a calculus analogy: as your description approaches something that 'could be anything,' its content approaches zero. Investors discard vague sentences like 'collaboratively leverage the value of information' as meaningless boilerplate. The counterintuitive insight is that a description which feels misleadingly narrow to founders — 'an easy web-based database' — is actually more compelling because it gives investors a concrete mental model to build on.
 

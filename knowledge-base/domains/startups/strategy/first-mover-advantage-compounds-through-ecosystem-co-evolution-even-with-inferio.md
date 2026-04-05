@@ -52,7 +52,7 @@ related:
   - INS-260330-39B0
   - INS-260404-60F4
   - INS-260330-E497
-  - INS-260403-CF3E
+  - INS-260405-7E85
 ---
 The first photosynthetic organisms used RuBisCo despite its poor specificity for CO2 over O2. But by being first, they reshaped Earth's atmosphere, created the oxygen that all subsequent complex life would depend on, and established carbon fixation pathways that every plant still uses. A hypothetically superior enzyme arriving later would face an ecosystem entirely structured around RuBisCo's outputs.
 

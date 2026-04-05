@@ -62,6 +62,19 @@ related:
   - INS-260404-1936
   - INS-260404-95FC
   - INS-260404-E1FF
+evidence:
+  - id: INS-260404-E1FF
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-95FC
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-E1B0
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-8A80
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Costco pays its 245,000 workers an average of $21/hour—double the U.S. retail average—plus superior health insurance and retirement benefits. Rather than eroding margins, this investment yields employees who are three times more productive than the industry norm. The math works because high-throughput warehouse operations amplify per-worker productivity differences: a 3x productivity gain on a 2x wage premium is a clear net positive.
 

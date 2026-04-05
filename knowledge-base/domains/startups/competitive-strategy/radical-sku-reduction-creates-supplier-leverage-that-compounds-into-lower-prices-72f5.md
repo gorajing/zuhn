@@ -59,6 +59,19 @@ related:
   - INS-260404-35BB
   - INS-260404-1EA6
   - INS-260404-7F16
+evidence:
+  - id: INS-260404-7F16
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-36D7
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-8466
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-1843
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Most retailers compete by offering maximum selection — the assumption being that more choice equals more captured demand. Costco inverts this by stocking roughly 4,000 unique items versus a typical supermarket's 30,000 or Walmart's 140,000. For each product category, only one or two options exist on shelves.
 

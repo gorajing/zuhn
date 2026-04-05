@@ -57,6 +57,11 @@ related:
   - INS-260404-E1B0
   - INS-260404-0572
   - INS-260404-8A1D
+  - INS-260405-C8BC
+evidence:
+  - id: INS-260404-8A1D
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Costco's average wage of $21/hour across 245,000 workers is double the U.S. retail average, with better health insurance and retirement benefits on top. The conventional view treats this as a cost; Costco treats it as an investment that returns 3x productivity per worker. Lower turnover reduces hiring and training costs, experienced staff maintain operational efficiency in complex warehouse environments, and employees become brand advocates.
 

@@ -3,10 +3,10 @@ Generated on 2026-04-05 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 339 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 293 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 270 | 2026-03-31 |
-| How to Do Great Work | blog | 186 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 343 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 298 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 275 | 2026-03-31 |
+| How to Do Great Work | blog | 191 | 2026-03-31 |
 | February 2025 Startups Raising Capital | blog | 80 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
@@ -537,6 +537,7 @@ Generated on 2026-04-05 | 2421 sources
 | VC 3.0: How AI Is Changing Startup Funding Forever | blog | 5 | 2026-03-30 |
 | VC Return Analysis: Single-Tab Model for Faster Decisions | blog | 5 | 2026-03-30 |
 | Venture Debt for Startups: 6 Must-Know Lessons Before You Sign the Term Sheet | blog | 5 | 2026-03-30 |
+| Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 5 | 2026-03-31 |
 | Was Brex's Acquisition A Failure? | blog | 5 | 2026-03-30 |
 | Web 2.0 | blog | 5 | 2026-03-31 |
 | Web3 Gaming Is An Evolution, Not A Revolution - NFX | blog | 5 | 2026-03-31 |
@@ -2386,7 +2387,6 @@ Generated on 2026-04-05 | 2421 sources
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
 | VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |
-| Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |

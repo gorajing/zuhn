@@ -50,12 +50,12 @@ stance: >-
   primary anxiety — that you've built something nobody actually wants.
 related:
   - INS-260329-086B
-  - INS-260403-1A73
   - INS-260404-5248
   - INS-260403-035A
   - INS-260403-1444
+  - INS-260403-1A73
   - INS-260404-4F3A
-  - INS-260403-419B
+  - INS-260405-F9EC
 ---
 Graham cites Sequoia's Greg McAdoo looking for a 'proxy for demand' — evidence that people are already struggling with inadequate tools to do what your product enables. This reframes user stories from nice-to-have narrative devices into the hardest evidence an early-stage startup can present.
 

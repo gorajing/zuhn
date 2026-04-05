@@ -60,6 +60,10 @@ related:
   - INS-260403-19D8
   - INS-260403-3482
   - INS-260403-D7C4
+evidence:
+  - id: INS-260403-1852
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong and would change three times. He invested anyway because at the early stage, the model is just guesses about stuff outside the founders' expertise. The real signal is whether you've found an important problem and built something compelling.
 

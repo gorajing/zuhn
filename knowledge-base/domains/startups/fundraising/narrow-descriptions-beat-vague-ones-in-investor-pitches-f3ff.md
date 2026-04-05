@@ -49,7 +49,6 @@ stance: >-
   than one that sounds impressively broad, because as a description approaches
   'could be anything' its information content approaches zero.
 related:
-  - INS-260327-6D57
   - INS-260404-9F1D
   - INS-260403-21A8
   - INS-260403-2204

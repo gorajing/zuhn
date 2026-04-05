@@ -57,5 +57,18 @@ related:
   - INS-260404-6EB8
   - INS-260404-3212
   - INS-260404-A526
+evidence:
+  - id: INS-260403-0AF4
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-6EB8
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-3212
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-D375
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Professional investors hear so many pitches that they blur together. The first survival filter is simply being remembered. Paul Graham recommends crafting a descriptive phrase — typically 'the X of Y' or 'the X Y' — and launching it early in the presentation. Viaweb's was 'the Microsoft Word of ecommerce.' This serves a dual purpose: it gives investors a mental hook to file you under, and the exercise of creating it forces founders to crystallize what makes their startup distinctive. If you can't compress your startup into one compelling phrase, your plans may lack sufficient focus. This connects to a broader communication principle: in high-noise environments where attention is scarce, compression isn't just helpful — it's the primary determinant of whether your message survives at all.

@@ -54,7 +54,6 @@ related:
   - PRI-260325-F6F7
   - INS-260325-086C
   - INS-260330-BB0C
-  - INS-260327-C69F
 stance: >-
   If AI becomes a planetary control system with malleable identity, coexistence
   requires shared purpose and non-transactional relationships

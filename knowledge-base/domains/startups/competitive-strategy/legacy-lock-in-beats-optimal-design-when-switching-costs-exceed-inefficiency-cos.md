@@ -53,7 +53,6 @@ stance: >-
   when objectively inferior, because the cost of replacement exceeds the cost of
   tolerating inefficiency
 related:
-  - INS-260330-AB3C
   - INS-260330-43CA
   - INS-260330-D4CC
   - INS-260330-8B93

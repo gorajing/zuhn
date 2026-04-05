@@ -1,0 +1,78 @@
+---
+id: INS-260405-F06C
+domain: startups
+topic: founder-psychology
+title: >-
+  Skepticism of new ideas is culturally transmitted, which means optimism toward
+  new ideas can be too
+actionability: reference
+confidence: medium
+shelf_life: evergreen
+status: active
+tags:
+  - culture
+  - innovation
+  - norms
+  - silicon-valley
+  - social-customs
+  - new-ideas
+sources:
+  - type: blog
+    title: "Accelerating Growth at Scale \U0001F525 Phase 2 of Kickstarting and Scaling a Marketplace Business"
+    author:
+      - '@type': Person
+        name: Lenny Rachitsky
+        url: 'https://substack.com/@lenny'
+        description: Writing • Angel investing • Advising
+        identifier: 'user:1849774'
+        sameAs:
+          - 'https://twitter.com/lennysan'
+        image:
+          '@type': ImageObject
+          contentUrl: >-
+            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+          thumbnailUrl: >-
+            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    url: 'https://www.lennysnewsletter.com/p/accelerating-growth-at-scale-phase'
+date_extracted: '2026-04-05'
+last_accessed: null
+access_count: 0
+indexed: false
+embedded: false
+resolutions:
+  one_line: >-
+    Dismissing new ideas is not human nature — it's a cultural habit that formed
+    when innovation happened too slowly to develop better customs, and it can
+    change.
+  standard: >-
+    Graham argues that humans have little experience with early versions of
+    ambitious projects as a species. Innovation was historically too slow to
+    generate social norms for evaluating it. So we defaulted to judging new
+    things by the standards for finished things — a poor fit. The skepticism
+    isn't moral or deeply psychological; it's a missing custom.
+
+
+    Silicon Valley proves the inverse: a culture deliberately built around
+    evaluating nascent ideas has outperformed the rest of the world on
+    innovation outcomes. Even if that culture is partly self-interested
+    (investors need founders to succeed), the customs it encodes — treating new
+    ideas as challenges to imagination rather than lists of reasons they won't
+    work — actually work better.
+
+
+    The implication is optimistic: if dismissiveness is a custom, it can be
+    replaced by a better one. Customs spread when they're shown to be lucrative.
+    The optimism norm in startup culture is spreading globally not because
+    people are getting more virtuous but because the returns are visible. This
+    is a lever — the right environment changes behavior faster than character
+    development does.
+stance: >-
+  The dismissal of new ideas is not deeply hardwired — it is a social custom
+  that evolved in the absence of selection pressure for innovation, and can be
+  unlearned as quickly as Silicon Valley's optimistic norms were learned.
+---
+Graham argues that humans have little experience with early versions of ambitious projects as a species. Innovation was historically too slow to generate social norms for evaluating it. So we defaulted to judging new things by the standards for finished things — a poor fit. The skepticism isn't moral or deeply psychological; it's a missing custom.
+
+Silicon Valley proves the inverse: a culture deliberately built around evaluating nascent ideas has outperformed the rest of the world on innovation outcomes. Even if that culture is partly self-interested (investors need founders to succeed), the customs it encodes — treating new ideas as challenges to imagination rather than lists of reasons they won't work — actually work better.
+
+The implication is optimistic: if dismissiveness is a custom, it can be replaced by a better one. Customs spread when they're shown to be lucrative. The optimism norm in startup culture is spreading globally not because people are getting more virtuous but because the returns are visible. This is a lever — the right environment changes behavior faster than character development does.

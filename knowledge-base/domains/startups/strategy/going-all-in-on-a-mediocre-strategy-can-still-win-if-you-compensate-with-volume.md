@@ -58,6 +58,16 @@ related:
   - INS-260404-47F5
   - INS-260404-B04F
   - INS-260404-8256
+evidence:
+  - id: INS-260330-8BF6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-EC33
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-B20E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and oxygen scarce, making its lack of specificity irrelevant. When oxygen levels rose and RuBisCo started grabbing O2 instead of CO2 half the time, plants had already built their entire metabolic infrastructure around it. Rather than re-engineer, they simply produced massive quantities and evolved workarounds for the toxic byproduct.
 

@@ -54,6 +54,10 @@ related:
   - INS-260404-3E82
   - INS-260404-57E3
   - INS-260404-AB9A
+evidence:
+  - id: INS-260404-1EA6
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 By stocking only 4,000 unique items compared to Walmart's 140,000, Costco turns scarcity of shelf space into a negotiating weapon. Suppliers compete aggressively to be one of only one or two choices per category, willingly lowering prices and even re-engineering products (e.g., redesigning cashew containers to save 24,000 pallets/year).
 

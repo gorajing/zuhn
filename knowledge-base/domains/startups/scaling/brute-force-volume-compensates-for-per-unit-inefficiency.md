@@ -75,6 +75,12 @@ evidence:
   - id: INS-260330-033A
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-05D8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-EC33
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Rather than evolving a more efficient carbon-fixation enzyme, plants simply produce staggering quantities of RuBisCo — an estimated 40 billion tons active on Earth at any time, making it the most abundant protein on the planet. The strategy works: despite ~50% error rates, sheer volume ensures enough carbon gets fixed.
 

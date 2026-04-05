@@ -61,6 +61,11 @@ related:
   - INS-260404-1C01
   - INS-260404-D1F6
   - INS-260404-F69A
+  - INS-260405-0591
+evidence:
+  - id: INS-260404-F69A
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 The Calvin Cycle's economics are striking: for every 3 CO2 molecules fixed, the cycle produces 6 molecules of G3P (the useful sugar precursor), but 5 of those 6 must be immediately recycled to regenerate the 3 RuBP molecules needed to restart the cycle. The net yield is just 1 G3P per full turn — an 83% reinvestment rate.
 

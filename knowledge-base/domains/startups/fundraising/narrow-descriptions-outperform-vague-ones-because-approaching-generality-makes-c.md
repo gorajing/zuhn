@@ -60,6 +60,19 @@ related:
   - INS-260403-D5F2
   - INS-260403-B29D
   - INS-260403-5A4F
+evidence:
+  - id: INS-260404-4573
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-A0C4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-B274
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-21A8
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Founders resist narrow descriptions because early-stage startups have many possibilities and a concise label feels misleadingly limiting. But Graham identifies a mathematical reality: as you approach a description of something that could be anything, the content approaches zero. 'A system to collaboratively leverage the value of information' conveys nothing.
 

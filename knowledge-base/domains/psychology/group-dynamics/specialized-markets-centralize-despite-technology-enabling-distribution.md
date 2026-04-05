@@ -52,6 +52,7 @@ related:
   - INS-260403-E1E4
   - PRI-260328-1D90
   - INS-260330-DDF0
+  - INS-260405-225B
 ---
 Even with all modern communication tools available, traders still cluster in financial centers and startup people cluster in Silicon Valley. Graham notes you can walk down University Ave and overhear five simultaneous deal conversations — this ambient density of domain-specific activity creates serendipitous connections and competitive urgency that distributed environments lack.
 

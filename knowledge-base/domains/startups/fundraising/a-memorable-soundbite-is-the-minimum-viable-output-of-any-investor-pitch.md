@@ -59,6 +59,10 @@ related:
   - INS-260403-FC45
   - INS-260404-0AF3
   - INS-260403-941F
+evidence:
+  - id: INS-260404-3713
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Professional investors hear enormous volumes of pitches that blur together. Before any deep evaluation happens, the first filter is simply: do they remember you? A descriptive phrase — typically 'the X of Y' in startups or 'X meets Y' in Hollywood — serves as a cognitive anchor that survives the blur.
 

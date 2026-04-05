@@ -60,6 +60,13 @@ related:
   - INS-260404-3879
   - INS-260404-9E71
   - INS-260404-06C4
+evidence:
+  - id: INS-260403-C2CF
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-1EB3
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Sequoia looks for the 'proxy for demand' — what are people doing now with inadequate tools that proves they need what you're making? This is more convincing than any TAM slide because it addresses the fundamental risk investors perceive at early stage: that the product was built from a priori theories rather than observed need.
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3954 actionable insights
+Generated on 2026-04-05 | 3965 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1058,6 +1058,7 @@ Generated on 2026-04-05 | 3954 actionable insights
 - [INS-260404-CE92] When a topic becomes part of someone's identity, they become constitutionally incapable of reasoning about it clearly.
 - [INS-260404-B8D9] Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
 - [INS-260404-E185] Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
+- [INS-260405-9F38] Optional subscriptions self-select for rational evaluators who keep comparing prices; mandatory ones commit everyone equally.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1088,6 +1089,8 @@ Generated on 2026-04-05 | 3954 actionable insights
 - [INS-260404-18F1] Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
 - [INS-260404-61E0] If you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused — the compression exercise is diagnostic, not just cosmetic.
 - [INS-260404-B87E] Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
+- [INS-260405-76E4] Investors without technical depth use founder confidence as a proxy for product quality.
+- [INS-260405-AC51] Investors who hear many pitches need a single phrase to remember you by — creating one is table stakes for recall.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1160,6 +1163,7 @@ Generated on 2026-04-05 | 3954 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
+- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -2993,6 +2997,9 @@ Generated on 2026-04-05 | 3954 actionable insights
 - [INS-260404-E36F] Early-stage business models are almost certainly wrong, so time spent on them displaces discussion of the problem and product where founders actually have insight.
 - [INS-260404-187C] Explicit confidence claims get ignored or trigger bullshit detection, while implicit confidence through substance and demeanor is the primary signal investors use.
 - [INS-260404-8258] Specific narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- [INS-260405-4FC0] At early stage, detailed business model discussion consumes time from your strong suit and exposes your weak one.
+- [INS-260405-F9EC] Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.
+- [INS-260405-466C] As a pitch description expands to cover every possibility, its information content approaches zero.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3218,6 +3225,7 @@ Generated on 2026-04-05 | 3954 actionable insights
 - [INS-260404-0572] Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
 - [INS-260404-886C] Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.
 - [INS-260404-AE2E] Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
+- [INS-260405-C8BC] Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3323,6 +3331,7 @@ Generated on 2026-04-05 | 3954 actionable insights
 - [INS-260404-0240] Company culture is an operating system that must be deliberately architected, not left to chance.
 - [INS-260404-2DB4] Companies must reinvent while successful because decline eliminates the resources needed for transformation.
 - [INS-260404-8256] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
+- [INS-260405-5617] When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3629,6 +3638,7 @@ Generated on 2026-04-05 | 3954 actionable insights
 - [INS-260404-C720] Start by making a few users love you rather than many users tolerate you.
 - [INS-260404-8E0B] Oxygen — the molecule enabling all animal life — is just a waste product of photosynthesis, which exists to make glucose for plants.
 - [INS-260404-1E47] The customer profile (jobs, pains, gains) should drive value proposition design, not the other way around.
+- [INS-260405-8B89] RuBisCo is slow, makes errors half the time in modern atmospheres, and produces toxic waste—yet plants compensate by making it the single most abundant protein on Earth (estimated 40 billion tons), making it the dominant carbon-fixing mechanism on the planet by sheer volume.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3976,6 +3986,7 @@ Generated on 2026-04-05 | 3954 actionable insights
 - [INS-260404-E65A] Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.
 - [INS-260404-86F8] Costco's $60 membership fee, confusing layouts, and bulk-only quantities each filter for affluent, high-spending customers who become loyal advocates.
 - [INS-260404-5587] Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
+- [INS-260405-225B] SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

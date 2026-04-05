@@ -59,6 +59,10 @@ related:
   - INS-260403-05DF
   - INS-260403-24F0
   - INS-260404-22B3
+evidence:
+  - id: INS-260403-E4C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham identifies a fundamental asymmetry in persuasion: explicit claims about your own qualities ('we're passionate,' 'our product is great') get filtered out or mark you as a bullshitter, while implicit signals of the same qualities—enthusiasm in your voice, conviction in your framing, willingness to be candid about unknowns—register as authentic.
 

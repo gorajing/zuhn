@@ -54,6 +54,13 @@ related:
   - INS-260403-D85D
   - INS-260404-D8A5
   - INS-260404-8050
+evidence:
+  - id: INS-260330-C607
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-D8A5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen was literally waste — the video calls it 'the most useful useless byproduct in history.' Yet this waste product transformed Earth's atmosphere, enabled aerobic respiration, and made all animal life possible. The byproduct became orders of magnitude more consequential than the primary product.
 

@@ -57,5 +57,9 @@ related:
   - INS-260403-48BF
   - INS-260403-E51B
   - INS-260403-2F4E
+evidence:
+  - id: INS-260403-E4C6
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Graham identifies a key asymmetry in investor evaluation: most audience members lack the technical background to evaluate early-stage products directly, so they rely heavily on proxy signals. The founder's own confidence becomes 'probably the single biggest piece of evidence' investors use. But this must be shown, not told. Explicit claims like 'we're passionate' trigger a bullshit filter — people either ignore the statement or actively write you off. The same message delivered implicitly through demeanor, pace, and framing passes through unchallenged. This maps to a broader principle in persuasion: stated claims invite scrutiny while demonstrated qualities invite trust. The test Graham proposes is genuinely believing you're doing investors a favor by letting them invest.

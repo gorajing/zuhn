@@ -52,6 +52,19 @@ related:
   - INS-260404-8E0B
   - INS-260404-F8E6
   - INS-260403-FDD8
+evidence:
+  - id: INS-260404-D0A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-90B6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-8E0B
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-5C74
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Photosynthesis evolved to fix carbon and produce glucose for plant energy storage. Oxygen is generated as a byproduct of water-splitting in Photosystem II, essentially molecular waste that plants need to expel. Yet this 'waste' product fundamentally transformed Earth's atmosphere and enabled the evolution of all aerobic life.
 

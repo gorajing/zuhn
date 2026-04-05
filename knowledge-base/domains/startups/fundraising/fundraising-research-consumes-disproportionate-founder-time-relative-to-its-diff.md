@@ -62,6 +62,10 @@ stance: >-
   Most founders spend more time researching investors than talking to them,
   which means the bottleneck in fundraising is information organization, not
   information availability.
+evidence:
+  - id: INS-260330-3AB4
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The article opens with a pointed observation: founders spend six weeks building investor spreadsheets and another month on poorly targeted cold emails. This is a resource allocation failure, not an information scarcity problem. The investor landscape is well-documented; what's missing is founders' awareness of aggregated resources and a systematic approach to using them.
 

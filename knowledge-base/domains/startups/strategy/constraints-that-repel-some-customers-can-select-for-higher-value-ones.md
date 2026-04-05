@@ -56,6 +56,25 @@ related:
   - INS-260404-B435
   - INS-260404-6E47
   - INS-260404-5587
+evidence:
+  - id: INS-260403-137D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-0CF7
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-5587
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-747B
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-B435
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-01B1
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Costco's membership fee appears to be a fatal obstacle to customer acquisition, but it actually functions as a demographic filter. The $60-120 annual fee selects for households with ~$100K average income—customers with both the means and intent to spend significantly. Business owners, who constitute one-third of members but generate two-thirds of sales, are attracted by bulk quantities and low per-unit costs.
 

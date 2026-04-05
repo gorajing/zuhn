@@ -56,7 +56,22 @@ related:
   - INS-260404-F560
   - INS-260404-D543
   - INS-260404-FE9F
-  - INS-260404-D752
+evidence:
+  - id: INS-260404-C03F
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-6712
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-F560
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-D543
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-FE9F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Founders resist narrow descriptions because early-stage products have many possible futures. But vague descriptions ('a system to collaboratively leverage information') register as meaningless boilerplate. Investors discard them and wait impatiently for something concrete.
 

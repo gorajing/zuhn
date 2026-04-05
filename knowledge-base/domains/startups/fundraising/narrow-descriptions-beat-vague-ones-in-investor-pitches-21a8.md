@@ -59,6 +59,19 @@ related:
   - INS-260404-4573
   - INS-260403-5A4F
   - INS-260403-D5F2
+evidence:
+  - id: INS-260403-A0C4
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-B274
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-4573
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-8258
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Founders resist narrow descriptions because early-stage startups have many possible directions, and a concise label feels like it cuts off optionality. But Graham argues this is backwards — the more expansive the description, the less information it contains. Saying 'a system to collaboratively leverage the value of information' communicates nothing, while 'an easy web-based database' gives investors a concrete mental model they can evaluate.
 

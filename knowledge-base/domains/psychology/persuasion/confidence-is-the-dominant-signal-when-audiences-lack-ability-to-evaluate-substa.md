@@ -59,5 +59,9 @@ related:
   - INS-260404-37F7
   - INS-260404-F965
   - INS-260404-5A3D
+evidence:
+  - id: INS-260403-4363
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Graham identifies a fundamental asymmetry in investor presentations: the audience often lacks the technical background to evaluate the product, and the time is too short for deep analysis. In this information-poor environment, the presenter's own conviction becomes a dominant signal. This isn't about bluster — Graham explicitly warns against saying 'we're passionate' or 'our product is great,' which gets you written off as a bullshitter. Instead, confidence must be implicit and demonstrated through how you present. The interesting corollary: if you don't genuinely believe you're doing investors a favor by letting them invest, that lack of conviction leaks through. This pattern extends well beyond pitching — any time an audience must make judgments under information scarcity, the presenter's projected confidence fills the evaluation gap.

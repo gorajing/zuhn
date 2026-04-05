@@ -48,7 +48,7 @@ related:
   - INS-260403-39B0
   - INS-260404-1BFF
   - INS-260403-2204
+  - INS-260405-466C
   - INS-260403-208D
-  - INS-260403-B29D
 ---
 When founders try to capture the full possibility space of their startup, the description approaches meaninglessness. Investors hear 'a system to collaboratively leverage information' and mentally discard it. The counterintuitive move is to start with a description that feels too narrow—'an easy web-based database'—because it gives investors a concrete mental model to anchor on. You can flesh it out afterward, but only once they have something to hold onto. This mirrors incremental development: always have 'working code' in the investor's head, even if it's a simplified version of the full vision.

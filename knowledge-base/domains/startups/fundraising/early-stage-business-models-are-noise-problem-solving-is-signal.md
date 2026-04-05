@@ -58,6 +58,10 @@ related:
   - INS-260404-32B5
   - INS-260403-13ED
   - INS-260403-1DB7
+evidence:
+  - id: INS-260404-5721
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong — expecting it to change three times before they got it right. The founders were experienced repeat entrepreneurs who'd just raised millions, and even their model was crap. He invested anyway because at this stage, business models are just guesses about things outside the founders' expertise.
 

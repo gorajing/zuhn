@@ -82,6 +82,9 @@ evidence:
   - id: INS-260325-D033
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-9F4B
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when Earth's atmosphere had minimal oxygen. As photosynthesis itself increased atmospheric oxygen levels, RuBisCo began confusing O2 for CO2 roughly half the time, producing toxic phosphoglycolate. Plants had to evolve entirely new enzymatic pathways (photorespiration) just to clean up this byproduct — infrastructure that exists solely to manage a legacy design flaw.
 

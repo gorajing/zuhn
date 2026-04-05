@@ -56,5 +56,9 @@ related:
   - INS-260404-10FF
   - INS-260404-4605
   - INS-260404-5483
+evidence:
+  - id: INS-260403-1852
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Graham recounts a VC who invested in a company while openly expecting their business model to change three times. The founders were experienced repeat entrepreneurs backed by a top firm, and even their model was 'crap.' This reveals a fundamental asymmetry: the problem space and product are where founders have genuine expertise and credibility, while business model projections are guesses outside their domain. Worse, a spectacularly wrong business model creates a negative anchor — investors remember you as 'the company with the boneheaded monetization plan' instead of 'the company that solved that important problem.' The optimal strategy is to mention monetization briefly to show you've thought about it, then redirect to substance.

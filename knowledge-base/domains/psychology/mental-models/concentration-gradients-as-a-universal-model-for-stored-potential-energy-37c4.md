@@ -58,6 +58,13 @@ related:
   - INS-260403-172E
   - INS-260403-DE05
   - INS-260404-BDE5
+evidence:
+  - id: INS-260330-1677
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-7E39
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane maintains a proton concentration gradient — high inside, low outside. When protons flow back through ATP synthase to equalize, that flow powers the creation of ATP. The membrane's ability to resist equalization is what makes energy storage possible.
 

@@ -60,6 +60,10 @@ related:
   - INS-260403-D7C4
   - INS-260403-2E90
   - INS-260404-93E3
+evidence:
+  - id: INS-260404-BD17
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong and would change three times—the founders were experienced with prior exits, and their model was still crap. He invested anyway because that's expected at this stage.
 

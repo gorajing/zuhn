@@ -41,8 +41,8 @@ stance: >-
 related:
   - INS-260325-AA15
   - INS-260325-785D
+  - INS-260405-174B
   - PRI-260328-7FC4
   - PRI-260328-40CA
-  - INS-260330-2BA7
 ---
 Age spots (lipofuscin deposits) result from accumulated oxidative damage to cell membranes, driven by seed oil consumption and antioxidant deficiency, not chronological aging -- and can be prevented and reduced

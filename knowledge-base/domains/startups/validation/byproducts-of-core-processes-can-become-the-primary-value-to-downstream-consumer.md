@@ -58,6 +58,16 @@ related:
   - INS-260403-D85D
   - INS-260403-882A
   - INS-260330-E786
+evidence:
+  - id: INS-260330-3AB4
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260330-C607
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-D85D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The video explicitly calls oxygen 'the most useful useless byproduct in the history of useless byproducts.' Plants split water molecules to replenish lost electrons — oxygen is just waste. Yet this waste product enabled the entire aerobic ecosystem, including every animal that has ever lived. The byproduct became more consequential than the intended product (glucose for the plant).
 

@@ -59,6 +59,13 @@ related:
   - INS-260404-7B3A
   - INS-260404-3EA3
   - INS-260404-B350
+evidence:
+  - id: INS-260404-36D7
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-7F16
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Costco's extreme SKU limitation — roughly 4,000 items versus 30,000 at a typical supermarket or 140,000 at Walmart — creates a counterintuitive advantage. By offering only one or two choices per category, Costco concentrates its purchasing volume into far fewer products. Suppliers compete intensely for those limited slots, offering lower prices and even reengineering products (like the cashew container redesign saving 24,000 pallets annually) to win placement.
 

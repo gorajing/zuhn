@@ -54,10 +54,10 @@ stance: >-
   systems that try to do both simultaneously.
 related:
   - INS-260404-9428
+  - INS-260405-C780
   - INS-260404-9C57
   - INS-260404-0214
   - INS-260330-E8CF
-  - PRI-260403-181B
   - INS-260403-8125
 evidence:
   - id: INS-260330-BC56

@@ -49,11 +49,11 @@ stance: >-
   ambitious-sounding vague one because vague descriptions approach zero
   information content
 related:
+  - INS-260405-466C
   - INS-260404-8AB9
   - INS-260403-39B0
   - INS-260403-6712
   - INS-260404-D543
-  - INS-260404-0BB0
 ---
 Founders resist narrow descriptions because early-stage products have many possibilities, and concise framing feels misleadingly limiting. But Paul Graham argues this is a calculus problem: as you approach a description of something that could be anything, the content of your description approaches zero. Investors will discard phrases like 'collaboratively leverage the value of information' as meaningless.
 

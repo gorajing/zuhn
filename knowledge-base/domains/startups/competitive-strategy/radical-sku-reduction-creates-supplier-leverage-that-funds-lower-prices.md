@@ -55,7 +55,10 @@ related:
   - INS-260404-57E3
   - INS-260403-C1A5
   - INS-260404-1B66
-  - INS-260404-DFE8
+evidence:
+  - id: INS-260404-AB9A
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 By stocking only 1-2 options per product category instead of dozens, Costco concentrates its entire purchasing volume into those few items. Suppliers compete fiercely for those limited slots, accepting lower margins and even re-engineering products (like the cashew container redesign that saved 24,000 pallets/year) to win or keep Costco's business.
 

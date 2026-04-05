@@ -60,6 +60,13 @@ related:
   - INS-260404-5587
   - INS-260404-E65A
   - INS-260404-86F8
+evidence:
+  - id: INS-260403-747B
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-164F
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Costco turns three apparent obstacles into advantages. The $60 membership fee selects for affluent households (average income ~$100K) and triggers sunk-cost commitment. The confusing warehouse layout forces customers to wander through aisles, increasing exposure and impulse purchases. Bulk-only quantities attract business owners who represent one-third of members but two-thirds of sales.
 

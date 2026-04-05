@@ -52,7 +52,6 @@ stance: >-
   because the cortisol elevation accelerates muscle loss, immune suppression,
   and cancer risk
 related:
-  - INS-260325-785D
   - INS-260327-7000
   - INS-260327-AD25
   - PRI-260328-AF97

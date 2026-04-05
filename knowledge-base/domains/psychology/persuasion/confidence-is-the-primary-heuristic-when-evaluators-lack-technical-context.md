@@ -59,6 +59,10 @@ related:
   - INS-260404-EBB3
   - INS-260403-4337
   - INS-260404-5017
+evidence:
+  - id: INS-260404-438C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Most investors at Demo Day lack the technical background to independently evaluate what a startup has built, and the time constraint (ten minutes) makes deep evaluation impossible anyway. In this information-poor environment, investors fall back on heuristic signals, and the strongest one is the founder's own conviction.
 

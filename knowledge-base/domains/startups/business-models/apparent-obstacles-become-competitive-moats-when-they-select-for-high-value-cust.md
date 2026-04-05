@@ -50,5 +50,12 @@ related:
   - INS-260403-2C00
   - INS-260404-B435
   - INS-260403-C40D
+evidence:
+  - id: INS-260403-B8CD
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-64E7
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 The membership fee appears to be an obstacle to customer acquisition — why would anyone pay to shop? But it functions as a filter that selects for committed, affluent customers (average household income ~$100K) and business owners who account for two-thirds of sales. The sunk-cost psychology then locks them in: once you've paid, you consolidate purchases at Costco to justify the fee. This self-selection creates a customer base that spends more per visit, renews at 90%, and is structurally harder for competitors to poach because switching means abandoning sunk costs. The broader pattern: what looks like friction can be a feature when it selects for a more valuable customer segment.

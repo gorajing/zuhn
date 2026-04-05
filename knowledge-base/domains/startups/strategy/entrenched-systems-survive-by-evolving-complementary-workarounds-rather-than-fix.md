@@ -51,7 +51,6 @@ stance: >-
   than competitors can offer clean replacements, making the messy incumbent
   increasingly hard to displace
 related:
-  - INS-260325-0895
   - INS-260330-40DA
   - INS-260403-8653
   - INS-260404-E6F9

@@ -56,9 +56,37 @@ related:
   - INS-260403-83A8
   - INS-260403-0DC2
   - INS-260404-1843
-  - INS-260404-37BB
   - INS-260404-4B5D
   - INS-260404-6BA2
+  - INS-260404-8C84
+evidence:
+  - id: INS-260404-4B5D
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-1843
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-8C84
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-180D
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-887A
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-0DC2
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-6BA2
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-E981
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-222A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Costco's radical curation — roughly 4,000 unique items compared to 30,000 at a typical supermarket or 140,000 at Walmart — creates a counterintuitive competitive advantage. By offering only one or two choices per category, suppliers compete intensely for those limited slots, willingly lowering prices and even reengineering products (like the cashew container redesign that saved 24,000 pallets annually).
 

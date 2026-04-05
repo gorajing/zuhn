@@ -58,6 +58,13 @@ related:
   - INS-260404-3B9D
   - INS-260404-1000
   - INS-260404-26AE
+evidence:
+  - id: INS-260403-EDA2
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-3B9D
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, is famously inefficient — it confuses oxygen for CO2 roughly half the time, producing a toxic byproduct plants must actively detoxify. Yet it became the foundation of nearly all life on Earth because the organisms that evolved it simply produced massive quantities to compensate for its poor performance.
 

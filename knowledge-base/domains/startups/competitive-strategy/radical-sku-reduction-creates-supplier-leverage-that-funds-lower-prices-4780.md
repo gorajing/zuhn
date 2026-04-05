@@ -52,6 +52,19 @@ related:
   - INS-260404-222A
   - INS-260404-8C84
   - INS-260404-6BA2
+evidence:
+  - id: INS-260403-180D
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-222A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-4B5D
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-6670
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 By offering only one or two choices per category instead of dozens, Costco transforms each product slot into a winner-take-all competition among suppliers. Brands will lower prices and re-engineer products (like redesigning cashew containers to save 24,000 pallets/year) just to be the chosen option in Costco's limited selection.
 

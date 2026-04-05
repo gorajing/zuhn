@@ -56,6 +56,7 @@ related:
   - PRI-260325-2800
   - PRI-260328-F6DE
   - INS-260327-A478
+  - INS-260405-174B
 ---
 Phenotypic age captures how your physiology is aging relative to your chronological age, using biomarkers from standard blood panels: liver function, kidney function, metabolic health, lipids, inflammation, and immune markers. Free online calculators accept these nine values and output your phenotypic age. Most people fall within plus or minus five years of their chronological age, though outliers of 10-20 years exist.
 

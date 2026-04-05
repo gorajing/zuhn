@@ -56,6 +56,7 @@ related:
   - INS-260403-7FBE
   - INS-260403-BDBE
   - INS-260404-96C6
+  - INS-260405-AC51
 ---
 Professional investors hear so many pitches that they blur together. The first cut in fundraising is simply being remembered, and the mechanism for that is a descriptive phrase that sticks — typically 'the X of Y' format (Viaweb was 'the Microsoft Word of ecommerce'). This phrase should be launched clearly but apparently casually, preferably near the beginning of the talk.
 

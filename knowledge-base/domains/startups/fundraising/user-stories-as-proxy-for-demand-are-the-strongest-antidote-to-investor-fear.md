@@ -57,6 +57,10 @@ related:
   - INS-260404-29F4
   - INS-260403-035A
   - INS-260404-817A
+evidence:
+  - id: INS-260404-29F4
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Sequoia's Greg Mcadoo calls it the 'proxy for demand' — evidence that people are currently using inadequate tools to solve the problem you're addressing. This is more convincing than TAM slides because it demonstrates pull rather than projected push. The hierarchy of user stories is clear: your own need (Apple, Microsoft, Google all started this way), then needs of people you know personally, then observed behavior of strangers.
 

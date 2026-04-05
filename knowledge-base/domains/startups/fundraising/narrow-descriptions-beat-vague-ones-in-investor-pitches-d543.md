@@ -58,6 +58,25 @@ related:
   - INS-260404-C03F
   - INS-260404-A450
   - INS-260404-1BFF
+evidence:
+  - id: INS-260404-FE9F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-F560
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-0BB0
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-A450
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-72EE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-6712
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Founders resist concise descriptions because early-stage startups have many possibilities, and a tight description feels misleadingly narrow. But Graham argues this instinct is backwards: as you approach a description of something that could be anything, the content approaches zero. Investors will discard vague language like 'collaboratively leverage the value of information' as meaningless boilerplate.
 

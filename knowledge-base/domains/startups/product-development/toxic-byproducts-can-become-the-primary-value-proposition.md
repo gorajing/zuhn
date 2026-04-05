@@ -64,6 +64,15 @@ evidence:
   - id: INS-260330-E786
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-8050
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-D85D
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-882A
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen was explicitly described as 'the most useful useless byproduct in the history of useless byproducts' — a waste gas that plants needed to expel through stomata. Yet this byproduct enabled the entire kingdom of aerobic life, fundamentally reshaping Earth's atmosphere and making complex multicellular organisms possible.
 

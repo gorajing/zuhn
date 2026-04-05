@@ -59,7 +59,7 @@ related:
   - INS-260403-D7C4
   - INS-260404-B43A
   - INS-260404-9710
-  - INS-260404-4B69
+  - INS-260405-4FC0
 ---
 Graham relays a VC who invested in a company whose business model he expected to change three times. The founders were experienced and well-funded, yet their business model was still wrong. This reveals that sophisticated investors discount early business models entirely—they're evaluating the team's understanding of the problem space, not their revenue projections.
 

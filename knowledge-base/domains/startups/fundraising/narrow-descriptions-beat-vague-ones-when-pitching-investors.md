@@ -49,5 +49,6 @@ related:
   - INS-260404-C03F
   - INS-260404-FE9F
   - INS-260404-8AB9
+  - INS-260405-466C
 ---
 Founders resist narrow descriptions because their early-stage product could evolve in many directions. But vague descriptions like 'a system to collaboratively leverage the value of information' register as meaningless boilerplate—investors discard them instantly. The correct approach mirrors incremental development: start with a gripping but perhaps overly narrow description, then flesh it out. At every point you should have a 'working description' in the investor's head, just as you should always have working code. The goal isn't to describe everything you might become, but to be compelling enough to warrant a follow-up conversation.

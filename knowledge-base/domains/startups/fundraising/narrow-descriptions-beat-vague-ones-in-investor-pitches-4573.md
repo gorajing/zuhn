@@ -55,6 +55,13 @@ related:
   - INS-260403-B29D
   - INS-260404-9F1D
   - INS-260404-8258
+evidence:
+  - id: INS-260404-8258
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-21A8
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Founders resist narrow descriptions because their product could become many things. But as a description approaches 'could be anything,' its information content approaches zero. Investors will discard vague language like 'collaboratively leverage the value of information' and wait impatiently for you to say what you actually built.
 

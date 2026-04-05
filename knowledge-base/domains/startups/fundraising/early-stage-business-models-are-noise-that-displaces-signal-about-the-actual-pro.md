@@ -56,6 +56,10 @@ related:
   - INS-260404-BD17
   - INS-260404-5D3B
   - INS-260403-1852
+evidence:
+  - id: INS-260404-BD17
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 A VC speaking at Y Combinator admitted investing in a company whose business model he knew was wrong, expecting it to change three times before they got it right — and these were experienced repeat founders. The business model at seed stage is inherently a collection of guesses about domains that aren't the founders' expertise.
 

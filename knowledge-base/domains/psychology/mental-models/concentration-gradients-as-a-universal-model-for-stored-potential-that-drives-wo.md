@@ -62,6 +62,13 @@ related:
   - INS-260404-F7C5
   - INS-260404-59B6
   - INS-260404-BDE5
+evidence:
+  - id: INS-260330-1677
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-BDE5
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the electron transport chain pumps protons into the thylakoid interior, creating a concentration gradient. These protons 'want' to equalize, and the only exit is through ATP synthase — an enzyme that harnesses their flow to produce ATP. The thylakoid functions as a biological battery: charge it by creating asymmetry, discharge it through a constrained channel that captures useful work.
 

@@ -50,7 +50,6 @@ stance: >-
   cells) but not oxidation (burning it in mitochondria), meaning mobilized fat
   simply returns to storage without completing the second step
 related:
-  - INS-260327-E5BC
   - PRI-260328-40CA
   - INS-260330-8A2E
   - INS-260404-F8E6

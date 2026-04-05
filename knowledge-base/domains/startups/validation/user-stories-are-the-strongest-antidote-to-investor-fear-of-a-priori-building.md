@@ -57,6 +57,13 @@ related:
   - INS-260404-3879
   - INS-260404-9E71
   - INS-260404-9A82
+evidence:
+  - id: INS-260403-1EB3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-3217
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Sequoia's Greg Mcadoo looks for 'proxy for demand': what are people doing now with inadequate tools that proves they need what you're making? This reframes validation from 'do people want this?' to 'look at the workarounds people already use.' Another strong signal is when people pay a lot for existing solutions — a cheaper alternative to something popular is easy for investors to believe in.
 

@@ -48,12 +48,11 @@ stance: >-
   processes to pick winning ideas will systematically misallocate innovation
   resources
 related:
-  - INS-260329-8226
   - INS-260402-62E3
-  - INS-260403-343D
   - PRI-260403-E023
   - INS-260403-910E
   - PRI-260327-5635
+  - INS-260329-8226
 ---
 A critical failure mode in corporate innovation is when senior leaders override the testing and evidence-gathering process to champion pet projects or kill uncomfortable findings. This is an innovation practice problem—the third pillar of culture change alongside leadership support and organizational design.
 

@@ -59,6 +59,16 @@ related:
   - INS-260403-C514
   - INS-260403-05D8
   - INS-260404-B04F
+evidence:
+  - id: INS-260403-05D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-B20E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-8BF6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 RuBisCo is estimated at 40 billion tons on Earth at any given time, making it the most abundant protein on the planet. Plants adopted a pure volume strategy: if each molecule only works half the time, make astronomically more of them. This wasn't a failure of optimization — it was the optimal response given the constraint that no better carbon-fixation enzyme evolved.
 

@@ -53,5 +53,9 @@ related:
   - INS-260404-8660
   - INS-260403-8013
   - INS-260404-873C
+evidence:
+  - id: INS-260403-74EA
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Paul Graham argues that as you approach a description of something that could be anything, the information content of your description approaches zero. Investors will discard vague statements like 'collaboratively leverage the value of information' as meaningless boilerplate. The solution is to treat pitching like incremental development: start with a gripping but perhaps overly narrow description, then flesh it out. At every point you should have a 'working description' in the investor's head, just as at every point in development you should have working code. This is counterintuitive because founders feel a narrow description undersells their vision, but it's the only way to get past the initial filter of investor attention.

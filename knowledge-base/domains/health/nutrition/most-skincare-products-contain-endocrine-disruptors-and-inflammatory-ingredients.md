@@ -50,7 +50,7 @@ related:
   - INS-260325-5501
   - PRI-260325-2800
   - INS-260325-72B6
-  - INS-260327-5943
+  - INS-260405-174B
   - INS-260327-E5BC
 ---
 The 11 things to never put on your face: 1) Sodium lauryl sulfate (strips skin barrier), 2) Parabens (estrogen mimics), 3) Synthetic fragrances (contain phthalates), 4) Formaldehyde releasers, 5) Oxybenzone sunscreen (endocrine disruptor), 6) Retinol without sun protection (photosensitizing), 7) Alcohol-based toners (destroy moisture barrier), 8) Petroleum-based products (trap toxins), 9) Synthetic dyes, 10) Triclosan (disrupts thyroid), 11) Microbeads (environmental and pore damage). Better alternatives: natural oils (jojoba, argan), mineral sunscreen (zinc oxide), vitamin C serum, and addressing skin health from the inside with collagen, vitamin A, and hydration.

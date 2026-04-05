@@ -59,6 +59,10 @@ related:
   - INS-260403-3946
   - INS-260403-D518
   - INS-260403-C436
+evidence:
+  - id: INS-260330-6ECA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 RuBisCo, the most abundant protein on Earth (~40 billion tons), fails at its job nearly half the time — grabbing oxygen instead of CO2 and producing toxic byproducts. Yet plants never evolved a replacement. They committed to the RuBisCo strategy when atmospheric conditions were different, and by the time the environment changed (more oxygen), they had built their entire metabolic infrastructure around it. Instead of redesigning, they added workarounds.
 

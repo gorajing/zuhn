@@ -56,6 +56,13 @@ related:
   - INS-260403-20D6
   - INS-260404-9830
   - INS-260404-9882
+evidence:
+  - id: INS-260404-9830
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-20D6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 When founders try to capture every possible future of their product, the description's information content approaches zero. Investors mentally discard sentences like 'a system to collaboratively leverage the value of information' as meaningless boilerplate. Graham's counterintuitive advice: begin with a description that feels too narrow ('an easy web-based database') because it actually registers in the investor's mind. You can expand from there, but you can't un-bore someone.
 

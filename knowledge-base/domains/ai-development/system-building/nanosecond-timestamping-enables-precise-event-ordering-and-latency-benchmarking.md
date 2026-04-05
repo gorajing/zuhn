@@ -47,11 +47,11 @@ stance: >-
   as important as knowing what happened — precision timestamps are
   infrastructure, not instrumentation.
 related:
+  - INS-260405-5670
   - INS-260330-D483
   - INS-260325-2B76
   - INS-260329-33AA
   - INS-260325-2999
-  - INS-260330-3EFC
 evidence:
   - id: INS-260329-33AA
     type: TRANSFERS_TO

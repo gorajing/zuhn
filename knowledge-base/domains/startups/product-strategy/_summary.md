@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 60 insights
+> 61 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -57,6 +57,7 @@
 - `INS-260403-9B5D` [medium] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 - `INS-260330-6D59` [medium] Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward.
 - `INS-260403-B5C0` [medium] Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
+- `INS-260405-8B89` [medium] RuBisCo is slow, makes errors half the time in modern atmospheres, and produces toxic waste—yet plants compensate by making it the single most abundant protein on Earth (estimated 40 billion tons), making it the dominant carbon-fixing mechanism on the planet by sheer volume.
 - `INS-260403-6A69` [medium] Great hardware buys time against bad policies, but the reputational damage compounds while the hardware advantage doesn't.
 - `INS-260403-35CB` [medium] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260404-A850` [medium] Dynamic, AI-driven posture adjustment beats static security configurations because threat landscapes change faster than humans can respond.

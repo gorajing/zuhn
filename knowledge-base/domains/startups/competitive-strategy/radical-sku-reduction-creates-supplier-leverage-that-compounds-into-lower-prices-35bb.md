@@ -56,6 +56,13 @@ related:
   - INS-260404-72F5
   - INS-260403-36D8
   - INS-260404-3EA3
+evidence:
+  - id: INS-260403-E143
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-7F16
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 By offering only one or two options per product category instead of dozens, Costco creates a winner-take-all dynamic among suppliers. Brands compete fiercely to be selected, accepting lower margins and even re-engineering products (like redesigning cashew containers to save 24,000 pallets annually) to win or keep the slot.
 

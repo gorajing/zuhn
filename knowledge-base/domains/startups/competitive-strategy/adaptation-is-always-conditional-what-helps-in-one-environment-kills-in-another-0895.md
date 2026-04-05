@@ -48,10 +48,10 @@ stance: >-
   one environment can be instantly fatal in another.
 related:
   - INS-260403-3D7D
+  - INS-260405-7E85
   - INS-260404-581C
   - INS-260404-B7B6
   - INS-260403-B5E2
-  - INS-260403-1636
   - INS-260330-0027
 evidence:
   - id: INS-260330-57E6

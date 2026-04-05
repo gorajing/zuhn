@@ -55,5 +55,21 @@ related:
   - INS-260404-FE9F
   - INS-260404-8AB9
   - INS-260404-1BFF
+evidence:
+  - id: INS-260404-FE9F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-6712
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-A450
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-D543
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-F560
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes a calculus-like phenomenon in startup pitches: as a description becomes more general to capture all possibilities, its actual content shrinks toward zero. Investors hear 'a system to allow people to collaboratively leverage the value of information' and mentally discard it as boilerplate. The fix is to treat your pitch like incremental development — start with a narrow, gripping description that may feel reductive, then flesh it out. At every point you should have a 'working description' in the investor's head, just as you should always have working code. This is counterintuitive because founders feel a narrow description undersells their vision, but the alternative — saying nothing meaningful — is far worse.

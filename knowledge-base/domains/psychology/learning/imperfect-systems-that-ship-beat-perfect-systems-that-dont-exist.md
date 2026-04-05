@@ -55,6 +55,10 @@ related:
   - INS-260404-6F39
   - INS-260330-09DE
   - INS-260404-1A18
+evidence:
+  - id: INS-260404-6F39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The CrashCourse episode opens by noting photosynthesis 'actually rather sucks — it's complicated, inefficient and confusing.' Modern photosynthesis converts only about 3-6% of incident solar energy into chemical energy. Yet this inefficient process is the foundation of nearly all food chains and atmospheric oxygen.
 

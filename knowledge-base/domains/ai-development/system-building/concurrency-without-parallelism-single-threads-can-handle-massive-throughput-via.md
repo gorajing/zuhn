@@ -49,11 +49,10 @@ stance: >-
   eliminate thread synchronization overhead
 related:
   - INS-260320-D3D5
-  - INS-260329-CF48
   - INS-260329-C991
-  - INS-260329-05BB
   - INS-260329-71DE
   - INS-260330-A260
+  - INS-260329-CF48
   - INS-260329-D48B
 evidence:
   - id: INS-260320-D3D5
