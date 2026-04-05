@@ -1,11 +1,10 @@
 # Topic: product-development
 
-> 144 insights
+> 128 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
 - `INS-260330-16CD` [high] A dropdown asking users their emotional state was filled out 75.8% of the time and measurably reduced exclamation marks, curse words, and all-caps in support tickets.
-- `INS-260327-956D` [high] Using AI to convert HTML to JSON or restructure messy data sounds mundane but is the lubricant that makes all data science workflows frictionless.
 - `INS-260323-C90C` [high] True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.
 - `INS-260327-A8B6` [high] Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
 - `INS-260327-8388` [high] AI apps have lower daily-to-monthly active user ratios and worse retention than mobile peers, signaling that the transition from weekly tinkering to daily habit is the key unsolved product problem.
@@ -21,7 +20,6 @@
 - `INS-260323-A0CE` [high] If you combine genuine novelty in synthetic biology, robotics, material science, and computational design simultaneously, the output is guaranteed to be novel.
 - `INS-260403-0185` [high] The best products come from small, opinionated teams — committees produce bureaucratic compromises.
 - `INS-260329-ECB5` [high] Screenshot top competitors from the App Store before designing — users expect familiar patterns, not novel ones.
-- `INS-260330-094B` [high] Aerogel is extraordinary but shatters on impact — embedding it in fiberglass creates a flexible, practical blanket that NASA and industry actually use.
 - `INS-260330-851F` [high] Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
 - `INS-260323-FEDF` [high] You will never build better AI than OpenAI or Anthropic, but you can win with better contextual knowledge of a specific workflow or market.
 - `INS-260330-EF64` [high] Delay growing your user base because users create compatibility constraints that freeze your design and prevent the continuous redesign that produces quality.
@@ -65,11 +63,9 @@
 - `INS-260329-BCB7` [high] Mobile users are trained by existing apps — mimic their patterns and improve on them rather than inventing novel interactions.
 - `INS-260404-226F` [high] Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
 - `INS-260323-76B8` [high] Manifast CEO deliberately keeps the product focused on front-end software planning rather than expanding to project management — arguing that horizontal plays generate short-term sales but not sustainable value.
-- `INS-260330-5A13` [high] Study how your current system fails at the edges to discover what to build next.
 - `INS-260323-A7F6` [high] The most passionate (even abrasive) power users often make the best product builders — Blizzard secretly interviewed Jeff Kaplan over six months of lunches before hiring the guild leader who publicly told their competitor's devs to 'pull their heads out of their asses.'
 - `INS-260330-656A` [high] Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.
 - `INS-260330-1D9D` [high] Charge for your product as early as possible because paying customers give brutally honest feedback that free users won't.
-- `INS-260403-3F05` [high] RuBisCo shows how early design choices become permanent constraints that systems compensate around rather than replace.
 - `INS-260324-D5FE` [high] In an era where every fast food chain had given up on innovation, Popeye's chicken sandwich created a viral sensation that put the brand on par with KFC — proof that customers will always reward genuine product merit.
 - `INS-260325-78E9` [high] A professional hairdresser with no archaeology training solved the mystery of ancient Roman hairstyles that had stumped academics for centuries — embodied skill reveals what theory cannot.
 - `INS-260330-8D34` [high] A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.
@@ -77,14 +73,8 @@
 - `INS-260323-9393` [high] Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
 - `INS-260330-744E` [high] Domino's discovered that cutting from five pizza sizes to one and removing non-pizza items boosted profitability because customers simply bought more of the profitable items instead.
 - `INS-260330-2B45` [high] Ship a prototype fast and refine based on user reactions — the 'Hail Mary' strategy of planning extensively before building wastes millions.
-- `INS-260330-478C` [high] Playing recorded interviews for the team creates conviction that no summary or presentation can match.
 - `INS-260330-A6BE` [high] Record interviews and play them back to the team — the emotional impact of hearing real users creates alignment that summaries and data slides cannot.
 - `INS-260323-7DAE` [high] Boston Dynamics' breakthrough approach was reducing complex locomotion to a bouncing pogo stick — solve the simplified version first, then extrapolate.
-- `INS-260323-0919` [high] LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
-- `INS-260329-7F3D` [high] Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.
-- `INS-260329-7A39` [high] Good onboarding introduces one new idea at a time while keeping everything else familiar, preventing the double-confusion of new concepts in new interfaces.
-- `INS-260329-7B1D` [high] Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
-- `INS-260329-939E` [high] CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
 - `INS-260330-B7B1` [high] Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
 - `INS-260403-7732` [high] Selection from a large open pool surfaces better top-end quality than editorial curation, which dampens extremes.
 - `INS-260329-BE35` [high] Your sharding key is a frozen prediction about usage patterns — choose wrong, and resharding a live database is one of the hardest problems in production engineering.
@@ -94,7 +84,6 @@
 - `INS-260323-0AF3` [high] Creating mycelium leather is pointless if assembling the shoe still requires toxic glue — true sustainability demands solving the entire production chain from CO2 to compostable end product.
 - `INS-260323-E797` [high] Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius was making it controllable, not more powerful.
 - `INS-260330-8F0F` [high] Vuitton's breakthrough was replacing dome-top leather trunks with flat-top canvas ones that could stack — a logistics fix, not an aesthetic one.
-- `INS-260330-88DE` [high] The Indus Valley maintained identical brick ratios and drainage standards across 1500km without any evidence of kings or central government.
 - `INS-260330-6BAF` [high] The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
 - `INS-260327-8B5B` [high] Insta360 started in 360-degree video (a niche ignored after the VR bubble burst), observed skiers and cyclists organically adopting their camera for action sports, and followed that signal to become the global action camera leader.
 - `INS-260403-9D8A` [high] Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
@@ -125,15 +114,10 @@
 - `INS-260323-CD28` [high] Wikipedia works because everyone intuitively knows what an encyclopedia entry should look like — shared understanding of the goal enables collaboration without centralized control.
 - `INS-260327-58AC` [high] Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.
 - `INS-260330-C418` [medium] Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
-- `INS-260330-C2C4` [medium] Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.
-- `INS-260330-8BDA` [medium] Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.
-- `INS-260330-C134` [medium] Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260329-E208` [medium] CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
-- `INS-260329-5901` [medium] AI builds better apps when you start from known archetypes (CRM, e-commerce, SaaS) because its training data is dense with these patterns.
 - `INS-260403-8653` [medium] Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
 - `INS-260326-A0B4` [medium] Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
 - `INS-260323-6908` [medium] The codec avatar system crosses the uncanny valley by preserving human imperfections like freckles, asymmetry, and wrinkles rather than smoothing them out.
-- `INS-260404-8A18` [medium] Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
 - `INS-260329-AA76` [medium] Merge onboarding with the first real user action so users learn by doing, not by reading slides.
 - `INS-260323-19A8` [medium] Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260323-4AB5` [medium] Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.

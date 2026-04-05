@@ -15,11 +15,8 @@ tags:
   - strategy
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -48,8 +45,8 @@ stance: >-
   diagnostic failure reveals an underlying lack of strategic focus rather than a
   communication problem.
 related:
-  - INS-260327-62AB
   - INS-260330-FE14
+  - INS-260404-C0E6
   - INS-260403-BFD1
   - INS-260404-E0B5
   - INS-260403-26D3

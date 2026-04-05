@@ -58,14 +58,11 @@ related:
   - INS-260403-37C4
 evidence:
   - id: INS-260330-2E41
-    type: SUPPORTS
-    classified_at: '2026-04-05'
-  - id: INS-260404-BDE5
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260404-91A0
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-464D
+    relationship: RELATED
+  - id: INS-260330-666E
+    relationship: RELATED
 ---
 The thylakoid membrane accumulates protons from multiple sources: water splitting and the cytochrome complex both pump hydrogen ions into the lumen. This creates a concentration gradient — stored potential energy — that drives ATP synthase like water through a turbine. The key insight is that steady, low-energy inputs get converted into high-value burst outputs.
 

@@ -2,7 +2,6 @@
 
 - `INS-260323-2785` For most complex systems, there is no shortcut to predicting outcomes -- you must run the computation step by step, and science progresses by finding rare pockets where you can jump ahead.
 - `INS-260330-6C3D` A country's population age structure today reveals its economic reality 20-30 years from now with surprising accuracy.
-- `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
 - `INS-260327-D6C5` Asset markets are forward-looking predictions of the future, but when nobody knows what policies will be in effect next week, those predictions become meaningless noise.
 - `INS-260323-75A8` When a population is given no hope, no political agency, and increasing aggression for decades, violent escalation is not surprising — it's the predictable outcome of a pressure cooker with no release valve.
 - `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.

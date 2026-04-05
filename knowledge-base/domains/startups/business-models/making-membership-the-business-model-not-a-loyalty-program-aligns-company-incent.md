@@ -17,8 +17,8 @@ tags:
   - loyalty
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -52,11 +52,10 @@ stance: >-
   than margin-driven competitors
 related:
   - INS-260329-E333
-  - INS-260329-BA12
   - INS-260329-6D6C
   - INS-260329-41BC
-  - INS-260329-DBFE
   - INS-260330-CE2F
+  - INS-260325-3A04
 evidence:
   - id: INS-260329-BA12
     type: TRANSFERS_TO

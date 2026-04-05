@@ -54,12 +54,11 @@ stance: >-
   controlled channel is a universal engineering pattern that applies far beyond
   biology
 related:
-  - INS-260330-3C3C
-  - INS-260330-24BA
-  - INS-260404-46AA
-  - INS-260330-7FF3
-  - INS-260330-21A8
-  - INS-260405-6C1F
+  - INS-260330-FA36
+  - PRI-260403-70D0
+  - INS-260403-F249
+  - INS-260403-B6E6
+  - INS-260403-CD2A
 evidence:
   - id: INS-260330-24BA
     type: SUPPORTS

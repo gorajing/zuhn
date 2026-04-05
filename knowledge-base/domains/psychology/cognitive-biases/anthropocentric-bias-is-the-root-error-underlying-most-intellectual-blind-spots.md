@@ -52,11 +52,11 @@ stance: >-
   the assumption that events are organized around human purposes, not from
   adding more data to existing frameworks.
 related:
-  - INS-260330-28BE
   - INS-260325-DFA5
   - INS-260327-8936
   - INS-260326-DBEF
   - INS-260325-2F1E
+  - PRI-260328-D292
 evidence:
   - id: INS-260327-8936
     type: SUPPORTS

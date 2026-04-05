@@ -49,10 +49,10 @@ stance: >-
   representing a fundamentally new RL paradigm.
 related:
   - INS-260325-5F3B
+  - INS-260405-AFF7
   - PRI-260328-1ED1
   - INS-260325-20C4
   - PRI-260403-7585
-  - INS-260403-0350
 evidence:
   - id: INS-260403-0350
     type: TRANSFERS_TO

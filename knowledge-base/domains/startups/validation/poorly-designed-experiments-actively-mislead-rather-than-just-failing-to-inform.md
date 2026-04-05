@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260323-DA13
   - INS-260403-99D1
+  - INS-260403-1BCC
   - PRI-260323-CE34
   - INS-260402-D0F3
-  - INS-260403-1BCC
-  - INS-260325-55D8
+  - INS-260405-0A6D
 ---
 There is a common assumption that some data is always better than no data. In practice, a poorly designed experiment — one with leading questions, unrepresentative samples, demand characteristics, or confounding variables — produces results that feel authoritative but reflect the experiment's design flaws rather than customer reality. Teams that act on this data confidently pursue the wrong product or abandon a viable one.
 

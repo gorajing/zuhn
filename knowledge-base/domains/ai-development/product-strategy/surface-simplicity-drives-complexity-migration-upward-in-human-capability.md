@@ -46,6 +46,7 @@ stance: >-
   passive.
 related:
   - INS-260325-F500
+  - INS-260327-0E57
   - INS-260327-48D6
   - INS-260328-F782
   - INS-260329-6BFC
@@ -54,7 +55,6 @@ related:
   - INS-260330-C33B
   - INS-260330-293E
   - INS-260403-4CE2
-  - INS-260328-E410
 evidence:
   - id: INS-260325-F500
     type: TRANSFERS_TO

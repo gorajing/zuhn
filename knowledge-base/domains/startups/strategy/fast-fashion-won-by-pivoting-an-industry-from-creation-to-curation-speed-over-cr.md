@@ -48,7 +48,6 @@ related:
   - INS-260327-F867
   - PRI-260328-82BE
   - INS-260327-749F
-  - INS-260403-76C3
 stance: >-
   UNIQLO, Zara, and H&M transformed fashion from a creativity contest into a
   speed-and-curation game, driving GAP to irrelevance and J.Crew to bankru...

@@ -43,10 +43,10 @@ related:
   - INS-260405-F691
   - INS-260327-D0F4
   - INS-260403-754F
-  - INS-260404-1E28
   - INS-260330-930D
+  - INS-260404-B8AE
   - INS-260327-AB2A
-  - INS-260330-0E4C
+  - INS-260329-B239
 ---
 Companies whose revenue depends on customer inability to cancel rather than customer desire to continue face disruption from any competitor that reduces switching costs.
 

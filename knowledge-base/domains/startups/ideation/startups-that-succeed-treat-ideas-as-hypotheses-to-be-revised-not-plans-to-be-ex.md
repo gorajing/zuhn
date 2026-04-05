@@ -47,7 +47,6 @@ stance: >-
   early-stage direction as provisional and follow evidence wherever it leads
 related:
   - INS-260327-968C
-  - INS-260328-988F
   - INS-260402-2B96
   - INS-260403-7374
   - INS-260403-7B60

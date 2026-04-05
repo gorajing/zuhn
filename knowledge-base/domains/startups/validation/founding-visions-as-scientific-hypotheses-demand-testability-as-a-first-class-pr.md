@@ -53,9 +53,9 @@ related:
   - INS-260403-F160
   - INS-260403-B957
   - INS-260403-45D5
-  - INS-260326-291C
   - INS-260403-B1F2
   - PRI-260328-04FA
+  - PRI-260323-1B96
   - INS-260404-9376
 ---
 The Rashmi Sinha analogy — founding vision as scientific hypothesis — isn't just motivational framing. It imports a specific epistemic discipline: hypotheses must be falsifiable. A vision that can't be broken into testable claims isn't bold, it's unfalsifiable, and unfalsifiable beliefs are the most dangerous thing a founder can carry.

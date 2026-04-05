@@ -16,11 +16,8 @@ tags:
   - startups
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -55,7 +52,7 @@ related:
   - INS-260404-C64D
   - INS-260403-19D8
   - INS-260405-E6F9
-  - INS-260405-AC51
+  - INS-260405-283A
 ---
 Graham observes that practically every successful startup — including Google — presented at some point to investors who didn't get it and turned them down. The structural cause is a compounding communication failure: technical founders who are bad at explaining present to non-technical investors who are bad at understanding. Both sides contribute to information loss.
 

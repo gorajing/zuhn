@@ -45,6 +45,7 @@ stance: >-
   Adults carry unexamined childhood lies that distort their reasoning, and
   actively clearing these lies produces cascading intellectual clarity
 related:
+  - INS-260325-DB82
   - INS-260329-F9CD
   - INS-260330-F909
   - INS-260403-4CF9

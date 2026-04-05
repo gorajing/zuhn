@@ -51,12 +51,13 @@ stance: >-
   economic incentives — now supercharged by AI demand — continue to justify the
   massive investments required to shrink transistors further.
 related:
-  - INS-260325-F484
   - INS-260322-D079
   - PRI-260328-99F0
   - PRI-260328-06F1
   - INS-260328-75B8
+  - PRI-260328-A1AA
   - INS-260323-500B
+  - INS-260323-8897
   - INS-260323-9BC8
   - INS-260403-CAE5
   - INS-260404-8746

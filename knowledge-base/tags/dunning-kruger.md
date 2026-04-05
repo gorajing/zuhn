@@ -1,6 +1,5 @@
 # Tag: dunning-kruger
 
-- `INS-260330-2666` Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
 - `INS-260330-CA8E` Knowing the math behind G-forces did not prepare Destin for the physical reality of 7G in an F-16.
 - `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260330-BD04` Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.

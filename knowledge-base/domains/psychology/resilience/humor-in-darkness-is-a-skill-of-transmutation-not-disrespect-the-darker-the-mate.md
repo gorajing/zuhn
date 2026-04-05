@@ -48,11 +48,11 @@ resolutions:
     laughter is an irreducible human need that persists even in the most
     oppressive conditions.
 related:
-  - INS-260323-4574
   - INS-260404-878F
   - INS-260327-A4E3
   - INS-260330-423B
   - INS-260323-1930
+  - INS-260325-E84D
   - INS-260323-A494
   - INS-260330-DD91
 stance: Dark humor requires more skill than light humor

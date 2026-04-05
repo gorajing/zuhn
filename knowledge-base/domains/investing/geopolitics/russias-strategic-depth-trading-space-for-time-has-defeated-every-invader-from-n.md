@@ -58,6 +58,7 @@ related:
   - INS-260327-191B
   - INS-260327-F84E
   - INS-260327-AC1B
+  - INS-260327-B4B3
   - INS-260327-0876
 ---
 Three major invasions of Russia follow the identical pattern: 1) Charles XII of Sweden (1708-09) — advanced deep into Ukraine, Russian scorched-earth tactics, devastating winter, destroyed at Poltava, 2) Napoleon (1812) — advanced to Moscow, scorched earth, winter retreat, lost 90% of forces, 3) Hitler (1941-43) — advanced to Moscow and Stalingrad, overextended supply lines, Russian winter + fresh Siberian divisions, turned tide at Stalingrad. Each invader entered with numerical/technological superiority. Each was defeated by the same mechanism: Russia's ability to trade space for time. The strategic lesson: depth (in geography, resources, or time) is the ultimate defensive advantage. An attacker with a tight timeline and extended supply chain will always lose to a defender with unlimited depth. This applies to business: incumbent companies with deep resources and no urgency can outlast aggressive challengers who burn capital to gain market share quickly.

@@ -53,9 +53,9 @@ resolutions:
 related:
   - INS-260329-CEC5
   - PRI-260328-A805
-  - INS-260404-394A
   - INS-260329-EBBB
   - INS-260330-766D
+  - PRI-260328-BF1E
   - INS-260330-DBE6
 stance: Branding is not surface decoration but a worldview methodology
 ---

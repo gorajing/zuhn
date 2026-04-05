@@ -14,11 +14,8 @@ tags:
   - show-dont-tell
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -55,12 +52,12 @@ related:
   - INS-260326-B10B
   - INS-260327-9EE4
   - INS-260327-A9E8
+  - INS-260329-0B1D
+  - INS-260329-E900
   - INS-260329-DC86
+  - INS-260329-78AE
   - INS-260330-990F
   - INS-260330-26E7
-  - INS-260403-A290
-  - INS-260404-5343
-  - INS-260404-65BE
 ---
 There's a fundamental asymmetry in persuasion: explicit self-promotion ('we're passionate,' 'our product is great') gets filtered out or actively triggers negative judgment, while the same message conveyed implicitly through behavior lands with full force. This is because audiences have well-calibrated bullshit detectors for direct claims but are much more susceptible to indirect signals.
 

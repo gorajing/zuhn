@@ -1,12 +1,11 @@
 # Topic: llm-costs
 
-> 11 insights
+> 10 insights
 
 - `INS-260320-9FD5` [high] Batch inputs to amortize system prompt costs — 100 separate calls with a 500-token system prompt = 50,000 wasted tokens. 1 batched call = 500 tokens.
 - `INS-260320-901C` [high] Six strategies combined took production systems from $300+/month to ~$10/month while processing 10x more data.
 - `INS-260320-92CC` [high] Filter aggressively before hitting expensive models — filtering by upvotes/comments removes 80% of inputs, saving ~$5/week.
 - `INS-260325-6150` [high] TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
-- `INS-260320-EF3A` [high] Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 - `INS-260325-0409` [high] QJL achieves zero-overhead error correction by spending just 1 bit on residual bias elimination rather than distributing precision uniformly — a principle applicable beyond quantization.
 - `INS-260320-0511` [high] Use cheap models (gpt-5-nano) for categorization/relevance scoring before expensive models — removes 70-90% of irrelevant inputs.
 - `INS-260320-2058` [high] Use OpenRouter for a unified dashboard, model switching, spending tracking, and hard budget limits across all LLM providers.

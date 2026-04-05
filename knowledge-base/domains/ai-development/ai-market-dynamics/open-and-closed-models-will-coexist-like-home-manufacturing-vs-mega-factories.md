@@ -46,10 +46,10 @@ stance: >-
   cost) versus mega factories (shared capacity, economies of scale).
 related:
   - INS-260327-30E4
-  - INS-260330-38E1
   - PRI-260324-36BF
   - INS-260323-62F3
   - INS-260329-E44D
+  - INS-260403-F4C7
 evidence:
   - id: INS-260327-30E4
     type: SUPPORTS

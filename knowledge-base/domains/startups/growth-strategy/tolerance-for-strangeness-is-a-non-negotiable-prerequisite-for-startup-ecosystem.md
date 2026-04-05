@@ -49,7 +49,6 @@ stance: >-
   billion-dollar startups — they must tolerate all strangeness, because the
   productive and unproductive forms are inseparably intermingled.
 related:
-  - INS-260322-2DBD
   - INS-260403-74E5
   - PRI-260324-2C9F
   - INS-260325-436A

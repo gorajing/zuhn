@@ -40,11 +40,11 @@ stance: >-
   conflate institutional power with personal capability, and self-aware ones
   stay precisely because they know the difference.
 related:
-  - INS-260323-1176
   - INS-260330-36B4
   - INS-260327-C9A7
+  - INS-260323-1176
   - INS-260403-10D8
-  - INS-260330-AC36
+  - INS-260329-87C2
 evidence:
   - id: INS-260327-C9A7
     type: TRANSFERS_TO

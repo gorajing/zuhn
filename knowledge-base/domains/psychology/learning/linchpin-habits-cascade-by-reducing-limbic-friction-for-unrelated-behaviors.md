@@ -50,6 +50,7 @@ stance: >-
   by building discipline or willpower.
 related:
   - INS-260325-4A01
+  - INS-260325-27ED
   - INS-260323-4718
   - INS-260330-F41D
   - INS-260330-C89D

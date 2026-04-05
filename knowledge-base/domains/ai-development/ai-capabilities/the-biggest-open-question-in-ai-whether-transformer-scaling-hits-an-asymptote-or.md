@@ -47,9 +47,9 @@ resolutions:
 related:
   - INS-260323-7EEB
   - PRI-260323-8E89
+  - INS-260405-6A94
   - PRI-260328-5F64
   - INS-260327-E1EB
-  - INS-260327-6177
   - INS-260326-6B99
 stance: >-
   Zuckerberg identifies the scaling question as the single highest-stakes bet in

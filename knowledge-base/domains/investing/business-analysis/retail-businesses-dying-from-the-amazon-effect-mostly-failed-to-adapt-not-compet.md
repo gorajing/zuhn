@@ -17,8 +17,8 @@ tags:
   - competitive-moats
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -58,8 +58,8 @@ related:
   - INS-260404-2839
   - INS-260403-D8A2
   - INS-260404-3070
-  - INS-260404-CD53
   - INS-260403-FED6
+  - INS-260405-7B7C
 evidence:
   - id: INS-260324-6017
     type: CHALLENGES

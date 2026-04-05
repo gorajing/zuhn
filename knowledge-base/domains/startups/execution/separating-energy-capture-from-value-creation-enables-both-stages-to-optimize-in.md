@@ -53,13 +53,14 @@ stance: >-
   resource conversion (Calvin Cycle) achieve higher overall efficiency than
   systems that try to do both simultaneously.
 related:
+  - INS-260330-4D0E
   - INS-260404-9428
   - INS-260405-C780
   - INS-260405-AE0D
   - INS-260404-9C57
   - INS-260405-8E85
-  - INS-260330-E8CF
   - INS-260403-8125
+  - INS-260404-040D
 evidence:
   - id: INS-260330-BC56
     type: TRANSFERS_TO

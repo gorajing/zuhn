@@ -46,13 +46,11 @@ resolutions:
     predicts on-demand software creation will be 'one of the defining elements
     of the GPT-5 era.'
 related:
-  - INS-260329-2F63
-  - INS-260327-2C5F
   - INS-260329-5975
   - INS-260405-131B
-  - INS-260329-7C59
   - INS-260327-1B9A
-  - INS-260327-26BF
+  - INS-260327-B403
+  - INS-260404-DBD2
   - INS-260405-EFC2
 stance: >-
   Altman identifies GPT-5's most striking capability as generating working

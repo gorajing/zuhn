@@ -14,8 +14,8 @@ tags:
   - ikea-effect
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,7 +51,6 @@ related:
   - INS-260403-323A
   - INS-260403-0435
   - INS-260403-524B
-  - INS-260404-2087
   - INS-260404-8B1C
   - INS-260405-A9B2
   - INS-260404-3C7A

@@ -54,6 +54,10 @@ related:
   - PRI-260323-977A
   - PRI-260328-82BE
   - PRI-260328-1A2D
+evidence:
+  - id: INS-260327-C1F6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham argues the Internet bust was as much an overreaction as the boom, and that post-Bubble growth was real—but wouldn't become another bubble because the exit strategy landscape had fundamentally changed. During the late 90s, VCs funded absurd startups because they could sell them to retail investors via IPO. When that route closed, the default exit became acquisition, and corporate acquirers are structurally less prone to irrational exuberance than public market investors.
 

@@ -60,50 +60,35 @@ stance: >-
   (statins) to compounds that enhance human performance
 evidence:
   - id: INS-260325-39FD
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-72B6
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-E8D3
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-9EBA
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-EEEE
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-1439
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-D37F
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-11AB
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-6A68
-    type: CHALLENGES
-    classified_at: '2026-04-02'
-  - id: INS-260327-A89B
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260325-5D71
+    relationship: RELATED
   - id: INS-260321-9AB5
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-1384
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260327-FFB5
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-CD62
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-8A5C
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Current pharmaceuticals are largely 'don't die' interventions — take a statin to avoid a heart attack. Peptides represent a different category entirely: human enhancement compounds that increase energy, improve sex drive, reduce inflammation, and improve gut health. Early results from users are promising, though rigorous research is still needed.
 

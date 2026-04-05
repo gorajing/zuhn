@@ -87,6 +87,9 @@ evidence:
   - id: INS-260330-CBF8
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-092A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Most people try to increase returns without paying attention to risk. Srivatsaa's friend bet $700K of life savings — 15 years of systematic saving — on a single oil and gas deal that collapsed. The lesson isn't about evaluating the deal; it's about sizing the bet. You don't risk the empire for a pot of gold.
 

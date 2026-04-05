@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 60 insights
+> 56 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -9,14 +9,12 @@
 - `INS-260328-7CA9` [high] Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
 - `INS-260325-CEE1` [high] Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260323-CEA8` [high] Nicky Ryan admits fear of losing has made him less active as a competitor because his financial stability, brand, and identity are all tied to competitive results.
-- `INS-260323-4574` [high] Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
 - `INS-260325-887D` [high] The three failure responses are forgive-and-forget (no learning), blame-and-humiliate (no honesty), and forgive-and-remember (learning happens) — only the third works.
 - `INS-260330-5EB6` [high] Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260330-9933` [high] Brian Acton left $850M on the table to escape Facebook's monetization of WhatsApp, then funded Signal to rebuild what WhatsApp was supposed to be — illustrating that values misalignment in acquisitions always surfaces.
 - `INS-260404-924C` [high] Founders confuse their inability to think of alternative names with the belief that no better alternatives exist.
 - `INS-260323-81F5` [high] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` [high] Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
-- `INS-260402-4B96` [high] Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260330-206B` [high] Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
 - `INS-260323-F9AC` [high] Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260328-8DF8` [high] People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
@@ -28,8 +26,6 @@
 - `INS-260404-FD24` [high] The cartoon archetype of the ruthless businessman is mathematically wrong for startups where growth comes from word-of-mouth.
 - `INS-260323-979C` [high] Your passion can start a business, but continuing to run it on personal emotion instead of facts, metrics, and processes is the most common path to failure.
 - `INS-260402-8C0E` [high] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
-- `INS-260325-0C4A` [high] Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
-- `INS-260325-55D8` [high] Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260323-5F8A` [high] Investors who back founders with 3-4 failures are buying battle-tested pattern recognition that lucky first-timers never develop.
 - `INS-260323-5986` [high] In fast-growing companies you cannot learn organically fast enough — systematically interview people who are one or two stages ahead to discover the pattern of what you need 12-24 months from now.
 - `INS-260323-FFAC` [high] Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.

@@ -54,11 +54,12 @@ stance: >-
   The baseline rate of extraordinary events is far higher than intuition
   suggests, making the absence of coincidences the truly unusual occurrence
 related:
-  - INS-260330-F31A
   - INS-260323-95BC
-  - INS-260327-6F94
-  - INS-260329-9C20
   - INS-260327-E9F3
+  - INS-260330-A5B0
+  - INS-260330-125E
+  - INS-260329-913C
+  - INS-260330-F60B
 evidence:
   - id: INS-260327-6F94
     type: TRANSFERS_TO

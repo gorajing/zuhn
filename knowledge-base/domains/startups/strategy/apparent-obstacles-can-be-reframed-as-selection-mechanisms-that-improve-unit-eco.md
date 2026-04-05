@@ -16,8 +16,8 @@ tags:
   - demographic-filtering
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -49,14 +49,13 @@ stance: >-
   Friction that filters out low-value customers and selects for high-value ones
   is a competitive advantage disguised as a barrier to growth.
 related:
-  - INS-260403-C40D
-  - INS-260403-747B
-  - INS-260403-137D
-  - INS-260403-0CF7
+  - INS-260327-176D
+  - INS-260403-2C00
+  - INS-260403-9104
+  - INS-260403-FDB8
+  - INS-260403-243A
   - INS-260404-01B1
-  - INS-260404-6E7B
-  - INS-260404-B435
-  - INS-260404-B2FB
+  - INS-260404-AC1B
 evidence:
   - id: INS-260403-747B
     type: REFINES

@@ -52,9 +52,8 @@ stance: >-
   mechanism but because power-law distributions emerge independently across most
   complex systems from language to economics to biology.
 related:
-  - INS-260323-8544
   - INS-260329-B8B6
-  - INS-260326-3B43
+  - INS-260323-8544
   - PRI-260323-0F93
   - INS-260330-B08E
   - INS-260323-B849

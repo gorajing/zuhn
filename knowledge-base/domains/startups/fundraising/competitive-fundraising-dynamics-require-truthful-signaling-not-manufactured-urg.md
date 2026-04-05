@@ -50,14 +50,14 @@ stance: >-
 related:
   - INS-260327-6D57
   - INS-260327-E3ED
+  - INS-260330-1002
   - INS-260330-A14D
+  - INS-260330-A38C
   - INS-260330-870B
   - INS-260330-3899
   - INS-260330-376E
+  - INS-260403-DE45
   - INS-260403-AA09
-  - INS-260403-5B89
-  - INS-260404-CDCB
-  - INS-260403-915E
 ---
 Graham distinguishes between legitimate and manufactured urgency in fundraising. If you're genuinely progressing toward an offer from investor B but prefer investor A, telling A creates real pressure without manipulation. However, investors are oversensitive to fabricated urgency because founders attempt it constantly.
 

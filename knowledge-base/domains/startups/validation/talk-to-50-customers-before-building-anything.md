@@ -43,6 +43,7 @@ stance: >-
   building will have dramatically higher success rates than those who start with
   technology.
 related:
+  - INS-260322-185B
   - INS-260323-3436
   - INS-260327-A653
   - INS-260330-FE9E
@@ -52,7 +53,6 @@ related:
   - INS-260327-5D62
   - INS-260327-A608
   - INS-260328-D2EC
-  - INS-260330-2C79
 evidence:
   - id: INS-260327-5D62
     type: CHALLENGES

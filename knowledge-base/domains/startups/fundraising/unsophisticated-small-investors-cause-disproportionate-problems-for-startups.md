@@ -49,13 +49,12 @@ stance: >-
   Taking money from friends and family who invest $5-10K creates more
   operational risk than the capital is worth.
 related:
-  - INS-260330-3B31
   - INS-260330-9B90
-  - INS-260330-EE5E
   - INS-260402-EA72
   - PRI-260403-26B9
-  - INS-260404-DA2E
   - INS-260403-47B7
+  - INS-260405-224A
+  - INS-260403-C695
 evidence:
   - id: INS-260330-3B31
     type: EXTENDS

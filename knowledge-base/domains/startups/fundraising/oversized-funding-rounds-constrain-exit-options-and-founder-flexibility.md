@@ -53,6 +53,10 @@ related:
   - INS-260403-4960
   - PRI-260403-5DEA
   - INS-260326-6B98
+evidence:
+  - id: INS-260324-72E8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 When VCs invest at high valuations, they create a floor below which no exit is acceptable to them — even if founders would happily sell at that price. Graham's competitor raised $20M while his company spent only $2M total; the competitor couldn't accept a $50M acquisition that made Graham's team wealthy because their investors would have lost money at that valuation.
 

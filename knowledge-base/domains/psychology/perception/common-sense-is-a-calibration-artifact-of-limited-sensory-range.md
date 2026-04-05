@@ -60,23 +60,17 @@ related:
   - INS-260330-59CE
 evidence:
   - id: INS-260323-1B0B
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-69CF
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-40DC
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260325-0A81
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260325-82E8
+    relationship: RELATED
   - id: INS-260322-9436
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260322-4B37
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 The Banach-Tarski paradox feels absurd because our physical intuition is shaped by interacting with finite, macroscopic objects. But the math is valid within the axiomatic system we use to predict the universe with extraordinary accuracy. The video argues we shouldn't call infinity 'weird' — it's our calibration that's narrow.
 

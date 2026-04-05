@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 85 insights
+> 81 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -29,15 +29,12 @@
 - `INS-260403-816B` [high] The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - `INS-260322-185B` [high] You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
 - `INS-260329-9513` [high] Filter business ideas through three lenses — what pains you, what you do professionally, and what you care about — to find ideas grounded in authentic experience.
-- `INS-260329-5891` [high] Pick a business topic from your pain, profession, or passion — these three lenses ensure you have authentic knowledge and motivation.
 - `INS-260329-FE15` [high] Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260327-2661` [high] The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
 - `INS-260322-2155` [high] Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260403-3442` [high] 20 years of schooling teaches problem-solving but never problem-choosing, which is the skill that determines startup success.
 - `INS-260402-9093` [high] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260404-CF9F` [high] Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
-- `INS-260329-ABD9` [high] Find ideas others have discarded rather than trying to discover something nobody has ever considered.
-- `INS-260321-6BA7` [high] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
 - `INS-260322-EF20` [high] Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260402-F08D` [high] Successful founders don't find overlooked ideas through deliberate search — their unusual perspective makes certain ideas obvious to them that are invisible to everyone else.
 - `INS-260404-70AE` [high] Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
@@ -46,7 +43,6 @@
 - `INS-260403-DDFD` [high] Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
 - `INS-260404-9823` [high] In startups, the best ideas initially seem bad because obviously good ones are already taken — founders need imagination to find the sweet spot of productive craziness.
 - `INS-260330-8AC8` [high] Yahoo, Google, Facebook, and Apple all started as side projects — the best ideas are such outliers that your conscious mind rejects them as company ideas.
-- `INS-260330-AB6E` [high] Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
 - `INS-260403-39BB` [high] Great startup ideas sit in the Venn diagram overlap of 'seems like a bad idea' and 'is actually a good idea.'
 - `INS-260330-7819` [high] Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
 - `INS-260403-573F` [high] The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.

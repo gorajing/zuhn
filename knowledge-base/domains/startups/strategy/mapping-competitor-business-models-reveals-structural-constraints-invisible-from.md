@@ -53,13 +53,13 @@ related:
   - INS-260323-D621
   - INS-260329-8261
   - INS-260330-95F3
+  - INS-260330-F527
   - INS-260330-6050
   - INS-260402-E2FF
   - INS-260402-FFB2
   - INS-260403-2D99
   - INS-260403-7E7C
   - INS-260404-2A8B
-  - INS-260403-16D7
 ---
 Product-level competitive analysis shows what competitors offer today, but business model mapping reveals why they offer it and what they're locked into. A competitor's key partnerships, cost structure, and revenue streams create path dependencies that constrain their strategic options. Understanding these constraints lets you design your business model to exploit gaps they structurally cannot fill.
 

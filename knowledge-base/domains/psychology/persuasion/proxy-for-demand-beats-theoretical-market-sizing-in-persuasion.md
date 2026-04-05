@@ -14,11 +14,8 @@ tags:
   - revealed-preference
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -49,12 +46,12 @@ stance: >-
   evidence of market need than any top-down market size number, because it
   demonstrates revealed preference rather than projected demand.
 related:
-  - INS-260403-66D0
+  - INS-260328-3446
   - INS-260403-F8FF
-  - INS-260404-44A4
   - INS-260404-61DA
   - INS-260404-B31C
   - INS-260403-30D8
+  - INS-260403-DC32
   - INS-260405-4B31
 ---
 Sequoia calls this the 'proxy for demand' — observable behavior that proves people need what you're building. When people pay a lot for something, cobble together workarounds, or spend hours on manual processes, that's hard evidence of need. Market size numbers (is it $500M or $5B?) are abstract and forgettable — like an aspiring actor citing Tom Hanks' salary instead of demonstrating their own talent.

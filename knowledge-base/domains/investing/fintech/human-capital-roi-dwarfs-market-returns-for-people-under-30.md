@@ -67,6 +67,9 @@ evidence:
   - id: INS-260402-43F9
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-98E1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Hormozi argues that putting $1,000 into the S&P 500 yields roughly $100/year at historical averages, while the same $1,000 spent on skill development can increase earning power by thousands per year. The math is asymmetric: when your capital base is small, the percentage return from increasing your earning capacity vastly exceeds any realistic market return.
 

@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 19 insights
+> 17 insights
 
 - `INS-260403-94C4` [high] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260329-D9A4` [high] Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
@@ -13,8 +13,6 @@
 - `INS-260329-7AAB` [high] Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260329-C36D` [high] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
 - `INS-260329-27DF` [high] Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
-- `INS-260329-8329` [high] The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
-- `INS-260330-B1A3` [medium] Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
 - `INS-260403-4CE2` [medium] Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
 - `INS-260329-F3F0` [medium] The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260330-BA71` [medium] Champion-level performance correlates with intensity of drive rather than any particular personality archetype.

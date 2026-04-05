@@ -44,11 +44,10 @@ stance: >-
   arbitrage.
 related:
   - INS-260327-6992
-  - INS-260329-8868
   - INS-260329-6B87
   - INS-260329-ABA1
   - INS-260403-63E6
-  - INS-260325-55D8
+  - INS-260403-A4EB
 evidence:
   - id: INS-260325-55D8
     type: CHALLENGES

@@ -55,12 +55,12 @@ stance: >-
   uprightness and investment performance — character and returns are not in
   tension.
 related:
-  - INS-260330-C745
+  - INS-260330-3E6F
   - INS-260403-147C
   - INS-260404-AF54
-  - INS-260330-3E6F
-  - INS-260330-0B55
   - INS-260330-855A
+  - INS-260402-E140
+  - INS-260403-5018
 ---
 Graham carefully qualifies his claim: sorting investors by benevolence does not perfectly sort them by returns, but a scatterplot would show a clear upward trend. This is a probabilistic claim about correlation, not a morality tale. The mechanism is concrete — referral dealflow disproportionately flows to trusted investors, and the best deals often come through warm introductions from founders who vouch for their prior investor's conduct.
 

@@ -47,6 +47,7 @@ resolutions:
 related:
   - INS-260322-1D52
   - INS-260325-27B2
+  - INS-260323-5F8A
   - INS-260322-9172
   - INS-260321-E471
   - INS-260325-6F89
@@ -54,7 +55,6 @@ related:
   - INS-260330-E39E
   - PRI-260323-1B96
   - PRI-260328-04FA
-  - INS-260323-7F3E
 stance: Pincus argues MVP takes too long to fail
 evidence:
   - id: INS-260322-1D52

@@ -51,9 +51,8 @@ stance: >-
   overall solution — only customer intimacy requires no money to start, making
   it the default strategy for resource-constrained startups
 related:
-  - INS-260323-3D7D
-  - INS-260329-C754
   - INS-260330-09E3
+  - INS-260323-3D7D
   - INS-260322-C472
   - INS-260403-8256
   - INS-260328-17D7

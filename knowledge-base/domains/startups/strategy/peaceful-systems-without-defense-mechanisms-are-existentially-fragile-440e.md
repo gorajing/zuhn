@@ -59,23 +59,17 @@ related:
   - INS-260325-793A
 evidence:
   - id: INS-260323-75A8
-    type: EXTENDS
-    classified_at: '2026-04-02'
-  - id: INS-260330-CCE7
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-6AED
+    relationship: RELATED
   - id: INS-260323-DF0F
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-3994
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-8B9A
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260327-E7AC
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 The Indus Valley Civilization is remarkable for what's absent: no grand temples, no monuments to military victories, no evidence of standing armies, and very few weapons. This has led historians to describe it as possibly the most peaceful major civilization in human history. Yet it collapsed, potentially accelerated by the arrival of the Indo-Aryan migration.
 

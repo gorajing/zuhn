@@ -46,7 +46,6 @@ stance: >-
   for decision-making.
 related:
   - INS-260330-EBDC
-  - INS-260330-D21A
   - INS-260322-38D8
   - INS-260322-F65F
   - INS-260323-BEF0

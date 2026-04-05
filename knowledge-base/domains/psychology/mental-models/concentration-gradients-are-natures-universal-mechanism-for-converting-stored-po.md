@@ -54,12 +54,12 @@ stance: >-
   (gradients) and then harvesting the natural tendency toward equilibrium, not
   by direct energy transfer.
 related:
-  - INS-260330-EAA3
-  - INS-260403-050D
-  - INS-260330-3037
-  - INS-260330-100F
-  - INS-260330-B38B
-  - INS-260403-DE05
+  - INS-260403-CD2A
+  - INS-260403-F249
+  - PRI-260403-70D0
+  - INS-260403-B6E6
+  - INS-260403-464D
+  - PRI-260403-6E50
 evidence:
   - id: INS-260330-100F
     type: SUPPORTS

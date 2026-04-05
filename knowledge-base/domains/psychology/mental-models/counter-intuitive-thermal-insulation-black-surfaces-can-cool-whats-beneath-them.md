@@ -48,11 +48,11 @@ stance: >-
   Adding a layer of black heat-absorbing material above a surface can reduce the
   temperature below it if the layer creates an insulating air gap
 related:
-  - INS-260330-07B1
   - INS-260330-E606
   - INS-260330-FC16
   - INS-260403-F075
   - INS-260330-012D
+  - INS-260330-966E
   - INS-260330-F8E7
   - INS-260330-56AA
   - INS-260330-85AA

@@ -52,5 +52,18 @@ related:
   - INS-260327-EAB9
   - INS-260327-9638
   - INS-260330-F3E4
+evidence:
+  - id: INS-260330-2347
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-16F7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-EAB9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-F3E4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 During the 2008 recession, McDonald's maintained a 55-month streak of same-store sales increases, opened 600 new locations, and delivered 29% return on equity. It is a Dividend Aristocrat with 25+ years of consecutive dividend increases. The mechanism is structural: U.S. tax law allows depreciation deductions on property that may actually be appreciating, creating a dual benefit. Recessions become buying opportunities as property prices drop. This insight applies beyond fast food — any business that can embed appreciating real assets into its model gains a countercyclical buffer. The rejected 2015 proposal to spin off McDonald's real estate into a REIT implicitly acknowledged that the real estate was the more valuable half of the business.

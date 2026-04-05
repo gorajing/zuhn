@@ -52,16 +52,16 @@ stance: >-
   beats late arrival with a superior one when network effects or ecosystem
   dependencies accumulate.
 related:
+  - INS-260325-A8E6
   - INS-260327-8C74
-  - INS-260327-4A10
   - INS-260327-A3A2
   - INS-260330-39B0
   - INS-260330-9A60
   - INS-260403-BA93
   - INS-260404-6F39
   - INS-260330-8D99
+  - INS-260330-FB9C
   - INS-260330-D108
-  - INS-260403-DC6C
 evidence:
   - id: INS-260323-F963
     type: SUPPORTS

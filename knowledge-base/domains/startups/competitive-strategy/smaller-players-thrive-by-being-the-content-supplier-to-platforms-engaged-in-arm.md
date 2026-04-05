@@ -57,6 +57,7 @@ stance: >-
   bidding against the others for the next breakout property.
 related:
   - INS-260323-7EDF
+  - PRI-260322-DC5E
   - INS-260327-B7C4
   - INS-260327-CCAE
   - INS-260327-442D
@@ -65,7 +66,6 @@ related:
   - INS-260327-77C7
   - INS-260327-F229
   - INS-260330-9014
-  - INS-260403-0CA9
 evidence:
   - id: INS-260327-B7C4
     type: CHALLENGES

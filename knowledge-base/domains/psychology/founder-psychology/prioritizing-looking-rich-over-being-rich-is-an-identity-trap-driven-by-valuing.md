@@ -70,6 +70,9 @@ evidence:
   - id: INS-260329-0B9D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-EEAF
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Lifestyle inflation is typically framed as a financial problem, but Hormozi identifies it as an identity problem. The person who upgrades their car, wardrobe, and lifestyle with each raise is making a psychological trade: they're purchasing external validation at the cost of actual wealth accumulation. The root cause is valuing others' approval over your own self-assessment.
 

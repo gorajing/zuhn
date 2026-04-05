@@ -5,7 +5,6 @@
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
 - `INS-260325-3611` Breaking a hard problem into many small approximate pieces, then taking the limit as pieces shrink, transforms intractable problems into solvable ones.
 - `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
-- `INS-260329-C5C6` Epsilon-delta formalizes the intuitive idea of closeness into a precise logical framework that underpins all of calculus.
 - `INS-260329-579D` The limit operation is the conceptual bridge that transforms approximate finite calculations into exact infinite-process results.
 - `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
 - `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
@@ -18,5 +17,4 @@
 - `INS-260325-1CE4` Discovering that two operations are inverses (like integrals and derivatives) is the most powerful type of mathematical insight.
 - `INS-260329-F4B2` The derivative concept teaches that understanding a process at any moment requires looking at infinitesimally small intervals around that moment, not at broad averages.
 - `INS-260329-C2E5` The IVT proves that a continuous function must cross every intermediate value between f(a) and f(b), guaranteeing existence of solutions without computing them.
-- `INS-260329-5398` The Squeeze Theorem shows that if a quantity is trapped between two bounds that converge to the same limit, the quantity must also converge to that limit — eliminating the need for direct computation.
 - `INS-260329-B2BE` Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.

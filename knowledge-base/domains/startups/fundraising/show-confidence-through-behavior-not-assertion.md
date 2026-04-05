@@ -15,11 +15,8 @@ tags:
   - credibility
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -46,11 +43,10 @@ stance: >-
   passion or quality.
 related:
   - INS-260327-E3ED
-  - INS-260403-1B2D
-  - INS-260403-4960
-  - INS-260404-CDCB
   - INS-260403-2F22
-  - INS-260403-B216
   - INS-260403-915E
+  - INS-260403-4960
+  - INS-260404-0CD8
+  - INS-260405-8BEA
 ---
 In brief presentations where investors lack technical depth, the founder's own confidence becomes the primary evidence about product quality. But confidence must be shown, not told. Saying 'our product is great' triggers skepticism; acting as if investors are fortunate to hear about your company communicates the same thing credibly. PG frames this as a logical test: if you don't genuinely believe your startup is doing investors a favor by letting them in, that's a signal to reconsider what you're building. Nervousness and apologetic framing are the opposite — they signal the founder doesn't believe in their own work, and that signal is contagious.

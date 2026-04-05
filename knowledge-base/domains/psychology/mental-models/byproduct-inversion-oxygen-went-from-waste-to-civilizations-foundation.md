@@ -47,14 +47,15 @@ stance: >-
   The most transformative outputs of a system are often initially classified as
   waste or side effects, not primary products
 related:
+  - INS-260323-0AF3
   - INS-260330-19C3
-  - INS-260330-C7C2
-  - INS-260403-882A
-  - INS-260404-E60B
-  - INS-260404-D8A5
-  - INS-260330-0CFF
-  - INS-260330-9231
+  - INS-260330-2119
+  - INS-260330-3AB4
   - INS-260404-8050
+  - INS-260404-FF39
+  - INS-260403-C0D4
+  - INS-260404-E9F3
+  - INS-260405-C342
 evidence:
   - id: INS-260327-8E45
     type: EXTENDS

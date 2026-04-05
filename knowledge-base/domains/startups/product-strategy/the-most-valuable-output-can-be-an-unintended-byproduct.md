@@ -54,17 +54,13 @@ related:
   - INS-260403-227B
 evidence:
   - id: INS-260404-0FEB
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260403-31AF
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260330-C607
+    relationship: RELATED
   - id: INS-260403-EFE6
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-99CE
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Photosynthesis evolved to capture solar energy and fix carbon for plant growth. Oxygen was literally garbage — 'the most useful useless byproduct in the history of useless byproducts.' Yet this waste product transformed Earth's atmosphere and enabled the entire animal kingdom.
 

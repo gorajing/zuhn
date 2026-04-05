@@ -15,11 +15,8 @@ tags:
   - communication
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -54,11 +51,11 @@ stance: >-
   most pitches blur together after a few hours
 related:
   - INS-260327-2E84
-  - INS-260404-EDED
   - INS-260404-24FB
   - INS-260403-FC45
   - INS-260404-6EB8
-  - INS-260404-D8C7
+  - INS-260403-7FBE
+  - INS-260405-E6F9
 ---
 After a demo day or investor meeting series, pitches genuinely blur. The investor's ability to recall and advocate for a specific startup in partner meetings or follow-up conversations depends on having a handle — a phrase that encodes the startup's essence and sticks.
 

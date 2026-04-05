@@ -56,12 +56,12 @@ stance: >-
   essential for reliable decision-making.
 related:
   - INS-260326-CA8C
-  - INS-260330-6CB7
   - INS-260330-DBAD
   - INS-260330-9EBA
   - INS-260403-35E7
   - PRI-260323-0654
   - INS-260325-DFC7
+  - INS-260403-B6D9
 evidence:
   - id: INS-260326-CA8C
     type: TRANSFERS_TO

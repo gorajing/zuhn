@@ -14,11 +14,8 @@ tags:
   - demand
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -47,11 +44,13 @@ stance: >-
   already solving your problem with inadequate tools, because it proves market
   pull exists independent of your solution.
 related:
+  - INS-260325-D797
+  - INS-260403-EA8C
   - INS-260403-8C50
   - INS-260404-5D18
-  - INS-260404-06C4
   - INS-260405-F980
   - INS-260405-E7FB
+  - INS-260403-30D8
 ---
 The biggest investor fear with early startups is that founders built something from a priori theories that nobody actually wants. The antidote is showing proxy for demand: what are people doing right now, with inadequate tools, that proves they need what you're making?
 

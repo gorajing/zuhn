@@ -55,9 +55,8 @@ related:
   - PRI-260322-9E36
   - INS-260327-F996
 evidence:
-  - id: INS-260330-6C35
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+  - id: INS-260330-F527
+    relationship: RELATED
 ---
 The mass adoption of prediction markets threatens platforms like Robinhood and Coinbase because they're competing for the same behavioral pattern: speculative gambling disguised as investment. Prediction markets offer better narratives (elections, cultural events) than stock tickers or crypto charts.
 

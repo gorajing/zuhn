@@ -52,11 +52,11 @@ stance: >-
   governs database transactions, API permissions, and user roles — making it a
   foundational mental model for system design.
 related:
-  - INS-260327-FDC1
   - INS-260329-919F
-  - INS-260327-26BF
   - INS-260329-8DDF
-  - INS-260327-2C5F
+  - INS-260329-9010
+  - INS-260327-5F10
+  - INS-260329-1277
   - INS-260330-4E68
   - INS-260330-AC7F
 evidence:

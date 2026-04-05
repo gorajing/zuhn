@@ -50,10 +50,10 @@ related:
   - INS-260330-6D5C
   - INS-260330-909E
   - INS-260330-F737
-  - INS-260404-8E68
   - INS-260330-6C68
   - INS-260404-9823
   - INS-260403-ABBB
+  - PRI-260403-3906
 ---
 Paul Graham identifies 'schlep blindness' as a cognitive blind spot where founders unconsciously filter out ideas involving tedious, painful work — dealing with banks, regulations, fraud, broken infrastructure. This isn't a conscious decision; people don't weigh 'fix payments vs. build recipe site' and choose the recipe site. They simply never see the payments opportunity because their unconscious mind shrank from the complications.
 

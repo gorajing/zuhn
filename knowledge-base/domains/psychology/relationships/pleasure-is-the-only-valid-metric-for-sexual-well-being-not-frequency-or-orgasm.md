@@ -51,11 +51,11 @@ stance: >-
   partner count, and orgasm count are irrelevant metrics that create false
   standards.
 related:
-  - INS-260330-C9FA
   - INS-260330-A9DD
   - INS-260330-61C3
   - INS-260330-EC5E
   - INS-260330-D42C
+  - INS-260330-49AE
 ---
 Nagoski's 'pleasure is the measure' principle strips away culturally imposed metrics (frequency, orgasm count, adventurousness) and replaces them with a single intrinsic criterion: do all participants enjoy it and freely choose it? This is radical because it invalidates the entire framework of sexual 'norms' that generates most anxiety — the sense that you should be having more sex, different sex, or better orgasms based on external benchmarks.
 

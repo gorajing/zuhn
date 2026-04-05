@@ -60,6 +60,16 @@ related:
   - PRI-260328-386C
   - INS-260327-226A
   - INS-260323-C8AC
+evidence:
+  - id: INS-260323-C8AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-1555
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-226A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham identifies a structural accounting blind spot: when companies use high-paying senior positions as rewards for past work, they've created a real liability that never appears on their balance sheet. Corporate raiders in the 1980s could buy these companies and strip out the 'excess' VPs — but those executive positions weren't corruption or waste, they were payment for work already done.
 

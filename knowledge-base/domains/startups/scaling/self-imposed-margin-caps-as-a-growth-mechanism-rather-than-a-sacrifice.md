@@ -14,8 +14,8 @@ tags:
   - operational-efficiency
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -47,10 +47,10 @@ stance: >-
   through retention
 related:
   - INS-260405-39A6
-  - INS-260404-5532
   - INS-260403-3F5F
-  - INS-260404-4DC8
   - INS-260404-41AA
+  - INS-260329-A575
+  - INS-260404-837E
 ---
 Costco's self-imposed rule that no item can be marked up more than 15% (vs Walmart's 24% and Home Depot's 35%) seems like leaving money on the table. But the constraint serves multiple functions: it forces continuous operational efficiency (warehouse layout, bulk purchasing, minimal decor), it builds deep customer trust, and it makes every pricing decision trivially simple.
 

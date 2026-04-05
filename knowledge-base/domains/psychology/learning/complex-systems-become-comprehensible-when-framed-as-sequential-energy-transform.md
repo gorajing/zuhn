@@ -51,10 +51,10 @@ stance: >-
   chemical equations
 related:
   - INS-260404-6AD7
-  - INS-260403-2918
   - INS-260330-1084
-  - INS-260330-30FB
-  - INS-260404-4A68
+  - INS-260404-3C96
+  - INS-260404-A1E2
+  - INS-260403-CF3E
 evidence:
   - id: INS-260330-30FB
     type: TRANSFERS_TO

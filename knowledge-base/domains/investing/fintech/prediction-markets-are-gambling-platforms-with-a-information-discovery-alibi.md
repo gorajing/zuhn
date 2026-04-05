@@ -46,11 +46,11 @@ stance: >-
   gambling operations that use the theoretical economic concept of information
   discovery as regulatory cover.
 related:
-  - INS-260327-E72F
   - PRI-260328-37D8
   - INS-260321-38EC
   - INS-260322-0E41
   - INS-260323-D6C7
+  - PRI-260322-9E36
 evidence:
   - id: INS-260321-38EC
     type: TRANSFERS_TO

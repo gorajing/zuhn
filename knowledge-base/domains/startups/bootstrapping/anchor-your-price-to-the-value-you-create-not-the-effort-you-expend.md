@@ -44,12 +44,13 @@ stance: >-
   is a more reliable path to high income than hourly billing because it aligns
   incentives and removes the time-for-money ceiling.
 related:
-  - INS-260329-3FA6
   - INS-260329-E2D0
+  - INS-260329-BBF9
   - INS-260329-A011
   - INS-260323-DA91
+  - INS-260329-3FA6
   - INS-260327-EBDF
-  - INS-260329-8329
+  - INS-260329-6AF5
 evidence:
   - id: INS-260329-A011
     type: CHALLENGES

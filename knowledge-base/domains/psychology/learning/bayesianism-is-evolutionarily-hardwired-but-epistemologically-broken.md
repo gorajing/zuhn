@@ -48,11 +48,10 @@ stance: >-
   the day before a theory is falsified is the day you were most confident in it
 related:
   - INS-260321-D959
-  - INS-260320-3798
   - INS-260330-0AE2
   - PRI-260324-2C9F
   - PRI-260327-5635
-  - INS-260402-4E59
+  - INS-260325-E84D
   - INS-260403-6E9F
   - INS-260403-0803
   - INS-260405-2CDB

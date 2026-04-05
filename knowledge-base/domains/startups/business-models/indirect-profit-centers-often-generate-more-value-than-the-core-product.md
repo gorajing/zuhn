@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-1EAC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-CF98
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 McDonald's only operates 15% of its restaurants directly but owns nearly all their buildings and land. Franchisees pay 8-15% of revenue as rent on top of normal royalties — meaning McDonald's profits whether individual locations do or not. After buying heavily during the 2008 recession, McDonald's accumulated $30B+ in tax-deductible real estate assets.
 

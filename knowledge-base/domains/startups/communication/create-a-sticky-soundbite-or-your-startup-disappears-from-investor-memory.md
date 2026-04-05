@@ -15,11 +15,8 @@ tags:
   - pg
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,16 +47,16 @@ stance: >-
   survival filter is having a memorable descriptive phrase that persists in
   their heads.
 related:
+  - INS-260323-73AB
   - INS-260322-A892
   - INS-260327-61AE
   - INS-260327-B034
   - INS-260327-80A8
-  - INS-260403-74DB
-  - INS-260404-C2BC
   - INS-260403-85F1
-  - INS-260404-6EB8
+  - INS-260403-74DB
   - INS-260404-8D37
-  - INS-260403-21C4
+  - INS-260404-C2BC
+  - INS-260404-6EB8
 ---
 Paul Graham frames memorability as a survival problem: professional investors hear enough pitches that they all blur together, so the first cut is simply being one they remember. The mechanism is a descriptive phrase — usually 'the X of Y' or 'the X Y' — launched casually near the beginning of your talk.
 

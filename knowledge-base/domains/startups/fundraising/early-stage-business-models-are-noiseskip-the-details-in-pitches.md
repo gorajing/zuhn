@@ -14,11 +14,8 @@ tags:
   - signal-vs-noise
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -47,14 +44,13 @@ stance: >-
   of the problem and product.
 related:
   - INS-260327-ECDA
-  - INS-260403-E393
   - INS-260403-97DB
   - INS-260403-0551
-  - INS-260403-2247
-  - INS-260403-DAB4
+  - INS-260404-BF04
   - INS-260404-16E1
   - INS-260403-A172
   - INS-260405-180B
+  - INS-260404-3214
 ---
 A top VC told YC founders he invested in a company whose business model was wrong, expecting it to change three times before they got it right. If experienced founders with millions in funding still have a wrong business model, yours is probably wrong too.
 

@@ -14,11 +14,8 @@ tags:
   - demand-validation
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -52,15 +49,15 @@ stance: >-
   wants.
 related:
   - INS-260330-F125
+  - INS-260402-F5E0
+  - INS-260402-237D
   - INS-260403-17A3
-  - INS-260403-419B
-  - INS-260403-19C0
-  - INS-260403-A65D
-  - INS-260404-9E71
-  - INS-260405-9E25
   - INS-260403-8F31
-  - INS-260404-BD56
-  - INS-260404-3879
+  - INS-260405-9E25
+  - INS-260405-672E
+  - INS-260404-B887
+  - INS-260404-2FC0
+  - INS-260404-29F4
 ---
 Graham cites Sequoia's concept of 'proxy for demand' — observable evidence that people currently use inadequate tools to solve the problem you're addressing. The hierarchy of credibility is clear: best is when founders built it for themselves (Apple, Microsoft, Google all started this way), next is solving problems for people you know personally, and weakest is abstract market sizing.
 

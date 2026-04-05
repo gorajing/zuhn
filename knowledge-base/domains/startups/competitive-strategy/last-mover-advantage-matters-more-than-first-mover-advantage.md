@@ -59,15 +59,12 @@ related:
   - INS-260330-1608
   - INS-260403-EFAF
 evidence:
-  - id: INS-260330-9470
-    type: REFINES
-    classified_at: '2026-04-02'
+  - id: INS-260330-8A87
+    relationship: RELATED
   - id: INS-260322-BBED
-    type: REFINES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-969D
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Thiel calculated that in March 2001, with PayPal growing 100% annually and discounting at 30%, approximately 75% of the company's value came from cash flows in 2011 and beyond. The same math applies to any emerging tech company: the vast majority of value exists far in the future. This means the question 'will this company still be the leader in 10-20 years?' dominates the value equation.
 

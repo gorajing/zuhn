@@ -46,10 +46,10 @@ stance: >-
   investor-speak to actual intent.
 related:
   - INS-260405-4AE1
-  - INS-260404-5D3B
-  - INS-260403-1852
   - INS-260403-25A8
   - INS-260404-16E1
+  - INS-260405-224A
+  - INS-260327-5B30
 evidence:
   - id: INS-260325-9AD4
     type: EXTENDS

@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 44 insights
+> 43 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -15,7 +15,6 @@
 - `INS-260325-D19B` [high] Minimax hires for first-principles thinking regardless of background because the ability to ask the right questions matters more than the ability to code answers when AI handles execution.
 - `INS-260321-4178` [high] AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260325-DA83` [high] Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
-- `INS-260327-4F3D` [high] True career fulfillment requires firing on all four Ikigai cylinders simultaneously: passion (what you love), prowess (what you're good at), purpose (what the world needs), and profit (what sustains you).
 - `INS-260320-DEAF` [high] Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.
 - `INS-260320-E683` [high] Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
 - `INS-260320-DDD9` [high] In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
@@ -36,8 +35,8 @@
 - `INS-260327-DC0B` [medium] AI can synthesize across four Ikigai dimensions (passion, prowess, purpose, profit) to generate personalized career paths with specific waypoints, transforming a vague self-reflection exercise into an actionable planning tool.
 - `INS-260329-72C1` [medium] AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.
 - `INS-260325-11E9` [medium] AI turns interdependent work into solo work, risking the same 'alone together' fragmentation that social media created.
+- `INS-260405-89E7` [medium] MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
 - `INS-260320-B99F` [medium] Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
-- `INS-260329-92C3` [medium] Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
 - `INS-260403-A101` [medium] AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage.
 - `INS-260330-B28C` [medium] Campaigns to universalize high-paying skills function as labor market flooding that depresses wages for existing practitioners.
 - `INS-260330-819E` [medium] Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.

@@ -1,13 +1,12 @@
 # Topic: music-marketing
 
-> 15 insights
+> 14 insights
 
 - `INS-260322-89A9` [high] Tracing performer credits — guitarist, drummer, mixing engineer — through Discogs, Genius, and artist Instagram feeds uncovers hidden creative networks that algorithms never surface.
 - `INS-260322-35FA` [high] Watching live DJ mix sets on YouTube is the most efficient way to internalize a genre because DJs curate 30+ tracks from deep listening into a coherent sonic narrative.
 - `INS-260403-6932` [high] Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 - `INS-260327-AD0D` [high] Simple iPhone content using your official audio — in the studio, in the car, living life — builds real fans at zero cost with zero middlemen and zero downsides.
 - `INS-260327-B7C4` [high] Every major streaming success the DJ has seen came from organic fan momentum — never from paying for third-party playlist placement with questionable listener quality.
-- `INS-260327-09D7` [high] Labels take 50-80% of royalties and only the handful of currently hot ones (like John Summit's Experts Only) actually move the needle — build organic hype first, then labels become optional.
 - `INS-260321-13EA` [high] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
 - `INS-260327-8D7E` [high] Send 20 emails, get 20-email results. Send 1,000, get 1,000-email results. The DJ who launched careers through SoundCloud cold outreach ranks this S-tier.
 - `INS-260322-D5DD` [high] Make remixes of trending songs in your own style to leverage existing search demand and get discovered before you have original fans.

@@ -1,9 +1,8 @@
 # Topic: leadership
 
-> 178 insights
+> 169 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
-- `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260330-3A7B` [high] When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
 - `INS-260323-4D5E` [high] People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
@@ -22,7 +21,6 @@
 - `INS-260403-8E4D` [high] Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
 - `INS-260403-EEDB` [high] The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.
 - `INS-260323-F15D` [high] When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
-- `INS-260325-B50B` [high] CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260330-956E` [high] A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
 - `INS-260327-BEEE` [high] Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
 - `INS-260322-ABA0` [high] Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
@@ -41,13 +39,9 @@
 - `INS-260327-3788` [high] Solomon credits being forced to rotate from credit trading to equity capital markets as essential preparation for the CEO role he never explicitly targeted.
 - `INS-260327-8521` [high] Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
 - `INS-260323-46B2` [high] The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
-- `INS-260330-47FB` [high] Critical decisions must be evaluated through the eyes of every employee, not just the people directly involved.
-- `INS-260330-3CD9` [high] Critical decisions must be evaluated through every employee's eyes, not just the people directly involved.
 - `INS-260330-5B0C` [high] Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.
-- `INS-260330-725C` [high] Critical decisions must be evaluated through the eyes of every employee, not just the people in the conversation.
 - `INS-260327-4C94` [high] Easy decisions never reach the CEO desk; the value of experience is in navigating the close calls where intelligence alone is insufficient.
 - `INS-260327-7DAA` [high] Most innovations look borderline stupid in hindsight—the only real failure is not trying or not reflecting.
-- `INS-260330-48A8` [high] Formal raise cycles prevent the cultural damage of rewarding whoever asks loudest.
 - `INS-260330-175F` [high] A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260330-8686` [high] Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
 - `INS-260327-2B75` [high] Horowitz warns that founder mode has become dangerously misinterpreted: Brian Chesky was right to stop over-deferring to executives, but founders are now using it as an excuse to never hire senior people at all.
@@ -91,7 +85,6 @@
 - `INS-260329-B4C8` [high] Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.
 - `INS-260330-25A8` [high] You can take someone's job but you cannot take their dignity — every employee in your company will become an informal reference for that person.
 - `INS-260330-8E3C` [high] What you say about a terminated employee at the company meeting becomes their reputation, because every person in your company will get a reference call about them.
-- `INS-260330-AC36` [high] You can take someone's job but you don't have to take their dignity — what you say at the departure announcement becomes their professional reputation.
 - `INS-260403-3FF5` [high] Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260327-B5C9` [high] You are ultimately accountable for your product like a CEO, but to make things happen you sometimes need to sweep the floor because nobody else will.
 - `INS-260327-94CC` [high] Ev Williams built Twitter's best product era but was ousted because he lacked the political instincts to defend his position against Jack Dorsey's behind-the-scenes scheming.
@@ -120,7 +113,6 @@
 - `INS-260327-F7BD` [high] Mati describes the CEO magic as being able to zoom out to strategy and zoom into product detail extremely quickly, switching between contexts in seconds.
 - `INS-260323-9146` [high] Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
 - `INS-260402-D2C9` [high] You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
-- `INS-260325-75EA` [high] A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
 - `INS-260325-6F89` [high] The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
 - `INS-260330-654D` [high] The Mandate of Heaven principle — that rulers lose legitimacy when they stop delivering — maps directly to how founders and CEOs lose authority.
 - `INS-260330-DB4B` [high] When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
@@ -132,7 +124,6 @@
 - `INS-260330-4C67` [high] Toussaint L'Ouverture made conquered French, British, and Spanish officers into his own generals because he needed their expertise to build a first-world country, not just win a war.
 - `INS-260327-0C56` [high] NPS can drop 30 points overnight but takes 12-18 months of sustained product improvement to recover; there are no magic blog posts or gestures that shortcut the process.
 - `INS-260324-C882` [high] Twitter's board fired 4 CEOs in 10 years, creating a culture of chaos where execution was impossible — interested buyers (Google, Disney, Salesforce) all walked away over governance concerns deeper than price.
-- `INS-260329-8299` [high] CS50's success proves that designing for complete beginners captures the largest possible audience.
 - `INS-260330-072C` [high] Great recruiters are great sourcerers who find tinkerers and outliers before the market recognizes them.
 - `INS-260327-A8D9` [high] If you don't use your values for the hardest decisions of your life, they're not really your values.
 - `INS-260323-FA30` [high] Teddy Atlas's father never lectured about values -- he picked up homeless people on holidays, treated patients for free, and his son absorbed these values through proximity and observation rather than direct instruction.

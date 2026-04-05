@@ -47,14 +47,11 @@ related:
   - INS-260329-9115
   - INS-260330-F31A
 evidence:
-  - id: INS-260330-F31A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+  - id: INS-260330-ECA9
+    relationship: RELATED
   - id: INS-260327-A458
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-9115
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Hormozi's friend achieved breakout results in 6 months by posting daily—a volume that most creators consider unsustainable. The mechanism isn't just algorithmic favoritism (though platforms do reward frequency); it's that daily posting compresses the learning loop. Each post is a micro-experiment in what resonates. At weekly cadence, you get 52 data points per year; at daily cadence, you get 365. This 7x increase in iteration speed means you discover your voice, audience, and winning formats far faster. The trade-off is quality per post, but Hormozi implicitly argues that volume-driven learning outweighs polish in the early stages of audience building.

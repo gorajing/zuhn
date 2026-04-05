@@ -54,10 +54,10 @@ stance: >-
   for decades, even when evidence of harm is conclusive internally.
 related:
   - INS-260330-C761
-  - INS-260404-E60B
   - INS-260330-BEF8
   - INS-260403-BF09
   - INS-260330-19C3
+  - INS-260330-656A
 evidence:
   - id: INS-260330-96FE
     type: SUPPORTS

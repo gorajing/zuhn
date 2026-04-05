@@ -46,11 +46,9 @@ resolutions:
 stance: Prompt quality should be examined before blaming the model for poor output
 evidence:
   - id: INS-260322-5790
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260403-4A4A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-D7C4
+    relationship: RELATED
 ---
 
 When Claude's output quality drops, the instinct is to blame the model.

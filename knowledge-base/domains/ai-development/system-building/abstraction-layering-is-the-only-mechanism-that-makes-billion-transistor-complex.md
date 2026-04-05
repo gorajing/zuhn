@@ -44,11 +44,11 @@ stance: >-
   below it
 related:
   - INS-260323-D56E
-  - INS-260329-D0B3
   - PRI-260328-C528
   - INS-260322-54F3
   - INS-260329-E914
-  - INS-260329-F211
+  - PRI-260403-ABDE
+  - PRI-260328-5D9E
 evidence:
   - id: INS-260322-54F3
     type: CHALLENGES

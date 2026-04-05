@@ -15,8 +15,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -52,11 +52,12 @@ stance: >-
   Costco supplier negotiating power that makes its prices lower than any loyalty
   program or volume discount could achieve
 related:
-  - INS-260403-DC2D
-  - INS-260403-180D
-  - INS-260404-6945
-  - INS-260404-36D7
-  - INS-260404-8466
+  - INS-260403-4874
+  - INS-260403-83A8
+  - INS-260405-DEF2
+  - INS-260405-D9C8
+  - INS-260405-1AAC
+  - INS-260405-88F9
 ---
 Costco's inventory discipline — roughly 4,000 SKUs versus 30,000 at a typical supermarket or 140,000 at Walmart — is not a limitation but a moat. When a supplier knows there are only one or two slots per category, they will lower prices, adapt their product specifications, and work to meet Costco's requirements to secure the slot. Costco used this leverage to re-engineer a cashew container to fit more per pallet, saving 24,000 pallets a year and passing the savings to customers.
 

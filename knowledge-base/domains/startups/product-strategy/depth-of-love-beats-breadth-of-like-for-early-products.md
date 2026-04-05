@@ -42,7 +42,6 @@ stance: >-
   large number who merely like it
 related:
   - INS-260327-2718
-  - INS-260327-7193
   - INS-260330-E089
   - INS-260330-E263
   - INS-260403-C3DF

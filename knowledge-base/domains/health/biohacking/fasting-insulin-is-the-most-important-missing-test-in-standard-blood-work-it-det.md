@@ -57,6 +57,7 @@ related:
   - PRI-260328-7AF5
   - PRI-260325-1C61
   - PRI-260328-AF97
+  - INS-260327-9EBA
   - INS-260327-B93E
 ---
 The mechanism is straightforward: when you consume excess sugar, insulin works overtime to clear it from the blood. Glucose stays 'normal' precisely because insulin is compensating heroically. Over years, cells develop insulin resistance (too much insulin becomes toxic), forcing the pancreas to produce even more insulin to maintain normal glucose levels. By the time glucose finally rises above normal, the underlying dysfunction has been progressing for 15-20 years.

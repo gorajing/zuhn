@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260402-AD42
   - INS-260330-0E49
-  - INS-260326-291C
   - INS-260403-AC74
   - INS-260328-57CF
   - INS-260325-36F0
+  - PRI-260328-604D
 ---
 Wand explicitly states: 'There was zero chance I would have started a business knowing what I know now.' He describes a deliberate knowledge acquisition strategy — consulting McKinsey partners, getting agent licenses, attending conferences — but stopping at the point where he had 'enough information to get to conviction and not too much information and know-how that it would scare me.' This isn't ignorance; it's calibrated naivete.
 

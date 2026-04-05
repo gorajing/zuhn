@@ -15,11 +15,8 @@ tags:
   - signaling
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -58,11 +55,11 @@ related:
   - INS-260323-4DD9
   - PRI-260323-8EEA
   - INS-260327-5688
+  - INS-260327-F405
+  - INS-260327-B0F2
   - INS-260328-E410
   - INS-260330-2576
-  - INS-260403-9689
-  - INS-260403-5C8E
-  - INS-260403-C5C0
+  - INS-260403-2F22
 ---
 Investors have heard thousands of pitches. Explicit claims of quality or passion have been conditioned into meaninglessness through overuse. Worse, stating them can mark you as naive about investor norms or, more charitably, as someone who relies on assertion rather than demonstration.
 

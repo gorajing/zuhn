@@ -49,10 +49,11 @@ resolutions:
     patterns and improvements.
 related:
   - INS-260323-3ADC
-  - INS-260323-23B9
   - INS-260320-922A
   - PRI-260328-5464
   - INS-260403-5B46
+  - INS-260323-23B9
+  - INS-260405-CA27
   - INS-260325-522A
   - INS-260403-D8C1
   - INS-260403-8A65

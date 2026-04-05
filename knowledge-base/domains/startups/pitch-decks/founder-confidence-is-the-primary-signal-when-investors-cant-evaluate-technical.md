@@ -57,10 +57,17 @@ related:
   - INS-260328-03BB
   - INS-260402-4719
   - INS-260403-F447
+  - INS-260403-4960
   - INS-260404-D672
-  - INS-260404-92AC
   - INS-260404-438C
   - INS-260404-AFE6
+evidence:
+  - id: INS-260327-5D13
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260325-9AD4
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham frames this precisely: confidence must be shown, never stated. Saying 'we're passionate about this' is the fastest way to signal the opposite — investors discard the claim and update negatively. Confidence that reads as authentic comes through pacing, directness, and the implicit stance that you're doing investors a favor by telling them about this.
 

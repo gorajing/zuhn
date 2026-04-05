@@ -53,11 +53,11 @@ resolutions:
     is motivated by creating value in the other. If you are not that way, you
     are a bad partner and people will not want to team with you.'
 related:
-  - INS-260322-116B
   - INS-260403-1DC9
   - INS-260323-D8A9
   - INS-260327-6405
   - PRI-260323-50FE
+  - INS-260327-015B
   - INS-260403-5F44
 stance: Neither white-collar nor blue-collar jobs are safe from AI
 evidence:

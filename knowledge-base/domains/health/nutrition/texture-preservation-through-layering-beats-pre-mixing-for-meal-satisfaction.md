@@ -46,10 +46,10 @@ stance: >-
   long-term meal satisfaction than flavor optimization.
 related:
   - INS-260327-34EB
-  - INS-260329-72EF
   - INS-260327-E2F1
   - INS-260327-E2F2
   - INS-260324-C2B9
+  - INS-260329-7E0A
 evidence:
   - id: INS-260327-34EB
     type: TRANSFERS_TO

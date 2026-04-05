@@ -14,8 +14,8 @@ tags:
   - retail
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,10 +50,11 @@ stance: >-
   rather than extracting margin from transactions
 related:
   - INS-260322-3259
+  - INS-260327-176D
   - INS-260327-B6D6
   - INS-260403-B2CB
   - INS-260403-5348
-  - INS-260403-F634
+  - INS-260403-CDB9
   - INS-260405-051E
   - INS-260404-60D6
   - INS-260404-35F8

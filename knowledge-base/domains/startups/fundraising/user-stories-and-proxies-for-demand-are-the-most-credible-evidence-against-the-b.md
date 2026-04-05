@@ -17,11 +17,8 @@ tags:
   - user-research
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -59,11 +56,9 @@ related:
   - INS-260402-F5E0
   - INS-260403-17A3
   - INS-260403-8F31
-  - INS-260403-419B
   - INS-260404-CF2A
-  - INS-260404-9E71
-  - INS-260404-3B9E
   - INS-260405-672E
+  - INS-260404-3D06
 ---
 Graham identifies the core anxiety driving early-stage investor skepticism: that the startup built something based on theory rather than real demand. Market size statistics don't address this — they describe a potential future, not present human need. A user story about a specific person using an inadequate workaround demonstrates that the problem exists today, independently of the startup.
 

@@ -54,11 +54,11 @@ stance: >-
   diversions — that consumers absorb without awareness, making the true economic
   cost of failed states far higher than direct damage estimates suggest.
 related:
-  - INS-260323-FEAB
   - INS-260322-F868
   - INS-260327-DFF1
   - INS-260327-DFF0
-  - INS-260403-747B
+  - INS-260404-AC1B
+  - INS-260403-2C00
 ---
 The direct cost of Somali piracy (ransoms paid) is a fraction of its true economic impact. The full cost of $4.9-8.3 billion annually includes insurance premium increases, private security contracts, naval patrol funding, route diversions, and fuel costs from speed increases (an extra $88,000/day per ship just for going from 13 to 18 knots). These costs cascade through supply chains and ultimately land on consumers as an invisible 'piracy tax' embedded in the price of goods.
 

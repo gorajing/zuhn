@@ -48,6 +48,7 @@ stance: >-
   skepticism
 related:
   - INS-260325-03D5
+  - INS-260325-C523
   - INS-260329-4F3F
   - INS-260330-4267
   - INS-260325-898A

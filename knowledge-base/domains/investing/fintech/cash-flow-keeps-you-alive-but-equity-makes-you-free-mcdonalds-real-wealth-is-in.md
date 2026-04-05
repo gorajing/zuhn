@@ -81,6 +81,12 @@ evidence:
   - id: INS-260330-353B
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-98E1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-BCA2
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Srivatsaa distinguishes the two financial pillars: cash flow pays today's bills (salary, revenue, distributions), while equity builds tomorrow's wealth (ownership stakes, real estate, business value). Most people optimize only for cash flow — higher salary, more clients — while neglecting equity accumulation.
 

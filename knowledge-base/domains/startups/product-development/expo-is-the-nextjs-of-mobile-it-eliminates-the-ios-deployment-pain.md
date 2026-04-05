@@ -47,11 +47,11 @@ stance: >-
   iteration.
 related:
   - INS-260320-8F12
-  - INS-260320-F872
   - INS-260323-0539
   - INS-260329-8DC5
   - INS-260330-8481
   - INS-260325-FDF5
+  - PRI-260328-FD47
 evidence:
   - id: INS-260320-8F12
     type: TRANSFERS_TO

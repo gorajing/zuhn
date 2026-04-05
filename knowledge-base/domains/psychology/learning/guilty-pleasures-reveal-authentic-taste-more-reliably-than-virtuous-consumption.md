@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260404-5AEB
   - INS-260403-B9E5
-  - INS-260403-1E82
-  - INS-260403-2F86
   - INS-260329-E900
   - INS-260329-5B3D
+  - INS-260327-8DDE
+  - INS-260325-DF66
 ---
 Graham observes that 99% of people reading Ulysses are thinking 'I'm reading Ulysses' as they do it. The feeling of virtue in consuming prestigious work contaminates your ability to evaluate it honestly. Guilty pleasures bypass this contamination because there's no status payoff — the enjoyment is pure.
 

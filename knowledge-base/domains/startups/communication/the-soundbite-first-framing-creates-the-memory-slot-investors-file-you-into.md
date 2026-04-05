@@ -14,11 +14,8 @@ tags:
   - mental-models
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -58,14 +55,11 @@ related:
   - INS-260404-6EB8
 evidence:
   - id: INS-260403-0AF4
-    type: SUPPORTS
-    classified_at: '2026-04-05'
-  - id: INS-260403-D375
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-448F
+    relationship: RELATED
   - id: INS-260404-D8C7
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Graham frames memorability as the first cut in investor evaluation: before they can evaluate you, they have to remember you. A clear analogical phrase creates a mental slot that persists. Viaweb's 'the Microsoft Word of ecommerce' instantly communicates product category, ambition level, and user experience philosophy in five words.
 

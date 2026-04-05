@@ -54,11 +54,11 @@ stance: >-
   resources — demonstrate that the psychological need driving the behavior is
   fundamentally unsatisfiable through material means.
 related:
-  - INS-260325-A1BC
-  - INS-260327-9BFD
   - INS-260323-7AF7
   - INS-260323-CEA8
+  - INS-260327-9BFD
   - INS-260327-94CC
+  - INS-260327-768D
 evidence:
   - id: INS-260323-7AF7
     type: CHALLENGES

@@ -1,6 +1,5 @@
 # Tag: concentration
 
-- `INS-260325-195E` Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
 - `INS-260403-E652` Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
 - `INS-260327-191B` At Rivoli, the Austrians attacked in multiple columns from different directions but Napoleon concentrated against each column before the others could arrive, defeating them piecemeal.
 - `INS-260327-33EA` Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.

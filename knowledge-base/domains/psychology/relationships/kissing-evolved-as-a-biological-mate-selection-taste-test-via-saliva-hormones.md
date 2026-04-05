@@ -48,11 +48,12 @@ stance: >-
   testosterone and health markers that enable subconscious mate quality
   assessment.
 related:
+  - INS-260325-FAC2
   - INS-260330-A59D
   - INS-260330-AA6E
   - INS-260325-6571
-  - INS-260325-5588
   - INS-260327-1E16
+  - PRI-260325-7A6B
 evidence:
   - id: INS-260330-A59D
     type: REFINES

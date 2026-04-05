@@ -3,7 +3,6 @@
 - `INS-260322-642F` For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
 - `INS-260403-14C7` Better ML models achieving greater accuracy from smaller datasets allow startup marketplaces to match incumbent underwriting capabilities without decades of historical data.
 - `INS-260322-2D2F` Financial fraud is growing 18-20% per year because AI-powered fraud (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
-- `INS-260330-EFB8` The absence of legacy banking infrastructure in Africa enabled direct adoption of mobile payments, bypassing checks and credit cards entirely.
 - `INS-260327-F996` Prediction markets handling $100B+/year in volume on everything from elections to war zone casualty counts are gambling platforms using academic information theory as regulatory cover.
 - `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
 - `INS-260322-EDA4` New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.

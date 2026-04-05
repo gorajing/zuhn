@@ -50,14 +50,12 @@ stance: >-
   Breaking a single large conversion into sequential smaller steps sacrifices
   total efficiency but makes each individual step thermodynamically feasible.
 related:
-  - INS-260330-1298
   - INS-260330-B27A
   - INS-260330-1084
   - INS-260330-BC56
-  - INS-260403-6F40
   - INS-260403-2DC0
-  - INS-260403-AC7A
-  - INS-260404-F908
+  - INS-260403-FC01
+  - INS-260404-EFA8
   - INS-260404-040D
   - INS-260404-3500
 evidence:

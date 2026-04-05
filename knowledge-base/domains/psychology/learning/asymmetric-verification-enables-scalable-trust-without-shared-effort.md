@@ -44,11 +44,11 @@ stance: >-
   natural scalability — one person's expensive work becomes everyone else's
   cheap certainty.
 related:
-  - INS-260322-F891
   - INS-260330-D6EF
   - INS-260328-E410
   - INS-260403-F1C6
   - PRI-260321-AD44
+  - PRI-260322-94C4
 evidence:
   - id: INS-260322-F891
     type: REFINES

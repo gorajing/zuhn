@@ -45,7 +45,6 @@ stance: >-
   function and metabolic health require 50-80 ng/mL.
 related:
   - INS-260325-4FB1
-  - INS-260325-024F
   - INS-260327-28FC
   - INS-260327-037A
   - INS-260325-4599

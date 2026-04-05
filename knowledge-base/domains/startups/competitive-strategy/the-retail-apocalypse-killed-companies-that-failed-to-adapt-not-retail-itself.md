@@ -15,8 +15,8 @@ tags:
   - adaptation
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -54,14 +54,14 @@ stance: >-
 related:
   - INS-260323-5106
   - INS-260323-8C53
+  - INS-260327-418E
   - INS-260327-0710
   - INS-260327-446A
   - INS-260330-9DE6
   - INS-260403-FED6
-  - INS-260404-2839
-  - INS-260404-96E6
-  - INS-260404-3070
   - INS-260403-D8A2
+  - INS-260404-3070
+  - INS-260404-2839
 ---
 The narrative that 'Amazon killed retail' is a misdiagnosis. Sears tried to do everything and did everything poorly. Toys-R-Us dismissed the internet as a fad. JC Penney forgot who its customers were. These failures were strategic, not Amazon-caused — Amazon provided the final pressure that exposed pre-existing rot.
 

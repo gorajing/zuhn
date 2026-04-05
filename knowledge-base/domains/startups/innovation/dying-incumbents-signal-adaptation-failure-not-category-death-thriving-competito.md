@@ -16,8 +16,8 @@ tags:
   - disruption-narrative
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -49,6 +49,7 @@ stance: >-
   When major players in an industry collapse, the cause is almost always their
   failure to adapt rather than the obsolescence of the entire category
 related:
+  - INS-260324-FF33
   - INS-260327-418E
   - INS-260327-1B4A
   - INS-260330-E615
@@ -56,9 +57,8 @@ related:
   - INS-260330-9DE6
   - INS-260403-CF09
   - INS-260403-FED6
+  - INS-260403-3673
   - INS-260404-3070
-  - INS-260404-CD53
-  - INS-260404-2839
 ---
 The 'Retail Apocalypse' narrative attributed store closures to Amazon making physical retail obsolete. But the reality is more nuanced: Sears tried to do everything poorly, Toys-R-Us dismissed the internet, J.C. Penney alienated its customer base. Meanwhile, in the exact same market conditions, Costco, Ross, Aldi, Lush, and Dollar General were growing.
 

@@ -49,8 +49,8 @@ related:
   - INS-260321-1992
   - INS-260329-CC75
   - INS-260404-35B6
-  - INS-260323-FEAB
   - INS-260329-C4A4
+  - INS-260330-608C
 stance: >-
   Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that
   crush margins as churn compounds and CAC rises.

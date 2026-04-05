@@ -12,10 +12,10 @@
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
-- `INS-260402-4F0E` People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260323-E1B6` Both liberal and conservative Supreme Courts agree on free speech because each recognizes they may be in the minority tomorrow and will need speech protections.
 - `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
 - `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.
 - `INS-260402-E22E` As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
+- `INS-260405-1F65` Independent creators on YouTube, podcasts, and Substack now produce the most rigorous public intellectual discourse, displacing universities and legacy media.
 - `INS-260330-72BD` The Mongol Empire splintered into four separate khanates after Genghis Khan's death because conquest outpaced institutional development.

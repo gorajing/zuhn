@@ -52,15 +52,12 @@ related:
   - INS-260326-3B43
   - PRI-260321-AD44
 evidence:
-  - id: INS-260325-0A81
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+  - id: INS-260325-82E8
+    relationship: RELATED
   - id: INS-260329-7B2D
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260326-3B43
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Traditional science and computing try to reduce the world into clean universal laws: if X is true, Y will happen. LLMs instead process a dense web of causal relationships between different parts of the world that all come together in unique, context-specific ways to produce what comes next.
 

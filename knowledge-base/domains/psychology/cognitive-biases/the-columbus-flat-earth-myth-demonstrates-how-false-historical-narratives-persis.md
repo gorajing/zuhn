@@ -48,6 +48,7 @@ stance: >-
   themselves products of ignorance — the flat Earth myth was invented in the
   1800s, not believed in 1492
 related:
+  - INS-260325-66BE
   - INS-260325-EBDD
   - INS-260330-1D61
   - INS-260330-3851

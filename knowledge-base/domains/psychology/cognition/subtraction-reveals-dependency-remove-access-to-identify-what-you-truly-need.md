@@ -48,6 +48,15 @@ related:
   - INS-260403-3F05
   - INS-260403-2D99
   - PRI-260324-DE71
+evidence:
+  - id: INS-260330-C31B
+    relationship: RELATED
+  - id: INS-260403-AABF
+    relationship: RELATED
+  - id: INS-260404-1FCE
+    relationship: RELATED
+  - id: INS-260403-2D99
+    relationship: RELATED
 ---
 Most dependencies become invisible through habituation — you stop noticing what you rely on because it's always available. Paul Graham's Island Test works by forcing a mental simulation of scarcity: when you imagine being cut off from everything, the items you insist on bringing reveal dependencies you've rationalized away.
 

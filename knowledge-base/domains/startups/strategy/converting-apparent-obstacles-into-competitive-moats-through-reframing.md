@@ -14,8 +14,8 @@ tags:
   - friction
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -53,11 +53,12 @@ related:
   - INS-260327-87A3
   - INS-260330-0C1B
   - INS-260403-6BD9
-  - INS-260404-445D
   - INS-260404-41AA
   - INS-260404-95BA
+  - INS-260404-B350
   - INS-260404-B24E
   - INS-260404-8B1C
+  - INS-260403-524B
 ---
 Costco's strategy is a masterclass in obstacle-to-advantage conversion. Its membership fee should make customer acquisition fatally difficult — instead, it creates loyal, affluent patrons. Its warehouse layout should confuse and annoy shoppers — instead, it forces wandering through aisles (increasing impulse purchases) and makes customers feel like deal-hunters. Its limited selection should frustrate choice-seeking consumers — instead, it eliminates decision paralysis and concentrates buying power.
 

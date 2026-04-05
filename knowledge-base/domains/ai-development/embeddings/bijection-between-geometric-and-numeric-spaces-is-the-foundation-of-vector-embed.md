@@ -51,11 +51,11 @@ stance: >-
   coordinates is the mathematical foundation that makes embedding-based AI
   systems possible
 related:
-  - INS-260329-ACEB
+  - INS-260405-214D
   - INS-260330-4F49
   - INS-260330-2689
+  - INS-260329-ACEB
   - INS-260330-CCA2
-  - INS-260330-BF2A
 evidence:
   - id: INS-260330-4F49
     type: SUPPORTS

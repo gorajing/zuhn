@@ -56,6 +56,7 @@ related:
   - INS-260325-B6B6
   - INS-260327-CB82
   - INS-260327-F384
+  - INS-260327-5DB4
   - INS-260327-AD25
 ---
 Saladino takes 20g creatine daily — 4x the bodybuilding standard. His rationale: creatine is not just a muscle supplement. The brain uses creatine for rapid ATP regeneration during demanding cognitive tasks. Research shows creatine supplementation improves working memory, reduces mental fatigue, and may be neuroprotective against neurodegenerative diseases. At higher doses, creatine also supports mitochondrial function throughout the body, has anti-inflammatory properties, and may improve cellular energy availability in aging tissues. The key insight: the standard 5g dose was established for muscle performance, not for whole-body cellular energy optimization. Higher doses saturate more tissues including brain, heart, and immune cells.

@@ -46,6 +46,7 @@ stance: >-
   overspending
 related:
   - INS-260323-53FF
+  - INS-260329-6130
   - INS-260329-0B9D
   - INS-260329-5B3D
   - INS-260329-BF96
@@ -54,7 +55,34 @@ related:
   - INS-260329-FCE6
   - INS-260403-34E0
   - INS-260403-268C
-  - INS-260403-39DD
+evidence:
+  - id: INS-260323-53FF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-0B9D
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260329-5B3D
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260329-BF96
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-BEFB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-94CF
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260329-FCE6
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-34E0
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-39DD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The popular narrative of fortunes lost to luxury spending is largely fiction. In reality, most wealth destruction comes from bad investments — particularly complex instruments like derivatives where you can lose millions instantly without the visceral discomfort of spending.
 

@@ -53,16 +53,15 @@ stance: >-
   reactions rather than single large ones, and human productivity follows the
   same thermodynamic logic
 related:
-  - INS-260330-3082
+  - INS-260330-CA62
   - INS-260330-0017
-  - INS-260330-4B45
-  - INS-260403-C725
-  - INS-260404-596E
   - INS-260403-D2FD
+  - INS-260404-2A07
+  - INS-260404-3C96
+  - PRI-260403-181B
   - INS-260403-A6AF
-  - INS-260403-2918
-  - INS-260404-A08A
-  - INS-260404-2D92
+  - INS-260403-8125
+  - INS-260403-FC01
 evidence:
   - id: INS-260330-E8CF
     type: TRANSFERS_TO
@@ -93,6 +92,9 @@ evidence:
     classified_at: '2026-04-03'
   - id: INS-260404-596E
     type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-A6AF
+    type: TRANSFERS_TO
     classified_at: '2026-04-05'
 ---
 In photosynthesis, excited electrons don't release all their energy at once. Instead, they pass through a transport chain (PSII → Cytochrome Complex → PSI → NADPH) where energy is extracted in controlled, incremental steps — each reaction capturing a small amount of useful work. If the energy were released all at once, most would dissipate as heat (like burning glucose with a match versus metabolizing it through glycolysis and the Krebs cycle).

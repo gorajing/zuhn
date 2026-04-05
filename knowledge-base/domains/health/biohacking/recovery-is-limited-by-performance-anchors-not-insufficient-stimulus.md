@@ -67,5 +67,8 @@ evidence:
   - id: INS-260330-4079
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-518E
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Galpin's recovery framework categorizes stressors into visible (training, known life stress) and hidden (poor sleep environment, nutritional gaps, chronic low-grade inflammation), then measures them against total recovery capacity. The key insight is that adaptation requires total stress to stay below recovery capacity — and most people are already over-stressed from non-training sources. His analogy: if your foot is on the brake and the accelerator simultaneously, pushing the gas harder wastes fuel and burns the engine. Taking your foot off the brake (removing performance anchors) produces faster improvement than adding stimulus. Practical recovery markers include grip strength on waking, HRV, vertical jump performance, and the finger tap test (tapping speed as a proxy for central nervous system readiness). For strength training specifically, you can train the same muscles daily because the primary adaptation is neural, not tissue damage. For hypertrophy, keep post-workout soreness at roughly 3/10 — enough to indicate stimulus, low enough to maintain training frequency.

@@ -57,10 +57,10 @@ stance: >-
   current state, the larger the opportunity
 related:
   - INS-260323-7E6F
-  - INS-260330-550F
   - INS-260330-5043
-  - INS-260330-7AB8
-  - INS-260330-D6ED
+  - INS-260330-550F
+  - INS-260403-DDFD
+  - INS-260326-80B1
 evidence:
   - id: INS-260323-7E6F
     type: SUPPORTS

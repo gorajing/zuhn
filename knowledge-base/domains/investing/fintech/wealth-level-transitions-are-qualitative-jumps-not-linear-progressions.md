@@ -50,7 +50,6 @@ stance: >-
   income to net worth to access to influence.
 related:
   - INS-260325-EBC3
-  - INS-260329-8329
   - INS-260402-CF0A
   - INS-260402-8F1E
   - INS-260403-8EFF
@@ -82,6 +81,9 @@ evidence:
   - id: INS-260403-830F
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-8EFF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The video maps five distinct wealth tiers, each with fundamentally different characteristics. At $200K income you're top 1% globally but still working and budget-conscious. At $10-30M your needs are met and no financial emergency can destroy you. At $30-100M you gain staff, multiple residences, and elite social access. At $100M-1B you can buy experiences and exclusivity that money alone can't access (private Louvre tours, celebrity tennis matches). At $1B+ you buy access, influence, time, and impact.
 

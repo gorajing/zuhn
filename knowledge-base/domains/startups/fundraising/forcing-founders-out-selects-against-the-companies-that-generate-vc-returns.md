@@ -46,14 +46,14 @@ stance: >-
   VCs who rely on board control to compel founders are systematically
   overweighting companies that won't produce outlier returns
 related:
+  - INS-260402-8424
   - INS-260402-8E29
   - INS-260403-0530
   - INS-260404-70AE
   - INS-260327-4DDE
-  - INS-260402-8424
-  - INS-260403-498A
   - INS-260403-573F
   - PRI-260403-26B9
+  - INS-260403-C9DC
 ---
 Graham argues that VC returns follow a power law — most money comes from a few massive outcomes. The companies that produce those outcomes are precisely the ones where founders have strong conviction and the leverage to retain control. If a VC needs to resort to compulsion (firing founders, overriding strategy), that's a signal the company likely isn't in the category that will generate outsized returns.
 

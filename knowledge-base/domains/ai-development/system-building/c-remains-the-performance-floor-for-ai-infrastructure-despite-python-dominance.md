@@ -50,12 +50,11 @@ stance: >-
   match its control over memory layout and compute.
 related:
   - INS-260329-A461
-  - INS-260329-7C59
-  - INS-260327-2C5F
   - INS-260329-12D1
   - INS-260405-131B
-  - INS-260330-C2C4
-  - INS-260330-EEBD
+  - INS-260329-0A55
+  - INS-260405-3772
+  - INS-260402-2879
 evidence:
   - id: INS-260327-2C5F
     type: SUPPORTS

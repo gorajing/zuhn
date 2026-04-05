@@ -56,6 +56,10 @@ related:
   - PRI-260403-C337
   - INS-260403-BE7C
   - PRI-260328-0E23
+evidence:
+  - id: INS-260322-BC97
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 NFX observes that financial infrastructure in many non-US markets — Latin America, Asia, Europe — is significantly less developed, creating more friction in customer experiences and business processes. This friction gap represents larger economic opportunity: when the baseline experience is worse, the value captured by digitizing and embedding financial services is proportionally greater.
 

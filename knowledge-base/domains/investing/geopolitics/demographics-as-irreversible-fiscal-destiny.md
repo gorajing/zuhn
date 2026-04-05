@@ -50,13 +50,12 @@ stance: >-
   systemic risk because today's age distribution is a fixed consequence of birth
   rates decades ago.
 related:
-  - INS-260327-4FD9
   - INS-260327-A478
   - INS-260330-FABE
   - INS-260330-777A
   - INS-260330-6C3D
   - INS-260330-E180
-  - INS-260330-C477
+  - INS-260327-1F6A
 evidence:
   - id: INS-260327-A478
     type: EXTENDS

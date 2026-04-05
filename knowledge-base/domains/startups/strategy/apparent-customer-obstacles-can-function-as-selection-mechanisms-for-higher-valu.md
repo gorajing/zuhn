@@ -17,8 +17,8 @@ tags:
   - demographic-targeting
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -61,26 +61,19 @@ related:
   - INS-260404-6E7B
 evidence:
   - id: INS-260404-5587
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-0CF7
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-137D
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-01B1
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-B435
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260404-79EC
+    relationship: RELATED
   - id: INS-260404-B2FB
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-6E7B
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-C40D
+    relationship: RELATED
 ---
 Conventional business wisdom says reduce friction to maximize customer acquisition. Costco's membership fee appears to violate this—charging customers before they can even browse. But the fee functions as a selection mechanism: it filters for households with ~$100K average income and business owners (one-third of members, two-thirds of sales). The sunk-cost psychology then converts these high-value customers into loyal repeat buyers who stop price-comparing.
 

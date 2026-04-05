@@ -48,10 +48,10 @@ stance: >-
   workflows.
 related:
   - INS-260403-8256
-  - INS-260327-26BF
   - INS-260330-BF8F
   - INS-260330-7E4F
-  - INS-260330-28B1
+  - INS-260327-25D7
+  - INS-260403-E59C
 evidence:
   - id: INS-260330-BF8F
     type: SUPPORTS

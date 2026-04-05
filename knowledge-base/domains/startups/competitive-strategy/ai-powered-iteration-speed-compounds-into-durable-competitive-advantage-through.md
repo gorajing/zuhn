@@ -58,9 +58,8 @@ related:
   - INS-260330-0102
   - INS-260329-595E
 evidence:
-  - id: INS-260329-C1E1
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+  - id: INS-260329-D48B
+    relationship: RELATED
 ---
 The obvious first-mover advantage of AI app building is shipping faster. But the more important advantage is compounding: each iteration cycle doesn't just improve the product, it generates user behavior data and feedback that makes the next iteration more precisely targeted. A founder who ships an AI-built MVP today and runs 50 iteration cycles in 3 months has learned 50 things about their users that a competitor starting 3 months later will also need to learn.
 

@@ -56,8 +56,12 @@ related:
   - INS-260330-A5C4
   - INS-260330-9935
   - INS-260403-4502
+  - INS-260405-0184
   - INS-260330-4DC5
-  - INS-260327-EDE4
+evidence:
+  - id: INS-260330-3363
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The video never says 'Niagara Falls will erode in 50,000 years' as a bare fact. Instead it anchors: the water erodes one foot of rock per year, so by the year 52,000 it reaches Lake Erie. Similarly, granite erodes one inch per ten thousand years, so Mount Rushmore vanishes by year 7 million. The Moon recedes one centimeter per year, so total eclipses end in 600 million years.
 

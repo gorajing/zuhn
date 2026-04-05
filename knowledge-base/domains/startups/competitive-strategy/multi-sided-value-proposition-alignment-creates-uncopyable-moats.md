@@ -52,7 +52,7 @@ stance: >-
   competitors must match all value propositions at once.
 related:
   - INS-260325-5455
-  - INS-260323-7B63
+  - INS-260322-019A
   - INS-260327-F316
   - INS-260328-17D7
   - INS-260329-12EA
@@ -60,6 +60,7 @@ related:
   - INS-260330-519D
   - INS-260403-427E
   - INS-260403-9E2D
+  - INS-260323-4EE4
 evidence:
   - id: INS-260325-5455
     type: SUPPORTS

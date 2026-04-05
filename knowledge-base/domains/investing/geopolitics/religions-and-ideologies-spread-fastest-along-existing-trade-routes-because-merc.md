@@ -50,10 +50,10 @@ stance: >-
   create trust.
 related:
   - PRI-260328-79DA
-  - INS-260327-D25D
   - INS-260327-B950
   - INS-260327-7C1A
   - INS-260330-24A5
+  - INS-260330-230D
 evidence:
   - id: INS-260330-24A5
     type: TRANSFERS_TO

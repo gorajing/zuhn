@@ -54,10 +54,10 @@ stance: >-
   motivation than smooth, frictionless learning paths.
 related:
   - INS-260329-A218
-  - INS-260329-B214
-  - INS-260329-03B5
-  - INS-260329-E6A1
-  - INS-260329-9311
+  - PRI-260403-0509
+  - INS-260329-023F
+  - INS-260330-E47D
+  - INS-260329-B2F4
 ---
 David Malan describes the CS50 learning experience as 'banging your head against the wall for hours, even days, trying to fix a bug' followed by 'the rush of emotion, accomplishment, pride, exhaustion when you finally solve some problem.' He frames this cycle not as an unfortunate side effect but as the primary mechanism through which learning happens — the frustration is load-bearing.
 

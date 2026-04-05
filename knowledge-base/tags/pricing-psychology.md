@@ -1,10 +1,8 @@
 # Tag: pricing-psychology
 
-- `INS-260404-9505` Costco's mandatory membership exploits sunk-cost bias universally, while Amazon Prime's optional model lets price-sensitive customers self-select out of the loyalty trap.
 - `INS-260403-546E` Costco's mandatory membership exploits sunk-cost psychology more effectively than Amazon Prime because there is no opt-out comparison path.
 - `INS-260405-F1FD` Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
 - `INS-260329-67D1` Letting customers choose their own quantity shifts price blame from the business to the buyer.
-- `INS-260330-707D` People evaluate purchases on sticker price rather than total cost of ownership, leading to systematically wrong judgments about which products are truly expensive.
 - `INS-260404-13F1` Once customers pay a membership fee, sunk-cost psychology makes them default to that retailer without comparing prices, converting a one-time payment into persistent behavioral change.
 - `INS-260404-5D39` Once customers pay a mandatory membership fee, sunk-cost bias makes them default to that retailer without comparing prices elsewhere.
 - `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'

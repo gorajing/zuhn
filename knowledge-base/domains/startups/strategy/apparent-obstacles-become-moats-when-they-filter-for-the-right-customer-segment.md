@@ -16,8 +16,8 @@ tags:
   - demographic-targeting
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -49,12 +49,16 @@ stance: >-
   layouts, and bulk-only sizing—simultaneously select for high-spending, loyal
   customers who generate disproportionate lifetime value.
 related:
+  - INS-260327-7681
+  - INS-260403-2C00
+  - INS-260403-08FE
   - INS-260403-FDB8
   - INS-260404-AC1B
-  - INS-260404-164F
-  - INS-260404-6E7B
-  - INS-260403-2C00
-  - INS-260404-6E47
+  - INS-260404-5587
+  - INS-260403-9104
+  - INS-260404-01B1
+  - INS-260404-E65A
+  - INS-260404-3C9B
 ---
 Traditional business advice treats friction as the enemy of growth. Costco demonstrates that strategically placed friction can be a powerful customer-selection mechanism. The $60-$120 membership fee filters for households with ~$100K average income. The bulk-only format attracts business owners (one-third of members generating two-thirds of sales). The confusing warehouse layout forces wandering that increases basket size.
 

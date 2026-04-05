@@ -50,6 +50,7 @@ stance: >-
   produce more consistent codebases that scale better across large teams than
   unopinionated alternatives.
 related:
+  - INS-260320-EA19
   - INS-260329-E208
   - PRI-260403-9E80
   - PRI-260403-6DD6

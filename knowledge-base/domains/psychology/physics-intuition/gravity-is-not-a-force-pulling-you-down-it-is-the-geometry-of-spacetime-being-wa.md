@@ -48,7 +48,6 @@ resolutions:
     account for Einstein's spacetime curvature or positioning would be off by
     kilometers.
 related:
-  - INS-260323-2D1D
   - INS-260323-C9B1
   - INS-260330-A149
   - INS-260330-DD85
@@ -58,6 +57,7 @@ related:
   - INS-260323-7F5D
   - INS-260330-E990
   - INS-260330-86A7
+  - INS-260330-1114
 stance: Einstein showed that gravity is not a force at all
 evidence:
   - id: INS-260323-2D1D

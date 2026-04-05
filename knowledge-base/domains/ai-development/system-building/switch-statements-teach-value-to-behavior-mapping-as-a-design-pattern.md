@@ -43,11 +43,13 @@ stance: >-
   Switch statements are more valuable as a teaching tool for the concept of
   dispatch tables than as a practical control flow mechanism
 related:
-  - PRI-260328-82A2
-  - INS-260329-0F06
   - INS-260329-C031
+  - INS-260329-0F06
+  - PRI-260328-82A2
   - INS-260327-4CB3
-  - INS-260329-4D03
+  - INS-260329-4F8C
+  - INS-260329-9745
+  - INS-260329-E4F6
 evidence:
   - id: INS-260329-0F06
     type: TRANSFERS_TO

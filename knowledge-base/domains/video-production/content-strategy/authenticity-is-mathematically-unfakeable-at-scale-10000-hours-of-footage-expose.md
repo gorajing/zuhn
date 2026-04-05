@@ -43,9 +43,9 @@ resolutions:
 related:
   - PRI-260322-94C4
   - PRI-260321-5857
-  - INS-260322-F891
   - INS-260329-577E
   - INS-260330-8E8A
+  - INS-260329-B7F5
   - INS-260330-E5F2
 stance: >-
   With 10,000+ hours of footage online, any inauthenticity would surface as

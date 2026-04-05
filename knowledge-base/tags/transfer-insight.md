@@ -6,4 +6,3 @@
 - `INS-260326-9E23` Before reaching for psychological explanations of cognitive or emotional symptoms, test the cheap physiological fix first.
 - `INS-260326-4F90` Better inputs beat better reasoning — most self-improvement focuses on the wrong variable.
 - `INS-260329-27A3` Learning concepts layered on top of each other in context transfers better than learning them in isolation.
-- `INS-260326-291C` AI should amplify founder cognition, not replace it — delegating the hard thinking prevents developing the judgment that separates successful founders from feature-shippers.

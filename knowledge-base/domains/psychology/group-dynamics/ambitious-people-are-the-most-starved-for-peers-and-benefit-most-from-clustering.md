@@ -53,11 +53,11 @@ stance: >-
   at their level are rare, making deliberate clustering of talent more valuable
   than individual mentorship.
 related:
-  - INS-260403-9DC6
   - PRI-260328-0C86
-  - INS-260402-2A1D
+  - INS-260403-9DC6
   - INS-260330-DD63
   - INS-260325-3CE2
+  - INS-260327-73CB
 ---
 Graham argues that YC's peer network may be even more important than partner advice, drawing parallels to Florence in the 15th century, Göttingen in the 19th, Bell Labs, and Xerox PARC. The key insight is that very ambitious people are the most starved for peers in everyday life, because people at their level are proportionally rare. This makes clustering disproportionately valuable for exactly the people who seem like they'd need it least.
 

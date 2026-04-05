@@ -54,7 +54,6 @@ stance: >-
   rather than purely cognitive biases.
 related:
   - INS-260323-6258
-  - INS-260330-051F
   - INS-260404-B6E8
   - INS-260405-F20F
   - INS-260330-11EB

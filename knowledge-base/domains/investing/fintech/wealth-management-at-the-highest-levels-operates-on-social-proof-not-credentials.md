@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-4367
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-C6DC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 In traditional finance, credentials serve as trust proxies: a CFA or Series 7 tells clients the advisor has demonstrated baseline competence. At the ultra-high-net-worth level, these credentials become irrelevant. Access, exclusivity, and social proof replace formal verification.
 

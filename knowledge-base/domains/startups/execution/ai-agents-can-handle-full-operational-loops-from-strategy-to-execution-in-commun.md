@@ -54,10 +54,10 @@ stance: >-
   managing 500-member organizations.
 related:
   - INS-260323-6414
+  - INS-260405-D660
   - INS-260327-C1A4
   - INS-260325-8F49
   - PRI-260328-0BA6
-  - INS-260320-A1D3
 evidence:
   - id: INS-260325-8F49
     type: SUPPORTS

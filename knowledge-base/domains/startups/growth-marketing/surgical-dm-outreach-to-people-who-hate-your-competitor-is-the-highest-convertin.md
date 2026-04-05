@@ -45,13 +45,12 @@ resolutions:
     outreach IS the validation — rejection patterns tell you whether to continue
     or pivot.
 related:
+  - INS-260322-6AF5
   - PRI-260328-BDC2
   - INS-260323-9393
-  - INS-260322-6AF5
   - INS-260329-DAC4
-  - INS-260329-EC98
-  - INS-260327-7AB5
   - INS-260327-472A
+  - INS-260327-7AB5
 stance: >-
   Find people on social media who publicly complain about the product you're
   replacing, build genuine trust, then offer your alternative

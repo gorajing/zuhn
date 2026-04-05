@@ -1,9 +1,8 @@
 # Topic: ai-market-dynamics
 
-> 94 insights
+> 93 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
-- `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
 - `INS-260323-B07C` [high] A Harvard study found that below-median entrepreneurs saw a 10% decline in profits from AI access because they lacked the judgment to filter good advice from bad.
 - `INS-260323-EF23` [high] The booster-doomer debate creates a false spectrum where the only question is whether powerful AI is good or bad — both camps share the unexamined premise that it works.
 - `INS-260322-1D52` [high] Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
@@ -42,6 +41,7 @@
 - `INS-260323-7A11` [high] Classical ML has one right answer and measurable error; generative AI has infinite valid outputs, making traditional ROI frameworks useless.
 - `INS-260321-2241` [high] Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
 - `INS-260329-EC30` [high] AI commoditizes synthesis; human judgment becomes the scarce, premium resource
+- `INS-260405-6A94` [high] OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
 - `INS-260323-1C32` [high] If every AI project must show predictable ROI, you're structurally incapable of innovation — the first pancake is always burned.
 - `INS-260327-5E40` [high] Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
 - `INS-260323-4EE4` [high] The new competitive moat is not better models but better judgment on which tasks go to which AI and which stay with humans.
@@ -49,7 +49,6 @@
 - `INS-260323-1452` [high] When executives mandate 'more AI everywhere,' it often signals abdication of decision-making rather than strategic vision.
 - `INS-260327-FDF4` [high] Karpathy's LLM OS framework: models are the CPU, modalities are peripherals, existing software infrastructure connects in, and there will be both default apps and a thriving third-party ecosystem.
 - `INS-260327-C15B` [high] Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
-- `INS-260327-0C4A` [high] Network quality, not just GPU power, determines how many GPUs can effectively work together on a single AI workload.
 - `INS-260321-2BF9` [high] NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
 - `INS-260325-DAD7` [high] Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
 - `INS-260403-8A65` [high] DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.

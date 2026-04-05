@@ -44,7 +44,6 @@ stance: >-
   minimalist, security-conscious lifestyles because their expertise reveals
   risks invisible to general consumers.
 related:
-  - INS-260320-1B10
   - INS-260327-7F64
   - INS-260329-500E
   - PRI-260328-D401

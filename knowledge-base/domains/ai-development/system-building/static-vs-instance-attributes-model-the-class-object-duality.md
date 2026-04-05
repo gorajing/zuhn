@@ -42,12 +42,9 @@ stance: >-
   classes are themselves entities with state, not just templates for objects
 related:
   - PRI-260320-467A
-  - INS-260329-9157
   - INS-260330-CE2F
-  - INS-260329-4D03
   - INS-260329-C33B
-  - INS-260329-0432
-  - INS-260329-BA12
+  - INS-260329-9157
   - INS-260329-41BC
 evidence:
   - id: INS-260330-CE2F

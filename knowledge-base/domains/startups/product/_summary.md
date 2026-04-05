@@ -1,9 +1,8 @@
 # Topic: product
 
-> 12 insights
+> 11 insights
 
 - `INS-260403-6CE6` [high] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
-- `INS-260404-D8A5` [high] Oxygen was a useless waste product of photosynthesis that accidentally became the foundation of all complex animal life.
 - `INS-260403-1A08` [high] Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
 - `INS-260403-EF20` [high] BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260403-CD68` [high] Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.

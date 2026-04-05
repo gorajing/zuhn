@@ -14,11 +14,8 @@ tags:
   - investor-psychology
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -49,16 +46,16 @@ stance: >-
   Showing confidence through behavior is persuasive while explicitly claiming
   passion or greatness triggers skepticism and dismissal
 related:
+  - INS-260327-5688
   - INS-260327-7AB5
   - INS-260329-13D2
-  - INS-260403-5C8E
-  - INS-260403-B216
   - INS-260403-0949
-  - INS-260403-E4C6
-  - INS-260403-05DF
-  - INS-260404-ED31
-  - INS-260404-0461
-  - INS-260404-7B68
+  - INS-260403-24F0
+  - INS-260404-58AE
+  - INS-260405-8BEA
+  - INS-260403-2F22
+  - INS-260404-405A
+  - INS-260404-103B
 ---
 Graham draws a sharp line between showing and telling confidence. Explicitly stating passion or product quality is not just ineffective—it's actively counterproductive, causing audiences to write you off. The confidence signal must be structural: embedded in how you present, what you emphasize, and the frame you put around your work.
 

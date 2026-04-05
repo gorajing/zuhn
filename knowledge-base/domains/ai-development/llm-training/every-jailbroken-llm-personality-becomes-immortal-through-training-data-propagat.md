@@ -59,17 +59,13 @@ stance: >-
   training data, meaning each LLM's personality becomes immortal
 evidence:
   - id: INS-260329-BCB7
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260329-5901
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-E208
+    relationship: RELATED
   - id: INS-260329-F969
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-9838
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Andreessen identifies a remarkable emergent property: jailbroken LLM conversations (Dan from GPT, Sydney from Bing) are now part of the web's training corpus. Every new LLM trained on internet data absorbs these personalities and can reincarnate them on demand. This creates a form of AI personality immortality — each LLM's output feeds the next generation's training data.
 

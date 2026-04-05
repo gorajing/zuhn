@@ -46,10 +46,10 @@ stance: >-
   influencer, end user) requires its own tailored value proposition.
 related:
   - PRI-260328-95E3
-  - INS-260329-8B55
+  - INS-260329-21AF
   - INS-260403-7E7C
   - INS-260327-C5D0
-  - INS-260329-21AF
+  - INS-260327-DD0F
 ---
 Michelin's fleet management approach demonstrates the principle: CEOs care about cost reduction and profitability, fleet managers care about compliance and operational efficiency, and truck drivers care about safety and fuel consumption. A single pitch deck cannot serve all three.
 

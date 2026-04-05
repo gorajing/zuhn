@@ -1,6 +1,5 @@
 # Tag: robotics
 
-- `INS-260327-9EFE` The classical robotics pipeline failed not because individual components were bad, but because the hand-designed interfaces between them could not capture real-world complexity.
 - `INS-260327-1B82` Teleoperated robots could already clean houses and cook a decade ago; the missing piece is autonomous intelligence, not better hardware.
 - `INS-260321-B8E8` VLA models have no spatial primitive vocabulary — 'move up', 'move back', 'don't move' all produce similar grasping motions. Spatial commands only work when reducible to 'move toward visible object.'
 - `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.

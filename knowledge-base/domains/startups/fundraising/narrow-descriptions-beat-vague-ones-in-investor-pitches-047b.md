@@ -14,11 +14,8 @@ tags:
   - clarity
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -60,9 +57,8 @@ related:
   - INS-260404-896B
   - INS-260405-28E2
 evidence:
-  - id: INS-260404-683B
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+  - id: INS-260403-7964
+    relationship: RELATED
 ---
 Founders resist narrow descriptions because early-stage products have many possible futures. But as a description approaches 'could be anything,' its information content approaches zero. Investors will tune out 'a system to collaboratively leverage information value' but engage with 'an easy web-based database.' The right approach is successive approximation: start with a gripping but perhaps overly narrow description, then flesh it out. This mirrors incremental development — at every point you have a 'working description' in the investor's head, even if it doesn't capture everything yet.
 

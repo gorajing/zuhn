@@ -49,11 +49,11 @@ stance: >-
   technological advancement depends on societal commitment rather than being an
   inevitable natural process.
 related:
-  - INS-260325-A46E
   - PRI-260328-BF67
   - INS-260327-C569
   - INS-260327-1D23
   - INS-260321-1A0B
+  - INS-260402-426C
   - INS-260330-647D
 evidence:
   - id: INS-260327-1D23

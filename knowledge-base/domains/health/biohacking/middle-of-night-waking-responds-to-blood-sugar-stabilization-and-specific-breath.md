@@ -40,11 +40,11 @@ stance: >-
   using 4-7-8 breathing can prevent and resolve this
 related:
   - INS-260325-123C
+  - INS-260325-4601
   - INS-260327-B987
   - INS-260327-1309
-  - INS-260325-4601
   - PRI-260328-B115
-  - INS-260327-0DFD
+  - INS-260330-968D
   - INS-260330-F374
 ---
 Waking at 2-3AM and inability to return to sleep is typically caused by blood sugar crashes triggering cortisol; eating a small amount of fat before bed and using 4-7-8 breathing can prevent and resolve this

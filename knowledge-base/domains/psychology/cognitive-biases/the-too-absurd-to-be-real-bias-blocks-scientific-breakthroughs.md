@@ -53,10 +53,10 @@ stance: >-
   historically delayed acceptance of correct theories by decades.
 related:
   - INS-260330-1509
-  - INS-260323-1670
   - PRI-260328-9FB6
   - INS-260330-2DF9
-  - INS-260323-2D1D
+  - INS-260323-5955
+  - INS-260403-6AD0
 evidence:
   - id: INS-260323-2D1D
     type: CHALLENGES

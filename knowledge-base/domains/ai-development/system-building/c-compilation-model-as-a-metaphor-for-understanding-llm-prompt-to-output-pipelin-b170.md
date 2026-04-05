@@ -55,12 +55,10 @@ related:
   - INS-260323-AF96
   - INS-260329-9311
 evidence:
-  - id: INS-260329-9311
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260329-D48B
+    relationship: RELATED
   - id: INS-260330-202A
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 C++ teaches that code goes through multiple transformation stages before producing output — preprocessing expands macros, the compiler converts to object code, the linker resolves references across files. This staged-transformation mental model transfers directly to understanding LLM pipelines: raw text → tokenizer → embedding → attention layers → output distribution → sampling → decoded text.
 

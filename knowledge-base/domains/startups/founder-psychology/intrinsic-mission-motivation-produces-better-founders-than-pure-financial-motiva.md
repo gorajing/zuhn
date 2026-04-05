@@ -57,6 +57,10 @@ related:
   - INS-260402-8C0E
   - INS-260402-43F9
   - INS-260403-9CD9
+evidence:
+  - id: INS-260327-FF64
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The YC summer founders were simultaneously idealistic and financially ambitious — they wanted to get rich by making something people use, not through speculation. Graham argues this combination makes them more effective because people work harder for a cause than for money alone, and the extra motivation shows up in product quality (e.g., Kiko's founders paying more attention to design than pure profit maximization would dictate).
 

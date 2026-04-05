@@ -56,17 +56,13 @@ stance: >-
   the crazy paths cancel each other out
 evidence:
   - id: INS-260402-2FDF
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260325-436A
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260330-56D6
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-8B93
+    relationship: RELATED
   - id: INS-260329-4E70
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Feynman's path integral formulation reveals that every particle — photons, electrons, even baseballs — simultaneously explores every possible path between two points, including paths that loop around the moon or go backward in time. Each path contributes equally in amplitude.
 

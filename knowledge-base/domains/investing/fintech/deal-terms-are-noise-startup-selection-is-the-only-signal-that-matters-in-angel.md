@@ -55,26 +55,19 @@ related:
   - INS-260403-D33B
 evidence:
   - id: INS-260329-2B60
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260402-8424
-    type: EXTENDS
-    classified_at: '2026-04-03'
-  - id: INS-260330-548B
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-D5BD
+    relationship: RELATED
   - id: INS-260328-195E
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260322-CFB1
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260402-CCF4
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260403-1217
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Paul Graham argues that angel investors who focus on mechanics and deal terms are optimizing the wrong variable. The difference between investing in Google at a $2M vs $4M valuation is trivial compared to the difference between investing in Google vs a failed startup. This insight has a power-law implication: in a portfolio of angel investments, one winner will dominate all returns, making the selection decision orders of magnitude more important than any term negotiation.
 

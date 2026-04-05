@@ -54,12 +54,8 @@ related:
   - INS-260404-2D92
   - INS-260330-4B45
 evidence:
-  - id: INS-260404-1CA4
-    type: EXTENDS
-    classified_at: '2026-04-05'
-  - id: INS-260404-2D92
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+  - id: INS-260403-7738
+    relationship: RELATED
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, photons excite electrons, which lose energy through a chain of protein complexes, each extracting a bit of energy to pump protons, generate ATP, or produce NADPH. Only then does the Calvin Cycle use these intermediate energy currencies to fix carbon. The system is wildly inefficient in total conversion but each stage is independently optimizable.
 

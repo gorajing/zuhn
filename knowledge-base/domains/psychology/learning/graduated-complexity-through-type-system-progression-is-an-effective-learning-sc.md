@@ -50,16 +50,15 @@ stance: >-
   (primitives → strings → arrays → objects → inheritance) provides natural
   cognitive scaffolding that mirrors how expertise develops
 related:
-  - INS-260329-DBFE
-  - INS-260329-71AB
-  - INS-260329-32DB
   - INS-260329-48FD
-  - INS-260329-25FC
-  - INS-260329-1075
+  - INS-260329-E402
+  - INS-260330-4D18
+  - INS-260330-AE16
+  - INS-260329-E914
+  - INS-260329-C33B
   - INS-260329-E43B
   - INS-260330-0ED2
   - INS-260330-0C0C
-  - INS-260330-4B30
 evidence:
   - id: INS-260330-0C0C
     type: TRANSFERS_TO

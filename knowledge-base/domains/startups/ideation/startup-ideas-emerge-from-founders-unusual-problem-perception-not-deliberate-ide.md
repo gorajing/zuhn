@@ -49,16 +49,16 @@ stance: >-
   The best startup ideas come from founders who naturally see problems others
   can't, rather than from systematic brainstorming about what the market needs.
 related:
-  - INS-260321-6BA7
   - INS-260327-E7A3
   - INS-260327-6725
-  - INS-260329-ABD9
   - INS-260330-725F
   - INS-260330-F737
-  - INS-260402-2A1D
   - INS-260405-F5D8
   - PRI-260328-04FA
   - INS-260403-573F
+  - INS-260403-805E
+  - INS-260403-45D5
+  - INS-260404-200B
 evidence:
   - id: INS-260330-870B
     type: CHALLENGES

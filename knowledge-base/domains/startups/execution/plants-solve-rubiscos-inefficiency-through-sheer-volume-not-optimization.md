@@ -46,7 +46,6 @@ stance: >-
   Compensating for a weak core process by scaling volume is a viable long-term
   strategy when replacement cost is prohibitive
 related:
-  - INS-260330-E1B3
   - INS-260330-BFA2
   - INS-260404-1FCE
   - INS-260404-AE3C

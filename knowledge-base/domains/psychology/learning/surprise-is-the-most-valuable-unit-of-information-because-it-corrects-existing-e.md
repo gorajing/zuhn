@@ -48,12 +48,11 @@ stance: >-
   Surprising facts are more valuable than merely new facts because they actively
   contradict and correct things you thought you knew.
 related:
-  - INS-260321-2564
   - INS-260330-3260
-  - INS-260402-4E59
   - INS-260403-222E
   - INS-260403-C135
   - INS-260402-E76D
+  - INS-260330-12DC
 evidence:
   - id: INS-260321-2564
     type: EXTENDS

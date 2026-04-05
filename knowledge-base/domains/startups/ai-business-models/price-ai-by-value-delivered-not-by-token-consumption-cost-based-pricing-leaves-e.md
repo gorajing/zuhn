@@ -55,6 +55,8 @@ related:
   - INS-260403-97F8
   - INS-260403-1E4A
   - INS-260327-C15B
+  - INS-260329-8F7C
+  - INS-260330-8639
   - INS-260403-4E16
 stance: >-
   AI application companies should price by business value delivered or

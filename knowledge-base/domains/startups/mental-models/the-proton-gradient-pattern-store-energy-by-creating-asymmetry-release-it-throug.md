@@ -66,29 +66,21 @@ related:
   - INS-260404-1E11
 evidence:
   - id: INS-260330-1677
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-9FAA
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-49E9
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260330-7FF3
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-3037
+    relationship: RELATED
   - id: INS-260330-666E
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260330-3BB5
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-8BA6
+    relationship: RELATED
   - id: INS-260403-791A
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-59B6
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 The light-dependent reactions work by pumping hydrogen ions into the thylakoid space, creating an ever-increasing concentration gradient. The protons 'naturally want to get away from each other' and the only exit is through ATP synthase, which harnesses that pressure to produce ATP. The energy isn't in any single proton — it's in the asymmetry between the two sides of the membrane.
 

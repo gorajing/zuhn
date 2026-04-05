@@ -47,7 +47,6 @@ stance: >-
   fast-moving things create more pressure
 related:
   - INS-260330-F76B
-  - INS-260330-7B07
   - INS-260330-12F9
   - INS-260330-0DF9
   - INS-260330-FD7C

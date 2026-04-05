@@ -16,11 +16,8 @@ tags:
   - signal-vs-noise
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -54,12 +51,11 @@ stance: >-
 related:
   - INS-260327-D2A6
   - INS-260403-19D8
-  - INS-260404-5483
-  - INS-260403-1852
-  - INS-260403-C625
-  - INS-260404-5D3B
-  - INS-260404-5DBD
-  - INS-260403-13ED
+  - INS-260405-092A
+  - INS-260404-E36F
+  - INS-260405-4FC0
+  - INS-260404-4DF7
+  - INS-260403-1DB7
   - INS-260404-C64D
 ---
 Even experienced founders with millions in funding typically have wrong business models that will change multiple times. Smart VCs know this and invest despite it. When you spend precious pitch minutes on business model details, two bad things happen: first, you're talking about your weakest material (guesses about stuff outside your expertise) instead of your strongest (the problem you understand deeply and the solution you've built). Second, if the model sounds wrong, it becomes the memorable anchor—investors remember you as 'the company with the boneheaded revenue plan' rather than 'the company that solved that important problem.'

@@ -50,37 +50,26 @@ stance: >-
   latent demand (Jevons paradox)
 evidence:
   - id: INS-260321-4B99
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260324-FF33
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-7D6D
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260324-D90C
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-D071
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260324-B0D3
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-744E
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-D583
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260403-B6A0
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260403-5D89
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
-  - id: INS-260404-57E3
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260405-4871
+    relationship: RELATED
 ---
 Karpathy argues cautiously optimistic about software engineering jobs. The classical example: ATMs were expected to replace bank tellers, but they made branch operations so much cheaper that more branches opened, creating more teller jobs. Similarly, AI making software development 10x cheaper unlocks enormous latent demand — code becomes ephemeral, customizable, and available for problems that were never economical to solve before. Digital information processing will see enormous activity.

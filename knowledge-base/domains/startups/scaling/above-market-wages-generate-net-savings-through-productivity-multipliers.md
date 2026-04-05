@@ -15,8 +15,8 @@ tags:
   - labor-strategy
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -48,14 +48,12 @@ stance: >-
   the productivity, making high wages a cost-reduction strategy rather than an
   expense
 related:
-  - INS-260404-E1B0
-  - INS-260404-8A1D
   - INS-260403-43E5
   - INS-260405-47FD
-  - INS-260403-5CB5
-  - INS-260403-857E
-  - INS-260404-FF84
-  - INS-260404-1936
+  - INS-260403-E2D9
+  - INS-260403-C125
+  - INS-260404-0FE4
+  - INS-260405-194D
 evidence:
   - id: INS-260404-E1B0
     type: SUPPORTS

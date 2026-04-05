@@ -52,7 +52,6 @@ related:
   - INS-260330-659D
   - INS-260330-012D
   - INS-260330-31A9
-  - INS-260404-E60B
   - INS-260330-656A
 evidence:
   - id: INS-260330-31A9

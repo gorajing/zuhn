@@ -46,11 +46,11 @@ stance: >-
   change than a list of behaviors to start, because stopping requires only
   willpower while starting requires both willpower and skill acquisition.
 related:
-  - INS-260329-9115
-  - INS-260329-7B1D
   - PRI-260328-4313
   - INS-260329-ADC4
   - INS-260330-E61E
+  - INS-260329-3489
+  - INS-260321-A56C
 evidence:
   - id: INS-260329-9115
     type: TRANSFERS_TO

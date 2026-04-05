@@ -60,6 +60,9 @@ evidence:
   - id: INS-260328-33E8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-9CD9
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Analyzing the Forbes 400, Srivatsaa identifies three paths: earned income (salary), selling a business, or buying and building continuously. The result: zero people made it on salary alone. A few made it by selling (Mark Lore sold Jet.com, Dan Gilbert sold Quicken Loans), but the vast majority — Musk, Bezos, Buffett, Zuckerberg — are buyers and builders. Even Dan Gilbert bought Quicken Loans back and took it public again.
 

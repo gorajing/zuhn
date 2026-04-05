@@ -59,14 +59,11 @@ related:
   - INS-260329-9311
 evidence:
   - id: INS-260329-9CED
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-F969
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260329-9311
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-D48B
+    relationship: RELATED
 ---
 The tutorial spends significant time explaining that C++ code must be compiled (translated) before it can be executed — the computer doesn't understand C++ directly, it understands machine code. This two-phase model (write → compile → run) is a powerful analogy for understanding LLM inference: prompts are tokenized (compiled into a representation the model understands), processed through the neural network (executed), and decoded back into text.
 

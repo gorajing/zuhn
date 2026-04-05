@@ -3,7 +3,6 @@
 - `INS-260330-54A3` UV light accelerates cataracts and damages the retina, but virtually all modern eyeglasses already block UV; blue-blocking adds no proven benefit and may interfere with circadian entrainment.
 - `INS-260327-B987` Grounding mats that connect to earth's electromagnetic field may be the most effective non-pharmaceutical sleep relaxation tool, based on reported subjective effects and emerging research.
 - `INS-260327-C150` Modern LED lighting damages health through invisible flicker and circadian-disrupting blue light spectra
-- `INS-260327-6F94` Morning sunlight exposure within 30 minutes of waking sets circadian rhythm for the entire day
 - `INS-260330-9449` Extending the fast around sleep on both sides (no food 1hr post-wake, 2-3hrs pre-bed) maximizes the cellular repair processes that drive fasting's health benefits.
 - `INS-260325-123C` There is no catching up on sleep; consistent sleep hygiene is the most powerful attention intervention.
 - `INS-260325-9693` Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.

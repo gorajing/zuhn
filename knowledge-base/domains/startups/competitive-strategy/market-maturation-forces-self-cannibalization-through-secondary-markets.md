@@ -45,12 +45,11 @@ stance: >-
   Companies that build durable, high-quality products inevitably create
   secondary markets that cannibalize their own new product sales
 related:
-  - INS-260322-22D0
-  - INS-260404-7BEE
   - INS-260329-788F
   - INS-260403-B6A0
-  - INS-260324-1275
-  - INS-260330-4DFA
+  - INS-260330-AB6F
+  - INS-260330-9313
+  - PRI-260322-8FD4
 evidence:
   - id: INS-260322-22D0
     type: TRANSFERS_TO

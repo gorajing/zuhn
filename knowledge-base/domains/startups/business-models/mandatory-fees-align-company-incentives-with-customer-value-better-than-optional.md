@@ -16,8 +16,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -47,11 +47,13 @@ stance: >-
   company to continuously deliver value, while optional loyalty programs like
   Amazon Prime leave the core business model unchanged
 related:
-  - INS-260404-A193
-  - INS-260404-E298
-  - INS-260404-4DC8
-  - INS-260403-0650
-  - INS-260404-E39D
+  - INS-260404-62D5
+  - INS-260403-8757
+  - INS-260405-48EC
+  - INS-260403-3F5F
+  - INS-260404-837E
+  - INS-260405-051E
+  - INS-260405-D4F4
 ---
 Costco generates 75% of its revenue from membership fees, not product markup. This fundamentally changes its incentive structure: raising prices saves pennies today but risks losing $60-120 annual renewals. Amazon Prime, by contrast, is optional and self-selecting — it creates loyalty but doesn't restructure the underlying business model.
 

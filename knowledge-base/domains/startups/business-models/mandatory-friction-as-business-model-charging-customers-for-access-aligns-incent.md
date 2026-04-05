@@ -17,8 +17,8 @@ tags:
   - subscription
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -48,12 +48,13 @@ stance: >-
   incentive alignment than those optimizing for acquisition, because revenue
   depends on renewal rather than upsell
 related:
-  - INS-260403-5C88
   - INS-260404-12A4
   - INS-260403-8757
   - INS-260404-B8AE
-  - INS-260404-66A1
-  - INS-260404-A193
+  - INS-260405-48EC
+  - INS-260404-60D6
+  - INS-260404-62D5
+  - INS-260405-D4F4
 ---
 Costco derives 75% of its profit from membership fees rather than product markup, which fundamentally changes its incentive structure. Unlike traditional retailers who profit from higher margins, Costco's survival depends on members renewing — which means every pricing and quality decision is oriented toward long-term satisfaction rather than short-term extraction.
 

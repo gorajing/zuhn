@@ -14,8 +14,8 @@ tags:
   - disruption-narrative
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -46,15 +46,15 @@ stance: >-
   rather than an inherent disadvantage of physical stores against e-commerce
 related:
   - INS-260325-EF66
+  - INS-260327-77A0
   - INS-260327-6EFB
+  - INS-260328-D0F6
   - INS-260330-E615
   - INS-260330-E54B
+  - INS-260330-C418
   - INS-260403-3673
   - INS-260403-D8A2
-  - INS-260403-87BE
   - INS-260403-B378
-  - INS-260404-D0D8
-  - INS-260403-6CA8
 ---
 The 'retail apocalypse' narrative frames Amazon as inevitably killing physical stores, but the data tells a different story. The companies that died — Sears (tried everything, did nothing well), Toys-R-Us (ignored the internet), J.C. Penney (forgot its customers) — failed because of specific strategic mistakes, not because physical retail was doomed. Meanwhile, Ross, Lush, Aldi, Dollar General, and Costco all grew during the same period.
 

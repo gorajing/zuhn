@@ -57,20 +57,15 @@ related:
   - INS-260404-DD77
 evidence:
   - id: INS-260327-679A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-57CE
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260403-BDE0
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260403-61B0
-    type: EXTENDS
-    classified_at: '2026-04-05'
-  - id: INS-260404-DD77
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-2F86
+    relationship: RELATED
 ---
 Altman draws a sharp distinction between existing disinformation (troll farms creating one viral meme everyone sees) and a new threat enabled by AI: systems that read everything a person has ever written online, then send a single message customized to that individual at precisely the right moment to shift their worldview.
 

@@ -16,8 +16,8 @@ tags:
   - membership-psychology
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,6 +51,7 @@ stance: >-
   spending and loyalty beyond what free-entry models achieve.
 related:
   - INS-260403-3F91
+  - INS-260403-CE5F
   - INS-260404-2D53
   - INS-260404-3156
   - INS-260404-50A7

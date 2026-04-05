@@ -55,13 +55,10 @@ stance: >-
   correct approaches.
 related:
   - INS-260329-FC75
-  - INS-260329-03B5
-  - INS-260329-5F37
   - INS-260329-DABC
   - INS-260329-F635
   - INS-260329-DAD1
   - INS-260329-F892
-  - INS-260329-D2CA
   - INS-260329-35F2
 evidence:
   - id: INS-260329-D2CA

@@ -14,11 +14,8 @@ tags:
   - credibility
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -47,11 +44,10 @@ stance: >-
   explicitly stating passion or product quality triggers investor skepticism
 related:
   - INS-260329-B4C8
-  - INS-260403-1B2D
-  - INS-260403-1E82
-  - INS-260403-E4C6
-  - INS-260404-ED31
-  - INS-260404-0461
-  - INS-260403-05DF
+  - INS-260403-2F22
+  - INS-260403-ED1F
+  - INS-260404-0CD8
+  - INS-260405-8BEA
+  - INS-260404-58AE
 ---
 When investors evaluate early startups, they lack technical depth and time to fully assess the product, so founder confidence becomes the single biggest piece of initial evidence. But this confidence must be shown, not told. Statements like 'we're passionate' or 'our product is great' get discarded as noise—or worse, mark founders as bullshitters. The correct framing is that if you've truly built something good, you're doing investors a favor by telling them about it. This reframe produces natural confidence rather than performed enthusiasm. Simultaneously, founders shouldn't overcorrect by trying to seem more corporate or polished than they are—smart investors detect bullshit better than hackers produce it, and attempting to conceal rawness may also conceal talent.

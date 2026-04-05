@@ -53,14 +53,23 @@ related:
   - INS-260323-FDB8
   - INS-260326-6B98
   - INS-260327-17BE
-  - INS-260329-B1D0
   - INS-260329-A231
   - INS-260330-06CD
   - INS-260330-870B
+  - INS-260330-3899
   - INS-260403-9775
 evidence:
   - id: INS-260326-6B98
     type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260325-0688
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-06CD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-17BE
+    type: TRANSFERS_TO
     classified_at: '2026-04-05'
 ---
 Less than 1% of startups become unicorns, meaning the vast majority of funded innovation bets fail. This is not a flaw in venture capital—it is the mechanism. The return distribution is so skewed that the winners pay for all the losers and then some. Corporate innovation fails when leaders apply project-accounting logic (each initiative must justify itself) rather than portfolio logic (the total return across all bets is what matters).

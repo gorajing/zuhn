@@ -49,10 +49,8 @@ related:
   - INS-260329-5346
   - INS-260330-7FFE
   - PRI-260403-C337
-  - INS-260330-EFB8
-  - INS-260324-8C30
   - INS-260327-4081
-  - INS-260403-4FA4
+  - INS-260324-8C30
   - INS-260404-83D5
 stance: >-
   Major banks like Goldman Sachs went from building their own email clients to
@@ -70,6 +68,12 @@ evidence:
   - id: INS-260327-4081
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-4FA4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-83D5
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 David Goldberg traces a cultural arc at large financial institutions: Goldman Sachs once built its own email client (Orbit) rather than use Outlook. Then came a period of trying to become fintech companies themselves (Marcus). After a humbling, they became more open to external technology.
 

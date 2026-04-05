@@ -48,10 +48,10 @@ stance: >-
   interfaces once mastered.
 related:
   - INS-260330-CCF0
-  - INS-260329-55C4
   - INS-260329-8830
   - INS-260330-AE16
-  - INS-260329-9115
+  - PRI-260328-5F64
+  - INS-260404-CE26
 evidence:
   - id: INS-260330-CCF0
     type: SUPPORTS

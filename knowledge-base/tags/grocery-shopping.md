@@ -1,7 +1,6 @@
 # Tag: grocery-shopping
 
 - `INS-260327-8EB7` Aldi offers grass-fed ground beef, organic eggs, and quality butter at the lowest prices of any national chain, making animal-based eating accessible on any budget.
-- `INS-260327-0C29` Conventional grapes and berries carry the highest pesticide loads; prioritize organic for these items while conventional thick-skinned fruits like avocados and bananas are safer.
 - `INS-260327-5C78` Costco provides the best value for grass-fed meat, organic eggs, and quality dairy in bulk
 - `INS-260327-2437` Products marketed as healthy at Trader Joe's and similar stores frequently contain hidden seed oils, processed ingredients, and misleading labels that contradict their health positioning.
 - `INS-260327-33F7` Target now carries grass-fed ground beef, pasture-raised eggs, organic dairy, and quality butter, making animal-based eating accessible at mainstream retailers nationwide.

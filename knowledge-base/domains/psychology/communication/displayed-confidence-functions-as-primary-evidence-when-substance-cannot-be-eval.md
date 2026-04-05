@@ -17,11 +17,8 @@ tags:
   - signaling
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -50,9 +47,9 @@ stance: >-
   to assess quality
 related:
   - INS-260403-5EB4
-  - INS-260404-523C
   - INS-260404-ED0F
   - INS-260403-4337
   - INS-260404-AFE6
+  - PRI-260323-1B96
 ---
 Graham identifies a structural information asymmetry at early-stage pitches: most investors are non-technical, and the time is too short for deep evaluation. In this environment, 'probably the single biggest piece of evidence, initially, will be your own confidence.' This isn't about enthusiasm — it's about removing counter-evidence. Appearing nervous or apologetic signals doubt about whether the product is actually good. The mechanism is implicit: explicit claims of passion or greatness are ignored or treated as bullshitting, while composed delivery lets the product speak without contradiction. The heuristic extends beyond fundraising to any domain where the audience cannot independently verify quality — confidence fills the evidentiary vacuum.

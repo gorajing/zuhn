@@ -46,11 +46,11 @@ stance: >-
   structural constraints and relationships upfront, producing better system
   design than iterating on data and retrofitting structure later.
 related:
-  - INS-260325-890D
   - INS-260403-AABF
   - INS-260403-2D99
   - INS-260320-5B49
-  - INS-260323-8D12
+  - INS-260405-66A1
+  - INS-260321-82FE
 evidence:
   - id: INS-260320-5B49
     type: SUPPORTS

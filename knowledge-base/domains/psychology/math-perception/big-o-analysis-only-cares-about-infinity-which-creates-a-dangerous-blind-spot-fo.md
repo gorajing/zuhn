@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260325-0409
   - INS-260325-FD14
-  - INS-260326-CAAB
   - INS-260329-D8BC
   - INS-260323-085A
   - INS-260325-FDA9
@@ -61,6 +60,7 @@ related:
   - INS-260329-9927
   - INS-260330-B4F1
   - INS-260330-CCA2
+  - INS-260403-EA2C
 evidence:
   - id: INS-260326-CAAB
     type: CHALLENGES

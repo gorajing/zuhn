@@ -7,5 +7,4 @@
 - `INS-260327-538D` Indigenous peoples have accumulated millennia of ecological knowledge through direct observation that Western science is only now catching up to through formal methods.
 - `INS-260323-8F41` Geometries allowed by equations don't automatically correspond to physical reality -- you must also check whether the required matter and energy actually exist.
 - `INS-260323-E77E` Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
-- `INS-260322-2DBD` Defining something as supernatural requires knowing what natural is — and since we don't fully understand nature, the boundary between the two remains fundamentally uncertain.
 - `INS-260323-1EEA` Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.

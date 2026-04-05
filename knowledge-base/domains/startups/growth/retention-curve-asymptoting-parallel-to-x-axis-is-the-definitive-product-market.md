@@ -60,11 +60,9 @@ related:
   - PRI-260403-E097
   - INS-260404-7C79
 evidence:
-  - id: INS-260330-3E0B
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260330-78B1
+    relationship: RELATED
   - id: INS-260330-A029
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Alex Schultz argues the retention curve is the single most diagnostic tool for product-market fit. Plot the percentage of users who are monthly active against days since acquisition on a cohort basis. If the curve asymptotes to a line parallel to the x-axis, you have a viable business. If it slopes down and intercepts the x-axis, you don't — and no growth hacking, virality engineering, or marketing spend will fix it. Facebook used this same methodology for their self-service advertiser product, predicting one-year advertiser value to 97% accuracy within 90 days of launch using only ~10,000 customers. The critical insight is that different verticals require different retention floors: social media needs ~80% monthly retention from early cohorts, while e-commerce can succeed at 20-30%. Rather than asking 'what is a good retention rate,' founders should use dimensional reasoning to estimate competitors' retention from publicly available data (active users divided by total addressable market) and benchmark accordingly.

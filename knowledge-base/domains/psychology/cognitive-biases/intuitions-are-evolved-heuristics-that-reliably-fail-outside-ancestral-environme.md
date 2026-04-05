@@ -50,10 +50,10 @@ stance: >-
   about reality's fundamental nature.
 related:
   - INS-260330-3B05
-  - INS-260329-8067
   - INS-260330-4634
   - INS-260325-DFA5
   - INS-260404-D452
+  - INS-260403-E8DD
   - INS-260403-0C95
 ---
 Intuitions are strong feelings that something is true, shaped by evolution to help with survival-relevant tasks: detecting danger, reading social cues, making rapid decisions about apartments or jobs. Studies show gut instinct often outperforms deliberate reasoning for these domains.

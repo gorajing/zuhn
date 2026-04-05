@@ -16,8 +16,8 @@ tags:
   - demographic-filtering
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -54,12 +54,12 @@ related:
   - INS-260327-0BDD
   - INS-260327-0755
   - INS-260329-DD01
-  - INS-260404-6E7B
+  - INS-260403-08FE
   - INS-260404-B086
-  - INS-260404-029D
-  - INS-260404-79EC
-  - INS-260404-164F
-  - INS-260404-EC27
+  - INS-260403-243A
+  - INS-260404-AC1B
+  - INS-260404-50A7
+  - INS-260403-2C00
 ---
 Costco's design choices look like obstacles: a $60 entry fee, confusing warehouse layouts, bulk-only quantities, and no frills. But each constraint serves as a customer selection mechanism. The membership fee filters for households earning ~$100K on average. The bulk sizing attracts business owners who constitute one-third of members but two-thirds of sales. The confusing layout forces wandering that increases cart size. Even the warehouse aesthetic makes customers feel like savvy deal-hunters rather than budget shoppers.
 

@@ -57,13 +57,12 @@ stance: >-
   observe determines which mechanisms you can identify.
 related:
   - INS-260330-D1A1
-  - INS-260330-7B07
   - INS-260330-E59F
   - INS-260330-24B6
-  - INS-260330-6C17
   - INS-260330-0DF9
   - INS-260330-59E3
   - INS-260330-6FDF
+  - INS-260330-CAB3
   - INS-260330-CBA5
 evidence:
   - id: INS-260330-6C17

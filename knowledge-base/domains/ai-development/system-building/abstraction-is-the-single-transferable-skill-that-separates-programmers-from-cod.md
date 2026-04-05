@@ -56,11 +56,13 @@ stance: >-
   behind a simple interface — is the core programming skill that transfers
   across all languages and paradigms.
 related:
+  - INS-260323-2C19
+  - INS-260322-3CFB
   - INS-260329-9EE4
   - PRI-260403-52DF
-  - INS-260330-2666
   - INS-260330-112E
-  - INS-260329-32DB
+  - PRI-260403-ABDE
+  - INS-260330-E5F7
   - INS-260329-40B6
   - INS-260330-1647
   - INS-260403-C6DC

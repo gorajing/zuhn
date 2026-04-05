@@ -53,12 +53,13 @@ stance: >-
 related:
   - INS-260323-4D5E
   - INS-260329-D913
+  - INS-260329-87C2
   - INS-260330-0F04
   - INS-260403-5B4E
-  - INS-260403-C313
   - INS-260403-D467
   - INS-260403-A1DF
   - INS-260323-F853
+  - INS-260330-DB4B
 ---
 Dutton's framing challenges the assumption that psychopathic traits are purely destructive. In the footbridge scenario, the psychopath makes the objectively utilitarian choice (save five, lose one) without hesitation, while normal people's emotional circuits create paralysis or refusal — resulting in five deaths instead of one.
 

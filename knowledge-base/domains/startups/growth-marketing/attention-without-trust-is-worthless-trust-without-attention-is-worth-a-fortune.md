@@ -58,5 +58,8 @@ evidence:
   - id: INS-260321-F0DF
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-15DA
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Seth Godin observes that people with 50 million followers often can't convert them into any business outcome, while people with tiny audiences generate disproportionate revenue. The key distinction: attention can be stolen through controversy, gimmicks, and sideshow behavior, but stolen attention has no economic value. Trust is built through consistent delivery of a promise — and trust converts at dramatically higher rates. The metric that matters isn't 'how many people saw this' but 'would they miss you if you were gone?' This reframes the creator economy: instead of chasing views, build something that earns trust from a small group who will actively tell others.

@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 228 insights
+> 217 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -20,7 +20,6 @@
 - `INS-260330-C6A2` [high] Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260329-EB4B` [high] Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
 - `INS-260328-7241` [high] Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
-- `INS-260327-A234` [high] Be a cockroach—survive everything by doing whatever it takes daily to prevent your company from dying.
 - `INS-260327-ECDA` [high] When the world changes, change the plan—and be transparent about it with investors, board, and employees.
 - `INS-260329-BE50` [high] Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260329-6514` [high] Improving what you already have compounds over time while new ventures reset your progress.
@@ -29,7 +28,6 @@
 - `INS-260330-CEAE` [high] Plants produce 40 billion tons of RuBisCo to compensate for its ~50% failure rate rather than evolving a replacement.
 - `INS-260327-4DDE` [high] The best startups come from founders solving their own daily pain points, not from market analysis.
 - `INS-260329-917B` [high] Starting with login plus one primary feature, verifying it works, then adding secondary features through follow-up prompts avoids the compounding errors of complex multi-feature requests.
-- `INS-260330-0BCC` [high] DNA polymerase proofreads as it copies, catching errors in real-time rather than after the fact — a model for building quality into process rather than inspecting for it later.
 - `INS-260330-3AF7` [high] DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260329-C0A7` [high] The business bottleneck is almost never in the domain the founder enjoys most.
 - `INS-260330-1C61` [high] Force yourself to list your top priorities, then compare against your actual calendar — the mismatch reveals where execution is failing.
@@ -37,7 +35,6 @@
 - `INS-260327-178E` [high] Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260327-3C19` [high] As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
 - `INS-260330-9751` [high] Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
-- `INS-260329-4870` [high] A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260403-9DA1` [high] Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260323-53BF` [high] Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260402-91B5` [high] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
@@ -73,7 +70,6 @@
 - `INS-260330-BEE7` [high] Successful founders personally handle customer support, obsess over tiny product details, and maintain the tightest possible feedback loop with users — especially in the first year.
 - `INS-260330-AB95` [high] Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
 - `INS-260330-258F` [high] Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
-- `INS-260403-9E63` [high] RuBisCo has been suboptimal for hundreds of millions of years but remains universal because every downstream plant process depends on it.
 - `INS-260403-3346` [high] Operational competence earns the trust needed for strategic ambition.
 - `INS-260403-3058` [high] Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
 - `INS-260403-71D1` [high] YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
@@ -88,11 +84,9 @@
 - `INS-260326-C657` [high] Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
 - `INS-260403-30E5` [high] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
-- `INS-260329-6020` [high] After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260403-EFAF` [high] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 - `INS-260327-6F12` [high] The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
 - `INS-260327-4081` [high] Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
-- `INS-260330-9A83` [high] Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260330-0102` [high] Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260330-8920` [high] The team broke multiple bats and redesigned between each attempt, reaching their goal faster than careful upfront engineering would have.
 - `INS-260403-FF4E` [high] Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
@@ -134,7 +128,6 @@
 - `INS-260403-E52B` [high] The Calvin Cycle produces 6 G3P molecules but 5 must regenerate the starting material—only 1 leaves as net output, revealing the true cost of sustaining a production cycle.
 - `INS-260402-841D` [high] Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-8D5D` [high] Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
-- `INS-260402-529F` [high] Starting small and growing incrementally lets you build things too ambitious to have planned upfront.
 - `INS-260402-C13F` [high] Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
 - `INS-260403-4050` [high] Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
 - `INS-260403-2376` [high] 'Make something people want' tells you where to go; 'be relentlessly resourceful' tells you how to get there day by day.
@@ -165,13 +158,11 @@
 - `INS-260329-818A` [high] HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
 - `INS-260329-4293` [high] Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
 - `INS-260403-9173` [high] Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
-- `INS-260330-A3B7` [high] Testing baseline → single unit → stacked units in sequence reveals the failure mode at each stage, which a single end-state test would obscure.
 - `INS-260330-B50A` [high] Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - `INS-260330-3A0D` [high] Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.
 - `INS-260330-7F62` [high] A YC company's Connecticut LLC-to-Delaware conversion was done incorrectly by local lawyers, requiring four law firms and $500K to fix years later during a major fundraise.
 - `INS-260330-637F` [high] The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260330-A78C` [high] YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
-- `INS-260329-E40B` [high] The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-19F9` [high] The 5-phase emotional cycle (uninformed optimism → informed pessimism → despair → informed optimism → achievement) explains why serial-starters never build wealth.
 - `INS-260402-7182` [high] When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - `INS-260329-E6C3` [high] Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
@@ -183,7 +174,6 @@
 - `INS-260329-D4BC` [high] Don't make your bank balance the goal — make your monthly income the goal, and reinvest excess into skills that increase that income.
 - `INS-260327-2718` [high] A thousand complaints from dedicated users is healthier than silence or universal satisfaction.
 - `INS-260330-2952` [high] Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve.
-- `INS-260329-24CE` [high] Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
 - `INS-260330-D031` [high] Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260403-91FD` [high] Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260327-10E0` [high] If you can't explain specifically why you'll beat competitors before building, don't start building.
@@ -213,7 +203,6 @@
 - `INS-260403-C4BE` [medium] Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
 - `INS-260405-A103` [medium] The Calvin Cycle produces 6 G3P molecules per turn but must use 5 of them to regenerate the starting molecules — only 1 net output escapes per cycle, meaning 83% of output is structural overhead.
 - `INS-260403-7BBD` [medium] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
-- `INS-260330-498B` [medium] Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.
 - `INS-260329-1F3F` [medium] Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260329-50BD` [medium] The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
 - `INS-260405-202B` [medium] Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.

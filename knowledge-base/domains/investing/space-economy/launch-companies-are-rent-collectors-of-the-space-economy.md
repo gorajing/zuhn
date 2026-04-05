@@ -53,6 +53,10 @@ related:
   - INS-260330-2064
   - INS-260403-8E25
   - PRI-260328-0E23
+evidence:
+  - id: INS-260330-2064
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Every company operating in space must pay for launch as a non-negotiable cost of doing business. This positions launch providers as infrastructure gatekeepers who collect 'rent' from the entire ecosystem above them. The analogy to landlords is structurally apt: as the space economy grows, launch demand scales with it, and the providers with locked-in capacity earn recurring revenue regardless of which individual space companies succeed or fail.
 

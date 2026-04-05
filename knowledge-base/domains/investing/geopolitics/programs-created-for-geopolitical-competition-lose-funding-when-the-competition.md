@@ -54,7 +54,7 @@ related:
   - INS-260327-F484
   - INS-260327-A75C
   - INS-260328-8445
-  - INS-260323-DF0F
+  - PRI-260328-0E23
 ---
 The Apollo program achieved its stated goal — landing on the Moon — but was cancelled shortly after because its real purpose was geopolitical: demonstrating American technological superiority over the Soviet Union. Once the Soviet space program stopped competing (after repeated failures and leadership changes), the political justification for Apollo's enormous cost disappeared.
 

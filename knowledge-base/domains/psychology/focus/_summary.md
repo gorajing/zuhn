@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 175 insights
+> 159 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -14,7 +14,6 @@
 - `INS-260325-6534` [high] People who believe being alone is positive feel good during alone time; those who believe it is negative feel lonelier — making belief the key variable, not the aloneness itself.
 - `INS-260327-B19E` [high] Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
 - `INS-260325-71DE` [high] Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
-- `INS-260329-9CED` [high] CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260327-6570` [high] Nothing feels fun because constant digital stimulation has elevated your dopamine baseline so high that normal activities can't produce enough relative increase to register as pleasure.
 - `INS-260329-6DED` [high] Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
 - `INS-260328-AE33` [high] Your brain needs both exercise (hard thinking) and rest (deliberate boredom) — AI outsourcing eliminates the exercise, digital stimulation eliminates the rest.
@@ -22,7 +21,6 @@
 - `INS-260330-A3AF` [high] Confidence problems are usually domain-specific, meaning the person already has the psychological machinery — they just need to extend it to the problem area.
 - `INS-260323-369C` [high] The most dangerous aspect of addiction for creative people is the false belief that substances are the source of creativity — Callaghan proved the creative engine survives intact after sobriety.
 - `INS-260404-B7E4` [high] You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
-- `INS-260329-91DD` [high] CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
 - `INS-260327-4EDE` [high] Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260325-0103` [high] Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.
 - `INS-260328-217C` [high] Deadline-free procrastination silently extends forever because the Panic Monster never wakes up, making it the primary source of long-term regret.
@@ -37,7 +35,6 @@
 - `INS-260330-E823` [high] Blinks function as scene breaks that reset time perception, and dopamine controls blink rate—explaining why ADHD (low dopamine) causes both poor time management and poor focus.
 - `INS-260330-0C31` [high] Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
 - `INS-260329-DABC` [high] Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
-- `INS-260325-E78D` [high] Claiming you do not need a philosophy of life IS a philosophy of life — an unexamined one that probably serves you worse than a deliberate one.
 - `INS-260330-7AE9` [high] Expert meditators don't hold perfect focus — they recover from distraction faster, making each mind-wandering episode a training rep rather than a failure.
 - `INS-260404-D547` [high] Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 - `INS-260323-C1B2` [high] Fear occurs in proportion to importance — the intensity of your resistance signals the significance of the action you are avoiding.
@@ -59,8 +56,6 @@
 - `INS-260330-0149` [high] Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
 - `INS-260403-7ED5` [high] Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
 - `INS-260329-F969` [high] Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
-- `INS-260329-03B5` [high] Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
-- `INS-260329-8868` [high] Reducing downside risk on first attempts lets people discover aptitude they would otherwise never explore.
 - `INS-260330-95A5` [high] Choose the meditation type (internal vs. external focus) that opposes your current default state to maximize brain circuit change.
 - `INS-260329-9A30` [high] A meeting that costs a manager one of 100+ time slots costs a maker one of only 10 weekly work blocks — a 10x asymmetric penalty.
 - `INS-260329-E44D` [high] Meetings cost makers 10x more than managers because makers work in few large blocks while managers work in many small slots.
@@ -81,7 +76,6 @@
 - `INS-260327-7581` [high] Focus on doing the work well rather than achieving the result, and the result takes care of itself.
 - `INS-260329-2B52` [high] Remove obligations rather than adding routines to achieve breakthrough productivity.
 - `INS-260329-7EFD` [high] Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
-- `INS-260329-72D5` [high] Layer concepts incrementally through progressively harder problems rather than front-loading all theory before practice.
 - `INS-260329-2242` [high] Block your first 4-6 hours for the one thing that would make all other problems disappear.
 - `INS-260327-73CB` [high] The most meaningful work combines multiple domains rather than maximizing one - the person who connects their varied interests often contributes more than the pure specialist.
 - `INS-260330-A1D2` [high] Leslie Perlow's experiment showed engineers who protected mornings from all interruptions on specific days achieved 65% above-average productivity.
@@ -112,16 +106,11 @@
 - `INS-260325-D5C6` [high] Mindfulness is not always helpful, emotional suppression is not always harmful — every strategy's effectiveness depends on the specific situation, which Bonanno calls the fallacy of uniform efficacy.
 - `INS-260325-3E86` [high] The flexibility sequence is: 1) narrow the problem to what is bothering you right now, 2) choose a strategy from your toolbox, 3) check if it is working and iterate if not.
 - `INS-260325-2052` [high] Stop and ask 'what is the specific problem right now?', choose one strategy from your toolbox, monitor if it works, and try something else if it doesn't — this iterative loop is the core of resilience.
-- `INS-260329-B214` [high] Programming bugs are the learning mechanism itself, not obstacles to overcome before learning happens.
 - `INS-260329-FC75` [high] CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
 - `INS-260325-EF66` [high] Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260323-2394` [high] Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260325-D797` [high] The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260327-BE49` [high] The more boring you are - consistent routines, repeated practice, unglamorous persistence - the more impressive you become over time.
-- `INS-260329-979B` [high] CS50 starts with Scratch (visual blocks) before C to let students internalize programming concepts without fighting syntax simultaneously.
-- `INS-260329-C1E1` [high] Tight write-test-observe cycles teach abstract concepts faster than front-loaded theory because they catch misconceptions before they compound.
-- `INS-260329-D48B` [high] The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
-- `INS-260329-9311` [high] The course's core pedagogy — type code, compile, run, observe output, modify, repeat — exploits tight feedback loops to build intuition for abstract concepts like memory layout and type systems.
 - `INS-260325-4CF9` [high] The brain's wanting system is diffuse and insatiable; the liking system is small and satiable. Tech exploits the wanting system.
 - `INS-260325-7417` [high] The brain's wanting circuit is easy to trigger but impossible to satisfy, creating the hedonic treadmill that technology exploits for engagement.
 - `INS-260323-334D` [high] Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
@@ -140,7 +129,6 @@
 - `INS-260403-AA0B` [medium] Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - `INS-260330-9E25` [medium] Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260325-4FD0` [medium] When personal development advice makes you cringe, that's reliably a defense mechanism — the discomfort signals the material is touching something genuinely vulnerable.
-- `INS-260329-EE04` [medium] Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260322-6042` [medium] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
 - `INS-260325-243C` [medium] If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
 - `INS-260329-565E` [medium] Hormozi ate the same lunch every day for 2 years, treating meal selection as a solved problem to eliminate daily decision fatigue and preserve cognitive bandwidth for business.
@@ -148,7 +136,6 @@
 - `INS-260323-DA91` [medium] Camus's Sisyphus finds happiness not by winning but by embracing the insurmountable task with full commitment — meaning comes from service and duty, not from outcomes.
 - `INS-260329-812E` [medium] Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
 - `INS-260328-FE38` [medium] There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
-- `INS-260325-14A9` [medium] Non-procrastinators don't exist — everyone has domains where the absence of deadlines lets the Monkey win unchecked.
 - `INS-260323-97DB` [medium] Adams never thought losing was possible — he entered every contest expecting to win, which meant his only losses were Olympic and World Championship finals on split decisions.
 - `INS-260329-50C0` [medium] 24 short chapters across 13 hours creates frequent completion signals that sustain momentum through long learning journeys.
 - `INS-260329-1B2A` [medium] Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
@@ -161,7 +148,6 @@
 - `INS-260323-34B7` [medium] The most intense flow states and deepest gratitude emerge when your actions are directly connected to meeting fundamental survival needs.
 - `INS-260403-50F1` [medium] Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
 - `INS-260329-72AC` [medium] Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
-- `INS-260329-0068` [medium] Project-based progressive learning embeds concepts in context, producing stronger recall and motivation than abstract-first teaching.
 - `INS-260325-AEF5` [medium] Asking yourself 'What is happening now? What do I need to do? What tools do I have?' converts the flexibility sequence from abstract framework into real-time cognitive tool.
 - `INS-260325-2944` [medium] Shifting self-talk from statements ('I'll be fine') to questions ('What's happening now? What tools do I have?') activates problem-solving rather than just emotional comfort.
 - `INS-260330-4285` [medium] Goggins manages ADHD through absolute compartmentalization — each activity gets total focus with zero mental bleed between domains.
@@ -170,9 +156,7 @@
 - `INS-260329-19EE` [medium] Events, masterminds, and networking carry enormous hidden costs beyond their time slots — they fragment focus and create ongoing obligations.
 - `INS-260329-3FED` [medium] Your biggest monthly expense isn't rent — it's the income gap caused by not knowing how to earn more, making ignorance debt the most expensive debt to carry.
 - `INS-260323-2B53` [medium] Neil Adams describes his desire to win as something 'as much a part of me as my arms and legs' — deeply rooted rather than learned, persisting from childhood competitions through to casual games of pool decades after retirement.
-- `INS-260329-5F37` [medium] Every CS50P example follows a pattern of intentionally broken code → diagnosis → fix, training students to see confusion as the precursor to understanding rather than evidence of inability.
 - `INS-260325-C884` [medium] A Life Calendar — one box per week of a 90-year life — makes finite time concrete enough to function as an artificial Panic Monster for non-deadline goals.
-- `INS-260329-70D5` [medium] CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
 - `INS-260329-177E` [medium] The 'Season of No' is a deliberate period of saying no to all social activities and entertainment to create an environment that makes intense work the only option.
 - `INS-260330-BA3A` [medium] Measuring personal growth creates an identity around being-the-person-who-is-growing, which is just another mental trap.
 - `INS-260322-E90F` [medium] Stare at a wall for 10-15 minutes when you can't focus — it acts as a mental bandwidth reset that reliably produces flow state afterward, with diminishing returns past 15 minutes.

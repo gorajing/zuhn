@@ -48,12 +48,12 @@ stance: >-
   belief that psychopathic individuals are permanently unchangeable.
 related:
   - INS-260323-198E
-  - INS-260325-6DD8
   - INS-260325-A36F
   - INS-260323-9C11
   - INS-260327-CEE4
   - INS-260330-579B
   - INS-260327-B72F
+  - INS-260327-0E57
 evidence:
   - id: INS-260323-198E
     type: TRANSFERS_TO

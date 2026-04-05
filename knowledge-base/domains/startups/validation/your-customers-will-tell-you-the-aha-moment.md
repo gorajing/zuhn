@@ -43,10 +43,10 @@ stance: >-
   brainstorming.
 related:
   - INS-260323-40AA
-  - INS-260329-EC98
   - INS-260327-7CE9
   - INS-260330-8103
   - INS-260329-C36D
+  - INS-260404-D1E2
 evidence:
   - id: INS-260329-C36D
     type: CHALLENGES

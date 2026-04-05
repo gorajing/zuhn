@@ -16,8 +16,8 @@ tags:
   - culture
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -56,6 +56,19 @@ related:
   - INS-260405-194D
   - INS-260403-C125
   - INS-260404-E1B0
+evidence:
+  - id: INS-260404-8A1D
+    relationship: RELATED
+  - id: INS-260403-43E5
+    relationship: RELATED
+  - id: INS-260404-EE20
+    relationship: RELATED
+  - id: INS-260405-194D
+    relationship: RELATED
+  - id: INS-260403-C125
+    relationship: RELATED
+  - id: INS-260404-E1B0
+    relationship: RELATED
 ---
 The standard business instinct is to minimize labor cost per hour. Costco's data suggests the relevant metric is output per dollar spent, not wages per hour. Higher wages attract better candidates, reduce turnover (eliminating costly rehiring and training cycles), and create genuine loyalty that shows up as lower theft, better customer service, and higher throughput.
 

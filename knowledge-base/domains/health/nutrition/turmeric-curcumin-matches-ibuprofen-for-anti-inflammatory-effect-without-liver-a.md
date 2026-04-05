@@ -45,10 +45,10 @@ stance: >-
   anti-inflammatory and pain relief comparable to ibuprofen while protecting
   rather than damaging the liver and gut lining.
 related:
-  - INS-260327-A89B
   - INS-260327-A2BB
   - INS-260327-6E3B
   - INS-260327-E8D3
   - PRI-260328-AF97
+  - PRI-260328-97E0
 ---
 Multiple clinical trials compare curcumin directly to ibuprofen for osteoarthritis and inflammatory pain — with comparable results. But ibuprofen damages the gut lining, increases ulcer risk, stresses the liver, and raises cardiovascular risk with chronic use. Curcumin is hepatoprotective (helps the liver) and gut-protective. The absorption challenge: curcumin is poorly bioavailable alone. Must be combined with black pepper extract (piperine) which increases absorption by 2000%, or taken as a liposomal formulation, or consumed with fat. Half a teaspoon of turmeric with black pepper and fat at meals provides therapeutic benefit.

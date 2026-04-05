@@ -58,14 +58,11 @@ related:
   - INS-260325-812F
 evidence:
   - id: INS-260321-80A9
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260325-812F
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260325-B393
+    relationship: RELATED
   - id: INS-260325-E8BC
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Graham argues that fields have natural rhythms of golden ages and decline that are beyond individual control. You're far more likely to do great work in a field on the way up. But golden ages are never labeled in real time — they feel like 'just' smart people working hard on interesting problems and getting results. Their participants take the conditions for granted.
 

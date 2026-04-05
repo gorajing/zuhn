@@ -55,6 +55,7 @@ stance: >-
 related:
   - INS-260323-8268
   - INS-260322-BFDE
+  - INS-260327-DAE5
   - INS-260327-76DA
   - INS-260329-AF18
   - INS-260329-2865
@@ -62,7 +63,6 @@ related:
   - INS-260329-8DE7
   - INS-260403-92CC
   - INS-260330-21CC
-  - INS-260329-0F10
 evidence:
   - id: INS-260323-8268
     type: TRANSFERS_TO

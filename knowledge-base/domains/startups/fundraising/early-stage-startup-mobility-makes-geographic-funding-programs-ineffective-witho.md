@@ -45,11 +45,11 @@ stance: >-
   rendering local ecosystem-building through small grants nearly useless.
 related:
   - INS-260330-7DA5
-  - INS-260402-180C
   - INS-260403-C381
   - INS-260403-CA93
   - INS-260403-5B46
   - INS-260403-37FD
+  - INS-260403-0680
 evidence:
   - id: INS-260402-180C
     type: CHALLENGES

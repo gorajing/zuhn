@@ -17,11 +17,8 @@ tags:
   - soundbite
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -55,13 +52,13 @@ related:
   - INS-260323-539C
   - INS-260322-25B4
   - INS-260327-BE4E
+  - INS-260327-9BA2
   - INS-260327-3049
   - INS-260327-4C94
   - INS-260329-F04B
   - INS-260330-70F5
   - INS-260402-CCC3
   - INS-260403-C5BA
-  - INS-260403-A1DF
 evidence:
   - id: INS-260405-670E
     type: TRANSFERS_TO

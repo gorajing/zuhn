@@ -51,12 +51,13 @@ resolutions:
 related:
   - INS-260330-70BF
   - INS-260323-0C3A
-  - INS-260404-DA2E
   - INS-260404-4DF7
   - INS-260327-89C7
+  - INS-260404-9823
   - INS-260325-3A24
   - INS-260327-39D4
   - INS-260328-9FC0
+  - INS-260329-FE15
 stance: >-
   When someone emails Cuban asking what kind of business to start, that question
   itself reveals they are not ready

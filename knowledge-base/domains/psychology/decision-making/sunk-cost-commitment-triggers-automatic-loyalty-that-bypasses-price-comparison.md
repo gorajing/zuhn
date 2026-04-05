@@ -14,8 +14,8 @@ tags:
   - commitment-devices
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -49,6 +49,7 @@ stance: >-
   per-purchase price evaluation.
 related:
   - INS-260323-F68A
+  - INS-260324-6C5F
   - INS-260327-0755
   - INS-260327-875C
   - INS-260405-F1FD

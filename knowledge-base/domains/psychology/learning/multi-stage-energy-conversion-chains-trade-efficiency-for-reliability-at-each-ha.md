@@ -58,12 +58,10 @@ related:
   - INS-260404-3500
   - INS-260330-4B45
 evidence:
-  - id: INS-260404-D916
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260330-4B45
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+  - id: INS-260404-DDB5
+    relationship: RELATED
+  - id: INS-260330-545E
+    relationship: RELATED
 ---
 The light-dependent reactions of photosynthesis involve a remarkably long chain of energy conversions: photon energy excites electrons, which power proton pumping across membranes, which drives ATP synthesis, which then fuels the Calvin Cycle to fix carbon. Each conversion step loses energy, making the overall process quite inefficient.
 

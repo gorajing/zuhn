@@ -52,7 +52,7 @@ related:
   - INS-260328-ACC3
   - INS-260327-415B
   - PRI-260328-C581
-  - INS-260330-4DFA
+  - INS-260322-5CBF
 ---
 Graham observes that historically, the best programming languages (C, Perl, Smalltalk, Lisp) were designed by their creators for their own use, while languages designed for 'other people' (Cobol, PL/I, Pascal, Ada, C++) have been consistently worse. Java was explicitly designed 'not to be too difficult for programmers used to C' — a signal of designing down.
 

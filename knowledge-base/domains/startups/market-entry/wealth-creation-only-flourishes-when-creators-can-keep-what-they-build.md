@@ -47,11 +47,11 @@ stance: >-
   reliable as a controlled experiment
 related:
   - INS-260329-0117
-  - INS-260329-8329
   - INS-260403-830F
   - INS-260403-160A
   - INS-260403-EC8A
   - INS-260402-CF0A
+  - INS-260329-BF96
 evidence:
   - id: INS-260402-A999
     type: SUPPORTS

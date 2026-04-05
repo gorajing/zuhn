@@ -57,14 +57,11 @@ related:
   - INS-260330-4A16
 evidence:
   - id: INS-260330-47E0
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260329-7677
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-BAB7
+    relationship: RELATED
   - id: INS-260330-4A16
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 In the helicopter egress training, Marines who unbuckled and left their seats immediately lost all spatial orientation — described as 'a loose sock in the dryer.' The seat, despite being attached to a sinking inverted helicopter, served as the critical reference frame. From the seat, you know your position relative to exits. Without it, chairs hang from ceilings and bubbles go the wrong direction.
 

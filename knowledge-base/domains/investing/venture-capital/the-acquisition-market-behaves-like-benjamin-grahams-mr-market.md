@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260329-1D08
   - INS-260330-4605
-  - INS-260327-F26E
   - INS-260327-C316
   - INS-260329-CE86
+  - INS-260325-B8CB
 ---
 Graham draws an explicit parallel between the acquisition market and Benjamin Graham's Mr. Market metaphor from value investing. Just as Mr. Market offers wildly different prices for the same stock on different days, acquirers swing between frenzied buying (overpaying enormously) and total disinterest — driven by sentiment rather than fundamental value.
 

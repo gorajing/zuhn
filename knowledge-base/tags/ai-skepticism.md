@@ -4,7 +4,6 @@
 - `INS-260323-3045` The widely accepted belief that AGI is inevitable and we're racing toward it is a community assumption masquerading as scientific consensus — the future is not yet written.
 - `INS-260323-99E0` Coordinated bot swarms using LLMs can now maintain persistent fake personas and manufactured consensus at unprecedented scale, threatening democratic elections.
 - `INS-260323-B029` When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.
-- `INS-260323-8D12` Hallucinations stem from how LLMs break information into tokens and reconstruct probable relationships — this is a fundamental design flaw, not a bug to be patched.
 - `INS-260323-539C` Humans interpret language by modeling the speaker's mind and intentions — when LLMs produce coherent text, we involuntarily project intelligence that isn't there.
 - `INS-260323-1BF7` Unlike human children who build world models from minimal data, LLMs require the entire internet as a crutch because they mimic rather than understand.
 - `INS-260323-D18D` LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
@@ -23,8 +22,6 @@
 - `INS-260323-7403` Viral AI doom/boom essays like Citrini Research move stock markets despite containing no concrete mechanism for how AI replaces jobs — they describe what happens after AI works, never how.
 - `INS-260323-1477` Companies like OpenAI are secretly integrating classical symbolic tools (code interpreters, Python) while telling investors they're just scaling neural networks.
 - `INS-260323-750A` Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
-- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
-- `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
 - `INS-260323-5C25` Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B negative free cash flow in 2026; if the best-positioned AI infrastructure borrower can't raise debt, smaller players are finished.
 - `INS-260323-F12F` AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
 - `INS-260323-114D` $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.

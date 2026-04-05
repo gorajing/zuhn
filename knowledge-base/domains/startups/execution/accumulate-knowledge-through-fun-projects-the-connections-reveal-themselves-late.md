@@ -57,6 +57,7 @@ related:
   - INS-260329-1741
   - INS-260323-7CA7
   - INS-260328-33E8
+  - INS-260327-CBCB
   - INS-260327-9610
 stance: >-
   Sweeney spent 10-15,000 hours on hobby programming projects between ages 10-20

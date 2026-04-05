@@ -17,8 +17,8 @@ tags:
   - moat
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -59,8 +59,8 @@ related:
   - INS-260404-B24E
   - INS-260405-A9B2
   - INS-260403-6BD9
-  - INS-260404-9783
   - INS-260404-3C7A
+  - INS-260404-B086
 ---
 Standard product and retail design removes friction to maximize conversion. Costco's design philosophy does the opposite: the confusing store layout forces customers to wander through more aisles, increasing basket size. The $60-$120 membership fee selects for an affluent demographic (average household income ~$100k) and pre-commits them to shopping there via sunk-cost psychology. The warehouse aesthetic communicates 'we cut costs everywhere to pass savings to you,' building trust.
 

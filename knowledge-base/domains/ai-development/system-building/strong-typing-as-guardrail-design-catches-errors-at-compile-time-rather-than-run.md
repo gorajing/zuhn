@@ -52,12 +52,13 @@ stance: >-
   applicable to any system that validates inputs
 related:
   - INS-260325-27B2
-  - INS-260329-D48B
   - INS-260323-19A8
-  - INS-260402-3C79
   - INS-260325-5023
   - PRI-260403-5B3D
+  - PRI-260321-7307
+  - PRI-260328-30C2
   - INS-260329-6936
+  - INS-260329-3FC9
   - INS-260402-1FE9
 evidence:
   - id: INS-260325-27B2

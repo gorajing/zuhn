@@ -78,6 +78,9 @@ evidence:
   - id: INS-260330-E4AD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-C49F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Tarter clarifies that SETI should really be called SETT — Search for Extraterrestrial Technology — because we have no way to define or detect intelligence at a distance. What we can detect are technosignatures: electromagnetic signals that nature cannot produce but technology routinely does.
 

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-4830
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-3D38
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Corporate debt approaching $14T was primarily used for financial engineering rather than productive investment. The playbook: borrow cheap money, buy back shares to reduce share count, which mechanically increases earnings-per-share even without actual earnings growth. Executives compensated in stock options directly benefit from this manipulation.
 

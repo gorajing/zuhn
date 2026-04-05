@@ -48,13 +48,15 @@ stance: >-
   because the rate of change falls below human perceptual thresholds.
 related:
   - INS-260323-3045
+  - INS-260325-D25C
   - INS-260323-181D
   - INS-260327-2021
-  - INS-260330-AC16
-  - INS-260402-D0F2
   - PRI-260328-BF67
+  - INS-260330-AC16
+  - INS-260330-0F55
+  - INS-260330-C9A6
+  - INS-260402-D0F2
   - INS-260403-C49F
-  - INS-260325-E8BC
 evidence:
   - id: INS-260323-3045
     type: TRANSFERS_TO

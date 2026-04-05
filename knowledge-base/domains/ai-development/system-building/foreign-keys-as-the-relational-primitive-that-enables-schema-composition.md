@@ -47,7 +47,6 @@ stance: >-
   The real power of relational databases comes not from storing data in tables
   but from foreign keys that compose tables into a unified information graph
 related:
-  - INS-260325-E23D
   - INS-260329-34EE
   - INS-260329-EEA2
   - INS-260329-8233

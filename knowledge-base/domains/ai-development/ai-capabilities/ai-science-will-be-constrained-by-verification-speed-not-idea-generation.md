@@ -48,7 +48,6 @@ stance: >-
   experimental verification, not the rate of hypothesis generation.
 related:
   - INS-260323-0865
-  - INS-260320-3798
   - INS-260327-40DA
   - INS-260330-63DD
   - INS-260403-B1F2

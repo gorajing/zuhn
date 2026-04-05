@@ -46,10 +46,11 @@ stance: >-
   Entrepreneurs are more constrained by beliefs they don't know to question than
   by acknowledged skill gaps.
 related:
+  - INS-260325-36F0
   - INS-260327-D7E6
+  - INS-260327-8DC5
   - INS-260329-3E3A
   - INS-260329-D1B0
-  - INS-260325-36F0
   - INS-260330-CFEA
   - INS-260330-4EF8
   - INS-260329-6117

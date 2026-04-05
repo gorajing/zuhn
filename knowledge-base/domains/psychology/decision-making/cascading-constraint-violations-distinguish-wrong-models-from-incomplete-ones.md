@@ -52,10 +52,10 @@ stance: >-
   fundamentally wrong
 related:
   - INS-260323-C9B1
-  - INS-260403-4A4A
-  - INS-260403-2247
   - INS-260330-984C
   - PRI-260324-3B70
+  - INS-260321-8C35
+  - INS-260330-4DC5
 evidence:
   - id: INS-260321-8C35
     type: TRANSFERS_TO

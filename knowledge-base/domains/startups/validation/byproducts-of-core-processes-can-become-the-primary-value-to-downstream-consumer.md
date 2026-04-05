@@ -51,13 +51,12 @@ stance: >-
   The most valuable output of a system is often not the intended product but a
   side effect that enables an entirely different ecosystem
 related:
-  - INS-260330-C607
   - INS-260330-3AB4
-  - INS-260330-C7C2
-  - INS-260403-C0D4
-  - INS-260403-D85D
-  - INS-260403-882A
   - INS-260330-E786
+  - INS-260403-C0D4
+  - INS-260404-E9F3
+  - INS-260330-2119
+  - INS-260330-19C3
 evidence:
   - id: INS-260330-3AB4
     type: REFINES

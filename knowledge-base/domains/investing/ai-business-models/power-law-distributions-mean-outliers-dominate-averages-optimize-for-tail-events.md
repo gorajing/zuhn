@@ -59,7 +59,6 @@ related:
   - INS-260327-D5E0
   - PRI-260403-50EF
   - INS-260325-3B28
-  - INS-260326-0045
   - INS-260330-E4FA
 stance: >-
   In power-law distributions, the standard deviation is infinite, the average
@@ -77,6 +76,9 @@ evidence:
   - id: INS-260330-E4FA
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-A868
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Normal distributions have well-defined averages and standard deviations where 95% of data falls within 2 standard deviations. But in power-law distributions — which govern income, startup returns, earthquake damage, and viral content — the standard deviation is infinite. The more you measure, the bigger the average gets, because occasionally you hit an extreme outlier that skews everything.
 

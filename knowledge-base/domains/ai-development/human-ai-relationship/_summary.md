@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 49 insights
+> 43 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -16,13 +16,9 @@
 - `INS-260322-2B2D` [high] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
 - `INS-260328-5431` [high] AI's threat to autonomy isn't future — algorithms already control what most people see and believe, and frontier AI makes the control total.
 - `INS-260325-FA86` [high] Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
-- `INS-260325-EE14` [high] Wharton research shows people abandon AI tools after seeing a single error, but letting users tweak parameters restores adoption even at higher error rates.
+- `INS-260405-DFFB` [high] AI commoditizes information synthesis, elevating human curatorial judgment to the primary value layer in media.
 - `INS-260323-2AE2` [high] As AI automates strategy, naming, copy, design, video, and prototyping, the irreplaceable human role shifts from creating outputs to orchestrating meaning — designing values, selecting which work implants meaningful memories, and defining the scope of care for the community served.
-- `INS-260322-116B` [high] When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
 - `INS-260323-0961` [high] Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
-- `INS-260323-9D6E` [high] Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
-- `INS-260329-7BAF` [high] Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
-- `INS-260323-7424` [high] The obsession with parameter counts mirrors the 1990s gigahertz race — what matters is end-user utility, not raw numbers.
 - `INS-260403-D82B` [high] Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 - `INS-260329-F635` [high] Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
 - `INS-260329-EDA2` [high] It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
@@ -41,11 +37,9 @@
 - `INS-260323-9385` [medium] If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
 - `INS-260329-808C` [medium] Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
 - `INS-260325-ADF3` [medium] Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
-- `INS-260330-4AD5` [medium] AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
 - `INS-260327-8936` [medium] Every human has independently relearned all of civilization through their unique combination of genes and experiences, making each person an irreplaceable perspective.
 - `INS-260325-19E9` [medium] Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
 - `INS-260329-C555` [medium] 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
-- `INS-260325-890D` [medium] LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
 - `INS-260323-87F3` [medium] Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
 - `INS-260329-206D` [medium] Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - `INS-260329-0A55` [medium] Programming languages are middlemen between human intent and machine execution, just as prompts are middlemen between human intent and LLM behavior.

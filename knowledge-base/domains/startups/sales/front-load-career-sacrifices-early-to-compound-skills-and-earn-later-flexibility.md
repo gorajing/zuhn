@@ -58,11 +58,12 @@ stance: >-
   position that create genuine flexibility in your 40s and beyond.
 related:
   - INS-260320-C56D
-  - INS-260322-D6B8
   - INS-260323-B426
   - INS-260329-7D18
+  - INS-260322-D6B8
   - INS-260327-E546
   - INS-260329-7AAB
+  - INS-260328-C2CB
 evidence:
   - id: INS-260329-7AAB
     type: SUPPORTS

@@ -54,12 +54,10 @@ related:
   - INS-260329-FEF4
   - INS-260329-C33B
 evidence:
-  - id: INS-260329-DBFE
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260329-41BC
+    relationship: RELATED
   - id: INS-260330-CE2F
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 The tutorial builds to OOP as the capstone — classes, constructors, getters/setters, inheritance — framing it as the natural answer to 'how do I organize code that's getting too big.' This pedagogical choice reflects a deeper truth: OOP maps well to human intuition about categories and hierarchies (a Dog is-a Animal, a Car has-an Engine).
 

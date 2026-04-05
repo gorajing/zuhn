@@ -64,10 +64,10 @@ stance: >-
   currency to decouple raw input volatility from downstream processing demands.
 related:
   - INS-260404-9428
-  - INS-260405-AE0D
   - INS-260404-040D
   - INS-260405-C780
-  - INS-260405-64C5
+  - INS-260405-AE0D
+  - INS-260330-2CFA
 evidence:
   - id: INS-260404-9428
     type: SUPPORTS

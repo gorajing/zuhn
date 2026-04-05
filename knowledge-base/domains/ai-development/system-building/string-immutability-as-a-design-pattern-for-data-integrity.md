@@ -48,10 +48,10 @@ stance: >-
   strategy because they eliminate an entire category of state mutation errors.
 related:
   - INS-260329-9BEF
-  - INS-260329-761A
   - INS-260327-47E9
-  - INS-260329-7BAF
   - INS-260330-3B0B
+  - INS-260402-2D95
+  - PRI-260403-9E80
 ---
 The course teaches that strings in JavaScript are immutable — you cannot change individual characters, only reassign the entire string. This design choice, while initially surprising to beginners, prevents a wide class of bugs where shared references to strings could be corrupted by mutations in unrelated code.
 

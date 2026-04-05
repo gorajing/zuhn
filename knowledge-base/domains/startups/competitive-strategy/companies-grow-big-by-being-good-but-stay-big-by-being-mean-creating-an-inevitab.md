@@ -45,11 +45,14 @@ stance: >-
   vulnerable to benevolent challengers
 related:
   - INS-260322-B641
-  - INS-260325-1585
   - INS-260403-7563
   - INS-260403-99B1
   - INS-260327-E2BC
   - INS-260403-535C
   - INS-260403-830F
+evidence:
+  - id: INS-260322-B641
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham traces Microsoft's arc: benevolent disruptor of IBM's hardware pricing → monopolist that mistreats users → flat stock price. The pattern is structural, not moral. Small companies must charm because they can't coerce. Large companies can coerce, and do, because it's easier than delighting. But this creates a ticking clock: when underlying conditions change, all victims escape simultaneously. Google's 'Don't be evil' is framed as an 'elixir of corporate youth' — valuable precisely because it's constraining. The strategic insight for startups is that every incumbent in the exploitation phase is a target, and the attack vector is simply being genuinely good to the users the incumbent is mistreating.

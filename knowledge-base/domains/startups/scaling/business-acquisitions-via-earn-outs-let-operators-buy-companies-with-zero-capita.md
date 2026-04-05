@@ -48,10 +48,10 @@ stance: >-
   upfront capital.
 related:
   - INS-260329-CB10
-  - INS-260329-8B55
   - INS-260327-9C00
   - INS-260329-0DA4
   - INS-260330-6611
+  - INS-260327-50CE
 evidence:
   - id: INS-260329-196A
     type: SUPPORTS

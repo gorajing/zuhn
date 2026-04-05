@@ -46,12 +46,12 @@ stance: >-
   directors whose primary skill is maintaining their board seats rather than
   providing genuine oversight.
 related:
-  - INS-260404-E39D
   - INS-260329-9A30
-  - INS-260403-747B
   - INS-260404-01B1
-  - INS-260404-B2FB
   - INS-260329-CDD1
+  - INS-260404-5587
+  - INS-260404-8AE1
+  - INS-260405-0F47
 evidence:
   - id: INS-260329-9A30
     type: TRANSFERS_TO

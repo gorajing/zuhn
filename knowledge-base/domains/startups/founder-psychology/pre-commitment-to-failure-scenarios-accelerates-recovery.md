@@ -58,26 +58,19 @@ related:
   - INS-260329-87BA
 evidence:
   - id: INS-260323-EDAD
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260329-8868
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-03B5
+    relationship: RELATED
   - id: INS-260402-7FCC
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-D7CC
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-87BA
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-8B1C
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-5FB5
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Since failure is inherent in any new experiment -- new job, product, hobby, or relationship -- pre-commitment to failure scenarios is a practical skill. This means giving thought before starting to what you will do if it does not work out and how to minimize the downside while maximizing the upside.
 

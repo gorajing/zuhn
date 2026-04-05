@@ -51,13 +51,13 @@ stance: >-
   independently superior — the same applies to products in platform ecosystems
 related:
   - INS-260323-7D90
-  - INS-260327-FF4D
   - INS-260327-212A
   - INS-260330-4634
   - INS-260330-413D
   - INS-260330-66EF
   - INS-260404-8CEE
-  - INS-260403-6CA8
+  - INS-260325-DFA5
+  - INS-260403-91DB
   - INS-260403-EB0B
   - INS-260403-4EBF
 evidence:

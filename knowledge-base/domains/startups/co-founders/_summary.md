@@ -1,6 +1,6 @@
 # Topic: co-founders
 
-> 44 insights
+> 36 insights
 
 - `INS-260325-9B73` [high] Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260326-D8B9` [high] No one ever says 'great person, wrong skills' when co-founders split — it's always 'brilliant person, impossible to work with.'
@@ -12,10 +12,6 @@
 - `INS-260325-7D50` [high] Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.
 - `INS-260330-8DCE` [high] Vet co-founders through 20+ hours of deep conversation including explicit divorce scenarios, not just friendship duration.
 - `INS-260402-225A` [high] Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
-- `INS-260402-2A1D` [high] College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
-- `INS-260330-0B55` [high] Among the highest-valued YC companies, zero have significantly disproportionate founder equity splits.
-- `INS-260330-F4C0` [high] Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
-- `INS-260330-C745` [high] Among the highest-valued YC companies, there are zero instances of significantly disproportionate founder equity splits.
 - `INS-260403-6553` [high] Top universities produce more successful startups because their selective admissions concentrate smart and determined people who become each other's cofounders.
 - `INS-260326-0C14` [high] Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.
 - `INS-260403-7563` [high] Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside.
@@ -38,10 +34,6 @@
 - `INS-260403-3B67` [high] The builder + seller co-founder combination is the most common successful startup pattern and what VCs actively look for.
 - `INS-260325-F1BC` [high] Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260330-3E6F` [high] Among YC's highest-valued companies, none had significantly unequal founder equity splits.
-- `INS-260330-75E2` [high] When founders don't pay themselves, fired co-founders use unpaid wage claims as leverage to negotiate accelerated vesting they aren't entitled to.
-- `INS-260330-1459` [high] Not paying founders creates a wage-law violation that fired co-founders use as leverage to negotiate undeserved vesting acceleration.
-- `INS-260330-3B0A` [high] Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve.
-- `INS-260330-E170` [high] When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
 - `INS-260323-0B5E` [medium] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260323-7866` [medium] The Danaher Death Squad split — the most talented grappling team in history breaking apart — illustrates that no amount of collective talent survives unresolved personal conflicts.
 - `INS-260327-6725` [medium] The right co-founder feels obvious from the first conversation—if it's not electric, keep looking.

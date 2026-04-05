@@ -14,11 +14,8 @@ tags:
   - demand-signal
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -45,6 +42,7 @@ stance: >-
   tools are more persuasive to investors than market size data or theoretical
   demand arguments.
 related:
+  - INS-260329-577E
   - INS-260403-D7DF
   - INS-260403-DC32
   - INS-260403-92EB
@@ -54,6 +52,5 @@ related:
   - INS-260405-F980
   - INS-260404-2B4C
   - INS-260403-EA8C
-  - INS-260403-8C50
 ---
 Investors' deepest fear with early-stage startups is that the product is built on a priori theories rather than real need. Market size figures ('$5 billion TAM') are as meaningless as an aspiring actor citing Tom Hanks's salary — the number is irrelevant until you prove you can capture it. What Sequoia and similar investors look for instead is the 'proxy for demand': what are people doing right now, with inadequate tools, that proves they need what you're building? The strongest version is the founders' own need (Apple, Google, Yahoo all started this way). Next best is the needs of people you know personally. These concrete stories stick in memory and address the core investor concern directly.

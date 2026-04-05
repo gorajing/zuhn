@@ -46,11 +46,11 @@ stance: >-
   page-image in the mind is more effective for ADHD learners than conventional
   study methods
 related:
-  - INS-260329-C1E1
-  - INS-260329-70D5
   - INS-260403-A6B1
-  - INS-260329-979B
   - INS-260329-DFD1
+  - INS-260329-4A69
+  - INS-260322-5A0F
+  - INS-260328-9574
 evidence:
   - id: INS-260329-DFD1
     type: TRANSFERS_TO

@@ -16,8 +16,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -52,7 +52,7 @@ related:
   - INS-260404-8AE1
   - INS-260404-0298
   - INS-260403-BF47
-  - INS-260403-F634
+  - INS-260404-60D6
   - INS-260404-35F8
 ---
 Traditional retailers face a fundamental tension: every dollar saved for the customer is a dollar lost in margin. Costco's membership model dissolves this by shifting the profit center from product markup (capped at 15%) to annual fees ($60-$120/year with 90% renewal). This creates a virtuous cycle where lower prices drive higher renewal rates, which drive predictable recurring revenue.

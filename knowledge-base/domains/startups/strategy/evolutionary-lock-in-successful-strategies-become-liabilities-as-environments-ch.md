@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260330-D4CC
   - INS-260330-D304
-  - INS-260330-4441
   - PRI-260403-C34A
   - INS-260404-D39F
+  - INS-260405-7E85
 ---
 RuBisCo was the enzyme that made life on land possible: it fixed atmospheric CO2 into organic carbon at a time when oxygen was scarce. As photosynthesis itself flooded the atmosphere with oxygen, RuBisCo started confusing O2 for CO2 roughly half the time, producing a toxic byproduct that requires additional enzymatic machinery to neutralize. Yet plants can't abandon it—they just produce 40 billion tons of the enzyme globally to brute-force around its inefficiency.
 

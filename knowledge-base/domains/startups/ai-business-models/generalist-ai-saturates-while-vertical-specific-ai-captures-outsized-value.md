@@ -46,11 +46,11 @@ stance: >-
   one, while vertical-specific training on domain data produces 100x better
   outcomes.
 related:
-  - INS-260404-60A6
   - PRI-260323-49F8
-  - INS-260329-5901
-  - INS-260329-92C3
   - INS-260326-0AB4
+  - INS-260327-4CCE
+  - INS-260329-2FB8
+  - INS-260327-91E7
 evidence:
   - id: INS-260326-0AB4
     type: EXTENDS

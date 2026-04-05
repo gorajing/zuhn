@@ -16,7 +16,7 @@ tags:
   - ownership
 sources:
   - type: blog
-    title: 'How VCs Value Startups: Venture Capital Method Explained'
+    title: 'What to expect when you’re expecting (dilution) '
     author:
       '@type': Organization
       name: The VC Corner
@@ -46,7 +46,7 @@ sources:
           https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
         thumbnailUrl: >-
           https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-    url: 'https://www.thevccorner.com/p/venture-capital-method-startup-valuation'
+    url: 'https://www.thevccorner.com/p/what-to-expect-when-youre-expecting'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0

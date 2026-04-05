@@ -48,7 +48,6 @@ stance: >-
   Legacy systems that achieve early dominance persist indefinitely even when
   deeply flawed because switching costs exceed the cost of workarounds
 related:
-  - INS-260330-C02D
   - INS-260330-4983
   - INS-260330-22C0
   - INS-260330-3FF4
@@ -56,8 +55,9 @@ related:
   - INS-260404-1D8F
   - INS-260404-4010
   - INS-260404-1FCE
-  - INS-260403-1110
-  - INS-260403-8CD3
+  - INS-260404-BC18
+  - INS-260403-2457
+  - INS-260403-2CDA
 evidence:
   - id: INS-260330-CC30
     type: TRANSFERS_TO

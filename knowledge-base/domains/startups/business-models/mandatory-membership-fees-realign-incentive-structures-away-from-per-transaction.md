@@ -16,8 +16,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,8 +50,7 @@ related:
   - INS-260404-DD00
   - INS-260405-39A6
 evidence:
-  - id: INS-260404-E298
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260404-B8AE
+    relationship: RELATED
 ---
 Costco derives 75% of its profit from membership fees, not product markups. This fundamentally changes the optimization target: instead of maximizing per-item margin, the company optimizes for renewal rates. Raising prices would generate pennies today but cost $60-120 in lost renewals next year. This creates a rare structural alignment where what's good for the customer (low prices) is also what's good for the business (high renewal rates). The lesson generalizes: any business model where revenue depends on repeated voluntary re-enrollment will naturally resist the temptation to extract short-term value at the customer's expense.

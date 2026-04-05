@@ -46,6 +46,7 @@ related:
   - INS-260330-95E8
   - INS-260324-DB86
   - PRI-260328-0993
+  - INS-260405-8B05
 stance: >-
   Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to
   ophthalmology patients -- then revenue tripled annually.

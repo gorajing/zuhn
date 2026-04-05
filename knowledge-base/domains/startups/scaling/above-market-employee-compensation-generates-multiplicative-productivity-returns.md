@@ -16,8 +16,8 @@ tags:
   - operational-efficiency
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -53,7 +53,7 @@ related:
   - INS-260403-365D
   - INS-260403-C125
   - INS-260405-47FD
-  - INS-260404-1936
+  - INS-260403-E2D9
 ---
 Costco pays an average of $21/hour — double the US retail average — plus better health insurance and retirement benefits. The result is employees who are three times more productive than the industry norm. This isn't altruism; it's a calculated investment where the productivity multiplier more than offsets the wage premium.
 

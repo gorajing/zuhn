@@ -58,23 +58,15 @@ related:
   - INS-260330-1C84
 evidence:
   - id: INS-260330-4824
-    type: EXTENDS
-    classified_at: '2026-04-02'
-  - id: INS-260330-8C80
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-FED6
-    type: REFINES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-ED8A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-1C84
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-864C
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 The log-scale transformation is a change-of-basis that converts multiplicative dynamics into additive ones. Each fixed vertical step represents multiplication by a constant factor (e.g., 10x), so exponential growth appears as a straight line whose slope directly encodes the doubling time. A simple linear regression on log-transformed data tells you both the growth rate and how well the exponential model fits.
 

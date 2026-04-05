@@ -53,26 +53,19 @@ related:
   - INS-260330-F82A
 evidence:
   - id: INS-260330-F82A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-E68E
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-ED37
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-D4CC
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260403-7471
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260405-D6E6
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260403-87BE
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-3673
+    relationship: RELATED
 ---
 Homeostasis — the maintenance of stable internal conditions — is the single unifying requirement for life. Blood pressure, oxygen delivery, temperature, nutrient balance, and waste removal must all stay within narrow ranges. When any of these systems fails beyond recovery, the cascade is identical: cells lose access to energy processing, and death follows.
 

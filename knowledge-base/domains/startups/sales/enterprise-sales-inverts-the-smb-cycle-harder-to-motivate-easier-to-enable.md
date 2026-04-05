@@ -56,15 +56,15 @@ stance: >-
   resources to enable execution.
 related:
   - INS-260323-FAF2
+  - INS-260325-EC93
   - INS-260327-7CE9
   - INS-260330-579B
   - INS-260329-640C
   - INS-260327-CEE4
-  - INS-260329-0B76
+  - INS-260403-03BD
   - INS-260329-78CB
   - INS-260329-06F2
   - INS-260403-4CE2
-  - INS-260403-03BD
 evidence:
   - id: INS-260323-FAF2
     type: TRANSFERS_TO

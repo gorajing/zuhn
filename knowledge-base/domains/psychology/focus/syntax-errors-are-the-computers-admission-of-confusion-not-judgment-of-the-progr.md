@@ -50,10 +50,10 @@ stance: >-
   beginners to quit.
 related:
   - INS-260329-F635
-  - INS-260329-5F37
   - INS-260325-CF3E
-  - INS-260329-7F3D
   - INS-260327-4C73
+  - INS-260329-DABC
+  - INS-260329-35F2
   - INS-260404-E5D9
   - INS-260404-A246
 evidence:

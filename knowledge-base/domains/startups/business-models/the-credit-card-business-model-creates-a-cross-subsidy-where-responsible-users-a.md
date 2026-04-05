@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260327-3377
   - INS-260322-0C28
-  - INS-260404-9505
   - PRI-260328-BEDD
   - INS-260327-CFC5
+  - PRI-260328-FD90
 evidence:
   - id: INS-260322-0C28
     type: TRANSFERS_TO

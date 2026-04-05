@@ -6,7 +6,6 @@
 - `INS-260327-78E6` Keto dieters who claim they need less sleep are misinterpreting sympathetic nervous system overdrive from elevated cortisol and catecholamines as reduced sleep need.
 - `INS-260325-FC52` Without someone to share stress with, the body stays in low-level fight-or-flight mode, causing chronic inflammation that gradually degrades multiple organ systems.
 - `INS-260327-027E` Middle-of-night waking responds to blood sugar stabilization and specific breathing techniques
-- `INS-260327-6F94` Morning sunlight exposure within 30 minutes of waking sets circadian rhythm for the entire day
 - `INS-260327-02AF` Quitting coffee for 30 days reveals improved sleep, stable energy, and lower cortisol after initial withdrawal
 - `INS-260330-DC78` The difference between 6x10 and 10x10 on compound lifts is the difference between a testosterone spike and a cortisol spike.
 - `INS-260327-1309` Waking at 3AM is caused by cortisol spikes from blood sugar drops not primary insomnia

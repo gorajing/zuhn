@@ -14,11 +14,8 @@ tags:
   - signal-vs-noise
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -62,12 +59,10 @@ related:
   - INS-260403-13ED
   - INS-260404-4DF7
 evidence:
-  - id: INS-260404-5D3B
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-5483
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260403-97DB
+    relationship: RELATED
+  - id: INS-260403-1852
+    relationship: RELATED
 ---
 A top VC told YC founders that a company he'd just invested millions in had a business model he expected to change three times before they got it right — and he invested anyway. At the early stage, the business model is a collection of guesses about things that aren't the founders' area of expertise. Smart investors know this. They're evaluating the team's ability to identify and solve real problems, not their ability to forecast revenue streams.
 

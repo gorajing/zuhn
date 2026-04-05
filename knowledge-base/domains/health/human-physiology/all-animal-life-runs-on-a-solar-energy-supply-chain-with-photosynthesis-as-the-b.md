@@ -48,14 +48,16 @@ stance: >-
   Understanding that nearly all biological energy traces back to photon capture
   by chlorophyll reframes human nutrition as downstream solar energy conversion.
 related:
+  - INS-260322-02A6
   - INS-260330-D8E4
-  - INS-260330-09F8
   - INS-260330-1084
   - INS-260330-8544
   - INS-260330-2DF9
   - INS-260330-BC56
-  - INS-260330-B076
   - PRI-260403-181B
+  - INS-260404-9428
+  - INS-260404-F014
+  - INS-260404-6AD7
 evidence:
   - id: INS-260330-B076
     type: SUPPORTS

@@ -55,8 +55,7 @@ related:
   - INS-260330-7D5F
   - INS-260329-C472
 evidence:
-  - id: INS-260329-EC98
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+  - id: INS-260329-CD64
+    relationship: RELATED
 ---
 Brown's research describes blame as fundamentally a discharge mechanism: when people feel pain, discomfort, or vulnerability, blame provides immediate relief by externalizing the source of distress. This is structurally different from accountability, which requires vulnerability (admitting you contributed to the problem). The political and social implications are significant: the more afraid and vulnerable a population feels, the more blame dominates discourse, eliminating space for genuine conversation. Applied to startups: when a team defaults to blame after a failure (blaming the market, the customer, the competitor), they are discharging pain, not diagnosing the problem. The corrective is to recognize the blame impulse as a signal of unprocessed vulnerability, not as useful information.

@@ -49,6 +49,7 @@ stance: >-
   domain, and nerds are unpopular primarily because they allocate their practice
   hours to intellectual pursuits instead
 related:
+  - INS-260327-9BFD
   - INS-260330-7241
   - INS-260330-856B
   - INS-260402-C4FF

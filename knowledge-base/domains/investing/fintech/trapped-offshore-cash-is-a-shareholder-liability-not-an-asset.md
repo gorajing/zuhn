@@ -56,5 +56,8 @@ evidence:
   - id: INS-260330-4830
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-1AE5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Apple accumulated $285B in offshore cash through structures like the Double Irish Dutch Sandwich, which routed profits through Ireland and the Netherlands to minimize tax obligations. While this sounds like a massive war chest, it was actually a liability — the cash sat idle earning minimal returns while shareholders couldn't access it through dividends or buybacks without triggering repatriation taxes. This reframes how investors should evaluate corporate cash hoards: the headline number is misleading if the capital is structurally trapped. The 2017 Tax Cuts and Jobs Act eventually enabled repatriation at a reduced rate, but for years this 'asset' was functionally worthless to shareholders.

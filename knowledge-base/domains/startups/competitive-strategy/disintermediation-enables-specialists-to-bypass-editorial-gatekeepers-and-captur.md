@@ -54,5 +54,6 @@ related:
   - INS-260403-4788
   - INS-260404-89C3
   - INS-260330-48DE
+  - INS-260405-6A0C
 ---
 The migration of top-tier intellectual talent to independent platforms represents a profound shift in media economics. Traditional journalism is hampered by editorial bottlenecks, broad demographic appeal requirements, and advertising dependence. Platforms like Substack allow credentialed specialists to write directly to deeply invested niche audiences who fund the work through subscriptions. Tangle grew from 7K to 100K+ readers with $1M annual revenue. Stratechery's Ben Thompson (ex-Apple, ex-Microsoft, Kellogg MBA) delivers analysis that shapes Silicon Valley strategy. This disintermediation model applies beyond media — any domain where institutional gatekeepers create friction between experts and their natural audience is ripe for this transformation.

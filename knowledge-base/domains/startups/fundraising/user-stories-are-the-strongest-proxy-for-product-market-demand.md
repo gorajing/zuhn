@@ -14,11 +14,8 @@ tags:
   - demand-validation
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -61,6 +58,10 @@ related:
   - INS-260403-1949
   - INS-260404-817A
   - INS-260403-39F9
+evidence:
+  - id: INS-260327-CFE5
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Investors' biggest fear with early-stage startups is that the founders built something based on a priori theories rather than real need. Sequoia explicitly looks for the 'proxy for demand' — what are people doing now with inadequate tools that proves they need what you're building? Specific user stories answer this fear directly. A story about a particular person with a particular problem using your product in a particular way is far more convincing than 'the market is $5 billion.'
 

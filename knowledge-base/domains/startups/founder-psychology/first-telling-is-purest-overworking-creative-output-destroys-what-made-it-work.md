@@ -61,26 +61,19 @@ stance: >-
   always the best version
 evidence:
   - id: INS-260329-FEBA
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-4AD5
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-2294
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-423B
-    type: CHALLENGES
-    classified_at: '2026-04-03'
-  - id: INS-260329-B6A6
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-72D5
+    relationship: RELATED
   - id: INS-260330-DD91
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260323-A430
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Kreischer describes a recurring pattern in his comedy craft: a joke told spontaneously for the first time lands perfectly, then he tries to 'razzle dazzle' it into a 15-minute bit, and the joke dies. His deaf child joke was simple and perfect — Louis CK loved it — but Kreischer's attempts to add gun control material and other layers destroyed it.
 

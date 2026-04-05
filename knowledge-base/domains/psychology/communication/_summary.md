@@ -1,20 +1,17 @@
 # Topic: communication
 
-> 47 insights
+> 42 insights
 
 - `INS-260404-B87E` [high] Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
 - `INS-260404-5BBF` [high] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
-- `INS-260404-92AC` [high] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
 - `INS-260404-F965` [high] Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
-- `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - `INS-260403-37D9` [high] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260330-365B` [high] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 - `INS-260403-F60A` [high] Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260405-76E4` [high] Investors without technical depth use founder confidence as a proxy for product quality.
 - `INS-260403-0479` [high] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-3570` [high] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
-- `INS-260330-7E66` [high] Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - `INS-260404-E4B8` [high] Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
 - `INS-260404-C64D` [high] Startup pitching is structurally broken: people bad at explaining talk to people bad at understanding, and even Google got rejected.
 - `INS-260404-C0E6` [high] Startup pitches suffer from a double communication penalty where both sender and receiver deficiencies compound rather than cancel out.
@@ -27,8 +24,6 @@
 - `INS-260403-1A96` [high] The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
 - `INS-260330-F140` [high] Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` [high] The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
-- `INS-260404-0AF3` [high] Crafting a sticky one-phrase description of your startup is both a memorability tactic and a litmus test for whether your strategy is focused enough.
-- `INS-260405-AC51` [high] Investors who hear many pitches need a single phrase to remember you by — creating one is table stakes for recall.
 - `INS-260404-A526` [high] Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260403-2B1D` [high] The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260330-5A9E` [high] Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).

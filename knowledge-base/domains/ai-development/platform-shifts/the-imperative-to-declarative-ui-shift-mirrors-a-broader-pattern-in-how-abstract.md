@@ -54,15 +54,13 @@ stance: >-
   function of state eliminates an entire class of synchronization bugs.
 related:
   - INS-260329-0EAC
-  - INS-260330-6B7F
-  - INS-260330-C2C4
   - INS-260330-82B2
   - INS-260403-1C10
   - INS-260403-F148
   - INS-260327-FDF4
   - INS-260403-3615
-  - INS-260330-C071
   - INS-260403-6857
+  - INS-260330-C071
 evidence:
   - id: INS-260330-6B7F
     type: SUPPORTS

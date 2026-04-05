@@ -50,22 +50,14 @@ related:
   - INS-260404-C497
 evidence:
   - id: INS-260330-DBA4
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-BC8E
-    type: CHALLENGES
-    classified_at: '2026-04-02'
-  - id: INS-260330-F31A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-ECA9
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-F6A2
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260404-C497
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Getting direct sunlight in the eyes within 30 minutes of waking is the single most important circadian rhythm intervention, setting cortisol timing and melatonin production for the entire day

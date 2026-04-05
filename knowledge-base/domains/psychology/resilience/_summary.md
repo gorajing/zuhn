@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 153 insights
+> 147 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -16,7 +16,6 @@
 - `INS-260327-51C2` [high] I can't go on. I'll go on. - Beckett's most important insight is that persistence doesn't require hope, meaning, or expectation of success.
 - `INS-260330-5C69` [high] Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260329-6B95` [high] Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
-- `INS-260326-3F06` [high] Blame is pain management disguised as accountability — when people blame, they are discharging discomfort, not seeking truth.
 - `INS-260329-C472` [high] Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
 - `INS-260325-1345` [high] A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
 - `INS-260326-AB92` [high] Evolution selects for stability not optimality, biology punishes radical intervention with cascading side effects, yet first-principles leaps succeed precisely because they bypass the system rather than trying to reform it.
@@ -71,9 +70,7 @@
 - `INS-260329-D913` [high] Everyone who has ever handled an unexpected bill has proven they can be resourceful — they just choose not to be when the beneficiary is themselves.
 - `INS-260329-B011` [high] People who stay poor consistently choose comfort today and push pain to tomorrow, then are surprised when today becomes yesterday's tomorrow and the deferred pain arrives.
 - `INS-260329-764E` [high] Focusing on the act of creating rather than follower counts prevents the motivational collapse that kills most content efforts.
-- `INS-260325-6DD8` [high] Psychopathy affects ~1% of adults, is caused by both genetics and environment, and is treatable through CBT, medication, and parent management training.
 - `INS-260403-E300` [high] Making failure publicly visible locks founders into persistence more effectively than potential upside.
-- `INS-260327-8DFE` [high] Giertz sharing her brain tumor journey publicly created deeper audience loyalty than any product launch, because genuine vulnerability builds trust that curated content cannot.
 - `INS-260327-0061` [high] Most people have quietly given up and no one's noticed - because in a comfortable society, resignation looks exactly like contentment.
 - `INS-260329-3848` [high] Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.
 - `INS-260404-5365` [high] Treating selectors as customers rather than judges dissolves the expectation that rejection should be fair.
@@ -82,7 +79,6 @@
 - `INS-260325-F707` [high] Lists of '3 traits of highly resilient people' are myths — research finds many factors with small effects, meaning resilience is not a fixed character trait but an emergent outcome of many interacting variables.
 - `INS-260403-50B0` [high] Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
 - `INS-260325-CA88` [high] Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
-- `INS-260329-0B76` [high] Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260330-59A4` [high] Self-awareness without self-acceptance makes the gap between who you are and who you want to be more painful, not less.
 - `INS-260403-0070` [high] Trauma recovery begins when a person can say 'this is what happened to me and my reactions make sense' rather than 'something is wrong with me.'
 - `INS-260329-3E3A` [high] The 'isms' you claim about yourself — I'm bad at X, I'm not a Y person — actively prevent you from becoming what you need to become.
@@ -112,7 +108,6 @@
 - `INS-260327-ECBB` [high] Choosing to live with less than you can afford builds a psychological strength that living at maximum comfort systematically destroys.
 - `INS-260326-6CA3` [high] You cannot numb vulnerability without also numbing joy — the emotional system does not allow selective suppression.
 - `INS-260327-F7BC` [high] Become who you're afraid to be - the traits you suppress most actively are usually the ones whose expression would transform your life most dramatically.
-- `INS-260330-9515` [high] Willpower has bidirectional plasticity — it decays as fast as it builds, requiring daily renewal.
 - `INS-260330-85D9` [high] The brain's willpower center grows only from doing unwanted tasks, not merely difficult ones you enjoy.
 - `INS-260329-93AE` [high] Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
 - `INS-260329-D3F6` [medium] Stop-doing lists require less activation energy than start-doing lists, making them more effective for rapid change.
@@ -144,7 +139,6 @@
 - `INS-260330-2D6D` [medium] Nakamura explicitly credited being shunned by PhD colleagues as the source of his 'fighting spirit' that sustained years of grueling daily work.
 - `INS-260329-541A` [medium] Sadness is a knowledge deficit (no perceived options); anxiety is a prioritization deficit (too many options).
 - `INS-260329-5412` [medium] Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.
-- `INS-260329-5FB5` [medium] Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
 - `INS-260403-39DD` [medium] Losing fortunes and rebuilding them is the empirical test that separates skill-based wealth creation from luck-based wealth.
 - `INS-260323-099F` [medium] When a low-vibration emotion surfaces, locate it physically in your body and feel it for a few minutes rather than bypassing it — this diffuses the charge permanently.
 - `INS-260404-21B2` [medium] Your mind's quit signal fires far earlier than your body's actual limit, leaving massive untapped reserves.

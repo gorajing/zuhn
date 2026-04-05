@@ -51,11 +51,11 @@ stance: >-
   achievements we recognize and which we overlook, creating systematic blind
   spots in evaluation.
 related:
-  - INS-260330-237E
   - INS-260327-203C
   - INS-260330-CF10
   - INS-260330-7C58
   - INS-260330-7E97
+  - INS-260330-23CD
 evidence:
   - id: INS-260327-203C
     type: CHALLENGES

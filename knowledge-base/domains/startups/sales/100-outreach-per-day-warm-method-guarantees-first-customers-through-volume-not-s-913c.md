@@ -56,5 +56,6 @@ related:
   - INS-260329-12EC
   - INS-260329-7B47
   - INS-260329-B194
+  - INS-260330-ECA9
 ---
 Hormozi prescribes a specific formula for the hardest part of starting a business: getting the first customers. Rather than building a website, creating content, or perfecting the offer, he advocates for immediate high-volume outreach to people you already know or have a connection to. The math is straightforward: if you contact 100 people per day and even 3% show interest, you'll have 3 conversations daily. With a modest close rate, you'll have paying customers within a week. This approach works because it removes the skill variable — you don't need to be a great salesperson if your volume is high enough. It also provides rapid market feedback: if 100 people per day say no for a week straight, your offer needs fundamental rework. The warm component (existing contacts, social media connections, community members) dramatically improves response rates compared to pure cold outreach.

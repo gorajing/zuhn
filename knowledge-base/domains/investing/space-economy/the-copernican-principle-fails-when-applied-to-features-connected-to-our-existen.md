@@ -51,14 +51,12 @@ stance: >-
   reasoning because we can only observe ourselves in places where conditions
   permit our existence.
 related:
-  - INS-260325-0A81
   - INS-260325-DFA5
   - INS-260330-6165
   - INS-260330-833E
   - INS-260330-D304
-  - INS-260325-4996
-  - INS-260323-8F70
   - INS-260330-716C
+  - INS-260323-8F70
   - INS-260330-E660
   - INS-260330-D385
 evidence:

@@ -57,7 +57,7 @@ related:
   - INS-260330-85AE
   - INS-260404-842D
   - INS-260330-B640
-  - INS-260325-EB9E
+  - INS-260330-3819
 ---
 When prime numbers are plotted in polar coordinates where both r and theta equal the number itself, stunning spiral patterns emerge. The natural instinct is to attribute these patterns to deep structure within the primes. However, the spirals appear even when plotting ALL integers — they're artifacts of the fact that certain numbers of radians (6, 44, 710) closely approximate whole multiples of 2pi, creating residue classes that visually separate into spiral arms.
 

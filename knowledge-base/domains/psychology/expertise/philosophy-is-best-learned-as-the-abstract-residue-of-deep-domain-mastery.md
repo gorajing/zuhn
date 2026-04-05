@@ -54,6 +54,9 @@ evidence:
   - id: INS-260329-5C25
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260327-A5CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham argues that philosophy books are either highly technical and inconsequential, or vague concatenations of abstractions their authors didn't fully understand. The real philosophical insights come from understanding math, history, or engineering deeply enough that the most abstract things you know are what philosophy is supposed to teach.
 

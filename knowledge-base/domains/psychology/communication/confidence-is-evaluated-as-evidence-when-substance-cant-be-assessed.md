@@ -15,11 +15,8 @@ tags:
   - expertise-gap
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -60,12 +57,10 @@ related:
   - INS-260404-0570
   - INS-260404-F161
 evidence:
-  - id: INS-260404-6388
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260404-5017
+    relationship: RELATED
   - id: INS-260327-66AC
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Graham observes that investors often can't evaluate technical products in a brief pitch, so they rely on second-order signals — primarily the founder's own confidence. But this must be shown, not told. Saying 'we're passionate' or 'our product is great' gets ignored or marks you as a bullshitter. The confidence must be implicit: embedded in how you present, not what you claim.
 

@@ -44,14 +44,11 @@ stance: >-
   V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 evidence:
   - id: INS-260322-5790
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-38E1
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260330-1B6E
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-8639
+    relationship: RELATED
 ---
 
 Most developers default to the most capable (and expensive) model without

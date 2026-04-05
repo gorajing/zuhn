@@ -49,11 +49,11 @@ related:
   - INS-260330-3559
   - INS-260402-8424
   - INS-260403-1217
-  - INS-260403-498A
   - INS-260403-4904
   - INS-260403-9E0E
-  - INS-260403-7F91
+  - INS-260403-5018
   - INS-260403-B8A3
   - INS-260403-5B46
+  - INS-260403-696C
 ---
 Graham observes a qualitative shift in startup dynamics: as technology decreases the cost of starting a company, founders need less capital and therefore give up less equity and control. This creates a compounding effect on wealth concentration — founders own more of companies that are themselves worth more due to technology leverage. The shift is structural rather than cyclical because it tracks the underlying exponential curve of technology improvement. For founders, this means the default negotiating position has permanently improved: the less capital you need, the more of the company you keep. For investors, the implication is that returns increasingly depend on access to the best founders rather than on deal terms, because founders with options will not accept unfavorable terms.

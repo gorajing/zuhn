@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260330-AE22
   - INS-260325-1EAC
-  - INS-260329-0068
   - INS-260327-24D2
   - INS-260330-8901
+  - INS-260325-A272
 ---
 The Bootcamp explicitly frames its value as coming not just from Osterwalder and Pigneur, but from interaction with other practitioners who have applied the same frameworks across different industries, cultures, and organizational structures. At expert levels, the most valuable knowledge is tacit, situational, and won't appear in any book.
 

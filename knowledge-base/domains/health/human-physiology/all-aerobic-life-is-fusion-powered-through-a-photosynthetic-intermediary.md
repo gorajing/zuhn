@@ -51,11 +51,12 @@ stance: >-
   photosynthesis reframes nutrition as energy transformation rather than
   chemical intake
 related:
-  - INS-260330-09F8
-  - INS-260330-BC56
   - INS-260330-1084
+  - INS-260330-BC56
+  - INS-260404-52FC
   - PRI-260403-181B
-  - INS-260404-1B29
+  - INS-260404-3500
+  - INS-260404-EFA8
 evidence:
   - id: INS-260330-09F8
     type: SUPPORTS

@@ -47,13 +47,13 @@ stance: >-
   are those that begin reinventing before their current model becomes
   irrelevant, not after.
 related:
-  - INS-260322-CCE8
   - INS-260330-9313
   - INS-260403-1000
   - INS-260403-1B15
   - INS-260403-F9C7
   - INS-260403-8CDD
   - PRI-260403-5FC4
+  - INS-260325-A08A
 evidence:
   - id: INS-260403-F9C7
     type: TRANSFERS_TO

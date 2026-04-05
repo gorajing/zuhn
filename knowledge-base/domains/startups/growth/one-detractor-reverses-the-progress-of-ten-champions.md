@@ -48,11 +48,11 @@ stance: >-
   satisfied advocates, making damage control more important than new user
   acquisition in early-stage startups.
 related:
-  - INS-260330-0E4C
   - INS-260328-B57E
   - INS-260330-21CC
   - PRI-260403-26B9
-  - INS-260403-13ED
+  - INS-260323-6351
+  - INS-260327-C083
 evidence:
   - id: INS-260323-6351
     type: TRANSFERS_TO

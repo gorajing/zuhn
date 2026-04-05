@@ -44,10 +44,10 @@ stance: >-
   fundamentals when playbooks fail.
 related:
   - INS-260405-F5D8
-  - INS-260326-291C
   - INS-260325-1EAC
   - INS-260329-4DBC
   - INS-260329-FEF4
+  - INS-260405-89E7
   - INS-260403-C6DC
 evidence:
   - id: INS-260329-FEF4

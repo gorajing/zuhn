@@ -71,23 +71,17 @@ related:
   - INS-260329-74E5
 evidence:
   - id: INS-260322-3537
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260323-B309
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-4B30
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-6936
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-003B
-    type: CONTRADICTS
-    classified_at: '2026-04-03'
-  - id: INS-260329-7C59
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-04FA
+    relationship: RELATED
 ---
 The tutorial's type introduction sequence is not alphabetical or arbitrary — it follows a precise concrete-to-abstract gradient. Strings come first because they're directly visible ('Hello' is immediately inspectable). Numbers follow because arithmetic is pre-existing knowledge. Booleans are introduced through comparison operators on already-familiar types. Lists and dictionaries emerge as containers for the primitive types already understood. Finally, classes arrive as containers for both data and behavior.
 

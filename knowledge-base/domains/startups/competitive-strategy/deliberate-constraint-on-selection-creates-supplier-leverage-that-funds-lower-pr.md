@@ -17,8 +17,8 @@ tags:
   - leverage
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -61,11 +61,9 @@ related:
   - INS-260404-B350
 evidence:
   - id: INS-260404-36D7
-    type: EXTENDS
-    classified_at: '2026-04-05'
-  - id: INS-260404-7F16
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260405-4871
+    relationship: RELATED
 ---
 Costco's extreme SKU limitation — roughly 4,000 items versus 30,000 at a typical supermarket or 140,000 at Walmart — creates a counterintuitive advantage. By offering only one or two choices per category, Costco concentrates its purchasing volume into far fewer products. Suppliers compete intensely for those limited slots, offering lower prices and even reengineering products (like the cashew container redesign saving 24,000 pallets annually) to win placement.
 

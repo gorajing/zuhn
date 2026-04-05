@@ -16,11 +16,8 @@ tags:
   - market-evidence
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -50,15 +47,19 @@ stance: >-
   you're addressing is more persuasive to investors than any market size number
   or theoretical argument.
 related:
-  - INS-260323-8AB8
+  - INS-260323-C370
   - INS-260403-0B14
-  - INS-260404-A95D
   - INS-260403-EA2D
-  - INS-260403-3837
   - INS-260403-30D8
-  - INS-260404-44A4
+  - INS-260403-F8FF
+  - INS-260404-B31C
+  - INS-260404-2B4C
   - INS-260403-7219
   - INS-260403-EA8C
+evidence:
+  - id: INS-260323-8AB8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Sequoia's Greg McAdoo specifically looks for the 'proxy for demand' — observable behavior showing people need what you're building. This is more convincing than TAM slides because it's grounded in real human behavior rather than analyst projections. When people pay a lot for something, a cheaper alternative that preserves the valued qualities is an easy sell.
 

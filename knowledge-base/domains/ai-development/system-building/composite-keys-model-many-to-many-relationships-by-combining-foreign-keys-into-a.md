@@ -51,7 +51,6 @@ stance: >-
   tables with composite primary keys, not through denormalized columns or
   application-level tracking.
 related:
-  - INS-260329-920D
   - INS-260329-8233
   - INS-260329-BE72
   - INS-260329-1277

@@ -54,9 +54,9 @@ stance: >-
   personas alone.
 related:
   - INS-260322-185B
-  - INS-260326-3F06
-  - INS-260329-EC98
+  - INS-260327-00EB
   - INS-260404-D1E2
+  - INS-260404-1E47
   - INS-260322-5A72
   - INS-260329-CEC5
   - INS-260330-FE9E

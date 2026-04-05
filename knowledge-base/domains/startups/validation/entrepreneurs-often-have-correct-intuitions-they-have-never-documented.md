@@ -47,11 +47,11 @@ stance: >-
   business understanding but lack of structured documentation of what they
   already know
 related:
-  - INS-260403-B462
   - INS-260323-C1D7
   - INS-260323-F540
   - INS-260323-72EB
   - INS-260330-8304
+  - PRI-260324-F9CD
 ---
 Zoo Labs residents consistently report that the Business Model Canvas doesn't teach them something new — it makes visible what they already understood intuitively. The canvas acts as an externalization tool for tacit knowledge rather than a teaching device for new knowledge.
 

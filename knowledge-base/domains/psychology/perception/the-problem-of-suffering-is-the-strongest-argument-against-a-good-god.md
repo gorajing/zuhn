@@ -51,12 +51,13 @@ stance: >-
   the sheer unexpectedness of billions of years of animal suffering as the
   chosen mechanism for creation by a supposedly loving being.
 related:
+  - INS-260325-4E20
   - INS-260323-7D90
   - INS-260325-DFA5
-  - INS-260325-E19E
   - INS-260404-FF39
   - INS-260330-1DDE
   - INS-260325-75A3
+  - INS-260323-D4B1
   - INS-260327-D10B
   - INS-260403-0C95
   - INS-260405-AF1E

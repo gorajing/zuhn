@@ -48,13 +48,14 @@ stance: >-
   the 'winner' often emerges weaker in absolute terms than it was before the
   conflict began.
 related:
+  - INS-260325-6AD5
   - INS-260327-8DAA
   - INS-260327-65F4
-  - INS-260327-E7AC
   - PRI-260328-FA83
   - INS-260330-F116
   - INS-260327-719D
   - INS-260330-F158
+  - INS-260327-1756
   - INS-260327-485B
   - INS-260330-68EF
 evidence:

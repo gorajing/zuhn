@@ -44,10 +44,10 @@ resolutions:
     actual progress. Real change is behavioral, not conceptual.
 related:
   - PRI-260323-F92B
-  - INS-260330-FDA9
   - INS-260327-4C73
   - PRI-260325-496E
   - INS-260403-3BD3
+  - INS-260330-8A0C
 stance: >-
   Knowing your patterns, naming your triggers, and understanding your attachment
   style means nothing if you do not actually behave differently.

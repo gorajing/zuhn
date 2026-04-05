@@ -48,11 +48,12 @@ stance: >-
   constrained to real-time processing.
 related:
   - INS-260321-E4EB
-  - INS-260323-0603
   - INS-260330-9DC9
   - INS-260320-9935
   - INS-260327-112B
   - INS-260404-5AC1
+  - INS-260323-0603
+  - INS-260405-1F65
 evidence:
   - id: INS-260321-E4EB
     type: CHALLENGES

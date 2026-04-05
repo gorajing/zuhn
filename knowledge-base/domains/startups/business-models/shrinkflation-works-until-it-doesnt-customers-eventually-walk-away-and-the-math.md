@@ -47,9 +47,9 @@ related:
   - INS-260324-6A99
   - INS-260330-DE80
   - INS-260323-EBC3
+  - INS-260327-A5F9
   - INS-260327-FBD8
   - INS-260330-ADB7
-  - INS-260330-0871
 stance: >-
   Shrinkflation generates 3-5% revenue growth for years even as volumes decline,
   but there's a ceiling

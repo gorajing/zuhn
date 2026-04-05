@@ -54,11 +54,11 @@ stance: >-
   bullets, and even blood flow through narrowed arteries.
 related:
   - INS-260330-9BC3
-  - INS-260330-7B07
   - INS-260330-9BB5
   - INS-260330-8BB4
   - INS-260330-24B6
   - INS-260330-6FDF
+  - INS-260330-12F9
   - INS-260330-966E
 evidence:
   - id: INS-260330-8BB4

@@ -17,11 +17,8 @@ tags:
   - investor-psychology
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -55,15 +52,15 @@ stance: >-
   the single biggest evidence they use to evaluate early startups
 related:
   - INS-260327-CD49
+  - INS-260327-0595
+  - INS-260330-990F
   - INS-260330-24E0
   - INS-260403-F447
-  - INS-260403-0F95
-  - INS-260403-A290
-  - INS-260404-CDCB
-  - INS-260404-65BE
+  - INS-260403-C7A9
   - INS-260403-2F22
-  - INS-260404-5343
-  - INS-260403-DE45
+  - INS-260403-22FE
+  - INS-260404-187C
+  - INS-260405-8BEA
 ---
 Graham identifies a paradox: for early-stage startups where investors can't fully evaluate the technical merits, the founder's own confidence becomes 'probably the single biggest piece of evidence' for investment decisions. Yet explicitly stating that confidence ('we're passionate,' 'our product is great') causes the opposite effect — investors write you off as bullshitters.
 

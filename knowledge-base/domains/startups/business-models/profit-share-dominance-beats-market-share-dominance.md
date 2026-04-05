@@ -42,13 +42,17 @@ stance: >-
   is a more durable competitive position than pursuing volume-based market
   leadership
 related:
-  - INS-260329-C409
+  - INS-260330-2CE3
   - INS-260330-7479
   - INS-260330-D071
-  - INS-260404-AB9A
-  - INS-260403-5BBC
   - INS-260405-051E
   - PRI-260328-6A8D
+  - INS-260404-837E
+  - INS-260405-54E2
+evidence:
+  - id: INS-260329-C409
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Apple's iPhone strategy demonstrates that owning the high end of a market can be far more valuable than chasing market share. At its peak, Apple captured 94% of the smartphone industry's profits despite accounting for only 14.5% of unit sales. This inverts the conventional wisdom that scale and volume are prerequisites for dominance.
 

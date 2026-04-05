@@ -52,11 +52,12 @@ stance: >-
   incumbent system's promises most visibly fail its constituents
 related:
   - INS-260327-A052
+  - INS-260327-38B8
   - INS-260327-A25E
-  - INS-260327-F93A
   - PRI-260328-0993
   - PRI-260328-79DA
   - INS-260330-F116
+  - INS-260327-A458
 evidence:
   - id: INS-260327-F93A
     type: SUPPORTS

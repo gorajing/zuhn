@@ -54,11 +54,11 @@ stance: >-
   creates stronger mental models than demonstrating only the correct solution
 related:
   - INS-260329-F84E
-  - INS-260329-5F37
   - INS-260329-DABC
   - INS-260329-A218
   - INS-260329-8896
-  - INS-260329-E6A1
+  - INS-260322-C935
+  - INS-260329-023F
 evidence:
   - id: INS-260329-F84E
     type: CHALLENGES

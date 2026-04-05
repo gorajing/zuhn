@@ -53,6 +53,10 @@ related:
   - INS-260329-2EAA
   - INS-260322-837A
   - PRI-260328-6A8D
+evidence:
+  - id: INS-260330-8FEC
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 ARM's revenue model combines two complementary streams: fixed upfront license fees ($1-10M per partner) that provide immediate R&D cost recovery, and variable royalties (1-2% of chip selling price) that scale with market adoption. This dual structure is strategically elegant because it de-risks the business while preserving exponential upside.
 

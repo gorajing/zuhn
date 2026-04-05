@@ -46,16 +46,15 @@ stance: >-
   terrible handle—UX innovation is the bottleneck for AI product success, not
   model capability.
 related:
-  - INS-260325-4E96
   - INS-260322-2D57
   - INS-260321-D484
   - INS-260321-7D76
   - PRI-260323-ADA4
   - PRI-260328-A82C
-  - INS-260330-4AD5
   - INS-260403-7F89
   - INS-260330-EE25
   - INS-260403-0902
+  - INS-260403-72C2
 evidence:
   - id: INS-260325-4E96
     type: EXTENDS

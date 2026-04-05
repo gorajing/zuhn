@@ -57,11 +57,10 @@ resolutions:
 related:
   - INS-260404-673B
   - INS-260323-F963
-  - INS-260327-2C5F
   - INS-260403-0550
-  - INS-260330-B8C6
-  - INS-260329-A171
+  - INS-260329-FEC5
   - INS-260330-80AF
+  - INS-260329-A171
   - INS-260404-5440
 stance: >-
   Every sentence in every language forms a tree structure where each word

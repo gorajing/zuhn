@@ -56,7 +56,6 @@ related:
   - INS-260404-CCE7
   - INS-260327-4434
   - INS-260327-679A
-  - INS-260330-C7DB
   - INS-260404-AF08
 evidence:
   - id: INS-260327-CB1E

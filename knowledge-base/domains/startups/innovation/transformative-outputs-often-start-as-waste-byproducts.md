@@ -55,14 +55,15 @@ stance: >-
   of systems optimized for entirely different goals
 related:
   - INS-260325-2F1E
+  - INS-260323-0AF3
+  - INS-260330-B27A
   - INS-260330-19C3
-  - INS-260330-41F6
-  - INS-260330-30FB
+  - INS-260330-2119
+  - INS-260330-E786
+  - INS-260330-656A
+  - PRI-260403-181B
+  - INS-260403-B4F1
   - INS-260403-FDD8
-  - INS-260404-E60B
-  - INS-260404-D0A5
-  - INS-260404-8E0B
-  - INS-260405-FBD7
 evidence:
   - id: INS-260330-30FB
     type: CHALLENGES

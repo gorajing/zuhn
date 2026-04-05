@@ -1,12 +1,10 @@
 # Topic: bubbles
 
-> 65 insights
+> 54 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260330-4D05` [high] Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
-- `INS-260323-FEAB` [high] Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260328-FDC8` [high] AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
-- `INS-260323-7F22` [high] Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
 - `INS-260327-4C26` [high] G-Class Mercedes, Rolexes, luxury handbags, and trading cards have all crashed after being marketed as 'investments' - the bubble popping reveals they were always consumption, not investment.
 - `INS-260326-6D53` [high] The opposite of fragile is not robust (indifferent to shocks) but antifragile (benefits from shocks), a distinction with massive implications for portfolio construction and system design.
 - `INS-260330-AD13` [high] Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
@@ -22,28 +20,20 @@
 - `INS-260330-C1EA` [high] Chinese households save nearly 40% of disposable income but funnel 70% of wealth into real estate because domestic stocks are volatile and banks are distrusted.
 - `INS-260404-6B73` [high] DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
 - `INS-260323-114D` [high] $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
-- `INS-260325-51E6` [high] When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
 - `INS-260325-F0CE` [high] Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
 - `INS-260325-9F41` [high] Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
-- `INS-260326-0045` [high] Fat-tailed distributions mean most of the action comes from rare extreme events, making short historical windows dangerously misleading about true risk levels.
-- `INS-260325-039E` [high] High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
-- `INS-260325-803C` [high] Financial media does not sell content to viewers — it sells viewers to advertisers — which is why everything is presented as an existential threat designed to capture attention rather than inform decisions.
 - `INS-260330-E43F` [high] China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260330-A98B` [high] Local governments funding themselves primarily through land sales creates a structural incentive to oversupply housing, inflating bubbles.
 - `INS-260404-EEAF` [high] Most fortunes are destroyed by bad investments rather than extravagant spending because investments bypass our innate alarms about self-indulgence.
 - `INS-260325-0688` [high] The loser's game framework shows that investing success comes from minimizing errors, not maximizing returns.
 - `INS-260325-9DBB` [high] Like amateur tennis, investing is won not by brilliant plays but by making fewer mistakes than your opponent.
 - `INS-260325-13C2` [high] We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
-- `INS-260325-1407` [high] A high-cost portfolio generates 20% less value over 25-30 years than a low-cost one, and the Vanguard effect has saved investors roughly $2 trillion in fees since the 1970s.
 - `INS-260325-FF45` [high] Markets drop 5% twice a year and 10% every 18 months — but loss aversion (feeling losses 2x more than gains) makes these routine events feel catastrophic, driving panic selling.
 - `INS-260327-D522` [high] When headlines say trillions were 'wiped out', the money didn't go anywhere because it never existed as liquid capital in the first place.
 - `INS-260323-6351` [high] The two cardinal rules of investing: only use money you don't need short-term, and never leverage your portfolio — because black swan events can halve any stock overnight.
 - `INS-260327-D4D8` [high] Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
 - `INS-260330-06CD` [high] Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
-- `INS-260325-EF4C` [high] Bessembinder's research shows just 2% of stocks are responsible for all market gains, making stock picking a near-impossible game.
-- `INS-260325-195E` [high] Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
 - `INS-260325-FDB3` [high] Less than half of professional fund managers beat their benchmark in any given year, dropping to under 10% at 10 years and virtually zero at 20.
-- `INS-260330-3B31` [high] Ponzi schemes are mathematically unsustainable because they need exponential growth in new investors to pay promised returns.
 - `INS-260324-72E8` [high] After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
 - `INS-260323-500B` [high] The stock market is a voting machine short-term but a weighing machine long-term — the edge comes from knowing the difference between price and value.
 - `INS-260403-CF98` [high] McDonald's was one of only two Dow Jones stocks to increase in value during 2008, and has raised dividends for 25+ consecutive years, because its real estate base provides stability that food margins never could.
@@ -63,7 +53,6 @@
 - `INS-260323-5C25` [medium] Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B negative free cash flow in 2026; if the best-positioned AI infrastructure borrower can't raise debt, smaller players are finished.
 - `INS-260323-F12F` [medium] AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
 - `INS-260403-3C81` [medium] The post-2000 tech market didn't re-bubble because acquisition-based exits are structurally less prone to irrational exuberance than IPO-based exits.
-- `INS-260330-808B` [medium] When Standard Oil was broken into 34 companies, investors nearly tripled Rockefeller's share value because each independent company was valued higher than its fraction of the whole — the classic conglomerate discount in reverse.
 - `INS-260323-D288` [medium] When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
 - `INS-260324-5C53` [medium] OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260324-29D8` [medium] The microprocessor, PC, Wi-Fi, smartphones, and GPS all flourished through organic market demand — no one adopted them under threat of extinction. AI's adoption is driven by institutional fear-mongering, not pull.

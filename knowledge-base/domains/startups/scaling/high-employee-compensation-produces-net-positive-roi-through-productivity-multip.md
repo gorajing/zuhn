@@ -16,8 +16,8 @@ tags:
   - labor-strategy
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -49,14 +49,13 @@ stance: >-
   Paying workers significantly above market rate is not a cost center but a
   profit driver when the productivity multiplier exceeds the wage premium
 related:
+  - INS-260327-D480
   - INS-260403-365D
   - INS-260403-C125
-  - INS-260404-CEA8
-  - INS-260404-95FC
   - INS-260404-6A20
   - INS-260404-C13E
-  - INS-260405-AC40
   - INS-260405-202B
+  - INS-260405-AC40
 ---
 The standard retail playbook treats labor as a cost to minimize. Costco inverts this by paying $21/hour (double the U.S. retail average) with superior health insurance and retirement benefits. The result is employees who are three times more productive than the industry average — a 2x cost for 3x output is a clear mathematical win.
 

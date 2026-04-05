@@ -49,12 +49,10 @@ stance: >-
   concentration gradients, pressure differentials, or information asymmetries
 related:
   - INS-260330-C456
-  - INS-260330-8913
-  - INS-260330-99CE
-  - INS-260330-24BA
-  - INS-260404-91A0
-  - INS-260403-DE05
-  - INS-260330-100F
+  - INS-260330-FA36
+  - INS-260403-F249
+  - INS-260403-464D
+  - INS-260403-CD2A
 evidence:
   - id: INS-260330-100F
     type: EXTENDS
@@ -64,6 +62,9 @@ evidence:
     classified_at: '2026-04-05'
   - id: INS-260330-C456
     type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-99CE
+    type: EXTENDS
     classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane maintains a concentration gradient of protons—high inside, low outside. This controlled imbalance is what drives ATP synthase, the enzyme that produces the cell's energy currency. Without the gradient, the enzyme has nothing to work with.

@@ -14,11 +14,8 @@ tags:
   - demand-validation
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -47,12 +44,14 @@ stance: >-
   something nobody wants.
 related:
   - INS-260402-F5E0
-  - INS-260403-1A73
+  - INS-260403-17A3
   - INS-260404-9A82
-  - INS-260404-AC2B
+  - INS-260404-2FC0
   - INS-260404-B887
   - INS-260403-035A
-  - INS-260403-419B
+  - INS-260404-CF2A
+  - INS-260404-3D06
+  - INS-260405-F9EC
 evidence:
   - id: INS-260404-B887
     type: REFINES

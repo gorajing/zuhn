@@ -59,6 +59,12 @@ evidence:
   - id: INS-260327-33E0
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260323-4B09
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-C45C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Nearly every successful startup receives acquisition offers en route to its full potential. For money-motivated founders, these offers are rationally compelling — a guaranteed large payout versus continued risk. Founders driven by benevolent purpose have a structural reason to decline: the acquisition would end their ability to pursue the change they care about.
 

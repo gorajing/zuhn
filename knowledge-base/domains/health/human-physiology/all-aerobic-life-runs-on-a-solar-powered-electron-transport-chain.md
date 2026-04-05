@@ -66,20 +66,15 @@ related:
   - INS-260403-B4F1
 evidence:
   - id: INS-260330-B27A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-09F8
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-8544
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260330-E497
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-F5CF
+    relationship: RELATED
   - id: INS-260403-B4F1
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 The light-dependent reactions of photosynthesis work by exciting electrons with photons and then running those electrons through a transport chain that extracts energy at each step. When PSII loses an electron, it replaces it by splitting water (H2O) — stealing water's electron and releasing hydrogen ions and oxygen as byproducts.
 

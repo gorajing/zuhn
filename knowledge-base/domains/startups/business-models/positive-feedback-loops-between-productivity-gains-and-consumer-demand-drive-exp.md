@@ -63,14 +63,11 @@ related:
   - INS-260330-696D
 evidence:
   - id: INS-260329-9D26
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260323-F2BD
-    type: CHALLENGES
-    classified_at: '2026-04-02'
-  - id: INS-260325-F484
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260325-B234
+    relationship: RELATED
 ---
 The emergence of industrial capitalism in Britain demonstrates how positive feedback loops drive exponential system growth. When agricultural innovations (crop rotation, nitrogen-fixing clover) lowered food prices, workers retained more disposable income. This surplus income created demand for manufactured consumer goods, which incentivized entrepreneurs to invest in more efficient production methods, further lowering prices and expanding markets.
 

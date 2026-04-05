@@ -54,5 +54,18 @@ related:
   - INS-260327-24D2
   - INS-260405-66A1
   - PRI-260328-E64D
+evidence:
+  - id: INS-260402-A94F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-C31B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-24D2
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260405-66A1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham uses the metaphor of playing soccer on a pitch with a minefield in one corner — you don't just avoid that corner, you play a more subdued game everywhere. This captures a non-obvious second-order effect of intellectual censorship: because the best ideas have consequences far removed from their origins, restricting conclusions in domain X causes self-censorship in domains A through W for anyone whose thinking might lead toward X. The practical implication is that the cost of banning 'bad' ideas is far higher than it appears, because you're not just losing those specific ideas — you're dampening the entire intellectual ecosystem. This is analogous to how removing a keystone species affects an entire ecology, not just the animals that directly interacted with it. For organizations, this means that even narrowly targeted speech restrictions will have broad chilling effects on innovation.

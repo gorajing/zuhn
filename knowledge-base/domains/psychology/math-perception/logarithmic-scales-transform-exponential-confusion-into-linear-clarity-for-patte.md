@@ -47,12 +47,12 @@ stance: >-
   prosthetic that converts an unintuitive process into one humans can reason
   about natively
 related:
-  - INS-260330-2EC0
   - INS-260330-864C
-  - INS-260330-FE65
   - INS-260330-FF5B
   - INS-260330-ED8A
-  - INS-260330-8C80
+  - INS-260330-FE65
+  - INS-260330-1AB0
+  - INS-260330-C499
 evidence:
   - id: INS-260330-ED8A
     type: REFINES

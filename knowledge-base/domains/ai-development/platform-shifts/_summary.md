@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 34 insights
+> 33 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260327-561F` [high] AI ethics is not a feature to patch later but foundational infrastructure -- like rebar in a building -- without which even the best AI technology inevitably becomes a surveillance tool.
@@ -10,7 +10,6 @@
 - `INS-260325-2906` [high] Unlike coal and oil which must be dug up, solar panels follow manufacturing learning curves — doubling production drops costs by 20% — making cheap abundant energy inevitable.
 - `INS-260330-4C31` [high] Co-locating components on one chip eliminates data transfer overhead, beating systems with individually stronger but physically separated parts.
 - `INS-260323-8DE7` [high] NVIDIA created CUDA to let any programmer use GPU parallel processing via familiar languages — a speculative infrastructure bet that paid off when AI researchers adopted it for deep learning.
-- `INS-260325-DD43` [high] Open Router revealed that the same model from different providers at different speeds enables entirely different use cases, making deployment selection a first-class product decision.
 - `INS-260328-6C9A` [high] In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
 - `INS-260323-6230` [high] NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
 - `INS-260325-A782` [high] Transistors are approaching 5 atoms across, at which point electrons tunnel through causing short circuits — Moore's Law will physically end, and quantum computing is the only successor.

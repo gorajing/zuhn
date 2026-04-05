@@ -45,10 +45,10 @@ stance: >-
   we are astonished people lived without electricity.
 related:
   - INS-260325-6F7F
-  - INS-260325-6262
   - INS-260325-362B
   - INS-260325-B14B
-  - INS-260330-7462
+  - INS-260330-41DB
+  - INS-260327-EE23
 evidence:
   - id: INS-260325-6262
     type: SUPPORTS

@@ -54,12 +54,11 @@ related:
   - INS-260323-4E23
   - INS-260323-1176
   - INS-260329-C26B
-  - INS-260329-8067
-  - INS-260403-3F05
+  - INS-260403-D531
   - INS-260404-D452
   - INS-260404-8A57
   - PRI-260323-0F93
-  - INS-260403-C8A9
+  - PRI-260328-BD81
 ---
 RuBisCo evolved when CO2 was abundant and oxygen was scarce, making it adequate for carbon fixation. When plants' own light reactions flooded the atmosphere with oxygen, RuBisCo started confusing O2 for CO2 roughly half the time — creating toxic byproducts. But plants had already built their entire metabolic architecture around RuBisCo, so instead of evolving a better enzyme, they evolved workarounds: producing massive quantities (40 billion tons on Earth) and building detox pathways.
 

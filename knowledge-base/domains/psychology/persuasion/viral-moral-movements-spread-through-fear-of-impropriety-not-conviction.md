@@ -51,12 +51,12 @@ stance: >-
   fully understand.
 related:
   - INS-260327-924F
+  - INS-260330-15AE
   - INS-260330-7D5F
   - INS-260330-365B
-  - INS-260320-3798
-  - INS-260404-65BE
   - INS-260403-B6D9
   - PRI-260328-1D0B
+  - INS-260330-141E
   - INS-260403-3E46
 evidence:
   - id: INS-260320-3798

@@ -45,7 +45,6 @@ stance: >-
   whatever scarce resource sits adjacent to that content — live experiences,
   attention, physical goods
 related:
-  - INS-260325-803C
   - INS-260321-3312
   - INS-260321-ADB4
   - INS-260327-AD0D
@@ -55,6 +54,7 @@ related:
   - INS-260403-C1E9
   - INS-260405-2748
   - PRI-260322-DC5E
+  - INS-260403-6932
 evidence:
   - id: INS-260403-6932
     type: EXTENDS
@@ -64,6 +64,9 @@ evidence:
     classified_at: '2026-04-05'
   - id: INS-260321-3312
     type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260325-803C
+    type: EXTENDS
     classified_at: '2026-04-05'
 ---
 Graham outlines the two viable paths when content becomes free: give it away and monetize indirectly (concerts, t-shirts, advertising), or embody it in physical objects people will pay for. The key economic insight is that when one complement becomes free, demand increases for its paired scarce resource.

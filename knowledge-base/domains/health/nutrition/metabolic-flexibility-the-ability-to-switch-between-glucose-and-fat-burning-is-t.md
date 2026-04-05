@@ -51,6 +51,7 @@ stance: >-
   switch by keeping insulin elevated and locking the body in glucose-only mode.
 related:
   - INS-260325-A03D
+  - INS-260325-81BD
   - INS-260325-0BB0
   - INS-260325-6360
   - INS-260325-9F4C
@@ -59,7 +60,6 @@ related:
   - PRI-260328-AF97
   - PRI-260325-9258
   - INS-260327-1C50
-  - INS-260327-BEF6
 evidence:
   - id: INS-260325-9F4C
     type: SUPPORTS

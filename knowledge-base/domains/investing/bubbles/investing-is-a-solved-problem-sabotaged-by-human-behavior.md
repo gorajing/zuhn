@@ -52,6 +52,10 @@ related:
   - INS-260323-1B42
   - INS-260403-C732
   - INS-260404-AF54
+evidence:
+  - id: INS-260404-AF54
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Ritholtz opens with a provocative claim: investing is a problem that has been solved. Average returns for equities, fixed income, and inflation are well-documented over long periods. The wild card that torpedoes returns is human behavior — our evolutionary wiring for threat detection, action bias, and emotional decision-making.
 

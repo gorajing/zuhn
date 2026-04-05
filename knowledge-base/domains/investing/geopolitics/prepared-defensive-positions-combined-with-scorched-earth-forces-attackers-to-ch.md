@@ -58,7 +58,7 @@ related:
   - INS-260327-DC45
   - INS-260327-377A
   - INS-260327-B038
-  - INS-260327-8B9A
+  - PRI-260328-43D8
   - INS-260327-2475
 ---
 Wellington built the Lines of Torres Vedras — massive fortifications across the peninsula north of Lisbon — in secret over a year. When Massena's French army advanced into Portugal, they found the countryside stripped of food (scorched earth) and then hit the Lines: impregnable positions they couldn't storm, couldn't outflank (sea on both sides), and couldn't wait out because there was no food. Massena's army starved for months before retreating, losing thousands without a battle.

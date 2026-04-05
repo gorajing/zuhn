@@ -57,7 +57,6 @@ related:
   - INS-260329-E76F
   - INS-260329-9F81
   - INS-260403-9F9F
-  - INS-260329-EC33
 evidence:
   - id: INS-260329-EC33
     type: SUPPORTS

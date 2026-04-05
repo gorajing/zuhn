@@ -62,14 +62,11 @@ related:
   - INS-260405-4871
 evidence:
   - id: INS-260325-3E86
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-0E57
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260405-4871
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260405-F57E
+    relationship: RELATED
 ---
 The carbohydrate and fat energy systems are complementary like bicycle gears — turning one turns the other. Carbohydrates provide flexibility (rapid energy for sprints, cognitive demands), while fat provides unlimited capacity (sustained low-intensity energy). The body can never use fat as its sole fuel source (maximum ~70% fat at rest/sleep), but can reach 100% carbohydrate utilization at high intensity.
 

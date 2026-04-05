@@ -52,7 +52,6 @@ stance: >-
   irreversible path dependency that no amount of later optimization can escape.
 related:
   - INS-260330-E218
-  - INS-260330-56D6
   - INS-260403-262F
   - INS-260330-EB48
   - INS-260330-11EB

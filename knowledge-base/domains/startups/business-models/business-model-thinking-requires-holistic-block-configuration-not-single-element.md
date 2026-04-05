@@ -47,15 +47,15 @@ stance: >-
   between all building blocks simultaneously
 related:
   - INS-260321-8C35
-  - INS-260329-DFDB
   - INS-260330-5E03
   - INS-260330-EE25
-  - INS-260330-FF94
   - INS-260330-B3DD
   - INS-260330-0A8D
   - INS-260330-AA77
   - INS-260330-AF2A
   - INS-260402-1F41
+  - INS-260330-B33F
+  - INS-260322-54F3
 evidence:
   - id: INS-260330-EE25
     type: CHALLENGES
@@ -67,6 +67,9 @@ evidence:
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
   - id: INS-260330-5E03
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-AF2A
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
 ---

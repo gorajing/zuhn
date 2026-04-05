@@ -43,12 +43,14 @@ stance: >-
   builds a stronger mental model of defensive programming than teaching
   exception syntax in isolation
 related:
+  - INS-260329-A6FB
   - INS-260329-F635
   - INS-260329-3441
   - INS-260329-9010
   - INS-260329-3FC9
   - INS-260329-A218
   - INS-260329-72E0
+  - INS-260330-82B5
 evidence:
   - id: INS-260329-A218
     type: TRANSFERS_TO

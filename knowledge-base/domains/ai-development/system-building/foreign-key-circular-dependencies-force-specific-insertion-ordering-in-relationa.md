@@ -48,7 +48,6 @@ stance: >-
   NULL-insert-then-update patterns that reveal hidden coupling costs invisible
   during schema design
 related:
-  - INS-260320-76D2
   - INS-260329-36DA
   - INS-260329-67CB
   - INS-260329-8233

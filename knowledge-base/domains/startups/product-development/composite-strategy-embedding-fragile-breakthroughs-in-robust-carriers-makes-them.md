@@ -49,11 +49,11 @@ stance: >-
   requires compositing the novel material or idea with proven, robust carriers
   rather than trying to improve the breakthrough's weaknesses directly.
 related:
-  - INS-260330-094B
   - INS-260403-C5FB
   - INS-260324-A046
   - INS-260330-8F0F
-  - INS-260330-8BA6
+  - INS-260330-85AA
+  - PRI-260328-06F1
 evidence:
   - id: INS-260330-85AA
     type: TRANSFERS_TO

@@ -75,6 +75,9 @@ evidence:
   - id: INS-260330-28EF
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-2BAD
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Dr. Johnson's framework suggests that psychedelics don't heal through the specific content of the experience (visions, mystical feelings, emotional catharsis) but through a more fundamental mechanism: temporarily increasing the entropy or randomness of neural activity, which destabilizes the rigid patterns that constitute psychiatric disorders.
 

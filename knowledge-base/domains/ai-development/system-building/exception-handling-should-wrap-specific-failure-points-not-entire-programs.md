@@ -50,12 +50,12 @@ stance: >-
   wrapping entire programs in a single catch-all handler.
 related:
   - INS-260320-DDFE
-  - INS-260329-D2CA
   - INS-260329-35F2
   - INS-260329-72E0
   - INS-260329-9010
   - INS-260320-7379
   - INS-260330-3B0B
+  - PRI-260403-9E80
   - INS-260329-0154
 ---
 The tutorial demonstrates exception handling through a calculator example: when a user enters text instead of a number, the program crashes with a FormatException. The solution is to wrap the specific input parsing code in a try-catch block, catch the specific exception type, and provide a meaningful recovery path (like a default value or a retry prompt).

@@ -17,4 +17,3 @@
 - `INS-260323-AFA7` Protecting hate speech is more important than protecting love speech because knowing who harbors hostility toward you is more critical than knowing who loves you.
 - `INS-260323-DA13` Just as scientists never refuse to run an experiment because the result might be unpleasant, the marketplace of ideas must entertain all hypotheses — including hateful ones.
 - `INS-260323-FCA7` Cancel culture is specifically the post-2014 surge in successful campaigns to get people fired, expelled, or deplatformed for speech that would be protected under the First Amendment.
-- `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.

@@ -52,6 +52,7 @@ stance: >-
   Pursuing two complementary but independent approaches to the same problem
   provides stronger validation than perfecting a single methodology.
 related:
+  - INS-260330-CDF8
   - INS-260330-8FF8
   - INS-260325-FDA9
   - INS-260325-A79E

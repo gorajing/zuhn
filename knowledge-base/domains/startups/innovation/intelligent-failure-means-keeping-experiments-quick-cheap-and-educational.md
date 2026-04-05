@@ -47,16 +47,14 @@ stance: >-
   from managing the cost and speed of failures while maximizing learning from
   each one
 related:
-  - INS-260325-55D8
-  - INS-260329-5FB5
   - INS-260329-87BA
   - INS-260403-3569
   - INS-260403-D379
   - INS-260403-FFEA
   - INS-260403-5C89
-  - INS-260403-8D87
   - INS-260403-4050
   - INS-260404-2E6C
+  - INS-260323-19A8
 evidence:
   - id: INS-260403-5C89
     type: SUPPORTS

@@ -52,10 +52,10 @@ related:
   - INS-260403-94AD
   - INS-260403-CC25
   - INS-260403-0196
-  - INS-260403-6D0D
   - INS-260404-D1E2
   - INS-260329-CEC5
-  - INS-260329-EC98
+  - INS-260405-A2A2
+  - INS-260330-FE9E
 ---
 Strategyzer's Value Proposition Canvas explicitly separates the customer profile (jobs, pains, gains) from the value map (products, pain relievers, gain creators), then asks teams to map connections between them. The tool library includes trigger questions for each dimension — forcing teams to enumerate customer jobs before proposing solutions.
 

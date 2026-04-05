@@ -51,11 +51,12 @@ stance: >-
   because it becomes the canonical search result for an evergreen topic,
   outperforming dozens of shorter videos combined.
 related:
+  - INS-260329-90C3
   - INS-260329-69F0
+  - INS-260329-E6AF
   - PRI-260403-C76D
   - INS-260329-3332
-  - INS-260329-E6AF
-  - INS-260329-9AE9
+  - INS-260329-9A42
 evidence:
   - id: INS-260329-9AE9
     type: SUPPORTS

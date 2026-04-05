@@ -51,6 +51,7 @@ stance: >-
   because cultural evolution selects for words that are maximally efficient as
   emotional weapons
 related:
+  - INS-260323-3920
   - INS-260323-5CE3
   - INS-260330-B65B
   - INS-260330-DBAD
@@ -58,8 +59,7 @@ related:
   - INS-260403-F9F0
   - INS-260330-534C
   - INS-260403-0550
-  - INS-260323-3920
-  - INS-260327-2C5F
+  - INS-260404-4130
 evidence:
   - id: INS-260323-3920
     type: TRANSFERS_TO

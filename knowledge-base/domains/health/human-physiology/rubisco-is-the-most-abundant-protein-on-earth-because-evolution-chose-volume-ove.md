@@ -52,11 +52,10 @@ stance: >-
   inefficient RuBisCo enzyme
 related:
   - INS-260330-0E1E
-  - INS-260404-EC33
-  - INS-260330-8BF6
   - INS-260403-EDA2
   - INS-260403-9442
   - INS-260404-B04F
+  - INS-260404-47F5
   - INS-260404-9229
 evidence:
   - id: INS-260330-0E1E

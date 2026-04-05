@@ -55,14 +55,11 @@ related:
   - INS-260329-D357
 evidence:
   - id: INS-260325-3B28
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-2F74
-    type: CHALLENGES
-    classified_at: '2026-04-03'
-  - id: INS-260329-D357
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-3D3E
+    relationship: RELATED
 ---
 The video reveals a striking structural vulnerability: four of the seven SI base units depend on the kilogram's definition, plus all derived units like Newtons, Joules, Volts, and Watts. A 50-microgram drift (the weight of a fingerprint) in Big K isn't just a mass problem — it's a systemic metrology problem that ripples through physics, engineering, and commerce.
 

@@ -16,11 +16,8 @@ tags:
   - attention
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,13 +47,15 @@ stance: >-
   Starting a pitch with anything other than a concrete description of what you
   built wastes the most valuable seconds of investor attention
 related:
+  - INS-260320-080B
   - INS-260329-75B6
   - INS-260330-87BD
-  - INS-260404-683B
-  - INS-260403-047B
   - INS-260403-D430
   - INS-260405-44F5
   - INS-260403-FC45
+  - INS-260404-D242
+  - INS-260405-4AE1
+  - INS-260405-D514
 ---
 Investors evaluating early-stage startups are primarily trying to answer one question: have you built a compelling product? Before they can assess quality, they need to understand what you've made. Every second spent on preamble, market context, or founder backstory before the product description is a second where the investor's mental model remains empty.
 

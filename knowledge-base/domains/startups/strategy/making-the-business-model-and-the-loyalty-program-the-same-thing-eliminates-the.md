@@ -16,8 +16,8 @@ tags:
   - pricing
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -50,15 +50,17 @@ stance: >-
   than markups, its financial incentives automatically align with delivering
   customer value rather than extracting it
 related:
-  - INS-260327-7435
   - INS-260329-72A5
+  - INS-260403-CDB9
   - INS-260403-3864
-  - INS-260404-8365
-  - INS-260404-9EDC
+  - INS-260405-48EC
   - INS-260404-60D6
-  - INS-260405-BE42
-  - INS-260403-1208
   - INS-260403-BF47
+  - INS-260404-0298
+evidence:
+  - id: INS-260327-7435
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Most businesses create a loyalty program layered on top of a profit-extraction model, but the two are in tension: the company wants higher margins, the customer wants lower prices. Costco dissolves this tension by making membership the business. Since renewals are the primary revenue source, every price increase is self-defeating — it might generate a few cents today but costs $60 or $120 next year in lost renewals.
 

@@ -14,11 +14,8 @@ tags:
   - branding
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -44,16 +41,14 @@ stance: >-
   A single memorable descriptive phrase ('the X of Y') is the minimum viable
   unit of investor memory that survives across dozens of pitches.
 related:
-  - INS-260403-D375
-  - INS-260403-FE37
   - INS-260403-0AF4
   - INS-260403-85F1
   - INS-260403-FC45
   - INS-260403-21C4
-  - INS-260404-621F
   - INS-260404-8D37
-  - INS-260404-D8C7
   - INS-260404-756D
+  - INS-260404-A526
+  - INS-260405-3E57
 evidence:
   - id: INS-260404-D8C7
     type: REFINES

@@ -16,8 +16,8 @@ tags:
   - simplicity
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -62,20 +62,13 @@ related:
   - INS-260405-F57E
 evidence:
   - id: INS-260403-5BAC
-    type: EXTENDS
-    classified_at: '2026-04-05'
-  - id: INS-260404-7F16
-    type: SUPPORTS
-    classified_at: '2026-04-05'
-  - id: INS-260404-72F5
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-8466
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260405-4871
+    relationship: RELATED
+  - id: INS-260404-6945
+    relationship: RELATED
   - id: INS-260403-E143
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Costco's radical constraint — 4,000 SKUs versus 30,000 at a typical supermarket or 140,000 at Walmart — appears to be a limitation but functions as a structural advantage. When a retailer offers only one or two options per category, being selected becomes critically important to suppliers. This creates intense competition among brands to offer Costco the lowest prices and even re-engineer products to fit its needs (like redesigning cashew containers to save 24,000 pallets annually).
 

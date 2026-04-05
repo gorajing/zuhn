@@ -57,17 +57,13 @@ related:
   - INS-260329-A171
   - INS-260330-798D
 evidence:
-  - id: INS-260325-EB9E
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+  - id: INS-260330-184C
+    relationship: RELATED
   - id: INS-260329-9927
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-7A6A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-4109
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Product Quantization (PQ) builds data-dependent codebooks via k-means clustering, requiring expensive preprocessing that scales with dataset size and dimensionality. RabitQ similarly requires learning data statistics. TurboQuant uses data-oblivious quantization: the random rotation matrix and codebook centroids are fixed regardless of the input data. Result: 0.002 seconds to quantize 100K vectors at d=3072, vs 494s for PQ and 3,957s for RabitQ. That's a 200,000x speedup -- and TurboQuant achieves higher recall. The key: TurboQuant's performance guarantees come from information theory and high-dimensional geometry (concentration of measure, near-independence of rotated coordinates), not from fitting the data. This makes it online-capable -- new vectors can be quantized instantly without rebuilding anything. For streaming data, dynamic databases, and KV caches that grow with each token, this is transformative.

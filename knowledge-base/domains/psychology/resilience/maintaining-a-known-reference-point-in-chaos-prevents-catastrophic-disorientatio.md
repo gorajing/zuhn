@@ -55,11 +55,11 @@ stance: >-
   (like staying in your seat) is more survival-critical than taking intuitive
   escape actions
 related:
-  - INS-260330-FD28
   - INS-260403-53D9
   - INS-260330-8C54
   - INS-260330-2EB0
   - INS-260329-A90C
+  - INS-260325-3A0E
 evidence:
   - id: INS-260325-3A0E
     type: TRANSFERS_TO

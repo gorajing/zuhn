@@ -60,6 +60,7 @@ related:
   - INS-260403-818F
   - INS-260404-581C
   - INS-260405-7E85
+  - INS-260404-5CC6
 ---
 RuBisCo, the most abundant enzyme on Earth (~40 billion tons), was designed for a low-oxygen atmosphere. When photosynthesis raised oxygen levels, RuBisCo began grabbing O2 instead of CO2 roughly half the time, producing a toxic byproduct. Rather than evolving a replacement, plants built detox pathways and simply produced massive quantities of RuBisCo to compensate.
 

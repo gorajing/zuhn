@@ -47,13 +47,13 @@ stance: >-
   When AI reaches superintelligence, the question of who controls access to it
   will matter more than any other resource allocation question in human history.
 related:
-  - INS-260327-6F26
   - INS-260329-919F
   - INS-260329-BD83
   - INS-260403-8256
+  - INS-260327-6F26
   - INS-260322-837A
-  - INS-260403-13E6
   - INS-260327-4313
+  - INS-260322-BC97
 evidence:
   - id: INS-260327-6F26
     type: CHALLENGES

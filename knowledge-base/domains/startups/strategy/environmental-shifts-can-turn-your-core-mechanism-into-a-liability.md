@@ -50,14 +50,14 @@ stance: >-
   vulnerability when the environment it shaped changes
 related:
   - INS-260330-E5DC
-  - INS-260330-4441
   - INS-260330-D304
-  - INS-260330-026F
   - INS-260404-581C
   - INS-260405-F03A
   - INS-260405-7E85
   - INS-260405-02EE
   - INS-260403-3D7D
+  - INS-260403-2C1A
+  - INS-260404-52FC
 ---
 RuBisCo was perfectly adapted to early Earth's CO2-rich, oxygen-poor atmosphere. But photosynthesis was so successful that it flooded the atmosphere with oxygen — its own waste product. Now RuBisCo grabs oxygen instead of CO2 roughly half the time, producing toxic phosphoglycolate that plants must spend energy to neutralize. The winning strategy literally created the conditions for its own degradation.
 

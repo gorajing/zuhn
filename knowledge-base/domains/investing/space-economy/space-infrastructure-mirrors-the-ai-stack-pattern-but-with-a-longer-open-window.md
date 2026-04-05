@@ -55,6 +55,13 @@ related:
   - INS-260403-7B04
   - INS-260322-BBED
   - PRI-260324-3AAE
+evidence:
+  - id: INS-260403-3615
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-7B04
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX frames the space economy as a technology stack with distinct layers: launch (becoming commodity), satellite manufacturing (scaling up), data and compute (emerging), and positioning/navigation (decades old but ripe for disruption). Each layer follows a predictable arc from open competition to consolidation to lock-in — the same pattern seen in cloud computing and AI infrastructure.
 

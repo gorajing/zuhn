@@ -1,11 +1,10 @@
 # Topic: hiring
 
-> 46 insights
+> 43 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-2691` [high] Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.
-- `INS-260404-CEA8` [high] Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
 - `INS-260330-7E58` [high] In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260403-E497` [high] Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 - `INS-260403-7F6F` [high] Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
@@ -28,7 +27,6 @@
 - `INS-260402-9B06` [high] Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260403-D51E` [high] Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 - `INS-260403-C977` [high] Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
-- `INS-260330-BF00` [high] The Roman shift from citizen-soldiers to mercenary armies created a workforce with zero loyalty to the institution, directly accelerating collapse.
 - `INS-260330-B384` [high] Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
 - `INS-260403-5F3E` [high] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - `INS-260403-22DF` [high] The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
@@ -40,7 +38,6 @@
 - `INS-260330-E126` [high] Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
 - `INS-260330-BCC2` [high] Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
 - `INS-260404-0572` [medium] Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
-- `INS-260404-E1B0` [medium] Costco pays $21/hour (double retail average) and gets 3x the productivity per employee in return.
 - `INS-260404-20AD` [medium] Costco pays $21/hour (2x retail average) and gets 3x productivity, suggesting high wages are an investment with positive ROI in high-volume operations.
 - `INS-260403-79AD` [medium] Buying Web 2.0 startups would have cost Microsoft less than Facebook and restored their competitiveness, but their culture couldn't accept it.
 - `INS-260403-D531` [medium] College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.

@@ -59,35 +59,25 @@ related:
   - INS-260329-6B87
 evidence:
   - id: INS-260321-C3E6
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260328-0932
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260402-CCC3
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260329-8868
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-03B5
+    relationship: RELATED
   - id: INS-260330-DF2C
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-E982
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260323-ACD9
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-96BA
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-6B87
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260405-670E
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 The video argues that since failure is around every corner when trying anything interesting, the smart move is to plan for failure before it happens. Before starting a new job, product, hobby, or relationship, give thought to three things: what you will do if it does not work out, how to minimize the downside, and what feedback mechanisms will tell you whether things are going well.
 

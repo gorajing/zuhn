@@ -45,11 +45,11 @@ stance: >-
   initially dismiss as bad, which is precisely what creates the opportunity.
 related:
   - INS-260403-943D
-  - INS-260330-AB6E
   - INS-260330-6C68
   - INS-260404-9823
   - INS-260330-66A0
   - INS-260403-699B
+  - INS-260403-AEB3
 ---
 Peter Thiel's Venn diagram framework — the intersection of 'seems like a bad idea' and 'is a good idea' — captures why the best opportunities are systematically undervalued. If an idea were obviously good, someone else would already have done it, so the most successful founders work on ideas that few others recognize as valuable.
 

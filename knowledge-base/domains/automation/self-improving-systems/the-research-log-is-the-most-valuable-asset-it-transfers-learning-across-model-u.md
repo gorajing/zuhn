@@ -56,18 +56,14 @@ related:
   - INS-260329-D357
 stance: Log every change and the data that caused it in a structured research log
 evidence:
-  - id: INS-260329-D357
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260329-3D3E
+    relationship: RELATED
   - id: INS-260322-5790
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260320-4773
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260320-7914
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Karpathy himself said 'the research log might be the most valuable asset,' and this insight extends far beyond ML. In AI Andy's content pipeline, every prompt change is logged alongside the performance data that caused it. After a week there are 7 iterations of prompt evolution; after a month, 30. Each entry records what changed, why (which data pattern triggered it), and what happened after.
 

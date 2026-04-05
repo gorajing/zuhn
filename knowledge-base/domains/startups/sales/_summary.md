@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 179 insights
+> 178 insights
 
 - `INS-260329-913C` [high] Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days.
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
@@ -116,7 +116,6 @@
 - `INS-260329-75B6` [high] Keep your sales pitch under 3 minutes and describe only what the customer will experience, not how you'll deliver it.
 - `INS-260329-D159` [high] Hormozi argues you should never sell tutoring hours — you sell the score increase and the downstream earning premium of attending a better school.
 - `INS-260329-B194` [high] Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
-- `INS-260327-575D` [high] Feature comparison matrices are one-sided and savvy buyers ignore them -- instead, explain the specific architectural decisions you made and why they matter, like how Dropbox's delta sync technology became the headline that won NBC Universal.
 - `INS-260327-1573` [high] Resist the urge to show 'one more thing' -- enterprise sales is about selling the engagement, and getting call #2 is more important than cramming everything into call #1.
 - `INS-260329-B239` [high] Emotional buyers cancel when excitement fades; logical buyers stay because the reasoning that justified their purchase remains valid.
 - `INS-260329-788F` [high] Put your highest-margin products first in any self-serve flow so customers fill up on profitable items before reaching costly ones.

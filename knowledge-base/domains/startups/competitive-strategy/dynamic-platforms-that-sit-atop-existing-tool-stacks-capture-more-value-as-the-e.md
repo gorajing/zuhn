@@ -52,7 +52,6 @@ stance: >-
   will outperform point-solution vendors because they benefit from every new
   tool added to the stack rather than competing with them.
 related:
-  - INS-260323-E559
   - INS-260330-8D0C
   - INS-260330-E811
   - INS-260330-A2D4

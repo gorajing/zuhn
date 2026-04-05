@@ -59,11 +59,13 @@ related:
   - INS-260403-BA4B
 evidence:
   - id: INS-260329-59FF
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-A3F2
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260403-20A7
+    relationship: RELATED
+  - id: INS-260403-BA4B
+    relationship: RELATED
 ---
 The core innovation of Real Estate 3.0 is reducing the minimum viable ownership unit — from an entire home ($300K+) to a $5 share of a property. This pattern (exemplified by Landa, Pacaso, and similar platforms) mirrors what Robinhood did for equities: the asset class itself doesn't change, but the access mechanism transforms when you reduce the minimum investment by orders of magnitude.
 

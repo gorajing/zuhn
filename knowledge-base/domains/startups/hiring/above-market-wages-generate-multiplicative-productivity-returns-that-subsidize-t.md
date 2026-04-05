@@ -16,8 +16,8 @@ tags:
   - efficiency-wages
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -61,17 +61,15 @@ related:
   - INS-260405-D34A
 evidence:
   - id: INS-260403-8A80
-    type: SUPPORTS
-    classified_at: '2026-04-05'
-  - id: INS-260403-5CB5
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-C125
+    relationship: RELATED
   - id: INS-260404-CEA8
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-8A1D
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260405-D34A
+    relationship: RELATED
 ---
 Costco's average wage of $21/hour is double the US retail average, supplemented by better health insurance and retirement benefits. The result is employees who are three times more productive than the industry norm. This isn't altruism — it's efficiency wage theory in practice: higher pay reduces turnover (which is extremely expensive in retail), attracts higher-caliber workers, and increases motivation.
 

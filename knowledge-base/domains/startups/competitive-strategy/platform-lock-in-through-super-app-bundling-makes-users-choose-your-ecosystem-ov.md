@@ -63,6 +63,6 @@ related:
   - INS-260330-36DB
   - INS-260330-7D6D
   - PRI-260328-1D90
-  - INS-260330-7ED0
+  - INS-260330-8048
 ---
 When Tencent forced users to choose between QQ and competitor Qihoo 360's security software, most users abandoned the competitor because QQ connected them to their entire social and professional lives. This pattern intensified with WeChat, which bundled messaging, payments, social media, ride-hailing, food delivery, and tens of thousands of mini-programs into a single app. The key insight is that once a platform becomes infrastructure for daily life—not just a tool for one task—switching costs become existential rather than merely inconvenient. WeChat users in China describe it as being like 'water or electricity,' spending an average of 4 hours daily on it (more than the average American spends on all social media combined). This creates a flywheel: more users attract more mini-program developers, which adds more functionality, which makes leaving even harder. For founders, this suggests that the path to an unassailable moat isn't building the best product in one category but becoming the connective tissue between many categories of daily life.

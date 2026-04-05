@@ -16,8 +16,8 @@ tags:
   - pricing-strategy
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,11 +51,12 @@ stance: >-
   alignment than those offering optional premium tiers, because the entire
   business model optimizes for renewal rather than per-transaction extraction.
 related:
-  - INS-260403-1C25
+  - INS-260330-D824
   - INS-260404-DD00
-  - INS-260403-5C88
   - INS-260404-B8AE
-  - INS-260404-37B5
+  - INS-260403-BF47
+  - INS-260405-48EC
+  - INS-260403-8757
 ---
 Costco derives 75% of its revenue from membership fees, which fundamentally restructures its incentive system. Unlike Amazon Prime, where the subscription is optional and the core business model remains per-transaction margin, Costco's mandatory membership means its survival depends entirely on members renewing. This creates a powerful feedback loop: the company must consistently deliver value (low prices, high quality) because raising prices saves pennies today but costs $60-120 in lost renewals.
 

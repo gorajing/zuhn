@@ -7,6 +7,5 @@
 - `INS-260329-E6DB` Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
 - `INS-260329-0117` The '7 income streams' advice is survivorship bias — millionaires built wealth by going all-in on one stream, then diversified to preserve it.
 - `INS-260403-1358` Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
-- `INS-260324-1275` Apple, Dell, HP, and Dyson use flagship profits to expand into adjacent categories because betting everything on getting a single product release right year after year is suicidal.
 - `INS-260330-9E26` Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260403-52DB` Managing multiple business models across lifecycle stages — not optimizing a single one — is how companies survive disruption.

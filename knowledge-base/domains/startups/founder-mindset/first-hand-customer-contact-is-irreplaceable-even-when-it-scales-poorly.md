@@ -52,11 +52,11 @@ stance: >-
   systematically lose the signal quality needed to make good product and
   strategy decisions.
 related:
-  - INS-260330-725C
   - INS-260404-F8B7
-  - INS-260404-5DBD
-  - INS-260403-C496
   - INS-260405-4FC0
+  - INS-260327-89C7
+  - INS-260322-CCAA
+  - PRI-260328-7E58
 ---
 Every time a finding passes through another person — a researcher, a consultant, a product manager, an executive summary — it gets filtered, summarized, and reframed. Nuance collapses. Contradictions get resolved prematurely. The emotional texture of what a customer actually said disappears. By the time a finding reaches the person who needs to act on it, it has been shaped to fit existing mental models rather than challenge them.
 

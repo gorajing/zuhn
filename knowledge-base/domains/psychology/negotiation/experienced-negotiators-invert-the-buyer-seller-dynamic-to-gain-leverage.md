@@ -43,6 +43,7 @@ stance: >-
   The most effective acquisition tactic is getting the seller to convince the
   buyer to purchase, completely reversing who holds psychological leverage
 related:
+  - INS-260330-D644
   - INS-260403-E3E6
   - PRI-260403-26B9
   - INS-260403-C949
@@ -50,5 +51,6 @@ related:
   - INS-260328-4EA0
   - INS-260403-7E27
   - INS-260403-D328
+  - INS-260403-D972
 ---
 Paul Graham identifies a critical negotiation pattern: corp dev professionals are skilled at turning tables so that founders shift from being courted to actively trying to convince the acquirer to buy. This inversion is devastating because it transfers all leverage to the buyer. The mechanism works through a combination of flattery (initial interest), anchoring (lowball offers that demoralize), and the sunk cost of time already invested in the process. Once a founder is psychologically invested in the deal happening, they've lost. This pattern extends well beyond M&A — any negotiation where one party can get the other to start justifying their own value has fundamentally shifted the power dynamic. Recognizing when you've been flipped from 'being pursued' to 'pursuing' is a critical meta-skill in any high-stakes negotiation.

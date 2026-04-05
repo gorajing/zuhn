@@ -44,6 +44,7 @@ stance: >-
   optimization are constructing inherently fragile moats because the political
   incentive to close loopholes scales with the size of the advantage.
 related:
+  - INS-260321-C3E6
   - INS-260325-5B28
   - INS-260327-BE4E
   - INS-260327-484F

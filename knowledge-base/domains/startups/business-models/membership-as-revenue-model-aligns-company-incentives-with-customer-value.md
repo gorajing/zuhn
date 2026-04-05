@@ -14,8 +14,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -51,13 +51,11 @@ related:
   - INS-260403-B2CB
   - INS-260403-3F5F
   - INS-260404-0298
-  - INS-260404-4DC8
   - INS-260403-8757
   - INS-260405-051E
-  - INS-260405-BE42
   - INS-260404-837E
-  - INS-260404-F827
-  - INS-260404-5532
+  - INS-260404-12A4
+  - INS-260405-8884
 ---
 Most retailers profit from markups on goods, creating an inherent tension: every price increase benefits the company at the customer's expense. Costco inverts this by deriving 75% of its profit from membership fees, with a self-imposed 15% maximum markup on all products. This means raising prices would generate trivial short-term gains while risking the $60-$120 annual renewal that constitutes the actual business.
 

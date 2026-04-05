@@ -50,8 +50,8 @@ stance: >-
   refusing to adapt team workloads to make time for innovation activities
 related:
   - INS-260325-DB7D
+  - INS-260325-0FED
   - INS-260327-9830
-  - INS-260329-24CE
   - INS-260330-1F41
   - INS-260330-8920
   - INS-260403-D022

@@ -47,11 +47,11 @@ stance: >-
   seeking the value behind the other side's position is more persuasive than any
   argument you could make
 related:
-  - INS-260330-7E66
   - INS-260403-FAC0
   - INS-260322-F65F
   - INS-260330-3570
   - INS-260330-A151
+  - INS-260330-568F
 ---
 Shapiro's second barrier — appreciation — reveals a paradox: both sides desperately want to feel appreciated, yet neither wants to appreciate the other first. He prescribes a concrete protocol: spend the first 10 minutes of any conflict purely listening, not formulating rebuttals. The goal is to understand the value, logic, and rationale behind the opposing perspective.
 

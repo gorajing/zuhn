@@ -47,6 +47,7 @@ stance: >-
   concrete use case.
 related:
   - INS-260327-7214
+  - INS-260330-0E6E
   - INS-260402-E470
   - INS-260402-2D95
   - INS-260402-0D16
@@ -55,7 +56,6 @@ related:
   - INS-260403-A5B8
   - INS-260329-EDA2
   - INS-260403-1269
-  - INS-260405-131B
 evidence:
   - id: INS-260402-2D95
     type: SUPPORTS

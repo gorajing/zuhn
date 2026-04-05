@@ -16,8 +16,8 @@ tags:
   - retention
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -48,14 +48,16 @@ stance: >-
   productivity per worker, making high wages a profit-maximizing strategy rather
   than a charitable expense
 related:
-  - INS-260404-FF84
+  - INS-260403-43E5
   - INS-260404-20AD
   - INS-260403-C125
-  - INS-260403-43E5
-  - INS-260405-D34A
   - INS-260403-365D
-  - INS-260405-194D
   - INS-260405-AC40
+  - INS-260405-194D
+evidence:
+  - id: INS-260405-D34A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 While Amazon and many retailers treat labor as a cost to minimize, Costco pays an average of $21/hour — double the US retail average — plus superior health insurance and retirement benefits. The return: employees three times more productive than the industry norm.
 

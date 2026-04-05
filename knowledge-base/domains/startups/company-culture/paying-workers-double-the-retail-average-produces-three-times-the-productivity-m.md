@@ -17,8 +17,8 @@ tags:
   - unit-economics
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -56,12 +56,12 @@ stance: >-
 related:
   - INS-260403-8A80
   - INS-260403-E2D9
-  - INS-260403-5CB5
-  - INS-260404-E1B0
-  - INS-260404-95FC
+  - INS-260404-0FE4
   - INS-260404-ABB1
-  - INS-260404-E1FF
-  - INS-260404-8A1D
+  - INS-260403-C125
+  - INS-260403-43E5
+  - INS-260403-365D
+  - INS-260405-202B
 ---
 Costco's 245,000 workers earn an average of $21/hour, with better health insurance and retirement benefits than the retail industry standard. In exchange, the company reports employees are three times more productive than the average retail worker. Low turnover reduces hiring and training costs, high engagement reduces theft and errors, and better customer service drives membership renewals.
 

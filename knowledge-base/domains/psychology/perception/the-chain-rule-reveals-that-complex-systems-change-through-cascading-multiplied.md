@@ -57,11 +57,11 @@ stance: >-
   another), their rates of change multiply rather than add, creating either
   amplification or dampening cascades.
 related:
-  - INS-260329-A67B
   - INS-260329-7510
   - INS-260329-196E
   - INS-260330-3C70
   - INS-260330-E4FA
+  - INS-260330-5DD4
 evidence:
   - id: INS-260329-A67B
     type: EXTENDS

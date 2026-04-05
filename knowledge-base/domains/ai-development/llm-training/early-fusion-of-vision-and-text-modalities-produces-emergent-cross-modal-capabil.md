@@ -49,11 +49,11 @@ stance: >-
   capabilities like vision-to-code that late fusion approaches cannot achieve,
   and the modalities actually enhance each other rather than competing.
 related:
-  - INS-260322-B09B
   - INS-260323-042C
-  - INS-260329-70D5
   - INS-260323-D400
-  - INS-260329-979B
+  - INS-260322-B09B
+  - INS-260329-58E7
+  - INS-260330-72D9
 evidence:
   - id: INS-260329-70D5
     type: TRANSFERS_TO

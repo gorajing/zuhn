@@ -1,11 +1,10 @@
 # Topic: quality
 
-> 14 insights
+> 13 insights
 
 - `INS-260402-EF63` [high] Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - `INS-260403-4942` [high] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
 - `INS-260402-2FDF` [high] Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
-- `INS-260402-F479` [high] Gall's Law states that all complex working systems evolved from simple working systems — designing complexity from scratch always fails.
 - `INS-260404-E8B2` [high] Fewer components means fewer connections between them, and connection-count is where bugs actually live.
 - `INS-260403-AC03` [high] Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260330-DBE6` [high] The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.

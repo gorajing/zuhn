@@ -48,6 +48,7 @@ stance: >-
 related:
   - INS-260325-D19B
   - INS-260323-DA85
+  - INS-260322-AC23
   - INS-260322-2ABB
   - INS-260323-9A93
   - INS-260322-D5EB
@@ -55,7 +56,6 @@ related:
   - INS-260330-A69C
   - PRI-260403-7BEC
   - INS-260327-2608
-  - INS-260403-D51E
 evidence:
   - id: INS-260325-D19B
     type: SUPPORTS

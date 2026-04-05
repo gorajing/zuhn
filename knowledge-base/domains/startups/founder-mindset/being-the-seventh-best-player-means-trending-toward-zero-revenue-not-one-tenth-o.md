@@ -44,8 +44,8 @@ related:
   - INS-260329-1962
   - PRI-260323-81E9
   - INS-260405-3403
-  - INS-260330-3897
   - PRI-260328-0993
+  - INS-260325-0688
 stance: >-
   Founders assume if the winner makes $500M and they make $50M, they're worth
   one-tenth

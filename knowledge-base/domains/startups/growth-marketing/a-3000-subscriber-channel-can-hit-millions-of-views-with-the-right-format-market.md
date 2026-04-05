@@ -40,6 +40,7 @@ resolutions:
     startup principle that product-market fit matters more than distribution.
 related:
   - INS-260322-3263
+  - INS-260322-55D8
   - INS-260321-F0DF
   - INS-260324-C496
   - INS-260322-5650
@@ -48,7 +49,6 @@ related:
   - INS-260327-94E6
   - INS-260320-A467
   - INS-260327-B302
-  - INS-260327-F996
 stance: >-
   Channels with 3,000-5,000 subscribers are hitting 2-3 million views by
   applying proven formats to underserved markets

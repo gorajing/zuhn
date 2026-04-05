@@ -46,9 +46,8 @@ stance: >-
   Double-tap hotkeys via BetterTouchTool significantly speed up developer
   workflows
 evidence:
-  - id: INS-260329-939E
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+  - id: INS-260329-7B1D
+    relationship: RELATED
 ---
 
 BetterTouchTool enables custom double-tap hotkeys that dramatically

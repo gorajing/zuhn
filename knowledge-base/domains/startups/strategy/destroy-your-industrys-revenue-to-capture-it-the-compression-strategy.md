@@ -47,9 +47,9 @@ stance: >-
 related:
   - PRI-260403-5DEA
   - INS-260403-87AC
-  - INS-260404-1E28
   - INS-260327-7C67
-  - INS-260403-CED6
+  - PRI-260321-0A4D
+  - INS-260404-7C79
 ---
 Graham advises startups to try to make as little money as possible—not as a charity, but as a competitive moat. If you can compress a billion-dollar industry into fifty million dollars of total revenue and own all of it, you've built an unassailable position. Craigslist did this to classified ads; free alternatives did it to paid content.
 

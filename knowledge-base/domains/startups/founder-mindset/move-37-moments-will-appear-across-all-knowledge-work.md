@@ -57,23 +57,17 @@ related:
   - INS-260404-7F34
 evidence:
   - id: INS-260322-D58A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-D25C
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-8304
-    type: CHALLENGES
-    classified_at: '2026-04-03'
-  - id: INS-260329-B214
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-FC75
+    relationship: RELATED
   - id: INS-260325-568A
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-30DE
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 AlphaGo's Move 37 appeared to be a mistake—commentators and even the opposing grandmaster thought it was a bug. It turned out to be a strategy so advanced no human had conceived it. Laskin argues we'll see these moments across mathematics, science, engineering, and business.
 

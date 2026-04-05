@@ -52,7 +52,11 @@ related:
   - INS-260327-8D5D
   - INS-260403-E185
   - INS-260403-5B46
-  - INS-260403-E319
+  - INS-260403-383F
+evidence:
+  - id: INS-260403-E185
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The synchronous batch model became Y Combinator's defining innovation, but Graham explicitly says they 'didn't realize its significance' when they first conceived it. They chose to fund a cohort simultaneously not because they theorized it would be superior, but because 'a summer program for undergrads seemed the fastest way to learn how to be angel investors.' The low opportunity cost for students made it a safe experiment.
 

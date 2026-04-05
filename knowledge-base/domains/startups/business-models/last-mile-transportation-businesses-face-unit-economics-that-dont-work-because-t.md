@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260323-7E6F
   - INS-260402-426C
-  - INS-260323-7F22
   - INS-260330-2332
   - INS-260403-F4B9
+  - INS-260327-6900
   - INS-260327-E52A
 evidence:
   - id: INS-260323-7E6F

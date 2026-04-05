@@ -53,7 +53,7 @@ related:
   - INS-260327-E07C
   - INS-260323-8DE7
   - INS-260322-B33E
-  - INS-260402-2342
+  - INS-260329-5B7B
 ---
 Jeff from Hugging Face described a concrete example of skill democratization: Hugging Face Skills tells agents how to use the TRL library for reinforcement learning with GRPO on custom datasets. Two years ago, this required a qualified data scientist working inside a company. Now anyone can instruct an agent to do it.
 

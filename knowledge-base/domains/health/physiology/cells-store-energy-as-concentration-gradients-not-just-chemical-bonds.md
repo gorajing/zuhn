@@ -56,24 +56,22 @@ related:
   - INS-260330-666E
   - INS-260330-BC3E
 evidence:
-  - id: INS-260330-7E39
-    type: EXTENDS
-    classified_at: '2026-04-02'
+  - id: INS-260330-8C6A
+    relationship: RELATED
   - id: INS-260330-972B
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-666E
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-49E9
-    type: EXTENDS
-    classified_at: '2026-04-02'
-  - id: INS-260330-7FF3
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-3037
+    relationship: RELATED
   - id: INS-260330-2E41
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260403-E374
+    relationship: RELATED
+  - id: INS-260404-6876
+    relationship: RELATED
 ---
 Photosynthesis stores intermediate energy by pumping protons across the thylakoid membrane, creating a concentration gradient. When protons flow back through ATP synthase to equalize, the enzyme harvests that flow to produce ATP. This is essentially a rechargeable battery: energy in (electron transport) charges it, energy out (proton flow) discharges it.
 

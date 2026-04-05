@@ -73,6 +73,9 @@ evidence:
   - id: INS-260402-2DCE
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-D63C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Alex Hormozi reverse-engineered sales objections by tracing them back to Albert Ellis's cognitive behavioral therapy framework. Ellis originally identified 11 distortions, refined to 3: (1) Circumstances — 'I must get what I want when I want it,' manifesting as time and money objections; (2) Others — 'People must treat me fairly,' manifesting as authority/spouse objections; (3) Self — 'I must do well or I'm no good,' manifesting as avoidance and stalling.
 

@@ -59,6 +59,7 @@ related:
   - INS-260405-86BB
   - INS-260329-0F39
   - INS-260327-3B69
+  - INS-260330-B784
 stance: >-
   Students using AI to complete writing homework are skipping cognitive
   exercise, producing adults who cannot think logically or resist manipulation.

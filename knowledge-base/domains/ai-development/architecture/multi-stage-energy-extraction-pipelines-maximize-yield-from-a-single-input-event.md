@@ -51,14 +51,14 @@ stance: >-
   more usable output than attempting to capture all value in a single conversion
   step
 related:
-  - INS-260330-5C36
+  - INS-260330-6E61
+  - INS-260330-C456
+  - INS-260330-F671
   - INS-260330-4D0E
-  - INS-260330-2C71
   - INS-260330-0017
-  - INS-260330-545E
+  - INS-260403-2DC0
   - INS-260403-D2FD
-  - INS-260404-1A3A
-  - INS-260404-64E2
+  - INS-260404-3C96
 evidence:
   - id: INS-260330-5C36
     type: TRANSFERS_TO

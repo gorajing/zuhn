@@ -51,11 +51,12 @@ stance: >-
   indefinitely rather than switch, even when the environment changes to make the
   strategy half-broken.
 related:
-  - INS-260403-A907
+  - INS-260330-CBF8
   - INS-260404-3608
   - PRI-260403-40D7
   - INS-260330-3FCF
   - INS-260330-53A9
+  - PRI-260323-0F93
 ---
 RuBisCo, the most abundant protein on Earth (~40 billion tons), evolved when atmospheric oxygen was negligible. Now that oxygen is abundant, it confuses O2 for CO2 roughly half the time, producing a toxic byproduct plants must actively detoxify. Yet no plant lineage has replaced RuBisCo — they simply produce massive quantities and bolt on repair pathways.
 

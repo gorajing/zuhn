@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Believing all options are equivalent is a cognitive shortcut that eliminates
@@ -56,12 +56,10 @@ related:
   - INS-260329-0B76
   - INS-260329-A024
 evidence:
-  - id: INS-260329-5094
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+  - id: INS-260329-FEA6
+    relationship: RELATED
   - id: INS-260322-D6D7
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Graham identifies a specific cognitive bias mechanism: the pointy-haired boss believes all programming languages are equivalent because this belief reduces a multi-dimensional optimization problem (language power × programmer availability × library ecosystem × problem fit) to a simple popularity contest he can actually evaluate. The moment he admits languages differ, he faces simultaneous equations in domains he knows nothing about.
 

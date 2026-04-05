@@ -50,6 +50,5 @@ related:
   - PRI-260328-7AF5
   - INS-260327-C19C
   - INS-260325-EDC8
-  - INS-260327-D21C
 ---
 The liver processes fructose differently from glucose — it cannot release fructose into the bloodstream and must convert it to fat through de novo lipogenesis. Morning cereals, orange juice, toast, and pancakes deliver a massive fructose + glucose load when the liver is most insulin-sensitive. This drives fatty liver, elevated triglycerides, and visceral fat. The optimal morning is either skipping breakfast (intermittent fasting) or eating protein + fat (eggs, meat). If eating breakfast, zero fructose should be the rule. Coffee with sugar and a pastry is the worst possible morning combination for liver health.

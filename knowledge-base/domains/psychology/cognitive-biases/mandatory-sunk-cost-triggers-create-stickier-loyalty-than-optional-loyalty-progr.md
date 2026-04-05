@@ -16,8 +16,8 @@ tags:
   - behavioral-economics
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -48,14 +48,14 @@ stance: >-
 related:
   - INS-260323-F68A
   - INS-260325-206C
-  - INS-260403-B6FF
+  - INS-260327-1403
+  - INS-260403-546E
   - INS-260403-3F91
   - INS-260403-CE5F
+  - INS-260404-ED19
   - INS-260404-B46E
   - INS-260404-94BB
   - INS-260404-3156
-  - INS-260404-9505
-  - INS-260403-9104
 evidence:
   - id: INS-260323-F68A
     type: SUPPORTS

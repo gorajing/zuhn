@@ -54,9 +54,7 @@ related:
   - INS-260327-C9DA
   - INS-260327-4B8B
   - INS-260327-4F53
-  - INS-260327-D21C
   - INS-260330-9900
-  - INS-260330-2BA7
 ---
 Animal studies showing fructose harm are routinely extrapolated to humans, but the metabolic pathways are fundamentally different. In humans, only about 1% of fructose undergoes de novo lipogenesis (conversion to body fat). Most is converted to glucose, glycogen, and lactate. Animals have much higher rates of de novo lipogenesis from fructose.
 

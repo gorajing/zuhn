@@ -48,11 +48,11 @@ stance: >-
   miscalculation when markets mature
 related:
   - INS-260324-27E2
-  - INS-260330-AA9D
   - INS-260330-D808
   - INS-260330-C0E2
   - INS-260330-DE80
   - INS-260325-7FE6
+  - INS-260327-2BE1
 evidence:
   - id: INS-260324-27E2
     type: SUPPORTS

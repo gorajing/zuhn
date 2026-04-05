@@ -54,7 +54,7 @@ related:
   - INS-260327-47F2
   - PRI-260328-40CA
   - INS-260327-4F53
-  - INS-260330-3082
+  - PRI-260328-7FC4
 ---
 Insulin resistance fundamentally occurs when mitochondria cannot efficiently process glucose and fatty acids through the electron transport chain to produce ATP. Seed oils contribute to this at the molecular level: linoleic acid accumulates in mitochondrial membranes, causing proton leak that dissipates the gradient needed for ATP synthesis.
 

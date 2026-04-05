@@ -49,13 +49,13 @@ stance: >-
   actively suppresses the divergent thinking skills that drive innovation
 related:
   - INS-260322-B693
+  - INS-260403-21AF
   - INS-260403-0030
   - INS-260403-E556
   - PRI-260323-C49D
-  - INS-260403-21AF
   - INS-260322-DAA1
   - INS-260403-5BAD
-  - INS-260330-FDC2
+  - PRI-260324-12CF
 evidence:
   - id: INS-260322-B693
     type: SUPPORTS

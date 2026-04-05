@@ -13,11 +13,8 @@ tags:
   - credibility
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,13 +48,13 @@ related:
   - INS-260323-8271
   - INS-260327-7A5A
   - INS-260328-EBBC
+  - INS-260329-F063
   - INS-260330-1282
   - INS-260403-1A96
-  - INS-260403-6620
+  - INS-260403-97DB
   - INS-260403-ED1F
-  - INS-260404-C887
-  - INS-260404-C1FF
-  - INS-260403-1E82
+  - INS-260403-24F0
+  - INS-260405-8BEA
 ---
 When audiences lack the technical background to evaluate substance directly, they fall back on the presenter's own confidence as a proxy signal. But explicit confidence claims ('we're passionate,' 'our product is great') get filtered out or worse, coded as bullshit.
 

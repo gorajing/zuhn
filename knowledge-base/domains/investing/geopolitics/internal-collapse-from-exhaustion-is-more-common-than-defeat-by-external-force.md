@@ -61,23 +61,15 @@ related:
   - INS-260327-ABE5
 evidence:
   - id: INS-260326-8189
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-3274
-    type: CHALLENGES
-    classified_at: '2026-04-03'
-  - id: INS-260330-BF00
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-B384
+    relationship: RELATED
   - id: INS-260330-F158
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-440E
-    type: CHALLENGES
-    classified_at: '2026-04-03'
-  - id: INS-260330-E17D
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 The Russian Revolution of 1917 wasn't caused by military defeat — Russian armies were still fighting. It was caused by internal exhaustion: bread shortages, millions of casualties with no end in sight, a incompetent government, and a war-weary population that lost faith in both the war and the regime. The French army mutinies of 1917 showed the same pattern — soldiers didn't defect to the enemy, they simply refused to attack.
 

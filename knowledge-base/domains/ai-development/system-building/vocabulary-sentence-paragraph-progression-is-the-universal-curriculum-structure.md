@@ -50,13 +50,12 @@ stance: >-
   when it follows the natural language acquisition sequence of vocabulary first,
   then composition rules, then complete structures
 related:
+  - INS-260323-3920
   - INS-260329-C555
   - INS-260329-EDA2
-  - INS-260329-9A58
   - INS-260329-48FD
-  - INS-260329-F211
-  - INS-260329-613F
   - INS-260330-0E6E
+  - INS-260329-613F
 evidence:
   - id: INS-260329-9A58
     type: CHALLENGES

@@ -50,10 +50,10 @@ stance: >-
   capital.
 related:
   - INS-260329-C6BB
-  - INS-260329-3C25
   - INS-260329-9F8D
   - INS-260404-9BC6
   - INS-260329-788F
+  - INS-260330-AB67
 evidence:
   - id: INS-260330-AB67
     type: CONTRADICTS

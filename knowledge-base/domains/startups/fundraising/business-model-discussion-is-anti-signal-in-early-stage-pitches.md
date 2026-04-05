@@ -13,11 +13,8 @@ tags:
   - investor-psychology
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -47,11 +44,10 @@ stance: >-
   the things founders actually know well.
 related:
   - INS-260329-CB2C
+  - INS-260402-4633
   - INS-260403-97DB
-  - INS-260404-F139
-  - INS-260403-E393
   - INS-260404-4DF7
-  - INS-260403-2247
+  - INS-260404-19FE
 ---
 A VC speaking at YC described investing in experienced founders whose business model he knew was wrong—and expected it to change three times. Smart investors at the early stage aren't evaluating your revenue projections; they're evaluating whether you're solving an important problem and can build.
 

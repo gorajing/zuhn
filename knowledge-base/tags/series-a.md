@@ -1,7 +1,6 @@
 # Tag: series-a
 
 - `INS-260328-9415` Standard Capital's YC-style batch process for Series A compressed the entire fundraising timeline to two weeks and roughly four hours of founder time.
-- `INS-260403-7F91` VCs invest too much at series A because board seats are expensive, not because startups need the capital.
 - `INS-260322-8F80` Flying to a city and stacking every investor and customer meeting into 2-3 days creates a forcing function where FOMO compounds — meetings multiply, terms improve, and nobody wants to miss the deal.
 - `INS-260404-30B2` The best startups set fundraising norms because VCs compete hardest for them, making founder-favorable terms a quality signal.
 - `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.

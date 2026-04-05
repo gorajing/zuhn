@@ -62,7 +62,7 @@ related:
   - INS-260327-A4FE
   - INS-260330-4D81
   - INS-260330-DE69
-  - INS-260404-8E68
+  - PRI-260324-1134
 ---
 Harris draws an explicit distinction: 'You don't have to make any effort to hear [sounds]. They're continuously arising and changing and passing away.' This contrasts with the effort required to return attention to the breath. The implication is that awareness itself — the capacity to have experience — is effortless and always-on. What costs energy is the directed, selective form: choosing what to attend to and sustaining that choice.
 

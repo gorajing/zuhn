@@ -48,7 +48,6 @@ stance: >-
   measurable competitive advantage in talent retention and creative output
 related:
   - INS-260325-B11F
-  - INS-260402-B065
   - INS-260330-1F41
   - INS-260329-A90C
   - INS-260403-D06F

@@ -52,7 +52,11 @@ related:
   - INS-260403-92EB
   - INS-260330-05C7
   - PRI-260328-33E5
-  - INS-260323-8AB8
+  - INS-260403-99FE
+evidence:
+  - id: INS-260323-8AB8
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 When a rule operates for thousands of years, it becomes so deeply embedded in culture, institutions, and individual psychology that people follow it unconsciously even after conditions have changed. The corporate ladder, prestige of large employers, credentialism, and management-as-advancement are all artifacts of the bigger-is-better era.
 

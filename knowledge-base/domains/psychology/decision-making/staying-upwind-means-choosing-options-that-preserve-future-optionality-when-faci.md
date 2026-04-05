@@ -46,11 +46,11 @@ stance: >-
   Under career uncertainty, the dominant strategy is to choose paths that make
   future pivots easier rather than paths that maximize immediate expected value.
 related:
-  - INS-260329-D062
-  - INS-260329-EE04
-  - INS-260402-40D7
-  - INS-260325-55D8
   - INS-260323-ACD9
+  - INS-260329-D062
+  - INS-260402-40D7
+  - INS-260402-CCC3
+  - INS-260402-4AB4
   - INS-260405-8584
 ---
 Graham's 'staying upwind' principle — illustrated by choosing math over economics because math-to-economics is easier than the reverse — encodes a general decision heuristic for uncertainty. The less certain you are about your destination, the more you should weight optionality over immediate payoff. Hard, foundational skills are upwind of applied ones; broad platforms are upwind of narrow specializations.

@@ -56,10 +56,9 @@ stance: >-
 related:
   - INS-260330-20FD
   - INS-260403-8125
-  - INS-260404-9C57
-  - INS-260404-0214
-  - INS-260404-F908
   - INS-260404-040D
+  - INS-260404-9C57
+  - INS-260404-3500
 evidence:
   - id: INS-260330-20FD
     type: REFINES

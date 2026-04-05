@@ -55,18 +55,14 @@ related:
   - INS-260403-AA0B
   - INS-260327-BF43
 evidence:
-  - id: INS-260329-5AC5
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260329-CD38
+    relationship: RELATED
   - id: INS-260322-A9DE
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260327-BF43
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-9A58
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 The tutorial introduces variables not by defining what a variable is, but by showing a story program where changing a character's name requires editing every occurrence manually. Only after the student feels the pain of this repetition does the instructor introduce variables as the solution. This 'problem-first' ordering creates a gap in the learner's understanding that the concept then fills.
 

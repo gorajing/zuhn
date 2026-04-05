@@ -52,8 +52,7 @@ related:
   - INS-260330-50B3
   - INS-260404-CC7C
   - INS-260403-2CDA
-  - INS-260330-4441
-  - INS-260403-9E63
+  - INS-260403-262F
 ---
 RuBisCo evolved when atmospheric oxygen was negligible. As plants themselves raised oxygen levels, RuBisCo began mistakenly fixing O2 instead of CO2 roughly half the time, producing a toxic byproduct. Yet 450 million years later, every plant on Earth still uses it — there are 40 billion tons of it at any moment. Plants compensate by overproducing RuBisCo and evolving detoxification pathways rather than replacing the enzyme.
 

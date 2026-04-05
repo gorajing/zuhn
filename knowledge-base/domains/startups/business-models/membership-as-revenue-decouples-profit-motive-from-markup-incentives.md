@@ -14,8 +14,8 @@ tags:
   - pricing-strategy
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -47,16 +47,12 @@ stance: >-
   per-transaction margins will consistently deliver lower prices because raising
   prices costs them the annual fee.
 related:
-  - INS-260403-1C25
-  - INS-260403-F634
-  - INS-260404-98F5
   - INS-260404-60D6
   - INS-260405-48EC
-  - INS-260403-5C88
-  - INS-260405-BE42
+  - INS-260404-8AE1
+  - INS-260405-8884
   - INS-260403-3864
   - INS-260404-62D5
-  - INS-260404-9EDC
 ---
 Costco makes 75% of its money from membership fees, not product markups. This fundamentally changes its incentive structure: raising a product price generates pennies today but risks losing a $60-120 annual renewal. The self-imposed 15% maximum markup (vs Walmart's 24% or Home Depot's 35%) is not generosity — it's rational behavior when your real product is continued membership. This model explains Costco's 90% renewal rate and suggests that any business can radically improve customer alignment by shifting revenue from transaction margins to access fees.
 

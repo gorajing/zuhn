@@ -15,7 +15,6 @@
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
 - `INS-260405-787F` Apple Pay succeeded not by adding a new payment method but by eliminating the friction and exposure of existing ones.
 - `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
-- `INS-260403-6D0D` Deliberately choose which customer jobs, pains, and gains you will NOT address.
 - `INS-260403-5FBD` Value proposition fit and business model viability are independent variables — companies need both to survive.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260404-1E47` The customer profile (jobs, pains, gains) should drive value proposition design, not the other way around.

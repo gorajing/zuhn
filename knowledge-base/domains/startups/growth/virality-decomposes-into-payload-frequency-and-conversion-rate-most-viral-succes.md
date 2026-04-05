@@ -66,14 +66,11 @@ related:
   - INS-260327-4434
 evidence:
   - id: INS-260321-E59A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260330-F31A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-ECA9
+    relationship: RELATED
   - id: INS-260327-4434
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Shawn Parker taught Facebook's growth team to decompose virality into three factors: payload (how many people you reach per viral event), frequency (how often you can trigger the event), and conversion rate (what percentage act on it). This framework explains why seemingly different viral products succeed through different mechanisms.
 

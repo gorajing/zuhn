@@ -16,8 +16,8 @@ tags:
   - accountability
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -58,8 +58,8 @@ related:
   - INS-260330-9DE6
   - INS-260403-CF09
   - INS-260403-FED6
+  - INS-260403-3673
   - INS-260403-D8A2
-  - INS-260404-CD53
 ---
 The narrative that Amazon killed retail is factually wrong. During the same period that Sears lost 142 stores and Toys-R-Us went bankrupt, companies like Costco, Ross, Aldi, and Dollar General grew significantly. Each failed retailer had specific, identifiable failures: Sears tried to do everything poorly, J.C. Penney lost touch with its customers, and Toys-R-Us dismissed the internet.
 

@@ -59,11 +59,11 @@ resolutions:
     mainstream willingness to spend on sleep, cognitive function, metabolic
     health, and longevity.
 related:
-  - INS-260322-3A00
   - PRI-260328-37F3
   - INS-260322-823B
   - INS-260327-54B6
   - INS-260322-D58A
+  - INS-260325-E6C8
   - INS-260402-0A49
 stance: >-
   COVID triggered a permanent shift where consumers took responsibility for

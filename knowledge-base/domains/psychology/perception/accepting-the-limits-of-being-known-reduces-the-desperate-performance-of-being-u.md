@@ -53,9 +53,8 @@ related:
   - INS-260327-0017
   - INS-260403-4101
 evidence:
-  - id: INS-260329-EC98
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+  - id: INS-260329-CD64
+    relationship: RELATED
 ---
 Much relationship frustration comes from the impossible demand to be completely understood. 'You don't understand me' is always literally true and will always be true. The demand for complete understanding sets up a failure that breeds frustration, conflict, and isolation.
 

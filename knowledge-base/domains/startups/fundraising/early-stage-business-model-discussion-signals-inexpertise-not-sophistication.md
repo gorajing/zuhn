@@ -14,11 +14,8 @@ tags:
   - credibility
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -50,13 +47,15 @@ stance: >-
   investors know it.
 related:
   - INS-260320-703F
+  - INS-260327-5B30
+  - INS-260330-DF2C
   - INS-260403-A172
-  - INS-260404-983E
+  - INS-260403-D882
   - INS-260404-16E1
-  - INS-260404-DA2E
-  - INS-260403-0267
   - INS-260404-4DF7
   - INS-260404-93E3
+  - INS-260405-D6B9
+  - INS-260404-D4A0
 evidence:
   - id: INS-260320-703F
     type: CHALLENGES

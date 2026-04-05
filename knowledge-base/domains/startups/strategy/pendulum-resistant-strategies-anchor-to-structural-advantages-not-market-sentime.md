@@ -48,11 +48,11 @@ stance: >-
   regardless of market mood.
 related:
   - INS-260403-4717
-  - INS-260403-86DB
-  - INS-260403-91F9
-  - INS-260404-DA2E
   - INS-260405-092A
-  - INS-260403-C496
+  - INS-260403-C732
+  - INS-260403-481F
+  - INS-260402-4719
+  - INS-260404-16E1
 ---
 Biotech investing sentiment swings between favoring platforms (early 2020s, low rates) and favoring assets (post-2022, high rates). Companies that restructure to chase current sentiment waste time and confuse their narrative. The better approach is positioning on the platform-asset continuum in a way that naturally satisfies both camps.
 

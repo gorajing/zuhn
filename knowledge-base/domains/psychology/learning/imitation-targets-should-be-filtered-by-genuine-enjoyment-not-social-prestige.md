@@ -43,11 +43,11 @@ stance: >-
   People who imitate what they're impressed by rather than what they genuinely
   enjoy will waste years producing derivative work that says nothing.
 related:
-  - INS-260329-277B
   - INS-260403-F657
   - INS-260404-AB0F
   - INS-260403-43B9
   - INS-260322-A928
+  - INS-260403-97B4
 ---
 Paul Graham spent high school imitating prestigious literary fiction he didn't enjoy, college imitating philosophy papers he didn't understand, and grad school chasing expert systems he never used. In each case the mistake was the same: he confused social admiration with personal resonance. The heuristic 'copy only what you genuinely like' would have short-circuited all three dead ends.
 

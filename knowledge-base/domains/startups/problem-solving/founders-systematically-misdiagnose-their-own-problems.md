@@ -46,11 +46,10 @@ stance: >-
   the company, often fixating on symptoms while ignoring root causes.
 related:
   - INS-260327-76DA
-  - INS-260403-88E8
   - PRI-260328-C918
-  - INS-260404-DA2E
   - INS-260403-0551
   - INS-260404-D4A0
+  - INS-260405-F9EC
 ---
 Paul Graham observes that founders routinely misidentify their most critical problems. They'll worry about user acquisition when their product isn't good enough, or stress about fundraising when the real issue is that the company is doing badly and investors can sense it. This pattern is so common that experienced advisors can quickly identify the 'door that's mysteriously ajar' — the existential threat hiding behind more comfortable concerns.
 

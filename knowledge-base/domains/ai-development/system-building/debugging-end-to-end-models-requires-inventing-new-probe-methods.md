@@ -41,11 +41,11 @@ resolutions:
     identify structural behaviors. This is a transferable methodology for
     debugging any end-to-end system.
 related:
-  - INS-260329-03B5
-  - INS-260329-3763
   - INS-260322-37EE
   - INS-260329-DFD1
   - PRI-260323-1CF9
+  - INS-260329-4DBC
+  - INS-260330-FA9D
 stance: >-
   Since VLAs eliminate the interfaces needed for classical debugging, you must
   invent new probe methods: attention visualization, camera ablations, c...

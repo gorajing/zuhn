@@ -46,7 +46,6 @@ stance: >-
   winners rather than sector-level positioning.
 related:
   - INS-260325-9DBB
-  - INS-260325-EF4C
   - INS-260323-C370
   - INS-260321-3EC0
   - INS-260323-F5EF
@@ -55,6 +54,7 @@ related:
   - INS-260405-F99E
   - INS-260405-3403
   - INS-260330-070A
+  - INS-260329-4605
 evidence:
   - id: INS-260323-F5EF
     type: CHALLENGES

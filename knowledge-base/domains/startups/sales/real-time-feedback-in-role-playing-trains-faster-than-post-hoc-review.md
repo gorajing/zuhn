@@ -53,12 +53,11 @@ stance: >-
   repeat the correct version immediately trains sales skills exponentially
   faster than giving feedback at the end.
 related:
-  - INS-260325-75EA
-  - INS-260329-D48B
   - PRI-260328-0F0D
   - PRI-260403-35FE
   - INS-260330-4341
   - INS-260329-3739
+  - INS-260329-DAD1
   - INS-260405-DC8D
 evidence:
   - id: INS-260329-D48B

@@ -56,40 +56,28 @@ related:
   - INS-260329-19EA
 evidence:
   - id: INS-260323-216A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-B539
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-FAE2
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-19EA
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260320-0F7C
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-2F63
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260321-801C
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-F5A1
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260320-8FFC
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-D868
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260329-C955
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-5B7B
+    relationship: RELATED
   - id: INS-260402-5034
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Professor Xu highlights a use case that sounds boring but is transformative: using AI to ingest any data format and output structured JSON. Previously, companies needed specific vendor APIs with exact formatting, and a single label change (capital L to lowercase L) would break everything. Now AI handles any format flexibly. This data format lubricant is computationally expensive but practically invaluable because it eliminates the brittleness of traditional data pipelines. For AI startups, this suggests that the most profitable near-term opportunities may be unglamorous data transformation tools rather than flashy reasoning applications.

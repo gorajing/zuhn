@@ -16,11 +16,8 @@ tags:
   - attention-economics
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -57,11 +54,12 @@ related:
   - INS-260322-EF20
   - INS-260328-070D
   - INS-260403-F6F9
-  - INS-260403-1290
-  - INS-260404-B43A
-  - INS-260404-4B69
-  - INS-260403-FF86
+  - INS-260403-6982
+  - INS-260403-D7C4
   - INS-260403-1DB7
+  - INS-260404-FF0B
+  - INS-260405-4FC0
+  - INS-260404-4DF7
 ---
 Graham makes a stronger claim than 'don't waste time on business models' — he argues the discussion is actively negative-value. A VC who spoke at YC described investing in experienced founders whose business model was wrong and would probably change three times. If seasoned repeat founders with millions in funding have bad business models, early-stage founders' models are certainly wrong too.
 

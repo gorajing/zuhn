@@ -43,12 +43,12 @@ stance: >-
   percentage of the delta.
 related:
   - INS-260323-6351
+  - INS-260323-0DC4
   - INS-260329-64A3
   - INS-260329-A6EA
   - INS-260328-A417
   - PRI-260403-C229
   - PRI-260328-2C4C
-  - INS-260402-B653
 evidence:
   - id: INS-260323-0DC4
     type: TRANSFERS_TO

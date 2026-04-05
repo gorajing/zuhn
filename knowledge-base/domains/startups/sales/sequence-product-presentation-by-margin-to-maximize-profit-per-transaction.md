@@ -48,11 +48,9 @@ related:
   - INS-260329-49A4
   - INS-260329-6B3C
   - INS-260329-788F
-  - INS-260404-C4B9
-  - INS-260403-FAE1
-  - INS-260404-5C4B
-  - INS-260403-59F8
-  - INS-260403-F4CC
   - INS-260403-DD63
+  - INS-260403-F4CC
+  - INS-260327-048B
+  - INS-260404-C9B5
 ---
 In frozen yogurt economics, the yogurt itself has thin margins while toppings carry much higher margins. Hormozi points out that the physical store layout matters: customers encounter toppings strategically placed to encourage loading up before they reach the scale. This sequencing principle — presenting highest-margin items first — works because spending resistance increases throughout a transaction. Early in a purchase, customers are in 'buying mode' and less price-sensitive. As the perceived total grows, each additional item faces more scrutiny. Businesses that front-load high-margin options (appetizers before entrees, premium add-ons before base products, design services before implementation) capture more total margin than those that save premium offers for the end of the sales process.

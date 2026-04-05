@@ -48,14 +48,14 @@ stance: >-
   When redesigning a core component is too costly, scaling the flawed component
   and adding compensatory mechanisms is the dominant survival strategy
 related:
+  - INS-260330-033A
   - INS-260330-73F3
-  - INS-260330-0BCC
   - INS-260330-F82A
   - INS-260330-47CF
+  - INS-260403-C514
   - INS-260403-2DC4
   - INS-260404-AE3C
   - INS-260403-9442
-  - INS-260330-8BF6
   - INS-260404-8256
   - INS-260403-D518
 ---

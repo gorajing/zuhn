@@ -49,13 +49,12 @@ stance: >-
   deadline-driven procrastination because no panic mechanism ever triggers
   action.
 related:
-  - INS-260325-14A9
   - INS-260325-77B1
   - INS-260325-0A49
   - PRI-260328-23B0
   - INS-260328-FE38
-  - INS-260330-14A1
   - INS-260330-F6B1
+  - INS-260330-14A1
   - INS-260403-3CD9
 ---
 Tim Urban distinguishes two kinds of procrastination. Deadline-based procrastination is contained — the Panic Monster activates near the deadline, forcing last-minute action. The system is ugly but functional. Deadline-free procrastination — affecting career ambitions, health, relationships, creative pursuits — has no such safety net. Without external deadlines, the Instant Gratification Monkey rules indefinitely.

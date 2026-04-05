@@ -54,6 +54,10 @@ related:
   - PRI-260403-2024
   - INS-260330-CCF0
   - PRI-260328-4CC0
+evidence:
+  - id: INS-260329-CD02
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham describes buying a new iMac with misgivings for the first time — comparing it to purchasing from a country with poor human rights. This captures a critical dynamic: Apple's hardware excellence created enough surplus goodwill to absorb policy abuse, but each incident converted pure product delight into a conflicted Faustian bargain. The emotional shift from 'Oh boy!' to 'they're such assholes, do I really want to support this?' represents permanent reputational erosion.
 

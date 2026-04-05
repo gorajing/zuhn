@@ -53,6 +53,7 @@ stance: >-
   participants to map ideas to specific business model components rather than
   talking in generalities.
 related:
+  - INS-260325-AEF5
   - INS-260404-BA8B
   - INS-260323-197A
   - INS-260329-CBEB

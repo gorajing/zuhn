@@ -53,10 +53,10 @@ stance: >-
   standards that would otherwise prevent iteration.
 related:
   - INS-260403-35E7
-  - INS-260402-7999
   - INS-260405-020E
   - PRI-260326-12C6
   - INS-260403-0218
+  - INS-260404-37F7
 ---
 One of the most practical techniques for getting through the lame phase of ambitious projects is to start by declaring it a lower-stakes form: a sketch, a quick hack, an experiment. This works because it applies a different (correctly calibrated) standard to early work rather than forcing early work to compete against finished work standards it can't yet meet.
 

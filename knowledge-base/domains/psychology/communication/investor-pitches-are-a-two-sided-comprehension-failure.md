@@ -14,11 +14,8 @@ tags:
   - pitching
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,10 +48,10 @@ stance: >-
   understanding.
 related:
   - INS-260404-C0E6
-  - INS-260403-13ED
   - INS-260403-19D8
   - INS-260327-9BA2
   - INS-260403-D7C4
+  - PRI-260403-0ABD
 ---
 Graham identifies a fundamental structural problem: the startup pitching environment systematically pairs technical founders who lack presentation experience with investors who lack technical depth. This isn't a failure of either side — it's an emergent property of the system. Even Google was turned down by investors who 'didn't get it.'
 

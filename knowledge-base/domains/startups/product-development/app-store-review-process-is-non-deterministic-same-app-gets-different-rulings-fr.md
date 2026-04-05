@@ -47,10 +47,10 @@ stance: >-
   judgments to be solved.
 related:
   - INS-260404-5365
+  - INS-260405-02BE
   - INS-260330-178D
   - PRI-260323-8EEA
   - INS-260323-8AA1
-  - INS-260320-1B10
   - INS-260329-79D3
 evidence:
   - id: INS-260320-1B10

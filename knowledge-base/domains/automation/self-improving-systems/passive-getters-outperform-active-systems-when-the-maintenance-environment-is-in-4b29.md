@@ -61,20 +61,13 @@ related:
   - INS-260330-B6DE
 evidence:
   - id: INS-260330-E03A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-D795
-    type: CHALLENGES
-    classified_at: '2026-04-02'
-  - id: INS-260330-16F0
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-43D3
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-B6DE
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 NASA's use of aerogel blankets on Mars rovers and spacesuits exemplifies a critical systems design principle: in environments where you cannot perform maintenance, passive solutions dominate active ones. An active heating system on Mars would require power, have moving parts that could fail, and need repairs that are impossible to perform. Aerogel provides thermal insulation passively — no power, no moving parts, no degradation — simply by existing.
 

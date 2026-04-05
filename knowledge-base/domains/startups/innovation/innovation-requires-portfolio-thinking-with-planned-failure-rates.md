@@ -46,15 +46,16 @@ stance: >-
   Companies that cannot accept a 50%+ failure rate across innovation projects
   will never generate substantial new growth engines
 related:
-  - INS-260402-180C
   - INS-260402-43F9
   - INS-260403-FB8E
+  - INS-260403-B008
   - INS-260403-F87C
+  - INS-260403-FED1
   - INS-260405-F99E
   - INS-260403-910E
-  - INS-260403-E319
   - INS-260328-195E
   - PRI-260403-26B9
+  - INS-260326-6B98
 evidence:
   - id: INS-260402-180C
     type: EXTENDS

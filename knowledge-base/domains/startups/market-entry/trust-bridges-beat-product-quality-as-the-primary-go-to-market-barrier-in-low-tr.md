@@ -52,11 +52,11 @@ stance: >-
   product quality but the absence of trust signals — founders must identify and
   borrow existing trust symbols before users will even try the product.
 related:
-  - INS-260404-523C
   - INS-260405-76E4
   - INS-260404-ED0F
   - INS-260403-4337
   - INS-260321-3521
+  - PRI-260323-1B96
 ---
 In Latin America and similar low-trust markets, consumers don't casually download apps and try them — they first ask whether the company and person behind it are trustable. This is fundamentally different from Silicon Valley where the barrier to trial is near zero. Founders must identify the specific trust symbols their target population respects (trusted companies, community leaders, local endorsements) and build 'trust bridges' by associating with those symbols.
 

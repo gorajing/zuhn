@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     DNA methylation patterns change predictably with age and can be measured to
@@ -52,7 +52,6 @@ stance: >-
   biomarkers alone.
 related:
   - INS-260325-B393
-  - INS-260325-812F
   - INS-260325-E8BC
   - PRI-260325-2800
   - INS-260325-D2AA

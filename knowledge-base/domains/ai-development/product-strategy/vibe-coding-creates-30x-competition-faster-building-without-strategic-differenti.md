@@ -55,8 +55,8 @@ related:
   - INS-260327-FA43
   - INS-260327-A61B
   - INS-260327-EC45
-  - INS-260329-9115
   - INS-260329-A57B
+  - INS-260329-C0A7
 stance: 'If AI lets you build faster, it lets every other founder build faster too'
 evidence:
   - id: INS-260323-E15F

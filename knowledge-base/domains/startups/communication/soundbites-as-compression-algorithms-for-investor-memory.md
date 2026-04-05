@@ -15,11 +15,8 @@ tags:
   - compression
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -49,13 +46,14 @@ stance: >-
   that the first survival filter is simply being remembered at all.
 related:
   - INS-260403-448F
-  - INS-260403-D984
+  - INS-260403-87CD
   - INS-260404-6C20
   - INS-260403-81CE
   - INS-260403-2FE1
-  - INS-260404-EDED
   - INS-260405-5BD3
   - INS-260403-2A1D
+  - INS-260404-B87E
+  - INS-260405-E6F9
 ---
 Graham frames the soundbite not as marketing fluff but as a compression algorithm for investor memory. Professional investors hear hundreds of pitches that blur together. The first cut isn't quality—it's memorability. A phrase like 'the Microsoft Word of ecommerce' creates a compact, retrievable mental model that survives the blur.
 

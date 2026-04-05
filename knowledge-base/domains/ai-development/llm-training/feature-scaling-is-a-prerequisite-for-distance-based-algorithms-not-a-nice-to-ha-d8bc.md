@@ -54,9 +54,7 @@ stance: >-
   produces silently wrong results that look plausible but are dominated by
   whichever feature has the largest numeric range.
 related:
-  - INS-260329-4870
   - INS-260329-4109
-  - INS-260329-8407
   - INS-260403-C514
   - INS-260329-CBF6
   - INS-260325-03D5

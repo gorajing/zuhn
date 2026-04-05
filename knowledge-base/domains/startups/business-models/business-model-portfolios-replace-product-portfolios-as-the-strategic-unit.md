@@ -47,13 +47,14 @@ stance: >-
   product portfolios gain superior visibility into future cash generation,
   synergies, and cannibalization risks.
 related:
-  - INS-260322-CCE8
   - INS-260327-0E28
+  - INS-260330-02A7
   - INS-260405-1894
   - INS-260403-E25F
-  - INS-260404-9158
   - INS-260403-52DB
-  - INS-260404-8D69
+  - INS-260403-E0FE
+  - INS-260404-FF0B
+  - INS-260403-462F
 evidence:
   - id: INS-260322-CCE8
     type: CHALLENGES

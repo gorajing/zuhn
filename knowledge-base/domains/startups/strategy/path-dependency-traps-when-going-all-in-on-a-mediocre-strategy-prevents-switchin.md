@@ -51,13 +51,17 @@ stance: >-
   spend more resources managing its side effects than it would cost to redesign,
   but switching costs keep them locked in
 related:
+  - INS-260327-99CE
   - INS-260329-A9ED
   - INS-260330-EEED
-  - INS-260403-3F05
   - INS-260403-EA8C
   - INS-260325-0688
-  - INS-260403-A907
   - INS-260405-F99E
+  - INS-260327-C083
+evidence:
+  - id: INS-260329-A9ED
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Plants evolved RuBisCo when atmospheric oxygen was negligible, making it adequate for carbon fixation. When oxygen levels rose—ironically due to plants' own success—RuBisCo began binding oxygen ~50% of the time, producing toxic byproducts. Rather than evolving a replacement, plants doubled down: producing 40 billion tons of RuBisCo globally and building detoxification pathways.
 

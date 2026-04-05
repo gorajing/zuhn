@@ -7,7 +7,6 @@
 - `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - `INS-260328-217C` Deadline-free procrastination silently extends forever because the Panic Monster never wakes up, making it the primary source of long-term regret.
 - `INS-260328-FE38` There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
-- `INS-260325-14A9` Non-procrastinators don't exist — everyone has domains where the absence of deadlines lets the Monkey win unchecked.
 - `INS-260323-C1B2` Fear occurs in proportion to importance — the intensity of your resistance signals the significance of the action you are avoiding.
 - `INS-260403-7ED5` Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
 - `INS-260325-77B1` Deadline-based procrastination is contained and often survivable; non-deadline procrastination on life goals extends indefinitely and causes deep regret.
@@ -17,6 +16,5 @@
 - `INS-260325-D797` The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260330-14A1` Moderate procrastination enables subconscious incubation that produces more creative ideas than diving in immediately or waiting until the last minute.
-- `INS-260329-6020` After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260402-910C` Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.

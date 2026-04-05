@@ -50,6 +50,16 @@ related:
   - INS-260327-6D58
   - INS-260403-DAB1
   - INS-260403-2BAF
+evidence:
+  - id: INS-260327-B387
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-6D58
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-DAB1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that if you swap 'good' for 'bad' in a description of a fanboy, you get an exact description of a hater. Both groups make their relationship to you part of their identity, evaluate everything you do through a fixed lens, and broadcast their position publicly. This symmetry is not coincidental — it reflects a single underlying cognitive pattern where someone outsources part of their identity to a public figure.
 

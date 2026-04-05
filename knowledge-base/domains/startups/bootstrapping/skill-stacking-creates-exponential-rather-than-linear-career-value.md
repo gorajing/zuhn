@@ -50,11 +50,11 @@ stance: >-
   value
 related:
   - INS-260329-4C93
-  - INS-260327-1FA1
   - PRI-260403-FBA8
   - INS-260404-9AEC
   - PRI-260323-50FE
   - INS-260329-DDBC
+  - INS-260329-FC6D
 evidence:
   - id: INS-260328-0DFE
     type: TRANSFERS_TO

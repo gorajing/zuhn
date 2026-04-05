@@ -43,14 +43,14 @@ stance: >-
   produces more focused fixes than negative framing because it anchors the AI on
   what's working before narrowing to what's broken.
 related:
-  - INS-260329-761A
-  - INS-260323-8D12
   - INS-260329-0154
   - INS-260329-0CC5
   - INS-260329-F892
+  - PRI-260403-5B3D
+  - INS-260329-3423
   - INS-260329-DFD1
   - INS-260329-5EE7
-  - INS-260329-D2CA
+  - INS-260329-F688
 evidence:
   - id: INS-260329-F892
     type: CHALLENGES

@@ -14,8 +14,8 @@ tags:
   - constraint-as-advantage
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,11 +50,12 @@ stance: >-
   negotiate.
 related:
   - INS-260324-D90C
-  - INS-260404-1843
-  - INS-260404-72F5
-  - INS-260405-4871
-  - INS-260403-5BAC
-  - INS-260404-1B66
+  - INS-260330-A1DB
+  - INS-260403-83A8
+  - INS-260405-1AAC
+  - INS-260404-7A5B
+  - INS-260404-8B1C
+  - INS-260405-DEF2
 ---
 Costco stocks roughly 4,000 unique items compared to 30,000 at a typical supermarket and 140,000 at Walmart Supercenter. This constraint is strategic: when there are only one or two choices per category, being Costco's chosen supplier means access to 94 million affluent members. Suppliers will lower prices, customize packaging, and re-engineer products (like the cashew container redesign that saved 24,000 pallets annually) just to win that slot.
 

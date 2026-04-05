@@ -50,12 +50,12 @@ resolutions:
     foundation all along.
 related:
   - INS-260330-DB4B
-  - INS-260330-725C
-  - INS-260404-DA2E
   - INS-260321-9A03
-  - INS-260330-3CD9
+  - INS-260403-359D
   - INS-260327-ECDA
+  - INS-260402-7FCC
   - INS-260403-21A2
+  - INS-260403-48CC
 stance: >-
   Leaders should shape the belief systems of employees, board, partners, and
   customers gradually over months so that by the time a major strategic de...

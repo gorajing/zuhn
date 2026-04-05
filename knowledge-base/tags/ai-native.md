@@ -7,4 +7,3 @@
 - `INS-260327-4081` Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
 - `INS-260321-3D65` Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.
 - `INS-260327-BA93` AI-native founders grow 20% faster while wanting to raise $250K less—the venture equation is shifting.
-- `INS-260327-1FA1` Top engineers of the future will manage agent teams, not write code—orchestration skill is the new differentiator.

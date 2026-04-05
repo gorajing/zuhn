@@ -58,6 +58,7 @@ related:
   - INS-260330-7ECB
   - INS-260323-BF81
   - INS-260327-178E
+  - INS-260404-63B0
 ---
 When OpenAI hypothesized that ChatGPT Enterprise would have a distinct buyer and sales motion from their API product, they made a deliberate choice to build a dedicated go-to-market org from scratch rather than bolt it onto the existing API sales team. The early team was fewer than 10 people with no SDRs, SCs, CSMs, or even a working Salesforce instance — but this lean, focused structure gave them speed, clarity, and deep customer focus.
 

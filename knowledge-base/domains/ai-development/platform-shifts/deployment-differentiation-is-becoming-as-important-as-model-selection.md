@@ -56,11 +56,9 @@ related:
   - INS-260329-148D
 evidence:
   - id: INS-260329-9BC0
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260404-7BEE
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260405-F57E
+    relationship: RELATED
 ---
 Ron from Open Router pointed out an underappreciated dynamic: one model on their platform can be found from many providers, each with dramatically different performance characteristics. The same model running at 1,000 tokens per second versus 60 tokens per second enables fundamentally different use cases — the fast version powers real-time agents while the slower version suits conversational chat interfaces.
 

@@ -10,5 +10,4 @@
 - `INS-260324-27E2` Before AI it was big data, before that crypto/web3, before that VR/AR, before that IoT/wearables — Silicon Valley recycles the same pump-and-dump playbook with a new technology name every 3-5 years.
 - `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260324-29D8` The microprocessor, PC, Wi-Fi, smartphones, and GPS all flourished through organic market demand — no one adopted them under threat of extinction. AI's adoption is driven by institutional fear-mongering, not pull.
-- `INS-260322-415E` Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
 - `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.

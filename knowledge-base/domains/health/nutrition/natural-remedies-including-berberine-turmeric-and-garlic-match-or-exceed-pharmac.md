@@ -44,7 +44,7 @@ related:
   - INS-260325-5D71
   - INS-260327-2321
   - INS-260327-6E3B
-  - INS-260327-A89B
   - INS-260330-B1F6
+  - PRI-260328-97E0
 ---
 Berberine matches metformin for blood sugar control, turmeric matches ibuprofen for inflammation, and garlic matches some blood pressure medications -- with better safety profiles and fewer side effects

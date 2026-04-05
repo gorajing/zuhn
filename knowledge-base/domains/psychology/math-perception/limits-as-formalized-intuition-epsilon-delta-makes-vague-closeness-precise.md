@@ -60,11 +60,9 @@ related:
   - INS-260330-D6ED
 evidence:
   - id: INS-260329-1E81
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
-  - id: INS-260330-D6ED
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-1F25
+    relationship: RELATED
 ---
 The epsilon-delta definition translates the informal idea of 'getting closer and closer' into a rigorous logical statement: for any tolerance on the output (epsilon), there exists a constraint on the input (delta) that guarantees the output stays within that tolerance. Most students struggle with this because they treat it as abstract symbol manipulation rather than recognizing it as the formalization of something they already intuitively understand — that continuous functions have predictable behavior near a point.
 

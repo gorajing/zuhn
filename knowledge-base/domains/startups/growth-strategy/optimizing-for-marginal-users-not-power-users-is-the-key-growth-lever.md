@@ -45,16 +45,16 @@ stance: >-
   Growth teams should optimize for the least-engaged users who are about to
   churn, not for power users who will stay regardless
 related:
+  - INS-260321-6437
   - INS-260327-560D
   - INS-260327-C9A7
   - INS-260328-B57E
   - INS-260329-8BD3
   - INS-260329-776B
+  - INS-260329-8602
   - INS-260330-0371
   - INS-260330-072D
   - INS-260330-49A4
-  - INS-260330-1854
-  - INS-260330-697F
 evidence:
   - id: INS-260321-6437
     type: CHALLENGES

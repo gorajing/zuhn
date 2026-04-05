@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-754F
   - INS-260403-7E7C
-  - INS-260404-9158
   - INS-260404-1E47
   - INS-260403-39F9
+  - INS-260403-6982
 ---
 The book makes an explicit claim: 'People are moved more by stories than by logic.' The recommended technique is to write scenarios with customers as protagonists, then build the business model logic into that narrative arc. This isn't just pitch advice — it's a design tool. When you force yourself to narrate how a real customer encounters, evaluates, adopts, and benefits from your model, you expose gaps that abstract canvas-filling misses.
 

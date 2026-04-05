@@ -48,12 +48,12 @@ resolutions:
     we'll see $2,000/month AI subscriptions this year as companies offer
     cutting-edge inference to fewer, higher-paying users.
 related:
-  - INS-260325-F981
   - INS-260323-4D8D
   - INS-260323-8AEC
   - INS-260323-3F11
   - PRI-260323-8E89
   - PRI-260328-D893
+  - INS-260327-6177
   - INS-260330-7FAC
   - INS-260403-EEDF
 stance: >-

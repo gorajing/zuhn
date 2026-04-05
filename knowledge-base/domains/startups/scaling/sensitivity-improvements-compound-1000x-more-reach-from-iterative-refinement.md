@@ -45,7 +45,8 @@ related:
   - INS-260330-A44F
   - INS-260321-6437
   - INS-260323-7EEB
-  - INS-260404-76FF
+  - INS-260323-4E12
+  - INS-260330-E70C
 stance: >-
   LIGO now reaches 1,000x more space than its original design through continuous
   incremental sensitivity improvements.

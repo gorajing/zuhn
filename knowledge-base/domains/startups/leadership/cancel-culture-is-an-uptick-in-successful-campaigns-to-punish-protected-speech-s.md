@@ -51,10 +51,9 @@ related:
   - INS-260403-A99F
   - INS-260403-F8B5
   - INS-260404-0240
-  - INS-260330-2339
+  - INS-260323-6BF4
   - INS-260330-647D
   - INS-260330-175F
-  - INS-260330-48A8
   - INS-260330-4A89
 stance: >-
   Cancel culture is specifically the post-2014 surge in successful campaigns to

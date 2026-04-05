@@ -60,23 +60,17 @@ related:
   - INS-260330-240A
 evidence:
   - id: INS-260325-4E20
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-75A3
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-4A10
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-65CD
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-240A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260402-F479
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260402-2FDF
+    relationship: RELATED
 ---
 Assembly Theory's key insight is that complexity is a historical property, not a structural one. Two objects can look similar but have very different assembly indices if one required more steps to construct. A randomly arranged pile of blocks might look complex but has low assembly index (few steps needed). A precisely arranged circuit might look simple but has high assembly index.
 

@@ -16,11 +16,8 @@ tags:
   - show-dont-tell
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -52,14 +49,14 @@ stance: >-
   skepticism rather than belief, while implicit confidence demonstrated through
   behavior is the primary evidence investors use to evaluate early startups
 related:
+  - INS-260326-C692
+  - INS-260327-5688
   - INS-260329-E900
-  - INS-260403-0F95
+  - INS-260403-2F22
+  - INS-260403-37D9
   - INS-260403-ED1F
-  - INS-260403-1E82
-  - INS-260403-74CD
-  - INS-260403-2F86
-  - INS-260403-05DF
-  - INS-260404-F3C6
+  - INS-260403-22FE
+  - INS-260403-A8E8
   - INS-260404-D6EE
   - INS-260404-5BBF
 ---

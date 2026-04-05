@@ -51,14 +51,11 @@ stance: >-
   predicts the majority class every time can achieve high accuracy while being
   completely useless for the minority class you actually care about.
 related:
-  - INS-260329-5D48
-  - INS-260329-D357
-  - INS-260329-F854
-  - INS-260329-9524
   - INS-260329-A2D0
   - INS-260323-584D
+  - PRI-260323-81E9
   - INS-260329-7F02
-  - INS-260330-CAE6
+  - INS-260326-0AB4
 ---
 The course walks through a critical failure mode that traps beginners: on a dataset where 95% of patients are healthy, a model that always predicts healthy achieves 95% accuracy while catching zero cases of disease. Accuracy rewards this degenerate strategy. Precision (of the positive predictions, how many were correct?) and recall (of the actual positives, how many did we catch?) expose the failure.
 

@@ -42,9 +42,9 @@ stance: >-
   interference)
 related:
   - INS-260325-785D
-  - INS-260327-0DFD
   - PRI-260325-F627
   - INS-260327-DB76
   - INS-260327-A2BB
+  - INS-260327-BED6
 ---
 Many common facial products contain ingredients that paradoxically accelerate aging: chemical sunscreens (endocrine disruptors), synthetic fragrances (inflammatory), harsh retinol (barrier damage), and parabens (hormonal interference)

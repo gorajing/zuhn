@@ -48,11 +48,12 @@ stance: >-
 related:
   - INS-260327-D888
   - INS-260330-48C6
-  - INS-260330-5747
   - INS-260330-D52B
+  - INS-260330-B8CC
   - INS-260330-790A
   - INS-260403-22DF
   - INS-260404-E651
   - INS-260329-1741
+  - INS-260402-C664
 ---
 Graham argues that he cannot think of a single instance where a company sank into technical mediocrity and recovered. The mechanism is straightforward: A-players want to work alongside other A-players. When the average quality drops, the best people leave first (they have the most options), which lowers the average further, which repels the next tier. Yahoo's version of this started before 1998 — by treating programming as commodity work, they never attracted top talent in the first place, then lost whatever talent they had to Google and others. The practical implication for founders is that engineering hiring quality is not a dial you can turn up later; it's more like a ratchet. Every mediocre hire makes the next great hire less likely. The only known workaround — acqui-hiring — paradoxically only works for companies already good enough not to need it.

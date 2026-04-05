@@ -52,12 +52,12 @@ related:
   - INS-260325-A52D
   - INS-260326-967C
   - INS-260330-CC0F
-  - INS-260330-1459
-  - INS-260330-3B0A
   - INS-260403-3A49
   - INS-260403-7C88
   - PRI-260328-B11D
   - PRI-260328-3BEF
   - INS-260403-12FD
+  - INS-260403-D51E
+  - INS-260404-B715
 ---
 The conventional wisdom frames co-founders as a skill-complementarity play — the hacker needs a hustler, etc. Graham's deeper observation is that the critical function of multiple founders is emotional, not operational. The low points in a startup are so extreme that few people can bear them alone, but when co-founders are bound by personal loyalty, 'esprit de corps binds them together in a way that seems to violate conservation laws.' Each person thinks 'I can't let my friends down,' which is one of the most powerful forces in human nature. This reframes the single-founder problem: it's not just a vote of no confidence (though that signal matters — if you can't convince friends who know you best, that's alarming), it's a structural absence of the emotional infrastructure needed to survive startup stress. The implication extends beyond startups: any endeavor with extreme emotional demands benefits more from mutual commitment bonds than from individual willpower.

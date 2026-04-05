@@ -1,28 +1,5 @@
 # Tag: negotiation-leverage
 
 - `INS-260404-B350` Radical SKU reduction turns shelf space into a scarce resource that suppliers compete to access, granting the retailer outsized negotiating power.
-- `INS-260403-DC2D` Costco stocks ~4,000 items vs. Walmart's 140,000, making suppliers compete fiercely for the one or two slots per category.
-- `INS-260403-0DC2` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize products to win placement.
-- `INS-260403-887A` Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each shelf slot so valuable that suppliers compete on price and customization to win it.
-- `INS-260404-4B5D` Costco stocks ~4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers compete on price and customization to win placement.
-- `INS-260403-6670` Costco stocks 4,000 SKUs vs Walmart's 140,000, making each slot fiercely contested by suppliers willing to cut prices.
-- `INS-260403-115B` Costco stocks ~4,000 SKUs vs. Walmart's 140,000, making brands compete fiercely for limited shelf space and accepting lower margins to win placement.
-- `INS-260403-180D` Costco stocks 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers compete on price and adapt products to Costco's specifications.
-- `INS-260404-1EA6` Costco's 4,000 SKUs versus Walmart's 140,000 gives it outsized supplier leverage because brands compete fiercely for limited shelf slots.
-- `INS-260404-222A` Costco stocks 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers compete on price to win it.
-- `INS-260404-3EA3` Costco stocks only 4,000 items vs 140,000 at Walmart, turning extreme curation into extreme supplier leverage.
-- `INS-260404-57E3` Costco's 4,000 SKUs vs Walmart's 140,000 creates extreme supplier competition for limited slots, driving prices down.
-- `INS-260404-76FF` Costco's 4,000 SKUs vs Walmart's 140,000 means each slot is enormously valuable, giving Costco leverage to demand lower prices and custom product engineering.
-- `INS-260404-7F16` Costco stocks only 4,000 SKUs versus Walmart's 140,000, giving it enormous leverage because suppliers compete fiercely for limited shelf space.
-- `INS-260404-AB9A` Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it outsized supplier leverage.
-- `INS-260403-36D8` Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
-- `INS-260404-6945` Costco stocks only 4,000 items versus Walmart's 140,000, which gives it immense buying power per SKU because suppliers fight to be the one choice in each category.
-- `INS-260404-9B82` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers voluntarily lower prices and customize products to win placement.
-- `INS-260404-4780` Costco stocks ~4,000 SKUs vs Walmart's 140,000, making each slot so valuable that suppliers compete on price to win it.
-- `INS-260403-5BBC` Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
-- `INS-260403-89B5` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
-- `INS-260404-7BEE` Fewer choices means more volume per item, which means more power over suppliers and lower costs.
-- `INS-260404-1B66` Extreme product curation concentrates buying power into fewer suppliers, creating leverage that funds lower prices.
-- `INS-260404-7D8F` Costco's 4,000 SKUs vs Walmart's 140,000 creates immense supplier leverage because brands compete fiercely for limited shelf space.
 - `INS-260402-E522` The only real leverage in fundraising is genuinely not needing the deal, which requires the kind of determination that can't be faked.
 - `INS-260403-78B7` Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.

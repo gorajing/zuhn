@@ -49,7 +49,6 @@ related:
   - INS-260325-D4F6
   - PRI-260325-5760
   - INS-260330-594E
-  - INS-260330-849D
   - INS-260330-B4B9
 ---
 The Hilbert Hotel's punchline — that countable and uncountable infinities are fundamentally different despite both being 'infinite' — illustrates a broader cognitive trap. Humans collapse qualitatively different things under shared labels: 'technical debt' covers both trivial cleanup and architectural rot, 'product-market fit' covers both early traction and durable retention, 'AI' covers both narrow classifiers and frontier reasoning models. When two phenomena share a label, people assume they share properties and scale similarly. Recognizing that same-named categories can differ in kind — not just degree — is essential for avoiding strategic errors where you treat a categorically different challenge with the same playbook that worked for its smaller namesake.

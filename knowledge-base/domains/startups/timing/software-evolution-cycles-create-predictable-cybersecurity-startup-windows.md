@@ -51,5 +51,8 @@ evidence:
   - id: INS-260322-8BD1
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-969D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The history of cybersecurity follows a repeating pattern: new software paradigm → expanded attack surface → new security companies. On-premise computing spawned McAfee and Symantec. Cloud computing spawned Palo Alto Networks, CrowdStrike, and Wiz. The current shift to application-layer ecosystems (extensions, plugins, AI models, vibe-coded apps) is opening the next window. This pattern is useful for founders and investors as a timing signal — the question isn't whether new security companies will emerge from each shift, but which specific attack vectors will define the opportunity. Recognizing you're early in a new cycle is halfway to product-market fit.

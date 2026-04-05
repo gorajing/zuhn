@@ -52,7 +52,7 @@ related:
   - INS-260330-1E5E
   - INS-260325-898A
   - INS-260330-541B
-  - INS-260402-F479
+  - INS-260327-CEE4
 ---
 Naval's dichotomy resolves a common tension in ambitious people: the urge to see immediate results from immediate action. He argues you should be maximally impatient about taking action — solving problems the moment they surface, never procrastinating on execution — while simultaneously accepting that markets, teams, and products operate on their own timelines.
 

@@ -14,8 +14,8 @@ tags:
   - competitive-moats
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -58,27 +58,18 @@ related:
   - INS-260404-8C84
   - INS-260404-6BA2
 evidence:
-  - id: INS-260404-9B82
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-222A
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+  - id: INS-260405-F57E
+    relationship: RELATED
+  - id: INS-260405-4871
+    relationship: RELATED
   - id: INS-260403-0DC2
-    type: SUPPORTS
-    classified_at: '2026-04-05'
-  - id: INS-260404-8C84
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260403-180D
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-E981
+    relationship: RELATED
   - id: INS-260404-6BA2
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-4780
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-5BBC
+    relationship: RELATED
 ---
 By carrying only 4,000 unique items versus a supermarket's 30,000 or Walmart's 140,000, Costco transforms each product slot into intensely contested real estate. Suppliers will lower prices, customize packaging, and reengineer products (like the cashew container saving 24,000 pallets/year) just to be one of the one or two options available to Costco's 94 million members.
 

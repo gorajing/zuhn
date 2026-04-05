@@ -52,20 +52,15 @@ stance: >-
   buying any third-party plugins.
 evidence:
   - id: INS-260323-0539
-    type: CONTRADICTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-A9F0
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260320-8688
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260403-4C61
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260404-621F
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-D375
+    relationship: RELATED
 ---
 Beginners cannot benefit from expensive plugins because they don't understand the core concepts those plugins extend. Learn to drive before choosing a car. Stock tools teach fundamentals: EQ shapes frequency, compression controls dynamics, spatial effects create depth. Once you truly understand these through your DAW's built-in tools, you'll know exactly what third-party plugins add and why.
 

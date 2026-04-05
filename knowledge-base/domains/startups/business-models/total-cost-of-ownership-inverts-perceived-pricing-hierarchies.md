@@ -45,11 +45,11 @@ stance: >-
   alternatives when resale value is factored into total cost of ownership
 related:
   - INS-260329-BBF9
-  - INS-260330-1B6E
-  - INS-260330-707D
-  - INS-260404-DFE8
   - INS-260327-875C
   - INS-260403-0CA9
+  - INS-260322-E20E
+  - INS-260324-A046
+  - INS-260403-5D89
 evidence:
   - id: INS-260330-707D
     type: SUPPORTS

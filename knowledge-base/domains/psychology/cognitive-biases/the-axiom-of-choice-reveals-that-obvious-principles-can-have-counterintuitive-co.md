@@ -50,9 +50,9 @@ resolutions:
 related:
   - PRI-260324-F9CD
   - PRI-260323-DA09
-  - INS-260403-C313
   - INS-260323-3F30
   - INS-260405-2849
+  - INS-260330-3BBC
 stance: >-
   Mathematicians who publicly rejected the axiom of choice were found to be
   unknowingly using it in their own proofs

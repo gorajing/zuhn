@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260330-E1CA
   - INS-260330-51D1
-  - INS-260323-1670
-  - INS-260330-F31A
   - INS-260330-FEDD
+  - INS-260403-1547
+  - INS-260330-ECA9
 ---
 David J. Hand's 'probability lever' explains why seemingly impossible coincidences are actually expected. While the average person has a tiny chance of being struck by lightning, an avid outdoor sportsman like Walter Summerford has a much higher conditional probability. The base rate for 'any person' masks the dramatically different rates for specific subpopulations.
 

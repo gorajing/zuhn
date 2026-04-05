@@ -63,23 +63,17 @@ related:
   - INS-260402-5ACE
 evidence:
   - id: INS-260329-E4F6
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-71AB
-    type: EXTENDS
-    classified_at: '2026-04-02'
-  - id: INS-260330-B599
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-C9A6
+    relationship: RELATED
   - id: INS-260330-2689
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-367B
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-70F2
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 3Blue1Brown introduces a subtle but powerful cognitive technique: think of a single vector as an arrow (direction + magnitude), but when considering a collection of vectors, collapse each to just the point at its tip. This isn't just a visualization trick — it's a principled abstraction switch that trades detail for tractability. You lose per-vector direction info but gain the ability to reason about the entire set as a geometric shape (line, plane, volume).
 

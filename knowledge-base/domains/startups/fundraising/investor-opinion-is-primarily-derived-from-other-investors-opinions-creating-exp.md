@@ -52,8 +52,8 @@ related:
   - INS-260330-4605
   - INS-260402-4BC7
   - INS-260403-4960
+  - INS-260405-54E2
   - INS-260325-5A72
-  - INS-260403-9B3A
   - INS-260404-4682
 ---
 Most investors' opinions of a startup are dominated by what other investors think, creating a self-reinforcing cycle. This means the hardest commitment to get is the first one — not because your startup is weakest at that point, but because no social proof exists yet. Founders should expect the initial fundraising phase to feel disproportionately difficult and not interpret that difficulty as a signal about their company's quality.

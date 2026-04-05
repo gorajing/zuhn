@@ -52,12 +52,12 @@ stance: >-
   categorization, making OOP an unusually intuitive paradigm despite its
   reputation for complexity.
 related:
+  - INS-260329-1610
   - INS-260329-B22B
   - INS-260329-19B3
-  - INS-260329-DBFE
   - INS-260405-06B0
   - INS-260330-CE2F
-  - INS-260329-1610
+  - INS-260330-44EF
 evidence:
   - id: INS-260329-4D03
     type: SUPPORTS

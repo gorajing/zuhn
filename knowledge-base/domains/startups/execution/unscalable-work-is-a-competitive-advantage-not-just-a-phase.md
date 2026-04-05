@@ -52,8 +52,8 @@ related:
   - INS-260327-2B75
   - INS-260330-7BF5
   - PRI-260328-3BEF
-  - INS-260326-291C
   - PRI-260328-B11D
+  - INS-260404-0D62
   - INS-260403-F6F9
 ---
 Walker Williams reframes 'doing things that don't scale' from a survival tactic into a strategic advantage. At Teespring, he still personally handles 12-20 customer service tickets daily and reads every tweet, even at scale. His key argument: the moment you stop doing unscalable things, you hand that advantage to smaller competitors who still can.

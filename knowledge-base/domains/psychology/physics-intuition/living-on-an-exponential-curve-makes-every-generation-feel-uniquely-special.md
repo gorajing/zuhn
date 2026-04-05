@@ -51,13 +51,11 @@ stance: >-
   current moment is uniquely transformative.
 related:
   - INS-260323-1F27
+  - INS-260325-820C
   - INS-260325-4C09
   - INS-260325-9CDC
-  - INS-260322-415E
   - INS-260403-1CB1
   - INS-260330-F493
-  - INS-260323-2D1D
-  - INS-260330-F31A
 evidence:
   - id: INS-260330-F493
     type: EXTENDS

@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 128 insights
+> 125 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -9,7 +9,6 @@
 - `INS-260329-CBF6` [high] Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.
 - `INS-260321-AA91` [high] Enterprise customers resist AI credit-based pricing because credits are opaque (unlike transferable units like gigabytes), vendors can silently increase consumption by adding features, and outcome-based pricing creates a dynamic baseline problem where savings erode year over year.
 - `INS-260322-D7B1` [high] Even a 20-30% shift from Google to AI chatbots will dramatically raise paid search costs for remaining advertisers, making current acquisition strategies unviable.
-- `INS-260330-9C48` [high] When eBay switched from paying affiliates per confirmed registration to per activated user, registrations dropped 20% but active users only dropped 5% -- then growth accelerated.
 - `INS-260327-E6B0` [high] Underconsumption-core and anti-haul content generates as much commercial activity as the consumption it critiques, because it creates a new identity to signal.
 - `INS-260327-6D58` [high] A clown gets attention but has no fan club — trusted creators with small audiences outperform viral ones with millions of followers.
 - `INS-260323-6414` [high] Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
@@ -76,7 +75,6 @@
 - `INS-260327-0CBC` [high] Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
 - `INS-260323-181D` [high] Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260403-DEF6` [high] PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.
-- `INS-260330-F4DD` [high] Press works like a sales funnel: get warm intros through recently-covered founders, memorize your bullet-point narrative, invest reporters' time via face-to-face meetings, and follow up with collateral before launch day.
 - `INS-260330-4DBE` [high] Treat press outreach as a structured sales pipeline: get warm intros through recently-covered founders, invest reporters' time via face-to-face meetings, and prepare bullet-point narratives they'll transcribe into stories.
 - `INS-260330-4AB1` [high] Treat press like a sales funnel: get warm intros from recently-covered founders to reporters, pitch with memorized bullet points, and follow up with collateral before launch.
 - `INS-260321-8D2B` [high] Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
@@ -85,7 +83,6 @@
 - `INS-260327-6A45` [high] Once functional features converge, commoditized products re-differentiate through aesthetics, limited editions, and bran
 - `INS-260327-484F` [high] Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
 - `INS-260329-F73D` [high] Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
-- `INS-260330-70BC` [high] eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
 - `INS-260327-C9A3` [high] People share products not because you asked them to, but because recommending remarkable things makes THEM look good.
 - `INS-260321-96CE` [high] Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260327-EBDF` [high] Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.

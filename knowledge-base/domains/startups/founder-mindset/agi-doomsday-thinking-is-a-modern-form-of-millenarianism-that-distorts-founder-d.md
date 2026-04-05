@@ -53,10 +53,10 @@ stance: >-
   urgency rather than evidence.
 related:
   - INS-260323-543C
-  - INS-260330-094B
   - INS-260327-C4AC
   - INS-260323-9C11
   - INS-260403-F171
+  - INS-260327-8773
 evidence:
   - id: INS-260327-8773
     type: SUPPORTS

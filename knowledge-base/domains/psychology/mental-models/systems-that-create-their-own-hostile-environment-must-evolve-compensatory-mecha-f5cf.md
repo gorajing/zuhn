@@ -56,6 +56,7 @@ stance: >-
   response is typically compensatory workarounds rather than redesigning the
   core process
 related:
+  - INS-260327-CBDF
   - INS-260330-B71B
   - INS-260330-B3D5
   - INS-260330-2CFA
@@ -63,9 +64,8 @@ related:
   - INS-260403-6628
   - INS-260405-7E85
   - INS-260403-53C9
-  - INS-260330-E497
   - INS-260404-B7B6
-  - INS-260404-BF8A
+  - INS-260404-1F1B
 evidence:
   - id: INS-260330-B71B
     type: TRANSFERS_TO

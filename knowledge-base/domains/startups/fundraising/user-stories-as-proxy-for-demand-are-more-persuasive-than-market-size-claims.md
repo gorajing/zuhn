@@ -14,11 +14,8 @@ tags:
   - sequoia
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -47,15 +44,15 @@ stance: >-
   eliminate the biggest investor fear — that you've built something nobody wants
   — far more effectively than top-down market sizing.
 related:
-  - INS-260403-1A73
   - INS-260403-1444
   - INS-260403-53AA
   - INS-260404-3D06
-  - INS-260404-7609
   - INS-260404-817A
   - INS-260403-7072
   - INS-260403-1949
-  - INS-260404-AC2B
-  - INS-260404-5248
+  - INS-260404-EE85
+  - INS-260404-2FC0
+  - INS-260404-EF17
+  - INS-260404-B887
 ---
 Graham references Sequoia's concept of 'proxy for demand' — what are people doing now with inadequate tools that demonstrates need for your product? This bottoms-up evidence of demand is far more compelling than top-down market sizing, which Graham dismisses as the startup equivalent of an aspiring actor citing Tom Hanks's salary. The most powerful version is when the founders themselves had the need (Apple, Microsoft, Yahoo, Google all grew from founder needs). The hierarchy is: your own need > needs of people you know personally > abstract market analysis. This reflects a deeper truth: specific numbers and concrete stories stick in investors' heads, while abstract claims about billion-dollar markets blur together across hundreds of pitches.

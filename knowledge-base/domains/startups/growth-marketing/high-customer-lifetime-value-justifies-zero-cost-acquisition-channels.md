@@ -40,11 +40,12 @@ resolutions:
     optimizing acquisition. When your LTV is high enough, even crude organic
     channels become extremely profitable.
 related:
-  - INS-260403-5BBC
+  - INS-260325-A61B
   - INS-260405-051E
   - INS-260404-D6EC
   - INS-260404-8AE1
   - INS-260329-913C
+  - INS-260330-930D
 stance: >-
   SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic
   traffic highly profitable.

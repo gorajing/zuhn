@@ -53,6 +53,10 @@ related:
   - INS-260320-39A3
   - INS-260329-AADB
   - INS-260330-8326
+evidence:
+  - id: INS-260323-C8AC
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham describes three startup programmers whose company was acquired by a large corporation. Their release cycle went from instant to a minimum of two weeks. When asked, all three instantly agreed they'd trade 10% of the acquisition price to get instant releases back—and hinted they'd go as high as 50%.
 

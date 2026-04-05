@@ -50,7 +50,7 @@ related:
   - INS-260327-200C
   - INS-260402-E140
   - INS-260328-9FC0
+  - INS-260330-B5DF
   - INS-260330-C391
-  - INS-260330-2CE5
 ---
 Ram cuts through the noise of startup metrics (revenue, valuation, user counts) with a simple heuristic: startup success equals customer success. If your customers are succeeding because of your product, everything else follows. The moment of seeing your first  customer payment is already pleasurable — whether you reach a billion depends on luck, trajectory, and problem set. But the foundation is always: are customers getting enough value to pay? This reframes the founder journey from chasing scale to obsessing over customer outcomes.

@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260330-13EE
   - INS-260330-19C3
-  - INS-260404-E60B
   - PRI-260325-B4FA
   - INS-260330-637F
+  - INS-260404-BCA2
 stance: >-
   Ice did not just preserve food — it launched the fish industry, meat packing,
   brewing, and fundamentally restructured American cities.

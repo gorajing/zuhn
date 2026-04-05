@@ -56,12 +56,10 @@ related:
   - INS-260322-EAB6
 stance: 'AI agents need three levels of business context: Level 1 (identity'
 evidence:
-  - id: INS-260329-5891
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260329-FE15
+    relationship: RELATED
   - id: INS-260403-7E7C
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Most AI agent setups fail because the agent lacks business context. A three-level 'business brain' solves this progressively. Level 1 is identity: basic introduction of who you are and what the agent should do — takes 5 minutes to set up. Level 2 is strategic context: mission statement, product descriptions, team structure, business model, communication style — 15 sections of professional context enabling the agent to make informed business decisions.
 

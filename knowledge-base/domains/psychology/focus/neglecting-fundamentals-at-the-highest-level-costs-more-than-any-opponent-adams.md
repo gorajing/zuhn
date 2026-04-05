@@ -50,11 +50,11 @@ resolutions:
     thing you assumed was 'good enough' while focusing on more sophisticated
     improvements.
 related:
-  - INS-260404-A951
   - INS-260327-0F4E
   - INS-260323-2B53
   - INS-260325-0BD7
   - INS-260327-9A23
+  - INS-260323-C0BD
 stance: >-
   Adams lost the 1980 Olympic final after cutting weight poorly with bad
   nutrition

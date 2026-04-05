@@ -41,10 +41,10 @@ stance: >-
   trade down to them during downturns.
 related:
   - INS-260327-470B
-  - INS-260327-0A6B
   - PRI-260328-8284
   - PRI-260328-EAC4
-  - INS-260329-C754
+  - INS-260403-4A2F
+  - INS-260403-BE7C
 evidence:
   - id: INS-260329-C754
     type: TRANSFERS_TO

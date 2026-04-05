@@ -14,11 +14,8 @@ tags:
   - mental-models
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -49,10 +46,10 @@ stance: >-
   sufficiently focused.
 related:
   - INS-260403-448F
-  - INS-260403-FE37
   - INS-260403-EF30
-  - INS-260404-0AF3
   - INS-260404-3C46
+  - INS-260404-96C6
+  - INS-260403-2FE1
 ---
 Professional investors hear so many pitches they blur together. The first survival filter is simply being remembered. Hollywood uses 'X meets Y'; startups use 'the X of Y' (e.g., Viaweb was 'the Microsoft Word of ecommerce'). Launch this phrase clearly but apparently casually, preferably near the beginning of your talk.
 

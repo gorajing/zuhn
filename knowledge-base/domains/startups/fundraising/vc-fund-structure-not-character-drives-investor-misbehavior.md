@@ -52,6 +52,10 @@ related:
   - INS-260323-C370
   - PRI-260323-977A
   - INS-260327-7E3D
+evidence:
+  - id: INS-260323-C370
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 VCs earn roughly 2% annual management fees on fund size plus a share of gains, incentivizing them to raise the largest possible fund. Large funds force each partner to deploy millions per deal, which cascades into slow decision-making (too much at stake to move fast), idea theft (competitive intelligence becomes rational at high stakes), board-level micromanagement (can't afford to lose), and inflated valuations that trap founders on an IPO-or-bust trajectory.
 

@@ -17,8 +17,8 @@ tags:
   - behavioral-economics
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -55,13 +55,12 @@ stance: >-
   sunk-cost psychology can take hold
 related:
   - INS-260327-1403
-  - INS-260327-6188
   - INS-260330-48DE
   - INS-260404-ED19
   - INS-260403-CE5F
-  - INS-260404-9505
   - INS-260404-B46E
   - INS-260404-2D53
+  - INS-260404-5D39
 ---
 Amazon Prime is optional: each customer individually calculates whether Prime will save them enough to justify the cost. Those who subscribe are already price-sensitive rational actors who will continue comparison-shopping. The sunk-cost effect exists but is moderated by ongoing self-justification.
 

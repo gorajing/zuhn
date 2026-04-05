@@ -52,15 +52,15 @@ stance: >-
   distinguish fact from fiction by making all communication performative and all
   information weaponized
 related:
-  - INS-260325-803C
   - INS-260323-6A05
   - INS-260323-04D4
+  - INS-260330-8B24
   - INS-260330-748E
   - INS-260330-CDE1
   - INS-260330-141E
-  - INS-260404-5343
   - INS-260322-7FA4
   - PRI-260328-C006
+  - INS-260405-1F65
   - INS-260330-7D5F
 evidence:
   - id: INS-260325-803C

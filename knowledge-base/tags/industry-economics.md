@@ -4,7 +4,6 @@
 - `INS-260327-07FC` Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-8E9D` Theme parks must continuously invest in new rides because each new attraction generates declining visitor impact over ti
 - `INS-260327-B715` Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs w
-- `INS-260327-0A6B` Diner businesses survive market cycles because they serve fundamental human needs (affordable food, community gathering,
 - `INS-260327-795D` Modern arcades survive by stacking revenue streams: games, food, drinks, prizes, party bookings, creating per-visit reve
 - `INS-260327-7681` Western Unions high fees are sustainable because its customers — immigrants sending remittances, unbanked populations — 
 - `INS-260327-D5F0` Ice cream and frozen food businesses face cost structures dominated by cold chain logistics, where maintaining temperatu

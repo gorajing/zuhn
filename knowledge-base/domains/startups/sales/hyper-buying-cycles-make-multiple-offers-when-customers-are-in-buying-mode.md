@@ -45,10 +45,9 @@ stance: >-
   pushy.
 related:
   - INS-260329-C0F1
-  - INS-260324-1275
   - INS-260330-376E
   - INS-260403-754F
   - INS-260403-7E7C
-  - INS-260403-1BD8
+  - INS-260327-07C9
 ---
 Hormozi discovered that gym prospects who rejected fitness services would attend a free nutrition seminar and spend more than those who bought gym memberships. The same problem (weight loss) had multiple solution paths. He extends this to any purchase: someone buying marathon running shoes naturally needs socks, shorts, tank tops, an app, hydration gear, and coaching. The business owner who fears being 'pushy' is actually leaving money on the table while the customer buys those items elsewhere anyway. Each additional offer should still be evaluated through the Value Equation — what's the dream outcome, how do you reduce risk, speed, and effort. The key reframe: offers are a service to customers in buying mode, not an imposition.

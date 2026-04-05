@@ -52,9 +52,7 @@ related:
   - INS-260330-4DC5
   - INS-260327-691F
   - INS-260330-AC34
-  - INS-260330-28BE
   - INS-260330-AB38
-  - INS-260403-BADD
 ---
 Normal perception relies on environmental scaffolding: gravity provides up/down, the horizon provides scale, day/night provides time, and familiar objects provide size reference. Remove these (as in deep space), and perception destabilizes in revealing ways.
 

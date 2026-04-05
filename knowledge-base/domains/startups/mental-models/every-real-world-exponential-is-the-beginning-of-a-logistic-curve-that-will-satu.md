@@ -53,7 +53,6 @@ stance: >-
   point falls.
 related:
   - INS-260330-9346
-  - INS-260330-D41A
   - INS-260330-8FE7
   - PRI-260403-CD44
   - INS-260330-1AB0
@@ -62,6 +61,7 @@ related:
   - INS-260330-AE66
   - INS-260330-FF5B
   - INS-260330-FED6
+  - INS-260330-8817
 evidence:
   - id: INS-260330-FF5B
     type: EXTENDS

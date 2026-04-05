@@ -52,7 +52,7 @@ related:
   - INS-260330-6620
   - INS-260330-B57C
   - INS-260330-885C
-  - INS-260330-3B73
+  - INS-260330-0C49
   - INS-260330-14BD
 ---
 The backwards bicycle changed exactly one variable: the mapping from handlebar direction to wheel direction. Every other aspect — pedaling, balance, gyroscopic forces, body lean — remained identical. Yet this single change rendered the entire skill of bicycle riding completely inoperative for every person who attempted it. No one could 'power through' the change or adapt in real-time. This reveals that procedural skills are not modular — they are tightly coupled control systems where each component is co-adapted to every other. Changing one variable doesn't degrade performance proportionally; it collapses the system entirely. This principle applies broadly: in software systems, organizational processes, and muscle memory, what appears to be a minor change to one component can cascade into total system failure because the components are co-dependent in ways that aren't visible from the outside.

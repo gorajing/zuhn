@@ -78,6 +78,9 @@ evidence:
   - id: INS-260329-3E3A
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-EEAF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The avoider can't look at their bank account. Research from Sages & Grayel shows people scoring high in financial avoidance save less, carry more high-interest debt, delay retirement planning, and experience higher financial stress. Saying 'finances aren't my thing' is self-handicapping — an ego protector, not an honest assessment.
 

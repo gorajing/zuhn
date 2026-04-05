@@ -44,6 +44,7 @@ stance: >-
   because pre-launch building is based on untested assumptions
 related:
   - INS-260327-C54D
+  - INS-260327-2386
   - INS-260328-C12D
   - INS-260329-A4CA
   - INS-260330-7C05

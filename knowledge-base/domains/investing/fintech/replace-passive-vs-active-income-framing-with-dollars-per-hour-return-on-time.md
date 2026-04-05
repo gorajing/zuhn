@@ -53,20 +53,17 @@ related:
   - INS-260404-FF84
 evidence:
   - id: INS-260322-FD23
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-6BFC
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-E2D0
-    type: REFINES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-0102
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-D4BC
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260403-43E5
+    relationship: RELATED
 ---
 Hormozi argues that passive vs active income is a spectrum, not a binary. Everyone trades time for money — the only question is your return per hour. The practical mistake most people make is diverting money from high-return active work into speculative passive investments. Instead, calculate your actual dollars-per-hour (annual income / 2000 for work hours, or / 8000 for all waking hours), then aggressively allocate more time to anything that exceeds that rate.
 

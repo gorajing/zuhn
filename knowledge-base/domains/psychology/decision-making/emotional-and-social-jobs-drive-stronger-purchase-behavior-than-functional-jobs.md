@@ -50,10 +50,9 @@ stance: >-
 related:
   - INS-260403-B87D
   - INS-260403-0D90
-  - INS-260403-6D0D
   - INS-260404-D1E2
-  - INS-260329-EC98
   - INS-260329-CD64
+  - INS-260330-FE9E
 ---
 When teams catalog customer jobs, they overwhelmingly list functional tasks — the visible, tangible things customers are trying to accomplish. But customers also have social jobs (impressing a boss, signaling status) and emotional jobs (feeling healthier, reducing anxiety) that are less visible but often more powerful drivers of behavior.
 

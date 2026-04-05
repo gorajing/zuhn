@@ -52,7 +52,6 @@ stance: >-
   superior alternatives that arrive too late to displace the incumbent's network
   effects
 related:
-  - INS-260327-4A10
   - INS-260327-4153
   - INS-260330-09DE
   - INS-260330-39B0

@@ -57,17 +57,13 @@ related:
   - INS-260405-C342
 evidence:
   - id: INS-260330-C418
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-413D
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260330-41F6
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-C607
+    relationship: RELATED
   - id: INS-260405-C342
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Biological manufacturing operates under constraints that would be considered impossible in engineering: room temperature, locally available materials (food, water, air), zero waste, and self-repair. Yet biology produces structures of greater complexity than anything humans have built.
 

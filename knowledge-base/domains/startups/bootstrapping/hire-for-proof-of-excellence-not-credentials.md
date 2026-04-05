@@ -42,11 +42,11 @@ resolutions:
     cultural fit screening, this created a self-reinforcing loop where
     high-quality, low-ego people attracted more of the same.
 related:
-  - INS-260322-116B
+  - INS-260325-D19B
   - INS-260330-0346
   - PRI-260328-E870
   - INS-260323-F2C3
-  - INS-260325-D19B
+  - INS-260326-7B2A
   - INS-260404-AE2E
 stance: >-
   ElevenLabs hired from non-traditional backgrounds by looking for proof of

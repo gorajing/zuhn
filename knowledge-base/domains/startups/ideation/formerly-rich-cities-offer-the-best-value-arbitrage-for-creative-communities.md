@@ -47,12 +47,12 @@ stance: >-
   conditions per dollar than places that were always cheap, creating natural
   magnets for the risk-tolerant people who start companies.
 related:
-  - INS-260330-0AD5
   - INS-260403-3F9C
   - PRI-260328-EAC4
   - INS-260327-1ACE
   - INS-260329-6BE8
   - INS-260403-F66F
+  - PRI-260324-D701
 ---
 Graham identifies a specific real estate arbitrage: always-rich places are nice but expensive, always-poor places are cheap but grim, but formerly-rich-now-poor places have solid buildings and infrastructure at low prices. Pittsburgh's century-old architecture from its steel-era wealth creates 'palaces for cheap.'
 

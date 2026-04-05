@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260327-38F0
   - INS-260403-AEAF
-  - INS-260404-37BB
   - INS-260327-F7C0
   - INS-260327-2A58
+  - INS-260330-D5BD
 ---
 Generalist fast-food chains lose market share to specialists in every category because consumers increasingly prefer the best option in each specific cuisine rather than acceptable options across many.
 

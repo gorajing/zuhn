@@ -45,15 +45,15 @@ stance: >-
   structures rather than designing bespoke monolithic solutions
 related:
   - INS-260320-5B49
-  - INS-260322-F46F
-  - INS-260327-956D
   - INS-260329-C031
   - INS-260329-4F8C
+  - INS-260329-0F06
   - INS-260329-94E6
-  - INS-260329-DFDB
+  - INS-260329-003B
   - INS-260329-8181
   - INS-260329-5D8A
-  - INS-260329-8F86
+  - INS-260325-898A
+  - INS-260329-AE09
 evidence:
   - id: INS-260322-F46F
     type: SUPPORTS

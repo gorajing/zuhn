@@ -57,9 +57,8 @@ related:
   - INS-260330-B061
   - INS-260404-AC1D
 evidence:
-  - id: INS-260330-9231
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260404-D0A5
+    relationship: RELATED
 ---
 Photosystem II performs the remarkable feat of splitting water (H2O) using solar energy, producing the oxygen we breathe as a 'useless byproduct' while extracting electrons to power the rest of the energy chain. This single reaction is the bottleneck through which virtually all biological energy on Earth must pass — every food chain, every ecosystem, every breath traces back to PSII.
 

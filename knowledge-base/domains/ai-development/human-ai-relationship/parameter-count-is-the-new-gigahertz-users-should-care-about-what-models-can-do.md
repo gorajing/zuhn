@@ -52,15 +52,12 @@ stance: >-
   The obsession with parameter counts mirrors the 1990s gigahertz race — what
   matters is end-user utility, not raw numbers.
 evidence:
-  - id: INS-260330-C9FA
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260404-44A4
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+  - id: INS-260330-A9DD
+    relationship: RELATED
+  - id: INS-260404-5882
+    relationship: RELATED
   - id: INS-260404-2B4C
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Altman draws a direct analogy between the AI community's fixation on parameter counts and the processor gigahertz wars of the 1990s-2000s. Nobody knows or cares about their phone's clock speed today; they care about what it can do. Similarly, the path to better AI performance doesn't always run through bigger models — it runs through whatever delivers the most value to users.
 

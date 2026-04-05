@@ -14,11 +14,8 @@ tags:
   - prioritization
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,11 +47,11 @@ stance: >-
 related:
   - INS-260329-3E3A
   - INS-260403-DF7F
-  - INS-260403-E393
-  - INS-260403-054F
-  - INS-260403-2247
-  - INS-260403-4A4A
-  - INS-260403-DAB4
+  - INS-260403-0701
+  - INS-260403-97DB
+  - INS-260403-8D2C
+  - INS-260403-C8B9
+  - INS-260403-6982
   - INS-260403-B4B9
   - INS-260404-BD46
   - INS-260404-FF0B

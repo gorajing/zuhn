@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 382 insights
+> 358 insights
 
 - `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
@@ -9,8 +9,6 @@
 - `INS-260327-F84E` [high] Russia's quest for warm-water ports has driven its foreign policy from Peter the Great to Putin — the geographic constraint persists regardless of ideology or regime type.
 - `INS-260327-3D4D` [high] Belisarius defended Rome against 50,000 Goths with 5,000 men by launching constant sorties that kept the Goths off balance and unable to press their numerical advantage.
 - `INS-260327-7315` [high] Austria's Archduke Charles reformed the Austrian army by copying Napoleon's corps system, which enabled Austria to defeat Napoleon at Aspern-Essling.
-- `INS-260327-D25D` [high] Christianity spread across the Roman Empire's road network, administrative structure, and urban hierarchy — then outlasted the empire itself by inheriting its institutional infrastructure.
-- `INS-260322-415E` [high] Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
 - `INS-260321-CBD2` [high] Unlike the dot-com era, AI capex is financed by the most profitable companies in history and there are 'no dark GPUs' (every deployed GPU gets fully utilized immediately), but private credit entering the data center buildout and Oracle's massive cash-flow-negative bet are early warning signals.
 - `INS-260321-4B99` [high] Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
 - `INS-260325-4C16` [high] Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
@@ -41,16 +39,13 @@
 - `INS-260327-5DD3` [high] Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
 - `INS-260325-854D` [high] China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
 - `INS-260323-E214` [high] The biggest misconception about China's economy is that it is centrally commanded — in reality, local mayors and provincial governors drive reform and innovation in a fiercely competitive decentralized system.
-- `INS-260330-BBCF` [high] Since China's 2001 WTO entry, manufacturing value-added flipped from US at 2x China to China at 2x US — a structural shift in hard power.
 - `INS-260325-A19C` [high] TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
 - `INS-260327-40FC` [high] Napoleon crossed the Alps in spring — considered impossible by conventional military wisdom — arriving in the Austrian rear before they knew he was coming.
 - `INS-260327-98B1` [high] Themistocles lured the Persian fleet into the narrow straits of Salamis where their numerical advantage became a liability.
-- `INS-260325-793A` [high] The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
 - `INS-260327-A00A` [high] Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
 - `INS-260327-619F` [high] European powers drew Middle East borders ignoring ethnicity, language, and religion, creating artificial states with built-in instability that persists generations later as every internal faction contests state legitimacy.
 - `INS-260327-F484` [high] Britain and France's Suez intervention failed not militarily but politically — the US threatened financial pressure and Britain was forced to withdraw, revealing it could no longer act independently.
 - `INS-260327-AA2C` [high] Belisarius's key innovation was integrating heavy cavalry, mounted archers, and infantry into coordinated tactics that no opponent could counter with any single approach.
-- `INS-260330-43FF` [high] Commodity price charts correlate strongly with political instability in the developing world — the Arab Spring and post-Ukraine spikes both preceded widespread unrest.
 - `INS-260323-9E67` [high] In deep geopolitical conflicts, each side constructs an internally coherent narrative from the same historical facts — and these narratives are often mutually exclusive.
 - `INS-260327-2356` [high] Alexander's army conquered from Greece to India but grew increasingly mutinous the further they marched from home — his own soldiers eventually refused to go further.
 - `INS-260327-CE05` [high] When 69% of GDP comes from consumer spending and that spending is increasingly debt-funded, GDP growth measures debt accumulation rather than genuine economic health.
@@ -60,7 +55,6 @@
 - `INS-260330-6DE0` [high] Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
 - `INS-260330-F79F` [high] Currency pegs that overvalue the local currency create a doom loop where black market exchange rates drain official reserves faster.
 - `INS-260330-5EE9` [high] North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
-- `INS-260327-8B9A` [high] At Vitoria, the French army collapsed into chaos when its retreat route was threatened, abandoning enormous stores of loot and equipment.
 - `INS-260327-9BE8` [high] De-dollarization by China and Russia is selective and gradual -- reducing dollar use where politically necessary while maintaining it where convenient -- making sudden dollar collapse unlikely but slow erosion real.
 - `INS-260327-4775` [high] As the Abbasid Caliphate politically fragmented, Islamic civilization actually flourished more because independent courts competed to attract scholars and the trade networks persisted without centralized control.
 - `INS-260326-6C36` [high] The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
@@ -89,7 +83,6 @@
 - `INS-260327-C834` [high] The economy hasn't collapsed despite tariff whiplash, mass firings, and regulatory chaos because large systems have enormous inertia.
 - `INS-260330-A3D9` [high] Russia subsidizes 300+ economically dead monotowns because their real output is political compliance, not goods.
 - `INS-260327-64A5` [high] Napoleon's empire required continuous military victories to maintain legitimacy — the moment he suffered a major defeat (Russia 1812), the entire system began to unravel because it had no other foundation.
-- `INS-260327-F7FE` [high] Alexander's empire — the largest the world had seen — fragmented immediately upon his death into warring successor states because he built no institutions, only personal loyalty.
 - `INS-260327-8912` [high] Russia expanded massively under Catherine but maintained serfdom and autocratic governance — creating a vast empire with medieval institutions that would eventually collapse under its own contradictions.
 - `INS-260327-FBB4` [high] Justinian consistently underfunded Belisarius despite his victories, sending too few troops for him to hold conquered territory — winning battles but unable to consolidate gains.
 - `INS-260327-10E8` [high] When healthcare is tied to employment, every layoff and career transition creates a gap in medical coverage that directly increases mortality risk.
@@ -99,7 +92,6 @@
 - `INS-260327-8268` [high] Trafalgar gave Britain absolute naval supremacy that lasted 100 years — this single advantage compensated for Britain's small army and enabled its entire global empire.
 - `INS-260322-3646` [high] In VC, waiting 10-15 years for portfolio outputs to evaluate GP performance is dangerously slow — judge by deal-sourcing quality, win rate, and investment quality at the time of decision.
 - `INS-260321-3EC0` [high] When you invest in a country's stock market, you're placing a geopolitical bet on that country's future economic power relative to rivals — not just on individual companies.
-- `INS-260323-DA6F` [high] China's growth has historically been reform-driven: every major reform produced a decade of strong growth, and the current slowdown correlates directly with the slowing pace of reform over the past 15 years.
 - `INS-260327-19D2` [high] In Napoleonic warfare, line beat column (firepower), column beat disordered infantry (shock), and square beat cavalry — each formation optimized for one threat was vulnerable to another.
 - `INS-260327-C68B` [high] Each American crisis — Civil War, World Wars, Great Depression, Cold War, 9/11 — permanently expanded presidential power because emergency authorities were never fully relinquished.
 - `INS-260327-B038` [high] Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
@@ -111,12 +103,10 @@
 - `INS-260327-787C` [high] Napoleon gave kingdoms to his brothers and the cavalry command to his brother-in-law Murat — guaranteeing loyalty but placing people in roles beyond their strategic capability.
 - `INS-260327-8DAA` [high] The First Crusade succeeded despite enormous losses because crusader commitment was absolute, while Muslim defenders were divided between rival Seljuk and Fatimid factions.
 - `INS-260327-0D3C` [high] Farm bailouts flow disproportionately to the largest 7% of producers who receive 63% of assistance.
-- `INS-260327-0488` [high] Fast food sales plummeting during economic stress signals that consumer distress has reached the absolute bottom of the spending pyramid - the canary in the economic coal mine.
 - `INS-260327-97AD` [high] Themistocles sent a false message to Xerxes saying the Greeks were about to flee, which Xerxes believed because it confirmed what he wanted to hear.
 - `INS-260330-4150` [high] Great powers that spend more servicing debt than funding defense consistently lose their dominant position within a generation.
 - `INS-260327-236D` [high] Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.
 - `INS-260327-6ACA` [high] The US forced Britain to withdraw from Suez not through military threats but by threatening to collapse the pound sterling through selling reserves and blocking IMF support.
-- `INS-260327-FA38` [high] The Crusader States, despite being tiny and surrounded by enemies, survived for nearly 200 years because they fortified first and forced attackers to bear the enormous cost of siege warfare.
 - `INS-260327-714F` [high] Ken Griffin buying 17 oceanfront estates to build a $1B+ compound in Miami illustrates how Florida is systematically competing for billionaire residents through tax, legal, and political advantages.
 - `INS-260327-39FB` [high] Peter the Great modernized Russia by literally copying Western European technology, governance, and culture — but the speed and brutality of change created deep resistance from traditional Russian elites.
 - `INS-260327-004B` [high] 30 million Americans will retire by 2030 representing nearly a fifth of the labor force, with most having less than $250K in total assets.
@@ -125,7 +115,6 @@
 - `INS-260323-CF30` [high] Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from barbarity' warning mean that democratic freedoms degrade the moment each generation stops actively protecting them.
 - `INS-260323-6258` [high] Friedman and Schwartz's 12-year study proved the Great Depression was caused by a 30% drop in money supply due to Fed inaction — not by inherent capitalist failure as Keynesians argued.
 - `INS-260327-EF98` [high] 3.8% GDP growth coexists with record defaults and declining living standards because GDP increasingly measures wealthy economic activity - there are now more PE firms than McDonald's.
-- `INS-260327-4FD9` [high] Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.
 - `INS-260330-7DA5` [high] In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.
 - `INS-260327-A70C` [high] Over 5 years, formal unemployment dropped by 3 million while Uber drivers increased by 3 million - the jobs didn't improve, they just moved to a less visible category.
 - `INS-260321-9AB5` [high] Nearly 1 in 7 Americans already takes a GLP-1 drug, next-gen retatrutide enables a third of body weight loss with muscle sparing, and compounding pharmacies make these accessible at a fraction of cost — Huberman predicts over half of Americans will be on GLPs within 5 years.
@@ -147,8 +136,6 @@
 - `INS-260323-D41A` [high] Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.
 - `INS-260325-F5CA` [high] The same interconnections that create prosperity become transmission vectors for cascading collapse.
 - `INS-260327-33EA` [high] Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
-- `INS-260327-E7AC` [high] Russia didn't lose WW1 to Germany on the battlefield — it collapsed from within when its exhausted population and demoralized army revolted against the Tsar.
-- `INS-260330-C477` [high] China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260323-B1F5` [high] Iran fights conflicts exclusively through proxies (Hamas, Hezbollah, Houthis) rather than directly — recognizing this pattern is essential for predicting where regional conflicts will emerge.
 - `INS-260327-4046` [high] Job mobility has effectively frozen - companies aren't hiring, employees aren't quitting, and career progression has stalled across industries.
 - `INS-260327-7C4A` [high] Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
@@ -198,7 +185,6 @@
 - `INS-260327-891F` [high] The French Revolution cleared an entire generation of aristocratic officers from the army, opening the door for a 24-year-old Corsican to become a general.
 - `INS-260323-4473` [high] In business you solve a problem and move on; in political deal-making, the conclusion of one problem set is the beginning of an entirely new paradigm that must sustain itself.
 - `INS-260330-D429` [high] Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.
-- `INS-260327-F93A` [high] Canada's GDP grew while GDP per capita stagnated for a decade because population growth through immigration expanded the denominator, masking declining individual prosperity.
 - `INS-260323-8239` [high] National power is fundamentally a function of population size and wealth — both are required to build the military capability that ensures survival.
 - `INS-260323-B40C` [high] States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
 - `INS-260327-F389` [high] Napoleon's coup succeeded because he had both the popular fame that made opposition politically costly and enough insiders (Sieyes, Talleyrand) to open the institutional doors.
@@ -230,17 +216,14 @@
 - `INS-260327-5DD7` [high] The Abbasid revolution united Persian converts, non-Arab Muslims, Shia partisans, and discontented Arab tribes — each dissatisfied with Umayyad rule for different reasons — into an unstoppable coalition.
 - `INS-260327-994B` [high] At Cape St. Vincent, Nelson broke formation without orders to cut off the retreating Spanish fleet — a violation of procedure that created victory from what would have been an indecisive engagement.
 - `INS-260327-08E7` [high] The assassination of one archduke triggered a world war because rigid alliance commitments (Triple Alliance, Triple Entente) created automatic escalation from a local Balkan crisis to a continental conflict.
-- `INS-260330-CCE7` [high] The Indus Valley's possible collapse from earthquake-driven river course changes shows how a single infrastructure dependency can destroy an otherwise advanced civilization.
 - `INS-260325-DDEE` [high] Russia's geography defeats invaders by trading space for time — Napoleon, Hitler, and Charles XII all broke on the same strategic depth.
 - `INS-260325-6AD5` [high] The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
 - `INS-260327-0D82` [high] The Protocol of Sevres — Britain, France, and Israel's secret plan to stage an Israeli attack as pretext for Suez intervention — was exposed, creating far more damage than an open intervention would have.
 - `INS-260327-FDD0` [high] At Toulon, the 24-year-old Napoleon identified the one fort whose capture would force the British fleet to withdraw, while senior generals were planning futile frontal assaults on the harbor.
 - `INS-260327-3918` [high] Kennedy's deadline — 'land a man on the Moon before the decade is out' — mobilized $25B, 400,000 workers, and unprecedented innovation because the specificity and audacity of the goal demanded maximum effort.
-- `INS-260325-6262` [high] No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.
 - `INS-260327-50B6` [high] Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
 - `INS-260327-479C` [high] Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.
 - `INS-260330-0881` [high] China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
-- `INS-260322-B369` [high] Goldman's CEO identifies the current US macro environment as the sweetest spot in 40 years: fiscal stimulus, rate-cutting cycle, capital investment super cycle, and deregulatory unwind all happening simultaneously.
 - `INS-260330-7DB6` [high] A pandemic, Fed rate hikes, and the Ukraine war each individually would be significant — but hitting simultaneously creates non-linear damage because each shock removes the buffer against the others.
 - `INS-260327-8152` [high] The 1848 revolutions erupted across Europe simultaneously but each national movement pursued different goals and couldn't coordinate, allowing conservative governments to crush them one by one.
 - `INS-260327-E2F1` [high] The UK's few things working well are all concentrated in London, making national GDP look acceptable while the rest of the country structurally declines.
@@ -253,7 +236,6 @@
 - `INS-260327-A052` [high] The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
 - `INS-260327-CE65` [high] Russia's continental size made it unconquerable — Napoleon and later Hitler discovered that Russia could simply retreat, trading space for time until the invader exhausted themselves.
 - `INS-260330-51B1` [high] States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.
-- `INS-260327-02CF` [high] A hospital can't fill a doctor role at $80K and calls it a 'skills gap' when the actual gap is between what they're offering and what the market demands.
 - `INS-260327-504C` [high] Desaix marched to the sound of the guns at Marengo without orders, arriving at exactly the moment his counterattack could reverse the battle.
 - `INS-260327-A4BB` [high] The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.
 - `INS-260327-CB71` [high] Austrian relief armies in Italy were consistently hampered by supply difficulties through Alpine passes, while Napoleon's shorter supply lines from France gave him a logistical advantage.
@@ -278,10 +260,8 @@
 - `INS-260323-E204` [high] Pentagon officials write defense contracts, leave for defense contractor board seats, then return to government positions -- creating a self-reinforcing cycle where the people making war decisions directly profit from perpetuating war.
 - `INS-260327-99DF` [high] Ships of the line were so expensive that only a handful of European powers could afford significant fleets — naval power was inherently oligopolistic because of the capital barrier.
 - `INS-260327-E9FC` [high] Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.
-- `INS-260327-C910` [high] The petrodollar system creates a structural demand loop: countries buy oil in dollars, oil producers reinvest those dollars in U.S. assets, which keeps the dollar strong and perpetuates the cycle.
 - `INS-260327-2958` [high] Washington's voluntary decision to step down after two terms established a precedent that defined American democracy for 150 years — more powerful than any constitutional provision.
 - `INS-260327-3653` [high] 8.2 million job openings vs 7 million job seekers looks like a skills mismatch, but most unfilled positions simply pay below what the required skills command in the market.
-- `INS-260323-DF0F` [high] The Soviet Union didn't collapse primarily from ideological or economic failure — it was the last major European empire to disintegrate, driven by the rise of constituent nationalisms including Russian nationalism itself.
 - `INS-260323-9FCA` [high] Musk warns that China's economy will be 2-3x the US economy, creating the same Athens-vs-Sparta dynamic that led to the Peloponnesian War — a war both sides saw coming and couldn't prevent.
 - `INS-260323-7185` [high] Despite popular mythology, the US actively tried to keep the Soviet Union together through 1991 — the collapse created nuclear weapon concerns and destroyed a useful junior partnership.
 - `INS-260327-32BA` [high] Britain and France 'won' WW1 but emerged so devastated — financially, demographically, psychologically — that they were unable to maintain their empires or prevent the next war.
@@ -321,7 +301,6 @@
 - `INS-260327-A4D1` [medium] Half of Florida's top 10 billionaires now live in South Florida, creating a geographic concentration of wealth and political influence unprecedented in American history.
 - `INS-260329-A4CA` [medium] Bond markets drive political decisions faster than traditional diplomacy in the current environment
 - `INS-260327-AA3B` [medium] In 1916, both Germany (at Verdun) and Britain (at the Somme) attempted to win through attrition, resulting in 2 million+ casualties with no strategic change on either side.
-- `INS-260330-B7AB` [medium] DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260327-DC45` [medium] At Friedland, Napoleon attacked while the Russians had the Alle River at their backs, creating a situation where retreat was nearly impossible and destruction was total.
 - `INS-260330-CF10` [medium] Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
 - `INS-260322-823B` [medium] The convergence of GLP-1 normalization, declining medical trust, and biohacker culture is creating a 'Pharma 2.0' category where consumers self-direct injectable health optimization.
@@ -331,12 +310,10 @@
 - `INS-260403-3912` [medium] Stablecoins digitize the dollar's global reach, defending its reserve status against digital-native competitors.
 - `INS-260330-8F72` [medium] Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260327-9CAD` [medium] Bunker Hill was technically a British victory but it taught the Americans they could fight regulars and taught the British nothing about how to actually win the war.
-- `INS-260330-0AD5` [medium] A stagnant developed country gains developing-country cost advantages while retaining first-world infrastructure and institutions, creating unique investment opportunity.
 - `INS-260323-5B36` [medium] El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260327-0048` [medium] Napoleon's Egyptian expedition was a military failure but the 160 scientists he brought produced the Description de l'Egypte, founding modern Egyptology and the Rosetta Stone discovery.
 - `INS-260327-3FC7` [medium] Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
 - `INS-260327-E4A1` [medium] HMS Victory was enormously expensive to build and maintain but as Nelson's flagship at Trafalgar, it became a symbol of British naval power that generated value far beyond its material contribution.
-- `INS-260330-9BC4` [medium] Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
 - `INS-260330-97B3` [medium] Clear, credible 'cross this line and I'll hit you' deterrence often outperforms nuanced diplomatic strategies in preventing adversary escalation.
 - `INS-260403-8E25` [medium] The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
 - `INS-260327-1A9C` [medium] Rome's symbolic importance forced the Goths to commit their entire army to besiege it for over a year, while Belisarius needed only a small garrison to tie down 50,000 troops.
@@ -355,7 +332,6 @@
 - `INS-260327-60FB` [medium] 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
 - `INS-260327-E30A` [medium] Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-EF74` [medium] Nations hosting major tech platforms gain disproportionate geopolitical leverage because these companies wield both financial and cultural influence globally.
-- `INS-260330-516E` [medium] Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
 - `INS-260330-6AED` [medium] The leading theory for the Indus Valley's collapse is that the Indus River shifted course, destroying the agricultural base of an otherwise advanced civilization.
 - `INS-260330-E082` [medium] Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
 - `INS-260330-A418` [medium] Of the 100,000 manufacturing steps for high-end semiconductors, the fab is just one — downstream testing, packaging, and integration are more critical and more neglected.

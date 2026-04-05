@@ -53,11 +53,11 @@ stance: >-
   because the cost of wholesale replacement exceeds the cost of compensating for
   inefficiency, making incremental workarounds the rational default.
 related:
-  - INS-260403-8CD3
   - INS-260403-2457
-  - INS-260403-1110
   - INS-260403-D482
   - INS-260404-1D8F
+  - PRI-260403-C34A
+  - INS-260404-4010
   - INS-260403-F234
 evidence:
   - id: INS-260330-C02D

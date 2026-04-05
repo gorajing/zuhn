@@ -59,7 +59,7 @@ related:
   - INS-260330-0C49
   - INS-260330-B57C
   - INS-260330-6620
-  - INS-260330-3B73
+  - INS-260330-0930
 ---
 Bicycle riding involves the simultaneous coordination of pedal force, body lean, handlebar input, gyroscopic effects, and balance corrections. Destin's key observation is that reversing just one variable (steering direction) doesn't create a proportionally small challenge — it breaks the entire system. No one at any of his demonstrations could ride even 10 feet.
 

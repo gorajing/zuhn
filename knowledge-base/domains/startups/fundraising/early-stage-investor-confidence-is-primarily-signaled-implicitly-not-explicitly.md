@@ -16,11 +16,8 @@ tags:
   - credibility
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -62,7 +59,7 @@ related:
   - INS-260330-15AE
   - INS-260330-3899
   - INS-260403-4337
-  - INS-260403-DE45
+  - INS-260403-915E
 ---
 Graham identifies a counterintuitive asymmetry in how confidence registers with investors. Explicit statements like 'we're passionate' or 'our product is great' don't just fail — they actively damage credibility by triggering the audience's bullshit filter. Yet confidence is simultaneously the single biggest piece of evidence investors use when evaluating early startups they can't fully assess technically.
 

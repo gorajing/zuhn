@@ -45,11 +45,9 @@ stance: >-
   great are fundamentally unpatentable, making design talent a stronger
   competitive moat than any patent portfolio.
 related:
-  - INS-260330-C7DB
   - INS-260402-0A49
   - INS-260402-1F58
   - INS-260403-35CB
-  - INS-260330-BA13
   - INS-260325-59D4
   - INS-260402-4605
   - INS-260403-9627

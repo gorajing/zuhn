@@ -50,7 +50,6 @@ stance: >-
   tight constraints rather than having unlimited resources, because constraints
   force novel thinking that abundance permits lazy solutions.
 related:
-  - INS-260325-BF84
   - INS-260325-F8B8
   - INS-260321-33FC
   - INS-260323-246F
@@ -58,6 +57,7 @@ related:
   - INS-260330-1DDE
   - PRI-260328-B11D
   - PRI-260328-04FA
+  - INS-260404-BE07
   - INS-260330-F2EB
   - INS-260330-DA4A
 evidence:

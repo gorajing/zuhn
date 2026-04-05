@@ -54,11 +54,11 @@ stance: >-
   Good developer tooling, documentation, and CI infrastructure benefit AI agents
   as much as human engineers, creating a compounding return on DX investment
 related:
-  - INS-260330-86F9
-  - INS-260327-1FA1
   - PRI-260328-8317
   - INS-260327-A9D5
   - INS-260325-E1FA
+  - INS-260326-2410
+  - INS-260325-D540
 evidence:
   - id: INS-260327-1FA1
     type: SUPPORTS

@@ -49,10 +49,10 @@ stance: >-
   the startup's development as the primary activity, not the other way around
 related:
   - INS-260330-6900
-  - INS-260330-DEBC
-  - INS-260404-9710
-  - INS-260404-B43A
-  - INS-260404-5721
+  - INS-260403-0680
+  - INS-260405-092A
+  - INS-260403-47B7
+  - INS-260403-1DB7
 evidence:
   - id: INS-260329-9A30
     type: SUPPORTS

@@ -54,10 +54,11 @@ stance: >-
   bias from self-criticism and external skepticism.
 related:
   - PRI-260325-45A2
+  - INS-260403-F1C6
   - INS-260403-B7E3
   - INS-260403-222E
-  - INS-260404-2135
   - INS-260330-FB5A
+  - PRI-260403-50EF
 ---
 Intuitively, perfectly accurate self-assessment should be optimal. But this ignores that the environment is not neutral — early-stage creators face systematic downward pressure from their own harsh self-judgment and from external skepticism. In this environment, a slight positive bias in self-assessment doesn't produce miscalibration; it corrects for existing miscalibration.
 

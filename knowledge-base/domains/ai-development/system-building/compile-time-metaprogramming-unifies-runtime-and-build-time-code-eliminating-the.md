@@ -59,14 +59,11 @@ stance: >-
   C++-template-level optimizations using normal Python-style code.
 evidence:
   - id: INS-260329-1ACD
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260329-9311
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-D48B
+    relationship: RELATED
   - id: INS-260330-202A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Lattner identifies the fundamental problem with Python+C codebases: the API layer is Python but the performance layer is C/C++, requiring developers to maintain two completely different mental models and toolchains. Mojo solves this by embedding the interpreter inside the compiler — the same code that runs at runtime can execute at compile time for metaprogramming. This draws from Lisp's insight that 'the metaprogramming and the programming should be the same' but applies it to systems-level performance.
 

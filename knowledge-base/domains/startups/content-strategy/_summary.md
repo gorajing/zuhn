@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 37 insights
+> 38 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260329-127F` [high] Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
@@ -28,6 +28,7 @@
 - `INS-260404-875B` [high] Apply a sentence-level filter: if you wouldn't say it to a friend, rewrite it until you would.
 - `INS-260329-D212` [high] Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
 - `INS-260329-0F10` [high] The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
+- `INS-260405-6BC4` [high] Individual creators who expose their reasoning methodology earn more trust than institutional brands hiding behind mastheads.
 - `INS-260329-3332` [high] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
 - `INS-260330-CDE1` [medium] Shapiro's practice of maintaining a public list of his own bad takes, combined with deliberately holding positions his audience dislikes, creates a structural defense against the audience capture that degrades most media platforms.
 - `INS-260329-409F` [medium] You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.

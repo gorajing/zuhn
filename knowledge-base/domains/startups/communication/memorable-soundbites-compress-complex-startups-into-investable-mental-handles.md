@@ -14,11 +14,8 @@ tags:
   - memorability
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -53,13 +50,17 @@ related:
   - INS-260327-B034
   - INS-260327-CFE5
   - INS-260403-C228
-  - INS-260404-3212
-  - INS-260404-6EB8
   - INS-260403-0AF4
-  - INS-260403-D375
-  - INS-260404-D8C7
+  - INS-260404-6EB8
+  - INS-260404-A526
   - INS-260404-8D37
   - INS-260404-756D
+  - INS-260403-D430
+  - INS-260403-21C4
+evidence:
+  - id: INS-260327-CFE5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham argues that the first cut in fundraising is simply being remembered. After dozens of pitches, investors retain only a few, and a sticky descriptive phrase acts as a cognitive handle that survives the forgetting curve. Viaweb's 'the Microsoft Word of ecommerce' compressed a complex product into an instantly graspable analogy.
 

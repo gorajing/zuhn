@@ -58,14 +58,11 @@ related:
   - INS-260329-90C3
 evidence:
   - id: INS-260329-26AC
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260329-5AC5
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-CD38
+    relationship: RELATED
   - id: INS-260330-0102
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 The tutorial spans from 'installing a compiler' to 'pointers and file I/O' in one continuous session. This design exploits completion bias — once learners have invested time in a resource, sunk-cost psychology and progress-bar motivation push them to finish. A learner who completes the first hour of a 3.75-hour tutorial is psychologically primed to continue, whereas the same learner facing 'Part 1 of 10' in a playlist might stop after part 3.
 

@@ -63,23 +63,17 @@ stance: >-
   humans in modern environments develop chronic disease because the environ...
 evidence:
   - id: INS-260330-CA97
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260323-7D90
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260330-3BB5
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-8BA6
+    relationship: RELATED
   - id: INS-260326-0894
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260325-6DD8
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260325-A9E0
+    relationship: RELATED
   - id: INS-260325-DFA5
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Animals in the wild rarely get chronic diseases. Put them in a zoo and they become obese, depressed, develop strange behaviors, and in some cases even kill themselves. The insight: an organism's health is a reflection of its environment's health, not the organism's willpower.
 

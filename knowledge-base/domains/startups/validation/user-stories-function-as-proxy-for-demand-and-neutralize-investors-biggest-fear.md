@@ -16,11 +16,8 @@ tags:
   - investor-psychology
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -57,13 +54,13 @@ related:
   - INS-260322-A02C
   - INS-260323-5F8A
   - INS-260330-70BF
+  - INS-260330-3AF9
   - INS-260330-5EB6
   - INS-260402-ED85
   - INS-260402-841D
   - INS-260403-6890
   - INS-260403-5441
   - INS-260403-12FD
-  - INS-260403-9173
 ---
 Graham surfaces Sequoia's concept of 'proxy for demand': what are people doing now, using inadequate tools, that proves they need what you're making? This reframes user stories from narrative decoration into hard evidence. Three escalating tiers of proof emerge: people paying a lot for inferior alternatives (economic proxy), needs of people you know personally (social proof), and the founders' own need (the strongest signal, since Apple, Microsoft, Yahoo, and Google all grew from founders scratching their own itch).
 

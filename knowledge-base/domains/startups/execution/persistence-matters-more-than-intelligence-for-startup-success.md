@@ -40,6 +40,7 @@ stance: >-
   Founders who sustain effort through prolonged adversity outperform founders
   with higher raw intelligence who give up earlier.
 related:
+  - INS-260327-7846
   - PRI-260328-0C86
   - INS-260328-68BA
   - INS-260329-557C

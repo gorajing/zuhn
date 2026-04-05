@@ -8,23 +8,19 @@
 - `INS-260405-9F38` Optional subscriptions self-select for rational evaluators who keep comparing prices; mandatory ones commit everyone equally.
 - `INS-260404-ED19` Mandatory membership fees trigger stronger sunk-cost commitment than optional subscriptions because the buyer can't self-select out of the psychological lock-in.
 - `INS-260405-F1FD` Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
-- `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
-- `INS-260322-4B4A` There is no right answer in creative work, but there are people whose job it is to make their choices become the right answer through total commitment to execution.
 - `INS-260323-FC5B` Every love ends in death or divorce — so go all in, because the joy of full commitment vastly outweighs the guaranteed pain of eventual loss.
 - `INS-260330-1A55` In a study of 1,100 married people, 81% said they would remarry their current partner, which Fisher attributes to extended pre-commitment periods filtering incompatible matches.
-- `INS-260329-DFDD` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value the latter in each pair.
-- `INS-260329-9EFA` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value what you receive more than what you give up.
 - `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
+- `INS-260322-4B4A` There is no right answer in creative work, but there are people whose job it is to make their choices become the right answer through total commitment to execution.
 - `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
+- `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260403-9680` Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260329-E6C3` Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
 - `INS-260329-1FEE` Serial starters keep abandoning projects at the valley of despair and restarting with uninformed optimism — the fix is committing long enough for it to be unreasonable to still be bad.
-- `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260327-CA72` With no fallback options, fear stops paralyzing you and starts driving productive action.
-- `INS-260329-C91D` Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260402-9075` Most startups die not from bad decisions but from founders who never fully committed.
 - `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260323-422B` The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.

@@ -14,8 +14,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -49,14 +49,11 @@ related:
   - INS-260403-0DC2
   - INS-260404-57E3
 evidence:
-  - id: INS-260404-222A
-    type: EXTENDS
-    classified_at: '2026-04-05'
+  - id: INS-260405-4871
+    relationship: RELATED
   - id: INS-260404-6BA2
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-4780
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-5BBC
+    relationship: RELATED
 ---
 Conventional retail wisdom says more selection serves more customers. Costco inverts this: by stocking only 4,000 items (vs 30,000 at a typical supermarket or 140,000 at Walmart Supercenter), each product slot becomes enormously valuable to suppliers. Companies compete aggressively to be the one or two choices in their category, accepting lower margins and even reengineering products (like the cashew container that saved 24,000 pallets/year). This creates a virtuous cycle: fewer SKUs → more volume per SKU → stronger negotiating position → lower prices → higher renewal rates. The counterintuitive lesson is that constraint in selection can be a source of power rather than a limitation.

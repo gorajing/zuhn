@@ -48,11 +48,11 @@ stance: >-
   because tourism revenue can drop to near-zero overnight from a single security
   incident or pandemic.
 related:
-  - INS-260330-440E
-  - INS-260325-793A
   - INS-260325-3C17
-  - INS-260323-DF0F
   - INS-260327-D4D8
+  - INS-260325-6AD5
+  - INS-260403-C844
+  - PRI-260328-0993
 evidence:
   - id: INS-260330-440E
     type: TRANSFERS_TO

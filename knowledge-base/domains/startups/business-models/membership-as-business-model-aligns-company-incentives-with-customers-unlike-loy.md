@@ -17,8 +17,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -55,11 +55,11 @@ stance: >-
 related:
   - INS-260327-58AC
   - INS-260327-50CE
-  - INS-260404-37B5
-  - INS-260404-02A0
-  - INS-260403-0650
-  - INS-260404-E39D
   - INS-260404-B8AE
+  - INS-260404-EAA7
+  - INS-260405-48EC
+  - INS-260403-8757
+  - INS-260404-DD00
 ---
 Costco earns 75% of its profit from membership fees, not product margins. This creates a fundamentally different incentive structure than Amazon Prime or typical loyalty programs. Amazon Prime users self-select — each calculating whether the fee pays off — but Prime remains an add-on to Amazon's core margin-seeking model. Costco's model means every pricing decision is evaluated through the lens of 'will this make members renew?' rather than 'can we extract more margin here?' The result is a self-imposed 15% markup cap (vs. 24% at Walmart, 35% at Home Depot) that would be irrational under any other business model.
 

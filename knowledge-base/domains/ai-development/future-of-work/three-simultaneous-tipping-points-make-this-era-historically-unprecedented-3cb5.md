@@ -51,6 +51,8 @@ related:
   - PRI-260328-D292
   - INS-260325-0F4F
   - INS-260403-EFAF
+  - INS-260325-722C
+  - INS-260325-2906
 evidence:
   - id: INS-260325-0F4F
     type: SUPPORTS

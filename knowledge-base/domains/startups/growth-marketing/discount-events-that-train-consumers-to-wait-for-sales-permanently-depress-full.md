@@ -41,10 +41,10 @@ stance: >-
   drive any sales volume.
 related:
   - INS-260327-7BE4
-  - INS-260403-1C25
   - INS-260327-747B
   - INS-260404-8AE1
   - INS-260404-35F8
+  - INS-260327-CC35
 evidence:
   - id: INS-260327-747B
     type: SUPPORTS

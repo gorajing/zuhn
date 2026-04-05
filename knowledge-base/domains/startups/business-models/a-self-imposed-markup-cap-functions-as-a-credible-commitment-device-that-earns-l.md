@@ -17,8 +17,8 @@ tags:
   - brand
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -56,11 +56,12 @@ stance: >-
   pressure alone to keep prices low
 related:
   - INS-260327-6D57
+  - INS-260330-AF2B
+  - INS-260330-D071
   - INS-260404-C9B5
   - INS-260403-3F5F
   - INS-260404-41AA
-  - INS-260404-A193
-  - INS-260330-D071
+  - INS-260403-99DE
 ---
 Costco has a self-imposed rule: no item marked up more than 15% (14% for branded goods), yielding an average 11% markup versus Walmart's 24% or Home Depot's 35%. What makes this powerful is not just the low markup but its public, rule-based nature. Because customers know the cap exists, they don't need to comparison-shop — the constraint IS the trust signal.
 

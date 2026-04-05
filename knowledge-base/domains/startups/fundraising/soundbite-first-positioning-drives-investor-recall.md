@@ -14,11 +14,8 @@ tags:
   - communication
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -53,7 +50,7 @@ related:
   - INS-260326-3CDE
   - INS-260330-4AB1
   - INS-260403-B3A4
-  - INS-260403-D984
+  - INS-260403-941F
   - INS-260403-C5D8
   - INS-260403-FC45
   - INS-260404-C2BC

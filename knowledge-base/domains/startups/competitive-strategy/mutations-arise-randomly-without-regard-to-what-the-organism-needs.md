@@ -46,16 +46,16 @@ stance: >-
   Variation in evolving systems is undirected — what matters is not generating
   the right variation but having enough variation for selection to work on.
 related:
-  - INS-260323-5BEF
   - INS-260327-A44E
   - INS-260325-75A3
   - INS-260325-B067
-  - INS-260323-1670
   - INS-260330-FCFA
+  - INS-260405-AEA0
   - INS-260329-3FF3
   - INS-260330-E1CA
   - INS-260330-7DCF
   - INS-260330-43C9
+  - INS-260403-922C
 evidence:
   - id: INS-260327-A44E
     type: CONTRADICTS

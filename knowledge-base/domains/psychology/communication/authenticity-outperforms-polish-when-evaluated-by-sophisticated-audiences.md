@@ -15,11 +15,8 @@ tags:
   - trust
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -56,8 +53,8 @@ related:
   - INS-260403-0CA8
   - INS-260403-7586
   - INS-260330-43EE
-  - INS-260404-6388
   - INS-260403-DC64
+  - PRI-260403-52DF
 ---
 Graham's advice to not 'try to seem more than you are' rests on an asymmetry insight: experienced investors are better at detecting bullshit than technical founders are at producing it. This makes authenticity not just ethically correct but strategically optimal — the expected value of faking competence is negative.
 

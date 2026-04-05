@@ -53,10 +53,10 @@ related:
   - PRI-260324-3B70
   - INS-260327-DF8B
   - INS-260403-CBB0
-  - INS-260329-04FA
-  - INS-260325-B50B
+  - INS-260330-0FCC
   - INS-260325-001B
   - INS-260327-1B9A
+  - INS-260329-65CD
   - INS-260329-FA1C
   - INS-260329-20E8
 stance: Mathematical training isn't just about solving equations

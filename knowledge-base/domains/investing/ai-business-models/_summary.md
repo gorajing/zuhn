@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 46 insights
+> 41 insights
 
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
 - `INS-260323-1477` [high] Companies like OpenAI are secretly integrating classical symbolic tools (code interpreters, Python) while telling investors they're just scaling neural networks.
@@ -9,13 +9,11 @@
 - `INS-260322-5790` [high] AI model input costs have declined 99%+ in two years (faster than Moore's law) while quality doubles every 7 months — meaning today's thin margins on AI apps will likely expand dramatically as long as model competition persists.
 - `INS-260327-9431` [high] For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
 - `INS-260322-6DFC` [high] Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
-- `INS-260323-7B63` [high] AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
 - `INS-260327-6B02` [high] Data center buildouts provide tens of thousands of high-paying jobs and stock market gains drive consumer spending, making the AI economy self-sustaining regardless of whether AI delivers on its promises.
 - `INS-260327-16A1` [high] $400B+ in annual AI data center spending provides jobs and wealth effects that sustain the economy, while simultaneously building the automation infrastructure that threatens those same jobs.
 - `INS-260323-F753` [high] Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260323-750A` [high] Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
 - `INS-260329-3AE5` [high] AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
-- `INS-260329-C754` [high] Cloud's on-demand/spot/reserved pricing tiers create an economic moat for startups that can optimize compute costs without upfront capital.
 - `INS-260327-3A81` [high] If AI fails we lose jobs from the economic collapse of wasted investment; if AI succeeds we lose jobs from automation - the economy has placed an irreversible bet on a technology whose success and failure both lead to displacement.
 - `INS-260327-A22D` [high] After weeks of dialing in AI agents on Claude, enterprises would rather pay more for tokens than invest in requalifying a different model.
 - `INS-260327-E1EB` [high] OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
@@ -32,7 +30,6 @@
 - `INS-260327-643C` [high] Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260326-6B98` [high] AI investing requires picking winners not sectors because the aggregate bet looks terrible while the best companies grow at rates that break all models.
 - `INS-260327-EA4E` [high] Facebook and Google built genuine data moats through organic adoption and network effects, but consumer startups that spent millions on paid acquisition to 'collect data' never achieved the same compounding advantage because their data was purchased, not earned.
-- `INS-260327-3B91` [high] The market has indiscriminately punished all software stocks, but moat-rich companies like Atlassian are being massively oversold while moat-poor ones like Monday may be fairly priced.
 - `INS-260327-33E0` [high] Bezos' $100B fund is the 'buy Walmart' play of the AI era — lower upside than building from zero but accessible to billionaires who have more money than time.
 - `INS-260322-C472` [high] For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260327-DBAD` [high] A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
@@ -46,5 +43,3 @@
 - `INS-260322-B641` [medium] In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260330-6411` [medium] ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
 - `INS-260329-196A` [medium] Small business acquisitions offer cash-flow returns with negotiable terms that public markets cannot match.
-- `INS-260402-180C` [medium] Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
-- `INS-260330-F9CA` [medium] Facebook scrapped WhatsApp's $1/year fee because a user's behavioral data, contact graph, and cross-platform identity linkage is worth far more than $1 annually to an advertising network.

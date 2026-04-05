@@ -49,14 +49,14 @@ stance: >-
 related:
   - INS-260322-CFB1
   - INS-260321-E654
+  - INS-260321-4B38
   - INS-260327-E2BC
   - INS-260327-F477
-  - INS-260327-D570
   - INS-260327-39D4
   - INS-260328-02A0
   - INS-260330-D99D
+  - INS-260330-B5DF
   - INS-260330-5043
-  - INS-260330-3E6B
 ---
 Graham uses the metaphor of a frozen pond: early tech startups could only emerge at the edges (pure tech companies), but as the 'ice crust' of consolidated industries weakens, startups punch right through the middle — displacing retailers (Amazon), TV networks (Netflix), and car companies (Tesla). This is why calling these 'tech companies' is somewhat misleading; they're really traditional industry companies that win through superior technology.
 

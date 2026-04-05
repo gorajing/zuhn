@@ -1,16 +1,12 @@
 # Topic: product-strategy
 
-> 62 insights
+> 54 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 - `INS-260403-EAF7` [high] Solve the real problem and deliberately ignore peripheral concerns that seem important but aren't.
-- `INS-260403-6D0D` [high] Deliberately choose which customer jobs, pains, and gains you will NOT address.
 - `INS-260330-766D` [high] Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260404-0CA7` [high] Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
-- `INS-260403-31AF` [high] Oxygen — the gas that enabled all animal life — was originally just a waste product of early photosynthesis.
-- `INS-260330-0CFF` [high] Oxygen was a 'useless byproduct' of photosynthesis that accidentally enabled all animal life — the most consequential output was the one nobody designed for.
-- `INS-260330-41F6` [high] Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value.
 - `INS-260330-13A1` [high] Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
 - `INS-260403-FB4D` [high] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 - `INS-260403-204E` [high] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
@@ -39,14 +35,10 @@
 - `INS-260404-A9D0` [high] Bid-times-conversion ranking resolves the monetization-vs-quality trade-off by making them the same objective function.
 - `INS-260403-FCA6` [high] Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
 - `INS-260403-D4EA` [high] Fast iteration beats careful planning only when the medium allows cheap revision.
-- `INS-260330-118D` [high] Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.
 - `INS-260330-62D6` [high] Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
 - `INS-260330-7168` [high] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
 - `INS-260403-5C06` [high] NFX's 5-level AI spectrum shows most founders default to AI enhancement (L1-3) rather than pursuing AI-first products (L4-5) where transformative value lives.
 - `INS-260403-B73A` [high] When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
-- `INS-260403-76EE` [high] Oxygen — the gas that enabled all complex animal life — is just a waste product of photosynthesis, not its purpose.
-- `INS-260330-9231` [high] Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth.
-- `INS-260404-8E0B` [high] Oxygen — the molecule enabling all animal life — is just a waste product of photosynthesis, which exists to make glucose for plants.
 - `INS-260403-C4CD` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260403-FDD8` [high] Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.

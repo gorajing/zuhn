@@ -48,12 +48,10 @@ stance: >-
   impact survival.
 related:
   - INS-260323-BEE6
-  - INS-260330-9A83
   - INS-260404-CC79
-  - INS-260330-BC3E
   - INS-260325-3306
-  - INS-260330-24BA
   - INS-260330-713C
+  - INS-260323-099F
 evidence:
   - id: INS-260323-BEE6
     type: TRANSFERS_TO

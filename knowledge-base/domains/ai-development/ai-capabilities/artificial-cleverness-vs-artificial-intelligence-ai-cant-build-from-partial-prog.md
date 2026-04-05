@@ -46,6 +46,7 @@ related:
   - INS-260327-9BA2
   - INS-260329-FCD3
   - INS-260330-1118
+  - INS-260330-FBC0
 stance: >-
   AI has artificial cleverness (trial and error at scale) but not artificial
   intelligence (building cumulatively from partial progress, adapting stra...

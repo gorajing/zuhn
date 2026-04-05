@@ -43,10 +43,10 @@ stance: >-
   industry can build defensible businesses because the combination of domain
   expertise and regulatory complexity creates natural barriers to entry.
 related:
-  - INS-260330-007E
   - INS-260329-B194
   - INS-260327-4440
   - INS-260327-889F
   - INS-260330-27E8
+  - INS-260329-9A8B
 ---
 When Tesla dealers told Susan she could not have a supercharger at home, she and her CTO figured out how to supercharge on existing lower infrastructure. This personal frustration became ChargePodX, which manufactures chargers that work on the infrastructure 80% of US small businesses already have — avoiding the 9-18 month infrastructure upgrade timeline. The defensibility comes from hardware expertise, regulatory knowledge, and fleet customer relationships that are extremely difficult for software-only startups to replicate.

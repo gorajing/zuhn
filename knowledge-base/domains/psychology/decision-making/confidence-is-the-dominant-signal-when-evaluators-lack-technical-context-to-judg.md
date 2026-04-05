@@ -16,11 +16,8 @@ tags:
   - heuristics
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -52,13 +49,12 @@ stance: >-
   presenter's apparent confidence becomes the primary evidence they use to form
   judgments.
 related:
-  - INS-260327-66AC
-  - INS-260403-4363
   - INS-260403-7586
-  - INS-260404-E6EA
-  - INS-260404-6388
   - INS-260404-37F7
-  - INS-260404-EBB3
+  - INS-260404-5017
+  - INS-260404-AFE6
+  - INS-260403-22FE
+  - INS-260404-0570
   - INS-260404-F965
 evidence:
   - id: INS-260327-66AC

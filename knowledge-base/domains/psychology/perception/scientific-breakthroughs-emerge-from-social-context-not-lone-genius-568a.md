@@ -48,15 +48,15 @@ stance: >-
   and collaborative networks rather than isolated genius.
 related:
   - INS-260323-825F
-  - INS-260402-2A1D
   - INS-260330-FBC0
   - INS-260330-8304
   - PRI-260328-9EC9
   - INS-260327-CFD5
+  - INS-260330-30DE
   - INS-260323-CD28
   - INS-260323-F540
   - INS-260323-1EEA
-  - INS-260327-98DE
+  - INS-260327-9377
 evidence:
   - id: INS-260323-825F
     type: CONTRADICTS
@@ -91,6 +91,9 @@ evidence:
   - id: INS-260330-AEF1
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-C592
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Sean Carroll argues that the 'great man theory' of science is misleading. Newton's inverse square law was simultaneously explored by Huygens, Hooke, and Wren — Newton was simply the most mathematically adept. Quantum mechanics was built by over two dozen contributors across decades. Even general relativity, Einstein's most individual achievement, built on Maxwell, Minkowski, and others.
 

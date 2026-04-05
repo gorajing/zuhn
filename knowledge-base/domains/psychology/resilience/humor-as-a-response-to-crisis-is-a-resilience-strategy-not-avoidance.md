@@ -49,11 +49,12 @@ stance: >-
   diagnosis) is an active resilience strategy that provides psychological
   distance and communal processing, not a form of denial or avoidance.
 related:
-  - INS-260327-8DFE
   - INS-260403-1547
   - INS-260330-5F6C
   - PRI-260328-39FA
   - INS-260326-8E6D
+  - INS-260330-E68E
+  - INS-260330-DD91
 evidence:
   - id: INS-260326-8E6D
     type: SUPPORTS

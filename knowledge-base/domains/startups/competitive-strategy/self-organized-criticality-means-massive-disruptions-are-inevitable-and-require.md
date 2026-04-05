@@ -51,7 +51,6 @@ resolutions:
     guarantees them by letting the system reach maximum criticality. The correct
     strategy is to allow and even encourage small, controlled disruptions.
 related:
-  - INS-260322-B369
   - INS-260403-7C67
   - INS-260403-1AD3
   - INS-260323-9772

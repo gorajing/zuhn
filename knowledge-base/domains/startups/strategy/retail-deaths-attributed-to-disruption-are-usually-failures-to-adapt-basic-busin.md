@@ -17,8 +17,8 @@ tags:
   - competitive-failure
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -56,9 +56,9 @@ related:
   - INS-260327-7D0B
   - INS-260404-3070
   - INS-260403-D8A2
-  - INS-260404-CD53
   - INS-260404-2839
   - INS-260405-7B7C
+  - INS-260404-96E6
   - INS-260405-C0AF
 evidence:
   - id: INS-260405-C0AF

@@ -1,17 +1,14 @@
 # Topic: growth-strategy
 
-> 63 insights
+> 59 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
 - `INS-260328-B57E` [high] Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260330-931A` [high] Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
-- `INS-260330-75A3` [high] Facebook built a community translation platform covering 104 languages instead of just translating the top 4, which prepared them for explosive growth in markets like Hindi that didn't matter at launch.
 - `INS-260323-CE9A` [high] Rella's CEO and co-founders still personally handle customer support — the number one compliment they receive is 'we can tell you actually listen to us.'
 - `INS-260327-B357` [high] Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
-- `INS-260329-1085` [high] Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
 - `INS-260329-4EF5` [high] When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
-- `INS-260329-E884` [high] If each customer pays enough in 30 days to cover their own acquisition cost plus the next customer's, growth becomes self-funding.
 - `INS-260329-AADB` [high] Structure offers so each customer pays back their acquisition cost within 30 days, turning customers into funding for the next customer.
 - `INS-260330-2ABC` [high] Coke's 'Cradle to grave' strategy paid schools $3,000/year for exclusive vending contracts, ensuring children became habitual consumers before they could make independent choices.
 - `INS-260323-8896` [high] Frederic Tudor broke through zero demand by giving bartenders free ice to make cocktails — once customers experienced cold drinks, they could never go back.
@@ -57,7 +54,6 @@
 - `INS-260404-D68E` [medium] VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
 - `INS-260330-73C1` [medium] The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
 - `INS-260330-D98E` [medium] Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
-- `INS-260329-8E48` [medium] High-frequency daily posting compresses the iteration cycles needed to find what resonates, dramatically shortening time-to-traction.
 - `INS-260329-3818` [medium] Give the first session free as a half-assessment, half-pitch that delivers one visible improvement, then ask for the commitment.
 - `INS-260329-563F` [medium] Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
 - `INS-260403-F327` [medium] Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.

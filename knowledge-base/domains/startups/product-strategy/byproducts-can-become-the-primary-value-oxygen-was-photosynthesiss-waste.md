@@ -49,12 +49,11 @@ stance: >-
   The most transformative output of a system is often a byproduct that the
   system's designer never intended to be the primary value
 related:
-  - INS-260403-EFE6
-  - INS-260404-0FEB
-  - INS-260403-76EE
-  - INS-260403-99CE
   - INS-260330-656A
   - INS-260405-C342
+  - INS-260330-2119
+  - INS-260404-E9F3
+  - INS-260403-FDD8
 evidence:
   - id: INS-260330-E786
     type: SUPPORTS

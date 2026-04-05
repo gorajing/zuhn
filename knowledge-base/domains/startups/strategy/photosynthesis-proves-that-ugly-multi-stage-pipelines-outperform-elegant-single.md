@@ -65,47 +65,33 @@ related:
   - INS-260403-6129
 evidence:
   - id: INS-260330-30FB
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-1084
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-E8CF
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-C456
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-1C1B
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-3082
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-5C36
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-F671
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-4D0E
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-1298
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-09F8
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260404-2A07
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-0214
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-DDB5
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260404-CDD2
+    relationship: RELATED
 ---
 Photosynthesis could theoretically convert sunlight directly into glucose in fewer steps. Instead, it uses a baroque pipeline: photon → excited electron → electron transport chain → proton gradient → ATP/NADPH → Calvin Cycle → G3P → glucose. Each stage has its own intermediate energy carrier and can be independently regulated.
 

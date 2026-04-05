@@ -53,13 +53,14 @@ stance: >-
   these superstimuli desensitize reward circuits while making their absence feel
   like deprivation.
 related:
-  - INS-260325-1585
+  - INS-260323-369C
   - INS-260330-A33E
   - PRI-260325-7A6B
   - INS-260403-E652
   - INS-260330-17C3
   - INS-260330-49AE
   - INS-260330-A9DD
+  - INS-260330-EC5E
 evidence:
   - id: INS-260325-1585
     type: TRANSFERS_TO

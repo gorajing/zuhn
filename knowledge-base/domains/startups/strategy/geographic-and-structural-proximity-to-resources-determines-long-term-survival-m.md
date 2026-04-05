@@ -54,12 +54,13 @@ stance: >-
   Strategic positioning near wealth, trade, and defensible geography matters
   more than raw power for organizational longevity
 related:
-  - INS-260327-FA38
   - INS-260327-2964
   - INS-260327-E382
   - INS-260327-65E7
   - INS-260327-8268
-  - INS-260330-E17D
+  - INS-260330-F158
+  - PRI-260328-7EA5
+  - INS-260330-66EF
 evidence:
   - id: INS-260327-FA38
     type: SUPPORTS

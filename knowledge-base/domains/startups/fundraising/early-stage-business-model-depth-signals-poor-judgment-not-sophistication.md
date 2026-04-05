@@ -14,11 +14,8 @@ tags:
   - fundraising
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -47,15 +44,15 @@ stance: >-
   founders who emphasize it as lacking awareness.
 related:
   - INS-260328-F752
+  - INS-260403-EE10
+  - INS-260403-0701
   - INS-260403-CEC0
-  - INS-260404-40D1
-  - INS-260404-4B69
-  - INS-260403-C625
-  - INS-260404-983E
-  - INS-260404-BD17
-  - INS-260404-9158
-  - INS-260404-93E3
+  - INS-260403-A172
+  - INS-260403-C8B9
+  - INS-260405-092A
   - INS-260405-D6B9
+  - INS-260404-93E3
+  - INS-260404-16E1
 ---
 A VC speaking at YC described investing in experienced founders whose business model he expected to change three times before they got it right. The business model at the early stage is just guesses about things outside the founders' expertise.
 

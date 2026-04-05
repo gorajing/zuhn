@@ -1,7 +1,6 @@
 # Tag: flexibility
 
 - `INS-260321-A56C` Generative AI can help with more tasks than past automation (more flexible) but takes over fewer tasks completely (less robust) — it's task-augmenting not task-replacing.
-- `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260330-8638` The arrow hits the target precisely because it flexes around the obstacle, not despite it.
 - `INS-260327-E8A4` Functional mobility training with 5 simple exercises maintains leanness and flexibility without gym equipment
 - `INS-260325-75C5` Individual resilience factors like optimism or problem-solving have only small predictive effects because situations vary so much — the real predictor is adaptive flexibility across strategies.

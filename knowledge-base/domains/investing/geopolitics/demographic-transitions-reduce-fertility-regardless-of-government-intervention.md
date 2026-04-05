@@ -52,10 +52,10 @@ stance: >-
   redundant against structural forces.
 related:
   - INS-260330-AAE9
-  - INS-260327-F93A
   - INS-260330-74AC
   - PRI-260328-6CDE
   - INS-260404-3043
+  - INS-260327-EF98
 evidence:
   - id: INS-260330-74AC
     type: SUPPORTS

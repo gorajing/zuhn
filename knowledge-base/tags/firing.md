@@ -9,6 +9,5 @@
 - `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
 - `INS-260330-25A8` You can take someone's job but you cannot take their dignity — every employee in your company will become an informal reference for that person.
 - `INS-260330-8E3C` What you say about a terminated employee at the company meeting becomes their reputation, because every person in your company will get a reference call about them.
-- `INS-260330-AC36` You can take someone's job but you don't have to take their dignity — what you say at the departure announcement becomes their professional reputation.
 - `INS-260330-36B4` When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - `INS-260330-B3D9` Netflix laid off a third of employees post-dot-com crash and got more done with fewer people by retaining only their best performers.

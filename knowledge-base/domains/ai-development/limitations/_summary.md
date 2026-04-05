@@ -1,14 +1,12 @@
 # Topic: limitations
 
-> 39 insights
+> 35 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
 - `INS-260323-F2C3` [high] AI's strongest achievements (AlphaGo, AlphaFold) are in domains with verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate real occupations.
-- `INS-260323-BA00` [high] The biological stack starts with reproduction at the cellular level; the silicon stack has no reproduction capability at all — making AI systems fundamentally fragile in ways biology is not.
 - `INS-260325-D680` [high] Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
 - `INS-260323-2785` [high] For most complex systems, there is no shortcut to predicting outcomes -- you must run the computation step by step, and science progresses by finding rare pockets where you can jump ahead.
-- `INS-260326-6D76` [high] Most complex systems are computationally irreducible — you cannot predict their behavior without running the full computation.
 - `INS-260325-1080` [high] The diagonal argument doesn't just prove something can't be done — it builds the exact thing that breaks the attempt.
 - `INS-260330-EE25` [high] Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260330-C681` [high] AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
@@ -19,8 +17,6 @@
 - `INS-260327-9BA2` [high] LLMs manipulate language so well that people mistake fluency for intelligence, but they cannot invent or truly reason.
 - `INS-260323-B309` [high] LLMs match statistical patterns from human-generated text (wide, shallow), while formal computational systems like Wolfram Alpha build deep chains of logical inference from structured knowledge (narrow, deep).
 - `INS-260323-A5EC` [high] LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
-- `INS-260323-2D1D` [high] Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
-- `INS-260330-B076` [high] Nearly all life on Earth is fusion-powered — photons from solar fusion cascade through photosynthesis into every biological process, revealing how apparent diversity masks single-source dependency.
 - `INS-260403-F9C7` [high] Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
 - `INS-260323-7625` [high] While per-token costs have decreased, reasoning models burn dramatically more tokens per task, so actual inference costs per useful output have increased — the opposite of what AI CEOs claim.
 - `INS-260330-47E0` [high] From Russell's paradox to Gödel's theorem to the halting problem, self-reference is the single mechanism that breaks formal systems.

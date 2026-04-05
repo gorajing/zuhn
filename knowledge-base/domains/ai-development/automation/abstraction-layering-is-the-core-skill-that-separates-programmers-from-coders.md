@@ -50,10 +50,10 @@ stance: >-
   transfers directly to prompt engineering and AI system design.
 related:
   - INS-260329-5C25
-  - INS-260329-32DB
   - INS-260404-9AEC
   - INS-260330-112E
   - PRI-260403-ABDE
+  - PRI-260323-50FE
 evidence:
   - id: INS-260329-32DB
     type: CHALLENGES

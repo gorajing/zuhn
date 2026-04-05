@@ -40,11 +40,12 @@ stance: >-
   struggled to demonstrate that demand persists at prices necessary for
   profitability.
 related:
-  - INS-260323-7F22
   - INS-260327-80E9
+  - INS-260327-C294
   - INS-260330-931A
   - INS-260403-1E4A
   - INS-260327-1403
+  - INS-260324-861B
 evidence:
   - id: INS-260323-7F22
     type: SUPPORTS

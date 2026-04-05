@@ -57,6 +57,10 @@ related:
   - PRI-260324-12CF
   - INS-260330-C825
   - INS-260322-5790
+evidence:
+  - id: INS-260327-E1EB
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The article notes that most CFOs are type-A personalities motivated to win rather than to optimize. This is a behavioral insight with practical leverage: loss-framed arguments (we are falling behind) tend to outperform gain-framed ones (we could grow) for risk-averse decision-makers, and CFOs are structurally positioned to be risk-averse.
 

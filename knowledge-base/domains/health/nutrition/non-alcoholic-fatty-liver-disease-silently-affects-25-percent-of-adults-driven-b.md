@@ -45,8 +45,7 @@ related:
   - INS-260327-9E9D
   - PRI-260328-40CA
 evidence:
-  - id: INS-260325-6DD8
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+  - id: INS-260325-A9E0
+    relationship: RELATED
 ---
 NAFLD affects 1 in 4 adults with no symptoms until advanced stages; driven primarily by refined fructose (HFCS) and seed oil consumption causing hepatic insulin resistance and triglyceride accumulation in liver cells

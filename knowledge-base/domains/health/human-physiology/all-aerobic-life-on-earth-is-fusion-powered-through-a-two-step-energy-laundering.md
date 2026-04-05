@@ -60,12 +60,14 @@ stance: >-
   photosynthesis reframes energy, nutrition, and sustainability as a single
   continuous system
 related:
-  - INS-260330-09F8
+  - INS-260330-C456
+  - INS-260330-1084
   - PRI-260403-181B
   - INS-260404-EFA8
   - INS-260404-F014
   - INS-260404-A1E2
-  - INS-260330-B076
+  - INS-260403-2DC0
+  - INS-260404-3500
 evidence:
   - id: INS-260330-B076
     type: SUPPORTS

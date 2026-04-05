@@ -1,7 +1,6 @@
 # Tag: humility
 
 - `INS-260327-5547` In any field, the person who says 'it's complicated' probably knows more than the person who says 'it's simple' - expertise produces humility, not certainty.
-- `INS-260327-4A10` Standing in primary Amazon rainforest reveals that everything we call 'complex' in human systems is trivially simple compared to what evolution has produced.
 - `INS-260327-70DF` Success breeds humility through exposure to genuine expertise, not the reverse.
 - `INS-260330-A516` Tyson argues that the tiny DNA gap between chimps and humans suggests even a slightly more advanced alien would find our greatest intellects as unimpressive as we find chimps stacking boxes.
 - `INS-260327-B2CC` Real humility means accepting you could be wrong, not performing modesty.

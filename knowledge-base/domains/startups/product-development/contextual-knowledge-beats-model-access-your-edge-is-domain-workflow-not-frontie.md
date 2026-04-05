@@ -52,9 +52,9 @@ related:
   - INS-260325-E1FA
   - INS-260323-AB5F
   - PRI-260328-517C
-  - INS-260329-9115
   - INS-260321-C14C
   - INS-260328-9C16
+  - INS-260327-FA43
 stance: >-
   You will never build better AI than OpenAI or Anthropic, but you can win with
   better contextual knowledge of a specific workflow or market.

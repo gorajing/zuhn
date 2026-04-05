@@ -49,7 +49,6 @@ stance: >-
   and failing to model this correctly leads to data duplication or lost
   relationships
 related:
-  - INS-260329-920D
   - INS-260329-34EE
   - INS-260329-6286
   - INS-260329-BE72

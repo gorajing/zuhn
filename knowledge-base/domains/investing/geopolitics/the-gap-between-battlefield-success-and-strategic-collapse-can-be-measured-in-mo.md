@@ -57,8 +57,8 @@ related:
   - INS-260327-FB61
   - INS-260327-AA3B
   - INS-260327-F274
-  - INS-260327-E7AC
   - PRI-260328-FA83
+  - INS-260327-2964
 ---
 Germany's trajectory in 1918 is the most dramatic example of success masking imminent collapse: in March-July, German armies achieved their greatest advances of the war. In August, the first counterattack succeeded. By October, Germany was requesting armistice. By November, the Kaiser had abdicated. The structural factors driving collapse (exhausted reserves, American reinforcements, civilian starvation, allied morale improvements) were invisible during the spring victories.
 

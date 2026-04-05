@@ -43,14 +43,18 @@ stance: >-
   fooled by professional appearance over substance
 related:
   - INS-260327-FA62
+  - INS-260329-B6DF
   - INS-260330-A484
   - INS-260330-BD04
   - INS-260330-956E
   - INS-260402-7182
+  - INS-260403-7586
   - INS-260403-6BF7
   - INS-260403-06E2
-  - INS-260404-A8B9
-  - INS-260322-116B
-  - PRI-260324-A608
+  - INS-260404-5BBF
+evidence:
+  - id: INS-260405-9760
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham notes that even investors, whose entire job is to identify productive teams, couldn't recognize real productivity when it didn't match professional norms. This is a damning indictment of pattern-matching in venture capital: the patterns VCs match against are drawn from what successful companies look like at scale, not what they looked like when they were actually at peak productivity. The visibility problem compounds this — only 3-4 people witness the most productive phase of a startup, while tens of thousands see Boeing's version of business. This creates a systematic bias in capital allocation toward teams that look the part over teams doing the work.

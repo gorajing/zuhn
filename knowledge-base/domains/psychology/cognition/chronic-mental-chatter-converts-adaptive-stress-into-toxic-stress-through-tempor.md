@@ -51,8 +51,8 @@ related:
   - INS-260325-FC52
   - INS-260325-5F3C
   - INS-260325-A66E
-  - INS-260327-034A
   - INS-260330-28EF
+  - INS-260330-A9F8
   - INS-260404-EE01
   - INS-260330-293E
   - INS-260404-4FDB
@@ -68,6 +68,9 @@ evidence:
     classified_at: '2026-04-05'
   - id: INS-260404-4FDB
     type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-28EF
+    type: REFINES
     classified_at: '2026-04-05'
 ---
 A stress response is inherently adaptive — it prepares the body to handle threats. The problem arises when mental chatter replays a stressful event repeatedly, preventing the stress response from deactivating. This chronic elevation is what produces downstream health consequences like cardiovascular disease, chronic inflammation, and even cancer.

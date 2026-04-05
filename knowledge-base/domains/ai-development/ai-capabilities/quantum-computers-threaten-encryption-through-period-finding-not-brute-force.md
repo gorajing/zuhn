@@ -49,6 +49,7 @@ related:
   - INS-260325-BE3A
   - PRI-260328-D2FB
   - INS-260329-8C14
+  - INS-260330-083D
 stance: Quantum computers don't break encryption by trying all keys
 ---
 Shor's algorithm works by preparing a superposition of all possible exponents, computing modular remainders in parallel, and then using the quantum Fourier transform to extract the period of the resulting pattern. This period directly leads to the prime factors that underpin RSA encryption.

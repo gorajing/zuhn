@@ -50,6 +50,7 @@ stance: >-
   vulnerability.
 related:
   - INS-260327-98B1
+  - INS-260327-0C65
   - INS-260327-1107
   - INS-260327-C935
   - INS-260327-7D63
@@ -58,7 +59,6 @@ related:
   - INS-260327-377A
   - INS-260327-AB3D
   - INS-260327-241F
-  - INS-260327-994B
 ---
 The Turkish force at Aboukir was vulnerable during the critical transition from ships to shore: troops were disorganized, heavy equipment wasn't landed, defensive positions weren't established, and the naval guns that protected them at sea couldn't support them effectively on land. Napoleon attacked at precisely this moment of maximum vulnerability.
 

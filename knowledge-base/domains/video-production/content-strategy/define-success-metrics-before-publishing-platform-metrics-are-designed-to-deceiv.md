@@ -55,14 +55,11 @@ related:
   - INS-260322-E22A
   - INS-260325-CF3E
 evidence:
-  - id: INS-260329-D357
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+  - id: INS-260329-3D3E
+    relationship: RELATED
   - id: INS-260325-CF3E
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-95E8
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Andrews shares a concrete example: she posted a video and Instagram flagged it as 'overperforming in terms of follows.' Most people would call that a win. But her predefined success metrics were comment quality and shares (indicators of real conversation). The comments were low quality and sparse — meaning the content was too introductory for her audience. By Instagram's metrics it succeeded; by her metrics it failed. Without predefined success criteria, you become what she calls 'a paper bag in the wind.' She also observed freelance social media managers who just screenshot whichever metric happened to go up that week — likes one week, comments the next — with no coherent direction. The fix: before each quarter, define 3 goals (e.g., increase speaking inquiries, grow YouTube to 100K, sign book deal) and for each piece of content, know which goal it serves and how you'll measure against it.

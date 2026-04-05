@@ -47,7 +47,6 @@ stance: >-
   Senior leaders who ask better questions about business model mechanics
   generate more innovative outcomes than those who dictate strategy top-down
 related:
-  - INS-260330-48A8
   - INS-260402-BA91
   - INS-260402-1414
   - INS-260403-1448

@@ -49,11 +49,12 @@ stance: >-
   or attention — is the fundamental mechanism for generating useful work in both
   biological and business systems
 related:
-  - INS-260403-DE05
-  - INS-260403-A0C5
-  - INS-260404-1E11
-  - INS-260404-91A0
-  - INS-260330-1677
+  - INS-260330-FA36
+  - PRI-260403-6E50
+  - INS-260403-CD2A
+  - INS-260403-B6E6
+  - INS-260403-464D
+  - PRI-260403-70D0
 evidence:
   - id: INS-260330-1677
     type: TRANSFERS_TO

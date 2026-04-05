@@ -48,12 +48,12 @@ stance: >-
   A mediocre product with default distribution on a major platform will
   outperform a superior product that requires user action to adopt.
 related:
-  - INS-260324-1275
   - INS-260329-6B3C
-  - INS-260330-28B1
   - INS-260330-7DAA
   - PRI-260323-7B35
   - PRI-260328-6A8D
+  - INS-260403-C1A5
+  - INS-260404-6751
 evidence:
   - id: INS-260330-28B1
     type: CHALLENGES

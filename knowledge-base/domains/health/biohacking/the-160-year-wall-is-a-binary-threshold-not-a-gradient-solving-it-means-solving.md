@@ -52,6 +52,13 @@ related:
   - INS-260330-C658
   - INS-260325-90C6
   - PRI-260325-3A00
+evidence:
+  - id: INS-260330-49A4
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-C658
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The conventional view of longevity progress is linear: each year adds a few days or weeks to life expectancy. The NFX thesis reframes this as a wall problem — the compounding nature of aging (Gompertz-Makeham law) means small interventions get steamrolled by exponential biological decay. But if technologies achieve the ~100x improvements needed to push past 160, the same breakthroughs that get you there (cancer cures, organ replacement, cell reprogramming) effectively make death from aging optional.
 

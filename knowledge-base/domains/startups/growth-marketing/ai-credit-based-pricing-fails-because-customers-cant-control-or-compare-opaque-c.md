@@ -63,9 +63,8 @@ related:
   - INS-260327-D52B
   - INS-260327-CC35
   - INS-260327-6742
-  - INS-260329-1085
+  - INS-260327-7D27
   - INS-260329-67D1
-  - INS-260403-4FA4
 stance: >-
   Enterprise customers resist AI credit-based pricing because credits are opaque
   (unlike transferable units like gigabytes), vendors can silently inc...

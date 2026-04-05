@@ -56,14 +56,11 @@ stance: >-
   performance
 evidence:
   - id: INS-260326-163A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260329-5901
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-E208
+    relationship: RELATED
   - id: INS-260329-003B
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 
 The Smol Training Playbook from HuggingFace's pre-training team --

@@ -49,8 +49,8 @@ related:
   - INS-260329-3423
   - PRI-260403-9E80
   - INS-260329-47DD
-  - INS-260329-D2CA
   - INS-260329-9157
+  - INS-260329-F84E
 ---
 The tutorial shows the evolution from creating an empty Book object and setting properties one by one (8 lines, error-prone) to passing all required data through the constructor (1 line, guaranteed valid). The tutorial explicitly calls out that the constructor approach eliminates the possibility of a Book existing without a title or author.
 

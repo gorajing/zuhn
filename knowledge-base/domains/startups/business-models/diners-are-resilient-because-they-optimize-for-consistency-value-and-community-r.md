@@ -46,12 +46,10 @@ related:
   - INS-260327-4BC6
   - PRI-260324-D701
 evidence:
-  - id: INS-260325-F484
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+  - id: INS-260325-B234
+    relationship: RELATED
   - id: INS-260327-6B02
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Diner businesses survive market cycles because they serve fundamental human needs (affordable food, community gathering, consistency) rather than trend-dependent desires.
 

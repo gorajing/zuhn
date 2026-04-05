@@ -51,13 +51,13 @@ stance: >-
   Attributing systemic failures to individual moral character prevents
   identification of structural and environmental root causes
 related:
-  - INS-260325-793A
   - INS-260325-6AD5
   - INS-260327-25AD
   - INS-260330-68EF
   - INS-260330-9FA5
   - INS-260327-3528
   - INS-260330-B8B0
+  - INS-260330-F116
   - INS-260330-14E1
   - INS-260330-5BEB
 evidence:

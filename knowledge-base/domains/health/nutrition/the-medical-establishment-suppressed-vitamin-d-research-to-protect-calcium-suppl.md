@@ -43,12 +43,11 @@ stance: >-
 related:
   - INS-260325-4FB1
   - INS-260325-3488
-  - INS-260325-024F
   - INS-260325-A003
   - PRI-260325-E2D3
+  - INS-260327-28FC
   - INS-260327-11AB
   - INS-260325-0447
-  - INS-260327-28FC
   - INS-260327-98C7
 ---
 Vitamin D's documented ability to prevent cancer, autoimmune disease, and infection was systematically downplayed to protect pharmaceutical revenues from treating these conditions and calcium supplement sales tied to minimal vitamin D RDAs

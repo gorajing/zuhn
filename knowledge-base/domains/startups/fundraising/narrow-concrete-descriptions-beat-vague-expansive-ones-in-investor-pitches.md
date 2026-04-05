@@ -14,11 +14,8 @@ tags:
   - clarity
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -53,13 +50,11 @@ stance: >-
   better with investors than a vague description that tries to capture all
   future possibilities.
 related:
-  - INS-260404-1263
   - INS-260404-896B
-  - INS-260404-394A
-  - INS-260403-2204
-  - INS-260404-1BFF
-  - INS-260403-9AB3
-  - INS-260403-5A4F
+  - INS-260405-466C
+  - INS-260405-0B17
+  - INS-260403-D430
+  - INS-260405-D514
 ---
 Founders resist narrow descriptions because they fear underselling — the product could be so much more than its current form. But as a description approaches 'everything,' its information content approaches zero. 'A system to collaboratively leverage the value of information' conveys nothing; 'an easy web-based database' is immediately graspable.
 

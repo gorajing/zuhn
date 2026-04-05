@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-C15B
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260327-0004
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Traditional financial services companies relied on decades of accumulated data to build underwriting models for insurance, loans, and credit. This data moat was their primary competitive advantage. But two shifts have eroded it: ML algorithms that achieve greater accuracy from smaller datasets, and the explosion of publicly available or scrapeable alternative data sources.
 

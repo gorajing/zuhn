@@ -47,7 +47,6 @@ stance: >-
   technology at a fraction of the cost, structurally undermining the VC value
   chain.
 related:
-  - INS-260402-B66A
   - INS-260403-4E71
   - INS-260328-195E
   - INS-260402-8424

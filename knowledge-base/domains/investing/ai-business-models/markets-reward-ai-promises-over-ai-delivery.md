@@ -57,6 +57,15 @@ evidence:
   - id: INS-260329-3BEE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-7708
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-53AA
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-85F1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Oracle surged 30% on a day it reported below-expectations earnings, solely on AI narrative. This isn't an anomaly - the current market systematically rewards AI promises more than it punishes missed targets. Companies that make bold AI claims see sustained valuation premiums regardless of delivery.
 

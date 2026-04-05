@@ -41,6 +41,7 @@ resolutions:
     — it's a diagnostic tool. With one feature, you know exactly what users are
     rejecting. With twenty, you can't tell what's failing.
 related:
+  - INS-260322-68FE
   - INS-260321-7C97
   - INS-260325-4C92
   - INS-260322-760A
@@ -50,7 +51,6 @@ related:
   - INS-260329-BCB7
   - INS-260403-8F6E
   - INS-260323-2559
-  - INS-260327-6D77
 stance: >-
   Adding more features to an app that nobody is using does not make it more
   likely to succeed — it makes it harder to diagnose what actually matters.

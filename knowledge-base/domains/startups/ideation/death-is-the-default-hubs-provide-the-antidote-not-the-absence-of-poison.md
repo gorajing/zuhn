@@ -48,7 +48,6 @@ stance: >-
   not fewer obstacles but more rescue mechanisms via density and serendipity
 related:
   - INS-260329-F887
-  - INS-260330-051F
   - INS-260402-2B96
   - INS-260404-6C8F
   - INS-260405-D6E6

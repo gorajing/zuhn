@@ -70,6 +70,15 @@ evidence:
   - id: INS-260329-60CF
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-6751
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-3F5F
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-396E
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Ackman contrasts capital-light royalty businesses (American Express, Coca-Cola's formula licensing) with capital-heavy businesses (General Motors), showing that GM's stock barely moved over 50 years despite massive revenue because every dollar earned had to be reinvested in factories. Meanwhile, Amex collects ~3% of every transaction without deploying the underlying capital.
 

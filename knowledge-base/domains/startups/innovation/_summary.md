@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 115 insights
+> 106 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
@@ -8,8 +8,6 @@
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260405-F1A2` [high] Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
-- `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
-- `INS-260403-882A` [high] Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
 - `INS-260403-130D` [high] Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
 - `INS-260403-C5FB` [high] Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
 - `INS-260404-8D91` [high] McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
@@ -69,17 +67,11 @@
 - `INS-260405-0A6D` [high] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 - `INS-260405-C342` [high] Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
 - `INS-260403-B4F1` [high] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
-- `INS-260403-227B` [high] Oxygen—the gas that enabled all complex animal life—is technically just the waste product of photosynthesis splitting water to replace lost electrons.
-- `INS-260404-D0A5` [high] Oxygen — the molecule all animal life depends on — was originally just a waste product of photosynthesis, not its purpose.
-- `INS-260404-A51E` [high] Oxygen, the foundation of animal life, is photosynthesis's waste product — monitor your system's byproducts for hidden value.
-- `INS-260404-0FEB` [high] Oxygen — the gas that enabled all animal life — is a waste byproduct of photosynthesis's water-splitting step, not its intended product.
-- `INS-260404-F8E6` [high] Oxygen — the molecule all animal life depends on — is a waste product that photosynthesis discards while making glucose.
 - `INS-260403-F75F` [high] Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260403-FAD8` [high] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
 - `INS-260404-FF39` [high] Oxygen — the molecule enabling all animal life — was originally a toxic waste product of early photosynthesis, suggesting that transformative innovations often emerge as byproducts.
 - `INS-260403-8CDD` [high] Turnaround plans fix execution problems but cannot address fundamental business model expiration.
 - `INS-260403-CACE` [high] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
-- `INS-260403-EFE6` [high] Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
 - `INS-260403-E7E1` [high] When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260403-DF01` [medium] Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260403-47BF` [medium] Lack of structured innovation processes is itself a warning sign that the organization is behind.
@@ -89,7 +81,6 @@
 - `INS-260403-42F2` [medium] Lego Factory shows that powerful business model innovation can come from rejiggering fulfillment rather than reinventing the company.
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-24AE` [medium] Innovation needs its own dedicated hierarchy paralleling the existing business structure, not ad-hoc committees.
-- `INS-260403-4FA4` [medium] For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.
 - `INS-260404-6BBB` [medium] Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 - `INS-260403-5F44` [medium] Innovation should live in every job rather than be siloed into a dedicated department or role.
 - `INS-260405-3772` [medium] Java's flaws spawned Groovy, Clojure, Scala, Kotlin, and arguably JavaScript — more ecosystem value than most 'better' languages ever generated.

@@ -52,7 +52,9 @@ stance: >-
   support speed, and small details systematically outperform those who delegate
   these functions early.
 related:
+  - INS-260322-5831
   - INS-260323-CE9A
+  - INS-260322-EF20
   - INS-260323-1B87
   - INS-260327-D5B5
   - INS-260330-DE1D
@@ -60,8 +62,6 @@ related:
   - INS-260403-12FD
   - INS-260403-7C88
   - INS-260330-2A73
-  - INS-260403-1B8A
-  - INS-260403-B835
 ---
 Altman observes that across YC's portfolio of 720+ companies, the word 'fanatical' consistently appears when successful founders describe their relationship with product quality. This manifests in specific behaviors: hooking PagerDuty to customer support tickets so users get responses within an hour even at 3 AM, founders personally doing sales and support rather than hiring for these roles early, and feeling physical pain when the product underperforms. Stanford startups in particular make the mistake of hiring sales and support staff too early.
 

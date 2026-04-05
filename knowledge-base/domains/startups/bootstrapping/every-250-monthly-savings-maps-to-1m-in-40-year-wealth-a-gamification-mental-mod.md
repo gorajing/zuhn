@@ -50,7 +50,6 @@ stance: >-
   feel like a game with achievable checkpoints rather than an abstract long-term
   grind
 related:
-  - INS-260325-1407
   - INS-260322-8BC5
   - INS-260327-DFF0
   - INS-260327-DFF1
@@ -60,6 +59,7 @@ related:
   - INS-260329-C4A4
   - INS-260329-D38D
   - INS-260330-44C7
+  - INS-260405-0F47
 evidence:
   - id: INS-260327-DFF1
     type: TRANSFERS_TO

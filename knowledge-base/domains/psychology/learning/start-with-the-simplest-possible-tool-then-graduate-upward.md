@@ -44,13 +44,12 @@ stance: >-
   Beginners learn faster with minimal tooling because feature-rich environments
   create cognitive overhead that competes with the actual subject matter
 related:
-  - INS-260327-4A10
-  - INS-260329-B6A6
   - INS-260329-E914
   - INS-260329-E402
   - INS-260329-294C
-  - INS-260329-32DB
-  - INS-260330-D3F5
+  - INS-260329-8330
+  - INS-260323-D400
+  - INS-260404-864F
 evidence:
   - id: INS-260327-F608
     type: TRANSFERS_TO

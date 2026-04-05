@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260330-D812
   - INS-260323-CA1F
-  - INS-260330-F31A
   - INS-260330-881A
   - INS-260330-3888
+  - INS-260323-95BC
 ---
 The episode documents two striking cases of time perception collapse. Michael Stevens progressively lost his sense of time: after his first sleep cycle he was only slightly off, but the dissociation doubled with each subsequent cycle. By the end of 72 hours, he couldn't distinguish dreams from waking or tell if it was his second or third day. NASA volunteer Stefania Follini, who spent 130 days alone in an underground cave, believed she'd only been there about half as long.
 

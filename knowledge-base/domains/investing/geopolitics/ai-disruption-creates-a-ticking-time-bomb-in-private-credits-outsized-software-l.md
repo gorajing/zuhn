@@ -45,10 +45,10 @@ resolutions:
 related:
   - INS-260323-59C9
   - INS-260323-114D
-  - INS-260327-3B91
   - INS-260330-3E6B
   - INS-260328-58B1
   - PRI-260323-00C6
+  - INS-260323-C8AC
   - INS-260327-68C1
 stance: 25% of business development company portfolios are in software companies
 evidence:

@@ -44,13 +44,14 @@ stance: >-
   Experts discussing hard subjects speak more informally, not less, because
   difficult ideas require language to get out of the way
 related:
+  - INS-260323-8E4D
   - INS-260323-A19F
+  - INS-260329-519E
   - INS-260402-3639
   - INS-260403-F9F0
   - INS-260403-6652
-  - INS-260329-9A58
-  - INS-260329-32DB
   - INS-260329-E402
+  - INS-260329-65CD
 ---
 There's a common misconception that sophisticated ideas require sophisticated prose. Graham observes the opposite: specialists discussing abstruse topics with peers use sentence structures no more complex than lunch conversation. They use precise terminology, but only as much as necessary.
 

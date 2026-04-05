@@ -58,6 +58,10 @@ related:
   - PRI-260328-4CC0
   - INS-260403-2DE3
   - INS-260329-825D
+evidence:
+  - id: INS-260329-33AA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that fast-growing companies don't optimize for cost — they optimize for not being slowed down. eBay didn't win by paying less for servers; mid-century manufacturers didn't win by squeezing wages. In both cases, the bottleneck was reliable supply of a critical resource, and paying above-market rates was the rational move.
 

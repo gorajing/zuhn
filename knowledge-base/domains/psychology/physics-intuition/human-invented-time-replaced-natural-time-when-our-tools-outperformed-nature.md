@@ -51,11 +51,11 @@ stance: >-
   all measurement domains.
 related:
   - INS-260325-8E0D
-  - INS-260327-6F94
   - INS-260330-91EA
   - INS-260330-BC8E
   - INS-260325-2B76
   - INS-260323-3F56
+  - PRI-260323-DA09
   - INS-260330-9A34
   - INS-260403-368A
   - INS-260404-C497

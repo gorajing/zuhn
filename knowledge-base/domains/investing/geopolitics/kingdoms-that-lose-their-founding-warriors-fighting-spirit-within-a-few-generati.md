@@ -52,7 +52,6 @@ stance: >-
   but hungrier forces.
 related:
   - INS-260327-BE3F
-  - INS-260327-FA38
   - INS-260327-2964
   - INS-260327-B9BA
   - INS-260327-8268
@@ -60,6 +59,7 @@ related:
   - INS-260330-35E2
   - INS-260327-0C9F
   - INS-260327-E382
+  - INS-260327-32BA
   - INS-260327-35CB
 evidence:
   - id: INS-260330-35E2

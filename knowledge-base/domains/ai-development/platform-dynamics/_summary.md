@@ -1,17 +1,14 @@
 # Topic: platform-dynamics
 
-> 22 insights
+> 19 insights
 
 - `INS-260325-14DC` [high] ASML's $350 million EUV lithography machines — using tin plasma at 40x the sun's surface temperature to carve transistors smaller than viruses — are required for all advanced chips and have no competitor.
 - `INS-260322-EDC2` [high] While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260325-E652` [high] TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
 - `INS-260325-C59D` [high] AI networks never rest, never sleep, and never need privacy — but forcing organic humans to match this inorganic pace will collapse them.
-- `INS-260330-28B1` [high] Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
 - `INS-260322-A367` [high] Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
 - `INS-260325-B234` [high] Moore's Law is not physics but economics: it holds as long as shrinking transistors unlocks larger markets — and AI demand is the latest force sustaining this investment cycle.
-- `INS-260325-F484` [high] Moore's Law is sustained by a virtuous economic cycle where smaller transistors create bigger markets that fund more R&D — AI demand is currently renewing this cycle.
 - `INS-260325-BB13` [high] A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
-- `INS-260403-FFFE` [high] Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
 - `INS-260323-BC61` [high] LeCun argues the biggest AI danger is not existential risk but concentration of power -- a future where all information is controlled by a few companies through proprietary AI systems, and open-source is the primary defense.
 - `INS-260403-27F5` [high] Proprietary AI safety layers are strategically undermined by uncensored open-source alternatives that attract users seeking unrestricted generation.
 - `INS-260323-365A` [high] Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.

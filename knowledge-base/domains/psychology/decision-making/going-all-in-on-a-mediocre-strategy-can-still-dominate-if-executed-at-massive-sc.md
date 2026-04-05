@@ -47,13 +47,16 @@ stance: >-
   that requires starting over, even when the dominant strategy fails half the
   time.
 related:
-  - INS-260330-E1B3
   - INS-260330-68C8
+  - INS-260330-CEAE
   - INS-260403-9442
-  - INS-260404-EC33
-  - INS-260330-8BF6
+  - INS-260403-532D
   - INS-260404-16B0
-  - INS-260403-05D8
+  - INS-260403-EDA2
+  - INS-260404-1FCE
+  - INS-260404-47F5
+  - INS-260404-8256
+  - INS-260405-9DB6
 evidence:
   - id: INS-260330-68C8
     type: TRANSFERS_TO

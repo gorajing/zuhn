@@ -53,9 +53,8 @@ related:
   - INS-260329-1F4D
   - INS-260322-C6CE
 evidence:
-  - id: INS-260330-752E
-    type: REFINES
-    classified_at: '2026-04-02'
+  - id: INS-260330-C215
+    relationship: RELATED
 ---
 Adora Cheung's counterintuitive advice is to temporarily become an insider in the industry you want to disrupt. At Homejoy, she literally got hired at a cleaning company — not just to learn cleaning, but to understand the entire operational workflow: booking, scheduling, quality control. This revealed specific inefficiencies (manual scheduling, old-school booking) that she could never have discovered from the outside.
 

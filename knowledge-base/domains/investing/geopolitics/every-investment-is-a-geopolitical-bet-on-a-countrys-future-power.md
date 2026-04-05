@@ -43,7 +43,7 @@ related:
   - INS-260326-6B98
   - INS-260402-4719
   - INS-260327-C79D
-  - INS-260327-E72F
+  - INS-260327-DAA4
 stance: >-
   When you invest in a country's stock market, you're placing a geopolitical bet
   on that country's future economic power relative to rivals

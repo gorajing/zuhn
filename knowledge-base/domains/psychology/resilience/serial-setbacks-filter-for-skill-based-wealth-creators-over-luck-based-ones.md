@@ -55,6 +55,10 @@ related:
   - INS-260403-6386
   - PRI-260327-5635
   - INS-260325-0688
+evidence:
+  - id: INS-260404-EEAF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Naval describes losing his first fortune in the stock market and being cheated out of his second before building lasting wealth on the third attempt. Rather than framing these as failures, this pattern serves as a natural experiment proving skill over luck — someone who rebuilds multiple times demonstrates that wealth creation is repeatable and context-independent.
 

@@ -47,6 +47,7 @@ stance: >-
   Standardized investment documents and terms are more important to startup
   ecosystem health than the capital itself
 related:
+  - INS-260322-06EA
   - INS-260323-B0EA
   - INS-260328-D26B
   - INS-260330-3A0D

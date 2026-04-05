@@ -46,10 +46,10 @@ stance: >-
   the next incumbent
 related:
   - INS-260325-FBE5
-  - INS-260330-50B5
   - INS-260404-397F
-  - INS-260323-7B63
-  - INS-260404-445D
+  - INS-260322-019A
+  - INS-260403-D62F
+  - INS-260330-EEED
 evidence:
   - id: INS-260325-FBE5
     type: CHALLENGES

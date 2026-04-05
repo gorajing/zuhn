@@ -62,7 +62,6 @@ related:
   - PRI-260323-0F93
   - INS-260330-B08E
   - INS-260326-6B99
-  - INS-260329-920D
   - INS-260330-3C70
   - INS-260330-E4FA
 stance: 'In normal-distribution games (coin flips for $1), optimize for the average'

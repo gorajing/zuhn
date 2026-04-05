@@ -50,7 +50,6 @@ stance: >-
   environment changes, and the original design assumptions become invisible
   technical debt.
 related:
-  - INS-260325-0895
   - INS-260330-E5DC
   - INS-260330-B3D5
   - INS-260330-EACA
@@ -60,6 +59,7 @@ related:
   - INS-260403-3D7D
   - INS-260403-9F4B
   - INS-260404-2695
+  - INS-260405-F03A
 evidence:
   - id: INS-260330-EACA
     type: REFINES

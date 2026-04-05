@@ -45,7 +45,6 @@ stance: >-
   The best founder-thinkers actively discard outdated ideas rather than
   accumulating beliefs, combining brutal candor with pragmatism over ideology
 related:
-  - INS-260326-291C
   - INS-260330-AC16
   - INS-260403-B957
   - INS-260403-A60E

@@ -58,11 +58,13 @@ stance: >-
   endosymbiosis) enables the next level of complexity.
 related:
   - INS-260325-4E20
+  - INS-260326-97C9
   - INS-260327-A44E
+  - INS-260327-0692
   - INS-260330-1DDE
   - INS-260327-9DB0
   - INS-260325-DFA5
-  - INS-260327-F608
+  - PRI-260328-4B40
 evidence:
   - id: INS-260327-9DB0
     type: TRANSFERS_TO

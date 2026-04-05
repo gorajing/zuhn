@@ -14,11 +14,8 @@ tags:
   - early-stage
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,13 +47,14 @@ stance: >-
 related:
   - PRI-260320-5947
   - INS-260327-A9E8
-  - INS-260403-C5C0
+  - INS-260329-DC86
+  - INS-260403-4337
   - INS-260403-22FE
   - INS-260403-B08E
+  - INS-260403-A8E8
   - INS-260404-F161
   - INS-260404-187C
-  - INS-260404-5343
-  - INS-260403-E4C6
+  - INS-260405-8BEA
 ---
 Most investors at a Demo Day can't deeply evaluate the technical merit of what you've built — they lack both the background and the time. So they rely heavily on proxy signals, and founder confidence is the strongest one. But this must be shown, not told: saying 'we're passionate' or 'our product is great' gets ignored or marks you as a bullshitter.
 

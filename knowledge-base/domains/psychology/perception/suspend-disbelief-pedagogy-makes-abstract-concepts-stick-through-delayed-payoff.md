@@ -49,10 +49,10 @@ stance: >-
   produces deeper understanding than showing applications first
 related:
   - INS-260329-F20E
-  - INS-260329-153F
-  - INS-260329-075F
   - INS-260329-2FEB
   - INS-260325-AE23
+  - INS-260330-DB4B
+  - INS-260323-8893
 ---
 Dr. Severance's Python course deliberately front-loads abstract concepts (variables, conditionals, loops, functions) for 6+ chapters before chapter 7's file I/O reveals why they matter. This suspend-disbelief approach mirrors how university math works — you grind through proofs before the application course makes everything click.
 

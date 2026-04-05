@@ -1,9 +1,8 @@
 # Topic: founder-mindset
 
-> 314 insights
+> 302 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
-- `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260327-D76A` [high] A library in a small Chinese city transformed a village kid into a Stanford professor with 84,000 citations — access to knowledge is the ultimate equalizer.
 - `INS-260329-4DBC` [high] Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth.
@@ -25,12 +24,9 @@
 - `INS-260329-EC01` [high] Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
 - `INS-260322-750A` [high] Browse top-grossing apps, find categories with identical competitors, then build the same concept with a differentiated angle for an underserved segment.
 - `INS-260402-8EED` [high] A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier.
-- `INS-260329-C91D` [high] Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260322-AF17` [high] Founders resist comping themselves to public companies because it feels like comparing yourself to astronauts — but the winners (DoorDash, Facebook) were always benchmarking against the biggest players, not other startups.
-- `INS-260325-486C` [high] Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
 - `INS-260325-502D` [high] Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
 - `INS-260327-8D86` [high] Rosolie's Jungle Keepers protects 50,000+ acres not through activism alone but through startup-style fundraising, marketing, and organizational building.
-- `INS-260329-22B6` [high] What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
 - `INS-260321-1A99` [high] After the Cold War, defense consolidated from 51 primes to 5 — the real damage wasn't lost competition but financialization that expelled all the founders and heretics.
 - `INS-260327-E63E` [high] Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-1338` [high] Even if we perfectly redistributed wealth, the deeper crisis is that society accords prestige to those who manage symbols and money rather than those who produce real value.
@@ -62,7 +58,6 @@
 - `INS-260329-CE86` [high] Success and failure look identical during the middle years — the only differentiator is who keeps going.
 - `INS-260322-E06A` [high] Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
 - `INS-260327-2386` [high] If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
-- `INS-260329-2EF9` [high] A failed ad, store, or product isn't back to zero — it's your current position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260326-44C9` [high] The Decembrist revolt of 1825 failed completely within hours, but every subsequent Russian revolutionary movement traced its lineage back to those officers on Senate Square.
 - `INS-260323-8C53` [high] Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
 - `INS-260328-9FC0` [high] A fake startup looks like a startup from the outside — office, team, fundraising — but has never shipped a product or served a real customer.
@@ -82,14 +77,12 @@
 - `INS-260328-F1D2` [high] Be insanely impatient to start and push the world to move fast, while accepting that solving hard problems takes years.
 - `INS-260330-F1C8` [high] Track confidence in your investment thesis bullets to know when to persist, adapt, or pivot.
 - `INS-260403-F28B` [high] Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
-- `INS-260326-291C` [high] AI should amplify founder cognition, not replace it — delegating the hard thinking prevents developing the judgment that separates successful founders from feature-shippers.
 - `INS-260330-F800` [high] Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
 - `INS-260327-F544` [high] Founding a company is not developing your career — it is a complete reset. If you want a better career, go to a different company.
 - `INS-260325-05FC` [high] Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
 - `INS-260325-311F` [high] Genspark's $36M ARR in 45 days came from pivoting entirely from search to agentic AI when ChatGPT changed the landscape — pivot speed was the moat.
 - `INS-260325-BE8A` [high] Ben Horowitz: great founders hold contradictions — fully believing in the mission while planning for failure, optimistic and paranoid simultaneously.
 - `INS-260330-CC0F` [high] Great founders hold opposing strategies simultaneously and apply judgment about which to emphasize at each moment.
-- `INS-260330-52C7` [high] Great founders excel at switching between opposing modes contextually, not at mastering every individual skill.
 - `INS-260330-70F5` [high] Founder excellence is paradox navigation, not single-dimension optimization.
 - `INS-260402-9075` [high] Most startups die not from bad decisions but from founders who never fully committed.
 - `INS-260323-9770` [high] LIGO scientists built a billion-dollar machine on Einstein's unproven prediction and waited 10 years of silence before their first detection.
@@ -137,7 +130,6 @@
 - `INS-260323-D564` [high] Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to melting — but persisted because he believed ice could have saved his brother's life.
 - `INS-260329-6130` [high] Low personal expenses buy you more shots on goal by letting you survive multiple business failures.
 - `INS-260403-1B8A` [high] The Airbnb founders persisted through a year of no growth and maxed-out credit cards because they had personally experienced the magic of hosting — they'd 'seen a glimpse of the future.'
-- `INS-260403-743D` [high] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - `INS-260325-0873` [high] Getting on the plane to see someone in person is an extreme effort signal that makes mediocre ideas go further and great ideas get prioritized over equally good remote pitches.
 - `INS-260327-E992` [high] The best cheat code for surviving founder grind is choosing a problem that genuinely excites you and your team.
 - `INS-260327-BA8E` [high] Your biggest regret will be not pivoting three months earlier, not the pivot itself.
@@ -256,7 +248,6 @@
 - `INS-260323-5D6D` [medium] Repetitive work that violates your values causes cognitive depletion — your brain literally runs at lower capacity, making it impossible to learn new skills or build on the side.
 - `INS-260327-E3D5` [medium] Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
 - `INS-260328-A4EB` [medium] If you can live-quote someone's offhand remark months later, a deeper decision is already in motion.
-- `INS-260329-9C20` [medium] When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
 - `INS-260329-36FF` [medium] Work created from abundance rather than scarcity resonates differently because people can feel the intention behind it.
 - `INS-260327-CFD5` [medium] Following curiosity from linguistics to NLP to reinforcement learning to chip design created AlphaChip — a breakthrough no planned career path would have produced.
 - `INS-260327-17DE` [medium] Customer service is the quality that ensures customers stay and refer 10 friends — it is the real growth engine in hardware businesses.
@@ -277,13 +268,11 @@
 - `INS-260329-9A5A` [medium] People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
 - `INS-260329-1D8D` [medium] Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
 - `INS-260327-0053` [medium] Building products doesn't require sacrificing normal life—authentic entrepreneurial spirit coexists with being a kid.
-- `INS-260327-2C5F` [medium] Language is universal — once AI can process language, it can in principle do anything humans can do, because we are all information processors communicating through language.
 - `INS-260327-B4C0` [medium] When the org would do just as well without you, your chapter is done—time for the next one.
 - `INS-260327-5CB6` [medium] Believing in management mode and investing in building teams and systems rather than doing everything yourself is what takes a company to the next level.
 - `INS-260327-3049` [medium] When making decisions, maximize the sci-fi nature of your life — this counterintuitive optimization function led to co-inventing CRISPR.
 - `INS-260330-D8D1` [medium] When founders leave, successor managers tend to optimize the mission away in pursuit of growth.
 - `INS-260329-BF96` [medium] Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
-- `INS-260327-98DE` [medium] AI breakthroughs that look like bugs will become common across all knowledge work.
 - `INS-260403-B957` [medium] Naive founders bypass outdated beliefs about impossibility, sometimes solving problems experts had written off.
 - `INS-260321-1A84` [medium] People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260327-D5B5` [medium] Exposure to product excellence creates the obsession that produces great founders—Meniri's Apple Store visit changed his life.
@@ -299,7 +288,6 @@
 - `INS-260328-A46F` [medium] Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260330-95E8` [medium] OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
 - `INS-260329-A6F0` [medium] Strategic imbalance for a defined period produces better lifetime outcomes than perpetual moderate balance that never breaks free of constraints.
-- `INS-260329-EC98` [medium] Build for people like you — authentic understanding of customer pain produces better products and more resilient motivation than external market research.
 - `INS-260329-CD64` [medium] Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
 - `INS-260327-B403` [medium] Treating software as a creative medium rather than a tool produces products that touch people emotionally.
 - `INS-260327-7349` [medium] Kaz extends Toby Lutke's trust battery concept: start at 75% trust to enable risk-taking, but deplete faster to quickly identify who belongs.

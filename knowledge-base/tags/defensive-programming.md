@@ -1,6 +1,5 @@
 # Tag: defensive-programming
 
-- `INS-260329-761A` C++ braced initialization rejects narrowing conversions at compile time while functional initialization silently truncates data, demonstrating how language design choices prevent entire bug categories.
 - `INS-260329-35F2` Demonstrating program crashes from bad input before introducing try-catch makes error handling feel necessary rather than ceremonial.
 - `INS-260329-72E0` Specific exception catches force explicit failure mode enumeration, producing more robust error handling than generic catch-alls.
 - `INS-260329-9010` Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.

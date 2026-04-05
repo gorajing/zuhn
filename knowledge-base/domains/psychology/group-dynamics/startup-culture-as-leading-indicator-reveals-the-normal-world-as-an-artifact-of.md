@@ -56,8 +56,8 @@ related:
   - INS-260327-F477
   - INS-260403-7AA1
   - INS-260403-79AD
-  - INS-260403-74EA
-  - INS-260403-507E
+  - INS-260402-2B96
+  - INS-260322-A892
 ---
 Graham's most provocative move is inverting Kate's list to describe the 'normal' world: people who talk a lot with one another as they work slowly but harmoniously on conservative, expensive projects whose destinations are decided in advance, carefully adjusting their manner to reflect their position in the hierarchy. He then notes this is also an accurate description of the past, suggesting startup culture is a leading indicator of broader societal change.
 

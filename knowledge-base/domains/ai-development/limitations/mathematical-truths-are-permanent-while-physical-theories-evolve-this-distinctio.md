@@ -67,38 +67,27 @@ stance: >-
   was superseded by Einstein's
 evidence:
   - id: INS-260323-DA1E
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260323-72EB
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-820C
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260323-849E
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260323-7345
-    type: EXTENDS
-    classified_at: '2026-04-02'
-  - id: INS-260325-EB9E
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-184C
+    relationship: RELATED
   - id: INS-260323-C3FA
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-EBDD
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-8625
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260402-26B0
-    type: REFINES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-DFA4
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Frenkel draws a crucial distinction: physical theories evolve (Newton superseded by Einstein), but mathematical truths are permanent. x^2 + y^2 = z^2 means the same thing to anyone in the world regardless of culture, religion, or era, and will still be true in a thousand years. This permanence comes from proof by logical deduction rather than empirical observation.
 

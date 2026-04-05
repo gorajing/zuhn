@@ -62,32 +62,21 @@ related:
   - INS-260329-F211
 evidence:
   - id: INS-260329-32DB
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-9A58
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-153F
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-74E5
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-656B
-    type: REFINES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-3263
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260329-55C4
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-8830
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-023F
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 This tutorial demonstrates a pedagogical pattern where each project naturally introduces the need for new concepts. The mad libs game motivates variables and string concatenation. The calculator motivates user input and type conversion. The guessing game motivates loops and conditionals. The better calculator motivates switch statements. Each concept arrives exactly when the learner needs it to solve a concrete problem.
 

@@ -16,11 +16,8 @@ tags:
   - prioritization
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -58,12 +55,19 @@ related:
   - INS-260323-1B42
   - INS-260327-5B30
   - INS-260329-1CB0
+  - INS-260330-A38C
   - INS-260330-F1C8
-  - INS-260403-600F
-  - INS-260403-D882
-  - INS-260403-3482
-  - INS-260404-10FF
-  - INS-260404-9710
+  - INS-260402-EA72
+  - INS-260402-7FCC
+  - INS-260402-5974
+  - INS-260403-EE10
+evidence:
+  - id: INS-260323-6351
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260323-1B42
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 A VC Graham cites invested in a company whose business model 'would probably change three times before they got it right' — and they knew this when writing the check. At the early stage, business model is a set of guesses in an area that's probably outside the founders' expertise. Talking about it at length signals poor prioritization of scarce pitch time.
 

@@ -49,6 +49,7 @@ stance: >-
   equivalence actually holds.
 related:
   - INS-260323-DE39
+  - INS-260329-59A5
   - INS-260330-A151
   - INS-260330-C548
   - INS-260330-C451
@@ -57,7 +58,6 @@ related:
   - INS-260330-6D13
   - INS-260330-2B5F
   - INS-260330-3698
-  - INS-260330-6D86
 evidence:
   - id: INS-260323-DE39
     type: TRANSFERS_TO

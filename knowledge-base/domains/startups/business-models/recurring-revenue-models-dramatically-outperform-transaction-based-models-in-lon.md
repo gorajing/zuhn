@@ -55,15 +55,18 @@ related:
   - INS-260322-B450
   - INS-260324-C496
   - INS-260327-4440
+  - INS-260327-CADA
   - INS-260329-C8C7
   - INS-260330-8FEC
+  - INS-260330-2CE3
   - PRI-260403-1D59
   - INS-260403-92CC
-  - INS-260403-C4DF
-  - INS-260403-3F5F
 evidence:
   - id: INS-260323-F753
     type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-8FEC
+    type: EXTENDS
     classified_at: '2026-04-05'
 ---
 Amazon's e-commerce business operates on razor-thin margins driven by individual transactions, while AWS generates 17%+ operating margins through recurring subscription revenue. This margin differential isn't accidental — it reflects a fundamental structural advantage of recurring revenue: predictable cash flows, lower customer acquisition costs per dollar earned, and compounding network effects as switching costs increase over time.

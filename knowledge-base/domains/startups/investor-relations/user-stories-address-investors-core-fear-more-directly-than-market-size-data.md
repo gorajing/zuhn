@@ -49,6 +49,7 @@ stance: >-
   one actually wants what you've built
 related:
   - INS-260328-9C16
+  - INS-260328-3446
   - INS-260403-3421
   - INS-260403-DC32
   - INS-260403-30D8
@@ -57,7 +58,6 @@ related:
   - INS-260403-0F5C
   - INS-260404-5D18
   - INS-260404-B31C
-  - INS-260404-61DA
 ---
 Graham identifies the core investor anxiety at the early stage: they fear the founder built something based on a priori theory rather than real demand. TAM slides don't address this fear — they show the size of a potential market, not evidence that anyone wants this specific product. User stories directly rebut the fear.
 

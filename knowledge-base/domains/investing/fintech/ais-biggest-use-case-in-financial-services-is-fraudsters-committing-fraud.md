@@ -50,8 +50,8 @@ related:
   - INS-260323-92AD
   - INS-260323-95FE
   - INS-260330-FC9F
+  - INS-260330-0BD3
   - INS-260330-2AC0
-  - INS-260330-FABE
 stance: >-
   Financial fraud is growing 18-20% per year because AI-powered fraud
   (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
@@ -71,6 +71,9 @@ evidence:
   - id: INS-260323-95FE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-DE45
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Plaid CEO Zach Perret made a sobering observation at a dinner: the biggest use case for AI in financial services right now is fraudsters using it against financial companies. Fraud is growing 18-20% annually and the 'mouse is winning' against the 'cat' in the short term.
 

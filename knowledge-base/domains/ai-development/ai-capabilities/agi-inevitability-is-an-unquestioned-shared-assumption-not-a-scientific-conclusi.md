@@ -53,6 +53,7 @@ related:
   - PRI-260328-BF67
   - INS-260323-4D4E
   - PRI-260324-2C9F
+  - INS-260327-FD99
 stance: >-
   The widely accepted belief that AGI is inevitable and we're racing toward it
   is a community assumption masquerading as scientific consensus

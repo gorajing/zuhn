@@ -48,11 +48,11 @@ stance: >-
   systems to organism is not just a classification scheme — each level exhibits
   emergent properties absent from the level below.
 related:
-  - INS-260323-BA00
   - INS-260330-42DE
   - PRI-260328-36C3
   - PRI-260403-C34A
   - PRI-260325-F9E1
+  - INS-260323-76FE
   - INS-260330-81E0
 evidence:
   - id: INS-260323-BA00

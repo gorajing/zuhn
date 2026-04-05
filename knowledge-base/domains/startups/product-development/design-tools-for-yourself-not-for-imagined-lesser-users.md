@@ -44,7 +44,6 @@ stance: >-
   Products designed for their creators consistently outperform those designed
   down to a perceived inferior audience.
 related:
-  - INS-260330-0CAD
   - INS-260403-F100
   - INS-260405-D23E
   - INS-260329-4DBC

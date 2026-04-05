@@ -47,9 +47,9 @@ resolutions:
 related:
   - PRI-260323-1B96
   - INS-260403-EA2D
-  - INS-260403-C2CF
   - PRI-260328-82BE
   - INS-260329-4DBC
+  - INS-260330-2B45
 stance: >-
   Selling frozen dumplings below cost on a recipe-sharing social platform proved
   market demand existed before investing in infrastructure

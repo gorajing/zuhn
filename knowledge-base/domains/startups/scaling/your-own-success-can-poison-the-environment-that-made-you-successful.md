@@ -57,16 +57,10 @@ related:
   - INS-260403-53C9
 evidence:
   - id: INS-260330-E218
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-4441
-    type: EXTENDS
-    classified_at: '2026-04-03'
-  - id: INS-260330-E497
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-F5CF
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 When early photosynthetic organisms evolved, they thrived in a low-oxygen, high-CO2 atmosphere. Their success at photosynthesis gradually flooded the atmosphere with oxygen — a byproduct they didn't need. This oxygen started interfering with RuBisCo, causing it to bind oxygen instead of CO2 roughly half the time, producing a toxic byproduct (phosphoglycolate) that plants must expend energy to neutralize. The organisms couldn't stop producing oxygen without stopping photosynthesis entirely. This is a powerful model for scaling dynamics: a startup's growth changes the market (attracts competitors, raises customer expectations, shifts regulatory attention) in ways that degrade the original competitive advantage. The very thing that made you successful — aggressive growth, low prices, rapid hiring — creates second-order environmental changes that force expensive adaptations. Recognizing this pattern early means building adaptive capacity alongside growth, not after the environment has already shifted.

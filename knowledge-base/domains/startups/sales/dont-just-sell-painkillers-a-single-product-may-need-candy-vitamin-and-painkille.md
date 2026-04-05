@@ -66,11 +66,11 @@ stance: >-
   painkillers/facts) for different stakeholders in the same deal.
 related:
   - INS-260324-6C5F
-  - INS-260322-3A00
   - PRI-260328-1545
-  - INS-260327-6188
   - PRI-260328-37F3
   - INS-260402-DCC5
+  - INS-260403-8448
+  - INS-260327-6A68
 evidence:
   - id: INS-260327-6188
     type: CHALLENGES

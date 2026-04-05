@@ -53,11 +53,11 @@ stance: >-
   fundamentally requires complex analysis and continuous calculus to understand,
   revealing that the continuous-discrete boundary in mathematics is artificial.
 related:
-  - INS-260329-91DD
   - INS-260329-6773
   - INS-260325-1519
   - INS-260325-2F12
   - INS-260330-DECB
+  - INS-260323-8815
 ---
 Dirichlet's 1837 proof that primes are equally distributed among valid residue classes (e.g., roughly 25% of primes end in each of 1, 3, 7, 9) relies heavily on complex analysis — doing calculus with functions whose inputs and outputs are complex numbers. As 3Blue1Brown notes, 'prime numbers seem wholly unrelated to the continuous world of calculus, much less when complex numbers end up in the mix,' yet this technique has been 'absolutely par for the course' since the early 19th century.
 

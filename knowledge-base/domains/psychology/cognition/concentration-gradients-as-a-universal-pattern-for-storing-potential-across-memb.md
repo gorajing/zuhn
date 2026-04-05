@@ -57,9 +57,8 @@ related:
   - INS-260403-34B4
   - INS-260403-050D
 evidence:
-  - id: INS-260403-384C
-    type: EXTENDS
-    classified_at: '2026-04-05'
+  - id: INS-260403-791A
+    relationship: RELATED
 ---
 ATP synthase works by letting protons flow down a concentration gradient through an enzyme—the chloroplast literally charges itself like a battery by pumping protons to one side of a membrane. The energy isn't in the protons themselves but in the differential between the two sides of the boundary.
 

@@ -40,11 +40,11 @@ resolutions:
     produces quality: first outputs rarely represent final quality, and most
     people stop after Round 1.
 related:
-  - INS-260320-E872
   - PRI-260321-037A
   - INS-260320-DC3C
   - INS-260321-A56C
   - PRI-260320-6847
+  - INS-260329-FEBA
 stance: 'Adding instructions to fuzzy tasks creates noise, not clarity'
 ---
 Counterintuitive finding: optimal prompt length is 150-300 words, and performance degrades around 3,000 tokens. Beginners add more instructions hoping for better output, but this creates noise. Experts compress: they define what the output should BE (description) rather than adding steps for what the model should DO (instructions). 'Think step by step' now actively hurts results with newer reasoning models. The difference between 40% and 90% quality output isn't more words — it's structural clarity. Iteration produces quality: first outputs rarely represent final quality, and most people stop after Round 1.

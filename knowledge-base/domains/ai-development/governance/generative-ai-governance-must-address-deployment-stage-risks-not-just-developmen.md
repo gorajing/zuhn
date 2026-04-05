@@ -18,7 +18,7 @@ tags:
   - wef
 sources:
   - type: blog
-    title: February 2025 Startups Raising Capital
+    title: "Governance in Gen AI\U0001F3DB️, The Power Law \U0001F4C8, Best VCs\U0001F3C6 "
     author:
       - '@type': Person
         name: Ruben Dominguez
@@ -42,7 +42,7 @@ sources:
             https://substackcdn.com/image/fetch/$s_!bXQe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec49c7d7-2cd7-41ae-88a2-7f9949791fac_400x400.jpeg
           thumbnailUrl: >-
             https://substackcdn.com/image/fetch/$s_!bXQe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec49c7d7-2cd7-41ae-88a2-7f9949791fac_400x400.jpeg
-    url: 'https://www.thevccorner.com/p/february-2025-startups-raising-capital'
+    url: 'https://www.thevccorner.com/p/governance-in-gen-ai-the-power-law'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0

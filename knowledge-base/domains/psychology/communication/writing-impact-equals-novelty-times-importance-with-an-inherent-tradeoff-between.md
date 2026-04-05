@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260404-5AC1
   - INS-260403-21A5
-  - INS-260327-98DE
   - INS-260403-280B
   - INS-260323-2FC3
+  - INS-260402-4605
 ---
 Paul Graham frames essay impact as the product of two factors: how much it changes readers' thinking and how important the topic is. In practice, writers face a tradeoff — you can shift thinking dramatically on moderately important topics, or nudge it slightly on very important ones. This is because important topics have been extensively explored, leaving less room for novel contributions.
 

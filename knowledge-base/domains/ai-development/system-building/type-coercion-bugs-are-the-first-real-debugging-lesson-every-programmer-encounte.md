@@ -51,11 +51,12 @@ stance: >-
   concatenating strings instead of adding numbers is the single most valuable
   debugging experience in early programming education
 related:
-  - INS-260329-7C59
-  - INS-260329-04FA
   - INS-260329-20F8
-  - INS-260329-7BAF
   - INS-260330-5609
+  - INS-260321-53E2
+  - INS-260329-500E
+  - INS-260330-F5A1
+  - INS-260329-19EA
 evidence:
   - id: INS-260329-20F8
     type: SUPPORTS

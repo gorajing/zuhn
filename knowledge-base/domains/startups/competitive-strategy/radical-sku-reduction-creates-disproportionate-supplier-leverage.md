@@ -14,8 +14,8 @@ tags:
   - scarcity
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -53,15 +53,10 @@ related:
   - INS-260403-180D
   - INS-260404-1843
 evidence:
-  - id: INS-260404-9B82
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260403-89B5
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260405-F57E
+    relationship: RELATED
   - id: INS-260403-0DC2
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 While a typical supermarket stocks 30,000 items and Walmart carries 140,000, Costco limits its selection to roughly 4,000. This constraint — which appears to be a weakness — creates extraordinary leverage. When there are only one or two slots per category, suppliers compete ferociously to be chosen, accepting lower margins and even redesigning products to Costco's specifications. In one case, Costco reengineered a cashew container to fit more per pallet, saving 24,000 pallets annually.
 

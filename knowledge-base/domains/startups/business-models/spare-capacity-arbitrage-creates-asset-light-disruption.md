@@ -41,10 +41,15 @@ stance: >-
   The most capital-efficient disruptions repurpose existing idle infrastructure
   rather than building new assets
 related:
+  - INS-260323-60C1
   - INS-260330-637F
   - INS-260324-0DC1
   - INS-260323-9A29
   - INS-260330-16F7
   - INS-260327-092E
+evidence:
+  - id: INS-260323-9A29
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Virtual Dining Concept recognized that pandemic-era restaurants had massive spare kitchen capacity sitting idle. Rather than investing in physical locations, VDC created a model where existing restaurants cook celebrity-branded food using their own equipment and staff, receiving 30% of profits in return. This spare capacity arbitrage allowed 300 locations to open overnight — a feat that took McDonald's 6 years. The pattern generalizes: whenever an industry has underutilized fixed assets (kitchens, warehouses, vehicles, compute), an intermediary can build a platform that monetizes that slack without owning the assets themselves.

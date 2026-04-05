@@ -47,11 +47,11 @@ stance: >-
   quadratically with headcount because communication overhead scales with the
   number of node-pairs, not linearly with people.
 related:
-  - INS-260330-DF02
   - INS-260322-C935
   - INS-260404-CF81
   - INS-260322-B6DE
   - INS-260403-B008
+  - INS-260322-AAEA
 evidence:
   - id: INS-260322-B6DE
     type: CHALLENGES

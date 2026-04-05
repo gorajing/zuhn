@@ -48,7 +48,6 @@ stance: >-
   50/50 creates paralysis.
 related:
   - INS-260330-855A
-  - INS-260330-F4C0
   - INS-260330-A9CB
   - INS-260330-C7FF
   - INS-260330-3E6F

@@ -55,13 +55,11 @@ stance: >-
   is not algorithmic cleverness but the ability to select the appropriate data
   structure for each specific task.
 related:
-  - INS-260329-92C3
+  - INS-260329-7255
   - INS-260329-AC6E
   - INS-260329-F51D
-  - INS-260329-8F86
   - PRI-260403-52DF
-  - INS-260330-2666
-  - INS-260329-BDCC
+  - INS-260329-1741
   - INS-260403-8190
 evidence:
   - id: INS-260327-2387

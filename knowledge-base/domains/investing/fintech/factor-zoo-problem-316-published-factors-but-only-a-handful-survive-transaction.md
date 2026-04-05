@@ -46,11 +46,11 @@ resolutions:
     marketed by quantitative funds and focusing on the well-documented,
     implementable factors through established providers.
 related:
-  - INS-260323-8AB8
   - INS-260323-15F4
   - INS-260330-6AA3
   - INS-260323-BA17
-  - INS-260323-7B63
+  - INS-260323-422B
+  - PRI-260321-558C
   - INS-260327-F996
 stance: >-
   After Fama-French opened the door to factor research, academics published 316+

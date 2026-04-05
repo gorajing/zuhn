@@ -6,7 +6,6 @@
 - `INS-260327-97AD` Themistocles sent a false message to Xerxes saying the Greeks were about to flee, which Xerxes believed because it confirmed what he wanted to hear.
 - `INS-260403-359D` Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
 - `INS-260404-DA41` Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
-- `INS-260403-8D87` Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
 - `INS-260325-F2ED` Kontorovich spent 20 years trying to prove Collatz true before realizing he should also search for counterexamples — a structural bias present in most research.
 - `INS-260330-0AE2` Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260403-57F6` Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs.

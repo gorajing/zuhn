@@ -45,7 +45,6 @@ stance: >-
   are developing delivery skill and subject matter simultaneously.
 related:
   - INS-260320-9935
-  - INS-260329-8299
   - INS-260403-C55B
   - INS-260329-0F10
   - INS-260329-127F

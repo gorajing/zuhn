@@ -47,6 +47,7 @@ resolutions:
     shift from trapped to choosing transforms not just your finances but your
     cognitive capacity to think about money differently.
 related:
+  - INS-260323-F2BD
   - INS-260322-DAA1
   - INS-260326-16A8
   - PRI-260323-C49D

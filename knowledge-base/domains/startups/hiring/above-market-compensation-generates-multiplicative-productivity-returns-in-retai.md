@@ -16,8 +16,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -52,10 +52,11 @@ stance: >-
 related:
   - INS-260330-7E58
   - INS-260403-365D
-  - INS-260404-E1FF
   - INS-260403-C125
   - INS-260404-6A20
   - INS-260403-E2D9
+  - INS-260403-43E5
+  - INS-260405-C8BC
 ---
 Costco's average wage of $21/hour is double the US retail average, supplemented by better health insurance and retirement benefits. The result: employees three times more productive than the industry norm. The math works decisively in Costco's favor — 2x cost for 3x output is a 50% improvement in labor cost efficiency.
 

@@ -14,8 +14,8 @@ tags:
   - subscription-models
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -57,9 +57,8 @@ related:
   - INS-260404-B8AE
   - INS-260404-C4B9
 evidence:
-  - id: INS-260403-59F8
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260405-D4F4
+    relationship: RELATED
 ---
 Costco derives 75% of its revenue from membership fees, not product markup. This fundamentally changes incentive structure compared to Amazon Prime, where the subscription is a loyalty layer on top of a margin-based business. When membership IS the business model, raising prices becomes self-destructive — a few extra cents today costs $60 in lost renewals tomorrow. This creates a self-reinforcing loop: low prices drive 90% renewal rates, which drive predictable revenue, which enables even lower prices.
 

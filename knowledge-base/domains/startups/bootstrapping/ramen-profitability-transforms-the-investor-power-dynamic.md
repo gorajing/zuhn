@@ -47,13 +47,13 @@ related:
   - INS-260328-4EA0
   - INS-260329-2A5A
   - INS-260329-B2D8
-  - INS-260330-75E2
   - INS-260402-8424
   - INS-260402-2E19
   - INS-260403-0530
   - INS-260403-160A
   - INS-260403-1217
   - INS-260403-CF7C
+  - INS-260403-B9A9
 ---
 'Ramen profitable' — making just enough to pay founders' living expenses — isn't about validating a business model. It's about hacking the investment process by eliminating existential dependency on outside capital. When you can survive indefinitely without investors, every conversation with them shifts from 'please save us' to 'here's an opportunity.'
 

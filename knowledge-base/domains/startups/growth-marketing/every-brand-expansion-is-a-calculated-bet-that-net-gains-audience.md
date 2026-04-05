@@ -50,7 +50,7 @@ related:
   - INS-260329-2865
   - INS-260329-776B
   - INS-260329-409F
-  - INS-260330-4DFA
   - INS-260330-629E
+  - INS-260403-AEAF
 ---
 Hormozi uses the analogy of a local band going mainstream: some original fans cry 'sellout,' but the band bets that the broader audience gained will exceed the niche audience lost. He frames brand expansion as inherently risky — every new pairing (new content topic, new product line, new association) will alienate some percentage of current followers who preferred the narrower identity. The key insight is that this loss is unavoidable and shouldn't paralyze decision-making. He advises: 'Don't let the five mean comments stop you from gaining the 500 new people who like the new thing.' The narrow-to-broad spectrum (tacos → Mexican food → food → restaurants) shows how each expansion step trades depth of association for breadth of audience, and the optimal position depends on your growth stage and goals.

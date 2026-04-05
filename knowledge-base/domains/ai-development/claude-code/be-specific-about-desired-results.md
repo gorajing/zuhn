@@ -48,17 +48,13 @@ stance: >-
   implementations.
 evidence:
   - id: INS-260325-0FED
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260402-89DE
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260404-CA98
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260403-EE70
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-7964
+    relationship: RELATED
 ---
 
 Specificity in prompts directly correlates with output quality. Instead

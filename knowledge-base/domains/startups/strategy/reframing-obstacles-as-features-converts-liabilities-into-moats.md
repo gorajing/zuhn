@@ -15,8 +15,8 @@ tags:
   - reframing
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -54,8 +54,8 @@ related:
   - INS-260405-A9B2
   - INS-260404-7A5B
   - INS-260404-8B1C
-  - INS-260404-445D
   - INS-260404-41AA
+  - INS-260404-FB91
   - INS-260405-9EE6
 ---
 Costco's warehouse layout is confusing and undecorated — yet this forces customers to wander through aisles (increasing impulse purchases) while signaling 'we spend money on low prices, not aesthetics.' The mandatory membership fee should make customer acquisition fatally difficult — yet it selects for affluent households ($100K+ average income) and creates deep loyalty. The limited selection should frustrate shoppers — yet it reduces decision fatigue and enables supplier leverage. Each apparent weakness is actually load-bearing in the business model. This is the deepest form of competitive moat: competitors analyze Costco and see problems to avoid, not advantages to copy. IKEA's self-assembly model works identically — customers feel pride of ownership in furniture they built, converting a cost-saving measure into emotional value. The strategic lesson is to ask not 'how do we eliminate our weaknesses?' but 'which of our weaknesses are actually serving us?'

@@ -14,11 +14,8 @@ tags:
   - proxy-for-demand
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -49,13 +46,13 @@ stance: >-
   the most effective pitch element because they directly address investors'
   primary anxiety — that you've built something nobody actually wants.
 related:
+  - PRI-260323-0942
   - INS-260329-086B
-  - INS-260404-5248
-  - INS-260403-035A
   - INS-260403-1444
-  - INS-260403-1A73
-  - INS-260404-4F3A
+  - INS-260403-035A
   - INS-260405-F9EC
+  - INS-260404-29F4
+  - INS-260404-CF2A
 ---
 Graham cites Sequoia's Greg McAdoo looking for a 'proxy for demand' — evidence that people are already struggling with inadequate tools to do what your product enables. This reframes user stories from nice-to-have narrative devices into the hardest evidence an early-stage startup can present.
 

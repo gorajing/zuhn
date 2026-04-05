@@ -49,12 +49,12 @@ stance: >-
   defend-a-position approach because it allows the creator to change direction
   based on what they discover
 related:
-  - INS-260323-5BEF
   - INS-260329-4E70
   - INS-260329-B34E
   - PRI-260328-9EC9
   - INS-260403-16F2
   - INS-260403-AAE4
+  - INS-260330-9197
 evidence:
   - id: INS-260323-5BEF
     type: TRANSFERS_TO

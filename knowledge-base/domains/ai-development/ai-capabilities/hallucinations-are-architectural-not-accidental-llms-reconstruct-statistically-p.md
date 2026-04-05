@@ -65,27 +65,20 @@ stance: >-
   Hallucinations stem from how LLMs break information into tokens and
   reconstruct probable relationships
 evidence:
-  - id: INS-260329-B214
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+  - id: INS-260329-FC75
+    relationship: RELATED
   - id: INS-260322-96F1
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260323-176B
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-0D0B
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260402-89DE
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-7B2D
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
-  - id: INS-260330-C7DB
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-3ECE
+    relationship: RELATED
 ---
 Marcus anticipated hallucinations in his 2001 book 'The Algebraic Mind' before LLMs even existed. The mechanism is clear: LLMs break information into tokens, build statistical clusters of co-occurring concepts, then reconstruct outputs. Sometimes these reconstructions are wrong — Harry Shearer becomes 'British' because the system blurs him with statistically similar British voiceover actors. The system presents everything with encyclopedia-like confidence whether true or not.
 

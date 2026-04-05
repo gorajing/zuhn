@@ -14,11 +14,8 @@ tags:
   - investors
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -57,8 +54,12 @@ related:
   - INS-260403-0F5C
   - INS-260403-30D8
   - INS-260405-F980
-  - INS-260404-06C4
   - INS-260404-5D18
+  - INS-260403-EA2D
+evidence:
+  - id: INS-260324-5C53
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The biggest investor fear at early stage is that you've built something from theory rather than observed need. Greg McAdoo from Sequoia calls the antidote 'proxy for demand': evidence that people are already doing the thing your product enables, just with worse tools. This is more persuasive than TAM slides because it's behavioral evidence rather than statistical projection.
 

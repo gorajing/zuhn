@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260330-EF51
   - PRI-260328-F0E4
-  - INS-260326-291C
   - INS-260327-7F56
   - PRI-260328-604D
   - INS-260403-C949
+  - INS-260330-F800
 ---
 The conventional management model treats each subtree of the org chart as a black box — you tell direct reports what to do, they figure out how, and you don't get involved in details. In theory this sounds scalable and respectful. In practice, it creates information asymmetries that 'professional fakers' exploit to extract value while driving the company into the ground.
 

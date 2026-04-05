@@ -54,6 +54,7 @@ stance: >-
   attention that should go to building, since most market moves are
   self-interested responses to opportunity rather than targeted strategy.
 related:
+  - INS-260325-436A
   - INS-260327-EE5E
   - INS-260330-376E
   - INS-260402-9093

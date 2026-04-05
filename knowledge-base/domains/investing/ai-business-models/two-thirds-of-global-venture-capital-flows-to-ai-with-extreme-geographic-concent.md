@@ -52,19 +52,14 @@ related:
   - INS-260330-F4C0
 evidence:
   - id: INS-260330-855A
-    type: CHALLENGES
-    classified_at: '2026-04-02'
-  - id: INS-260330-F4C0
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-C745
+    relationship: RELATED
   - id: INS-260328-988F
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260403-5D7D
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-383F
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 A VC investor noted that approximately two-thirds of all venture money now flows to AI, and two-thirds of that AI funding concentrates in the Bay Area — meaning roughly 44% of global venture capital flows to AI companies in one metropolitan area. Companies outside this geography face structural capital access disadvantages. Meanwhile, within the Bay Area, competition intensity is extreme: companies scaling from zero to $100 million ARR in 10 months, then racing to $200 million. The investor also observed a bifurcation between companies that are AI-native from founding versus traditional companies adding AI capabilities after the fact, with the former commanding disproportionate investor attention and the latter struggling to reposition credibly.

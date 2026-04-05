@@ -51,11 +51,11 @@ stance: >-
   full-pipeline ownership — planning, building, hosting, auth, database, and app
   store submission in a single workflow.
 related:
-  - INS-260321-FD14
   - INS-260329-E193
   - INS-260330-7C24
   - INS-260329-560D
-  - INS-260330-5747
+  - INS-260321-FD14
+  - INS-260330-8F07
 evidence:
   - id: INS-260330-5747
     type: SUPPORTS

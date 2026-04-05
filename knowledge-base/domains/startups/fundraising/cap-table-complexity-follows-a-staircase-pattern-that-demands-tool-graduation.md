@@ -58,6 +58,10 @@ stance: >-
   Founders who stay on spreadsheets past their first priced round accumulate
   compounding errors that become exponentially more expensive to fix with each
   subsequent round
+evidence:
+  - id: INS-260403-D33B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Cap tables start simple—founders and maybe a few SAFEs—but complexity increases in discrete jumps at each funding milestone. The seed-to-Series A transition introduces preferred stock classes, expanded option pools, and SAFE conversions simultaneously. By Series B, you have multiple preferred classes with distinct liquidation preferences, participation rights, and governance terms that spreadsheets simply cannot track reliably.
 

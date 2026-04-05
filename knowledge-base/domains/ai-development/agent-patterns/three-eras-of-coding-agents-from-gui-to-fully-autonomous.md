@@ -48,11 +48,11 @@ stance: >-
   autonomously, and humans supervising each step actually slows progress.
 related:
   - INS-260321-D3BE
+  - INS-260405-AFF7
   - INS-260328-B19D
   - INS-260325-D540
   - INS-260327-C1A4
   - PRI-260328-1ED1
-  - INS-260327-1FA1
   - INS-260323-05B5
   - INS-260327-9D50
   - INS-260327-5F10

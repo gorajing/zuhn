@@ -45,10 +45,10 @@ resolutions:
     factor investing over traditional stock-picking or active fund selection.
 related:
   - INS-260325-FDB3
-  - INS-260323-8AB8
   - INS-260323-422B
-  - INS-260327-7435
   - INS-260326-6B98
+  - INS-260403-92EB
+  - PRI-260328-26AA
   - INS-260403-8002
   - INS-260403-9C63
 stance: >-
@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-422B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-9C63
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The original 1968 Jensen paper showed active managers couldn't beat the market on a single-factor (CAPM) basis. Fama-French's multi-factor model made this worse: funds that appeared to generate alpha under CAPM were often just holding small-cap or value-tilted portfolios. Once you account for all five factors, the 'skill' disappears.
 

@@ -54,12 +54,12 @@ stance: >-
   the cost of switching exceeds the cost of compensating, locking in permanent
   inefficiency.
 related:
-  - INS-260327-B9BB
+  - INS-260330-53A9
   - INS-260403-0162
   - INS-260404-4010
-  - INS-260330-C02D
   - INS-260404-BC18
   - INS-260330-22C0
+  - INS-260404-1D8F
   - INS-260330-EB1B
   - INS-260330-CC30
   - INS-260404-5E8F

@@ -54,7 +54,6 @@ stance: >-
   citizens expect prices to rise, their behavior accelerates the collapse
   regardless of monetary policy changes.
 related:
-  - INS-260330-43FF
   - INS-260330-AACC
   - PRI-260328-0993
   - PRI-260328-1A2D

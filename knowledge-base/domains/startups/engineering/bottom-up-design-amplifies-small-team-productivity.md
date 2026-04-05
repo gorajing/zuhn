@@ -44,6 +44,7 @@ stance: >-
   Small teams that build domain-specific abstractions before writing application
   logic outperform larger teams using top-down decomposition
 related:
+  - INS-260330-80AF
   - INS-260330-62D6
   - INS-260402-E470
   - INS-260330-F08F

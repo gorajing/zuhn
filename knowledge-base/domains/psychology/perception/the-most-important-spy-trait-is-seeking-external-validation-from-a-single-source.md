@@ -50,16 +50,16 @@ stance: >-
   who are so dependent on external validation that they will do anything to earn
   approval from one focused institutional source.
 related:
-  - INS-260323-9E30
   - INS-260325-D82A
   - INS-260329-28A6
   - INS-260329-66C7
-  - INS-260403-0F95
   - INS-260404-8F62
+  - INS-260330-990F
   - INS-260326-7F56
   - INS-260327-F7BC
   - INS-260327-768D
   - INS-260329-59D2
+  - INS-260329-5346
 evidence:
   - id: INS-260323-9D6E
     type: TRANSFERS_TO

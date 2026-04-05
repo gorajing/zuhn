@@ -48,13 +48,16 @@ stance: >-
   insufficient governance around centralized operators, not a fundamental flaw
   in the technology itself
 related:
-  - INS-260327-D570
   - INS-260330-7C58
   - PRI-260328-37D8
   - INS-260322-6088
   - INS-260327-ACB3
+  - INS-260330-A2D4
 evidence:
   - id: INS-260322-6088
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-7C58
     type: SUPPORTS
     classified_at: '2026-04-05'
 ---

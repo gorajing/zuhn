@@ -14,11 +14,8 @@ tags:
   - investor-psychology
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -53,11 +50,11 @@ stance: >-
 related:
   - INS-260330-D801
   - INS-260404-A8C0
-  - INS-260404-9158
-  - INS-260403-C625
-  - INS-260404-5483
-  - INS-260404-10FF
-  - INS-260404-BD17
+  - INS-260403-2E90
+  - INS-260405-092A
+  - INS-260405-D6B9
+  - INS-260403-A172
+  - INS-260405-180B
 ---
 A top-tier VC Paul Graham quotes explicitly said a company he just invested in had a business model that would probably change three times. He invested anyway. This is the norm, not the exception. Investors at the seed stage are betting on the problem and the founders, not the revenue model.
 

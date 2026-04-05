@@ -48,7 +48,6 @@ stance: >-
   is wealth building.
 related:
   - INS-260323-750A
-  - INS-260325-51E6
   - INS-260323-500B
   - INS-260321-3EC0
   - INS-260324-6345
@@ -57,6 +56,7 @@ related:
   - INS-260327-4C26
   - INS-260403-3D38
   - INS-260402-EEDB
+  - INS-260402-4719
 evidence:
   - id: INS-260324-6345
     type: SUPPORTS

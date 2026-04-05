@@ -48,13 +48,14 @@ stance: >-
   Most genuinely hard quantitative problems become tractable when decomposed
   into sums of small approximations that converge to the exact answer.
 related:
-  - INS-260325-898A
   - INS-260325-03D5
   - INS-260330-541B
   - INS-260329-9CBB
+  - INS-260325-898A
   - INS-260330-1E5E
   - INS-260329-0CC5
   - INS-260325-5FE9
+  - INS-260329-76B8
   - INS-260330-62D6
 evidence:
   - id: INS-260329-0CC5

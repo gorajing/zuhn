@@ -46,8 +46,8 @@ related:
   - INS-260325-05EC
   - INS-260327-C99D
   - INS-260329-A862
+  - INS-260329-595E
   - INS-260330-AE16
-  - INS-260330-9055
 stance: >-
   AI's superpower is breadth (trying every technique on every problem
   simultaneously), humans' is depth (cumulative progress from partial

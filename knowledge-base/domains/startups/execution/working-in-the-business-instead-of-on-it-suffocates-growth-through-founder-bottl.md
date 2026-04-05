@@ -50,7 +50,6 @@ related:
   - INS-260330-7ECB
   - INS-260330-86CD
   - INS-260404-7325
-  - INS-260327-A234
 stance: >-
   Founders who try to be every team member stifle company growth and drain
   energy from the entire organization.

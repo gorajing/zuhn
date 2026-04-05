@@ -47,8 +47,8 @@ related:
   - INS-260327-E07D
   - INS-260326-C692
   - INS-260330-D108
-  - INS-260330-7E66
   - INS-260329-A6FB
+  - INS-260322-C6CE
   - INS-260404-875B
 ---
 Graham draws an analogy between trolling and graffiti: both occur at the intersection of ambition and incompetence. People want to make their mark but lack the skill to do so constructively. Hostile one-liners serve a dual purpose — they're easier to produce than reasoned critiques, and they're immune to counter-argument because there's no specific claim to refute.

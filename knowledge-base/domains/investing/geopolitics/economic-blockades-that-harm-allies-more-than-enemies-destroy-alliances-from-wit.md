@@ -55,6 +55,7 @@ related:
   - INS-260327-F484
   - INS-260327-CF72
   - INS-260330-E082
+  - INS-260330-E4DB
 ---
 The Continental System was Napoleon's attempt to defeat Britain through economic warfare — banning all European trade with British ports. But Russia's economy depended heavily on exports to Britain. The blockade caused severe economic pain in Russia while Britain found alternative markets. Russia began secretly trading with Britain again, and when Napoleon discovered this, it became a primary cause of the 1812 invasion.
 

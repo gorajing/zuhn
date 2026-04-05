@@ -60,22 +60,18 @@ related:
   - INS-260329-DF50
 evidence:
   - id: INS-260327-415B
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-6204
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-AC84
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-7018
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-DF50
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-388E
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260403-1852
+    relationship: RELATED
 ---
 HowMoneyWorks reveals the information cascade: 1) Institutional investors identify an opportunity (crypto, SPACs, AI stocks, real estate in emerging markets), 2) They deploy capital while it's cheap and illiquid, 3) The opportunity generates returns, attracting media attention, 4) Financial media and influencers package it for retail audiences, 5) Retail investors pile in at elevated valuations, 6) Institutions sell into retail demand. This pattern repeats across every asset class and every cycle. The retail investor is not the customer — they are the exit liquidity. The only reliable retail strategy is boring: low-cost index funds, consistent contributions, and ignoring trending financial products. Every 'once-in-a-lifetime' opportunity marketed to retail investors proves this pattern.

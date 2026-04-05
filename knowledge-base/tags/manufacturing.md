@@ -3,7 +3,6 @@
 - `INS-260322-0CE3` Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
 - `INS-260325-76BD` Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
 - `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
-- `INS-260330-BBCF` Since China's 2001 WTO entry, manufacturing value-added flipped from US at 2x China to China at 2x US — a structural shift in hard power.
 - `INS-260321-D484` Jensen predicts $1T in NVIDIA bookings through 2027, but TSMC manufacturing is the real bottleneck — NVIDIA has locked up 70% of TSMC's 3nm node capacity.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260330-5600` Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.

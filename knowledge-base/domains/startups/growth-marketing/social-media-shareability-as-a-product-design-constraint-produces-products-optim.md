@@ -40,16 +40,16 @@ stance: >-
   optimize for visual impact at the expense of the actual consumption
   experience, creating a gap between appearance and reality.
 related:
+  - INS-260323-5609
   - INS-260323-C4EE
   - INS-260323-4D63
-  - INS-260325-51E6
   - INS-260327-C9A3
   - INS-260327-EEEE
   - INS-260327-9CB1
   - INS-260327-FEB7
   - INS-260330-059C
   - PRI-260328-0BE1
-  - INS-260327-7018
+  - INS-260328-ACC3
 evidence:
   - id: INS-260330-1F7E
     type: EXTENDS

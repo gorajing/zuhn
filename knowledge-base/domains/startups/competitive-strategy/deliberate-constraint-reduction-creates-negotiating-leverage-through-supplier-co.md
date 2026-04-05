@@ -16,8 +16,8 @@ tags:
   - curation
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -57,9 +57,8 @@ related:
   - INS-260404-3EA3
   - INS-260405-F57E
 evidence:
-  - id: INS-260404-6945
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260405-F57E
+    relationship: RELATED
 ---
 Most retailers treat shelf space as inventory to fill — more products means more potential sales. Costco inverts this by radically constraining selection to roughly 4,000 SKUs. This artificial scarcity transforms the power dynamic with suppliers: instead of Costco needing products to fill shelves, suppliers need Costco's limited slots to access its affluent, high-volume membership base.
 

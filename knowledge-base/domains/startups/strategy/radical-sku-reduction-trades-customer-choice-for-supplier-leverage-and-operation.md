@@ -16,8 +16,8 @@ tags:
   - curation
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -52,12 +52,12 @@ stance: >-
 related:
   - INS-260321-3BA8
   - INS-260330-7220
-  - INS-260405-DEF2
   - INS-260403-4874
-  - INS-260404-1EA6
-  - INS-260404-57E3
+  - INS-260404-B350
+  - INS-260405-DEF2
+  - INS-260405-D9C8
   - INS-260405-88F9
-  - INS-260404-7D8F
+  - INS-260405-F57E
 ---
 Conventional retail wisdom says more selection means more customers served. Costco inverts this: by offering only one or two options per category, it becomes the gatekeeper for enormous purchase volume. Suppliers compete aggressively to be the chosen product — lowering prices, redesigning packaging (Costco once had a cashew container redesigned to fit 24,000 more pallets per year), and adapting to Costhn requirements. The scarcity of shelf slots becomes leverage.
 

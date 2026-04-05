@@ -1,11 +1,10 @@
 # Topic: bootstrapping
 
-> 35 insights
+> 33 insights
 
 - `INS-260320-20F2` [very_high] Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260329-CB10` [high] Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
-- `INS-260329-8B55` [high] Negotiate price and terms separately — agree on price first, then structure seller financing so you pay from the business's own cash flow.
 - `INS-260329-5257` [high] Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260321-7D76` [high] A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
 - `INS-260321-2D72` [high] Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
@@ -27,7 +26,6 @@
 - `INS-260321-1992` [high] Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
 - `INS-260321-E5C5` [high] The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
 - `INS-260329-55D8` [high] Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
-- `INS-260329-3C25` [high] Start with high-ticket 1:1 work to fund scalable growth — Tesla's Roadster-to-Model-3 path works for service businesses too.
 - `INS-260323-DD40` [high] Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
 - `INS-260329-0DA4` [medium] An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
 - `INS-260403-1B9E` [medium] Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.

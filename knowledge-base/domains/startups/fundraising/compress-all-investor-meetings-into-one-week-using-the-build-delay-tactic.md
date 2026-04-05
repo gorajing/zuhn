@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260322-8F80
   - INS-260327-E9F3
-  - INS-260330-DEBC
   - INS-260402-5974
   - INS-260322-AAEA
+  - INS-260403-1CC5
 ---
 Michael Seibel recommends treating fundraising as a sprint, not a marathon. The tactic: when investors respond to warm intros, reply 'We'd love to meet but we're building like crazy for the next two weeks — can we set something up in week three?' This achieves multiple objectives simultaneously.
 

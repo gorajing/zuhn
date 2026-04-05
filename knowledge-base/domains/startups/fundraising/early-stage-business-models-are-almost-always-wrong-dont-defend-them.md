@@ -14,11 +14,8 @@ tags:
   - focus
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -49,12 +46,13 @@ stance: >-
   the bad plan instead of the good product.
 related:
   - PRI-260324-A608
+  - INS-260403-481F
   - INS-260403-6982
-  - INS-260404-93E3
-  - INS-260404-40D1
   - INS-260403-2E90
-  - INS-260404-9158
+  - INS-260404-3214
+  - INS-260404-93E3
   - INS-260404-16E1
+  - INS-260405-C22F
 ---
 PG cites a top VC who invested in a company while explicitly acknowledging their business model would change three times before it was right. At early stage, the business model is pure speculation about a domain the founders likely don't have deep expertise in. Defending it in detail is a bad use of scarce pitch time and a credibility risk.
 

@@ -46,10 +46,10 @@ stance: >-
   completely — not partially — at the next order of complexity.
 related:
   - INS-260329-579D
-  - INS-260329-B6A6
   - INS-260329-66BD
   - PRI-260325-5760
-  - INS-260323-2DF2
+  - INS-260330-B4B9
+  - INS-260403-3A8A
 evidence:
   - id: INS-260323-2DF2
     type: SUPPORTS

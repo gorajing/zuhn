@@ -79,6 +79,21 @@ evidence:
   - id: INS-260403-F447
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-0B17
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260404-AFE6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260405-4AE1
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-DFC3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-AF54
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Confirmation bias drives investors to seek information that supports their existing view rather than challenges it. Ritholtz reframes proper investment research: for every position you want to take, actively seek the strongest arguments against it. What are the risks? What could go wrong? What alternatives exist?
 

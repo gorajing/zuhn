@@ -52,6 +52,7 @@ stance: >-
   in need of more charitable interpretation.
 related:
   - INS-260327-7846
+  - INS-260329-5818
   - INS-260402-E36A
   - INS-260403-5D18
   - INS-260403-472E
@@ -60,7 +61,6 @@ related:
   - INS-260405-D606
   - INS-260405-7B8D
   - INS-260404-4DF7
-  - INS-260404-EAB7
 ---
 When we judge early versions of ambitious projects, we apply the wrong standard: we compare them to finished work or to less ambitious projects, rather than recognizing them as a special case. A project 20% of the way to a goal worth 100 looks worse than a project 80% of the way to a goal worth 10, even if the former has far more expected value.
 

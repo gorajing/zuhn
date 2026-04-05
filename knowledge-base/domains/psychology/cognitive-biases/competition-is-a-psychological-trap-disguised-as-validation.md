@@ -54,9 +54,9 @@ stance: >-
   have lost sight of whether the goal is actually worth pursuing.
 related:
   - INS-260330-4B55
-  - INS-260330-2355
   - INS-260330-0D11
   - PRI-260321-2DF0
   - PRI-260328-EAC4
+  - INS-260323-422B
 ---
 Thiel argues competition is not just an intellectual blind spot but a deep psychological one rooted in human mimetic nature — Shakespeare's era already used 'ape' to mean both primate and imitate. We treat competition as validation: if many people pursue something, it must be valuable. But 20,000 people move to LA annually to become movie stars and 20 succeed. Kissinger described Harvard faculty battles as 'so ferocious because the stakes were so small' — when objective differences are tiny, people compete more intensely to maintain imaginary distinctions. Thiel's personal example: reaching a top NYC law firm where everyone outside wanted in and everyone inside wanted out, with a colleague calling it 'Alcatraz' — all you had to do was walk out the front door. Harvard Business School studies show the largest cohort systematically chases the previous cycle's hottest sector (junk bonds in '89, tech in '99, housing in '05-07). Competition makes you better at the competed-on dimension but stops you from asking whether the dimension matters. The prescription: 'Don't go through the tiny door everyone's rushing through — go around the corner and through the vast gate no one's taking.'

@@ -1,6 +1,5 @@
 # Tag: user-interviews
 
-- `INS-260330-478C` Playing recorded interviews for the team creates conviction that no summary or presentation can match.
 - `INS-260330-A6BE` Record interviews and play them back to the team — the emotional impact of hearing real users creates alignment that summaries and data slides cannot.
 - `INS-260330-FFDB` When real users request specific features, the feedback feels overwhelmingly compelling but leads to building the wrong things.
 - `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.

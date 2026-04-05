@@ -53,12 +53,12 @@ stance: >-
   (0.77-0.81), meaning consumers behave like addicts who will pay any price for
   their fix.
 related:
-  - INS-260325-1585
   - INS-260327-470B
   - INS-260327-868D
   - INS-260327-FC4F
   - PRI-260328-1545
   - INS-260327-0D7C
+  - PRI-260328-6136
 evidence:
   - id: INS-260325-1585
     type: SUPPORTS

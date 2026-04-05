@@ -49,11 +49,11 @@ stance: >-
   Trying to predict the direction of change is less effective than cultivating
   maximum sensitivity to change signals from any direction
 related:
-  - INS-260329-8067
   - PRI-260323-CE34
   - INS-260325-75C5
   - INS-260402-CCC3
   - INS-260403-4DFB
+  - INS-260403-0A97
 ---
 Graham argues that beliefs about the future are so rarely correct that they usually aren't worth the rigidity they impose. The better strategy is to stop trying to point yourself in the right direction and instead become maximally sensitive to the winds of change. This is a fundamentally different epistemic posture: rather than forming strong priors and updating, you maintain weak priors and optimize for signal detection.
 

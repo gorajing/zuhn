@@ -48,8 +48,8 @@ related:
   - INS-260322-D2E9
   - INS-260325-BAA4
   - INS-260404-AE2E
-  - INS-260322-116B
   - INS-260327-70DF
+  - INS-260325-C2BD
 stance: >-
   RFK Sr believed moral courage — standing by principle when it threatens your
   career and status — is the most important and rarest human quality.

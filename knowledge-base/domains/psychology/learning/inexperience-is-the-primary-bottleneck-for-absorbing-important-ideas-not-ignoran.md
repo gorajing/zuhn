@@ -50,10 +50,10 @@ related:
   - INS-260323-9E75
   - INS-260330-DA0B
   - INS-260403-C1B7
-  - INS-260321-6BA7
   - INS-260402-F08D
   - INS-260321-E471
   - INS-260403-AA8F
+  - INS-260404-5AC1
   - INS-260404-4E6D
 ---
 Graham identifies three reasons people don't know something: it's unimportant (random facts), they're obtuse (can't understand it), or they're inexperienced (haven't encountered it yet). For important ideas aimed at smart audiences, inexperience is the dominant factor. This reframes education and knowledge-sharing — the gap isn't intellectual capacity but exposure and lived experience.

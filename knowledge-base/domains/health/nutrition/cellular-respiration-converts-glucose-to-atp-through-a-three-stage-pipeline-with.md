@@ -56,29 +56,21 @@ related:
   - INS-260404-596E
 evidence:
   - id: INS-260330-2C71
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-F671
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-85D7
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-4D0E
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260404-2A07
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-596E
-    type: SUPPORTS
-    classified_at: '2026-04-05'
-  - id: INS-260403-2918
-    type: SUPPORTS
-    classified_at: '2026-04-05'
-  - id: INS-260404-2D92
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-C725
+    relationship: RELATED
+  - id: INS-260403-7738
+    relationship: RELATED
 ---
 Cellular respiration breaks glucose into usable energy (ATP) through three stages: glycolysis (2 net ATP), the Krebs Cycle (2 ATP), and the electron transport chain (34 ATP). The first two stages are essentially setup — glycolysis breaks glucose into pyruvate and the Krebs Cycle strips electrons onto carrier molecules (NADH, FADH2). The real payoff comes in the final stage, where those carriers drive proton pumps to mass-produce ATP.
 

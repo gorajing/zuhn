@@ -54,9 +54,8 @@ related:
   - INS-260327-9560
   - INS-260330-0539
 evidence:
-  - id: INS-260325-A46E
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260325-4300
+    relationship: RELATED
 ---
 When boomers were young, they voted for free education and social support. When entering the workforce, they voted for worker protections and affordable housing. Once established with homes and careers, they shifted to lower taxes and investment returns, deprioritizing the very programs they benefited from. This created a compounding disadvantage: each policy shift served the largest voting bloc while removing ladders for smaller generations.
 

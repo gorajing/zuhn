@@ -1,13 +1,11 @@
 # Topic: growth
 
-> 69 insights
+> 59 insights
 
 - `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260402-5EDC` [high] Affordability barriers don't suppress demand — they redirect it into entirely new market categories that serve the same underlying need through novel structures.
-- `INS-260330-3398` [high] When eBay switched affiliate payments from confirmed registrations to activated users, registrations dropped 20% but active user growth massively accelerated.
-- `INS-260330-4553` [high] When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
 - `INS-260330-3084` [high] Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
 - `INS-260402-910C` [high] Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
 - `INS-260403-C161` [high] Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
@@ -30,7 +28,6 @@
 - `INS-260330-D968` [high] The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
 - `INS-260402-D9AC` [high] Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260330-0371` [high] Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
-- `INS-260330-0E4C` [high] One detractor cancels out ten champions, but customers who experience problems that get resolved often become the most passionate long-term advocates.
 - `INS-260330-072D` [high] One person saying 'don't use them' destroys more growth than ten champions create, so always make it right even when it's expensive.
 - `INS-260330-49A4` [high] At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
 - `INS-260330-CBEF` [high] At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
@@ -41,23 +38,16 @@
 - `INS-260330-33FF` [high] Preferential attachment (rich-get-richer dynamics) is a mathematical inevitability that explains why small early leads in views, users, or market share compound into dominant positions.
 - `INS-260330-C0E2` [high] Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
 - `INS-260330-D0AB` [high] Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
-- `INS-260330-3E0B` [high] Plot percent monthly active vs days-from-acquisition; if the curve slopes to zero, fix the product before investing in growth.
-- `INS-260330-78B1` [high] Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
-- `INS-260330-37F6` [high] Plot percent monthly active vs days-since-acquisition by cohort; if the curve flattens you have PMF, if not stop all growth tactics and fix the product.
-- `INS-260330-D41A` [high] A retention curve that flattens proves product-market fit; one that slopes to zero means growth tactics are premature.
 - `INS-260330-CB30` [high] A small reduction or increase in daily/weekly growth rate compounds into order-of-magnitude differences in outcomes, making growth rate the single highest-leverage metric.
 - `INS-260330-608C` [high] A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
 - `INS-260330-05C7` [high] Tiny growth rate differences compound into massive outcome gaps, making growth rate optimization the highest-leverage activity.
 - `INS-260330-8817` [high] Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
 - `INS-260402-3F92` [high] A company growing 1% weekly reaches 1.7x/year; at 5% weekly it reaches 12.6x/year — human intuition dramatically underestimates this divergence.
-- `INS-260403-13E6` [high] Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
 - `INS-260402-318B` [high] Superlinear returns arise from exponential compounding, winner-take-all thresholds, or their combination.
 - `INS-260330-8048` [high] Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
-- `INS-260330-4B16` [high] Startups should not have dedicated growth teams and the CEO should set and enforce a single North Star metric so every autonomous decision compounds toward the same goal.
 - `INS-260403-99B1` [high] Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260403-458A` [high] Time to $1B revenue compressed from 45 years (IBM) to 7-8 years for modern companies, creating a double effect on founder wealth.
 - `INS-260402-1436` [high] Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
-- `INS-260330-D21A` [high] Shawn Parker's virality model -- payload (people hit per blast) times frequency (times you hit them) times conversion rate -- reveals why Hotmail and PayPal grew virally despite low payloads.
 - `INS-260330-2347` [high] When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
 - `INS-260403-8779` [medium] Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
 - `INS-260330-D99D` [medium] McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.

@@ -46,6 +46,7 @@ stance: >-
   reached its technology diffusion point almost immediately, compressing the
   entire competitive cycle.
 related:
+  - INS-260402-5034
   - INS-260403-7B04
   - INS-260327-77C7
   - INS-260327-A458

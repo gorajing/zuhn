@@ -14,11 +14,8 @@ tags:
   - pitching
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -55,8 +52,8 @@ related:
   - INS-260404-D242
   - INS-260403-7FBE
   - INS-260403-BDBE
+  - INS-260403-87CD
   - INS-260404-96C6
-  - INS-260405-AC51
   - INS-260405-E6F9
 ---
 Professional investors hear so many pitches that they blur together. The first cut in fundraising is simply being remembered, and the mechanism for that is a descriptive phrase that sticks — typically 'the X of Y' format (Viaweb was 'the Microsoft Word of ecommerce'). This phrase should be launched clearly but apparently casually, preferably near the beginning of the talk.

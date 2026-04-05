@@ -44,6 +44,7 @@ stance: >-
   revenue model will erode their own margins as competitors match their costs.
 related:
   - INS-260322-AABB
+  - INS-260327-4BC6
   - INS-260403-D62F
   - INS-260403-81BD
   - INS-260403-1284
@@ -52,6 +53,9 @@ related:
   - INS-260403-E1EB
   - INS-260403-52DB
   - PRI-260328-A4AC
-  - INS-260404-D471
+evidence:
+  - id: INS-260403-34A6
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 When AI dramatically lowers the cost of delivering a service, every competitor gains the same cost advantage, turning the market into a price war. The initial land-grab works, but without a second monetization layer—upstream marketplace fees, embedded fintech, or performance-based royalties—the startup has no structural defense against undercutting. The strategic move is to use low price as the wedge to capture a control point, then monetize the adjacent value that only your position in the workflow enables. This is why bundling multiple AI 'jobs' or embedding financial services on top of a low-cost core offering creates compounding defensibility that pure price competition cannot.

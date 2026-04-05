@@ -42,11 +42,11 @@ stance: >-
   Reframing dangerous assignments as identity markers generates intrinsic
   motivation more reliably than incentives or compulsion
 related:
-  - INS-260327-E7AC
   - INS-260327-1A9C
   - INS-260327-7315
   - INS-260327-067D
-  - INS-260327-8B9A
+  - INS-260327-0C9F
+  - INS-260327-719D
 evidence:
   - id: INS-260327-7315
     type: CHALLENGES

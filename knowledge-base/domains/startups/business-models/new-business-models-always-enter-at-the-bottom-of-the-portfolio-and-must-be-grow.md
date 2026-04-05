@@ -48,16 +48,16 @@ stance: >-
   Treating new business models with the same profitability expectations as
   established ones kills innovation before it can mature
 related:
+  - INS-260403-0701
   - INS-260403-FC36
   - INS-260403-EAE5
   - INS-260403-8D2C
   - INS-260404-BD46
   - INS-260403-9276
-  - INS-260403-A709
-  - INS-260404-983E
+  - INS-260403-2E90
+  - INS-260404-3214
   - INS-260403-0A97
   - INS-260403-E25F
-  - INS-260404-CC9A
 ---
 The portfolio framework explicitly positions new business models at the bottom of the profitability axis — they are not yet established and cannot be expected to match existing businesses on financial metrics. This has a critical implication for how organizations allocate resources and evaluate performance.
 

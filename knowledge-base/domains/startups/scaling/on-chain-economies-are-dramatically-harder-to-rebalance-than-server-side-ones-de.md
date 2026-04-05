@@ -56,6 +56,7 @@ stance: >-
   magnitude harder.
 related:
   - INS-260325-DFC7
+  - INS-260402-0E46
   - PRI-260328-A1AA
   - PRI-260328-D893
   - INS-260327-4440

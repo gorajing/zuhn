@@ -14,8 +14,8 @@ tags:
   - counterintuitive
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -44,13 +44,11 @@ stance: >-
   and deepen loyalty.
 related:
   - INS-260327-7BE4
-  - INS-260330-F9CA
-  - INS-260404-30CA
-  - INS-260404-164F
-  - INS-260404-79EC
-  - INS-260404-86F8
-  - INS-260404-6E7B
-  - INS-260404-9783
+  - INS-260403-9104
+  - INS-260404-50A7
+  - INS-260403-243A
+  - INS-260404-B086
+  - INS-260404-E65A
 evidence:
   - id: INS-260330-F9CA
     type: CHALLENGES

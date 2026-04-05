@@ -49,6 +49,7 @@ stance: >-
   behaviors are what people actually experience and discuss.
 related:
   - INS-260323-ACD9
+  - INS-260329-8226
   - INS-260330-B5BF
   - INS-260403-4850
   - INS-260403-A99F
@@ -57,7 +58,6 @@ related:
   - INS-260405-AAB7
   - INS-260404-266F
   - INS-260404-74F4
-  - INS-260405-339F
 ---
 Dave Gray's Culture Map framework recommends starting with behaviors rather than outcomes because behaviors are what people experience daily — they're what gets discussed at lunch or after work. By asking 'What does a great day look like?' and 'What does a bad day look like?', facilitators surface concrete patterns rather than abstract aspirations.
 

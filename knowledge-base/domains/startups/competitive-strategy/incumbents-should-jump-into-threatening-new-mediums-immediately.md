@@ -48,15 +48,18 @@ stance: >-
 related:
   - INS-260330-712D
   - INS-260322-5B1B
-  - INS-260404-023C
-  - INS-260330-4AD5
   - INS-260330-9313
+  - INS-260322-5790
+  - INS-260403-599B
 evidence:
   - id: INS-260322-5B1B
     type: EXTENDS
     classified_at: '2026-04-05'
   - id: INS-260330-4AD5
     type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-023C
+    type: TRANSFERS_TO
     classified_at: '2026-04-05'
 ---
 TV networks and newspapers both made the mistake of grudgingly putting content online while still hoping audiences would come back to the original medium. This defensive posture consistently fails because it prioritizes preserving existing business models over serving customer behavior. By the time incumbents fully commit, insurgents have already captured the audience and built the new distribution infrastructure.

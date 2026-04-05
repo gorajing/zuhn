@@ -46,13 +46,14 @@ stance: >-
   cannot afford the product, making affordability the ultimate constraint that
   overrides all other competitive advantages.
 related:
-  - INS-260323-7F22
   - INS-260322-5F87
   - INS-260326-A0B4
   - INS-260327-EFA6
   - INS-260327-B064
   - INS-260327-5E03
   - INS-260327-1403
+  - INS-260403-7BA1
+  - INS-260327-5580
   - INS-260327-4ED3
   - INS-260327-0B3B
 evidence:

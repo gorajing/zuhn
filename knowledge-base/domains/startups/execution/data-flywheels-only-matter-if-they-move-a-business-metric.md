@@ -47,11 +47,11 @@ stance: >-
   is either nonexistent or irrelevant, regardless of how much data you collect.
 related:
   - INS-260325-3B28
-  - INS-260403-3837
   - INS-260404-A526
-  - INS-260327-956D
   - INS-260403-DE45
-  - INS-260404-621F
+  - INS-260403-915E
+  - INS-260404-2B4C
+  - INS-260330-1A63
 evidence:
   - id: INS-260325-3B28
     type: CHALLENGES

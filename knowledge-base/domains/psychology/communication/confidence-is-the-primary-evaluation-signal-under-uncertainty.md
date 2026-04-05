@@ -14,11 +14,8 @@ tags:
   - uncertainty
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -53,11 +50,11 @@ stance: >-
   biggest piece of evidence they use to judge quality.
 related:
   - INS-260329-B7F5
-  - INS-260404-E86B
-  - INS-260403-1A71
   - INS-260404-37F7
-  - INS-260404-6388
-  - INS-260404-5343
+  - INS-260404-405A
+  - INS-260404-5017
+  - INS-260330-5BC4
+  - INS-260404-0095
 ---
 Graham identifies a fundamental dynamic in high-stakes presentations: when evaluators can't properly assess the substance (due to time constraints or knowledge gaps), they fall back on meta-signals — primarily, how confident the presenter seems. This isn't about telling people you're passionate or your product is great (audiences tune that out or write you off as a bullshitter). Confidence must be implicit, shown not told.
 

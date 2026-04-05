@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 65 insights
+> 63 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
@@ -9,7 +9,6 @@
 - `INS-260403-0C33` [high] If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
 - `INS-260402-8223` [high] Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-DEB6` [high] Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
-- `INS-260402-4E59` [high] Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
 - `INS-260402-607A` [high] Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - `INS-260403-AAE4` [high] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260330-790A` [high] Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
@@ -39,7 +38,6 @@
 - `INS-260402-0D16` [high] Programming languages shape how practitioners think, making adoption a cognitive transformation rather than a simple tool swap — which is why features take decades to go mainstream.
 - `INS-260403-9DE0` [high] If you can get better at something through practice, objective quality must exist in that domain.
 - `INS-260403-C135` [high] Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
-- `INS-260330-2666` [high] Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
 - `INS-260402-E11A` [high] If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
 - `INS-260403-7093` [high] Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 - `INS-260403-6EA6` [high] Skills that can be mass-taught get mass-produced, driving wages toward training cost plus minimal return.

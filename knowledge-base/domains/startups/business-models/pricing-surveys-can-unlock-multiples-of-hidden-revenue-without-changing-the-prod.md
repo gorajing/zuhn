@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260329-C8C7
   - INS-260403-5D89
-  - INS-260404-76FF
   - INS-260330-C0E2
-  - INS-260329-1085
+  - INS-260324-A046
+  - INS-260322-E20E
 ---
 Hormozi emphasizes running pricing surveys early as one of his top lessons from Allen. By experimenting with different charge structures — usage-based fees, recurring subscriptions, API-based pricing — they discovered 4x more pricing power than their initial model. The product remained the same; only the packaging changed. This is especially true for software businesses where the marginal cost of delivery is near zero, giving maximum flexibility to experiment with pricing structures. The insight extends beyond software: most businesses underinvest in pricing experimentation and leave significant revenue on the table because they anchor to their first pricing model rather than systematically testing alternatives with actual customers.

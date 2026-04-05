@@ -47,28 +47,20 @@ stance: >-
   your financial data inside Fuel
 evidence:
   - id: INS-260322-F46F
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-B357
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-956D
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260329-1085
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-4EF5
+    relationship: RELATED
   - id: INS-260322-88FC
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260403-8011
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260404-2BAD
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-7680
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 The founder of Fuelfinance (Alyona Mysko) describes building an MCP (Model Context Protocol) integration so Claude can query financial data directly rather than requiring manual data pasting. This addresses the biggest limitation of AI in finance: Claude can't pull live financials from your ERP, bank, or accounting system. MCP bridges this gap. Currently Claude requires data to be manually provided — with MCP, the data flows directly. This is the 'apps should become APIs' principle (Karpathy) applied to finance tooling.

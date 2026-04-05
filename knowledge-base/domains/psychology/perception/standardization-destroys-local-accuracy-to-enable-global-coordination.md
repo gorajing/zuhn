@@ -50,11 +50,11 @@ stance: >-
   coordination across distances, trading individual precision for collective
   usability.
 related:
-  - INS-260327-6F94
   - INS-260330-DBA4
   - INS-260323-F528
   - INS-260330-F6A2
-  - INS-260329-24CE
+  - PRI-260328-B115
+  - INS-260405-5670
 evidence:
   - id: INS-260327-6F94
     type: CHALLENGES

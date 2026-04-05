@@ -54,11 +54,12 @@ stance: >-
   does it (its concrete implementation) prevents premature optimization and
   preserves the ability to swap strategies without rewriting consumers.
 related:
+  - INS-260320-2DDE
   - INS-260329-DEA1
-  - INS-260329-8F86
-  - INS-260329-71AB
   - INS-260329-0F06
-  - INS-260320-7B4B
+  - INS-260329-F51D
+  - INS-260329-4F8C
+  - INS-260329-FAE2
 evidence:
   - id: INS-260329-DEA1
     type: SUPPORTS

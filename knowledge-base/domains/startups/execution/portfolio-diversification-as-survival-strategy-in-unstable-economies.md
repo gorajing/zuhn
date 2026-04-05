@@ -47,6 +47,6 @@ related:
   - INS-260330-669C
   - INS-260402-8F1E
   - INS-260328-3FA4
-  - INS-260330-7462
+  - INS-260329-0117
 ---
 At 23, Rollins observed the middle class disappearing and concluded that single-skill careers were becoming untenable. His response was to say yes to every opportunity — acting auditions, voiceover work, poetry readings, publishing — building what amounts to a career portfolio. This is the individual equivalent of startup diversification: each 'yes' was a low-cost option on a potential income stream. The compounding effect meant that by his 40s he had five or six viable career paths, any one of which could sustain him. The lesson extends beyond creative careers: in any volatile economic environment, the person with seven mediocre skills outsurvives the person with one excellent skill.

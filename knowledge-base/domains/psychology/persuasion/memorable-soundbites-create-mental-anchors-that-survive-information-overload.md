@@ -14,11 +14,8 @@ tags:
   - mental-anchors
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -47,10 +44,10 @@ stance: >-
   forcing function for strategic clarity.
 related:
   - INS-260329-5B18
-  - INS-260403-FE37
   - INS-260403-F7DD
   - INS-260403-B3A4
   - INS-260403-EF30
   - INS-260403-ED1E
+  - INS-260404-3713
 ---
 Graham notes that professional investors hear so many pitches they all blur together, making the first cut simply being remembered. The solution is a descriptive phrase that sticks — in startups, usually 'the X of Y' format (Viaweb was 'the Microsoft Word of ecommerce'). But Graham adds a deeper insight: this exercise is valuable beyond pitching because if you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused. The soundbite becomes a diagnostic tool for strategic clarity, not just a marketing device. This connects to the broader principle that constraints (time limits, word limits) often improve rather than degrade communication quality by forcing ruthless prioritization.

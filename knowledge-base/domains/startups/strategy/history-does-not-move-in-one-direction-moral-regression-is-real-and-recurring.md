@@ -55,7 +55,6 @@ related:
   - INS-260330-F8B6
   - PRI-260325-070D
   - INS-260330-8950
-  - INS-260325-A46E
   - INS-260327-D24A
 stance: >-
   Shapiro's counter to the 'arc of history bends toward progress' narrative: the

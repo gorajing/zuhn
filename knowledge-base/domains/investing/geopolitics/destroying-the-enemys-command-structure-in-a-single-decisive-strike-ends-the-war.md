@@ -51,10 +51,10 @@ stance: >-
   by collapsing the organizational hierarchy.
 related:
   - INS-260327-5DD3
-  - INS-260327-E7AC
   - INS-260327-377A
   - INS-260327-B038
   - INS-260327-D6E5
+  - INS-260327-5452
 ---
 Alexander's battle strategy was consistent: use the phalanx to pin the enemy center, then personally lead the Companion cavalry in a charge aimed directly at the enemy king. At both Issus and Gaugamela, when Darius fled the battlefield, his entire army — even the parts that were winning — collapsed and routed. The organization was so centralized around the king that removing him destroyed the entire command structure.
 

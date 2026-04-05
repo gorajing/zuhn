@@ -53,7 +53,6 @@ related:
   - INS-260321-1A0B
   - INS-260402-3DBF
   - INS-260326-B10B
-  - INS-260330-BA13
 evidence:
   - id: INS-260323-8B22
     type: TRANSFERS_TO

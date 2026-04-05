@@ -52,10 +52,10 @@ stance: >-
   mission guarantee eventual internal fragmentation and loss of control
 related:
   - INS-260330-B384
-  - INS-260330-BF00
   - PRI-260328-43D8
   - INS-260327-E751
   - INS-260327-F3F0
+  - INS-260327-7605
 evidence:
   - id: INS-260327-F3F0
     type: CONTRADICTS

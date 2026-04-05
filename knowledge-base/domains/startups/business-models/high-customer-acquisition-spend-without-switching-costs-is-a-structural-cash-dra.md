@@ -49,8 +49,8 @@ related:
   - INS-260403-543E
   - INS-260404-D6EC
   - INS-260404-B24E
-  - INS-260404-9783
   - PRI-260328-6A8D
+  - INS-260325-A54F
   - INS-260405-F691
 ---
 Groupon exemplifies this trap: massive spend to acquire deal-seekers who had zero reason not to defect to LivingSocial or any other competitor. The structural problem isn't the CAC itself—it's the absence of contracts, membership fees, loyalty perks, or network effects that would make leaving costly. Before committing to heavy acquisition spend, founders should audit their switching cost portfolio. If customers can replicate your value with a single Google search, your CAC is a recurring expense, not an investment. The fix isn't spending less—it's building retention mechanics into the business model before scaling acquisition.

@@ -53,11 +53,11 @@ related:
   - INS-260325-3E9F
   - INS-260327-7E3D
   - INS-260330-77D1
-  - INS-260330-DEBC
   - INS-260330-404B
   - INS-260330-7346
   - INS-260330-0AA7
   - INS-260330-C84C
+  - INS-260402-E522
 ---
 The most consequential effect of high-resolution fundraising isn't better terms for startups — it's the selection pressure it creates among investors. In a hits-driven business, the critical advantage isn't price but access: getting into the deals you want. Bolder investors who commit early get both lower prices and guaranteed access, while herd-following investors pay higher prices and may be excluded from the best deals entirely.
 

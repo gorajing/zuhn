@@ -16,11 +16,8 @@ tags:
   - signaling
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -55,9 +52,9 @@ related:
   - INS-260404-0570
   - INS-260404-103B
   - INS-260403-22FE
-  - INS-260403-4363
   - INS-260404-187C
   - INS-260404-37F7
+  - INS-260404-ED0F
 ---
 Graham identifies that investors at Demo Day often lack the technical background and time to evaluate what founders have built, so the single biggest piece of initial evidence becomes the founders' own confidence. Crucially, this must be shown not told — saying 'we're passionate' or 'our product is great' triggers skepticism, while implicit confidence (speaking about the problem with authority, treating the pitch as doing investors a favor) signals genuine conviction.
 

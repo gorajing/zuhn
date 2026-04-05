@@ -49,11 +49,11 @@ stance: >-
   establishing hierarchical position rather than promoting pay transparency or
   equity.
 related:
-  - INS-260330-28B1
   - INS-260404-5882
   - INS-260327-415B
   - INS-260403-9DC6
   - INS-260404-5017
+  - INS-260330-EF74
 evidence:
   - id: INS-260330-1F7E
     type: TRANSFERS_TO

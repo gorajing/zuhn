@@ -54,7 +54,7 @@ related:
   - INS-260405-F691
   - PRI-260323-8EEA
   - INS-260329-3609
-  - INS-260403-B216
+  - INS-260327-4877
   - INS-260403-21A2
 ---
 Hormozi argues that the conventional sales wisdom of leading with emotion is backwards for high-ticket and long-term customer relationships. Emotional buyers get excited, purchase, then call two days later wanting a refund because the feeling wore off. Logic-first selling works like a rational foundation for a relationship — when emotions inevitably fade, the logical reasons to continue remain intact. The approach uses logic to create emotion rather than emotion to force a decision: you walk prospects through logical frameworks that help them see their own distortions, and the emotional response (relief, empowerment, clarity) emerges naturally from understanding. This produces customers who are pre-sold on the coaching relationship because the sale itself was the first coaching session. The practical implication is to help prospects' logical brains justify the decision they emotionally already want to make.

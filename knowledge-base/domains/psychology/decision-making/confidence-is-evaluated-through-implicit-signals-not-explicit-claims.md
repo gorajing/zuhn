@@ -14,11 +14,8 @@ tags:
   - communication
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -52,12 +49,12 @@ related:
   - PRI-260327-5635
   - INS-260329-4499
   - INS-260329-DC86
+  - INS-260329-78AE
   - INS-260330-15AE
   - INS-260330-90C3
-  - INS-260403-DAB1
-  - INS-260403-74CD
-  - INS-260404-4F69
   - INS-260403-22FE
+  - INS-260403-DAB1
+  - INS-260404-187C
 ---
 Graham distinguishes between showing and telling confidence. Saying 'we're passionate' is at best ignored and at worst marks you as a bullshitter. This maps to a broader pattern in persuasion: explicit claims about one's own qualities trigger adversarial evaluation, while the same qualities demonstrated implicitly bypass those filters.
 

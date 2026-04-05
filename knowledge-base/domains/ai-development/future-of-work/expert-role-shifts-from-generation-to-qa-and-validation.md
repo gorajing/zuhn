@@ -41,11 +41,11 @@ stance: >-
   AI transforms expert work from creating deliverables to validating and
   refining AI-generated output, making experts more valuable not less
 related:
-  - INS-260327-0C4A
   - INS-260329-3489
   - INS-260330-FC4D
   - PRI-260321-14D8
   - INS-260323-F15D
+  - INS-260322-30A0
   - INS-260329-B1A1
 evidence:
   - id: INS-260323-F15D

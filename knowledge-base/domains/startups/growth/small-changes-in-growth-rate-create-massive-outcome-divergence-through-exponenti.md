@@ -49,14 +49,15 @@ stance: >-
   more than the current absolute size because rate differences compound into
   order-of-magnitude outcome gaps
 related:
+  - INS-260322-8BC5
   - INS-260330-73A2
-  - INS-260330-37F6
   - INS-260330-9935
   - INS-260330-CB30
   - INS-260330-05C7
   - PRI-260403-E097
   - INS-260404-9BC6
   - INS-260330-FA4C
+  - INS-260405-54E2
 evidence:
   - id: INS-260330-AD13
     type: EXTENDS

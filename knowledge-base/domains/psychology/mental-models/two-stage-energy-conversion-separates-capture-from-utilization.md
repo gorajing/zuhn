@@ -54,10 +54,12 @@ stance: >-
   creates more flexible and resilient systems than direct conversion
 related:
   - INS-260330-20FD
-  - INS-260330-E8CF
+  - INS-260404-EFA8
   - INS-260405-AE0D
   - INS-260405-C780
   - INS-260405-F3C0
+  - PRI-260403-181B
+  - INS-260404-9C57
 evidence:
   - id: INS-260405-F3C0
     type: SUPPORTS

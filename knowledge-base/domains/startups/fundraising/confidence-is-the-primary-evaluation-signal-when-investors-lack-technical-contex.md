@@ -16,11 +16,8 @@ tags:
   - confidence
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -57,9 +54,9 @@ related:
   - INS-260323-4457
   - INS-260327-FD18
   - INS-260402-4719
+  - INS-260403-028F
   - INS-260403-6F52
-  - INS-260403-4337
-  - INS-260403-6620
+  - INS-260403-04FF
 ---
 Graham identifies a structural problem in startup pitching: people who are bad at explaining talk to people who are bad at understanding. Given brief time slots and non-technical audiences, investors often can't properly evaluate the product itself. In this information vacuum, founder confidence becomes the dominant signal.
 

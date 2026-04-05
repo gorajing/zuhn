@@ -49,7 +49,6 @@ stance: >-
   quantity and quality of accumulated inputs consistently outperforms the
   elegance of the system processing them
 related:
-  - INS-260320-7B4B
   - INS-260323-7F36
   - PRI-260320-3032
   - PRI-260323-BA94

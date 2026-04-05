@@ -54,7 +54,6 @@ related:
   - INS-260330-48DE
   - INS-260404-B46E
   - INS-260330-9137
-  - INS-260329-7A39
 stance: >-
   More than 80% of subscription conversions happen during onboarding, so spend
   90% of your optimization time on onboarding screens, paywall design, a...

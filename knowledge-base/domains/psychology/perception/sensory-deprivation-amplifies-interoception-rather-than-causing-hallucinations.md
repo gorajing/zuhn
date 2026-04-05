@@ -47,6 +47,7 @@ stance: >-
   like heartbeat and blood flow rather than driving you insane
 related:
   - INS-260325-D7B1
+  - INS-260321-08AC
   - INS-260329-A45D
   - INS-260330-779C
   - INS-260330-8898
@@ -55,7 +56,6 @@ related:
   - INS-260330-1296
   - INS-260330-0FBF
   - INS-260327-B19E
-  - INS-260404-18F1
 evidence:
   - id: INS-260325-D7B1
     type: EXTENDS

@@ -53,11 +53,13 @@ stance: >-
 related:
   - INS-260327-60C6
   - INS-260327-DEEB
-  - INS-260327-F7FE
   - INS-260327-3528
-  - INS-260323-DF0F
   - PRI-260328-7EA5
   - INS-260327-26F2
+  - INS-260330-F158
+  - INS-260327-35CB
+  - INS-260330-4E55
+  - INS-260330-B384
 ---
 Napoleon's political authority derived almost entirely from military success. Unlike hereditary monarchs (who ruled by birth) or republics (which ruled by consent), Napoleon ruled because he won. This created an unsustainable dynamic: he needed continuous victories to maintain domestic support, which drove him into increasingly risky campaigns, which eventually produced the defeat that destroyed everything.
 

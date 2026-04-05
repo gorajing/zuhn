@@ -62,27 +62,18 @@ related:
   - INS-260330-E61E
   - INS-260330-8048
 evidence:
-  - id: INS-260330-3398
-    type: REFINES
-    classified_at: '2026-04-02'
-  - id: INS-260330-2A6A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
   - id: INS-260330-4553
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-2A6A
+    relationship: RELATED
   - id: INS-260329-14AE
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260322-55D8
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260321-6437
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260324-8D35
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 In 2004, eBay changed its affiliate payment model from paying for confirmed registered users to paying for activated confirmed registered users (someone who confirmed their account AND bid, bought, or listed an item). Overnight, confirmed registrations from affiliates dropped ~20%, but activated users only dropped ~5%. The ratio of registered to active users improved, and then active user growth massively accelerated.
 

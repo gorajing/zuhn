@@ -47,14 +47,17 @@ related:
   - INS-260325-FEDF
   - PRI-260325-2800
   - INS-260325-C394
-  - INS-260322-3A00
   - INS-260325-5501
+  - INS-260325-39FD
   - INS-260325-785D
   - INS-260403-E492
 evidence:
   - id: INS-260322-3A00
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-E492
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 One of the 12 hallmarks of aging is the accumulation of senescent cells — old cells that stop dividing but persist, driving inflammation and disease. Scientists developed senolytic drugs that selectively kill these cells while leaving healthy cells intact. In mice, this extends lifespan and reduces multiple age-related diseases simultaneously.
 

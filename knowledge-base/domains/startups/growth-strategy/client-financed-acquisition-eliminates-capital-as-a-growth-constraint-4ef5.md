@@ -44,10 +44,8 @@ stance: >-
   customer is more powerful than the traditional loss-leader model
 related:
   - INS-260327-07C9
-  - INS-260329-E884
   - INS-260329-AADB
   - INS-260329-A01C
-  - INS-260329-1085
   - INS-260329-0DA4
   - PRI-260328-43F1
   - INS-260402-8424

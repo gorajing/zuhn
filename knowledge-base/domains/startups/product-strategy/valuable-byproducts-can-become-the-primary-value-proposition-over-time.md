@@ -46,12 +46,12 @@ stance: >-
   rather than the system's designed purpose.
 related:
   - INS-260323-0AF3
-  - INS-260330-41F6
-  - INS-260330-90B6
-  - INS-260404-8E0B
+  - INS-260327-2B94
+  - INS-260330-19C3
+  - INS-260330-13A1
   - INS-260404-FF39
-  - INS-260403-726B
-  - INS-260404-A51E
+  - INS-260330-2119
+  - INS-260404-E9F3
 evidence:
   - id: INS-260403-726B
     type: EXTENDS

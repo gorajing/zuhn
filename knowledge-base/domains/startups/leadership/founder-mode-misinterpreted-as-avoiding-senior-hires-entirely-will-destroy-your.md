@@ -49,11 +49,11 @@ stance: >-
   need both founder decisiveness and experienced leadership.
 related:
   - INS-260325-6F89
-  - INS-260326-291C
   - INS-260327-8254
   - INS-260327-2A73
   - INS-260330-DC22
   - INS-260323-4C43
+  - INS-260404-0D62
   - INS-260327-1EC4
   - INS-260328-3FA4
   - INS-260403-B133

@@ -50,13 +50,14 @@ stance: >-
   paralysis of unlimited options — it doesn't narrow life to a single path but
   provides directional clarity that makes all decisions easier.
 related:
-  - INS-260404-8E68
+  - INS-260329-FEA6
   - INS-260403-2BAD
   - INS-260323-DEEA
   - INS-260323-64A4
   - INS-260330-F488
   - INS-260330-C6A2
   - INS-260330-8E95
+  - INS-260330-3819
 evidence:
   - id: INS-260329-FEA6
     type: SUPPORTS
@@ -73,5 +74,8 @@ evidence:
   - id: INS-260330-8E95
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-2BAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Greene describes purpose not as choosing a specific job or narrow path, but as finding an 'internal radar' that provides directional clarity. Without it, you 'wake up in the morning and you don't really know what you can do — you could choose 12 different paths, it can be very confusing and very overwhelming.' With it, 'everything has a direction, everything has a purpose, your energy is concentrated.' Crucially, this isn't about discipline or narrowing life to solving problems — Greene explicitly says it's 'the most exciting thing that can ever happen to you' because distractions become easy to filter: 'people come at you with all kinds of distractions and boring and irritating things — you're able to cut it out.' This reframes purpose from a destination to a filtering mechanism. It doesn't eliminate experimentation (you can still try different things in your 20s) but provides a framework that prevents the chaos of social media, internet options, and peer influence from pulling you in random directions.

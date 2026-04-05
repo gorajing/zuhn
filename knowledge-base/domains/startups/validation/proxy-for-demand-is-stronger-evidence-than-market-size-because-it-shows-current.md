@@ -16,11 +16,8 @@ tags:
   - sequoia
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -54,11 +51,11 @@ stance: >-
 related:
   - INS-260402-AC3D
   - INS-260403-101D
-  - INS-260403-66D0
   - INS-260404-132E
   - INS-260404-B31C
   - INS-260405-F980
   - INS-260405-4B31
+  - INS-260403-EA2D
 ---
 Graham cites Sequoia's Greg McAdoo on 'proxy for demand' — what are people doing right now, using inadequate tools, that shows they need what you're making? This is fundamentally about revealed preference versus stated preference. Market size numbers are projections about what people might do; proxy for demand shows what they're already doing despite friction.
 

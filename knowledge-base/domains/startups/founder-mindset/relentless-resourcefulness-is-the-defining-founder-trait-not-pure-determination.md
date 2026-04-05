@@ -50,13 +50,13 @@ related:
   - INS-260323-4AF5
   - INS-260327-E992
   - INS-260327-3349
-  - INS-260330-52C7
   - INS-260402-9681
   - INS-260403-7C88
+  - INS-260403-3A49
   - INS-260404-1986
   - PRI-260328-B11D
-  - INS-260403-B835
   - INS-260404-F708
+  - INS-260403-B835
 ---
 Paul Graham argues that being merely relentless is insufficient for startup success because interesting domains present novel difficulties whose hardness is unknown in advance. You cannot simply plow through obstacles when you don't know if you're hitting foam or granite. The compound quality of 'relentlessly resourceful' captures both the persistence to keep going and the creativity to find new approaches when the current one fails.
 

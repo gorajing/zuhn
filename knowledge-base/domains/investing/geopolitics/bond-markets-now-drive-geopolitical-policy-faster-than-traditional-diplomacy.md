@@ -44,11 +44,11 @@ stance: >-
   faster than diplomatic timelines, making bond markets the real constraint on
   geopolitical risk
 related:
-  - INS-260327-E72F
   - INS-260403-CF0E
   - PRI-260322-9E36
   - INS-260330-4E10
   - INS-260403-8BE9
+  - PRI-260403-B9A0
 evidence:
   - id: INS-260330-4E10
     type: CONTRADICTS

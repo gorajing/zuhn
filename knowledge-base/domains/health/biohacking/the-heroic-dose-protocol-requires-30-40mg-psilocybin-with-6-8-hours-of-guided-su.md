@@ -50,6 +50,7 @@ stance: >-
   combined with extensive psychological preparation and real-time professional
   support — not casual self-administration.
 related:
+  - INS-260330-ECA9
   - INS-260330-7C42
   - INS-260330-EE16
   - INS-260330-3672

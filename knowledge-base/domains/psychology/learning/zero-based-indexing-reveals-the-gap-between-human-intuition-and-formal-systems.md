@@ -49,11 +49,11 @@ stance: >-
   that formal system conventions that violate natural counting intuition create
   a permanent cognitive tax, not a temporary learning curve.
 related:
-  - INS-260326-CAAB
   - INS-260329-7A6A
+  - INS-260329-D8BC
   - INS-260329-4109
   - INS-260325-FDA9
-  - INS-260329-D8BC
+  - INS-260329-19B3
 evidence:
   - id: INS-260326-CAAB
     type: TRANSFERS_TO

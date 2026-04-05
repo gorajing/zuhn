@@ -58,7 +58,7 @@ related:
   - INS-260323-E161
   - INS-260325-2A1B
   - INS-260321-AE3F
-  - INS-260323-2D1D
+  - INS-260321-9824
 stance: >-
   Penrose argues from Goedel's incompleteness theorems that human mathematicians
   can grasp truths no algorithm can formally prove
@@ -87,6 +87,9 @@ evidence:
   - id: INS-260330-B7C6
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-2849
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Goedel showed that any sufficiently powerful logical system contains true statements that cannot be proven within the system. Penrose noticed that human mathematicians can see the truth of certain statements that no algorithm can formally prove — not by brute force calculation, but by insight and understanding. If human understanding were fully equivalent to an algorithm, humans would be bound by the same limitations as formal systems. Yet in practice, they are not.
 

@@ -49,12 +49,17 @@ stance: >-
   existing ecosystem participants rather than disrupting them, earning a tax on
   the savings they create.
 related:
-  - INS-260403-4FA4
+  - INS-260330-6411
   - INS-260403-46BD
   - INS-260404-B5EB
   - INS-260402-5E4E
   - INS-260322-88FC
   - PRI-260403-C337
+  - INS-260327-EA4E
+evidence:
+  - id: INS-260322-88FC
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Apple Pay's business model illustrates a counterintuitive strategy: rather than disrupting the existing payments ecosystem, Apple embedded itself within it. Banks willingly pay Apple a percentage of every transaction because Apple's dynamic security code technology reduces fraud costs that exceed what they pay Apple. This 'cost-reduction tax' model is far more defensible than pure disruption because every incumbent participant has positive incentives to support the platform.
 

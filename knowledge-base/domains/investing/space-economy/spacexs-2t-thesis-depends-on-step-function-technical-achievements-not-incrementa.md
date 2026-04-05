@@ -53,11 +53,11 @@ stance: >-
 related:
   - INS-260321-1749
   - INS-260327-CB1E
-  - INS-260330-8A87
   - INS-260403-87AC
   - INS-260402-3F92
-  - INS-260330-9470
   - INS-260326-870E
+  - INS-260323-BF81
+  - INS-260321-B7CB
   - INS-260327-85E2
   - INS-260328-58B1
   - INS-260403-021D
@@ -95,5 +95,8 @@ evidence:
   - id: INS-260403-87AC
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-021D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The 20VC panel analyzes SpaceX's potential $2T valuation through a unique lens: unlike software companies that grow incrementally, SpaceX achieves step-function technical challenges every 5-7 years, then harvests on each while building toward the next. The progression: government rocket contracts -> Starlink satellite internet (53% profit margins, 'jaw-droppingly profitable' at scale) -> building chip fabs (70% of TSMC's volume, $25B capex) -> data centers in space powered by solar fusion. Each step function creates $100-300B of net present value. Elon is the only person credible to tell this story given his track record of achieving the 'impossible' across cars and rockets, but his timing predictions are consistently optimistic. For investors, the question is: what probability do you assign to each step function, and when does it happen?

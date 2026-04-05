@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260327-7FDA
   - INS-260327-3E6F
-  - PRI-260328-E53E
   - INS-260329-1435
-  - INS-260329-C91D
+  - PRI-260328-E53E
+  - INS-260329-3848
 evidence:
   - id: INS-260329-1435
     type: EXTENDS

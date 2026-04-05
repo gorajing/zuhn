@@ -50,12 +50,11 @@ stance: >-
   Organizations and biological systems entrench suboptimal early decisions when
   the cost of replacing them exceeds the cost of compensating for their flaws
 related:
-  - INS-260330-C02D
+  - INS-260330-54ED
   - INS-260330-4983
+  - INS-260330-22C0
   - INS-260403-D482
-  - INS-260403-9E63
   - INS-260403-0162
-  - INS-260403-1110
   - INS-260404-4010
   - INS-260404-B1AB
 ---

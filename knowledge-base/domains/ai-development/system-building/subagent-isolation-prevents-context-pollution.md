@@ -50,9 +50,8 @@ stance: >-
   Fresh subagents with exactly the context needed outperform long-running agents
   with accumulated confusion
 evidence:
-  - id: INS-260329-7A39
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+  - id: INS-260329-7B1D
+    relationship: RELATED
 ---
 
 Each implementation task was dispatched to a fresh subagent with exactly

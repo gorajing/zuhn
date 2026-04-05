@@ -40,11 +40,11 @@ stance: >-
   expensive items feel cheap, which is why coffee can sustain 500% markups that
   consumers would reject in other categories.
 related:
-  - INS-260330-707D
   - PRI-260328-FD90
   - INS-260330-121C
   - INS-260403-B6A0
   - INS-260327-875C
+  - INS-260324-A046
 evidence:
   - id: INS-260330-121C
     type: SUPPORTS

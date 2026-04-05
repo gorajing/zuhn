@@ -17,8 +17,8 @@ tags:
   - barrier-to-entry
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -52,13 +52,13 @@ related:
   - INS-260324-ABAC
   - INS-260323-BD20
   - INS-260329-DD01
-  - INS-260404-975A
-  - INS-260404-30CA
+  - INS-260403-08FE
+  - INS-260404-35B6
   - INS-260404-E65A
-  - INS-260404-029D
   - INS-260404-FB91
-  - INS-260404-EC27
-  - INS-260404-79EC
+  - INS-260404-50A7
+  - INS-260403-9104
+  - INS-260404-AC1B
 ---
 Costco turns nearly every apparent disadvantage into a strategic filter. The membership fee selects for affluent households (average income ~$100K). The warehouse layout forces wandering through aisles, increasing impulse purchases. Bulk quantities attract business owners who make up one-third of members but two-thirds of sales. Even the lack of decoration signals 'we spend money on low prices, not aesthetics.'
 

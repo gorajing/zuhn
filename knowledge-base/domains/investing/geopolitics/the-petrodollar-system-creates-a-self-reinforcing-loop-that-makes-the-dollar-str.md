@@ -58,9 +58,8 @@ related:
   - PRI-260322-9E36
   - PRI-260328-37D8
 evidence:
-  - id: INS-260325-F484
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+  - id: INS-260325-B234
+    relationship: RELATED
 ---
 After the 1971 Nixon Shock ended gold-dollar convertibility, the U.S. needed a new mechanism to maintain dollar dominance. The 1973 agreement with Saudi Arabia (oil sold only in USD in exchange for military protection) created that mechanism. Since every country needs oil, every country needs dollars, creating constant structural demand.
 

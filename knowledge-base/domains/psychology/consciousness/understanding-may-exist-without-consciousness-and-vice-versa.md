@@ -45,6 +45,7 @@ stance: >-
   correctly (passing the Turing test) does not require understanding, implying
   consciousness and intelligent behavior may be fundamentally separable.
 related:
+  - INS-260323-2C19
   - INS-260325-64FD
   - INS-260323-1655
   - PRI-260323-F92B
@@ -54,7 +55,6 @@ related:
   - PRI-260403-67FC
   - INS-260327-6021
   - INS-260329-A6FB
-  - INS-260329-3C75
 evidence:
   - id: INS-260323-539C
     type: CONTRADICTS

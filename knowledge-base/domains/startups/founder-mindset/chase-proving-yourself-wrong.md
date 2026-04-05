@@ -56,29 +56,21 @@ stance: >-
   current ones
 evidence:
   - id: INS-260330-E282
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-64B8
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260402-4E59
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260402-607A
+    relationship: RELATED
   - id: INS-260330-FB5A
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-AC16
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-CC51
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-6004
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260402-D0F2
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 
 Max wasted 3 months hoping someone would validate his ideas. The

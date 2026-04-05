@@ -48,6 +48,7 @@ related:
   - INS-260325-FADB
   - INS-260403-458A
   - INS-260330-DC0D
+  - INS-260405-8B05
 stance: >-
   Moddoc's senior care team of just 2 people reached 50M won monthly revenue in
   under 4 months, while reducing overall headcount tripled business rev...

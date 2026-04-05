@@ -16,8 +16,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -47,10 +47,11 @@ stance: >-
 related:
   - INS-260327-7BE4
   - INS-260330-D824
-  - INS-260404-A193
-  - INS-260404-E298
+  - INS-260403-C4DF
   - INS-260405-48EC
-  - INS-260403-5C88
   - INS-260403-CDB9
+  - INS-260404-EAA7
+  - INS-260404-DD00
+  - INS-260404-60D6
 ---
 Costco derives 75% of its profit from membership fees, not product sales. This fundamentally changes incentive structure: raising prices on goods would generate marginal short-term revenue but risk losing the $60-120 annual membership at renewal. The result is a self-imposed 15% max markup (vs 24% at Walmart, 35% at Home Depot) and a 90% renewal rate. This model works because the upfront fee also triggers sunk-cost psychology — members stop comparison shopping and default to Costco, creating a loyalty flywheel that doesn't require traditional loss-leader tactics. The key insight for business design is that where revenue comes from determines what a company optimizes for.

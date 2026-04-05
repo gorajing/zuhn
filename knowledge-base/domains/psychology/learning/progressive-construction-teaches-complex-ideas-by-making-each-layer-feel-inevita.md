@@ -50,12 +50,11 @@ stance: >-
   revealing that the real version differs only in small ways from what the
   learner already understands
 related:
-  - INS-260329-C5C6
   - INS-260329-2DF2
   - INS-260329-E914
   - INS-260329-48FD
-  - INS-260329-F211
   - INS-260403-65D2
+  - INS-260329-27A3
 evidence:
   - id: INS-260329-F211
     type: SUPPORTS

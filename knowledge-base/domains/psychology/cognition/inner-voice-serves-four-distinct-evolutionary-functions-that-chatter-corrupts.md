@@ -59,6 +59,12 @@ evidence:
   - id: INS-260327-F4DB
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260323-87F3
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260323-0603
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Kross identifies four distinct functions of the inner voice: (1) verbal working memory — keeping information active for processing, (2) simulation and planning — mentally rehearsing scenarios before they happen, (3) self-control — the voice that talks you out of impulsive decisions, and (4) narrative construction — building the story of who you are.
 

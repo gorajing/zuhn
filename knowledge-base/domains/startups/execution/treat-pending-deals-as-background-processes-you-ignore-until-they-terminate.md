@@ -48,8 +48,8 @@ related:
   - INS-260403-7BEC
   - INS-260329-27DF
   - INS-260402-7FCC
-  - INS-260327-F26E
   - INS-260327-5DD2
+  - PRI-260403-88F5
 ---
 Graham learned from Viaweb (after ~20 fallen-through deals) that the most useful skill was not getting hopes up about pending deals. The practice is to treat each deal as a background process you ignore until it terminates — don't track it, don't depend on it, don't let it occupy mental bandwidth.
 

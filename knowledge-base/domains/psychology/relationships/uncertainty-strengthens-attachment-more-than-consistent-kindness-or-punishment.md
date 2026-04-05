@@ -50,6 +50,7 @@ stance: >-
   Intermittent and unpredictable treatment creates stronger emotional bonds than
   reliably positive or reliably negative treatment
 related:
+  - INS-260329-895D
   - INS-260330-4D5C
   - INS-260330-EAAE
   - INS-260330-BE46

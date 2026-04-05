@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-B306
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-147C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Goldman Sachs found 40% of $500K+ earners live paycheck to paycheck, with less than a third consistently saving. This has shifted from rare cautionary tales (athletes, celebrities) to the majority of high earners. The cause isn't declining financial literacy but an economy increasingly optimized to capture high-income spending.
 

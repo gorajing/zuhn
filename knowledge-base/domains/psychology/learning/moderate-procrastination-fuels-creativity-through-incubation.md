@@ -52,12 +52,11 @@ stance: >-
   action or chronic delay because it allows subconscious incubation while
   maintaining enough time pressure to develop novel ideas.
 related:
-  - INS-260329-6020
   - INS-260330-F6B1
   - INS-260328-217C
   - INS-260328-FE38
   - INS-260403-3CD9
-  - INS-260325-14A9
+  - INS-260325-0A49
 evidence:
   - id: INS-260329-6020
     type: CONTRADICTS

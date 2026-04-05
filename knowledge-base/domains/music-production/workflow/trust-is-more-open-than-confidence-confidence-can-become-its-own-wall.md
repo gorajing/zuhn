@@ -58,23 +58,17 @@ stance: >-
   fixed belief in your identity ('I am this thing'), while trust is simply ...
 evidence:
   - id: INS-260321-9A03
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-CD49
-    type: REFINES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260325-5A93
-    type: CONTRADICTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-FB5A
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260327-7349
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
-  - id: INS-260403-C5C0
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260405-12E6
+    relationship: RELATED
 ---
 Wilkenfeld makes a subtle but important distinction: confidence carries an identity attachment ('I'm a badass'), which can become as much of a brick wall as fear. She's shared stages with very confident musicians whose confidence was actually a barrier to genuine connection and chemistry. Trust, by contrast, is simply knowing you can get up there and handle whatever comes -- it's open-ended rather than identity-locked.
 

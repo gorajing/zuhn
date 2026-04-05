@@ -56,11 +56,12 @@ stance: >-
   beyond normal 20/20 baselines, not just rehabilitate impaired vision back to
   normal.
 related:
+  - INS-260327-1B9A
+  - INS-260330-54A3
   - INS-260330-A256
   - INS-260330-4A7F
   - INS-260323-D400
   - INS-260330-0FCC
-  - INS-260330-54A3
   - INS-260327-DF8B
 evidence:
   - id: INS-260323-D400

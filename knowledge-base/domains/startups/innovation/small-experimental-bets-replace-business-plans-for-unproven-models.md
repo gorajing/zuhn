@@ -47,13 +47,13 @@ related:
   - INS-260403-5FBD
   - INS-260403-62B2
   - INS-260403-3569
+  - INS-260403-1000
   - INS-260403-DF7F
   - INS-260403-0701
   - INS-260403-FC36
   - INS-260403-EAE5
   - INS-260403-97F8
   - INS-260403-946A
-  - INS-260403-8D2C
 ---
 When a business model is unproven, the traditional planning toolkit — sales forecasts, growth projections, multi-year financial models — produces fiction dressed as analysis. The numbers look precise but are built on unvalidated assumptions about customer behavior, pricing, and market size.
 

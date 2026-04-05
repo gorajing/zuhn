@@ -48,16 +48,16 @@ stance: >-
   year-over-year avoidance of your most important project, which camouflages
   itself as industrious work on lesser tasks
 related:
+  - INS-260325-77B1
   - INS-260325-0A49
   - INS-260327-3C19
+  - INS-260328-217C
   - INS-260329-ADC4
   - INS-260329-6DED
-  - INS-260329-6020
   - INS-260329-19EE
   - INS-260330-14A1
   - INS-260403-3CD9
-  - INS-260328-217C
-  - INS-260325-77B1
+  - INS-260403-E365
 evidence:
   - id: INS-260327-3C19
     type: TRANSFERS_TO

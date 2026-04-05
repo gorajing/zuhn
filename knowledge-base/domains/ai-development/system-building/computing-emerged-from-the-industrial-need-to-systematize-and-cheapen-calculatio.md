@@ -62,26 +62,19 @@ related:
   - INS-260330-FB9C
 evidence:
   - id: INS-260321-33FC
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-E63E
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-500C
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-3049
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-7157
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-FB9C
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260402-F479
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260402-2FDF
+    relationship: RELATED
 ---
 The earliest computers were humans — groups of people performing divided calculation labor to produce nautical almanacs, survey nations, and track celestial objects. The first computation of Halley's Comet return (late 18th century) used divided labor: two people tracked Earth and Jupiter while a third tracked the comet. This division of labor is the same principle Adam Smith described for pin manufacturing.
 

@@ -56,13 +56,16 @@ stance: >-
   threat resolution
 related:
   - INS-260323-E492
-  - INS-260330-4B22
   - INS-260329-116A
   - INS-260403-53D9
   - INS-260330-8646
+  - INS-260330-415C
 evidence:
   - id: INS-260323-E492
     type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-116A
+    type: TRANSFERS_TO
     classified_at: '2026-04-05'
 ---
 Stephen King distinguishes three types of scary: grossout (disgust at disease, decay, morbidity), horror (shock at the unnatural — a giant spider, being grabbed in the dark), and terror (the subtlest — coming home to find everything replaced with exact copies, feeling breath on your neck with nothing there). Each engages different cognitive machinery: disgust triggers contamination avoidance, horror triggers startle and fight-or-flight, but terror engages the uncertainty-processing systems with no clear resolution pathway.

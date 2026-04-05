@@ -56,6 +56,10 @@ related:
   - PRI-260323-A47C
   - INS-260404-0519
   - INS-260323-E492
+evidence:
+  - id: INS-260323-E492
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 When normal people encounter the shift from impersonal to personal moral dilemmas, their amygdala and related emotional circuits activate dramatically — what Dutton describes as 'lighting up like a pinball machine.' In psychopaths, this transition produces no observable change in brain activation. The emotion neighborhood of their brain has what Dutton calls a 'neural curfew.'
 

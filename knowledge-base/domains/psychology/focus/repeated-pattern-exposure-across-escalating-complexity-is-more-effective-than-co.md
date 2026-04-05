@@ -55,12 +55,13 @@ stance: >-
   increasing complexity rather than learning each concept once thoroughly before
   moving on.
 related:
-  - INS-260329-32DB
-  - INS-260329-B6A6
   - INS-260329-E914
   - PRI-260328-49CB
   - INS-260329-493A
-  - INS-260329-9AE9
+  - INS-260330-189F
+  - INS-260329-26AC
+  - INS-260329-BE50
+  - INS-260329-50C0
   - INS-260330-B4B9
 ---
 Across 24 chapters and 13+ hours, Dr. Chuck's course doesn't teach conditionals once and move on — it reintroduces them when parsing strings, when filtering file data, when handling web scraping edge cases, and when querying databases. Each revisit adds complexity and context while reinforcing the core pattern.

@@ -54,8 +54,8 @@ related:
   - INS-260329-C8C7
   - PRI-260403-1D59
   - INS-260404-6751
-  - INS-260404-1E28
-  - INS-260404-37B5
+  - INS-260405-39F3
+  - INS-260404-62D5
 ---
 The book identifies three primary revenue architectures — transaction (one-time), recurring (subscription), and usage-based — and demonstrates how the choice between them fundamentally shapes business dynamics. Skype's freemium model works because marginal cost per free user is near zero, creating a massive funnel for premium conversion. Red Hat's open-source-plus-support model turns a free product into recurring enterprise revenue.
 

@@ -1,6 +1,6 @@
 # Topic: relationships
 
-> 93 insights
+> 86 insights
 
 - `INS-260325-3A54` [very_high] The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260330-A33E` [high] Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
@@ -23,7 +23,6 @@
 - `INS-260330-1AEA` [high] Boys in fatherless households suffer more than girls, creating an intergenerational cycle of male disadvantage that compounds across education, employment, and family formation.
 - `INS-260327-4D29` [high] You can only be truly kind if you're capable of not being kind - otherwise niceness isn't a choice, it's just an inability to say no.
 - `INS-260325-268F` [high] Good relationships regulate emotions at a biological level, keeping bodies in equilibrium; people with secure late-life connections show slower brain decline.
-- `INS-260330-677A` [high] John Gottman's four horsemen of relationship failure (criticism, contempt, defensiveness, stonewalling) map precisely to customer support anti-patterns that cause churn.
 - `INS-260325-1C7F` [high] Research estimates that caregivers let down about 50% of children, creating attachment wounds that govern adult relationship behavior -- an important base rate for anyone entering the dating world.
 - `INS-260330-EAAE` [high] Harlow's rejecting-mother experiment and Hess's duckling shock study both showed that punishment for attachment behavior paradoxically strengthened it.
 - `INS-260325-17E0` [high] All you have to do is watch an emotion long enough and you will see that it changes — your annoyance right now will not exist an hour from now.
@@ -44,27 +43,22 @@
 - `INS-260330-F9C1` [high] Novel shared experiences drive the dopamine system that sustains romantic love, making deliberate novelty-seeking the most brain-aligned strategy for long-term relationship maintenance.
 - `INS-260327-58ED` [high] The people-pleaser isn't selfless - they're controlling the emotional environment to avoid the discomfort of others' displeasure, which is actually a self-serving strategy.
 - `INS-260330-A9DD` [high] Frequency, orgasm rate, and duration are proxy metrics that often diverge from actual sexual satisfaction — pleasure itself is the only valid measure of sexual wellbeing.
-- `INS-260330-C9FA` [high] Measuring sex by frequency or orgasm count is like measuring food by calories consumed — the only metric that matters is whether you experience pleasure.
 - `INS-260330-FA1C` [high] The only question that matters for sexual well-being is 'do you like the sex you're having?' — all other metrics are noise.
 - `INS-260330-6C0E` [high] Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
 - `INS-260330-BE46` [high] Harlow's monkey experiments and Fisher's puppy studies show that unpredictable treatment creates stronger attachment than consistent kindness or consistent punishment.
 - `INS-260325-9E0C` [high] The 85-year Harvard Study of Adult Development found that people with the warmest relationships stayed healthiest longest and lived longest.
 - `INS-260323-42A7` [high] Marriages fail like bankruptcy — very slowly and then all at once — through accumulated small disconnections, not through the dramatic event that finally ends them.
 - `INS-260330-EC5E` [high] Responsive desire — wanting sex only after pleasure has already begun — is as normal as spontaneous desire, and treating it as dysfunction damages relationships.
-- `INS-260330-7F43` [high] Desire that shows up only after pleasurable stimulation begins is not broken desire — it's a normal neurological style affecting a large portion of the population.
 - `INS-260325-4C0F` [high] The romantic idea that love should follow pure instinct, need no rational analysis, and reject criticism has produced 250 years of relationship failure masquerading as liberation.
 - `INS-260325-362B` [high] De Botton argues we have been in a 'romantic age' for 250 years where love is treated as instinct and feeling, and it has been a disaster — we are no happier than in the dynastic marriage era.
 - `INS-260325-6571` [high] Brain scans reveal romantic love is not an emotion but a drive originating in the VTA dopamine system next to thirst and hunger — it evolved as a survival mechanism to focus mating energy on a single partner.
-- `INS-260325-5588` [high] fMRI studies show romantic love activates a dopamine factory near the base of the brain next to circuits for thirst and hunger — it is a mating drive, not a series of emotions.
 - `INS-260330-D0E2` [high] The brain's sexual response has separate accelerator (excitation) and brake (inhibition) systems, and most problems come from overactive brakes rather than a weak accelerator.
-- `INS-260330-8913` [high] Desire isn't a single drive to amplify — it's a balance between an accelerator (excitation) and brakes (inhibition), and most problems are brake-side.
 - `INS-260330-75B5` [high] Sexual problems are mostly caused by too much hitting the brakes (stress, shame, trauma) rather than not enough gas (stimulation).
 - `INS-260326-35CE` [high] Shame is the fear that something about who you are makes you unworthy of connection.
 - `INS-260329-EBCA` [high] When you skip social obligations, people punish you by inviting you less — which is exactly what you wanted, making it a win-win.
 - `INS-260323-8268` [high] Satisfied couples maintain approximately five positive interactions for every negative one, where positives include micro-moments like acknowledging bids for connection.
 - `INS-260323-1C33` [high] Criticism, defensiveness, stonewalling, and contempt form a predictable cascade that erodes relationships, with contempt being the single strongest predictor of divorce.
 - `INS-260330-EA2E` [high] Sustaining a partnership requires separately maintaining sex drive (regular sex), romantic love (novel experiences together), and attachment (physical touch and cuddling).
-- `INS-260329-9EFA` [high] Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value what you receive more than what you give up.
 - `INS-260329-59D2` [high] Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
 - `INS-260330-DD91` [high] Rogan trusts old friends and fellow comedians because the grueling process of becoming a comic — years of bombing, humiliation, and persistence — creates a bond that reveals character more reliably than any other signal.
 - `INS-260330-8A0C` [high] The Polarity Principle shows that unpredictable reward/rejection cycles create stronger attachment than consistent positive reinforcement.
@@ -91,7 +85,6 @@
 - `INS-260330-1A55` [medium] In a study of 1,100 married people, 81% said they would remarry their current partner, which Fisher attributes to extended pre-commitment periods filtering incompatible matches.
 - `INS-260326-2E56` [medium] When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
 - `INS-260325-B4A8` [medium] Research suggests that chronic acrimony in an intimate relationship may be more harmful to health than splitting up, because it maintains the same chronic stress as loneliness.
-- `INS-260329-DFDD` [medium] Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value the latter in each pair.
 - `INS-260330-353B` [medium] Extreme wealth fills your world with yes-men and opportunists, making it nearly impossible to distinguish genuine connection from financial motivation.
 - `INS-260330-D38F` [medium] Expressing verbal affirmations to a partner measurably reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
 - `INS-260323-CF27` [medium] Positive interactions require vulnerability -- exposing that you care, that you're stressed, that you want to be liked -- and this exposure is what transforms routine exchanges into genuine bonds.

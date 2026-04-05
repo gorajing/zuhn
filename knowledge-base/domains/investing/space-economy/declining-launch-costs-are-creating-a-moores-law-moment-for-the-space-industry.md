@@ -66,6 +66,9 @@ evidence:
   - id: INS-260320-8688
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-37FD
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The cost per pound to orbit is dropping exponentially as a side effect of SpaceX's success, creating dynamics similar to Moore's Law in semiconductors. This declining cost is enabling entirely new categories of space startups, just as cheap transistors enabled new computing applications. YC is actively seeking space startups as a result.
 

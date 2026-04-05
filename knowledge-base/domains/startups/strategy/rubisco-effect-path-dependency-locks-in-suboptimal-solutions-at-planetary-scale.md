@@ -57,15 +57,15 @@ stance: >-
   compensate around its flaws rather than replacing it
 related:
   - INS-260325-C528
-  - INS-260323-BA00
   - INS-260327-8048
-  - INS-260330-56D6
   - INS-260330-4C3A
   - INS-260330-2BF4
   - INS-260330-0B8D
   - INS-260404-AE3C
   - INS-260403-3E1C
   - INS-260404-5DE4
+  - INS-260404-1000
+  - INS-260330-47CF
 evidence:
   - id: INS-260323-BA00
     type: TRANSFERS_TO

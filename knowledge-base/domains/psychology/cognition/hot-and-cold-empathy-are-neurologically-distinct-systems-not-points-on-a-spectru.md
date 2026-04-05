@@ -62,6 +62,10 @@ related:
   - INS-260323-F853
   - INS-260330-D5DD
   - INS-260404-0348
+evidence:
+  - id: INS-260323-F853
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Dutton's trolley problem analysis reveals empathy as a dual-system phenomenon rather than a single capacity. Cold empathy — the ability to understand another's situation rationally — operates through the prefrontal cortex, posterior parietal cortex, anterior cingulate cortex, temporal pole, and superior temporal sulcus. Hot empathy — the visceral feeling of another's experience — operates through the amygdala and medial orbital frontal cortex.
 

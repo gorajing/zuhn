@@ -16,8 +16,8 @@ tags:
   - efficiency-wages
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -63,18 +63,14 @@ related:
   - INS-260404-E1FF
   - INS-260405-47FD
 evidence:
-  - id: INS-260404-E1FF
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260403-43E5
+    relationship: RELATED
   - id: INS-260404-95FC
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-E1B0
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-8A80
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Costco pays its 245,000 workers an average of $21/hour—double the U.S. retail average—plus superior health insurance and retirement benefits. Rather than eroding margins, this investment yields employees who are three times more productive than the industry norm. The math works because high-throughput warehouse operations amplify per-worker productivity differences: a 3x productivity gain on a 2x wage premium is a clear net positive.
 

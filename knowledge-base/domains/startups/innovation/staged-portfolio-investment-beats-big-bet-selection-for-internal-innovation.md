@@ -47,6 +47,7 @@ stance: >-
   evidence outperform those where leaders try to pick winning ideas upfront
 related:
   - INS-260327-F50E
+  - INS-260330-F1C8
   - INS-260330-4314
   - INS-260329-4605
   - INS-260403-215E
@@ -55,7 +56,6 @@ related:
   - INS-260403-1358
   - INS-260403-BDCC
   - INS-260403-8291
-  - INS-260403-383F
 evidence:
   - id: INS-260327-F50E
     type: TRANSFERS_TO

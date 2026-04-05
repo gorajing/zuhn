@@ -50,12 +50,13 @@ stance: >-
   ability to change course.
 related:
   - INS-260322-3646
-  - INS-260323-A075
   - INS-260326-8798
   - INS-260327-C54D
+  - INS-260328-B57E
   - INS-260403-5F3E
   - INS-260403-CF0E
   - INS-260323-8893
+  - PRI-260328-4810
 evidence:
   - id: INS-260322-3646
     type: CONTRADICTS

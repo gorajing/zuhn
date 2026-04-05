@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-A98B
   - INS-260403-A115
-  - INS-260402-180C
   - INS-260327-1ACE
   - INS-260327-AC1B
+  - INS-260330-7DA5
   - INS-260330-9DCD
 evidence:
   - id: INS-260327-1ACE
@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-9DCD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-A115
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 China's local governments face a structural fiscal gap: they collect just 40% of tax revenue while shouldering 80% of public expenditures. This forces cities to rely on rezoning rural land to urban and selling it to developers — a mechanism that in some years accounts for 40% of local revenue. The dynamic is self-reinforcing: cities need cash, so they sell land; developers must use purchased land, so they build; construction boosts GDP, which gets officials promoted.
 

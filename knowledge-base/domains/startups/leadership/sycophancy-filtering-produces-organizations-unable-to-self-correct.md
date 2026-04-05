@@ -52,9 +52,9 @@ stance: >-
   systematically select for either liars or true believers, both of whom are
   incapable of providing the honest feedback needed for course correction.
 related:
-  - INS-260322-116B
   - INS-260321-5C24
   - PRI-260328-E870
+  - INS-260405-89E7
   - INS-260403-1DC9
   - INS-260403-22FE
 evidence:

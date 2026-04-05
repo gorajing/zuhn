@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-4C26
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-EEAF
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Hormozi advocates a systems-based approach to personal finance: automate the investment allocation so money moves to a separate account before you can spend it, then make spending deliberately harder (cash instead of cards, pre-approved shopping lists only, no recreational shopping). The key insight is asymmetric friction — lubricate the path toward investing and add resistance to spending.
 

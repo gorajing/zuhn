@@ -53,8 +53,6 @@ stance: >-
   science indexing is a fundamental pedagogical obstacle that persists across
   all experience levels, not just among beginners
 related:
-  - INS-260326-CAAB
-  - INS-260329-4870
   - INS-260329-9927
   - INS-260325-FDA9
   - INS-260323-E161

@@ -50,14 +50,14 @@ stance: >-
 related:
   - INS-260321-3521
   - INS-260328-03BB
+  - INS-260330-9B90
   - INS-260330-478B
   - INS-260330-376E
   - INS-260402-421B
+  - INS-260402-5974
   - INS-260403-F447
   - INS-260403-04C9
   - INS-260403-0680
-  - INS-260330-EE5E
-  - INS-260328-F301
 ---
 Graham observes that judging startups is hard even for the best investors, so mediocre ones are essentially flipping coins. When they see other investors interested, they rationally conclude there must be signal in that consensus. This isn't laziness — it's an accurate self-assessment of their own judgment quality.
 

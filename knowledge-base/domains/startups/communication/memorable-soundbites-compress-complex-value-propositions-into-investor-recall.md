@@ -15,11 +15,8 @@ tags:
   - pitching
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -55,7 +52,7 @@ related:
   - INS-260404-3C46
   - INS-260403-F7DD
   - INS-260403-EF30
-  - INS-260404-0AF3
+  - INS-260405-54B8
 ---
 Professional investors hear dozens of pitches that blur together. The first survival filter is simply being remembered, and a sticky descriptive phrase ('the Microsoft Word of ecommerce,' 'the x of y') ensures you pass that filter. Graham notes this should be launched clearly but apparently casually near the beginning of the talk.
 

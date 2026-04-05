@@ -47,12 +47,14 @@ stance: >-
   Acute political crises function as forced-choice experiments that reveal
   people's actual commitments more reliably than their stated principles.
 related:
+  - INS-260323-821F
   - INS-260325-95EB
   - INS-260329-FEA6
   - INS-260330-A151
   - INS-260330-CFEA
-  - INS-260329-7BAF
   - INS-260323-DEEA
+  - INS-260403-57F6
+  - INS-260402-D534
 evidence:
   - id: INS-260329-FEA6
     type: TRANSFERS_TO

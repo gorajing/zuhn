@@ -56,10 +56,10 @@ stance: >-
   organs to systems to organisms — and this layered architecture is what makes
   both resilience and specialization possible.
 related:
+  - INS-260325-1F35
   - INS-260325-C6BB
   - INS-260330-8538
   - INS-260330-81E0
-  - INS-260330-2EAB
   - PRI-260403-70D0
   - INS-260330-39B0
   - INS-260330-2601

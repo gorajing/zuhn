@@ -55,11 +55,11 @@ related:
   - INS-260325-2832
   - INS-260323-3E21
   - INS-260330-367B
-  - INS-260323-4279
   - INS-260323-8F41
   - INS-260330-E89A
   - INS-260330-81E0
   - INS-260330-6A65
+  - INS-260330-63DD
 stance: >-
   The Aharonov-Bohm effect proved that potentials (once dismissed as mere
   mathematical shortcuts) directly influence physical reality

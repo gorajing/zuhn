@@ -51,11 +51,11 @@ stance: >-
   small fraction of the total system complexity; the real challenge is the full
   stack of software, operations, and regulatory infrastructure.
 related:
-  - INS-260330-5B5E
-  - INS-260325-BF84
   - INS-260323-FAF2
   - INS-260325-D624
   - INS-260404-8D91
+  - PRI-260323-BA94
+  - INS-260327-088E
 evidence:
   - id: INS-260323-FAF2
     type: SUPPORTS

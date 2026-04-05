@@ -56,11 +56,11 @@ stance: >-
   their data) rather than walking through features, creating visceral 'magic
   moments' that make the solution feel inevitable.
 related:
-  - INS-260329-03B5
   - INS-260329-1ECA
   - INS-260402-71A7
   - INS-260405-3E57
   - INS-260321-2F09
+  - INS-260403-BDBE
 evidence:
   - id: INS-260329-03B5
     type: TRANSFERS_TO

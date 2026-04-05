@@ -49,12 +49,13 @@ stance: >-
   guarantees fragmentation upon the founder's departure.
 related:
   - INS-260323-79A5
+  - INS-260323-B726
   - INS-260321-1A99
-  - INS-260327-F7FE
   - INS-260327-8912
+  - INS-260327-5140
   - INS-260327-3F8B
   - PRI-260328-7EA5
-  - INS-260323-DF0F
+  - INS-260330-F158
 evidence:
   - id: INS-260327-F7FE
     type: REFINES

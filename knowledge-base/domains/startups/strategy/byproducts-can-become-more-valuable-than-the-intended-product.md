@@ -63,20 +63,13 @@ related:
   - PRI-260403-53D6
 evidence:
   - id: INS-260330-3AB4
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-E786
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260403-D85D
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260330-C607
+    relationship: RELATED
   - id: INS-260404-8050
-    type: EXTENDS
-    classified_at: '2026-04-05'
-  - id: INS-260403-882A
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Photosynthesis evolved to produce chemical energy (ATP, NADPH, and ultimately glucose) for plant survival. Oxygen was literally described as 'the most useful useless byproduct in the history of useless byproducts' — a waste gas vented through stomata. Yet this byproduct transformed Earth's atmosphere, enabled the evolution of all aerobic life, and became far more consequential than the glucose that plants originally optimized for.
 

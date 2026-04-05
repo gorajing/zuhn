@@ -51,8 +51,8 @@ stance: >-
   activation and autoimmune flares that even organic preparation cannot
   eliminate
 related:
+  - INS-260327-2321
   - INS-260327-244B
-  - INS-260327-0C29
   - INS-260327-DC20
   - PRI-260328-97E0
   - PRI-260325-4FD3

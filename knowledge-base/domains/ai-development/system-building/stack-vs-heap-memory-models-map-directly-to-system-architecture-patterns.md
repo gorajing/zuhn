@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260330-BE4D
   - INS-260329-818A
+  - INS-260405-6C88
   - INS-260330-AB62
   - PRI-260403-6DD6
-  - INS-260330-1B47
 evidence:
   - id: INS-260330-BE4D
     type: TRANSFERS_TO

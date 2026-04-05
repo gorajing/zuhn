@@ -1,7 +1,6 @@
 # Tag: documentation
 
 - `INS-260330-6D43` Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
-- `INS-260330-86F9` Good developer documentation and tooling make agents succeed at higher rates, creating a virtuous cycle where DX investment pays double dividends.
 - `INS-260327-91C7` The CPS (Context-Problem-Solution) framework ensures all meeting logs converge into a single document that accumulates shared context, enabling both humans and AI models to stay aligned across iterative development.
 - `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.

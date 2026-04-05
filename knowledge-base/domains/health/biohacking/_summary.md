@@ -1,6 +1,6 @@
 # Topic: biohacking
 
-> 127 insights
+> 120 insights
 
 - `INS-260330-B173` [high] Running up stairs for 20 seconds, 2-3 times daily across a workday, significantly improves VO2 max and blood glucose control.
 - `INS-260326-BF32` [high] Evolution optimized for stability under disruption, not peak performance — pushing one parameter to its optimum can crash the stability system that keeps everything else running.
@@ -17,7 +17,6 @@
 - `INS-260330-6270` [high] Shivering releases succinate from muscles which activates brown fat thermogenesis — resisting shiver during cold exposure eliminates the fat-burning benefit.
 - `INS-260330-2F9F` [high] Cold water exposure uniquely raises dopamine 2.5x above baseline with a sustained multi-hour elevation rather than the spike-crash pattern of stimulants.
 - `INS-260327-257C` [high] Common creatine mistakes include underdosing, combining with coffee, and inconsistent daily use
-- `INS-260330-24BA` [high] Thylakoids store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase as protons flow back — identical in principle to charging and discharging a battery.
 - `INS-260327-DF1D` [high] Creatine monohydrate at 5g/day builds muscle, 10g/day supports bone density, and 15-20g/day crosses the blood-brain barrier for cognitive and sleep benefits.
 - `INS-260327-67A9` [high] Creatine supplementation does not harm kidneys (elevated creatinine is a benign byproduct) and the hair loss connection is based on a single study with methodological issues.
 - `INS-260327-9F10` [high] Creatine is the most evidence-based supplement for both physical and cognitive performance
@@ -37,13 +36,11 @@
 - `INS-260322-E7E9` [high] When insurance rejected a BMI-34.7 patient for Ozempic coverage at $1000/month, she turned to Chinese-sourced peptides at $15/vial — the access gap is creating the gray market.
 - `INS-260330-60A5` [high] Hypertrophy works across 5-30 reps per set with equal effectiveness — total volume of 10-25 working sets per muscle per week is the true driver.
 - `INS-260327-CBDF` [high] Indoor air is typically 2-5x more polluted than outdoor air due to mold, VOCs, and poor ventilation
-- `INS-260327-FB98` [high] Myopia rates of 80-90% in East Asian youth under 20 and 40-50% in the US are driven by indoor living and screen use; spending time outdoors looking at long distances is the primary prevention.
 - `INS-260330-1ACD` [high] Lactate is a triple-function molecule (buffer, fuel, hormone) that most people incorrectly believe causes the burn during exercise.
 - `INS-260330-713C` [high] Lactate buffers acid buildup during intense exercise and serves as fuel for the heart, brain, and liver — it's protective, not harmful.
 - `INS-260325-FC52` [high] Without someone to share stress with, the body stays in low-level fight-or-flight mode, causing chronic inflammation that gradually degrades multiple organ systems.
 - `INS-260325-39FD` [high] Longevity medicine aims to extend disease-free years, not prevent death — and one extra healthy year is worth $38 trillion.
 - `INS-260330-2025` [high] Your ability to deliberately cramp a muscle predicts both your growth potential for that muscle and how few sets you need to train it.
-- `INS-260327-6F94` [high] Morning sunlight exposure within 30 minutes of waking sets circadian rhythm for the entire day
 - `INS-260327-24AA` [high] Most bottled water in plastic containers contains microplastics and leached antimony/BPA; glass-bottled spring water or home reverse osmosis filtration with remineralization are the safest options.
 - `INS-260327-0871` [high] Non-toxic kitchen requires eliminating non-stick coatings, plastic storage, and unfiltered tap water
 - `INS-260327-D5E0` [high] Medical 'normal' ranges are bell-curve averages from a metabolically sick population -- 'normal' literally means 'average' not 'healthy,' and ranges shift as the population gets sicker.
@@ -54,7 +51,6 @@
 - `INS-260330-28EF` [high] Before adding more training stimulus, identify and remove the hidden stressors (performance anchors) that are consuming your recovery capacity.
 - `INS-260330-6C59` [high] Any consistent exercise training lowers resting heart rate by increasing stroke volume, with sub-60 bpm being an achievable target for most people.
 - `INS-260327-8E22` [high] Saline nasal irrigation and salt water gargling clear sinus and respiratory mucus without medications
-- `INS-260327-0DFD` [high] Seven nighttime habits accelerate aging including eating late, blue light, and alcohol before sleep
 - `INS-260327-2F75` [high] Short HIIT sessions plus daily walking provides 80 percent of exercise benefits with minimal time commitment
 - `INS-260330-9449` [high] Extending the fast around sleep on both sides (no food 1hr post-wake, 2-3hrs pre-bed) maximizes the cellular repair processes that drive fasting's health benefits.
 - `INS-260325-123C` [high] There is no catching up on sleep; consistent sleep hygiene is the most powerful attention intervention.
@@ -72,7 +68,6 @@
 - `INS-260327-E6FE` [medium] Addiction recovery requires dopamine receptor upregulation through extended abstinence and nutrient support
 - `INS-260327-F384` [medium] Animal-based nutrition supports elite surfing performance through sustained energy without crashes
 - `INS-260327-56D0` [medium] Apple cider vinegar before meals improves insulin sensitivity and digestion
-- `INS-260325-812F` [medium] Epigenetic clocks can estimate biological age by measuring DNA methylation changes, but we don't yet know if the changes they track cause aging or merely correlate with it.
 - `INS-260327-7C0A` [medium] Candida overgrowth can be rapidly reduced with oregano oil caprylic acid and biofilm-disrupting enzymes
 - `INS-260327-1E16` [medium] Keto and carnivore diets dropped Saladino's testosterone from 800 to 500; adding fruit and honey back restored it, because carbohydrates signal evolutionary abundance for reproduction.
 - `INS-260327-DE4E` [medium] Optimal cold plunge is 11-12 minutes per week at 50-55F, separated from strength training by 6-8 hours; excessive cold plunging may suppress immune function.
@@ -95,7 +90,6 @@
 - `INS-260326-2582` [medium] All lasting transformation modalities work by bypassing the thinking mind to access the deeper layer where behavioral change actually happens.
 - `INS-260327-C0AB` [medium] Magnesium taurate and malate are the best-absorbed forms; citrate causes diarrhea, glycinate may deplete methyl groups in those with MTHFR mutations, and threonate may cross the blood-brain barrier.
 - `INS-260327-5DB4` [medium] Methylene blue's perceived benefits are likely from its MAOI properties altering neurotransmitters rather than improving metabolism; it actually reduces ATP in healthy mitochondria.
-- `INS-260327-1C1B` [medium] Methylene blue bypasses parts of the electron transport chain, which helps broken mitochondria but reduces ATP in healthy ones; its MAOI effects confuse users into thinking they have more energy.
 - `INS-260327-027E` [medium] Middle-of-night waking responds to blood sugar stabilization and specific breathing techniques
 - `INS-260327-918A` [medium] Clinical studies show milk and orange juice are more hydrating than plain water; optimal daily hydration is 2.3L of fluid paired with 8-9g salt, consumed in the first 10 hours after waking.
 - `INS-260327-C150` [medium] Modern LED lighting damages health through invisible flicker and circadian-disrupting blue light spectra
@@ -127,5 +121,4 @@
 - `INS-260327-CB82` [low] AirPods and wireless earbuds emit the same RF-EMF frequency as microwave ovens at significant microwatts/m2 directly adjacent to the brain during extended use.
 - `INS-260327-B987` [low] Grounding mats that connect to earth's electromagnetic field may be the most effective non-pharmaceutical sleep relaxation tool, based on reported subjective effects and emerging research.
 - `INS-260327-1E87` [low] Ranking from least to most harmful: cigars (quality tobacco leaf), nicotine pouches, marijuana, vaping, cigarettes.
-- `INS-260327-D070` [low] Molecular hydrogen (H2) in water shows emerging evidence as a selective antioxidant that targets harmful hydroxyl radicals without suppressing beneficial ROS signaling.
 - `INS-260327-51E8` [low] Specific compounds enhance nighttime fat oxidation during the extended overnight fast

@@ -49,7 +49,7 @@ related:
   - INS-260326-6B99
   - INS-260323-1B42
   - INS-260329-F07A
-  - INS-260325-1407
+  - INS-260329-59FF
 stance: >-
   The Black-Scholes equation derives from a single powerful assumption: if you
   can construct a risk-free portfolio of options and stocks through dyna...

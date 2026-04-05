@@ -55,10 +55,10 @@ stance: >-
   fundraising window may not reopen for 2-3 years.
 related:
   - INS-260403-3D38
-  - INS-260325-0C4A
   - INS-260323-8893
   - INS-260403-EC8A
   - INS-260403-1C09
+  - PRI-260328-0993
 ---
 Both Sacks and Flint emphasize a mental model shift that separates survivors from casualties: stop assuming the next round is 12-18 months away. Flint's Trulia raised a $15M Series B in Q2 2008 and didn't get an upround for over three years—they had to go public to get one, despite doubling revenue year over year. The fundraising market can stay closed far longer than founders expect.
 

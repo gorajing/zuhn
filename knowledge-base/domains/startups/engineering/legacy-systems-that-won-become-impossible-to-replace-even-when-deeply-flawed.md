@@ -50,15 +50,15 @@ stance: >-
   infrastructure regardless of their inefficiency, because the cost of switching
   exceeds the cost of workarounds.
 related:
-  - INS-260323-BA00
   - INS-260323-B0EA
   - INS-260330-4983
-  - INS-260403-8CD3
   - INS-260404-BC18
   - INS-260404-B1AB
   - PRI-260403-C34A
+  - INS-260403-D482
   - INS-260403-04AF
   - INS-260403-5755
+  - INS-260404-8947
 evidence:
   - id: INS-260323-BA00
     type: EXTENDS

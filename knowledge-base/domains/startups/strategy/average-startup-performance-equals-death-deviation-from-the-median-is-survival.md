@@ -43,8 +43,8 @@ stance: >-
   Startups that follow industry-standard practices should expect
   industry-standard outcomes, which for startups means failure
 related:
-  - INS-260325-0C4A
   - INS-260323-46F8
+  - INS-260323-F9E5
   - INS-260327-F95F
   - INS-260327-7C23
   - INS-260327-1064
@@ -52,7 +52,7 @@ related:
   - INS-260327-A75B
   - PRI-260328-BD81
   - PRI-260328-2014
-  - INS-260329-5FB5
+  - INS-260330-A86C
 evidence:
   - id: INS-260330-30CE
     type: TRANSFERS_TO

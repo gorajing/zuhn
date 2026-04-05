@@ -52,5 +52,9 @@ related:
   - INS-260403-B734
   - INS-260330-30AB
   - PRI-260328-9F8C
+evidence:
+  - id: INS-260329-7B15
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Chips drove computing cost to zero → IBM. The internet drove distribution cost to zero → Google, Facebook, Netflix. Each time a previously scarce resource becomes effectively free to reproduce and distribute, entirely new markets emerge and incumbents are displaced. The essay applies this framework to humanness: empathy, presence, and social responsiveness have always been constrained by the limited supply of humans willing and able to provide them. AI removes that constraint. Fields where human presence was too expensive or too scarce to scale at all — therapy, hospice, coaching, companionship — now become addressable markets. The investment thesis follows directly: find the markets where humanness has historically been the supply constraint.

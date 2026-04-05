@@ -61,41 +61,23 @@ related:
   - INS-260403-DE05
 evidence:
   - id: INS-260330-666E
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260330-7FF3
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-3037
+    relationship: RELATED
   - id: INS-260330-2E41
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260403-37C4
-    type: EXTENDS
-    classified_at: '2026-04-05'
-  - id: INS-260404-91A0
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260404-BDE5
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-E374
+    relationship: RELATED
+  - id: INS-260403-464D
+    relationship: RELATED
   - id: INS-260403-791A
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-6876
-    type: EXTENDS
-    classified_at: '2026-04-05'
-  - id: INS-260404-47BC
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260403-172E
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260330-972B
+    relationship: RELATED
   - id: INS-260403-F249
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260403-DE05
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 The light-dependent reactions don't directly create usable energy. Instead, they charge the thylakoid membrane like a battery: protons from water-splitting and the cytochrome complex accumulate inside, creating a concentration gradient. Protons then push through ATP synthase (driven by their desire to equalize concentration), and that mechanical force packs inorganic phosphate onto ADP to create ATP.
 

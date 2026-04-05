@@ -56,5 +56,8 @@ evidence:
   - id: INS-260325-F451
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-8EFF
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Traditional currencies maintain a separation between the money (physical bills, gold) and records of its movement (bank ledgers). Bitcoin collapses this distinction entirely — the complete transaction history IS the currency. There is no Bitcoin 'somewhere' that the ledger tracks; ownership is purely a function of the chain of signed transactions. This represents a profound abstraction: value exists solely as verified computational history. The pattern applies beyond crypto — reputation systems, academic citations, and social capital all share this property where the record of interactions constitutes the value rather than merely documenting it.

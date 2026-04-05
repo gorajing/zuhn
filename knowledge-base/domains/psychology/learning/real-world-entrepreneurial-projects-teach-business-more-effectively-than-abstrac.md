@@ -48,10 +48,10 @@ stance: >-
   projects than through traditional educational approaches
 related:
   - INS-260403-49E7
-  - INS-260329-9A58
   - INS-260403-449D
   - PRI-260403-0509
-  - INS-260329-CD38
+  - INS-260329-8830
+  - INS-260403-D56B
 ---
 Osterwalder's explicit motivation was teaching his children about business through a real-world project — not a simulation or textbook. The Kickstarter funding, real visual team, and public audience created authentic stakes that no classroom exercise can replicate.
 

@@ -62,29 +62,19 @@ stance: >-
   failure
 evidence:
   - id: INS-260330-440E
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-5C6E
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-615D
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-4E55
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260330-BF00
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-B384
+    relationship: RELATED
   - id: INS-260330-72BD
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-912C
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260330-E17D
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Plokhy distinguishes three intertwined but separate processes commonly conflated: the collapse of communism as ideology, the end of the Cold War, and the end of the Soviet Union as a state. The third is best understood as the continuation of Russian imperial disintegration that started in 1917, was temporarily arrested by Bolshevik internationalist ideology, and resumed in the late 1980s.
 

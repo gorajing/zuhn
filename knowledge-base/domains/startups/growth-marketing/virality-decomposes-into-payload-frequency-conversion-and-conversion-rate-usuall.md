@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260321-E59A
   - INS-260328-031A
-  - INS-260330-D21A
   - INS-260330-20F7
   - INS-260330-3363
+  - INS-260323-F963
 evidence:
   - id: INS-260321-E59A
     type: TRANSFERS_TO

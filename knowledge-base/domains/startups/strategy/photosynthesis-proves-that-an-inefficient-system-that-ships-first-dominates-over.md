@@ -52,6 +52,7 @@ stance: >-
   waiting for an optimal solution, in biology and in markets
 related:
   - INS-260320-20F2
+  - INS-260330-CA62
   - INS-260330-09DE
   - INS-260404-9213
   - INS-260404-6F39

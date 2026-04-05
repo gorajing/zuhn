@@ -44,7 +44,6 @@ stance: >-
   Interpersonal meanness forces founders into narrow, adversarial thinking
   patterns that crowd out the generative ideation startups actually need to win
 related:
-  - INS-260326-291C
   - INS-260327-7B8E
   - INS-260330-F737
   - INS-260403-2B6E

@@ -46,10 +46,10 @@ stance: >-
   friction produce better signal than one-shot evaluation.
 related:
   - INS-260327-4B5A
-  - INS-260329-9115
-  - INS-260404-8A18
-  - INS-260329-7B1D
   - INS-260403-1358
+  - INS-260330-A25A
+  - INS-260321-6437
+  - INS-260330-E61E
 evidence:
   - id: INS-260321-6437
     type: TRANSFERS_TO

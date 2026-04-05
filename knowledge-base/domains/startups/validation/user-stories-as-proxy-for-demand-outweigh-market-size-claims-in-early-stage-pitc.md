@@ -16,11 +16,8 @@ tags:
   - storytelling
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -61,8 +58,8 @@ related:
   - INS-260403-1949
   - INS-260404-2B4C
   - INS-260404-3D06
-  - INS-260403-66D0
   - INS-260404-B01F
+  - INS-260404-EE85
   - INS-260404-EF17
   - INS-260404-817A
   - INS-260404-09E8

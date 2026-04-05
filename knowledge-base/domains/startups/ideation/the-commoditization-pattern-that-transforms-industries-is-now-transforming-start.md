@@ -51,7 +51,6 @@ stance: >-
   historically transformed steel, power, computing, and agriculture — and this
   will produce equally dramatic structural changes.
 related:
-  - INS-260330-BBCF
   - INS-260403-B6A0
   - INS-260403-7B60
   - INS-260403-3615
@@ -61,6 +60,7 @@ related:
   - INS-260403-34A6
   - INS-260403-A6AF
   - INS-260403-1FCD
+  - INS-260405-6A94
 evidence:
   - id: INS-260325-2906
     type: SUPPORTS
@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-BBCF
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-34A6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham identifies a meta-pattern across economic history: an expensive thing becomes cheap to produce, volume explodes by orders of magnitude, and entirely new applications emerge that were inconceivable at the old price point. Steel in the 1850s, power in the 1780s, cloth in the 1200s, computers in the 1980s — each triggered cascading structural changes far beyond the original industry.
 

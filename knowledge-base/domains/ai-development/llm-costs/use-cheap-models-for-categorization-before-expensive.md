@@ -18,7 +18,6 @@ sources:
     author: u/unknown
 related:
   - INS-260320-92CC
-  - INS-260320-EF3A
   - PRI-260320-233B
   - INS-260322-5790
   - INS-260327-7A48

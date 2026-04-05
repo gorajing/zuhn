@@ -45,11 +45,11 @@ stance: >-
   into a completely different future, yet we refuse to apply this same logic to
   our present actions.
 related:
-  - INS-260329-B214
   - INS-260327-FD99
-  - INS-260327-98DE
   - INS-260325-922D
   - PRI-260323-1CF9
+  - INS-260403-B6D9
+  - PRI-260328-BF67
 evidence:
   - id: INS-260327-98DE
     type: TRANSFERS_TO

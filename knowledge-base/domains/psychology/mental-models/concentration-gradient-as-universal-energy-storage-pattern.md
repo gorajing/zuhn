@@ -66,17 +66,11 @@ related:
   - INS-260405-6C1F
 evidence:
   - id: INS-260330-24BA
-    type: EXTENDS
-    classified_at: '2026-04-02'
-  - id: INS-260330-6E5F
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-EAA3
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-40EC
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 In photosynthesis, the thylakoid membrane acts as a battery: protons are pumped inside to create a concentration gradient, and when they flow back out through ATP synthase, that flow drives the creation of ATP. The energy isn't stored as a molecule — it's stored as an imbalance.
 

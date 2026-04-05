@@ -48,12 +48,12 @@ stance: >-
   more resource-efficient systems than those who rely exclusively on garbage
   collection abstractions.
 related:
-  - INS-260329-7677
   - PRI-260328-4FA6
-  - INS-260329-BDCC
   - INS-260329-818A
   - PRI-260327-942E
-  - INS-260329-BAB7
+  - PRI-260328-A82C
+  - INS-260330-3B0B
+  - INS-260329-F886
 evidence:
   - id: INS-260329-BDCC
     type: SUPPORTS

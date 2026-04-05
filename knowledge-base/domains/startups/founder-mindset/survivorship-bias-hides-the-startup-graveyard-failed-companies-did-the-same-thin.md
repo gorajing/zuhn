@@ -51,7 +51,7 @@ related:
   - INS-260329-444F
   - INS-260329-EF89
   - INS-260405-3403
-  - INS-260329-5FB5
+  - INS-260403-147C
 stance: >-
   We only study winners, but losers often executed the same playbook — luck and
   timing separated them.

@@ -56,16 +56,14 @@ stance: >-
   lock-in, because the very behaviors that created dominance can become the
   behaviors that compound the new problem.
 related:
-  - INS-260325-0895
-  - INS-260330-48F2
   - INS-260330-EACA
-  - INS-260330-E497
   - INS-260403-CF3E
   - INS-260403-3D7D
   - INS-260403-6628
   - INS-260405-7E85
   - INS-260405-F03A
   - INS-260404-B7B6
+  - INS-260405-3048
 ---
 RuBisCo was well-adapted to Earth's original low-oxygen atmosphere. But photosynthesis itself produced oxygen as a waste byproduct, gradually transforming the atmosphere. As O2 levels rose, RuBisCo increasingly mistook oxygen for CO2, creating toxic phosphoglycolate. Plants had to evolve expensive compensatory machinery to manage this, yet they couldn't abandon RuBisCo because it was too deeply entrenched.
 

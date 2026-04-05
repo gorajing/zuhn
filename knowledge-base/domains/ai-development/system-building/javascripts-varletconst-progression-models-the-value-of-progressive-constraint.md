@@ -48,12 +48,13 @@ stance: >-
   improves code reliability more than any amount of developer discipline alone.
 related:
   - INS-260329-8DC5
-  - INS-260329-761A
   - INS-260329-9157
   - INS-260329-47DD
+  - INS-260329-19EA
   - PRI-260403-9E80
   - INS-260329-7914
   - INS-260329-3423
+  - INS-260402-9676
   - INS-260330-43E3
 evidence:
   - id: INS-260402-9676

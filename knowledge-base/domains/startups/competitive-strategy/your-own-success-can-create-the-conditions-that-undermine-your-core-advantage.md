@@ -47,13 +47,13 @@ stance: >-
   Dominant strategies that reshape their environment often generate the very
   threats they are least equipped to handle
 related:
-  - INS-260325-1709
   - INS-260330-B27A
-  - INS-260330-026F
   - INS-260330-F5CF
   - INS-260403-53C9
-  - INS-260330-E497
   - INS-260404-1F1B
+  - INS-260405-7E85
+  - INS-260403-6628
+  - INS-260405-F3C0
 evidence:
   - id: INS-260325-1709
     type: TRANSFERS_TO

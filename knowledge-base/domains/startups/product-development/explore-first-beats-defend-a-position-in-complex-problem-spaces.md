@@ -67,6 +67,9 @@ evidence:
   - id: INS-260322-32E3
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-4672
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham traces the defend-a-position essay format to medieval legal disputations and argues it's the wrong approach for truth-seeking. Real essays begin with questions, not theses. His writing algorithm is hill-climbing: at each step, choose whichever direction seems most interesting, with occasional backtracking when you hit dead ends. This is 'somewhere between a river and a roman road-builder.'
 

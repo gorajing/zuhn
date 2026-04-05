@@ -50,6 +50,7 @@ stance: >-
   dramatically better results than single-prompt zero-shot interactions, even
   with weaker models.
 related:
+  - INS-260321-D3BE
   - INS-260325-7FAF
   - INS-260327-33FA
   - INS-260326-2410
@@ -59,7 +60,6 @@ related:
   - INS-260325-F981
   - INS-260323-05B5
   - INS-260321-C5AA
-  - INS-260323-AF7B
 evidence:
   - id: INS-260327-2101
     type: CHALLENGES

@@ -50,10 +50,10 @@ stance: >-
   global alternatives.
 related:
   - PRI-260328-1D90
-  - INS-260327-79E8
   - INS-260329-BCB7
   - PRI-260320-6847
   - INS-260327-84E6
+  - INS-260328-C246
 evidence:
   - id: INS-260327-79E8
     type: CONTRADICTS

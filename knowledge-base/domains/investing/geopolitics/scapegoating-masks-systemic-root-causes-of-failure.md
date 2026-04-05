@@ -45,12 +45,12 @@ stance: >-
   rather than examine the structural vulnerabilities that made collapse
   possible.
 related:
-  - INS-260325-793A
   - INS-260405-D6E6
   - INS-260330-43EB
   - INS-260330-6AED
-  - INS-260323-DF0F
   - INS-260327-77A0
+  - INS-260327-32BA
+  - INS-260330-3994
   - INS-260330-84BD
 evidence:
   - id: INS-260330-43EB

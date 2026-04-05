@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 61 insights
+> 58 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -20,7 +20,6 @@
 - `INS-260330-6E4E` [high] Freedom is typically eroded through small, individually reasonable steps that each seem too minor to resist, not through dramatic confrontation.
 - `INS-260403-0C95` [high] Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260330-2B5F` [high] Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
-- `INS-260403-76C3` [high] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260403-4D45` [high] Intolerant people always exist — waves of suppression happen when an ideology gives them coordinated direction.
 - `INS-260404-AF54` [high] Most investors' primary question is 'who else is investing?' — revealing that social proof, not independent analysis, drives the vast majority of investment decisions.
 - `INS-260402-62E3` [high] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
@@ -33,9 +32,7 @@
 - `INS-260330-B22D` [high] Political visibility creates a separating equilibrium where any slight lean gets amplified into full tribal membership through social pressure.
 - `INS-260403-6947` [high] Production blocking — one person speaking while others must listen — suppresses parallel ideation and reduces total creative output in group sessions.
 - `INS-260403-97D6` [high] Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
-- `INS-260402-B065` [high] Groups without external goals create toxic zero-sum status hierarchies where the game becomes the only game.
 - `INS-260330-9A34` [high] Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
-- `INS-260402-4F0E` [high] People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260402-FFCB` [high] Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
 - `INS-260403-C4E2` [high] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
 - `INS-260330-0FAF` [high] Which words are 'worst' shifts historically: religious oaths were most taboo when the church held power, bodily words when Victorian propriety reigned, and identity slurs now that social equality is the dominant moral framework.

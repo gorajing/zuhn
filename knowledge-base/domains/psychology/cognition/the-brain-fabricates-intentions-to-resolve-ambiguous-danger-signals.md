@@ -50,16 +50,23 @@ stance: >-
   brain resolves the conflict by inventing a plausible intention — even an
   absurd one like wanting to jump off a ledge
 related:
+  - INS-260325-CB41
   - INS-260323-3C7F
+  - INS-260327-7DBF
   - INS-260327-A00A
   - INS-260329-BFBF
   - INS-260330-125E
   - INS-260330-0F04
   - INS-260330-D0B4
   - INS-260330-12D5
-  - INS-260330-8BDA
   - INS-260330-AF47
-  - INS-260403-D2A5
+evidence:
+  - id: INS-260327-A00A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-8BDA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Jennifer Hames' research at Florida State identified the High Place Phenomenon: when you stand at a ledge, your survival instinct pulls you back, but your balance and motor systems detect no actual push or fall. To resolve this contradiction, the brain's intention-processing system may conclude that something must be pushing you, or that you must want to jump. The disturbing thought isn't evidence of suicidal ideation — it's the brain's attempt to explain why the body reacted to danger when no danger was present.
 

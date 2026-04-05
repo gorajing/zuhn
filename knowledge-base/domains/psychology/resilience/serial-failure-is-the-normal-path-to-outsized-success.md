@@ -60,35 +60,25 @@ related:
   - INS-260403-3DF3
 evidence:
   - id: INS-260325-0C4A
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260323-5F8A
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260323-46F8
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260323-FDB8
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260327-A75B
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260329-D357
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-3D3E
+    relationship: RELATED
   - id: INS-260329-EF89
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260402-2B96
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260402-27A1
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-CD65
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Hormozi's personal trajectory of nine failed businesses before building a $250M+ portfolio challenges the narrative that successful entrepreneurs either get it right quickly or should quit. The failures weren't wasted — each one built domain-specific pattern recognition that eventually combined into the judgment needed for the winning venture.
 

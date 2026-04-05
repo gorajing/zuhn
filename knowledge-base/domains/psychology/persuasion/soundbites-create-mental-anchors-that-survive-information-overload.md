@@ -14,11 +14,8 @@ tags:
   - communication
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -48,15 +45,15 @@ stance: >-
   survive the blur of competing pitches in an investor's memory.
 related:
   - INS-260327-D2A6
+  - INS-260403-6F52
   - INS-260403-81CE
   - INS-260403-2A1D
   - INS-260403-2FE1
-  - INS-260403-D984
   - INS-260403-7FBE
   - INS-260403-BDBE
-  - INS-260404-EDED
   - INS-260403-0AF4
   - INS-260404-6C20
+  - INS-260404-896B
 ---
 After hearing dozens of pitches, investors' memories compress everything into vague impressions. The first survival filter isn't whether you're the best company — it's whether you're remembered at all. A descriptive phrase like 'the Microsoft Word of ecommerce' creates a durable mental anchor that persists through information overload.
 

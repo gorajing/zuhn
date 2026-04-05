@@ -15,11 +15,8 @@ tags:
   - demand-evidence
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -50,11 +47,11 @@ stance: >-
   alternatives — what Sequoia calls the 'proxy for demand.'
 related:
   - INS-260322-4B63
-  - INS-260403-419B
   - INS-260404-CF2A
-  - INS-260404-9E71
-  - INS-260404-3879
   - INS-260405-9E25
+  - INS-260405-672E
+  - INS-260403-8F31
+  - INS-260404-29F4
 ---
 Greg McAdoo of Sequoia coined the term 'proxy for demand' — evidence that people are already doing the thing you enable, just with worse tools. This reframes validation from 'do people like our product' to 'are people already suffering without it.' The distinction matters because the latter is observable before you even have users.
 

@@ -52,7 +52,6 @@ stance: >-
   moderate business underperformance can wipe out equity holders entirely.
 related:
   - INS-260320-703F
-  - INS-260325-51E6
   - INS-260323-2FF9
   - INS-260323-E9E4
   - INS-260322-A31D
@@ -61,6 +60,7 @@ related:
   - INS-260329-6BE8
   - INS-260329-CB10
   - INS-260329-2A70
+  - PRI-260403-26B9
 evidence:
   - id: INS-260320-703F
     type: TRANSFERS_TO

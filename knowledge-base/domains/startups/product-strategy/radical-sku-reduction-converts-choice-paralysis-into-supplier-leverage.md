@@ -14,8 +14,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -47,11 +47,11 @@ stance: >-
   disproportionate negotiating power because suppliers compete intensely for
   scarce shelf positions.
 related:
-  - INS-260404-3E82
-  - INS-260404-76FF
-  - INS-260404-9B82
-  - INS-260403-0DC2
+  - INS-260403-4874
   - INS-260405-D9C8
+  - INS-260405-88F9
+  - INS-260405-F57E
+  - INS-260404-B350
 ---
 Costco stocks roughly 4,000 unique items compared to Walmart's 140,000 or a typical supermarket's 30,000. This seems like a disadvantage — less selection should mean fewer customers. But scarcity of shelf space inverts the power dynamic. When you're one of only one or two choices in a category at a store with 94 million members, you'll do almost anything to keep that position. Suppliers lower prices, reengineer packaging (like the cashew container redesign saving 24,000 pallets/year), and adapt products to Costco's specifications.
 

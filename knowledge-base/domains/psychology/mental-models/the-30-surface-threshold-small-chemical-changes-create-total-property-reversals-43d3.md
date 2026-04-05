@@ -53,11 +53,10 @@ stance: >-
   proportional effects.
 related:
   - INS-260330-E03A
+  - INS-260330-85AA
   - INS-260330-5D8A
   - INS-260330-D795
-  - INS-260330-16F0
-  - INS-260330-4B29
-  - INS-260330-8BA6
+  - INS-260330-B6DE
 evidence:
   - id: INS-260330-4B29
     type: EXTENDS

@@ -47,12 +47,12 @@ stance: >-
   what operations it supports rather than what it looks like
 related:
   - INS-260330-02A7
-  - INS-260330-BFD0
   - INS-260330-4B84
   - INS-260330-4F49
-  - INS-260330-4B30
   - INS-260330-367B
   - INS-260323-2117
+  - INS-260329-ADCD
+  - INS-260403-280B
   - INS-260330-CCA2
 evidence:
   - id: INS-260330-CCA2

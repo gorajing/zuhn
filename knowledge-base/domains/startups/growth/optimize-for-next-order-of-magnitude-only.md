@@ -64,6 +64,9 @@ evidence:
   - id: INS-260321-6437
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-CA5A
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Walker Williams describes how Teespring's CTO duplicated the entire codebase and database to serve enterprise customers in 3-4 days rather than spending a month building it properly. The site crashed nightly for months, with the whole team sleeping with phones under their pillows to restart servers. Yet this was the right call — speed to product-market fit mattered more than clean architecture.
 

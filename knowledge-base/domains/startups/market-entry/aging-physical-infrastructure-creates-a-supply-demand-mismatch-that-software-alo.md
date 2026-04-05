@@ -49,7 +49,6 @@ stance: >-
   specifically for operationally complex startups, not pure software plays.
 related:
   - INS-260329-9BC0
-  - INS-260330-C477
   - INS-260330-3E6B
   - INS-260330-883E
   - INS-260403-CA1E
@@ -58,6 +57,7 @@ related:
   - INS-260322-CFB1
   - INS-260322-C472
   - INS-260404-8746
+  - INS-260404-304E
 ---
 The US housing stock is aging (median age rose from 31 to 37 years in a decade) while consumer preferences shift dramatically — median years renting before buying doubled from 2.6 to 6 years. This dual mismatch can't be solved by information marketplaces alone; it requires companies that physically repurpose existing supply.
 

@@ -47,11 +47,11 @@ stance: >-
   their highest-earning activities while chasing low-effort alternatives that
   rarely pay off.
 related:
-  - INS-260329-EC33
   - INS-260329-A011
   - INS-260329-5257
   - INS-260322-A36C
   - INS-260329-3FA6
+  - INS-260329-ADCD
 evidence:
   - id: INS-260322-A36C
     type: TRANSFERS_TO

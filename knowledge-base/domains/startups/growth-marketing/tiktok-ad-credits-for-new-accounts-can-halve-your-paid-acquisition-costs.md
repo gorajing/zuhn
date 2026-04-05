@@ -43,11 +43,11 @@ resolutions:
     per app install. However, these credit programs change frequently, so this
     is time-sensitive — verify current offers before planning around them.
 related:
-  - INS-260323-FEAB
-  - INS-260403-9104
   - INS-260322-3010
+  - INS-260403-9104
   - INS-260404-AC1B
   - INS-260320-9937
+  - INS-260404-50A7
 stance: >-
   New TikTok Ads accounts get matched spending credits (spend $200, get $200
   free) plus recurring coupons, effectively halving your early ad costs.

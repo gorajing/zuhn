@@ -2,11 +2,11 @@
 
 - `INS-260320-20F2` Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
+- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
+- `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260330-8103` Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260404-1E35` Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.
-- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
-- `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
 - `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -15,49 +15,19 @@
 - `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
 - `INS-260404-FE95` Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
 - `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
+- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
+- `INS-260405-F1A2` Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
-- `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
-- `INS-260404-0777` Mention your business model briefly to show you've thought about it, but spend your pitch time on the problem and product instead.
-- `INS-260404-32B5` Smart early-stage investors expect your business model to be wrong—spend pitch time on the problem and product instead.
-- `INS-260403-E319` Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
-- `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
-- `INS-260404-B43A` Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
-- `INS-260404-8D69` Early-stage business models are guesses outside your expertise — pitch the problem and product instead, since investors expect the model to change multiple times.
-- `INS-260403-DAB4` Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
-- `INS-260403-FF86` Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
 - `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
-- `INS-260404-589C` At the early stage, business model details are your worst material — mention you've thought about it, then move on to the problem and product.
-- `INS-260404-BD17` Skip detailed business model discussion in early pitches — investors expect it to be wrong and will remember the bad model instead of your good product.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
-- `INS-260404-5D3B` Don't detail your business model in early pitches — investors expect it to be wrong and you'll sound smarter discussing the problem you solve.
-- `INS-260403-C496` Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
-- `INS-260403-E393` Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
-- `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
-- `INS-260403-0267` Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
-- `INS-260404-5721` Smart investors expect early-stage business models to be wrong, so pitch time is better spent on the problem and solution.
 - `INS-260405-4FC0` At early stage, detailed business model discussion consumes time from your strong suit and exposes your weak one.
-- `INS-260403-88E8` Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - `INS-260403-1DB7` Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
-- `INS-260404-983E` At the early stage, pitch the problem and solution, not the business model — investors expect the model to be wrong anyway.
-- `INS-260404-4605` Don't pitch your business model to early-stage investors — they assume it's wrong and care about the problem you're solving.
-- `INS-260403-8346` Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
-- `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
-- `INS-260403-A709` VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
-- `INS-260404-9710` Smart investors expect early business models to change multiple times, so discussing them in detail wastes precious pitch minutes.
-- `INS-260404-40D1` Smart early-stage investors expect your business model to be wrong — talking about it wastes time and risks being remembered for a bad model rather than a good product.
-- `INS-260404-5D8B` Don't detail your business model in early pitches — investors expect it to change and will remember a bad model more than a good product.
-- `INS-260403-4A4A` Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
-- `INS-260403-6A55` Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
 - `INS-260404-A8C0` VCs expect early business models to be wrong—pitching them displaces the interesting signal (your problem and solution) with forgettable noise.
-- `INS-260403-5C8E` Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
-- `INS-260403-6620` Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
 - `INS-260405-180B` A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
 - `INS-260404-103B` Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260403-8D8D` Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
-- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
-- `INS-260405-F1A2` Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260330-EA94` Startups must choose depth of user love over breadth because weak enthusiasm cannot be upgraded to devotion, while intense love naturally expands.
 - `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
 - `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.

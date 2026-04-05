@@ -16,8 +16,8 @@ tags:
   - behavioral-economics
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -53,13 +53,14 @@ stance: >-
   cannot avoid the sunk-cost calculation on every purchase decision.
 related:
   - INS-260323-4AB5
-  - INS-260403-B6FF
   - INS-260403-546E
-  - INS-260404-9505
   - INS-260404-A938
   - INS-260404-2D53
   - INS-260404-ED19
+  - INS-260404-94BB
   - INS-260403-543E
+  - INS-260404-B46E
+  - INS-260404-5D39
   - INS-260405-9F38
 ---
 Both Costco and Amazon Prime use upfront fees to create switching costs, but there's a critical structural difference. Amazon Prime is optional—customers self-sort based on whether they calculate enough value to justify the fee. This creates loyalty among subscribers but doesn't fundamentally change Amazon's business model for non-subscribers.

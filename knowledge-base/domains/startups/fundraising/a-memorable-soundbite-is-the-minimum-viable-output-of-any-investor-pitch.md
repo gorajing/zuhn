@@ -14,11 +14,8 @@ tags:
   - branding
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -50,15 +47,15 @@ stance: >-
   mechanism for surviving the blur of pitches investors hear.
 related:
   - INS-260326-C305
+  - INS-260327-BF43
+  - INS-260330-87BD
   - INS-260330-4AB1
   - INS-260403-EF30
-  - INS-260403-FE37
+  - INS-260403-448F
   - INS-260404-3713
   - INS-260404-C2BC
   - INS-260404-24FB
   - INS-260403-FC45
-  - INS-260404-0AF3
-  - INS-260403-941F
 evidence:
   - id: INS-260404-3713
     type: SUPPORTS

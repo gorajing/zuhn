@@ -46,10 +46,10 @@ stance: >-
   anchor to whatever the new smallest option is.
 related:
   - INS-260329-D267
-  - INS-260404-DFE8
-  - INS-260404-37BB
   - INS-260327-B034
   - INS-260404-64EC
+  - INS-260330-21CC
+  - INS-260330-D5BD
 evidence:
   - id: INS-260323-7F22
     type: TRANSFERS_TO

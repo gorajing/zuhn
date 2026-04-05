@@ -45,10 +45,10 @@ resolutions:
     pursuing a role for its title, or for the work it lets you do?
 related:
   - INS-260323-DA91
-  - INS-260327-4F3D
-  - INS-260330-AC36
-  - INS-260322-116B
   - INS-260322-A928
+  - INS-260330-1C90
+  - INS-260329-5C25
+  - INS-260327-70DF
 stance: >-
   Optimizing for stewardship (what you do and serve) rather than status (titles
   and positions) produces both deeper fulfillment and better career out...

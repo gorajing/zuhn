@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 48 insights
+> 46 insights
 
 - `INS-260322-2E33` [high] KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text.
 - `INS-260325-11A6` [high] AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
@@ -20,7 +20,6 @@
 - `INS-260323-584D` [high] Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
 - `INS-260325-9A0F` [high] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - `INS-260325-2B17` [high] What makes institutions work is not ideology but self-correcting mechanisms: elections, peer review, constitutional amendments.
-- `INS-260326-2D41` [high] Russell's second principle — that the AI should not know what human values are — creates a provably beneficial property: the machine's incentive to allow shutdown is directly proportional to its uncertainty about human objectives.
 - `INS-260323-649B` [high] Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260323-BCCC` [medium] People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
 - `INS-260325-D763` [medium] AI could make totalitarian centralization work where it previously failed because AI thrives on the information floods that overwhelm human bureaucrats.
@@ -42,7 +41,6 @@
 - `INS-260325-042A` [medium] All previous information networks ran on organic cycles with built-in rest; AI networks never rest and may force humans to never rest either.
 - `INS-260325-F48E` [medium] A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260323-4D4E` [medium] Both tech optimism and tech pessimism are self-fulfilling prophecies — believing the future will be better increases the likelihood you build it.
-- `INS-260328-711E` [medium] Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260323-1345` [medium] When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
 - `INS-260326-0AB4` [medium] Yudkowsky argues that RLHF-style training produces alignment that only holds within the training distribution and predictably fails when AI systems become smarter than their human evaluators.
 - `INS-260326-5E07` [medium] Russell proposes replacing the standard AI paradigm with three principles — altruism, humility, and observational learning — and proves that machines built this way are provably beneficial to humans.

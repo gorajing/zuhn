@@ -56,10 +56,11 @@ stance: >-
   exponentially faster than deep structure, making long-term outcomes dominated
   by low-frequency fundamentals
 related:
+  - INS-260329-B8B6
+  - INS-260329-7510
   - INS-260330-1609
   - INS-260330-137C
   - PRI-260328-4CC0
-  - INS-260329-7510
   - PRI-260323-0F93
   - INS-260323-1D15
   - PRI-260323-F193

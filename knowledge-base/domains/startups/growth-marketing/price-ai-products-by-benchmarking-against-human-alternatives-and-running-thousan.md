@@ -49,9 +49,10 @@ related:
   - PRI-260328-BEDD
   - INS-260328-4A93
   - INS-260327-5973
-  - INS-260404-DFE8
+  - INS-260403-754F
   - INS-260327-6AA0
   - INS-260327-99E5
+  - INS-260327-6742
 stance: >-
   Price AI products using three factors: value creation vs human cost, unit
   economics including hidden storage costs, and representative customer sur...

@@ -47,16 +47,16 @@ stance: >-
   incrementally add complexity produce better learning outcomes than those that
   explain theory before practice.
 related:
-  - INS-260329-72D5
   - INS-260329-90C3
-  - INS-260329-B6A6
-  - INS-260329-F211
+  - INS-260329-27A3
   - INS-260329-9BA9
   - INS-260329-65CD
-  - INS-260329-9A58
+  - PRI-260403-0509
+  - INS-260329-E402
+  - PRI-260403-ABDE
+  - INS-260329-493A
+  - INS-260329-70F2
   - INS-260329-294C
-  - INS-260330-1B16
-  - INS-260330-AE16
 evidence:
   - id: INS-260330-AE16
     type: SUPPORTS

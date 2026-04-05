@@ -16,8 +16,8 @@ tags:
   - leverage
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -56,13 +56,11 @@ related:
   - INS-260321-4B99
   - INS-260329-E44D
   - INS-260329-2A5A
+  - INS-260403-4874
   - INS-260403-83A8
-  - INS-260404-57E3
-  - INS-260404-3E82
-  - INS-260404-76FF
-  - INS-260404-4780
-  - INS-260404-1EA6
-  - INS-260405-4871
+  - INS-260405-88F9
+  - INS-260405-1AAC
+  - INS-260405-F57E
 ---
 Costco stocks roughly 4,000 unique items versus Walmart's 140,000. Because suppliers compete intensely to be one of two choices in a category, they lower prices, adapt packaging, and accommodate Costco's logistics needs — including redesigning cashew containers to save 24,000 pallets annually, savings passed directly to customers.
 

@@ -57,7 +57,7 @@ related:
   - INS-260330-EBE9
   - PRI-260328-B115
   - INS-260325-4601
-  - INS-260327-0DFD
+  - PRI-260325-2800
 ---
 A 2021 Cell Reports study (Aoyama et al.) in both mice and humans found that protein ingestion early in the day — before approximately 10 AM for someone waking at 7 AM — supports muscle maintenance and hypertrophy more effectively than later protein intake. This effect is driven by the clock gene BMAL, which regulates protein synthesis pathways within muscle cells on a circadian schedule.
 

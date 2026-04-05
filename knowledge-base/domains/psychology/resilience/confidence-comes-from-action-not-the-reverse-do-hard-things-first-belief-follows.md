@@ -56,14 +56,13 @@ stance: >-
   -- confidence is the byproduct of accumulated evidence from doing hard, scary,
   and uncomfortable things.
 related:
-  - INS-260323-9E30
   - INS-260322-627E
   - PRI-260327-5635
-  - INS-260403-A290
   - INS-260403-915E
   - INS-260403-A8E8
-  - INS-260327-F7BC
+  - INS-260328-E410
   - INS-260330-A075
+  - INS-260327-F7BC
   - INS-260403-1547
 evidence:
   - id: INS-260323-9E30

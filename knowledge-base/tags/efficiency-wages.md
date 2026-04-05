@@ -1,8 +1,4 @@
 # Tag: efficiency-wages
 
-- `INS-260404-CEA8` Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
-- `INS-260404-E1B0` Costco pays $21/hour (double retail average) and gets 3x the productivity per employee in return.
 - `INS-260404-20AD` Costco pays $21/hour (2x retail average) and gets 3x productivity, suggesting high wages are an investment with positive ROI in high-volume operations.
-- `INS-260404-8A1D` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors.
-- `INS-260404-FF84` Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 - `INS-260403-365D` Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.

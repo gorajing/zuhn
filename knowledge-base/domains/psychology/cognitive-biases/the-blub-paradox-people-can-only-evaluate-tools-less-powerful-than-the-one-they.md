@@ -45,12 +45,12 @@ stance: >-
   abstraction because they lack the concepts needed to recognize what they're
   missing
 related:
-  - INS-260327-D570
   - INS-260330-464E
   - INS-260330-D385
   - INS-260330-C7B5
   - INS-260404-61DA
   - INS-260403-9C60
+  - INS-260328-9C16
 evidence:
   - id: INS-260327-D570
     type: TRANSFERS_TO

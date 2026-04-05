@@ -55,7 +55,6 @@ related:
   - INS-260330-9A46
   - INS-260323-61D4
   - INS-260323-738D
-  - INS-260330-2783
   - INS-260330-9B16
 stance: >-
   Black holes existed in the Schwarzschild solution from 1917 but weren't

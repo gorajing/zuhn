@@ -47,20 +47,15 @@ related:
   - INS-260405-9F38
 evidence:
   - id: INS-260327-5B47
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260322-5650
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260329-EC98
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-CD64
+    relationship: RELATED
   - id: INS-260322-B450
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260323-FEAB
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfaction guarantees that therapeutic relationships fundamentally cannot provide.
 

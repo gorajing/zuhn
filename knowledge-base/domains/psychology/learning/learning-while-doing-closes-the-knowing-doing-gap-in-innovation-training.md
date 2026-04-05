@@ -46,16 +46,16 @@ stance: >-
   significantly better outcomes than those that separate education from
   application.
 related:
-  - INS-260325-B50B
   - INS-260325-001B
+  - INS-260329-27A3
   - INS-260329-ACE6
+  - INS-260329-656B
   - INS-260329-5427
   - INS-260330-AE22
+  - INS-260330-35CB
   - INS-260403-D56B
   - INS-260403-0030
   - INS-260403-5D81
-  - INS-260329-CD38
-  - INS-260329-32DB
 evidence:
   - id: INS-260329-5427
     type: SUPPORTS

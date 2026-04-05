@@ -55,6 +55,7 @@ stance: >-
 related:
   - INS-260323-38EC
   - INS-260322-5B1B
+  - INS-260323-1C32
   - INS-260323-F0A2
   - INS-260323-7403
   - INS-260323-2651
@@ -62,7 +63,6 @@ related:
   - INS-260327-A507
   - INS-260327-FD99
   - INS-260328-8CCC
-  - INS-260329-BFBF
 evidence:
   - id: INS-260323-F0A2
     type: SUPPORTS

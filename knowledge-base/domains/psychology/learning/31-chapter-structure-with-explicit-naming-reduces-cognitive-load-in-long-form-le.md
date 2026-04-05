@@ -57,11 +57,9 @@ related:
   - INS-260329-70D5
 evidence:
   - id: INS-260329-3FF4
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260329-5AC5
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-CD38
+    relationship: RELATED
 ---
 The tutorial uses 31 chapters across 4 hours — averaging about 7-8 minutes per chapter. This is significantly more granular than most educational content, which typically uses 8-12 sections for equivalent length. The high granularity serves multiple cognitive purposes.
 

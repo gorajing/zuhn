@@ -49,10 +49,9 @@ stance: >-
 related:
   - INS-260321-5DF8
   - INS-260325-8F49
-  - INS-260323-365A
+  - INS-260405-D660
   - INS-260403-8A65
-  - INS-260323-23B9
-  - INS-260322-34AE
+  - INS-260323-365A
 evidence:
   - id: INS-260321-5DF8
     type: SUPPORTS

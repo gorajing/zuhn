@@ -53,11 +53,11 @@ stance: >-
   corrections — is a more effective teaching method than presenting clean,
   finished solutions.
 related:
-  - INS-260329-D48B
   - INS-260322-C6CE
   - INS-260403-5C89
   - INS-260330-DB4B
   - PRI-260328-902C
+  - INS-260329-DAD1
 evidence:
   - id: INS-260329-D48B
     type: SUPPORTS

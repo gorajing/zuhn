@@ -1,10 +1,8 @@
 # Topic: scaling
 
-> 159 insights
+> 144 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
-- `INS-260404-8A1D` [high] Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors.
-- `INS-260404-E1FF` [high] Costco pays $21/hour (double retail average) with strong benefits, and gets employees three times more productive than competitors in return.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
 - `INS-260403-365D` [high] Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -16,18 +14,15 @@
 - `INS-260327-A5F9` [high] B2B sales cycles are 10x longer than consumer — if you invest months and get zero, you need diversified revenue to survive.
 - `INS-260330-B390` [high] YC's batch model accidentally created a self-reinforcing ecosystem where startups became each other's customers, advisors, and support network.
 - `INS-260330-2F74` [high] RuBisCo is terrible at its job but there are 40 billion tons of it on Earth — brute-force quantity as the scaling strategy when unit quality can't improve.
-- `INS-260330-8BF6` [high] Plants produce 40 billion tons of a bad enzyme rather than evolving a better one — volume compensates for quality at sufficient scale.
 - `INS-260322-7F88` [high] At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
 - `INS-260330-B437` [high] Facebook's community translation platform covered 104 languages (70 community-translated) and prepared them for explosive Hindi growth — which quadrupled in one year — while competitors who manually translated for 2007's top languages fell behind.
 - `INS-260327-9192` [high] When Arora's engineering team proposed 60 engineers and 9 months to match a browser startup, he asked: do you expect them to just hang out and wait for you to catch up?
 - `INS-260327-390A` [high] Bill Anderson argues that bureaucracy isn't a disease you treat — it's produced by the composition of the organization itself, specifically layers, functional silos, and annual budgets.
 - `INS-260330-EA23` [high] Domino's centralized all ingredient preparation into hub facilities, enabling individual stores to be much smaller and cheaper while maintaining consistent quality across thousands of locations.
 - `INS-260330-44BC` [high] Justinian's legal codification shows that systematizing knowledge into accessible formats is the most durable form of institutional output — it outlasted the empire by centuries.
-- `INS-260330-DF02` [high] Productivity falls with the square of employee count due to pairwise communication overhead, making alignment the single most important word for scaling companies.
 - `INS-260330-3585` [high] Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-EB1B` [high] Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.
 - `INS-260330-47CF` [high] Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
-- `INS-260324-1275` [high] Apple, Dell, HP, and Dyson use flagship profits to expand into adjacent categories because betting everything on getting a single product release right year after year is suicidal.
 - `INS-260330-D272` [high] Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` [high] Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260403-7227` [high] Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
@@ -36,7 +31,6 @@
 - `INS-260329-97C1` [high] Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260327-FA62` [high] Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
 - `INS-260327-1EC4` [high] Anderson's first piece of advice to scaling founders: don't hire professional managers, because they will implement the bureaucratic systems they were trained in.
-- `INS-260330-2E1E` [high] The Assyrians extended their empire beyond their road network, making administration impossible and contributing to collapse.
 - `INS-260330-72BD` [high] The Mongol Empire splintered into four separate khanates after Genghis Khan's death because conquest outpaced institutional development.
 - `INS-260330-912C` [high] Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
 - `INS-260329-88A4` [high] Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
@@ -94,12 +88,10 @@
 - `INS-260323-5341` [high] Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
 - `INS-260403-7B60` [high] Palo Alto's rising costs pushed the active startup center toward Mountain View, a pattern that repeats in every tech hub.
 - `INS-260404-1F1B` [high] Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
-- `INS-260330-696D` [high] Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260404-1C01` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260404-E651` [high] Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.
 - `INS-260403-4935` [high] If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
 - `INS-260329-9DF3` [high] Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
-- `INS-260327-1FA1` [high] Top engineers of the future will manage agent teams, not write code—orchestration skill is the new differentiator.
 - `INS-260329-E7A4` [high] Set SLOs tighter than SLAs so the gap between them becomes your error budget — the margin that lets you deploy, experiment, and recover without breaching contracts.
 - `INS-260403-62B4` [high] Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - `INS-260329-F4E4` [high] Stacking revenue quickly without fixing the product creates a fragile tower that can't grow past a certain height — sustainable scale requires going back to rebuild the foundation.
@@ -112,17 +104,11 @@
 - `INS-260329-F2E1` [high] When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260327-4E34` [high] Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.
 - `INS-260330-E585` [high] The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
-- `INS-260322-F46F` [high] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
-- `INS-260330-72E1` [high] Plants increased atmospheric oxygen through photosynthesis, which then caused their own key enzyme RuBisCo to fail half the time — a biological case of success undermining itself.
 - `INS-260403-E1EB` [high] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.
-- `INS-260403-857E` [medium] Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
 - `INS-260404-ABB1` [medium] Costco's $21/hour average wage (double the retail average) produces 3x more productive employees, making generosity operationally rational.
 - `INS-260404-6A20` [medium] Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
-- `INS-260404-FF84` [medium] Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 - `INS-260403-43E5` [medium] Costco pays $21/hour (2x retail average) and gets 3x employee productivity, making generous wages a competitive advantage.
-- `INS-260404-1936` [medium] Costco's $21/hr average wage (2x retail average) produces employees 3x more productive than competitors.
-- `INS-260403-5CB5` [medium] Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
 - `INS-260403-C125` [medium] Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
 - `INS-260403-8A80` [medium] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-F745` [medium] The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.
@@ -130,7 +116,6 @@
 - `INS-260329-545B` [medium] Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260330-A1A4` [medium] Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-2D53` [medium] China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
-- `INS-260404-46AA` [medium] Photosynthesis stores energy by pumping protons across a membrane to create a concentration gradient, then harvests that gradient through ATP synthase — accumulation before extraction.
 - `INS-260329-2612` [medium] Consistent hashing maps both nodes and data onto a ring, so adding or removing a node only redistributes a fraction of data rather than reshuffling everything.
 - `INS-260404-8D5F` [medium] Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.
 - `INS-260329-A80B` [medium] Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.

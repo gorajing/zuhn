@@ -14,11 +14,8 @@ tags:
   - branding
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -53,12 +50,12 @@ related:
   - INS-260329-75B6
   - INS-260329-5B18
   - INS-260330-4AB1
-  - INS-260330-F4DD
-  - INS-260403-FE37
   - INS-260403-B3A4
+  - INS-260403-D430
   - INS-260404-24FB
   - INS-260404-6EB8
-  - INS-260404-EDED
+  - INS-260404-3713
+  - INS-260403-F7DD
 ---
 Professional investors hear so many pitches that they all blur together. The first filter isn't quality judgment — it's simply which ones they remember at all. A descriptive phrase that sticks ('the x of y' pattern) ensures you survive this cut. Viaweb used 'the Microsoft Word of ecommerce' — immediately graspable, memorable, and positioning.
 

@@ -48,6 +48,7 @@ stance: >-
   at precisely the right level of apparent craziness.
 related:
   - INS-260320-E044
+  - INS-260323-C4E2
   - INS-260321-E471
   - INS-260323-0277
   - INS-260323-09E4
@@ -56,7 +57,10 @@ related:
   - INS-260327-2661
   - INS-260327-CD36
   - INS-260327-643E
-  - INS-260327-F9C3
+evidence:
+  - id: INS-260327-F9C3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham argues that the most valuable form of intelligence for founders is imagination, specifically the ability to generate ideas that sit at the right level of craziness. This is a non-obvious selection filter: ideas that seem obviously good are already being pursued, so the remaining valuable ideas must by definition seem bad to most people.
 

@@ -16,8 +16,8 @@ tags:
   - self-selection
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -48,16 +48,16 @@ stance: >-
   improve business performance by selecting for higher-value customers who spend
   more and churn less.
 related:
-  - INS-260323-FEAB
+  - INS-260323-F68A
   - INS-260322-1435
   - INS-260327-7681
+  - INS-260403-F98F
   - INS-260403-2C00
   - INS-260403-9104
   - INS-260403-FDB8
   - INS-260403-243A
-  - INS-260403-747B
-  - INS-260404-B435
-  - INS-260404-50A7
+  - INS-260404-01B1
+  - INS-260404-5587
 evidence:
   - id: INS-260323-FEAB
     type: TRANSFERS_TO

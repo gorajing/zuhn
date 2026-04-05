@@ -3,7 +3,6 @@
 - `INS-260322-0C28` Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
 - `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
-- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
 - `INS-260403-F66B` Customers say they want flashy features but actually follow the taste of sophisticated buyers they aspire to imitate.
 - `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
 - `INS-260327-A9E8` When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest 
@@ -14,7 +13,6 @@
 - `INS-260327-D832` Consumers who buy cologne are purchasing an identity signal — sophistication, masculinity, wealth — rather than a functi
 - `INS-260327-C13D` Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors
 - `INS-260327-FFB5` Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
-- `INS-260327-A40E` Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
 - `INS-260327-747B` Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
 - `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
 - `INS-260327-690E` Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver

@@ -57,5 +57,6 @@ related:
   - INS-260323-19A8
   - PRI-260324-12CF
   - PRI-260323-0F93
+  - INS-260405-B673
 ---
 A portfolio model for innovation implies that most projects will fail. The value is unlocked by failing fast and cheap, then redirecting capital to what's working. But organizations struggle to kill projects because failure carries cultural stigma—teams build identity around projects, managers hate admitting wrong bets, and there are no clear criteria for when to stop. Introducing a formal 'kill rate' metric (as described with a top-10 pharma company) reframes project termination as a healthy, expected outcome rather than an admission of failure. The key cultural distinction is between operational failure (never acceptable) and experimentation failure (expected and valuable). Companies like Amazon have institutionalized this distinction.

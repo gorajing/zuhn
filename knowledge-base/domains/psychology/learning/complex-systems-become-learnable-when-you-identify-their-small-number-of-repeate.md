@@ -53,12 +53,11 @@ stance: >-
   once you recognize they are just 8 types of matrix repeated thousands of
   times.
 related:
-  - INS-260329-DFDB
   - INS-260330-B50A
-  - INS-260330-D3F5
   - INS-260330-B5D2
   - INS-260330-4329
   - INS-260330-6DEB
+  - INS-260403-CF23
 evidence:
   - id: INS-260330-B5D2
     type: CHALLENGES

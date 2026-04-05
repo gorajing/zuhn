@@ -53,11 +53,9 @@ related:
   - INS-260330-57E6
 evidence:
   - id: INS-260330-8BA6
-    type: CHALLENGES
-    classified_at: '2026-04-02'
-  - id: INS-260330-9231
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260404-D0A5
+    relationship: RELATED
 ---
 Unlike broad-spectrum antioxidants (vitamin C, E) which can interfere with beneficial reactive oxygen species signaling, molecular hydrogen appears to selectively neutralize the most harmful radicals (hydroxyl radical) while leaving physiologically important ROS intact. This selectivity makes it potentially more therapeutic than conventional antioxidants.
 

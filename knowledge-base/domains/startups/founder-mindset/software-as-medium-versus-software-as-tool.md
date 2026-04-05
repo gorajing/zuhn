@@ -42,6 +42,7 @@ stance: >-
   tool create products that connect with users at a deeper emotional level.
 related:
   - INS-260322-4090
+  - INS-260323-042C
   - INS-260323-03F4
   - INS-260322-BF4C
   - INS-260321-CCD9
@@ -50,7 +51,6 @@ related:
   - INS-260327-F405
   - INS-260403-0949
   - INS-260327-D8D1
-  - INS-260329-20E8
 evidence:
   - id: INS-260322-4090
     type: TRANSFERS_TO

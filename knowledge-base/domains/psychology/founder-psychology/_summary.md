@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 23 insights
+> 22 insights
 
 - `INS-260330-D644` [high] Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260405-020E` [high] Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
@@ -11,7 +11,6 @@
 - `INS-260329-C66E` [high] Passion is a byproduct of getting good at something, not the prerequisite for starting.
 - `INS-260329-6BFC` [high] Full passive income without engaging work produces boredom and depression, not the freedom people imagine.
 - `INS-260329-5B3D` [high] Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
-- `INS-260329-B1D0` [high] Pay off debts in order of speed (smallest first), not interest rate, because quick wins sustain behavioral momentum that math alone cannot.
 - `INS-260330-7D83` [high] Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
 - `INS-260330-3138` [high] Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
 - `INS-260405-FAE3` [high] Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.

@@ -66,41 +66,29 @@ related:
   - INS-260405-A164
 evidence:
   - id: INS-260323-F68A
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260324-6C5F
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260322-1435
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-2B62
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-D824
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-EBF6
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-0317
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260405-631B
-    type: CONTRADICTS
-    classified_at: '2026-04-05'
-  - id: INS-260403-C40D
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260404-E65A
+    relationship: RELATED
   - id: INS-260403-08FE
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-8750
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260405-A164
-    type: CONTRADICTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 When Facebook eliminated WhatsApp's $1/year subscription, the logic was straightforward: a user's data — phone numbers bridging offline/online identity, behavioral patterns, contact lists, purchase signals — generates far more than $1/year when combined with Facebook's advertising infrastructure. The phone number specifically was described as 'the missing link' connecting WhatsApp users to their Facebook profiles.
 

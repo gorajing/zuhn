@@ -5,7 +5,6 @@
 - `INS-260329-0DA4` An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
 - `INS-260329-55D8` Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
 - `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
-- `INS-260329-1085` Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
 - `INS-260329-AADB` Structure offers so each customer pays back their acquisition cost within 30 days, turning customers into funding for the next customer.
 - `INS-260327-A5F9` B2B sales cycles are 10x longer than consumer — if you invest months and get zero, you need diversified revenue to survive.

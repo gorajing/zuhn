@@ -60,24 +60,16 @@ related:
   - INS-260330-59E3
   - INS-260330-CBA5
 evidence:
-  - id: INS-260330-7B07
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260330-24B6
-    type: EXTENDS
-    classified_at: '2026-04-03'
-  - id: INS-260330-12F9
-    type: EXTENDS
-    classified_at: '2026-04-03'
   - id: INS-260330-6FDF
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-24B6
+    relationship: RELATED
+  - id: INS-260330-12F9
+    relationship: RELATED
   - id: INS-260330-0DF9
-    type: EXTENDS
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260330-59E3
-    type: REFINES
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 At real-time speed, an underwater gunshot looks like a single violent splash. At 27,450 fps, it decomposes into three distinct, temporally separated phenomena: (1) cavitation bubbles forming along the barrel from the Bernoulli effect as propellant gases exit, (2) burnt gunpowder gas trailing behind the projectile as a visible sleeve, and (3) shock-wave-induced vapor forming independently of the other two effects.
 

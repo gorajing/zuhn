@@ -45,13 +45,11 @@ stance: >-
   Startups that resist formal raise processes in favor of organic flexibility
   will develop a culture where political lobbying outperforms actual performance
 related:
-  - INS-260327-A40E
-  - INS-260330-48A8
-  - INS-260330-2339
   - INS-260330-4A89
   - INS-260403-A99F
   - INS-260323-FCA7
   - INS-260330-3A7B
+  - INS-260329-E45A
 evidence:
   - id: INS-260327-A40E
     type: CHALLENGES

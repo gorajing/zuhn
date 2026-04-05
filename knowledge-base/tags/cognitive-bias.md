@@ -1,14 +1,12 @@
 # Tag: cognitive-bias
 
-- `INS-260329-5094` Spreadsheet decision matrices force you to name your criteria and weights before evaluating options, which counteracts gut-feel bias.
 - `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
 - `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
-- `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
-- `INS-260405-797B` When ideology wraps around an economic event, we lose the ability to analyze it clearly — we mythologize instead.
 - `INS-260403-384F` Calling two things 'infinite' (or any shared label) hides that one may be categorically larger than the other.
 - `INS-260330-2EF0` Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
+- `INS-260405-797B` When ideology wraps around an economic event, we lose the ability to analyze it clearly — we mythologize instead.
+- `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
-- `INS-260403-C313` Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
 - `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
@@ -16,7 +14,6 @@
 - `INS-260323-2874` Emotional contagion empathy makes one identified victim more compelling than 500,000 statistical victims — reason must override this bias for good ethical decisions.
 - `INS-260323-9AA5` Newcomb's Paradox shows smart people split 50/50 because they weigh evidence vs causation differently, not because one side is wrong.
 - `INS-260330-FB66` Human brains default to linear extrapolation, causing systematic underestimation of exponential processes in their early stages.
-- `INS-260330-71DE` Human brains default to linear extrapolation, causing systematic underestimation of exponential processes like epidemics, compounding returns, and technology adoption.
 - `INS-260322-38D8` Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
 - `INS-260403-EB0B` Hunter-gatherers couldn't store wealth, so status was the only survival currency — that wiring still dominates our instincts.
 - `INS-260330-41A5` People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
@@ -45,13 +42,12 @@
 - `INS-260329-D8F2` Use inversion — enumerate failure modes first, then flip them — because our threat-detection circuits are stronger than our solution-finding circuits.
 - `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
-- `INS-260330-28BE` The cosmological principle shows that every point in the expanding universe appears to be the center of expansion — the 'center' is an artifact of the observer's frame of reference, not a real property of the system.
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260327-9BFD` You're spending enormous energy managing an impression that others aren't even forming - they're too busy managing their own.
 - `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
 - `INS-260329-D913` Everyone who has ever handled an unexpected bill has proven they can be resourceful — they just choose not to be when the beneficiary is themselves.
-- `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
 - `INS-260330-697F` Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
+- `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260330-FFDB` When real users request specific features, the feedback feels overwhelmingly compelling but leads to building the wrong things.
 - `INS-260403-113D` Separate customer observation from solution design by temporarily forgetting what you offer.

@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 85 insights
+> 78 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -16,7 +16,6 @@
 - `INS-260330-F889` [high] Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
 - `INS-260403-15DA` [high] Haters and fanboys are structurally identical: both are obsessive, uncritical, and identity-fused with their target.
 - `INS-260404-0519` [high] The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
-- `INS-260330-4224` [high] Humans evolved uniquely white scleras not by accident but as a cooperation mechanism — making it easy for others to detect where we're looking, unlike predators who benefit from concealed gaze.
 - `INS-260403-5DD6` [high] When people overreact to small provocations, the real cause is usually a past experience their nervous system never fully processed, not a character deficiency.
 - `INS-260403-384F` [high] Calling two things 'infinite' (or any shared label) hides that one may be categorically larger than the other.
 - `INS-260403-BADD` [high] Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
@@ -30,7 +29,6 @@
 - `INS-260330-0C49` [high] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
 - `INS-260330-4114` [high] A phone ringing in Destin's pocket instantly crashed his backwards-bike riding because the new neural pathway required active attention the old one didn't.
 - `INS-260402-FE91` [high] If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
-- `INS-260404-023C` [high] Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - `INS-260330-EA8B` [high] Profanity is processed by the limbic system rather than the left hemisphere language areas, which is why Tourette's patients and people with left-hemisphere damage can still swear.
 - `INS-260330-7994` [high] Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260404-0348` [high] fMRI scans show psychopaths' emotion centers remain silent during personal moral dilemmas that light up normal brains like a pinball machine.
@@ -42,7 +40,6 @@
 - `INS-260330-FA9D` [high] When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
 - `INS-260330-2838` [high] Islam's hadith tradition explicitly grades source reliability — some sayings are well-attested, others are essentially gossip — and the '72 virgins' claim falls in the poorly-sourced category that most Muslims reject.
 - `INS-260330-3491` [high] Structuralism's reliance on patients reporting their inner experiences made it too subjective to produce replicable scientific findings.
-- `INS-260404-50F7` [high] Imagining constrained environments exposes which dependencies you've normalized and stopped noticing.
 - `INS-260330-0C10` [high] Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
 - `INS-260330-B87C` [high] The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
 - `INS-260330-8045` [high] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -53,20 +50,16 @@
 - `INS-260402-3639` [high] Obscure writing about big ideas creates a self-reinforcing trap: it attracts ambitious novices, repels critical thinkers, and has a built-in defense because you can't prove text is meaningless.
 - `INS-260403-A6B1` [high] Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 - `INS-260402-89DE` [high] Writing works as a discovery mechanism because committing to specific words forces vague ideas into falsifiable form, enabling iterative refinement.
-- `INS-260402-F853` [high] Writing forces idea formation that pure thinking cannot achieve alone.
 - `INS-260402-A693` [high] Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - `INS-260402-12D0` [high] Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
 - `INS-260405-678B` [high] Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260403-ABB7` [medium] Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260403-951B` [medium] Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260330-8134` [medium] After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
-- `INS-260404-47BC` [medium] Chloroplasts charge thylakoids like batteries by pumping protons to one side of a membrane, then harvest energy as protons flow back through ATP synthase — a pattern that generalizes to any gradient across a barrier.
-- `INS-260404-04EA` [medium] Thylakoid proton gradients show that maintaining imbalance across a boundary is itself a form of stored energy.
 - `INS-260330-0E86` [medium] Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-4F49` [medium] Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
 - `INS-260404-878F` [medium] Reading can function as intellectual comfort food — removing it forces your mind to generate its own entertainment through original ideas.
 - `INS-260403-0907` [medium] Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
-- `INS-260403-A27F` [medium] Living in multiple countries trains you to question assumptions by default because your existing mental models repeatedly fail in unfamiliar contexts.
 - `INS-260403-CF23` [medium] Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260403-D16C` [medium] Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260403-160C` [medium] When commonly used words have drifted far from their original meanings, people unknowingly talk past each other using the same vocabulary.

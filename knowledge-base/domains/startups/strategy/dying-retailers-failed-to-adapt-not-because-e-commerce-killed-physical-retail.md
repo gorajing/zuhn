@@ -14,8 +14,8 @@ tags:
   - disruption
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -54,11 +54,11 @@ related:
   - INS-260330-570F
   - INS-260330-413D
   - INS-260330-C418
-  - INS-260330-E17D
   - INS-260403-3673
-  - INS-260403-87BE
   - INS-260403-91DB
-  - INS-260403-6CA8
+  - INS-260404-AD52
+  - INS-260404-3070
+  - INS-260403-D8A2
 ---
 The common narrative is that Amazon killed retail, but the video highlights a crucial distinction: the companies that died (Sears, Toys-R-Us, J.C. Penney, RadioShack, Payless) all had specific strategic failures — Sears tried to do everything badly, Toys-R-Us ignored the internet, J.C. Penney alienated its core customers. Meanwhile, Ross, Lush, Aldi, Dollar General, and Costco thrived in the same competitive environment.
 

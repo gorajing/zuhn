@@ -50,11 +50,11 @@ stance: >-
   pathway) and copy number (abundance) provides a definitive test for whether
   selection/evolution was involved in creating an object.
 related:
-  - INS-260323-1670
   - INS-260323-6D41
   - INS-260327-9DB0
   - PRI-260328-36C3
   - INS-260402-70FD
+  - INS-260330-240A
 evidence:
   - id: INS-260323-1670
     type: SUPPORTS

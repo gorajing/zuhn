@@ -47,10 +47,10 @@ stance: >-
   like The Mom Test yield actionable signal.
 related:
   - INS-260320-508F
+  - INS-260322-D6D7
   - INS-260327-89E4
   - INS-260330-775F
   - INS-260330-DAAD
-  - INS-260330-478C
   - INS-260330-A6BE
   - INS-260403-2718
   - INS-260403-359D

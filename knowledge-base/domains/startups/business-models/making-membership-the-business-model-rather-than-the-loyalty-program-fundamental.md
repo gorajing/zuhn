@@ -17,8 +17,8 @@ tags:
   - pricing
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -56,15 +56,15 @@ stance: >-
   survival depends on delivering value rather than extracting it
 related:
   - INS-260322-B450
-  - INS-260403-5C88
-  - INS-260403-1C25
-  - INS-260403-0650
+  - INS-260327-2B62
+  - INS-260327-50CE
   - INS-260403-CDB9
+  - INS-260404-DD00
+  - INS-260404-12A4
+  - INS-260404-60D6
+  - INS-260404-B8AE
   - INS-260404-62D5
-  - INS-260404-66A1
-  - INS-260404-9EDC
-  - INS-260404-37B5
-  - INS-260404-02A0
+  - INS-260404-EAA7
 ---
 Costco earns 75% of its profit from membership fees, not product markups. This means every price increase on goods would generate small short-term revenue but threaten the $60–$120 annual renewal — the opposite tradeoff of a conventional retailer. The business model hard-codes customer alignment: the only way to grow is to keep impressing members enough to renew.
 

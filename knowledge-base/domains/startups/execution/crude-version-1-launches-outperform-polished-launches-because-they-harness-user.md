@@ -45,11 +45,11 @@ stance: >-
   than extended development because real user feedback is more powerful than the
   creator's imagination alone
 related:
-  - INS-260320-3798
   - INS-260325-75A3
   - INS-260403-532D
   - INS-260327-2387
   - INS-260330-1DDE
+  - INS-260405-9DB6
 ---
 Graham argues that starting with a crude version 1 lets your solution benefit from what Feynman called the imagination of nature — the complex reality of actual usage that no amount of planning can anticipate. Viaweb launched with under 10,000 lines of code. Reddit launched looking like it had no design at all.
 

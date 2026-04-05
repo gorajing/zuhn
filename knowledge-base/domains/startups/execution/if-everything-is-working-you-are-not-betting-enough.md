@@ -44,10 +44,10 @@ stance: >-
   simultaneously is operating below its potential and not taking enough bets.
 related:
   - INS-260330-06CD
-  - INS-260325-0C4A
   - INS-260325-CF3E
   - INS-260403-215E
   - INS-260404-6B73
+  - INS-260323-EDAD
 evidence:
   - id: INS-260330-06CD
     type: TRANSFERS_TO
@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-9F46
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-6B73
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Varun Mohan reframes failure from something to avoid into a diagnostic signal. If nothing is failing, the company isn't operating at its potential—it's playing too safe. For frontier technology companies especially, a steady stream of failures indicates the company is exploring the edges of what's possible.
 

@@ -49,15 +49,13 @@ stance: >-
   effective from ineffective system builders.
 related:
   - INS-260323-7F36
-  - INS-260329-8A13
-  - INS-260329-7C59
-  - INS-260329-03B0
-  - INS-260329-9FE0
   - INS-260329-E015
   - INS-260329-E839
   - INS-260329-6A60
-  - INS-260329-8D19
   - PRI-260403-ABDE
+  - INS-260330-112E
+  - PRI-260328-8516
+  - INS-260330-E5F7
 evidence:
   - id: INS-260323-7F36
     type: TRANSFERS_TO

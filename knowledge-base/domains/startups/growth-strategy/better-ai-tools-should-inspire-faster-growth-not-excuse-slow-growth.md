@@ -42,12 +42,13 @@ stance: >-
   should not accept slow growth as normal when dramatically better tools are
   available to accelerate their business.
 related:
-  - INS-260325-A46E
-  - INS-260402-529F
   - INS-260330-A949
   - INS-260330-21CC
   - INS-260404-56AC
+  - INS-260330-697F
+  - INS-260330-7C05
   - INS-260330-072D
+  - INS-260405-DC20
 evidence:
   - id: INS-260329-9115
     type: SUPPORTS

@@ -14,8 +14,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -51,8 +51,8 @@ related:
   - INS-260404-3C7A
   - INS-260404-B24E
   - INS-260405-9EE6
-  - INS-260404-9783
   - INS-260404-8B1C
+  - INS-260404-007B
 ---
 Costco's warehouse layout is genuinely confusing — items move locations, there's no logical organization, and navigation requires wandering most aisles. A conventional retail consultant would call this a UX disaster. But Costco reframes the friction: shoppers feel like deal-hunters on a treasure hunt rather than confused consumers. Similarly, the $60 mandatory fee could be a fatal acquisition barrier, but instead creates a sense of exclusivity and club membership.
 

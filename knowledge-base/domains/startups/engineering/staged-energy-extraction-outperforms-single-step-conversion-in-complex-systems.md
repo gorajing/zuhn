@@ -53,14 +53,13 @@ stance: >-
   Breaking a high-energy transformation into a chain of small, specialized steps
   extracts more usable value than attempting one large conversion
 related:
-  - INS-260330-85D7
   - INS-260330-F671
+  - INS-260330-4D0E
   - INS-260403-D2FD
   - INS-260404-2A07
-  - INS-260330-545E
-  - INS-260404-1A3A
-  - INS-260403-C725
-  - INS-260404-CDD2
+  - INS-260404-3C96
+  - INS-260403-2DC0
+  - PRI-260403-7D53
   - INS-260404-3ABF
 evidence:
   - id: INS-260330-545E

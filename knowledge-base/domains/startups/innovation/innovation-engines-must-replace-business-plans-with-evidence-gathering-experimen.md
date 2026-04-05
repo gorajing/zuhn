@@ -50,10 +50,13 @@ stance: >-
   uncertainty through cheap, fast experimentation
 related:
   - INS-260404-BD46
-  - INS-260404-8D69
-  - INS-260404-9158
-  - INS-260404-40D1
-  - INS-260404-4B69
+  - INS-260403-C8B9
+  - INS-260403-2E90
+  - INS-260404-93E3
+  - INS-260404-3214
+  - INS-260403-8D2C
+  - INS-260403-7333
+  - INS-260404-6A15
   - INS-260405-A6BA
 ---
 Osterwalder and Pigneur draw a sharp line: an innovation engine is explicitly NOT a place where you write business plans. Its core function is decreasing risk and uncertainty through experimentation—prototyping, testing, gathering evidence cheaply and quickly using Lean Startup and Customer Discovery methodologies.

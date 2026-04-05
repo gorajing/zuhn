@@ -66,20 +66,15 @@ related:
   - INS-260403-3517
 evidence:
   - id: INS-260329-F51D
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-C4F1
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
-  - id: INS-260329-25FC
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260329-493A
+    relationship: RELATED
   - id: INS-260330-DF31
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260403-3517
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 The course's 24-chapter arc traces a deliberate path: variables → files → lists → dictionaries → tuples → databases → web APIs → data visualization. This isn't just a Python curriculum — it's a progression through increasingly powerful data abstractions. A student who completes this course doesn't just know Python syntax; they think in terms of structured data, transformation pipelines, and programmatic access to information.
 

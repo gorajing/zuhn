@@ -50,14 +50,14 @@ stance: >-
 related:
   - INS-260328-A46F
   - INS-260330-F2EB
+  - INS-260330-0AA7
+  - PRI-260403-7D53
   - INS-260403-99D1
   - INS-260403-402A
   - INS-260403-5BAD
   - INS-260403-F87C
   - INS-260403-FAD8
   - INS-260403-2BEE
-  - INS-260403-910E
-  - INS-260403-B1F2
 ---
 A single innovation initiative, no matter how well-designed, has uncertain odds of success. Organizations that pursue ideas one at a time face a compounding problem: each failure creates pressure to abandon the innovation effort entirely, while each success creates complacency. Neither dynamic produces sustained innovation capability.
 

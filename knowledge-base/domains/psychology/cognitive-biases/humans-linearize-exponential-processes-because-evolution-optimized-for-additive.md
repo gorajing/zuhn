@@ -47,13 +47,13 @@ stance: >-
   hardwired perceptual bias that cannot be overcome through awareness alone
 related:
   - INS-260330-9FCF
-  - INS-260330-71DE
   - PRI-260403-50EF
   - INS-260402-4BC7
   - INS-260330-C499
   - INS-260330-1C84
   - INS-260330-AA4F
   - INS-260330-FB66
+  - INS-260330-ED8A
 evidence:
   - id: INS-260330-9FCF
     type: EXTENDS

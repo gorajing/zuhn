@@ -48,11 +48,12 @@ resolutions:
     feedback signal, not vibes-based evaluation.
 related:
   - INS-260320-0D43
-  - INS-260329-D48B
   - INS-260330-0102
   - INS-260329-FEBA
   - INS-260320-69CD
   - INS-260329-CF48
+  - INS-260320-7379
+  - INS-260327-98F7
 stance: >-
   The Autoresearch loop (change a file, measure the result, keep or discard) can
   optimize any prompt-driven process with measurable outputs

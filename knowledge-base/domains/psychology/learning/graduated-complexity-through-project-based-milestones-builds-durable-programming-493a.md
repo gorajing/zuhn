@@ -51,11 +51,11 @@ stance: >-
   continuous lecture followed by a capstone project
 related:
   - INS-260329-90C3
-  - INS-260329-9A58
-  - INS-260329-32DB
-  - INS-260329-153F
-  - INS-260329-B6A6
   - INS-260329-D75D
+  - INS-260329-E914
+  - PRI-260403-0509
+  - INS-260329-AD3E
+  - INS-260330-45FF
 evidence:
   - id: INS-260329-D75D
     type: REFINES

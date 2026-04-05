@@ -17,8 +17,8 @@ tags:
   - competitive-advantage
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -56,11 +56,11 @@ stance: >-
   disproportionate supplier negotiating power that more than compensates for the
   lost breadth
 related:
-  - INS-260404-37BB
-  - INS-260404-7B3A
-  - INS-260404-DFE8
-  - INS-260404-7BEE
   - INS-260405-1AAC
+  - INS-260405-F57E
+  - INS-260404-B350
+  - INS-260405-88F9
+  - INS-260403-4874
 ---
 A typical supermarket stocks ~30,000 SKUs; Walmart Supercenters carry 140,000. Costco offers ~4,000. This looks like a massive competitive liability — fewer products means fewer reasons to visit. But the economics invert: because suppliers compete fiercely to be one of Costco's one or two choices per category, they will lower prices, redesign packaging, and adapt products to Costco's specifications. Costco famously had a cashew supplier reengineer its container to fit more per pallet, saving 24,000 pallets annually — savings passed directly to customers.
 

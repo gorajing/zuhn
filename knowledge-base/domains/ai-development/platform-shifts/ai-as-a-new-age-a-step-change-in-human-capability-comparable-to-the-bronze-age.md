@@ -52,6 +52,7 @@ stance: >-
   how mechanical engines permanently amplified physical power.
 related:
   - INS-260322-13D6
+  - INS-260325-3D31
   - INS-260325-9C1E
   - INS-260323-1871
   - INS-260325-537A
@@ -60,7 +61,6 @@ related:
   - INS-260327-E41B
   - INS-260329-C4F5
   - INS-260330-5828
-  - INS-260330-628D
 evidence:
   - id: INS-260323-1871
     type: EXTENDS
@@ -80,6 +80,9 @@ evidence:
   - id: INS-260330-628D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-C592
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Leyden uses the term 'age' deliberately — like the Bronze Age or Iron Age, a fundamental breakthrough technology that permanently changes human capability. ChatGPT 3.5's arrival in November 2022 marks the starting gun of the Age of AI. The key analogy is to steam and mechanical engines: those technologies amplified human physical powers and created the prosperity and wealth of the modern industrial world.
 

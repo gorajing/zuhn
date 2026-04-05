@@ -16,8 +16,8 @@ tags:
   - customer-segmentation
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -47,16 +47,16 @@ stance: >-
   business by filtering for higher-value customers and creating psychological
   investment
 related:
+  - INS-260322-1435
   - INS-260327-7681
   - INS-260327-0BDD
   - INS-260403-9104
+  - INS-260403-08FE
   - INS-260403-3F91
   - INS-260404-2D53
   - INS-260404-94BB
   - INS-260404-3156
-  - INS-260404-86F8
-  - INS-260404-3D8F
-  - INS-260404-AC1B
+  - INS-260404-E65A
 evidence:
   - id: INS-260403-9104
     type: REFINES

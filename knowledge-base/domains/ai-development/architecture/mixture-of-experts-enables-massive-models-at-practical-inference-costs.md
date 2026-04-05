@@ -45,10 +45,10 @@ stance: >-
   activating only a fraction of total parameters per inference pass.
 related:
   - INS-260320-0511
-  - INS-260322-F46F
-  - INS-260403-5FD1
   - PRI-260328-D893
   - INS-260329-FEF4
+  - INS-260327-EE5B
+  - INS-260323-B309
 evidence:
   - id: INS-260322-F46F
     type: CHALLENGES

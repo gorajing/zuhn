@@ -47,7 +47,6 @@ stance: >-
   signals high commitment
 related:
   - INS-260329-50C0
-  - INS-260329-B7F5
   - INS-260329-3332
   - INS-260329-5427
   - INS-260329-69F0
@@ -56,6 +55,7 @@ related:
   - INS-260329-BCCB
   - INS-260329-31A2
   - INS-260329-9A42
+  - INS-260329-18BB
 evidence:
   - id: INS-260329-5427
     type: SUPPORTS

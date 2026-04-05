@@ -56,6 +56,10 @@ related:
   - INS-260403-740E
   - INS-260403-D543
   - INS-260330-F671
+evidence:
+  - id: INS-260330-F671
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The pattern runs: (1) an enabling technology makes movement dramatically cheaper, (2) unit economics shift by an order of magnitude, (3) access democratizes from elites to masses, (4) unpredicted industries and institutions emerge, (5) geographic power reshuffles as incumbents who assume permanence lose their lead. This sequence played out with ocean sail, railroads, automobiles, and containerization.
 

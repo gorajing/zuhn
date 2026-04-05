@@ -47,12 +47,15 @@ stance: >-
   causing systematic underestimation of outlier magnitude regardless of
   expertise or experience.
 related:
-  - INS-260403-3CD0
   - INS-260402-E140
-  - INS-260403-E319
   - INS-260402-EEDB
   - INS-260402-D739
   - INS-260403-1DB7
+  - INS-260328-195E
+evidence:
+  - id: INS-260403-3CD0
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham identifies a cognitive limitation that persists despite awareness: humans simply cannot assimilate the reality of 1000x variation in outcomes. Whether this expectation of bounded variation is innate or culturally learned, the result is the same — our intuitions about what constitutes reasonable variation are off by orders of magnitude.
 

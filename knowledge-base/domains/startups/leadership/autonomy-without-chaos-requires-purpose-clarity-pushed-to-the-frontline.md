@@ -46,10 +46,10 @@ stance: >-
   shared context.
 related:
   - INS-260327-3136
-  - INS-260330-47FB
-  - INS-260330-3CD9
   - INS-260322-F128
-  - INS-260330-725C
+  - INS-260329-6D8B
+  - INS-260323-7D01
+  - INS-260330-C6A2
 ---
 Joly empowered all Best Buy employees — especially customer-facing staff — to make decisions autonomously by ensuring they deeply understood the company's purpose, values, and strategy. Managers' approval wasn't required; employees only needed to consider their manager's input.
 

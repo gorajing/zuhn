@@ -52,11 +52,12 @@ stance: >-
   restart decades-long evidence-gathering from scratch each time.
 related:
   - INS-260325-3488
+  - INS-260327-11AB
   - INS-260330-8D4F
-  - INS-260322-3A00
-  - INS-260404-E60B
   - INS-260405-D6E6
   - INS-260323-EA65
+  - INS-260330-0B8D
+  - INS-260325-36F0
 evidence:
   - id: INS-260325-3488
     type: SUPPORTS

@@ -59,12 +59,10 @@ related:
   - INS-260329-9311
   - INS-260330-C13A
 evidence:
-  - id: INS-260329-9311
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+  - id: INS-260329-D48B
+    relationship: RELATED
   - id: INS-260330-C13A
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 Gawande draws a sharp distinction: teachers deposit knowledge or skill but do not necessarily see your performance in an ongoing way. A coach circles back, observes you in real conditions, and helps you walk through the process of change and improvement over time.
 

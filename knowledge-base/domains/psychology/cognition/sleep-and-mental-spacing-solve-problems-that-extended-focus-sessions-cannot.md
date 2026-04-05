@@ -60,6 +60,9 @@ evidence:
   - id: INS-260402-4AB4
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-A14B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Fireship describes a universal programmer experience: grinding late into the night on an error, giving up, sleeping, then immediately solving it in the morning. This isn't anecdotal weakness — it maps directly to the neuroscience of focused vs. diffuse thinking modes. Conscious focus narrows your search space to known patterns, while rest activates diffuse-mode processing that explores wider associative networks.
 

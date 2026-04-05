@@ -45,11 +45,11 @@ resolutions:
     replace contempt with building a culture of appreciation. The key insight is
     that these are learnable skills, not personality traits.
 related:
-  - INS-260330-677A
   - PRI-260323-DC25
   - INS-260330-6E4E
   - INS-260327-0017
   - INS-260325-64FD
+  - PRI-260324-2A76
 stance: >-
   Criticism, defensiveness, stonewalling, and contempt form a predictable
   cascade that erodes relationships, with contempt being the single strongest...

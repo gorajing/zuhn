@@ -57,17 +57,13 @@ related:
   - PRI-260403-E097
   - INS-260330-E61E
 evidence:
-  - id: INS-260330-3398
-    type: REFINES
-    classified_at: '2026-04-02'
+  - id: INS-260330-4553
+    relationship: RELATED
   - id: INS-260330-2A6A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-9C48
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-70BC
-    type: REFINES
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 In 2004, eBay changed their affiliate payment model from paying per confirmed registered user to paying per activated confirmed registered user (someone who confirmed their account AND bid on, bought, or listed an item). Overnight, confirmed registrations driven by affiliates dropped roughly 20%, but activated users only dropped about 5%. The ratio of registered-to-active users improved, and then active user growth massively accelerated. The mechanism is elegant: affiliates optimizing for registrations would land someone searching for 'trampoline' on the registration page, creating friction before value. Affiliates optimizing for activation landed them on eBay's trampoline search results, letting them see the product they wanted, get excited, and register with intent to buy. This created genuine magic moments at acquisition rather than empty signups. The principle generalizes: whatever metric you pay external partners to optimize, they will game. Align payment with the deepest meaningful action users can take, even at the cost of top-of-funnel volume.

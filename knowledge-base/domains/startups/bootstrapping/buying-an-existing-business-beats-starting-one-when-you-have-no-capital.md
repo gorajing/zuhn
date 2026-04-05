@@ -43,7 +43,6 @@ stance: >-
   venture from zero.
 related:
   - INS-260327-3930
-  - INS-260329-E884
   - INS-260329-4EF5
   - INS-260329-CB10
   - INS-260402-8424

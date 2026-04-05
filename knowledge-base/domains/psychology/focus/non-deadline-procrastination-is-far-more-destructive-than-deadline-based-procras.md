@@ -49,14 +49,13 @@ stance: >-
   external deadlines — career pivots, relationships, health — where the Panic
   Monster never activates.
 related:
-  - INS-260325-14A9
   - PRI-260328-23B0
   - INS-260328-FE38
   - INS-260328-217C
   - PRI-260328-30C2
+  - INS-260330-F6B1
   - INS-260325-C884
   - INS-260325-0FED
-  - INS-260330-F6B1
   - INS-260403-3CD9
 evidence:
   - id: INS-260325-0FED

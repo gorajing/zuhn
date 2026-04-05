@@ -69,8 +69,8 @@ related:
   - PRI-260328-E870
   - INS-260323-73AB
   - INS-260327-9C00
-  - INS-260329-5891
   - INS-260327-C6DC
+  - INS-260327-2608
 ---
 Whyte calls champion the most commonly used yet most misused term in sales. A true MEDDPICC champion must satisfy three criteria simultaneously: (1) Power and influence — when they speak, others take notice, they have credibility in their organization; (2) Internal selling — they actively advocate for you when you're not in the room, sticking up for your solution in internal meetings; (3) Vested interest — if you win, they win, whether through hitting their bonus, gaining a new skill, earning a promotion, or achieving a business outcome they care about.
 

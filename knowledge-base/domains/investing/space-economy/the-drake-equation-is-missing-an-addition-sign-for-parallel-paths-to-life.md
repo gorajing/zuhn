@@ -55,11 +55,9 @@ related:
   - INS-260325-0A81
 evidence:
   - id: INS-260330-B5D2
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260330-BC3E
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-8C6A
+    relationship: RELATED
 ---
 The Rare Earth hypothesis stacks up hundreds of narrow conditions required for life (specific moon size, ocean chemistry, land fraction, etc.) and multiplies them into near-zero probability. Kipping's critique is elegant: this model assumes a single path to life. If there are multiple independent paths using different chemistry, the calculation needs addition, not just multiplication.
 

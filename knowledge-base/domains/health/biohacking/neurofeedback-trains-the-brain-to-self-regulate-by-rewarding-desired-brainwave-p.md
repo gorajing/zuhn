@@ -72,6 +72,21 @@ evidence:
   - id: INS-260327-DF8B
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-487E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-95A5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-4079
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-7342
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-5F6C
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Van der Kolk describes neurofeedback as placing electrodes on the skull and rewarding brainwave patterns associated with calm and focus. The brain learns to produce these patterns more frequently, effectively reshaping its default configuration. His clinical results were strong enough to include it among his six primary trauma treatments.
 

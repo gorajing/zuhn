@@ -43,11 +43,11 @@ stance: >-
   AI hallucination and rework more than any prompt engineering technique because
   it eliminates ambiguity about what to build.
 related:
-  - INS-260329-5ECD
   - INS-260403-0A7A
   - INS-260403-AC03
   - INS-260329-83AA
   - INS-260329-1ACD
+  - INS-260329-18C9
   - INS-260330-3257
   - INS-260403-8280
 evidence:

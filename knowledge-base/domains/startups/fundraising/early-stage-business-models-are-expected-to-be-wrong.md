@@ -14,11 +14,8 @@ tags:
   - pitch-allocation
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -60,9 +57,8 @@ related:
   - INS-260403-6A55
   - INS-260403-1DB7
 evidence:
-  - id: INS-260403-8346
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260403-1852
+    relationship: RELATED
 ---
 A VC speaking at Y Combinator described investing in experienced founders whose business model he knew was wrong—and expected it to change three times before they got it right. He invested anyway because at the early stage, the business model is just a bunch of guesses about stuff that's probably not the founders' area of expertise.
 

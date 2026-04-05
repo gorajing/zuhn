@@ -45,7 +45,6 @@ stance: >-
   a binary choice — produces better resource allocation because it acknowledges
   that most real initiatives live between the extremes
 related:
-  - INS-260322-CCE8
   - INS-260402-4605
   - INS-260403-1000
   - INS-260403-0764

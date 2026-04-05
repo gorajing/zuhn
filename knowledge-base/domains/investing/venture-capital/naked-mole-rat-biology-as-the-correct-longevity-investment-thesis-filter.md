@@ -49,10 +49,9 @@ stance: >-
 related:
   - INS-260330-2BB3
   - INS-260403-1CB1
-  - INS-260330-78B1
-  - INS-260330-37F6
-  - INS-260330-D41A
   - INS-260326-6B98
+  - PRI-260403-50EF
+  - INS-260325-5A72
 ---
 The essay uses naked mole rats — which maintain constant, low mortality risk regardless of age — as the biological proof that negligible senescence is achievable. This creates a powerful investment filter: does a longevity company aim to flatten the human mortality curve (constant low risk at any age) or merely push the curve a few years to the right?
 

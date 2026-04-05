@@ -14,11 +14,8 @@ tags:
   - storytelling
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -48,13 +45,14 @@ stance: >-
   Specific stories about real users with real problems are more convincing to
   investors than market size figures or theoretical demand arguments
 related:
+  - INS-260403-8F31
+  - INS-260403-1444
   - INS-260403-035A
   - INS-260403-7072
   - INS-260403-1949
-  - INS-260404-7609
   - INS-260404-817A
-  - INS-260404-3B9E
-  - INS-260403-8F31
+  - INS-260404-29F4
+  - INS-260405-9E25
 ---
 The biggest investor fear at the early stage is that you've built something based on a priori theories of what the world needs but that no one will actually want. Graham cites Sequoia's concept of 'proxy for demand'—what are people doing now, using inadequate tools, that proves they need what you're making?
 

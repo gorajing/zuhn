@@ -47,10 +47,10 @@ resolutions:
     acquired was the future-facing one.
 related:
   - INS-260403-07C6
-  - INS-260404-1002
   - INS-260403-699B
   - INS-260322-A892
   - INS-260322-C472
+  - INS-260325-060A
 stance: >-
   The 'why now' question — what has changed that makes this company relevant
   today when it couldn't exist before — separates viable startups from ide...

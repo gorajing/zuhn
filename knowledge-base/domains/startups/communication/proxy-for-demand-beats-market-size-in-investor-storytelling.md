@@ -14,11 +14,8 @@ tags:
   - sequoia
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -47,15 +44,15 @@ stance: >-
   investors than TAM figures because they provide concrete evidence of pull
   rather than theoretical opportunity.
 related:
-  - INS-260323-7424
+  - INS-260327-0595
   - INS-260327-5DD2
   - PRI-260328-B2EA
   - INS-260329-577E
   - INS-260403-C681
   - INS-260403-D7DF
   - INS-260403-53AA
+  - INS-260403-92EB
   - INS-260403-7072
-  - INS-260403-3837
   - INS-260403-30D8
 evidence:
   - id: INS-260323-7424

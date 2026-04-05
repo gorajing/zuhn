@@ -55,19 +55,14 @@ related:
   - INS-260330-6AED
 evidence:
   - id: INS-260330-43EB
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-6EFB
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-E585
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-4E55
-    type: SUPPORTS
-    classified_at: '2026-04-03'
-  - id: INS-260330-88DE
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260330-6BAF
+    relationship: RELATED
 ---
 For decades, scholars blamed the 'Sea Peoples' alone for the Bronze Age collapse. Modern archaeology shows it was a perfect storm: climate-driven drought reduced food supplies, which triggered migrations (the Sea Peoples were likely refugees, not conquerors), which disrupted trade networks, which cut off critical resources like tin needed for bronze. No single stressor would have been fatal; the compounding effect was. This 'polycausal' model of collapse maps directly onto modern systemic risk analysis — pandemic plus supply chain disruption plus inflation plus geopolitical conflict is far more dangerous than any one alone.

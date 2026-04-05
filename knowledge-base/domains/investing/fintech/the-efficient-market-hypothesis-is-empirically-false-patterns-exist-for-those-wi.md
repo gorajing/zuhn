@@ -47,12 +47,11 @@ resolutions:
     and perfectly random.
 related:
   - INS-260325-F0CE
-  - INS-260325-EF4C
   - INS-260323-D6C7
   - PRI-260403-EA13
   - INS-260405-809E
   - PRI-260328-3FEF
-  - INS-260330-BA13
+  - INS-260403-2B1D
 stance: The Efficient Market Hypothesis has been empirically rejected
 evidence:
   - id: INS-260330-2F13
@@ -61,6 +60,9 @@ evidence:
   - id: INS-260323-15F4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-809E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Andrew Lo of MIT published research in 1988 showing the EMH is statistically false — predictable patterns exist in stock markets. Jim Simons' Medallion fund proved this practically with 66% annual returns for 30 years (turning $100 into $8.4B).
 

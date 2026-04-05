@@ -50,12 +50,13 @@ stance: >-
   Ultra-long-form educational content outperforms short-form when the creator
   establishes credibility as a university professor
 related:
+  - INS-260321-4280
   - INS-260329-461A
   - INS-260329-BE50
+  - INS-260405-0184
   - INS-260329-9A42
   - INS-260329-3332
   - INS-260403-37D9
-  - INS-260329-88B2
 evidence:
   - id: INS-260329-461A
     type: EXTENDS

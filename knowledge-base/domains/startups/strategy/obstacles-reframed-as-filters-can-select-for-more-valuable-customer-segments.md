@@ -14,8 +14,8 @@ tags:
   - growth-strategy
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -58,23 +58,17 @@ related:
   - INS-260404-B435
 evidence:
   - id: INS-260403-747B
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-B2FB
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260404-B435
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260404-79EC
+    relationship: RELATED
   - id: INS-260403-137D
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-5587
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-01B1
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Conventional wisdom says removing friction grows your customer base. Costco demonstrates the opposite: its $60-120 mandatory membership fee acts as a demographic filter that selects for affluent households (average income ~$100K) and business owners. Business members make up only one-third of the membership but generate two-thirds of sales volume. The fee that should make customer acquisition 'fatally difficult' instead creates a self-selecting community of high-value, loyal patrons with 90% renewal rates.
 

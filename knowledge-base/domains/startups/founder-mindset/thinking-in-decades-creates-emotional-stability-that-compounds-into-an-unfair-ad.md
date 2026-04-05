@@ -52,7 +52,6 @@ related:
   - INS-260323-4D14
   - INS-260325-3A54
   - INS-260330-0149
-  - INS-260330-B1A3
 evidence:
   - id: INS-260323-4D14
     type: TRANSFERS_TO

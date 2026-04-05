@@ -16,8 +16,8 @@ tags:
   - ikea-effect
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -59,7 +59,7 @@ related:
   - INS-260404-007B
   - INS-260404-8D5F
   - INS-260404-41AA
-  - INS-260404-3C7A
+  - INS-260404-B350
 ---
 Costco's warehouse layout with no back rooms, forklift-loaded shelves, and deliberately confusing navigation exists primarily to cut costs. But customers experience these as signals that they're getting wholesale deals—the industrial feel communicates 'no frills, just value.' Similarly, IKEA's flat-pack do-it-yourself model saves shipping costs but makes customers feel pride of ownership. The constraint becomes the brand.
 

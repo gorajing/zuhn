@@ -51,15 +51,14 @@ stance: >-
   become locked in because the ecosystem adapts around the solution's flaws
   rather than replacing it
 related:
-  - INS-260323-E559
   - INS-260329-3AE5
+  - INS-260330-82B5
   - INS-260330-CBF8
-  - INS-260330-56D6
-  - INS-260403-E796
-  - INS-260403-1110
   - INS-260330-22C0
   - INS-260330-11EB
-  - INS-260330-C02D
+  - INS-260330-3EE4
+  - INS-260403-262F
+  - INS-260403-2457
 evidence:
   - id: INS-260329-3AE5
     type: EXTENDS

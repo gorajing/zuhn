@@ -52,7 +52,7 @@ stance: >-
   reset what feels normal, making otherwise intimidating leaps seem routine
 related:
   - INS-260327-9BFD
-  - INS-260402-529F
+  - INS-260403-D1D4
   - INS-260323-09E4
   - INS-260402-FE91
   - INS-260403-E365

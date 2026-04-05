@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260330-2576
   - PRI-260323-8EEA
-  - INS-260404-22B3
   - INS-260323-40AA
-  - INS-260404-ED31
+  - INS-260329-B0BA
+  - INS-260330-178D
 ---
 Shear warns against the most common user interview trap: describing a feature and asking if it's good. Users reliably say 'oh yeah, that's great' to proposed features, but when you build them, nobody switches to get them. This creates a false confidence loop where founders spend months building validated-sounding features that nobody actually wants.
 

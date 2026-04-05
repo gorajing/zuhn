@@ -48,16 +48,16 @@ stance: >-
   The history of computing shows that systems for finding mistakes have
   consistently been more important than systems for doing calculations faster.
 related:
-  - INS-260322-F891
   - INS-260325-5B7F
   - PRI-260403-5B3D
   - INS-260323-8966
   - INS-260404-BE07
   - PRI-260328-5D9E
-  - INS-260323-0919
   - INS-260327-95D3
   - INS-260327-47E9
   - INS-260329-4109
+  - INS-260329-7A6A
+  - INS-260329-6D6C
 evidence:
   - id: INS-260323-8966
     type: TRANSFERS_TO

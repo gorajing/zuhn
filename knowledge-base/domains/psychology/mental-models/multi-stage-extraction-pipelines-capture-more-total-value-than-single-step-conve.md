@@ -50,14 +50,11 @@ stance: >-
   specialized components yields more total capture than attempting a single
   large conversion.
 related:
-  - INS-260330-85D7
   - INS-260330-F671
   - INS-260330-0017
-  - INS-260330-545E
-  - INS-260403-C725
   - INS-260404-2A07
-  - INS-260404-1A3A
   - INS-260404-3C96
+  - INS-260403-2DC0
 evidence:
   - id: INS-260330-0017
     type: TRANSFERS_TO

@@ -45,7 +45,6 @@ resolutions:
     vision.
 related:
   - INS-260321-2F43
-  - INS-260325-A1BC
   - INS-260404-96E6
   - INS-260327-5CB0
   - INS-260405-3772
@@ -54,6 +53,7 @@ related:
   - INS-260323-C5D3
   - INS-260327-734D
   - INS-260329-BBBE
+  - INS-260330-5FED
 stance: >-
   Stuart Butterfield's games failed twice, but side features born from real
   problems became Flickr ($20M) and Slack ($27B)

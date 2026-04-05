@@ -55,11 +55,9 @@ related:
   - INS-260402-426C
 evidence:
   - id: INS-260323-1811
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260402-4F0E
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260402-FFCB
+    relationship: RELATED
 ---
 When building the golf ball cannon, Destin observed that tape at the barrel exit inflated like a balloon before the ball arrived — revealing residual air was creating drag and stealing velocity. This single observation led to the 'extra vacuum ullage' design in the baseball cannon: additional vacuum volumes along the barrel to absorb trapped air. The insight transfers directly to product development: the most valuable iteration signals come not from feature requests but from watching where your current system underperforms at its limits. A/B test failures, edge-case bugs, and 'almost worked' scenarios contain more design intelligence than customer surveys.
 

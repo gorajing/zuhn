@@ -59,14 +59,11 @@ related:
   - INS-260403-6857
 evidence:
   - id: INS-260330-DE16
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-AB62
-    type: SUPPORTS
-    classified_at: '2026-04-02'
-  - id: INS-260402-F853
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260402-A693
+    relationship: RELATED
 ---
 The video demonstrates that even a simple to-do app in vanilla JS requires manually querying DOM elements, imperatively creating and appending nodes, and managing the disconnect between application state and UI. The HTML markup gives no indication of bound events or data flow. As Fireship puts it: 'what you'll end up doing is building your own shitty JavaScript framework.'
 

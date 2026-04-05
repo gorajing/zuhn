@@ -56,6 +56,7 @@ stance: >-
   because predation forces novel solutions while scarcity only forces
   efficiency.
 related:
+  - INS-260323-7D90
   - INS-260325-DFA5
   - INS-260330-4634
   - INS-260330-814E

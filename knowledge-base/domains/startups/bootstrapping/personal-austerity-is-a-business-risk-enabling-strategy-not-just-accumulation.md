@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-4A5D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-EEAF
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Most personal finance advice frames austerity as the path to wealth through accumulation and compound growth. Hormozi flips this: for entrepreneurs, the real value of extreme savings isn't the nest egg itself — it's the extended runway that lets you take asymmetric business risks without existential financial pressure.
 

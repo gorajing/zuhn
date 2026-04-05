@@ -60,16 +60,16 @@ stance: >-
   improve predictably to models costing $10B to train has proven correct, and
   the company that prioritized safety during this exponential was Anthropic.
 related:
+  - INS-260323-FAF2
   - INS-260323-3F11
-  - INS-260323-4D13
   - INS-260324-1C84
   - INS-260323-3CD0
+  - INS-260322-EE1B
   - INS-260330-3138
   - INS-260330-39B0
   - INS-260330-85B8
-  - INS-260330-007E
+  - INS-260323-6C6F
   - INS-260327-1F4A
-  - INS-260330-9367
 evidence:
   - id: INS-260324-1C84
     type: TRANSFERS_TO

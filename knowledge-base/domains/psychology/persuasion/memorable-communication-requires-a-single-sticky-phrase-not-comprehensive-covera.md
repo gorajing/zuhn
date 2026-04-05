@@ -16,11 +16,8 @@ tags:
   - soundbites
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -61,6 +58,7 @@ related:
   - INS-260403-BDBE
   - INS-260403-F7DD
   - INS-260403-2FE1
+  - INS-260403-7FBE
   - INS-260405-5BD3
 ---
 Professional investors hear so many pitches they blur together. The first filter isn't quality — it's memorability. Graham recommends a single descriptive phrase, often in the form 'the X of Y' (Viaweb's was 'the Microsoft Word of ecommerce'), launched early in the presentation.

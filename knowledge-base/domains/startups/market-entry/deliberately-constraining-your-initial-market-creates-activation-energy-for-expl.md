@@ -53,9 +53,8 @@ related:
   - INS-260330-0C96
   - INS-260330-F0F2
   - INS-260403-D49B
-  - INS-260404-9882
-  - INS-260403-8013
   - INS-260403-8BE9
+  - PRI-260403-5DEA
 ---
 Paul Graham calls this the 'contained fire' strategy: keep the fire small at first to get it really hot before adding more logs. Facebook started as Harvard-only, which meant a potential market of just a few thousand people. But because those users felt the product was genuinely for them, a critical mass signed up quickly. The concentrated adoption created both social proof and deep product-market fit.
 

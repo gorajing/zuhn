@@ -50,11 +50,11 @@ stance: >-
   at each intermediate step rather than treating the system as a black box with
   inputs and outputs
 related:
-  - INS-260403-C725
-  - INS-260404-596E
-  - INS-260403-D2FD
   - INS-260330-F671
-  - INS-260330-4B45
+  - INS-260330-0017
+  - INS-260403-D2FD
+  - INS-260404-52FC
+  - INS-260404-2A07
 ---
 Photosynthesis involves a four-complex electron transport chain where energy is progressively extracted and converted: photon → excited electron → proton gradient → ATP. Each handoff has a specific mechanism and specific losses. Understanding only the input (sunlight) and output (glucose) misses the entire operational logic.
 

@@ -51,8 +51,8 @@ stance: >-
   execute predefined solutions.
 related:
   - INS-260323-13C0
+  - INS-260405-89E7
   - INS-260326-7B2A
-  - INS-260322-116B
   - INS-260322-C6CE
   - INS-260327-A817
   - INS-260330-0346

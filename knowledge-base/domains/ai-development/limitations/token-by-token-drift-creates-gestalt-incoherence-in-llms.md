@@ -52,10 +52,10 @@ stance: >-
   self-correction mechanisms that evaluate output as a coherent whole.
 related:
   - INS-260320-1B10
-  - INS-260323-8D12
   - INS-260403-A6B1
   - INS-260402-8A7A
   - INS-260329-DAD1
+  - PRI-260323-1CF9
 evidence:
   - id: INS-260329-DAD1
     type: TRANSFERS_TO

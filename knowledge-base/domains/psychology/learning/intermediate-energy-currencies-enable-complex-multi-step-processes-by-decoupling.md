@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260404-9C57
   - INS-260405-8E85
-  - INS-260404-C290
   - INS-260330-20FD
-  - INS-260330-EAA3
+  - INS-260405-C780
+  - INS-260330-F671
 evidence:
   - id: INS-260405-8E85
     type: EXTENDS

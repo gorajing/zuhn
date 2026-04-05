@@ -50,13 +50,14 @@ stance: >-
   The oxygen in Earth's atmosphere — and therefore all aerobic life — traces
   back to a single molecular event: PSII splitting H2O to steal an electron
 related:
+  - INS-260325-A926
   - INS-260327-8E22
   - INS-260330-85AA
-  - INS-260330-956F
-  - INS-260330-BA7F
-  - INS-260330-B061
-  - INS-260330-57E6
+  - PRI-260403-181B
   - INS-260403-B4F1
+  - INS-260405-C342
+  - INS-260404-E9F3
+  - INS-260330-656A
 evidence:
   - id: INS-260330-85AA
     type: TRANSFERS_TO

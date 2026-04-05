@@ -17,8 +17,8 @@ tags:
   - loyalty
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,7 +51,7 @@ stance: >-
   purchasing behavior more reliably than discounts or rewards programs
 related:
   - INS-260325-B8CB
-  - INS-260327-F26E
+  - INS-260403-543E
   - INS-260404-ED19
   - INS-260404-3D8F
   - INS-260404-5D39

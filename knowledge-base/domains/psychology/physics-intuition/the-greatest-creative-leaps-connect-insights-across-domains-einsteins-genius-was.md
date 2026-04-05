@@ -48,7 +48,6 @@ resolutions:
     discipline of following where it leads, especially when it leads into
     unfamiliar territory requiring new tools.
 related:
-  - INS-260323-2D1D
   - INS-260323-C9B1
   - INS-260323-9F38
   - PRI-260324-3B70
@@ -58,6 +57,7 @@ related:
   - INS-260330-FB50
   - INS-260330-CA8E
   - INS-260330-7EFD
+  - INS-260330-4FC5
 stance: Einstein's greatest leap was not mathematical but conceptual
 evidence:
   - id: INS-260323-2D1D

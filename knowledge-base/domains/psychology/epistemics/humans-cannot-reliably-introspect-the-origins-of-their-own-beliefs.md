@@ -53,11 +53,11 @@ stance: >-
   The inability to trace where a belief came from is a structural feature of
   human cognition, not a failure of attention or memory.
 related:
-  - INS-260320-0F7C
   - INS-260327-9D50
   - INS-260405-8412
   - INS-260327-C4AC
   - INS-260403-AC03
+  - INS-260329-500E
 evidence:
   - id: INS-260327-9D50
     type: TRANSFERS_TO

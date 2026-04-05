@@ -60,7 +60,6 @@ related:
   - INS-260330-2492
   - INS-260322-BF4C
   - INS-260321-CCD9
-  - INS-260403-B462
 evidence:
   - id: INS-260322-BF4C
     type: SUPPORTS

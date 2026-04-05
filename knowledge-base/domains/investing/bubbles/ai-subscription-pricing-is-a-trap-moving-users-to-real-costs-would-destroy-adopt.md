@@ -61,38 +61,27 @@ stance: >-
   psychology of cab fares, AI would require 5-7x increases into a range use...
 evidence:
   - id: INS-260323-F68A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-9C3A
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-6900
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-6079
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-CBF6
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-1403
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-80E9
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-5580
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-8602
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260403-1E4A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260403-1C25
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260404-12A4
+    relationship: RELATED
 ---
 The Uber comparison that AI bulls love actually proves the bears' case. Uber's price hikes worked because users had an existing mental model for what a cab ride costs — the subsidized price was low but the real price was within the same order of magnitude. AI subscriptions have no such anchor.
 

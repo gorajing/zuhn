@@ -47,6 +47,7 @@ stance: >-
   housing shortages because profit margins only work at the high end, making the
   'just build more' solution structurally incapable of solving affordability.
 related:
+  - INS-260325-66BE
   - INS-260327-2B44
   - INS-260327-96BB
   - PRI-260328-EAC4

@@ -15,8 +15,8 @@ tags:
   - costco
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
@@ -55,15 +55,19 @@ stance: >-
   transactional models cannot replicate
 related:
   - INS-260322-3259
-  - INS-260329-C409
   - INS-260403-B2CB
   - INS-260403-3F5F
+  - INS-260403-5348
   - INS-260403-BF47
   - INS-260403-8757
   - INS-260403-C1A5
   - INS-260404-837E
   - INS-260404-0298
   - INS-260404-60D6
+evidence:
+  - id: INS-260329-C409
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Costco's core insight is structural: by funding operations through membership fees rather than product markups, it eliminates the adversarial tension between the company's profit motive and the customer's desire for low prices. Every dollar Costco extracts through margin today risks a $60 or $120 membership cancellation next year — so the rational move is to keep prices as low as possible.
 

@@ -47,11 +47,12 @@ stance: >-
   business health, with compounding consequences over decades.
 related:
   - INS-260327-725F
-  - INS-260330-808B
   - INS-260403-C125
   - INS-260330-7E58
-  - INS-260404-95FC
-  - INS-260404-CEA8
+  - INS-260404-C13E
+  - INS-260405-202B
+  - INS-260403-3062
+  - INS-260403-37F4
 evidence:
   - id: INS-260330-808B
     type: EXTENDS

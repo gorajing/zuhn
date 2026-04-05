@@ -48,11 +48,11 @@ stance: >-
   Breaking massive learning goals into many small discrete chapters with clear
   boundaries is more effective than fewer large modules
 related:
-  - INS-260329-975C
-  - INS-260329-A53C
   - INS-260329-E20C
   - INS-260329-3332
   - INS-260329-88B2
+  - INS-260329-18BB
+  - INS-260329-90C3
 evidence:
   - id: INS-260329-3332
     type: CONTRADICTS

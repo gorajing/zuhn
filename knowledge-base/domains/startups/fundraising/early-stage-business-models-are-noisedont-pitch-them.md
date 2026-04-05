@@ -14,11 +14,8 @@ tags:
   - early-stage
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,10 +48,10 @@ related:
   - INS-260327-D6C5
   - INS-260403-98F3
   - INS-260405-C22F
-  - INS-260403-270E
-  - INS-260403-A709
-  - INS-260404-983E
   - INS-260403-A172
+  - INS-260403-2E90
+  - INS-260404-4DF7
+  - INS-260403-481F
 ---
 Graham cites a VC who invested in a company despite knowing their business model was wrong and would change three times. The founders were experienced repeat entrepreneurs who'd just raised millions, and even their model was 'crap.' The investor expected it to be crap at that stage.
 

@@ -58,24 +58,18 @@ related:
   - INS-260330-6D43
   - INS-260403-F519
 evidence:
-  - id: INS-260330-EFFC
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260330-8F07
+    relationship: RELATED
   - id: INS-260325-D540
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-2DCD
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-6D43
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-031F
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-5F3B
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
 ---
 A Stanford class on 'the modern software developer' filled over 100 students within hours of announcement. The core thesis: AI is a new language, and the first generation entering the workforce now will be AI-native engineers. The top 0.1% of these engineers won't be the best coders—they'll be the best agent managers.
 

@@ -5,13 +5,10 @@
 - `INS-260327-470B` Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-616B` Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260404-12A4` Mandatory fees force companies to continuously justify membership value, aligning long-term incentives with customer satisfaction.
-- `INS-260404-4DC8` Costco derives 75% of revenue from membership fees, which structurally aligns its incentive to minimize product markups (capped at 15%).
 - `INS-260403-CDB9` When 75% of revenue comes from membership fees, the rational move is always to lower prices to protect renewals.
-- `INS-260403-0650` When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - `INS-260324-DB86` Shrinkflation generates 3-5% revenue growth for years even as volumes decline, but there's a ceiling — Kraft Heinz hit it in 2019 with a $15B loss when customers stopped buying entirely.
-- `INS-260330-1B6E` Sticker price misleads—iPhone's 45% annual depreciation vs Samsung's 62% and Google's 81% means the premium product costs less to own per month.
 - `INS-260330-8639` A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
 - `INS-260330-D824` WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260330-D801` Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
@@ -30,6 +27,5 @@
 - `INS-260330-1D9D` Charge for your product as early as possible because paying customers give brutally honest feedback that free users won't.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260327-4DE7` Instead of free trials that provide no commitment or revenue, offer annual agreements with a 30-day satisfaction guarantee — the default becomes 'customer' rather than 'prospect.'
-- `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
-- `INS-260404-B2FB` Costco's $60 membership fee filters for affluent households averaging $100K income, with business owners generating two-thirds of sales.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
+- `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.

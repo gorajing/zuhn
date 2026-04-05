@@ -51,13 +51,12 @@ stance: >-
   and stress into a few years with a bulk discount on pain, and the
   all-or-nothing payoff distribution means most founders get zero
 related:
-  - INS-260323-E559
   - INS-260320-C56D
-  - INS-260403-8CD3
   - INS-260330-E39E
   - INS-260327-A75B
   - INS-260403-458A
   - INS-260402-27A1
+  - INS-260402-2B96
 evidence:
   - id: INS-260323-E559
     type: TRANSFERS_TO

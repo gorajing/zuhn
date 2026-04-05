@@ -14,11 +14,8 @@ tags:
   - signal-vs-noise
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -48,11 +45,13 @@ stance: >-
   counterproductive because the model is almost certainly wrong and displaces
   discussion of the problem and solution where founders have genuine expertise.
 related:
+  - INS-260403-CC25
   - INS-260405-D6B9
   - INS-260404-93E3
-  - INS-260403-A709
   - INS-260404-4DF7
-  - INS-260403-FF86
+  - INS-260404-E36F
+  - INS-260404-3214
+  - INS-260403-462F
   - INS-260403-42F2
 ---
 Graham cites a top VC who invested in a company despite knowing their business model was wrong and would change three times. The VC invested anyway because business models at the early stage are expected to be wrong. This reveals an asymmetry: investors don't weight business model accuracy heavily, but a spectacularly wrong one creates a negative anchor that displaces everything else.

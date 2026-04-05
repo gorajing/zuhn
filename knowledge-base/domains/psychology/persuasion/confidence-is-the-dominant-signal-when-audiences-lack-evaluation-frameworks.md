@@ -15,11 +15,8 @@ tags:
   - signaling
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -52,11 +49,11 @@ stance: >-
 related:
   - INS-260330-2B33
   - INS-260330-ACDA
+  - INS-260403-37D9
   - INS-260403-6B97
-  - INS-260404-EBB3
-  - INS-260404-37F7
+  - INS-260403-DC64
   - INS-260404-0095
-  - INS-260404-6388
+  - INS-260404-37F7
   - INS-260404-D672
 ---
 Investor audiences at early-stage pitches face a double handicap: limited time and limited technical background. In this evaluation vacuum, the founder's own confidence in what they've built becomes — almost by default — the single biggest piece of evidence. This isn't about faking enthusiasm; Graham explicitly warns against saying 'we're passionate' or 'our product is great,' which audiences read as hollow or dishonest.

@@ -8,8 +8,6 @@
 - `INS-260330-0539` Russia's pension contributor-to-recipient ratio has deteriorated 44% since 1991, with no short-term fix possible because today's teenagers are '13-year-old ripples of actions past.'
 - `INS-260330-AAE9` As societies industrialize and urbanize, children shift from productivity assets to financial liabilities, making low fertility an inevitable side effect of development.
 - `INS-260327-004B` 30 million Americans will retire by 2030 representing nearly a fifth of the labor force, with most having less than $250K in total assets.
-- `INS-260327-4FD9` Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.
-- `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260327-C4E8` About 0.1% of American men have permanently left the workforce every single month since the 1960s - COVID merely accelerated an existing decades-long trend.
 - `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
 - `INS-260323-8239` National power is fundamentally a function of population size and wealth — both are required to build the military capability that ensures survival.
@@ -20,5 +18,4 @@
 - `INS-260404-8746` Customer demand changes are symptoms of deeper technological, social, or demographic shifts — trace the root cause to build lasting advantage.
 - `INS-260404-01B1` Costco's $60-120 membership fee filters for households earning ~$100K, and business owners who comprise one-third of members but drive two-thirds of sales.
 - `INS-260403-46B2` The concentration of 25-29 year olds in a city predicts startup hub potential better than any policy metric.
-- `INS-260404-B2FB` Costco's $60 membership fee filters for affluent households averaging $100K income, with business owners generating two-thirds of sales.
 - `INS-260403-2C00` Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.

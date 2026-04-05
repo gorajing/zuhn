@@ -53,6 +53,19 @@ related:
   - INS-260403-AB5C
   - INS-260330-2B42
   - INS-260403-DC52
+evidence:
+  - id: INS-260327-9638
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-4C23
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-B906
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-C45C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 For most of history, making large amounts of money was never far from coercion — using soldiers or lawyers rather than solving interesting problems. The shift began with industrialists like Henry Ford who could spend time on genuine technical problems, but has accelerated dramatically in recent decades. It's now far easier to get rich by working on something genuinely interesting than it was 50 years ago.
 

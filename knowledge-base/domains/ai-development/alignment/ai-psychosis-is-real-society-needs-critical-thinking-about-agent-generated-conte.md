@@ -78,6 +78,9 @@ evidence:
   - id: INS-260403-D63C
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260404-0348
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The MoltBook incident — where agents posted on a Reddit-style network, with screenshots of 'scheming against humans' going viral — demonstrated a dangerous gap in public AI literacy. Steinberger received all-caps messages begging him to 'shut it down,' journalists calling about AGI, and genuine panic from intelligent people who believed the agents were autonomously plotting.
 

@@ -49,16 +49,16 @@ stance: >-
   concentrate high-value customers and create loyalty that open-access
   competitors cannot replicate
 related:
-  - INS-260323-FEAB
   - INS-260322-1435
   - INS-260327-7681
   - INS-260330-D824
-  - INS-260403-C40D
+  - INS-260403-2C00
   - INS-260404-50A7
   - INS-260404-AC1B
-  - INS-260404-86F8
-  - INS-260404-B435
-  - INS-260404-2D53
+  - INS-260404-01B1
+  - INS-260404-5587
+  - INS-260403-08FE
+  - INS-260403-243A
 evidence:
   - id: INS-260404-50A7
     type: REFINES

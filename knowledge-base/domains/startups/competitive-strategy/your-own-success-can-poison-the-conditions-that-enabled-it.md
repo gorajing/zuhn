@@ -59,14 +59,13 @@ stance: >-
   capabilities that drove early success often become liabilities.
 related:
   - INS-260330-D304
-  - INS-260330-026F
   - INS-260402-70FD
   - INS-260403-CF3E
   - INS-260403-3D7D
   - INS-260404-581C
   - INS-260404-C663
   - INS-260405-02EE
-  - INS-260330-4441
+  - INS-260405-7E85
 evidence:
   - id: INS-260404-C663
     type: SUPPORTS

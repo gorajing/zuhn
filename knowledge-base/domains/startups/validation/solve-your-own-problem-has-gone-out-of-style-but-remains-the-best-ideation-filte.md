@@ -50,14 +50,12 @@ stance: >-
   undervalued because founders chase TAM narratives instead of personal
   conviction.
 related:
-  - INS-260321-6BA7
-  - INS-260329-ABD9
   - INS-260323-64A4
   - INS-260403-78E2
   - INS-260327-165D
-  - INS-260403-76C3
-  - INS-260403-97B4
   - INS-260404-878F
+  - INS-260325-0147
+  - INS-260403-97B4
 evidence:
   - id: INS-260323-64A4
     type: SUPPORTS

@@ -57,6 +57,9 @@ evidence:
   - id: INS-260330-09FF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-0FEC
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The core PE structural trick: borrowed money becomes the acquired company's responsibility, not the PE firm's. Success means PE captures upside. Failure means the company goes bankrupt, employees lose jobs, and PE has already collected management fees.
 

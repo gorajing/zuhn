@@ -51,9 +51,10 @@ resolutions:
 related:
   - PRI-260403-EA13
   - INS-260323-7EEB
-  - INS-260404-023C
   - INS-260330-2F13
   - INS-260323-29ED
+  - PRI-260323-0654
+  - INS-260323-4E12
   - INS-260327-35C7
 stance: >-
   Each major AI leap — next-word prediction learning anything, predictable

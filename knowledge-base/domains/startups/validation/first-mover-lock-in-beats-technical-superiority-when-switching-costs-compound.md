@@ -47,13 +47,13 @@ stance: >-
   technically superior alternatives because the cost of switching grows faster
   than the benefit of upgrading.
 related:
+  - INS-260323-F963
   - INS-260330-2BF4
+  - INS-260403-3946
   - INS-260403-C436
   - INS-260405-8469
-  - INS-260403-3946
   - INS-260404-1000
   - INS-260404-3B9D
-  - INS-260404-A951
 evidence:
   - id: INS-260323-F963
     type: SUPPORTS

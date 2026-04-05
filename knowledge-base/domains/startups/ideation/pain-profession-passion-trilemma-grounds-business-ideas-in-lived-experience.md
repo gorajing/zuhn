@@ -51,10 +51,10 @@ related:
   - INS-260403-C610
   - INS-260329-9513
   - INS-260403-573F
-  - INS-260404-0777
   - INS-260402-EE6E
-  - INS-260329-5891
+  - INS-260323-C4E2
   - INS-260329-723A
+  - INS-260330-1C90
   - INS-260403-7333
 ---
 Hormozi's 3 P's framework argues that almost all successful first businesses originate from one of three sources: a pain you personally overcame (allergies, meal prep for large families), a professional skill you already get paid for (accounting, dietetics, video editing), or a passion you obsessively consume content about. The key insight is that these categories provide built-in advantages: pain gives you empathy and credibility with customers, profession gives you proven competence, and passion gives you the endurance to persist through the hard early months. This framework deliberately excludes pure market analysis as a starting point — Hormozi argues that approach produces 'mercenaries' who optimize for money but lack the emotional connection to customers that sustains a business long-term. The dietitian example is instructive: she earned nearly $1M/year teaching a narrow billing skill to just 5,800 Instagram followers, proving that deep domain expertise from a profession can be more valuable than broad market appeal.

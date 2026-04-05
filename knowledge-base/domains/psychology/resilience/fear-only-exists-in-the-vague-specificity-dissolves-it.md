@@ -49,10 +49,10 @@ stance: >-
   downside in the developed world is almost always survivable and reversible
 related:
   - INS-260329-BFBF
-  - INS-260325-0C4A
   - INS-260330-D7CC
   - INS-260330-E68E
   - PRI-260323-2C5C
+  - INS-260327-9F46
 evidence:
   - id: INS-260325-0C4A
     type: TRANSFERS_TO

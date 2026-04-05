@@ -14,11 +14,8 @@ tags:
   - signaling
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -55,9 +52,9 @@ related:
   - INS-260402-4719
   - INS-260403-F447
   - INS-260403-4337
-  - INS-260404-523C
   - INS-260404-D672
   - INS-260404-AFE6
+  - INS-260405-0B17
 evidence:
   - id: INS-260404-D672
     type: TRANSFERS_TO
@@ -67,6 +64,9 @@ evidence:
     classified_at: '2026-04-05'
   - id: INS-260321-9A03
     type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260322-760A
+    type: CHALLENGES
     classified_at: '2026-04-05'
 ---
 Most investors at demo days lack the technical background and have insufficient time to deeply evaluate what a startup has built. In that information vacuum, the founder's own apparent conviction becomes the dominant signal. This means confidence must be shown through behavior, not stated — saying 'we're passionate' or 'our product is great' gets ignored or triggers bullshit detectors.

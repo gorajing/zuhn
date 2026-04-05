@@ -45,7 +45,6 @@ stance: >-
   Finding one specialist whose skills perfectly complement yours collapses
   multi-year impossible problems into merely difficult ones.
 related:
-  - INS-260330-7DE0
   - INS-260403-7BBD
   - INS-260323-72EB
   - INS-260330-4FC5

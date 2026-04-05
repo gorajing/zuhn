@@ -56,7 +56,8 @@ related:
   - INS-260330-47E0
   - INS-260325-72AE
   - INS-260323-085A
-  - INS-260329-4870
+  - INS-260323-8B90
+  - INS-260330-1FE9
 stance: >-
   Cantor's diagonal argument -- constructing an element that differs from every
   item on a list -- is the same core technique behind Godel's incomplet...

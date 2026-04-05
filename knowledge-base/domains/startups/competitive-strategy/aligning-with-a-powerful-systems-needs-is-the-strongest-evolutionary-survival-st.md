@@ -53,11 +53,11 @@ stance: >-
   Species (and companies) that make themselves useful to dominant systems
   achieve population scale that independent optimization never could.
 related:
-  - INS-260327-FF4D
-  - INS-260330-C418
   - INS-260330-4634
+  - INS-260330-C418
   - INS-260404-8CEE
   - INS-260325-DFA5
+  - INS-260327-2964
   - INS-260330-66EF
 evidence:
   - id: INS-260330-C418

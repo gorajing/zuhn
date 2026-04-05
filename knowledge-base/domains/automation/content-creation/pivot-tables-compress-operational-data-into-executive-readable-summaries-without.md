@@ -52,12 +52,11 @@ stance: >-
   because they transform raw transactional data into aggregated business
   intelligence in seconds
 related:
-  - INS-260329-920D
   - INS-260329-83AA
-  - INS-260329-C955
-  - INS-260322-F46F
   - INS-260329-67CB
-  - INS-260329-8F86
+  - INS-260329-7673
+  - INS-260325-2FC1
+  - INS-260323-C90C
 evidence:
   - id: INS-260329-83AA
     type: TRANSFERS_TO

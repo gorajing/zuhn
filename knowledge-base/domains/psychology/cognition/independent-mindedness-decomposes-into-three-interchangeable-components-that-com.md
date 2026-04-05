@@ -67,5 +67,11 @@ evidence:
   - id: INS-260330-DB4B
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-F5D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-280B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Paul Graham identifies three components of independent-mindedness: fastidiousness about truth (careful calibration of belief strength), resistance to being told what to think (active delight in counterintuitive ideas, not mere contrarianism), and curiosity (the drive that fills the mental space created by the other two). Crucially, these components are interchangeable — sufficient curiosity can push out conventional ideas without needing to actively resist them, while extreme fastidiousness about truth creates knowledge gaps that generate curiosity-like pull. This means there is no single archetype of the independent thinker; some are openly subversive while others are quietly curious, yet both arrive at novel insights through different component strengths.

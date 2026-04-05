@@ -1,6 +1,5 @@
 # Tag: integration
 
-- `INS-260321-801C` Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
 - `INS-260327-AA2C` Belisarius's key innovation was integrating heavy cavalry, mounted archers, and infantry into coordinated tactics that no opponent could counter with any single approach.
 - `INS-260327-70A4` Napoleon seized Spain easily but then faced six years of guerrilla war that drained more French resources than any conventional campaign.
 - `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.

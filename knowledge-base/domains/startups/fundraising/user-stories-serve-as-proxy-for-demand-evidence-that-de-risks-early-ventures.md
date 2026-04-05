@@ -14,11 +14,8 @@ tags:
   - demand-signal
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,12 +48,14 @@ stance: >-
   tool for overcoming investors' primary fear that you've built something nobody
   wants
 related:
+  - INS-260327-B6C7
   - INS-260329-086B
+  - INS-260403-6F52
   - INS-260404-2B4C
   - INS-260403-53AA
   - INS-260404-B887
-  - INS-260404-AC2B
   - INS-260403-035A
+  - INS-260403-7072
 ---
 The biggest fear investors have with early-stage startups is that founders built from a priori theory rather than observed need. Sequoia's Greg McAdoo calls the antidote the 'proxy for demand' — evidence that people are already doing something with inadequate tools, proving latent demand for your solution. Concrete user stories provide this evidence in a memorable, emotionally resonant format.
 

@@ -52,7 +52,6 @@ stance: >-
   becomes its greatest liability when the environment changes, and the more
   dominant the strategy, the harder it is to pivot
 related:
-  - INS-260325-1709
   - INS-260330-3EE4
   - INS-260403-979D
   - INS-260404-0BED
@@ -60,6 +59,10 @@ related:
   - INS-260403-818F
   - INS-260330-DF69
   - INS-260330-A3EB
+evidence:
+  - id: INS-260325-1709
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when atmospheric oxygen was negligible, so distinguishing between CO2 and O2 was unnecessary. But photosynthesis itself filled the atmosphere with oxygen, turning RuBisCo's design assumption into a critical flaw. The enzyme now grabs the wrong molecule roughly half the time — and because every plant on Earth depends on it, the problem is essentially unfixable at scale.
 

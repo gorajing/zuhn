@@ -53,14 +53,11 @@ related:
   - INS-260330-F4C0
   - INS-260405-4423
 evidence:
-  - id: INS-260330-0B55
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+  - id: INS-260330-C745
+    relationship: RELATED
   - id: INS-260330-3E6F
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-808B
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
 ---
 Carolynn Levy states that in the top YC companies (measured by highest valuations), there are zero instances where founders had significantly disproportionate equity splits. This is a stronger claim than 'equal is better' — it's an empirical observation that lopsided splits correlate with failure to reach the top tier. The reasoning is that disproportionate splits signal deeper dysfunction: founders not being honest about expectations, one founder secretly treating the startup as temporary, or overvaluation of the idea versus execution. YC's stance is that execution has greater value than the idea, so giving the 'idea person' outsized equity is a red flag. The practical implication is that if you're negotiating an unequal split, interrogate the underlying assumptions — the conversation you're avoiding is probably more important than the percentage points you're debating.

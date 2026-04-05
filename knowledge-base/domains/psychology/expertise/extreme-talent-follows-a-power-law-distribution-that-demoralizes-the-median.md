@@ -51,5 +51,9 @@ related:
   - INS-260402-70FD
   - INS-260402-C4FF
   - INS-260405-D66B
+evidence:
+  - id: INS-260323-8544
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The 10x developer concept is controversial but maps to observable reality in creative and technical fields—just as Durant or Kasparov operate at a level qualitatively different from competent players, some developers exhibit problem-solving intuition that compounds across every decision in a codebase. The key insight is that this talent distribution is a power law, not a bell curve: the gap between the 99th and 95th percentile is larger than the gap between the 95th and 50th. This has practical implications for team composition—one exceptional developer can outperform a team of five good ones on certain problem types, which means hiring strategy should sometimes optimize for finding rare outliers rather than filling headcount.

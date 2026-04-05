@@ -51,11 +51,12 @@ stance: >-
   The direction of 'down' at any point on Earth is not a clean radial line
   toward the center but an uncombed, constantly shifting vector field.
 related:
+  - INS-260325-D392
   - INS-260330-04F9
   - INS-260330-D3AA
   - INS-260403-5808
-  - INS-260330-BFD0
   - INS-260330-3819
+  - INS-260404-E0FD
 ---
 The intuitive picture of 'down' as pointing straight to Earth's center is wrong. Earth's interior has uneven pockets of dense rock, moving magma, varying water tables, mountains, and seasonal ice — all of which shift the local center of gravitational attraction. Earth's spin adds a centrifugal component that reduces apparent weight by ~0.5% at the equator versus the poles and deflects the direction of down toward the equator. Even the Moon reduces your weight by about one millionth when directly overhead.
 

@@ -56,12 +56,14 @@ stance: >-
   being late with a superior one, because ecosystems build around the
   incumbent's constraints.
 related:
+  - INS-260330-E218
   - INS-260330-6ECA
   - INS-260404-1000
   - INS-260404-D39F
   - INS-260403-262F
   - INS-260404-5DE4
   - INS-260330-4EC0
+  - INS-260403-C4CD
   - INS-260405-C497
 evidence:
   - id: INS-260330-68C8

@@ -61,6 +61,8 @@ related:
   - INS-260329-AAD1
   - INS-260320-9937
   - INS-260403-8448
+  - INS-260405-0F47
+  - INS-260405-FE86
 evidence:
   - id: INS-260329-808C
     type: TRANSFERS_TO

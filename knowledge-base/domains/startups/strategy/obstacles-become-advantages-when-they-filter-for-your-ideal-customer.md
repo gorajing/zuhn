@@ -14,8 +14,8 @@ tags:
   - friction
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -54,11 +54,9 @@ related:
   - INS-260403-C40D
 evidence:
   - id: INS-260403-B8CD
-    type: EXTENDS
-    classified_at: '2026-04-05'
-  - id: INS-260404-BBC5
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-C40D
+    relationship: RELATED
 ---
 The $60-120 membership fee should theoretically make customer acquisition fatally difficult. Instead, it selects for households with ~$100K average income who become loyal, high-spending patrons. Business owners — just one-third of members — generate two-thirds of sales. The confusing warehouse layout forces customers through most aisles, increasing discovery and spend.
 

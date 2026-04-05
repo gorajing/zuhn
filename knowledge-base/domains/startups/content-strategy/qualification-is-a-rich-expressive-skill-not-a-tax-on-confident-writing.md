@@ -48,11 +48,12 @@ stance: >-
   least 50 distinct epistemic signals including scope, certainty,
   falsifiability, and applicability.
 related:
+  - INS-260330-D511
   - INS-260403-280B
-  - INS-260403-EA82
   - PRI-260403-EA13
   - PRI-260324-2C9F
   - INS-260326-DBEF
+  - INS-260326-B10B
 ---
 Most writing advice treats qualifications ('perhaps', 'I think', 'in some cases') as verbal filler that weakens prose. Graham argues the opposite: qualifications are a sophisticated expressive tool with at least 50 distinct functions. They can signal how broadly something applies, how you know it, how confident you are, and even how it could be falsified.
 

@@ -16,8 +16,8 @@ tags:
   - incumbents
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -50,13 +50,14 @@ stance: >-
   evolve their value proposition, not by inherent disadvantage against online
   competitors.
 related:
+  - INS-260325-EF66
   - INS-260327-6058
   - INS-260330-E54B
   - INS-260403-91DB
-  - INS-260404-D0D8
-  - INS-260403-87BE
-  - INS-260403-6CA8
   - INS-260404-8CEE
+  - INS-260404-96E6
+  - INS-260404-3070
+  - INS-260403-D8A2
 ---
 The narrative of an 'Amazon-driven retail apocalypse' oversimplifies what actually happened. Sears tried to do everything poorly, J.C. Penney lost touch with its customers, and Toys-R-Us dismissed the internet. Meanwhile, physical retailers like Ross, Lush, Aldi, Dollar General, and Costco grew during the same period by offering distinctive value propositions that e-commerce couldn't easily replicate.
 

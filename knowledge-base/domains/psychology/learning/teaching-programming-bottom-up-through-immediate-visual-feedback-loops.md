@@ -46,13 +46,11 @@ stance: >-
   visible output, not when they understand theory first
 related:
   - INS-260321-9824
-  - INS-260329-C1E1
   - INS-260329-48FD
   - INS-260329-2349
-  - INS-260329-74E5
-  - INS-260329-32DB
-  - INS-260329-B6A6
   - INS-260330-4D18
+  - INS-260329-2DF2
+  - INS-260330-367B
   - INS-260329-937E
   - INS-260403-7342
 evidence:

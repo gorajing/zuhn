@@ -51,11 +51,12 @@ stance: >-
   leaving a core group whose survival itself is evidence of exceptional
   capability and resolve.
 related:
+  - INS-260326-8189
   - INS-260327-1756
-  - INS-260327-FA38
   - INS-260327-8DAA
   - INS-260325-4C16
   - INS-260327-377A
+  - INS-260327-B038
 ---
 The three-year march from Europe to Jerusalem acted as an extreme filter: disease, starvation, battle, and desertion reduced the crusading army by roughly 90%. The survivors were not a random sample — they were the most physically resilient, the most psychologically committed, and the most battle-hardened. This selection pressure created a force that was small but qualitatively extraordinary.
 

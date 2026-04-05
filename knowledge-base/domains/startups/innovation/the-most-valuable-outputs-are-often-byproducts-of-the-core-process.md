@@ -62,20 +62,15 @@ related:
   - INS-260403-227B
 evidence:
   - id: INS-260403-76EE
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-EFE6
-    type: REFINES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-99CE
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-227B
-    type: REFINES
-    classified_at: '2026-04-05'
-  - id: INS-260403-31AF
-    type: SUPPORTS
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260330-C607
+    relationship: RELATED
 ---
 When Photosystem II splits water to replace a lost electron, it produces hydrogen ions (useful) and oxygen (waste). The video calls oxygen 'the most useful useless byproduct in the history of useless byproducts.' This accident of chemistry enabled the entire animal kingdom.
 

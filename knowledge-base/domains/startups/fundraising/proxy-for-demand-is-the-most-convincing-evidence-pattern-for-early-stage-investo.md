@@ -16,11 +16,8 @@ tags:
   - demand-signals
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -51,11 +48,11 @@ stance: >-
   Showing what people currently do with inadequate tools is more persuasive to
   investors than any market size number or growth projection.
 related:
-  - INS-260403-66D0
-  - INS-260404-A95D
+  - INS-260403-92EB
   - INS-260404-132E
-  - INS-260404-44A4
   - INS-260404-B31C
+  - INS-260404-2B4C
+  - INS-260403-D7DF
 ---
 Sequoia's Greg Mcadoo calls it the 'proxy for demand'—what are people doing right now, using inadequate tools, that proves they need what you're building? This is far more convincing than top-down market sizing (which Paul Graham compares to an aspiring actor citing Tom Hanks's salary). Market size numbers are abstract and unfalsifiable; proxy-for-demand evidence is concrete and verifiable.
 

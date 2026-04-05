@@ -54,7 +54,6 @@ stance: >-
   aspect of reality that is knowable, because understanding requires grasping
   deep theories not memorizing all facts.
 related:
-  - INS-260323-4279
   - INS-260323-089E
   - INS-260327-24D2
   - INS-260330-CC51

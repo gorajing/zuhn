@@ -54,7 +54,11 @@ related:
   - INS-260330-95F3
   - INS-260403-4F1B
   - INS-260330-13B2
-  - INS-260402-B653
+  - INS-260330-DC14
+evidence:
+  - id: INS-260402-B653
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham argues that working democracies and multiple sovereign countries serve as a crucial defense against property definition capture. If a single autocratic government controlled the world, the RIAA and MPAA could simply buy the laws they wanted. But because there are countries that aren't 'copyright colonies' of the US, and because politicians still fear voters in sufficient numbers, there's no single point of attack for those trying to warp law.
 

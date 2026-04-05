@@ -14,8 +14,8 @@ tags:
   - pricing-psychology
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,8 +50,9 @@ related:
   - INS-260404-94BB
   - INS-260404-3156
   - INS-260404-13F1
-  - INS-260404-9505
   - INS-260404-2D53
+  - INS-260403-CE5F
+  - INS-260405-9F38
 ---
 Both Costco and Amazon Prime use sunk-cost psychology — once you've paid, you feel compelled to get your money's worth. But Costco's version is stronger because the fee is mandatory and gatekeeps physical access. With Prime, customers self-select based on rational calculation of whether the fee saves enough money. With Costco, there is no shopping there without paying, so the sunk-cost trigger activates for every member.
 

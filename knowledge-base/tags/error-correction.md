@@ -12,7 +12,5 @@
 - `INS-260327-7DBF` A wrong intuition is better than no intuition—it gives you something to correct rather than building from nothing.
 - `INS-260330-FB5A` Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
-- `INS-260329-E6A1` Errors during learning are features, not bugs — they create the friction that makes correct patterns stick.
-- `INS-260330-0BCC` DNA polymerase proofreads as it copies, catching errors in real-time rather than after the fact — a model for building quality into process rather than inspecting for it later.
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.

@@ -44,10 +44,10 @@ stance: >-
   while the long-term intellectual costs remain invisible until damage is done.
 related:
   - INS-260327-F544
-  - INS-260322-116B
   - INS-260405-56CB
   - INS-260405-874D
   - INS-260330-2691
+  - INS-260329-6CE8
 evidence:
   - id: INS-260329-6CE8
     type: EXTENDS

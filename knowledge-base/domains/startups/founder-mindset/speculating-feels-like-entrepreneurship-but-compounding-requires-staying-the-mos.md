@@ -48,15 +48,15 @@ resolutions:
     shiny object until it expires. Compounding only works if you stay.
 related:
   - INS-260323-B07C
+  - INS-260325-DA83
   - INS-260325-FC0B
   - INS-260325-F0CE
   - INS-260323-C370
+  - INS-260323-D6C7
   - INS-260403-147C
   - PRI-260403-E097
   - PRI-260403-C229
   - INS-260329-1D8D
-  - INS-260327-1B7C
-  - INS-260327-D4D8
 stance: >-
   The Barber & Odean study of 66,000 investors showed the most active traders
   underperformed the market by 7%/year while the least active performed b...

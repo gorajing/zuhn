@@ -60,29 +60,21 @@ related:
   - INS-260404-DBD2
 evidence:
   - id: INS-260323-2C19
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-500E
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-9BA2
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-5C25
-    type: REFINES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-B408
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-1741
-    type: CHALLENGES
-    classified_at: '2026-04-03'
+    relationship: RELATED
   - id: INS-260329-EDA2
-    type: EXTENDS
-    classified_at: '2026-04-03'
-  - id: INS-260329-7C59
-    type: SUPPORTS
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-04FA
+    relationship: RELATED
 ---
 Bootcamps and tutorials teach syntax — loops, variables, functions — which feels like learning to code. But the salary premium in software engineering comes from computer science fundamentals: algorithm design, system architecture, debugging complex interactions, and decomposing ambiguous problems. Syntax is to programming what vocabulary is to writing novels — necessary but nowhere near sufficient.
 

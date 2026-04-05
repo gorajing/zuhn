@@ -57,6 +57,9 @@ evidence:
   - id: INS-260327-FCC4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-4CDA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Traditional consumer debt metrics (credit card balances, loan delinquencies) miss BNPL entirely because these companies aren't required to report. A consumer with maxed credit cards AND multiple BNPL obligations appears less leveraged in official statistics than they actually are.
 

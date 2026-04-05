@@ -40,10 +40,9 @@ stance: >-
   from using it, not the spread between retail price and what you paid
 related:
   - INS-260330-0317
-  - INS-260404-DFE8
   - INS-260330-809A
-  - INS-260330-3E0B
   - INS-260328-23B4
   - INS-260327-5DD2
+  - PRI-260327-942E
 ---
 Paul Graham identifies a pervasive cognitive error: we evaluate acquisitions by the difference between retail price and purchase price rather than by the utility we'll actually derive. A 'perfectly good' item found on trash night costs nothing financially but still carries ownership costs — mental overhead, storage space, and decision fatigue. This reframing is powerful because it collapses the entire category of 'bargain hunting' into a simple question: will I use this constantly? The insight applies beyond physical goods to digital subscriptions, free tools, and even relationships — anything that consumes attention has a carrying cost that must be offset by actual value extracted.

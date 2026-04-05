@@ -52,17 +52,13 @@ related:
   - PRI-260328-D68F
 evidence:
   - id: INS-260330-B28C
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-43EE
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260330-7AB8
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-1F25
+    relationship: RELATED
   - id: INS-260405-945B
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Structural unemployment implies a fundamental mismatch between worker skills and job requirements. In practice, many 'structurally unfilled' positions would fill instantly at appropriate compensation. The distinction between 'can't find qualified workers' and 'can't find qualified workers at the price we want to pay' is economically crucial but routinely ignored.
 

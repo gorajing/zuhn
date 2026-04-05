@@ -62,6 +62,10 @@ related:
   - INS-260325-415A
   - PRI-260328-D292
   - INS-260403-368A
+evidence:
+  - id: INS-260325-415A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The video catalogs a series of irreversible losses: total solar eclipses will become impossible when the Moon drifts far enough away, Niagara Falls will erode to nothing, Saturn's rings will dissipate, Mount Rushmore's faces will weather away. None of these are cyclical — they are one-directional decay processes with no reset mechanism.
 

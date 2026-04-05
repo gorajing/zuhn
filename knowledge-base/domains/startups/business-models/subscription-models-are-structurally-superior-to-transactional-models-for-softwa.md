@@ -56,7 +56,7 @@ related:
   - INS-260330-9137
   - INS-260330-D556
   - INS-260403-E71A
+  - INS-260403-C4DF
   - INS-260403-F62E
-  - INS-260404-6751
 ---
 Adobe's Finance Driven Shift from Transactional to Recurring Revenue is one of the most studied business model transformations in software. By moving from one-time license sales to monthly/annual Creative Cloud subscriptions, Adobe converted a business with unpredictable revenue spikes (tied to major version releases) into one with predictable ARR that compounds as the subscriber base grows. The short-term pain—customers resisted the forced transition—was outweighed by the long-term structural advantage: lower churn risk, higher lifetime value, and the ability to fund continuous product improvement rather than saving features for the next paid version. For any software business still relying on perpetual licenses or one-time fees, this case is the canonical argument for the subscription shift.

@@ -61,38 +61,27 @@ related:
   - INS-260405-AE0D
 evidence:
   - id: INS-260330-30FB
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-2906
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-5670
-    type: EXTENDS
-    classified_at: '2026-04-02'
-  - id: INS-260330-5232
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260330-4B29
+    relationship: RELATED
   - id: INS-260330-4D0E
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-5DFF
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-20FD
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-2C71
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-F671
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260405-C780
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-9428
-    type: EXTENDS
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 Photosynthesis splits into two distinct stages with different functions. Stage 1 (light-dependent reactions) converts photon energy into two portable chemical carriers: ATP and NADPH. Stage 2 (the Calvin Cycle) spends those carriers to fix CO2 into G3P (glyceraldehyde 3-phosphate), a versatile 3-carbon molecule that plants convert into glucose, cellulose, or starch depending on need.
 

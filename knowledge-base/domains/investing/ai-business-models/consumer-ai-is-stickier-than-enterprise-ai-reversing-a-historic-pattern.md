@@ -54,6 +54,7 @@ related:
   - PRI-260328-935B
   - INS-260403-CA1E
   - INS-260327-290C
+  - INS-260329-39E1
   - INS-260330-7BAE
   - INS-260403-E69C
   - INS-260405-69F1
@@ -95,6 +96,12 @@ evidence:
   - id: INS-260403-E69C
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-CA1E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260405-69F1
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Historically, enterprise software was stickier than consumer software. AI reverses this. On the B2B side, developers buy raw model access via API calls that are trivially easy to switch — if a better coding model appears, companies switch immediately. On the consumer side, ChatGPT has become habitual for everyday users (including non-technical users like parents in Kentucky) who will not switch to a slightly better alternative.
 

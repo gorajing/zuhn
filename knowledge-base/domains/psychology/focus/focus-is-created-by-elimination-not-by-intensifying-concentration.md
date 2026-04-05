@@ -53,7 +53,7 @@ related:
   - INS-260330-4E50
   - INS-260330-2304
   - INS-260330-EDDD
-  - INS-260330-8EC6
+  - PRI-260323-57AC
 ---
 Hormozi draws on Jerry Seinfeld's writing process — locking himself in a windowless room with only a notepad and pen, where he doesn't have to write but can't do anything else. Writing (or any deep work) occurs as a default behavior. The implication is that most people fail at focus not because they lack willpower but because they haven't designed their environment to make distraction impossible.
 

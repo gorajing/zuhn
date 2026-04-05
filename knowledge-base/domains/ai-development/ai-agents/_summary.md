@@ -1,9 +1,8 @@
 # Topic: ai-agents
 
-> 39 insights
+> 35 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
-- `INS-260330-EFFC` [high] AI agents' biggest impact is eliminating the friction between having an idea and starting work, not making coding faster.
 - `INS-260325-7FAF` [high] The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
 - `INS-260325-160E` [high] Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260325-5F3B` [high] Andrew Ng: agentic workflows with iteration and tool use outperform single prompts even with weaker models — the agent pattern is the future.
@@ -16,7 +15,6 @@
 - `INS-260330-7E4F` [high] Running multiple AI agents in parallel requires cloud development environments because local machines hit physical limits at 3-4 concurrent worktrees.
 - `INS-260325-2DCD` [high] Coding agents create well but cannot steward codebases — they lack system design judgment.
 - `INS-260330-6D43` [high] Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
-- `INS-260330-86F9` [high] Good developer documentation and tooling make agents succeed at higher rates, creating a virtuous cycle where DX investment pays double dividends.
 - `INS-260323-05B5` [high] AI agents will use existing software tools rather than replace them, just as a humanoid robot would use a microwave rather than beam microwaves from its fingers — Jensen predicted the OpenClaw architecture two years before it existed.
 - `INS-260322-31F8` [high] An eight-layer optimization stack — killing thinking mode, capping context, model routing, session resets, lean initialization, Ollama heartbeat, prompt caching, and sub-agent isolation — can reduce monthly AI spend from $150 to $10.
 - `INS-260322-22B3` [high] An individual's philosophy, experiences, and accumulated wisdom become the essential 'data' that makes AI agents useful — without rich human input to personalize around, even the most powerful agent is an empty shell.
@@ -26,13 +24,11 @@
 - `INS-260323-4B4D` [high] Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
 - `INS-260405-670E` [high] Map your AI product on determinism vs. emotional intelligence before designing it, or you'll optimize for the wrong axis.
 - `INS-260323-48AF` [high] OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI, yet it created a phase shift in AI integration — like iPhone scrolling, the magic was in combining existing components (messaging + CLI + agency) in a way that felt natural and conversational.
-- `INS-260322-E4D8` [high] AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
 - `INS-260330-0F23` [medium] AI agents will need to spend real money on third-party services to complete tasks, creating demand for machine-to-machine payment protocols.
 - `INS-260322-96D1` [medium] AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260405-1282` [medium] The ceiling for AI service replacement is set not by task automation but by whether the agent can handle the disorder, ambiguity, and emotional texture of complex human interactions.
 - `INS-260322-76B5` [medium] A Bali-based cybersecurity consultant now works 30 minutes per day — reviewing agent-completed security tests and reports that previously took one person two weeks per test — while generating ~150M won monthly.
 - `INS-260329-EAFD` [medium] Plan-mode AI that asks clarifying questions before building prevents the cascade of errors that come from premature generation.
-- `INS-260405-2E46` [medium] AI's emotional resonance — not raw capability — is the underpriced moat.
 - `INS-260325-252D` [medium] Context rot in agents stems from poor context management design, not just model limits.
 - `INS-260325-F981` [medium] Month-long agents will need entirely new inference systems — current serving stacks cannot handle persistent execution.
 - `INS-260402-876A` [medium] A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.

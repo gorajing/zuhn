@@ -62,35 +62,29 @@ related:
   - INS-260329-13D2
 evidence:
   - id: INS-260330-795D
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-13D2
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-473D
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260402-D9D0
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260325-1EB3
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-A4E3
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-E6B0
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-FFB5
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-CDE1
-    type: CHALLENGES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-5B0C
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260403-096C
+    relationship: RELATED
+  - id: INS-260403-B505
+    relationship: RELATED
 ---
 Ritholtz exposes the financial media business model: they are not selling information, they are selling your attention to advertisers. This creates perverse incentives: sensational headlines, decontextualized scary numbers, and constant urgency that triggers exactly the evolutionary threat-response biases that destroy investment returns.
 

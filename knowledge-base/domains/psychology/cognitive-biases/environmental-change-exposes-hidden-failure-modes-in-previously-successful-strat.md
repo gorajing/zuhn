@@ -59,7 +59,6 @@ stance: >-
   Strategies that appear robust are often only adapted to current conditions,
   and their failure modes remain invisible until the environment shifts
 related:
-  - INS-260325-1709
   - INS-260330-A3EB
   - INS-260404-581C
   - INS-260404-03E7

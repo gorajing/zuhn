@@ -14,8 +14,8 @@ tags:
   - reframing
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -50,11 +50,12 @@ stance: >-
   constraints that competitors avoid, turning each seeming weakness into a
   structural strength.
 related:
+  - INS-260329-21AF
   - INS-260403-2AE7
-  - INS-260404-2087
   - INS-260404-8B1C
-  - INS-260404-9783
   - INS-260404-8D5F
+  - INS-260404-B24E
+  - INS-260403-524B
   - INS-260405-9EE6
 ---
 Costco's strategy inverts conventional retail wisdom at nearly every point: charge customers to enter (creates loyalty), limit selection (creates leverage), use warehouse aesthetics (cuts costs), and make navigation confusing (increases browsing and basket size). Each 'weakness' reinforces the others—the warehouse format enables the low prices that justify the membership that funds the whole system.

@@ -56,7 +56,7 @@ related:
   - INS-260404-78EB
   - INS-260404-FDEA
   - INS-260327-46F6
-  - INS-260329-9115
+  - INS-260327-C150
 ---
 In photosynthesis, Photosystem II was named after Photosystem I despite operating first in the electron transport chain, and the Calvin Cycle is still called 'dark reactions' despite occurring during daylight. These misnomers persist decades after the confusion was identified because the cost of renaming in textbooks, curricula, and professional discourse exceeds any individual's incentive to fix it.
 

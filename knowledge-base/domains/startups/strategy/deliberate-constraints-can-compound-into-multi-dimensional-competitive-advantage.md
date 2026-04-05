@@ -15,8 +15,8 @@ tags:
   - systems-thinking
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -58,10 +58,10 @@ related:
   - INS-260403-6BD9
   - INS-260403-2AE7
   - INS-260404-007B
-  - INS-260404-445D
-  - INS-260404-2087
-  - INS-260404-9783
   - INS-260404-41AA
+  - INS-260404-FB91
+  - INS-260404-7A5B
+  - INS-260404-8B1C
 ---
 Costco's strategy reveals a pattern where constraints that seem like obstacles actually compound into advantages. The membership fee should make customer acquisition fatally difficult — instead it selects for affluent, loyal patrons and creates sunk-cost commitment. The warehouse layout should confuse shoppers — instead it forces wandering through aisles (increasing basket size) while eliminating back-room costs. Limited selection should drive customers away — instead it creates supplier leverage and reduces decision fatigue.
 

@@ -53,6 +53,19 @@ related:
   - INS-260330-5FED
   - INS-260329-1D08
   - INS-260322-E791
+evidence:
+  - id: INS-260323-42A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-5FED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-1D08
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260322-E791
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The FTX collapse mirrors historical financial disasters like Lehman Brothers and Enron: a centralized entity with insufficient governance, excessive concentration of power, and no meaningful checks and balances. The failure mode—rehypothecation of customer assets, key-man risk, opaque balance sheets—is identical across traditional and crypto finance.
 

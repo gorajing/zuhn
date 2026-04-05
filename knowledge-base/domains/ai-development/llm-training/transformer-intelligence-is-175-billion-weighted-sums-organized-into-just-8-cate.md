@@ -57,16 +57,12 @@ related:
   - INS-260330-FB9C
 evidence:
   - id: INS-260330-E8BD
-    type: REFINES
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260329-65CD
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-FB9C
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
-  - id: INS-260402-F479
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
+  - id: INS-260402-2FDF
+    relationship: RELATED
 ---
 GPT-3's 175 billion parameters sound incomprehensibly complex, but they decompose into only 8 distinct categories of weight matrix repeated across roughly 28,000 instances. Every computation inside the transformer reduces to matrix-vector multiplication — weighted sums with tunable parameters. This is a powerful example of how emergent complexity arises from scale rather than structural diversity. The practical implication for AI practitioners and entrepreneurs is that understanding transformers doesn't require grasping 175 billion individual numbers — it requires understanding 8 types of operation. This same principle applies broadly: many systems that appear complex are actually simple patterns repeated at scale.

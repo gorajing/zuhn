@@ -46,14 +46,13 @@ stance: >-
   energy, whether biological membranes, market inefficiencies, or information
   asymmetries
 related:
-  - INS-260330-EAA3
-  - INS-260403-34B4
+  - INS-260330-FA36
+  - PRI-260403-70D0
+  - PRI-260403-6E50
+  - INS-260403-F249
   - INS-260403-FC01
-  - INS-260404-04EA
-  - INS-260403-050D
-  - INS-260403-EE83
-  - INS-260330-3037
-  - INS-260404-86CF
+  - INS-260403-B6E6
+  - INS-260403-464D
 evidence:
   - id: INS-260330-EAA3
     type: EXTENDS

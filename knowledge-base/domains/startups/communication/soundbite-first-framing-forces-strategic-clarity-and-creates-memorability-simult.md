@@ -16,11 +16,8 @@ tags:
   - memorability
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -54,12 +51,14 @@ stance: >-
   communication tactic and a diagnostic tool—if you can't do it, your plans may
   not be sufficiently focused.
 related:
+  - INS-260320-C65B
+  - INS-260403-B3A4
   - INS-260403-941F
   - INS-260403-F171
   - INS-260403-ED1E
   - INS-260404-24FB
   - INS-260404-3C46
-  - INS-260403-B3A4
+  - INS-260403-FC45
   - INS-260404-2BAD
 ---
 Professional investors hear so many pitches that they blur together. The first survival filter is simply being remembered, and the mechanism is a sticky descriptive phrase launched early in the talk. Viaweb used 'the Microsoft Word of ecommerce'—instantly comprehensible, leveraging existing mental models, and memorable enough to survive a day of back-to-back pitches.

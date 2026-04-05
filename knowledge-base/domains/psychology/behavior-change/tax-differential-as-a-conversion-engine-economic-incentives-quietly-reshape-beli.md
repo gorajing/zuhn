@@ -48,10 +48,10 @@ stance: >-
   behavior-change tool than ideological persuasion or military coercion alone.
 related:
   - INS-260327-0758
-  - INS-260323-DF0F
   - INS-260330-F5D1
   - INS-260330-D0AB
   - INS-260330-F116
+  - INS-260330-B384
 evidence:
   - id: INS-260327-0758
     type: TRANSFERS_TO

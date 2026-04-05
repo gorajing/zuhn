@@ -46,6 +46,7 @@ stance: >-
   founders more likely to abandon ideas prematurely, not less
 related:
   - INS-260323-FAF2
+  - INS-260321-AD95
   - INS-260322-2155
   - INS-260323-E15F
   - INS-260327-165D
@@ -54,7 +55,6 @@ related:
   - INS-260327-6CB7
   - INS-260327-D020
   - INS-260327-A8B6
-  - PRI-260328-04FA
 evidence:
   - id: INS-260323-FAF2
     type: EXTENDS

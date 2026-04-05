@@ -2,7 +2,6 @@
 
 - `INS-260330-0E6E` Programmers should deliberately shift from low-level code writing to natural-language system design as AI code generation improves.
 - `INS-260320-F78E` Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
-- `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
 - `INS-260329-0A55` Programming languages are middlemen between human intent and machine execution, just as prompts are middlemen between human intent and LLM behavior.
 - `INS-260320-D972` Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.
 - `INS-260322-17B3` The game has shifted from crafting clever prompts to context engineering — what tools you give the model, what data it pulls in, and when it pulls the right data.

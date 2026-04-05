@@ -49,14 +49,13 @@ stance: >-
   that becomes increasingly expensive as the system scales, creating a debt that
   may never be repaid
 related:
-  - INS-260329-5ECD
   - INS-260329-D8BC
   - INS-260330-202A
   - INS-260403-532D
   - INS-260404-47F5
-  - INS-260404-EC33
-  - INS-260330-8BF6
   - INS-260404-8256
+  - INS-260404-B6E8
+  - INS-260403-9442
 evidence:
   - id: INS-260329-5ECD
     type: TRANSFERS_TO

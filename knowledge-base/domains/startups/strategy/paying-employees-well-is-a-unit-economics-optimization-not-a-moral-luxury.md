@@ -14,8 +14,8 @@ tags:
   - employee-investment
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -45,12 +45,14 @@ stance: >-
   benefits produces 3x worker productivity, making high compensation a
   profitability driver rather than a cost center.
 related:
+  - INS-260327-D480
   - INS-260329-60CF
+  - INS-260403-3062
   - INS-260404-20AD
   - INS-260403-C125
-  - INS-260403-3062
   - INS-260405-AC40
   - INS-260403-365D
   - INS-260405-C8BC
+  - INS-260405-202B
 ---
 Costco pays its 245,000 workers an average of $21/hour — double the US retail average — plus better health insurance and retirement benefits. The result is employees who are three times more productive than the industry average. This reframes the wages-vs-profits debate entirely: high compensation isn't a margin sacrifice, it's a unit economics optimization. Lower turnover reduces hiring and training costs, experienced workers handle the warehouse model's complexity more efficiently, and better-treated employees provide the customer experience that drives 90% membership renewal. The strategic insight is that in models where customer retention is the primary revenue driver (membership-based), employee quality directly feeds the renewal loop. Companies that view labor purely as a cost to minimize are optimizing the wrong variable — they're saving on inputs while leaking revenue through the output (customer churn).

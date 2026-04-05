@@ -9,7 +9,6 @@
 - `INS-260327-C13D` Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors
 - `INS-260327-5D71` Products marketed as eco-friendly are evaluated based on visual cues (natural colors, kraft paper, leaf imagery) rather 
 - `INS-260327-FFB5` Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
-- `INS-260327-A40E` Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
 - `INS-260327-747B` Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
 - `INS-260327-2EFD` Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds th
 - `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate

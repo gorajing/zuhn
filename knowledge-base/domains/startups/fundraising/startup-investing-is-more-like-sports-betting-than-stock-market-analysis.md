@@ -48,16 +48,16 @@ stance: >-
   value-investing metrics, and the absence of successful value investors in
   startups proves that early-stage capital allocation is an art, not a science.
 related:
-  - INS-260325-039E
   - INS-260323-6351
   - INS-260328-F752
-  - INS-260403-8346
-  - INS-260403-0267
   - PRI-260403-26B9
   - INS-260402-EEDB
-  - INS-260330-EE5E
+  - INS-260403-AEB3
+  - INS-260403-1DB7
+  - INS-260402-8424
   - INS-260403-C681
-  - INS-260403-4423
+  - INS-260403-EE10
+  - INS-260403-4E71
 evidence:
   - id: INS-260326-6B98
     type: SUPPORTS

@@ -53,14 +53,16 @@ stance: >-
   choices produces better survival outcomes than attempting to assess the full
   situation.
 related:
+  - INS-260327-CA05
   - INS-260330-7A80
   - INS-260330-D0B4
   - INS-260403-C4BE
-  - INS-260329-0B76
   - INS-260329-64B8
   - INS-260330-207D
   - INS-260330-A476
+  - INS-260330-50D4
   - INS-260403-97D6
+  - INS-260403-16F2
 evidence:
   - id: INS-260330-A476
     type: CONTRADICTS

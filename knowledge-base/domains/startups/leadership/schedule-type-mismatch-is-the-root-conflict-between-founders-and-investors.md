@@ -45,9 +45,8 @@ stance: >-
   rhythm, forcing makers to absorb the cost of context-switching
 related:
   - INS-260322-EE1B
-  - INS-260327-0C4A
   - INS-260329-4253
-  - INS-260329-24CE
+  - INS-260329-19EE
   - INS-260330-72C2
   - INS-260330-CAD2
   - INS-260330-0E4B
@@ -55,6 +54,9 @@ related:
   - PRI-260328-30C2
 evidence:
   - id: INS-260327-0C4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-CAD2
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
 ---

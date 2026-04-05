@@ -52,16 +52,16 @@ stance: >-
   solutions that build separate systems for each application, because
   generalization amortizes intelligence costs across all deployments.
 related:
-  - INS-260325-DD43
   - INS-260322-7A2F
   - INS-260327-1ACE
   - INS-260403-C381
   - INS-260321-1749
   - INS-260403-F327
+  - INS-260328-91A1
   - INS-260328-02A0
   - INS-260330-38B9
+  - INS-260330-6BAF
   - INS-260330-9FCC
-  - INS-260403-2FC3
 evidence:
   - id: INS-260322-7A2F
     type: TRANSFERS_TO

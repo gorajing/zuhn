@@ -47,11 +47,11 @@ stance: >-
   assessment must be temporarily suspended to pursue opportunities that rational
   analysis would reject.
 related:
-  - INS-260326-291C
   - INS-260403-A60E
   - INS-260405-F5D8
   - INS-260403-D833
   - INS-260403-3A49
+  - INS-260403-B957
 ---
 Richter describes a 'psychological fallacy' where founders must switch off their logical brain because they're working on problems nobody else sees. This isn't recklessness—it's a deliberate cognitive strategy. Rational analysis of novel markets will always conclude 'this won't work' because the evidence doesn't exist yet.
 

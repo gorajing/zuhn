@@ -57,13 +57,12 @@ stance: >-
   in virtually all modern eyeglasses.
 related:
   - INS-260327-E092
-  - INS-260327-1C1B
   - INS-260327-C150
-  - INS-260327-0DFD
   - PRI-260328-B115
   - INS-260330-4A7F
-  - INS-260330-A7CB
   - INS-260330-72D9
+  - INS-260330-A7CB
+  - INS-260330-A256
   - INS-260330-51AE
 evidence:
   - id: INS-260330-51AE

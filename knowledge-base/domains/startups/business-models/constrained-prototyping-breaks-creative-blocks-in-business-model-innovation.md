@@ -45,10 +45,9 @@ stance: >-
   constraints force departure from incremental thinking.
 related:
   - INS-260403-DDDC
-  - INS-260403-6A55
-  - INS-260404-8D69
   - INS-260403-97F5
   - INS-260404-FF0B
   - INS-260404-BD46
+  - INS-260403-0701
 ---
 Most business model innovation efforts produce incremental variations because teams unconsciously anchor on their existing model. Strategyzer's constrained prototyping technique deliberately removes or fixes certain canvas elements — for example, 'design a model with zero direct revenue from customers' or 'assume your primary channel disappears.' This forces genuinely novel combinations rather than safe extrapolations. The technique parallels creative constraint methods in other domains (songwriting with limited chords, design with restricted palettes) where constraints paradoxically expand the solution space by eliminating the gravitational pull of the familiar. It's most valuable when a company suspects disruption is coming but can't envision what the post-disruption model looks like.

@@ -16,8 +16,8 @@ tags:
   - behavioral-economics
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -48,12 +48,13 @@ stance: >-
   the commitment is non-negotiable.
 related:
   - INS-260327-1403
+  - INS-260403-546E
+  - INS-260403-CE5F
   - INS-260403-543E
   - INS-260404-A938
   - INS-260404-B46E
-  - INS-260403-CE5F
   - INS-260404-13F1
-  - INS-260404-9505
+  - INS-260404-2D53
   - INS-260405-9F38
 ---
 Both Amazon Prime and Costco memberships exploit sunk-cost psychology — once you've paid, you rationalize continued use to justify the expense. But Costco's version is structurally stronger because it's mandatory. Amazon Prime users self-sort: each person calculates whether the subscription pays for itself, creating a population that already decided the economics work. Costco's fee is a gate — you literally cannot enter without paying. This eliminates the rational cost-benefit analysis and replaces it with a binary commitment. The result is that customers stop comparing prices entirely and default to Costco, which is a more powerful behavioral lock-in than a loyalty discount. This principle applies broadly: making commitment mandatory rather than optional creates stronger behavioral change because it removes the opt-out calculation.

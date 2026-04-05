@@ -59,35 +59,25 @@ stance: >-
   everything
 evidence:
   - id: INS-260322-54F3
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-FD99
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260327-0B69
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260321-B7CB
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-02A7
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
-  - id: INS-260404-8D69
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260403-DAB4
+    relationship: RELATED
   - id: INS-260403-7E18
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-8326
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-0A17
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260403-1000
-    type: CHALLENGES
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 As recently as 2022-2023, the prevailing belief inside OpenAI was that there would be one model that 'rules them all' — which is why a fine-tuning API seemed unnecessary. This view has completely reversed.
 

@@ -49,9 +49,7 @@ stance: >-
   be disrupted by market maturation
 related:
   - INS-260324-27E2
-  - INS-260323-DA6F
   - INS-260327-A458
-  - INS-260330-AA9D
   - INS-260330-EFFB
   - INS-260330-C0E2
   - INS-260330-DE80

@@ -52,12 +52,11 @@ stance: >-
   making criticism a signal of adoption rather than inadequacy.
 related:
   - INS-260325-CACA
-  - INS-260330-81D3
   - INS-260402-2D95
   - INS-260402-9676
   - INS-260329-EDA2
-  - INS-260329-7C59
   - INS-260403-F100
+  - INS-260405-131B
 evidence:
   - id: INS-260402-2D95
     type: CHALLENGES

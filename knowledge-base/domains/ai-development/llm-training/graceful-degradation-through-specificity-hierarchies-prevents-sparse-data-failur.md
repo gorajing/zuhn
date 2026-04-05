@@ -54,11 +54,11 @@ stance: >-
   accuracy from simultaneously creating coverage gaps.
 related:
   - INS-260320-B210
-  - INS-260323-8D12
   - PRI-260323-7BFA
-  - INS-260327-956D
   - INS-260402-8A7A
-  - INS-260322-F46F
+  - INS-260403-36F4
+  - INS-260325-DFC7
+  - INS-260329-8F98
 evidence:
   - id: INS-260327-956D
     type: TRANSFERS_TO

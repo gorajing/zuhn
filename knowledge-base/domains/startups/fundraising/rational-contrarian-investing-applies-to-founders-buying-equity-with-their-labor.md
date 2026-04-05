@@ -46,6 +46,7 @@ stance: >-
   Founders who start companies during downturns are making the same rational
   contrarian bet that smart investors make when buying assets in bad markets.
 related:
+  - INS-260323-500B
   - INS-260327-33E0
   - INS-260327-C79D
   - INS-260327-E4F1
@@ -60,6 +61,9 @@ evidence:
     classified_at: '2026-04-05'
   - id: INS-260327-C79D
     type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260327-E4F1
+    type: CHALLENGES
     classified_at: '2026-04-05'
 ---
 Graham reframes the founder's decision to start a company as an investment decision: founders are buying equity with their labor. Larry and Sergey became wealthy not primarily because they did billions of dollars of work, but because they were Google's first investors. This framing means the same contrarian logic that tells financial investors to buy in downturns applies to founders.

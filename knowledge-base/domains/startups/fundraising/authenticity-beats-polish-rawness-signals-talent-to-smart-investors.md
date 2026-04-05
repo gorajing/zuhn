@@ -14,11 +14,8 @@ tags:
   - talent-signaling
 sources:
   - type: blog
-    title: >-
-      5 Lessons We Learned Helping the Operations Department of Geneva’s
-      University Hospital handle the COVID-19 Crisis
-    url: >-
-      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+    title: How to Present to Investors
+    url: 'https://paulgraham.com/investors.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
@@ -50,10 +47,10 @@ stance: >-
   conceals the raw talent that smart investors are actually looking for.
 related:
   - INS-260405-371F
-  - INS-260404-92AC
   - INS-260403-DE45
   - INS-260404-F965
   - INS-260403-7586
+  - INS-260403-915E
   - INS-260403-0CA8
   - INS-260404-47AC
 ---

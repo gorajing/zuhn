@@ -45,12 +45,12 @@ resolutions:
     production. The lesson: production capacity is not demand — don't let
     supply-side economics drive distribution strategy.
 related:
-  - INS-260321-52EF
   - INS-260322-D69E
   - INS-260323-5106
   - INS-260404-60F4
   - PRI-260328-82BE
   - INS-260404-96E6
+  - INS-260403-D8A2
 stance: >-
   Krispy Kreme expanded into supermarkets, gas stations, and airports to fill
   production capacity

@@ -53,7 +53,6 @@ stance: >-
   faster than the alternative's advantage grows
 related:
   - INS-260330-E218
-  - INS-260330-56D6
   - INS-260330-3EE4
   - INS-260330-4C3A
   - INS-260330-43CA
@@ -61,6 +60,7 @@ related:
   - INS-260330-EACA
   - INS-260330-11EB
   - INS-260330-6ECA
+  - PRI-260403-C34A
   - INS-260403-F088
 evidence:
   - id: INS-260330-E218

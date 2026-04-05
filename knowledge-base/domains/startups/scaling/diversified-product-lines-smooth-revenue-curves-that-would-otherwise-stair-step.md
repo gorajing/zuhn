@@ -51,10 +51,10 @@ stance: >-
   products' growth phases
 related:
   - INS-260403-EAC6
-  - INS-260324-1275
   - INS-260324-C33C
   - INS-260325-FDF5
   - PRI-260328-0C15
+  - INS-260321-C902
 evidence:
   - id: INS-260325-FDF5
     type: CHALLENGES

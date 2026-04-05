@@ -1,7 +1,6 @@
 # Tag: customer-success
 
 - `INS-260327-3E23` Pace achieves 100% pilot-to-production conversion by deploying forward engineers with former-founder profiles who can ship code into the core codebase while simultaneously closing customer distance.
-- `INS-260330-0E4C` One detractor cancels out ten champions, but customers who experience problems that get resolved often become the most passionate long-term advocates.
 - `INS-260330-072D` One person saying 'don't use them' destroys more growth than ten champions create, so always make it right even when it's expensive.
 - `INS-260327-80A8` A startup success is your customer success — focus on whether they are getting value, not on vanity metrics.
 - `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'

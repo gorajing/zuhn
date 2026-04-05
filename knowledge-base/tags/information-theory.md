@@ -9,7 +9,4 @@
 - `INS-260330-6C09` Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
 - `INS-260330-6A9E` Shadows and geometric intersection points can exceed light speed because they transfer no information — only physical causation is speed-limited.
 - `INS-260330-AFE0` The speed limit of the universe applies to information transfer, not to geometric abstractions like shadows or intersection points.
-- `INS-260403-2204` Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
-- `INS-260404-1263` A narrow, concrete description of your product creates more investor interest than an expansive, vague one.
-- `INS-260404-8258` Specific narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
 - `INS-260323-8897` Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.

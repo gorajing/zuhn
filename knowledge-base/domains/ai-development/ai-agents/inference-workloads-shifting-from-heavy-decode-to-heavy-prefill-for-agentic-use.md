@@ -47,11 +47,11 @@ stance: >-
   fundamentally changing compute optimization from decode-heavy to prefill-heavy
   workloads with higher cache hit requirements.
 related:
+  - INS-260405-3B54
   - INS-260327-991D
   - INS-260325-6150
   - INS-260325-E652
   - INS-260323-B309
-  - INS-260323-8AEC
 ---
 Redis Arc's Bama identified a fundamental shift in inference workload patterns: traditional chat was decode-heavy (generating tokens one at a time in response to short queries), but agentic multi-turn inference is prefill-heavy (processing large context windows of prior conversation, tool outputs, and system prompts before generating relatively shorter responses).
 

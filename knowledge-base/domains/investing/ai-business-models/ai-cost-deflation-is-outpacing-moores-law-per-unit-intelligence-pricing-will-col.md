@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260323-7625
   - INS-260325-B234
+  - INS-260405-6A94
   - PRI-260323-6A93
   - INS-260322-5790
-  - PRI-260328-BEDD
   - INS-260330-5600
   - INS-260330-6DE0
 stance: >-

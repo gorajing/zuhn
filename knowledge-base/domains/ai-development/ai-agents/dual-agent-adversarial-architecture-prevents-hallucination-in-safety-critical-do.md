@@ -42,11 +42,11 @@ stance: >-
   Pairing a generative agent with a validation agent that filters unsafe outputs
   produces advice quality comparable to expert humans in medical contexts
 related:
+  - INS-260405-6A0C
   - INS-260327-4CB3
   - INS-260327-94FE
   - INS-260323-B029
   - INS-260403-4D80
-  - INS-260403-EA93
 evidence:
   - id: INS-260327-94FE
     type: REFINES

@@ -50,11 +50,11 @@ stance: >-
   brightness) reveals proof strategies that pure algebraic manipulation
   obscures.
 related:
-  - INS-260323-9955
   - INS-260329-6727
   - INS-260330-BEDC
   - INS-260330-30E8
   - PRI-260325-EEE9
+  - INS-260325-1519
 evidence:
   - id: INS-260323-9955
     type: SUPPORTS

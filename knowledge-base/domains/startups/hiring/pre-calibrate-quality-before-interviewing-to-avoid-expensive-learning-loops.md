@@ -59,7 +59,7 @@ related:
   - INS-260328-0C87
   - INS-260327-89E4
   - INS-260327-6AB1
-  - INS-260330-478C
+  - INS-260404-087C
 ---
 Ben Silbermann describes a specific tactic: before hiring for any role (especially ones outside your expertise like finance or marketing), find people who are de facto world-class in that discipline and ask them what key traits they look for, what questions they ask, and where the next great person in their field is working right now.
 

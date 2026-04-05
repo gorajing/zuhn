@@ -64,38 +64,27 @@ related:
   - INS-260404-64E2
 evidence:
   - id: INS-260330-85D7
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-F671
-    type: EXTENDS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-4D0E
-    type: SUPPORTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-0017
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-498B
-    type: TRANSFERS_TO
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260404-2A07
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-1A3A
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-CDD2
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
-  - id: INS-260404-64E2
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
+  - id: INS-260404-A08A
+    relationship: RELATED
   - id: INS-260403-D2FD
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
   - id: INS-260404-596E
-    type: TRANSFERS_TO
-    classified_at: '2026-04-05'
+    relationship: RELATED
 ---
 When a photon excites an electron in PSII, that electron holds significant energy. If released all at once, most would dissipate as heat — useless to the organism. Instead, the electron passes through a chain of protein complexes (PSII → cytochrome complex → PSI), losing energy at each step in controlled amounts that drive useful work: pumping protons, generating ATP, producing NADPH.
 

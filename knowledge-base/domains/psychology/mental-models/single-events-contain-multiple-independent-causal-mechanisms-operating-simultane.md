@@ -52,11 +52,9 @@ stance: >-
   higher resolution.
 related:
   - INS-260330-9BC3
-  - INS-260330-7B07
   - INS-260330-1222
   - INS-260330-CAB3
   - INS-260330-12F9
-  - INS-260330-6C17
   - INS-260330-0DF9
   - INS-260330-6FDF
 evidence:

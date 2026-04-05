@@ -47,5 +47,9 @@ related:
   - INS-260403-EFAF
   - INS-260403-3C2C
   - INS-260327-7265
+evidence:
+  - id: INS-260327-7265
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The 'gearhead' archetype reveals a persistent pattern in software culture: technology adoption driven by social proof rather than problem-fit analysis. From Java in 1996 to jQuery in 2006 to GraphQL in 2016, each generation produces developers who adopt whatever sits atop the hype cycle. This matters for engineering leaders because hype-driven adoption introduces unnecessary complexity and churn. The antidote is evaluating technology choices against concrete problem constraints rather than community momentum, recognizing that the social pressure to adopt new tools is a distinct force from the engineering case for them.

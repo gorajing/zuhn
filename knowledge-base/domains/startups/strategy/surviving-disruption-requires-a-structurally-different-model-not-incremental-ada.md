@@ -16,8 +16,8 @@ tags:
   - amazon
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -53,13 +53,11 @@ related:
   - INS-260325-EF66
   - INS-260327-6058
   - INS-260330-570F
-  - INS-260330-2783
   - INS-260403-3155
-  - INS-260403-87BE
   - INS-260403-91DB
-  - INS-260404-D0D8
-  - INS-260403-6CA8
   - INS-260404-8CEE
+  - INS-260405-D6E6
+  - INS-260404-3070
 ---
 The 'Retail Apocalypse' narrative attributes store closures to Amazon, but the real pattern is more specific: the retailers that died (Sears, Toys-R-Us, J.C. Penney, RadioShack) all operated traditional markup-based models where they competed on the same dimensions Amazon dominates—selection, convenience, and price. They were playing the same game, worse.
 

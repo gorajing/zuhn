@@ -49,11 +49,11 @@ stance: >-
   Programming will become a universal basic skill like reading, but most people
   will use it at a 'functional literacy' level rather than expert level.
 related:
-  - INS-260321-7D7C
   - INS-260330-112E
+  - INS-260321-7D7C
   - INS-260330-16B1
-  - INS-260327-2C5F
   - INS-260403-AB5C
+  - INS-260323-3E21
   - INS-260329-BE8E
   - INS-260330-B91E
 evidence:

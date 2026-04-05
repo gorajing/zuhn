@@ -58,17 +58,13 @@ related:
   - INS-260404-BC18
 evidence:
   - id: INS-260327-A9D5
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260330-CC30
-    type: CONTRADICTS
-    classified_at: '2026-04-02'
+    relationship: RELATED
   - id: INS-260402-9D7B
-    type: CHALLENGES
-    classified_at: '2026-04-03'
-  - id: INS-260329-55C4
-    type: TRANSFERS_TO
-    classified_at: '2026-04-03'
+    relationship: RELATED
+  - id: INS-260329-8830
+    relationship: RELATED
 ---
 A single 100 sq ft bed with one crop per year earns about $200. The same bed with four successions earns $800 -- identical land cost, identical soil cost, only the planning changes. The Paris rule: a bed is never empty. The moment one crop comes out, another goes in -- not eventually, but that day.
 

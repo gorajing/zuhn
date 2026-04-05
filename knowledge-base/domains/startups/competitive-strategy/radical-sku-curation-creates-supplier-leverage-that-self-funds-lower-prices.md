@@ -14,8 +14,8 @@ tags:
   - selection-constraint
 sources:
   - type: blog
-    title: How to Do Great Work
-    url: 'https://paulgraham.com/greatwork.html'
+    title: Why Costco is Cheaper than Amazon
+    url: 'https://www.youtube.com/watch?v=S7BycrGnaJA'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
@@ -51,9 +51,8 @@ related:
   - PRI-260323-81E9
   - INS-260402-3DBF
 evidence:
-  - id: INS-260404-8466
-    type: REFINES
-    classified_at: '2026-04-05'
+  - id: INS-260404-6945
+    relationship: RELATED
 ---
 Costco's radical curation—stocking roughly 4,000 items versus a supermarket's 30,000 or Walmart's 140,000—seems like a limitation but functions as a leverage multiplier. When suppliers compete to be the single option in a category across 700+ stores and 94 million members, they'll lower prices and even reengineer products (like redesigning cashew containers to save 24,000 pallets annually).
 

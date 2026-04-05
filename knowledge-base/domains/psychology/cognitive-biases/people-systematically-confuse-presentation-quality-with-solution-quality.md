@@ -47,12 +47,12 @@ stance: >-
   because evaluating substance requires more cognitive effort than evaluating
   appearance
 related:
-  - INS-260327-7193
   - INS-260330-6AC1
   - INS-260330-FE9E
   - INS-260330-E6B7
   - INS-260330-8103
   - PRI-260320-D2E1
+  - INS-260327-89C7
 ---
 Graham identifies a specific cognitive bias: when solutions are delivered informally, people must actually understand them to judge their value, which is more work than evaluating surface-level signals of legitimacy. Complex solutions seem impressive. Thick documents seem serious. Formal presentations seem credible. Simple solutions delivered casually seem like nothing.
 

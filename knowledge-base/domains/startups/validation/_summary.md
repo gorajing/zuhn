@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 161 insights
+> 152 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -8,8 +8,6 @@
 - `INS-260323-4DD9` [high] Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.
 - `INS-260405-DF08` [high] Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - `INS-260330-FFDB` [high] When real users request specific features, the feedback feels overwhelmingly compelling but leads to building the wrong things.
-- `INS-260330-752E` [high] Spend 1-2 months working inside your target industry to surface inefficiencies invisible from the outside.
-- `INS-260330-C215` [high] Spend 1-2 months working inside your target industry to discover exploitable inefficiencies firsthand.
 - `INS-260402-F62B` [high] Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
 - `INS-260329-B0BA` [high] Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
 - `INS-260330-E089` [high] Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
@@ -86,14 +84,12 @@
 - `INS-260404-61DA` [high] Showing what people currently do with bad tools proves demand more convincingly than any market size number.
 - `INS-260403-EA8C` [high] Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
 - `INS-260403-EA2D` [high] Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
-- `INS-260404-A95D` [high] Demonstrating what workarounds people currently use proves demand more convincingly than citing market size numbers.
 - `INS-260403-DC32` [high] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
 - `INS-260404-1773` [high] Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.
 - `INS-260403-7333` [high] Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260403-0803` [high] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260403-D563` [high] RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
-- `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
 - `INS-260403-B32D` [high] Nearly all 40 participating organizations admitted large potential for improvement in scaling Lean Startup testing, with most still relatively inexperienced.
 - `INS-260403-BF09` [high] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260329-78CB` [high] High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
@@ -117,14 +113,9 @@
 - `INS-260329-C893` [high] If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
 - `INS-260330-901B` [high] The silicon sphere (Avogadro) and Watt Balance (Planck's constant) provide independent checks on each other — dual independent approaches beat single-method perfection.
 - `INS-260404-B01F` [high] Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
-- `INS-260403-C2CF` [high] Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.
-- `INS-260403-419B` [high] Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.
 - `INS-260403-7072` [high] Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
 - `INS-260404-3D06` [high] Tell stories about specific users and their problems rather than citing market sizes—investors fear you've built something nobody actually wants.
 - `INS-260404-9A82` [high] Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
-- `INS-260404-9E71` [high] Investors' biggest early-stage fear is that you built something nobody wants — specific user stories and proxy-for-demand signals neutralize this more than market data.
-- `INS-260403-19C0` [high] Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.
-- `INS-260404-3879` [high] Investors' biggest early-stage fear is you built from theory not need—specific user stories and inadequate-tool workarounds are the strongest counter-evidence.
 - `INS-260330-E8C6` [high] Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
 - `INS-260404-D1E2` [high] Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 - `INS-260330-F268` [high] If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.

@@ -46,11 +46,11 @@ resolutions:
     understanding the base architecture deeply (as in Raschka's 'Build an LLM
     from Scratch') gives you transferable knowledge across all frontier models.
 related:
+  - INS-260405-82F3
   - INS-260404-CE26
   - PRI-260328-A82C
   - PRI-260323-8E89
   - INS-260327-5D5F
-  - INS-260322-3616
   - INS-260328-5431
   - INS-260404-83C6
 stance: >-

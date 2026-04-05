@@ -52,11 +52,11 @@ stance: >-
   Successful business models are not designed top-down but emerge iteratively
   through cycles of experimentation, customer feedback, and strategic pivots.
 related:
-  - INS-260404-8E68
-  - INS-260329-5094
   - INS-260322-D6D7
   - INS-260330-5779
-  - INS-260329-0B76
+  - INS-260329-A024
+  - INS-260330-8890
+  - INS-260330-3BBC
 evidence:
   - id: INS-260330-5779
     type: CHALLENGES
