@@ -9,6 +9,7 @@ knowledge-base/db/
 *.log
 docs/anthropic-briefing.*
 docs/t1-translation-product.md
+docs/photobooth-analysis.md
 # Claude Code — entire directory is local-only; templates in .claude.example/
 .claude/
 # Sources — all ingested content is local only, not distributed
