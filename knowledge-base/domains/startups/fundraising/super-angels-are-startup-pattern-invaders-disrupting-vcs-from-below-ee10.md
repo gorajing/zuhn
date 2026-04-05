@@ -53,6 +53,7 @@ related:
   - INS-260403-088E
   - INS-260404-40D1
   - INS-260404-EF52
+  - INS-260405-6DAD
 ---
 As the startup landscape shifts from an obelisk (few startups, most surviving) to a pyramid (many startups, high early failure rate), the fastest-growing volume is at the earliest stages. But Graham observes that existing investors can't easily move to capture this — their risk tolerance is 'deeply imprinted' in procedures and personnel.
 

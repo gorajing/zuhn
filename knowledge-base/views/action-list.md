@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 4015 actionable insights
+Generated on 2026-04-05 | 4032 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1061,6 +1061,8 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260404-E185] Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
 - [INS-260405-9F38] Optional subscriptions self-select for rational evaluators who keep comparing prices; mandatory ones commit everyone equally.
 - [INS-260405-FE57] The tendency to see purpose in random events is the brain's default, not the result of deliberate reasoning.
+- [INS-260405-F1FD] Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
+- [INS-260405-3331] Optimal calibration is a worse strategy than slight overconfidence when you're fighting systematic biases in the opposite direction.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1119,6 +1121,7 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260330-B869] Awareness is the one constant that never changes while everything observed within it fluctuates, making it a uniquely stable psychological anchor.
 - [INS-260330-43C9] Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - [INS-260330-3748] The profound intimacy and vulnerability of psychedelic therapy demands stricter clinical boundaries, not looser ones — including resisting the guru complex of filling in meaning for patients.
+- [INS-260405-E6F5] Observation is itself a mode of disengagement — watching a thought changes the observer's relationship to it, accelerating its passing.
 
 ## psychology/decision-making
 - [INS-260330-FD28] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
@@ -1346,6 +1349,7 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260403-50F1] Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
 - [INS-260404-B7E4] You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
 - [INS-260404-D547] Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
+- [INS-260405-18F3] Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -1365,6 +1369,9 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260329-C66E] Passion is a byproduct of getting good at something, not the prerequisite for starting.
 - [INS-260329-5B3D] Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
 - [INS-260330-D644] Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
+- [INS-260405-020E] Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
+- [INS-260405-DC20] Focus on how fast the work is improving, not where it currently stands.
+- [INS-260405-FAE3] Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 
 ## psychology/group-dynamics
 - [INS-260330-FB9C] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
@@ -1376,6 +1383,10 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260403-FF74] Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
 - [INS-260403-C4E2] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
 - [INS-260403-0525] Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
+
+## psychology/habits
+- [INS-260405-DC8D] Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
+- [INS-260405-7B8D] Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -2541,6 +2552,8 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260404-CF81] Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.
 - [INS-260404-8C42] YC speakers independently and consistently advise the same things: launch fast, listen to users, iterate — suggesting these are empirical truths about startup success.
 - [INS-260404-0427] A startup's .com domain matters more as a strength signal than as a way for users to find the company.
+- [INS-260405-202B] Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
+- [INS-260405-0FC4] RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -3046,6 +3059,7 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260405-12E6] Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.
 - [INS-260405-44F5] Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.
 - [INS-260405-9E25] Investors' deepest fear is that you built something nobody wants — specific user stories and proxies for existing demand directly counter that fear.
+- [INS-260405-180B] A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3386,6 +3400,9 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260405-F99E] Believing you can pick innovation winners leads to concentrated bets on false certainty; portfolio strategy acknowledges uncertainty and prices it correctly.
 - [INS-260405-0A6D] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 
+## startups/investor-relations
+- [INS-260405-F980] Sequoia's 'proxy for demand' — what are people doing with inadequate tools right now? — is worth more than any market size estimate.
+
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
 - [INS-260322-AD9B] It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
@@ -3532,6 +3549,11 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260330-FE65] Every exponential growth curve is actually the early phase of a logistic (S-curve) that must eventually saturate, so the key question is always when and where the inflection point hits.
 - [INS-260402-BA91] Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.
 - [INS-260403-A6AF] A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
+
+## startups/pitch-decks
+- [INS-260405-D514] As pitch descriptions approach 'could be anything,' their information content approaches zero.
+- [INS-260405-E6F9] Investors hear hundreds of pitches — the first filter is whether they remember you, and a single phrase is what makes you memorable.
+- [INS-260405-0B17] When investors lack the context to evaluate your product directly, your own belief in it becomes the dominant signal.
 
 ## startups/platform-dynamics
 - [INS-260403-15DD] When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
@@ -4041,6 +4063,7 @@ Generated on 2026-04-05 | 4015 actionable insights
 - [INS-260404-5587] Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
 - [INS-260405-225B] SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
 - [INS-260405-D8AA] Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
+- [INS-260405-88F9] Costco's ~4,000 SKUs versus Walmart's 140,000 means suppliers fight to be one of two choices, handing Costco extreme pricing power.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

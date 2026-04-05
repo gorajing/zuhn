@@ -50,11 +50,11 @@ stance: >-
   deprioritization, headcount reversals) signal internal confusion that erodes
   trust.
 related:
+  - INS-260405-180B
   - INS-260327-1B7C
   - INS-260329-CCC4
   - INS-260327-EA4E
   - INS-260327-422B
-  - INS-260402-3F92
 evidence:
   - id: INS-260327-422B
     type: EXTENDS

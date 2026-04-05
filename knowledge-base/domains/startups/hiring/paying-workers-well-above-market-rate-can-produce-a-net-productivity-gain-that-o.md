@@ -58,11 +58,11 @@ stance: >-
   rather than a cost center
 related:
   - INS-260327-9924
+  - INS-260405-202B
   - INS-260403-E2D9
   - INS-260404-CEA8
   - INS-260404-95FC
   - INS-260404-C13E
-  - INS-260404-E1FF
 ---
 Costco's 245,000 workers average $21/hour, roughly double the U.S. retail average, plus better health insurance and retirement benefits. The result is employee productivity three times the industry norm. If a competitor pays $10/hour and gets 1 unit of productivity, Costco pays $21/hour and gets 3 units — an effective productivity-adjusted cost of $7/unit versus $10. Higher wages also reduce turnover, which is expensive to measure but well-documented: replacing a retail worker costs roughly 50-200% of annual salary in recruiting, training, and lost productivity.
 

@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 266 insights
+> 271 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -53,6 +53,7 @@
 - `INS-260404-9783` [high] Costco turns membership fees, confusing layouts, and bulk-only sizing into loyalty drivers and competitive moats.
 - `INS-260404-7A5B` [high] Costco turns every seeming disadvantage — fees, sparse selection, warehouse aesthetics — into a structural competitive advantage.
 - `INS-260403-2C00` [high] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
+- `INS-260405-4CDA` [high] The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
 - `INS-260404-B24E` [high] Costco turns every apparent obstacle — membership fees, warehouse layout, limited selection — into compounding advantages across loyalty, cost, and customer experience.
@@ -77,6 +78,7 @@
 - `INS-260330-48F2` [high] RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260330-3E6B` [high] When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
 - `INS-260404-5DE4` [high] RuBisCo is a terrible enzyme that dominates Earth because plants committed to it early and scaled massively rather than optimizing.
+- `INS-260405-B09F` [high] RuBisCo misfires ~50% of the time in today's oxygen-rich atmosphere—but 450 million years of investment make it impossible to switch away.
 - `INS-260405-95AE` [high] RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.
 - `INS-260403-DB22` [high] Most companies have sophisticated tools for execution but primitive tools for innovation and strategy design.
 - `INS-260403-EAE5` [high] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
@@ -117,6 +119,7 @@
 - `INS-260403-215E` [high] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - `INS-260403-21A2` [high] Overpaying customers make it rational to ignore the future until it's too late.
 - `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
+- `INS-260405-BE42` [high] Costco earns 75% of profit from memberships, which structurally forces it to keep prices low or lose renewals.
 - `INS-260405-8884` [high] Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
 - `INS-260403-C0FE` [high] Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 - `INS-260404-A520` [high] Past market dominance creates unrealistic margin expectations and institutional resistance that prevent companies from competing effectively in new paradigms.
@@ -155,6 +158,7 @@
 - `INS-260403-8C56` [high] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
 - `INS-260403-C49F` [high] Property definitions are pragmatic conventions that must evolve with technology, not fixed truths to be defended.
 - `INS-260330-CB2E` [high] Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
+- `INS-260405-88F9` [high] Costco's ~4,000 SKUs versus Walmart's 140,000 means suppliers fight to be one of two choices, handing Costco extreme pricing power.
 - `INS-260405-1AAC` [high] Costco's 4,000-SKU constraint gives it monopoly-like negotiating power with suppliers who desperately want to be one of two choices in a category.
 - `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
@@ -187,6 +191,7 @@
 - `INS-260330-391C` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.
 - `INS-260403-7C67` [high] Startup ecosystems exhibit phase-transition behavior: they either reach critical mass and become self-sustaining or remain negligible.
 - `INS-260330-7B1C` [high] The real strategy stack is financing → distribution → product, not the other way around.
+- `INS-260405-6DAD` [high] Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
 - `INS-260402-CCF4` [high] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260328-6898` [high] Large companies are effectively always remote because the people you work with most closely are never at adjacent desks, but startups adopting the same practice gave up their in-person colocation advantage.
 - `INS-260403-4904` [high] Falling startup costs silently decoupled founders from VCs, but the shift only becomes visible when funding dries up and founders discover they don't actually need it.

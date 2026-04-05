@@ -51,7 +51,6 @@ stance: >-
   addressable market figures.
 related:
   - INS-260325-EE14
-  - INS-260328-9C16
   - INS-260330-0CAD
   - INS-260404-61DA
   - INS-260404-2B4C
@@ -60,6 +59,7 @@ related:
   - INS-260403-7072
   - INS-260403-F8FF
   - INS-260404-09E8
+  - INS-260405-4B31
 ---
 Greg McAdoo of Sequoia calls this 'proxy for demand'—observable behavior that proves people need what you're building. This is fundamentally different from top-down market sizing. A $5B market number is unfalsifiable abstraction; a story about a specific user jury-rigging spreadsheets to solve the problem you address is concrete evidence of pull.
 

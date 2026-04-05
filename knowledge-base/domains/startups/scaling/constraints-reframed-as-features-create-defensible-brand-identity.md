@@ -49,11 +49,11 @@ related:
   - INS-260327-7EFD
   - INS-260403-9681
   - INS-260403-323A
-  - INS-260403-6BD9
   - INS-260403-0435
   - INS-260403-524B
   - INS-260404-2087
   - INS-260404-8B1C
+  - INS-260405-A9B2
   - INS-260404-3C7A
 ---
 Costco's warehouse stores have no back rooms, no decorations, and deliberately confusing layouts. Conventional retail wisdom would call these customer experience failures. Instead, customers interpret the bare-bones environment as proof that Costco prioritizes low prices over appearances, similar to how IKEA's DIY assembly makes customers proud of their furniture.

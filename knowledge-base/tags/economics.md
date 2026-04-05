@@ -11,4 +11,5 @@
 - `INS-260323-F528` Musk argues space-based AI will cost less than terrestrial AI within 2-3 years because space solar is 5x more efficient (no atmosphere, no day/night, no seasons), needs no heavy protective glass, and scales with increasing returns — while terrestrial power hits NIMBY constraints and gets harder over time.
 - `INS-260329-B2BE` Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.
 - `INS-260329-ADCD` Calculus formalizes the business intuition that optimal scale is where the cost of the next unit equals the revenue it generates.
+- `INS-260405-F369` Inequality statistics are systematically biased because safe, unfireable jobs carry real economic value that never enters the measurement.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.

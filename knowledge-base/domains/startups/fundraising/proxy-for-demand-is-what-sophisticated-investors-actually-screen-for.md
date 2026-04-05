@@ -50,8 +50,8 @@ related:
   - INS-260403-8C50
   - INS-260404-5D18
   - INS-260404-06C4
+  - INS-260405-F980
   - INS-260405-E7FB
-  - INS-260403-30D8
 ---
 The biggest investor fear with early startups is that founders built something from a priori theories that nobody actually wants. The antidote is showing proxy for demand: what are people doing right now, with inadequate tools, that proves they need what you're making?
 

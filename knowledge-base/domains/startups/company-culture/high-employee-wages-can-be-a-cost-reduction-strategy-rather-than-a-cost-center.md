@@ -56,10 +56,10 @@ related:
   - INS-260327-9924
   - INS-260330-B306
   - INS-260404-C13E
+  - INS-260405-202B
   - INS-260404-EE20
   - INS-260403-C125
   - INS-260403-3062
-  - INS-260405-D34A
 ---
 The conventional model in retail treats labor as the primary cost lever — minimize hours, minimize wages, minimize benefits. Costco inverts this: average wage of $21/hr (double the US retail average) plus better health insurance and retirement benefits, with reported employee productivity three times higher than retail norms.
 

@@ -56,10 +56,10 @@ stance: >-
 related:
   - INS-260324-CBD3
   - INS-260404-61DA
+  - INS-260405-F980
   - INS-260404-132E
   - INS-260403-66D0
   - INS-260404-2B4C
-  - INS-260403-1949
 ---
 The core investor fear at the early stage is that you've built something based on theory rather than real need. Abstract market statistics do nothing to address this fear — they describe the ceiling of a market that may never materialize for your product.
 

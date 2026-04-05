@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 333 insights
+> 334 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -147,6 +147,7 @@
 - `INS-260404-896B` [high] Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 - `INS-260403-82CC` [high] Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
 - `INS-260404-438C` [high] When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
+- `INS-260405-180B` [high] A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
 - `INS-260404-103B` [high] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260405-4AE1` [high] State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260330-975D` [high] Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.

@@ -9,6 +9,7 @@
 - `INS-260327-74CF` The most dangerous pattern in history is repeating: powerful entities restrict access to transformative technology to maintain their position, whether ancient priests hoarding literacy or modern companies hoarding AI.
 - `INS-260402-E22E` As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260323-1338` Even if we perfectly redistributed wealth, the deeper crisis is that society accords prestige to those who manage symbols and money rather than those who produce real value.
+- `INS-260405-F369` Inequality statistics are systematically biased because safe, unfireable jobs carry real economic value that never enters the measurement.
 - `INS-260402-9F35` Mid-century equality was produced by war and oligopoly, making it a poor baseline for modern policy goals.
 - `INS-260403-4935` If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
 - `INS-260403-214B` Reducing potential rewards proportionally reduces willingness to take the risks inherent in starting companies.

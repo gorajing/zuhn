@@ -58,7 +58,6 @@ related:
   - INS-260404-8A1D
   - INS-260404-E1B0
   - INS-260405-47FD
-  - INS-260405-C8BC
 evidence:
   - id: INS-260404-8A1D
     type: REFINES

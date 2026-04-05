@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260404-64EC
   - INS-260403-FAFA
+  - INS-260405-6DAD
   - INS-260403-B9E6
   - INS-260323-8893
-  - INS-260403-1287
 evidence:
   - id: INS-260330-E414
     type: EXTENDS

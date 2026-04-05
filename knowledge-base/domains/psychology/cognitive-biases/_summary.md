@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 287 insights
+> 289 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -113,6 +113,7 @@
 - `INS-260405-8732` [high] Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.
 - `INS-260403-7E8E` [high] The most effective orthodoxy rules are superficial — easy to follow, yet grant moral superiority, making them attractive to people who lack genuine virtue.
 - `INS-260325-B067` [high] We evolved to over-detect patterns because false positives are survivable but false negatives are fatal, so we see meaning in randomness.
+- `INS-260405-F1FD` [high] Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
 - `INS-260403-AFC4` [high] Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260403-393C` [high] Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.
 - `INS-260323-97A1` [high] Everyone expected a spy to look like James Bond; the actual spy was a goofy, church-going college kid who talked to everyone — our threat models are shaped by fiction, not reality.
@@ -151,6 +152,7 @@
 - `INS-260330-DFC8` [high] The 90-second silence after Chelyabinsk's flash drew people to windows, causing 1500 injuries from the subsequent shockwave — the delay created a false sense of safety.
 - `INS-260403-4A9E` [high] PR firms feed identical stories to multiple outlets simultaneously, causing readers to mistake coordinated placement for an organic trend.
 - `INS-260330-E0ED` [high] Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
+- `INS-260405-3331` [high] Optimal calibration is a worse strategy than slight overconfidence when you're fighting systematic biases in the opposite direction.
 - `INS-260403-B6D9` [high] When a concept changes slower than a human lifetime, people treat it as a fixed truth rather than an evolving convention.
 - `INS-260405-370B` [high] People tell pollsters what they're supposed to believe, not what they actually believe, whenever the two diverge.
 - `INS-260330-990F` [high] Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.

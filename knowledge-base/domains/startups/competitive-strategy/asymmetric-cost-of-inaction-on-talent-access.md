@@ -47,7 +47,6 @@ stance: >-
 related:
   - INS-260322-7E86
   - INS-260321-FE91
-  - INS-260322-7723
   - INS-260327-575D
   - INS-260330-F125
   - INS-260402-2632
@@ -55,6 +54,7 @@ related:
   - INS-260403-B08E
   - INS-260404-EBB3
   - INS-260404-37F7
+  - INS-260404-5017
 ---
 Graham frames the immigration debate as a massively asymmetric risk: the cost of opening talent pipelines is trivially small (administrative and political), while the cost of keeping them closed could be losing technological superpower status entirely. This is a classic asymmetric bet where the downside of action is negligible but the downside of inaction is catastrophic.
 

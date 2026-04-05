@@ -47,7 +47,7 @@ stance: >-
   doesn't exist, because volume and availability compound while quality
   improvements can be layered on incrementally
 related:
-  - INS-260330-EB1B
+  - INS-260405-0FC4
   - INS-260404-26AE
   - INS-260404-1FCE
   - INS-260403-F68A

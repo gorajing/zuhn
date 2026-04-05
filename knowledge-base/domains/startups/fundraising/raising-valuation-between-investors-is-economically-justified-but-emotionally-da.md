@@ -52,6 +52,7 @@ related:
   - INS-260404-2250
   - PRI-260403-26B9
   - INS-260403-47B7
+  - INS-260405-6DAD
 ---
 Once a startup has raised initial money, it is literally more valuable — same company plus cash in the bank, plus reduced risk of failure. This economically justifies a higher valuation for subsequent investors. However, Graham warns that investors react emotionally to price increases, sometimes to the point of acting against their own interests.
 

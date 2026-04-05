@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 225 insights
+> 228 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -191,6 +191,7 @@
 - `INS-260329-3E28` [high] Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260329-EECD` [high] Massive volume of attempts eliminates the need for luck because rejection costs nothing and one success changes everything.
 - `INS-260329-3FF3` [high] Doing something enough times guarantees outcomes that individual attempts leave to chance.
+- `INS-260405-0FC4` [high] RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.
 - `INS-260329-5818` [high] In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
 - `INS-260323-71B3` [high] GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
 - `INS-260327-BE1F` [high] Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.
@@ -208,12 +209,14 @@
 - `INS-260403-4328` [medium] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
+- `INS-260405-A9B2` [medium] Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.
 - `INS-260403-C4BE` [medium] Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
 - `INS-260405-A103` [medium] The Calvin Cycle produces 6 G3P molecules per turn but must use 5 of them to regenerate the starting molecules — only 1 net output escapes per cycle, meaning 83% of output is structural overhead.
 - `INS-260403-7BBD` [medium] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260330-498B` [medium] Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.
 - `INS-260329-1F3F` [medium] Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260329-50BD` [medium] The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
+- `INS-260405-202B` [medium] Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
 - `INS-260403-0A1C` [medium] Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
 - `INS-260329-461A` [medium] CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
 - `INS-260329-1F4D` [medium] Block your first 8 hours for uninterrupted work until you have enough team leverage that directing others outproduces your own output.

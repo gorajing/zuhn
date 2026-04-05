@@ -1,12 +1,13 @@
 # Topic: system-design
 
-> 9 insights
+> 10 insights
 
 - `INS-260404-9C57` [high] Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
 - `INS-260404-DDB5` [high] Photosynthesis converts light energy through a four-complex electron transport chain rather than directly, because intermediary steps allow controlled energy capture at each stage.
 - `INS-260404-64E2` [high] Photosynthesis splits energy capture into four protein complexes because stepwise degradation is more controllable than single-step conversion.
 - `INS-260404-B1BC` [high] Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
 - `INS-260404-596E` [high] The electron transport chain converts photon energy into usable ATP through a series of progressively lower-energy steps rather than one big reaction.
+- `INS-260405-8E85` [medium] Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260404-F7C5` [medium] Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
 - `INS-260405-C497` [medium] RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
 - `INS-260404-0214` [medium] Photosynthesis converts sunlight to glucose through a long chain of intermediate carriers because each step produces independently useful energy currencies like ATP and NADPH.

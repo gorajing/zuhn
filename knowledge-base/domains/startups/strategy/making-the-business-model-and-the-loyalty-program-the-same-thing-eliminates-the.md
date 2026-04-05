@@ -52,13 +52,13 @@ stance: >-
 related:
   - INS-260327-7435
   - INS-260329-72A5
-  - INS-260403-1208
   - INS-260403-3864
   - INS-260404-8365
   - INS-260404-9EDC
   - INS-260404-60D6
+  - INS-260405-BE42
+  - INS-260403-1208
   - INS-260403-BF47
-  - INS-260403-CDB9
 ---
 Most businesses create a loyalty program layered on top of a profit-extraction model, but the two are in tension: the company wants higher margins, the customer wants lower prices. Costco dissolves this tension by making membership the business. Since renewals are the primary revenue source, every price increase is self-defeating — it might generate a few cents today but costs $60 or $120 next year in lost renewals.
 

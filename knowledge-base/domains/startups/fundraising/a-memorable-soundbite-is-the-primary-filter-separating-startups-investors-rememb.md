@@ -61,6 +61,7 @@ related:
   - INS-260404-B87E
   - INS-260403-BDBE
   - INS-260403-F171
+  - INS-260405-E6F9
 ---
 Professional investors hear so many pitches that they blur together. The first competitive threshold isn't getting a term sheet — it's being one of the startups an investor remembers after the event. A well-crafted descriptive phrase ('the Microsoft Word of ecommerce' was Viaweb's) plants an anchor in memory that other details can attach to.
 

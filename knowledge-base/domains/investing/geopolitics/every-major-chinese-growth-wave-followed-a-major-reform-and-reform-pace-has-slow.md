@@ -57,6 +57,7 @@ related:
   - INS-260325-7FE6
   - INS-260323-5A96
   - INS-260330-C477
+  - INS-260405-DC20
 stance: >-
   China's growth has historically been reform-driven: every major reform
   produced a decade of strong growth, and the current slowdown correlates

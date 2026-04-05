@@ -57,6 +57,7 @@ related:
   - INS-260404-266F
   - PRI-260328-82A2
   - INS-260404-74F4
+  - INS-260405-339F
 ---
 Dave Gray's Culture Map framework recommends starting with behaviors rather than outcomes because behaviors are what people experience daily — they're what gets discussed at lunch or after work. By asking 'What does a great day look like?' and 'What does a bad day look like?', facilitators surface concrete patterns rather than abstract aspirations.
 

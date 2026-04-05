@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 174 insights
+> 175 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -154,6 +154,7 @@
 - `INS-260329-1B2A` [medium] Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
 - `INS-260403-6CE8` [medium] We'll increasingly be defined by what we say no to, as the default environment becomes saturated with compelling distractions.
 - `INS-260322-71E4` [medium] Your total capacity to focus resets each day; every input (email, podcast, notification) you let in takes permanent space until the next reset — so guard it aggressively.
+- `INS-260405-18F3` [medium] Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
 - `INS-260325-8EED` [medium] The Dutch practice of niksen — three minutes of staring out a window or watching trees — resets cognitive overload more effectively than pushing through fatigue.
 - `INS-260325-809A` [medium] Three minutes of deliberately doing nothing resets cognitive overload better than any productivity technique.
 - `INS-260327-8C58` [medium] Many of the best things in life happened because you weren't planning for them - rigid planning eliminates the serendipity that produces the most meaningful outcomes.

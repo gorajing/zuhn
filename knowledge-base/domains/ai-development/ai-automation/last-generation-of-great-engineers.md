@@ -19,11 +19,11 @@ sources:
     author: Max Brodeur-Urbas (EO podcast)
     url: 'https://youtu.be/CxFQykWiJqY'
 related:
+  - INS-260405-FAE3
   - INS-260403-7FFA
   - INS-260404-DBD2
   - INS-260325-854D
   - INS-260403-EFAF
-  - INS-260321-80A9
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0

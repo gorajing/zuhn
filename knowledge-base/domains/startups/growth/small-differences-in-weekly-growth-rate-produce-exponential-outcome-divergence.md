@@ -45,7 +45,6 @@ stance: >-
   week-to-week — compounds into a 7x difference in annual outcomes, making
   growth rate the highest-leverage variable in startup success.
 related:
-  - INS-260327-40E3
   - INS-260327-969D
   - INS-260327-725F
   - INS-260327-EF98
@@ -55,6 +54,7 @@ related:
   - INS-260330-CB30
   - INS-260404-9BC6
   - PRI-260328-C918
+  - INS-260403-7708
 evidence:
   - id: INS-260327-40E3
     type: CHALLENGES

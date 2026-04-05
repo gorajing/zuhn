@@ -54,6 +54,7 @@ related:
   - INS-260403-DAB4
   - INS-260404-16E1
   - INS-260403-A172
+  - INS-260405-180B
 ---
 A top VC told YC founders he invested in a company whose business model was wrong, expecting it to change three times before they got it right. If experienced founders with millions in funding still have a wrong business model, yours is probably wrong too.
 

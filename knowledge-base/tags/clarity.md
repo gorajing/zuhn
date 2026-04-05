@@ -22,3 +22,4 @@
 - `INS-260403-F981` As a startup description approaches capturing everything it could become, its informational content approaches zero.
 - `INS-260404-0BB0` As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
+- `INS-260405-D514` As pitch descriptions approach 'could be anything,' their information content approaches zero.

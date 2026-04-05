@@ -47,10 +47,10 @@ stance: >-
   that blur together
 related:
   - INS-260404-C0E6
+  - INS-260405-E6F9
   - INS-260403-2FE1
   - INS-260404-D242
   - INS-260403-BDBE
   - INS-260404-EDED
-  - INS-260403-2A1D
 ---
 Professional investors face a serial exposure problem: pitches blur together after enough repetitions. The first filter is simply being remembered at all. Graham's mechanism is the reference-point anchor: a phrase of the form 'the X of Y' (Viaweb was 'the Microsoft Word of ecommerce') that wires your startup to something the investor already has a crisp mental model of. This is a cognitive shortcut that makes retrieval easy — the investor doesn't need to reconstruct your pitch from scratch when discussing investments later. A secondary benefit: if you can't construct the phrase, your product may lack sufficient focus. The phrase functions as a diagnostic tool for strategic clarity, not just a marketing tactic.

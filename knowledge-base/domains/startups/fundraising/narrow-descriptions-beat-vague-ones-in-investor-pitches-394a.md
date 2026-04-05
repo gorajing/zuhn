@@ -53,8 +53,8 @@ related:
   - INS-260403-91F9
   - INS-260404-1263
   - INS-260404-873C
+  - INS-260405-0B17
   - INS-260405-44F5
-  - INS-260403-507E
 ---
 Founders resist narrow descriptions because early-stage products have many possible futures. But as a description broadens toward 'could be anything,' its information content approaches zero. Investors hear phrases like 'collaboratively leverage the value of information' as meaningless boilerplate and mentally discard them.
 

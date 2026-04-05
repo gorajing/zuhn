@@ -52,6 +52,7 @@ related:
   - PRI-260328-0993
   - PRI-260328-5E58
   - INS-260329-F443
+  - INS-260405-4CDA
 ---
 A 'zombie company' survives not through operational profitability but through ability to refinance debt at favorable rates. During extended low-interest periods, these companies appear healthy because they can service their debt. When rates rise, they all face refinancing crises simultaneously.
 

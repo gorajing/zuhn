@@ -17,3 +17,4 @@
 - `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - `INS-260322-3CFB` Optimizing for stewardship (what you do and serve) rather than status (titles and positions) produces both deeper fulfillment and better career outcomes.
 - `INS-260328-0C87` In SaaS sales interviews, demonstrating genuine passion for the technology and industry matters more than reciting sales frameworks.
+- `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.

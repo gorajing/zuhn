@@ -48,7 +48,6 @@ stance: >-
   accrues to adequate solutions that ship early
 related:
   - INS-260320-20F2
-  - INS-260327-BA97
   - INS-260330-09DE
   - INS-260330-8D99
   - INS-260330-9A60
@@ -57,6 +56,7 @@ related:
   - INS-260403-BA93
   - INS-260404-9213
   - INS-260404-1A18
+  - INS-260405-BEA7
 evidence:
   - id: INS-260404-9213
     type: TRANSFERS_TO

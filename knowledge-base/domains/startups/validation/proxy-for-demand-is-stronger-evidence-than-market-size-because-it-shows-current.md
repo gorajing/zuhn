@@ -57,8 +57,8 @@ related:
   - INS-260403-66D0
   - INS-260404-132E
   - INS-260404-B31C
+  - INS-260405-F980
   - INS-260405-4B31
-  - INS-260403-EA2D
 ---
 Graham cites Sequoia's Greg McAdoo on 'proxy for demand' — what are people doing right now, using inadequate tools, that shows they need what you're making? This is fundamentally about revealed preference versus stated preference. Market size numbers are projections about what people might do; proxy for demand shows what they're already doing despite friction.
 

@@ -52,7 +52,6 @@ stance: >-
   competitors avoid, transforming friction points into features that self-select
   for ideal customers.
 related:
-  - INS-260403-323A
   - INS-260404-FB91
   - INS-260404-B24E
   - INS-260404-8D5F

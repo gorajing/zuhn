@@ -50,9 +50,9 @@ stance: >-
   efficiency gains.
 related:
   - INS-260328-FFC3
+  - INS-260405-FAE3
   - INS-260403-EFAF
   - INS-260330-63BA
   - INS-260325-FADB
-  - PRI-260403-26B9
 ---
 Dalton describes a common founder pitch: 'Our product replaces 5 engineers costing $1M, so the company should pay us $100K and save $900K.' In a vacuum, this is rational first-principles reasoning. In practice, it almost never works. Enterprise buyers are willing to spend on products that help them grow revenue but are surprisingly uninterested in cost-cutting software — especially when the savings are hard to measure. The reason is structural: public markets reward companies for trying to become 10x bigger, not for cutting costs. Even the attempt to grow gets rewarded with higher stock prices. Michael did not understand this until he served on a public company board. The implication: build products that help customers make more money, not products that help them spend less.

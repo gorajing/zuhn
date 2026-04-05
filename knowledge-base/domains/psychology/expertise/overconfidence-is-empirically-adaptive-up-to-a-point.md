@@ -50,9 +50,9 @@ related:
   - INS-260327-3A15
   - INS-260330-A484
   - INS-260330-43EE
+  - INS-260405-3331
   - PRI-260327-5635
   - INS-260325-E84D
-  - INS-260330-5EAC
 ---
 Graham observes that fierce nerds tend to be overconfident, especially when young, and that this is empirically advantageous rather than a liability. The mechanism is self-fulfilling prophecy: believing you can solve a problem makes you more likely to attempt it and persist through difficulty. Crick and Watson worked on problems they 'only half understood' and were called 'clowns' by insiders, yet their willingness to engage with problems beyond their proven competence led to one of the greatest scientific discoveries.
 

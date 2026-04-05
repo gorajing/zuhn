@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260325-9AD4
   - INS-260330-A954
+  - INS-260405-0B17
   - INS-260403-C496
   - INS-260404-DA2E
   - INS-260404-10FF
   - INS-260405-092A
-  - INS-260404-AFE6
 ---
 Founders resist sharp early descriptions because their vision feels larger than any single label. But approaching a description that 'could be anything' makes the content approach zero — investors discard vague phrases as boilerplate and wait with mounting impatience for the real explanation. PG's advice is to treat it like incremental development: start with a narrow, gripping description and expand from there, just as you start with a working prototype and add features. The goal at this stage is not to convey the full vision but to convince the investor you're worth a follow-up conversation. A description that is 'misleadingly narrow' still works better than one that is vacuously broad.

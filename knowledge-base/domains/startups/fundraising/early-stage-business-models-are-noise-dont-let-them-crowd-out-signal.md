@@ -48,9 +48,9 @@ related:
   - INS-260327-99CE
   - INS-260403-F590
   - INS-260403-DAB4
+  - INS-260405-180B
   - INS-260403-A709
   - INS-260404-0777
   - INS-260404-8D69
-  - INS-260404-A375
 ---
 PG cites a top VC who invested in a company knowing their business model was wrong — because the problem and early traction were compelling enough. Experienced investors understand that business models at the seed stage are guesses in an area outside most founders' expertise. The risk of overinvesting pitch time in the model is asymmetric: if it sounds plausible, you've wasted minutes on something investors discounted anyway; if it sounds wrong, it becomes the thing they remember, crowding out everything else. The stronger move is to spend those minutes on what you actually know well — the problem, the insight, and what you've built so far.

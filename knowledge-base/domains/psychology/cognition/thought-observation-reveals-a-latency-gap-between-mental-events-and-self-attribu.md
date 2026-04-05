@@ -54,7 +54,7 @@ related:
   - INS-260330-CFAD
   - INS-260330-3C2F
   - INS-260330-BCC7
-  - PRI-260328-902C
+  - INS-260405-E6F5
 evidence:
   - id: INS-260330-B360
     type: EXTENDS

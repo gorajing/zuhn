@@ -5,9 +5,11 @@
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260330-9743` The consciousness aware of sadness is not itself sad — awareness functions like an unblemished mirror.
 - `INS-260330-BE4D` Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
+- `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260330-EBF7` Meditation skills like dropping subject-object duality help navigate psychedelic peaks, though peak intensity renders all techniques temporarily inaccessible.
 - `INS-260330-E107` People who think meditation requires political passivity have confused an anodyne communication style with the actual goal of contemplative practice.
+- `INS-260405-E6F5` Observation is itself a mode of disengagement — watching a thought changes the observer's relationship to it, accelerating its passing.
 - `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
 - `INS-260330-BCC7` Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.
 - `INS-260330-363D` Feeling like the thinker of your thoughts is simply the experience of thinking without noticing thought as it arises.
@@ -22,4 +24,6 @@
 - `INS-260330-7AE9` Expert meditators don't hold perfect focus — they recover from distraction faster, making each mind-wandering episode a training rep rather than a failure.
 - `INS-260323-8266` Working out hard enough that you cannot simultaneously worry is a form of active meditation that forces a high-vibrational present state.
 - `INS-260330-95A5` Choose the meditation type (internal vs. external focus) that opposes your current default state to maximize brain circuit change.
+- `INS-260405-18F3` Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
+- `INS-260405-DC8D` Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
 - `INS-260330-FE21` Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.

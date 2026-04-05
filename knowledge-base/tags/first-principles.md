@@ -54,8 +54,8 @@
 - `INS-260327-24D2` Parker Conrad argues CEOs must develop firsthand understanding of every area rather than delegating to domain experts and trusting them to figure it out.
 - `INS-260322-3CFB` Optimizing for stewardship (what you do and serve) rather than status (titles and positions) produces both deeper fulfillment and better career outcomes.
 - `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
+- `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
 - `INS-260323-7DAE` Boston Dynamics' breakthrough approach was reducing complex locomotion to a bouncing pogo stick — solve the simplified version first, then extrapolate.
 - `INS-260330-8F0F` Vuitton's breakthrough was replacing dome-top leather trunks with flat-top canvas ones that could stack — a logistics fix, not an aesthetic one.
-- `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
 - `INS-260403-7219` The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
 - `INS-260323-9BC8` Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.

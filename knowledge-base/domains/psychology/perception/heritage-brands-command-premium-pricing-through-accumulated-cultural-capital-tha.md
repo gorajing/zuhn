@@ -40,11 +40,11 @@ stance: >-
   social proof, family tradition, and aspirational association that cannot be
   replicated by functionally equivalent newcomers.
 related:
+  - INS-260405-339F
   - INS-260330-93F3
   - INS-260330-2339
   - INS-260403-FCD7
   - INS-260330-175F
-  - INS-260403-F8B5
 evidence:
   - id: INS-260330-2339
     type: CHALLENGES

@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 96 insights
+> 98 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -60,6 +60,7 @@
 - `INS-260330-EEAE` [medium] Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation.
 - `INS-260325-6BDE` [medium] Felt experience (seeing green, feeling warmth) can exist without complex thought, and treating them as the same thing confuses the study of both.
 - `INS-260323-CA1F` [medium] In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
+- `INS-260405-B8BE` [medium] Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260327-AEFA` [medium] Some mysteries aren't problems to solve but sources of wonder that analysis would destroy rather than enhance.
 - `INS-260323-1D46` [medium] Donald Hoffman's interface theory argues that organisms evolved to perceive fitness-relevant simplifications, not objective reality — truth is expensive, useful illusion is efficient.
 - `INS-260327-D212` [medium] Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
@@ -72,6 +73,7 @@
 - `INS-260330-AB5D` [medium] Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260330-EBF7` [medium] Meditation skills like dropping subject-object duality help navigate psychedelic peaks, though peak intensity renders all techniques temporarily inaccessible.
 - `INS-260330-12DC` [medium] Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
+- `INS-260405-E6F5` [medium] Observation is itself a mode of disengagement — watching a thought changes the observer's relationship to it, accelerating its passing.
 - `INS-260325-E17F` [medium] Seth sees panpsychism as motivated by premature skepticism about physicalist explanations — it says consciousness is fundamental to avoid explaining how it arises, but this explanatory retreat is unproductive for science.
 - `INS-260330-BCC7` [medium] Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.
 - `INS-260330-3888` [medium] Multi-week solo expeditions in the Amazon taught Rosolie that even the most independent people have been surrounded by others every day of their lives, and that true isolation fundamentally recalibrates appreciation for human connection.

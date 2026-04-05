@@ -32,3 +32,4 @@
 - `INS-260403-8013` As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.
 - `INS-260404-1263` A narrow, concrete description of your product creates more investor interest than an expansive, vague one.
 - `INS-260404-0BB0` As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.
+- `INS-260405-D514` As pitch descriptions approach 'could be anything,' their information content approaches zero.

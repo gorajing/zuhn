@@ -55,6 +55,6 @@ related:
   - INS-260403-0907
   - INS-260403-ABB7
   - INS-260403-A6B1
-  - INS-260403-C55B
+  - INS-260403-0218
 ---
 Graham identifies writing ability as one of the most surprising ingredients in having new ideas. The key insight is that writing is not merely transcription of pre-formed thoughts — there is a class of thinking that happens only through the act of writing. If you are clumsy at writing or don't enjoy it, entire categories of ideas become inaccessible to you. This reframes writing from a communication skill to a cognitive tool. The practical implication is that improving writing ability directly expands your capacity for original thought, not just your ability to express existing thoughts. This is demonstrated by the essay itself, which started as a piece about writing but transformed into something more important through the writing process.

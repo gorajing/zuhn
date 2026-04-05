@@ -276,6 +276,7 @@ Generated on 2026-04-05 | 2421 sources
 | A product manager’s guide to web3 | blog | 5 | 2026-03-31 |
 | A Project of One's Own | blog | 5 | 2026-03-31 |
 | A Scientific Approach to VC | blog | 5 | 2026-03-31 |
+| A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 5 | 2026-03-31 |
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
 | A Three-Step Framework For Solving Problems 👌 | blog | 5 | 2026-03-31 |
 | A Version 1.0 | blog | 5 | 2026-03-31 |
@@ -335,6 +336,7 @@ Generated on 2026-04-05 | 2421 sources
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
 | Dario Amodei Says AGI Is 1-3 Years Away: Full Breakdown | blog | 5 | 2026-03-30 |
+| Deep Dive: How China Built Its Industrial Power | blog | 5 | 2026-03-30 |
 | Deep Dive on Humanoid Robots: The Case for a World Running Out of Workers | blog | 5 | 2026-03-30 |
 | Deep Dive on Neuralink: Controlling Computers With Your Mind | blog | 5 | 2026-03-30 |
 | Deep Dives | blog | 5 | 2026-03-30 |
@@ -344,6 +346,7 @@ Generated on 2026-04-05 | 2421 sources
 | Disconnecting Distraction | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
 | Does anyone know why we're still doing tariffs? | blog | 5 | 2026-03-30 |
+| Early Work | blog | 5 | 2026-03-31 |
 | Earnestness | blog | 5 | 2026-03-31 |
 | Economic Inequality | blog | 5 | 2026-03-31 |
 | Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor Should Understand in 2026 | blog | 5 | 2026-03-30 |
@@ -360,6 +363,7 @@ Generated on 2026-04-05 | 2421 sources
 | Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology and Comfort Are Rewiring a Generation | blog | 5 | 2026-03-30 |
 | Global AI Adoption📊, SaaS Multiples Compress📉, How People Use ChatGPT💬 | blog | 5 | 2026-03-30 |
 | Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 5 | 2026-03-30 |
+| Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
 | Guided AI Agents: Turbocharging the SMB | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
@@ -392,6 +396,7 @@ Generated on 2026-04-05 | 2421 sources
 | How to Make Wealth | blog | 5 | 2026-03-31 |
 | How to Model Mezzanine Financing End-to-End | blog | 5 | 2026-03-30 |
 | How to Prepare for Your First VC Intro Call (and Actually Impress Them) | blog | 5 | 2026-03-30 |
+| How to Present to Investors | blog | 5 | 2026-03-31 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 5 | 2026-03-30 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
@@ -546,6 +551,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Top Idea in Your Mind | blog | 5 | 2026-03-31 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
 | The Ultimate Guide to Writing Powerful AI Prompts | blog | 5 | 2026-03-30 |
+| The VC Corner 📰 #9 | blog | 5 | 2026-03-30 |
 | The VC Math Problem📊, Inside a16z’s Speedrun💸, The 5% Rule for AGI🧠 | blog | 5 | 2026-03-30 |
 | The Venture Capital Playbook | blog | 5 | 2026-03-30 |
 | The Verticalization of Everything | blog | 5 | 2026-03-31 |
@@ -824,6 +830,7 @@ Generated on 2026-04-05 | 2421 sources
 | Which Way Is Down? | youtube | 5 | 2026-03-30 |
 | Why AI is Failing: Ex-Google Chief Cassie Kozyrkov Debunks "AI-first" | youtube | 5 | 2026-03-23 |
 | Why AI Moats Still Matter (And How They've Changed) | youtube | 5 | 2026-03-22 |
+| Why Costco is Cheaper than Amazon | youtube | 5 | 2026-03-30 |
 | Why In-N-Out Isn't Coming to a City Near You | youtube | 5 | 2026-03-30 |
 | Why It Was Almost Impossible to Make the Blue LED | youtube | 5 | 2026-03-30 |
 | Why Netflix is Collapsing: The Truth About Netflix's Empire | youtube | 5 | 2026-03-30 |
@@ -896,8 +903,10 @@ Generated on 2026-04-05 | 2421 sources
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Addressing the Legal & Compliance Challenge | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
+| After the Ladder | blog | 4 | 2026-03-31 |
 | AGI Vibes Are Getting Weird, 2025 SaaS Valuations, Most Active Angels | blog | 4 | 2026-03-30 |
 | AI Agents🤖, Rise of “Venture Banks” 🏦, US Venture Capital Outlook 📅  | blog | 4 | 2026-03-30 |
+| AI Bubble📉, Canva acquires Leonardo AI🎨, How to Write Cold Emails✉️ | blog | 4 | 2026-03-30 |
 | AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 4 | 2026-03-30 |
 | ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 4 | 2026-03-30 |
 | AI Games Are Coming | blog | 4 | 2026-03-31 |
@@ -1041,6 +1050,7 @@ Generated on 2026-04-05 | 2421 sources
 | Mean People Fail | blog | 4 | 2026-03-31 |
 | Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 4 | 2026-03-30 |
 | Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 4 | 2026-03-30 |
+| Megarounds make a comeback💰, The State of GenAI🤖, Doing Diligence Well🕵️ | blog | 4 | 2026-03-30 |
 | Meta Shrinks to Move Faster: Superintelligence Labs Explained | blog | 4 | 2026-03-30 |
 | Meta’s Multi-Billion, Multi-Year Nvidia Partnership | blog | 4 | 2026-03-30 |
 | Multi-Product In Pictures | blog | 4 | 2026-03-30 |
@@ -1325,6 +1335,7 @@ Generated on 2026-04-05 | 2421 sources
 | OpenAI Sora 2 Team: How Generative Video Will Unlock Creativity and World Models | youtube | 4 | 2026-03-26 |
 | Palantir CEO on Iran, AI Weapons and American Domination | a16z American Dynamism Summit | youtube | 4 | 2026-03-22 |
 | Paperclip: Hire AI Agents Like Employees (Live Demo) | youtube | 4 | 2026-03-27 |
+| Photosynthesis: Crash Course Biology #8 | youtube | 4 | 2026-03-30 |
 | 클로드 코드로 완성도 있게 결과물 내려면 plan모드 말고 이렇게 기획해보세요. (매니패스트 대표 허재혁님) | youtube | 4 | 2026-03-23 |
 | Private Equity is a TERRIBLE Investment... Who Keeps Giving Them Money? | youtube | 4 | 2026-03-26 |
 | Quantum Consciousness Theory | youtube | 4 | 2026-03-23 |
@@ -1374,6 +1385,7 @@ Generated on 2026-04-05 | 2421 sources
 | Trying to Catch a 1,000 MPH Baseball - Smarter Every Day 247 | youtube | 4 | 2026-03-30 |
 | Two Vortex Rings Colliding in SLOW MOTION - Smarter Every Day 195 | youtube | 4 | 2026-03-30 |
 | Vectors | Chapter 1, Essence of linear algebra | youtube | 4 | 2026-03-30 |
+| Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 4 | 2026-03-30 |
 | What If Everyone JUMPED At Once? | youtube | 4 | 2026-03-30 |
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
@@ -2157,13 +2169,10 @@ Generated on 2026-04-05 | 2421 sources
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
 | A new perk for annual subscribers: A free year of some of the world's most beloved products (while supplies last) | blog | 0 | 2026-03-31 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
-| A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
 | A Way to Detect Bias | blog | 0 | 2026-03-31 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
-| After the Ladder | blog | 0 | 2026-03-31 |
 | AI and product management | Marily Nika (Meta, Google) | blog | 0 | 2026-03-31 |
-| AI Bubble📉, Canva acquires Leonardo AI🎨, How to Write Cold Emails✉️ | blog | 0 | 2026-03-30 |
 | AI Co-Pilots Every Startup & VC Needs in Their Toolbox 🛠️ | blog | 0 | 2026-03-30 |
 | AI is changing the rules of the game in Go-to-Market 🔄 | blog | 0 | 2026-03-30 |
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
@@ -2261,7 +2270,6 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: China’s Global Strategy and Power Balance | blog | 0 | 2026-03-30 |
 | Deep Dive: Creator Economy - The Next Phase of Media | blog | 0 | 2026-03-30 |
 | Deep Dive: Defense 2.0 - Protecting America | blog | 0 | 2026-03-30 |
-| Deep Dive: How China Built Its Industrial Power | blog | 0 | 2026-03-30 |
 | Deep Dive: Is AI Disrupting the Future of Work? | blog | 0 | 2026-03-30 |
 | Deep Dive: Moore's Law and Next Steps for Silicon | blog | 0 | 2026-03-30 |
 | Deep Dive: The Business Model of Healthcare | blog | 0 | 2026-03-30 |
@@ -2271,7 +2279,6 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
-| Early Work | blog | 0 | 2026-03-31 |
 | Elena Verna | blog | 0 | 2026-03-26 |
 | Elon Musk sues OpenAI ⚖️, Rethinking the startup MVP 🔄, The Future of Digital Health 🩺, & more! | blog | 0 | 2026-03-30 |
 | Elon Musk, xAI, and the Logic of Vertical Integration | blog | 0 | 2026-03-30 |
@@ -2289,7 +2296,6 @@ Generated on 2026-04-05 | 2421 sources
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
 | General and Surprising | blog | 0 | 2026-03-31 |
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
-| Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 417.5 | blog | 0 | 2026-03-30 |
@@ -2302,7 +2308,6 @@ Generated on 2026-04-05 | 2421 sources
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
-| How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
@@ -2313,7 +2318,6 @@ Generated on 2026-04-05 | 2421 sources
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
-| Megarounds make a comeback💰, The State of GenAI🤖, Doing Diligence Well🕵️ | blog | 0 | 2026-03-30 |
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
 | MVP Mastery: The Key to Building What Matters 📈 | blog | 0 | 2026-03-30 |
 | Novelty and Heresy | blog | 0 | 2026-03-31 |
@@ -2388,7 +2392,6 @@ Generated on 2026-04-05 | 2421 sources
 | The VC Corner 📰 #6 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #7 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #8 | blog | 0 | 2026-03-30 |
-| The VC Corner 📰 #9 | blog | 0 | 2026-03-30 |
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
@@ -2417,10 +2420,7 @@ Generated on 2026-04-05 | 2421 sources
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
-| Photosynthesis: Crash Course Biology #8 | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
-| Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
 | When You Truly Work for Yourself | youtube | 0 | 2026-03-30 |
-| Why Costco is Cheaper than Amazon | youtube | 0 | 2026-03-30 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |
