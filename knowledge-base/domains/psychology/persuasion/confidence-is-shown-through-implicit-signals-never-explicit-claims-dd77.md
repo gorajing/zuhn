@@ -51,10 +51,10 @@ related:
   - INS-260329-78AE
   - INS-260403-DAB1
   - INS-260403-7292
-  - INS-260404-CDCB
   - INS-260404-C887
   - INS-260404-5BBF
   - INS-260404-5343
   - INS-260403-A290
+  - INS-260404-CFD5
 ---
 There's a fundamental asymmetry in how confidence is processed by audiences. Explicit claims ('we're passionate,' 'our product is great') get routed through skepticism filters and are either ignored or actively count against you. But the same message delivered implicitly—through the way you talk about technical details, through specific numbers, through genuine enthusiasm about the problem—bypasses those filters and lands as authentic. This is why Graham advises founders to 'show, not tell' confidence. The mechanism is that audiences infer credibility from behavioral cues they believe are hard to fake, while discounting verbal claims they know are easy to make. This applies far beyond pitching—any persuasion context where trust matters.

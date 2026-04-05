@@ -48,12 +48,11 @@ stance: >-
   and quality high because short-term price gouging destroys long-term renewal
   revenue
 related:
-  - INS-260322-B450
   - INS-260329-8BD3
   - INS-260330-28B1
-  - INS-260403-F634
   - INS-260404-C9B5
   - INS-260404-60D6
+  - INS-260403-F634
   - INS-260403-BF47
   - INS-260404-4DC8
   - INS-260403-8757

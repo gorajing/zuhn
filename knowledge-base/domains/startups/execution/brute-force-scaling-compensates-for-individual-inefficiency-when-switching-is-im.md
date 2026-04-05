@@ -49,7 +49,6 @@ stance: >-
   When you cannot fix a core inefficiency, flooding the system with volume is a
   rational strategy that can sustain dominance indefinitely
 related:
-  - INS-260330-B7B1
   - INS-260330-ED9D
   - INS-260404-4010
   - INS-260404-EC33

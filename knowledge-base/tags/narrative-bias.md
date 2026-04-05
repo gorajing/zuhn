@@ -8,3 +8,4 @@
 - `INS-260330-3DB2` Ancient Greeks knew Earth was round 2000+ years before Columbus — the myth that he proved it was invented in the 1800s to create a progress narrative.
 - `INS-260330-9FA5` The Mandate of Heaven explained dynastic change through moral failure, creating an unfalsifiable narrative that persisted for 3,000 years.
 - `INS-260325-CC47` Our brains evolved to over-detect patterns for survival, which now causes us to compulsively construct false causal narratives from random events.
+- `INS-260405-D6E6` Sears, Toys-R-Us, and Payless didn't die because of Amazon — they died because they stopped adapting, and Amazon is a conveniently blameable scapegoat.

@@ -49,10 +49,10 @@ stance: >-
   higher-multiple business with dramatically lower marginal cost
 related:
   - INS-260404-1755
+  - INS-260405-AD55
   - INS-260329-4223
   - INS-260329-74F9
   - INS-260323-F15D
-  - INS-260330-AA4F
 evidence:
   - id: INS-260330-AA4F
     type: TRANSFERS_TO

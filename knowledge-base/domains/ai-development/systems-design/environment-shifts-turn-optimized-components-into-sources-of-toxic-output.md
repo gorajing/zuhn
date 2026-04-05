@@ -53,7 +53,7 @@ related:
   - INS-260330-8C54
   - INS-260403-304E
   - INS-260330-CA97
-  - INS-260330-D7CC
+  - INS-260405-F03A
 ---
 RuBisCo evolved in a near-zero-oxygen atmosphere and was optimized to fix CO2. When photosynthesis itself raised atmospheric oxygen levels, RuBisCo didn't just slow down — it began actively producing phosphoglycolate, a toxic compound that interferes with the Calvin cycle. Plants had to evolve entirely new metabolic pathways (photorespiration) just to neutralize this self-inflicted damage.
 

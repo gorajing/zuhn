@@ -49,7 +49,6 @@ stance: >-
   enables finer control and more useful intermediate products than a single
   direct conversion
 related:
-  - INS-260325-722C
   - INS-260325-2906
   - INS-260330-1298
   - INS-260330-5670
@@ -59,6 +58,7 @@ related:
   - INS-260330-498B
   - INS-260403-6F40
   - INS-260403-6129
+  - INS-260403-AC7A
 ---
 Rather than converting photon energy directly into sugar, photosynthesis routes excited electrons through a multi-step transport chain: Photosystem II → Cytochrome Complex → Photosystem I → NADPH synthesis, with ATP produced along the way via proton gradients. Each intermediate step loses energy but produces useful currencies (ATP, NADPH) and maintains controllability through concentration gradients.
 

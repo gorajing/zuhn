@@ -1,8 +1,8 @@
 # Tag: disruption
 
 - `INS-260321-807B` AI native marketing agencies go end-to-end with AI, bypassing tools like Adobe entirely, dramatically improving margins and delivering ads within days.
-- `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
+- `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
 - `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
 - `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
 - `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
@@ -15,6 +15,7 @@
 - `INS-260327-6976` Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260404-8326` Business models expire like perishable goods, requiring proactive reinvention before market shifts make them irrelevant.
+- `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260327-D570` The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
@@ -27,6 +28,7 @@
 - `INS-260330-DD10` Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260330-F0F2` Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
 - `INS-260403-C1F5` Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
+- `INS-260405-6524` Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
@@ -36,6 +38,7 @@
 - `INS-260322-F6AA` Industries whose profitability depends on making processes boring, difficult, and time-consuming are most vulnerable to LLM disruption — and many don't realize this is their actual business model.
 - `INS-260403-4F0D` Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate.
 - `INS-260402-4605` Eminence constrains innovation more than obscurity constrains execution.
+- `INS-260405-D6E6` Sears, Toys-R-Us, and Payless didn't die because of Amazon — they died because they stopped adapting, and Amazon is a conveniently blameable scapegoat.
 - `INS-260404-CD53` Sears, Toys-R-Us, and J.C. Penney died from internal failures to adapt, not from Amazon killing retail.
 - `INS-260403-3673` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect while Ross, Aldi, Dollar General, and Costco thrived in the same period — the common factor is adaptation, not channel.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
@@ -43,15 +46,14 @@
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
-- `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
-- `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
 - `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
 - `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
+- `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.

@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 280 insights
+> 282 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -61,6 +61,7 @@
 - `INS-260403-2F77` [high] Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260330-CCD8` [high] Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
 - `INS-260330-870B` [high] Ponzi deliberately targeted people with more dreams than financial knowledge, avoiding sophisticated investors who could spot the scheme.
+- `INS-260405-8469` [high] RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260403-C5BA` [high] Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn.
 - `INS-260325-8DF7` [high] Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.
 - `INS-260330-4859` [high] Claiming extremists only act because the West 'pushed them to it' paradoxically denies non-Western people moral agency — a form of inverted orientalism.
@@ -161,6 +162,7 @@
 - `INS-260404-3156` [high] Costco's mandatory $60-120 fee triggers sunk-cost reasoning that makes customers stop comparing prices with competitors.
 - `INS-260403-543E` [high] Both Costco and Amazon Prime exploit sunk-cost psychology, but Costco's mandatory fee creates universal lock-in while Prime's optional fee only captures self-selecting customers.
 - `INS-260330-CECB` [high] SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.
+- `INS-260405-A164` [high] Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
 - `INS-260330-8C54` [high] Instincts calibrated for normal environments become deadly when the environment fundamentally changes — surviving requires overriding your deepest impulses.
 - `INS-260325-A1BC` [high] The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
 - `INS-260330-E0AA` [high] Without Native American written records, even sympathetic European accounts still frame indigenous experience through European categories and concerns.

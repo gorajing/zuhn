@@ -51,7 +51,6 @@ stance: >-
 related:
   - INS-260324-5C53
   - INS-260325-D797
-  - INS-260403-3421
   - INS-260403-39F9
   - INS-260403-AFCD
   - INS-260403-30D8
@@ -59,6 +58,7 @@ related:
   - INS-260403-0F5C
   - INS-260404-06C4
   - INS-260404-5D18
+  - INS-260403-EA2D
 ---
 The biggest investor fear at early stage is that you've built something from theory rather than observed need. Greg McAdoo from Sequoia calls the antidote 'proxy for demand': evidence that people are already doing the thing your product enables, just with worse tools. This is more persuasive than TAM slides because it's behavioral evidence rather than statistical projection.
 

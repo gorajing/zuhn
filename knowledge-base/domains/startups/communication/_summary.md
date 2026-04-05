@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 46 insights
+> 47 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-47AC` [high] Investors hunt for raw talent, not polished surfaces—corporate cosplay and knowledge-faking conceal the very thing they're looking for.
@@ -32,6 +32,7 @@
 - `INS-260404-09E8` [high] Tell stories about specific users with specific problems to prove demand isn't theoretical.
 - `INS-260404-CF2A` [high] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 - `INS-260404-817A` [high] Tell specific stories about real users and their problems rather than citing market sizes, because investors' primary fear is that no one actually wants what you built.
+- `INS-260405-54B8` [medium] If you can't find one compelling phrase for your startup, your plans may not be focused enough — the description exercise is a focus test as much as a communication test.
 - `INS-260404-24FB` [medium] Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260330-76DA` [medium] Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260404-6EB8` [medium] Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.

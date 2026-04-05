@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 312 insights
+> 316 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -69,6 +69,7 @@
 - `INS-260404-5721` [high] Smart investors expect early-stage business models to be wrong, so pitch time is better spent on the problem and solution.
 - `INS-260405-4FC0` [high] At early stage, detailed business model discussion consumes time from your strong suit and exposes your weak one.
 - `INS-260404-5483` [high] Don't dwell on business models in early pitches — investors expect them to be wrong and you'll crowd out what actually matters: the problem and the product.
+- `INS-260405-33A5` [high] Investors expect your business model to change three times; show you understand the problem instead.
 - `INS-260403-270E` [high] Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-88E8` [high] Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - `INS-260403-1852` [high] Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
@@ -141,6 +142,7 @@
 - `INS-260403-82CC` [high] Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
 - `INS-260404-438C` [high] When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - `INS-260404-103B` [high] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
+- `INS-260405-4AE1` [high] State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260330-975D` [high] Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
 - `INS-260404-64EC` [high] Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
 - `INS-260403-4423` [high] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
@@ -229,6 +231,7 @@
 - `INS-260403-1034` [high] Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
 - `INS-260328-D26B` [high] The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
 - `INS-260403-ED1F` [high] Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
+- `INS-260405-2AFB` [high] Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260404-3713` [high] Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 - `INS-260328-0C4C` [high] Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
 - `INS-260403-8D8D` [high] Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
@@ -267,6 +270,7 @@
 - `INS-260404-3B9E` [high] Investors' top fear is you built something nobody wants — specific user stories and 'proxy for demand' evidence neutralize this better than market size numbers.
 - `INS-260403-1949` [high] Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260403-1444` [high] Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
+- `INS-260405-E7FB` [high] Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
 - `INS-260404-2FC0` [high] Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
 - `INS-260404-EF17` [high] Replace market-size slides with concrete stories of specific users and the problems they face.
 - `INS-260404-4F3A` [high] Specific user stories beat market-size slides because they directly counter the investor's primary fear: that nobody actually wants your product.

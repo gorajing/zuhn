@@ -19,6 +19,7 @@
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260403-AEBD` Restructuring resource assignments can create room for growth without acquiring new resources.
+- `INS-260405-9DB6` Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260330-8E45` Glycolysis invests 2 ATP to break glucose apart, then earns 4 ATP back — a net gain that requires spending resources before generating them.
 - `INS-260403-FB8E` Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.

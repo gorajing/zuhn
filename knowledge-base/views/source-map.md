@@ -3,11 +3,11 @@ Generated on 2026-04-05 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 343 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 298 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 275 | 2026-03-31 |
-| How to Do Great Work | blog | 191 | 2026-03-31 |
-| February 2025 Startups Raising Capital | blog | 80 | 2026-03-30 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 347 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 303 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 280 | 2026-03-31 |
+| How to Do Great Work | blog | 196 | 2026-03-31 |
+| February 2025 Startups Raising Capital | blog | 85 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -448,6 +448,7 @@ Generated on 2026-04-05 | 2421 sources
 | Series A & B Cap Table Guide + Free Excel Template | blog | 5 | 2026-03-30 |
 | Slightly Against The "Other People's Money" Argument Against Aid | blog | 5 | 2026-03-30 |
 | Snapshot: Viaweb, June 1998 | blog | 5 | 2026-03-31 |
+| Software with a Soul: AI's Underestimated Frontier | blog | 5 | 2026-03-31 |
 | Solo Founders Take the Lead🔥, Startup Market Report📊, Projected 2026 IPOs🚀 | blog | 5 | 2026-03-30 |
 | Some Heroes | blog | 5 | 2026-03-31 |
 | SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
@@ -473,6 +474,7 @@ Generated on 2026-04-05 | 2421 sources
 | The 9 Habits of Ultra-Fast Iterations | blog | 5 | 2026-03-31 |
 | The Age of the Essay | blog | 5 | 2026-03-31 |
 | The AI-First Marketplace | blog | 5 | 2026-03-31 |
+| The AI Workforce is Here: The Rise of a New Labor Market | blog | 5 | 2026-03-31 |
 | The Airbnbs | blog | 5 | 2026-03-31 |
 | The Best Essay | blog | 5 | 2026-03-31 |
 | The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating Giants | blog | 5 | 2026-03-30 |
@@ -536,6 +538,7 @@ Generated on 2026-04-05 | 2421 sources
 | Updated thoughts on AI risk | blog | 5 | 2026-03-30 |
 | VC 3.0: How AI Is Changing Startup Funding Forever | blog | 5 | 2026-03-30 |
 | VC Return Analysis: Single-Tab Model for Faster Decisions | blog | 5 | 2026-03-30 |
+| VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 5 | 2026-03-30 |
 | Venture Debt for Startups: 6 Must-Know Lessons Before You Sign the Term Sheet | blog | 5 | 2026-03-30 |
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 5 | 2026-03-31 |
 | Was Brex's Acquisition A Failure? | blog | 5 | 2026-03-30 |
@@ -870,6 +873,7 @@ Generated on 2026-04-05 | 2421 sources
 | ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 4 | 2026-03-30 |
 | AI Games Are Coming | blog | 4 | 2026-03-31 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
+| AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 4 | 2026-03-30 |
 | AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 4 | 2026-03-30 |
 | AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 4 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 4 | 2026-03-30 |
@@ -995,6 +999,7 @@ Generated on 2026-04-05 | 2421 sources
 | Made in USA | blog | 4 | 2026-03-31 |
 | Maker's Schedule, Manager's Schedule | blog | 4 | 2026-03-31 |
 | Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 4 | 2026-03-30 |
+| Mantic Monday: Groundhog Day | blog | 4 | 2026-03-30 |
 | Mean People Fail | blog | 4 | 2026-03-31 |
 | Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 4 | 2026-03-30 |
 | Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 4 | 2026-03-30 |
@@ -1038,6 +1043,7 @@ Generated on 2026-04-05 | 2421 sources
 | Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 4 | 2026-03-30 |
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 4 | 2026-03-30 |
 | Shameless Guesses, Not Hallucinations | blog | 4 | 2026-03-30 |
+| Shield AI Air Force Deal, Google's TurboQuant, and Meta's Brain-Predictive AI | blog | 4 | 2026-03-30 |
 | Six Principles for Making New Things | blog | 4 | 2026-03-31 |
 | SpaceX-xAI Merger: The $1.25T Company | blog | 4 | 2026-03-30 |
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
@@ -1050,6 +1056,7 @@ Generated on 2026-04-05 | 2421 sources
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 4 | 2026-03-30 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 4 | 2026-03-30 |
+| Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 4 | 2026-03-30 |
 | The Acceleration of Addictiveness | blog | 4 | 2026-03-31 |
 | The Agrifoodtech Effect 🍽️ | blog | 4 | 2026-03-30 |
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
@@ -2115,7 +2122,6 @@ Generated on 2026-04-05 | 2421 sources
 | AI Bubble📉, Canva acquires Leonardo AI🎨, How to Write Cold Emails✉️ | blog | 0 | 2026-03-30 |
 | AI Co-Pilots Every Startup & VC Needs in Their Toolbox 🛠️ | blog | 0 | 2026-03-30 |
 | AI is changing the rules of the game in Go-to-Market 🔄 | blog | 0 | 2026-03-30 |
-| AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 0 | 2026-03-30 |
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
 | AI Is Eating VC📉, Most-Active US Investors💵, Longevity Tech Rebounds🧬 | blog | 0 | 2026-03-30 |
 | AI-Powered Fundraising Prep: The Founder’s Tactical Playbook | blog | 0 | 2026-03-30 |
@@ -2279,7 +2285,6 @@ Generated on 2026-04-05 | 2421 sources
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
-| Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
 | Mastercard brings 85+ firms into crypto payments push | blog | 0 | 2026-03-30 |
 | Megarounds make a comeback💰, The State of GenAI🤖, Doing Diligence Well🕵️ | blog | 0 | 2026-03-30 |
 | Meta Shrinks to Move Faster: Superintelligence Labs Explained | blog | 0 | 2026-03-30 |
@@ -2313,10 +2318,8 @@ Generated on 2026-04-05 | 2421 sources
 | See Randomness | blog | 0 | 2026-03-31 |
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
-| Shield AI Air Force Deal, Google's TurboQuant, and Meta's Brain-Predictive AI | blog | 0 | 2026-03-30 |
 | Short Dive: The Trump Administration's Fiscal Strategy | blog | 0 | 2026-03-30 |
 | Smaller Funds Outperform📈, When Machines Learn to Speak🗣️, Venture Trends Q1 2025📊 | blog | 0 | 2026-03-30 |
-| Software with a Soul: AI's Underestimated Frontier | blog | 0 | 2026-03-31 |
 | Something feels weird about this economy | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
 | Sponsorships | blog | 0 | 2026-03-30 |
@@ -2328,11 +2331,9 @@ Generated on 2026-04-05 | 2421 sources
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Term Sheets Demystified 📄🤝 | blog | 0 | 2026-03-30 |
-| Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 0 | 2026-03-30 |
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
-| The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
 | The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
@@ -2386,7 +2387,6 @@ Generated on 2026-04-05 | 2421 sources
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
-| VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |

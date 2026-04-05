@@ -59,6 +59,7 @@ related:
   - INS-260404-46AA
   - INS-260330-7FF3
   - INS-260330-21A8
+  - INS-260405-6C1F
 ---
 The light-dependent reactions don't directly convert photon energy into ATP. Instead, they use photon energy to pump hydrogen ions across the thylakoid membrane, creating a concentration gradient. The ions then flow back through ATP synthase, and that controlled release does the actual work. The membrane acts as a battery, and ATP synthase acts as the controlled discharge channel.
 

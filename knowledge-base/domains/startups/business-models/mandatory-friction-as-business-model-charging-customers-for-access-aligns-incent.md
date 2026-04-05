@@ -49,7 +49,6 @@ stance: >-
   depends on renewal rather than upsell
 related:
   - INS-260403-5C88
-  - INS-260403-1C25
   - INS-260404-12A4
   - INS-260403-8757
   - INS-260404-B8AE

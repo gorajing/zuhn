@@ -60,6 +60,7 @@ related:
   - PRI-260328-9F8C
   - PRI-260328-D401
   - INS-260328-4A93
+  - INS-260405-9409
 stance: >-
   Reframing businesses as collections of input-constrained processes (customer
   service, legal) and output-constrained processes (creative, engineerin...

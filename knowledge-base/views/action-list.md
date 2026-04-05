@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3965 actionable insights
+Generated on 2026-04-05 | 3974 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -57,6 +57,7 @@ Generated on 2026-04-05 | 3965 actionable insights
 - [INS-260330-6D43] Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
 - [INS-260402-876A] A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - [INS-260403-4D80] Guided AI agents embed industry-specific guardrails and workflow sequences that generalized agents lack, turning AI from a tool into a collaborator.
+- [INS-260405-670E] Map your AI product on determinism vs. emotional intelligence before designing it, or you'll optimize for the wrong axis.
 
 ## ai-development/ai-automation
 - [INS-260320-5A6F] AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.
@@ -1890,6 +1891,7 @@ Generated on 2026-04-05 | 3965 actionable insights
 - [INS-260403-2E0F] The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
 - [INS-260403-3517] Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.
 - [INS-260403-101D] The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
+- [INS-260405-B4D4] The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
 
 ## startups/bootstrapping
 - [INS-260320-39A3] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -1995,6 +1997,7 @@ Generated on 2026-04-05 | 3965 actionable insights
 - [INS-260404-6A15] Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
 - [INS-260404-BCA2] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.
 - [INS-260404-BA8B] Visual canvases like the Business Model Canvas create shared language that reduces misalignment in strategic discussions.
+- [INS-260405-D9C8] Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2073,6 +2076,7 @@ Generated on 2026-04-05 | 3965 actionable insights
 - [INS-260404-817A] Tell specific stories about real users and their problems rather than citing market sizes, because investors' primary fear is that no one actually wants what you built.
 - [INS-260404-EDED] Craft a single sticky phrase for your startup because after dozens of pitches, investors' recall — not comprehension — determines who gets follow-ups.
 - [INS-260404-09E8] Tell stories about specific users with specific problems to prove demand isn't theoretical.
+- [INS-260405-54B8] If you can't find one compelling phrase for your startup, your plans may not be focused enough — the description exercise is a focus test as much as a communication test.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2283,6 +2287,7 @@ Generated on 2026-04-05 | 3965 actionable insights
 - [INS-260404-26AE] RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
 - [INS-260404-6E47] Costco's membership fee filters for affluent households averaging $100K income, ensuring high per-visit spending and loyal renewal behavior.
 - [INS-260404-E9F3] Oxygen is technically a waste byproduct of water-splitting in photosynthesis, yet it became the foundation of all animal life on Earth.
+- [INS-260405-6524] Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3000,6 +3005,10 @@ Generated on 2026-04-05 | 3965 actionable insights
 - [INS-260405-4FC0] At early stage, detailed business model discussion consumes time from your strong suit and exposes your weak one.
 - [INS-260405-F9EC] Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.
 - [INS-260405-466C] As a pitch description expands to cover every possibility, its information content approaches zero.
+- [INS-260405-33A5] Investors expect your business model to change three times; show you understand the problem instead.
+- [INS-260405-4AE1] State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
+- [INS-260405-2AFB] Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
+- [INS-260405-E7FB] Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

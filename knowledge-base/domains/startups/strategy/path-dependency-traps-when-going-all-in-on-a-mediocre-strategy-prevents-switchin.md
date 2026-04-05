@@ -51,7 +51,6 @@ stance: >-
   spend more resources managing its side effects than it would cost to redesign,
   but switching costs keep them locked in
 related:
-  - INS-260327-99CE
   - INS-260329-A9ED
   - INS-260330-EEED
   - INS-260403-3F05

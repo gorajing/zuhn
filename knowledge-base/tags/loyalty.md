@@ -9,6 +9,7 @@
 - `INS-260404-ED19` Mandatory membership fees trigger stronger sunk-cost commitment than optional subscriptions because the buyer can't self-select out of the psychological lock-in.
 - `INS-260404-13F1` Once customers pay a membership fee, sunk-cost psychology makes them default to that retailer without comparing prices, converting a one-time payment into persistent behavioral change.
 - `INS-260404-5D39` Once customers pay a mandatory membership fee, sunk-cost bias makes them default to that retailer without comparing prices elsewhere.
+- `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
 - `INS-260403-3F91` Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.
 - `INS-260404-3D8F` Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
 - `INS-260323-9EDC` The strongest relationships Sexton has seen are where partners are each other's unconditional advocates — they never talk shit about each other to outsiders.

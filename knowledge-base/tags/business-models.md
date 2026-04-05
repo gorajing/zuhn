@@ -55,6 +55,7 @@
 - `INS-260403-DDDC` Codified pattern libraries lower the barrier to business model innovation by providing proven configurations to adapt rather than invent.
 - `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
+- `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
 - `INS-260404-0777` Mention your business model briefly to show you've thought about it, but spend your pitch time on the problem and product instead.
 - `INS-260404-32B5` Smart early-stage investors expect your business model to be wrong—spend pitch time on the problem and product instead.
@@ -81,6 +82,7 @@
 - `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260404-5483` Don't dwell on business models in early pitches — investors expect them to be wrong and you'll crowd out what actually matters: the problem and the product.
+- `INS-260405-33A5` Investors expect your business model to change three times; show you understand the problem instead.
 - `INS-260403-270E` Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-88E8` Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - `INS-260403-1852` Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
@@ -111,7 +113,6 @@
 - `INS-260404-19FE` Mention that you've thought about monetization, but don't elaborate—smart investors expect your business model to change multiple times.
 - `INS-260403-A172` Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
-- `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.

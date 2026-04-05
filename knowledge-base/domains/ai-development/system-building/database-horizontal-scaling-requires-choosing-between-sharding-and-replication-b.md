@@ -57,10 +57,10 @@ stance: >-
   whether the workload is write-heavy or read-heavy
 related:
   - INS-260329-818A
-  - INS-260329-66BD
   - INS-260329-CF48
   - INS-260329-148D
   - INS-260329-5F96
+  - INS-260405-AD55
   - INS-260329-4696
 evidence:
   - id: INS-260329-818A

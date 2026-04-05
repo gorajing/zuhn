@@ -48,7 +48,6 @@ stance: >-
   Exhaustive empirical testing of a finite subset, no matter how large, provides
   negligible evidence for universal mathematical claims.
 related:
-  - INS-260325-024F
   - INS-260323-FAF0
   - INS-260325-486C
   - INS-260323-2D1D

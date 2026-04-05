@@ -48,7 +48,6 @@ stance: >-
   Amazon Prime leave the core business model unchanged
 related:
   - INS-260404-A193
-  - INS-260404-62D5
   - INS-260404-E298
   - INS-260404-4DC8
   - INS-260403-0650

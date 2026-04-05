@@ -49,10 +49,11 @@
 - `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
 - `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
 - `INS-260325-1345` A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
+- `INS-260322-35FA` Watching live DJ mix sets on YouTube is the most efficient way to internalize a genre because DJs curate 30+ tracks from deep listening into a coherent sonic narrative.
 - `INS-260403-49E7` Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
-- `INS-260329-31A2` freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
+- `INS-260329-31A2` freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
 - `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
@@ -71,4 +72,3 @@
 - `INS-260329-939E` CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
 - `INS-260329-1741` CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
-- `INS-260322-35FA` Watching live DJ mix sets on YouTube is the most efficient way to internalize a genre because DJs curate 30+ tracks from deep listening into a coherent sonic narrative.

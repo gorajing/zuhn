@@ -14,9 +14,9 @@
 - `INS-260403-2AF0` Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
+- `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260402-F3D7` Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
-- `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260403-0218` Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 - `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - `INS-260403-61B0` Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.

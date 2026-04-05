@@ -52,8 +52,8 @@ related:
   - INS-260404-7B68
   - INS-260403-24F0
   - INS-260404-C887
+  - INS-260405-2AFB
   - INS-260403-5C8E
-  - INS-260403-2F22
 ---
 When audiences lack the technical background to evaluate what you've built, they fall back on proxy signals — and founder confidence is the single biggest one. But confidence must be implicit. Explicit claims like 'we're passionate' or 'our product is great' get ignored or worse, trigger bullshit detectors.
 

@@ -51,10 +51,10 @@ stance: >-
   active ones regardless of their lower peak performance.
 related:
   - INS-260330-B6DE
+  - INS-260405-6C1F
   - INS-260330-E03A
   - INS-260330-E8CF
   - INS-260325-1709
-  - INS-260330-8BA6
 evidence:
   - id: INS-260330-E8CF
     type: TRANSFERS_TO

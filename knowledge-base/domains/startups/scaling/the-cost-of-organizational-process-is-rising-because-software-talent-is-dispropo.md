@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-46BD
   - PRI-260328-8317
+  - INS-260405-0E77
   - INS-260327-5661
   - INS-260403-021D
-  - INS-260322-4757
 ---
 Graham argues that the cost of organizational checks may actually be increasing over time, driven by software's growing role in every company. Unlike most workers, the best programmers actively prefer to work hard and ship more code—they're intrinsically motivated by output velocity rather than merely tolerating busy periods.
 

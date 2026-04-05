@@ -49,7 +49,6 @@ stance: >-
   SaaS TAM but the total cost of human labor performing that work, which is at
   least an order of magnitude larger.
 related:
-  - INS-260325-F20C
   - INS-260322-EDA4
   - INS-260322-054E
   - INS-260327-DBAD

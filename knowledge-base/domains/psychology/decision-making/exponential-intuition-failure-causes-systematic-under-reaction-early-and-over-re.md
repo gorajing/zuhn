@@ -51,7 +51,6 @@ stance: >-
   initially, too panicked eventually — is predictable and exploitable for better
   decision-making
 related:
-  - INS-260329-96EC
   - INS-260329-2AB9
   - INS-260330-C0D1
   - INS-260330-864C
@@ -61,6 +60,7 @@ related:
   - INS-260330-41A5
   - PRI-260403-50EF
   - INS-260330-FB66
+  - INS-260330-C499
 evidence:
   - id: INS-260330-F493
     type: EXTENDS

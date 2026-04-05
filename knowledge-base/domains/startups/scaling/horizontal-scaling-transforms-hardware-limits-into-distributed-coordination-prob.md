@@ -48,10 +48,10 @@ stance: >-
   to reason about and debug.
 related:
   - PRI-260328-99F0
+  - INS-260405-1282
   - PRI-260321-0A4D
   - PRI-260323-F193
   - INS-260329-5DB9
-  - PRI-260328-5F64
   - INS-260403-AEBD
 evidence:
   - id: INS-260329-5DB9

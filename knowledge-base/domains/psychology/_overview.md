@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2109 insights across 20 topics
+> 2112 insights across 21 topics
 
 ## Topics
 
@@ -8,7 +8,7 @@
 | ----- | -------- | ------- |
 | behavior-change | 21 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
 | cognition | 82 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
-| cognitive-biases | 280 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
+| cognitive-biases | 282 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 46 | Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered. |
 | consciousness | 96 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
 | decision-making | 97 | Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search. |
@@ -17,6 +17,7 @@
 | founder-mindset | 19 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 20 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
 | group-dynamics | 60 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
+| human-computer-interaction | 1 | Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match. |
 | learning | 259 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 61 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
 | mental-models | 96 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |

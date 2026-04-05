@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 231 insights
+> 234 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -88,6 +88,7 @@
 - `INS-260403-616B` [high] Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260327-0E28` [high] Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
 - `INS-260405-06B0` [high] When membership fees are the primary revenue source, delivering customer value isn't optional — it's arithmetically mandatory.
+- `INS-260405-48EC` [high] When membership fees are the primary revenue source, the company is structurally forced to keep product prices low to drive renewals.
 - `INS-260404-EAA7` [high] When revenue comes from membership rather than markup, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-AC1B` [high] Costco's $60-$120 membership fee filters for affluent customers ($100K average household income) who spend more and renew at 90%.
 - `INS-260404-DD00` [high] Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
@@ -160,6 +161,7 @@
 - `INS-260403-0CA9` [high] Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
 - `INS-260404-1755` [high] ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
 - `INS-260403-F4CC` [high] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
+- `INS-260405-D9C8` [high] Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
 - `INS-260327-39D4` [high] 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
 - `INS-260404-6751` [high] AWS's recurring revenue model generates far higher margins than Amazon's transactional e-commerce, illustrating the structural superiority of subscription-based models.
 - `INS-260403-2D99` [high] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
@@ -218,6 +220,7 @@
 - `INS-260404-BA8B` [medium] Visual canvases like the Business Model Canvas create shared language that reduces misalignment in strategic discussions.
 - `INS-260403-97F5` [medium] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260404-D711` [medium] Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
+- `INS-260405-6C1F` [medium] ATP and NADPH don't store energy permanently — they exist solely to carry it between subsystems that can't exchange value directly, a design principle that appears in every complex value-exchange system.
 - `INS-260404-6A15` [medium] Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
 - `INS-260403-0AF7` [medium] Existential constraints strip away incrementalism and force founders into genuinely novel business model territory.
 - `INS-260404-9D4E` [medium] Declining businesses should default to renovation over elimination because existing infrastructure has recoverable value.

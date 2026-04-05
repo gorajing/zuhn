@@ -48,7 +48,6 @@ stance: >-
   Once a system scales massively around a suboptimal core component, replacing
   that component becomes harder than compensating for its flaws
 related:
-  - INS-260330-C761
   - INS-260330-4C3A
   - INS-260403-262F
   - INS-260330-EB48

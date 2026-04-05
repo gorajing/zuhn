@@ -10,4 +10,5 @@
 - `INS-260330-5670` ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
 - `INS-260404-3500` Photosynthesis converts sunlight to sugar through a long chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each step losing energy but gaining reliability.
 - `INS-260325-1F35` Quantum field theory underlies chemistry which underlies biology, but you cannot understand biology by studying quarks — each layer requires its own conceptual toolkit.
+- `INS-260405-6C1F` ATP and NADPH don't store energy permanently — they exist solely to carry it between subsystems that can't exchange value directly, a design principle that appears in every complex value-exchange system.
 - `INS-260330-C2C4` Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.

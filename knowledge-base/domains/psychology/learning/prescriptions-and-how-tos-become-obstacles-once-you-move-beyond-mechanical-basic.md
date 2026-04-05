@@ -59,6 +59,7 @@ related:
   - PRI-260323-50FE
   - INS-260323-DA91
   - INS-260403-2B63
+  - INS-260405-9409
 ---
 Gupta distinguishes between mechanical endeavors (learning to drive) where prescriptions work, and anything involving art, creativity, or peak performance where they fail. The mechanism: when you introduce a prescription as an intermediary between you and your goal, your mind shifts focus to satisfying the intermediary instead of reaching the destination. You enter a deal you never signed up for — spending your life trying to live up to the prescription.
 

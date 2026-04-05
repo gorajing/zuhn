@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 543 insights
+> 546 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -195,6 +195,7 @@
 - `INS-260330-F0F2` [high] Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
 - `INS-260403-0AF6` [high] Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
 - `INS-260403-C1F5` [high] Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
+- `INS-260405-6524` [high] Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
 - `INS-260330-AFAD` [high] Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
 - `INS-260330-FF09` [high] The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260330-519D` [high] Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
@@ -373,6 +374,7 @@
 - `INS-260327-9CB1` [high] Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260403-91DB` [high] Sears, Toys-R-Us, and J.C. Penney died from their own failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260327-7BB5` [high] GameStop core business was dead the moment digital distribution became viable because no amount of operational excellenc
+- `INS-260405-D6E6` [high] Sears, Toys-R-Us, and Payless didn't die because of Amazon — they died because they stopped adapting, and Amazon is a conveniently blameable scapegoat.
 - `INS-260324-6A99` [high] Nike and Adidas hit record revenue at the peak of the sneaker resale boom, but revenue is a lagging indicator — by the time sales peaked, consumer demand had already shifted and the crash was inevitable.
 - `INS-260327-FAD7` [high] During the sneaker bubble, shoes flew off shelves without discounts, anyone could flip pairs for thousands, and shops opened everywhere -- when the market crashed, most stores went bankrupt because revenue had masked the absence of any real expertise or moat.
 - `INS-260327-9C3A` [high] Uber proved enormous demand for ride-hailing at subsidized prices but has struggled to demonstrate that demand persists 
@@ -476,6 +478,7 @@
 - `INS-260329-6E0F` [high] Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
 - `INS-260329-277B` [high] Being copied is a positive signal; the copier's attention on you means their attention isn't on their customers.
 - `INS-260330-2CFA` [high] Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
+- `INS-260405-F03A` [high] Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
 - `INS-260330-1C50` [high] Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260330-DF31` [medium] 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge.
 - `INS-260330-2064` [medium] A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities.

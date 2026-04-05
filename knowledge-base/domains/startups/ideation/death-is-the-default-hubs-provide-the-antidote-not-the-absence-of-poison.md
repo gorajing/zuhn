@@ -51,6 +51,7 @@ related:
   - INS-260330-051F
   - INS-260402-2B96
   - INS-260404-6C8F
+  - INS-260405-D6E6
   - INS-260329-64B8
 ---
 Paul Graham reframes the startup geography question: instead of asking what kills startups in most cities, ask what saves them in a few. The answer is that hubs provide two forms of antidote — social normalization of founding and serendipitous encounters with helpful people. This reframe matters because it shifts founder strategy from 'avoid bad environments' to 'seek environments with the highest density of positive interventions.' A founder in a non-hub city isn't being actively sabotaged; they're simply missing the rescue mechanisms that offset the naturally high base rate of failure.

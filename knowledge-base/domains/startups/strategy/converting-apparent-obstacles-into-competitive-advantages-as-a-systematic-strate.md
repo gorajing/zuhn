@@ -56,6 +56,7 @@ related:
   - INS-260404-9783
   - INS-260404-B24E
   - INS-260403-6BD9
+  - INS-260405-2E46
 ---
 Costco's strategy is a masterclass in reframing constraints as advantages. Its membership fee should deter customers but instead creates loyalty and filters for affluent shoppers. Its warehouse layout should confuse people but instead triggers treasure-hunt psychology. Its limited selection should frustrate shoppers but instead creates supplier leverage and reduces decision fatigue.
 

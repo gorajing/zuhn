@@ -35,13 +35,13 @@
 - `INS-260323-D479` Nobel believed his explosives would 'put an end to war sooner than peace congresses' by making mutual destruction too horrifying -- the same argument made for nuclear weapons decades later.
 - `INS-260323-4711` Active engagement makes short intervals feel fast but long periods feel slow, while boredom does the opposite — a key asymmetry in human time perception.
 - `INS-260325-D25C` We accept that squishing a bug in the past would change the future, but we refuse to believe that our present actions have the same cascading effects.
-- `INS-260403-BCB1` Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260403-C313` Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
 - `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
+- `INS-260403-BCB1` Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 - `INS-260327-9562` Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
-- `INS-260329-D8F2` Use inversion — enumerate failure modes first, then flip them — because our threat-detection circuits are stronger than our solution-finding circuits.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
+- `INS-260329-D8F2` Use inversion — enumerate failure modes first, then flip them — because our threat-detection circuits are stronger than our solution-finding circuits.
 - `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
 - `INS-260330-28BE` The cosmological principle shows that every point in the expanding universe appears to be the center of expansion — the 'center' is an artifact of the observer's frame of reference, not a real property of the system.

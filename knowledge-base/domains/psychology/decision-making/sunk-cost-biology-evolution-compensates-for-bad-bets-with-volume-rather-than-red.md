@@ -48,7 +48,6 @@ stance: >-
   When redesigning a core component is too costly, scaling the flawed component
   and adding compensatory mechanisms is the dominant survival strategy
 related:
-  - INS-260330-033A
   - INS-260330-73F3
   - INS-260330-0BCC
   - INS-260330-F82A
@@ -58,6 +57,7 @@ related:
   - INS-260403-9442
   - INS-260330-8BF6
   - INS-260404-8256
+  - INS-260403-D518
 ---
 Rather than evolving a more accurate carbon-fixing enzyme, plants developed an entire secondary metabolic pathway to detoxify RuBisCo's mistakes (converting phosphoglycolate into glycine and useful Calvin cycle intermediates). This is the biological equivalent of building an elaborate error-handling system around a buggy core library.
 

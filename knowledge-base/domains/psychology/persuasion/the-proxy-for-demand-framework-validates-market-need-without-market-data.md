@@ -53,7 +53,7 @@ related:
   - INS-260404-5D18
   - INS-260403-EA2D
   - INS-260403-DC32
-  - INS-260403-8C50
+  - INS-260405-E7FB
   - INS-260403-63E6
 ---
 Greg McAdoo from Sequoia coined the phrase 'proxy for demand': what are people doing now, using inadequate tools, that proves they need what you're building? This bypasses the biggest investor fear at the early stage—that you've built something from a priori theories rather than observed need.

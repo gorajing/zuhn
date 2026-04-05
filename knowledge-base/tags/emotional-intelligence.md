@@ -1,5 +1,8 @@
 # Tag: emotional-intelligence
 
+- `INS-260405-1282` The ceiling for AI service replacement is set not by task automation but by whether the agent can handle the disorder, ambiguity, and emotional texture of complex human interactions.
+- `INS-260405-2E46` AI's emotional resonance — not raw capability — is the underpriced moat.
+- `INS-260405-670E` Map your AI product on determinism vs. emotional intelligence before designing it, or you'll optimize for the wrong axis.
 - `INS-260325-DB82` Just as you learned the pluperfect and subjunctive without knowing these concepts exist, you absorbed a complete emotional language from your family — about trust, communication, self-worth — that now runs invisibly in adulthood.
 - `INS-260323-3858` Each negative emotion carries a specific diagnostic message — regret means 'do it now,' jealousy reveals hidden desires, anger provides energy for change, and deep resistance to something often signals it matters deeply to you.
 - `INS-260325-88A7` Just as children absorb grammatical language invisibly, they also absorb an emotional grammar -- patterns of trust, fear, and communication -- from caregivers that shapes every adult relationship.

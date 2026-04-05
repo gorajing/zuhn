@@ -2,8 +2,8 @@
 
 - `INS-260325-2C31` AI should be understood as alien intelligence because it generates genuinely unpredictable ideas, not just automates human ones.
 - `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
-- `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
 - `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
+- `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
 - `INS-260330-6E4E` Freedom is typically eroded through small, individually reasonable steps that each seem too minor to resist, not through dramatic confrontation.
 - `INS-260403-79E0` The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.

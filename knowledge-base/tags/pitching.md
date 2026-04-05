@@ -9,6 +9,7 @@
 - `INS-260403-7292` Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
+- `INS-260405-54B8` If you can't find one compelling phrase for your startup, your plans may not be focused enough — the description exercise is a focus test as much as a communication test.
 - `INS-260404-24FB` Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260404-D8C7` A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-6EB8` Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.
@@ -67,6 +68,7 @@
 - `INS-260403-0267` Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260405-4FC0` At early stage, detailed business model discussion consumes time from your strong suit and exposes your weak one.
 - `INS-260404-5483` Don't dwell on business models in early pitches — investors expect them to be wrong and you'll crowd out what actually matters: the problem and the product.
+- `INS-260405-33A5` Investors expect your business model to change three times; show you understand the problem instead.
 - `INS-260403-270E` Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-88E8` Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - `INS-260403-1852` Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
@@ -99,6 +101,7 @@
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260404-896B` Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 - `INS-260404-438C` When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
+- `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260403-06E0` Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260404-1BFF` Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
@@ -157,6 +160,7 @@
 - `INS-260404-0BB0` As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.
 - `INS-260403-30D8` Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - `INS-260403-3837` Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
+- `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 - `INS-260404-3713` Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 - `INS-260403-FC45` Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
@@ -175,6 +179,7 @@
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260404-3B9E` Investors' top fear is you built something nobody wants — specific user stories and 'proxy for demand' evidence neutralize this better than market size numbers.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
+- `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
 - `INS-260404-EF17` Replace market-size slides with concrete stories of specific users and the problems they face.
 - `INS-260404-4F3A` Specific user stories beat market-size slides because they directly counter the investor's primary fear: that nobody actually wants your product.
 - `INS-260405-F9EC` Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.

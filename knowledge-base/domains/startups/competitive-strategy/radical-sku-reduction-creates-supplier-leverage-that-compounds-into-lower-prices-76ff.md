@@ -54,10 +54,10 @@ related:
   - INS-260323-F310
   - INS-260329-8F7C
   - INS-260403-83A8
-  - INS-260404-57E3
   - INS-260404-3E82
+  - INS-260405-D9C8
+  - INS-260404-57E3
   - INS-260403-180D
-  - INS-260404-9B82
 ---
 By stocking only 4,000 items compared to a supermarket's 30,000 or Walmart's 140,000, Costco creates artificial scarcity of shelf space. Suppliers compete fiercely for those limited slots, willingly lowering prices and even re-engineering packaging (like the cashew container redesign saving 24,000 pallets annually).
 

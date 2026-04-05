@@ -52,10 +52,10 @@ stance: >-
   potential software purchase.
 related:
   - INS-260322-EDA4
+  - INS-260405-AD55
   - INS-260322-9EC6
   - PRI-260328-8317
   - INS-260322-054E
-  - INS-260403-B387
 evidence:
   - id: INS-260322-EDA4
     type: SUPPORTS

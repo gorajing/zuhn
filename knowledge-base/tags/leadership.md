@@ -12,8 +12,6 @@
 - `INS-260330-E3ED` Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
-- `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
-- `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
@@ -32,6 +30,8 @@
 - `INS-260330-8048` Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
 - `INS-260330-4B16` Startups should not have dedicated growth teams and the CEO should set and enforce a single North Star metric so every autonomous decision compounds toward the same goal.
 - `INS-260330-2347` When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
+- `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
+- `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260322-9172` Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.

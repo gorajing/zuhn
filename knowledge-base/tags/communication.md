@@ -3,6 +3,7 @@
 - `INS-260329-560D` AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - `INS-260404-E4B8` Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
@@ -14,12 +15,12 @@
 - `INS-260330-5A9E` Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-6F6D` The Pioneer plaque's arrow symbol — obvious to humans who hunted with projectiles — may be meaningless or misleading to an alien intelligence, revealing how deeply cultural assumptions embed in supposedly universal designs.
 - `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
+- `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
 - `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
 - `INS-260330-2783` Friedrich Miescher isolated DNA in 1869, but Watson and Crick are remembered because they synthesized others' work into a communicable model.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
@@ -27,7 +28,6 @@
 - `INS-260403-F63E` Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
-- `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
 - `INS-260404-7B68` Saying 'we're passionate' or 'our product is great' triggers audience skepticism; conviction must be shown, never stated.
@@ -74,6 +74,7 @@
 - `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
+- `INS-260405-54B8` If you can't find one compelling phrase for your startup, your plans may not be focused enough — the description exercise is a focus test as much as a communication test.
 - `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
 - `INS-260404-EDED` Craft a single sticky phrase for your startup because after dozens of pitches, investors' recall — not comprehension — determines who gets follow-ups.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
@@ -92,6 +93,7 @@
 - `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260403-B3CA` A single compelling phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
+- `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260403-06E0` Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260404-3A71` Narrow descriptions that risk seeming limiting actually convey more information than expansive ones that try to capture all possibilities.
@@ -121,6 +123,7 @@
 - `INS-260403-20D6` Approach your pitch like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-B29D` Vague all-encompassing descriptions are parsed as meaningless boilerplate; narrow concrete descriptions create a working mental model investors can build on.
 - `INS-260404-8258` Specific narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260404-3713` Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
 - `INS-260403-4102` Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'

@@ -55,6 +55,7 @@ related:
   - INS-260403-F7DD
   - INS-260404-0AF3
   - INS-260404-24FB
+  - INS-260405-54B8
 ---
 Professional investors hear hundreds of pitches that blur together. The first survival filter is simply being remembered, and the way to pass it is to plant a descriptive phrase—'the Microsoft Word of ecommerce,' 'the x of y'—that sticks in their heads. Launch it near the beginning of your talk, delivered casually so it doesn't feel forced.
 

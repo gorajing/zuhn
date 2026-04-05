@@ -19,6 +19,8 @@
 - `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
 - `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
+- `INS-260330-DF69` RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
+- `INS-260325-17BF` Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
 - `INS-260325-0895` Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
 - `INS-260404-D0D8` Sears, Toys-R-Us, and J.C. Penney died from internal failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
@@ -26,8 +28,6 @@
 - `INS-260404-CD53` Sears, Toys-R-Us, and J.C. Penney died from internal failures to adapt, not from Amazon killing retail.
 - `INS-260403-3673` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect while Ross, Aldi, Dollar General, and Costco thrived in the same period — the common factor is adaptation, not channel.
 - `INS-260403-9F4B` RuBisCo was designed for a low-oxygen atmosphere and became increasingly dysfunctional as plants themselves filled the air with oxygen.
-- `INS-260330-DF69` RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
-- `INS-260325-17BF` Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
 - `INS-260403-C5FB` Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
 - `INS-260403-D8A2` Sears, Toys-R-Us, and RadioShack died not because retail died but because they failed to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260403-6628` Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.

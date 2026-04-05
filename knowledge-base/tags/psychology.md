@@ -40,8 +40,8 @@
 - `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260323-4C71` Self-sabotage is your brain protecting your ego from perceived threats — the fix is identifying the hidden core need (trust, self-worth, acceptance) that is the opposite of your surface-level coping behavior.
 - `INS-260323-3A54` Atlas discovered that his anger and street violence came from emotional poverty despite material comfort -- being a doctor's son with a disjointed family taught him that deprivation of connection drives destructive behavior regardless of economic status.
-- `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
+- `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
 - `INS-260327-5F94` The acute crisis gets adrenaline and support; the real challenge is the psychological rebuilding on day 60 that nobody talks about.
 - `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.

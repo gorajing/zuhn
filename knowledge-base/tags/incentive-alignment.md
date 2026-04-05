@@ -7,6 +7,7 @@
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260329-2EAA` Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
 - `INS-260405-06B0` When membership fees are the primary revenue source, delivering customer value isn't optional — it's arithmetically mandatory.
+- `INS-260405-48EC` When membership fees are the primary revenue source, the company is structurally forced to keep product prices low to drive renewals.
 - `INS-260404-EAA7` When revenue comes from membership rather than markup, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-DD00` Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
 - `INS-260404-35F8` When membership fees are the profit center, low prices become a feature, not a sacrifice.
@@ -49,9 +50,9 @@
 - `INS-260404-60D6` Costco makes 75% of revenue from membership fees, which forces it to prioritize low prices and quality to drive renewals rather than extracting margin per transaction.
 - `INS-260404-0298` Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
-- `INS-260403-4F0D` Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate.
 - `INS-260330-3398` When eBay switched affiliate payments from confirmed registrations to activated users, registrations dropped 20% but active user growth massively accelerated.
 - `INS-260330-4553` When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
+- `INS-260403-4F0D` Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate.
 - `INS-260330-9C48` When eBay switched from paying affiliates per confirmed registration to per activated user, registrations dropped 20% but active users only dropped 5% -- then growth accelerated.
 - `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
 - `INS-260403-028F` Startup investors need domain expertise and skin in the game—two things structurally absent from government bureaucracies.

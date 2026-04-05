@@ -11,5 +11,5 @@
 - `INS-260403-E300` Making failure publicly visible locks founders into persistence more effectively than potential upside.
 - `INS-260329-8CA3` Distinguishing shame (violating others' rules) from guilt (violating your own) reveals that most inaction is driven by rules you never consciously chose.
 - `INS-260404-D471` Social activism and regulatory changes can render entire business models unviable, not just reduce margins.
-- `INS-260404-6891` When most players in an ecosystem publicly commit to a standard, the holdouts face disproportionate reputational cost.
 - `INS-260402-8C0E` Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
+- `INS-260404-6891` When most players in an ecosystem publicly commit to a standard, the holdouts face disproportionate reputational cost.

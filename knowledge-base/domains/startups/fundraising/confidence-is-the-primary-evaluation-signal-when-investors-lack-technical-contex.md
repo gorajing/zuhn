@@ -55,11 +55,11 @@ related:
   - INS-260322-760A
   - INS-260322-3646
   - INS-260323-4457
-  - INS-260327-E3ED
   - INS-260327-FD18
   - INS-260402-4719
   - INS-260403-6F52
   - INS-260403-4337
+  - INS-260403-6620
 ---
 Graham identifies a structural problem in startup pitching: people who are bad at explaining talk to people who are bad at understanding. Given brief time slots and non-technical audiences, investors often can't properly evaluate the product itself. In this information vacuum, founder confidence becomes the dominant signal.
 

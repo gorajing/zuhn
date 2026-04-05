@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 158 insights
+> 159 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-8A1D` [high] Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors.
@@ -153,6 +153,7 @@
 - `INS-260330-4830` [medium] When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
 - `INS-260330-DE65` [medium] Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
 - `INS-260404-5E8F` [medium] RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
+- `INS-260405-9DB6` [medium] Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.
 - `INS-260404-C9B5` [medium] Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.
 - `INS-260403-F6F9` [medium] Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
 - `INS-260329-9101` [medium] A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.

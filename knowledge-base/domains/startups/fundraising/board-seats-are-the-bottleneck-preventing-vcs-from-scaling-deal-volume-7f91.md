@@ -49,6 +49,7 @@ related:
   - INS-260403-498A
   - INS-260330-6204
   - INS-260403-A57D
+  - INS-260405-6524
 ---
 Paul Graham identifies a structural flaw in VC economics: the cost of a board seat forces VCs to demand 20%+ ownership at series A, which means the investment amount is set by the investor's model rather than the company's needs. This creates a principal-agent misalignment where VCs push excess capital on startups.
 

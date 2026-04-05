@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 42 insights
+> 44 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -43,4 +43,6 @@
 - `INS-260330-819E` [medium] Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
 - `INS-260329-A862` [medium] Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
 - `INS-260325-2069` [medium] The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
+- `INS-260405-0E77` [medium] AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
 - `INS-260325-3CB5` [medium] AI, clean energy, and bioengineering are all hitting exponential growth tipping points at the same time.
+- `INS-260405-18C8` [low] Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.

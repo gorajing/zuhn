@@ -1,19 +1,21 @@
 # Tag: fundraising
 
-- `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
 - `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
+- `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
 - `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260403-9E0E` Once a startup makes enough to cover founders' living expenses, the entire relationship with investors shifts from desperation to negotiation.
 - `INS-260321-E8CB` One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
 - `INS-260404-09E8` Tell stories about specific users with specific problems to prove demand isn't theoretical.
-- `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
-- `INS-260330-4DFA` Distribution beats product in the strategic hierarchy because running out of customers or money kills you before a mediocre product does.
 - `INS-260328-7CA9` Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
 - `INS-260320-F751` Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
+- `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
+- `INS-260330-4DFA` Distribution beats product in the strategic hierarchy because running out of customers or money kills you before a mediocre product does.
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260327-4B5A` Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
+- `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
@@ -32,6 +34,7 @@
 - `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260405-4FC0` At early stage, detailed business model discussion consumes time from your strong suit and exposes your weak one.
+- `INS-260405-33A5` Investors expect your business model to change three times; show you understand the problem instead.
 - `INS-260403-2247` Mention monetization to show you've thought about it, but don't elaborate — the model is probably wrong anyway.
 - `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.
@@ -54,6 +57,7 @@
 - `INS-260402-421B` Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
 - `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
 - `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
+- `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260330-975D` Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
 - `INS-260403-78B7` Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
 - `INS-260404-394A` Describe your product as a specific, graspable thing rather than an abstract vision to hold investor attention.
@@ -82,11 +86,10 @@
 - `INS-260330-EE5E` Small investors who don't understand startup timelines (uncles, neighbors putting in $5-10K) become the most problematic investors because they treat startup equity like a short-term liquid investment.
 - `INS-260330-478B` Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
 - `INS-260403-1949` Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
+- `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
 - `INS-260405-F9EC` Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
-- `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
-- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.

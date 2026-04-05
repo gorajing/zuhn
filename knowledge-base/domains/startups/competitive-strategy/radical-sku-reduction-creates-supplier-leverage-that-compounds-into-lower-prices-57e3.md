@@ -50,7 +50,6 @@ stance: >-
   accepting lower margins for guaranteed volume.
 related:
   - INS-260321-52EF
-  - INS-260321-4B99
   - INS-260324-6C5F
   - INS-260327-8388
   - INS-260327-8389
@@ -59,6 +58,7 @@ related:
   - INS-260403-4874
   - INS-260404-37BB
   - INS-260404-1EA6
+  - INS-260404-3E82
 ---
 While a typical supermarket carries 30,000 items and Walmart Supercenter stocks 140,000, Costco offers only about 4,000 SKUs. This radical constraint means each product category has just one or two choices, making those slots extraordinarily valuable to suppliers. Companies will lower prices, customize packaging, and reengineer products (like redesigning cashew containers to save 24,000 pallets annually) just to win a Costco slot.
 
