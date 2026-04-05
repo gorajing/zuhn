@@ -62,5 +62,8 @@ evidence:
   - id: INS-260330-5747
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-0350
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 At Stripe, engineers report that they no longer start work in the text editor. Work begins in Slack threads, Google docs, or Jira tickets — the natural places where ideas originate. An emoji click triggers a minion that provisions an environment, writes code, runs tests, and opens a PR. The key insight is that this isn't primarily about speed of code generation — it's about collapsing the activation energy gap between 'good idea' and 'work in progress.' In large organizations, friction between an idea and its implementation comes from three sources: functional (lacking technical access), operational (coordination overhead), and cultural (siloed thinking). AI agents reduce all three simultaneously. This reframes the value proposition: the bottleneck was never typing speed, it was the overhead of starting.

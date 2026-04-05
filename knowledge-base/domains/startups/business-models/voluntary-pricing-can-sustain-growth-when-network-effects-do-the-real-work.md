@@ -49,10 +49,10 @@ stance: >-
   the primary asset, not per-user revenue
 related:
   - INS-260330-F9CA
+  - INS-260405-631B
   - INS-260403-C40D
   - INS-260403-9104
   - INS-260404-62D5
-  - INS-260322-B450
 evidence:
   - id: INS-260330-F9CA
     type: SUPPORTS

@@ -66,6 +66,12 @@ evidence:
   - id: INS-260330-4C23
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-7680
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-A850
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Lahav draws a historical parallel: security looked completely different when economic value was primarily physical (bodyguard services) versus digital (cybersecurity). Now a third transition is underway as economic activity moves to human-on-AI and AI-on-AI interactions. Even enterprises providing the same service will have fundamentally different backends in the autonomous age, just as Netflix and Blockbuster provided the same value (content access) through completely different architectures requiring completely different security.
 

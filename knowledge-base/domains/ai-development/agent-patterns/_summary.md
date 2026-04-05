@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 36 insights
+> 37 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260321-2482` [high] When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
@@ -38,3 +38,4 @@
 - `INS-260325-23BA` [medium] Linda described Peter Steinberger's OpenClaw vision: a master agent with your full memory spawns context-specific sub-agents — a work persona for Microsoft workspace, a different persona for social apps — keeping your core data private.
 - `INS-260402-5CF0` [medium] When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260327-35C7` [medium] Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
+- `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.

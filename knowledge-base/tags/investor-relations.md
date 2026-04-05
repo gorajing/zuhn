@@ -6,14 +6,17 @@
 - `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260403-D36D` Whoever holds organizational power imposes their schedule type on everyone else, usually at makers' expense.
+- `INS-260405-371F` Experienced investors are better at detecting bullshit than early founders are at producing it — candid rawness beats practiced polish.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
+- `INS-260405-D6B9` A spectacularly wrong business model pushes your real value proposition out of investors' memory — don't crowd out the good with the guesswork.
 - `INS-260405-33A5` Investors expect your business model to change three times; show you understand the problem instead.
 - `INS-260403-D7C4` Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260404-0430` Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.
+- `INS-260405-3DDF` As your description expands to cover everything, it converges to saying nothing — be narrow first, then flesh it out.
 - `INS-260403-5A4F` Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - `INS-260404-F560` As a startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.
 - `INS-260403-86DB` Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.

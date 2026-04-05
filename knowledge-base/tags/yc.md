@@ -9,9 +9,9 @@
 - `INS-260403-71D1` YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - `INS-260403-D1D0` Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
 - `INS-260330-A78C` YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
-- `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260404-8A02` Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
 - `INS-260403-743D` Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
+- `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260403-B2EB` YC funded Steve and Alexis despite rejecting their idea, then steered them to Reddit — proving founder quality matters more than initial pitch.
 - `INS-260328-6F5B` YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.

@@ -53,6 +53,10 @@ related:
   - INS-260327-D0F3
   - INS-260330-E263
   - PRI-260328-FD47
+evidence:
+  - id: INS-260329-E193
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham illustrates this with VisiCalc: Bricklin and Frankston wrote it for the Apple II because they personally liked that machine. They could have chosen any platform — the Apple II became a star because its creators chose it as users first and developers second. This is not a one-off anecdote but a structural pattern in technology markets.
 

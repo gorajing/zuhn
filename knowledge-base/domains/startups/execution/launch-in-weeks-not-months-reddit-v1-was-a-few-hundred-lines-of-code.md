@@ -55,6 +55,10 @@ related:
   - INS-260403-4964
   - INS-260329-14AE
   - INS-260326-C305
+evidence:
+  - id: INS-260329-14AE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Paul Graham explicitly pushed the Reddit founders to launch fast, arguing that a version one of a link-sharing site didn't need to be more than a couple hundred lines of code. They launched roughly three weeks into the first YC batch with just a handful of initial users — the founders, some batchmates, and college friends.
 

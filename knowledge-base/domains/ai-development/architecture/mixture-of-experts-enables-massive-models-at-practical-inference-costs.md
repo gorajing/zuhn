@@ -49,6 +49,10 @@ related:
   - INS-260403-5FD1
   - PRI-260328-D893
   - INS-260329-FEF4
+evidence:
+  - id: INS-260322-F46F
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 DeepSeek R1 spans from 7B to 671B parameters, with the full model requiring 400+ GB. The practical viability of such large models depends on mixture-of-experts (MoE) architecture, where only a subset of parameters activates for any given input. This is how DeepSeek makes a 671B model feasible despite hardware constraints.
 

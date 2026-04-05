@@ -2,21 +2,22 @@
 
 - `INS-260329-C4F5` Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
-- `INS-260330-C367` Thunderbird pilots build 9G tolerance by flying twice daily for 4 months, and lose it within weeks of inactivity.
-- `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260327-7315` Austria's Archduke Charles reformed the Austrian army by copying Napoleon's corps system, which enabled Austria to defeat Napoleon at Aspern-Essling.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
+- `INS-260330-C367` Thunderbird pilots build 9G tolerance by flying twice daily for 4 months, and lose it within weeks of inactivity.
+- `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260330-EACA` RuBisCo evolved when oxygen was rare; when plants produced oxygen, the enzyme started confusing O2 for CO2 half the time, creating toxic byproducts.
 - `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
+- `INS-260403-3D7D` RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
+- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
+- `INS-260404-5309` RuBisCo's oxygen-confusion problem shows that optimization for one context creates vulnerabilities when context shifts — a pattern visible in careers, companies, and cognitive habits.
+- `INS-260405-3048` RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
+- `INS-260403-B5E2` RuBisCo was rational in a low-oxygen world — the trap emerged when oxygen levels rose after plants had fully committed to the enzyme.
 - `INS-260330-E5DC` RuBisCo worked perfectly in low-oxygen atmospheres but its O2-confusion failure mode was invisible until plants changed their own environment — success can hide latent vulnerabilities.
 - `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
 - `INS-260330-8C54` Instincts calibrated for normal environments become deadly when the environment fundamentally changes — surviving requires overriding your deepest impulses.
 - `INS-260403-53C9` Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
-- `INS-260403-3D7D` RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
-- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
-- `INS-260404-5309` RuBisCo's oxygen-confusion problem shows that optimization for one context creates vulnerabilities when context shifts — a pattern visible in careers, companies, and cognitive habits.
-- `INS-260403-B5E2` RuBisCo was rational in a low-oxygen world — the trap emerged when oxygen levels rose after plants had fully committed to the enzyme.
 - `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
 - `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.

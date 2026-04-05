@@ -47,6 +47,10 @@ resolutions:
 stance: >-
   AI agents need specific roles with clear return value instructions to prevent
   vague responses
+evidence:
+  - id: INS-260403-0350
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 
 When creating specialized agents (code review, error resolver, etc.),

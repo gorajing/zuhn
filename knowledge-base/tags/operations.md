@@ -11,10 +11,11 @@
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
 - `INS-260402-8595` Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - `INS-260328-3A00` YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
+- `INS-260405-194D` Costco's average $21/hour wage (double retail average) produces 3x productivity, making it a unit-economics win rather than a values trade-off.
 - `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
 - `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
+- `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - `INS-260405-1AAC` Costco's 4,000-SKU constraint gives it monopoly-like negotiating power with suppliers who desperately want to be one of two choices in a category.
-- `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.

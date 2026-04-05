@@ -40,16 +40,16 @@ stance: >-
   In venture-scale investing, portfolio return is dominated by a tiny number of
   outlier wins, making individual loss rates nearly irrelevant
 related:
-  - INS-260325-0688
   - INS-260322-98D2
   - INS-260327-24F4
   - INS-260330-9933
   - INS-260403-9775
   - INS-260403-BB6B
+  - INS-260325-0688
+  - INS-260405-3403
   - INS-260330-070A
   - INS-260330-22D6
   - INS-260403-215E
-  - INS-260403-17E1
 evidence:
   - id: INS-260322-98D2
     type: SUPPORTS

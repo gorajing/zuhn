@@ -55,6 +55,6 @@ related:
   - INS-260325-031F
   - INS-260327-A9D5
   - INS-260329-500E
-  - INS-260322-4757
+  - INS-260405-1CAA
 ---
 Chase identifies the fundamental difference between building software and building agents: in software, all logic is in the code and you can read it to understand behavior. In agents, a large part of the logic comes from the model — a non-deterministic black box. This means you can't look at code and tell what the agent would do in a specific scenario; you have to run it and observe. Traces become far more important than in traditional software (where you'd just set a breakpoint locally). People use traces from the very start of development, not just in production debugging. The implications cascade: testing must be online (behavior doesn't emerge until real-world inputs), collaboration happens around traces (not GitHub code review), and debugging starts with 'send us the LangSmith trace' instead of 'show me the code.' This represents a paradigm shift in how engineering teams work: the trace becomes the shared artifact around which the team collaborates, not the codebase.

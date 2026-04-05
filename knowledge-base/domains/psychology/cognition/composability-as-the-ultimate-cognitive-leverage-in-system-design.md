@@ -55,6 +55,10 @@ related:
   - INS-260329-21C0
   - INS-260329-BA12
   - INS-260329-33D4
+evidence:
+  - id: INS-260404-5440
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham highlights that when a language is made entirely of expressions, 'you can compose expressions however you want.' The if-then-else can go inside an assignment or wrap one — both are valid. This isn't just syntactic convenience; it's a combinatorial explosion of expressiveness from a single design choice. Mixing composable elements (expressions) with non-composable ones (statements) arbitrarily limits what you can build.
 

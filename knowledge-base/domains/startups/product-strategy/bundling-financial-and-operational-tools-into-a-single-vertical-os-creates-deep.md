@@ -55,6 +55,10 @@ related:
   - INS-260322-F6AA
   - PRI-260328-43F1
   - PRI-260323-49F8
+evidence:
+  - id: INS-260327-B9AD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 fidu combines tuition collection, loan programs, communications, and learning management into one platform for schools. This bundling strategy mirrors patterns seen in other vertical SaaS winners: once you handle both the money flow and the operational workflow, you become the system of record that administrators cannot abandon without massive disruption.
 

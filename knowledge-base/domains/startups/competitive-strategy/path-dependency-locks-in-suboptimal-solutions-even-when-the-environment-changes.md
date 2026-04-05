@@ -52,14 +52,13 @@ stance: >-
   into it even when conditions change, because the cost of switching exceeds the
   cost of compensating for the original strategy's flaws.
 related:
+  - INS-260405-F20F
   - INS-260403-1731
   - INS-260404-D39F
   - INS-260330-6ECA
   - INS-260330-BFA2
-  - INS-260403-262F
   - INS-260330-5DFF
   - INS-260403-962E
-  - INS-260405-8B89
 evidence:
   - id: INS-260330-051F
     type: TRANSFERS_TO

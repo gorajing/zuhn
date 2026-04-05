@@ -44,7 +44,6 @@ stance: >-
   themselves are unobserved, because attention disrupts the perceptual mode that
   enables their skill.
 related:
-  - INS-260327-62AB
   - INS-260327-31BD
   - INS-260403-272E
   - INS-260327-18D4

@@ -54,10 +54,10 @@ stance: >-
   fails half the time
 related:
   - INS-260330-6ECA
+  - INS-260405-F20F
   - INS-260330-43CA
   - INS-260404-5DE4
   - INS-260403-D518
-  - INS-260403-262F
 evidence:
   - id: INS-260330-AB3C
     type: TRANSFERS_TO

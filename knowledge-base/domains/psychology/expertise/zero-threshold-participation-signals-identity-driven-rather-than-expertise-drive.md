@@ -57,6 +57,10 @@ related:
   - INS-260402-E76D
   - INS-260403-4788
   - INS-260403-D6FE
+evidence:
+  - id: INS-260329-C34B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham identifies a diagnostic signal: compare a JavaScript thread to a religion thread. The JavaScript thread grows slowly because people self-filter — they stay quiet unless they feel qualified. The religion thread explodes because everyone feels qualified by virtue of having strong beliefs, not knowledge.
 

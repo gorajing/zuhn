@@ -53,6 +53,10 @@ related:
   - INS-260329-F7F4
   - INS-260322-F891
   - INS-260329-4DBC
+evidence:
+  - id: INS-260322-F891
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Six competing landing page tools all market themselves on speed of setup — minutes, not days. This convergence means the technical barrier to running a demand test has effectively disappeared. Any founder can have a landing page live within an hour.
 

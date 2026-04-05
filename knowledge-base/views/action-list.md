@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3988 actionable insights
+Generated on 2026-04-05 | 3997 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1165,7 +1165,6 @@ Generated on 2026-04-05 | 3988 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
-- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -1527,6 +1526,7 @@ Generated on 2026-04-05 | 3988 actionable insights
 - [INS-260404-6AD7] CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.
 - [INS-260404-3C96] The electron transport chain teaches that understanding complex systems requires tracing energy/value transformations at each intermediate step.
 - [INS-260405-6433] Screening participants for baseline expertise before a workshop allows the group to skip basics and immediately tackle advanced, nuanced challenges.
+- [INS-260405-41AC] The phrase 'already read' is nearly ill-formed — the book you read at 25 is not the same book at 45.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1561,6 +1561,7 @@ Generated on 2026-04-05 | 3988 actionable insights
 - [INS-260403-C55B] Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
 - [INS-260405-C3B0] The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
 - [INS-260405-4C63] Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
+- [INS-260405-D606] Getting the problem statement right is not preliminary work — it is the core intellectual work.
 
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
@@ -3019,6 +3020,11 @@ Generated on 2026-04-05 | 3988 actionable insights
 - [INS-260405-28E2] Describing your startup too narrowly is safer than describing it too vaguely — precision gives investors something to latch onto.
 - [INS-260405-C22F] Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
 - [INS-260405-4B31] What are people doing right now with inadequate tools? That story is worth more than any market size number.
+- [INS-260405-283A] The inability to find a soundbite isn't a wordsmithing failure — it's a signal that the strategy itself isn't sharp enough.
+- [INS-260405-371F] Experienced investors are better at detecting bullshit than early founders are at producing it — candid rawness beats practiced polish.
+- [INS-260405-D6B9] A spectacularly wrong business model pushes your real value proposition out of investors' memory — don't crowd out the good with the guesswork.
+- [INS-260405-3DDF] As your description expands to cover everything, it converges to saying nothing — be narrow first, then flesh it out.
+- [INS-260405-672E] Investors' biggest fear is that you built something nobody wants — concrete user stories are the antidote to that fear.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3353,6 +3359,8 @@ Generated on 2026-04-05 | 3988 actionable insights
 - [INS-260405-5617] When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
 - [INS-260405-9DF5] Early testing is habit-forming — the first win creates momentum that refinement-first teams never build.
 - [INS-260405-6BBC] Knowing the Business Model Canvas is not enough — running a room of skeptical executives through it productively requires a separate and trainable skill set.
+- [INS-260405-69F1] Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
+- [INS-260405-3403] You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -4008,6 +4016,7 @@ Generated on 2026-04-05 | 3988 actionable insights
 - [INS-260404-86F8] Costco's $60 membership fee, confusing layouts, and bulk-only quantities each filter for affluent, high-spending customers who become loyal advocates.
 - [INS-260404-5587] Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
 - [INS-260405-225B] SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
+- [INS-260405-D8AA] Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

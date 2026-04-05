@@ -53,5 +53,9 @@ related:
   - INS-260326-2410
   - PRI-260328-1ED1
   - PRI-260403-FBA8
+evidence:
+  - id: INS-260329-422F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Current automation excels at friction-removal for structured tasks: food ordering, payments, scheduling. The moment a situation is complex, ambiguous, or emotionally charged, users still escalate to a human. To replace services in education, healthcare, or therapy, AI must go beyond efficiency — it must be relatable, patient, and adaptive to the user's state. This is what NFX calls 'software with a soul': not personality gimmicks but genuine responsiveness to tone, context, and emotional subtext (as early signals like Hume.AI suggest). For product designers and AI developers, this means evaluating not just task completion rates but interaction quality in edge cases, complaint resolution, and emotionally loaded scenarios. The agents that develop this layer will have durable moats; those that don't will be commoditized as commodity automation.

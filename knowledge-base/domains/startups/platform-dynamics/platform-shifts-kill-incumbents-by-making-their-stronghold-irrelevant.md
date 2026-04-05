@@ -46,5 +46,9 @@ related:
   - INS-260403-202E
   - INS-260327-25D7
   - INS-260322-5678
+evidence:
+  - id: INS-260403-3587
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham identifies that Microsoft's death came from four simultaneous forces that all pointed in one direction: away from the desktop. Google proved web apps could be powerful (Gmail), Ajax made them responsive, broadband made them fast, and Apple captured the remaining desktop users who cared. The key insight is that none of these forces competed with Microsoft on Microsoft's terms — they collectively made Microsoft's terms irrelevant. This is the classic disruption pattern: the incumbent's stronghold doesn't get conquered, it gets bypassed. For anyone building on a current dominant platform, the existential risk isn't a better competitor — it's the entire platform becoming irrelevant.

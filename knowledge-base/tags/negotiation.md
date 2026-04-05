@@ -8,14 +8,15 @@
 - `INS-260323-3CD0` When Trump recognized Jerusalem as Israel's capital — something everyone said would 'end the world' — the sun rose the next morning, proving the barrier was artificial and opening space for the Abraham Accords.
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
-- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
 - `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
 - `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260329-8B55` Negotiate price and terms separately — agree on price first, then structure seller financing so you pay from the business's own cash flow.
+- `INS-260405-4871` Fewer SKUs means each supplier slot is scarce, flipping the power dynamic so suppliers adapt to Costco's needs rather than the reverse.
 - `INS-260405-D9C8` Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
 - `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.

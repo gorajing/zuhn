@@ -58,6 +58,10 @@ related:
   - INS-260321-9906
   - PRI-260328-8317
   - INS-260322-CCAA
+evidence:
+  - id: INS-260322-CCAA
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 BioAscent's original messaging described their offering in purely technical terms: 'robotic retrieval, temperature-controlled facility that allows you to bespoke select compounds.' After applying the Value Proposition Canvas and understanding the distinct jobs-to-be-done for biologists versus chemists, they completely rewrote their positioning. For chemists, they spoke about 'ultimate control of compounds screened.' For biologists, they emphasized 'maximizing your budget and increasing screening success.'
 

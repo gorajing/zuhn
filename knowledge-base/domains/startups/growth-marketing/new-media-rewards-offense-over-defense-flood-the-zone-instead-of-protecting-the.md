@@ -52,8 +52,8 @@ related:
   - PRI-260322-DCDB
   - INS-260330-DAAD
   - PRI-260321-5857
+  - INS-260405-41AC
   - INS-260402-F772
-  - INS-260329-AA30
 stance: In old media you could never correct a misinterpretation
 evidence:
   - id: INS-260402-F772

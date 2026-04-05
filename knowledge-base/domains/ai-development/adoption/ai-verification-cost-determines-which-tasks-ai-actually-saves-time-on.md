@@ -70,6 +70,9 @@ evidence:
   - id: INS-260327-6C54
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-F4F6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Evans proposes a practical framework for evaluating AI utility: the cost of verifying AI output must be lower than the cost of doing the task yourself. Marketing use cases pass this test — having AI generate 200 images and picking 10 good ones is far more efficient than humans making 10 images. But data entry fails — if you must check all 200 numbers the AI copied from PDFs, you might as well do it yourself.
 

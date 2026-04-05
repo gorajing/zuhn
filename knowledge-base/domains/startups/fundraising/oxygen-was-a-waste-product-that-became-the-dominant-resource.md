@@ -48,10 +48,10 @@ stance: >-
   life — today's byproducts may be tomorrow's core value proposition
 related:
   - INS-260330-2119
+  - INS-260405-FBD7
   - INS-260404-8050
   - INS-260330-C7C2
   - INS-260403-882A
-  - INS-260330-E786
 ---
 Early photosynthetic organisms produced oxygen as a literal waste product of water splitting. This 'pollution' was so toxic to anaerobic life that it caused the Great Oxidation Event, one of the largest mass extinctions in Earth's history. Yet that same waste product became the foundation for aerobic respiration, enabling the evolution of all complex animal life.
 

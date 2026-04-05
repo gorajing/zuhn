@@ -55,6 +55,7 @@ related:
   - INS-260404-BD17
   - INS-260404-9158
   - INS-260404-93E3
+  - INS-260405-D6B9
 ---
 A VC speaking at YC described investing in experienced founders whose business model he expected to change three times before they got it right. The business model at the early stage is just guesses about things outside the founders' expertise.
 

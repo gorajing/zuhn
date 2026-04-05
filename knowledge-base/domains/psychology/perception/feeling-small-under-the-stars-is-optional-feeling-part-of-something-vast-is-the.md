@@ -50,10 +50,10 @@ resolutions:
     between these frames is the difference between paralysis and participation.
 related:
   - INS-260326-7F56
+  - INS-260404-7C3F
   - INS-260325-05E4
   - INS-260330-A949
   - INS-260325-F500
-  - INS-260323-1B0B
 stance: >-
   Frebel reframes the human smallness narrative: lying under the southern Milky
   Way, she doesn't feel small

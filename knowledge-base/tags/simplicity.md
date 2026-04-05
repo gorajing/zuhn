@@ -24,5 +24,5 @@
 - `INS-260404-8466` Costco stocks 4,000 SKUs versus Walmart's 140,000, concentrating all purchasing volume into fewer suppliers who compete fiercely for shelf space.
 - `INS-260404-7BEE` Fewer choices means more volume per item, which means more power over suppliers and lower costs.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
-- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
+- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.

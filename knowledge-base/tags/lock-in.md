@@ -1,6 +1,10 @@
 # Tag: lock-in
 
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
+- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
+- `INS-260404-D975` Once deeply committed to a strategy, systems cope with its flaws rather than replace it, because replacement cost exceeds inefficiency cost.
+- `INS-260404-1D8F` RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
+- `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260404-2D53` Costco's mandatory $60-120 membership triggers sunk-cost reasoning that makes customers stop comparing prices, creating loyalty that optional programs cannot replicate.
 - `INS-260405-9F38` Optional subscriptions self-select for rational evaluators who keep comparing prices; mandatory ones commit everyone equally.
@@ -8,10 +12,6 @@
 - `INS-260403-CE5F` Costco's mandatory membership triggers sunk-cost reasoning on every shopping trip, while Amazon Prime's optional nature lets non-subscribers self-select out.
 - `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
 - `INS-260403-543E` Both Costco and Amazon Prime exploit sunk-cost psychology, but Costco's mandatory fee creates universal lock-in while Prime's optional fee only captures self-selecting customers.
-- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
-- `INS-260404-D975` Once deeply committed to a strategy, systems cope with its flaws rather than replace it, because replacement cost exceeds inefficiency cost.
-- `INS-260404-1D8F` RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
-- `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
@@ -19,6 +19,7 @@
 - `INS-260403-3E1C` RuBisCo is a poor enzyme that plants can never replace, so they produce 40 billion tons of it and build workaround systems instead.
 - `INS-260403-9E63` RuBisCo has been suboptimal for hundreds of millions of years but remains universal because every downstream plant process depends on it.
 - `INS-260403-D482` RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
+- `INS-260330-0371` Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
 - `INS-260330-E039` RuBisCo is bad at its job but became the most abundant protein on Earth (40 billion tons) because early plants scaled it before alternatives evolved.
 - `INS-260403-BA93` Photosynthesis is complicated, inefficient, and confusing—yet it powers virtually all life because it got there first.
 - `INS-260330-9A60` Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
@@ -49,11 +50,13 @@
 - `INS-260330-0E1E` RuBisCo is a slow, error-prone enzyme that life committed to early and now cannot replace despite 40 billion tons of it being needed to compensate for its inefficiency.
 - `INS-260330-4C3A` RuBisCo is a terrible enzyme that plants can never replace because their entire metabolism depends on it — a biological case study in permanent lock-in from early architectural decisions.
 - `INS-260330-1A23` Free samples designed to eliminate the user's ability to revert create permanent lock-in.
-- `INS-260330-0371` Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
 - `INS-260404-D6EC` ARM's 1,000+ partner ecosystem creates switching costs that no single competitor can overcome, even with superior technology.
 - `INS-260403-3F05` RuBisCo shows how early design choices become permanent constraints that systems compensate around rather than replace.
 - `INS-260330-F7F4` Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
 - `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
+- `INS-260404-1C48` RuBisCo is a mediocre enzyme that dominates all life on Earth because it arrived first and everything was built on top of it.
+- `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
+- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-FAE9` RuBisCo's 450-million-year reign shows that dominant systems compensate for flaws rather than replace core mechanisms.
@@ -83,8 +86,6 @@
 - `INS-260403-818F` RuBisCo was built for a low-oxygen world and became too entrenched to replace when oxygen levels rose, forcing plants to build workarounds instead.
 - `INS-260330-6ECA` RuBisCo is a terrible enzyme that dominates Earth because plants committed to it before oxygen made it fail half the time, compensating with 40 billion tons of production instead of evolving a replacement.
 - `INS-260330-CBF8` Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
+- `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
 - `INS-260330-3FCF` Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
-- `INS-260404-1C48` RuBisCo is a mediocre enzyme that dominates all life on Earth because it arrived first and everything was built on top of it.
-- `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
-- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.

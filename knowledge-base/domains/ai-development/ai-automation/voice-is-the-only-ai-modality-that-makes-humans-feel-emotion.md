@@ -75,6 +75,9 @@ evidence:
   - id: INS-260325-D82A
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-0949
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 ElevenLabs' thesis is that voice is the only AI modality that can genuinely make humans feel something. Text can convey a poem or story, but it lacks the visceral emotional quality of hearing a whispered ASMR voice or a deep cinematic narration. This emotional bandwidth makes voice uniquely powerful as an interface.
 

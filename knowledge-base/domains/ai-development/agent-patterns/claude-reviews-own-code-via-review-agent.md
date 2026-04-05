@@ -53,6 +53,9 @@ evidence:
   - id: INS-260329-92E9
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-F60C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 
 Create a specialized code review agent that reviews Claude's own output.

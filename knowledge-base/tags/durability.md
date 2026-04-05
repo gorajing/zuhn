@@ -3,8 +3,8 @@
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260330-AB58` Justinian's legal codification outlived the Byzantine Empire by centuries and became the foundation of European law — proving that structured knowledge systems are more durable than the institutions that create them.
 - `INS-260327-65E7` British ships were built heavier and more durable than French ships, which were faster but more fragile — in prolonged fleet actions, British durability won because the ships could absorb damage and keep fighting.
-- `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
 - `INS-260405-4C63` Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
+- `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
 - `INS-260327-BA97` Cuneiform was used for over 3,000 years - the most durable information technology ever created, outlasting every subsequent writing system and technology.
 - `INS-260330-9470` 75-85% of a tech company's value comes from cash flows 10+ years out — we overvalue growth rates and undervalue durability because growth is measurable now while longevity is qualitative.
 - `INS-260329-4842` Write-back cache gains speed by risking data loss on crash; write-through guarantees consistency but is slower; write-around optimizes reads but has cold-cache penalties — every caching decision is a durability bet.

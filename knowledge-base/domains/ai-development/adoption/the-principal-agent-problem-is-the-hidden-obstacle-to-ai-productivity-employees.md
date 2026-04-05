@@ -75,6 +75,15 @@ evidence:
   - id: INS-260403-D022
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-43E5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-C125
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-365D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The principal-agent problem in AI adoption: every individual employee is an agent whose rational self-interest is to work as little as possible while getting paid as much as possible. If AI lets a lawyer draft contracts in 4 hours instead of 8, the lawyer gets a productivity gain (golf time) but the company may see zero improvement.
 

@@ -51,7 +51,6 @@ stance: >-
   advantages.
 related:
   - INS-260324-6C5F
-  - INS-260327-7681
   - INS-260403-46BD
   - INS-260403-08FE
   - INS-260404-975A
@@ -60,6 +59,7 @@ related:
   - INS-260404-79EC
   - INS-260404-86F8
   - INS-260404-9783
+  - INS-260404-FB91
 evidence:
   - id: INS-260404-029D
     type: REFINES

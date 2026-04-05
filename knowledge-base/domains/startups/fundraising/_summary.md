@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 321 insights
+> 326 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -11,6 +11,7 @@
 - `INS-260402-6BB6` [high] Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260403-9EB1` [high] Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260403-25A8` [high] Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
+- `INS-260405-371F` [high] Experienced investors are better at detecting bullshit than early founders are at producing it — candid rawness beats practiced polish.
 - `INS-260403-C7A9` [high] Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260328-9415` [high] Standard Capital's YC-style batch process for Series A compressed the entire fundraising timeline to two weeks and roughly four hours of founder time.
 - `INS-260404-3275` [high] Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
@@ -64,6 +65,7 @@
 - `INS-260403-C496` [high] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260403-481F` [high] Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
+- `INS-260405-D6B9` [high] A spectacularly wrong business model pushes your real value proposition out of investors' memory — don't crowd out the good with the guesswork.
 - `INS-260403-600F` [high] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` [high] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260404-5721` [high] Smart investors expect early-stage business models to be wrong, so pitch time is better spent on the problem and solution.
@@ -183,6 +185,7 @@
 - `INS-260405-28E2` [high] Describing your startup too narrowly is safer than describing it too vaguely — precision gives investors something to latch onto.
 - `INS-260404-394A` [high] Describe your product as a specific, graspable thing rather than an abstract vision to hold investor attention.
 - `INS-260403-39B0` [high] Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
+- `INS-260405-3DDF` [high] As your description expands to cover everything, it converges to saying nothing — be narrow first, then flesh it out.
 - `INS-260404-4573` [high] Concrete narrow descriptions stick in investors' heads while broad visionary language gets discarded as meaningless boilerplate.
 - `INS-260403-507E` [high] Describe your startup as a specific, graspable thing rather than abstracting it into meaningless generality.
 - `INS-260403-5A4F` [high] Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
@@ -262,6 +265,7 @@
 - `INS-260403-39F9` [high] Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - `INS-260404-3217` [high] Investors' biggest early-stage fear is that you built from theory, not need — specific user stories and 'proxy for demand' signals directly counter this.
 - `INS-260404-AC2B` [high] Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
+- `INS-260405-672E` [high] Investors' biggest fear is that you built something nobody wants — concrete user stories are the antidote to that fear.
 - `INS-260404-4024` [high] Specific user stories and proxy-for-demand evidence resolve the biggest investor objection: that nobody actually wants what you've built.
 - `INS-260404-5248` [high] Specific user stories — especially founder-as-user stories — are the strongest early signal of demand for investors evaluating pre-traction startups.
 - `INS-260403-53AA` [high] Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
@@ -292,6 +296,7 @@
 - `INS-260403-FAFA` [high] Early-stage VCs suffer more from missing winners than from funding losers, which means founders should emphasize upside potential over risk mitigation.
 - `INS-260403-C2BE` [high] VCs fund spiky excellence over well-rounded competence, so founders should highlight their extraordinary strengths rather than shore up weaknesses.
 - `INS-260405-3E57` [medium] Investors hear dozens of pitches per event — the startup that left a single memorable phrase is the one that gets the follow-up email.
+- `INS-260405-283A` [medium] The inability to find a soundbite isn't a wordsmithing failure — it's a signal that the strategy itself isn't sharp enough.
 - `INS-260404-7060` [medium] Deliberately concentrating resources behind a bottleneck and releasing them through one optimized channel creates disproportionate output.
 - `INS-260403-F447` [medium] When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - `INS-260402-8E29` [medium] Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.

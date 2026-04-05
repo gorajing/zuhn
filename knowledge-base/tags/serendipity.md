@@ -12,6 +12,7 @@
 - `INS-260330-8AC8` Yahoo, Google, Facebook, and Apple all started as side projects — the best ideas are such outliers that your conscious mind rejects them as company ideas.
 - `INS-260325-D624` GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
 - `INS-260403-5C74` Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
+- `INS-260405-FBD7` Photosynthesis evolved to fix carbon and produce glucose; oxygen was a waste product that happened to make complex animal life possible.
 - `INS-260403-227B` Oxygen—the gas that enabled all complex animal life—is technically just the waste product of photosynthesis splitting water to replace lost electrons.
 - `INS-260404-D0A5` Oxygen — the molecule all animal life depends on — was originally just a waste product of photosynthesis, not its purpose.
 - `INS-260404-A51E` Oxygen, the foundation of animal life, is photosynthesis's waste product — monitor your system's byproducts for hidden value.

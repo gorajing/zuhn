@@ -71,5 +71,8 @@ evidence:
   - id: INS-260327-BB71
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-0350
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Chase pushes past the cliche that 'building agents is different from building software.' The precise difference: in software development, you iterate based on what you want the software to do — you ship, get feedback, adjust. But you know what the software does before you ship it. With agents, you don't know what the agent does before you ship it. You have an idea, but the actual behavior is emergent and non-deterministic. This means there's an entire additional iteration loop: understanding what the agent is actually doing, not just deciding what you want it to do. This is why memory becomes critical — if the development process is way more iterative, and changing system prompts is the analog of changing code, then a system that can learn from its own interactions reduces the iteration burden on the developer. Chase predicts that most companies won't build their own harnesses long-term because it's actually harder than building a framework — the complexity is in context engineering, not just tool integration.

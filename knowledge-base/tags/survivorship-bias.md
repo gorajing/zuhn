@@ -26,7 +26,7 @@
 - `INS-260327-7C23` Over 90% of independent NYC pizzerias survive a decade, but the true failure rate is hidden behind thousands of private backroom deals where new operators take over existing names and kitchens.
 - `INS-260403-91DB` Sears, Toys-R-Us, and J.C. Penney died from their own failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260328-58B1` Name the 20 software companies you respect most — not one of them made it in a year.
+- `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
 - `INS-260404-8CEE` Sears, Toys-R-Us, and RadioShack died from strategic failures, not from Amazon's existence — Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260403-6CA8` Sears, Toys-R-Us, and RadioShack died not because of Amazon but because they failed to adapt, while Ross, Aldi, Dollar General, and Costco thrived in the same environment.
 - `INS-260330-5E47` Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
-- `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.

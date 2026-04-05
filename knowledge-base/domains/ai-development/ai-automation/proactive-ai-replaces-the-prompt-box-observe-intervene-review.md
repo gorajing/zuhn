@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-8AA1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-C37B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Mark Andreesko argues the prompt box is dying as the primary AI interface. The best AI apps will behave like S-tier employees: they identify problems, research solutions, implement one, and only ask for final approval. This shifts AI software from a $300-400B software TAM to attacking the $13T US labor market.
 

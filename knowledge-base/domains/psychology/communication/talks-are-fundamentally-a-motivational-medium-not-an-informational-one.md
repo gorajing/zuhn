@@ -56,6 +56,13 @@ related:
   - INS-260403-BDE0
   - INS-260404-0CD8
   - INS-260403-B505
+evidence:
+  - id: INS-260405-2E46
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260322-4090
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham suggests that public speaking's original and primary purpose is motivational. The emotional reactions elicited by a live talk are a powerful force — but they're better suited for inspiring action than transmitting nuanced ideas. The fact that most famous speakers are categorized as 'motivational' is not a coincidence but a reflection of what the medium actually optimizes for.
 

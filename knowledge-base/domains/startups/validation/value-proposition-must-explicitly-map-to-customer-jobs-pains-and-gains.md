@@ -54,6 +54,10 @@ related:
   - INS-260329-EBBB
   - INS-260329-EC98
   - INS-260329-C996
+evidence:
+  - id: INS-260322-7DD5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Most founders describe their value proposition in vague terms — 'we save time' or 'we make it easier.' The Value Proposition Canvas forces decomposition into three concrete dimensions: what jobs the customer is trying to get done, what pains they experience in the process, and what gains they desire. This structured mapping reveals gaps between what you think matters and what actually drives purchase decisions.
 

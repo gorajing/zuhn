@@ -1,13 +1,13 @@
 # Domain: ai-development
 
-> 974 insights across 24 topics
+> 975 insights across 24 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | adoption | 21 | Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis. |
-| agent-patterns | 36 | Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards. |
+| agent-patterns | 37 | Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards. |
 | ai-agents | 39 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 21 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-capabilities | 99 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |

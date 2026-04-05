@@ -102,6 +102,24 @@ evidence:
   - id: INS-260330-19C3
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-F908
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-8E0B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-5C74
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260404-FF39
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260404-52FC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-6AD7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Calvin Cycle's ultimate product isn't glucose — it's G3P (Glyceraldehyde 3-Phosphate), a high-energy 3-carbon compound that plants can convert into glucose for short-term energy, cellulose for structure, or starch for long-term storage. The system doesn't optimize for one output; it optimizes for a flexible intermediate.
 

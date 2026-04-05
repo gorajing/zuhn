@@ -11,9 +11,9 @@
 - `INS-260330-43CF` PayPal started with 20,000 eBay power sellers, Facebook with 10,000 Harvard students — markets dismissed as worthless that enabled 25-60% penetration in months before expanding outward.
 - `INS-260329-8299` CS50's success proves that designing for complete beginners captures the largest possible audience.
 - `INS-260403-D99E` Scientist-founders lose deals by prioritizing how cool the science is over how big the market opportunity is.
-- `INS-260403-B387` AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - `INS-260330-548B` Prioritize market growth rate over current size when evaluating startup ideas, because a small fast-growing market offers better startup dynamics than a large stagnant one.
 - `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - `INS-260330-D5BD` Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
 - `INS-260404-A95D` Demonstrating what workarounds people currently use proves demand more convincingly than citing market size numbers.
 - `INS-260330-CFBA` Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
+- `INS-260403-B387` AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.

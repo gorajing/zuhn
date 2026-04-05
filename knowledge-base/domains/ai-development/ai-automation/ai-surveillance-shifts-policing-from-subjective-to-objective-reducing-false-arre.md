@@ -64,6 +64,12 @@ evidence:
   - id: INS-260330-F258
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-F8AE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-67C5
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Flock Safety's technology creates a paradigm shift from subjective-based policing (officer pulls over someone matching a vague description) to objective-based policing (AI confirms the exact vehicle). This has profound implications for reducing false arrests and racial profiling.
 

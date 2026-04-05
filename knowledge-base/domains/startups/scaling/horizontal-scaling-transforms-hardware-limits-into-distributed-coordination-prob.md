@@ -57,5 +57,8 @@ evidence:
   - id: INS-260329-5DB9
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260405-1282
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Vertical scaling has a clear failure mode: you hit the hardware ceiling. Horizontal scaling appears to remove that ceiling, but introduces sharding decisions, replication lag, consistency tradeoffs, and network partition handling — none of which have clean upper bounds. The mistake founders make is treating 'just add more servers' as a solution rather than a problem transformation. You're trading a problem you can throw money at (bigger machine) for a problem that requires architectural sophistication (distributed consensus). For early-stage startups, this means vertical scaling is often the correct choice far longer than engineering culture admits, because the coordination tax of horizontal scaling compounds with every new feature.

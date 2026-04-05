@@ -54,6 +54,10 @@ related:
   - INS-260330-A3F2
   - INS-260321-D01E
   - INS-260403-E1EB
+evidence:
+  - id: INS-260321-D01E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX identifies three specific signals that mark the closing of an infrastructure investment window: (1) the ratio of known value to unknown value shifts toward the known, meaning certainty gets priced in and upside shrinks; (2) competing requires billions in upfront capital, limiting the game to incumbents; (3) network effects create switching costs that make displacement nearly impossible — users have history, context, plugins, and workflows embedded in existing platforms.
 

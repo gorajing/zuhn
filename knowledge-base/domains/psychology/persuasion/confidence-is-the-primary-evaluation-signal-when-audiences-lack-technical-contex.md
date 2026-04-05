@@ -57,6 +57,7 @@ related:
   - INS-260404-AFE6
   - INS-260404-ED0F
   - INS-260404-438C
+  - INS-260405-371F
 ---
 Graham identifies a structural information asymmetry in investor pitches: audiences have limited time and often lack technical depth to evaluate what's being presented. In this vacuum, the founder's own evident confidence becomes the dominant signal. Crucially, this must be shown rather than told — saying 'we're passionate' or 'our product is great' triggers skepticism, while genuine enthusiasm communicated through demeanor and depth of knowledge is persuasive.
 

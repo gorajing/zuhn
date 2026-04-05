@@ -74,6 +74,12 @@ evidence:
   - id: INS-260321-7D76
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-2D99
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260405-9409
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Mike Cannon-Brookes argues that the 'system of record' mental model is as outdated as the floppy disk save icon. Modern knowledge businesses are actually collections of processes — some input-constrained and some output-constrained — and this distinction determines how AI transforms each.
 

@@ -75,6 +75,9 @@ evidence:
   - id: INS-260321-D484
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-72C2
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The underlying AI capabilities are improving dramatically, but UX is not accelerating at the same rate. This gap between what AI can do and what users can effectively access through the interface is the biggest opportunity in AI product building.
 

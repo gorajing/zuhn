@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 263 insights
+> 265 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -172,6 +172,7 @@
 - `INS-260403-818F` [high] RuBisCo was built for a low-oxygen world and became too entrenched to replace when oxygen levels rose, forcing plants to build workarounds instead.
 - `INS-260330-6ECA` [high] RuBisCo is a terrible enzyme that dominates Earth because plants committed to it before oxygen made it fail half the time, compensating with 40 billion tons of production instead of evolving a replacement.
 - `INS-260330-CBF8` [high] Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
+- `INS-260405-F20F` [high] RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260404-B1AB` [high] RuBisCo is terrible at its job but 40 billion tons of it run the biosphere because early life scaled quantity over quality.
 - `INS-260330-4489` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
 - `INS-260404-9229` [high] When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
@@ -216,6 +217,7 @@
 - `INS-260403-D1D4` [medium] Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
 - `INS-260403-9276` [medium] Annotate each business model with its trajectory (growing, shrinking, shifting) to detect slow-moving disruption before it becomes irreversible.
 - `INS-260404-0022` [medium] Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.
+- `INS-260405-D8AA` [medium] Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
 - `INS-260403-F249` [medium] Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest the imbalance through ATP synthase — a model for how deliberate asymmetry creation drives all productive work.
 - `INS-260322-5E5D` [medium] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
 - `INS-260403-57FF` [medium] If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.

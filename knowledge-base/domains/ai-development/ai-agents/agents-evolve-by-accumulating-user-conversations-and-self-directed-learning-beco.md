@@ -78,6 +78,9 @@ evidence:
   - id: INS-260327-019C
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-6BF7
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Korean YouTuber Kim Moon-jeong's experience with AI agents demonstrates compound personalization. Her coin-trading agent doesn't just execute trades — it remembers every conversation, learns from links she shares, and makes increasingly refined decisions. When she shared chart analysis tools, the agent followed the instructions exactly and began identifying patterns independently.
 

@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 261 insights
+> 263 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -69,6 +69,7 @@
 - `INS-260329-49E6` [high] Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
 - `INS-260404-8A87` [high] Only copy work you authentically enjoy, not work you admire for its status.
 - `INS-260404-9213` [high] Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
+- `INS-260405-41AC` [high] The phrase 'already read' is nearly ill-formed — the book you read at 25 is not the same book at 45.
 - `INS-260330-B7C6` [high] Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
 - `INS-260403-62AF` [high] A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
 - `INS-260329-04CB` [high] Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
@@ -89,6 +90,7 @@
 - `INS-260330-3B73` [high] Knowing how a bicycle's reversed steering works doesn't help you ride it — procedural competence requires separate neural pathways from declarative knowledge.
 - `INS-260330-7DE0` [high] Intellectual knowledge of a system's mechanics provides zero ability to execute the corresponding motor skill.
 - `INS-260330-B57C` [high] Knowing how a bike works doesn't help you ride one with reversed steering — knowledge and understanding are fundamentally different.
+- `INS-260405-8412` [high] Your mind is a compiled program whose source code you've lost — the program still runs correctly.
 - `INS-260402-4BC7` [high] Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260403-449D` [high] Programs where participants work on real projects during training transfer skills more effectively than lecture-based alternatives.
 - `INS-260404-BEF7` [high] Photosystem II was discovered before Photosystem I but functions first in the chain, creating unnecessary confusion for every student who encounters it.

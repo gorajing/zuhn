@@ -87,6 +87,9 @@ evidence:
   - id: INS-260329-8F86
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-2138
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Every entrepreneur says they want to be AI-first, but most are just using ChatGPT for emails. The prerequisite is being data-first: having complete data on all elements of your business with proper architecture in place. Only then can you add AI layers with reinforcement training to actually automate work.
 

@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-94FE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-EF20
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Stephanie Zhan identifies a fundamental shift: content and applications must now be optimized for agent consumption, not human attention. Agents don't need hooks or visual hierarchy — they read everything and extract relevance. The new optimization target is machine legibility.
 

@@ -48,6 +48,10 @@ related:
   - INS-260322-0C28
   - INS-260329-B6DF
   - INS-260323-D621
+evidence:
+  - id: INS-260322-0C28
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Joly echoes Bezos: Amazon focused on customers while competitors focused on Amazon. Best Buy's partnership with Amazon — giving them exclusive Fire TV rights in Best Buy stores — stunned media who expected the two to be mortal enemies. Instead, both recognized that a TV is a considered purchase best experienced in-store.
 

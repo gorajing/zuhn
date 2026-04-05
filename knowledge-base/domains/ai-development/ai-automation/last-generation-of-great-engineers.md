@@ -59,6 +59,15 @@ evidence:
   - id: INS-260402-70FD
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-7FFA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-DBD2
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-EFAF
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 
 AI is creating a bifurcation in engineering talent, not a uniform

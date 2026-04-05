@@ -49,13 +49,13 @@ related:
   - INS-260325-FDB3
   - INS-260323-85E7
   - INS-260323-422B
-  - INS-260323-FDB8
   - INS-260326-6B98
   - INS-260326-286F
   - INS-260327-DBA1
   - INS-260327-7F11
   - INS-260327-4348
   - INS-260327-6992
+  - INS-260329-EF89
 ---
 Graham challenges the assumption that '15 big hits per year' is a cosmological constant, arguing that the limiting factor is the number of good founders — not technology or ideas — and that this number could grow 10-50x. If big hits go from 15 to 50-100 annually, the best pickers will have dramatically more winners to find.
 

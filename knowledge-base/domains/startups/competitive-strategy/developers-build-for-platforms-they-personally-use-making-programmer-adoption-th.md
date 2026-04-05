@@ -60,6 +60,10 @@ related:
   - INS-260403-D2B1
   - INS-260403-FCA6
   - INS-260403-64A5
+evidence:
+  - id: INS-260329-E193
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham observes that most applications — and most startups — grow out of personal projects. Apple itself exists because Wozniak wanted a computer he could afford. The iPhone's app ecosystem thrived primarily because programmers carried iPhones, not because of market share statistics. RIM's Blackberry market share was irrelevant because developers didn't use Blackberries personally.
 

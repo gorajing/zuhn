@@ -68,6 +68,12 @@ evidence:
   - id: INS-260327-4367
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-6652
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-89C3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 This 45,000-word, 3.75-hour tutorial covers C programming fundamentals — but the actual novel, extractable knowledge is remarkably thin. The content is intentionally repetitive (concepts explained multiple ways), heavily scaffolded (step-by-step IDE setup), and syntactically focused (how to write a for-loop). For a knowledge system, almost none of this is worth storing as insights because it's either reference material (syntax) or universally known programming concepts.
 

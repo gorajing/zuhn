@@ -49,11 +49,12 @@ stance: >-
   problem is not your communication skill but your strategic focus.
 related:
   - INS-260329-560D
-  - INS-260403-EF30
   - INS-260403-26D3
   - INS-260404-E0B5
   - INS-260404-C2BC
   - INS-260404-0AF3
+  - INS-260403-EF30
+  - INS-260405-283A
 ---
 Paul Graham recommends creating a sticky descriptive phrase ('the Microsoft Word of ecommerce') and notes this exercise is valuable not just for investor communication but as a diagnostic tool. If you can't compress your startup into one compelling phrase, your plans may not be sufficiently focused. The compression requirement forces you to identify what is truly distinctive.
 

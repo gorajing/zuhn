@@ -6,11 +6,11 @@
 - `INS-260320-6CCE` Take time to review the plan thoroughly — you'd be surprised how often you catch silly mistakes before implementation.
 - `INS-260320-04A2` Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
 - `INS-260323-A5EC` LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
-- `INS-260327-BF89` Flow engineering -- explicitly designing the agent's state machine rather than relying on LLM implicit planning -- is the current best practice for reliable agent deployment, though it may become unnecessary as models improve.
 - `INS-260329-7673` ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
 - `INS-260329-0F39` Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
 - `INS-260323-DC99` As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
 - `INS-260323-E0B5` Text-only planning (markdown PRDs) is insufficient for vibe coding — parallel visual artifacts like user flows and tree views of functional specs provide the contextual consistency AI agents need.
+- `INS-260327-BF89` Flow engineering -- explicitly designing the agent's state machine rather than relying on LLM implicit planning -- is the current best practice for reliable agent deployment, though it may become unnecessary as models improve.
 - `INS-260402-40D7` Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260327-8C58` Many of the best things in life happened because you weren't planning for them - rigid planning eliminates the serendipity that produces the most meaningful outcomes.
 - `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
@@ -18,6 +18,6 @@
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260327-0E86` Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
-- `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260328-93C8` The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
+- `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.

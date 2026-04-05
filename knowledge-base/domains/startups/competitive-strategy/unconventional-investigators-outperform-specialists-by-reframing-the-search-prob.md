@@ -66,5 +66,8 @@ evidence:
   - id: INS-260329-1DA3
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260403-3587
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Gary Alford, an IRS tax inspector assigned to trace laundered money, had essentially no knowledge of Bitcoin, Tor, or dark web technology. Yet he identified Ross Ulbricht before the FBI or DEA teams who had been investigating for years with far more resources. His method was strikingly simple: Google the Silk Road web address, filter by early 2011 dates, and look for the first person to mention it online. This 'digital parking ticket' approach — inspired by the Son of Sam case where a detective checked parking tickets near murder scenes — exemplifies how reframing the problem beats brute-forcing it. The FBI was trying to break Tor anonymity and trace Bitcoin transactions (technically hard problems). Gary asked a simpler question: 'Who was the first person to promote this site?' This outsider-advantage pattern applies broadly in competitive strategy — incumbents optimize within their frame while outsiders find adjacent angles. The lesson: when stuck on a hard problem, ask whether you're solving the right problem or just the obvious one.

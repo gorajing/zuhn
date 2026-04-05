@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 97 insights
+> 98 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -21,6 +21,7 @@
 - `INS-260330-B3D5` [high] RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260404-03E7` [high] RuBisCo was perfectly adequate in low-oxygen atmospheres but became self-sabotaging when plants' own success raised oxygen levels.
 - `INS-260404-5309` [high] RuBisCo's oxygen-confusion problem shows that optimization for one context creates vulnerabilities when context shifts — a pattern visible in careers, companies, and cognitive habits.
+- `INS-260405-3048` [high] RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
 - `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260403-FBC0` [high] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260404-1289` [high] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.

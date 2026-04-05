@@ -48,6 +48,10 @@ related:
   - INS-260403-B4DC
   - INS-260330-83D5
   - INS-260325-F981
+evidence:
+  - id: INS-260327-E0B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that distraction is not a rock you avoid once—it actively seeks you out and evolves. Television refined itself over 50 years into 'visual crack,' and as people learned to avoid TV, the internet emerged as an even more potent distractor delivered directly to work computers.
 

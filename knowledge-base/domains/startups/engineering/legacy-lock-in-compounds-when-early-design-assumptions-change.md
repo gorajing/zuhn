@@ -54,7 +54,6 @@ stance: >-
   the workaround cost grows with scale
 related:
   - INS-260330-50B3
-  - INS-260330-D304
   - INS-260330-3FF4
   - INS-260403-F52E
   - INS-260403-D563

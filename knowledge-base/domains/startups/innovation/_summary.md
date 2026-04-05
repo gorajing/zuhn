@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 99 insights
+> 103 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
@@ -20,6 +20,7 @@
 - `INS-260403-D8A2` [high] Sears, Toys-R-Us, and RadioShack died not because retail died but because they failed to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260403-E3C4` [high] Cultural shift from planning-execution to experimentation-iteration is the primary barrier to enterprise innovation, not tooling.
 - `INS-260403-2DF9` [high] Innovation practice requires leaders to trust evidence from testing processes rather than overriding them with intuition.
+- `INS-260405-69F1` [high] Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-268F` [high] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260404-00CD` [high] Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
@@ -28,6 +29,7 @@
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-2E6C` [high] Innovation success depends on volume of cheap experiments, not quality of individual bets.
 - `INS-260405-6BBC` [high] Knowing the Business Model Canvas is not enough — running a room of skeptical executives through it productively requires a separate and trainable skill set.
+- `INS-260405-3403` [high] You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
 - `INS-260403-6224` [high] Innovation program assessment requires dual axes: value creation and culture change capacity.
 - `INS-260404-CD55` [high] Embedding legal and compliance as collaborative partners in the innovation program design phase transforms them from blockers into enablers.
 - `INS-260403-383F` [high] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
@@ -46,6 +48,7 @@
 - `INS-260403-8D2C` [high] New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260403-2BEE` [high] Growth experiments need independent spaces with dedicated resources to avoid being absorbed by the core business's gravitational pull.
 - `INS-260403-E4AD` [high] The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
+- `INS-260405-FBD7` [high] Photosynthesis evolved to fix carbon and produce glucose; oxygen was a waste product that happened to make complex animal life possible.
 - `INS-260403-81D4` [high] You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
 - `INS-260404-17DD` [high] Established business models produce antibodies that kill fragile new initiatives transferred too early.
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
@@ -74,6 +77,7 @@
 - `INS-260403-E7E1` [high] When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260403-DF01` [medium] Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260403-47BF` [medium] Lack of structured innovation processes is itself a warning sign that the organization is behind.
+- `INS-260405-FBF1` [medium] An innovation Sharpe Ratio gives CFOs a risk-adjusted metric to compare experimentation against other asset classes rather than treating it as pure cost.
 - `INS-260403-5D81` [medium] Applying behavioral science to innovation training ensures skills actually transfer to daily work rather than fading post-program.
 - `INS-260405-5617` [medium] When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
 - `INS-260403-42F2` [medium] Lego Factory shows that powerful business model innovation can come from rejiggering fulfillment rather than reinventing the company.

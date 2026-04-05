@@ -60,6 +60,13 @@ related:
   - INS-260322-5790
   - INS-260330-A86C
   - INS-260403-64A5
+evidence:
+  - id: INS-260329-E193
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260322-68FE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX draws a direct historical parallel between the iPhone app explosion and the current AI wave. After the iPhone launched in 2007, the breakthrough consumer apps (WhatsApp, Uber, Instagram, Snap, DoorDash) emerged in a golden period starting roughly 18 months later and running for about 5 years. They argue AI is following the same trajectory: founders need time to deeply understand the product and design possibilities before building truly native applications rather than incremental improvements.
 

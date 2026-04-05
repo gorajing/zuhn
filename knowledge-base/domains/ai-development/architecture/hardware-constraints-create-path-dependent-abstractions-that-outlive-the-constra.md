@@ -56,6 +56,16 @@ related:
   - INS-260404-C7A1
   - INS-260323-3920
   - INS-260329-0A55
+evidence:
+  - id: INS-260330-6494
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-B640
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-C7A1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The expression vs. statement distinction in programming languages is Graham's most illustrative example of path dependency. Fortran was line-oriented because input came from punch cards — you couldn't nest statements, so there was no point making everything return a value. When block-structured languages arrived and removed the physical constraint, the conceptual distinction was already entrenched and propagated through Algol into virtually every mainstream language.
 

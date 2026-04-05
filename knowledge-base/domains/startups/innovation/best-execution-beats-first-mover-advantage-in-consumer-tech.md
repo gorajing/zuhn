@@ -50,6 +50,10 @@ related:
   - INS-260327-8C1C
   - INS-260323-5609
   - INS-260330-059C
+evidence:
+  - id: INS-260322-888D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Apple wasn't first with touchscreens, dual cameras, mobile payments, voice assistants, or facial recognition. Yet across 12 generations of iPhones, it consistently delivered the most polished implementation of each feature. This contradicts the startup orthodoxy that first-mover advantage is paramount.
 

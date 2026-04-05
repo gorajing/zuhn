@@ -50,5 +50,9 @@ related:
   - PRI-260328-D401
   - PRI-260321-7307
   - PRI-260328-7A4D
+evidence:
+  - id: INS-260320-1B10
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The 'minimalist' programmer archetype illustrates how domain expertise reshapes risk perception. Someone who understands software vulnerabilities—like the Therac-25 radiation overdose incident—develops a calibrated fear of systems that laypeople trust blindly. This is not paranoia but rational risk assessment informed by technical knowledge. The insight generalizes beyond programming: deep expertise in any domain reveals failure modes that novices cannot see, which means expert skepticism should be weighted differently from uninformed skepticism when evaluating technology adoption decisions.

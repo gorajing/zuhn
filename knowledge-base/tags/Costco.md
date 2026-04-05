@@ -7,6 +7,7 @@
 - `INS-260405-48EC` When membership fees are the primary revenue source, the company is structurally forced to keep product prices low to drive renewals.
 - `INS-260404-EAA7` When revenue comes from membership rather than markup, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-DD00` Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
+- `INS-260405-631B` Costco's $60 annual fee screens out price-sensitive customers and concentrates a cohort with ~$100k average household income and 90% annual renewal.
 - `INS-260404-35F8` When membership fees are the profit center, low prices become a feature, not a sacrifice.
 - `INS-260404-E298` When profit comes from renewals rather than markups, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-B8AE` Mandatory membership fees make the company's primary revenue dependent on customer satisfaction, not transaction margins.
@@ -20,6 +21,7 @@
 - `INS-260403-59F8` Making membership the primary revenue source forces the company to prioritize long-term customer satisfaction over short-term margin extraction.
 - `INS-260403-1208` Costco derives 75% of profit from membership fees, which forces it to prioritize renewal-worthy value over per-item margin extraction.
 - `INS-260403-F634` Costco's 75% revenue from memberships makes low prices a retention strategy, not a sacrifice.
+- `INS-260405-D4F4` Making membership the revenue source (not a loyalty add-on) structurally forces a company to serve customers rather than extract from them.
 - `INS-260404-F827` When membership IS the business model (not a perk), the company's profit motive aligns with delivering maximum customer value.
 - `INS-260403-FAE1` Making membership the primary revenue source forces the company to optimize for long-term customer satisfaction over short-term margin extraction.
 - `INS-260404-837E` Costco makes 75% of profit from membership fees, freeing it to keep markups at 11% average versus 24-35% for competitors.
@@ -39,8 +41,10 @@
 - `INS-260404-C4B9` Making membership the profit center forces the company to optimize for customer value rather than margin extraction.
 - `INS-260404-0298` Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
 - `INS-260403-E2D9` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive, making the wage premium a profit driver rather than a cost.
+- `INS-260405-4871` Fewer SKUs means each supplier slot is scarce, flipping the power dynamic so suppliers adapt to Costco's needs rather than the reverse.
 - `INS-260405-D9C8` Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
+- `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260403-AABF` Self-imposed constraints compound into structural advantages because each constraint reinforces the others and makes the whole system harder to copy piecemeal.
 - `INS-260403-B8CD` Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260403-0DC2` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize products to win placement.
@@ -55,10 +59,10 @@
 - `INS-260404-9B82` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers voluntarily lower prices and customize products to win placement.
 - `INS-260404-4780` Costco stocks ~4,000 SKUs vs Walmart's 140,000, making each slot so valuable that suppliers compete on price to win it.
 - `INS-260404-1B66` Extreme product curation concentrates buying power into fewer suppliers, creating leverage that funds lower prices.
-- `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260404-CEA8` Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
 - `INS-260404-0572` Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
+- `INS-260405-194D` Costco's average $21/hour wage (double retail average) produces 3x productivity, making it a unit-economics win rather than a values trade-off.
 - `INS-260403-83A8` Carrying 4,000 SKUs instead of 140,000 makes each slot so valuable that suppliers will cut prices and customize products to win placement.
 - `INS-260404-6A20` Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
 - `INS-260404-E1FF` Costco pays $21/hour (double retail average) with strong benefits, and gets employees three times more productive than competitors in return.

@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 98 insights
+> 99 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260405-C3B0` [high] The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
@@ -54,6 +54,7 @@
 - `INS-260403-D2FD` [high] The electron transport chain extracts energy through four sequential protein complexes rather than one step, a pattern that applies to any value-extraction system.
 - `INS-260330-E068` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
 - `INS-260330-B599` [high] Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
+- `INS-260405-D606` [high] Getting the problem statement right is not preliminary work — it is the core intellectual work.
 - `INS-260330-CE2F` [high] JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
 - `INS-260330-64D8` [high] If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260330-C02D` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.

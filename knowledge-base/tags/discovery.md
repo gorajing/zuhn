@@ -10,18 +10,18 @@
 - `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
 - `INS-260403-5215` Photosystem II was discovered before Photosystem I, so the 'first' complex in the chain is called II — and renaming would cause more confusion than it solves.
 - `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
+- `INS-260403-21A5` Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
 - `INS-260323-738D` The negative energy solutions in the Dirac equation were universally condemned as 'the saddest chapter in modern physics' — until Dirac proposed they predicted antimatter, and Carl Anderson accidentally found the positron in a cloud chamber just one year later.
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
-- `INS-260403-21A5` Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
 - `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260330-CCD4` Spotify's shift from search-based music access to algorithmic recommendations gave it unprecedented control over which artists succeed.
-- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
 - `INS-260327-B64E` Asking about everything a prospect has already tried and failed at surfaces deprivation, which creates the psychological urgency that drives buying decisions.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
 - `INS-260327-00EB` Bad sellers identify pain and pitch; good sellers indicate the cost; elite sellers implicate the pain so deeply the buyer feels they must act now or suffer personally.
 - `INS-260327-363C` Ask 'have you talked to your partner about this?' and 'have you set aside budget to solve this?' early in the conversation -- every objection that shows up at the close is one you failed to surface earlier.
 - `INS-260327-B6C7` When a prospect gives a vague answer like 'our current tools aren't working,' don't move on -- pick up the breadcrumb: 'Can you dig into what you're using right now and where the gaps are?' This surfaces real buying context.
+- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
 - `INS-260323-9BC8` Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.
 - `INS-260330-B27A` LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.

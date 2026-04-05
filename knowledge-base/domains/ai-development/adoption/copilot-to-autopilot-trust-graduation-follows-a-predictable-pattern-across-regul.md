@@ -56,6 +56,16 @@ related:
   - INS-260321-9A03
   - INS-260325-BC2A
   - INS-260403-D531
+evidence:
+  - id: INS-260327-0762
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-16AB
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-D531
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The pattern first emerged in radiology, where AI started as a second-opinion tool for detecting mammogram abnormalities, proved it could match or exceed trained radiologists on specific tasks, and is now increasingly seen as necessary infrastructure. This same trust graduation is now repeating across real estate compliance, legal document generation, and construction project management.
 

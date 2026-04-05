@@ -11,6 +11,7 @@
 - `INS-260404-29F4` Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
 - `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - `INS-260404-AC2B` Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
+- `INS-260405-672E` Investors' biggest fear is that you built something nobody wants — concrete user stories are the antidote to that fear.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-035A` Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
 - `INS-260404-B887` Tell specific stories about real users and their problems to counter the investor's biggest fear: that you've built something based on untested theories about what the world needs.

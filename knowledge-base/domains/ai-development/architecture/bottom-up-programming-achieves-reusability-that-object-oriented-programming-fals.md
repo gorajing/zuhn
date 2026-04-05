@@ -72,6 +72,9 @@ evidence:
   - id: INS-260402-0D16
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-F100
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham argues that reusability got incorrectly attached to object-oriented programming in the 1980s and has never been dislodged despite contrary evidence. The actual source of reusability is bottom-up programming — writing a program as a series of layers where each layer serves as a language for the one above. Libraries are reusable because they function as language, regardless of whether they use OOP patterns. A language is by definition reusable; the more of your application you push into a language for writing that type of application, the more reusable your software becomes.
 

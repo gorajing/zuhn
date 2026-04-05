@@ -56,7 +56,6 @@ related:
   - INS-260404-EC27
   - INS-260404-B086
   - INS-260404-86F8
-  - INS-260405-A164
 ---
 Costco's membership fee, warehouse layout, and bulk-only format look like obstacles to mainstream retail success. But each constraint serves a dual purpose: the $60 fee selects for households earning ~$100K average income; the confusing layout forces wandering through aisles (increasing discovery and spend); bulk quantities attract business owners who account for two-thirds of sales despite being one-third of members.
 

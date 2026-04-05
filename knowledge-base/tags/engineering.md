@@ -3,9 +3,9 @@
 - `INS-260320-8632` The last generation of great engineers may already be born — AI creates a widening split between exceptional and average.
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260323-4E12` The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
-- `INS-260330-BB53` Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
 - `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
+- `INS-260330-BB53` Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
 - `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
 - `INS-260329-8F86` ADTs define what operations are possible; data structures define how those operations are implemented — mastering this separation is what distinguishes great programmers.

@@ -52,5 +52,9 @@ related:
   - PRI-260322-8FD4
   - INS-260330-21CC
   - INS-260403-8011
+evidence:
+  - id: INS-260322-3263
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The essay highlights that AI personalization — one of the most compelling value propositions — requires user data that incumbents already possess. People log into Instagram daily and have everything in Google Drive or Sharepoint. A startup building the same AI capability faces a cold-start problem: they need user data to deliver value, but users won't switch without seeing value first. One workaround NFX suggests is delivering value outside the AI solution first, then grafting AI on later. This inverts the typical AI-first pitch and forces founders to ask: if you removed AI from the pitch deck, is this still a good business?

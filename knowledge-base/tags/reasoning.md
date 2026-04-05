@@ -3,21 +3,21 @@
 - `INS-260327-35C7` Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260323-05B5` AI agents will use existing software tools rather than replace them, just as a humanoid robot would use a microwave rather than beam microwaves from its fingers — Jensen predicted the OpenClaw architecture two years before it existed.
 - `INS-260320-5B49` Curated structured data enables REASONING about connections. Vector memory stores text blobs for retrieval. For business-ready context, structure wins.
+- `INS-260405-CCB4` AI development offers an empirical path to proving which cognitive principles are prerequisites for intelligence rather than contingent human conventions.
 - `INS-260323-F0A2` Each major AI leap — next-word prediction learning anything, predictable improvement from scale, and RL teaching reasoning — seemed 'too simple to work' to experts before being proven right.
 - `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
 - `INS-260322-32E3` Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
-- `INS-260405-CCB4` AI development offers an empirical path to proving which cognitive principles are prerequisites for intelligence rather than contingent human conventions.
 - `INS-260327-95D3` OpenAI's IMO gold came from general-purpose techniques for scaling test-time compute, not math-specific engineering.
 - `INS-260321-703F` Instead of 'write me X', ask 'what makes X work well?' then 'what principles apply here?' then 'now do it for my case' — the model reasons before generating instead of pattern-matching to common outputs.
 - `INS-260327-9BA2` LLMs manipulate language so well that people mistake fluency for intelligence, but they cannot invent or truly reason.
 - `INS-260323-A5EC` LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
 - `INS-260328-B19D` Zuckerberg revealed that coding was deprioritized in Llama 2 but became central to Llama 3 after discovering code training makes models more rigorous across all question types.
-- `INS-260325-20C4` OpenAI's Deep Research team: reinforcement learning on outcomes (not supervised examples) is what enables genuine multi-step reasoning in agents.
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
+- `INS-260325-20C4` OpenAI's Deep Research team: reinforcement learning on outcomes (not supervised examples) is what enables genuine multi-step reasoning in agents.
 - `INS-260325-82E8` The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.
 - `INS-260403-ABB7` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260329-9CBB` The squeeze theorem proves limits by showing a quantity is trapped between two converging bounds, teaching a general strategy of establishing upper and lower bounds when direct computation is impossible.
 - `INS-260329-76B8` The squeeze theorem shows that if you can trap an unknown function between two functions that both approach the same limit, the unknown must approach that limit too — even if you can never evaluate it directly.
-- `INS-260330-6C09` Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
 - `INS-260403-AA5B` Constructing something guaranteed to differ from every item on a list proves the list is fundamentally incomplete.
+- `INS-260330-6C09` Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.

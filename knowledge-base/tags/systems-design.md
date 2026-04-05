@@ -1,10 +1,10 @@
 # Tag: systems-design
 
 - `INS-260403-791A` Photosynthesis charges thylakoids like batteries via proton gradients before synthesizing ATP — a pattern of staged intermediate storage that applies to computational pipeline design.
-- `INS-260330-8638` The arrow hits the target precisely because it flexes around the obstacle, not despite it.
 - `INS-260330-3B0B` Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
-- `INS-260403-8125` Photosynthesis converts chaotic photon energy into standardized ATP/NADPH currencies before using them — a universal design pattern for managing complexity.
+- `INS-260330-8638` The arrow hits the target precisely because it flexes around the obstacle, not despite it.
 - `INS-260405-C780` Photosynthesis runs as two completely separate stages—light reactions convert photons into ATP and NADPH, then the Calvin cycle spends that stored currency to fix carbon—allowing each stage to be optimized, timed, and regulated independently.
+- `INS-260403-8125` Photosynthesis converts chaotic photon energy into standardized ATP/NADPH currencies before using them — a universal design pattern for managing complexity.
 - `INS-260404-BDE5` Chloroplasts charge thylakoids like batteries by pumping protons across membranes, then harvest the gradient through ATP synthase.
 - `INS-260403-464D` Photosynthesis stores energy by pumping protons across a membrane, then harvests it through ATP synthase—the same store-then-release pattern behind batteries, message queues, and pricing arbitrage.
 - `INS-260404-6876` Photosynthesis charges the thylakoid membrane like a battery by pumping protons to one side, then harvests that gradient through ATP synthase — useful work requires concentrated potential, not raw input.

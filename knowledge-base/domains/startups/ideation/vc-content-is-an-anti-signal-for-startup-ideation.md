@@ -49,7 +49,6 @@ stance: >-
   not more informed, by creating a shared consensus filter that homogenizes
   ideas.
 related:
-  - INS-260321-2564
   - INS-260321-3660
   - INS-260402-D739
   - INS-260403-C610

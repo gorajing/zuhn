@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-DE89
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-C355
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham's closing argument is that 'college is where faking stops working' — before this point, you can succeed by following rules and optimizing for metrics. After this point, in any environment that isn't 'like reverting to high school' (i.e., big companies), the only way forward is through genuine engagement with problems you actually care about.
 

@@ -59,6 +59,10 @@ related:
   - INS-260404-FF84
   - INS-260404-EE20
   - INS-260404-ABB1
+evidence:
+  - id: INS-260322-FD23
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The dominant retail strategy treats labor as a cost to minimize. Costco pays its 245,000 workers an average of $21/hour—double the U.S. retail average—plus superior health insurance and retirement benefits. The result is employees who are three times more productive than industry benchmarks.
 

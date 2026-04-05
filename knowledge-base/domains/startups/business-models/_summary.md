@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 234 insights
+> 237 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -92,6 +92,7 @@
 - `INS-260404-EAA7` [high] When revenue comes from membership rather than markup, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-AC1B` [high] Costco's $60-$120 membership fee filters for affluent customers ($100K average household income) who spend more and renew at 90%.
 - `INS-260404-DD00` [high] Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
+- `INS-260405-631B` [high] Costco's $60 annual fee screens out price-sensitive customers and concentrates a cohort with ~$100k average household income and 90% annual renewal.
 - `INS-260404-35F8` [high] When membership fees are the profit center, low prices become a feature, not a sacrifice.
 - `INS-260404-E298` [high] When profit comes from renewals rather than markups, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-B8AE` [high] Mandatory membership fees make the company's primary revenue dependent on customer satisfaction, not transaction margins.
@@ -110,6 +111,7 @@
 - `INS-260403-59F8` [high] Making membership the primary revenue source forces the company to prioritize long-term customer satisfaction over short-term margin extraction.
 - `INS-260403-1208` [high] Costco derives 75% of profit from membership fees, which forces it to prioritize renewal-worthy value over per-item margin extraction.
 - `INS-260403-F634` [high] Costco's 75% revenue from memberships makes low prices a retention strategy, not a sacrifice.
+- `INS-260405-D4F4` [high] Making membership the revenue source (not a loyalty add-on) structurally forces a company to serve customers rather than extract from them.
 - `INS-260404-F827` [high] When membership IS the business model (not a perk), the company's profit motive aligns with delivering maximum customer value.
 - `INS-260403-FAE1` [high] Making membership the primary revenue source forces the company to optimize for long-term customer satisfaction over short-term margin extraction.
 - `INS-260404-837E` [high] Costco makes 75% of profit from membership fees, freeing it to keep markups at 11% average versus 24-35% for competitors.
@@ -161,6 +163,7 @@
 - `INS-260403-0CA9` [high] Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
 - `INS-260404-1755` [high] ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
 - `INS-260403-F4CC` [high] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
+- `INS-260405-4871` [high] Fewer SKUs means each supplier slot is scarce, flipping the power dynamic so suppliers adapt to Costco's needs rather than the reverse.
 - `INS-260405-D9C8` [high] Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
 - `INS-260327-39D4` [high] 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
 - `INS-260404-6751` [high] AWS's recurring revenue model generates far higher margins than Amazon's transactional e-commerce, illustrating the structural superiority of subscription-based models.

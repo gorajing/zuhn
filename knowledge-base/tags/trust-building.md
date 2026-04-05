@@ -7,6 +7,6 @@
 - `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
 - `INS-260403-4102` Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
 - `INS-260323-AE9C` Hawaiian and Polynesian soldiers instinctively built relationships with Iraqi locals -- pointing gun muzzles skyward, throwing shakas, sharing tea -- and this cultural empathy directly reduced casualties compared to the previous unit.
-- `INS-260404-C9B5` Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.
 - `INS-260327-C083` The Snap deal almost died when Arcus pushed too hard for a quarter-end close — champions are built through progressive trust-testing across discovery, POV, and business case stages, and you can influence but never control the customer's pace.
 - `INS-260329-E96A` If you measure success by 'did I help them decide' instead of 'did they buy,' pressure disappears and close rates increase.
+- `INS-260404-C9B5` Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.

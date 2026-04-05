@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-4D0E
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-2A07
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Cellular respiration breaks glucose into usable energy (ATP) through three stages: glycolysis (2 net ATP), the Krebs Cycle (2 ATP), and the electron transport chain (34 ATP). The first two stages are essentially setup — glycolysis breaks glucose into pyruvate and the Krebs Cycle strips electrons onto carrier molecules (NADH, FADH2). The real payoff comes in the final stage, where those carriers drive proton pumps to mass-produce ATP.
 

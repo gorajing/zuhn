@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-4E95
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-AABF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Arbitrary transformations of space can do anything — curves, folds, tears. But this generality makes them impossible to reason about compactly. Linear transformations sacrifice expressiveness for tractability: by requiring that gridlines stay parallel and evenly spaced (and the origin stays fixed), you get a class of operations that are fully described by finite matrices, can be composed by matrix multiplication, and can often be inverted.
 

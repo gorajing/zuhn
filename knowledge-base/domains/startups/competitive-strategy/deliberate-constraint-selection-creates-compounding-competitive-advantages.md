@@ -58,6 +58,10 @@ related:
   - INS-260403-2D99
   - INS-260403-3F05
   - INS-260403-8402
+evidence:
+  - id: INS-260330-DE16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Costco's 15% markup cap seems like a handicap, but it cascades into multiple advantages: limited selection (4,000 vs 140,000 SKUs) gives immense negotiating leverage with suppliers who desperately want to be the one choice in their category. Suppliers lower prices and customize products to fit Costco's needs. The warehouse-style layout eliminates back-room costs. The mandatory membership fee filters for affluent, high-spending customers (average household income ~$100K).
 

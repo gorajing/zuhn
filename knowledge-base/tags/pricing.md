@@ -1,8 +1,8 @@
 # Tag: pricing
 
 - `INS-260323-F68A` Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
-- `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
 - `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
+- `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
 - `INS-260404-A938` Costco's mandatory membership triggers stronger sunk-cost loyalty than Amazon Prime's optional subscription because every member is psychologically invested.
 - `INS-260329-8602` Removing the small cup size forces customers to anchor on medium as the minimum, increasing average spend.
 - `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
@@ -11,6 +11,8 @@
 - `INS-260405-39A6` Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
 - `INS-260404-35B6` Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
 - `INS-260405-48EC` When membership fees are the primary revenue source, the company is structurally forced to keep product prices low to drive renewals.
+- `INS-260405-631B` Costco's $60 annual fee screens out price-sensitive customers and concentrates a cohort with ~$100k average household income and 90% annual renewal.
+- `INS-260405-D4F4` Making membership the revenue source (not a loyalty add-on) structurally forces a company to serve customers rather than extract from them.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260403-F5EE` People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
 - `INS-260403-BE7C` Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
@@ -29,16 +31,16 @@
 - `INS-260329-9098` The more specific your ideal customer avatar, the more you can charge because your offer feels custom-built for them.
 - `INS-260329-9D87` Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.
 - `INS-260322-1280` Some products are too cheap to bother replacing (janitorial services problem) — nobody optimizes a $50/month/person line item, which means competitors can't get in but incumbents can't be kicked out.
+- `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
+- `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
+- `INS-260329-6079` Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
 - `INS-260321-AA91` Enterprise customers resist AI credit-based pricing because credits are opaque (unlike transferable units like gigabytes), vendors can silently increase consumption by adding features, and outcome-based pricing creates a dynamic baseline problem where savings erode year over year.
 - `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260322-8BC5` Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
-- `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
-- `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
-- `INS-260329-6079` Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
 - `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
-- `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
 - `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
+- `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
 - `INS-260330-B8C5` Instead of free trials, offer annual agreements with a 30-60 day opt-out clause to get real commitment while giving prospects comfort.
 - `INS-260328-F3C4` If someone doesn't want the burrito, cutting the price just makes them wonder what's wrong with it.
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
@@ -49,11 +51,11 @@
 - `INS-260330-8B52` Instead of free trials, offer annual agreements with a 30-60 day cancellation window — buyers get the same safety net while you get real commitment.
 - `INS-260327-CD77` Start with an aggressively high price—first-time founders chronically underprice out of guilt.
 - `INS-260329-5924` Use the Value Equation (dream outcome × perceived likelihood / time delay × effort) to price based on value delivered rather than cost incurred.
+- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
+- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
+- `INS-260330-0F52` Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260322-8299` The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.
 - `INS-260405-8884` Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
 - `INS-260329-1F17` Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort/Sacrifice) — reducing the denominator often matters more than inflating the numerator.
-- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
-- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
-- `INS-260330-0F52` Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.

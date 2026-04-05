@@ -53,7 +53,7 @@ related:
   - INS-260330-E5DC
   - INS-260330-A3EB
   - INS-260330-D304
-  - INS-260330-4441
+  - INS-260405-3048
 ---
 RuBisCo evolved in a nearly oxygen-free atmosphere and was perfectly adequate. But as photosynthesis itself changed the atmosphere, the enzyme began binding oxygen instead of CO2 about half the time, producing phosphoglycolate — a toxic compound that interferes with the very Calvin Cycle RuBisCo serves. Plants now expend significant energy on photorespiration pathways just to clean up after their own core enzyme.
 

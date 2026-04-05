@@ -68,6 +68,9 @@ evidence:
   - id: INS-260327-2043
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-7B04
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Evans draws a direct line from enterprise SaaS history to the AI future. The typical large company today uses 400-500 SaaS apps, all basically doing things you could do in Oracle, Excel, or email — but wrapped in industry-specific workflows with curated UI choices that encode institutional knowledge.
 

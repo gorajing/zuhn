@@ -44,7 +44,6 @@ stance: >-
   failure to evolve than by Amazon's direct competitive pressure.
 related:
   - INS-260327-418E
-  - INS-260327-0710
   - INS-260327-1B4A
   - INS-260327-7BB5
   - INS-260330-B22D
@@ -53,5 +52,6 @@ related:
   - INS-260403-202E
   - INS-260403-FED6
   - INS-260403-D8A2
+  - INS-260404-3070
 ---
 The narrative that 'Amazon killed retail' obscures what actually happened. Sears tried to do everything poorly, J.C. Penney alienated its core customers, and Toys-R-Us dismissed the internet entirely. Meanwhile, Ross, Lush, Aldi, Dollar General, and Costco thrived during the same period. The common thread among failures was not online competition but internal complacency — maintaining '18th-century practices' while customer expectations evolved. This reframing matters for competitive strategy: the threat from disruptors is less about their direct superiority and more about whether incumbents use disruption as a forcing function to improve or as an excuse for decline.
