@@ -1,12 +1,12 @@
 # Tag: energy-conversion
 
 - `INS-260403-791A` Photosynthesis charges thylakoids like batteries via proton gradients before synthesizing ATP — a pattern of staged intermediate storage that applies to computational pipeline design.
+- `INS-260330-6E5F` ATP synthase converts proton concentration gradients into chemical energy — the same barrier-and-gradient pattern appears in effective system architectures.
 - `INS-260404-DDB5` Photosynthesis converts light energy through a four-complex electron transport chain rather than directly, because intermediary steps allow controlled energy capture at each stage.
 - `INS-260404-CDD2` The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency.
 - `INS-260404-64E2` Photosynthesis splits energy capture into four protein complexes because stepwise degradation is more controllable than single-step conversion.
 - `INS-260404-596E` The electron transport chain converts photon energy into usable ATP through a series of progressively lower-energy steps rather than one big reaction.
 - `INS-260404-D916` The electron transport chain deliberately loses energy at each step to power useful work like ATP synthesis, rather than converting photon energy to sugar in one step.
-- `INS-260330-6E5F` ATP synthase converts proton concentration gradients into chemical energy — the same barrier-and-gradient pattern appears in effective system architectures.
 - `INS-260403-B6E6` Thylakoids are charged like batteries by pumping protons to one side, then releasing them through ATP synthase to produce energy—imbalance is the engine.
 - `INS-260404-3500` Photosynthesis converts sunlight to sugar through a long chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each step losing energy but gaining reliability.
 - `INS-260404-2D92` The electron transport chain loses energy at every step but gains the ability to produce multiple useful outputs (ATP, NADPH, oxygen) from a single photon.

@@ -2,8 +2,8 @@
 
 - `INS-260330-4088` Hamas gained popular support primarily through building schools, mosques, and clinics in Gaza, not through its militant activities.
 - `INS-260330-C8E2` Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
-- `INS-260327-5200` Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.
 - `INS-260403-3F91` Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.
+- `INS-260327-5200` Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.
 - `INS-260404-9505` Costco's mandatory membership exploits sunk-cost bias universally, while Amazon Prime's optional model lets price-sensitive customers self-select out of the loyalty trap.
 - `INS-260404-B46E` Mandatory membership fees trigger universal sunk-cost loyalty across all customers, while optional subscriptions only lock in the subset who already calculated it worthwhile.
 - `INS-260404-ED19` Mandatory membership fees trigger stronger sunk-cost commitment than optional subscriptions because the buyer can't self-select out of the psychological lock-in.

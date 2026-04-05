@@ -59,8 +59,8 @@ related:
   - INS-260330-E0ED
   - INS-260330-AF47
   - PRI-260324-8EE6
+  - INS-260404-B6CC
   - INS-260402-D0F2
-  - INS-260330-ABBF
 ---
 Alexander identifies a specific mechanism by which public discourse degrades: the norm of 'directional correctness.' When someone makes an extreme claim ('Democrats will hunt and kill you') and faces pushback, they retreat to 'Well, it's directionally correct — Democrats do sometimes go overboard.' This creates a ratchet effect. If exaggeration is tolerated as long as it 'points to' something real, rational actors maximize their claims to the highest level they can plausibly walk back (classic motte-and-bailey). The result: 5% of the audience fully believes the extreme version, 50% absorb the connotation and update toward it, and gradually everyone treats politics as existential warfare.
 

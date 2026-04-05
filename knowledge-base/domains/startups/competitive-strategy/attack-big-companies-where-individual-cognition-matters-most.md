@@ -54,6 +54,7 @@ related:
   - INS-260322-88C3
   - INS-260403-0821
   - INS-260403-4CD0
+  - INS-260404-7834
 ---
 Large organizations treat people as interchangeable parts — a strategy that works for parallelizable tasks but actively undermines programming, which is fundamentally about ideas held in individual minds. The bureaucratic structure (meetings, shared codebases, specs-first processes) prevents any single person from achieving the deep understanding needed for breakthrough work.
 

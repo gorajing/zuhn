@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3638 insights across 35 topics
+> 3642 insights across 35 topics
 
 ## Topics
 
@@ -12,7 +12,7 @@
 | co-founders | 44 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 40 | Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch. |
 | community-building | 2 | Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay. |
-| competitive-strategy | 539 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 540 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 37 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | engineering | 42 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
@@ -24,9 +24,9 @@
 | growth-marketing | 128 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
 | growth-strategy | 63 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
 | health-innovation | 13 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
-| hiring | 44 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
+| hiring | 45 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 84 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| innovation | 95 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
+| innovation | 96 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
 | leadership | 177 | Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems. |
 | market-entry | 36 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | mental-models | 5 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
@@ -38,6 +38,6 @@
 | quality | 14 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 179 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
 | scaling | 158 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
-| strategy | 252 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| strategy | 253 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 56 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
 | validation | 150 | Pretty much 100% of startups that make something popular manage to make money from it. |

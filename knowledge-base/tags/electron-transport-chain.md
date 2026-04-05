@@ -9,8 +9,8 @@
 - `INS-260404-596E` The electron transport chain converts photon energy into usable ATP through a series of progressively lower-energy steps rather than one big reaction.
 - `INS-260404-A08A` The electron transport chain loses energy at every step, but each step performs a distinct useful function — a design pattern that applies to any multi-stage data or inference pipeline.
 - `INS-260404-3ABF` Sequential pipelines need periodic energy re-injection to sustain throughput, not just extraction at each stage.
-- `INS-260330-545E` The electron transport chain extracts energy from excited electrons across four protein complexes in small decrements, converting it to usable ATP and NADPH rather than releasing it as waste heat.
 - `INS-260330-3082` Nearly 90% of ATP yield comes from the electron transport chain, making mitochondrial health far more important than glucose availability for energy production.
+- `INS-260330-545E` The electron transport chain extracts energy from excited electrons across four protein complexes in small decrements, converting it to usable ATP and NADPH rather than releasing it as waste heat.
 - `INS-260404-2D92` The electron transport chain loses energy at every step but gains the ability to produce multiple useful outputs (ATP, NADPH, oxygen) from a single photon.
 - `INS-260403-D2FD` The electron transport chain extracts energy through four sequential protein complexes rather than one step, a pattern that applies to any value-extraction system.
 - `INS-260403-C725` The electron transport chain extracts energy through a series of small steps rather than one big reaction, a pattern that applies to how we should structure learning, negotiation, and value capture.

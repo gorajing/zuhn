@@ -2,6 +2,8 @@
 
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260327-EEBD` When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
+- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
+- `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
 - `INS-260330-F534` New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
 - `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
 - `INS-260327-C673` Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
@@ -9,8 +11,6 @@
 - `INS-260322-7723` AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
 - `INS-260327-E747` Build something 10X better, not incrementally better—that's how Gmail beat Hotmail.
 - `INS-260324-A046` UNIQLO identifies trending pieces too expensive for the mass market, replaces natural fibers with proprietary synthetics, and proactively tweaks design to exceed expectations through merit — not just price.
-- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
-- `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
 - `INS-260403-DC6C` Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
 - `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - `INS-260323-C90C` True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.

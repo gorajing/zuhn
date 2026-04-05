@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 58 insights
+> 59 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -40,6 +40,7 @@
 - `INS-260330-0FAF` [high] Which words are 'worst' shifts historically: religious oaths were most taboo when the church held power, bodily words when Victorian propriety reigned, and identity slurs now that social equality is the dominant moral framework.
 - `INS-260330-F759` [high] Being adjacent to a political coalition imports reputational costs from its worst members.
 - `INS-260330-9E1B` [high] Developers form identity-based tribes around tools (Vim, Arch Linux, etc.) that function as social status markers independent of productivity.
+- `INS-260404-D94D` [high] When tribal identity activates, people reject valid arguments purely based on source, making the structure of engagement more important than the content.
 - `INS-260330-6D2E` [high] Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
 - `INS-260330-FB9C` [high] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
 - `INS-260403-DB0A` [high] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.

@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 95 insights
+> 96 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
@@ -22,6 +22,7 @@
 - `INS-260403-2DF9` [high] Innovation practice requires leaders to trust evidence from testing processes rather than overriding them with intuition.
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-268F` [high] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
+- `INS-260404-00CD` [high] Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260403-A99F` [high] Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
 - `INS-260404-0240` [high] Company culture is an operating system that must be deliberately architected, not left to chance.
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.

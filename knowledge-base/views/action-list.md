@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3925 actionable insights
+Generated on 2026-04-05 | 3929 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1555,6 +1555,9 @@ Generated on 2026-04-05 | 3925 actionable insights
 - [INS-260402-7FCC] Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - [INS-260403-8FB5] Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy.
 - [INS-260404-0D62] VCs resist founder control primarily because they don't want to appear weak to their partners, not because they believe it harms returns.
+- [INS-260404-B6CC] Arguments escalate when they shift from debating issues to threatening someone's core identity and values.
+- [INS-260404-FBF8] Asking 'what's your advice on how we can get our interests met at the same time?' converts adversaries into co-problem-solvers.
+- [INS-260404-6753] Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
 
 ## psychology/perception
 - [INS-260323-5D23] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
@@ -3191,6 +3194,7 @@ Generated on 2026-04-05 | 3925 actionable insights
 - [INS-260404-FE95] Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
 - [INS-260404-0572] Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
 - [INS-260404-886C] Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.
+- [INS-260404-AE2E] Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.

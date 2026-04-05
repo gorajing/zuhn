@@ -816,6 +816,7 @@ Generated on 2026-04-05 | 2421 sources
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
 | $1.5T Bet On America, Google's AI Biology Breakthrough, And More. | blog | 4 | 2026-03-30 |
+| 16 Unicorn Pitch Decks: The Slides Before the Billions | blog | 4 | 2026-03-30 |
 | 2020 Year in Review | blog | 4 | 2026-03-31 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 4 | 2026-03-30 |
 | 25 proven tactics to accelerate AI adoption at your company | blog | 4 | 2026-03-31 |
@@ -925,6 +926,7 @@ Generated on 2026-04-05 | 2421 sources
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
 | Do Founders Ever Take a Vacation?🌴,AI and Longevity🤖, Venture Trends Q2 2024📊 | blog | 4 | 2026-03-30 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
+| EU and US to work together on AI guidelines🤖, YC's Secret SAFE📜, Climate Risk Landscape🌍 | blog | 4 | 2026-03-30 |
 | Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 4 | 2026-03-30 |
 | Fierce Nerds | blog | 4 | 2026-03-31 |
@@ -1045,6 +1047,7 @@ Generated on 2026-04-05 | 2421 sources
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 4 | 2026-03-30 |
 | The Acceleration of Addictiveness | blog | 4 | 2026-03-31 |
+| The Agrifoodtech Effect 🍽️ | blog | 4 | 2026-03-30 |
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
 | The Anatomy of Determination | blog | 4 | 2026-03-31 |
@@ -1067,6 +1070,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Lean Startup is Dead⚰️, AGI Delusion?🤖, Top Leadership Books📚 | blog | 4 | 2026-03-30 |
 | The List of N Things | blog | 4 | 2026-03-31 |
 | The Other Half of "Artists Ship" | blog | 4 | 2026-03-31 |
+| The Patent Pledge | blog | 4 | 2026-03-31 |
 | The Pooled-Risk Company Management Company | blog | 4 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 4 | 2026-03-30 |
 | The Race for AI Supremacy is Over🏁, State of VC and Its Impact on DPI📉, SaaS VC Trends☁️ | blog | 4 | 2026-03-30 |
@@ -1187,6 +1191,7 @@ Generated on 2026-04-05 | 2421 sources
 | Ginni Rometty: IBM CEO on Leadership, Power, and Adversity | Lex Fridman Podcast #362 | youtube | 4 | 2026-03-24 |
 | "GPU 쓸 곳이 없어요." AI 시대 한국이 '멘붕'에 빠진 이유ㅣ지식인초대석 EP.88 (김대식 교수) | youtube | 4 | 2026-03-22 |
 | Gradient descent, how neural networks learn | Deep Learning Chapter 2 | youtube | 4 | 2026-03-30 |
+| Harvard negotiator explains how to argue | Dan Shapiro | youtube | 4 | 2026-03-30 |
 | Harvey CEO Winston Weinberg: Why You Should Reinvent Yourself Every 4 Months | youtube | 4 | 2026-03-26 |
 | Henry Rollins: The One Decision that Changed My Life Forever | Big Think | youtube | 4 | 2026-03-30 |
 | Hollywood lied to you about Ancient Rome. Here’s the truth | Mary Beard: Full Interview | youtube | 4 | 2026-03-25 |
@@ -2053,7 +2058,6 @@ Generated on 2026-04-05 | 2421 sources
 | 144 Family Offices That Cut Pre-Seed Checks | blog | 0 | 2026-03-30 |
 | 15,000+ VCs, Angels & The Glassdoor of Venture Capital | blog | 0 | 2026-03-30 |
 | 153 Startups Fundraising Right Now (and Their Decks) | blog | 0 | 2026-03-30 |
-| 16 Unicorn Pitch Decks: The Slides Before the Billions | blog | 0 | 2026-03-30 |
 | 2 Changes to Virtual Goods in Web3 Gaming | blog | 0 | 2026-03-31 |
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
@@ -2224,7 +2228,6 @@ Generated on 2026-04-05 | 2421 sources
 | Elon Musk, xAI, and the Logic of Vertical Integration | blog | 0 | 2026-03-30 |
 | Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor Should Understand in 2026 | blog | 0 | 2026-03-30 |
 | Elon Musk’s xAI raises Monster $6B Series B for AI Supercomputer and Grok 3 | blog | 0 | 2026-03-30 |
-| EU and US to work together on AI guidelines🤖, YC's Secret SAFE📜, Climate Risk Landscape🌍 | blog | 0 | 2026-03-30 |
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
@@ -2325,7 +2328,6 @@ Generated on 2026-04-05 | 2421 sources
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
-| The Agrifoodtech Effect 🍽️ | blog | 0 | 2026-03-30 |
 | The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
@@ -2344,7 +2346,6 @@ Generated on 2026-04-05 | 2421 sources
 | The Need to Read | blog | 0 | 2026-03-31 |
 | The New World for Entrepreneurs 🌍, State of Private Markets 🔍, AI Eating Software 🚀 | blog | 0 | 2026-03-30 |
 | The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 0 | 2026-03-30 |
-| The Patent Pledge | blog | 0 | 2026-03-31 |
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |
@@ -2412,7 +2413,6 @@ Generated on 2026-04-05 | 2421 sources
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
 | C in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
-| Harvard negotiator explains how to argue | Dan Shapiro | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |

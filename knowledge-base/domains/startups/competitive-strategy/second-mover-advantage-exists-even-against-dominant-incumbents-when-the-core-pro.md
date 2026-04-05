@@ -58,6 +58,7 @@ related:
   - INS-260402-C4FF
   - PRI-260323-F193
   - INS-260404-4130
+  - INS-260404-6891
 ---
 The conventional wisdom is that competing against a dominant incumbent is suicidal, but this framing misses a crucial nuance: if the incumbent hasn't solved the core technical problem that would unlock the next order of magnitude in value, the market is still contestable. SpaceX revolutionized launch costs with partial reusability but hasn't achieved full reusability — the breakthrough that would drop costs to ~$100/kg and unlock exponential company creation in space.
 

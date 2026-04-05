@@ -50,11 +50,11 @@ stance: >-
   direction, no matter how justified.
 related:
   - INS-260323-7C0E
+  - INS-260404-D94D
   - INS-260327-B37E
   - INS-260327-735A
   - INS-260403-07C1
   - INS-260329-13D2
-  - INS-260325-F451
 evidence:
   - id: INS-260327-B37E
     type: EXTENDS

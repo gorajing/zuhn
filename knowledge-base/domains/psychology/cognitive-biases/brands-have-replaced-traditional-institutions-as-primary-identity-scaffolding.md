@@ -49,7 +49,6 @@ stance: >-
   As church, community, and civic institutions weakened, commercial brands
   filled the identity-anchoring role humans fundamentally need
 related:
-  - INS-260327-8E9B
   - PRI-260328-BF1E
   - INS-260329-C0F1
   - INS-260322-5A72

@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2084 insights across 20 topics
+> 2088 insights across 20 topics
 
 ## Topics
 
@@ -16,11 +16,11 @@
 | focus | 174 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 19 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 20 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
-| group-dynamics | 58 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
+| group-dynamics | 59 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
 | learning | 258 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 61 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
 | mental-models | 92 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
-| negotiation | 6 | Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy. |
+| negotiation | 9 | Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy. |
 | perception | 316 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
 | persuasion | 78 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
 | physics-intuition | 79 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |

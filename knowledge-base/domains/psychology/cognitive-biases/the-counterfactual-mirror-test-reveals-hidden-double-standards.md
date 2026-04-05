@@ -46,8 +46,9 @@ stance: >-
   reliable method for detecting one's own rationalized hypocrisy.
 related:
   - INS-260323-3C7F
-  - INS-260330-AFF8
   - INS-260404-2F16
+  - INS-260404-D94D
+  - INS-260330-AFF8
   - INS-260403-E8DD
   - INS-260403-07C1
 evidence:

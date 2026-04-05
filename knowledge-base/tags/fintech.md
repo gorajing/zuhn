@@ -10,12 +10,12 @@
 - `INS-260325-B8CB` BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260403-426A` Marketplaces progress through horizontal lead gen, vertical lead gen, vertical transactional, and tightly managed phases.
+- `INS-260403-D2A9` Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
+- `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260403-6412` Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
 - `INS-260403-9106` Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - `INS-260403-4F0D` Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate.
 - `INS-260322-98D2` Robinhood succeeded by combining three bets that were each individually contrarian (zero commissions, mobile-first, populist brand) into a single offering no incumbent could replicate quickly.
-- `INS-260403-D2A9` Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
-- `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260322-F868` Truemed built infrastructure that lets people use existing tax-free HSA/FSA dollars on lifestyle interventions, redirecting billions toward prevention without requiring new legislation or payer buy-in.
 - `INS-260403-FF57` Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.

@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 252 insights
+> 253 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -24,6 +24,7 @@
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260330-ABB1` [high] The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260330-73F3` [high] DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
+- `INS-260404-7834` [high] When you can't fix the source of a problem (e.g., patent issuance), target the point where harm actually occurs (e.g., patent enforcement against startups).
 - `INS-260402-2B96` [high] Since most startups fail, doing what most startups do is a strategy for failure — survival requires deliberate deviation from the norm.
 - `INS-260330-85C2` [high] Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260403-5B4E` [high] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.

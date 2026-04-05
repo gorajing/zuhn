@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 539 insights
+> 540 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -541,3 +541,4 @@
 - `INS-260330-A660` [medium] Tax optimization strategies like the Double Irish Dutch Sandwich create temporary advantages that inevitably attract regulatory attention proportional to their scale.
 - `INS-260327-8358` [medium] The best problem-solvers may be in places without internet—AI could unlock this enormous untapped potential.
 - `INS-260327-B946` [medium] Under Armour spent years building retailer confidence by maintaining premium pricing and high sell-through rates, but when the brand faltered, retailers who had been cautiously increasing orders immediately pulled back -- the trust that took years to build evaporated in a single bad season.
+- `INS-260404-6891` [medium] When most players in an ecosystem publicly commit to a standard, the holdouts face disproportionate reputational cost.
