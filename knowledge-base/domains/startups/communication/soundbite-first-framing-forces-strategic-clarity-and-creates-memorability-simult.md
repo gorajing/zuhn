@@ -54,13 +54,13 @@ stance: >-
   communication tactic and a diagnostic tool—if you can't do it, your plans may
   not be sufficiently focused.
 related:
-  - INS-260403-EF30
-  - INS-260403-B3A4
   - INS-260403-941F
   - INS-260403-45AA
   - INS-260403-F171
   - INS-260403-ED1E
   - INS-260404-24FB
+  - INS-260404-3C46
+  - INS-260403-B3A4
   - INS-260403-FC45
   - INS-260404-2BAD
 ---

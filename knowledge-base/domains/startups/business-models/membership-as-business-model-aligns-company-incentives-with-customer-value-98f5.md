@@ -55,6 +55,7 @@ related:
   - INS-260403-5C88
   - INS-260403-B2CB
   - INS-260404-E298
+  - INS-260404-8365
 ---
 Most retailers profit from markups on individual products, creating an inherent tension between company profit and customer savings. Costco inverts this by deriving 75% of revenue from membership fees, with a self-imposed 15% maximum markup rule. This means raising prices would only generate pennies today while risking the $60-120 annual renewal—making price suppression the rational profit-maximizing strategy.
 

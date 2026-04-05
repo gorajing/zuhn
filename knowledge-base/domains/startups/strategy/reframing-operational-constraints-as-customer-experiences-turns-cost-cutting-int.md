@@ -53,7 +53,7 @@ related:
   - INS-260403-323A
   - INS-260403-0435
   - INS-260403-524B
+  - INS-260404-B24E
   - INS-260404-8B1C
-  - INS-260404-30CA
 ---
 Costco's warehouse layout — no back rooms, forklift-stocked shelves, deliberately confusing navigation — exists to minimize costs. But customers don't experience it as cheap; they experience it as treasure hunting. Similarly, IKEA's flat-pack model exists to reduce shipping costs, but customers feel pride in building their furniture. This reframing is the difference between Dollar Tree (cheap and feels cheap) and Costco (cheap and feels clever). The pattern is actionable for any startup: identify your operational constraints, then ask whether you can position them as features. Crowded aisles become discovery experiences. Limited selection becomes expert curation. Mandatory fees become exclusive membership. The constraint doesn't change — only the narrative around it does — but the effect on customer loyalty is transformative.

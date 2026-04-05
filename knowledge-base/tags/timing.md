@@ -6,11 +6,14 @@
 - `INS-260327-15E1` The Qing dynasty's late reforms — abolishing the exam system, creating a constitutional monarchy, modernizing the army — actually accelerated its collapse by destabilizing the existing power structure without creating a viable alternative.
 - `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260327-25C7` Marshal Grouchy's failure to march to Waterloo when he heard the guns — pursuing a phantom Prussian force instead — turned a possible French victory into total defeat.
-- `INS-260327-BBE3` Coffee optimization: organic mold-free beans, separate from creatine by 4+ hours, supplement magnesium to offset mineral depletion, and restrict to morning only.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
+- `INS-260327-BBE3` Coffee optimization: organic mold-free beans, separate from creatine by 4+ hours, supplement magnesium to offset mineral depletion, and restrict to morning only.
 - `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
+- `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
+- `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
+- `INS-260327-6017` Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
 - `INS-260327-5297` When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260330-3A0D` Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
@@ -20,9 +23,6 @@
 - `INS-260323-B426` Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
 - `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
-- `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
-- `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
-- `INS-260327-6017` Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
 - `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260403-07C6` Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.

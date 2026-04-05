@@ -55,10 +55,9 @@ related:
   - INS-260330-972B
   - INS-260330-9FAA
   - INS-260330-C729
-  - INS-260330-7E39
   - INS-260403-099C
   - INS-260403-8294
-  - INS-260404-52FC
+  - INS-260330-7E39
   - INS-260403-37C4
 ---
 In photosynthesis, the thylakoid membrane acts as a dam. Energy from the electron transport chain pumps protons (H+) into the thylakoid interior, creating a steep concentration gradient. When protons flow back out through ATP synthase — the only available exit — that enzyme harnesses the flow to phosphorylate ADP into ATP. The membrane's phospholipid bilayer is crucial: it maintains the gradient by being selectively impermeable.

@@ -8,9 +8,9 @@
 - `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260330-C9C2` Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
 - `INS-260330-A8F8` Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
-- `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - `INS-260403-DC64` When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
+- `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260402-A2F1` When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260404-DD77` Never tell an audience you're passionate—show it through specificity and demeanor, because explicit confidence claims trigger bullshit detectors.
@@ -24,6 +24,7 @@
 - `INS-260403-1A71` In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - `INS-260404-58AE` Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
 - `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
+- `INS-260404-65BE` Explicitly claiming passion or quality triggers skepticism; implicitly demonstrating it through behavior is far more persuasive.
 - `INS-260404-C887` Show don't tell applies to confidence — saying 'we're passionate' gets you written off as a bullshitter, while demonstrating mastery creates belief.
 - `INS-260403-E51B` Audiences ignore or penalize explicit self-promotion but are heavily influenced by implicit behavioral signals of confidence.
 - `INS-260403-B216` Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
@@ -41,8 +42,8 @@
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
 - `INS-260403-6BF7` Developer influencers who master visibility often outperform technically superior peers in career outcomes.
 - `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
-- `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
+- `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260404-AFE6` When investors lack time and technical background to evaluate your product, your own confidence becomes the single biggest piece of evidence they use.
 - `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260404-ED0F` With limited time and technical understanding, investors use your confidence as a proxy for product quality — but it must be shown, never stated.

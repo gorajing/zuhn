@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 534 insights
+> 535 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -346,6 +346,7 @@
 - `INS-260404-6945` [high] Costco stocks only 4,000 items versus Walmart's 140,000, which gives it immense buying power per SKU because suppliers fight to be the one choice in each category.
 - `INS-260404-9B82` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers voluntarily lower prices and customize products to win placement.
 - `INS-260404-1843` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
+- `INS-260404-4780` [high] Costco stocks ~4,000 SKUs vs Walmart's 140,000, making each slot so valuable that suppliers compete on price to win it.
 - `INS-260404-7B3A` [high] Offering only 1-2 choices per category forces suppliers to compete on price and quality for scarce shelf space.
 - `INS-260403-5BBC` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.

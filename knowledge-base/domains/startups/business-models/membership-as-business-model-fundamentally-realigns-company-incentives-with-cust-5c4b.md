@@ -53,8 +53,8 @@ related:
   - INS-260403-59F8
   - INS-260403-FAE1
   - INS-260404-C4B9
+  - INS-260404-8365
   - INS-260404-A938
-  - INS-260404-B8AE
 ---
 Costco derives 75% of its revenue from membership fees, not product sales. This creates a fundamentally different incentive structure than traditional retail: raising prices would generate pennies today but cost $60-120 in lost renewals next year. The self-imposed 15% maximum markup (vs. Walmart's 24% or Home Depot's 35%) is not charity — it's rational behavior when your real product is the membership itself.
 

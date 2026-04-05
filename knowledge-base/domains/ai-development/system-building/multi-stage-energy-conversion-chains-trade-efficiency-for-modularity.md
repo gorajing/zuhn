@@ -52,7 +52,7 @@ related:
   - INS-260404-F908
   - INS-260404-596E
   - INS-260404-DDB5
-  - INS-260330-85D7
+  - INS-260404-D916
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. It first converts photon energy into excited electrons, then into a proton gradient, then into ATP and NADPH, and finally into G3P — losing energy at every step. This seems wasteful until you realize ATP and NADPH are universal energy currencies that power hundreds of different cellular processes.
 

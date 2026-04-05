@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 41 insights
+> 42 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -39,6 +39,7 @@
 - `INS-260330-E126` [high] Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
 - `INS-260330-BCC2` [high] Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
 - `INS-260404-E1B0` [medium] Costco pays $21/hour (double retail average) and gets 3x the productivity per employee in return.
+- `INS-260404-20AD` [medium] Costco pays $21/hour (2x retail average) and gets 3x productivity, suggesting high wages are an investment with positive ROI in high-volume operations.
 - `INS-260403-79AD` [medium] Buying Web 2.0 startups would have cost Microsoft less than Facebook and restored their competitiveness, but their culture couldn't accept it.
 - `INS-260403-D531` [medium] College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260330-D52B` [medium] Mass learn-to-code campaigns flood the junior market while senior scarcity persists, compressing entry wages without solving the actual talent shortage.

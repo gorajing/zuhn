@@ -51,15 +51,13 @@ stance: >-
   fundraising because investors expect the model to be wrong
 related:
   - INS-260328-195E
-  - INS-260403-600F
   - INS-260403-0267
   - INS-260403-A709
+  - INS-260404-5721
   - INS-260404-983E
   - INS-260404-32B5
-  - INS-260403-3482
   - INS-260403-13ED
   - INS-260403-1DB7
-  - INS-260404-4B69
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong — expecting it to change three times before they got it right. The founders were experienced repeat entrepreneurs who'd just raised millions, and even their model was crap. He invested anyway because at this stage, business models are just guesses about things outside the founders' expertise.
 

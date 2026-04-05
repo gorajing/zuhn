@@ -58,6 +58,7 @@ related:
   - INS-260404-1B29
   - INS-260404-F908
   - INS-260404-040D
+  - INS-260404-D916
 ---
 The electron transport chain in photosynthesis is a textbook example of layered conversion: photon energy excites an electron, which passes through multiple protein complexes, each extracting a small amount of energy to pump protons, which then flow through ATP synthase to produce ATP, which finally powers the Calvin Cycle to fix carbon. No single step is efficient, but the chain is extraordinarily reliable.
 

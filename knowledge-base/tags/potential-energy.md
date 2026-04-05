@@ -1,6 +1,7 @@
 # Tag: potential-energy
 
 - `INS-260404-037F` ATP synthase works by deliberately creating a proton imbalance across a membrane, then channeling the natural pressure to equalize through a single enzyme that captures the energy.
+- `INS-260404-4A68` Chloroplasts store energy by pumping protons to create concentration imbalance, then harvest that imbalance through ATP synthase — the same pattern applies to learning through deliberate knowledge gaps.
 - `INS-260403-DE05` Chloroplasts charge thylakoids like batteries by pumping protons to one side — the resulting imbalance is what drives ATP synthase and does useful work.
 - `INS-260404-D39D` ATP synthase is powered not by photons directly but by the proton gradient plants deliberately build up across membranes.
 - `INS-260403-E374` ATP synthase harvests energy from proton concentration gradients — a pattern that generalizes to knowledge, markets, and motivation.

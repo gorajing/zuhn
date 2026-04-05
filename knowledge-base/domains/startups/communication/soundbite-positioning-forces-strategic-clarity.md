@@ -49,11 +49,11 @@ stance: >-
   soundbite is itself a strategic diagnostic.
 related:
   - INS-260403-82CC
+  - INS-260404-3C46
   - INS-260404-0AF3
   - INS-260404-C2BC
   - INS-260403-B3A4
   - INS-260403-BFD1
-  - INS-260403-F7DD
   - INS-260403-FE37
   - INS-260403-3058
   - INS-260403-941F

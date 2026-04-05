@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 242 insights
+> 244 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -50,6 +50,7 @@
 - `INS-260403-2C00` [high] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
+- `INS-260404-B24E` [high] Costco turns every apparent obstacle — membership fees, warehouse layout, limited selection — into compounding advantages across loyalty, cost, and customer experience.
 - `INS-260330-F258` [high] Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-9A92` [high] Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
 - `INS-260403-D444` [high] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
@@ -68,6 +69,7 @@
 - `INS-260403-CF3E` [high] RuBisCo evolved in a low-oxygen atmosphere, then photosynthesis itself raised oxygen levels until RuBisCo started confusing O2 for CO2 half the time — success changed the environment in ways that undermined the winning strategy.
 - `INS-260330-48F2` [high] RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260330-3E6B` [high] When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
+- `INS-260404-5DE4` [high] RuBisCo is a terrible enzyme that dominates Earth because plants committed to it early and scaled massively rather than optimizing.
 - `INS-260403-DB22` [high] Most companies have sophisticated tools for execution but primitive tools for innovation and strategy design.
 - `INS-260403-EAE5` [high] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - `INS-260329-7D18` [high] Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.

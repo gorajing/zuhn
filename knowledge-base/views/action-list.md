@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3886 actionable insights
+Generated on 2026-04-05 | 3891 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1702,6 +1702,7 @@ Generated on 2026-04-05 | 3886 actionable insights
 - [INS-260404-5343] Explicit claims of passion or quality trigger audience skepticism, while implicit demonstration of those same qualities through confident behavior is the most powerful signal available.
 - [INS-260404-132E] Demonstrate demand by showing what people painfully do today with bad tools, not by citing market size numbers.
 - [INS-260404-0CD8] Never say 'we're passionate' or 'our product is great'—such messages must be implicit or audiences write you off as bullshitters.
+- [INS-260404-65BE] Explicitly claiming passion or quality triggers skepticism; implicitly demonstrating it through behavior is far more persuasive.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2043,6 +2044,7 @@ Generated on 2026-04-05 | 3886 actionable insights
 - [INS-260404-6C20] The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
 - [INS-260404-44A4] Investors care more about seeing what workarounds real people use today than hearing billion-dollar TAM numbers, because workarounds prove demand exists while market stats are abstract.
 - [INS-260404-C2BC] If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
+- [INS-260404-3C46] Crafting a single memorable phrase for your startup doubles as a test of strategic focus.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2941,6 +2943,9 @@ Generated on 2026-04-05 | 3886 actionable insights
 - [INS-260404-ED0F] With limited time and technical understanding, investors use your confidence as a proxy for product quality — but it must be shown, never stated.
 - [INS-260404-A450] As your startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.
 - [INS-260404-3B9E] Investors' top fear is you built something nobody wants — specific user stories and 'proxy for demand' evidence neutralize this better than market size numbers.
+- [INS-260404-5721] Smart investors expect early-stage business models to be wrong, so pitch time is better spent on the problem and solution.
+- [INS-260404-17E3] A narrow, concrete description of what you built beats a grand vision statement when pitching investors.
+- [INS-260404-BD56] Specific user stories—especially about your own needs—are the strongest evidence of demand for early-stage startups.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

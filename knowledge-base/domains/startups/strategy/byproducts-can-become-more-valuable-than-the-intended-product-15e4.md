@@ -46,11 +46,11 @@ stance: >-
   rather than the designed primary output.
 related:
   - INS-260404-A51E
+  - INS-260404-D8A5
   - INS-260404-E60B
   - INS-260403-882A
   - INS-260330-41F6
   - INS-260330-2119
-  - INS-260403-31AF
 ---
 Photosynthesis evolved to produce glucose for energy storage. Oxygen was literally a waste byproduct of splitting water molecules. Yet this 'useless' byproduct reshaped Earth's entire atmosphere and enabled the evolution of all aerobic life — a transformation infinitely more significant than the glucose production it was designed for.
 

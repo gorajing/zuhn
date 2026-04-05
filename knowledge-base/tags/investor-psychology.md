@@ -93,6 +93,7 @@
 - `INS-260330-C8E1` Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
 - `INS-260330-A38C` Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
+- `INS-260404-BD56` Specific user stories—especially about your own needs—are the strongest evidence of demand for early-stage startups.
 - `INS-260403-EA8C` Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
 - `INS-260403-419B` Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.
 - `INS-260404-9A82` Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.

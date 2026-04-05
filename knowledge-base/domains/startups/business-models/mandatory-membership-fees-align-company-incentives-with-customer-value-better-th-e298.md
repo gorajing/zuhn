@@ -54,7 +54,7 @@ related:
   - INS-260404-62D5
   - INS-260404-EAA7
   - INS-260404-98F5
-  - INS-260404-DD00
+  - INS-260404-8365
 ---
 Costco derives 75% of its profit from membership fees, not product markups. This creates a fundamentally different incentive structure than traditional retail: raising prices would gain pennies today but risk losing $60-120 annual renewals. The self-imposed 15% max markup rule is a direct consequence of this model.
 

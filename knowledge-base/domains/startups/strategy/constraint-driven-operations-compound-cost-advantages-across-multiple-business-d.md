@@ -53,8 +53,8 @@ related:
   - INS-260403-6BD9
   - INS-260404-C9B5
   - INS-260404-8B1C
+  - INS-260404-B24E
   - INS-260404-3E82
   - INS-260403-524B
-  - INS-260404-1EA6
 ---
 Costco's 15% max markup rule seems like a simple pricing decision, but it cascades into a system of interlocking advantages. The low markup drives the need for operational efficiency, which leads to warehouse-style stores with no backroom (reducing real estate and labor costs), forklift-to-shelf stocking (eliminating handling steps), and limited SKUs (reducing inventory complexity). Each constraint reinforces the others: fewer SKUs means more volume per item, which means better supplier leverage, which means lower costs, which means easier to stay under the 15% cap. This creates what's effectively a strategy tax on competitors — replicating any single element produces marginal benefit, but replicating the entire interlocking system requires rebuilding from scratch. The lesson is that self-imposed constraints, when designed as a coherent system, create moats more durable than any individual competitive advantage.

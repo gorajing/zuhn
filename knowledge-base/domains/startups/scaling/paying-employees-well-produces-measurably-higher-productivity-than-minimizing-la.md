@@ -48,8 +48,9 @@ stance: >-
   productivity per worker, making high wages a profit-maximizing strategy rather
   than a charitable expense
 related:
-  - INS-260403-C125
   - INS-260404-FF84
+  - INS-260404-20AD
+  - INS-260403-C125
   - INS-260403-43E5
   - INS-260403-365D
   - INS-260403-8A80

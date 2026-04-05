@@ -8,6 +8,7 @@
 - `INS-260404-037F` ATP synthase works by deliberately creating a proton imbalance across a membrane, then channeling the natural pressure to equalize through a single enzyme that captures the energy.
 - `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
 - `INS-260404-73DA` Chloroplasts charge thylakoids like batteries via proton concentration gradients — the same imbalance-as-stored-energy pattern appears in markets, learning, and attention.
+- `INS-260404-4A68` Chloroplasts store energy by pumping protons to create concentration imbalance, then harvest that imbalance through ATP synthase — the same pattern applies to learning through deliberate knowledge gaps.
 - `INS-260404-D39D` ATP synthase is powered not by photons directly but by the proton gradient plants deliberately build up across membranes.
 - `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260403-E374` ATP synthase harvests energy from proton concentration gradients — a pattern that generalizes to knowledge, markets, and motivation.

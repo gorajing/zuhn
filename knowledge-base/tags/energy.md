@@ -13,8 +13,8 @@
 - `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260330-F2B6` Both photosynthesis and cellular respiration use the same trick: pump protons across a membrane to create a concentration gradient, then harvest that gradient through ATP synthase.
 - `INS-260327-F384` Animal-based nutrition supports elite surfing performance through sustained energy without crashes
-- `INS-260325-DC90` Coffee borrows energy from stress hormones — quitting for 30 days reveals true energy levels and allows adrenal recovery.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
+- `INS-260325-DC90` Coffee borrows energy from stress hormones — quitting for 30 days reveals true energy levels and allows adrenal recovery.
 - `INS-260325-1D95` The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
 - `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260330-5670` ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.

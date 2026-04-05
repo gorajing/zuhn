@@ -107,6 +107,7 @@
 - `INS-260404-C03F` As a startup description approaches 'could be anything,' its informational content approaches zero — narrow and gripping beats broad and forgettable.
 - `INS-260404-0430` Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
+- `INS-260404-17E3` A narrow, concrete description of what you built beats a grand vision statement when pitching investors.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
 - `INS-260403-39B0` Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.

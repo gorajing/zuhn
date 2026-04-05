@@ -48,7 +48,6 @@ stance: >-
   differential, not just adding more energy to the system.
 related:
   - INS-260330-BFD0
-  - INS-260330-52F6
   - INS-260403-34B4
   - INS-260403-CD2A
   - INS-260403-384C

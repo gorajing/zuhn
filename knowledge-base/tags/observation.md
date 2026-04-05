@@ -1,8 +1,8 @@
 # Tag: observation
 
-- `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.
 - `INS-260402-4E59` Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
+- `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - `INS-260330-5EFD` Destin solved his observation limitation by inverting the aquarium concept — building a structure to keep water out of the camera area rather than keeping water in around the gun.
 - `INS-260330-1222` Building a custom periscope mirror rig to film underwater gunfire required predicting where phenomena would occur, making the engineering itself a form of hypothesis testing.
 - `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.

@@ -63,7 +63,7 @@ related:
   - INS-260403-2F22
   - INS-260403-A290
   - INS-260404-CDCB
-  - INS-260404-5343
+  - INS-260404-65BE
 ---
 Graham identifies a paradox: for early-stage startups where investors can't fully evaluate the technical merits, the founder's own confidence becomes 'probably the single biggest piece of evidence' for investment decisions. Yet explicitly stating that confidence ('we're passionate,' 'our product is great') causes the opposite effect — investors write you off as bullshitters.
 

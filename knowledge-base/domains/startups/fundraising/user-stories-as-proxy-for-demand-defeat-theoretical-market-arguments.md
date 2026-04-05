@@ -57,6 +57,7 @@ related:
   - INS-260403-035A
   - INS-260404-B01F
   - INS-260404-EF17
+  - INS-260404-BD56
 ---
 Graham identifies investors' primary fear at early stage: that you've built something from a priori theories rather than observed need. The antidote is what Sequoia calls 'proxy for demand' — concrete evidence people already struggle with inadequate tools to do what your product enables.
 

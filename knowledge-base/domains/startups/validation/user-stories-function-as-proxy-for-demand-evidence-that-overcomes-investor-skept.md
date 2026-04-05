@@ -60,6 +60,7 @@ related:
   - INS-260404-CF2A
   - INS-260403-1EB3
   - INS-260404-9A82
+  - INS-260404-BD56
 ---
 Graham identifies investors' primary fear as the 'a priori theory' problem: that founders built what they imagined the world needs rather than what it actually needs. The antidote is specificity — stories about real users with real problems using your real product. Sequoia's Greg McAdoo calls this the 'proxy for demand': evidence that people are already struggling with inadequate tools to do the thing your product enables.
 

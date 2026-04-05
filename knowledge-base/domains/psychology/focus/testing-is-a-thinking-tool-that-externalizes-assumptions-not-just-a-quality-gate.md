@@ -55,6 +55,7 @@ stance: >-
   do, making it a tool for clarifying thought rather than merely catching bugs.
 related:
   - INS-260403-A27F
+  - INS-260404-65BE
   - INS-260404-E6EA
   - PRI-260328-0F0D
   - INS-260403-E51B

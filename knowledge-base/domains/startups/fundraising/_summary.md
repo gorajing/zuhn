@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 283 insights
+> 286 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -61,6 +61,7 @@
 - `INS-260403-481F` [high] Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
 - `INS-260403-600F` [high] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` [high] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
+- `INS-260404-5721` [high] Smart investors expect early-stage business models to be wrong, so pitch time is better spent on the problem and solution.
 - `INS-260404-5483` [high] Don't dwell on business models in early pitches — investors expect them to be wrong and you'll crowd out what actually matters: the problem and the product.
 - `INS-260403-270E` [high] Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - `INS-260403-88E8` [high] Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
@@ -158,6 +159,7 @@
 - `INS-260403-6712` [high] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260404-0430` [high] Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
+- `INS-260404-17E3` [high] A narrow, concrete description of what you built beats a grand vision statement when pitching investors.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` [high] Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
 - `INS-260403-39B0` [high] Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
@@ -250,6 +252,7 @@
 - `INS-260403-1A73` [high] Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
 - `INS-260404-EE85` [high] Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 - `INS-260403-A65D` [high] Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
+- `INS-260404-BD56` [high] Specific user stories—especially about your own needs—are the strongest evidence of demand for early-stage startups.
 - `INS-260330-AF2B` [high] A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round.
 - `INS-260403-9C63` [high] VC pathologies trace back to fund economics that demand huge deal sizes, not to the personal failings of individual investors.
 - `INS-260330-7220` [high] The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.

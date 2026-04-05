@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260330-E786
   - INS-260403-882A
+  - INS-260404-D8A5
   - INS-260330-2119
   - INS-260330-0CFF
-  - INS-260330-41F6
   - INS-260403-C0D4
 evidence:
   - id: INS-260330-E786

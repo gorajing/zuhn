@@ -53,7 +53,6 @@ stance: >-
   solution, replacing that solution becomes harder than working around its flaws
 related:
   - INS-260403-F088
-  - INS-260403-3946
   - INS-260403-637C
   - INS-260403-EDA2
   - INS-260404-3B9D
