@@ -58,6 +58,10 @@ related:
   - INS-260323-C10D
   - PRI-260323-1CF9
   - INS-260329-0A55
+evidence:
+  - id: INS-260403-F100
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Alex Kendall draws a critical distinction from language AI: in driving, you cannot tolerate hallucinations. This means the architecture must be data-driven and end-to-end but also functionally safe and able to build a robust behavioral safety case. You need real-time performance on board vehicles with limited compute, and you need to handle every novel situation safely, even things never seen in training data.
 

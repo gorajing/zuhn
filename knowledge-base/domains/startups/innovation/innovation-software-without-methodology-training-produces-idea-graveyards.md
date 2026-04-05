@@ -57,6 +57,12 @@ evidence:
   - id: INS-260327-FDF4
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-AB62
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-F112
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The article reveals a consistent pattern across all six platforms reviewed: users who succeed with innovation management software are those whose platforms integrate proven methodologies (Business Model Canvas, design thinking, lean startup) alongside the tooling. Platforms like Brightidea that are feature-rich but lack embedded training get described as overwhelming — 'like a pilot's cockpit' — while methodology-first platforms like Strategyzer get praised for guided workflows.
 

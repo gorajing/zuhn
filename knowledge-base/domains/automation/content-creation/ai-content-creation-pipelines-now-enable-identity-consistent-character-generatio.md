@@ -54,6 +54,13 @@ related:
   - INS-260327-66AC
   - INS-260327-47E9
   - INS-260325-47FE
+evidence:
+  - id: INS-260327-47E9
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260327-66AC
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The biggest challenge in creating a synthetic influencer isn't generating a single good image — it's maintaining identity consistency across hundreds of posts. The demonstrated pipeline solves this by: (1) generating a base face image, (2) using face-swap to transfer that identity onto new scene compositions, and (3) using inpainting to fix artifacts like distorted hands or inconsistent features.
 

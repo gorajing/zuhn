@@ -1,5 +1,6 @@
 # Tag: technical-debt
 
+- `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260404-5440` Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
 - `INS-260404-76DD` Plants evolved entire metabolic pathways to detoxify RuBisCo's mistakes rather than replacing the enzyme itself — a pattern mirrored in legacy software systems.
 - `INS-260404-C663` Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -22,9 +23,6 @@
 - `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.
 - `INS-260404-BF8A` RuBisCo's oxygen-grabbing error produces a toxin that plants must build separate enzyme pathways to neutralize — core processes always generate waste that needs its own infrastructure.
 - `INS-260404-E6F9` Plants evolved entire metabolic pathways just to handle RuBisCo's toxic byproduct, showing how workarounds for legacy decisions become load-bearing infrastructure.
-- `INS-260330-DF69` RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
-- `INS-260403-D482` RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
-- `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - `INS-260330-56D6` RuBisCo is terrible at its job but irreplaceable — biology's ultimate lesson in path dependence and first-mover lock-in.
 - `INS-260330-8B93` RuBisCo is a terrible enzyme that won the planet because switching costs exceeded optimization pressure.
 - `INS-260404-3DD7` RuBisCo's dominance in all plant life despite 50% error rates illustrates how early strategic commitment creates irreversible lock-in.
@@ -41,6 +39,9 @@
 - `INS-260330-4C3A` RuBisCo is a terrible enzyme that plants can never replace because their entire metabolism depends on it — a biological case study in permanent lock-in from early architectural decisions.
 - `INS-260403-9F4B` RuBisCo was designed for a low-oxygen atmosphere and became increasingly dysfunctional as plants themselves filled the air with oxygen.
 - `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
+- `INS-260330-DF69` RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
+- `INS-260403-D482` RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
+- `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
 - `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.

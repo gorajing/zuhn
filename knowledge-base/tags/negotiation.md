@@ -1,24 +1,17 @@
 # Tag: negotiation
 
-- `INS-260327-E052` Napoleon assumed Alexander would sue for peace after Moscow fell — but the Russian Tsar had resolve Napoleon couldn't model from his own experience.
-- `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
-- `INS-260323-4473` In business you solve a problem and move on; in political deal-making, the conclusion of one problem set is the beginning of an entirely new paradigm that must sustain itself.
-- `INS-260327-4419` Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
-- `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
-- `INS-260323-3CD0` When Trump recognized Jerusalem as Israel's capital — something everyone said would 'end the world' — the sun rose the next morning, proving the barrier was artificial and opening space for the Abraham Accords.
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
-- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
-- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
 - `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
 - `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
+- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
+- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260329-8B55` Negotiate price and terms separately — agree on price first, then structure seller financing so you pay from the business's own cash flow.
 - `INS-260405-4871` Fewer SKUs means each supplier slot is scarce, flipping the power dynamic so suppliers adapt to Costco's needs rather than the reverse.
 - `INS-260405-D9C8` Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
-- `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260403-5BAC` Costco stocks only ~4,000 items vs 140,000 at Walmart, making suppliers compete fiercely for limited shelf space.
 - `INS-260404-6BA2` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers aggressively lower prices to win placement.
@@ -30,7 +23,12 @@
 - `INS-260404-72F5` Costco stocks only 4,000 SKUs versus Walmart's 140,000, turning scarcity of shelf space into immense supplier leverage.
 - `INS-260404-1843` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
 - `INS-260405-F57E` Costco stocks ~4,000 SKUs vs 30,000 for a typical supermarket, making suppliers compete fiercely to be one of two choices per category.
+- `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
+- `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
+- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
+- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
+- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
@@ -41,13 +39,15 @@
 - `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
 - `INS-260322-6C4B` The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
 - `INS-260323-4C43` Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
-- `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
-- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
-- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
-- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260329-21AF` Lock in the price first, then negotiate favorable terms like seller financing and extended payment schedules as a separate conversation.
 - `INS-260329-2A5A` Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
 - `INS-260329-3D14` Treating negotiation as mutual value discovery rather than extraction creates better deals and preserves relationships.
 - `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
 - `INS-260330-4ACF` Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260405-88F9` Costco's ~4,000 SKUs versus Walmart's 140,000 means suppliers fight to be one of two choices, handing Costco extreme pricing power.
+- `INS-260327-E052` Napoleon assumed Alexander would sue for peace after Moscow fell — but the Russian Tsar had resolve Napoleon couldn't model from his own experience.
+- `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
+- `INS-260323-4473` In business you solve a problem and move on; in political deal-making, the conclusion of one problem set is the beginning of an entirely new paradigm that must sustain itself.
+- `INS-260327-4419` Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
+- `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
+- `INS-260323-3CD0` When Trump recognized Jerusalem as Israel's capital — something everyone said would 'end the world' — the sun rose the next morning, proving the barrier was artificial and opening space for the Abraham Accords.

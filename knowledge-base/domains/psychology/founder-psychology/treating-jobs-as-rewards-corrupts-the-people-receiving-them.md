@@ -63,6 +63,13 @@ related:
   - INS-260330-5DA6
   - INS-260330-7E58
   - INS-260403-7FFA
+evidence:
+  - id: INS-260320-8632
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260320-F78E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham makes a pointed observation about the corporate ladder's internal logic: promotions served as rewards, not as role assignments. This conflated two different questions — 'who deserves to be recognized?' and 'who is suited for this responsibility?' The result was a systematic pipeline of skilled individual contributors becoming mediocre or damaging managers.
 

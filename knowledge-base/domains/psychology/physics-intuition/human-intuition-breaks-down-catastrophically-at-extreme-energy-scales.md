@@ -51,10 +51,10 @@ stance: >-
   order-of-magnitude prediction errors
 related:
   - INS-260330-D0F8
+  - INS-260405-D3B5
   - INS-260330-A5C4
   - INS-260330-C71A
   - INS-260330-FEDD
-  - INS-260330-601A
   - INS-260330-B69C
 ---
 The entire team — experienced engineers who built the cannon — predicted the ball would be stopped by 2-4 gloves. Only one person guessed it would go through all 9. This is a textbook example of scale blindness: kinetic energy scales with the square of velocity, so a ball at Mach 1.35 (~1030 mph) carries roughly 130x the energy of a 90 mph fastball, not 11x. The result was a ball that passed through a human body analog, ignited leather on contact, and penetrated 9 stacked catcher's mitts without meaningfully decelerating.

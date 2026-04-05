@@ -11,6 +11,6 @@
 - `INS-260325-2832` AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed.
 - `INS-260322-5932` Unlike previous platform shifts (internet, mobile), AI lacks a known theoretical ceiling, making deterministic predictions uniquely unreliable.
 - `INS-260325-B882` AI, clean energy, and bioengineering are simultaneously hitting their technology adoption tipping points, creating a convergence that may produce civilizational-scale change.
-- `INS-260323-FFE8` The decisive factor in US-China competition is technological supremacy — particularly AI and standard-setting — not raw GDP growth.
 - `INS-260323-244C` Netanyahu identifies the core AI leadership challenge: most people — including most political leaders — think in linear increments and cannot intuitively grasp geometric growth rates.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
+- `INS-260323-FFE8` The decisive factor in US-China competition is technological supremacy — particularly AI and standard-setting — not raw GDP growth.

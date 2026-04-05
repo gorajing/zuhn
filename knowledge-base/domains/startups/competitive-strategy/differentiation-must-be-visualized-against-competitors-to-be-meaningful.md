@@ -49,6 +49,10 @@ related:
   - INS-260329-CEC5
   - INS-260329-EBBB
   - INS-260404-7EFA
+evidence:
+  - id: INS-260403-5DD7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Many startups claim differentiation without rigorously testing it. The Strategy Canvas (from Blue Ocean Strategy) plots your offering against competitors across key value factors, making it visually obvious whether you truly stand apart or are just another player in a crowded space. If your line overlaps heavily with competitors, your differentiation is an illusion.
 

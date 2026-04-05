@@ -14,6 +14,12 @@
 - `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
+- `INS-260330-0F71` Confusion about advanced topics is usually a symptom of weak prerequisite understanding, not genuine complexity of the topic itself.
+- `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
+- `INS-260329-1ACD` Planning code via pseudocode and flowcharts before writing it produces cleaner implementations with fewer bugs.
+- `INS-260330-63B8` Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
+- `INS-260330-026B` Teaching a concept to others reveals precise knowledge gaps that self-study masks.
+- `INS-260329-7F70` Anticipating the 'valley of despair' in skill acquisition transforms it from a quit signal into a progress marker.
 - `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260330-5EAC` Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
@@ -21,11 +27,5 @@
 - `INS-260327-4367` The people most confident in their opinions are statistically likely to be the least informed, while genuine experts are plagued by awareness of how much they don't know.
 - `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260330-6620` Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.
-- `INS-260330-0F71` Confusion about advanced topics is usually a symptom of weak prerequisite understanding, not genuine complexity of the topic itself.
-- `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
-- `INS-260329-1ACD` Planning code via pseudocode and flowcharts before writing it produces cleaner implementations with fewer bugs.
-- `INS-260330-63B8` Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
-- `INS-260330-026B` Teaching a concept to others reveals precise knowledge gaps that self-study masks.
-- `INS-260329-7F70` Anticipating the 'valley of despair' in skill acquisition transforms it from a quit signal into a progress marker.
 - `INS-260330-8A5C` Studies show that positive placebo outcomes persist even after subjects learn their treatment had no active ingredient.
 - `INS-260327-B2CC` Real humility means accepting you could be wrong, not performing modesty.

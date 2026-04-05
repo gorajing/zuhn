@@ -59,6 +59,10 @@ related:
   - PRI-260328-1D90
   - INS-260327-CA1C
   - INS-260327-A458
+evidence:
+  - id: INS-260322-EDC2
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX highlights fidu's founders' obsession with improving LatAm education as a primary investment reason, noting the CEO's journey from classroom teacher to policy advisor to entrepreneur. The founding team combines 10+ years of education experience, Stanford/Columbia credentials, and prior entrepreneurial success — but NFX leads with mission obsession, not credentials.
 

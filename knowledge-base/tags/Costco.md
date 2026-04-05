@@ -1,8 +1,6 @@
 # Tag: costco
 
 - `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
-- `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
-- `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
 - `INS-260405-39A6` Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
 - `INS-260405-9EE6` Costco's deliberate obstacles — confusing layout, membership fee, crowded aisles — select for the right customers and increase per-visit spend.
 - `INS-260404-95FC` Costco pays double the US retail average ($21/hr) and gets employees who are three times more productive.
@@ -47,6 +45,8 @@
 - `INS-260403-E2D9` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive, making the wage premium a profit driver rather than a cost.
 - `INS-260405-4871` Fewer SKUs means each supplier slot is scarce, flipping the power dynamic so suppliers adapt to Costco's needs rather than the reverse.
 - `INS-260405-D9C8` Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
+- `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
+- `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
 - `INS-260403-AABF` Self-imposed constraints compound into structural advantages because each constraint reinforces the others and makes the whole system harder to copy piecemeal.
 - `INS-260403-B8CD` Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260403-0DC2` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize products to win placement.

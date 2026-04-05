@@ -52,6 +52,10 @@ related:
   - INS-260403-8256
   - INS-260403-87CF
   - INS-260403-CA93
+evidence:
+  - id: INS-260327-F417
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Railroads and electric grids spread because every region without them represented a rich potential market—the need was undeniable and local. Startups have no such geographic imperative. There is no need for a 'Google of Germany' the way every city needed a power grid. This fundamentally limits what government incentives can accomplish.
 

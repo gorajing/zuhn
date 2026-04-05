@@ -57,6 +57,16 @@ related:
   - INS-260329-5F19
   - INS-260329-3383
   - INS-260403-6412
+evidence:
+  - id: INS-260403-8DE1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-A0F7
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-6412
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Eugene from ZDOT AI made the case that the most enduring value in 2026 sits in the platform layer: model-as-a-service infrastructure, enterprise deployment tools, and API services positioned between raw foundation models and end-user applications. This view was reinforced by the other panelists — Open Router captures value as a routing and deployment platform, Hugging Face as a model hosting and tooling platform, and Minimax operates across both model and application layers.
 

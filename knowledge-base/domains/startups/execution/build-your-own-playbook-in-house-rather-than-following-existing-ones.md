@@ -61,6 +61,9 @@ evidence:
   - id: INS-260322-D58A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-83C6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Fuse is working on fusion energy technology that nobody has built before. There's no playbook to follow from existing nuclear companies or other startups. JC had to develop methodologies, testing approaches, and commercialization strategies from scratch.
 

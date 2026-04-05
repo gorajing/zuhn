@@ -58,5 +58,9 @@ related:
   - INS-260403-22E9
   - INS-260403-49E7
   - INS-260403-F7DD
+evidence:
+  - id: INS-260320-C65B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Traditional executive onboarding relies on dense documents, meeting marathons, and tribal knowledge accumulation over months. Three organizations profiled by Strategyzer found that walking new executives through the company's Business Model Canvas — and having them interact with it — compressed this process dramatically. The canvas works for onboarding because it forces the existing team to articulate assumptions they've internalized and stopped questioning, while giving the new executive a structured mental model to hang subsequent details on. This connects to a broader principle: externalized visual models transfer knowledge more efficiently than narrative documents because they expose structure, gaps, and relationships simultaneously rather than sequentially.

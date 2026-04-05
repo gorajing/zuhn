@@ -57,5 +57,8 @@ evidence:
   - id: INS-260329-D1A1
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-5427
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The MIT report identifies a clear pattern separating the 5% who succeed from the 95% who fail at enterprise AI. Successful organizations are 'strategically adaptive' — they drive adoption through distributed experimentation rather than waiting for central approval. They hold vendors accountable to specific business metrics rather than accepting generic capability demos. They treat AI procurement as partnership requiring deep customization, not purchasing off-the-shelf solutions. The report explicitly states these buyers are 'not just more eager, they are more strategically adaptive.' This suggests the organizational capability to experiment and iterate rapidly is the primary bottleneck, not the AI technology itself.

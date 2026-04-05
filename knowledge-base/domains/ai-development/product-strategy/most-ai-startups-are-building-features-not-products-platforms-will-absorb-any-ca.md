@@ -76,6 +76,12 @@ evidence:
   - id: INS-260329-7CDE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-D2B1
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-43B9
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Ash Maurya identifies the #1 AI startup death pattern: building capabilities that Google, Microsoft, Anthropic, or OpenAI can ship as a feature update. Jasper built an AI writing platform that exploded — then ChatGPT and Claude added writing capabilities and Jasper's value proposition evaporated overnight. The same pattern is hitting AI coding tools, email assistants, and scheduling apps.
 

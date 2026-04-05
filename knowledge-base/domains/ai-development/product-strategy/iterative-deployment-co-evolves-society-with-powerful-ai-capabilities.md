@@ -58,6 +58,12 @@ evidence:
   - id: INS-260322-7A2F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-A0F7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-219E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Sora team explicitly frames their release strategy around co-evolving society with technology rather than dropping bombshells. They position Sora 2 as the 'GPT-3.5 moment for video,' a usability threshold that makes the world aware of what's possible and starts building comfort with the technology.
 

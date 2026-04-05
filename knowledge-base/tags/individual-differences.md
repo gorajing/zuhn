@@ -1,5 +1,5 @@
 # Tag: individual-differences
 
-- `INS-260330-51D1` Walter Summerford was struck by lightning three times not because of cosmic fate, but because as an avid outdoor sportsman his exposure probability was orders of magnitude higher than average.
 - `INS-260330-B966` The Lally 2010 study found a 14x variance in habit formation time (18-254 days) for the same behavior, explained by individual differences in limbic friction management.
+- `INS-260330-51D1` Walter Summerford was struck by lightning three times not because of cosmic fate, but because as an avid outdoor sportsman his exposure probability was orders of magnitude higher than average.
 - `INS-260403-CCC3` Managing chatter requires building a personalized toolkit across three domains: solo techniques, social strategies, and environmental design.

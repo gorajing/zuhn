@@ -1,10 +1,10 @@
 # Tag: consciousness
 
-- `INS-260323-085A` Penrose argues from Goedel's incompleteness theorems that human mathematicians can grasp truths no algorithm can formally prove — suggesting understanding transcends classical computation.
 - `INS-260323-BCCC` People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
 - `INS-260403-1F58` The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260322-2A3A` The question of whether AI can be a moral patient is empirically testable through prolonged interaction — holding an unfalsifiable position that silicon can never be a being is faith, not reasoning.
 - `INS-260323-1345` When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
+- `INS-260323-085A` Penrose argues from Goedel's incompleteness theorems that human mathematicians can grasp truths no algorithm can formally prove — suggesting understanding transcends classical computation.
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260325-0E70` Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
 - `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
@@ -41,6 +41,7 @@
 - `INS-260327-B59B` A scientist who knows everything about color perception but has never seen color will still learn something new when she sees red for the first time - suggesting subjective experience transcends physical knowledge.
 - `INS-260323-0897` Across multiple quantum consciousness frameworks, the brain consistently appears as an interface or transceiver for consciousness rather than its origin — like a VR headset worn by awareness to navigate reality.
 - `INS-260327-0133` Alan Watts' dream escalation argument: an omniscient dreamer would inevitably choose to forget it's dreaming, suggesting limitation and uncertainty are features consciousness deliberately chooses over boring omniscience.
+- `INS-260405-8584` You can keep adding 'want to' layers, but you always bottom out at a desire you didn't choose.
 - `INS-260325-F6AF` The 'hard problem' is why felt experience exists at all, not which brain regions correlate with which feelings.
 - `INS-260330-F399` The boundary between inner experience and outer world is not found in actual experience — both appear in the same undifferentiated space of consciousness.
 - `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.

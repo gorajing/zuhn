@@ -67,6 +67,9 @@ evidence:
   - id: INS-260329-8DDF
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-77A2
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Most VC attention in AI flows toward horizontal software markets where large incumbents already operate. NFX argues the asymmetric opportunity is in verticals that were never digitized—legal ($373B), manufacturing ($7.2T), construction, education. These industries skipped the cloud/SaaS wave entirely, so there is no dominant software incumbent to displace. AI products can break through the adoption friction that previously kept software out, and founders who enter these spaces can use AI as a wedge to digitize and capture entire value chains. The playbook mirrors mobile leapfrogging in emerging markets: skip the intermediate technology layer and jump to the latest one.
 

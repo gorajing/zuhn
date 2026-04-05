@@ -58,6 +58,10 @@ related:
   - INS-260404-FF0B
   - INS-260404-0A17
   - INS-260322-CCE8
+evidence:
+  - id: INS-260322-CCE8
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The article's core architectural argument is that business models must be designed and prototyped 'like an architect designs buildings'—through iterative sketching, testing, and refinement. This directly opposes the traditional approach of writing lengthy business plans that predict what a company will sell in five years. The credit goes partly to decreased information processing costs making rapid iteration feasible.
 

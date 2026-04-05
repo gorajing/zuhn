@@ -55,6 +55,13 @@ related:
   - INS-260329-E208
   - INS-260325-5F3B
   - INS-260325-BC2A
+evidence:
+  - id: INS-260402-580C
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260329-E208
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The essay traces a clear historical arc: Deep Blue (1997), DeepMind's Atari agents (2013), AlphaGo (2016), OpenAI's Minecraft agents (2020), and now generative AI tools for content creation. Each breakthrough in gaming AI preceded broader industry adoption of the same techniques. Games provide ideal AI testbeds because they generate massive behavioral data, have clear success metrics, and users expect intelligent responsive systems.
 

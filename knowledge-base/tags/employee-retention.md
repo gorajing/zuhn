@@ -1,7 +1,7 @@
 # Tag: employee-retention
 
-- `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
 - `INS-260404-95FC` Costco pays double the US retail average ($21/hr) and gets employees who are three times more productive.
+- `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
 - `INS-260405-202B` Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
 - `INS-260403-CCB7` Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.

@@ -58,5 +58,11 @@ evidence:
   - id: INS-260329-F635
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260323-8555
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-44C9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham makes a counterintuitive claim: good software craftsmanship means speed, not precision. The reasoning is that your initial understanding of a problem is almost always wrong, so the faster you build a prototype, the faster you discover what the real problem and solution look like. Working slowly and meticulously means investing heavily in implementing an incorrect mental model. This reframes speed not as sloppiness but as a form of intellectual honesty — an acknowledgment that you don't yet understand the problem well enough to justify careful construction. The implication for builders is to get to working software fast enough that the software itself teaches you what to build.

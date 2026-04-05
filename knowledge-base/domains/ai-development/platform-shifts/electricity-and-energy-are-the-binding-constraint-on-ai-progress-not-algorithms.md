@@ -63,5 +63,8 @@ evidence:
   - id: INS-260327-4313
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-3307
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Dalton recalls Sam Altman leaving YC around 2013 to pursue nuclear power, arguing that governments had unjustly banned nuclear energy and that unlimited electricity was the key to the future. At the time, it seemed random — Altman was previously known for the social network for Boost Mobile phones. But the narrative today is that electricity is the binding constraint for AI. Nuclear companies Altman funded became huge. Even beyond those specific investments, the macro thesis — that energy abundance unlocks intelligence — turned out to be the single most important zoomed-out insight about the AI era.

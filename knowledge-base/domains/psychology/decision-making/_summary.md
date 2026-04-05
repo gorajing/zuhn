@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 100 insights
+> 101 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -92,6 +92,7 @@
 - `INS-260403-C695` [medium] Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260330-3B05` [medium] Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
+- `INS-260405-DB32` [medium] You are accountable for acting from your values, even if you didn't choose those values from scratch.
 - `INS-260330-74AC` [medium] China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
 - `INS-260403-B734` [medium] For most of history, success meant winning zero-sum contests where ruthlessness helped; in idea-driven economies, the polarity reverses.
 - `INS-260403-6B97` [medium] Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists.

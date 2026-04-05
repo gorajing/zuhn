@@ -66,6 +66,12 @@ evidence:
   - id: INS-260402-8170
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-5B46
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-D8C1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Zuckerberg explains Meta's open-source AI strategy through two reinforcing loops. First, top AI researchers want to work at places where they can share their work — so openness is a talent acquisition strategy. Second, open-sourcing infrastructure (they did this with data center designs via Open Compute Project) drives community innovation that makes Meta's own systems more efficient.
 

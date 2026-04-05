@@ -60,6 +60,10 @@ related:
   - INS-260323-6043
   - INS-260403-1D43
   - INS-260403-3656
+evidence:
+  - id: INS-260323-6230
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 NFX argues that the core web3 gaming evolution has two pillars: NFTs as true ownership of virtual goods (currently locked in platform walled gardens like Steam), and tokens as portable in-game currencies. The earn element is a byproduct, not the core value proposition.
 

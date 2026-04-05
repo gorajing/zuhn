@@ -53,7 +53,6 @@ related:
   - INS-260330-CE2F
   - INS-260329-DBFE
   - INS-260329-DEA1
-  - INS-260329-41BC
 evidence:
   - id: INS-260330-CE2F
     type: CHALLENGES

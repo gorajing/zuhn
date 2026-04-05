@@ -65,6 +65,15 @@ evidence:
   - id: INS-260403-D543
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-E52B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260404-F908
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-3ABF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Leyden identifies a structural difference between clean energy and all previous energy sources: solar and batteries are purely technologies, not commodities. Coal must be mined, oil must be drilled — their costs are governed by extraction economics and depletion. Solar panels follow manufacturing learning curves: each doubling of production yields roughly 20% cost reduction.
 

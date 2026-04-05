@@ -69,6 +69,9 @@ evidence:
   - id: INS-260325-40DC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-572C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Photosystem II was named second but acts first in the electron transport chain — the naming reflects discovery order, not functional order. This isn't just a biology trivia point; it's a meta-learning signal. Fields built through incremental discovery (biology, networking protocols, programming languages) accumulate naming debt where labels reflect historical accident rather than logical structure.
 

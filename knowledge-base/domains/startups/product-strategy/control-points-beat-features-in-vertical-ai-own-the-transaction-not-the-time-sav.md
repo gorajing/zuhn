@@ -54,6 +54,10 @@ related:
   - INS-260403-B5C0
   - INS-260403-E86E
   - INS-260402-8595
+evidence:
+  - id: INS-260322-EDC2
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 When building vertical AI products, founders face a critical strategic choice: optimize a single task in a value chain (floorplan analysis, lead scoring) or own the control point that gates the entire workflow. Control points are 'need-to-haves' that facilitate the actual transaction rather than merely accelerating it.
 

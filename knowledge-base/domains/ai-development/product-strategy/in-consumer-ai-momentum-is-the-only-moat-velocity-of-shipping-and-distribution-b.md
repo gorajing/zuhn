@@ -66,5 +66,11 @@ evidence:
   - id: INS-260324-5C53
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-9E2D
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-427E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Bryan Kim at a16z challenges their own earlier 'Empty Promise of Data Moats' thesis. In consumer AI, foundational models and infrastructure shift monthly. Speed without iteration just makes you the first pigeon to fall. The winners (Perplexity, Lovable, Replit, ElevenLabs) build for velocity explicitly. Winning distribution tactics in 2025-2026: hackathons as public performance (ElevenLabs' Gibberlink moment), social experiments (Bolt's Guinness record attempt), AI starter packs (coalition launches cross-pollinating audiences), insider evangelists over traditional influencers, launch videos as distribution strategy, and building in public. The chief 'flapping' officer — a builder as head of growth who creates weird demos — is emerging as a new role.

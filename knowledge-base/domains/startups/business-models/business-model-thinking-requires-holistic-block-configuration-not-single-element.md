@@ -56,6 +56,13 @@ related:
   - INS-260330-AA77
   - INS-260330-AF2A
   - INS-260402-1F41
+evidence:
+  - id: INS-260330-EE25
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260321-8C35
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Companies typically focus on one or two business model elements — most commonly product, service, technology, or price. This narrow optimization misses the compounding effects that emerge when multiple building blocks are intentionally configured to reinforce each other.
 

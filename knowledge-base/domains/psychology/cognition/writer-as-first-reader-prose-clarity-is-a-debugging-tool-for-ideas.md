@@ -52,6 +52,10 @@ related:
   - INS-260403-B508
   - INS-260329-DABC
   - INS-260403-1A96
+evidence:
+  - id: INS-260330-00D5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham points out that he spends far more time reading his essays than writing them, re-reading sections 50-100 times while asking 'does anything catch?' Prose that flows well reduces the cognitive load of each re-read, making subtle logical or structural problems more visible — like sanding wood to feel for rough spots.
 

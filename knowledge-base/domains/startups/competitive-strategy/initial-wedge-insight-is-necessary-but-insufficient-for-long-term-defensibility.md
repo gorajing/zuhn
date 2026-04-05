@@ -50,5 +50,9 @@ related:
   - INS-260404-397F
   - INS-260323-7B63
   - INS-260404-445D
+evidence:
+  - id: INS-260325-FBE5
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 NFX highlights a critical tension in cybersecurity startups: the same paradigm-shift dynamics that let you displace incumbents will eventually be used against you. Your initial wedge — like Koi's app-layer insight — provides a head start but is not a moat by itself. The countermeasure is to use the wedge period to build compounding defensibility: network effects from customer data, brand trust from proving vulnerability, and deep embedding into customer workflows. This applies broadly to any market where the competitive landscape shifts regularly — single-vector defensibility is always temporary. The founders who win long-term are the ones who treat their initial insight as a beachhead, not a fortress.

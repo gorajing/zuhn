@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 98 insights
+> 99 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -32,6 +32,7 @@
 - `INS-260330-43C9` [high] Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - `INS-260325-4C2E` [high] The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260403-7F97` [high] Knowing every neural pathway involved in pain still cannot make someone who has never felt pain actually experience it.
+- `INS-260405-8584` [high] You can keep adding 'want to' layers, but you always bottom out at a desire you didn't choose.
 - `INS-260325-F6AF` [high] The 'hard problem' is why felt experience exists at all, not which brain regions correlate with which feelings.
 - `INS-260330-3672` [high] High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
 - `INS-260327-8DC5` [high] If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.

@@ -52,5 +52,9 @@ related:
   - INS-260330-070A
   - INS-260330-790A
   - INS-260403-7E95
+evidence:
+  - id: INS-260325-DA83
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 If a selection process is biased against group X, members of X must clear a higher bar to pass. Consequently, those who do pass will be more capable on average than the unbiased population of selected applicants — and will outperform. This logic inverts the intuition: seeing group X overperform after selection is evidence that the gate was harder for them, not that they are inherently better. The implication is powerful: you can audit selection bias purely from outcome data without any access to the applicant pool or the selector's intent. First Round Capital's finding that female-founded startups outperformed by 63% is a concrete case where outcome data surfaced bias the selectors almost certainly didn't acknowledge.

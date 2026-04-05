@@ -56,6 +56,10 @@ related:
   - INS-260329-9115
   - INS-260329-22B6
   - INS-260323-DA6F
+evidence:
+  - id: INS-260328-0B99
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Current quality of early work is a poor signal for whether to continue, because early work on ambitious projects is structurally bad relative to finished work — that's not a flaw, it's a phase. The more relevant question is whether the work is improving and at what rate.
 

@@ -57,6 +57,10 @@ related:
   - INS-260403-B32D
   - PRI-260328-0C86
   - INS-260405-34F1
+evidence:
+  - id: INS-260325-8F49
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The summit used a structured self-assessment framework with nine questions across three categories (leadership, culture/processes, organizational design). The aggregated results showed that no organization excelled across all dimensions — those scoring high on leadership support scored low on testing practices, and vice versa.
 

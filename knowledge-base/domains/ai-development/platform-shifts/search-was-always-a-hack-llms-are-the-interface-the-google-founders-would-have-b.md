@@ -67,6 +67,9 @@ evidence:
   - id: INS-260328-4EA0
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-3A49
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Andreessen argues that Google Search's 10 Blue Links format was never the ideal — it was the best available hack given 1990s technology. Google has been trying to move beyond it for 15 years (Knowledge Graph, one-box answers). The counterfactual is clear: if Brin and Page had LLMs, they would have built an answer engine from day one.
 

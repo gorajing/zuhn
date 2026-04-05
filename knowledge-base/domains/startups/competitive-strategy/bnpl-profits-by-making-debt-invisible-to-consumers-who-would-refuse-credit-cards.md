@@ -43,10 +43,10 @@ stance: >-
   avoid credit cards but accept installments.
 related:
   - INS-260327-BF93
+  - INS-260405-787F
   - INS-260327-875C
   - INS-260329-C345
   - INS-260329-A231
-  - INS-260325-B8CB
 evidence:
   - id: INS-260327-BF93
     type: REFINES

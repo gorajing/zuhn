@@ -54,6 +54,9 @@ evidence:
   - id: INS-260320-A4BF
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260323-AF7B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham observes that a surprising number of large, serious programs began as throwaway programs — quick hacks for a limited task that grew. If this is true, then a tool's ability to support rapid, low-ceremony prototyping is critical because that is where most real software actually begins its life.
 

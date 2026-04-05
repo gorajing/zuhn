@@ -54,8 +54,8 @@ related:
   - INS-260330-5265
   - INS-260330-C71A
   - INS-260330-30F0
+  - INS-260405-D3B5
   - INS-260330-FE14
-  - INS-260330-0DF9
 ---
 The Mad Batter experiment demonstrates that a bat moving at 240 mph only produces a 190 mph exit velocity — the ball doesn't simply match the bat's speed. The bat slows from 240 to 183 mph on impact, transferring only a fraction of its kinetic energy. This reveals a fundamental physics principle: energy transfer in collisions depends on impedance matching — the mass ratio and elasticity between objects determines how much energy crosses the boundary.
 

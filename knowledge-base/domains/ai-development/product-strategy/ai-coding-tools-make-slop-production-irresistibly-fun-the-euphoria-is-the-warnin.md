@@ -63,5 +63,8 @@ evidence:
   - id: INS-260330-CC7D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-BE07
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Dalton describes Claude Code as feeling like 'a video game' — you type stuff in, watch the screen fly by, see tokens burn, and feel powerful. But he identifies this euphoria as the exact same pattern he felt hand-compiling Linux kernels (felt elite, produced nothing beneficial), exploring early Bitcoin (seemed revolutionary, hard to think about anything else), and other tech manias. The danger: a younger version of himself could easily lose sleep, skip self-care, and become convinced all the junk he's making is really good. The key test: take a break, get sleep, look at your work with fresh eyes or show it to people you trust. If you kind of know it's not that good, that's slop. Slop is 'where you're sort of actively self-deceiving that your thing is good when you kind of know it's not.'

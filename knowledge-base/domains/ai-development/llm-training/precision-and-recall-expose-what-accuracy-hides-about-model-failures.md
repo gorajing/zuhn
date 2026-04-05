@@ -83,5 +83,8 @@ evidence:
   - id: INS-260330-38E1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-8D87
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The course demonstrates that KNN's 82% accuracy masks a significant gap: recall for hadrons (class 0) was only 68% versus 89% for gammas. This means the model systematically misses a third of hadrons while appearing performant overall. The Wikipedia true-positive/false-positive diagram makes this concrete: precision asks 'of everything I labeled positive, how many actually were?' while recall asks 'of everything that was actually positive, how many did I catch?' These questions matter differently by domain — in medical diagnosis, low recall means missing sick patients; in spam filtering, low precision means losing legitimate emails. The F1 score combines both into a single metric, but understanding the individual components reveals which type of error your model makes. This framework of distinguishing error types applies far beyond ML — in any decision system, understanding false positives vs. false negatives is more actionable than a single accuracy number.

@@ -52,6 +52,10 @@ related:
 stance: >-
   Unlike previous platform shifts (internet, mobile), AI lacks a known
   theoretical ceiling, making deterministic predictions uniquely unreliable.
+evidence:
+  - id: INS-260404-7A54
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Previous platform shifts had knowable physical constraints — you knew in 1995 that telcos wouldn't deliver gigabit fiber next year, and you knew the iPhone wouldn't have a year-long battery. With AI, we lack both a good theoretical understanding of why it works so well and a clear model of human intelligence to benchmark against. This means vibes-based forecasting dominates: experts like Jeff Dean, Demis Hassabis, and Karpathy offer wildly different timelines.
 

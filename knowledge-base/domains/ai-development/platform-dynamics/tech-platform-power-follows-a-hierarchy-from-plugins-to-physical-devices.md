@@ -52,8 +52,8 @@ related:
   - INS-260323-7D3C
   - INS-260330-42DE
   - INS-260330-F9B4
+  - INS-260405-DAC9
   - INS-260404-5882
-  - INS-260322-8BD1
 evidence:
   - id: INS-260323-7D3C
     type: CHALLENGES
@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-F9B4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-5882
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 PolyMatter presents a hierarchy of control framework: at the bottom sit plugins and extensions (least control), then browsers, then operating systems, then physical devices at the top (most control). Each layer can dictate terms to everything below it — Microsoft's OS ownership lets it force Bing as the default regardless of browser choice, and Apple's device ownership lets it negotiate billions from Google for Safari default placement.
 

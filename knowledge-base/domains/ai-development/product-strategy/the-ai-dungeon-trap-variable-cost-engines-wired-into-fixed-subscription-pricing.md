@@ -68,5 +68,14 @@ evidence:
   - id: INS-260325-4FF3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-B46E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-2D53
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-3864
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The Latitude / AI Dungeon case study is the canonical warning for AI product economics. AI Dungeon used OpenAI APIs for text adventure generation — as stories got longer, token costs grew with engagement. Monthly AI costs climbed into hundreds of thousands. The most loyal users created the highest costs. This pattern is being replicated in B2B SaaS: a hypothetical 'DashCorp' bundles 'chat with your data' into a $30/user/month plan, but power users pasting large CSVs cost $40/month in model and retrieval costs. The feature looks like a win on engagement metrics while quietly destroying margins. The fix requires usage caps, smart model routing (cheap models for simple tasks, expensive for complex), and treating the model layer as a utility with an orchestration layer for provider flexibility.

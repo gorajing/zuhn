@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 4052 actionable insights
+Generated on 2026-04-05 | 4058 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1391,6 +1391,7 @@ Generated on 2026-04-05 | 4052 actionable insights
 ## psychology/habits
 - [INS-260405-DC8D] Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
 - [INS-260405-7B8D] Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
+- [INS-260405-AAB7] Wanting to want the new behavior is a prerequisite for lasting habit change.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -3415,6 +3416,7 @@ Generated on 2026-04-05 | 4052 actionable insights
 - [INS-260405-0A6D] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 - [INS-260405-34F1] Diagnosing where an organization currently sits on the innovation maturity spectrum is the prerequisite to building an effective innovation system.
 - [INS-260405-66A1] Regulatory constraints define the innovation search space but don't eliminate the need for systematic discovery and validation.
+- [INS-260405-3066] Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
 
 ## startups/investor-relations
 - [INS-260405-F980] Sequoia's 'proxy for demand' — what are people doing with inadequate tools right now? — is worth more than any market size estimate.
@@ -3575,6 +3577,9 @@ Generated on 2026-04-05 | 4052 actionable insights
 - [INS-260403-15DD] When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 - [INS-260405-D23E] Platform builders should maximize developer access rather than try to anticipate use cases, because versatility produces emergent applications the platform creator never imagined.
 
+## startups/platform-strategy
+- [INS-260405-8107] Bundled technology ecosystems like Java/Oracle convert upfront savings into permanent switching costs that organizations discuss escaping but rarely do.
+
 ## startups/problem-solving
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
 - [INS-260330-8D7C] LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
@@ -3692,10 +3697,12 @@ Generated on 2026-04-05 | 4052 actionable insights
 - [INS-260403-912E] Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.
 - [INS-260404-8A18] Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
 - [INS-260404-226F] Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
+- [INS-260405-A2A2] Strategyzer's Value Proposition Canvas makes explicit what most product teams leave implicit: the specific pains a product relieves and gains it creates, mapped against real customer jobs.
 
 ## startups/product-market-fit
 - [INS-260405-95D1] Removing friction meets the baseline; gains require going beyond what customers already expect.
 - [INS-260405-7305] Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
+- [INS-260405-787F] Apple Pay succeeded not by adding a new payment method but by eliminating the friction and exposure of existing ones.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -4085,6 +4092,7 @@ Generated on 2026-04-05 | 4052 actionable insights
 - [INS-260405-225B] SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
 - [INS-260405-D8AA] Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
 - [INS-260405-88F9] Costco's ~4,000 SKUs versus Walmart's 140,000 means suppliers fight to be one of two choices, handing Costco extreme pricing power.
+- [INS-260405-7DC3] E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

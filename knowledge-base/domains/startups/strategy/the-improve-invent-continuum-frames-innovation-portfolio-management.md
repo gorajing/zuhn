@@ -53,6 +53,10 @@ related:
   - INS-260403-E25F
   - INS-260403-42F2
   - INS-260403-E3C4
+evidence:
+  - id: INS-260322-CCE8
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Most companies mentally bucket their work into 'core business' and 'innovation projects,' but reality is a gradient. Some initiatives are modest extensions of existing models (new customer segments, adjacent features), while others are genuine explorations into unknown territory. The continuum model helps leaders allocate appropriate governance to each initiative based on how much is known versus unknown.
 

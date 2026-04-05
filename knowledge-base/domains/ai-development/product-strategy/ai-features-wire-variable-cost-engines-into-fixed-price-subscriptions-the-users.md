@@ -64,5 +64,11 @@ evidence:
   - id: INS-260322-FCFC
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-A0B0
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-E497
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Traditional SaaS assumes near-zero marginal cost per click. AI changes this: every query has a real cost in tokens, retrieval, and compute. When heavy users paste large documents into chat interfaces or run complex multi-step agents, their per-user AI cost can exceed what they pay for the entire product. The Latitude/AI Dungeon case showed this at consumer scale; a hypothetical 'DashCorp' illustrates it at B2B scale. The 3x rule provides a planning heuristic: an AI feature should create measurable value at least 3x its direct compute cost. Without this discipline, AI features become margin-negative growth — impressive demos that quietly bankrupt the business.

@@ -1,8 +1,9 @@
 # Topic: developer-tools
 
-> 9 insights
+> 10 insights
 
 - `INS-260330-202A` [high] Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes.
+- `INS-260405-F6A6` [high] The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260330-3257` [high] Pin a Three.js canvas with fixed positioning behind CSS Grid content for clean 2D/3D hybrid layouts.
 - `INS-260330-DE2B` [high] The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260330-0A95` [high] Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.

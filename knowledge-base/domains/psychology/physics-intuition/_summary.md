@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 79 insights
+> 80 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -69,6 +69,7 @@
 - `INS-260330-07B1` [high] Earth radiates back the same energy it receives from the sun; what we actually use is the low entropy — concentrated energy in fewer, higher-energy photons.
 - `INS-260330-97A0` [high] Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260330-2DF9` [high] Jupiter's gravitational flexing of Europa generates enough internal heat to maintain a subsurface liquid ocean, proving life doesn't require proximity to a star.
+- `INS-260405-D3B5` [high] The Magnus effect is negligible at low speeds but at 126m of freefall it curves a basketball dozens of meters sideways — the same physics, radically different outcomes.
 - `INS-260330-03F7` [medium] Earth's gravity is just low enough for chemical rockets, it has fossil fuels for industrialization, a reachable Moon for early space programs, and plate tectonics from a giant impact — each condition narrowly enabling the next.
 - `INS-260323-089E` [medium] The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
 - `INS-260330-FFAB` [medium] Technological civilizations may last only thousands of years against billions of cosmic years, making simultaneous existence vanishingly rare.

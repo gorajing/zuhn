@@ -56,10 +56,10 @@ related:
   - INS-260329-92FC
   - INS-260330-9D44
   - INS-260330-CCF0
+  - INS-260405-DAC9
   - INS-260403-2CDA
   - INS-260325-4846
   - INS-260325-5B7F
-  - PRI-260323-BA94
   - INS-260403-D0B9
 evidence:
   - id: INS-260327-95D3
@@ -74,6 +74,9 @@ evidence:
   - id: INS-260325-5B7F
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-D0B9
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham draws a profound distinction between Lisp (born from mathematical theory — McCarthy's alternative to Turing machines) and Fortran (born from practical engineering — assembly language with math). Over 40+ years, the pragmatic engineering tree has converged toward the theoretical tree, not vice versa. Each new mainstream language (Java → Perl → Python) progressively adopts more Lisp features, while Lisp's core hasn't needed to change because it was rooted in mathematical truths rather than hardware realities.
 

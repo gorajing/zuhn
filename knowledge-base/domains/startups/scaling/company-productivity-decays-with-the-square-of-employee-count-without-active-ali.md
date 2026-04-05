@@ -57,5 +57,8 @@ evidence:
   - id: INS-260322-C935
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-FFFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Altman identifies alignment as the single most important concept for maintaining company productivity during growth. The math is straightforward: connections between nodes grow quadratically, so each new hire adds overhead proportional to the existing team size. His diagnostic test is revealing — he asks founders if 10 random employees could name the same top 3 company goals, founders always say yes, and it's never true. The remedy is relentless repetition of roadmap and goals through weekly management meetings, monthly all-hands, quarterly planning, and regular offsites. Announcing goals once is never enough; they must be continuously reiterated.

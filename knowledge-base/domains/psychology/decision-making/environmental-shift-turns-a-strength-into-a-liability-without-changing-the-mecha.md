@@ -57,6 +57,10 @@ related:
   - INS-260403-9F4B
   - INS-260404-60F4
   - INS-260404-0BED
+evidence:
+  - id: INS-260403-304E
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved in an atmosphere with abundant CO2 and almost no oxygen. In that environment, it worked fine — it didn't need to distinguish between the two gases because only one was present. But as photosynthetic organisms succeeded and flooded the atmosphere with oxygen, RuBisCo's inability to discriminate became a critical flaw, causing it to grab oxygen half the time and produce toxic phosphoglycolate.
 

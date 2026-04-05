@@ -59,6 +59,10 @@ related:
   - INS-260330-09DE
   - INS-260330-9A60
   - INS-260403-2C1A
+evidence:
+  - id: INS-260328-6C9A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis converts only about 3-6% of incoming solar energy into chemical energy. The video explicitly calls it 'complicated, inefficient and confusing.' Yet it has powered virtually all complex life for 450 million years. No alternative biochemistry has displaced it despite its poor conversion rate.
 

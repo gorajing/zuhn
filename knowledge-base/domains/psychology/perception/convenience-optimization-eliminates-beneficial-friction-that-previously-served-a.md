@@ -44,6 +44,10 @@ related:
   - PRI-260328-7E58
   - INS-260327-B528
   - INS-260403-03BD
+evidence:
+  - id: INS-260403-03BD
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Products and services that remove all friction from consumption eliminate the natural behavioral checkpoints that previously prevented overconsumption.
 

@@ -59,6 +59,13 @@ related:
   - INS-260330-A86C
   - INS-260402-92AE
   - PRI-260403-5FC4
+evidence:
+  - id: INS-260323-AF7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-D65E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The essay argues that games companies have developed the most rigorous data-driven iteration culture of any tech sector. Unlike other tech companies where products can linger as 'zombies,' games must constantly evolve or die — there's no middle ground. This creates founders who are relentlessly measurement-focused, combining data science with creative instincts to optimize every aspect of their product.
 

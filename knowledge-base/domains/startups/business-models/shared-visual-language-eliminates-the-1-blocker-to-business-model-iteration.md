@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-91C7
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-AB62
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Business Model Canvas succeeded not because it introduced new strategic concepts but because it gave teams a shared vocabulary. Before it, the same word—'business model'—meant different things to different people in the same room. This communication failure meant ideas got shelved not because they were bad, but because they couldn't be clearly conveyed.
 

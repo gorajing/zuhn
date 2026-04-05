@@ -200,9 +200,9 @@ Generated on 2026-04-05 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
@@ -319,6 +319,7 @@ Generated on 2026-04-05 | 2421 sources
 | Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
 | Best Books for Founders: What Startup Leaders Actually Read | blog | 5 | 2026-03-30 |
+| Best GitHub Repos for AI Builders in 2025 | blog | 5 | 2026-03-30 |
 | Best Innovation Management Books: 20 Must-Reads for Leaders | blog | 5 | 2026-03-31 |
 | Best Of Moltbook | blog | 5 | 2026-03-30 |
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
@@ -935,6 +936,7 @@ Generated on 2026-04-05 | 2421 sources
 | Announcing a brand-new podcast: “How I AI” with Claire Vo 🔥 | blog | 4 | 2026-03-31 |
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Apple Business Model | blog | 4 | 2026-03-31 |
+| Apple Pay: An Obvious Value Proposition | blog | 4 | 2026-03-31 |
 | Apple Pay’s Uncopyable Business Model Delivers What Nobody Else Could | blog | 4 | 2026-03-31 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
 | Are Gains the Opposite of Pains? | blog | 4 | 2026-03-31 |
@@ -1032,6 +1034,7 @@ Generated on 2026-04-05 | 2421 sources
 | How Natural Tradeoff And Failure Components? | blog | 4 | 2026-03-30 |
 | How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 4 | 2026-03-30 |
 | How Solar Beat Coal, Gas, and Nuclear Combined | blog | 4 | 2026-03-30 |
+| How SpaceX Builds and Pitches Its Long-Term Vision | blog | 4 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 4 | 2026-03-30 |
 | How to Be an Expert in a Changing World | blog | 4 | 2026-03-31 |
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 4 | 2026-03-30 |
@@ -1084,6 +1087,7 @@ Generated on 2026-04-05 | 2421 sources
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 4 | 2026-03-30 |
 | OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
+| OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 4 | 2026-03-30 |
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 4 | 2026-03-30 |
 | Organic Startup Ideas | blog | 4 | 2026-03-31 |
 | Orthodox Privilege | blog | 4 | 2026-03-31 |
@@ -1208,6 +1212,7 @@ Generated on 2026-04-05 | 2421 sources
 | What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 4 | 2026-03-31 |
+| What You (Want to)* Want | blog | 4 | 2026-03-31 |
 | Where to See Silicon Valley | blog | 4 | 2026-03-31 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
 | Why Companies Invest in Open-Source Tech and Research | blog | 4 | 2026-03-30 |
@@ -1263,6 +1268,7 @@ Generated on 2026-04-05 | 2421 sources
 | Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 4 | 2026-03-30 |
 | Arm Yourself With Specific Knowledge | youtube | 4 | 2026-03-30 |
 | Asbestos is a bigger problem than we thought | youtube | 4 | 2026-03-23 |
+| Backspin Basketball Flies Off Dam | youtube | 4 | 2026-03-30 |
 | Bayer’s Bill Anderson: Turning a 168 Year-Old Tanker Like a Speedboat | youtube | 4 | 2026-03-26 |
 | Behind the scenes of a $20M Series A - Part 1 | youtube | 4 | 2026-03-22 |
 | Ben Horowitz on Investing in AI: AI Bubbles, Economic Impact, and VC Acceleration | youtube | 4 | 2026-03-22 |
@@ -1272,6 +1278,7 @@ Generated on 2026-04-05 | 2421 sources
 | Boarding a US NAVY NUCLEAR SUBMARINE in the Arctic - Smarter Every Day 240 | youtube | 4 | 2026-03-30 |
 | But what is a Fourier series?  From heat flow to drawing with circles | DE4 | youtube | 4 | 2026-03-30 |
 | But why is a sphere's surface area four times its shadow? | youtube | 4 | 2026-03-30 |
+| C in 100 Seconds | youtube | 4 | 2026-03-30 |
 | Can you really reach anyone in 6 steps? | youtube | 4 | 2026-03-23 |
 | Can You Swim in Shade Balls? | youtube | 4 | 2026-03-30 |
 | Chris Lattner: Future of Programming and AI | Lex Fridman Podcast #381 | youtube | 4 | 2026-03-24 |
@@ -1333,6 +1340,7 @@ Generated on 2026-04-05 | 2421 sources
 | Is AI a Scam? We Ask Prof. Emily Bender, Author of “The AI Con” | youtube | 4 | 2026-03-23 |
 | Is Your Red The Same as My Red? | youtube | 4 | 2026-03-30 |
 | iShowSpeed & MrBeast Leak The Secrets Of Youtube.. | youtube | 4 | 2026-03-22 |
+| Java for the Haters in 100 Seconds | youtube | 4 | 2026-03-30 |
 | Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405 | youtube | 4 | 2026-03-24 |
 | Joscha Bach: Life, Intelligence, Consciousness, AI & the Future of Humans | Lex Fridman Podcast #392 | youtube | 4 | 2026-03-24 |
 | Keyu Jin: China's Economy, Tariffs, Trade, Trump, Communism & Capitalism | Lex Fridman Podcast #477 | youtube | 4 | 2026-03-24 |
@@ -2221,7 +2229,6 @@ Generated on 2026-04-05 | 2421 sources
 | Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann | blog | 0 | 2026-03-31 |
 | Anthropic's 2022 Pitch Deck Leaked (10 Slides → $380B) | blog | 0 | 2026-03-30 |
 | “Anyone can cook”: How v0 is bringing Git workflows to vibe coding | Guillermo Rauch (Vercel CEO) | blog | 0 | 2026-03-31 |
-| Apple Pay: An Obvious Value Proposition | blog | 0 | 2026-03-31 |
 | April Dunford on product positioning, segmentation, and optimizing your sales process | blog | 0 | 2026-03-31 |
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |
@@ -2229,7 +2236,6 @@ Generated on 2026-04-05 | 2421 sources
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
-| Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
 | Bio | blog | 0 | 2026-03-31 |
 | Biz4Kids - a business model for kids | blog | 0 | 2026-03-31 |
 | Biz4Kids - Join Our Business Comic For Kids | blog | 0 | 2026-03-31 |
@@ -2313,7 +2319,6 @@ Generated on 2026-04-05 | 2421 sources
 | Hidden Open Thread 425.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
-| How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
@@ -2339,7 +2344,6 @@ Generated on 2026-04-05 | 2421 sources
 | Open Thread 424 | blog | 0 | 2026-03-30 |
 | Open Thread 425 | blog | 0 | 2026-03-30 |
 | Open Thread 426 | blog | 0 | 2026-03-30 |
-| OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
@@ -2403,7 +2407,6 @@ Generated on 2026-04-05 | 2421 sources
 | What Languages Fix | blog | 0 | 2026-03-31 |
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
-| What You (Want to)* Want | blog | 0 | 2026-03-31 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
@@ -2412,14 +2415,11 @@ Generated on 2026-04-05 | 2421 sources
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
-| Backspin Basketball Flies Off Dam | youtube | 0 | 2026-03-30 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
-| C in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
-| Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |

@@ -54,6 +54,10 @@ related:
   - INS-260325-4FF3
   - INS-260322-E20E
   - INS-260327-4CB3
+evidence:
+  - id: INS-260327-4CB3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Most B2B AI products today use fee-for-service pricing — you pay for the tool regardless of outcome. This parallels pre-reform healthcare where providers were paid per procedure, incentivizing volume over results. The article argues AI agents enable a shift to outcome-based pricing: you pay when the article gets placed, the deal closes, or the customer is acquired.
 

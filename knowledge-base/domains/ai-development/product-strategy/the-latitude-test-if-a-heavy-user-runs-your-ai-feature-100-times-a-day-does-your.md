@@ -66,5 +66,8 @@ evidence:
   - id: INS-260325-55D8
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-88AF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The article proposes four filters for AI roadmap decisions: problem-first (not technology-first), model agnosticism (orchestration layer between UX and models), clear kill criteria (negative feedback rates, latency thresholds, cost-per-user limits), and success defined as less manual work (not feature adoption). The kill criteria are particularly important: AI features have running costs that make zombie features more expensive than in traditional SaaS. Circuit breakers for agents — hard limits on steps, calls, or spend per run — prevent runaway cost loops. The shift from 2023-2024 experimentation to 2026 ROI accountability means CFOs are now scrutinizing AI spend the way they scrutinize headcount.

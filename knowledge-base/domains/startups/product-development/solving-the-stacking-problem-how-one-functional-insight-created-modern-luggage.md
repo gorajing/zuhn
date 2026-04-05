@@ -52,8 +52,8 @@ related:
   - INS-260324-A046
   - INS-260327-749F
   - PRI-260328-99F0
+  - INS-260405-787F
   - INS-260323-5106
-  - INS-260330-AE4B
   - INS-260330-851F
 ---
 Every luggage maker in 1854 used dome-shaped leather tops so rain would roll off. The aesthetic was accepted as given. Vuitton's insight was that this 'feature' created a worse problem: trunks couldn't stack, forcing porters to carry them one by one. His flat-top canvas trunks were lighter, more water-resistant, and stackable — solving the actual constraint travelers faced.

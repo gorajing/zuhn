@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-4794
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260325-2BDB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Wand first considered starting Hippo in 2007 but identified three blocking constraints: building the backend would require Accenture/Guidewire ($300M, 4 years), there was insufficient public data to compete with incumbents' 5M customer datasets, and consumers wouldn't trust a new insurance brand. By 2015, all three constraints dissolved simultaneously: AWS/Stripe/Intercom made tech stacks cheap, Zillow and public records created data abundance across 130M households, and fintech adoption normalized trusting new financial brands.
 

@@ -21,8 +21,6 @@
 - `INS-260323-5106` Casper, built to disrupt retail mattress stores, found that retail sales grew 74% year-over-year with 15% higher average orders — the thing they disrupted became their only hope.
 - `INS-260323-5A96` Americans replace mattresses every 9-10 years — Casper's massive ad spend couldn't change this fundamental market constraint, and growth decelerated from 43% to 18% despite continued spending.
 - `INS-260323-0026` Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
-- `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
-- `INS-260323-8392` Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
@@ -31,6 +29,8 @@
 - `INS-260323-A183` Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
 - `INS-260323-5B9F` Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd rather make YouTube content — that self-awareness is the kill signal most founders ignore for months.
 - `INS-260323-78A5` Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
+- `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
+- `INS-260323-8392` Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260323-7C3A` Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
@@ -40,8 +40,6 @@
 - `INS-260323-E1BE` Find people on social media who publicly complain about the product you're replacing, build genuine trust, then offer your alternative — this direct approach converts better than any ad campaign.
 - `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
 - `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
-- `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
-- `INS-260323-4C43` Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
 - `INS-260323-46F8` 50% of businesses fail in 2 years because leaders cannot hold teams accountable — the failure is internal culture, not external markets.
 - `INS-260323-D621` If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260323-4B1C` With 44% of technical skills becoming obsolete within 10 years, the hardest and most durable leadership skills are the soft ones — conflict resolution, empathy, listening.
@@ -49,13 +47,15 @@
 - `INS-260323-D9CE` Expectations + Measurement x Reinforcement = Accountability — without reinforcement, expectations and measurement produce zero accountability.
 - `INS-260323-9146` Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
 - `INS-260323-348F` 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
+- `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
+- `INS-260323-4C43` Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
 - `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
 - `INS-260323-8AA1` Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.
 - `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
-- `INS-260323-F5EF` The same macro forces that create billion-dollar winners also destroy them when conditions shift — timing is not a skill.
 - `INS-260323-9A93` Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
 - `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
+- `INS-260323-F5EF` The same macro forces that create billion-dollar winners also destroy them when conditions shift — timing is not a skill.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260323-104E` Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
 - `INS-260323-A075` Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.

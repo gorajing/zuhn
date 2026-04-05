@@ -51,6 +51,10 @@ related:
   - INS-260325-20C4
   - INS-260329-04FA
   - INS-260329-939E
+evidence:
+  - id: INS-260329-939E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 DeepSeek R1 demonstrates that a model can develop strong chain-of-thought reasoning through direct reinforcement learning alone — giving the model problems without solutions and letting it learn by trial and reward scoring. This contrasts with the supervised fine-tuning approach where models are shown step-by-step solutions evaluated by humans or other models.
 

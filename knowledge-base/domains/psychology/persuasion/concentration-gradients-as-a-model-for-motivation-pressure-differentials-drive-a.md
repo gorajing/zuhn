@@ -53,6 +53,10 @@ related:
   - INS-260403-CD2A
   - INS-260403-384C
   - INS-260403-0429
+evidence:
+  - id: INS-260403-384C
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, ATP isn't created by raw energy input. The thylakoid membrane is charged like a battery by pumping protons to one side, creating a concentration gradient. Protons then push through ATP Synthase driven by their natural tendency to equalize, and that flow generates ATP. The membrane's job is maintaining asymmetry, not adding energy.
 

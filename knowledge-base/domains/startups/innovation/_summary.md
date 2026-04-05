@@ -1,7 +1,8 @@
 # Topic: innovation
 
-> 111 insights
+> 115 insights
 
+- `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -43,6 +44,7 @@
 - `INS-260403-3DF3` [high] Innovation success depends on making failures fast and cheap while extracting maximum learning from each experiment.
 - `INS-260404-E06E` [high] Existing internal resources can become the foundation of entirely new, higher-margin business models.
 - `INS-260403-499B` [high] Across 40 large organizations, intrapreneurship structures scored lowest — dedicated processes and incentives for internal ventures are exceptionally hard to build.
+- `INS-260405-911F` [high] Newton described the Magnus effect in the 1600s; Flettner rotors only reached commercial shipping in the 21st century — a 400-year lag from observation to deployment.
 - `INS-260404-C92A` [high] Large companies must run parallel cultures — one for executing known business models and one for exploring new ones through rapid experimentation.
 - `INS-260404-BFAB` [high] Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
 - `INS-260403-BDCC` [high] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
@@ -90,6 +92,7 @@
 - `INS-260403-4FA4` [medium] For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.
 - `INS-260404-6BBB` [medium] Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 - `INS-260403-5F44` [medium] Innovation should live in every job rather than be siloed into a dedicated department or role.
+- `INS-260405-3772` [medium] Java's flaws spawned Groovy, Clojure, Scala, Kotlin, and arguably JavaScript — more ecosystem value than most 'better' languages ever generated.
 - `INS-260404-09EE` [medium] Standard education systems optimize for convergent thinking, systematically destroying the creative capacity that innovation later demands.
 - `INS-260405-9DF5` [medium] Early testing is habit-forming — the first win creates momentum that refinement-first teams never build.
 - `INS-260404-6394` [medium] Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.
@@ -109,6 +112,7 @@
 - `INS-260403-3A34` [medium] Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
 - `INS-260405-9FD9` [medium] Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260405-66A1` [medium] Regulatory constraints define the innovation search space but don't eliminate the need for systematic discovery and validation.
+- `INS-260405-3066` [medium] Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-4D8F` [medium] Structured toolboxes with experiment libraries and progress mapping enable both large and small companies to achieve world-class innovation.
 - `INS-260403-5BAD` [medium] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.

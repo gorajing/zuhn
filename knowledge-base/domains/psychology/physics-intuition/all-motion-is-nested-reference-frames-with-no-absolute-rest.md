@@ -51,10 +51,10 @@ stance: >-
   appears to be still.
 related:
   - INS-260330-601A
+  - INS-260405-D3B5
   - INS-260330-5265
   - INS-260330-FEDD
   - INS-260330-03F7
-  - INS-260325-7973
 evidence:
   - id: INS-260325-7973
     type: TRANSFERS_TO

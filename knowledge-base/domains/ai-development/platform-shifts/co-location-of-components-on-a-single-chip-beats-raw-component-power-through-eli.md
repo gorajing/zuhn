@@ -51,7 +51,6 @@ stance: >-
   superior parts, because inter-component communication latency dominates modern
   workloads.
 related:
-  - INS-260329-92FC
   - INS-260330-EA23
   - INS-260330-9D44
   - INS-260404-E8B2
@@ -70,6 +69,9 @@ evidence:
   - id: INS-260325-2BB0
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-E8B2
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Apple Silicon's M1 demonstrated that a system-on-chip (SoC) design — housing CPU, GPU, memory controller, ML engine, and I/O on a single die — outperforms Intel machines with individually more powerful discrete components. The key insight is that inter-component communication latency and energy cost dominate modern workloads more than raw component performance.
 

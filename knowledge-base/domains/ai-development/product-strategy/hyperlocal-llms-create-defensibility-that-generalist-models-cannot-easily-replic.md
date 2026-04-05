@@ -54,6 +54,19 @@ related:
   - INS-260322-0CE3
   - INS-260327-91E7
   - INS-260329-5901
+evidence:
+  - id: INS-260330-F512
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-3517
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-91E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-5901
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX frames Vendict as a 'hyperlocal AI model' — an LLM trained not just on cybersecurity standards but on each customer's internal compliance data. This dual specialization (industry + company) creates a moat that generalist models like ChatGPT cannot easily replicate, because the value comes from embedded organizational knowledge rather than general language capability.
 

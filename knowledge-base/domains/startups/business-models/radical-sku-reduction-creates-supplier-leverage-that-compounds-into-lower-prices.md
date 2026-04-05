@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260325-F484
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Costco stocks roughly 4,000 unique items — about 13% of a typical supermarket and 3% of a Walmart Supercenter. This seems like a weakness (less choice for shoppers) but is actually the source of Costco's deepest competitive advantage. Because there are only one or two spots per product category, suppliers compete fiercely to occupy those slots, accepting lower prices and even product modifications to win placement. Costco once had a cashew supplier reengineer their container shape to fit more per pallet, saving 24,000 pallets annually — savings passed to customers.
 

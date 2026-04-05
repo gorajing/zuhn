@@ -49,5 +49,9 @@ related:
   - INS-260328-91A1
   - INS-260328-9C16
   - INS-260403-F100
+evidence:
+  - id: INS-260325-5CA5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Osterwalder's definition of business tools emphasizes that conceptual soundness is necessary but not sufficient. A framework also needs to be simple, practical, visual, and provide a great user experience. This mirrors software product design principles: the best tool isn't the most comprehensive one, it's the one people actually use. The Business Model Canvas succeeded not because it captured more nuance than a 50-page business plan, but because its single-page visual format created shared language and lowered the barrier to strategic conversation. This principle applies broadly: when designing any framework, methodology, or tool for team adoption, optimizing for usability and visual clarity often matters more than optimizing for completeness.

@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 142 insights
+> 144 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -100,6 +100,7 @@
 - `INS-260403-9D8A` [high] Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - `INS-260403-6628` [high] Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.
 - `INS-260330-F222` [high] Plants must keep oxygen LOW inside leaves despite oxygen being their most valuable output, because it poisons RuBisCo.
+- `INS-260405-F7C5` [high] The Magnus effect aircraft generated more lift per unit than conventional wings — and proportionally far more drag, causing it to crash after a single flight.
 - `INS-260330-2A73` [high] Requiring all builders to do customer support creates a self-correcting feedback loop that improves product quality and reduces support volume.
 - `INS-260330-3A3E` [high] When the people who build the product also support it, bugs get fixed faster and the knowledge gap between builders and users collapses.
 - `INS-260327-30E4` [high] Competing with OpenAI and Anthropic on models is capital-intensive and futile — surf the wave of their improvements by building applications on top.
@@ -140,6 +141,7 @@
 - `INS-260330-E5BE` [medium] Scroll-driven 3D camera movement transforms passive page consumption into active spatial navigation.
 - `INS-260402-C883` [medium] Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 - `INS-260327-C9BA` [medium] Apple never A/B tested the add-to-cart button color — a taste-based judgment call from one executive settled it.
+- `INS-260405-A2A2` [medium] Strategyzer's Value Proposition Canvas makes explicit what most product teams leave implicit: the specific pains a product relieves and gains it creates, mapped against real customer jobs.
 - `INS-260327-77E5` [medium] AI for science progresses through three levels: co-pilot assistance, autonomous AI scientists, and virtual research environments that make biology as fast as computer science.
 - `INS-260322-8D47` [medium] When customers become partners invested in your success as much as you are in theirs, they introduce you to VCs, build on your platform, and actively help your company grow.
 - `INS-260330-21C2` [medium] Longbows work through the archer's paradox via arrow flex; compound bows engineer it away with cut-out risers and drop-away rests — both valid, with different tradeoff profiles.

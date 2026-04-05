@@ -50,7 +50,6 @@ stance: >-
   by building discipline or willpower.
 related:
   - INS-260325-4A01
-  - INS-260325-27ED
   - INS-260323-4718
   - INS-260330-F41D
   - INS-260330-C89D
@@ -62,6 +61,9 @@ evidence:
   - id: INS-260330-C89D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-03BD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Huberman introduces 'linchpin habits' — behaviors you already enjoy that make a cascade of other, harder habits easier to execute. The mechanism is not motivational or psychological willpower; it's neurochemical. Exercise, for example, elevates norepinephrine and dopamine, which directly reduces the limbic friction barrier for subsequent behaviors like healthy eating, focused work, or good sleep hygiene.
 

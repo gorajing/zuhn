@@ -45,10 +45,10 @@ stance: >-
 related:
   - INS-260327-17DE
   - INS-260403-D1D0
+  - INS-260405-DAC9
   - INS-260403-4C61
   - INS-260403-8F6E
   - PRI-260328-5F64
-  - INS-260330-1266
 ---
 The iPhone launched in 2007 without an App Store. When it opened in 2008 with 500 apps, it grew to 1.8 million by 2019. This platform layer transformed a hardware product into an ecosystem play — users stay for the apps, developers build for the users, creating a flywheel that competitors cannot easily replicate.
 

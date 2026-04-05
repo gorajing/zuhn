@@ -49,12 +49,13 @@ stance: >-
   1800s, not believed in 1492
 related:
   - INS-260325-EBDD
-  - INS-260330-9A46
   - INS-260330-1D61
   - INS-260330-3851
   - INS-260330-3DB2
   - INS-260330-4FA3
+  - INS-260330-9A46
   - INS-260403-A22E
+  - INS-260405-911F
 evidence:
   - id: INS-260325-EBDD
     type: CHALLENGES

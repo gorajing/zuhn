@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-A84D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-8302
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 In the 1930s, Raybestos and Johns-Manville hired Saranac Laboratories to study asbestos effects on animals — but with an explicit contractual clause: 'the results will be considered the property of those who are advancing the required funds, who will determine whether, to what extent and in what manner they shall be made public.' When the lead researcher died, the companies edited the report, crossing out entire sections linking asbestos to cancer.
 

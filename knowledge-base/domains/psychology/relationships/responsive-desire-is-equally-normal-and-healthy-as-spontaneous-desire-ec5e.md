@@ -56,6 +56,7 @@ related:
   - INS-260330-C9FA
   - INS-260330-7F43
   - INS-260330-A9DD
+  - INS-260405-8808
 ---
 Western culture normalizes spontaneous desire (wanting sex out of nowhere) as the 'real' kind and frames responsive desire (desire emerging only after sexual stimulation begins) as a deficit. Nagoski argues this is empirically wrong and psychologically damaging. Research shows roughly 75% of men experience primarily spontaneous desire while roughly 75% of women experience primarily responsive desire, but both types appear across all genders.
 

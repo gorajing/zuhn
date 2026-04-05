@@ -8,17 +8,20 @@
 - `INS-260403-AFBB` AI products should optimize for user absence, not presence — the best product is one you never have to look at.
 - `INS-260405-9409` Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
-- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260330-1B47` Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.
-- `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
-- `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
+- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260327-CC35` Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260402-AEA1` Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
-- `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
+- `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
+- `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
+- `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260403-06D5` In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 - `INS-260404-A183` Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260403-8E4D` Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
+- `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
+- `INS-260405-787F` Apple Pay succeeded not by adding a new payment method but by eliminating the friction and exposure of existing ones.
+- `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260403-A5B8` The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
@@ -31,8 +34,6 @@
 - `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
 - `INS-260323-E797` Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius was making it controllable, not more powerful.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
-- `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
-- `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
 - `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 - `INS-260403-9B5D` SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.

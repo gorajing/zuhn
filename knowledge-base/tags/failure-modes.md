@@ -8,4 +8,5 @@
 - `INS-260403-7252` Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
 - `INS-260329-89ED` Eliminating the 28 behaviors that guarantee poverty is a more reliable wealth strategy than any positive wealth-building framework.
 - `INS-260330-08D1` NASA's Mars InSight probe failed because it relied on friction with surrounding soil to dig deeper — the vine robot's tip extension approach eliminates this dependency entirely.
+- `INS-260405-F7C5` The Magnus effect aircraft generated more lift per unit than conventional wings — and proportionally far more drag, causing it to crash after a single flight.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.

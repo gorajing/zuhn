@@ -56,6 +56,10 @@ related:
   - INS-260403-B744
   - INS-260403-924B
   - INS-260405-34D7
+evidence:
+  - id: INS-260330-AB62
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The article describes a recurring pattern: infrastructure layers compete intensely, a few winners consolidate, and the resulting cheap/reliable substrate spawns an explosion of application-layer companies. This played out in cloud (AWS consolidated → SaaS boom), AI (foundation models consolidating → AI app layer emerging), and is beginning in space (launch consolidating → space applications nascent).
 

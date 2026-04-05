@@ -59,6 +59,9 @@ evidence:
   - id: INS-260330-579B
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-03BD
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Michael identifies a specific pattern: founders with poor starting conditions — wrong location, can't work full-time, no technical co-founder — who feel high urgency to begin. Instead of asking 'How do I improve my soil?', they tell themselves grit alone can overcome any disadvantage. So they hire contractors to build the product, put together pitch decks without understanding their market, and muscle forward.
 

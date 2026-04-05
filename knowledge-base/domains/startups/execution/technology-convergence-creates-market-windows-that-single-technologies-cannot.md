@@ -50,13 +50,13 @@ stance: >-
   from the convergence of multiple independent technologies that together remove
   all critical barriers simultaneously
 related:
-  - INS-260322-96F1
   - INS-260327-734D
   - INS-260327-C4AD
+  - INS-260405-787F
+  - INS-260405-E7F9
   - INS-260330-7ED0
   - INS-260330-7FFE
   - INS-260403-8D8D
-  - INS-260327-4440
   - INS-260404-8750
 evidence:
   - id: INS-260330-7ED0

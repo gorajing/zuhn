@@ -55,5 +55,36 @@ related:
   - INS-260330-293E
   - INS-260403-4CE2
   - INS-260328-E410
+evidence:
+  - id: INS-260325-F500
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-48D6
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260328-F782
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260329-6BFC
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260329-4293
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-233C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-C33B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-293E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-4CE2
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260328-E410
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 There is a recurring historical pattern: when technology absorbs routine complexity, humans don't idle — they redirect cognitive capacity upward. The iPhone eliminated dozens of physical devices, and people responded by running businesses from their pockets and broadcasting to millions. AI accelerates this pattern dramatically because it can handle not just mechanical tasks but cognitive ones. The founder scenario in the essay illustrates this: the complexity of building a company doesn't decrease with AI assistants, it increases — founders attempt more ambitious projects because the attention tax on routine operations has collapsed. This counters the common concern that AI will make people lazy. Well-applied friction on hard problems drives learning and progress; friction on boring administrative tasks just drains resources. The design implication is to remove the latter ruthlessly while preserving the former.

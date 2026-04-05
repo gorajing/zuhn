@@ -54,6 +54,10 @@ related:
   - INS-260404-CD55
   - INS-260403-4D8F
   - INS-260403-C05F
+evidence:
+  - id: INS-260403-F112
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The article identifies cross-department collaboration breakdown as a key trigger for investing in innovation management software. This is more significant than it appears on the surface — it's actually a scaling signal. Early-stage companies innovate through proximity and informal communication. As organizations grow, the surface area for serendipitous cross-pollination shrinks while the number of potential collaboration paths explodes combinatorially.
 

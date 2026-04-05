@@ -69,6 +69,9 @@ evidence:
   - id: INS-260328-91A1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-DC20
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Dalton acknowledges that AI models improved faster than he expected as of January 2025, with a burst of strong new models from multiple providers in late 2025. But he notes a meta-problem: you can't just run a benchmark and know if a model is good -- it takes real-world usage time to assess quality. Despite faster capability gains, his AGI timeline estimates remain roughly unchanged.
 

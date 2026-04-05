@@ -70,6 +70,12 @@ evidence:
   - id: INS-260402-FFB2
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-3F10
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-462B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The article proposes a 5-level AI deployment spectrum from AI-enhanced (using AI for internal efficiency) to AI-first (building entirely new markets). Level 4 — 'AI is the product' — is identified as the most dangerous position because it's simultaneously powerful and fragile. Companies here (AI copywriting tools, chatbots, video editors) are easy to copy and often create workflows that take more time to learn than they save.
 

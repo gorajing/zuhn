@@ -49,6 +49,22 @@ related:
   - INS-260321-3521
   - INS-260403-81BD
   - INS-260330-990F
+evidence:
+  - id: INS-260323-2DB0
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-0145
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260321-3521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-81BD
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-990F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The video highlights that Epoch AI, which provides a popular math benchmark, was funded by OpenAI — a company whose models are evaluated on that benchmark. This is a textbook conflict of interest that should make anyone skeptical of benchmark rankings.
 

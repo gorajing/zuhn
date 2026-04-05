@@ -58,6 +58,13 @@ related:
   - INS-260322-5932
   - INS-260403-AC5E
   - INS-260322-EDC2
+evidence:
+  - id: INS-260322-EDC2
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260322-5932
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Latin America has high mobile adoption but schools remain incredibly offline, creating friction with families, higher costs, and less teaching time. This gap between consumer mobile adoption and institutional digitization is the exact window where vertical software companies can achieve rapid adoption.
 

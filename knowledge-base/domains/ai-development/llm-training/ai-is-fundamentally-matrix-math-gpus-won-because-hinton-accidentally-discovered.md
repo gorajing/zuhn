@@ -60,5 +60,8 @@ evidence:
   - id: INS-260323-1302
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-92B8
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Professor Kim explains AI computation from first principles: when processing 'I am a boy,' AI scores relationships between every pair of words (1-100 points). With millions of words in training data, these relationships form massive matrices. AI generates output by predicting the most probable next word based on these matrix calculations. GPUs were originally designed for graphics — updating millions of pixels simultaneously requires the same matrix multiplication that AI needs. Geoffrey Hinton didn't plan to use GPUs; he was looking for hardware that could do matrix calculations well, tried GPUs, and they worked perfectly. The 2012 ImageNet competition proved it definitively — GPU-based AI won 'completely, truly overwhelmingly.' This accidental discovery is why NVIDIA now dominates AI infrastructure.

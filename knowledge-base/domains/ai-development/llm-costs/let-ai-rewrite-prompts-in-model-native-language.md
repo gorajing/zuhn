@@ -44,6 +44,10 @@ resolutions:
 stance: >-
   AI-rewritten prompts in the models native language improve output quality by
   20-30%
+evidence:
+  - id: INS-260404-616F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 
 Instead of hand-crafting prompts, use a meta-prompt technique: describe

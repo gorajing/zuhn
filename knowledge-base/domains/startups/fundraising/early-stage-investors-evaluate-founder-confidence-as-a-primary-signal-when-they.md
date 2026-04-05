@@ -62,6 +62,10 @@ related:
   - INS-260405-0B17
   - INS-260403-6620
   - INS-260323-4457
+evidence:
+  - id: INS-260327-C5D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 In a brief pitch to a mostly non-technical audience, investors often cannot independently verify whether the technical work is sound or the market thesis is correct. In that vacuum, the founder's confidence fills the gap — it becomes a proxy for 'these people have thought harder about this than I have and believe in it.'
 

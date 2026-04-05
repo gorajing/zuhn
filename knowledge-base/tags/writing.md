@@ -19,11 +19,11 @@
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - `INS-260402-F3D7` Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
-- `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260403-0218` Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 - `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
-- `INS-260327-BA97` Cuneiform was used for over 3,000 years - the most durable information technology ever created, outlasting every subsequent writing system and technology.
 - `INS-260403-61B0` Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
+- `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
+- `INS-260327-BA97` Cuneiform was used for over 3,000 years - the most durable information technology ever created, outlasting every subsequent writing system and technology.
 - `INS-260405-4810` Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance.
 - `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
 - `INS-260404-616F` Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.

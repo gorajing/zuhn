@@ -70,6 +70,9 @@ evidence:
   - id: INS-260329-3392
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-4501
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Ping Wu frames AI's impact through an abundance lens rather than efficiency. The first step is eliminating interactions that shouldn't happen at all (using AI to identify root causes like broken processes or confusing website updates). The second is automating low-emotion interactions nobody wants. But the third and most transformative is enabling entirely new interactions that businesses couldn't previously afford.
 

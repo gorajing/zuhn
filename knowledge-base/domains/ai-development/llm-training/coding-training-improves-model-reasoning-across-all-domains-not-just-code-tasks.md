@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-C4F1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-D711
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Meta discovered during Llama 2 development that coding wasn't just a feature for developers — it fundamentally improved model reasoning across all domains. Even though most Meta AI users on WhatsApp and Instagram won't ask coding questions, training on code made models more rigorous in answering general questions and reasoning through multi-step problems.
 

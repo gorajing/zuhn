@@ -56,6 +56,10 @@ related:
   - INS-260323-0603
   - INS-260329-3D28
   - INS-260403-6652
+evidence:
+  - id: INS-260329-3D28
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Kross emphasizes that chatter management tools span three categories — things you do alone (distanced self-talk, rituals), ways you leverage relationships (seeking support without co-rumination), and environmental interactions (creating order in physical spaces). No single tool from any category works universally.
 

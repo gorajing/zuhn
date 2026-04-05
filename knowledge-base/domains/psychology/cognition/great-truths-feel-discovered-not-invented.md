@@ -57,6 +57,10 @@ related:
   - INS-260323-3F30
   - INS-260323-085A
   - PRI-260403-CCBC
+evidence:
+  - id: INS-260325-1080
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham connects alien truth to Erdős's concept of 'God's book': a hypothetical book containing the most elegant proof of every mathematical theorem, which mathematicians 'read from' rather than author. The implication is that quality in ideas isn't arbitrary — it's recognizable across all possible minds. If there's alien truth, then God's book contains more than mathematics; it contains the best formulations of any idea that would be universally valid.
 

@@ -51,5 +51,9 @@ related:
   - INS-260402-5242
   - INS-260325-5B7F
   - PRI-260323-BA94
+evidence:
+  - id: INS-260402-5242
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Mistral AI, less than a year old and valued at $2B at the time, released Mixtral 8x7B which outperformed GPT-3.5 on most benchmarks despite having vastly fewer resources than OpenAI. The mixture-of-experts architecture—rumored to underpin GPT-4 itself—activates only a subset of parameters per token, dramatically reducing inference cost relative to dense models of equivalent quality. This directly contradicts Sam Altman's claim that competing on foundation models is 'hopeless.' The architectural innovation shows that the AI landscape rewards clever engineering as much as raw compute scale, creating persistent openings for well-capitalized startups to challenge incumbents.

@@ -56,6 +56,13 @@ related:
   - PRI-260328-43F1
   - INS-260403-87AC
   - INS-260404-380C
+evidence:
+  - id: INS-260325-2BDB
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260327-D65E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Salesforce's trajectory illustrates a key pattern: the 1999 SaaS CRM model was pioneering but had structural weaknesses. Rather than resting on first-mover advantage, Salesforce identified and strengthened weak areas through business model extensions starting in 2005—adding platform capabilities, ecosystem effects, and new revenue mechanics.
 

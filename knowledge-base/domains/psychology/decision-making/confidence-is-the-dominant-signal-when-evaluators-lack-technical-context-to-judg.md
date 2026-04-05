@@ -60,6 +60,10 @@ related:
   - INS-260404-37F7
   - INS-260404-EBB3
   - INS-260404-F965
+evidence:
+  - id: INS-260327-66AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that between brief time slots and non-technical backgrounds, many investors at Demo Day simply cannot evaluate the technical merits of what founders have built. In this information vacuum, the founder's own confidence becomes probably the single biggest piece of evidence. This isn't about faking enthusiasm—saying 'we're passionate' or 'our product is great' gets you written off as a bullshitter.
 

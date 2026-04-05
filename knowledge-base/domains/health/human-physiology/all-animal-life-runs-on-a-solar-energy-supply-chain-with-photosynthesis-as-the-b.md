@@ -56,6 +56,10 @@ related:
   - INS-260330-BC56
   - INS-260330-B076
   - PRI-260403-181B
+evidence:
+  - id: INS-260330-B076
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Every calorie humans consume traces back to a photon from the Sun exciting an electron in chlorophyll, which then cascades through the electron transport chain to produce ATP and NADPH, which power the Calvin Cycle to fix carbon into G3P — the precursor to all carbohydrates, and indirectly all food.
 

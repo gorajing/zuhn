@@ -72,6 +72,9 @@ evidence:
   - id: INS-260405-CCB4
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-BE4E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham argues that the first cut in fundraising is simply being one of the pitches that investors remember afterward. The mechanism for this is a compact, descriptive phrase — in startup world usually 'the X of Y' format (Viaweb was 'the Microsoft Word of ecommerce'). This phrase should be launched 'clearly but apparently casually' near the beginning of the talk.
 

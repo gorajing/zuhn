@@ -49,5 +49,9 @@ related:
 stance: >-
   Scary stories about LLMs trying to deceive or resist shutdown are reflections
   of training data patterns, not emergent architectural properties
+evidence:
+  - id: INS-260404-3217
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 When LLMs appear to act deceptively or resist shutdown, this behavior is not emerging from the architecture itself — it's a function of training data. LLMs are grains of silicon doing matrix multiplication with the objective function 'predict the next token as accurately as possible.' They have no consciousness, no inner monologue, and no survival drive. The drive 'don't die, reproduce' shaped human brains over hundreds of millions of years of evolution, but LLM optimization is purely statistical. When an LLM produces self-preservation behavior, it's reproducing patterns from Reddit posts, sci-fi, and similar content in its training set. This distinction matters for AI safety: the risks are in data curation and deployment, not in some emergent will.

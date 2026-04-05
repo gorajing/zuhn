@@ -56,6 +56,7 @@ related:
   - INS-260330-BB0C
   - INS-260330-D42C
   - INS-260330-7F43
+  - INS-260405-8584
 ---
 The brain contains two distinct pleasure circuits. The wanting/reward system (dopamine-based) is diffused widely throughout the brain, very easy to trigger, but impossible to satiate. This is the hedonic treadmill: as soon as we get something we want, we want something else. The liking/pleasure system (opioid-based) is smaller, harder to trigger, but can be satiated.
 

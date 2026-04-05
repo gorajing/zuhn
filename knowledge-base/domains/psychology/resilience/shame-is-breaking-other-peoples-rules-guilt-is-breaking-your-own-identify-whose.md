@@ -58,10 +58,10 @@ stance: >-
 related:
   - INS-260327-B2CC
   - INS-260329-EBCA
+  - INS-260405-DB32
   - INS-260403-D463
   - INS-260325-64FD
   - PRI-260323-2C5C
-  - INS-260327-4C73
   - INS-260330-4D5C
 ---
 Hormozi draws a sharp distinction: guilt arises when you break your own rules; shame arises when you break other people's rules. Someone gay in a religious community feels shame from the community's rules but only feels guilt if they've internalized those rules as their own. Most entrepreneurial paralysis is shame-based — following rules written by people who aren't successful themselves.

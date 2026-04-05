@@ -50,13 +50,12 @@ stance: >-
   observer's reference frame, making 'objective shape' a meaningless concept at
   extreme velocities
 related:
-  - INS-260330-5265
   - INS-260330-B69C
   - INS-260330-8AE8
   - INS-260330-D63D
+  - INS-260405-D3B5
   - INS-260330-466E
   - INS-260330-97A0
-  - INS-260330-A5C4
   - INS-260404-EDEC
 evidence:
   - id: INS-260330-8AE8

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-C172
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-FFEA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The course emphasizes the critical distinction between validation and test sets that many practitioners blur. The training set teaches the model, the validation set guides hyperparameter tuning and model selection, and the test set provides a final unbiased estimate of real-world performance. The key insight is that every time you check performance on a dataset and then make a decision based on that check, information about that dataset leaks into your model.
 

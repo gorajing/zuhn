@@ -51,11 +51,12 @@ stance: >-
   margins is structurally forced to serve customers well, making it more durable
   than margin-driven competitors
 related:
-  - INS-260404-02A0
-  - INS-260404-37B5
-  - INS-260404-0000
-  - INS-260404-E39D
-  - INS-260403-0650
+  - INS-260329-E333
+  - INS-260329-BA12
+  - INS-260329-6D6C
+  - INS-260329-41BC
+  - INS-260329-DBFE
+  - INS-260330-CE2F
 ---
 Costco earns ~75% of its profit from membership fees, not product markups. This creates a fundamentally different incentive structure: raising prices or degrading quality costs the company $60–$120 per churned member next year, not just a few cents today. The business is only viable if customers renew, so every operational decision is filtered through 'will this impress members enough to renew?'
 

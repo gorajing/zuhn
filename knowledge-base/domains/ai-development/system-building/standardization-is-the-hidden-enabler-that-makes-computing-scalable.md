@@ -50,10 +50,10 @@ stance: >-
   capability.
 related:
   - PRI-260328-5D9E
+  - INS-260405-F6A6
   - INS-260329-EDA2
   - INS-260327-2C5F
   - INS-260402-9676
-  - INS-260330-81D3
 evidence:
   - id: INS-260327-2C5F
     type: EXTENDS

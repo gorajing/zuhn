@@ -50,6 +50,10 @@ related:
   - PRI-260321-AD44
   - INS-260329-44C9
   - INS-260327-289F
+evidence:
+  - id: INS-260329-44C9
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham distinguishes design from research on collaboration: research projects can succeed with multiple collaborators, but design almost never does. His explanation is structural: good design must be 'all of a piece,' representing an idea that fits in one person's head. If it fits in one head, it will fit in the user's head too. Committee design fragments this coherence.
 

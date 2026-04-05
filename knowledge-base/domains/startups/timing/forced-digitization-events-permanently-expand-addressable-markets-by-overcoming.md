@@ -59,6 +59,10 @@ related:
   - INS-260330-318C
   - INS-260321-1A0B
   - INS-260402-4A06
+evidence:
+  - id: INS-260330-30CE
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Before COVID, a significant portion of Latin America's population was never going to embrace digital tools voluntarily. The resistance wasn't just about access or literacy — it was cultural. Showing someone software instead of giving them human eye contact was considered impersonal and even insulting. Small business owners ran everything manually or by phone because that preserved the personal relationship they valued.
 

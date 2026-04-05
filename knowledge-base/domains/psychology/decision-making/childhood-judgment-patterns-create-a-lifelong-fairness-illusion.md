@@ -50,6 +50,10 @@ related:
   - INS-260405-3331
   - PRI-260324-2C9F
   - INS-260404-DA41
+evidence:
+  - id: INS-260329-5D48
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Nearly all judgments children encounter — grades, rules, parental decisions — are of the first type, where the goal is to evaluate correctly and appeals are possible. This early conditioning creates a deep assumption that carries into adulthood: that all judgments have an obligation to be accurate and fair.
 

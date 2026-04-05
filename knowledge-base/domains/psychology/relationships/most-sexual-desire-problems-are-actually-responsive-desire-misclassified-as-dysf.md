@@ -57,6 +57,7 @@ related:
   - INS-260330-A9DD
   - INS-260325-4CF9
   - INS-260330-FA1C
+  - INS-260405-8808
 ---
 Sexual desire exists on a spectrum between spontaneous (appearing unbidden, like a lightning bolt) and responsive (emerging in response to pleasurable context). Western culture's 'desire imperative' normalizes only spontaneous desire, causing people with responsive desire to pathologize themselves. Dr. Nagoski argues that simply learning this distinction resolves many people's sexual desire concerns — they don't have a problem, they have responsive desire that needs a pathway to pleasure rather than waiting for a spark that may never come spontaneously.
 

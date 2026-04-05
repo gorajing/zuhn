@@ -75,6 +75,9 @@ evidence:
   - id: INS-260329-70D5
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-5FD1
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 CS50's first week uses Scratch, a visual programming language where students drag and drop puzzle pieces that 'only lock together if it makes logical sense.' This separates two distinct cognitive challenges: understanding computational concepts (functions, loops, conditionals, variables) and learning a text-based syntax (curly braces, semicolons, parentheses). By week one, when students encounter C's intimidating syntax, they already have mental models for what the code is doing — they're just learning a new notation for familiar ideas.
 

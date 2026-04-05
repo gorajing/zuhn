@@ -57,6 +57,9 @@ evidence:
   - id: INS-260325-ADF3
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260323-9773
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 NFX poses a provocative design question: what experiences would allow hallucinating LLMs to be 'easily forgiven or better yet, a feature?' This reframes AI's biggest perceived weakness as a potential strength in the right context. Games have always relied on unpredictability, randomness, and surprise — hallucinations fit naturally into that design space.
 

@@ -59,5 +59,20 @@ evidence:
   - id: INS-260403-34B4
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-0429
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-04EA
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-3037
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-050D
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-86CF
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane is 'charged like a battery' by pumping protons to one side, creating a concentration gradient. This stored potential energy is then released through ATP synthase in a controlled way to do useful work. This gradient pattern appears across domains: in product launches, building anticipation (concentration of attention) before a controlled release drives conversion. In marketplaces, concentrating supply or demand on one side before opening the valve creates network effects. In AI systems, accumulating context and embeddings creates information gradients that power retrieval and generation. The key insight is that the membrane — the barrier that maintains the gradient — is as important as the energy source itself. Without controlled release through specific channels, the stored energy dissipates uselessly.

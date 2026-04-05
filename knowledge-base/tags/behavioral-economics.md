@@ -1,7 +1,7 @@
 # Tag: behavioral-economics
 
-- `INS-260330-121C` Sugar-laden foods show addiction-like price inelasticity (0.77-0.81) — when prices rise, consumption barely drops, matching the 'hedonic actor' model where cost becomes irrelevant to the fix.
 - `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
+- `INS-260330-121C` Sugar-laden foods show addiction-like price inelasticity (0.77-0.81) — when prices rise, consumption barely drops, matching the 'hedonic actor' model where cost becomes irrelevant to the fix.
 - `INS-260403-3F91` Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.
 - `INS-260329-BEFB` Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.

@@ -52,6 +52,9 @@ evidence:
   - id: INS-260330-550F
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-AFBB
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is working, leading to subscription cancellation and buyer doubt.
 

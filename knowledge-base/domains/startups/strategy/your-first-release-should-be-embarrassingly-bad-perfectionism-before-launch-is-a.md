@@ -62,6 +62,9 @@ evidence:
   - id: INS-260322-760A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-AFBB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Tim's mentor told him (too late) that 'your first release should be absolutely embarrassing.' The team spent months perfecting the mobile app before putting it in the wild. When they finally launched, there were still many issues and features that needed changing — all that polish was wasted on the wrong things.
 

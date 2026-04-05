@@ -56,7 +56,6 @@ related:
   - INS-260329-0F10
   - PRI-260328-E53E
   - INS-260404-1E35
-  - INS-260330-BCAF
 evidence:
   - id: INS-260327-7FDA
     type: SUPPORTS

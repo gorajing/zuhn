@@ -56,6 +56,10 @@ related:
   - INS-260403-5514
   - INS-260403-294D
   - INS-260403-7F6F
+evidence:
+  - id: INS-260325-B1D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Y Combinator initially expected intelligence to be the most important founder quality, reflecting Silicon Valley's prevailing myth. Experience proved otherwise: determination is what separates successful founders from failed ones. Startups present relentless obstacles — bureaucratic partners, technical setbacks, market indifference — and founders who get demoralized easily cannot survive the gauntlet.
 

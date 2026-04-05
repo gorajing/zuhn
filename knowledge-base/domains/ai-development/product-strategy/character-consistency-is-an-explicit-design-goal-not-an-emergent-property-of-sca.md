@@ -75,6 +75,12 @@ evidence:
   - id: INS-260330-72C2
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-A183
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-1B0D
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 The team explicitly confirms that character consistency was a deliberate design goal, not an emergent surprise. They knew prior models had this gap, heard demand for it from advertisers (products in lifestyle shots must look 100% accurate), and believed they had the right recipe in terms of model architecture and training data. The surprise was how good the results were, not that the approach worked.
 

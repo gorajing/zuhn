@@ -58,5 +58,9 @@ related:
   - INS-260327-D10B
   - INS-260327-8C58
   - INS-260327-2915
+evidence:
+  - id: INS-260403-03BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Thoreau's Walden experiment was not about poverty or asceticism but about testing how little was needed to experience life fully. His discovery: most of what we pursue (status, possessions, social obligations, career advancement) is not life but distraction from life. 'The mass of men lead lives of quiet desperation' — they accumulate so many commitments that they never experience the thing the commitments were supposed to provide. The modern version of this trap is worse: social media creates an infinite feed of other people's curated accomplishments, making simplicity feel like failure. But Thoreau's insight holds: the person who deliberately chooses less and is present for what remains experiences more genuine life than the person who fills every moment with activity.

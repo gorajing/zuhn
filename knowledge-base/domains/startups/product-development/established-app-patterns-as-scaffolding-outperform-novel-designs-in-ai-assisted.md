@@ -72,6 +72,9 @@ evidence:
   - id: INS-260330-CAE6
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-60A6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Rather than designing novel app architectures from scratch, the most effective approach with AI app builders is to lean on established patterns — 'a CRM with lead pipelines,' 'an e-commerce app with cart and checkout,' 'a SaaS with tiered subscriptions.' These aren't creative limitations; they're strategic scaffolding that plays to the AI's strengths.
 

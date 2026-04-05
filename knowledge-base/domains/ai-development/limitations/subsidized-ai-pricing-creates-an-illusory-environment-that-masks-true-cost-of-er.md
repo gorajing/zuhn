@@ -66,6 +66,15 @@ evidence:
   - id: INS-260323-7F22
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-3F91
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260405-F1FD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-2D53
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Zitron's Hummer analogy is precise: if you never pay for gas, you'll drive a gas-guzzler everywhere and never think about efficiency. Claude Code subscribers operate in exactly this illusory environment. On a $20/month subscription, users may burn $150+ in actual compute. On $200/month, over $2,700.
 

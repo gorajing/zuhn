@@ -49,7 +49,6 @@ stance: >-
   acceleration is unstoppable without becoming a police state.
 related:
   - INS-260327-134F
-  - INS-260329-68C8
   - INS-260330-544F
   - INS-260325-1585
   - INS-260330-17C3

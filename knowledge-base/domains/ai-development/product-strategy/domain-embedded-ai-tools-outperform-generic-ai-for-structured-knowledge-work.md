@@ -52,6 +52,16 @@ related:
   - INS-260403-3A7A
   - PRI-260328-517C
   - INS-260403-ACA8
+evidence:
+  - id: INS-260403-F148
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-3A7A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-ACA8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Generic AI tools like ChatGPT can answer customer research questions, but they lack the scaffolding of proven innovation methods and the workflow integration that makes insights actionable. Strategyzer's approach — embedding AI within their existing Customer Profile framework — illustrates a broader product strategy: the value isn't the AI itself, but the AI constrained by domain expertise and connected to downstream actions.
 

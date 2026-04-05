@@ -104,5 +104,8 @@ evidence:
   - id: INS-260403-A06E
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-03BD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Two principles explain the same mechanism from different angles: the startups principle that accountability (expectations + measurement + reinforcement) multiplies output more than talent, and the psychology principle that confidence is a trailing indicator built from evidence of having survived, not from preparation. The synthesis reveals WHY accountability systems produce results: they force action under measurement conditions, which generates the evidence of survival that builds confidence, which enables higher performance, which generates more evidence. The cycle is self-reinforcing. This means the primary value of accountability is not motivation (the common assumption) but evidence generation — it manufactures the survival data that the confidence mechanism requires.

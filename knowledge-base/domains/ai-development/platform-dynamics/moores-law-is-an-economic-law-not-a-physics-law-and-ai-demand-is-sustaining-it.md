@@ -79,6 +79,12 @@ evidence:
   - id: INS-260323-9BC8
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-CAE5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-8746
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Miller corrects a common misconception: Moore's Law (transistor density doubling every ~2 years) is not a law of nature. It is an economic prediction that holds only because each shrinkage generation unlocks markets large enough to justify the billions in R&D. If the economics break, the technology immediately stalls.
 

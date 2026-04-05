@@ -64,6 +64,15 @@ evidence:
   - id: INS-260322-54F3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-016F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-204E
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-7A54
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The pattern for successful vertical AI: founders who are technically fluent in frontier models but hire for deep domain context early. Eve (legal AI for plaintiff law) exemplifies this — technical founders from Rubric who hired plaintiff attorneys on staff so that every new model release gets evaluated through the lens of actual legal workflows.
 

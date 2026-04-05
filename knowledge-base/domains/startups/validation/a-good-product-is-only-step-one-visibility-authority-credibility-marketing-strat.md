@@ -61,6 +61,10 @@ related:
   - INS-260327-47BA
   - INS-260405-6BBC
 stance: Having a great product is necessary but nowhere near sufficient
+evidence:
+  - id: INS-260403-AFBB
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 VanDusen dismantles the 'build it and they will come' fallacy by listing five capabilities beyond product quality that businesses must develop: (1) Visibility — establishing brand awareness of your existence, (2) Authority — establishing reasons to believe you can deliver, (3) Credibility — proof through testimonials and case studies, (4) Marketing strategy — promotion, attraction, content marketing, (5) Customer experience — purchase experience plus service before, during, and after.
 

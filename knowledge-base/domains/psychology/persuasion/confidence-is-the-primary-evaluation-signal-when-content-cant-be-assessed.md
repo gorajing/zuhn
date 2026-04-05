@@ -57,6 +57,10 @@ related:
   - INS-260404-6388
   - INS-260404-187C
   - INS-260404-37F7
+evidence:
+  - id: INS-260327-66AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham identifies a fundamental asymmetry in investor presentations: founders who are bad at explaining talk to investors who are bad at understanding technical matters. In this low-information environment, confidence becomes the primary proxy for quality.
 

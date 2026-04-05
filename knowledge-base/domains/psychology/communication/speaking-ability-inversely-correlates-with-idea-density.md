@@ -53,6 +53,10 @@ related:
   - INS-260325-0688
   - INS-260330-06CD
   - INS-260330-8AC8
+evidence:
+  - id: INS-260323-197A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that speaking and idea quality are not just independent — they actively conflict. A great speaker engages audiences through ad-libbing, jokes, and emotional momentum, but ad-libbing limits thinking time to however long it takes to say a sentence. Writing, by contrast, lets you spend unlimited time refining each thought.
 

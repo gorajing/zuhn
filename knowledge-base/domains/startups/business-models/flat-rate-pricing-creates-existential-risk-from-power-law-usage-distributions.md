@@ -55,6 +55,10 @@ related:
   - INS-260405-F1FD
   - INS-260330-7479
   - INS-260404-8750
+evidence:
+  - id: INS-260320-901C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Viaweb charged a flat fee of $300/month for large stores, which seemed reasonable until Frederick's of Hollywood — their highest-traffic user — generated exactly $300/month in bandwidth costs alone, making that single customer a break-even proposition before accounting for any other operational costs.
 

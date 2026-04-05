@@ -87,6 +87,12 @@ evidence:
   - id: INS-260403-58BB
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-7227
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-57E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Jensen Huang's key strategic insight was that video games would become the largest entertainment market ever, and that market size would fund the R&D needed to build increasingly powerful parallel processors. The flywheel: large gaming market -> large R&D budget -> better GPU technology -> more applications -> larger market.
 

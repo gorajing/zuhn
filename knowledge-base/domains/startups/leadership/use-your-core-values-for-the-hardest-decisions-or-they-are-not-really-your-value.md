@@ -51,10 +51,10 @@ stance: >-
   were never really your values.
 related:
   - INS-260323-7C3A
+  - INS-260405-DB32
   - INS-260327-7D75
   - INS-260330-206F
   - INS-260327-C316
-  - INS-260323-846D
   - INS-260329-8E89
 evidence:
   - id: INS-260327-C316

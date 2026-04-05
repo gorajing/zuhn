@@ -63,6 +63,9 @@ evidence:
   - id: INS-260322-2647
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-60A6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 When Amazon creates its own batteries or backpacks, it's not equivalent to Target's Up&Up brand. Amazon has access to seller data (what's selling, at what price, with what margins), controls search rankings and Buy Box placement, and sets the rules competitors must follow. The information asymmetry is qualitatively different from a physical retailer placing their generic next to a name brand.
 

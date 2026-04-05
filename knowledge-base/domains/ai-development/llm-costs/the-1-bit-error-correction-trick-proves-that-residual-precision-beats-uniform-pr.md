@@ -66,5 +66,8 @@ evidence:
   - id: INS-260329-4109
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-67C5
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The QJL algorithm within TurboQuant uses the Johnson-Lindenstrauss Transform to reduce vectors to single sign bits (+1/-1), then applies a special estimator that balances high-precision queries against low-precision data. The key insight: spending 1 bit on targeted error correction after the main compression pass eliminates systematic bias more effectively than spending the same bit on higher uniform precision throughout. This mirrors a general optimization principle — marginal resources allocated to the highest-leverage correction point outperform the same resources distributed evenly. The pattern appears in engineering (error-correcting codes), investing (concentration beats diversification for highest-conviction positions), and quality assurance (targeted testing at failure points beats uniform coverage).

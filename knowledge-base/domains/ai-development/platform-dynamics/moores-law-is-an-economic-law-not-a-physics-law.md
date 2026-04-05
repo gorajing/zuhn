@@ -74,6 +74,9 @@ evidence:
   - id: INS-260330-9515
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260405-4871
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Moore's Law is commonly misunderstood as a physical law about transistor miniaturization. Miller reframes it as an economic law: if you find ways to shrink transistors, you find larger markets, which funds further shrinking. The moment this economic logic breaks, the technology immediately stalls.
 

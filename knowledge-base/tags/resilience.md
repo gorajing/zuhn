@@ -8,13 +8,8 @@
 - `INS-260329-9010` Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
 - `INS-260329-3441` Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
 - `INS-260320-0F7C` Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
-- `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
-- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
-- `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
-- `INS-260327-7E6F` After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
-- `INS-260323-DA4E` Third-generation refugees maintain resilience through the frame 'nothing lasts forever' — historical perspective that no occupation is permanent provides psychological survival even when immediate hope is absent.
-- `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
 - `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely.
+- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.
 - `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
 - `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
@@ -32,8 +27,8 @@
 - `INS-260329-5F37` Every CS50P example follows a pattern of intentionally broken code → diagnosis → fix, training students to see confusion as the precursor to understanding rather than evidence of inability.
 - `INS-260329-B214` Programming bugs are the learning mechanism itself, not obstacles to overcome before learning happens.
 - `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
-- `INS-260405-3331` Optimal calibration is a worse strategy than slight overconfidence when you're fighting systematic biases in the opposite direction.
 - `INS-260330-E03A` NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
+- `INS-260405-3331` Optimal calibration is a worse strategy than slight overconfidence when you're fighting systematic biases in the opposite direction.
 - `INS-260323-08E9` A Palestinian man who has endured violence and displacement says 'I love everybody, even the Jews they kill us' — demonstrating that choosing love over hatred is a deliberate, renewable act of will, not a passive absence of anger.
 - `INS-260327-78DA` Nietzsche's amor fati doesn't just accept suffering - it loves it, treating every hardship as necessary raw material for becoming who you are.
 - `INS-260327-CD49` Everyone thinks confidence leads to big actions, but it is completely reversed -- you do big things, put yourself out there while scared, and then confidence builds from the evidence of having survived.
@@ -58,19 +53,18 @@
 - `INS-260325-F8EB` Research across over 100 studies consistently shows that about two-thirds of people exposed to potentially traumatic events show a resilient trajectory of continued healthy functioning.
 - `INS-260327-ECBB` Choosing to live with less than you can afford builds a psychological strength that living at maximum comfort systematically destroys.
 - `INS-260330-3E64` Rogan credits brutal exercise routines, sauna, and cold plunge as the primary mechanism that made surviving his cancellation attempt manageable.
-- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
-- `INS-260330-498B` Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.
+- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
+- `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
+- `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260323-9C11` Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260325-0C4A` Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
 - `INS-260325-CF3E` People cannot learn from failure until they separate 'I made a mistake' from 'I am a failure' — the identity conflation blocks all forward motion.
 - `INS-260403-7252` Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
-- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
-- `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
-- `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
+- `INS-260330-498B` Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.
 - `INS-260327-E3D5` Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
 - `INS-260404-8A02` Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
 - `INS-260327-CF53` Treat every external limitation and setback as jet fuel for your trajectory.
@@ -93,3 +87,9 @@
 - `INS-260330-7462` Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
 - `INS-260330-D88C` Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
+- `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
+- `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
+- `INS-260327-7E6F` After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
+- `INS-260323-DA4E` Third-generation refugees maintain resilience through the frame 'nothing lasts forever' — historical perspective that no occupation is permanent provides psychological survival even when immediate hope is absent.
+- `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.

@@ -56,6 +56,9 @@ evidence:
   - id: INS-260327-D1B7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-35B6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 
 The six LLM cost strategies — cheaper model testing, OpenRouter management,

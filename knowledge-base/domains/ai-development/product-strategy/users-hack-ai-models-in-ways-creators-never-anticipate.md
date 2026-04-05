@@ -71,6 +71,12 @@ evidence:
   - id: INS-260330-2B42
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-3831
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-1A96
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The Nano Banana team was consistently surprised by how users creatively worked around model limitations to unlock use cases the team never imagined. One user created visual sketch notes of his chemist father's technical lectures, enabling father-son conversations about the work for the first time in decades, despite text rendering not being a model strength. Another unexpected use case: feeding Nano Banana outputs into video models to achieve cross-scene character consistency in filmmaking.
 

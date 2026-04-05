@@ -1,10 +1,11 @@
 # Topic: behavior-change
 
-> 21 insights
+> 22 insights
 
 - `INS-260403-C512` [high] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260404-56AC` [high] Professional success and stable routines mask stagnation by removing the discomfort that signals growth opportunities.
+- `INS-260405-8808` [high] Changing first-order desires is hard; changing second-order desires is rarer; beyond that it becomes nearly impossible.
 - `INS-260404-2829` [high] Research shows people who explicitly pursue happiness end up less happy and more depressed.
 - `INS-260330-8286` [high] Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment.
 - `INS-260404-FD88` [high] When a goal seems impossible at scale, decomposing it to the smallest unit (one rep, one page, one call) circumvents the brain's overwhelm-triggered shutdown.

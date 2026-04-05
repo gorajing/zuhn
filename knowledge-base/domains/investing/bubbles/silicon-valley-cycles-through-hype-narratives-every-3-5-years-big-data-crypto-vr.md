@@ -64,5 +64,8 @@ evidence:
   - id: INS-260327-94F5
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-572C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The pattern: VCs need a growth narrative to justify valuations. When the market sours on the current story (e.g., big data/SaaS in 2022), a new one emerges within months (AI via ChatGPT release). Every tech company becomes an '[X] company,' every Fortune 500 needs an '[X] strategy,' every LinkedIn title mentions [X]. VCs fund startups that incorporate [X] under the belief that users + data = eventual business. The congressional hearings, fear-mongering about job displacement, and apocalypse warnings are choreographed performances to inject public sector urgency. The specific technology changes; the financial mechanics are identical.

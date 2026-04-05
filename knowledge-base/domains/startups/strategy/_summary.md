@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 272 insights
+> 273 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -219,6 +219,7 @@
 - `INS-260324-40AA` [high] TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260323-2559` [high] Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
 - `INS-260404-3C7A` [medium] Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
+- `INS-260405-7DC3` [medium] E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260329-06F2` [medium] $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260403-D1D4` [medium] Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
 - `INS-260403-9276` [medium] Annotate each business model with its trajectory (growing, shrinking, shifting) to detect slow-moving disruption before it becomes irreversible.

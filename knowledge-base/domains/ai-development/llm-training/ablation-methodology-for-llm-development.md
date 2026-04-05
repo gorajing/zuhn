@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-033A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-FFEA
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 
 The Smol Training Playbook details a rigorous ablation methodology:

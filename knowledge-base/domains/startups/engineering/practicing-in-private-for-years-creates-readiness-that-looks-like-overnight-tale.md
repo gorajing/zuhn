@@ -55,6 +55,13 @@ related:
   - INS-260325-EBDD
   - INS-260327-BA97
   - INS-260329-F969
+evidence:
+  - id: INS-260325-B1D8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-45B4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham reveals he wrote essays in notebooks for about 15 years before ever publishing, and draws a parallel to Steve Wozniak designing computers on paper in high school because he couldn't afford components. In both cases, years of unpublished practice meant they were ready when enabling infrastructure appeared (the web for Graham, cheap DRAMs for Wozniak).
 

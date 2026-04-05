@@ -55,6 +55,13 @@ related:
   - INS-260325-722C
   - INS-260329-6204
   - INS-260325-2906
+evidence:
+  - id: INS-260325-722C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260325-2906
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The photosynthetic electron transport chain solves a fundamental pipeline problem: electrons lose energy at each protein complex as that energy is captured to pump protons and generate ATP. By the time electrons reach the end of the first chain, they are too low-energy to be useful. Photosystem I solves this by re-energizing them with fresh photons, enabling a second round of useful work (producing NADPH).
 

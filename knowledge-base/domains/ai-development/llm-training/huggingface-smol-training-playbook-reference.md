@@ -79,6 +79,9 @@ evidence:
   - id: INS-260330-2B45
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-2BAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 
 The Smol Training Playbook by HuggingFaceTB is the most comprehensive

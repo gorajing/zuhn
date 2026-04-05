@@ -49,5 +49,9 @@ related:
   - INS-260329-A2D0
   - INS-260404-2135
   - INS-260329-9524
+evidence:
+  - id: INS-260404-2135
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 When training data has unequal class distribution (e.g., 7000 gammas vs 4000 hadrons), a model can achieve seemingly good accuracy by simply predicting the majority class more often. The course demonstrates using RandomOverSampler to equalize class distributions in training data while deliberately keeping validation and test sets unbalanced. This distinction is critical: you rebalance training data so the model learns both classes equally, but you evaluate on natural distributions to assess real-world performance. This principle extends beyond ML — any system that learns from historical data inherits the biases in that data's distribution.

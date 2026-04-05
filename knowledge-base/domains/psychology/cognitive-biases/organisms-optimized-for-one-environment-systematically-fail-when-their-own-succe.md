@@ -97,6 +97,9 @@ evidence:
   - id: INS-260330-026F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-304E
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved in an atmosphere with abundant CO2 and minimal oxygen. It was perfectly adequate for that environment. But the very process it enabled — photosynthesis — gradually transformed the atmosphere by producing oxygen as a byproduct. As oxygen levels rose, RuBisCo began grabbing O2 instead of CO2 roughly 50% of the time, creating toxic phosphoglycolate that plants must expend additional energy to neutralize.
 

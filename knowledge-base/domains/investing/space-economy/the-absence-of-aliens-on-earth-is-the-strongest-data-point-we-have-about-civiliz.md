@@ -48,13 +48,12 @@ stance: >-
   years of opportunity, is the hardest empirical constraint on the behavior and
   existence of alien civilizations.
 related:
-  - INS-260323-38EC
   - INS-260325-9677
   - INS-260330-FFAB
+  - INS-260323-38EC
   - INS-260325-02F2
   - PRI-260328-9FB6
   - INS-260330-1DCA
-  - INS-260330-B69C
 evidence:
   - id: INS-260323-38EC
     type: TRANSFERS_TO

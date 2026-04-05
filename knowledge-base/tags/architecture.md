@@ -6,6 +6,7 @@
 - `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260323-29ED` GPT-4's remarkable reasoning emerges from an incredibly simple feed-forward architecture trained on next-word prediction, not from replicating brain complexity.
 - `INS-260405-64C5` Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
+- `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
@@ -18,9 +19,9 @@
 - `INS-260327-7214` Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
 - `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
+- `INS-260404-A08A` The electron transport chain loses energy at every step, but each step performs a distinct useful function — a design pattern that applies to any multi-stage data or inference pipeline.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
-- `INS-260404-A08A` The electron transport chain loses energy at every step, but each step performs a distinct useful function — a design pattern that applies to any multi-stage data or inference pipeline.
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-03B0` CS50P's curriculum progression from variables to functions to libraries to classes teaches the same abstraction layering principle that governs good software architecture.
 - `INS-260329-9FE0` CS50 Python's curriculum structure — building from functions to libraries to classes — mirrors how well-designed software systems layer abstractions.
@@ -47,8 +48,8 @@
 - `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
 - `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
 - `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
-- `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260405-C780` Photosynthesis runs as two completely separate stages—light reactions convert photons into ATP and NADPH, then the Calvin cycle spends that stored currency to fix carbon—allowing each stage to be optimized, timed, and regulated independently.
+- `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260404-BDE5` Chloroplasts charge thylakoids like batteries by pumping protons across membranes, then harvest the gradient through ATP synthase.
 - `INS-260403-464D` Photosynthesis stores energy by pumping protons across a membrane, then harvests it through ATP synthase—the same store-then-release pattern behind batteries, message queues, and pricing arbitrage.
@@ -59,10 +60,10 @@
 - `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
 - `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.
 - `INS-260330-181B` Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
+- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260329-003B` Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.
 - `INS-260329-818A` HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
-- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260403-3F05` RuBisCo shows how early design choices become permanent constraints that systems compensate around rather than replace.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
 - `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.

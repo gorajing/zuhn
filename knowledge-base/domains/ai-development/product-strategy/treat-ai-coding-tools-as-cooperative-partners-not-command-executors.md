@@ -58,5 +58,8 @@ evidence:
   - id: INS-260330-C4F1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-CCC3
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The developer's debugging approach was notably conversational: 'Everything looks great, but when I restart the app after the first entry, it takes me back to welcome, which should only happen if there's no entries.' This worked on the first try. Contrast with the anti-pattern: saying 'there's a bug' or 'fix this error' gives the AI nothing to work with. The cooperative approach includes: (1) chat mode first to build shared understanding before write mode, (2) using planner mode to maintain project memory, (3) complimenting what works before flagging what doesn't, (4) describing the expected vs. actual behavior rather than diagnosing the technical cause. The developer explicitly said to treat these tools 'less as a thing that does things you tell it to do and more of a cooperative partner.'

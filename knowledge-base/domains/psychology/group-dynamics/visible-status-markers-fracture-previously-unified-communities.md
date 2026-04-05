@@ -53,6 +53,10 @@ related:
   - INS-260330-6300
   - INS-260330-2EB0
   - INS-260405-E06B
+evidence:
+  - id: INS-260327-112B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham's experiment with orange usernames for high-scoring commenters immediately fractured what had been a unified community into haves and have-nots. He notes he didn't realize how united the culture was until he saw it divided. The damage was fast and visceral enough that he reversed the change.
 

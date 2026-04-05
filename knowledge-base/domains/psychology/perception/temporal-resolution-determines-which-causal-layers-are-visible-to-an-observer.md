@@ -48,7 +48,6 @@ stance: >-
   The number of distinct mechanisms an observer can identify in any phenomenon
   is directly limited by their temporal or spatial resolution of observation.
 related:
-  - INS-260330-D0F8
   - INS-260330-E59F
   - INS-260330-24B6
   - INS-260330-12F9

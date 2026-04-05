@@ -78,5 +78,11 @@ evidence:
   - id: INS-260402-9676
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-673B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-59F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Wolfram's exploration of Rule 30 and other simple cellular automata revealed that the computational universe — the space of all possible programs — is far richer than anyone expected. Simple rules with 2-3 states produce behavior indistinguishable from the most complex natural phenomena. This has a practical engineering implication: rather than designing algorithms from flowcharts and architectural decisions, you can search the computational universe for programs that already do what you need. Neural networks are essentially this approach — searching a parameter space for programs that accomplish a goal. The key insight is that nature has been doing this for billions of years through evolution, and the computational universe has been doing it since the beginning of mathematics. Human engineering represents a tiny, parochial fraction of what computation can do.

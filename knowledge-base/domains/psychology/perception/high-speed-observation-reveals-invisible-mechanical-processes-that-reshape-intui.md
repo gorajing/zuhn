@@ -55,5 +55,9 @@ related:
   - INS-260330-9A34
   - INS-260403-BADD
   - INS-260330-D63D
+evidence:
+  - id: INS-260330-8AE8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 At 3200fps, tattooing reveals that needles puncture skin and physically drag it upward on the return stroke — a mechanical detail completely invisible at normal speed. The 'frosting' effect (elevated skin layer) becomes explicable only when the needle's bidirectional interaction with tissue is visible. This illustrates a general principle: many systems we think we understand operate through mechanisms that are literally imperceptible at our native temporal resolution. The implication extends beyond physics into any domain with fast feedback loops — high-frequency trading, neural firing, chemical reactions — where instrumenting observation at finer timescales consistently reveals structure that overturns naive models built from coarse observation.

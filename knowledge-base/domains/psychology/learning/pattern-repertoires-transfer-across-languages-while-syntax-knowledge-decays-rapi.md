@@ -52,12 +52,11 @@ stance: >-
   than memorizing language-specific syntax, because syntax knowledge decays
   almost completely when unused while pattern recognition persists.
 related:
-  - INS-260325-CACA
   - INS-260329-CF48
   - INS-260330-2666
+  - INS-260405-F6A6
   - INS-260329-ACE6
   - INS-260329-7C59
-  - INS-260329-8F86
   - INS-260402-2D95
 evidence:
   - id: INS-260402-2D95

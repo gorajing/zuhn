@@ -53,8 +53,8 @@ related:
   - INS-260330-5265
   - INS-260330-D0F8
   - INS-260330-FE14
+  - INS-260405-D3B5
   - INS-260330-FA2D
-  - INS-260330-D7CD
 ---
 When the team observes the baseball stripping leather off the glove, they make a key insight: from the ball's reference frame, the glove is traveling at supersonic speed toward it. This immediately explains the damage pattern — it's equivalent to hitting a stationary ball with a glove at Mach 1.35. The physics is symmetric; only our perspective assigns 'moving' and 'stationary.'
 

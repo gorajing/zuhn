@@ -82,6 +82,9 @@ evidence:
   - id: INS-260330-70F5
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-34C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The conventional view treats optimizer improvements as cost savings -- train the same model cheaper. But Zhilin Yang reframes this: with roughly 50 trillion high-quality tokens available, a 2x token efficiency gain from the Muon optimizer is equivalent to having 100 trillion tokens. Since we're hitting data walls, this directly raises the upper bound of achievable intelligence.
 

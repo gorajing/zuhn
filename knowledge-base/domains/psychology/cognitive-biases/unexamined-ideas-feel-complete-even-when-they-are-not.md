@@ -49,6 +49,10 @@ related:
   - INS-260330-6CA5
   - INS-260327-E7B8
   - INS-260323-1B0B
+evidence:
+  - id: INS-260323-1B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham identifies a specific cognitive illusion: ideas feel complete when they exist only in your mind. It's only when you subject them to the discipline of precise language that gaps, contradictions, and vagueness become apparent. People who never write never discover these deficiencies, creating a double failure — not only do they lack fully formed ideas, they don't realize it.
 

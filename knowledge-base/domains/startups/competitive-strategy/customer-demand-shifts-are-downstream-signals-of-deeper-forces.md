@@ -54,6 +54,10 @@ related:
   - INS-260403-AEAF
   - INS-260325-B234
   - INS-260403-535C
+evidence:
+  - id: INS-260325-B234
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The shift from fixed-line to mobile telephony appears as a customer demand change, but it's actually driven by technological enablement. Zara's success in fast fashion looks like superior demand sensing, but it's really a business model designed around the social environment's acceleration of trend cycles. The growing elderly care market in Western societies is a demographic shift masquerading as a market opportunity.
 

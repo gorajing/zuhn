@@ -46,8 +46,8 @@
 - `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments.
 - `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
 - `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
-- `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
+- `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260404-BF8A` RuBisCo's oxygen-grabbing error produces a toxin that plants must build separate enzyme pathways to neutralize — core processes always generate waste that needs its own infrastructure.
 - `INS-260330-181B` Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
 - `INS-260329-003B` Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.

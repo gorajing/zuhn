@@ -63,6 +63,9 @@ evidence:
   - id: INS-260322-83D4
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-5DD7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Most founders fixate on product innovation while leaving their business model as an afterthought. The Business Model Canvas framework reveals that product is just one of nine interconnected building blocks (customer segments, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, cost structure). Companies like Zipcar didn't invent a better car — they innovated the ownership model. EasyJet didn't build a better plane — they restructured the cost and channel model.
 

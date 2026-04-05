@@ -69,5 +69,11 @@ evidence:
   - id: INS-260328-3FA4
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-8A02
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-3831
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Kisson Lin (ex-Meta/TikTok strategist, Sequoia-backed) argues the AI value chain has four data waves: 1) Public data (already consumed by LLMs — commoditized), 2) Enterprise data (current land grab), 3) Individual/personal data (next frontier), 4) Data not yet digitized (ultimate prize). Her thesis: 'Memory is to AI what data was to internet.' LLM intelligence is commoditizing rapidly, but context — the accumulated memory of interactions, preferences, and patterns — creates compounding advantage. Her company Tanka builds memory systems for human-AI collaboration. Her contrarian prediction: conversation will replace all user interfaces, and the companies that win will be those that accumulate the richest memory layers, not those with the smartest models.

@@ -1,7 +1,6 @@
 # Tag: business-model
 
 - `INS-260405-0E77` AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
-- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260403-7B3B` AI influencer agencies eliminate talent management costs while capturing the full revenue stream that traditionally splits between creator and agency.
 - `INS-260322-FCFC` Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
@@ -32,4 +31,5 @@
 - `INS-260405-8884` Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
 - `INS-260403-DB16` Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
 - `INS-260323-104E` Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
+- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.

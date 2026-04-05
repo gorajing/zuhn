@@ -56,6 +56,13 @@ related:
   - PRI-260323-7B35
   - INS-260323-3F39
   - PRI-260323-68F0
+evidence:
+  - id: INS-260327-767B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-6B73
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The prevailing narrative in Western tech has been that frontier AI development requires the kind of capital and talent concentration only available to companies like OpenAI, Google, and Anthropic. DeepSeek R1—developed as a side project by a Chinese hedge fund whose stated goal is 'long-term social value'—directly contradicts this narrative.
 

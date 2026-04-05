@@ -51,5 +51,9 @@ related:
   - INS-260320-92CC
   - INS-260327-7A48
   - INS-260325-8F49
+evidence:
+  - id: INS-260329-27A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The video breaks down the concrete economics of fine-tuning: the dolphin-mixtral model took approximately 3 days on four A100 GPUs, which at Hugging Face's rental rate of $4.30/hour per GPU comes to roughly $1,200 total. Tools like Hugging Face AutoTrain further reduce the technical barrier by providing a UI-driven workflow for model customization. This cost collapse means that creating a purpose-built, domain-specific AI model is now within reach of individual developers and small companies—not just well-funded labs. The implication for AI business models is significant: if anyone can fine-tune a competitive model for the price of a laptop, the defensibility of AI products shifts entirely from model capability to data quality, distribution, and application design.

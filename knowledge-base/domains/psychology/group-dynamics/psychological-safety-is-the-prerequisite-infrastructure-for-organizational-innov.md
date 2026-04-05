@@ -57,6 +57,10 @@ related:
   - INS-260330-7987
   - INS-260403-7333
   - INS-260330-C087
+evidence:
+  - id: INS-260327-561F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Amy Edmondson's Fearless Organization research demonstrates that psychological safety isn't a soft HR concept but a hard prerequisite for innovation output. Teams where members fear speaking up, admitting mistakes, or challenging assumptions will not produce breakthrough ideas regardless of how sophisticated the innovation framework is.
 

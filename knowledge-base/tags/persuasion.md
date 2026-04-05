@@ -9,18 +9,7 @@
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - `INS-260403-DC64` When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
-- `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
-- `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
-- `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
-- `INS-260330-748E` Repeated exposure to extreme rhetoric triggers habituation, making previously shocking statements functionally invisible to audiences.
-- `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
-- `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
-- `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
-- `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
 - `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
-- `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
-- `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
-- `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260404-7B68` Saying 'we're passionate' or 'our product is great' triggers audience skepticism; conviction must be shown, never stated.
 - `INS-260403-2F86` Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
@@ -47,14 +36,25 @@
 - `INS-260330-4E09` Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
 - `INS-260330-E3D3` Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
+- `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
+- `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
+- `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
+- `INS-260330-748E` Repeated exposure to extreme rhetoric triggers habituation, making previously shocking statements functionally invisible to audiences.
+- `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
+- `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
+- `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
+- `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
 - `INS-260330-8B79` After years of global espionage, the most surprising finding about human nature is the universal painful longing for human connection across all socioeconomic brackets and cultures.
+- `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
+- `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
+- `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
+- `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260404-187C` Explicit confidence claims get ignored or trigger bullshit detection, while implicit confidence through substance and demeanor is the primary signal investors use.
 - `INS-260403-24F0` Never say 'we're passionate' or 'our product is great'—investors ignore or penalize explicit self-promotion, responding only to demonstrated conviction.
 - `INS-260403-2F22` Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
 - `INS-260403-E4C6` Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, while implicit confidence through demeanor is the strongest signal.
 - `INS-260403-ED1F` Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
-- `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
 - `INS-260329-E900` Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.
 - `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.

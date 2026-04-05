@@ -66,6 +66,9 @@ evidence:
   - id: INS-260327-70DF
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260404-60A6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 When Facebook needed to build data centers, Schroepfer didn't pretend the existing team could figure it out. He hired people with actual data center and network design experience. The approach wasn't 'we'll figure it out ourselves'—it was 'go hire a team to understand this new area and then help us get good.'
 

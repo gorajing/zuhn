@@ -68,6 +68,12 @@ evidence:
   - id: INS-260330-2304
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-2BAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-7342
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Standard linear attention uses a single global decay factor, forcing a binary choice: either forget everything (no long-range memory) or retain everything (no ability to refresh with new information). KimiLinear introduces a diagonal matrix of per-channel decay rates, allowing some channels to decay slowly for long-context retention while others decay quickly to absorb new information.
 

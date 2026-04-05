@@ -57,6 +57,10 @@ related:
   - INS-260404-4DC8
   - INS-260405-BE42
   - INS-260404-6751
+evidence:
+  - id: INS-260330-28B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Costco makes 75% of its money from membership fees, not product markups. This creates a structural incentive alignment rare in retail: raising prices would generate pennies today but cost the company $60 per churned member next year. The result is a self-imposed 15% maximum markup (11% average) versus Walmart's 24% and Home Depot's 35%.
 
