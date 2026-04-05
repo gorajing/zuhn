@@ -37,6 +37,7 @@
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260404-C4B9` Making membership the profit center forces the company to optimize for customer value rather than margin extraction.
 - `INS-260404-0298` Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
+- `INS-260404-6751` AWS's recurring revenue model generates far higher margins than Amazon's transactional e-commerce, illustrating the structural superiority of subscription-based models.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - `INS-260325-1585` Subscriptions shifted from delivering value to exploiting inertia — most extract more from convenience-addiction than they provide in service.
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.

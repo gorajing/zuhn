@@ -54,6 +54,7 @@ related:
   - INS-260403-8D2C
   - INS-260404-5721
   - INS-260403-0764
+  - INS-260404-C92A
 ---
 McDonald's illustrates the deadly timing trap: by waiting until the core business needed saving, the company faced a two-front war. The existing business model — which would normally finance experimentation — itself needed rescue, creating a resource conflict between survive-now and invent-the-future.
 

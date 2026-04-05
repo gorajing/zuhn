@@ -50,7 +50,6 @@ stance: >-
   rather than product margins make structurally better decisions for customers
   because raising prices trades pennies today for dollars of churn tomorrow.
 related:
-  - INS-260324-C496
   - INS-260403-0650
   - INS-260403-59F8
   - INS-260403-FAE1

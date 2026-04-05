@@ -52,10 +52,10 @@ related:
   - INS-260330-63B8
   - INS-260330-5B0C
   - INS-260327-E75F
-  - INS-260323-FCA7
   - INS-260326-2E56
   - INS-260327-8DDE
   - INS-260330-E0F5
+  - INS-260404-F834
 stance: >-
   Malice identifies a toxic cultural pattern: people feel compelled to have and
   share opinions on everything, even topics they know almost nothing ab...

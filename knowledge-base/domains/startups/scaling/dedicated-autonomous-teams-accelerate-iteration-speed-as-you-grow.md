@@ -55,7 +55,6 @@ related:
   - INS-260327-99DB
   - INS-260403-1D43
   - INS-260403-906E
-  - INS-260404-B1BC
 ---
 Most companies slow down as they scale because teams become interdependent — waiting for approvals, shared resources, or other teams to finish their work. Plarium avoided this by creating dedicated teams for every game and every direction within each game, each operating as a semi-autonomous studio with its own targets and market opportunity.
 

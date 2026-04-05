@@ -50,10 +50,10 @@ stance: >-
   sufficient for practical decision-making.
 related:
   - INS-260403-35E7
+  - INS-260404-A9D0
   - INS-260326-CA8C
   - INS-260403-62AF
   - INS-260327-0C4A
-  - INS-260323-475F
 ---
 Graham concedes that there is no total order of artistic works or people's ability to judge them, but argues there is definitely a partial order. You can't rank Bellini vs. Leonardo definitively, but you can reliably say both are better than a random child's drawing.
 

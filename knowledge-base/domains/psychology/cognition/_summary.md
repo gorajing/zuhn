@@ -1,12 +1,13 @@
 # Topic: cognition
 
-> 80 insights
+> 81 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
 - `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
 - `INS-260330-8FF8` [high] The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
 - `INS-260330-D582` [high] Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
+- `INS-260404-C7A1` [high] Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
 - `INS-260403-8BF4` [high] Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260402-9676` [high] Our programming languages limit what we can conceive as possible, making easier solutions feel surprising when discovered.
 - `INS-260404-92B8` [high] The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.

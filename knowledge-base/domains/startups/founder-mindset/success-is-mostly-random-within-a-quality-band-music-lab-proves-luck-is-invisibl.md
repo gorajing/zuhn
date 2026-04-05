@@ -55,7 +55,6 @@ related:
   - INS-260330-304C
   - INS-260321-BFA3
   - INS-260330-1319
-  - INS-260403-8BA2
 stance: >-
   Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one
   group and #40 in another

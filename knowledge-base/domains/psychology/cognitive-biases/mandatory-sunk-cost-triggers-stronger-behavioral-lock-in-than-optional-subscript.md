@@ -56,9 +56,9 @@ related:
   - INS-260403-B6FF
   - INS-260403-546E
   - INS-260404-9505
+  - INS-260404-7C3F
   - INS-260404-2D53
   - INS-260404-ED19
-  - INS-260404-94BB
   - INS-260403-543E
 ---
 Both Costco and Amazon Prime use upfront fees to create switching costs, but there's a critical structural difference. Amazon Prime is optional—customers self-sort based on whether they calculate enough value to justify the fee. This creates loyalty among subscribers but doesn't fundamentally change Amazon's business model for non-subscribers.

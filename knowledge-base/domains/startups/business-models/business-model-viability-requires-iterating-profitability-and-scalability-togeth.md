@@ -45,14 +45,13 @@ stance: >-
   development are more likely to reach sustainable scale than those who defer
   monetization
 related:
-  - INS-260322-83D4
   - INS-260322-AABB
   - INS-260328-C246
   - INS-260329-ADCD
   - INS-260330-02A7
   - INS-260403-DB16
-  - INS-260403-2E0F
   - INS-260403-C1E9
+  - INS-260403-2E0F
   - INS-260403-946A
 ---
 The Business Model Canvas forces founders to think beyond the product into the full system of value creation and capture — revenue streams, cost structure, key partnerships, channels, and customer segments. The critical insight is that profitability and scalability must be designed together through iteration, not treated as sequential goals.

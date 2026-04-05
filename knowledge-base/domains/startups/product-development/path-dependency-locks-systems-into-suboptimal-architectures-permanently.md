@@ -49,7 +49,6 @@ stance: >-
   when far superior alternatives are theoretically possible
 related:
   - INS-260323-8B90
-  - INS-260327-47E9
   - INS-260329-A67B
   - INS-260329-89E9
   - INS-260330-2492
@@ -58,6 +57,7 @@ related:
   - INS-260403-AABF
   - INS-260404-5CC6
   - INS-260403-9B3A
+  - INS-260404-50F7
 ---
 Plants evolved RuBisCo when atmospheric CO2 was high and O2 was negligible. The enzyme was mediocre but sufficient, so plants went 'all-in' on it. When oxygen levels rose (ironically due to photosynthesis itself), RuBisCo began confusing O2 for CO2 roughly half the time, creating toxic byproducts. Rather than evolve a replacement, plants produce 40 billion tons of the flawed enzyme and built elaborate cleanup pathways around its mistakes.
 

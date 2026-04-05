@@ -52,7 +52,6 @@ stance: >-
   lock-in during the wait
 related:
   - INS-260323-3ADC
-  - INS-260323-F753
   - INS-260321-21BE
   - INS-260322-3259
   - INS-260327-9DA6
@@ -61,6 +60,7 @@ related:
   - INS-260327-C9A7
   - INS-260330-0317
   - INS-260330-0871
+  - INS-260330-95E8
 evidence:
   - id: INS-260323-3ADC
     type: CHALLENGES

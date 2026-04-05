@@ -45,7 +45,6 @@ stance: >-
   seamlessly, and maintaining intensity under pressure.
 related:
   - INS-260323-FBD9
-  - INS-260327-5CB6
   - INS-260403-F519
   - INS-260330-CCF0
   - INS-260324-468C

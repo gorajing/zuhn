@@ -46,12 +46,11 @@ stance: >-
   new ones is not a nice-to-have but the defining capability that separates
   companies that survive disruption from those that don't
 related:
-  - INS-260403-F0DF
-  - INS-260403-E3C4
-  - PRI-260328-43F1
-  - INS-260403-7227
-  - INS-260403-1358
-  - INS-260403-5427
+  - INS-260325-C7FA
+  - INS-260330-9A46
+  - INS-260327-9377
+  - INS-260329-ACE6
+  - INS-260330-AB58
 ---
 Most companies are structurally optimized for one mode. Startups are built to search; established companies are built to execute. The challenge for any company that wants longevity is building the capacity for both. This isn't just about having an 'innovation lab' — it requires different incentive structures, different reporting lines, different definitions of success, and leadership that can context-switch between the two modes.
 

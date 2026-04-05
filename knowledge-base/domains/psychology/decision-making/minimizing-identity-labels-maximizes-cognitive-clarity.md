@@ -21,7 +21,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Keeping your identity small — refusing to label yourself as an X or Y person
@@ -45,13 +45,12 @@ stance: >-
   The fewer things you let become part of your identity, the more topics you can
   reason about clearly
 related:
-  - INS-260323-BBD3
-  - INS-260329-3E3A
-  - INS-260329-28A6
-  - INS-260330-59A4
-  - INS-260402-ECB6
-  - INS-260323-64A4
-  - INS-260404-CE92
+  - INS-260403-B6FF
+  - INS-260403-546E
+  - INS-260403-46BD
+  - INS-260403-CE5F
+  - INS-260404-9505
+  - INS-260404-2D53
 ---
 Graham's core prescription is that since identity attachment corrupts reasoning, the strategic response is to let as few things as possible into your identity. Each label you adopt — 'I'm a Mac person,' 'I'm a libertarian,' 'I'm a Python developer' — is a domain where you've traded the ability to think clearly for the comfort of belonging.
 

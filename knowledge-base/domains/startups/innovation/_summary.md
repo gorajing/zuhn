@@ -1,8 +1,9 @@
 # Topic: innovation
 
-> 88 insights
+> 94 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
+- `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
@@ -22,6 +23,7 @@
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-268F` [high] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260403-A99F` [high] Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
+- `INS-260404-0240` [high] Company culture is an operating system that must be deliberately architected, not left to chance.
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-2E6C` [high] Innovation success depends on volume of cheap experiments, not quality of individual bets.
 - `INS-260403-6224` [high] Innovation program assessment requires dual axes: value creation and culture change capacity.
@@ -31,8 +33,11 @@
 - `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260403-F148` [high] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
+- `INS-260404-3043` [high] Bubble economics temporarily suppress adoption of efficient innovations that later become standard.
 - `INS-260403-3DF3` [high] Innovation success depends on making failures fast and cheap while extracting maximum learning from each experiment.
+- `INS-260404-E06E` [high] Existing internal resources can become the foundation of entirely new, higher-margin business models.
 - `INS-260403-499B` [high] Across 40 large organizations, intrapreneurship structures scored lowest — dedicated processes and incentives for internal ventures are exceptionally hard to build.
+- `INS-260404-C92A` [high] Large companies must run parallel cultures — one for executing known business models and one for exploring new ones through rapid experimentation.
 - `INS-260404-BFAB` [high] Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
 - `INS-260403-BDCC` [high] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-4CD0` [high] Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
@@ -43,6 +48,7 @@
 - `INS-260404-17DD` [high] Established business models produce antibodies that kill fragile new initiatives transferred too early.
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-D62D` [high] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
+- `INS-260404-2DB4` [high] Companies must reinvent while successful because decline eliminates the resources needed for transformation.
 - `INS-260403-E25F` [high] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
 - `INS-260404-BD46` [high] Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260403-910E` [high] Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.

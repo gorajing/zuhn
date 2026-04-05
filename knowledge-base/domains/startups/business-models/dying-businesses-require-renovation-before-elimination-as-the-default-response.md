@@ -48,11 +48,11 @@ stance: >-
   reinvention rather than divestiture, because the existing customer base and
   operational infrastructure represent recoverable value.
 related:
+  - INS-260404-2DB4
   - PRI-260328-A1AA
   - INS-260327-DF2F
   - INS-260327-96BB
   - INS-260404-7E24
-  - INS-260329-F4E4
 ---
 When businesses fall from the profitable top-right to the struggling bottom-left of the Execution Engine, the framework explicitly warns against defaulting to elimination. Instead, the primary response should be renovation, improvement, or reinvention — moving the business back toward the top-right corner. Elimination is one option among several, not the automatic response.
 

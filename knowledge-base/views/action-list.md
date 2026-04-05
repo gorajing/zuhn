@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3905 actionable insights
+Generated on 2026-04-05 | 3910 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -959,6 +959,7 @@ Generated on 2026-04-05 | 3905 actionable insights
 - [INS-260404-023C] Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - [INS-260404-4E6D] Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
 - [INS-260404-50F7] Imagining constrained environments exposes which dependencies you've normalized and stopped noticing.
+- [INS-260404-C7A1] Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1155,6 +1156,7 @@ Generated on 2026-04-05 | 3905 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
+- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -3179,6 +3181,7 @@ Generated on 2026-04-05 | 3905 actionable insights
 - [INS-260404-DBD2] You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 - [INS-260404-FE95] Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
 - [INS-260404-0572] Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
+- [INS-260404-886C] Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3281,6 +3284,8 @@ Generated on 2026-04-05 | 3905 actionable insights
 - [INS-260404-BFAB] Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
 - [INS-260404-6BBB] Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 - [INS-260404-6394] Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.
+- [INS-260404-0240] Company culture is an operating system that must be deliberately architected, not left to chance.
+- [INS-260404-2DB4] Companies must reinvent while successful because decline eliminates the resources needed for transformation.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.

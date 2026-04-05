@@ -810,6 +810,7 @@ Generated on 2026-04-05 | 2421 sources
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
 | $1,000 Head Start For America's Youth | blog | 4 | 2026-03-30 |
+| 13 Essential Strategyzer Links On Organizational Culture | blog | 4 | 2026-03-31 |
 | 13 Traps That Can Render Your Market Research Irrelevant | blog | 4 | 2026-03-31 |
 | 14 Essential Links For Working With The Business Model Canvas | blog | 4 | 2026-03-31 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
@@ -833,6 +834,7 @@ Generated on 2026-04-05 | 2421 sources
 | 5 Questions You Never Dared to Ask About the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
 | 61 Startups Actively Raising Capital (Pre-Seed to Series B) | blog | 4 | 2026-03-30 |
+| 6,631,372 | blog | 4 | 2026-03-31 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
 | 8 AI Prompts That Replace a $25K/Year Financial Analyst | blog | 4 | 2026-03-30 |
@@ -1096,6 +1098,7 @@ Generated on 2026-04-05 | 2421 sources
 | What Can Quantum Computers Actually Do | blog | 4 | 2026-03-30 |
 | What happens if the world pulls its money out of America? | blog | 4 | 2026-03-30 |
 | What I Read This Week… | blog | 4 | 2026-03-30 |
+| What Made Lisp Different | blog | 4 | 2026-03-31 |
 | What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 4 | 2026-03-31 |
@@ -1114,6 +1117,7 @@ Generated on 2026-04-05 | 2421 sources
 | WIRTW: China's minerals, AI financing, Nobel winners, robotics... | blog | 4 | 2026-03-30 |
 | WIRTW: Elon's $1T Package, Prediction Markets on Google, And More | blog | 4 | 2026-03-30 |
 | WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B Valuation | blog | 4 | 2026-03-30 |
+| World’s Best Founders 🔍, Changing VC Landscape 💼, Venture Trends 🌐 | blog | 4 | 2026-03-30 |
 | Write Like You Talk | blog | 4 | 2026-03-31 |
 | Writing and Speaking | blog | 4 | 2026-03-31 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 4 | 2026-03-30 |
@@ -1319,6 +1323,7 @@ Generated on 2026-04-05 | 2421 sources
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 3 | 2026-03-20 |
 | Business Model Innovation and Change | blog | 3 | 2026-03-31 |
 | Olympiad-level formal mathematical reasoning with reinforcement learning - Nature | blog | 3 | 2026-03-26 |
+| Reinvent Your Company While It's Still Successful | blog | 3 | 2026-03-31 |
 | Startup MIS Excel Template to Track KPIs | blog | 3 | 2026-03-30 |
 | The 2026 AI product strategy guide: How to plan, budget, and build without buying into the hype | blog | 3 | 2026-03-26 |
 | Why most AI products fail: Key findings from MIT’s 2025 AI Report | blog | 3 | 2026-03-26 |
@@ -2038,7 +2043,6 @@ Generated on 2026-04-05 | 2421 sources
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
 | 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 0 | 2026-03-30 |
 | 121 Startups Fundraising Right Now (With Pitch Decks) | Exclusive Deal Flow for 2025 | blog | 0 | 2026-03-30 |
-| 13 Essential Strategyzer Links On Organizational Culture | blog | 0 | 2026-03-31 |
 | 14 habits of highly effective product managers | blog | 0 | 2026-03-31 |
 | 144 Family Offices That Cut Pre-Seed Checks | blog | 0 | 2026-03-30 |
 | 15,000+ VCs, Angels & The Glassdoor of Venture Capital | blog | 0 | 2026-03-30 |
@@ -2063,7 +2067,6 @@ Generated on 2026-04-05 | 2421 sources
 | 50 AI Agent Startup Ideas for 2025 (Across 10 Industries) | blog | 0 | 2026-03-30 |
 | 50 Real Startup Pitch Decks That Raised $380M+ | blog | 0 | 2026-03-30 |
 | 59 Startup Pitch Decks That Raised Millions—See What Works | blog | 0 | 2026-03-30 |
-| 6,631,372 | blog | 0 | 2026-03-31 |
 | 8 Concrete Tips On How To Intentionally Design Great Corporate Culture | blog | 0 | 2026-03-31 |
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
 | 8 Free Excel Templates Every Startup Founder Should Use | blog | 0 | 2026-03-30 |
@@ -2295,7 +2298,6 @@ Generated on 2026-04-05 | 2421 sources
 | Power | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
-| Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
@@ -2385,7 +2387,6 @@ Generated on 2026-04-05 | 2421 sources
 | Weird Languages | blog | 0 | 2026-03-31 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |
-| What Made Lisp Different | blog | 0 | 2026-03-31 |
 | What Makes a Good Product-Market Fit?🎯, Global Markets Snapshot📊, GDP Growth Projections📈 | blog | 0 | 2026-03-30 |
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
@@ -2402,7 +2403,6 @@ Generated on 2026-04-05 | 2421 sources
 | WIRTW: Deepseek Breakthrough | blog | 0 | 2026-03-30 |
 | WIRTW: Micron's $100B Megafab | blog | 0 | 2026-03-30 |
 | WIRTW: Record Government Shutdown Ends | blog | 0 | 2026-03-30 |
-| World’s Best Founders 🔍, Changing VC Landscape 💼, Venture Trends 🌐 | blog | 0 | 2026-03-30 |
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writes and Write-Nots | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |

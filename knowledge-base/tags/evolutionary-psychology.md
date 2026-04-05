@@ -1,8 +1,8 @@
 # Tag: evolutionary-psychology
 
-- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260330-4224` Humans evolved uniquely white scleras not by accident but as a cooperation mechanism — making it easy for others to detect where we're looking, unlike predators who benefit from concealed gaze.
 - `INS-260403-CBB2` The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
+- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260403-EB0B` Hunter-gatherers couldn't store wealth, so status was the only survival currency — that wiring still dominates our instincts.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
 - `INS-260403-53D9` Creepiness is a specific cognitive state triggered when something is maybe-threatening but maybe-not, leaving the brain unable to commit to fight-or-flight.

@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 963 insights across 24 topics
+> 965 insights across 24 topics
 
 ## Topics
 
@@ -13,7 +13,7 @@
 | ai-capabilities | 99 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
 | ai-market-dynamics | 94 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
 | alignment | 47 | KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text. |
-| architecture | 12 | Libraries are reusable because they are language, not because they are object-oriented. |
+| architecture | 13 | Libraries are reusable because they are language, not because they are object-oriented. |
 | automation | 10 | Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI. |
 | claude-code | 38 | Planning is king — always use planning mode before implementation; never let the builder start without plans. |
 | embeddings | 6 | Different basis choices make different operations trivial or impossible in vector spaces. |
@@ -28,5 +28,5 @@
 | platform-shifts | 34 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
 | product-strategy | 70 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | system-building | 209 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |
-| system-design | 6 | Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production. |
+| system-design | 7 | Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production. |
 | systems-design | 4 | Chloroplasts charge thylakoids like batteries by pumping protons steadily, then release them through ATP synthase — the biological equivalent of a message queue enabling batch processing. |

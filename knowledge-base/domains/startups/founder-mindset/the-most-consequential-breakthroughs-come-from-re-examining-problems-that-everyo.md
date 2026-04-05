@@ -50,7 +50,6 @@ resolutions:
     question to ask isn't 'what's the hot new problem?' but 'what old problem
     did everyone give up on prematurely?'
 related:
-  - INS-260321-E59A
   - INS-260325-C7FA
   - INS-260323-2D1D
   - INS-260325-CC49
@@ -60,6 +59,7 @@ related:
   - INS-260323-61D4
   - INS-260323-4279
   - INS-260323-D8DD
+  - INS-260323-089E
 evidence:
   - id: INS-260325-C7FA
     type: TRANSFERS_TO

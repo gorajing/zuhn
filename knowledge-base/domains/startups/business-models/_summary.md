@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 224 insights
+> 225 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -156,6 +156,7 @@
 - `INS-260404-1755` [high] ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
 - `INS-260403-F4CC` [high] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
 - `INS-260327-39D4` [high] 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
+- `INS-260404-6751` [high] AWS's recurring revenue model generates far higher margins than Amazon's transactional e-commerce, illustrating the structural superiority of subscription-based models.
 - `INS-260403-2D99` [high] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - `INS-260404-F017` [high] Each of the nine BMC blocks represents a critical decision area; removing any one risks missing a foundational pillar of the business.
 - `INS-260327-46F6` [high] When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychological

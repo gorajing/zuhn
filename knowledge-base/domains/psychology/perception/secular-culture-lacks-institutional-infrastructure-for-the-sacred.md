@@ -54,11 +54,11 @@ stance: >-
   practice, and a sense of the sacred all need institutional homes that secular
   society has failed to build at scale.
 related:
+  - INS-260404-0240
   - INS-260403-F8B5
   - INS-260323-FCA7
   - INS-260330-FAB4
   - INS-260325-4300
-  - INS-260330-4E55
 evidence:
   - id: INS-260323-FCA7
     type: SUPPORTS

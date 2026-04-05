@@ -54,5 +54,6 @@ related:
   - INS-260325-BC2A
   - PRI-260328-A4AC
   - INS-260403-BA5D
+  - INS-260404-3043
 ---
 Stagnant industries follow a distinctive adoption pattern: long periods of resistance punctuated by brief windows of radical openness during paradigm shifts. The legal industry illustrates this perfectly — in 1992, only 5% of top law firms used online legal search; by 1996, 77% of large firms used LexisNexis and WestLaw. Those services then remained entrenched for nearly three decades. AI is reopening this same window across law, government, healthcare, and education simultaneously. The implication for founders is that speed of distribution matters more than product perfection during these windows. Management teams are under pressure to demonstrate AI strategies even before understanding exactly how AI will impact their industry, creating unusually engaged sales prospects and shortened sales cycles. The founder who figures out in-industry distribution fastest wins each vertical.

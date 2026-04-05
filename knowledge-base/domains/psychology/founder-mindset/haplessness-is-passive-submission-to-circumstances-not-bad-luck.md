@@ -51,6 +51,7 @@ related:
   - PRI-260403-5C44
   - PRI-260403-2E59
   - INS-260327-3349
+  - INS-260404-94EB
 ---
 Graham redefines haplessness not as unluckiness but as passivity — letting the world have its way with you instead of having your way with the world. This reframing shifts the failure mode from external (bad luck) to internal (passive orientation toward obstacles). A team that loses due to a bad referee call is unlucky but not hapless; haplessness implies a fundamental stance toward the world.
 

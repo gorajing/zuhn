@@ -51,10 +51,10 @@ related:
   - INS-260327-0762
   - INS-260330-A9CB
   - INS-260403-B133
+  - INS-260404-8520
   - INS-260403-E0FE
   - INS-260403-2E0F
   - INS-260403-B008
-  - PRI-260324-36BF
 ---
 Graham identifies a crucial mechanism behind incumbent failure: when leaders are driven by annual bonuses rather than equity, they maximize this year's revenue by squeezing existing business models harder rather than investing in adaptation. Building new things takes too long for bonus cycles, so they lobby, litigate, and enforce instead of innovate.
 

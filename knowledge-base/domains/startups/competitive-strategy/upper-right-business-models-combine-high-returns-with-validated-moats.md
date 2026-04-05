@@ -53,6 +53,7 @@ related:
   - INS-260403-E0FE
   - INS-260404-BD46
   - INS-260404-420F
+  - INS-260404-E06E
 ---
 Osterwalder's expected return axis evaluates not just revenue size but business model robustness — recurring revenues, long-term growth potential, scalability, and protection from competition. This means two businesses with identical current revenue can sit at very different positions on the return axis based on structural quality.
 

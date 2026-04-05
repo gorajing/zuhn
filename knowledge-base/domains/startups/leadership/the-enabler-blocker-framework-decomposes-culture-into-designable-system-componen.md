@@ -56,8 +56,8 @@ related:
   - INS-260404-CDF0
   - INS-260404-74F4
   - INS-260403-A99F
+  - INS-260404-0240
   - INS-260403-6428
-  - INS-260329-8D19
 ---
 The Culture Map's garden analogy is more than a metaphor — it's a systems decomposition. Outcomes are the harvest (what you want culture to produce), behaviors are the plants (daily actions), enablers are fertilizer and expertise (what helps behaviors thrive), and blockers are weeds and pests (what prevents desired behaviors). This decomposition matters because it makes culture designable.
 

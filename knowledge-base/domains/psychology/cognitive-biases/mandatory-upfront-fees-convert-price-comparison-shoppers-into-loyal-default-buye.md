@@ -48,7 +48,6 @@ stance: >-
   the commitment is non-negotiable.
 related:
   - INS-260327-1403
-  - INS-260403-B6FF
   - INS-260403-CE5F
   - INS-260403-543E
   - INS-260404-B46E

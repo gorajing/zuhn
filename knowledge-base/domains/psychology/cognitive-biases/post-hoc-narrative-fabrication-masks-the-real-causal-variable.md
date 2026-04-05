@@ -48,5 +48,6 @@ related:
   - INS-260329-B6A6
   - INS-260403-6F65
   - INS-260329-FAE2
+  - INS-260404-94EB
 ---
 Graham compares political analysts to financial reporters who retroactively attribute market movements to whatever news is available. The analysts search for ideological shifts — 'the country moved right' — when the simpler explanation is that the more charismatic candidate won every time. This is the narrative fallacy at scale: complex stories feel intellectually satisfying and signal expertise, so they crowd out embarrassingly simple theories. Recognizing this bias is critical for anyone making strategic decisions — the real causal variable is often the boring, obvious one that experts dismiss as too reductive to publish.

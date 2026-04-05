@@ -52,8 +52,8 @@ related:
   - INS-260404-CDF0
   - INS-260403-6061
   - INS-260403-A99F
+  - INS-260404-0240
   - INS-260330-4A89
-  - PRI-260328-0C51
 ---
 Most organizations default to measuring innovation programs purely on value creation—revenue, profit, new products launched. The Ecosystem Map framework argues this is dangerously incomplete. Culture change—encompassing leadership support, organizational design, and innovation practice—is equally critical because it determines whether promising ideas can actually be leveraged into sustained growth.
 

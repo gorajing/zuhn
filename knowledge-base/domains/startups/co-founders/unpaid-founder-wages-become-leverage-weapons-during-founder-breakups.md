@@ -49,12 +49,13 @@ stance: >-
   compensation decision — it eliminates leverage that departing founders can use
   to extract unearned equity.
 related:
-  - INS-260328-4EA0
   - INS-260330-1459
   - INS-260330-75E2
   - INS-260330-3B0A
+  - INS-260328-4EA0
   - INS-260326-967C
   - INS-260330-C4D4
+  - INS-260404-886C
 evidence:
   - id: INS-260330-75E2
     type: REFINES

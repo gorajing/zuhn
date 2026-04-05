@@ -54,6 +54,7 @@ related:
   - INS-260330-75E2
   - INS-260402-8813
   - INS-260403-16B4
+  - INS-260404-886C
 ---
 YC has observed a recurring pattern in founder breakups: when co-founders haven't been paying themselves, the fired founder's lawyer identifies the wage law violation and uses it as leverage. The departing founder offers a deal — pay the owed wages plus accelerate some unvested shares, and they'll sign a release making the legal problem disappear.
 
