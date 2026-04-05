@@ -1,11 +1,12 @@
 # Topic: innovation
 
-> 103 insights
+> 106 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
+- `INS-260405-F1A2` [high] Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
 - `INS-260403-882A` [high] Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
 - `INS-260403-130D` [high] Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
@@ -32,6 +33,7 @@
 - `INS-260405-3403` [high] You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
 - `INS-260403-6224` [high] Innovation program assessment requires dual axes: value creation and culture change capacity.
 - `INS-260404-CD55` [high] Embedding legal and compliance as collaborative partners in the innovation program design phase transforms them from blockers into enablers.
+- `INS-260405-F99E` [high] Believing you can pick innovation winners leads to concentrated bets on false certainty; portfolio strategy acknowledges uncertainty and prices it correctly.
 - `INS-260403-383F` [high] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
 - `INS-260403-F87C` [high] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 - `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
@@ -62,6 +64,7 @@
 - `INS-260403-1358` [high] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
+- `INS-260405-0A6D` [high] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 - `INS-260403-B4F1` [high] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
 - `INS-260403-227B` [high] Oxygen—the gas that enabled all complex animal life—is technically just the waste product of photosynthesis splitting water to replace lost electrons.
 - `INS-260404-D0A5` [high] Oxygen — the molecule all animal life depends on — was originally just a waste product of photosynthesis, not its purpose.

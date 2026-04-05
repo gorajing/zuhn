@@ -14,6 +14,6 @@
 - `INS-260403-C37D` Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
 - `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
 - `INS-260330-C7DB` Rosalind Franklin's unpublished X-ray crystallography data was shown to Watson and Crick without her knowledge, enabling their model — a cautionary tale about sharing proprietary data without structural protection.
-- `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
 - `INS-260328-3959` A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
+- `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.

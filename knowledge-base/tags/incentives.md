@@ -15,7 +15,7 @@
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
 - `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
-- `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
+- `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
 - `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.

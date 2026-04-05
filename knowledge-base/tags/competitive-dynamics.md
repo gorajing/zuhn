@@ -52,6 +52,6 @@
 - `INS-260327-CC05` In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
 - `INS-260405-F03A` Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
-- `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
+- `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.

@@ -8,7 +8,7 @@
 - `INS-260402-0BFF` Having zero controversial private opinions is evidence of conformity, not correctness.
 - `INS-260404-DCCD` 'If you're not with us, you're against us' is often literally false because accidental moderates don't occupy a single point on the political spectrum.
 - `INS-260403-8B13` Conformism varies on two orthogonal axes — conventional/independent and passive/aggressive — creating four stable personality types observable from childhood.
-- `INS-260405-F5D8` Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
 - `INS-260402-7E2A` Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
+- `INS-260405-F5D8` Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
 - `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260403-1750` Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.

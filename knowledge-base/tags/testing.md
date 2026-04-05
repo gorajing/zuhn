@@ -3,9 +3,9 @@
 - `INS-260330-FC4D` When agents produce 1,300 PRs weekly, CI pipelines and test coverage become the primary quality gate since human review alone cannot scale to verify correctness.
 - `INS-260330-D5CD` When agents write 1,300 PRs per week, CI and test infrastructure become the primary trust mechanism replacing the confidence that comes from knowing a human wrote the code.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
+- `INS-260330-6828` Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260320-10CC` 91 unit tests all passed, but an automated spec audit found 12 issues — unit tests verify code works, spec audits verify code matches intent.
 - `INS-260329-0154` Testing frequently during development limits the search space for bugs to only the code changed since the last successful run.
-- `INS-260330-6828` Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260322-A61A` Stan Lee tested Spider-Man in a dying magazine's last issue because nobody cared what went in it — low-stakes channels are the perfect testing ground for ideas that gatekeepers rejected.

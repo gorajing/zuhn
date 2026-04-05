@@ -47,7 +47,6 @@ stance: >-
   evidence outperform those where leaders try to pick winning ideas upfront
 related:
   - INS-260327-F50E
-  - INS-260330-F1C8
   - INS-260330-4314
   - INS-260329-4605
   - INS-260403-215E
@@ -56,6 +55,7 @@ related:
   - INS-260403-1358
   - INS-260403-BDCC
   - INS-260403-8291
+  - INS-260403-383F
 ---
 Bayer's Catalyst Fund invested €10,000 each in 74 projects from 400+ proposals. After four months of testing, 29 received ~€90K second-round funding based on evidence presented to senior leaders. Of those, 17 showed feasibility and got €100-300K continuation funding, with 5 launching to market. This 400→74→29→17→5 funnel mirrors venture capital portfolio dynamics.
 

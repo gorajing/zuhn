@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3997 actionable insights
+Generated on 2026-04-05 | 4001 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -3025,6 +3025,7 @@ Generated on 2026-04-05 | 3997 actionable insights
 - [INS-260405-D6B9] A spectacularly wrong business model pushes your real value proposition out of investors' memory — don't crowd out the good with the guesswork.
 - [INS-260405-3DDF] As your description expands to cover everything, it converges to saying nothing — be narrow first, then flesh it out.
 - [INS-260405-672E] Investors' biggest fear is that you built something nobody wants — concrete user stories are the antidote to that fear.
+- [INS-260405-3C56] Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3361,6 +3362,9 @@ Generated on 2026-04-05 | 3997 actionable insights
 - [INS-260405-6BBC] Knowing the Business Model Canvas is not enough — running a room of skeptical executives through it productively requires a separate and trainable skill set.
 - [INS-260405-69F1] Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
 - [INS-260405-3403] You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
+- [INS-260405-F1A2] Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
+- [INS-260405-F99E] Believing you can pick innovation winners leads to concentrated bets on false certainty; portfolio strategy acknowledges uncertainty and prices it correctly.
+- [INS-260405-0A6D] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.

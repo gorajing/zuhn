@@ -17,15 +17,15 @@
 - `INS-260323-216A` Most AI projects fail because organizations skip the unglamorous data science work between raw data and AI value.
 - `INS-260321-015B` Corporate AI projects fail because they optimize human-to-human workflows — the real transformation is creating AI-native operating systems where agents replace entire workflows and humans become oversight.
 - `INS-260325-8F49` Hugging Face hosts roughly as many private models as their 1 million public models, created by 350,000 organizations doing custom fine-tuning, evaluation, and reinforcement learning.
-- `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
-- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
-- `INS-260327-E0F7` Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
-- `INS-260327-D9D6` The FDE role translates vague client requirements into AI-ready specifications through iterative meetings, structured documentation, and progressive decomposition from ambiguity to precision.
 - `INS-260325-95A6` MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260327-EEBD` When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
 - `INS-260327-0246` Fortune 500 companies won't go fully humanless in contact centers for years; the winning strategy is blending human agent assist with autonomous digital agents rather than pushing total automation.
 - `INS-260327-7A48` Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.
 - `INS-260327-63B5` Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
+- `INS-260327-E0F7` Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
+- `INS-260327-D9D6` The FDE role translates vague client requirements into AI-ready specifications through iterative meetings, structured documentation, and progressive decomposition from ambiguity to precision.
+- `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
+- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260323-348F` 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
 - `INS-260327-C99D` Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
 - `INS-260327-73BE` Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.

@@ -18,7 +18,6 @@
 - `INS-260403-2D99` Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - `INS-260404-D471` Social activism and regulatory changes can render entire business models unviable, not just reduce margins.
 - `INS-260330-1B47` Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.
-- `INS-260321-F446` If 50 unlikable people hold all the wealth while white-collar workers lose jobs, the bipartisan consensus won't be left vs right — it will be 'nationalize tech.'
 - `INS-260330-E811` Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
 - `INS-260323-07BE` Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.
 - `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
@@ -28,10 +27,11 @@
 - `INS-260403-D8C1` Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260330-D460` Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
+- `INS-260321-F446` If 50 unlikable people hold all the wealth while white-collar workers lose jobs, the bipartisan consensus won't be left vs right — it will be 'nationalize tech.'
+- `INS-260405-5617` When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
 - `INS-260402-580C` Restriction breeds innovation at the edges of incumbent-dominated industries, gradually migrating inward.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260330-F23F` India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
-- `INS-260405-5617` When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
 - `INS-260404-7834` When you can't fix the source of a problem (e.g., patent issuance), target the point where harm actually occurs (e.g., patent enforcement against startups).

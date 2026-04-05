@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 631 insights across 8 topics
+> 632 insights across 8 topics
 
 ## Topics
 
@@ -13,4 +13,4 @@
 | fintech | 77 | Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential. |
 | geopolitics | 382 | The Bolsheviks seized power with a tiny force by capturing Petrograd's key infrastructure — the telegraph office, bridges, railway stations, and banks — rather than fighting the entire city. |
 | space-economy | 32 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
-| venture-capital | 27 | Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely. |
+| venture-capital | 28 | Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely. |

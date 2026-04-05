@@ -50,10 +50,10 @@ stance: >-
   playbooks into companies rather than trying to identify mispriced assets.
 related:
   - PRI-260328-3FEF
+  - INS-260405-F99E
   - INS-260325-0688
   - INS-260326-6B98
   - INS-260403-910E
-  - INS-260405-371F
 evidence:
   - id: INS-260323-960A
     type: SUPPORTS

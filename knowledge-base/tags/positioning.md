@@ -45,7 +45,6 @@
 - `INS-260323-181D` Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260327-3574` Pitch a mindset shift in the world, not your product's features — this transforms you from an arrogant doctor into a movement leader.
 - `INS-260322-8BC5` Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
-- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260405-3E57` Investors hear dozens of pitches per event — the startup that left a single memorable phrase is the one that gets the follow-up email.
 - `INS-260405-283A` The inability to find a soundbite isn't a wordsmithing failure — it's a signal that the strategy itself isn't sharp enough.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
@@ -103,9 +102,10 @@
 - `INS-260403-FC45` Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
 - `INS-260403-21C4` Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
+- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
-- `INS-260327-5B47` The painkiller market is $7B, vitamins are $36B, candy is $70-80B — a single product in a single deal may need candy messaging (delight stories) for users, vitamin messaging (benefit word-of-mouth) for evaluators, and painkiller messaging (prescriptive facts) for executives.
 - `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
+- `INS-260327-5B47` The painkiller market is $7B, vitamins are $36B, candy is $70-80B — a single product in a single deal may need candy messaging (delight stories) for users, vitamin messaging (benefit word-of-mouth) for evaluators, and painkiller messaging (prescriptive facts) for executives.
 - `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260404-9783` Costco turns membership fees, confusing layouts, and bulk-only sizing into loyalty drivers and competitive moats.

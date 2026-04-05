@@ -52,7 +52,6 @@ stance: >-
   early-stage rounds.
 related:
   - INS-260323-89C2
-  - INS-260322-98D2
   - INS-260323-4C43
   - INS-260321-2F09
   - INS-260327-CD77
@@ -61,6 +60,7 @@ related:
   - INS-260403-25A8
   - PRI-260403-26B9
   - INS-260328-F301
+  - INS-260328-0C4C
 evidence:
   - id: INS-260323-89C2
     type: CHALLENGES

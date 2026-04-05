@@ -57,6 +57,7 @@ related:
   - INS-260403-1290
   - INS-260404-10FF
   - INS-260404-6A15
+  - INS-260405-F1A2
 ---
 A VC speaking at Y Combinator admitted that a company he just invested millions in had a wrong business model that would probably change three times. If experienced, well-funded founders can't get business models right, early-stage founders certainly can't. Yet founders keep spending precious pitch minutes on this.
 

@@ -48,7 +48,6 @@ stance: >-
   early-stage fundraising because investors already assume your model is wrong.
 related:
   - INS-260325-51E6
-  - INS-260320-E044
   - INS-260322-A02C
   - INS-260323-C4E2
   - INS-260323-7D01
@@ -57,6 +56,7 @@ related:
   - INS-260329-34A9
   - INS-260330-A38C
   - INS-260330-F1C8
+  - INS-260330-478B
 ---
 A VC who spoke at YC described investing in experienced founders whose business model he expected to change three times before they got it right. If veterans with millions in funding have a wrong business model, early-stage founders certainly will too.
 

@@ -44,7 +44,6 @@
 - `INS-260405-4871` Fewer SKUs means each supplier slot is scarce, flipping the power dynamic so suppliers adapt to Costco's needs rather than the reverse.
 - `INS-260405-D9C8` Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
-- `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260403-AABF` Self-imposed constraints compound into structural advantages because each constraint reinforces the others and makes the whole system harder to copy piecemeal.
 - `INS-260403-B8CD` Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260403-0DC2` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize products to win placement.
@@ -59,6 +58,7 @@
 - `INS-260404-9B82` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers voluntarily lower prices and customize products to win placement.
 - `INS-260404-4780` Costco stocks ~4,000 SKUs vs Walmart's 140,000, making each slot so valuable that suppliers compete on price to win it.
 - `INS-260404-1B66` Extreme product curation concentrates buying power into fewer suppliers, creating leverage that funds lower prices.
+- `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260404-CEA8` Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
 - `INS-260404-0572` Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.

@@ -29,18 +29,18 @@
 - `INS-260403-9BBA` The Uncanny Valley is best understood not as a robot-specific phenomenon but as what happens when anything straddles the boundary between two categories our brain needs to resolve.
 - `INS-260329-F51D` The Google engineer observes that excellent programmers are distinguished not by knowing more data structures but by knowing when each one is the right choice for the task.
 - `INS-260329-5FB5` Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
-- `INS-260325-3CE2` Structured peer groups of 6-8 founders at similar stages outperform any advisor — EO's 18,000-member model proves this at scale.
-- `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
-- `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
+- `INS-260330-6C35` Monopolists frame themselves in huge markets to avoid regulation while competitors frame themselves in tiny intersections to appear unique — both systematically distort reality.
 - `INS-260323-5F8A` Investors who back founders with 3-4 failures are buying battle-tested pattern recognition that lucky first-timers never develop.
 - `INS-260323-5986` In fast-growing companies you cannot learn organically fast enough — systematically interview people who are one or two stages ahead to discover the pattern of what you need 12-24 months from now.
 - `INS-260403-DAB1` Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.
 - `INS-260404-108C` Across money, time, and likely other resources, the biggest losses come not from obvious indulgence but from activities that mimic virtue while destroying value.
-- `INS-260330-6C35` Monopolists frame themselves in huge markets to avoid regulation while competitors frame themselves in tiny intersections to appear unique — both systematically distort reality.
-- `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
-- `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
+- `INS-260325-3CE2` Structured peer groups of 6-8 founders at similar stages outperform any advisor — EO's 18,000-member model proves this at scale.
+- `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
+- `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
+- `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
+- `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
 - `INS-260403-021D` Every major software architecture shift predictably spawns new billion-dollar cybersecurity companies.
 - `INS-260403-F160` Software history follows translation → creation → reality-breaking phases, and AI is entering the third phase where the constraint is vision, not capability.

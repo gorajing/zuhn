@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 326 insights
+> 328 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -132,6 +132,7 @@
 - `INS-260403-24F0` [high] Never say 'we're passionate' or 'our product is great'—investors ignore or penalize explicit self-promotion, responding only to demonstrated conviction.
 - `INS-260405-8BEA` [high] Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
 - `INS-260403-2F22` [high] Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
+- `INS-260405-3C56` [high] Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.
 - `INS-260403-E9C6` [high] Super-angels emerged specifically because the $200k-$600k range was too large for angels and too small for VCs.
 - `INS-260330-070A` [high] VCs who avoid flawed companies systematically miss the biggest winners because extreme outliers always have glaring weaknesses alongside their extraordinary strengths.
 - `INS-260403-7A31` [high] Investor ecosystems grow organically from successful exits — they cannot be seeded artificially or attracted by incentives.
@@ -147,6 +148,7 @@
 - `INS-260404-103B` [high] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260405-4AE1` [high] State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260330-975D` [high] Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
+- `INS-260405-224A` [high] When founders talk, bad investor behavior propagates quickly and reduces dealflow.
 - `INS-260404-64EC` [high] Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
 - `INS-260403-4423` [high] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.

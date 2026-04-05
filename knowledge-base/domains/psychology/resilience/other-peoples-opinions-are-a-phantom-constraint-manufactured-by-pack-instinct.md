@@ -48,10 +48,10 @@ stance: >-
   fear
 related:
   - INS-260329-1A64
+  - INS-260405-7DD7
   - INS-260327-F7BC
   - INS-260326-35CE
   - INS-260330-FE21
-  - INS-260330-0764
 ---
 Hormozi offers a concrete exercise: when you feel held back by 'what other people think,' name the actual person whose voice you're hearing. Most people discover it's 2-3 specific individuals — a parent, an uncle, a coworker — whose opinions they've elevated to life-governing authority. The vagueness of 'other people' amplifies the fear; specificity deflates it.
 

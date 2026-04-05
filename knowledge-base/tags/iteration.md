@@ -10,6 +10,8 @@
 - `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
 - `INS-260404-420F` Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
+- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
+- `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260330-6EF1` The world's roundest object was made by starting 2mm oversized and grinding progressively finer — extreme quality comes from iterative refinement, not one-shot precision.
 - `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
 - `INS-260329-7691` Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
@@ -27,16 +29,17 @@
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
+- `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
 - `INS-260320-3798` Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
 - `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
-- `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
-- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
-- `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260404-8256` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
+- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
+- `INS-260402-F479` Gall's Law states that all complex working systems evolved from simple working systems — designing complexity from scratch always fails.
+- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
 - `INS-260402-426C` Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
@@ -53,15 +56,12 @@
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
 - `INS-260323-C5D3` Before ZZT shipped, Sweeney invited neighbors of all ages to play it while forcing himself not to explain anything -- noting where they got stuck, felt bored, or enjoyed themselves -- then iteratively polished until the game worked without his guidance.
-- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
-- `INS-260402-F479` Gall's Law states that all complex working systems evolved from simple working systems — designing complexity from scratch always fails.
-- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
+- `INS-260323-F310` LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260329-F007` Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
 - `INS-260403-CF0E` Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
 - `INS-260405-B32E` Fidelity is a function of evidence gathered, not how good the idea seems internally.
 - `INS-260403-B635` Having a few users who truly love your product matters infinitely more than having many indifferent users.
-- `INS-260323-F310` LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
 - `INS-260330-8D99` Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
 - `INS-260323-2559` Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.

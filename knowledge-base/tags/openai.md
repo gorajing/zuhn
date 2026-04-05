@@ -5,12 +5,12 @@
 - `INS-260322-CCE8` Even within OpenAI, the original belief was one AGI model that subsumes everything — that's completely changed, and the future is a portfolio of specialized models for different use cases.
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
+- `INS-260325-20C4` OpenAI's Deep Research team: reinforcement learning on outcomes (not supervised examples) is what enables genuine multi-step reasoning in agents.
 - `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
 - `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260327-E1EB` OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
 - `INS-260323-D288` When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
 - `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
-- `INS-260325-20C4` OpenAI's Deep Research team: reinforcement learning on outcomes (not supervised examples) is what enables genuine multi-step reasoning in agents.
 - `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - `INS-260327-C05A` OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.
 - `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.

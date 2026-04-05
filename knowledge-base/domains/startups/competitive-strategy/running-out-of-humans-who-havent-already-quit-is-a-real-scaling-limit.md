@@ -45,7 +45,6 @@ stance: >-
   creating a hard ceiling on growth.
 related:
   - INS-260327-6061
-  - INS-260327-B410
   - INS-260327-4046
   - INS-260327-C4E8
   - INS-260327-2627

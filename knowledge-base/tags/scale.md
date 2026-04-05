@@ -6,9 +6,9 @@
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
 - `INS-260404-EDEC` The 1987 supernova neutrino arrival simultaneously with light over tens of thousands of light-years outweighed the OPERA result over 454 miles.
 - `INS-260330-814E` WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
-- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
 - `INS-260325-96FB` Common sense works perfectly within its calibrated range and fails predictably outside it.
 - `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
+- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
 - `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
 - `INS-260330-BFA2` RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.

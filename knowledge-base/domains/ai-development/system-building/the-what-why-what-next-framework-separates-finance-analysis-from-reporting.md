@@ -38,10 +38,10 @@ resolutions:
     Stale knowledge bases are worse than none — they give false confidence.
 related:
   - INS-260327-2627
+  - INS-260405-0271
   - INS-260327-9830
   - INS-260330-FF9A
   - INS-260325-F451
-  - INS-260327-8254
   - INS-260404-D40E
 stance: >-
   Finance has three jobs: explain what happened (the metric), why it happened

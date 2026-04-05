@@ -54,10 +54,10 @@ stance: >-
   almost always resolves in favor of exploitation over exploration.
 related:
   - INS-260404-8520
+  - INS-260405-0271
   - INS-260403-7563
   - INS-260322-EAB6
   - INS-260330-70BF
-  - INS-260403-9FE2
 evidence:
   - id: INS-260322-EAB6
     type: TRANSFERS_TO

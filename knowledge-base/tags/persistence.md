@@ -32,6 +32,8 @@
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260329-EECD` Massive volume of attempts eliminates the need for luck because rejection costs nothing and one success changes everything.
 - `INS-260329-3FF3` Doing something enough times guarantees outcomes that individual attempts leave to chance.
+- `INS-260403-7252` Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
+- `INS-260329-7C08` Commit to producing 400 long-form content pieces as the baseline strategy for audience building from zero.
 - `INS-260330-4314` Maintain an explicit investment thesis and use confidence direction — not absolute level — to decide persistence vs. pivot.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260323-2F50` Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
@@ -49,7 +51,5 @@
 - `INS-260323-DEC3` The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
 - `INS-260329-D1B8` Entrepreneurs repeat the cycle of uninformed optimism → informed pessimism → crisis of meaning → restart, never reaching informed optimism and achievement.
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
-- `INS-260403-7252` Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
-- `INS-260329-7C08` Commit to producing 400 long-form content pieces as the baseline strategy for audience building from zero.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260330-3AF9` Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.

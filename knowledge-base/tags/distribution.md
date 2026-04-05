@@ -5,7 +5,6 @@
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
-- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260330-2CE3` Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-7DAA` Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
 - `INS-260403-9689` A gatekeeper between you and your customers holds existential power over your business regardless of how good your product is.
@@ -17,9 +16,6 @@
 - `INS-260324-5481` Facebook opened up to publishers in the late 2000s to boost engagement, then deprioritized publisher content once it had enough — destroying the distribution channel that BuzzFeed and VICE had built their entire businesses on.
 - `INS-260330-4DFA` Distribution beats product in the strategic hierarchy because running out of customers or money kills you before a mediocre product does.
 - `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
-- `INS-260404-D68E` VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
-- `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
-- `INS-260330-C7E6` Coca-Cola used WWII patriotism to get government-funded bottling plants in 64 countries, turning the US military into a de facto sales force.
 - `INS-260321-C902` New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260321-4E98` Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.
@@ -27,14 +23,18 @@
 - `INS-260321-ADB4` Allocate 80% of content to evergreen material (guides, frameworks, reference) and 20% to timely pieces. Every piece should exist in at least five formats: audio, video, short clips, newsletter, social thread.
 - `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
 - `INS-260330-0FB9` TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok.
+- `INS-260404-D68E` VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
+- `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
+- `INS-260330-C7E6` Coca-Cola used WWII patriotism to get government-funded bottling plants in 64 countries, turning the US military into a de facto sales force.
+- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260403-E71A` Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
 - `INS-260403-C1E9` Software is too complex and iterative for a publisher-intermediary model that works for music or books.
 - `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
+- `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
+- `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
-- `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
-- `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.

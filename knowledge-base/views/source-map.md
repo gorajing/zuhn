@@ -147,8 +147,8 @@ Generated on 2026-04-05 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -200,10 +200,10 @@ Generated on 2026-04-05 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
@@ -242,8 +242,9 @@ Generated on 2026-04-05 | 2421 sources
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
+| 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 5 | 2026-03-31 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
@@ -264,6 +265,7 @@ Generated on 2026-04-05 | 2421 sources
 | 500,000 | blog | 5 | 2026-03-31 |
 | 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
 | 7 Ways To Tank Your Business Model | blog | 5 | 2026-03-31 |
+| 80+ Non-Dilutive Funding Sources for Startups (2026 Database) | blog | 5 | 2026-03-30 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
 | A Fundraising Survival Guide | blog | 5 | 2026-03-31 |
 | A guide to AI prototyping for product managers | blog | 5 | 2026-03-31 |
@@ -357,6 +359,7 @@ Generated on 2026-04-05 | 2421 sources
 | From Zero to IPO: Building eDreams Before the Playbooks | blog | 5 | 2026-03-30 |
 | Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology and Comfort Are Rewiring a Generation | blog | 5 | 2026-03-30 |
 | Global AI Adoption📊, SaaS Multiples Compress📉, How People Use ChatGPT💬 | blog | 5 | 2026-03-30 |
+| Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
 | Guided AI Agents: Turbocharging the SMB | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
@@ -839,6 +842,7 @@ Generated on 2026-04-05 | 2421 sources
 | 2020 Year in Review | blog | 4 | 2026-03-31 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 4 | 2026-03-30 |
 | 25 proven tactics to accelerate AI adoption at your company | blog | 4 | 2026-03-31 |
+| 3 mistakes CEOs and CFOs make when investing in innovation | blog | 4 | 2026-03-31 |
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
 | 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
@@ -988,6 +992,7 @@ Generated on 2026-04-05 | 2421 sources
 | How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 4 | 2026-03-30 |
 | How Solar Beat Coal, Gas, and Nuclear Combined | blog | 4 | 2026-03-30 |
 | How to Be an Expert in a Changing World | blog | 4 | 2026-03-31 |
+| How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 4 | 2026-03-30 |
 | How to Disagree | blog | 4 | 2026-03-31 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
@@ -1084,6 +1089,7 @@ Generated on 2026-04-05 | 2421 sources
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 4 | 2026-03-30 |
 | Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 4 | 2026-03-30 |
+| The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 4 | 2026-03-30 |
 | The Acceleration of Addictiveness | blog | 4 | 2026-03-31 |
 | The Agrifoodtech Effect 🍽️ | blog | 4 | 2026-03-30 |
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
@@ -1120,6 +1126,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Reddits | blog | 4 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 4 | 2026-03-30 |
+| The Ronco Principle | blog | 4 | 2026-03-31 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
 | The Secrets of Stealth Startups 🔒🤐 | blog | 4 | 2026-03-30 |
 | The Shape of the Essay Field | blog | 4 | 2026-03-31 |
@@ -1170,6 +1177,7 @@ Generated on 2026-04-05 | 2421 sources
 | WIRTW: China's minerals, AI financing, Nobel winners, robotics... | blog | 4 | 2026-03-30 |
 | WIRTW: Elon's $1T Package, Prediction Markets on Google, And More | blog | 4 | 2026-03-30 |
 | WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B Valuation | blog | 4 | 2026-03-30 |
+| WIRTW: Micron's $100B Megafab | blog | 4 | 2026-03-30 |
 | WIRTW: Record Government Shutdown Ends | blog | 4 | 2026-03-30 |
 | World’s Best Founders 🔍, Changing VC Landscape 💼, Venture Trends 🌐 | blog | 4 | 2026-03-30 |
 | Write Like You Talk | blog | 4 | 2026-03-31 |
@@ -2090,7 +2098,6 @@ Generated on 2026-04-05 | 2421 sources
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
 | @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
-| 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 0 | 2026-03-30 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
@@ -2108,7 +2115,6 @@ Generated on 2026-04-05 | 2421 sources
 | 2,500+ Angel Investors for AI & SaaS Startups | blog | 0 | 2026-03-30 |
 | 26 Pitch Decks That Raised $393M (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
 | 3 Activities To Encourage Dynamic Strategic Thinking | blog | 0 | 2026-03-31 |
-| 3 mistakes CEOs and CFOs make when investing in innovation | blog | 0 | 2026-03-31 |
 | 3 Ways Color-Coding Can Improve Story-Telling In Your Business Model Canvas | blog | 0 | 2026-03-31 |
 | 300+ VCs That Accept Cold Pitches — No Warm Intro Needed for Funding in 2025 | blog | 0 | 2026-03-30 |
 | 350+ Places to Post Your Startup: The Ultimate Launch List | blog | 0 | 2026-03-30 |
@@ -2123,7 +2129,6 @@ Generated on 2026-04-05 | 2421 sources
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
 | 8 Free Excel Templates Every Startup Founder Should Use | blog | 0 | 2026-03-30 |
 | 8 Reminders To Motivate Your Search For Value Propositions & Business Models | blog | 0 | 2026-03-31 |
-| 80+ Non-Dilutive Funding Sources for Startups (2026 Database) | blog | 0 | 2026-03-30 |
 | 89 Best Startup Essays by Top VCs & Founders (YC, a16z, Naval) | blog | 0 | 2026-03-30 |
 | 9 Ways To Make The Business Model Canvas Part Of Your DNA | blog | 0 | 2026-03-31 |
 | A 3-step AI coding workflow for solo founders | Ryan Carson (5x founder) | blog | 0 | 2026-03-31 |
@@ -2273,7 +2278,6 @@ Generated on 2026-04-05 | 2421 sources
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
 | General and Surprising | blog | 0 | 2026-03-31 |
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
-| Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 0 | 2026-03-30 |
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
@@ -2286,7 +2290,6 @@ Generated on 2026-04-05 | 2421 sources
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
-| How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
@@ -2339,7 +2342,6 @@ Generated on 2026-04-05 | 2421 sources
 | Term Sheets Demystified 📄🤝 | blog | 0 | 2026-03-30 |
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
-| The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
@@ -2358,7 +2360,6 @@ Generated on 2026-04-05 | 2421 sources
 | The Python Paradox | blog | 0 | 2026-03-31 |
 | The Rise of the AI Underground | blog | 0 | 2026-03-31 |
 | The Risk of Discovery | blog | 0 | 2026-03-31 |
-| The Ronco Principle | blog | 0 | 2026-03-31 |
 | The SaaS Financial Model Most Founders Get Wrong | blog | 0 | 2026-03-30 |
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
@@ -2403,7 +2404,6 @@ Generated on 2026-04-05 | 2421 sources
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |
 | WIRTW: Deepseek Breakthrough | blog | 0 | 2026-03-30 |
-| WIRTW: Micron's $100B Megafab | blog | 0 | 2026-03-30 |
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writes and Write-Nots | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |

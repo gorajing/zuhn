@@ -15,24 +15,24 @@
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
-- `INS-260326-0C14` Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.
 - `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
-- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260326-0C14` Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.
 - `INS-260323-960A` The activist investor playbook — identify underperformance, build external credibility, assemble a coalition, and force accountability — is a universal framework for organizational change.
 - `INS-260327-176D` Board seats pay hundreds of thousands for showing up to quarterly meetings, creating a professional director class incentivized to avoid rocking any boat.
 - `INS-260403-B1D6` Countries with stronger civil liberties grow richer because open discourse selects for efficient solutions over politically favored ones.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
+- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260403-CEC0` Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure.
+- `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
+- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260330-7BF5` Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
+- `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
 - `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
 - `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
 - `INS-260330-F158` The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
 - `INS-260324-C882` Twitter's board fired 4 CEOs in 10 years, creating a culture of chaos where execution was impossible — interested buyers (Google, Disney, Salesforce) all walked away over governance concerns deeper than price.
-- `INS-260403-CEC0` Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure.
-- `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
-- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
-- `INS-260330-7BF5` Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
-- `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
 - `INS-260323-4AB5` Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.
 - `INS-260330-88DE` The Indus Valley maintained identical brick ratios and drainage standards across 1500km without any evidence of kings or central government.

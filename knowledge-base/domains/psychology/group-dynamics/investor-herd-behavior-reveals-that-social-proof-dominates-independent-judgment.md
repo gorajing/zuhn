@@ -53,7 +53,7 @@ related:
   - INS-260402-4719
   - INS-260403-F447
   - INS-260403-47B7
-  - INS-260403-147C
+  - INS-260405-4423
 ---
 Graham observes that by far the biggest influence on investors' opinions is the opinion of other investors, with very few who simply decide for themselves. The most common question founders hear isn't about the team or product but 'who else is investing?' This is a striking example of social proof operating at the highest stakes — people deploying significant capital based primarily on others' willingness to do the same.
 

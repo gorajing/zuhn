@@ -3,6 +3,7 @@
 - `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260325-9C2F` When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-4793` Meta-analysis of 106 experiments shows human-AI systems average g = -0.23 vs best-of-either, meaning most teams are worse than using the best partner alone.
+- `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260329-EF14` Dynamic array append appears O(n) in worst case due to resizing, but amortized analysis shows it's O(1) because the expensive resizing happens so rarely that its cost spreads across all previous cheap appends.
 - `INS-260329-8181` Evaluate data structures by amortized cost across operation sequences, not just worst-case single operations.
 - `INS-260323-6761` Instead of humans manually finding cache sizes, tile dimensions, and vector widths, the compiler runs your code on the target hardware and caches the empirically fastest configuration.
@@ -13,7 +14,6 @@
 - `INS-260329-B922` Understanding pointer ownership, memory leaks from lost references, and explicit deallocation builds mental models for any resource lifecycle — connections, file handles, GPU memory, API rate limits.
 - `INS-260330-F5A1` Store the result of expensive computations and reuse them instead of recomputing from scratch.
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
-- `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
 - `INS-260325-9693` Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.
 - `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
@@ -24,10 +24,10 @@
 - `INS-260404-BE07` A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
 - `INS-260403-B7E3` Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260327-7581` Focus on doing the work well rather than achieving the result, and the result takes care of itself.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260327-9447` Most people have never been adults - they've learned to perform the social behaviors associated with adulthood while remaining emotionally and psychologically undeveloped.
 - `INS-260403-50B0` Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
@@ -39,7 +39,7 @@
 - `INS-260402-9B06` Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260325-75EA` A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
 - `INS-260327-12BE` The largest Oracle cluster in a company grinding on queries ran 1000x faster on one-tenth the hardware when modeled as a graph in Neo4j.
+- `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
 - `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.
 - `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
 - `INS-260323-9E30` Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.
-- `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.

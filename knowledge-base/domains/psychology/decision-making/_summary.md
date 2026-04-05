@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 98 insights
+> 99 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -99,4 +99,5 @@
 - `INS-260403-3548` [medium] Houdini refused surgery because accepting treatment contradicted his identity as someone who could overcome any physical challenge.
 - `INS-260330-F82A` [medium] Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260403-6602` [medium] Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
+- `INS-260405-7DD7` [medium] When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260403-7342` [medium] Visual strategic frameworks succeed because the brain processes visual information roughly 60,000 times faster than text, making pattern recognition in complex systems nearly instantaneous.

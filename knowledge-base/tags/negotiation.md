@@ -18,8 +18,6 @@
 - `INS-260329-8B55` Negotiate price and terms separately — agree on price first, then structure seller financing so you pay from the business's own cash flow.
 - `INS-260405-4871` Fewer SKUs means each supplier slot is scarce, flipping the power dynamic so suppliers adapt to Costco's needs rather than the reverse.
 - `INS-260405-D9C8` Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
-- `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
-- `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260403-5BAC` Costco stocks only ~4,000 items vs 140,000 at Walmart, making suppliers compete fiercely for limited shelf space.
 - `INS-260404-6BA2` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers aggressively lower prices to win placement.
@@ -30,10 +28,8 @@
 - `INS-260403-E981` Costco stocks only 4,000 items vs 140,000 at Walmart, making each slot so valuable that suppliers will reengineer products and cut prices to win it.
 - `INS-260404-72F5` Costco stocks only 4,000 SKUs versus Walmart's 140,000, turning scarcity of shelf space into immense supplier leverage.
 - `INS-260404-1843` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
-- `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
-- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
-- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
-- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
+- `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
+- `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
 - `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
@@ -44,6 +40,10 @@
 - `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
 - `INS-260322-6C4B` The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
 - `INS-260323-4C43` Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
+- `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
+- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
+- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
+- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260329-21AF` Lock in the price first, then negotiate favorable terms like seller financing and extended payment schedules as a separate conversation.
 - `INS-260329-2A5A` Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
 - `INS-260329-3D14` Treating negotiation as mutual value discovery rather than extraction creates better deals and preserves relationships.

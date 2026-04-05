@@ -8,6 +8,7 @@
 - `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
 - `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
 - `INS-260330-2154` When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.
+- `INS-260329-F84E` Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
 - `INS-260329-9157` Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
 - `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
 - `INS-260329-0CC5` Debug by progressively narrowing the problem space with print statements and breakpoints rather than guessing at fixes.
@@ -16,7 +17,6 @@
 - `INS-260320-4773` Run all backend microservices via PM2 so Claude can read individual service logs in real-time without manual copy-pasting.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
 - `INS-260329-02B3` String concatenation masquerading as addition teaches that computers do exactly what you say, not what you mean — the foundational debugging insight.
-- `INS-260329-F84E` Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260329-A218` Deliberately exposing learners to common errors builds debugging intuition that error-avoidance pedagogy cannot produce.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.

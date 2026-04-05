@@ -55,7 +55,6 @@
 - `INS-260403-DDDC` Codified pattern libraries lower the barrier to business model innovation by providing proven configurations to adapt rather than invent.
 - `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
-- `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
 - `INS-260404-0777` Mention your business model briefly to show you've thought about it, but spend your pitch time on the problem and product instead.
 - `INS-260404-32B5` Smart early-stage investors expect your business model to be wrong—spend pitch time on the problem and product instead.
@@ -114,11 +113,12 @@
 - `INS-260403-A172` Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260405-C22F` Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
 - `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
-- `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
-- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
+- `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
+- `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
+- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260404-0022` Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.
 - `INS-260403-DB22` Most companies have sophisticated tools for execution but primitive tools for innovation and strategy design.
 - `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.

@@ -48,7 +48,6 @@ stance: >-
   antibodies from the execution engine will kill new ventures unless the
   innovation leader has C-suite prestige and power
 related:
-  - INS-260403-F0DF
   - INS-260402-4605
   - INS-260404-6394
   - INS-260403-1B53

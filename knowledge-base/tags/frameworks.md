@@ -11,10 +11,10 @@
 - `INS-260330-202A` Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes.
 - `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
 - `INS-260330-72C2` Angular's enforced conventions (TypeScript required, module system, CLI generators) create consistency that matters more as team size grows, while React's flexibility becomes a liability at scale without strong internal conventions.
-- `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
-- `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
 - `INS-260403-DDDC` Codified pattern libraries lower the barrier to business model innovation by providing proven configurations to adapt rather than invent.
 - `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
+- `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
+- `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
 - `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
 - `INS-260403-5BAD` Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.
 - `INS-260403-1269` The best business tools are conceptually sound, simple, practical, visual, and have great UX — adoption depends on usability, not just correctness.

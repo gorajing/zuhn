@@ -47,10 +47,10 @@ stance: >-
   worthy of connection — not skill, not circumstance, not effort.
 related:
   - INS-260323-BBD3
-  - INS-260323-D934
   - INS-260327-3F64
+  - INS-260405-7DD7
   - INS-260325-5A93
-  - INS-260323-DA91
+  - INS-260323-D934
 evidence:
   - id: INS-260323-D934
     type: EXTENDS

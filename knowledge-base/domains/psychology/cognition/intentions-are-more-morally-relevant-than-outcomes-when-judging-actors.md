@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Simply counting casualties without weighing intentions produces morally
@@ -48,7 +48,6 @@ stance: >-
   The moral character of an actor is better revealed by their intentions and
   regret than by the raw body count they produce.
 related:
-  - INS-260329-03C1
   - INS-260330-6D86
   - INS-260330-ED37
   - INS-260330-6D13
