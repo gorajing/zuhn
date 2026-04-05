@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3668 insights across 35 topics
+> 3672 insights across 35 topics
 
 ## Topics
 
@@ -10,7 +10,7 @@
 | bootstrapping | 35 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
 | business-models | 229 | Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable. |
 | co-founders | 44 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
-| communication | 44 | Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch. |
+| communication | 46 | Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch. |
 | community-building | 2 | Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay. |
 | competitive-strategy | 542 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 37 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
@@ -19,7 +19,7 @@
 | execution | 224 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 312 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
 | founder-psychology | 57 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
-| fundraising | 304 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
+| fundraising | 306 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
 | growth | 69 | When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth. |
 | growth-marketing | 128 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
 | growth-strategy | 63 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |

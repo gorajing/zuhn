@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 44 insights
+> 46 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-47AC` [high] Investors hunt for raw talent, not polished surfaces—corporate cosplay and knowledge-faking conceal the very thing they're looking for.
@@ -11,6 +11,7 @@
 - `INS-260403-D984` [high] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 - `INS-260403-2A1D` [high] Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260404-84FE` [high] Plants evolved entire metabolic pathways just to clean up after RuBisCo's mistakes rather than replacing the enzyme itself.
+- `INS-260404-EDED` [high] Craft a single sticky phrase for your startup because after dozens of pitches, investors' recall — not comprehension — determines who gets follow-ups.
 - `INS-260404-8D37` [high] A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
 - `INS-260403-ED1E` [high] Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 - `INS-260403-FE37` [high] A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
@@ -28,6 +29,7 @@
 - `INS-260404-6C20` [high] The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
 - `INS-260404-616F` [high] Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-280B` [high] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
+- `INS-260404-09E8` [high] Tell stories about specific users with specific problems to prove demand isn't theoretical.
 - `INS-260404-CF2A` [high] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 - `INS-260404-817A` [high] Tell specific stories about real users and their problems rather than citing market sizes, because investors' primary fear is that no one actually wants what you built.
 - `INS-260404-24FB` [medium] Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.

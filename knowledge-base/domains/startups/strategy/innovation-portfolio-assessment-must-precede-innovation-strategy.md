@@ -48,9 +48,10 @@ stance: >-
   toward whatever they are already doing
 related:
   - INS-260403-6AB5
-  - INS-260403-EAE5
   - INS-260403-0372
+  - INS-260403-EAE5
   - INS-260404-0A17
+  - INS-260404-0777
   - INS-260404-EAB7
 ---
 Most companies default to incremental improvement of their existing business model without consciously choosing that allocation. An honest assessment of the current innovation portfolio — mapping each project on a spectrum from pure exploitation to pure exploration — reveals the actual strategy being executed, which often diverges dramatically from the stated one.

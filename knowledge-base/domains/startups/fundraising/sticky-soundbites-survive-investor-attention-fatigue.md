@@ -58,7 +58,7 @@ related:
   - INS-260403-B3A4
   - INS-260404-24FB
   - INS-260404-6EB8
-  - INS-260404-3713
+  - INS-260404-EDED
 ---
 Professional investors hear so many pitches that they all blur together. The first filter isn't quality judgment — it's simply which ones they remember at all. A descriptive phrase that sticks ('the x of y' pattern) ensures you survive this cut. Viaweb used 'the Microsoft Word of ecommerce' — immediately graspable, memorable, and positioning.
 

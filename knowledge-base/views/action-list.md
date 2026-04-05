@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3945 actionable insights
+Generated on 2026-04-05 | 3950 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1718,6 +1718,7 @@ Generated on 2026-04-05 | 3945 actionable insights
 - [INS-260404-7B68] Saying 'we're passionate' or 'our product is great' triggers audience skepticism; conviction must be shown, never stated.
 - [INS-260404-0461] Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-promotion, but they heavily weight behavioral confidence signals.
 - [INS-260404-405A] Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
+- [INS-260404-5017] When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2066,6 +2067,8 @@ Generated on 2026-04-05 | 3945 actionable insights
 - [INS-260404-96C6] A sticky descriptive phrase is a survival necessity in investor pitches because the first filter is simply being remembered.
 - [INS-260404-2B4C] Tell stories about specific users struggling with inadequate tools rather than citing market size numbers — investors care about proof of demand, not theoretical TAM.
 - [INS-260404-817A] Tell specific stories about real users and their problems rather than citing market sizes, because investors' primary fear is that no one actually wants what you built.
+- [INS-260404-EDED] Craft a single sticky phrase for your startup because after dozens of pitches, investors' recall — not comprehension — determines who gets follow-ups.
+- [INS-260404-09E8] Tell stories about specific users with specific problems to prove demand isn't theoretical.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2985,6 +2988,8 @@ Generated on 2026-04-05 | 3945 actionable insights
 - [INS-260404-1002] Founders should describe their startup as narrowly and concretely as possible rather than expanding to capture all future possibilities.
 - [INS-260404-5D8B] Don't detail your business model in early pitches — investors expect it to change and will remember a bad model more than a good product.
 - [INS-260404-896B] Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
+- [INS-260404-0777] Mention your business model briefly to show you've thought about it, but spend your pitch time on the problem and product instead.
+- [INS-260404-394A] Describe your product as a specific, graspable thing rather than an abstract vision to hold investor attention.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

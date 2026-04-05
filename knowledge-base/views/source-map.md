@@ -4,8 +4,8 @@ Generated on 2026-04-05 | 2421 sources
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
 | Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 339 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 283 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 265 | 2026-03-31 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 288 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 270 | 2026-03-31 |
 | How to Do Great Work | blog | 186 | 2026-03-31 |
 | February 2025 Startups Raising Capital | blog | 80 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |

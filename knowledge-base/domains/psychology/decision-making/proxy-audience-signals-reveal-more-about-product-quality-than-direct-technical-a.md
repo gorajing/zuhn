@@ -53,8 +53,8 @@ related:
   - INS-260402-B12D
   - INS-260404-0095
   - INS-260404-37F7
+  - INS-260404-5017
   - INS-260327-E41B
-  - INS-260404-EBB3
   - INS-260403-7F06
 ---
 Graham's 'wrong people like it' heuristic examines not just whether people use a technology, but which people and for what reasons. Java attracted suits who followed press coverage, enterprise programmers amazed by anything better than C++, and students chasing job prospects — all extrinsically motivated groups. Meanwhile, the programmers he most admired were indifferent to Java.

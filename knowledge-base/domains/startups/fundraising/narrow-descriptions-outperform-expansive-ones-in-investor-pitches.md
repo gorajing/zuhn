@@ -55,6 +55,7 @@ related:
   - INS-260403-21A8
   - INS-260403-2204
   - INS-260403-5A4F
+  - INS-260404-394A
 ---
 Paul Graham argues that founders resist narrow descriptions because they feel misleadingly limiting at the early stage. But the calculus-like insight is that as you broaden toward 'anything,' the semantic content of your description drops to zero. Investors discard vague sentences as boilerplate and grow impatient.
 

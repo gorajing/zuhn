@@ -52,13 +52,13 @@ related:
   - INS-260322-FCFC
   - INS-260327-D285
   - INS-260403-2E0F
-  - INS-260403-7E7C
-  - INS-260403-97F8
   - INS-260403-754F
   - INS-260403-F590
   - INS-260403-42F2
   - INS-260403-B5A5
   - INS-260403-B4B9
+  - INS-260404-3214
+  - INS-260403-054F
 ---
 The contrast between Walmart/Tesco and the music industry reveals a critical distinction. Walmart successfully added e-commerce as a new distribution channel to its existing business model — technology reinforced what already worked. The music industry, by contrast, was upended by digitalization and failed to find sustainable new business models around the same technological shift.
 

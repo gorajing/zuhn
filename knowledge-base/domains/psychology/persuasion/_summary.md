@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 82 insights
+> 83 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260404-1E11` [high] Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest that gradient through ATP synthase — the same principle underlies pricing arbitrage, information asymmetry, and attention funnels.
@@ -11,6 +11,7 @@
 - `INS-260404-405A` [high] Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
 - `INS-260404-37F7` [high] When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
 - `INS-260404-6388` [high] When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
+- `INS-260404-5017` [high] When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
 - `INS-260404-F161` [high] In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.
 - `INS-260404-E86B` [high] Under information asymmetry, audiences substitute the presenter's confidence for independent technical evaluation.
 - `INS-260404-EBB3` [high] When audiences can't evaluate your technical work, your own visible confidence becomes their strongest evidence of quality — but it must be shown, never stated.

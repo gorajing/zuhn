@@ -7,6 +7,7 @@
 - `INS-260403-2F86` Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
 - `INS-260404-37F7` When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
 - `INS-260404-6388` When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
+- `INS-260404-5017` When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
 - `INS-260404-EBB3` When audiences can't evaluate your technical work, your own visible confidence becomes their strongest evidence of quality — but it must be shown, never stated.
 - `INS-260404-523C` With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.
 - `INS-260404-E6EA` When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
