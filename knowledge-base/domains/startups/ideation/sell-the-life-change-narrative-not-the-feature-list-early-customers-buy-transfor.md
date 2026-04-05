@@ -49,11 +49,11 @@ resolutions:
     This is especially relevant for AI products where the technology sounds
     impressive but the workflow change is what actually matters to the buyer.
 related:
+  - INS-260404-E36F
   - INS-260322-A02C
   - INS-260326-291C
   - INS-260403-1DB7
   - INS-260403-74EA
-  - INS-260330-BEE7
   - INS-260328-3FA4
   - INS-260403-5C06
 stance: >-

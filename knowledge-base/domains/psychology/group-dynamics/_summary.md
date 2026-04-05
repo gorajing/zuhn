@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 59 insights
+> 60 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -44,6 +44,7 @@
 - `INS-260330-6D2E` [high] Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
 - `INS-260330-FB9C` [high] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
 - `INS-260403-DB0A` [high] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
+- `INS-260404-FDB2` [medium] Being an accidental moderate requires more courage than being an extremist because you face attacks from both sides with no group to sustain you.
 - `INS-260403-B9F4` [medium] Group settings amplify emotional reactions at the expense of intellectual processing, making audiences inherently less thoughtful than individual readers.
 - `INS-260403-E21C` [medium] Anonymous attribution rules produce more honest and valuable organizational learning than public case studies.
 - `INS-260403-7644` [medium] Organizations that win by exercising power gradually lose the ability to win by doing better work.

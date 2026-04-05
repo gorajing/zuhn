@@ -52,11 +52,11 @@ related:
   - INS-260327-7A5A
   - INS-260328-EBBC
   - INS-260329-E900
-  - INS-260329-DC86
   - INS-260330-15AE
   - INS-260403-B505
   - INS-260403-2F86
   - INS-260404-CFD5
+  - INS-260404-C1FF
 ---
 Graham identifies a communication paradox: when audiences lack technical background to evaluate substance, your own confidence becomes the primary evidence they use. But explicit claims ('we're passionate,' 'our product is great') get filtered as noise or worse, mark you as a bullshitter.
 

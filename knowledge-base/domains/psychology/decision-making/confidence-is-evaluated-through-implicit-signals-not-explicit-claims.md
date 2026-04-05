@@ -52,12 +52,12 @@ related:
   - PRI-260327-5635
   - INS-260329-4499
   - INS-260329-DC86
-  - INS-260329-78AE
   - INS-260330-15AE
   - INS-260330-90C3
   - INS-260403-DAB1
   - INS-260403-74CD
   - INS-260404-4F69
+  - INS-260403-22FE
 ---
 Graham distinguishes between showing and telling confidence. Saying 'we're passionate' is at best ignored and at worst marks you as a bullshitter. This maps to a broader pattern in persuasion: explicit claims about one's own qualities trigger adversarial evaluation, while the same qualities demonstrated implicitly bypass those filters.
 

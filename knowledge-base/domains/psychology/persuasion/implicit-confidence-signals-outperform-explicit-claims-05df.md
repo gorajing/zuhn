@@ -57,8 +57,8 @@ related:
   - INS-260403-1E82
   - INS-260403-74CD
   - INS-260403-48BF
-  - INS-260403-A8E8
   - INS-260403-E4C6
+  - INS-260404-0461
 ---
 When investors can't fully evaluate technical work due to time constraints and knowledge gaps, the founder's own confidence becomes the single biggest evidence signal. But this must be shown, not told. Saying 'we're passionate' gets you written off as a bullshitter; demonstrating mastery of the problem and genuine excitement about the solution communicates the same thing credibly.
 

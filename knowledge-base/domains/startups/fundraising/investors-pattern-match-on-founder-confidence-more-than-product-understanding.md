@@ -50,14 +50,13 @@ stance: >-
 related:
   - PRI-260320-5947
   - INS-260327-A9E8
-  - INS-260403-4337
   - INS-260403-C5C0
   - INS-260403-22FE
   - INS-260403-B08E
   - INS-260404-F161
+  - INS-260404-187C
   - INS-260404-5343
   - INS-260403-E4C6
-  - INS-260403-05DF
 ---
 Most investors at a Demo Day can't deeply evaluate the technical merit of what you've built — they lack both the background and the time. So they rely heavily on proxy signals, and founder confidence is the strongest one. But this must be shown, not told: saying 'we're passionate' or 'our product is great' gets ignored or marks you as a bullshitter.
 

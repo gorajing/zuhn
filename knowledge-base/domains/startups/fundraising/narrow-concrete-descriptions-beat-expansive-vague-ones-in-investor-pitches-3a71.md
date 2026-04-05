@@ -53,10 +53,10 @@ related:
   - INS-260329-6117
   - INS-260330-E403
   - INS-260403-21A8
+  - INS-260404-8258
   - INS-260403-A0C4
   - INS-260403-2204
   - INS-260403-F3FF
-  - INS-260403-5A4F
 ---
 Paul Graham observes a calculus-like dynamic in pitch descriptions: as you broaden toward describing everything your product could become, the actual information content shrinks to zero. Investors discard vague language like 'collaboratively leverage the value of information' as meaningless boilerplate.
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3950 actionable insights
+Generated on 2026-04-05 | 3954 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2990,6 +2990,9 @@ Generated on 2026-04-05 | 3950 actionable insights
 - [INS-260404-896B] Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 - [INS-260404-0777] Mention your business model briefly to show you've thought about it, but spend your pitch time on the problem and product instead.
 - [INS-260404-394A] Describe your product as a specific, graspable thing rather than an abstract vision to hold investor attention.
+- [INS-260404-E36F] Early-stage business models are almost certainly wrong, so time spent on them displaces discussion of the problem and product where founders actually have insight.
+- [INS-260404-187C] Explicit confidence claims get ignored or trigger bullshit detection, while implicit confidence through substance and demeanor is the primary signal investors use.
+- [INS-260404-8258] Specific narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -4126,6 +4129,7 @@ Generated on 2026-04-05 | 3950 actionable insights
 - [INS-260404-8050] Oxygen is a 'useless byproduct' of photosynthesis that became the foundation for all animal life — the most consequential side effect in biological history.
 - [INS-260404-3879] Investors' biggest early-stage fear is you built from theory not need—specific user stories and inadequate-tool workarounds are the strongest counter-evidence.
 - [INS-260404-A95D] Demonstrating what workarounds people currently use proves demand more convincingly than citing market size numbers.
+- [INS-260404-61DA] Showing what people currently do with bad tools proves demand more convincingly than any market size number.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

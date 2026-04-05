@@ -6,6 +6,7 @@
 - `INS-260330-141E` People systematically misrepresent their beliefs under social pressure, making public opinion appear more uniform than it actually is.
 - `INS-260402-0BFF` Having zero controversial private opinions is evidence of conformity, not correctness.
 - `INS-260327-C4AC` Ask someone to explain their strongest belief and watch it dissolve - most convictions are adopted from environment rather than derived from reasoning.
+- `INS-260404-FDB2` Being an accidental moderate requires more courage than being an extremist because you face attacks from both sides with no group to sustain you.
 - `INS-260402-4F0E` People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260402-FFCB` Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
 - `INS-260403-E9DD` Traditional education's emphasis on obedience and standardization produces wisdom at the expense of intelligence by suppressing the idiosyncratic interests that drive peak performance.

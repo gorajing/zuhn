@@ -49,13 +49,12 @@ stance: >-
   only reliable path to success.
 related:
   - INS-260323-9D6E
-  - INS-260329-903B
   - INS-260330-DE89
   - INS-260330-1FA8
   - PRI-260328-4313
   - INS-260327-8521
+  - INS-260329-903B
   - INS-260403-C355
-  - INS-260403-4730
   - INS-260403-47C0
 evidence:
   - id: INS-260323-9D6E

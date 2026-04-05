@@ -59,5 +59,6 @@ related:
   - INS-260325-AC52
   - INS-260330-15AE
   - PRI-260324-8EE6
+  - INS-260404-FDB2
 ---
 Harris and Murray identify what they call the 'Chomsky inheritance' — the framework that attributes all extremist violence to prior Western actions. Murray argues this is actually a profound form of anti-Westernism that paradoxically denies moral agency to non-Western actors: 'Nobody in the world can do something wrong and bad unless we have somehow pushed them to it.' He notes the irony that this framework, which Edward Said might have recognized as a form of orientalism, treats non-Western actors as having no independent will or ideology. Harris frames jihadism as an 'independent variable' — you can find death cult behavior both in populations that have been mistreated and those that haven't, and conversely populations treated far worse than Palestinians have never produced suicide bombers. The practical insight is that grievance-based causal models for extremism are not just morally confused but empirically wrong — they fail to explain the variance in how different populations respond to similar conditions. Ideology and culture are independent causal variables, not mere epiphenomena of material conditions.

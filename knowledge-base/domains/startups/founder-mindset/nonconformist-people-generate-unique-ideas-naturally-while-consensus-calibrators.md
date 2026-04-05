@@ -49,6 +49,7 @@ related:
   - INS-260403-74E5
   - INS-260403-B6FD
   - INS-260403-8E4D
+  - INS-260404-3959
 stance: >-
   People who are naturally quirky and nonconformist constantly generate strange
   ideas on their own, while those skilled at reading consensus find it ...

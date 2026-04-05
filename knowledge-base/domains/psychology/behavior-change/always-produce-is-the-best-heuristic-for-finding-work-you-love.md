@@ -49,10 +49,10 @@ stance: >-
   with reality and exposes self-deception.
 related:
   - INS-260403-E365
+  - INS-260404-BB34
   - INS-260403-449A
   - INS-260329-640C
   - INS-260403-2B63
-  - INS-260403-B9E5
 ---
 Graham's 'always produce' heuristic works on two levels simultaneously. First, it's a honesty test: if you claim to want to be a novelist but aren't writing pages of fiction (however bad), you're using the dream as an opiate rather than pursuing it. The gap between stated ambition and actual output reveals self-deception that introspection alone cannot.
 

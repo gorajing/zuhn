@@ -14,6 +14,7 @@
 - `INS-260403-E69C` Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260403-8CE6` Deep field immersion before launch uncovers requirements that demo iteration never reveals.
 - `INS-260403-2718` Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
+- `INS-260404-61DA` Showing what people currently do with bad tools proves demand more convincingly than any market size number.
 - `INS-260403-EA8C` Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
 - `INS-260403-EA2D` Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 - `INS-260329-DFD1` TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.

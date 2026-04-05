@@ -49,11 +49,10 @@ stance: >-
   than a comprehensive one because approaching a description of 'anything' makes
   information content approach zero.
 related:
-  - INS-260403-2204
-  - INS-260403-A0C4
-  - INS-260403-06E0
-  - INS-260403-21A8
   - INS-260403-D5F2
+  - INS-260403-21A8
+  - INS-260404-8258
+  - INS-260403-A0C4
   - INS-260403-B274
   - INS-260404-4573
   - INS-260404-167D

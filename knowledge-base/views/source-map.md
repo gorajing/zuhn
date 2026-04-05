@@ -4,7 +4,7 @@ Generated on 2026-04-05 | 2421 sources
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
 | Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 339 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 288 | 2026-03-31 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 293 | 2026-03-31 |
 | Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 270 | 2026-03-31 |
 | How to Do Great Work | blog | 186 | 2026-03-31 |
 | February 2025 Startups Raising Capital | blog | 80 | 2026-03-30 |
@@ -399,6 +399,7 @@ Generated on 2026-04-05 | 2421 sources
 | International financial anarchy | blog | 5 | 2026-03-30 |
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
 | Is the MVP Dead? Rethinking Lean Startup Strategies | blog | 5 | 2026-03-30 |
+| Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 5 | 2026-03-30 |
 | Java's Cover | blog | 5 | 2026-03-31 |
 | Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance | blog | 5 | 2026-03-30 |
 | Jessica Livingston | blog | 5 | 2026-03-31 |
@@ -1089,6 +1090,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
 | The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 4 | 2026-03-31 |
+| The Two Kinds of Moderate | blog | 4 | 2026-03-31 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
 | The Ultimate Go-To-Market Strategy Framework 🚀 | blog | 4 | 2026-03-30 |
 | The Venture Arrogance Score🧮, The Bay is back🏙️, The $100B Empire You’ve Never Heard Of🏛️ | blog | 4 | 2026-03-30 |
@@ -2271,7 +2273,6 @@ Generated on 2026-04-05 | 2421 sources
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
 | Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 0 | 2026-03-30 |
-| Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 0 | 2026-03-30 |
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
@@ -2359,7 +2360,6 @@ Generated on 2026-04-05 | 2421 sources
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |
 | The Trouble with the Segway | blog | 0 | 2026-03-31 |
-| The Two Kinds of Moderate | blog | 0 | 2026-03-31 |
 | The Ultimate Guide to Finding Investors for Your Startup 🚀 | blog | 0 | 2026-03-30 |
 | The Ultimate Investors List of Lists 🚀 | blog | 0 | 2026-03-30 |
 | The Ultimate Open-Source AI Agent Directory | blog | 0 | 2026-03-30 |

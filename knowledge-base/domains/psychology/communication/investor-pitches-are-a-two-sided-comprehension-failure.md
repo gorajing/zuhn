@@ -50,11 +50,11 @@ stance: >-
   communication mismatch between people bad at explaining and people bad at
   understanding.
 related:
+  - INS-260404-C0E6
   - INS-260403-13ED
   - INS-260403-19D8
   - INS-260327-9BA2
   - INS-260403-D7C4
-  - PRI-260403-0ABD
 ---
 Graham identifies a fundamental structural problem: the startup pitching environment systematically pairs technical founders who lack presentation experience with investors who lack technical depth. This isn't a failure of either side — it's an emergent property of the system. Even Google was turned down by investors who 'didn't get it.'
 

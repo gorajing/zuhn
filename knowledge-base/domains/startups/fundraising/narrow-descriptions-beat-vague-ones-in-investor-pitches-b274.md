@@ -48,10 +48,10 @@ stance: >-
   more investor interest than those who use broad, visionary language
 related:
   - INS-260404-4573
+  - INS-260404-8258
   - INS-260403-21A8
   - INS-260403-A0C4
   - INS-260403-06E0
-  - INS-260403-AF27
   - INS-260403-D430
   - INS-260403-B29D
   - INS-260403-5A4F
