@@ -65,6 +65,15 @@ evidence:
   - id: INS-260323-BF81
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-EE38
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-A5B8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-66D0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Unix philosophy of small programs that do one thing well, connected through pipes and redirects, predates modern microservices by decades but embodies the same principle: composability beats monolithism. In Linux, you can chain cat | sort | uniq to build a data pipeline from three tiny utilities that know nothing about each other.
 

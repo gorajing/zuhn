@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-851F
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-AC1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Knudsen effect demonstrates that when pore sizes are smaller than the mean free path of gas molecules, those molecules cannot freely travel and transfer heat through convection. Aerogel exploits this: its nanoscale silica skeleton creates pores so tiny that air molecules bounce off walls before they can carry energy across the material. This is why NASA uses aerogel on Mars rovers to protect electronics from extreme cold.
 

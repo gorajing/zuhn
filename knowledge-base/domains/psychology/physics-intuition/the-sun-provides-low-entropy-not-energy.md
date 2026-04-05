@@ -62,5 +62,8 @@ evidence:
   - id: INS-260405-64C5
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260404-596E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Most people believe Earth 'uses up' solar energy, but energy is conserved — Earth radiates back essentially the same amount it receives. The crucial asymmetry is in entropy: for every high-energy photon arriving from the sun, Earth emits roughly 20 lower-energy infrared photons. Same total energy, vastly more entropy. Everything that happens on Earth — photosynthesis, weather, animal metabolism, civilization — occurs in the process of converting fewer concentrated photons into many dispersed ones. This means life doesn't run on energy per se, but on the entropy gradient between concentrated sunlight and diffuse thermal radiation. Without a cold sink (space at 2.7K) to dump the high-entropy waste, even unlimited solar energy couldn't sustain life.

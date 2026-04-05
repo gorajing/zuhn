@@ -54,6 +54,10 @@ related:
   - INS-260330-3170
   - INS-260404-9C57
   - INS-260330-3819
+evidence:
+  - id: INS-260404-9C57
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The punchline of this puzzle is that conservation of energy constrains the two blocks' velocities to lie on an ellipse (which rescales to a circle) in phase space. Each collision corresponds to a reflection off a line in that space, and counting collisions becomes counting how many times a point bounces around a circle — naturally producing pi.
 

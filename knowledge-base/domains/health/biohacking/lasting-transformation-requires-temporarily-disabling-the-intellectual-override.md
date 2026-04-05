@@ -75,5 +75,8 @@ evidence:
   - id: INS-260330-C366
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-AAB7
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Two principles from health and psychology converge: psychedelics produce lasting transformation through a time-limited neuroplasticity window where the drug is the amplifier not the signal, and embodied engagement accesses what intellect cannot at the layer where thought dissolves but awareness persists. The synthesis: psychedelics work because they force embodied engagement by dissolving the conceptual-intellectual layer that normally blocks somatic processing. The neuroplasticity window is not a separate mechanism from embodied transformation — it is the biological substrate of the same phenomenon. This means the bottleneck to lasting change is not information or motivation (both intellectual) but the intellectual override system itself, which must be temporarily disabled for deeper neural rewiring to occur. The practical implication: any transformation modality (psychedelics, breathwork, movement practices, peak experiences) can be evaluated by how effectively it disables conceptual processing while maintaining awareness.

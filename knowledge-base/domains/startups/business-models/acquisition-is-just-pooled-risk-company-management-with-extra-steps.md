@@ -52,6 +52,10 @@ related:
   - INS-260402-8424
   - INS-260329-196A
   - INS-260327-3930
+evidence:
+  - id: INS-260329-196A
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Paul Graham constructs a thought experiment: if you could hire a management company to run your business, pool revenues with other companies for risk diversification, and trade your equity for shares in the pool — that would be ideal. He then reveals this is exactly what a public company acquisition does. The acquiring company manages operations, and its stock diversifies your risk across all its holdings.
 

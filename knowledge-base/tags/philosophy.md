@@ -13,12 +13,12 @@
 - `INS-260405-DB32` You are accountable for acting from your values, even if you didn't choose those values from scratch.
 - `INS-260402-26B0` Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
+- `INS-260330-B08E` Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260325-95EB` Cherry-picking from Stoicism, Epicureanism, and Buddhism feels open-minded but produces a framework that contradicts itself at every genuine decision point.
 - `INS-260325-E78D` Claiming you do not need a philosophy of life IS a philosophy of life — an unexamined one that probably serves you worse than a deliberate one.
+- `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260405-C3B0` The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
 - `INS-260405-4C63` Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
-- `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
-- `INS-260330-B08E` Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
 - `INS-260325-3A04` Unlike temporal causation (dominoes that keep falling after the first is removed), hierarchical causation requires every link to borrow causal power from something more fundamental RIGHT NOW — implying a necessary sustaining foundation.

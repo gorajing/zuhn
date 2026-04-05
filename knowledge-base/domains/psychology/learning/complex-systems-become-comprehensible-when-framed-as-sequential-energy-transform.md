@@ -59,6 +59,9 @@ evidence:
   - id: INS-260330-30FB
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-1084
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The video makes photosynthesis comprehensible by framing the entire process as an energy narrative: photon excites electron → electron loses energy through transport chain → energy charges thylakoid battery → battery drives ATP synthase → ATP/NADPH power Calvin Cycle → carbon gets fixed into G3P. Each step is a clear energy transformation with a 'before' and 'after' state.
 

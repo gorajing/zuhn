@@ -57,6 +57,10 @@ related:
   - INS-260403-8125
   - INS-260403-E374
   - INS-260330-3C3C
+evidence:
+  - id: INS-260330-6E5F
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane charges like a battery by pumping protons to one side, creating a concentration gradient. The only escape route is through ATP synthase, which harnesses that flow to produce ATP. The energy was always there in the gradient — the enzyme just provides the constrained channel.
 

@@ -52,5 +52,9 @@ related:
   - INS-260403-E748
   - INS-260325-3FD3
   - INS-260325-11E0
+evidence:
+  - id: INS-260403-E748
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The legs contain the longest nerves and most distant blood vessels from the heart. Peripheral neuropathy (numbness, tingling, burning in feet) is often the first sign of diabetes because high blood sugar damages the most distant, oxygen-deprived tissues first. Leg muscle loss (sarcopenia) after 50 is one of the strongest predictors of mortality. Weak legs predict falls, which are a leading cause of death in elderly. The fix: walking and resistance training for legs specifically, low-carb diet to address insulin resistance, vitamin B1 for nerve health, and magnesium for muscle function. Leg strength should be monitored as a vital sign after 50.

@@ -46,5 +46,21 @@ related:
   - INS-260325-5F3C
   - INS-260330-8898
   - PRI-260323-A3A3
+evidence:
+  - id: INS-260330-E0A7
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-B6CD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-518E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260325-5F3C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-8898
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Ben-Shahar reframes the conventional narrative about stress as a health threat. The problem is not stress intensity but recovery absence — more than half of US employees do not use their vacation time, and nearly half who do remain tethered to work. This mirrors the muscle growth analogy: training without rest does not produce strength, it produces injury. The insight has direct architectural implications for work design. Rather than reducing stress (which often means reducing ambition), the lever is protecting recovery cycles with the same seriousness as protecting work time. This applies at every scale: daily (sleep), weekly (days off), and annually (genuine vacation).

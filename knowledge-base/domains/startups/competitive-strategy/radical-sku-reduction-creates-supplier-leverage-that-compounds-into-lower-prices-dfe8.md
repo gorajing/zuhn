@@ -60,6 +60,10 @@ related:
   - INS-260327-8389
   - INS-260329-BB8F
   - INS-260329-3DD7
+evidence:
+  - id: INS-260322-0AA6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 While Walmart offers 140,000 SKUs and typical supermarkets 30,000, Costco stocks only about 4,000. This apparent limitation is actually a compounding advantage: when a supplier knows Costco will be their only channel to 94 million affluent members, they'll lower prices, customize packaging, and even reengineer products (as with the cashew container redesign that saved 24,000 pallets annually).
 

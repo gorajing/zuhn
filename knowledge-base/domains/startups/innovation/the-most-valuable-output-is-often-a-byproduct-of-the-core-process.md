@@ -53,6 +53,13 @@ related:
   - INS-260404-0FEB
   - INS-260405-C342
   - INS-260404-E9F3
+evidence:
+  - id: INS-260330-B061
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-AC1D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis splits water not because plants need oxygen, but because chlorophyll desperately needs a replacement electron after losing one to the transport chain. Oxygen is literally discarded waste — yet it enabled the entire animal kingdom and transformed Earth's atmosphere. The most consequential output of the process was never the point.
 

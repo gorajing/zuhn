@@ -78,5 +78,8 @@ evidence:
   - id: INS-260329-882A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-77B4
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 The creator ranks direct outreach S-tier based on personal experience launching his career through cold emails in 2012-2013 — sending music to every big DJ he could find, dedicating entire days to outreach. His key principles: (1) It's 100% accessible, free, and results scale with effort, (2) Remixes get more attention than originals (easier for a DJ to click on something they might play), (3) Meeting artists in person at shows and following up via email dramatically increases response rates, (4) Your career stays in your own hands rather than depending on gatekeepers. The main con is extreme oversaturation — everyone does this, so you're competing for attention. But the feeling of controlling your own destiny outweighs the rejection rate. He cites advice from Cazzette: 'you just have to be relentless with your outreach.'

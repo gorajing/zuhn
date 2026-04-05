@@ -65,6 +65,9 @@ evidence:
   - id: INS-260403-20D6
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260322-9436
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Founders resist concise descriptions because early-stage startups have unlimited potential directions. But as your description approaches 'could be anything,' its information content approaches zero. Investors discard vague statements like 'collaboratively leverage the value of information' as boilerplate and grow impatient waiting for substance.
 

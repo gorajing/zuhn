@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-14B1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-1B0D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 A counterintuitive finding from Meta's codec avatar development: photorealism that feels authentic comes from preserving flaws, not eliminating them. Freckles, skin color variations, wrinkles, and facial asymmetry are what make a digital representation feel like a real person rather than a mannequin.
 

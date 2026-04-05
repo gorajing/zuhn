@@ -72,6 +72,9 @@ evidence:
   - id: INS-260330-9FAA
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-AC2C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane is 'charged like a battery' by pumping hydrogen ions to one side, creating a concentration gradient. When protons flow back through ATP synthase, that stored potential converts to usable energy (ATP). The membrane's role is maintaining the differential — without it, equilibrium destroys the energy store.
 

@@ -55,6 +55,13 @@ related:
   - INS-260330-3C3C
   - INS-260404-46AA
   - INS-260330-B38B
+evidence:
+  - id: INS-260330-52F6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-24BA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The thylakoid membrane acts as a battery by maintaining a proton concentration gradient — high inside, low outside. When protons flow back through ATP synthase to equalize, that flow does useful work (making ATP). The energy isn't in the protons themselves but in the imbalance between the two sides.
 

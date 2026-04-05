@@ -60,6 +60,10 @@ related:
   - INS-260330-BFA2
   - INS-260330-CC30
   - INS-260330-54ED
+evidence:
+  - id: INS-260330-CC30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, is notoriously inefficient — it confuses oxygen for CO2 roughly half the time. Yet it became the most abundant protein on Earth (~40 billion tons) because the first organisms using it simply made enormous quantities to overcome its deficiencies. Once the strategy achieved planetary scale, no alternative could displace it.
 

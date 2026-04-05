@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-9D50
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260320-0F7C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham notes that he couldn't remember which books or experiences had originally convinced him that 'a perfect formulation of a problem is already half its solution.' He had the belief, he had conviction in the belief, but the causal chain was opaque. This is not unusual — it is the normal epistemic condition. Mental models are compiled from thousands of inputs and the compilation discards the source map.
 

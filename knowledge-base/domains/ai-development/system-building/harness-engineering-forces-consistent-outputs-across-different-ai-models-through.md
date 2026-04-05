@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-72C2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-59F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 DIO's approach demonstrates that model rankings are volatile (Opus 4.0, GPT 5.3 trade top positions constantly), but since we're users rather than creators of models, the winning strategy is building constraints that make any model produce the same result. Their harness engineering technique includes: meeting logs that capture divergent client requirements, CPS (Context-Problem-Solution) documents that synchronize shared understanding, architectural specs at the code level, and linting rules that force a single option when frameworks offer multiple.
 

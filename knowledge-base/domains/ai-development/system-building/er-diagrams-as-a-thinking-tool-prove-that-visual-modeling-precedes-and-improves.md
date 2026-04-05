@@ -70,6 +70,12 @@ evidence:
   - id: INS-260329-48FD
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-0A7A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-D711
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The tutorial culminates in ER diagram design followed by conversion to actual SQL schemas. This ordering is deliberate: you draw boxes for entities and lines for relationships before writing a single CREATE TABLE statement. The visual medium forces you to see the whole system simultaneously — something impossible when writing SQL linearly.
 

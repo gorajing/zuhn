@@ -50,5 +50,9 @@ related:
   - PRI-260403-57EC
   - INS-260405-8808
   - INS-260403-215E
+evidence:
+  - id: INS-260405-8808
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 When a startup first raises money, it's a blank slate with low burn and modest investor expectations. By the time it needs more money, three things have changed simultaneously: expenses are higher (more people, more infrastructure), investors now expect evidence of traction rather than just potential, and the mere act of needing more money after having raised once creates a 'failure until proven otherwise' framing. Founders who raised a seed round relatively easily assume follow-on will be similarly achievable, but these three forces compound to make it a fundamentally different challenge. This is why YC advises treating every round as your last — the psychological shift from 'we'll raise more' to 'this is all we get' changes every operational decision.

@@ -77,6 +77,9 @@ evidence:
   - id: INS-260327-088E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-9A69
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Major Michelle Curran (Mace) revealed that G-tolerance is not an innate gift but an acquired adaptation. The Thunderbirds train for 4 months over winter, flying twice a day, progressively building their bodies' ability to sustain 9G turns while maintaining cognitive function — talking on radio, hitting precise parameters, flying 200 feet above ground at nearly 90 degrees of bank. Critically, this tolerance decays: if Mace hasn't flown for a few weeks, pulling G's becomes noticeably harder.
 

@@ -51,6 +51,10 @@ related:
   - INS-260329-882A
   - INS-260403-50F1
   - INS-260323-3436
+evidence:
+  - id: INS-260323-3436
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham describes an elegant inversion: the same habits that enabled procrastination become productive when distractions are removed. You're accustomed to sitting at your computer for hours—that behavioral momentum doesn't disappear when the internet is gone. Instead, faced with a machine that can only do work, you think 'I can't just sit here' and start working.
 

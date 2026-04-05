@@ -75,6 +75,12 @@ evidence:
   - id: INS-260329-6117
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-2AA1
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-DDEB
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Wilkenfeld's philosophy is to stand 'on the edge of the cliff' during every performance -- playing at the boundary of the unknown rather than retreating to safe, rehearsed patterns. She argues that playing safe turns you into 'a clown showing skills you studied in your bedroom' rather than creating genuine real-time expression.
 

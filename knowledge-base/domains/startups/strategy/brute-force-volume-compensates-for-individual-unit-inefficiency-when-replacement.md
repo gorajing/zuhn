@@ -58,6 +58,10 @@ related:
   - INS-260403-05D8
   - INS-260404-B20E
   - INS-260404-EC33
+evidence:
+  - id: INS-260330-7B09
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 When RuBisCo proved error-prone in an oxygen-rich atmosphere, plants didn't optimize the enzyme — they flooded cells with it. At any given moment, an estimated 40 billion tons of RuBisCo exist on Earth, making it likely the most abundant protein on the planet. The strategy works: despite a roughly 50% error rate with oxygen, sheer volume ensures enough successful carbon fixation reactions occur.
 

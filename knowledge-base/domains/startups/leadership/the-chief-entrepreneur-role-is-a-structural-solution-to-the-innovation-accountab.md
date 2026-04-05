@@ -60,6 +60,10 @@ related:
   - INS-260323-7F3E
   - INS-260403-323A
   - INS-260326-97C9
+evidence:
+  - id: INS-260326-97C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The standard organizational structure of large companies is built for executing known business models efficiently, not for searching for new ones. When innovation is assigned to existing executives, it competes for attention with operational priorities and almost always loses. The result is innovation theater: committees, labs, and hackathons that produce little durable learning.
 

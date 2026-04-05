@@ -65,6 +65,12 @@ evidence:
   - id: INS-260330-2C71
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-596E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-B6E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Krebs Cycle's primary output is not ATP directly — it's the charging of electron carrier molecules NAD+ and FAD into their energy-rich forms NADH and FADH2. Each glucose molecule produces 10 NADH (worth ~3 ATP each) and 2 FADH2 (worth ~2 ATP each) that feed the electron transport chain. These carriers are derived from B vitamins (niacin and riboflavin), which explains their presence in energy supplements.
 

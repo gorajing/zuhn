@@ -83,6 +83,12 @@ evidence:
   - id: INS-260330-A25A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-226F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-AF08
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 API evolution requires maintaining backward compatibility — changes should never break existing clients. For REST APIs, the standard approach is URL-based versioning (e.g., /api/v1/products continues serving old clients while /api/v2/products serves new ones). For GraphQL, backward compatibility is achieved by adding new fields without removing old ones, since clients explicitly request only the fields they need.
 

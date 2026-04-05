@@ -81,6 +81,9 @@ evidence:
   - id: INS-260330-C456
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-869D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane accumulates protons on one side through water-splitting and active pumping via the Cytochrome Complex. This concentration gradient — not any single chemical bond — is what stores the energy. Protons then flow through ATP Synthase driven by their desire to equalize, and that flow powers the attachment of inorganic phosphate to ADP, creating ATP.
 

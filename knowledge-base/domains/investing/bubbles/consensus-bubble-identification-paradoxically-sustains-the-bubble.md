@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-C1F6
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-A172
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Market history shows that true bubble pops come from unanticipated risks, not widely known ones. When 'AI bubble' becomes consensus, sophisticated investors face a choice: follow the crowd (and potentially miss a genuine technological revolution) or recognize that universal bubble awareness is itself a form of insurance against the worst outcomes.
 

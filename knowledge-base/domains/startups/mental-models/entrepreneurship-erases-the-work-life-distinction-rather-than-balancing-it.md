@@ -51,6 +51,10 @@ related:
   - INS-260329-62E1
   - INS-260405-874D
   - INS-260404-D547
+evidence:
+  - id: INS-260325-11E9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The conventional framing of work-life balance assumes two separable domains that need scheduling. For entrepreneurs, this framing is structurally wrong: you are the business, the product, and the entity — there's nothing to turn off. The tradeoff is that you lose the ability to clock out, but gain the experience of deep motivation that makes work feel like play.
 

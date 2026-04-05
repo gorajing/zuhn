@@ -57,5 +57,9 @@ stance: >-
   The most valuable creative environment is not one that's uniformly encouraging
   but one populated by people who can distinguish genuine potential from actual
   mediocrity
+evidence:
+  - id: INS-260325-1585
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Simply surrounding yourself with cheerful supporters backfires because you learn to discount unconditional encouragement. The real value comes from peers with calibrated judgment—people who can distinguish a genuinely promising but ugly early version from actual mediocrity. The best source of such peers is people working on similarly ambitious projects of their own, which explains why university departments and research labs are so effective as creative environments. These colleagues naturally coalesce given proximity, but actively seeking them out dramatically accelerates the process. This insight reframes network-building: the goal is not to find supporters but to find people whose judgment you can trust precisely because they won't support everything.

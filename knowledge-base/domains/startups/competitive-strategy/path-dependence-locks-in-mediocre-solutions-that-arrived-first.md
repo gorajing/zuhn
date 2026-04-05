@@ -62,6 +62,13 @@ related:
   - INS-260330-11EB
   - INS-260330-6ECA
   - INS-260403-F088
+evidence:
+  - id: INS-260330-E218
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-EACA
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Plants produce roughly 40 billion tons of RuBisCo at any given time — an enzyme that fails at its job up to half the time by grabbing oxygen instead of CO2. Yet every plant on Earth depends on it because early organisms committed to the RuBisCo strategy before atmospheric oxygen made it problematic. By the time the environment changed, the entire metabolic architecture was built around this enzyme, making replacement impossible.
 

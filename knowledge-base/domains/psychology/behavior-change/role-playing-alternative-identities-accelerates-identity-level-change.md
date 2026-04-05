@@ -56,6 +56,10 @@ related:
   - INS-260323-1930
   - INS-260325-BA76
   - INS-260326-24E6
+evidence:
+  - id: INS-260323-2627
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Van der Kolk's 'Shakespeare in the Courts' program assigns juvenile delinquents Shakespearean roles, and the results are striking. Playing a king or warrior gives participants a felt bodily experience of dignity, power, and agency — states their trauma history may have never allowed them to access.
 

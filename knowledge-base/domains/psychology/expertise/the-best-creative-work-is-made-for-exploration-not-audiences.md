@@ -50,6 +50,10 @@ related:
   - INS-260327-37C8
   - INS-260403-B462
   - INS-260403-C55B
+evidence:
+  - id: INS-260321-6D01
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that much of the best creative work wasn't made for audiences but as a way of exploring the world. Leonardo's drawings, made as studies rather than finished art, can hold their own with any artwork ever made. This suggests a counterintuitive principle: optimizing for an audience actually constrains output quality, while optimizing for personal understanding produces work of deeper value.
 

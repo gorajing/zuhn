@@ -9,11 +9,11 @@
 - `INS-260403-9861` Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
 - `INS-260404-9AEC` Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
 - `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
-- `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
+- `INS-260329-A90C` Inversion — defining what to avoid — is more actionable than defining what to pursue because threat-detection is neurologically stronger than reward-seeking.
 - `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
 - `INS-260329-28A6` You don't need to 'become' a certain person before acting — identity is just the trailing indicator of repeated behavior.
+- `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
 - `INS-260329-613F` Reread great books until you can teach them rather than consuming many books superficially.
-- `INS-260329-A90C` Inversion — defining what to avoid — is more actionable than defining what to pursue because threat-detection is neurologically stronger than reward-seeking.
 - `INS-260329-D3F6` Stop-doing lists require less activation energy than start-doing lists, making them more effective for rapid change.
 - `INS-260329-CA4F` Avoidance-framed habits stick better than aspiration-framed habits because they tap into evolutionarily older threat-detection circuits.
 - `INS-260329-3ED9` Poor people flip the gratification equation: pleasure now, pain later — then are surprised when 'later' arrives as today.

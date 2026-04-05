@@ -55,6 +55,9 @@ evidence:
   - id: INS-260321-CBD2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-358D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end-user applications succeed because all applications need the infrastructure.
 

@@ -2,8 +2,6 @@
 
 - `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260320-F78E` Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
-- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
-- `INS-260322-7A32` Finishing complete songs develops all production muscles simultaneously, while making loops only trains one.
 - `INS-260403-9DE0` If you can get better at something through practice, objective quality must exist in that domain.
 - `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
 - `INS-260329-C66E` Passion is a byproduct of getting good at something, not the prerequisite for starting.
@@ -19,4 +17,6 @@
 - `INS-260323-E3FD` The 10,000-hour rule was misunderstood as 'practice creates excellence' — Gladwell himself clarifies it means practice is necessary but insufficient without innate talent, which is the hardware that skill (software) runs on.
 - `INS-260403-C3A3` Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260325-9F12` Gawande tracked his surgical complications for a decade, saw steady improvement, then hit a plateau at year 10-12 — a former professor observing him found 20 minutes of feedback after a single operation he thought went perfectly.
+- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
+- `INS-260322-7A32` Finishing complete songs develops all production muscles simultaneously, while making loops only trains one.
 - `INS-260405-A30D` Five consecutive days of immersive practice with a focused cohort produces qualitatively different skill development than the same hours distributed over months.

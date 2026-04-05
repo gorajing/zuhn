@@ -60,6 +60,10 @@ related:
   - INS-260404-2839
   - INS-260405-7B7C
   - INS-260405-C0AF
+evidence:
+  - id: INS-260405-C0AF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The narrative of Amazon single-handedly destroying retail is convenient but misleading. Sears tried to do everything and did it all poorly. Toys-R-Us dismissed the internet. J.C. Penney lost touch with its customers. Meanwhile, companies like Costco, Aldi, Dollar General, and Ross thrived during the same period by executing distinctive strategies well.
 

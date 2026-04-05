@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-4EC0
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-C497
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 When muscles exhaust their oxygen supply during intense exercise, cells don't simply stop producing energy. They switch to anaerobic fermentation, which produces only 2 ATP per glucose molecule compared to 38 with full aerobic respiration — a 95% efficiency loss. The tradeoff is lactic acid buildup, which causes muscle soreness and fatigue.
 

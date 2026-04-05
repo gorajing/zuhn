@@ -51,5 +51,15 @@ related:
   - INS-260403-383F
   - INS-260403-910E
   - INS-260405-3403
+evidence:
+  - id: INS-260329-4605
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260326-6B98
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
+  - id: INS-260326-6B99
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The assumption that leadership can identify which innovation projects will succeed is contradicted by the behavior of the most sophisticated investors in the world. VCs—whose entire job is evaluating early-stage ideas—explicitly build portfolios because they know they cannot reliably pick winners. If professional investors with deep market data can't do it, corporate leaders relying on presentations certainly can't. The correct model is to make many small early bets, treat each as a hypothesis test, and increase investment only as evidence accumulates. This turns uncertainty from a liability into a manageable input.

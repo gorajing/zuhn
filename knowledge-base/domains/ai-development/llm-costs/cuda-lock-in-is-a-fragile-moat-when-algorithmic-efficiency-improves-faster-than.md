@@ -60,6 +60,10 @@ related:
   - INS-260323-47D8
   - INS-260322-3616
   - INS-260321-8C35
+evidence:
+  - id: INS-260322-144E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Nvidia has maintained near-monopoly status in AI training through a combination of superior Linux drivers, the CUDA ecosystem, and infrastructure for connecting GPUs at scale. This created a classic platform lock-in: all major ML frameworks are optimized for CUDA, making switching costs prohibitive even when alternatives exist.
 

@@ -84,6 +84,9 @@ evidence:
   - id: INS-260403-47C0
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-9FD9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Altman outlines a concrete progression for how AI amplifies individual capability: current chatbots (not very good) → personal chief of staff (next phase) → a team of 20-50 expert collaborators → a company of 10,000 domain experts working together for each person. He pairs this with the idea that abundant intelligence plus abundant energy are the two forces that will reshape the world.
 

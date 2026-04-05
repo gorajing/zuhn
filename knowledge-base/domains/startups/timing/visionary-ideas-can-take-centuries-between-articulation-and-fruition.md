@@ -82,5 +82,8 @@ evidence:
   - id: INS-260327-538D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-A22E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Francis Bacon articulated the case for empirical science and systematic invention around 1620 in 'Novum Organum.' He was absolutely right — but his prediction took 200 years to fully materialize in the Industrial Revolution. This massive gap between vision and realization is a recurring pattern in innovation. The printing press existed for decades before its transformative effects on society became clear. The internet was invented in the 1960s but did not transform commerce until the late 1990s. For founders, the implication is that being right about a trend and being right about timing are completely different skills. A visionary idea that is 20 years early will fail just as surely as one that is wrong.

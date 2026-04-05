@@ -57,6 +57,13 @@ related:
   - INS-260330-B061
   - INS-260330-57E6
   - INS-260403-B4F1
+evidence:
+  - id: INS-260330-85AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-B4F1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Photosystem II performs what the video calls one of the most amazing reactions in biology: splitting the ultra-stable H2O molecule to steal a single electron, releasing hydrogen ions and oxygen as byproducts. This reaction — happening continuously in every photosynthetic organism — is the sole source of atmospheric oxygen that powers all aerobic respiration.
 

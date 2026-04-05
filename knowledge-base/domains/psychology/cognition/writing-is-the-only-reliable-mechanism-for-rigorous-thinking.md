@@ -52,6 +52,10 @@ related:
   - INS-260402-A693
   - INS-260403-ABB7
   - INS-260405-86BB
+evidence:
+  - id: INS-260323-043E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham argues — citing Leslie Lamport — that there is a class of thinking that can only be done through writing. The act of putting ideas into language forces precision, exposes gaps, and prevents the mind from glossing over inconsistencies it would otherwise paper over. Speaking, planning in your head, or even typing bullet points doesn't impose the same constraint.
 

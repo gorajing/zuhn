@@ -59,6 +59,9 @@ evidence:
   - id: INS-260330-70A8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-A183
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Modern computing separates program (software) from material (hardware). Gershenfeld argues this is a fundamental error that biology avoided: DNA is simultaneously the description and part of the material. The ribosome reads instructions that are physically part of the system it builds.
 

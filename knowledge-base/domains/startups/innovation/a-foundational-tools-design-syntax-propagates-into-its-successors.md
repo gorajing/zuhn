@@ -59,6 +59,13 @@ related:
   - INS-260329-7B1D
   - INS-260323-042C
   - INS-260403-F100
+evidence:
+  - id: INS-260323-042C
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260405-131B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 C was created in 1972. Its curly brace blocks, semicolons, pointer notation, and function structure were engineering choices made for Unix development. Yet Java in 1995, JavaScript in 1995, PHP in 1994, and many others adopted C's surface syntax with minimal deviation. The pattern was so established that departing from it felt exotic.
 

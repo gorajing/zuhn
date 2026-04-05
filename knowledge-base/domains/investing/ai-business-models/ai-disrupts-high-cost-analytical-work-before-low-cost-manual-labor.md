@@ -65,6 +65,9 @@ evidence:
   - id: INS-260403-C355
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-C1F5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The assumption that AI would replace blue-collar work first has been inverted. The most expensive analytical work in businesses - strategy, consulting, financial analysis - is actually more structured and automatable than physical tasks like plumbing or nursing. AI excels at pattern recognition across large datasets, report generation, and scenario modeling - exactly what consultants and executives do.
 

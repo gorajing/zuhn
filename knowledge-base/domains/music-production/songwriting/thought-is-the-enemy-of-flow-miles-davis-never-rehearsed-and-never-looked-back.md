@@ -69,6 +69,12 @@ evidence:
   - id: INS-260402-A693
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260405-678B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-0479
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Rick Beato recounts Ron Carter's description of playing with Miles Davis: they never rehearsed, Miles would put charts on the stand and they'd just roll. Carter didn't even know when they were being recorded live — he'd spot a microphone in his bass amp, then months later discover a record had come out. Miles never wanted to hear old recordings; he always moved forward.
 

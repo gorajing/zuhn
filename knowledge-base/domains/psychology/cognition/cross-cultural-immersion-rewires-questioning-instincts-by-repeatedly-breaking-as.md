@@ -64,6 +64,15 @@ evidence:
   - id: INS-260323-584D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-EAB7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-4A4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-8D69
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Gregersen's 30-year research journey began with a personal observation: living and working in Finland, England, France, the UAE, and the US taught him that assuming knowledge in unfamiliar contexts leads to grave misunderstandings. Each cultural context broke his existing mental models, forcing him into a questioning posture.
 

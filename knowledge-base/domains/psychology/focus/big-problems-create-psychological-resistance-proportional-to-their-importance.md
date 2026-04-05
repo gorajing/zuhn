@@ -57,6 +57,10 @@ related:
   - INS-260330-1E5E
   - INS-260330-A3AF
   - INS-260403-7F97
+evidence:
+  - id: INS-260327-2D68
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham identifies that beyond delayed gratification and fear of wasting time, big problems produce something closer to physical pain—'like having a vacuum cleaner hooked up to your imagination.' Your initial ideas get sucked out immediately, and the void is terrifying. This is why even people who enjoy their work find it easier to tackle small problems over big ones.
 

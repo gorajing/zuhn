@@ -51,5 +51,9 @@ related:
   - INS-260403-88AF
   - INS-260403-B1F2
   - INS-260325-55D8
+evidence:
+  - id: INS-260327-B93E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Founders naturally gravitate toward testing comfortable hypotheses — ones that are easy to measure or likely to validate. But this creates a false sense of progress while the real risks remain unexamined. The highest-leverage move is to identify the assumptions that, if wrong, would kill the business entirely — then design experiments specifically to stress-test those assumptions first. This is emotionally harder because it maximizes the chance of early bad news, but it minimizes wasted time and capital. A business that survives its hardest tests first has earned its right to invest in refinement.

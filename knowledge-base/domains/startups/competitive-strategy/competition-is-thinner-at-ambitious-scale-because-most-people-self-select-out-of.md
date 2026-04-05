@@ -62,6 +62,9 @@ evidence:
   - id: INS-260329-93AE
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-FD88
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Hormozi cites Stephen Schwarzman (Blackstone founder): running a highly successful local restaurant may require 80-hour weeks managing staff, finances, and operations — roughly the same effort profile as building a billion-dollar company. If the suffering and effort are comparable, the rational choice is to aim higher where competition is paradoxically thinner.
 

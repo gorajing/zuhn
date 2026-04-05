@@ -58,6 +58,37 @@ related:
   - INS-260403-6129
   - INS-260403-FC01
   - INS-260403-2918
+evidence:
+  - id: INS-260403-2918
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-6E61
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-07B1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-C456
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-5C36
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-09F8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-F671
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-4B45
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-FC01
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260330-545E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, it runs photon energy through a multi-step electron transport chain: PSII captures the excited electron, passes it to the Cytochrome Complex (which uses some energy to pump protons), then to PSI for re-energization, ultimately producing ATP and NADPH as intermediate energy carriers. Only then does the Calvin Cycle use those carriers to build sugar.
 

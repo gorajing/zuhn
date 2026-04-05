@@ -63,5 +63,8 @@ evidence:
   - id: INS-260329-91DD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-30BF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Dynamic arrays have O(n) worst-case for insertion (when resizing), but O(1) amortized because resizes are exponentially rare. Hash tables with open addressing show similar patterns — individual operations can be expensive during rehashing, but the cost spreads across all operations. This distinction matters enormously in practice: choosing a data structure based solely on worst-case complexity can lead to over-engineering (e.g., avoiding dynamic arrays in favor of linked lists for O(1) insertion, when amortized performance is identical and cache locality makes arrays faster in practice). The lesson extends beyond data structures — evaluating any system component by its worst-case behavior without considering frequency leads to suboptimal decisions.

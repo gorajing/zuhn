@@ -60,5 +60,8 @@ evidence:
   - id: INS-260330-0B4A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-8B89
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Eggs differ from meat fundamentally — meat is muscle tissue for contraction, but an egg contains everything needed to build an entire organism. Egg protein has the highest biological value (absorption into tissues) of any food. While only 10-20% of lean meat protein can be used as fuel, 65% of an egg (due to yolk fat) serves as energy. Egg whites contain antimicrobial proteins. The cholesterol concern is propaganda — eggs have never caused cholesterol problems. You could live on eggs alone and be healthy. Eating 3-4 daily with the yolk is recommended.

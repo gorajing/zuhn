@@ -67,6 +67,10 @@ related:
   - INS-260404-C663
   - INS-260405-02EE
   - INS-260330-4441
+evidence:
+  - id: INS-260404-C663
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when Earth's atmosphere contained almost no oxygen. In that context it was a workable solution: fix CO2, produce organic carbon, reproduce. Over hundreds of millions of years, photosynthesis gradually flooded the atmosphere with oxygen as a byproduct. RuBisCo, never having 'encountered' oxygen before, couldn't reliably distinguish between O2 and CO2 — leading to photorespiration, a costly process that consumes energy without producing useful carbon.
 

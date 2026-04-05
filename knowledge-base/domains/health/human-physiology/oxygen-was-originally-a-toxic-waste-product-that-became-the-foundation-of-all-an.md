@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-656A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-227B
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In Photosystem II, when chlorophyll loses an electron to the transport chain, it 'freaks out' and rips apart water molecules to steal replacement electrons. The oxygen released is purely a byproduct — the plant has no use for it and expels it through stomata. Yet this 'useless byproduct' accumulated over billions of years to create Earth's oxygen-rich atmosphere, enabling aerobic respiration and all animal life.
 

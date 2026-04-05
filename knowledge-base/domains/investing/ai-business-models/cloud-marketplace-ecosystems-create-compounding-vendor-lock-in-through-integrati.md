@@ -75,6 +75,15 @@ evidence:
   - id: INS-260330-C870
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-D6EC
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-C25C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-8947
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The AWS course reveals that AWS offers 200+ services across compute, storage, databases, security, monitoring, networking, and machine learning. Many of these services integrate deeply with each other: CloudWatch monitors Lambda functions, which are triggered by S3 events, which store data accessed by CloudFront CDN, which is protected by WAF firewall rules. Each individual service has open-source alternatives, but the integration fabric between services is proprietary.
 

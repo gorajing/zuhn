@@ -55,6 +55,31 @@ related:
   - INS-260330-BD3C
   - INS-260330-43EE
   - INS-260330-16B1
+evidence:
+  - id: INS-260325-E84D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260323-C0BD
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260327-02CF
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260329-C66E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-B771
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-BD3C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-43EE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-16B1
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham observes that AI does not raise everyone to competence — it removes the forcing function that compelled people to develop competence at all. The 'ok writer' disappears because AI handles the use case that created demand for ok writers. This pattern likely generalizes: AI assistance tends to polarize skill distributions rather than democratize them, because it removes the pressure that drove average practitioners to practice.
 

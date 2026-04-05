@@ -66,6 +66,28 @@ related:
   - INS-260330-4EC0
   - INS-260405-95AE
   - INS-260330-43CA
+evidence:
+  - id: INS-260330-7B09
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-AB3C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-0B4A
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260405-8B89
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-4EC0
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260405-95AE
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-43CA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Evolution's solution to RuBisCo's poor discrimination between CO2 and O2 was not to engineer a better enzyme — it was to produce incomprehensible amounts of the flawed one. The metabolic overhead is enormous (entire pathways exist to clean up RuBisCo's mistakes), but the system still produces net positive output because volume overwhelms the error rate.
 

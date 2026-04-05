@@ -87,6 +87,18 @@ evidence:
   - id: INS-260404-1A3A
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260404-596E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-2D92
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-C725
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-7738
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, a photon excites an electron to a high energy state, but the plant doesn't try to harvest all that energy at once. Instead, the electron passes through a chain of protein complexes (PSII → Cytochrome Complex → PSI), losing energy at each step in controlled reactions that pump protons and generate ATP. By the end, the electron is depleted and must be re-energized by another photon at PSI.
 

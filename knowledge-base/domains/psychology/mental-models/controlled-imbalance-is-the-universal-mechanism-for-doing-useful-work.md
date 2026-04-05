@@ -55,6 +55,16 @@ related:
   - INS-260404-91A0
   - INS-260403-DE05
   - INS-260330-100F
+evidence:
+  - id: INS-260330-100F
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-24BA
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-C456
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane maintains a concentration gradient of protons—high inside, low outside. This controlled imbalance is what drives ATP synthase, the enzyme that produces the cell's energy currency. Without the gradient, the enzyme has nothing to work with.
 

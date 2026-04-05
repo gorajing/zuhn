@@ -76,6 +76,9 @@ evidence:
   - id: INS-260327-6E86
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-C1E9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Music platforms are not interchangeable for discovery — each has a distinct strength. Spotify generates personalized playlists weekly from listening data with strong algorithmic recommendations. Apple Music has a longer history and invests heavily in editor-curated playlists with human-selected tracks. Bandcamp is the sanctuary for global indie music with unreleased work not on streaming platforms. Beatport specializes in electronic music with chart systems showing what DJ enthusiasts listen to most. SoundCloud mixes amateur and undiscovered talent — the best place for finding 'raw gems.'
 

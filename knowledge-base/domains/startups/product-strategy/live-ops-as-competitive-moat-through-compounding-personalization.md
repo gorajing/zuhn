@@ -57,6 +57,10 @@ related:
   - INS-260329-33C7
   - PRI-260328-DF2D
   - PRI-260324-36BF
+evidence:
+  - id: INS-260329-33C7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The essay describes how live ops transforms a game from a static product into a constantly evolving platform where adjustments happen daily or even hourly. Each iteration generates data that informs the next, creating a flywheel: better personalization drives more engagement, which generates more data, which enables even better personalization. This compounding dynamic means that a game with strong live ops capability becomes increasingly difficult to compete against over time.
 

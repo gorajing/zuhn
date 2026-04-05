@@ -77,6 +77,9 @@ evidence:
   - id: INS-260327-5F94
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-EE01
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Bonanno describes the stress response with genuine admiration for its sophistication. When threat is detected, sensory signals pass through the midbrain to the amygdala to the hypothalamus, triggering a cascade: blood to extremities, increased glucose, dilated pupils, heavier breathing, and a shift from reflective to automatic processing. Non-essential functions go offline.
 

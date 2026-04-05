@@ -54,6 +54,10 @@ related:
   - INS-260403-096C
   - INS-260321-3312
   - INS-260322-B392
+evidence:
+  - id: INS-260322-B392
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Paul Graham argues that Apple's App Store replicates a software publishing model that already failed in the early 1980s with companies like VisiCorp. Unlike music or books, software requires continuous rapid iteration — launch fast and iterate isn't laziness but yields demonstrably better results. When an intermediary inserts long, random delays into each release cycle, it forces developers to ship old, buggy versions while better code sits in review queues.
 

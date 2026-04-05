@@ -66,6 +66,9 @@ evidence:
   - id: INS-260323-2038
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-7DC3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Russell's framework represents a fundamental redefinition of artificial intelligence. Instead of 'machines that intelligently pursue objectives,' he proposes machines that: (1) exist solely to maximize human preferences, with no interest in self-preservation; (2) don't know what those preferences are, creating the crucial uncertainty that enables safe control; and (3) learn about human preferences primarily by observing human choices and behavior.
 

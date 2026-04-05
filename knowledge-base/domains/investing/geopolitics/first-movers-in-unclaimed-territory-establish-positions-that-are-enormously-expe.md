@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-E17D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-D467
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Crusader States were remarkably small — thin coastal strips surrounded by hostile territory. Yet they survived from 1099 to 1291 (nearly 200 years) because the first movers built formidable castles at every strategic point, established alliances with local factions, and created institutional legitimacy through the Church. Displacing them required generations of Muslim unification and enormously costly siege campaigns.
 

@@ -51,5 +51,8 @@ evidence:
   - id: INS-260325-6DD8
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-518E
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Growing evidence links maternal acetaminophen (Tylenol) use during pregnancy to increased autism spectrum disorder risk, potentially through glutathione depletion compromising fetal neuroprotection during critical development

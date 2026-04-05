@@ -52,5 +52,9 @@ related:
   - PRI-260325-A95E
   - INS-260329-348D
   - INS-260330-61C3
+evidence:
+  - id: INS-260329-348D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Iris Mauss's research demonstrates that people who rate happiness as highly important and consciously pursue it report lower wellbeing and higher depression rates. The mechanism is a measurement paradox: constantly evaluating whether you are happy enough creates a gap between expectation and reality that feels like failure. Ben-Shahar's resolution is the sunlight metaphor — you cannot stare at happiness directly without harm, but you can decompose it into constituent elements (meaning, relationships, curiosity, recovery, gratitude) and pursue those instead. This reframes happiness from a target to a byproduct, eliminating the self-defeating monitoring loop.

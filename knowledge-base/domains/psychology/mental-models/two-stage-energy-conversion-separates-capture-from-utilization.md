@@ -62,6 +62,12 @@ evidence:
   - id: INS-260405-F3C0
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-AE0D
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-E8CF
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis doesn't convert sunlight directly into sugar. Instead, it runs a two-stage pipeline: light-dependent reactions convert photon energy into portable energy currencies (ATP and NADPH), then the Calvin Cycle spends those currencies to fix carbon into G3P. The two stages are physically separated (thylakoid membrane vs. stroma) and temporally decoupled (the Calvin Cycle doesn't need photons directly).
 

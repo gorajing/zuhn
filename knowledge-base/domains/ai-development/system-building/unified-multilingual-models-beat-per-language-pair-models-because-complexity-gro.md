@@ -53,5 +53,9 @@ related:
   - INS-260321-8C35
   - INS-260323-8AEC
   - PRI-260323-8E89
+evidence:
+  - id: INS-260403-BB23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Roblox needed to translate between 16 languages (256 possible pairs). Per-pair models would require 256 separate models, each needing its own training data, infrastructure, and maintenance. Adding a 17th language means 32 new models. Roblox instead built a single unified transformer using Mixture of Experts (MoE) — a routing mechanism activates only the relevant expert subnetworks for each language pair. Similar languages (Spanish/Portuguese) actually improve each other through shared training. The model auto-detects source language and handles mixed-language input. The trade-off: one model carries the weight of all 256 directions, requiring ~1B parameters. But the architectural simplicity at scale massively outweighs the per-model approach.

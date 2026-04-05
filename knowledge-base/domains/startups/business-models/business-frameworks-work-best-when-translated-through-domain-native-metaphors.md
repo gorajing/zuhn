@@ -53,6 +53,10 @@ related:
   - INS-260329-58E7
   - INS-260404-2BAD
   - INS-260404-0B86
+evidence:
+  - id: INS-260323-01A1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Zoo Labs found that musicians grasp business model concepts rapidly when framed through their existing craft vocabulary — treating strategy like songwriting, with its own language and tempo. This suggests that business frameworks gain adoption not through simplification, but through translation into the learner's native domain.
 

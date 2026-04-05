@@ -55,5 +55,9 @@ related:
   - INS-260403-F657
   - INS-260403-6B97
   - INS-260403-9DE0
+evidence:
+  - id: INS-260322-7E86
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 In investor presentations, most of the audience lacks the technical background to evaluate what founders have built, and the brief time window prevents deep analysis. The single biggest piece of evidence becomes the founder's own confidence. But this must be shown, not told — saying 'we're passionate' or 'our product is great' gets you written off as a bullshitter. Confidence must be implicit: conveyed through how you present, not what you claim about yourself. The frame shift is powerful: if you've truly made something good, you're doing investors a favor by telling them about it. If you don't believe that, the problem isn't your pitch — it's your company.

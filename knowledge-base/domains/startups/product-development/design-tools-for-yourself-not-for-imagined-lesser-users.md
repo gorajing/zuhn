@@ -50,6 +50,10 @@ related:
   - INS-260329-4DBC
   - INS-260403-FCA6
   - INS-260403-1269
+evidence:
+  - id: INS-260330-0CAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that the best programming languages (C, Lisp) were designed by their authors for their own use, while the worst (Cobol) were designed for 'other people' — always meaning people less capable than the designer. This patronizing stance produces tools that talk down to users and constrain power users.
 

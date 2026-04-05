@@ -1,6 +1,8 @@
 # Tag: switching-costs
 
 - `INS-260322-A367` Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
+- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260404-D975` Once deeply committed to a strategy, systems cope with its flaws rather than replace it, because replacement cost exceeds inefficiency cost.
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
@@ -32,5 +34,3 @@
 - `INS-260404-C25C` Early ecosystem capture with a 'good enough' solution creates compounding switching costs that make replacement nearly impossible, even when the solution is demonstrably suboptimal.
 - `INS-260403-05D8` Plants produce 40 billion tons of the inefficient enzyme RuBisCo rather than evolve a better one — volume compensates for per-unit quality.
 - `INS-260404-1FCE` RuBisCo is terrible at its job but plants went all-in on it 450M years ago and now produce 40 billion tons rather than evolve a better enzyme.
-- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
-- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.

@@ -49,6 +49,13 @@ related:
   - INS-260403-B5A5
   - INS-260405-A1E6
   - INS-260323-E0B5
+evidence:
+  - id: INS-260403-B5A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260405-A1E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham notes that bottom-up work 'causes you always to be on the lookout for patterns in your code' and that noticing similarity between distant components leads to redesigning the program in a simpler way. This is not refactoring after the fact — it's a fundamentally different design process where construction and pattern recognition happen simultaneously.
 

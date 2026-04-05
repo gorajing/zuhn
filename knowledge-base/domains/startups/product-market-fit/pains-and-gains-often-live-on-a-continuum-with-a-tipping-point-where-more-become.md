@@ -62,6 +62,10 @@ related:
   - INS-260403-D0EE
   - INS-260405-1D7B
   - INS-260328-EA3A
+evidence:
+  - id: INS-260402-1D32
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The coffee temperature example illustrates a non-obvious design trap: features or metrics have an optimal range, not an infinite upside. Too cold is a pain, lukewarm is neutral, hot is a gain, scalding is a pain again. This U-shaped (or inverted-U) continuum appears across product, pricing, and UX: too many features overwhelm, too much personalization feels creepy, too fast a checkout flow feels untrustworthy.
 

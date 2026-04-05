@@ -70,6 +70,9 @@ evidence:
   - id: INS-260403-2702
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-945B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 When discussing Elon Musk's martial arts training, Lex and GSP's training partner agree: 'by far and away the most important thing when two people get into a contest — skill level trumps everything else in terms of what's going to turn the outcome.' They note Musk is strong, smart, and has 'a lot of heart,' but his opponent's two years of training experience is 'a big advantage' that creates 'an uphill battle.' Skill beats attributes.
 

@@ -69,6 +69,9 @@ evidence:
   - id: INS-260327-5D13
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-358D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 AI investment follows the same pattern as the dot-com bubble: revolutionary technology generates massive investment, most companies fail, but the survivors build transformative businesses.
 

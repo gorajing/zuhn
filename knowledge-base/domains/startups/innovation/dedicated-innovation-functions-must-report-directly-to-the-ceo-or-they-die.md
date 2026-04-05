@@ -50,6 +50,16 @@ related:
   - INS-260402-3FC5
   - INS-260329-9010
   - INS-260329-3FC9
+evidence:
+  - id: INS-260329-3FC9
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-9010
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-81E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Best Buy's Strategic Growth Office — 50 experienced staff 100% dedicated to innovation — succeeded because its leader Corie Barry reported directly to Joly. The function identified opportunities, prototyped solutions, ran experiments, and scaled winners.
 

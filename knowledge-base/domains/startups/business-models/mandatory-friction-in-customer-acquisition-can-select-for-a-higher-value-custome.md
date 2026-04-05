@@ -61,6 +61,10 @@ related:
   - INS-260403-FDB8
   - INS-260404-6E7B
   - INS-260403-747B
+evidence:
+  - id: INS-260330-F9CA
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Counterintuitively, Costco's mandatory membership fee — which should make customer acquisition harder — actually improves customer quality and retention simultaneously. The fee selects for an affluent demographic (average household income ~$100k) and triggers sunk-cost psychology: once paid, members feel compelled to use Costco to 'get their money's worth,' reducing price comparison behavior. The result is 90% annual renewal rates, higher than cheaper digital subscriptions like Apple Music or Hulu.
 

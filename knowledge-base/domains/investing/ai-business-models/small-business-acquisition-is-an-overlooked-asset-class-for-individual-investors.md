@@ -68,5 +68,14 @@ evidence:
   - id: INS-260329-0DA4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-8C56
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-9106
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-0FEC
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Hormozi positions small business acquisition as a distinct asset class that most people overlook because they associate investing with stocks or real estate. Small businesses (laundromats, service companies, local operations) often sell at 2-4x earnings, can be acquired with seller financing, and generate immediate cash flow. Unlike public equities, the buyer can negotiate price, terms, and structure. Unlike real estate, the returns come from operations rather than appreciation. The key advantage is information asymmetry: small business markets are inefficient, sellers are often motivated by retirement or fatigue rather than maximizing price, and deal terms are highly negotiable — none of which is true in public markets.

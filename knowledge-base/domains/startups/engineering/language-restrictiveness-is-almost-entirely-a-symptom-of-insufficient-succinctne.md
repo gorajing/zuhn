@@ -54,6 +54,10 @@ related:
   - INS-260402-E470
   - INS-260402-9676
   - INS-260404-864F
+evidence:
+  - id: INS-260402-9676
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Graham uses a thought experiment: if a language blocked your preferred expression but forced you into something shorter, it wouldn't feel restrictive — it would feel like a shortcut. The frustration of restrictiveness comes specifically from forced detours that make programs longer than the version in your head.
 

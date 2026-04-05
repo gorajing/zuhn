@@ -55,6 +55,10 @@ related:
   - INS-260403-882A
   - INS-260403-99CE
   - INS-260404-D8A5
+evidence:
+  - id: INS-260403-99CE
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, splitting water is just a mechanism to replace lost electrons in Photosystem II — oxygen is literally discarded as waste. Yet this 'useless byproduct' fundamentally reshaped Earth's atmosphere and enabled the evolution of all aerobic life. The primary product (glucose for the plant) matters far less to the broader ecosystem than the exhaust.
 

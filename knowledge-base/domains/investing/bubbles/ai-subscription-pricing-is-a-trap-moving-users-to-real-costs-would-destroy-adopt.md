@@ -87,6 +87,12 @@ evidence:
   - id: INS-260329-8602
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-1E4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-1C25
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Uber comparison that AI bulls love actually proves the bears' case. Uber's price hikes worked because users had an existing mental model for what a cab ride costs — the subsidized price was low but the real price was within the same order of magnitude. AI subscriptions have no such anchor.
 

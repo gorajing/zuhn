@@ -76,5 +76,11 @@ evidence:
   - id: INS-260329-C430
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-3D38
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-9CD9
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The podcast frames three AI investing archetypes by analogy to internet-era retail: (1) Build tools for incumbents (Shopify, ~$200B outcome) — lowest risk, solid returns, (2) Buy and transform incumbents (Walmart play, ~2x on massive capital, ~$500B value creation) — the Bezos $100B manufacturing fund approach, (3) Build full-stack from zero (Amazon, ~$2T outcome) — highest risk, highest return. Bezos choosing option 2 reflects the 'Indian Creek Island' mindset: when you're a billionaire with more money than time, you insert yourself further along in the value creation process. At 25, you build Amazon. At 60 from your billionaire bunker, you'd rather 2x a hundred billion. The insight: the full-stack from-zero play always produces the largest outcome but requires 25+ years of grind.

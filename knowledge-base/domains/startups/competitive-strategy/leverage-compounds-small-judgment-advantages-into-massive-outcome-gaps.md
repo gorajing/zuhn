@@ -57,6 +57,10 @@ related:
   - INS-260329-33D4
   - INS-260329-2A5A
   - INS-260329-EB4B
+evidence:
+  - id: INS-260329-33C7
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Naval highlights a critical nonlinearity: in domains with high leverage (technology, media, capital), small differences in judgment quality get amplified enormously. Someone who is right 90% of the time can literally earn hundreds of times more than someone right 80% of the time, because errors compound as much as successes do.
 

@@ -65,5 +65,14 @@ evidence:
   - id: INS-260327-956D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-A183
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-D4EA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-92B8
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Memoization — checking if a function has already been called with given inputs and returning the cached result — is the core idea behind database query caches, CDN edge caching, React's useMemo, LLM response caching, and build tool incremental compilation. The pattern works because many real-world computations are called repeatedly with identical inputs. In AI development specifically, caching embeddings, model responses, and intermediate chain results can reduce costs by 10-100x. The key insight is recognizing when your system is doing redundant work — if the same input always produces the same output, you should be caching it.

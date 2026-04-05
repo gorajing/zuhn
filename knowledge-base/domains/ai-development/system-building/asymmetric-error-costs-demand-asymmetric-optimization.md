@@ -63,6 +63,9 @@ evidence:
   - id: INS-260402-3DBF
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-67C5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham's key insight was that spam filtering isn't a symmetric classification problem. A missed spam is annoying; a false positive can mean missing an important email. Rather than just adjusting a threshold after classification, he baked asymmetry into the algorithm itself by counting nonspam token occurrences double, structurally biasing the entire probability calculation toward avoiding false positives.
 

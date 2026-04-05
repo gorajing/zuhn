@@ -63,6 +63,12 @@ evidence:
   - id: INS-260322-7A32
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-2BAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-6932
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Most activities engage specific brain regions: reading activates language areas, exercise activates motor systems, meditation activates attention networks. Music is unique in simultaneously engaging motor, auditory, visual, emotional, memory, and pattern recognition systems in coordinated real-time activity.
 

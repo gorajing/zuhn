@@ -67,6 +67,10 @@ related:
   - INS-260403-6CA8
   - INS-260404-D0D8
   - INS-260404-CD53
+evidence:
+  - id: INS-260330-051F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The 'retail apocalypse' narrative attributes mass store closures to Amazon, but the companies that actually collapsed — Sears, Toys-R-Us, J.C. Penney, Payless ShoeSource, RadioShack — shared a different common factor: they failed to evolve their value proposition. Sears tried to be everything and executed nothing well. Toys-R-Us treated e-commerce as a fad. J.C. Penney lost touch with its customer base.
 

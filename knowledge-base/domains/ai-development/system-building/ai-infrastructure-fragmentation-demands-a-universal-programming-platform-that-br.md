@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-8913
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-868C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Chris Lattner argues that the AI hardware landscape is diverging wildly — every major company ships its own accelerator — while AI frameworks like PyTorch and TensorFlow were designed before LLMs existed. The result is a combinatorial nightmare where every model needs optimization for every chip. Mojo and Modular's thesis is that you need a single programming language and compiler stack that abstracts across all hardware, letting researchers focus on models rather than porting code. This mirrors the pattern where LLVM unified compiler backends — the same approach now applied to AI compute.
 

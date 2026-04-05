@@ -60,6 +60,10 @@ related:
   - INS-260403-37C4
   - INS-260403-B6E6
   - INS-260404-73DA
+evidence:
+  - id: INS-260330-1677
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis stores energy by pumping protons across the thylakoid membrane, creating a concentration gradient. The protons' natural drive to equalize this imbalance is what powers ATP synthase — the gradient is the battery, and controlled release through a specific channel is what converts potential into work.
 

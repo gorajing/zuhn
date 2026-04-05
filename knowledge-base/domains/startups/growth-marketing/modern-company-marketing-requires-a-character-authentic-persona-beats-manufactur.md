@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-37C8
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-1B0D
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The conversation surfaces a fundamental shift in how companies are marketed: you can no longer just announce products and report financials. Since Steve Jobs, company marketing has become inseparable from a person — it's Tesla or Elon, Palantir or Alex. This creates a premium on founders willing to be that character.
 

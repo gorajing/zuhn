@@ -53,5 +53,9 @@ related:
   - INS-260403-2BEE
   - INS-260403-0AF7
   - INS-260405-6DC4
+evidence:
+  - id: INS-260330-C31B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Companies in regulated industries often assume that startup methodologies don't apply to them because the regulatory environment limits what they can do. Northumbrian Water's experience challenges this assumption: the practices of assessing innovation readiness, running structured experiments, and learning from startup methods are adaptable to regulated contexts. The constraint is on the output space of innovations, not on the process of discovering and validating them. This distinction matters because it unlocks a large body of corporate innovation methodology for industries that have historically viewed themselves as exempt from it.

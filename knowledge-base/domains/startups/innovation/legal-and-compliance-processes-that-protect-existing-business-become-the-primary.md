@@ -54,6 +54,10 @@ related:
   - INS-260403-5427
   - INS-260403-5BAD
   - PRI-260328-94D4
+evidence:
+  - id: INS-260326-80B1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Large organizations build robust Legal & Compliance processes to protect brand, reputation, and market cap. These processes are essential for the existing business but create devastating friction for innovation teams trying to validate ideas cheaply and quickly. When talking to a single L&C person takes 2+ weeks and getting a prototype to market requires 6+ months of process, the entire lean startup methodology breaks down inside the corporation.
 

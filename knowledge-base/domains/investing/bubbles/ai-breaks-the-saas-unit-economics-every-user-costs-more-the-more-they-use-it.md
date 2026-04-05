@@ -104,6 +104,21 @@ evidence:
   - id: INS-260329-C8C7
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-86F8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-AC1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-164F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-6E7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-9104
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The SaaS business model worked because after initial investment in engineering and sales, each additional customer was cheap to serve. AI inverts this: the more a user uses an LLM-powered product, the more expensive they become due to compute costs. This is fundamentally different from traditional software economics.
 

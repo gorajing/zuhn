@@ -60,6 +60,22 @@ related:
   - INS-260404-3070
   - INS-260404-CD53
   - INS-260403-FED6
+evidence:
+  - id: INS-260324-6017
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260324-B0D3
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260327-0710
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-2839
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-FED6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The narrative of Amazon 'killing' retail obscures what's actually happening: physical stores with clear differentiation (deep value like Aldi/Dollar General, curation like Costco, experience like Lush) are thriving. Casualties like Sears, JC Penney, Toys R Us, and Payless share a different characteristic — they failed to develop or maintain meaningful differentiation. Sears tried to do everything and did it poorly; Toys R Us dismissed e-commerce until it was too late; JC Penney lost its customer identity.
 

@@ -60,6 +60,13 @@ related:
   - INS-260323-FAF2
   - INS-260403-304E
   - INS-260403-EFAF
+evidence:
+  - id: INS-260323-FAF2
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-304E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The Coandă-style Magnus wing aircraft described in the video produced greater lift than traditional wings using the same principle that makes a backspin basketball fly sideways. On a lift-per-unit metric, it 'won.' But it also generated dramatically more drag, making sustained flight impractical — the plane crashed after one flight and was abandoned.
 

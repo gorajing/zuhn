@@ -49,6 +49,10 @@ related:
   - INS-260322-C6CE
   - INS-260403-2F86
   - INS-260402-D2C9
+evidence:
+  - id: INS-260330-B153
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Paul Graham's central argument is elegantly simple: if denying good taste forces you to deny that any artist is better than a random eight-year-old, the premise is obviously false. The existence of skill gradients — observable when you try to paint and compare your work to Bellini's — proves that quality is real.
 

@@ -70,6 +70,9 @@ evidence:
   - id: INS-260325-6DD8
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-46B2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Myopia may be the most common health issue globally, with rates reaching 80-95% in parts of East Asia for people under 20 and 40-50% in the US. This epidemic coincides with the shift to indoor living and technology use over the past 30-40 years. Warmer climates with more outdoor living (like Costa Rica) show dramatically lower myopia rates.
 

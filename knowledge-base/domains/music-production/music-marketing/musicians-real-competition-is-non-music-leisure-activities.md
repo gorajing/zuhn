@@ -52,6 +52,22 @@ related:
   - INS-260325-8B36
   - INS-260403-4C4E
   - INS-260329-7C84
+evidence:
+  - id: INS-260403-096C
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260327-4279
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260325-8B36
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-4C4E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-7C84
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Zoo Labs emphasizes that musicians must redefine their competitive landscape. The audience deciding whether to attend a show is not choosing between Band A and Band B — they're choosing between a concert, dinner with friends, Netflix, or staying home with a book. This is a Jobs-to-Be-Done insight applied to live music.
 

@@ -87,6 +87,12 @@ evidence:
   - id: INS-260330-F671
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-C780
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-9428
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis splits into two distinct stages with different functions. Stage 1 (light-dependent reactions) converts photon energy into two portable chemical carriers: ATP and NADPH. Stage 2 (the Calvin Cycle) spends those carriers to fix CO2 into G3P (glyceraldehyde 3-phosphate), a versatile 3-carbon molecule that plants convert into glucose, cellulose, or starch depending on need.
 

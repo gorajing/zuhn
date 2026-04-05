@@ -72,5 +72,8 @@ evidence:
   - id: INS-260329-9115
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-3ABF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Hormozi's 12-hour workday is not a badge of hustle — it's a deliberately structured system where different blocks are allocated to different energy types: high-cognition work (strategy, content creation) gets morning slots, meetings and collaborative work fill mid-day, and lower-energy administrative tasks close out the day. This task-type batching aligned with natural energy curves means the 12 hours produce more than an unstructured 12 hours while being more sustainable. The meta-insight for founders is that the duration of work matters less than the structure: a well-designed 10-hour day outperforms a chaotic 14-hour day, and the structure itself prevents the decision fatigue that leads to burnout.

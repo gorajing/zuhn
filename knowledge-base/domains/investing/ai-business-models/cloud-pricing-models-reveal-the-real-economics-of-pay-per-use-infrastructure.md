@@ -88,6 +88,9 @@ evidence:
   - id: INS-260329-C6BB
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-8256
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 AWS offers four EC2 pricing models: on-demand (pay by the hour, no commitment), spot instances (up to 90% discount but can be interrupted anytime), reserved instances (up to 75% discount for 1-3 year commitments), and dedicated hosts (physical server isolation for compliance). This pricing flexibility means startups can begin with on-demand for experimentation, shift to spot for fault-tolerant batch workloads, and graduate to reserved instances as demand stabilizes. The broader implication is that cloud computing converted infrastructure from a capital expenditure (buying servers upfront) to an operational expenditure (paying as you go), which fundamentally lowers the barrier to entry for new businesses and shifts competitive advantage from capital access to operational efficiency.
 

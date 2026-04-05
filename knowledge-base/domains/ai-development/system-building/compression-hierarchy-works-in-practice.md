@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-FCA3
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-E2FB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 
 The compression hierarchy — MASTER_INDEX (30 lines) to domain overview

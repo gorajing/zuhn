@@ -52,6 +52,13 @@ related:
   - INS-260403-8D8D
   - INS-260326-80B1
   - INS-260403-8CE6
+evidence:
+  - id: INS-260326-80B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-E414
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Y Combinator's first batch proved that $20,000 or less was enough for teams to build functional prototypes within 10 weeks. Seven of eight groups had demos ready, and one (Reddit) had already launched a live product. This contradicts the prevailing assumption that startups need hundreds of thousands in seed capital before they can show results.
 

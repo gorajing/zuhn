@@ -72,6 +72,9 @@ evidence:
   - id: INS-260327-8048
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-C497
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when atmospheric CO2 was high and O2 was negligible, so its inability to distinguish between the two molecules didn't matter. It wasn't a good enzyme — plants just produced massive quantities to compensate. But once photosynthesis itself raised atmospheric oxygen levels, RuBisCo's flaw became critical: it performs photorespiration roughly half the time, creating toxic byproducts plants must expend energy to neutralize.
 

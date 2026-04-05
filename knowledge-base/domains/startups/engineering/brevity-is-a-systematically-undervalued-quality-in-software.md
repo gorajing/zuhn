@@ -52,6 +52,9 @@ evidence:
   - id: INS-260326-97C9
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260327-E0F7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham argues that brevity is 'underestimated and even scorned' despite being deeply loved by skilled programmers. The insight extends beyond syntax: forcing a manual to be shorter often requires fixing the underlying design flaws that necessitated lengthy explanations. Verbosity in documentation is often a symptom of complexity in the system.
 

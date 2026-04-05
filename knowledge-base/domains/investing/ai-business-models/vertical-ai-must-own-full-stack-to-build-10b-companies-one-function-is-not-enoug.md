@@ -69,5 +69,8 @@ evidence:
   - id: INS-260330-3E6B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-B387
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Rajaram pushes back on narrow vertical AI plays (voice agents for dentists, chatbots for chiropractors) as fundamentally limited businesses. ServiceTitan, the canonical example, has 32 different products and is still only a ~$10B company despite dominating US field services. The ambitious play is targeting the entire digital labor spend within a vertical: not just software budgets but human labor budgets. The transition is happening in stages: (1) BPO spend gets cut first (same service, higher quality, 30% cheaper), (2) attrition without replacement, (3) eventually layoffs. Goldman Sachs and Barclays each have 30,000+ people in India — that's the real TAM. Companies need founders ambitious enough to go after the entire stack, not just one piece.

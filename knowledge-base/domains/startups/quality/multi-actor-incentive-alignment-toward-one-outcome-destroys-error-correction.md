@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-0409
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260402-8A7A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The criminal justice system has multiple supposed safeguards — investigation, prosecution, defense, expert testimony, and jury deliberation — yet wrongful convictions persist because every actor shares the same directional incentive. Police want to close cases, prosecutors want conviction rates, defense attorneys lack resources, and juries want resolution.
 

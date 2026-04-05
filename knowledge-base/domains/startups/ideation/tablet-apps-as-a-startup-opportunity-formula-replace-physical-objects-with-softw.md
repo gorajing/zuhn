@@ -56,6 +56,10 @@ related:
   - INS-260327-E2BC
   - INS-260322-CFB1
   - INS-260403-535C
+evidence:
+  - id: INS-260322-5678
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham argues that during the tablet era, a good startup recipe was simply to look around for things people hadn't yet realized could be made unnecessary by an app. Examples ranged from obvious ones (GPS units, music players, cameras) to surprising ones (reading glasses via font scaling, bathroom scales via accelerometer tricks, physical keys). The underlying pattern: whenever a powerful new general-purpose platform arrives, the set of things it can displace is larger than people initially imagine.
 

@@ -5,11 +5,6 @@
 - `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
-- `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
-- `INS-260403-E3E6` Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
-- `INS-260403-7ED5` Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
-- `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
-- `INS-260403-61B0` Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - `INS-260330-0AE2` Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260404-8F62` Attachment to things that become part of your identity manifests as fabricated beliefs about their intrinsic superiority.
 - `INS-260330-712D` When excited about a new trend, ruthlessly separate the real value proposition from the fantasies you're projecting onto it.
@@ -18,8 +13,13 @@
 - `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260403-5A91` When someone cheats in the domain they claim to care most about, it reveals a disconnect between stated values and actual psychology that is deeply diagnostic.
-- `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
+- `INS-260403-7ED5` Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
+- `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
+- `INS-260403-E3E6` Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
+- `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
+- `INS-260403-61B0` Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - `INS-260330-C451` People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.
+- `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
 - `INS-260330-206B` Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
 - `INS-260323-FFAC` Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
 - `INS-260329-2EB1` Real taste means having an honest internal barometer for whether your product creates genuine user value, not just whether it looks good in a demo.

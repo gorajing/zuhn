@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-F21F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-56AC
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Rometty nearly turned down a major promotion because she felt she wasn't ready. Her husband's observation — 'do you think a man would have answered it that way?' — combined with the principle that growth and comfort never coexist became a career-defining reframe. She learned to look for nervousness as evidence of learning rather than a signal to retreat.
 

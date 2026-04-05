@@ -55,6 +55,16 @@ related:
   - INS-260403-C1E9
   - INS-260405-2748
   - PRI-260322-DC5E
+evidence:
+  - id: INS-260403-6932
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260327-AD0D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260321-3312
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham outlines the two viable paths when content becomes free: give it away and monetize indirectly (concerts, t-shirts, advertising), or embody it in physical objects people will pay for. The key economic insight is that when one complement becomes free, demand increases for its paired scarce resource.
 

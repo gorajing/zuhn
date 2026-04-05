@@ -55,6 +55,10 @@ related:
   - INS-260402-8ACF
   - INS-260403-AAE4
   - INS-260403-472E
+evidence:
+  - id: INS-260404-4E6D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham identifies what he calls the 'still life effect'—you pick the first idea that comes to mind, plunge in, and at each milestone (a day, a week, a month) feel you've invested too much to pivot. This mirrors the sunk cost fallacy but operates at the identity level: the idea becomes woven into your thinking, making it harder to discard than something with a single attachment point like a company name.
 

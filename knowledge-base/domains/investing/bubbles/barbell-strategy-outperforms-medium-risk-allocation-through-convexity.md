@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-B849
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260405-F99E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Taleb argues that 'bipolar strategies are vastly better than mono strategies' due to Jensen's inequality. Putting 80% of capital in risk-free assets and 20% in highly speculative positions creates an antifragile portfolio: the downside is strictly bounded (you can only lose the 20%), but the upside from the speculative portion is unlimited. A uniformly medium-risk portfolio, by contrast, is concave — it has hidden fragility to fat-tailed events.
 

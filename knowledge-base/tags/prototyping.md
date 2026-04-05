@@ -6,8 +6,8 @@
 - `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 - `INS-260330-7882` Spotify pirated millions of songs to build the prototype that would convince record labels to license music legally.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
-- `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260403-36DD` Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
+- `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260402-E36A` Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - `INS-260330-84F4` Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
 - `INS-260325-A070` Traditional archaeology tells you what the past looked like; experimental archaeology — physically making and doing things — reveals what it sounded, tasted, and smelled like, and answers questions theory cannot.

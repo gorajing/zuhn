@@ -66,5 +66,8 @@ evidence:
   - id: INS-260330-A260
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-EA2C
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Throughout the course, Severance repeatedly highlights Python's ability to treat radically different data sources with identical syntax. A file handle, a URL response from urllib, and a database cursor all work with the same 'for line in handle' pattern. He explicitly contrasts this with C/C++ which require 'while loops with end of file conditions and all kinds of things that make this very difficult.' This design choice — making everything iterable — is what makes Python the dominant language for data science and AI: the cognitive cost of switching between data sources is near zero. The deeper principle is that the best abstractions don't just hide complexity, they make heterogeneous things homogeneous. This is the same principle behind Unix pipes, REST APIs, and the AI SDK's provider abstraction pattern.

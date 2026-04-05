@@ -58,6 +58,13 @@ related:
   - INS-260403-79AF
   - INS-260325-DF82
   - INS-260403-7639
+evidence:
+  - id: INS-260330-EC0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260323-422C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Van der Kolk identifies self-compassion — specifically, understanding that your reactions are rooted in getting stuck in the past — as a 'terribly important part of beginning to recover.' This isn't soft encouragement; it's a mechanistic claim. Without this reframe, people remain trapped in a shame cycle where their trauma responses generate more self-blame, which generates more stress, which amplifies the trauma responses.
 

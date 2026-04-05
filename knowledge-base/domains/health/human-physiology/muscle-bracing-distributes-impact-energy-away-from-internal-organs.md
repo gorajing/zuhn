@@ -54,6 +54,16 @@ related:
   - INS-260325-3306
   - INS-260330-24BA
   - INS-260330-713C
+evidence:
+  - id: INS-260323-BEE6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-9A83
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-CC79
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 When abdominal muscles are consciously braced, they form a rigid barrier that distributes and absorbs kinetic energy across a wider surface area. The internal organs experience significantly less force because the muscular wall acts as a shock absorber. This is visible in high-speed footage where a prepared subject's abdomen deforms minimally compared to an unprepared hit.
 

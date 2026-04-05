@@ -55,6 +55,13 @@ related:
   - INS-260330-CA97
   - INS-260404-EBB3
   - INS-260404-103B
+evidence:
+  - id: INS-260330-CA97
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260320-9118
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham argues that experienced hackers develop a 'nose' for good and bad technology — a form of expert intuition built from years of pattern matching. Rather than evaluating every new technology through exhaustive technical analysis, they learn to read contextual signals: who promotes it, who loves it, how it's governed, and what motivations drive its creation.
 

@@ -63,6 +63,12 @@ evidence:
   - id: INS-260329-E208
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-9460
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260405-06B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The tutorial demonstrates methods through a concrete example: a 'sayHi' function that takes a name and age parameter. Instead of writing greeting logic repeatedly for different people, you write it once and call it with different arguments. The tutorial shows how methods accept parameters (inputs), return values (outputs), and encapsulate logic.
 

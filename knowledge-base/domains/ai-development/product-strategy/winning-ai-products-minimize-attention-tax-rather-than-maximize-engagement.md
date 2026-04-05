@@ -64,5 +64,14 @@ evidence:
   - id: INS-260330-697F
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-415B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-35CB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-0D90
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The previous decade of software was built around engagement metrics — time on screen, daily active users, notification open rates. AI fundamentally changes the equation because it can take complex action without human supervision. ChatGPT's blank-field interface hints at this: maximum capability behind minimal interface. The implication for builders is to design products where the core value proposition is that users can set it up and walk away. Success metrics shift from attention captured to attention restored — how much cognitive load did you remove from the user's day? This requires rethinking not just UI but the entire product philosophy, from onboarding to retention measurement.

@@ -85,5 +85,8 @@ evidence:
   - id: INS-260329-BDCC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-8190
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The instructor, a Google engineer, makes a pointed observation early in the course: the major distinction between bad, mediocre, and excellent programmers is that excellent ones fundamentally understand how and when to use the appropriate data structure. This is a stronger claim than 'know your algorithms' — it's about pattern recognition in problem decomposition. A hash table gives O(1) lookup but requires hashable, immutable keys. A priority queue gives O(log n) extraction of extremes. A union-find gives near-constant-time group membership queries. The skill isn't memorizing these facts but recognizing which problem structure maps to which data structure. The course demonstrates this repeatedly: BFS naturally maps to queues (expanding frontiers level by level), bracket matching maps to stacks (LIFO nesting), and Kruskal's minimum spanning tree maps to union-find (efficient group merging and cycle detection). This insight applies directly to AI system building — choosing between a vector database, a graph database, and a key-value store for different parts of an AI pipeline is the same fundamental skill of matching data access patterns to structural affordances.

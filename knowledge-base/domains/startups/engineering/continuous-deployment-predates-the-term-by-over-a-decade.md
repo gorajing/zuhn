@@ -56,6 +56,9 @@ evidence:
   - id: INS-260321-9EBB
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-8F98
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Viaweb practiced continuous deployment in the late 1990s — their software had no actual versions because they released continuously. They fabricated version numbers solely because the trade press expected them, even gaming the system by making the number an integer when they wanted extra attention.
 

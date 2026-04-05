@@ -56,6 +56,10 @@ related:
   - INS-260403-E374
   - INS-260330-7FF3
   - INS-260330-B38B
+evidence:
+  - id: INS-260330-6E5F
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane acts as a dam: protons are pumped inside to create a concentration gradient, then released through ATP synthase (essentially a molecular turbine) to generate ATP. This gradient-and-release pattern appears everywhere: hydroelectric dams store gravitational potential, capacitors store charge differential, marketplace platforms accumulate supply before opening demand.
 

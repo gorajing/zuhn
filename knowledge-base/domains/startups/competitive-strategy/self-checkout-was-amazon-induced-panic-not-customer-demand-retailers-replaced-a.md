@@ -54,5 +54,8 @@ evidence:
   - id: INS-260321-52EF
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260405-C0AF
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Retail operates on 4-8% operating margins with 60-70% cost of goods. Retailers are conservative by nature. Then Amazon Go launched in 2016 with 'no checkout' stores, and overnight every retailer panicked. They couldn't match Amazon's engineering talent, so they mass-deployed inferior self-checkout machines. The result: longer wait times, higher error rates, increased theft (retailers now spend millions on loss prevention), and customer backlash. Most retailers are now quietly ripping out self-checkout and returning to human cashiers. The lesson: don't let a competitor's proof-of-concept drive your capital allocation into solving a problem your customers never had.

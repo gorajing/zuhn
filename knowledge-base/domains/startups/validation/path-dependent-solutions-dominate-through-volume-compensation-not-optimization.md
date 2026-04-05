@@ -59,6 +59,10 @@ related:
   - INS-260403-EDA2
   - INS-260403-3E1C
   - INS-260403-F68A
+evidence:
+  - id: INS-260325-C528
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 RuBisCo is the most abundant protein on Earth (~40 billion tons at any time) despite being so inefficient it confuses oxygen for CO2 roughly half the time. Plants couldn't switch to a better enzyme because their entire metabolic architecture was built around it — so they evolved workarounds for the toxic byproducts instead.
 

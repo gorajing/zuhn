@@ -45,6 +45,10 @@ related:
   - INS-260327-4445
   - INS-260329-ACE6
   - INS-260403-0435
+evidence:
+  - id: INS-260403-8BF4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 UNIQLO (timeless basics) and Zara (fast-fashion trends) both succeed in clothing by targeting opposite ends of the same consumer psychology: permanence vs novelty.
 

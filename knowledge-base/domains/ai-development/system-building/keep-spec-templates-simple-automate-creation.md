@@ -44,6 +44,10 @@ resolutions:
 stance: >-
   Spec templates must be simple enough that people actually use them rather than
   skip them
+evidence:
+  - id: INS-260403-9D8A
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 
 The biggest risk to SDD adoption is template complexity. If specs are

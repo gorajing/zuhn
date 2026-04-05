@@ -69,6 +69,12 @@ evidence:
   - id: INS-260330-D1A1
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-D916
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-2DEE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 When the team first shot golf balls at a driver, the club head moved backward, absorbing energy through momentum transfer and obscuring how much energy went into actual deformation. Mark Rober's insight to place an anvil behind the club head eliminated that degree of freedom — now all collision energy had to go into mechanical deformation of ball and club, revealing the true structural limits.
 

@@ -64,5 +64,11 @@ evidence:
   - id: INS-260402-0D16
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-9BBA
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-EF20
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 'Pick up the red block' sounds more expressive than running 'pick_red' preprogrammed task, but the boundary of what the model actually understands is opaque in a way that a fixed command vocabulary is not. The author proved this with counterfactual experiments: equivalent prompts produce similar actions (good), but spatial primitives ('up', 'away', 'stop') are unreliable because the model learned them as scene descriptions, not workspace commands. This is Karpathy's 'apps should become APIs' in reverse — sometimes explicit, constrained APIs are safer than flexible natural language. The tradeoff is expressivity vs predictability.

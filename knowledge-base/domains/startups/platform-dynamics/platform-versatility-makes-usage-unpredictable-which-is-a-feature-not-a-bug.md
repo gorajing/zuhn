@@ -56,6 +56,13 @@ related:
   - INS-260403-8F6E
   - INS-260403-2152
   - INS-260403-FCA6
+evidence:
+  - id: INS-260321-FD14
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260326-3D8D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham notes that Apple's inclusion of an accelerometer led to developer uses Apple never anticipated — and frames this as the nature of platforms. Versatile tools generate usage patterns their creators cannot predict. This has a direct strategic implication: platform makers should ask 'what else can we give developers access to?' rather than trying to design for specific applications. The upside from unanticipated uses typically exceeds the upside from optimized known uses.
 

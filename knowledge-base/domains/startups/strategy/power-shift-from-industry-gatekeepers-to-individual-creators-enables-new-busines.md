@@ -57,6 +57,10 @@ related:
   - INS-260327-7C67
   - INS-260327-723A
   - INS-260324-5481
+evidence:
+  - id: INS-260403-6932
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The music industry's historical structure gave labels monopoly control over distribution, branding, and customer relationships. Digital disruption shifted that power back to artists — but only those who developed business competency could capitalize on it. Zoo Labs exists precisely to close this capability gap.
 

@@ -59,5 +59,8 @@ evidence:
   - id: INS-260330-0BC2
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-BB23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Dr. Andy Galpin identifies exercise selection as just one of six modifiable variables (choice, intensity, volume, rest intervals, progression, frequency). The critical insight is that the exercise itself does not determine the adaptation — a deadlift programmed at 30 reps with short rest becomes an endurance stimulus, while bicep curls at 3x5 near max become a strength stimulus. This principle, called SAID (Specific Adaptation to Imposed Demand), means beginners should stop obsessing over which exercises to do and instead focus on the execution parameters. Galpin notes that untrained individuals respond to virtually anything, so specificity becomes increasingly important as training age advances. The practical implication is that someone who has been doing '3 sets of 10' on every exercise for years is likely not getting stronger or bigger — they need to manipulate the variables to create a specific stimulus.

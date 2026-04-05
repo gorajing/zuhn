@@ -61,5 +61,8 @@ evidence:
   - id: INS-260330-1298
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-F908
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Metabolic disease is not just difficulty losing weight — it is energy failure at the cellular level. Cells are surrounded by glucose but cannot access it due to insulin resistance. This is exactly what happens in Alzheimer's (brain cells die of starvation despite abundant sugar), type 2 diabetes, heart disease, and kidney disease. The best meal to reverse this combines: fatty fish or grass-fed meat (protein + fat), large salad with olive oil (fiber + phytonutrients), sauerkraut (probiotics), and avocado (potassium). The key is high fat, moderate protein, very low carb — forcing cells to use ketones which bypass the insulin lock.

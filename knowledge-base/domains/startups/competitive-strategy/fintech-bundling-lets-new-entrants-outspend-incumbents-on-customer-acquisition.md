@@ -53,6 +53,10 @@ related:
   - INS-260403-D2A9
   - INS-260329-AADB
   - INS-260322-FCFC
+evidence:
+  - id: INS-260329-196A
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 One of the five native advantages NFX identifies for fintech-enabled marketplaces is the ability to subsidize product or marketing through bundling. When a marketplace embeds lending, insurance, or payment services alongside its core transaction, the combined customer lifetime value exceeds what any single-service competitor can achieve.
 

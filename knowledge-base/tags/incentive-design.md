@@ -1,6 +1,8 @@
 # Tag: incentive-design
 
 - `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
+- `INS-260330-1EAC` China's 70-year land leases and GDP-linked official promotions incentivize developers to build low-quality housing that will need rebuilding, boosting future GDP cycles.
+- `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
 - `INS-260403-FF74` Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
 - `INS-260330-3879` The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.
 - `INS-260404-78E6` When downvotes affect karma, users delete wisecracks but stubbornly leave up substantive controversial opinions.
@@ -15,5 +17,3 @@
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
-- `INS-260330-1EAC` China's 70-year land leases and GDP-linked official promotions incentivize developers to build low-quality housing that will need rebuilding, boosting future GDP cycles.
-- `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.

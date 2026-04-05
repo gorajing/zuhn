@@ -56,6 +56,10 @@ related:
   - INS-260403-D482
   - INS-260403-0162
   - INS-260403-1110
+evidence:
+  - id: INS-260330-CC30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when atmospheric oxygen was negligible and worked 'well enough' at fixing carbon. When oxygen levels rose, it started grabbing O2 instead of CO2 roughly half the time, producing toxic byproducts. Yet plants doubled down — producing enormous quantities and evolving workaround pathways rather than replacing the enzyme.
 

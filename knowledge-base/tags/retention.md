@@ -1,13 +1,12 @@
 # Tag: retention
 
-- `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
+- `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260329-656B` Use complete mini-projects rather than isolated exercises to teach technical concepts.
 - `INS-260329-153F` Teaching concepts at the moment a project demands them creates natural motivation and deeper retention than abstract-first instruction.
 - `INS-260329-3263` Interleaving mini-projects between theory sections creates concrete anchors that make abstract concepts stick.
 - `INS-260329-820D` Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
 - `INS-260330-2DB0` Reinventing concepts through play before formal study turns them into 'familiar friends' rather than arbitrary definitions.
 - `INS-260330-677A` John Gottman's four horsemen of relationship failure (criticism, contempt, defensiveness, stonewalling) map precisely to customer support anti-patterns that cause churn.
-- `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260405-F691` Amazon Prime shows that pairing a mundane utility with entertainment makes customers reluctant to cancel either, since dropping the subscription means losing both.
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
@@ -51,5 +50,6 @@
 - `INS-260404-E1FF` Costco pays $21/hour (double retail average) with strong benefits, and gets employees three times more productive than competitors in return.
 - `INS-260403-365D` Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
 - `INS-260404-EE20` Costco pays $21/hour (2x retail average) and gets 3x productivity, proving high wages can be the economically rational choice.
-- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
+- `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.

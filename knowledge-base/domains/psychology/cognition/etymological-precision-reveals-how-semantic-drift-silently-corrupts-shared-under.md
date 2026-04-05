@@ -55,6 +55,10 @@ related:
   - INS-260330-6300
   - INS-260402-2C6B
   - INS-260330-534C
+evidence:
+  - id: INS-260330-B65B
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The video's aside on 'decimate' — which etymologically means to remove one-tenth, not to destroy completely — illustrates how semantic drift creates invisible miscommunication. Two people using the word 'decimate' may have completely different mental models of severity, yet never realize the discrepancy because they're using the same word.
 

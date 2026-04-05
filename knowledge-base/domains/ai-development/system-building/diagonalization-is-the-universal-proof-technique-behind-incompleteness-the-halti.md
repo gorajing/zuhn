@@ -73,5 +73,8 @@ evidence:
   - id: INS-260330-AA77
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-AA5B
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Joel David Hamkins demonstrates that four seemingly different results in mathematical logic are all instances of the same diagonalization idea. Cantor proved the reals are uncountable by constructing a number that differs from the Nth number at its Nth digit. Russell proved there's no universal set by forming the set of all sets not containing themselves. Godel proved incompleteness by constructing a statement that says 'I am not provable.' Turing proved the halting problem by constructing a program that does the opposite of what the halt-decider predicts. Hamkins anthropomorphizes this beautifully: 'For any collection of people, you can form more committees than there are people' -- because the 'diagonal committee' (people not on the committee named after them) can't be named after anyone without contradiction. For system builders, this is the deepest reason why no single system can be both complete and consistent: diagonalization guarantees that any sufficiently powerful system will contain truths it cannot prove about itself.

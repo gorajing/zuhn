@@ -60,6 +60,13 @@ related:
   - INS-260325-415A
   - INS-260404-9C57
   - INS-260323-76FE
+evidence:
+  - id: INS-260404-9C57
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-1084
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The video describes how a photon created by nuclear fusion at a star's core takes thousands to millions of years to escape, bouncing randomly between atoms in a dense 'stellar jungle' before finally reaching the surface and shooting into space. Locally, each bounce looks directionless. Globally, escape is statistically inevitable.
 

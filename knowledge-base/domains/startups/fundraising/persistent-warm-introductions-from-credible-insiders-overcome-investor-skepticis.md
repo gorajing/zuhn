@@ -54,6 +54,10 @@ related:
   - INS-260329-7B47
   - INS-260330-410A
   - INS-260327-4E28
+evidence:
+  - id: INS-260327-8D7E
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Paul Graham's campaign to get Fred Wilson to invest in Airbnb wasn't a single introduction — it was a sustained, multi-week persuasion effort with escalating evidence. Each email added a new signal: they're in NYC meeting users, they won the YC batch poll by a landslide, they're already spreading to professional hosts. PG didn't just introduce and step back; he actively sold.
 

@@ -1,5 +1,6 @@
 # Tag: competitive-moats
 
+- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
 - `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260404-2087` Costco turns its membership barrier, warehouse chaos, and limited selection into loyalty drivers, treasure-hunt shopping, and supplier leverage respectively.
 - `INS-260403-C681` Waze's CEO argues data is only worth what you sold it for — the widespread startup belief that 'having a lot of data is valuable' is fundamentally wrong without a specific value-creation mechanism.
@@ -47,4 +48,3 @@
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260403-7E6A` North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260404-8B1C` Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
-- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.

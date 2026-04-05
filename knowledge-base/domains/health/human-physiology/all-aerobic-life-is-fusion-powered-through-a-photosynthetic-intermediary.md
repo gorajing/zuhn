@@ -56,6 +56,13 @@ related:
   - INS-260330-1084
   - PRI-260403-181B
   - INS-260404-1B29
+evidence:
+  - id: INS-260330-09F8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-1B29
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The light-dependent reactions begin when a photon — born from hydrogen fusion in the Sun — strikes chlorophyll and excites an electron. That electron's energy is harvested through the transport chain to produce ATP and NADPH, which the Calvin Cycle uses to fix carbon into G3P, the precursor to glucose and all plant carbohydrates. When animals eat plants (or eat animals that ate plants), they're accessing that stored solar energy.
 

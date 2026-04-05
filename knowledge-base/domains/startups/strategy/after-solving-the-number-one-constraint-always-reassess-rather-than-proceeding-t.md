@@ -71,6 +71,9 @@ evidence:
   - id: INS-260329-541A
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260405-8808
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Hormozi applies theory of constraints thinking to show that fixing the number-one bottleneck changes the entire system state. Problems that seemed critical before may vanish (because they were downstream symptoms) while entirely new problems may surface as the new binding constraint. If you had pre-committed to tackling items 2-5 in order, you'd be solving problems that no longer exist.
 

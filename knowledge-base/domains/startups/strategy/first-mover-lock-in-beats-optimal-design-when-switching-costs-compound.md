@@ -59,6 +59,10 @@ related:
   - INS-260404-D6EC
   - INS-260330-DCFB
   - INS-260405-8107
+evidence:
+  - id: INS-260329-3AE5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 RuBisCo — the enzyme responsible for carbon fixation in every plant on Earth — fails at its job roughly half the time, grabbing oxygen instead of CO2 and producing a toxic byproduct. Yet 450 million years later, every photosynthetic organism still uses it because the entire metabolic architecture was built around it.
 

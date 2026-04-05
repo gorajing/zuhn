@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-B437
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260405-3772
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Rosetta 2 successfully translated most x86 software to run on ARM-based Apple Silicon, even sometimes outperforming native Intel execution. However, for the most CPU-demanding workloads — Android Studio emulation and ASP.NET web development — the translation layer produced unusable results. The pattern is that translation layers are good enough for the 80% of workloads that aren't resource-constrained, but fail at the 20% that push boundaries.
 

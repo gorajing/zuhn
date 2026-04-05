@@ -56,6 +56,16 @@ related:
   - INS-260330-D42C
   - INS-260330-EC5E
   - INS-260405-8584
+evidence:
+  - id: INS-260329-89E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-1034
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-3E9A
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham observes that the naive claim 'you can't want what you want' is wrong — people do change their wants. Drug addicts quit; people learn to love vegetables. But the recursive version holds: you can't want to want to want what you want. Each additional meta-level becomes exponentially harder to modify. The practical implication is that behavior-change interventions work best when they operate at the level the person can actually reach — usually first-order desire (make the behavior easier or more rewarding) rather than trying to engineer deep motivational architecture.
 

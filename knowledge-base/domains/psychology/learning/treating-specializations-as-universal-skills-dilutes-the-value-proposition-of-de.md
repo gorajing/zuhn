@@ -73,6 +73,9 @@ evidence:
   - id: INS-260329-7192
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260405-945B
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The analogy between coding and literacy fails because literacy is a prerequisite for participating in modern society, while programming is one of many valuable specializations. When coding is treated as universally necessary, two harmful effects compound: existing practitioners see their differentiation erode as the market floods, and learners who would thrive in other fields spend time on a skill they'll use superficially at best.
 

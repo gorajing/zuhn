@@ -18,9 +18,9 @@
 - `INS-260329-A6F0` Strategic imbalance for a defined period produces better lifetime outcomes than perpetual moderate balance that never breaks free of constraints.
 - `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
-- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
-- `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
 - `INS-260403-C5C0` Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
 - `INS-260405-8BEA` Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
 - `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
+- `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
+- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.

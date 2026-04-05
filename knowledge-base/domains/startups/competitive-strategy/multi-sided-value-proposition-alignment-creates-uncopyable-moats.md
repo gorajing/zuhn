@@ -67,6 +67,9 @@ evidence:
   - id: INS-260327-F316
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260323-7B63
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Apple Pay demonstrates that true competitive moats emerge when a business model delivers differentiated value propositions to every segment in a multi-sided market simultaneously. Consumers get seamless secure payments, merchants get access to a large mobile consumer base, card networks maintain business as usual, and banks get reduced fraud costs. A competitor can't just match one of these — they must deliver all four simultaneously to break into the ecosystem.
 

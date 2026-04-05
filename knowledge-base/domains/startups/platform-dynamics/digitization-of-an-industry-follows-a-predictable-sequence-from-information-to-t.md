@@ -54,6 +54,13 @@ related:
   - INS-260402-4633
   - INS-260329-8181
   - INS-260322-8299
+evidence:
+  - id: INS-260329-D0B3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-8181
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Real estate digitization illustrates a repeatable pattern: Phase 1 (2005-2015) was information access — Trulia and Zillow put property data online, empowering consumers. Phase 2 (2015+) is transaction transformation — companies like Opendoor and Ribbon reimagine how buying and selling actually work. Phase 3 is operational — tech-enabled construction, maintenance, and management.
 

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260329-4842
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-7305
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The demonstrated system used a two-tier heuristic for reusing cached research results: cosine similarity above 0.8 triggered automatic reuse (high confidence the existing result answers the new query), while scores between 0.7 and 0.8 presented the cached result for human confirmation (thumbs up/down). Below 0.7, the system initiated fresh research.
 

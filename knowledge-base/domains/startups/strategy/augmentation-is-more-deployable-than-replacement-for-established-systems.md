@@ -60,6 +60,13 @@ related:
   - INS-260325-722C
   - INS-260403-B6A0
   - INS-260326-5E07
+evidence:
+  - id: INS-260326-5E07
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260325-722C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The most commercially successful application of Flettner rotors is not a pure rotor ship that abandoned diesel entirely, but a hybrid vessel that uses spinning cylinders to augment conventional engines. When crosswinds are favorable, the rotors provide meaningful propulsion; when they're not, the diesel carries the load. Fuel savings accumulate without exposing the operator to a 'rotor or nothing' risk.
 

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-24BA
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-AC2C
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the electron transport chain pumps protons into the thylakoid lumen, creating a concentration gradient. Protons then flow back through ATP synthase like water through a turbine, generating ATP. The thylakoid is literally a rechargeable battery: energy in (photons) → stored as imbalance → released on demand.
 

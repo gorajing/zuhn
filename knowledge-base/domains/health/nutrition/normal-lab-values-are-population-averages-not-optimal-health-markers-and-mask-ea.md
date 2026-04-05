@@ -55,5 +55,8 @@ evidence:
   - id: INS-260323-8544
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-3BD3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Lab reference ranges are derived from the general population, which is increasingly unhealthy (70%+ are overweight, 50%+ have metabolic syndrome). A fasting glucose of 99 mg/dL is technically 'normal' but is pre-diabetic. A TSH of 4.0 is 'normal' but indicates early thyroid dysfunction. Vitamin D at 30 ng/mL is 'sufficient' but far from optimal (50-80 ng/mL). The ranges shift upward as the population gets sicker — what was considered abnormal decades ago is now 'normal.' Optimal ranges are narrower: fasting glucose 75-85, fasting insulin below 5, vitamin D 50-80, TSH 1-2, ferritin 50-100. Berg recommends tracking trends over time rather than comparing to population averages.

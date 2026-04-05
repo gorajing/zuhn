@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-2BB3
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-36DD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Destin explicitly describes the supersonic baseball cannon as a project that was 'gigantic' with 'too much risk' for any sponsor to underwrite. His solution was building Patreon support over time — convincing his wife, offering signed baseballs to every patron, and gradually accumulating enough recurring revenue to fund projects on his own timeline without sponsor obligations. He frames it as escaping a 'calendar/schedule-based model' for content creation.
 

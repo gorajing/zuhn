@@ -64,6 +64,9 @@ evidence:
   - id: INS-260329-55C4
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-49E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Rick Beato's recommended learning path for guitar: start with open chords in first position, learn to strum basic patterns, and immediately apply these to songs you love. Theory (scales, intervals, chord construction) should come later, after the student has fallen in love with playing.
 

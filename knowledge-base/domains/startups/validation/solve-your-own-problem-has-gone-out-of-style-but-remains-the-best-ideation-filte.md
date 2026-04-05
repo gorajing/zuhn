@@ -71,6 +71,9 @@ evidence:
   - id: INS-260325-0147
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-878F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The VC ecosystem's obsession with trillion-dollar TAM has caused founders to dismiss ideas that solve their own problems as 'too small.' This is backwards — Paul Graham built YC as something he wished existed when he was a founder, and Justin Kan put a camera on his head (an idea with no obvious TAM) to start what became Twitch. Whatnot started as a marketplace for authenticated Funko Pops — an idea that would fail any serious TAM analysis.
 

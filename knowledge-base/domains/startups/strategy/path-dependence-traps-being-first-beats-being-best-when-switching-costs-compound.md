@@ -60,6 +60,13 @@ related:
   - INS-260330-22C0
   - INS-260330-11EB
   - INS-260330-C02D
+evidence:
+  - id: INS-260329-3AE5
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260323-E559
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when Earth had abundant CO2 and almost no oxygen. It was mediocre at carbon fixation even then, but it was the only game in town. Plants compensated by producing massive quantities rather than evolving a better enzyme. When oxygen levels rose and RuBisCo started grabbing O2 instead of CO2 half the time, plants developed elaborate workaround pathways (C4, CAM) rather than replacing the enzyme.
 

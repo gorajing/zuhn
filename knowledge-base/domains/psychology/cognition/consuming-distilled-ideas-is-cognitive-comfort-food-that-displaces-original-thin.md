@@ -54,6 +54,13 @@ related:
   - INS-260323-64A4
   - PRI-260323-C49D
   - INS-260329-1739
+evidence:
+  - id: INS-260323-64A4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-1739
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham's mountain-walking revelation — that he could entertain himself with his own ideas instead of reading — mirrors a broader pattern where consumption crowds out creation. He frames books as 'jam' versus the 'fruit' of original thought: palatable and easy but nutritionally inferior for intellectual development.
 

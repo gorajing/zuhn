@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-4079
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-FA30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Multiple research groups and elite athletic programs are adopting a structured 5-minute cool-down at the end of every training session focused specifically on engaging the parasympathetic (calming) nervous system. This can be done through physiological sighs (double inhale through nose followed by long exhale), non-sleep deep rest (NSDR) protocols, or other breathwork that emphasizes extended exhalation.
 

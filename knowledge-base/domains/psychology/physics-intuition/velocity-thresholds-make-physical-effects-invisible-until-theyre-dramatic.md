@@ -63,6 +63,10 @@ related:
   - INS-260330-80A2
   - INS-260330-601A
   - INS-260404-EDEC
+evidence:
+  - id: INS-260330-8AE8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 When a basketball is dropped from a few feet with backspin, nothing notable happens — the Magnus force is too small to overcome gravity significantly. At 126 meters of freefall, the ball accelerates to speeds where the Magnus force compounds dramatically, sending it far sideways. The underlying physics is identical in both cases; what changes is the scale.
 

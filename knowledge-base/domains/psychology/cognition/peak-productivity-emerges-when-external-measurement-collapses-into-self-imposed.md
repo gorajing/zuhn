@@ -55,6 +55,16 @@ related:
   - INS-260404-312D
   - INS-260329-72C1
   - INS-260403-4935
+evidence:
+  - id: INS-260322-A36C
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260329-9D26
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-72C1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Naval's observation — 'you're only measured on your output and only held to the bar you raise for yourself' — points to a specific structural condition that enables flow and high performance. Most managed environments introduce two friction points: they measure process (presence, method, schedule) rather than output, and they impose external benchmarks rather than allowing individuals to set intrinsic standards.
 

@@ -4,12 +4,12 @@
 - `INS-260322-3537` The E8 lattice (8D) and leech lattice (24D) are used in real-world error-correcting codes because certain dimensions are supernaturally efficient at preserving order.
 - `INS-260323-9BAB` Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
+- `INS-260330-70B9` The most likely outcomes feel least informative, but a strategy optimized for rare jackpots performs worse than one optimized for average information.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260330-6C09` Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
-- `INS-260330-70B9` The most likely outcomes feel least informative, but a strategy optimized for rare jackpots performs worse than one optimized for average information.
 - `INS-260330-6A9E` Shadows and geometric intersection points can exceed light speed because they transfer no information — only physical causation is speed-limited.
 - `INS-260330-AFE0` The speed limit of the universe applies to information transfer, not to geometric abstractions like shadows or intersection points.
-- `INS-260323-8897` Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.
 - `INS-260403-2204` Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260404-1263` A narrow, concrete description of your product creates more investor interest than an expansive, vague one.
 - `INS-260404-8258` Specific narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260323-8897` Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.

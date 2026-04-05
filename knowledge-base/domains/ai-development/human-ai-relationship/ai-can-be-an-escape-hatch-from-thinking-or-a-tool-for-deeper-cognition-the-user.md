@@ -91,6 +91,9 @@ evidence:
   - id: INS-260402-3A0D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-878F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Cleo Abram introduces the concept of 'cognitive time under tension' — borrowed from weightlifting, where squatting 100 pounds for 30 seconds builds more muscle than 3 seconds. She argues the best creative work requires sustained cognitive struggle, and AI tools could let people skip that struggle.
 

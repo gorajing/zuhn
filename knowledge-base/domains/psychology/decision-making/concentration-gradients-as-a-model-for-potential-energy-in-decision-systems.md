@@ -54,6 +54,10 @@ related:
   - INS-260403-EE83
   - INS-260404-869D
   - INS-260330-3037
+evidence:
+  - id: INS-260404-869D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The thylakoid membrane is 'charged like a battery' by pumping protons to one side, creating a concentration gradient. The protons naturally want to equalize, but they can only escape through ATP synthase — an enzyme that harnesses their movement to produce ATP. The energy comes not from the protons themselves but from the controlled imbalance and the constrained release channel.
 

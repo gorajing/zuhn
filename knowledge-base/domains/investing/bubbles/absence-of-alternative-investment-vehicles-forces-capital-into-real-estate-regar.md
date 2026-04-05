@@ -57,6 +57,10 @@ related:
   - INS-260327-9638
   - INS-260330-F67A
   - INS-260405-69F1
+evidence:
+  - id: INS-260405-69F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Chinese households save roughly 30-50% of income — among the highest rates globally — yet face severe restrictions on where to deploy that capital. Stock markets are volatile and distrusted, bond markets are underdeveloped, capital controls prevent foreign investment, and bank deposit rates often sit below inflation. Real estate becomes the default and often only perceived safe store of value.
 

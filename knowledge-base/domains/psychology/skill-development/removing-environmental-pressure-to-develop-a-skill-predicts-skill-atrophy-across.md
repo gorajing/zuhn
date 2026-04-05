@@ -51,6 +51,10 @@ related:
   - INS-260325-2832
   - INS-260327-23F8
   - INS-260405-86BB
+evidence:
+  - id: INS-260322-5B1B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham draws the analogy to physical strength: preindustrial work built strength by necessity; now only those who choose to exercise develop it. The population-level result is that most people are weaker than their ancestors — not because strength became impossible, but because the environmental forcing function disappeared.
 

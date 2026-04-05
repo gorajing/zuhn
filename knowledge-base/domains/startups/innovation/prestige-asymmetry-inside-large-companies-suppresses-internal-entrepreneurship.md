@@ -62,6 +62,10 @@ related:
   - INS-260330-F800
   - INS-260402-96E2
   - INS-260402-73D9
+evidence:
+  - id: INS-260328-0DFE
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 In established companies, status tracks execution: delivering quarterly results, managing large teams, running reliable operations. Exploratory work — testing hypotheses, talking to customers, iterating on unproven ideas — looks like wandering. It produces no short-term deliverables and is difficult to measure, so it accrues little social capital even when it is strategically critical.
 

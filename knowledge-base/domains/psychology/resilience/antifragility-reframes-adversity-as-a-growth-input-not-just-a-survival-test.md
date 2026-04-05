@@ -44,5 +44,9 @@ related:
   - INS-260403-280B
   - INS-260404-037F
   - INS-260325-5F3C
+evidence:
+  - id: INS-260403-2DEE
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Resilience aims to restore the original state after stress — antifragility goes further by using that stress as fuel for growth. The biological analogy is muscle hypertrophy: lifting weights damages fibers so they rebuild stronger. Psychologically this maps to post-traumatic growth (PTG), the documented phenomenon where people develop greater strength, deeper relationships, or renewed purpose after trauma. The practical implication is that framing setbacks as growth inputs — rather than damage to survive — shifts behavior from avoidance to deliberate engagement with difficulty, provided the right recovery conditions are in place.

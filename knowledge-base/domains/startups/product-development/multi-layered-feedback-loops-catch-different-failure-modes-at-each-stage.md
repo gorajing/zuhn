@@ -55,6 +55,9 @@ evidence:
   - id: INS-260323-01F9
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-8F98
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Biz4Kids process used three distinct feedback layers: first playing the story back to kids for reaction, then having kids interact with actual comic panels to critique both story and visuals, and finally sharing publicly with Kickstarter backers as co-creators. Each stage surfaced different problems.
 

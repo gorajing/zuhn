@@ -55,6 +55,13 @@ related:
   - INS-260402-A693
   - INS-260403-0218
   - INS-260405-678B
+evidence:
+  - id: INS-260329-3C75
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260405-86BB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham's central claim is that writing quality and idea quality appear independent (like a car's speed and color) but are actually deeply coupled (like a plane's shape and its flight characteristics). The coupling works through multiple mechanisms: rhythm must match idea complexity, revision for sound forces logical improvement, and readable prose exposes remaining errors to the writer.
 

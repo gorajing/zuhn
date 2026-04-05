@@ -70,6 +70,15 @@ evidence:
   - id: INS-260325-6A2C
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-7E39
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-1677
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-6876
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 The light-dependent reactions don't directly convert photon energy into ATP. Instead, they use photon energy to pump protons across the thylakoid membrane, building a concentration gradient. ATP synthase then harvests this gradient as protons flow back through it, like water through a turbine. The energy storage is in the asymmetry itself.
 

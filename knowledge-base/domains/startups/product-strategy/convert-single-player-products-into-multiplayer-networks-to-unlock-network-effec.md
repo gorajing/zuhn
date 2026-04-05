@@ -58,6 +58,10 @@ related:
   - INS-260325-040F
   - PRI-260328-FD47
   - INS-260403-D62F
+evidence:
+  - id: INS-260327-643C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX's first and most emphasized diagnostic question is whether your product is a single-player or multi-player game, with the directive to 'make it a network' or 'make it a marketplace' whenever possible. This is because network effects create the strongest form of durability — once you get ahead, competitors face a structural disadvantage since their smaller networks offer less value.
 

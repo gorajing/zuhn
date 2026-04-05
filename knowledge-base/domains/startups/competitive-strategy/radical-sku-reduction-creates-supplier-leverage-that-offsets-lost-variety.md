@@ -57,5 +57,8 @@ evidence:
   - id: INS-260325-DD43
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260322-0AA6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Costco stocks roughly 4,000 unique items compared to Walmart's 140,000 or a typical supermarket's 30,000. This radical curation concentrates purchasing volume into fewer products, giving Costco extraordinary negotiating leverage — suppliers compete fiercely to be the one or two options in each category. Costco can demand custom packaging (like reengineering cashew containers to save 24,000 pallets annually) and threaten credibly with its Kirkland store brand (25% of sales). The counterintuitive insight is that reducing selection doesn't just cut costs — it creates a power dynamic where suppliers subsidize the low-price model. This is the opposite of the long-tail strategy that dominates e-commerce, and it works precisely because physical retail has shelf-space constraints that can be turned into leverage rather than limitations.

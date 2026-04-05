@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-D8E4
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-EFA8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 For decades, the search for extraterrestrial life was anchored to the Goldilocks Zone — the distance from a star where water stays liquid. The implicit assumption was that stars are the only relevant energy source. Europa shattered this by demonstrating that tidal forces from Jupiter's gravity pump enough energy to maintain a subsurface liquid ocean billions of years old.
 

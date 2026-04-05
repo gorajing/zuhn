@@ -57,5 +57,8 @@ evidence:
   - id: INS-260329-7B1D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-C135
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Rather than introducing variables as abstract data containers, the tutorial motivates them through a story where a character's name appears in multiple print statements. When the name needs to change, the student manually edits every occurrence — experiencing the pain firsthand. Only then are variables introduced as the solution. This 'feel the pain first' pattern is powerful for teaching any abstraction: show the problem before the solution, so the learner understands WHY the tool exists, not just HOW it works. This same principle applies to teaching functions, classes, and even architectural patterns — motivation before mechanism.

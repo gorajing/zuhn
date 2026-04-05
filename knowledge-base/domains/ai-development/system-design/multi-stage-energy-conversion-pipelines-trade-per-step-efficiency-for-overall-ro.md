@@ -54,6 +54,16 @@ related:
   - INS-260330-545E
   - INS-260404-2A07
   - INS-260404-DDB5
+evidence:
+  - id: INS-260330-498B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-1B29
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-545E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The light-dependent reactions don't convert photon energy to ATP in one step. Instead, excited electrons pass through four complexes (PSII → Cytochrome → PSI → NADPH reductase), losing energy at each handoff. This seems wasteful, but each step captures energy in a different usable form: proton gradients, ATP, and NADPH.
 

@@ -55,6 +55,10 @@ related:
   - INS-260404-FF0B
   - INS-260403-97F5
   - INS-260404-93CD
+evidence:
+  - id: INS-260404-93CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The distinction between INVENT and SHIFT patterns maps to a fundamental asymmetry in innovation strategy. New ventures operate with a blank canvas — they need patterns that help configure business model blocks into competitively superior arrangements from scratch. Established companies face a different challenge: they already have a functioning (but potentially outdated) business model with existing customers, infrastructure, and organizational inertia.
 

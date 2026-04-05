@@ -56,6 +56,10 @@ related:
   - INS-260404-19FE
   - INS-260404-5D8B
   - INS-260404-8D69
+evidence:
+  - id: INS-260327-40E3
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham's observation is counterintuitive but validated by behavior: the VC example he cites invested *despite* knowing the business model was wrong, because at early stage, model correctness is not the signal being evaluated. What's being evaluated is whether you understand an important problem and have built something that addresses it.
 

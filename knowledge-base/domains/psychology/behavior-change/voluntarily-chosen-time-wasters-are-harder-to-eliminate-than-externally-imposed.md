@@ -54,6 +54,13 @@ related:
   - INS-260327-FA38
   - PRI-260403-B9A0
   - INS-260404-2F16
+evidence:
+  - id: INS-260328-68BA
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260327-FA38
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham distinguishes two categories of low-value activity: externally imposed (bureaucracy, errands, others' mistakes) and self-chosen (arguing online, addictive pastimes). Counterintuitively, the self-chosen category is harder to eliminate because these activities had to be compelling enough to trick you into choosing them voluntarily — they're optimized to hijack your instincts.
 

@@ -73,6 +73,12 @@ evidence:
   - id: INS-260322-54F3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-D23E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-15DD
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Ng presents the AI stack as four layers: semiconductors, cloud infrastructure, foundation models, and applications. While media hype concentrates on the technology layers (new models, new chips), he argues the application layer must work out 'even better' by economic necessity — applications need to generate enough revenue and value to pay all the technology providers below them.
 

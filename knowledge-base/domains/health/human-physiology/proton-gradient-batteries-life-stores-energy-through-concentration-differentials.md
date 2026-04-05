@@ -75,6 +75,15 @@ evidence:
   - id: INS-260330-C729
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-8294
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-050D
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-B6E6
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, energy isn't stored directly as ATP right away. Instead, the electron transport chain pumps protons into the thylakoid, creating a concentration gradient. Protons then flow back out through ATP synthase — like water through a turbine — generating ATP. The membrane itself is the battery; the gradient is the charge.
 

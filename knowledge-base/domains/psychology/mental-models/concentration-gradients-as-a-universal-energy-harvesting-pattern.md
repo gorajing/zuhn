@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-6A2C
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-1677
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In the light-dependent reactions, plants pump protons into the thylakoid space, creating a concentration gradient. The protons then flow back through ATP synthase, and this flow powers the creation of ATP. The thylakoid is literally 'charged like a battery.'
 

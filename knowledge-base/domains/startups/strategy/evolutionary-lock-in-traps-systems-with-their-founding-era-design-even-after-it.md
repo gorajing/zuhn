@@ -69,6 +69,10 @@ related:
   - INS-260330-6ECA
   - INS-260403-D518
   - INS-260403-262F
+evidence:
+  - id: INS-260405-C497
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when Earth's atmosphere had almost no oxygen, and it was genuinely good at its job then. But as photosynthesis itself raised atmospheric oxygen, RuBisCo began confusing O2 for CO2 roughly half the time, creating a toxic byproduct. Rather than switching to a better enzyme, plants produce staggering quantities of RuBisCo (~40 billion tons at any moment) and run an entire secondary metabolic pathway just to clean up its mistakes.
 

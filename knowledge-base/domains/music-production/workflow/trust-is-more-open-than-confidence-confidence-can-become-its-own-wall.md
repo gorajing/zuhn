@@ -72,6 +72,9 @@ evidence:
   - id: INS-260327-7349
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-C5C0
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Wilkenfeld makes a subtle but important distinction: confidence carries an identity attachment ('I'm a badass'), which can become as much of a brick wall as fear. She's shared stages with very confident musicians whose confidence was actually a barrier to genuine connection and chemistry. Trust, by contrast, is simply knowing you can get up there and handle whatever comes -- it's open-ended rather than identity-locked.
 

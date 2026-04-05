@@ -56,6 +56,9 @@ evidence:
   - id: INS-260322-DAA1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-86BB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham credits Montaigne with discovering that expressing ideas helps form them, then strengthens the claim: 'helps is far too weak a word.' He reports that 90% of what ends up in his essays was stuff he only thought of when he sat down to write. Writing isn't transcription of pre-formed thoughts — it's the engine that produces them.
 

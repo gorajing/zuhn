@@ -66,6 +66,18 @@ evidence:
   - id: INS-260327-FC6F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-397F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-427E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-445D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-9E2D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Ackman identifies AI as fundamentally changing the investment landscape because it enables rapid disruption of previously stable businesses. Two 19-year-olds can now raise capital, access infinite bandwidth, contract global engineers, and build virtual companies that threaten established incumbents.
 

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-FBE5
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260323-7B63
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The article draws a direct parallel between Stoke Space's hydrogen-cooled reentry approach and the Wright Brothers' three-axis control system. In both cases, the breakthrough came from applying a different mental model to an existing problem — mimicking birds for flight, using fuel as coolant for reentry. The ideas were 'obvious' enough that Stoke's founders assumed someone else had already tried their approach and were shocked to find no one had.
 

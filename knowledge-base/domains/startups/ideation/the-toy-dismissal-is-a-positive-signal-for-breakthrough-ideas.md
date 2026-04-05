@@ -47,6 +47,10 @@ related:
   - INS-260320-630D
   - INS-260327-FCCF
   - INS-260403-924B
+evidence:
+  - id: INS-260403-F157
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham observes that the most transformative products were initially dismissed as toys: microcomputers, airplanes, cars, and early social networks. This dismissal is actually a useful filter because it explains why the opportunity remains available — serious people overlooked it precisely because it didn't look serious.
 

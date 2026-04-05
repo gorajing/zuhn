@@ -59,6 +59,10 @@ related:
   - INS-260403-600F
   - INS-260330-4DFA
   - INS-260405-EE74
+evidence:
+  - id: INS-260330-D483
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Founders tend to focus on controllable variables: product quality, team, business model, fundraising. But timing is a contextual variable that operates independently. A venture entering a market too early faces insufficient demand, missing infrastructure, or regulatory resistance. Too late, and incumbents have built moats that make customer acquisition prohibitively expensive.
 

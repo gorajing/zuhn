@@ -52,6 +52,10 @@ related:
   - INS-260330-7675
   - INS-260404-E185
   - INS-260404-5A3D
+evidence:
+  - id: INS-260322-D6D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham's key mental model shift is replacing 'judge' with 'customer' when thinking about people evaluating you. A novelist doesn't call readers unfair for choosing a potboiler — stupid maybe, but not unfair. The fairness frame only applies when accurate judgment is the explicit goal.
 

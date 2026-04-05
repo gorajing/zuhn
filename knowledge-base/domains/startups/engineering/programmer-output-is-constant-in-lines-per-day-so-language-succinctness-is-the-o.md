@@ -53,6 +53,13 @@ related:
   - INS-260329-3739
   - INS-260329-CF48
   - INS-260403-410A
+evidence:
+  - id: INS-260330-81A7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-CF48
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Fred Brooks observed that programmers produce similar amounts of code per day regardless of language. Paul Graham argues this has a profound implication: if output is measured in lines and lines/day is fixed, the only way to ship faster is to make each line do more work. This reframes language choice from a matter of taste to a strategic productivity decision.
 

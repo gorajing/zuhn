@@ -71,6 +71,18 @@ evidence:
   - id: INS-260330-3037
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260403-EE83
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-E374
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-C290
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-861A
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane creates a proton concentration gradient by pumping hydrogen ions to one side. ATP synthase then harvests this controlled imbalance as protons push through it, converting gradient energy into ATP. The system doesn't transfer photon energy directly to ATP — it converts it through an intermediate gradient stored across a barrier.
 

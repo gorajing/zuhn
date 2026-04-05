@@ -81,6 +81,9 @@ evidence:
   - id: INS-260330-40EC
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-869D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane acts as a barrier that maintains a concentration gradient of protons. Energy is stored by pumping protons to one side (creating imbalance), then harvested when protons flow back through ATP synthase (releasing the imbalance). The video explicitly compares this to 'charging a battery.'
 

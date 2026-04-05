@@ -54,5 +54,9 @@ related:
   - PRI-260328-39FA
   - INS-260325-75A3
   - INS-260329-A90C
+evidence:
+  - id: INS-260402-FEA3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Kotler corrects the common misconception that dopamine rewards risk-taking after the fact. Instead, dopamine is released to drive motivation and focus before and during risk engagement. This reframing has practical consequences: intellectual risk (publishing a contrarian idea), social risk (pitching to a tough audience), and emotional risk (having a difficult conversation) all produce the same dopamine-driven focus enhancement as physical risk. This means knowledge workers can deliberately engineer dopamine-rich environments not by adding danger, but by choosing work that involves novelty, unpredictability, complexity, and intellectual stakes. The crossword puzzle effect — where one correct answer leads to a streak — is dopamine amplifying pattern recognition in real time.

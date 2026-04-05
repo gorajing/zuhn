@@ -63,6 +63,12 @@ evidence:
   - id: INS-260330-C729
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-46AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-6AD7
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The thylakoid membrane in chloroplasts charges like a battery by accumulating protons on one side. ATP synthase then harvests this gradient to produce ATP — the exact same mechanism mitochondria use in cellular respiration, just running in reverse.
 

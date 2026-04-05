@@ -60,6 +60,12 @@ evidence:
   - id: INS-260325-6A2C
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-7E39
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-869D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, raw photon energy doesn't directly produce ATP. Instead, the light reactions use photon energy to pump protons across the thylakoid membrane, building a concentration gradient. ATP synthase then harvests this gradient as protons flow back through it — like a hydroelectric dam. The actual energy carrier (ATP) is produced by the gradient, not the original input.
 

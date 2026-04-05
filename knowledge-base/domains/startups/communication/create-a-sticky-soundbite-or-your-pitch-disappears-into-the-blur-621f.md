@@ -57,6 +57,10 @@ related:
   - INS-260403-D375
   - INS-260404-A526
   - INS-260404-D8C7
+evidence:
+  - id: INS-260322-22D0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 After hearing dozens of pitches, investors experience a blur effect where presentations merge together. The first cut isn't quality—it's memorability. A compressed analogy phrase ('the X of Y') serves as a cognitive handle that lets investors recall and discuss your startup later.
 

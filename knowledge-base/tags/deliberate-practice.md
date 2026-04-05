@@ -1,9 +1,9 @@
 # Tag: deliberate-practice
 
-- `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
-- `INS-260405-678B` Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260330-CD7A` Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260404-18F1` Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
+- `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
+- `INS-260405-678B` Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260403-8114` Understanding a mechanism's physics does not grant the ability to operate it skillfully.
 - `INS-260403-78E2` Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
@@ -45,8 +45,8 @@
 - `INS-260329-7F70` Anticipating the 'valley of despair' in skill acquisition transforms it from a quit signal into a progress marker.
 - `INS-260329-88AB` Tutorial consumption creates passive familiarity that masquerades as competence until tested by independent creation.
 - `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
-- `INS-260329-640C` Sustained success comes from tolerating difficulty, not from feeling passionate about the work.
 - `INS-260405-4810` Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance.
+- `INS-260329-640C` Sustained success comes from tolerating difficulty, not from feeling passionate about the work.
 - `INS-260329-CEC5` Branding is the deliberate pairing of your product with outcomes your ideal customer values, not identity design.
 - `INS-260403-3831` Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
 - `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260403-36F4
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260321-13EA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX presents compelling data on technology window compression. The social network window opened with Friendster's beta in October 2002 and effectively closed with Facebook's launch in February 2004 — just 11 months. The mobile social window ran from WhatsApp (February 2009) to Snapchat (July 2011) — about 30 months. After these windows closed, even superior products with talented teams couldn't gain traction.
 

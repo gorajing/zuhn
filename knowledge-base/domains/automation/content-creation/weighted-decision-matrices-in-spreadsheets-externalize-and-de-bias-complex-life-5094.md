@@ -73,6 +73,12 @@ evidence:
   - id: INS-260402-D534
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-C313
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260404-8E68
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The career decision matrix project assigns weighted scores to job criteria (salary, location, growth, culture) and computes a total for each option. This simple structure does something psychologically powerful: it separates the act of defining what matters from the act of evaluating specific options.
 

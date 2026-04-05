@@ -66,6 +66,9 @@ evidence:
   - id: INS-260323-5955
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-EFA8
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The traditional Goldilocks Zone model assumes life requires a planet at just the right distance from a star for liquid water. Europa demolishes this assumption: Jupiter's immense gravity tidally flexes the moon's interior, generating friction heat that maintains a liquid ocean beneath miles of ice — no sunlight needed.
 

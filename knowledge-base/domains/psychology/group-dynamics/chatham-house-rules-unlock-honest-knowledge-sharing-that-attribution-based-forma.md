@@ -60,6 +60,10 @@ related:
   - INS-260402-3FD8
   - INS-260327-70DF
   - INS-260403-5C89
+evidence:
+  - id: INS-260402-3FD8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Strategyzer's deliberate use of Chatham House Rules for their enterprise innovation peer group reveals an important dynamic: the most valuable lessons from enterprise innovation efforts are precisely the ones organizations won't share publicly. Public case studies and conference talks are filtered through corporate communications, emphasizing successes and sanitizing failures. The real learning—what actually went wrong, which leadership dynamics blocked progress, how political resistance was navigated—only surfaces under conditions of non-attribution.
 

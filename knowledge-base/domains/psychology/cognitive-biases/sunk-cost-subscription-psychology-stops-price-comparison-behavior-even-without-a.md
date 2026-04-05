@@ -59,6 +59,10 @@ related:
   - INS-260405-F1FD
   - INS-260330-F9CA
   - INS-260403-3F91
+evidence:
+  - id: INS-260330-F9CA
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Both Costco and Amazon Prime exploit sunk-cost fallacy: after paying $60–$120 upfront, members feel psychologically invested in using the service to 'get their money's worth,' which short-circuits comparative shopping. The rational calculation — 'should I check if Target is cheaper?' — gets replaced by 'I already have Prime, why bother?'
 

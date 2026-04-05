@@ -60,6 +60,10 @@ related:
   - INS-260404-5587
   - INS-260403-64E7
   - INS-260404-BBC5
+evidence:
+  - id: INS-260330-F9CA
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Conventional business wisdom says reducing friction increases conversion. Costco demonstrates that strategically placed friction can be a feature, not a bug. The membership fee performs triple duty: it filters for affluent customers (average household income ~$100K), triggers sunk-cost psychology that discourages comparison shopping, and generates the majority of revenue independent of margins.
 

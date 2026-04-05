@@ -55,6 +55,10 @@ related:
   - INS-260404-CDF0
   - INS-260405-8584
   - INS-260326-2582
+evidence:
+  - id: INS-260326-2582
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham notes that people sometimes do change what they want — but the mechanism is typically a second-order desire first: 'I want to like classical music,' then gradually coming to actually like it. The same pattern appears in successful long-term behavior change: people who sustain new habits usually first want to be the kind of person who has those habits. The first-order desire follows.
 

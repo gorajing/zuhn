@@ -53,6 +53,10 @@ related:
   - INS-260330-FDA9
   - INS-260327-D5E0
   - INS-260323-53FF
+evidence:
+  - id: INS-260325-7C72
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham draws a sharp distinction between two meanings of 'normal': the statistical average of what everyone does, and the optimal operating range for human wellbeing. These two definitions are pulling apart as addictive technologies become more prevalent and more people succumb.
 

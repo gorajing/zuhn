@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-E1EB
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-1CB1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Steele pushes back on claims that AI will cure all disease in 5-10 years by pointing to the data bottleneck. AlphaFold's protein structure prediction was only possible because decades of scientists had deposited 160,000 structures into the Protein Data Bank (estimated rebuild cost: $21 billion). Without that training data, the AI would have nothing to learn from.
 

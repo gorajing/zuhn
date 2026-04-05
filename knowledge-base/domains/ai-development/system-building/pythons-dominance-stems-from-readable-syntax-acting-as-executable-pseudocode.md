@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-ACE6
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260405-3772
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Python was deliberately designed with readability as a core principle — significant whitespace, English-like keywords, and minimal boilerplate. This made it accessible to scientists, analysts, and domain experts who needed to code but weren't trained as software engineers. As these practitioners built AI/ML tools in Python, the ecosystem grew, attracting more users in a flywheel effect.
 

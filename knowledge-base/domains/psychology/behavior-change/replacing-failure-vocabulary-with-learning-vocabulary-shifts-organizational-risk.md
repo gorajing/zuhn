@@ -58,6 +58,19 @@ related:
   - INS-260325-5023
   - PRI-260328-0AB1
   - PRI-260321-7307
+evidence:
+  - id: INS-260327-8D82
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-4531
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-4A09
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-3DF3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 WD-40 eliminated the word 'failure' from its vocabulary entirely, replacing it with 'learning moments.' This linguistic shift did more than rebrand mistakes — it changed the emotional valence of risk-taking. When failure carries social cost, people hide mistakes and avoid experiments. When the same event is framed as learning, sharing it becomes a contribution rather than a confession.
 

@@ -58,6 +58,12 @@ evidence:
   - id: INS-260327-F405
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-0095
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-37F7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Producers are storytellers, not sound designers. Nobody in a nightclub or on a long drive appreciates your multiband mid-range compression. They connect to emotional arc, melody, rhythm, and groove. Spending years mastering sound design while ignoring emotional impact is building the wrong skill.
 

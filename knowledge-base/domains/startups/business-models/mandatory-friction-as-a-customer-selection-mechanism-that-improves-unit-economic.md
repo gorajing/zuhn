@@ -58,6 +58,10 @@ related:
   - INS-260403-747B
   - INS-260404-B435
   - INS-260404-50A7
+evidence:
+  - id: INS-260323-FEAB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The membership fee appears to be a fatal obstacle to customer acquisition — you literally cannot enter the store without paying. But this friction acts as a demographic filter: it selects for households with ~$100K average income who are willing to invest upfront for value. Business owners, who make up one-third of members, account for two-thirds of sales.
 

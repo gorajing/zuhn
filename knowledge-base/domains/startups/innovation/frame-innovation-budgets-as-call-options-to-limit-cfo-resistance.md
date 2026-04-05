@@ -54,6 +54,10 @@ related:
   - INS-260404-DFE8
   - INS-260322-B641
   - INS-260403-E688
+evidence:
+  - id: INS-260330-4D05
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 CFOs are trained to apply NPV and IRR to capital decisions, but those tools systematically undervalue uncertain future opportunities—they discount optionality. Rita McGrath's framing reframes innovation as a financial instrument: a bet with limited downside (the experiment cost) and unbounded upside (a new market or product line). This is language CFOs already accept for derivatives and venture portfolios.
 

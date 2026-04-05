@@ -56,6 +56,10 @@ related:
   - INS-260330-593E
   - INS-260403-DDEB
   - PRI-260328-1654
+evidence:
+  - id: INS-260330-C367
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The SEAL's motto — 'if it doesn't suck, we don't do it' — isn't masochism. It's a systematic calibration protocol. By repeatedly proving that you can endure more than you thought in controlled settings (cold water, extra reps, longer runs), you update your brain's internal model of your limits.
 

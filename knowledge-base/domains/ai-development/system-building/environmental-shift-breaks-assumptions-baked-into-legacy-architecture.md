@@ -92,6 +92,21 @@ evidence:
   - id: INS-260330-43C9
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-B7B6
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-9F4B
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-979D
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-B08E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-D16C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved in an atmosphere with abundant CO2 and negligible oxygen. Its inability to distinguish between the two molecules wasn't a flaw — it was an irrelevant limitation. When photosynthesis itself changed the atmosphere by flooding it with oxygen, RuBisCo's design assumption became a critical bug: it now grabs oxygen ~50% of the time, producing toxic phosphoglycolate that requires an entire secondary pathway to clean up.
 

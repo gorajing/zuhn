@@ -53,6 +53,10 @@ related:
   - INS-260329-0487
   - PRI-260328-4000
   - PRI-260324-12CF
+evidence:
+  - id: INS-260329-CABE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 After doing 8, then 6, then 3-4 pullups to complete exhaustion, Itzler was told to do 100 more — seemingly impossible. He completed them one at a time. The lesson isn't about pullups; it's about how the brain processes magnitude. A demand of '100 more' triggers an impossibility judgment, but '1 more' is always feasible.
 

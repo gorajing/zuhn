@@ -58,6 +58,9 @@ evidence:
   - id: INS-260403-CE95
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260321-6D01
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Paul Graham argues that the act of writing is fundamentally a thinking process, not merely an expression of already-formed thoughts. Half the ideas in any essay emerge during writing itself, because committing to specific words forces you to confront vagueness, incompleteness, and flaws that remain invisible in purely mental reasoning.
 

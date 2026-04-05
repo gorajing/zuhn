@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-48AF
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260321-9906
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 BioAscent's original messaging described their offering in purely technical terms: 'robotic retrieval, temperature-controlled facility that allows you to bespoke select compounds.' After applying the Value Proposition Canvas and understanding the distinct jobs-to-be-done for biologists versus chemists, they completely rewrote their positioning. For chemists, they spoke about 'ultimate control of compounds screened.' For biologists, they emphasized 'maximizing your budget and increasing screening success.'
 

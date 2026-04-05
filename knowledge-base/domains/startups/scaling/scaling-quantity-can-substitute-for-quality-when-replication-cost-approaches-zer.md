@@ -70,6 +70,10 @@ related:
   - INS-260403-05D8
   - INS-260404-EC33
   - INS-260404-47F5
+evidence:
+  - id: INS-260325-024F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Evolution couldn't cheaply redesign RuBisCo — too many other systems depended on it. Instead, plants took the path of least resistance: overproduce it massively. A leaf may allocate 50% of its total nitrogen to RuBisCo alone. The strategy works: despite the enzyme's inefficiency, photosynthesis supports nearly all life on Earth.
 

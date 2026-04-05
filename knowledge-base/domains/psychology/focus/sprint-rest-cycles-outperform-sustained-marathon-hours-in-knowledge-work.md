@@ -51,6 +51,16 @@ related:
   - INS-260327-E6FE
   - INS-260404-EE01
   - INS-260330-7AE9
+evidence:
+  - id: INS-260404-EE01
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-E6FE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260325-DC90
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Naval argues that claims of sustained 80-120 hour work weeks are largely status signaling, not genuine high-output cognition. The brain breaks down under prolonged load, degrading idea quality. Effective knowledge workers instead sprint intensely while inspired and passionate, then rest and reassess before the next burst.
 

@@ -60,6 +60,25 @@ related:
   - INS-260403-4964
   - INS-260403-2CDA
   - INS-260330-3A3E
+evidence:
+  - id: INS-260323-7F36
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260323-7D3C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260402-5242
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-4964
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-2CDA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-3A3E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 C was explicitly designed as a high-level language for humans, yet exposes direct memory addressing, pointer arithmetic, and hardware control that higher-level languages abstract away. This dual nature puts it at a unique layer: too readable to replace with assembly, too performant to replace with Python or Java for systems code.
 

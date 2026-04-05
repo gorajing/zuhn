@@ -56,5 +56,8 @@ evidence:
   - id: INS-260323-9D6E
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260323-FE33
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Kotler identifies the challenge-skills balance as the 'golden rule of flow' — the single most important trigger among all 22 discovered. The mechanism is attentional: when a task slightly exceeds our abilities, the brain has no spare capacity for distraction, forcing total absorption. This has direct implications for how to structure any work session: if you're bored, the challenge is too low; if you're anxious, it's too high. The practical move is to calibrate difficulty deliberately — add constraints, raise stakes, or take on a harder sub-problem — rather than relying on passive triggers like music or environment. This reframes flow not as a mystical state but as an engineering problem of difficulty calibration.

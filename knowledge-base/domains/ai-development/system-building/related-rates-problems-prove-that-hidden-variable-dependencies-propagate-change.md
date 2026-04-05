@@ -75,6 +75,9 @@ evidence:
   - id: INS-260329-02C5
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-3F05
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Related rates problems in calculus teach a fundamental systems insight: when multiple variables are connected through an equation (a constraint), changing one variable forces changes in all others. The chain rule computes exactly how fast each variable changes relative to the others. A classic example — filling a conical tank — shows that the water level rises faster as the cone narrows, even though the inflow rate is constant. The geometry of the constraint reshapes the propagation of change.
 

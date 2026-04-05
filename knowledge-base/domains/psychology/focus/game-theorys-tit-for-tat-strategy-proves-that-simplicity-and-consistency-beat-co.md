@@ -66,5 +66,8 @@ evidence:
   - id: INS-260403-B73A
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-1B0D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Robert Axelrod's iterated prisoner's dilemma tournament found that the simplest strategy, tit-for-tat (cooperate on the first move, then copy whatever the other player did last), consistently outperformed elaborate strategic schemes. The winning properties: 1) Never defect first (builds trust), 2) Always retaliate against defection (prevents exploitation), 3) Always forgive after retaliation (allows relationship repair), 4) Be completely transparent (others can predict your behavior and adapt). This has profound implications beyond game theory: in relationships, business, and life, being simple, consistent, and reciprocal outperforms being cleverly strategic. Complexity is a liability in repeated interactions.

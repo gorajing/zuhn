@@ -66,6 +66,9 @@ evidence:
   - id: INS-260322-F868
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-E492
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Andrew Steele argues the public misconception of longevity science — billionaires chasing immortality — distracts from its real goal: extending healthspan, the period free from disease, pain, and cognitive decline. He notes we already doubled life expectancy in 200 years, and economists calculate that slowing aging by just one year would generate $38 trillion in economic value.
 

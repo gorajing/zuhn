@@ -56,6 +56,10 @@ related:
   - INS-260403-6BF7
   - PRI-260328-8317
   - INS-260327-E07A
+evidence:
+  - id: INS-260327-EEEE
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Traditional influencer agencies face the principal-agent problem: the talent can leave, demand higher cuts, or damage the brand. AI-generated influencers eliminate this entirely — the agency owns the 'talent' as an asset. The marginal cost of content production drops to GPU compute time (~45 seconds per image on consumer hardware), while subscription revenue ($10K+/month for Aitana) flows entirely to the operating entity.
 

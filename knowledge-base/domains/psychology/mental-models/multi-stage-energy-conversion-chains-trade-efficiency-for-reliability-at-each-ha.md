@@ -67,6 +67,24 @@ evidence:
   - id: INS-260404-1A3A
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260404-D916
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-A08A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-1C1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-4B45
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-3082
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-5C36
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 A photon's energy could theoretically be converted to chemical energy in one step, but photosynthesis instead passes excited electrons through four protein complexes (PSII → Cytochrome → PSI → NADP+ reductase), losing energy at each handoff. This seems wasteful — and it is, thermodynamically. But each handoff produces a different useful product: water splitting yields oxygen, the cytochrome complex pumps protons for ATP, and the final step produces NADPH.
 

@@ -66,6 +66,15 @@ evidence:
   - id: INS-260330-22C0
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-1110
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-8947
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-20F3
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Lasse Collin maintained XZ Utils for nearly 20 years without pay. The tool became a dependency of OpenSSH, which secures virtually every Linux server on the internet — including Pentagon systems, nuclear submarines, and all 500 top supercomputers. When Lasse burned out due to mental health issues, the attacker Jia Tan offered to 'help,' eventually gaining full maintainer access.
 

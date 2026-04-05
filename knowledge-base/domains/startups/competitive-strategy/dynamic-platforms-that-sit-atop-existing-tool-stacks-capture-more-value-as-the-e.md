@@ -59,6 +59,10 @@ related:
   - INS-260403-1AD3
   - PRI-260328-A1AA
   - INS-260403-BE7C
+evidence:
+  - id: INS-260323-E559
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Veriti's approach of sitting atop the entire cybersecurity stack rather than replacing individual tools is a powerful strategic pattern. As the cybersecurity market grows (projected $159B to $300B by 2027), every new security product a company adopts increases the need for an orchestration layer like Veriti. This inverts the typical competitive dynamic where new entrants threaten incumbents — instead, ecosystem growth directly fuels demand for the orchestrator.
 

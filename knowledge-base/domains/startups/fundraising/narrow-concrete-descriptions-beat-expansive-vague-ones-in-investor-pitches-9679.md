@@ -65,6 +65,12 @@ evidence:
   - id: INS-260403-20D6
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-72EF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260322-9436
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that as a startup description approaches 'could be anything,' its information content approaches zero. Investors hear phrases like 'collaboratively leverage the value of information' as meaningless boilerplate and mentally discard them. The counterintuitive move is to start with a description that feels misleadingly narrow — 'an easy web-based database' — because that actually lodges in the investor's mind as a concrete thing they can evaluate.
 

@@ -55,6 +55,16 @@ related:
   - INS-260330-85D7
   - INS-260404-52FC
   - INS-260404-6AD7
+evidence:
+  - id: INS-260404-596E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-D916
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-5C36
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, an excited electron doesn't dump all its energy at once. Instead, it passes through a chain of protein complexes (PSII → Cytochrome → PSI), losing a bit of energy at each step. Each step captures that energy for useful work — pumping protons, generating ATP, producing NADPH. A single large energy release would be wasteful and destructive.
 

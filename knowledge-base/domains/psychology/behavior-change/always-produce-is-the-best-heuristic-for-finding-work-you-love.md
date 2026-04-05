@@ -53,6 +53,10 @@ related:
   - INS-260403-449A
   - INS-260329-640C
   - INS-260403-2B63
+evidence:
+  - id: INS-260403-E365
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Graham's 'always produce' heuristic works on two levels simultaneously. First, it's a honesty test: if you claim to want to be a novelist but aren't writing pages of fiction (however bad), you're using the dream as an opiate rather than pursuing it. The gap between stated ambition and actual output reveals self-deception that introspection alone cannot.
 

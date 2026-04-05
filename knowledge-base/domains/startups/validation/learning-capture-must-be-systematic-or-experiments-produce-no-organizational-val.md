@@ -54,6 +54,10 @@ related:
   - INS-260403-1358
   - INS-260404-4E13
   - INS-260405-9DF5
+evidence:
+  - id: INS-260329-6D6C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The value of an experiment is not the data it produces — it's the updated belief and resulting decision. Teams that run tests but informally discuss results in a Slack thread or standup rarely translate those results into documented, actionable decisions. The same hypothesis resurfaces six months later, is tested again, and the organization re-learns what it already knew.
 

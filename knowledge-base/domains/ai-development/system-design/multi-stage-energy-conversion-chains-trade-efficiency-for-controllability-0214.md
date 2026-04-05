@@ -59,6 +59,28 @@ related:
   - INS-260403-6129
   - INS-260403-AC7A
   - INS-260404-F908
+evidence:
+  - id: INS-260330-1298
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-5670
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-696D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-2C71
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-498B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-6F40
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-AC7A
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Rather than converting photon energy directly into sugar, photosynthesis routes excited electrons through a multi-step transport chain: Photosystem II → Cytochrome Complex → Photosystem I → NADPH synthesis, with ATP produced along the way via proton gradients. Each intermediate step loses energy but produces useful currencies (ATP, NADPH) and maintains controllability through concentration gradients.
 

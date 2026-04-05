@@ -50,5 +50,9 @@ related:
   - INS-260403-CA93
   - INS-260403-5B46
   - INS-260403-37FD
+evidence:
+  - id: INS-260402-180C
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham observed that Y Combinator had near-zero effect on Boston's startup scene despite being based there half the year, because funded startups simply moved to wherever follow-on capital was densest. This reveals a fundamental asymmetry: at the seed stage, startups optimize for the best funding terms regardless of location, so regional seed programs end up competing nationally while failing locally. The implication is that cities trying to build startup ecosystems through $15-20K seed grants are spending money to train startups for other cities. Only funding large enough to carry startups past the point where they naturally take root (~$500K-$1M) can anchor them geographically.

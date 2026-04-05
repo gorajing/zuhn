@@ -58,5 +58,11 @@ evidence:
   - id: INS-260327-6D77
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-AFBB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-4E68
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The tradeoff at the heart of screenless AI products is fundamental: the less attention a product demands, the fewer opportunities users have to review what the AI is doing with their data. An AI that triages your email, listens to your meetings, and updates your CRM is extraordinarily powerful — but it's also processing deeply personal and commercially sensitive information with minimal user checkpoints. The essay argues this may not be as big an issue as it seems, partly because the best founders in this space are already privacy-conscious. For builders, the practical implication is that privacy can't be bolted on after the fact. It needs to be a core architectural decision: what data is retained vs. ephemeral, what actions require explicit approval vs. autonomous execution, and how users maintain meaningful control without reintroducing the attention tax the product was designed to eliminate.

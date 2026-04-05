@@ -50,5 +50,8 @@ evidence:
   - id: INS-260326-A7CB
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-AA0B
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Early liver dysfunction shows through right-sided shoulder pain (referred from diaphragm), spider angiomas on skin, persistent itching, dark urine, pale stools, abdominal bloating, and unexplained fatigue -- recognizable before liver enzymes elevate

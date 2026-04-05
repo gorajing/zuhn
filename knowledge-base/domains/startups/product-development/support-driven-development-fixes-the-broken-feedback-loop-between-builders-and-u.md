@@ -64,6 +64,9 @@ evidence:
   - id: INS-260323-B4D2
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-DAC9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Kevin Hale describes support-driven development (SDD) as the single most impactful practice at Wufoo. By requiring every team member—including engineers and designers—to do customer support shifts, the company created a direct feedback loop where builders experienced the consequences of their decisions firsthand. Paul English at Kayak demonstrated the same principle: after the second or third call about the same bug, engineers would stop and fix it permanently rather than endure more calls.
 

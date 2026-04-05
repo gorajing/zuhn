@@ -70,6 +70,12 @@ evidence:
   - id: INS-260402-6BB6
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260405-F99E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-910E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Hormozi distinguishes two fundamental investing philosophies: Bettors (Buffett-style) who find companies trading below intrinsic value and wait for appreciation, versus Builders who have a specific operational hold code — templatized SOPs and playbooks — that they deploy into companies to directly create value. Most private equity combines both, but Hormozi's acquisition.com leans toward building.
 

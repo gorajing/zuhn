@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-20FD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-0214
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The body cannot use food energy directly for muscle contraction, nerve signaling, or membrane transport. It must first convert glucose into ATP — a universal intermediate that every cellular process accepts. This is identical to how economies require currency conversion: raw resources (oil, labor, goods) must be converted to money before they can participate in diverse transactions.
 

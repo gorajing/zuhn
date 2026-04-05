@@ -57,6 +57,12 @@ evidence:
   - id: INS-260404-8E0B
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-726B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-2BA7
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis exists to produce G3P (and from it, glucose) for the plant's own energy needs. Oxygen is literally called a 'useless byproduct' in the process — it's what's left over when water molecules are split to replenish electrons in Photosystem II. Yet this 'waste' enabled the entire animal kingdom, including humans.
 

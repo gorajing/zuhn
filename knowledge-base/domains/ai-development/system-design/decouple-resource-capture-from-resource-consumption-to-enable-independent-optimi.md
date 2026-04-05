@@ -60,6 +60,19 @@ related:
   - INS-260404-0214
   - INS-260404-F908
   - INS-260404-040D
+evidence:
+  - id: INS-260330-20FD
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260403-8125
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-F908
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-040D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Photosynthesis runs in two completely separate stages. The light-dependent reactions harvest photon energy and convert it into two energy-carrying molecules—ATP and NADPH—which act as chemical currency. The Calvin Cycle then draws on that currency independently of whether sunlight is currently available. The thylakoid membrane functions literally like a battery: protons are pumped in to charge it, then released through ATP synthase to generate usable energy.
 

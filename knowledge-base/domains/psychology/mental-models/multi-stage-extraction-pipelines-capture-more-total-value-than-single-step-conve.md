@@ -68,6 +68,9 @@ evidence:
   - id: INS-260404-1A3A
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-545E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, a single photon's energy is not converted to ATP in one step. Instead, the excited electron passes through Photosystem II, the Cytochrome Complex, Photosystem I, and ATP Synthase — each extracting a portion of energy for different purposes (water splitting, proton pumping, NADPH creation, ATP synthesis). No single step could efficiently capture all the energy.
 

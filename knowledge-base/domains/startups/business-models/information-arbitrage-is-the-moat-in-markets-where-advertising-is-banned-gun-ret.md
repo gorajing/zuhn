@@ -49,5 +49,9 @@ related:
   - INS-260402-426C
   - INS-260330-F527
 stance: US gun retail thrives on information gaps
+evidence:
+  - id: INS-260405-C0AF
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Every major publication, social media platform, and search engine bans gun ads. Credit card processors refuse to release transaction data. No equivalent of StockX or eBay analytics exists. This creates a market where a VC-backed startup or corporate entity can't muscle in with cash. Local gun stores fill the knowledge gap between manufacturers and consumers. Success is entirely relationship-based: word of mouth, expertise, and education. Each firearm is like a stock — prices fluctuate on supply/demand for that specific model, and dealers must use intuition and relationships to predict what customers want. The information gap starts upstream at manufacturing and shows up at retail.

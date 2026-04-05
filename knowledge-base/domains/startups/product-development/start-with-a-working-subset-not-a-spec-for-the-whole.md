@@ -51,6 +51,10 @@ related:
   - INS-260325-D4F6
   - INS-260325-2F12
   - INS-260320-4BA8
+evidence:
+  - id: INS-260320-4BA8
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The conventional enterprise approach — write a detailed spec, then implement — implicitly assumes that understanding comes before coding. Graham inverts this: your code IS your understanding of the problem. You can't fully understand the problem without the code in your head, and you can't get the code in your head if the program is too large from the start.
 

@@ -59,6 +59,16 @@ related:
   - INS-260329-CC79
   - PRI-260403-9E80
   - INS-260330-23CD
+evidence:
+  - id: INS-260329-BDCC
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260329-CC79
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-23CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Garbage collectors add non-deterministic pauses — the runtime decides when to reclaim memory, not the programmer. For OS kernels, real-time systems, and performance-critical databases, those pauses are unacceptable. C's manual memory model (allocate with malloc, release with free) puts timing control in the programmer's hands.
 

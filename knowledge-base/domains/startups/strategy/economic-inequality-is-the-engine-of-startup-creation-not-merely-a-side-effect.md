@@ -55,6 +55,10 @@ related:
   - INS-260330-6204
   - INS-260403-C949
   - INS-260405-6DAD
+evidence:
+  - id: INS-260327-D37F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham constructs a chain argument: reducing economic inequality means taking money from the rich, which reduces potential rewards, which reduces risk appetite, which kills startups. The key insight is that inequality isn't just a byproduct of startup success — it's the gravitational force that pulls founders into risky ventures in the first place. Without the possibility of outsized returns, rational actors default to safe career paths like tenured positions or large-company sinecures.
 

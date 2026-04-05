@@ -82,6 +82,9 @@ evidence:
   - id: INS-260330-B771
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-34D7
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Evans articulates a fundamental pattern of platform shifts: the Apple II couldn't run banks, Netscape couldn't do professional video editing, mobile couldn't replace a 5-screen programming rig — but 5 billion people got smartphones while only 800 million had consumer PCs. Each new platform was terrible at what the old thing excelled at, but unlocked entirely new behaviors.
 

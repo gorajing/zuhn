@@ -87,6 +87,9 @@ evidence:
   - id: INS-260404-222A
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-3B91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Costco's radical curation — roughly 4,000 unique items compared to 30,000 at a typical supermarket or 140,000 at Walmart — creates a counterintuitive competitive advantage. By offering only one or two choices per category, suppliers compete intensely for those limited slots, willingly lowering prices and even reengineering products (like the cashew container redesign that saved 24,000 pallets annually).
 

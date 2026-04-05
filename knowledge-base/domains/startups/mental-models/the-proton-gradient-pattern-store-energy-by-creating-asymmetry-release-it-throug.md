@@ -86,6 +86,9 @@ evidence:
   - id: INS-260403-791A
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260404-59B6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The light-dependent reactions work by pumping hydrogen ions into the thylakoid space, creating an ever-increasing concentration gradient. The protons 'naturally want to get away from each other' and the only exit is through ATP synthase, which harnesses that pressure to produce ATP. The energy isn't in any single proton — it's in the asymmetry between the two sides of the membrane.
 

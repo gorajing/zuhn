@@ -3,13 +3,14 @@
 - `INS-260403-03BD` Removing friction from simple tasks doesn't make people lazy — it frees them to attempt harder things.
 - `INS-260329-F362` Naming a block of code 'say_hi' or 'cube' creates a mental handle that lets you think about what the program does rather than how it does it.
 - `INS-260329-DACC` Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
+- `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
+- `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260403-D16C` Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260330-0C49` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
 - `INS-260330-0982` Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
 - `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
-- `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
-- `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
+- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260329-6DED` Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
 - `INS-260329-565E` Hormozi ate the same lunch every day for 2 years, treating meal selection as a solved problem to eliminate daily decision fatigue and preserve cognitive bandwidth for business.
 - `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
@@ -29,7 +30,6 @@
 - `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
 - `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
-- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260404-96C6` A sticky descriptive phrase is a survival necessity in investor pitches because the first filter is simply being remembered.
 - `INS-260404-6C20` The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
 - `INS-260403-5593` Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.

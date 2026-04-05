@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-043E
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260405-86BB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 This collection surfaces the writing-as-thinking principle from multiple angles: Lamport's direct claim, Horace Walpole's 'I never understand anything until I have written about it', and E.B. White's 'the best writing is rewriting.' Together they suggest that the cognitive work happens during the writing process itself — the struggle to make ideas precise enough for language forces clarity that purely mental reasoning cannot achieve.
 

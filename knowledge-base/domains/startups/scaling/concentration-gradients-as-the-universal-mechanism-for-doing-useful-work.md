@@ -56,6 +56,16 @@ related:
   - INS-260403-8294
   - INS-260403-464D
   - INS-260404-4A68
+evidence:
+  - id: INS-260330-F2B6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-24BA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-2BA7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Rather than directly converting electron energy into ATP, chloroplasts pump protons into the thylakoid to 'charge it like a battery.' The concentration gradient — high proton density inside, low outside — creates potential energy that drives ATP synthase as protons flow back through it. The work happens not at the moment of energy input but at the moment of controlled release.
 

@@ -59,5 +59,8 @@ evidence:
   - id: INS-260330-4B4F
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-214B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Statin marketing uses relative risk reduction statistics (30-50% reduction sounds impressive) while the absolute risk reduction is only 1-2% -- meaning 100 people must take statins for years to prevent one event

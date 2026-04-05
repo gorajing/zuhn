@@ -58,6 +58,10 @@ related:
   - INS-260403-D518
   - INS-260404-AE3C
   - INS-260404-1000
+evidence:
+  - id: INS-260327-8048
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when atmospheric oxygen was negligible, so it never needed to distinguish CO2 from O2. Once plants used it to dominate the planet, they had changed the atmosphere—flooding it with oxygen—making RuBisCo fail half the time by grabbing O2 instead of CO2. But by then, every downstream system depended on it.
 

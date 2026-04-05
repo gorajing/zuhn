@@ -77,6 +77,9 @@ evidence:
   - id: INS-260403-F932
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260405-4810
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Brain scientist Kim Dae-sik's perspective: Socrates argued that writing would make humans lazy and intelligence would regress. Europeans panicked when Latin stopped being taught in schools, claiming Western civilization would collapse. Koreans debated Chinese character education. Electronic calculators in schools caused the same uproar. Each time, the fear was about visible phenomena rather than underlying capability.
 

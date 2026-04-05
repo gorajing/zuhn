@@ -51,6 +51,10 @@ related:
   - INS-260403-CA93
   - INS-260403-87CF
   - INS-260403-C381
+evidence:
+  - id: INS-260327-FB98
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham argues that startups are made of people, and the average age of startup founders and early employees falls in the 25-29 bracket. He points to how this demographic shifted Silicon Valley's center of gravity from the peninsula to San Francisco — founders who personally preferred suburban life forced themselves to move to SF because that's where the talent was.
 

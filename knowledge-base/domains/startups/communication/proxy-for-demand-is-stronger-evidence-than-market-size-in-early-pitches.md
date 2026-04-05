@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-EE14
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-0CAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Greg McAdoo of Sequoia calls this 'proxy for demand'—observable behavior that proves people need what you're building. This is fundamentally different from top-down market sizing. A $5B market number is unfalsifiable abstraction; a story about a specific user jury-rigging spreadsheets to solve the problem you address is concrete evidence of pull.
 

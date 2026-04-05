@@ -51,6 +51,16 @@ related:
   - INS-260325-EBDD
   - INS-260325-7FE6
   - INS-260330-41DB
+evidence:
+  - id: INS-260330-9346
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260325-EBDD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260325-7FE6
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Cigarettes went from universally normal (ashtrays in every home) to socially stigmatized over approximately a century, through a combination of spreading knowledge and eventual legislation. But legislation followed customs — it couldn't have led. This means cultural protection is always lagging.
 

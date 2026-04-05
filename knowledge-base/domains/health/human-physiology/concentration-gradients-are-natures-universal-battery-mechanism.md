@@ -56,6 +56,22 @@ related:
   - INS-260330-7FF3
   - INS-260330-21A8
   - INS-260404-037F
+evidence:
+  - id: INS-260404-D39D
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-EE83
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-7FF3
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-21A8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-037F
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The light-dependent reactions of photosynthesis don't directly create usable energy. Instead, they charge the thylakoid membrane like a battery by pumping protons inside through water-splitting and the cytochrome complex. ATP synthase then harvests this gradient as protons push through it, converting ADP to ATP.
 

@@ -61,6 +61,12 @@ evidence:
   - id: INS-260403-384C
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-8C6A
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-100F
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane maintains a concentration gradient of protons — high inside, low outside. This imbalance is potential energy that drives ATP synthase like water turning a turbine. The membrane's key property is that it's selectively permeable: it maintains the gradient while allowing controlled release.
 

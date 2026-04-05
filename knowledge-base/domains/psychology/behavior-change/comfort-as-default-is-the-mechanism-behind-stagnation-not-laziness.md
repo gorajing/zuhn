@@ -54,6 +54,19 @@ related:
   - INS-260329-D9A4
   - INS-260330-4AE7
   - PRI-260328-C918
+evidence:
+  - id: INS-260323-4DF1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260328-B57E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-776B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-4AE7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Itzler describes being professionally successful — sold businesses, married, healthy — yet stuck on autopilot. The critical distinction he makes is between routine (productive structure) and rut (the same structure without growth). The two feel identical from the inside because comfort is the default state in both.
 

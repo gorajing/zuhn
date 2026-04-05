@@ -55,6 +55,10 @@ related:
   - INS-260403-52DB
   - INS-260322-F6AA
   - INS-260403-E642
+evidence:
+  - id: INS-260326-6D53
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The Business Portfolio Map creates a diagnostic by plotting every business model across two paired dimensions: the Execution Engine maps current return against disruption risk, while the Innovation Engine maps gathered evidence against profit potential. A healthy portfolio shows concentration in the top-right of the execution quadrant (high returns, low risk) with a pipeline of ideas progressing through the innovation quadrant.
 

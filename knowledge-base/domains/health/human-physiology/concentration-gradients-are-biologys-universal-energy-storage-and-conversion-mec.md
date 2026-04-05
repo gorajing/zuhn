@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-21A8
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260403-050D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 In photosynthesis, the thylakoid membrane accumulates protons from water splitting and active pumping by the Cytochrome complex, creating a concentration gradient. Protons then flow through ATP synthase 'like water through a turbine,' converting potential energy into ATP. The video describes this as 'charging the thylakoid like a battery.'
 

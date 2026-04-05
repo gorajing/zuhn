@@ -69,6 +69,9 @@ evidence:
   - id: INS-260328-9574
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-86BB
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Productive thinking has a characteristic: it moves toward resolution, even if slowly. Rumination has a different characteristic: it circles the same thoughts repeatedly without progress. The distinction is crucial because rumination feels effortful (creating the illusion of productive engagement) while actually reinforcing the very patterns it appears to address.
 

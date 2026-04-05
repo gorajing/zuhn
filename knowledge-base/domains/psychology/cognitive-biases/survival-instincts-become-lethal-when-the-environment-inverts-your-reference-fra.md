@@ -74,6 +74,9 @@ evidence:
   - id: INS-260330-14CA
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-C663
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 In an inverted sinking helicopter, every survival instinct works against you. Unbuckling your seatbelt (instinct: free yourself) makes you float to what is now the floor, losing all orientation. Holding your breath (instinct: don't inhale water) prevents you from using the emergency air supply. Rising toward air (instinct: surface) takes you deeper into the wreckage. The training exists specifically because the correct actions — stay buckled, breathe through flooded sinuses, remain inverted — violate every evolved response.
 

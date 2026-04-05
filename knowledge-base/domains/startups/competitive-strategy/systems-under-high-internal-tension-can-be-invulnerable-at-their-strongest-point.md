@@ -54,5 +54,9 @@ related:
   - PRI-260325-6400
   - INS-260403-4F1B
   - INS-260403-C5FB
+evidence:
+  - id: INS-260325-6088
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Prince Rupert's Drops withstand direct hammer blows to their head due to massive compressive stress, yet a tiny nick to the thin tail causes total explosive destruction. The tail is where the tension chain is exposed — one break propagates through the entire structure using its own stored energy. This maps directly to business systems: a company can have an incredibly strong core product or brand, but a peripheral vulnerability (a single key-person dependency, an overlooked API integration, a fragile supply chain link) can trigger cascading failure that destroys the whole. The lesson is that auditing for resilience means looking away from the obvious center of strength toward the thin, overlooked connective tissue that holds the system together.

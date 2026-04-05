@@ -73,6 +73,18 @@ evidence:
   - id: INS-260403-76EE
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-2119
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-656A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-13A1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-E9F3
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 When Photosystem II splits water to replace a lost electron, it produces hydrogen ions and oxygen as byproducts. The oxygen is useless to the plant. Yet this 'waste' fundamentally transformed Earth's atmosphere, enabled aerobic respiration, and made all animal life possible. The video calls it 'the most useful useless byproduct in history.'
 
