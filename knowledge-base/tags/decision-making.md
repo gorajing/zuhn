@@ -24,6 +24,14 @@
 - `INS-260330-E403` New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
+- `INS-260325-4A01` Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
+- `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
+- `INS-260325-95EB` Cherry-picking from Stoicism, Epicureanism, and Buddhism feels open-minded but produces a framework that contradicts itself at every genuine decision point.
+- `INS-260330-487E` Purpose acts as an internal radar that cuts through distractions and decision paralysis by giving all choices a directional filter.
+- `INS-260323-846D` The most powerful thing you can do right now is not adding something to your life but cutting — options, information, commitments, and obligations you said yes to without thinking.
+- `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
+- `INS-260323-D7D0` The best thing about getting older is learning to trust the body's signals instead of using the analytical forebrain to override them — every time Huberman overrode his gut, he regretted it.
 - `INS-260330-A151` Destiny's two mental safeguards — argue both sides convincingly, and name what would change your mind — are more effective than claiming objectivity.
 - `INS-260329-BEFB` Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-D432` Judge leaders exclusively by measurable population outcomes like life expectancy and prosperity rather than moral rhetoric or personality.
@@ -39,25 +47,17 @@
 - `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
-- `INS-260325-4A01` Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
-- `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
-- `INS-260325-95EB` Cherry-picking from Stoicism, Epicureanism, and Buddhism feels open-minded but produces a framework that contradicts itself at every genuine decision point.
-- `INS-260330-487E` Purpose acts as an internal radar that cuts through distractions and decision paralysis by giving all choices a directional filter.
-- `INS-260323-846D` The most powerful thing you can do right now is not adding something to your life but cutting — options, information, commitments, and obligations you said yes to without thinking.
-- `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
-- `INS-260323-D7D0` The best thing about getting older is learning to trust the body's signals instead of using the analytical forebrain to override them — every time Huberman overrode his gut, he regretted it.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260404-AF54` Most investors' primary question is 'who else is investing?' — revealing that social proof, not independent analysis, drives the vast majority of investment decisions.
 - `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260329-FD7F` Maximum and minimum values in optimization problems occur precisely where the derivative equals zero — where change momentarily stops.
 - `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
 - `INS-260329-9CBB` The squeeze theorem proves limits by showing a quantity is trapped between two converging bounds, teaching a general strategy of establishing upper and lower bounds when direct computation is impossible.
+- `INS-260330-AA77` If a new element can be expressed as a combination of existing ones, it adds no new capability.
+- `INS-260403-6A77` When an action and its reversal are coupled together, the net effect is always zero — apparent drama masks actual futility.
 - `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260330-B4F1` Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
 - `INS-260329-04CB` Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
-- `INS-260330-AA77` If a new element can be expressed as a combination of existing ones, it adds no new capability.
-- `INS-260403-6A77` When an action and its reversal are coupled together, the net effect is always zero — apparent drama masks actual futility.
 - `INS-260325-BCA6` Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.
 - `INS-260323-44A9` The ideal moral framework balances rational analysis of impact with genuine compassion for well-being — neither alone is sufficient.
 - `INS-260325-BAA4` Ethics are defined externally by professions; morals are internal beliefs — CIA training teaches that moral flexibility (adapting personal convictions to mission requirements) is essential for high-stakes effectiveness.
@@ -89,7 +89,6 @@
 - `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
 - `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
 - `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
-- `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260328-70D3` The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-7C3A` Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
@@ -104,6 +103,7 @@
 - `INS-260327-8254` Horowitz identifies two fatal founder patterns: over-deferring to smart hires because no one else has the CEO's full context, and hesitating on hard decisions until decision debt paralyzes the company.
 - `INS-260328-0B42` Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
 - `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
+- `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
 - `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260404-6394` Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.

@@ -4,9 +4,9 @@
 - `INS-260323-FAF2` Building powerful AI turned out to be far easier than building safe AI, just as building airplanes was far easier than replicating bird flight.
 - `INS-260323-1345` When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
 - `INS-260323-87F3` Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
+- `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260323-C4EE` Meta's codec avatars encode facial expressions into a compact model rather than transmitting full video, achieving photorealism while using less bandwidth than traditional video calls.
 - `INS-260323-4D63` Quest 3's mixed reality breakthrough is making VR more comfortable and practical by layering digital objects onto the physical world rather than fully immersing users.
-- `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260323-17B5` El-Kurd demonstrates how legal systems can be constructed to legitimize displacement, drawing parallels to Jim Crow laws that were technically legal but morally bankrupt.
 - `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
