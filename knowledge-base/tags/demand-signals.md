@@ -10,3 +10,4 @@
 - `INS-260403-1A73` Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
 - `INS-260404-5882` Sequoia's 'proxy for demand' — what are people doing now with bad tools — is more persuasive than market size because it proves behavioral need exists.
 - `INS-260403-EA2D` Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
+- `INS-260404-3879` Investors' biggest early-stage fear is you built from theory not need—specific user stories and inadequate-tool workarounds are the strongest counter-evidence.

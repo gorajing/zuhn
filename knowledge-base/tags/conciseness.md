@@ -8,4 +8,5 @@
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-507E` Describe your startup as a specific, graspable thing rather than abstracting it into meaningless generality.
 - `INS-260404-71F3` Overly broad startup descriptions become meaningless noise that investors immediately discard.
+- `INS-260404-D752` As a pitch description approaches 'could be anything,' its information content approaches zero—investors discard it as boilerplate.
 - `INS-260404-F20B` Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.

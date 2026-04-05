@@ -50,14 +50,13 @@ stance: >-
   cost-reduction strategy rather than an expense.
 related:
   - INS-260330-7E58
-  - INS-260403-8A80
   - INS-260403-E2D9
   - INS-260403-5CB5
   - INS-260403-43E5
   - INS-260404-0FE4
   - INS-260404-E1B0
-  - INS-260404-95FC
   - INS-260404-0572
+  - INS-260404-8A1D
 ---
 Costco's average wage of $21/hour across 245,000 workers is double the U.S. retail average, with better health insurance and retirement benefits on top. The conventional view treats this as a cost; Costco treats it as an investment that returns 3x productivity per worker. Lower turnover reduces hiring and training costs, experienced staff maintain operational efficiency in complex warehouse environments, and employees become brand advocates.
 

@@ -81,6 +81,7 @@
 - `INS-260404-40D1` Smart early-stage investors expect your business model to be wrong — talking about it wastes time and risks being remembered for a bad model rather than a good product.
 - `INS-260403-4A4A` Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
 - `INS-260403-D7C4` Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
+- `INS-260404-A8C0` VCs expect early business models to be wrong—pitching them displaces the interesting signal (your problem and solution) with forgettable noise.
 - `INS-260404-19FE` Mention that you've thought about monetization, but don't elaborate—smart investors expect your business model to change multiple times.
 - `INS-260403-C5C0` Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
 - `INS-260403-24F0` Never say 'we're passionate' or 'our product is great'—investors ignore or penalize explicit self-promotion, responding only to demonstrated conviction.
@@ -129,6 +130,7 @@
 - `INS-260403-B274` Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
 - `INS-260404-D543` As your startup description approaches 'could be anything,' its information content approaches zero—start narrow and expand.
 - `INS-260403-D5F2` Investors discard vague descriptions as boilerplate; narrow concrete ones give them a working mental model to build on.
+- `INS-260404-D752` As a pitch description approaches 'could be anything,' its information content approaches zero—investors discard it as boilerplate.
 - `INS-260404-F20B` Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.
 - `INS-260403-F3FF` Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260404-F560` As a startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.

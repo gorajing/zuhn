@@ -46,13 +46,12 @@ stance: >-
   negotiating power with suppliers because exclusivity in a high-volume channel
   is worth more than shelf presence in a fragmented one
 related:
-  - INS-260403-E143
   - INS-260403-6670
   - INS-260403-180D
   - INS-260404-4B5D
-  - INS-260404-6BA2
+  - INS-260404-222A
   - INS-260404-8C84
-  - INS-260403-0DC2
+  - INS-260404-6BA2
 ---
 By offering only one or two choices per category instead of dozens, Costco transforms each product slot into a winner-take-all competition among suppliers. Brands will lower prices and re-engineer products (like redesigning cashew containers to save 24,000 pallets/year) just to be the chosen option in Costco's limited selection.
 

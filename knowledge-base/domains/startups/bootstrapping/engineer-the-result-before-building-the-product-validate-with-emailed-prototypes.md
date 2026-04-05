@@ -45,11 +45,11 @@ resolutions:
     value proposition.
 related:
   - INS-260320-105E
+  - INS-260404-0095
   - PRI-260323-8EEA
   - INS-260402-2632
   - INS-260404-EBB3
   - INS-260404-37F7
-  - INS-260329-1ECA
 stance: >-
   Opus Clip validated by manually engineering final video outputs and emailing
   them to potential customers, getting 60% positive feedback before writ...

@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 226 insights
+> 227 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -122,6 +122,7 @@
 - `INS-260404-5532` [high] Costco's 75% membership revenue share forces it to optimize for customer retention over per-transaction margins.
 - `INS-260403-BF47` [high] Costco makes 75% of profit from membership fees, which structurally aligns its incentives with delivering maximum customer value.
 - `INS-260403-B2CB` [high] Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
+- `INS-260404-9EDC` [high] When membership fees are the profit center, every price increase trades cents today for dollars of lost renewals tomorrow.
 - `INS-260403-0650` [high] When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` [high] Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260404-C4B9` [high] Making membership the profit center forces the company to optimize for customer value rather than margin extraction.

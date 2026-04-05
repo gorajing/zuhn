@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 294 insights
+> 296 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -89,6 +89,7 @@
 - `INS-260403-4A4A` [high] Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
 - `INS-260403-D7C4` [high] Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6A55` [high] Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
+- `INS-260404-A8C0` [high] VCs expect early business models to be wrong—pitching them displaces the interesting signal (your problem and solution) with forgettable noise.
 - `INS-260404-19FE` [high] Mention that you've thought about monetization, but don't elaborate—smart investors expect your business model to change multiple times.
 - `INS-260403-A172` [high] Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -182,6 +183,7 @@
 - `INS-260403-B274` [high] Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
 - `INS-260404-D543` [high] As your startup description approaches 'could be anything,' its information content approaches zero—start narrow and expand.
 - `INS-260403-D5F2` [high] Investors discard vague descriptions as boilerplate; narrow concrete ones give them a working mental model to build on.
+- `INS-260404-D752` [high] As a pitch description approaches 'could be anything,' its information content approaches zero—investors discard it as boilerplate.
 - `INS-260404-F20B` [high] Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.
 - `INS-260403-F3FF` [high] Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260404-F560` [high] As a startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.

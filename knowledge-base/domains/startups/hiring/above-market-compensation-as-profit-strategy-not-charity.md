@@ -47,13 +47,12 @@ stance: >-
   strategy when it produces proportionally greater productivity gains
 related:
   - INS-260327-D480
-  - INS-260403-8A80
   - INS-260403-3062
   - INS-260403-5CB5
   - INS-260404-0FE4
   - INS-260404-95FC
   - INS-260404-E1B0
-  - INS-260404-1936
+  - INS-260404-8A1D
 ---
 Costco's average wage of $21/hour is double the US retail average, with better health insurance and retirement benefits. Rather than a charitable gesture, this is a calculated investment: Costco employees are three times more productive than the industry average. The math is straightforward — 2x the cost for 3x the output is a 50% efficiency gain.
 

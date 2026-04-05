@@ -11,6 +11,7 @@
 - `INS-260404-523C` With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.
 - `INS-260404-E6EA` When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
 - `INS-260403-1A71` In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
+- `INS-260404-0095` Non-technical audiences who can't evaluate your product will primarily judge it by how impressed you yourself seem with what you've built.
 - `INS-260403-B216` Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
 - `INS-260403-1B2D` Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.
 - `INS-260403-B505` Never explicitly claim passion or greatness — audiences ignore or penalize it, but absorb the same message when conveyed implicitly through behavior and specifics.

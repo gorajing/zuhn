@@ -52,6 +52,6 @@ related:
   - INS-260403-C2CF
   - INS-260404-3217
   - INS-260404-3B9E
-  - INS-260404-9E71
+  - INS-260404-3879
 ---
 The biggest fear investors have with early-stage startups is that founders built something based on a priori theories about what the world needs, with no actual demand. Sequoia calls the antidote 'proxy for demand'—evidence of what people currently do with inadequate tools that shows they need what you're making. The most persuasive stories are about founders' own needs (Apple, Microsoft, Yahoo, Google all grew from founder needs), followed by needs of people founders know personally. This hierarchy works because specificity signals authenticity. Similarly, if people already pay a lot for an existing solution, a cheaper alternative that preserves the valued qualities is an easy sell. The principle extends beyond fundraising: in any persuasion context, concrete stories about specific people with specific problems outperform abstract market analysis.

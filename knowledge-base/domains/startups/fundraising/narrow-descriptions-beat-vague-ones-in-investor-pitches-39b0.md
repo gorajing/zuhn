@@ -53,6 +53,7 @@ related:
   - INS-260404-167D
   - INS-260403-6712
   - INS-260404-F560
+  - INS-260404-D752
 ---
 When founders describe their product vaguely ('a platform to collaboratively leverage information'), investors discard it as meaningless boilerplate. A narrow description like 'web-based database' gives investors a concrete mental model they can then expand. This mirrors incremental development: start with a working prototype description, then flesh it out. The goal isn't to capture your full vision — it's to give investors enough to want a second conversation.
 

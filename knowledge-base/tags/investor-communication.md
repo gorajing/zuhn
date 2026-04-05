@@ -22,6 +22,7 @@
 - `INS-260404-9882` Approach your pitch like successive approximation: start grippingly narrow, then flesh out, rather than starting broad and hoping investors fill in the gaps.
 - `INS-260403-AF27` Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-B274` Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
+- `INS-260404-D752` As a pitch description approaches 'could be anything,' its information content approaches zero—investors discard it as boilerplate.
 - `INS-260404-F20B` Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.
 - `INS-260403-F3FF` Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260404-167D` Pitch a narrow, concrete description first and expand later—vague descriptions register as zero content.

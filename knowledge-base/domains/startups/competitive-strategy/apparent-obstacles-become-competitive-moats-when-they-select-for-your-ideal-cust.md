@@ -50,8 +50,8 @@ related:
   - INS-260403-2C00
   - INS-260404-AC1B
   - INS-260403-243A
+  - INS-260404-B2FB
   - INS-260404-B435
-  - INS-260403-747B
 ---
 The $60-120 annual fee seems like a barrier to customer acquisition, but it functions as a demographic filter: Costco members average nearly $100,000 in household income. Business owners, who make up one-third of members, account for two-thirds of sales. The fee triggers sunk-cost psychology that increases visit frequency and reduces price-comparison shopping.
 

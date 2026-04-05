@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 13 insights
+> 14 insights
 
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
 - `INS-260330-DE16` [high] Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
@@ -15,3 +15,4 @@
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260330-30FB` [medium] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260403-EA93` [medium] Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.
+- `INS-260404-1A3A` [medium] The electron transport chain extracts useful work (ATP, NADPH) by progressively lowering electron energy across four protein complexes rather than trying to capture all energy in one step.

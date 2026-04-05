@@ -51,5 +51,6 @@ related:
   - INS-260404-6388
   - INS-260403-DC64
   - INS-260404-E6EA
+  - INS-260404-47AC
 ---
 Graham makes a counterintuitive argument about signaling under evaluation: trying to seem corporate or knowledgeable about things you don't understand doesn't fool experienced investors — it just obscures your actual strengths. Experienced investors are better at detecting bullshit than hackers are at producing it. This insight generalizes beyond fundraising to any high-stakes evaluation by sophisticated judges. The optimal strategy is candor about what you haven't figured out combined with genuine demonstration of what you have. You don't need to volunteer weaknesses, but attempting to paper over them with performance backfires against calibrated evaluators.

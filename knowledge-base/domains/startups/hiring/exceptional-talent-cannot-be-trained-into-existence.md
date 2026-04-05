@@ -55,7 +55,7 @@ related:
   - INS-260403-8190
   - INS-260403-22DF
   - INS-260404-BE07
-  - INS-260404-0095
+  - INS-260330-2666
 ---
 Paul Graham draws a sharp line between competent and exceptional programmers. Competent programmers can be produced through training programs, but exceptional ones possess an aptitude and deep interest that no curriculum can manufacture. The difference isn't speed — a great programmer invents things an ordinary one wouldn't even think of, potentially worth 100-1000x an average salary.
 

@@ -55,8 +55,8 @@ related:
   - INS-260403-6F52
   - INS-260403-C7A9
   - INS-260404-AFE6
+  - INS-260404-47AC
   - INS-260404-5BBF
-  - INS-260404-DA2E
 ---
 Founders often try to conceal their rawness by acting corporate or pretending expertise they don't have. This backfires because experienced investors are calibrated to detect exactly this kind of performance — they're better at detecting bullshit than most hackers are at producing it.
 

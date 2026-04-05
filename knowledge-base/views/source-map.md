@@ -3,11 +3,11 @@ Generated on 2026-04-05 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 327 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 263 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 245 | 2026-03-31 |
-| How to Do Great Work | blog | 173 | 2026-03-31 |
-| February 2025 Startups Raising Capital | blog | 76 | 2026-03-30 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 331 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 268 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 250 | 2026-03-31 |
+| How to Do Great Work | blog | 178 | 2026-03-31 |
+| February 2025 Startups Raising Capital | blog | 80 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |

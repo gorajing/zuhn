@@ -57,10 +57,10 @@ stance: >-
 related:
   - PRI-260403-7D53
   - INS-260404-1CA4
+  - INS-260404-1A3A
   - INS-260330-0017
   - INS-260330-545E
   - INS-260404-A08A
-  - INS-260403-D2FD
 ---
 Photosynthesis doesn't convert photon energy to glucose in one step. Instead, it runs electrons through four protein complexes, each extracting a portion of energy for a specific purpose (splitting water, pumping protons, generating ATP, producing NADPH). The total conversion efficiency is only about 3-6%, yet this pipeline has powered nearly all life for 450 million years.
 

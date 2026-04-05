@@ -15,5 +15,5 @@
 - `INS-260403-C8FD` A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
 - `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260403-B8A3` Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
-- `INS-260403-FB8E` Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
 - `INS-260404-F8B7` When compliance prevents direct customer conversations, innovation teams collect lower-quality secondhand evidence that leads to worse strategic decisions.
+- `INS-260403-FB8E` Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.

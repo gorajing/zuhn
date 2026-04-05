@@ -1,8 +1,9 @@
 # Topic: scaling
 
-> 157 insights
+> 158 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
+- `INS-260404-8A1D` [high] Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors.
 - `INS-260404-E1FF` [high] Costco pays $21/hour (double retail average) with strong benefits, and gets employees three times more productive than competitors in return.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
 - `INS-260403-365D` [high] Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.

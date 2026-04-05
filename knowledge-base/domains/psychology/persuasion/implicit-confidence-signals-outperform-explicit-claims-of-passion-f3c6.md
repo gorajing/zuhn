@@ -47,7 +47,6 @@ stance: >-
   filters, while demonstrated confidence through behavior is the single biggest
   persuasion lever with low-information audiences.
 related:
-  - INS-260322-7E86
   - INS-260322-AB55
   - INS-260327-7DBC
   - INS-260327-7A5A
@@ -57,6 +56,7 @@ related:
   - INS-260330-15AE
   - INS-260403-B505
   - INS-260403-2F86
+  - INS-260404-CFD5
 ---
 Graham identifies a communication paradox: when audiences lack technical background to evaluate substance, your own confidence becomes the primary evidence they use. But explicit claims ('we're passionate,' 'our product is great') get filtered as noise or worse, mark you as a bullshitter.
 

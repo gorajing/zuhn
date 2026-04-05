@@ -6,3 +6,4 @@
 - `INS-260404-4F3A` Specific user stories beat market-size slides because they directly counter the investor's primary fear: that nobody actually wants your product.
 - `INS-260404-BD56` Specific user stories—especially about your own needs—are the strongest evidence of demand for early-stage startups.
 - `INS-260403-419B` Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.
+- `INS-260404-3879` Investors' biggest early-stage fear is you built from theory not need—specific user stories and inadequate-tool workarounds are the strongest counter-evidence.

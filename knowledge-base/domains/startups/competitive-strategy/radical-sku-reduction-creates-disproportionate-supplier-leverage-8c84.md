@@ -48,7 +48,6 @@ stance: >-
 related:
   - INS-260403-36D8
   - INS-260403-887A
-  - INS-260403-6670
   - INS-260403-E981
   - INS-260403-180D
   - INS-260403-0DC2
@@ -56,6 +55,7 @@ related:
   - INS-260404-4B5D
   - INS-260404-6BA2
   - INS-260404-9B82
+  - INS-260404-222A
 ---
 Conventional retail wisdom says more selection equals more customers. Costco inverts this by offering only 1-2 choices per category across just 4,000 SKUs. This radical constraint creates a winner-take-all dynamic where suppliers compete fiercely for the few available slots, driving down wholesale prices and increasing willingness to customize products (e.g., reengineering cashew containers to save 24,000 pallets/year).
 

@@ -1,8 +1,9 @@
 # Topic: communication
 
-> 39 insights
+> 40 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
+- `INS-260404-47AC` [high] Investors hunt for raw talent, not polished surfaces—corporate cosplay and knowledge-faking conceal the very thing they're looking for.
 - `INS-260404-864F` [high] Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
 - `INS-260404-621F` [high] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.

@@ -49,13 +49,13 @@ stance: >-
 related:
   - INS-260327-4D70
   - INS-260327-4431
-  - INS-260330-F125
   - INS-260402-426C
-  - INS-260403-17A3
   - INS-260403-2074
   - INS-260404-3B9E
   - INS-260404-9E71
   - INS-260403-1444
   - INS-260403-419B
+  - INS-260404-CF2A
+  - INS-260404-4024
 ---
 Graham cites Sequoia's Greg McAdoo on the concept of 'proxy for demand' — observable evidence that people are already struggling with inadequate tools to do what your product enables. This is more powerful than market sizing because it addresses the fundamental investor anxiety at seed stage: not 'is the market big enough?' but 'does anyone actually want this?' The hierarchy of persuasiveness is: your own need (Apple, Microsoft, Yahoo, Google all grew from founders' personal needs), then needs of people you know personally, then observed needs of strangers. Market size slides are compared to an aspiring actor citing Tom Hanks' salary — technically relevant but completely premature. The important question isn't the destination size but the evidence you can get there.

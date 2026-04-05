@@ -61,8 +61,8 @@ related:
   - INS-260404-596E
   - INS-260404-A08A
   - INS-260404-D916
+  - INS-260404-1A3A
   - INS-260330-F671
-  - INS-260330-545E
 ---
 A photon's energy could theoretically be converted to chemical energy in one step, but photosynthesis instead passes excited electrons through four protein complexes (PSII → Cytochrome → PSI → NADP+ reductase), losing energy at each handoff. This seems wasteful — and it is, thermodynamically. But each handoff produces a different useful product: water splitting yields oxygen, the cytochrome complex pumps protons for ATP, and the final step produces NADPH.
 

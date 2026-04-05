@@ -48,7 +48,6 @@ resolutions:
     more vulnerable than you think.'
 related:
   - INS-260324-6017
-  - INS-260322-7723
   - INS-260322-D7B1
   - INS-260327-7C15
   - INS-260327-6F79

@@ -4,6 +4,7 @@
 - `INS-260404-E6EA` When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
 - `INS-260403-1A71` In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - `INS-260404-D672` When investors can't evaluate the tech, your own confidence becomes the largest piece of evidence they use to form an opinion.
+- `INS-260404-0095` Non-technical audiences who can't evaluate your product will primarily judge it by how impressed you yourself seem with what you've built.
 - `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260403-05DF` Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 - `INS-260404-C887` Show don't tell applies to confidence — saying 'we're passionate' gets you written off as a bullshitter, while demonstrating mastery creates belief.
@@ -61,6 +62,7 @@
 - `INS-260404-9158` Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
 - `INS-260404-F139` Mention monetization briefly to show you've thought about it, then redirect to problem and product.
 - `INS-260404-40D1` Smart early-stage investors expect your business model to be wrong — talking about it wastes time and risks being remembered for a bad model rather than a good product.
+- `INS-260404-A8C0` VCs expect early business models to be wrong—pitching them displaces the interesting signal (your problem and solution) with forgettable noise.
 - `INS-260404-19FE` Mention that you've thought about monetization, but don't elaborate—smart investors expect your business model to change multiple times.
 - `INS-260403-5C8E` Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.

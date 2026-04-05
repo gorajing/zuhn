@@ -10,5 +10,6 @@
 - `INS-260404-029D` Costco's $60 membership fee and confusing warehouse layout filter for affluent, high-spending customers rather than repelling them.
 - `INS-260404-5587` Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
 - `INS-260404-B086` Costco's $60 membership fee, confusing warehouse layout, and bulk-only sizing all seem like obstacles but actually select for affluent, high-spending customers with $100K average household income.
+- `INS-260404-B2FB` Costco's $60 membership fee filters for affluent households averaging $100K income, with business owners generating two-thirds of sales.
 - `INS-260403-2AE7` Converting obstacles like confusing layouts and upfront fees into deal-hunting excitement and club exclusivity builds emotional loyalty that pure convenience cannot match.
 - `INS-260403-0CF7` Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.

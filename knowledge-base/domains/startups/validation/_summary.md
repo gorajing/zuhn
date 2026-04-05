@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 148 insights
+> 150 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -15,6 +15,7 @@
 - `INS-260403-DF7F` [high] Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - `INS-260403-22D3` [high] Test customer desirability cheaply before committing to expensive technology builds.
 - `INS-260327-CECA` [high] Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
+- `INS-260404-8050` [high] Oxygen is a 'useless byproduct' of photosynthesis that became the foundation for all animal life — the most consequential side effect in biological history.
 - `INS-260403-1BCC` [high] Replace opinion-gathering with experiments that require customers to sacrifice something real — time, money, or reputation.
 - `INS-260404-FF0B` [high] Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 - `INS-260403-8CE6` [high] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
@@ -114,6 +115,7 @@
 - `INS-260404-9A82` [high] Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
 - `INS-260404-9E71` [high] Investors' biggest early-stage fear is that you built something nobody wants — specific user stories and proxy-for-demand signals neutralize this more than market data.
 - `INS-260403-19C0` [high] Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.
+- `INS-260404-3879` [high] Investors' biggest early-stage fear is you built from theory not need—specific user stories and inadequate-tool workarounds are the strongest counter-evidence.
 - `INS-260330-E8C6` [high] Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
 - `INS-260404-D1E2` [high] Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 - `INS-260330-F268` [high] If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.

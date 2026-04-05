@@ -3,13 +3,13 @@
 - `INS-260322-7DD5` 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260322-22B3` An individual's philosophy, experiences, and accumulated wisdom become the essential 'data' that makes AI agents useful — without rich human input to personalize around, even the most powerful agent is an empty shell.
-- `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
+- `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260323-5609` Glasses positioned on the face can see what you see and hear what you hear, making them the natural endpoint for personalized AI that needs continuous context.
 - `INS-260402-BF2E` When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
-- `INS-260330-CFAD` Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine.
 - `INS-260327-A048` British PM Eden personally despised Nasser and compared him to Hitler, making the Suez response about personal vendetta rather than calculated national interest.
+- `INS-260330-CFAD` Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine.
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
 - `INS-260403-CCC3` Managing chatter requires building a personalized toolkit across three domains: solo techniques, social strategies, and environmental design.
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.

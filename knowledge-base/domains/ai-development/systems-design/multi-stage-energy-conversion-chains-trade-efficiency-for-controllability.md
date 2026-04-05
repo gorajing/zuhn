@@ -49,7 +49,6 @@ stance: >-
   more useful work than attempting direct conversion, despite lower theoretical
   efficiency.
 related:
-  - INS-260327-1C1B
   - INS-260330-9A83
   - INS-260330-3082
   - PRI-260403-7D53
@@ -59,6 +58,7 @@ related:
   - INS-260404-596E
   - INS-260404-DDB5
   - INS-260404-2D92
+  - INS-260330-4B45
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, it routes electron energy through a long chain of protein complexes, each extracting a small amount of energy for specific useful work — pumping protons, generating ATP, producing NADPH. The overall efficiency is low (~6%), but each intermediate step produces precisely controlled outputs.
 

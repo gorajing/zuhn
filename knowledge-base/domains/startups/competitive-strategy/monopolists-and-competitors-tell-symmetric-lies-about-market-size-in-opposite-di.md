@@ -55,13 +55,13 @@ related:
   - INS-260324-6017
   - INS-260324-8C6F
   - INS-260321-5C24
-  - INS-260327-575D
   - INS-260327-C6DC
   - INS-260327-EE5E
   - INS-260327-325B
   - INS-260327-2A58
   - PRI-260328-33E5
   - INS-260329-B6DF
+  - INS-260329-64A3
 ---
 Thiel identifies a critical pattern: monopolies and perfectly competitive businesses appear similar from the outside because both systematically misrepresent their market size, but in opposite directions. Google describes itself as a 'technology company' competing in a $1 trillion market (3.5% share) rather than a search engine with 66% dominance. Meanwhile, a restaurant in Palo Alto claims to be 'the only British food restaurant in Palo Alto' — an intersection so narrow it's fictitious.
 

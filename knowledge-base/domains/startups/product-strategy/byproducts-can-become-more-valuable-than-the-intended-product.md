@@ -49,13 +49,11 @@ stance: >-
   rather than the designed primary output, and recognizing this inversion is a
   strategic advantage.
 related:
-  - INS-260330-C607
-  - INS-260330-3AB4
-  - INS-260330-C7C2
   - INS-260403-882A
   - INS-260404-D8A5
+  - INS-260330-C607
+  - INS-260330-3AB4
   - INS-260330-E786
-  - INS-260403-C0D4
 evidence:
   - id: INS-260330-E786
     type: EXTENDS
