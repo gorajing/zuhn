@@ -51,10 +51,10 @@ stance: >-
   specialization, not the reverse
 related:
   - INS-260330-6411
-  - INS-260330-8E45
   - INS-260330-40DA
   - INS-260330-2B8F
-  - INS-260329-9D26
+  - INS-260404-0214
+  - INS-260330-8E45
 evidence:
   - id: INS-260329-9D26
     type: TRANSFERS_TO

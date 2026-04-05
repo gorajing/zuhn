@@ -56,8 +56,8 @@ related:
   - INS-260404-103B
   - INS-260403-22FE
   - INS-260403-4363
+  - INS-260404-37F7
   - INS-260404-5343
-  - INS-260404-ED0F
 ---
 Graham identifies that investors at Demo Day often lack the technical background and time to evaluate what founders have built, so the single biggest piece of initial evidence becomes the founders' own confidence. Crucially, this must be shown not told — saying 'we're passionate' or 'our product is great' triggers skepticism, while implicit confidence (speaking about the problem with authority, treating the pitch as doing investors a favor) signals genuine conviction.
 

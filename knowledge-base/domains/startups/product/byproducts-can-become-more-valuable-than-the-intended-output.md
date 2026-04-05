@@ -54,6 +54,7 @@ related:
   - INS-260403-882A
   - INS-260404-15E4
   - INS-260404-E60B
+  - INS-260404-E9F3
 ---
 When early organisms evolved photosynthesis, oxygen was literally toxic waste — a byproduct of splitting water to harvest electrons. These organisms had no use for it. Over billions of years, this 'waste' accumulated in the atmosphere and became the essential substrate for aerobic respiration, enabling all complex animal life including humans.
 

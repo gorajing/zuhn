@@ -47,9 +47,9 @@
 - `INS-260329-640C` Sustained success comes from tolerating difficulty, not from feeling passionate about the work.
 - `INS-260329-CEC5` Branding is the deliberate pairing of your product with outcomes your ideal customer values, not identity design.
 - `INS-260403-3831` Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
-- `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
-- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-9C20` When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
 - `INS-260329-3473` When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.
+- `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-C56D` Invest 60 minutes daily in structured sales training: 25min script reading aloud, 5min objection drilling, and 30min recorded call review.
 - `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.

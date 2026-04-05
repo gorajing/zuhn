@@ -8,6 +8,7 @@
 - `INS-260403-CED6` When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
 - `INS-260404-A193` When revenue comes from renewals rather than markups, the company is incentivized to keep prices low and quality high.
 - `INS-260404-62D5` Membership-fee businesses are structurally incentivized to keep prices low because revenue depends on renewal, not markup.
+- `INS-260404-1E28` When revenue comes from renewals, the company's survival depends on continuously impressing customers rather than maximizing per-transaction profit.
 - `INS-260404-98F5` Costco makes 75% of revenue from memberships, so low prices protect renewals rather than sacrificing profit.
 - `INS-260404-0000` When membership fees are the primary revenue source, the company's survival depends on continuously proving value rather than extracting margin.
 - `INS-260403-59F8` Making membership the primary revenue source forces the company to prioritize long-term customer satisfaction over short-term margin extraction.
@@ -45,6 +46,7 @@
 - `INS-260404-1B66` Extreme product curation concentrates buying power into fewer suppliers, creating leverage that funds lower prices.
 - `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260404-CEA8` Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
+- `INS-260404-0572` Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
 - `INS-260403-83A8` Carrying 4,000 SKUs instead of 140,000 makes each slot so valuable that suppliers will cut prices and customize products to win placement.
 - `INS-260404-6A20` Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
 - `INS-260404-1936` Costco's $21/hr average wage (2x retail average) produces employees 3x more productive than competitors.

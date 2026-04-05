@@ -51,5 +51,6 @@ related:
   - INS-260404-0000
   - INS-260404-37B5
   - INS-260403-0650
+  - INS-260404-1E28
 ---
 Costco derives 75% of its profit from membership fees, not product sales. This creates a fundamentally different incentive structure than traditional retail: raising prices generates pennies today but risks losing $60-120 in annual renewal revenue. The self-imposed 15% maximum markup rule is not charity — it's rational behavior when your business model depends on renewal rates (90% for Costco). This pattern generalizes beyond retail: any business that shifts its primary revenue to access fees rather than transaction margins will naturally optimize for sustained customer satisfaction over short-term extraction. The key distinction from loyalty programs like Amazon Prime is that Costco's membership isn't layered on top of a margin-based model — it IS the model.

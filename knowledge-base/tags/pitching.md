@@ -9,6 +9,7 @@
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
 - `INS-260404-24FB` Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260404-D8C7` A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
+- `INS-260404-6EB8` Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.
 - `INS-260404-621F` Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - `INS-260404-756D` If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.
@@ -50,6 +51,7 @@
 - `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260404-93E3` Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
+- `INS-260404-BD17` Skip detailed business model discussion in early pitches — investors expect it to be wrong and will remember the bad model instead of your good product.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
@@ -86,6 +88,7 @@
 - `INS-260404-438C` When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - `INS-260403-06E0` Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
+- `INS-260404-1BFF` Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
 - `INS-260404-3161` Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - `INS-260403-37E2` Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
 - `INS-260404-683B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless boilerplate.
@@ -141,6 +144,7 @@
 - `INS-260403-FC45` Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
 - `INS-260403-21C4` Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
+- `INS-260404-29F4` Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
 - `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - `INS-260404-3217` Investors' biggest early-stage fear is that you built from theory, not need — specific user stories and 'proxy for demand' signals directly counter this.
 - `INS-260404-AC2B` Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.

@@ -54,9 +54,9 @@ related:
   - INS-260404-B01F
   - INS-260404-7609
   - INS-260404-B887
+  - INS-260404-29F4
   - INS-260403-035A
   - INS-260403-1A73
-  - INS-260403-1444
   - INS-260404-EE85
 ---
 Graham identifies the core investor anxiety at early stage: that founders built something based on a priori theories rather than actual need. Specific user stories are the antidote. Sequoia calls this 'proxy for demand' — evidence of what people do today with inadequate tools that proves they need what you're making.

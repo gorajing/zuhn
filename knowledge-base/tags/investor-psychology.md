@@ -38,6 +38,7 @@
 - `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260404-93E3` Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
+- `INS-260404-BD17` Skip detailed business model discussion in early pitches — investors expect it to be wrong and will remember the bad model instead of your good product.
 - `INS-260403-C496` Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260403-481F` Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.

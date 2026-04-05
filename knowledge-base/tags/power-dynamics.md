@@ -9,10 +9,10 @@
 - `INS-260330-0FAF` Which words are 'worst' shifts historically: religious oaths were most taboo when the church held power, bodily words when Victorian propriety reigned, and identity slurs now that social equality is the dominant moral framework.
 - `INS-260327-1D3D` When the technological gap between groups becomes large enough, it creates the same social dynamics as perceived divine power - dependence, worship, and unquestioning obedience.
 - `INS-260330-E3ED` Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
+- `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260330-F8A2` The British created separate Christian, Jewish, and Muslim institutions in Palestine specifically to prevent unified Palestinian opposition.
 - `INS-260403-47C0` Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.
 - `INS-260330-3ECE` Rosalind Franklin's open data-sharing with Watson and Crick directly enabled them to claim credit for the DNA double helix discovery.
-- `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260330-3084` Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
 - `INS-260330-7BF5` Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
 - `INS-260403-498A` As startups need less capital, founders retain more equity and control, compressing investor ownership inexorably.

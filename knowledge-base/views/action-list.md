@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3898 actionable insights
+Generated on 2026-04-05 | 3905 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1155,7 +1155,6 @@ Generated on 2026-04-05 | 3898 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
-- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -1704,6 +1703,7 @@ Generated on 2026-04-05 | 3898 actionable insights
 - [INS-260404-132E] Demonstrate demand by showing what people painfully do today with bad tools, not by citing market size numbers.
 - [INS-260404-0CD8] Never say 'we're passionate' or 'our product is great'—such messages must be implicit or audiences write you off as bullshitters.
 - [INS-260404-65BE] Explicitly claiming passion or quality triggers skepticism; implicitly demonstrating it through behavior is far more persuasive.
+- [INS-260404-37F7] When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2047,6 +2047,7 @@ Generated on 2026-04-05 | 3898 actionable insights
 - [INS-260404-C2BC] If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 - [INS-260404-3C46] Crafting a single memorable phrase for your startup doubles as a test of strategic focus.
 - [INS-260404-616F] Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
+- [INS-260404-6EB8] Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2256,6 +2257,7 @@ Generated on 2026-04-05 | 3898 actionable insights
 - [INS-260404-462B] Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
 - [INS-260404-26AE] RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
 - [INS-260404-6E47] Costco's membership fee filters for affluent households averaging $100K income, ensuring high per-visit spending and loyal renewal behavior.
+- [INS-260404-E9F3] Oxygen is technically a waste byproduct of water-splitting in photosynthesis, yet it became the foundation of all animal life on Earth.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2951,6 +2953,9 @@ Generated on 2026-04-05 | 3898 actionable insights
 - [INS-260404-BD56] Specific user stories—especially about your own needs—are the strongest evidence of demand for early-stage startups.
 - [INS-260404-4682] Convertible notes with different caps reward early-committing investors and break the deadlock of everyone waiting on everyone else.
 - [INS-260404-64EC] Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
+- [INS-260404-BD17] Skip detailed business model discussion in early pitches — investors expect it to be wrong and will remember the bad model instead of your good product.
+- [INS-260404-1BFF] Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
+- [INS-260404-29F4] Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3173,6 +3178,7 @@ Generated on 2026-04-05 | 3898 actionable insights
 - [INS-260403-5018] Choose the startup with the most determined founders over the smartest ones, treating your time as equity investment.
 - [INS-260404-DBD2] You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 - [INS-260404-FE95] Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
+- [INS-260404-0572] Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3925,6 +3931,7 @@ Generated on 2026-04-05 | 3898 actionable insights
 - [INS-260404-30CA] Costco's $60 membership fee, confusing warehouse layout, and bulk-only format all filter for affluent, high-spending customers while creating loyalty through sunk-cost psychology.
 - [INS-260404-E65A] Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.
 - [INS-260404-86F8] Costco's $60 membership fee, confusing layouts, and bulk-only quantities each filter for affluent, high-spending customers who become loyal advocates.
+- [INS-260404-5587] Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

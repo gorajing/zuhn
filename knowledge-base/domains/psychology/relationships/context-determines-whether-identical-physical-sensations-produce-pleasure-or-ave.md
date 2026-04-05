@@ -51,7 +51,6 @@ stance: >-
   primary variable in sexual experience rather than technique or stimulation
   type.
 related:
-  - INS-260322-7E86
   - INS-260323-5D23
   - INS-260330-6D52
   - INS-260330-88B0

@@ -48,7 +48,6 @@ resolutions:
     terawatt becomes feasible. This directly challenges the 'energy is the AI
     bottleneck' thesis — it's only the bottleneck if you stay on Earth.
 related:
-  - INS-260325-2906
   - INS-260322-B8E6
   - INS-260323-5955
   - INS-260328-8445

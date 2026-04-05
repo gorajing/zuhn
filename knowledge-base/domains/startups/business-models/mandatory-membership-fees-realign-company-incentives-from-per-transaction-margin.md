@@ -51,5 +51,6 @@ related:
   - INS-260404-98F5
   - INS-260403-5C88
   - INS-260404-5C4B
+  - INS-260404-1E28
 ---
 Costco derives 75% of its profit from membership fees, which fundamentally changes its pricing calculus. Raising the price of any item gains pennies today but risks losing $60-120 in annual renewal revenue. This creates a self-reinforcing loop: low prices drive high renewal rates (90%), which fund further price reductions. The key insight for business model design is that shifting your primary revenue mechanism from transaction margin to access fees can permanently realign your incentives with the customer's, making 'customer-first' not a slogan but a mathematical inevitability.

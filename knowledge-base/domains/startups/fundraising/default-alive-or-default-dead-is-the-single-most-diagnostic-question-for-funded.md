@@ -49,9 +49,9 @@ related:
   - INS-260327-E68D
   - INS-260404-7C79
   - INS-260403-87AC
+  - INS-260404-1E28
   - INS-260329-49A4
   - INS-260403-FC36
-  - INS-260403-458A
 ---
 Paul Graham argues that the single most important question for any startup past its first 8-9 months is whether it's 'default alive' — meaning it will reach profitability on its current trajectory without additional funding. Half of founders don't know the answer, which is itself a red flag.
 

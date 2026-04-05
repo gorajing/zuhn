@@ -1,5 +1,6 @@
 # Tag: investor-communication
 
+- `INS-260404-1BFF` Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
 - `INS-260404-3161` Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - `INS-260403-37E2` Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
 - `INS-260404-683B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless boilerplate.

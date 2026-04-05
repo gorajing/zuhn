@@ -55,9 +55,9 @@ related:
   - INS-260404-0BB0
   - INS-260404-8AB9
   - INS-260404-FE9F
-  - INS-260404-167D
   - INS-260404-C03F
   - INS-260404-A450
+  - INS-260404-1BFF
 ---
 Founders resist concise descriptions because early-stage startups have many possibilities, and a tight description feels misleadingly narrow. But Graham argues this instinct is backwards: as you approach a description of something that could be anything, the content approaches zero. Investors will discard vague language like 'collaboratively leverage the value of information' as meaningless boilerplate.
 

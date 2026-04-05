@@ -54,13 +54,12 @@ stance: >-
 related:
   - INS-260325-1709
   - INS-260330-3EE4
-  - INS-260330-E5DC
   - INS-260403-979D
   - INS-260404-0BED
+  - INS-260404-03E7
   - INS-260403-818F
   - INS-260330-DF69
   - INS-260330-A3EB
-  - INS-260403-9F4B
 ---
 RuBisCo evolved when atmospheric oxygen was negligible, so distinguishing between CO2 and O2 was unnecessary. But photosynthesis itself filled the atmosphere with oxygen, turning RuBisCo's design assumption into a critical flaw. The enzyme now grabs the wrong molecule roughly half the time — and because every plant on Earth depends on it, the problem is essentially unfixable at scale.
 

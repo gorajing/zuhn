@@ -51,10 +51,11 @@ related:
   - INS-260320-E872
   - INS-260403-047B
   - INS-260403-EE70
-  - INS-260403-9AB3
   - INS-260403-507E
   - INS-260404-0430
   - INS-260404-F20B
+  - INS-260404-1BFF
+  - INS-260403-9AB3
 ---
 Paul Graham observes that as a startup description approaches 'could be anything,' its information content approaches zero. Founders resist narrow descriptions because they feel misleadingly limited, but investors process pitches serially and will discard boilerplate like 'collaboratively leverage the value of information' without retaining anything.
 

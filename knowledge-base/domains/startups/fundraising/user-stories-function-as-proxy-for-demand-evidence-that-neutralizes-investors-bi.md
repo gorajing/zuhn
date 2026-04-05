@@ -49,11 +49,12 @@ stance: >-
   effective way to counter the core investor fear that you've built something
   nobody actually wants
 related:
+  - INS-260404-29F4
   - INS-260404-B887
   - INS-260403-1444
   - INS-260403-035A
   - INS-260404-3217
-  - INS-260404-2FC0
   - INS-260404-AC2B
+  - INS-260404-2FC0
 ---
 The biggest fear investors have with early-stage startups is that founders built something based on their own theories about what the world needs, with no actual demand. Sequoia explicitly looks for a 'proxy for demand' — what are people doing now with inadequate tools that proves they need what you're making. The hierarchy of demand evidence is: your own need (Apple, Microsoft, Google all started this way and experienced investors know it), needs of people you know personally, and then observable market behavior like people paying a lot for inferior alternatives. Each level closer to direct personal experience carries more credibility. This explains why founder-market fit stories are so effective — they simultaneously demonstrate domain expertise, authentic motivation, and existence of real demand.

@@ -49,7 +49,6 @@ stance: >-
   The most transformative output of a process is often an unintended byproduct
   rather than the designed primary product.
 related:
-  - INS-260330-5670
   - INS-260330-90B6
   - INS-260330-30FB
   - INS-260404-8E0B

@@ -50,11 +50,11 @@ stance: >-
   you because investors expect the model to be wrong and will remember you for
   the bad model instead of the good problem.
 related:
+  - INS-260404-BD17
   - INS-260404-5483
   - INS-260403-1852
   - INS-260403-0267
   - INS-260404-983E
-  - INS-260404-32B5
   - INS-260403-600F
   - INS-260403-1290
   - INS-260403-D7C4

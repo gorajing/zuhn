@@ -43,7 +43,7 @@ related:
   - INS-260329-9E6C
   - PRI-260328-A4AC
   - INS-260403-FAE1
-  - INS-260330-FF09
+  - INS-260404-1E28
 ---
 Resource businesses that maximize short-term extraction rates deplete reserves faster, while those that manage sustainably sacrifice near-term revenue.
 

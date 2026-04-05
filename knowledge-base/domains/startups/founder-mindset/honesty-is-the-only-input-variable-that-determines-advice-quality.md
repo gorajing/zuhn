@@ -46,9 +46,9 @@ stance: >-
 related:
   - PRI-260320-8205
   - INS-260403-4363
+  - INS-260404-37F7
   - INS-260404-F3C6
   - INS-260404-58AE
-  - INS-260403-9DE0
 evidence:
   - id: INS-260320-508F
     type: TRANSFERS_TO

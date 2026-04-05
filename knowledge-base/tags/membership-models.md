@@ -11,6 +11,7 @@
 - `INS-260404-62D5` Membership-fee businesses are structurally incentivized to keep prices low because revenue depends on renewal, not markup.
 - `INS-260404-12A4` Mandatory fees force companies to continuously justify membership value, aligning long-term incentives with customer satisfaction.
 - `INS-260403-1C25` Mandatory fees force companies to optimize for long-term customer satisfaction since raising prices risks losing the entire membership revenue stream.
+- `INS-260404-1E28` When revenue comes from renewals, the company's survival depends on continuously impressing customers rather than maximizing per-transaction profit.
 - `INS-260404-98F5` Costco makes 75% of revenue from memberships, so low prices protect renewals rather than sacrificing profit.
 - `INS-260404-0000` When membership fees are the primary revenue source, the company's survival depends on continuously proving value rather than extracting margin.
 - `INS-260403-59F8` Making membership the primary revenue source forces the company to prioritize long-term customer satisfaction over short-term margin extraction.

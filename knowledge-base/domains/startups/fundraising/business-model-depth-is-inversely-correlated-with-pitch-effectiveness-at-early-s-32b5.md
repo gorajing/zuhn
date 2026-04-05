@@ -46,9 +46,7 @@ stance: >-
   fundraising because it replaces discussion of things you know deeply (the
   problem) with guesses investors expect to be wrong anyway.
 related:
-  - INS-260330-A38C
   - INS-260330-3899
-  - INS-260403-C625
   - INS-260403-600F
   - INS-260403-0267
   - INS-260403-E319
@@ -56,5 +54,7 @@ related:
   - INS-260403-8346
   - INS-260403-270E
   - INS-260403-3482
+  - INS-260403-88E8
+  - INS-260403-2DE3
 ---
 Paul Graham recounts a VC who invested in a company knowing their business model was 'crap' and would change three times. This reveals an asymmetry founders miss: investors at the early stage are evaluating problem-solving ability and technical depth, not revenue projections. When you spend precious pitch minutes on business model details, you're replacing high-signal content (your unique insight into the problem, what you've built) with low-signal content (guesses about monetization). Worse, a spectacularly wrong business model can become the thing investors remember about you, eclipsing the actual substance of your work.

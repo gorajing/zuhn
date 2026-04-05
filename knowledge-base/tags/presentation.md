@@ -5,6 +5,7 @@
 - `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260404-DD77` Never tell an audience you're passionate—show it through specificity and demeanor, because explicit confidence claims trigger bullshit detectors.
 - `INS-260403-2F86` Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
+- `INS-260404-37F7` When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
 - `INS-260404-6388` When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
 - `INS-260404-EBB3` When audiences can't evaluate your technical work, your own visible confidence becomes their strongest evidence of quality — but it must be shown, never stated.
 - `INS-260404-523C` With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.

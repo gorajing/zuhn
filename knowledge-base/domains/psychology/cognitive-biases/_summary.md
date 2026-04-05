@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 274 insights
+> 275 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -265,6 +265,7 @@
 - `INS-260329-8CA0` [medium] Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-AA9D` [medium] University of Chicago research shows iPhone ownership predicts high income with 70% accuracy, making the upgrade cycle a status maintenance ritual rather than a technology decision.
 - `INS-260330-12FB` [medium] Crude norm violations trigger alarm while sophisticated ones fly under the radar, creating a dangerous detection gap.
+- `INS-260404-7C3F` [medium] Costco's mandatory membership triggers sunk-cost reasoning more reliably than Amazon Prime because there's no self-sorting calculation — you've already paid to enter.
 - `INS-260330-383F` [medium] Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260323-1670` [medium] If the Moon is necessary for complex life, then its improbable formation should be expected — because we can only ask the question in universes where it happened, a form of selection bias that applies to evaluating any rare event.
 - `INS-260330-66EF` [medium] Fossil evidence shows foragers were healthier than early farmers, yet every independent civilization chose agriculture anyway.

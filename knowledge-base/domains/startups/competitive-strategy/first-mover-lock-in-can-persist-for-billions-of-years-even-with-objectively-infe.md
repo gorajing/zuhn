@@ -54,8 +54,8 @@ related:
   - INS-260403-1731
   - INS-260404-26AE
   - INS-260330-D4CC
+  - INS-260404-B1AB
   - INS-260403-637C
-  - INS-260330-E039
 ---
 RuBisCo is objectively bad at its job — it's slow, confused by oxygen, and requires plants to produce enormous quantities to compensate. Yet no alternative carbon fixation pathway has displaced it across the dominant plant kingdom. The reason is pure lock-in: every downstream metabolic pathway, every cellular structure, every regulatory mechanism was built assuming RuBisCo's specific outputs and behavior.
 

@@ -43,13 +43,12 @@ stance: >-
   The ability to measurably improve at a craft through deliberate practice is
   sufficient proof that objective quality standards exist in that domain.
 related:
-  - INS-260328-EBBC
   - INS-260330-B153
   - INS-260322-A928
+  - INS-260404-37F7
   - INS-260322-C6CE
   - INS-260403-2F86
   - INS-260402-D2C9
-  - PRI-260320-3032
 ---
 Paul Graham's central argument is elegantly simple: if denying good taste forces you to deny that any artist is better than a random eight-year-old, the premise is obviously false. The existence of skill gradients — observable when you try to paint and compare your work to Bellini's — proves that quality is real.
 

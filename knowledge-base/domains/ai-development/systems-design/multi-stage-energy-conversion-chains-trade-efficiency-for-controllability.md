@@ -53,12 +53,12 @@ related:
   - INS-260330-9A83
   - INS-260330-3082
   - PRI-260403-7D53
-  - INS-260403-6129
   - INS-260403-2918
   - INS-260403-7738
   - INS-260404-1CA4
   - INS-260404-596E
   - INS-260404-DDB5
+  - INS-260404-2D92
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, it routes electron energy through a long chain of protein complexes, each extracting a small amount of energy for specific useful work — pumping protons, generating ATP, producing NADPH. The overall efficiency is low (~6%), but each intermediate step produces precisely controlled outputs.
 

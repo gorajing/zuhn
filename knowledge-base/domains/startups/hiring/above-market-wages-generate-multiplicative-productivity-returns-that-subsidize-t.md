@@ -49,7 +49,6 @@ stance: >-
   produces productivity gains that more than offset the higher labor costs,
   making it a rational economic strategy rather than charity.
 related:
-  - INS-260330-7E58
   - INS-260403-8A80
   - INS-260403-E2D9
   - INS-260403-5CB5

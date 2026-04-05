@@ -56,7 +56,7 @@ related:
   - INS-260330-A3EB
   - INS-260403-9F4B
   - INS-260330-DF69
-  - INS-260404-B7B6
+  - INS-260404-03E7
   - INS-260404-C663
 ---
 RuBisCo evolved to fix carbon in an atmosphere with minimal oxygen. Plants then changed their own environment by producing oxygen as a photosynthesis byproduct. RuBisCo couldn't distinguish O2 from CO2, so it began silently failing on roughly half its reactions — producing toxic phosphoglycolate instead of useful products. The enzyme never 'noticed' the problem; plants had to evolve entirely separate detoxification systems.

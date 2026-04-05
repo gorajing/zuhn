@@ -52,10 +52,10 @@ stance: >-
   principle across biological, economic, and computational systems.
 related:
   - INS-260330-1298
+  - INS-260404-0214
   - INS-260404-F908
   - INS-260404-F8E6
   - INS-260404-8E0B
-  - INS-260403-5C74
 evidence:
   - id: INS-260330-E8CF
     type: EXTENDS

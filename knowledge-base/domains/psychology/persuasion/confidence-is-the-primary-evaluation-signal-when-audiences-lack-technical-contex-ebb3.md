@@ -57,8 +57,8 @@ related:
   - INS-260403-B08E
   - INS-260403-DC64
   - INS-260404-E6EA
-  - INS-260404-6388
   - INS-260404-D672
+  - INS-260404-E86B
 ---
 Graham identifies that between brief presentation time and non-technical audiences, many investors simply cannot evaluate the actual product. In this information vacuum, the founder's own confidence becomes the dominant signal. But there's a critical distinction: you must show confidence implicitly, never state it explicitly.
 

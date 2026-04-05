@@ -2,9 +2,9 @@
 
 - `INS-260322-8147` The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
-- `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
+- `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260321-4B99` Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
 - `INS-260325-A19C` TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
 - `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
@@ -26,6 +26,7 @@
 - `INS-260404-37BB` Offering fewer choices per category forces suppliers to compete for limited slots, driving prices down far more than bulk purchasing alone.
 - `INS-260404-3EA3` Costco stocks only 4,000 items vs 140,000 at Walmart, turning extreme curation into extreme supplier leverage.
 - `INS-260404-57E3` Costco's 4,000 SKUs vs Walmart's 140,000 creates extreme supplier competition for limited slots, driving prices down.
+- `INS-260404-76FF` Costco's 4,000 SKUs vs Walmart's 140,000 means each slot is enormously valuable, giving Costco leverage to demand lower prices and custom product engineering.
 - `INS-260404-7F16` Costco stocks only 4,000 SKUs versus Walmart's 140,000, giving it enormous leverage because suppliers compete fiercely for limited shelf space.
 - `INS-260404-AB9A` Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it outsized supplier leverage.
 - `INS-260403-36D8` Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.

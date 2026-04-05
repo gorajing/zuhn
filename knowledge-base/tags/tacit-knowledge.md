@@ -12,8 +12,8 @@
 - `INS-260330-B68F` JJ, an indigenous guide, can draw 19 conclusions from a single set of animal tracks that a trained Western naturalist sees as just impressions in sand.
 - `INS-260325-2AA0` Experimental archaeologists who physically recreate ancient technologies discover knowledge that decades of artifact analysis missed entirely.
 - `INS-260325-B974` A hairdresser, survivalists, and indigenous communities have all corrected academic archaeologists because practical craft knowledge reveals what artifact analysis misses.
-- `INS-260330-E670` Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
 - `INS-260403-802D` The learning from direct customer testing is tacit and compounding — it cannot be transferred through reports, making founder-led discovery non-delegable.
+- `INS-260330-E670` Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
 - `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.
 - `INS-260325-A070` Traditional archaeology tells you what the past looked like; experimental archaeology — physically making and doing things — reveals what it sounded, tasted, and smelled like, and answers questions theory cannot.
 - `INS-260325-78E9` A professional hairdresser with no archaeology training solved the mystery of ancient Roman hairstyles that had stumped academics for centuries — embodied skill reveals what theory cannot.

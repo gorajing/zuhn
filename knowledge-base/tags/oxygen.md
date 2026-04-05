@@ -6,6 +6,7 @@
 - `INS-260403-99CE` Oxygen — the gas that enabled all animal life — is literally a waste product of photosynthesis's water-splitting reaction.
 - `INS-260330-57E6` PSII splits water to replace stolen electrons, producing oxygen as literal waste — yet this byproduct enabled the entire aerobic biosphere.
 - `INS-260330-C7C2` Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
+- `INS-260404-E9F3` Oxygen is technically a waste byproduct of water-splitting in photosynthesis, yet it became the foundation of all animal life on Earth.
 - `INS-260403-B4F1` All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
 - `INS-260403-227B` Oxygen—the gas that enabled all complex animal life—is technically just the waste product of photosynthesis splitting water to replace lost electrons.
 - `INS-260404-0FEB` Oxygen — the gas that enabled all animal life — is a waste byproduct of photosynthesis's water-splitting step, not its intended product.

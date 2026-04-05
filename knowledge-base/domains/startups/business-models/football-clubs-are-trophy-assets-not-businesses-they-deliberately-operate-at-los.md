@@ -46,7 +46,7 @@ related:
   - INS-260324-468C
   - INS-260327-58AC
   - INS-260404-7325
-  - INS-260327-CCAE
+  - INS-260404-1E28
 stance: >-
   European football clubs generate billions in revenue from merchandise, TV
   rights, and sponsorships

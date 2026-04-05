@@ -43,8 +43,8 @@ related:
   - INS-260324-748A
   - INS-260403-458A
   - INS-260327-A5F9
+  - INS-260404-1E28
   - INS-260403-ADB3
-  - INS-260404-7C79
 ---
 Haunted house operators must generate an entire years revenue in 4-6 weeks, creating extreme operational intensity and high fixed-cost risk from weather or low attendance.
 

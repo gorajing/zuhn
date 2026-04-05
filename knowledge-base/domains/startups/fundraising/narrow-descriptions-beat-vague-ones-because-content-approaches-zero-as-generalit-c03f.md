@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260321-3660
   - INS-260402-B66A
-  - INS-260403-208D
   - INS-260403-EE70
   - INS-260403-9AB3
   - INS-260403-39B0
@@ -61,6 +60,7 @@ related:
   - INS-260404-0430
   - INS-260404-0BB0
   - INS-260403-6712
+  - INS-260404-F560
 ---
 Paul Graham uses a calculus analogy: as your description approaches something that 'could be anything,' its content approaches zero. Investors discard vague sentences like 'collaboratively leverage the value of information' as meaningless boilerplate. The counterintuitive insight is that a description which feels misleadingly narrow to founders — 'an easy web-based database' — is actually more compelling because it gives investors a concrete mental model to build on.
 

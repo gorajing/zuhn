@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 38 insights
+> 39 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-864F` [high] Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
@@ -27,6 +27,7 @@
 - `INS-260404-CF2A` [high] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 - `INS-260404-24FB` [medium] Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260330-76DA` [medium] Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
+- `INS-260404-6EB8` [medium] Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.
 - `INS-260403-2FE1` [medium] A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
 - `INS-260404-040D` [medium] Photosynthesis decouples light capture from sugar production via ATP/NADPH intermediaries, enabling flexibility that direct conversion could never achieve.
 - `INS-260403-85F1` [medium] Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.

@@ -5,6 +5,7 @@
 - `INS-260404-D242` Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
 - `INS-260404-24FB` Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260404-D8C7` A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
+- `INS-260404-6EB8` Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.
 - `INS-260404-621F` Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - `INS-260404-756D` If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.

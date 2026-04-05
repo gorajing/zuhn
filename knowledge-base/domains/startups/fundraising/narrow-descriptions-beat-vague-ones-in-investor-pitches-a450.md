@@ -55,6 +55,7 @@ related:
   - INS-260404-8AB9
   - INS-260404-FE9F
   - INS-260404-D543
+  - INS-260404-1BFF
 ---
 Founders resist concise descriptions because early-stage startups have many possibilities, and narrow descriptions feel misleading. But Paul Graham argues this is backwards: the calculus limit of a description that could be anything is zero content. Investors will discard vague sentences as meaningless boilerplate.
 

@@ -14,8 +14,8 @@
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
-- `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
+- `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260404-CA58` Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.

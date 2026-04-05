@@ -3,8 +3,10 @@
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
+- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 - `INS-260404-24FB` Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260404-D8C7` A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
+- `INS-260404-6EB8` Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.
 - `INS-260404-621F` Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - `INS-260404-756D` If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.
@@ -39,10 +41,12 @@
 - `INS-260323-181D` Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260327-3574` Pitch a mindset shift in the world, not your product's features — this transforms you from an arrogant doctor into a movement leader.
 - `INS-260322-8BC5` Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
+- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - `INS-260403-448F` A single sticky descriptive phrase is the minimum requirement for investor recall, and inability to create one signals insufficiently focused plans.
 - `INS-260403-06E0` Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
+- `INS-260404-1BFF` Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
 - `INS-260404-3161` Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - `INS-260403-37E2` Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
 - `INS-260404-3A71` Narrow descriptions that risk seeming limiting actually convey more information than expansive ones that try to capture all possibilities.
@@ -88,10 +92,8 @@
 - `INS-260403-FC45` Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
 - `INS-260403-21C4` Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
-- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260327-5B47` The painkiller market is $7B, vitamins are $36B, candy is $70-80B — a single product in a single deal may need candy messaging (delight stories) for users, vitamin messaging (benefit word-of-mouth) for evaluators, and painkiller messaging (prescriptive facts) for executives.
-- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 - `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260404-9783` Costco turns membership fees, confusing layouts, and bulk-only sizing into loyalty drivers and competitive moats.

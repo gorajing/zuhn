@@ -4,8 +4,8 @@
 - `INS-260403-E21C` Anonymous attribution rules produce more honest and valuable organizational learning than public case studies.
 - `INS-260403-97D6` Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 - `INS-260325-B8D4` The optimal failure response is 'forgive and remember' -- psychological safety for admission plus systematic learning from mistakes.
-- `INS-260326-C657` Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
 - `INS-260325-887D` The three failure responses are forgive-and-forget (no learning), blame-and-humiliate (no honesty), and forgive-and-remember (learning happens) — only the third works.
+- `INS-260326-C657` Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
 - `INS-260329-5A24` Declaring amnesty for past failures lets teams diagnose the real problem instead of defending their territory.
 - `INS-260403-96FA` The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
 - `INS-260403-E1AD` Leaders must delay their own questions and create space for others to question first to avoid turning inquiry into implicit commands.

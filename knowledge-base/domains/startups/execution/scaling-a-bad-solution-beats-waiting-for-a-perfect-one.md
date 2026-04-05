@@ -48,7 +48,6 @@ stance: >-
   optimal one
 related:
   - INS-260323-A1FE
-  - INS-260330-2F74
   - INS-260330-BFA2
   - INS-260404-EC33
   - INS-260404-47F5
@@ -57,6 +56,7 @@ related:
   - INS-260404-B04F
   - INS-260403-C514
   - INS-260403-558D
+  - INS-260404-9229
 ---
 RuBisCo is objectively terrible at its job — it confuses oxygen for CO2 roughly half the time, creating toxic byproducts that plants must expend additional energy to neutralize. Yet plants never replaced it. Instead, they went all-in on the strategy, producing staggering quantities to compensate for per-unit inefficiency.
 

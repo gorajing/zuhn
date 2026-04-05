@@ -41,7 +41,6 @@ stance: >-
   fixed time delay, not a permanent competitive disadvantage
 related:
   - INS-260327-4B5A
-  - INS-260327-E68D
   - INS-260330-78B1
   - INS-260403-ADB3
   - INS-260330-37F6

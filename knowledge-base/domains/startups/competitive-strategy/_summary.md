@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 535 insights
+> 537 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -59,6 +59,7 @@
 - `INS-260327-50CE` [high] When a business sells membership in an exclusive social group rather than a product or service, pricing is determined by
 - `INS-260327-4BC6` [high] Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs i
 - `INS-260327-19E5` [high] When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tole
+- `INS-260404-E9F3` [high] Oxygen is technically a waste byproduct of water-splitting in photosynthesis, yet it became the foundation of all animal life on Earth.
 - `INS-260403-D85D` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all complex animal life — side effects of a process can eclipse the intended output in value.
 - `INS-260330-57BB` [high] Son's strategy of offering 5x what companies asked for pressured them into unsustainable growth-at-all-costs playbooks while scaring away competitors.
 - `INS-260403-0E11` [high] The failure front in a Prince Rupert's Drop is powered by the drop's own stored mechanical energy, not by the force that nicked the tail.
@@ -339,6 +340,7 @@
 - `INS-260404-37BB` [high] Offering fewer choices per category forces suppliers to compete for limited slots, driving prices down far more than bulk purchasing alone.
 - `INS-260404-3EA3` [high] Costco stocks only 4,000 items vs 140,000 at Walmart, turning extreme curation into extreme supplier leverage.
 - `INS-260404-57E3` [high] Costco's 4,000 SKUs vs Walmart's 140,000 creates extreme supplier competition for limited slots, driving prices down.
+- `INS-260404-76FF` [high] Costco's 4,000 SKUs vs Walmart's 140,000 means each slot is enormously valuable, giving Costco leverage to demand lower prices and custom product engineering.
 - `INS-260404-7F16` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, giving it enormous leverage because suppliers compete fiercely for limited shelf space.
 - `INS-260404-AB9A` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it outsized supplier leverage.
 - `INS-260403-36D8` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.

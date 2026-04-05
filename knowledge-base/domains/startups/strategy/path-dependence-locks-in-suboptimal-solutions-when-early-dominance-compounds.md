@@ -57,6 +57,7 @@ related:
   - INS-260403-8CD3
   - INS-260404-4010
   - INS-260330-C02D
+  - INS-260404-B1AB
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and oxygen scarce, making its poor selectivity irrelevant. When oxygen levels rose, it began grabbing O2 instead of CO2 roughly half the time, creating toxic byproducts. Yet plants doubled down — producing massive quantities and evolving cleanup pathways rather than replacing the enzyme.
 

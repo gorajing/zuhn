@@ -55,8 +55,8 @@ related:
   - INS-260403-1852
   - INS-260403-3482
   - INS-260403-6A55
+  - INS-260404-BD17
   - INS-260404-5483
-  - INS-260404-40D1
 ---
 Paul Graham recounts a VC who invested in a company despite knowing their business model was wrong — because he expected it to be wrong at that stage, even from experienced founders. The business model is just guesses about stuff that probably isn't your expertise.
 

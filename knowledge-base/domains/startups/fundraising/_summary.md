@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 288 insights
+> 291 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -56,6 +56,7 @@
 - `INS-260403-6982` [high] A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260404-589C` [high] At the early stage, business model details are your worst material — mention you've thought about it, then move on to the problem and product.
 - `INS-260404-93E3` [high] Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
+- `INS-260404-BD17` [high] Skip detailed business model discussion in early pitches — investors expect it to be wrong and will remember the bad model instead of your good product.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` [high] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
@@ -137,6 +138,7 @@
 - `INS-260403-78B7` [high] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
 - `INS-260403-06E0` [high] Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` [high] Describe your startup as a specific thing rather than an abstract platform that could be anything.
+- `INS-260404-1BFF` [high] Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
 - `INS-260404-3161` [high] Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - `INS-260403-37E2` [high] Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
 - `INS-260404-3A71` [high] Narrow descriptions that risk seeming limiting actually convey more information than expansive ones that try to capture all possibilities.
@@ -234,6 +236,7 @@
 - `INS-260330-9B90` [high] Uncle-and-neighbor investors who put in $5-10K each cause the most downstream problems because they eventually want their money back for personal needs.
 - `INS-260330-EE5E` [high] Small investors who don't understand startup timelines (uncles, neighbors putting in $5-10K) become the most problematic investors because they treat startup equity like a short-term liquid investment.
 - `INS-260330-478B` [high] Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
+- `INS-260404-29F4` [high] Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
 - `INS-260403-39F9` [high] Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - `INS-260404-3217` [high] Investors' biggest early-stage fear is that you built from theory, not need — specific user stories and 'proxy for demand' signals directly counter this.
 - `INS-260404-AC2B` [high] Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
