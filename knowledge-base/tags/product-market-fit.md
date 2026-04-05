@@ -3,6 +3,7 @@
 - `INS-260322-55D8` ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
 - `INS-260325-060A` Elena Verna argues AI companies must re-find PMF every 3 months because capability shifts make yesterday's differentiator today's baseline.
 - `INS-260325-5CA5` 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
+- `INS-260403-99DE` Stablecoins pegged to USD represent over 90% of the $135B stablecoin market cap, making digital dollars the dominant crypto use case.
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260404-CF2A` Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
@@ -25,6 +26,8 @@
 - `INS-260403-EDFC` Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260403-538C` Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
+- `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
+- `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
 - `INS-260404-29F4` Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
 - `INS-260404-AC2B` Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
@@ -32,8 +35,6 @@
 - `INS-260404-3B9E` Investors' top fear is you built something nobody wants — specific user stories and 'proxy for demand' evidence neutralize this better than market size numbers.
 - `INS-260403-1949` Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260403-1A73` Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
-- `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
-- `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
 - `INS-260327-A8B6` Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
 - `INS-260327-8388` AI apps have lower daily-to-monthly active user ratios and worse retention than mobile peers, signaling that the transition from weekly tinkering to daily habit is the key unsolved product problem.
@@ -55,13 +56,9 @@
 - `INS-260403-FDD8` Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260404-1E47` The customer profile (jobs, pains, gains) should drive value proposition design, not the other way around.
+- `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260327-A815` A repeatable sales motion means a non-founder can sell and close — you know your ICP, your pitch, your lead sources, and deals move predictably through the funnel before you hire a sales leader.
 - `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.
-- `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
-- `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
-- `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
-- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
-- `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260323-D679` Fireship got 3,121 free signups from his massive YouTube audience but only 0.3% converted to paid — proving that free distribution masks product-market fit failure until the money conversation starts.
 - `INS-260330-E089` Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
@@ -84,4 +81,7 @@
 - `INS-260330-5ED4` Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
 - `INS-260327-FC5D` Finding the one feature that drives the aha moment is very hard, but your customers will tell you through their behavior.
 - `INS-260403-B635` Having a few users who truly love your product matters infinitely more than having many indifferent users.
-- `INS-260403-99DE` Stablecoins pegged to USD represent over 90% of the $135B stablecoin market cap, making digital dollars the dominant crypto use case.
+- `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
+- `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
+- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
+- `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.

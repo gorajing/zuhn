@@ -1,14 +1,11 @@
 # Tag: storytelling
 
-- `INS-260322-7E86` Listeners connect to how a song makes them feel, not how technically impressive the production is.
 - `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
+- `INS-260325-DF66` Lawrence Wright argues the novel is the only art form that lets you truly enter another person's mind — journalism shows the surface, fiction reveals the interior.
+- `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260404-132E` Demonstrate demand by showing what people painfully do today with bad tools, not by citing market size numbers.
 - `INS-260403-3421` Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
 - `INS-260403-1EB3` Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
-- `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
-- `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
-- `INS-260325-DF66` Lawrence Wright argues the novel is the only art form that lets you truly enter another person's mind — journalism shows the surface, fiction reveals the interior.
-- `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260404-D711` Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
 - `INS-260403-CC25` Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
@@ -53,3 +50,6 @@
 - `INS-260404-3D06` Tell stories about specific users and their problems rather than citing market sizes—investors fear you've built something nobody actually wants.
 - `INS-260404-9A82` Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
 - `INS-260404-3879` Investors' biggest early-stage fear is you built from theory not need—specific user stories and inadequate-tool workarounds are the strongest counter-evidence.
+- `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
+- `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
+- `INS-260322-7E86` Listeners connect to how a song makes them feel, not how technically impressive the production is.

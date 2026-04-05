@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 82 insights
+> 83 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -70,6 +70,7 @@
 - `INS-260403-D16C` [medium] Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260403-160C` [medium] When commonly used words have drifted far from their original meanings, people unknowingly talk past each other using the same vocabulary.
 - `INS-260404-32C5` [medium] Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
+- `INS-260405-2849` [medium] Erdős's 'God's book' intuition — that the best proofs feel found, not made — points to a real distinction between constructed arguments and universal truths.
 - `INS-260330-5F6C` [medium] The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260403-2702` [medium] Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260330-0764` [medium] Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.

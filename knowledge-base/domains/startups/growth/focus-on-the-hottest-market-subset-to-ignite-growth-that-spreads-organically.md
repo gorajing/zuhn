@@ -47,15 +47,15 @@ stance: >-
   market.
 related:
   - INS-260321-807B
-  - INS-260324-CBD3
   - INS-260321-822B
-  - INS-260327-D0F4
   - INS-260327-505A
   - INS-260328-ACC3
   - INS-260402-15A7
   - INS-260403-EAC6
   - INS-260403-1BD8
   - INS-260403-8BE9
+  - INS-260327-D0F4
+  - PRI-260328-1D90
 ---
 When Airbnb needed to get growth started during YC, they identified New York City as their hottest market through search data. Rather than trying to grow everywhere, they went to New York in person, visited hosts, and even rented a professional camera to take photos of listings themselves. This hands-on, geographically concentrated approach created a density of quality supply that attracted demand, which then spread organically.
 

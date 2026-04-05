@@ -102,9 +102,11 @@
 - `INS-260403-0F5C` Sequoia's 'proxy for demand'—people using bad tools to solve your problem—is the strongest early-stage fundraising signal.
 - `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
 - `INS-260403-1034` Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
+- `INS-260405-C22F` Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
 - `INS-260330-C8E1` Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
 - `INS-260330-A38C` Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
+- `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
 - `INS-260404-BD56` Specific user stories—especially about your own needs—are the strongest evidence of demand for early-stage startups.
 - `INS-260403-EA8C` Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
 - `INS-260403-419B` Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.

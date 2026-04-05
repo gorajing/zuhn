@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 224 insights
+> 225 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -209,6 +209,7 @@
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
 - `INS-260403-C4BE` [medium] Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
+- `INS-260405-A103` [medium] The Calvin Cycle produces 6 G3P molecules per turn but must use 5 of them to regenerate the starting molecules — only 1 net output escapes per cycle, meaning 83% of output is structural overhead.
 - `INS-260403-7BBD` [medium] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260330-498B` [medium] Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.
 - `INS-260329-1F3F` [medium] Burning your escape routes forces the persistence that passion-based motivation cannot sustain.

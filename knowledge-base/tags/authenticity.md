@@ -12,15 +12,12 @@
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
 - `INS-260327-8B1A` You can't know yourself in others' company because social settings automatically activate performance mode.
 - `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
-- `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
-- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
-- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
-- `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
 - `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260327-7F6A` Thompson's gonzo journalism was both his greatest creative achievement and commercially unsustainable - the paradox every creative person faces between authenticity and viability.
 - `INS-260323-C2F1` After his father's death, McConaughey discovered that excessive reverence for dreams and people kept him from fully engaging — reducing reverence while maintaining respect enabled courage.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
+- `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260327-37C8` Thompson's self-destruction wasn't separate from his creativity - it was the cost of trying to maintain authenticity while the world demanded he become a product.
 - `INS-260327-8DFE` Giertz sharing her brain tumor journey publicly created deeper audience loyalty than any product launch, because genuine vulnerability builds trust that curated content cannot.
@@ -45,3 +42,6 @@
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
 - `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260330-E8C6` Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
+- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
+- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
+- `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.

@@ -45,10 +45,10 @@ stance: >-
   correction while blank slates require building from nothing.
 related:
   - INS-260326-4F90
+  - INS-260405-2849
   - INS-260403-C313
   - PRI-260403-88F5
   - INS-260403-EA82
-  - INS-260403-E8DD
   - INS-260329-6004
 evidence:
   - id: INS-260323-FEDF

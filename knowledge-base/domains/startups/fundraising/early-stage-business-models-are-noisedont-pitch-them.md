@@ -50,11 +50,11 @@ stance: >-
 related:
   - INS-260327-D6C5
   - INS-260403-98F3
+  - INS-260405-C22F
   - INS-260403-270E
   - INS-260403-A709
   - INS-260404-983E
   - INS-260403-A172
-  - INS-260404-40D1
 ---
 Graham cites a VC who invested in a company despite knowing their business model was wrong and would change three times. The founders were experienced repeat entrepreneurs who'd just raised millions, and even their model was 'crap.' The investor expected it to be crap at that stage.
 

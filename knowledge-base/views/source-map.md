@@ -3,11 +3,11 @@ Generated on 2026-04-05 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 347 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 303 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 280 | 2026-03-31 |
-| How to Do Great Work | blog | 196 | 2026-03-31 |
-| February 2025 Startups Raising Capital | blog | 85 | 2026-03-30 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 351 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 308 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 285 | 2026-03-31 |
+| How to Do Great Work | blog | 200 | 2026-03-31 |
+| February 2025 Startups Raising Capital | blog | 89 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -292,6 +292,7 @@ Generated on 2026-04-05 | 2421 sources
 | AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
 | Airwallex: How an Outsider Built an $8B Fintech Empire | blog | 5 | 2026-03-30 |
 | AI’s Fastest Growth Cycle Yet⚡, The VC Fund Trap📉, State of AI 2025🤖 | blog | 5 | 2026-03-30 |
+| Alien Truth | blog | 5 | 2026-03-31 |
 | "All Lawful Use": Much More Than You Wanted To Know | blog | 5 | 2026-03-30 |
 | America must embrace the Electric Age, or fall behind | blog | 5 | 2026-03-30 |
 | America's chip export controls are working | blog | 5 | 2026-03-30 |
@@ -342,6 +343,7 @@ Generated on 2026-04-05 | 2421 sources
 | Does anyone know why we're still doing tariffs? | blog | 5 | 2026-03-30 |
 | Earnestness | blog | 5 | 2026-03-31 |
 | Economic Inequality | blog | 5 | 2026-03-31 |
+| Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor Should Understand in 2026 | blog | 5 | 2026-03-30 |
 | Europe to US: The Expansion Playbook Every Founder Needs | blog | 5 | 2026-03-30 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
 | Financial Modeling Examples for Founders: A Startup Guide with Templates | blog | 5 | 2026-03-30 |
@@ -455,6 +457,7 @@ Generated on 2026-04-05 | 2421 sources
 | Software with a Soul: AI's Underestimated Frontier | blog | 5 | 2026-03-31 |
 | Solo Founders Take the Lead🔥, Startup Market Report📊, Projected 2026 IPOs🚀 | blog | 5 | 2026-03-30 |
 | Some Heroes | blog | 5 | 2026-03-31 |
+| Something feels weird about this economy | blog | 5 | 2026-03-30 |
 | SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
 | Stackable Business Models in the Age of AI | blog | 5 | 2026-03-31 |
 | Startup Fundraising Resources: Investor Lists 2026 | blog | 5 | 2026-03-30 |
@@ -954,9 +957,11 @@ Generated on 2026-04-05 | 2421 sources
 | From Sci-Fi to Reality 🗣️ | blog | 4 | 2026-03-30 |
 | Gangster affordability | blog | 4 | 2026-03-30 |
 | Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 4 | 2026-03-30 |
+| Giving AI Agents Purchasing Power | blog | 4 | 2026-03-30 |
 | Global Ranking of the Most Valuable Private Startups in 2025 | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
+| GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 4 | 2026-03-30 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 4 | 2026-03-30 |
 | Haters | blog | 4 | 2026-03-31 |
 | Having Kids | blog | 4 | 2026-03-31 |
@@ -1071,6 +1076,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
 | The Anatomy of Determination | blog | 4 | 2026-03-31 |
 | The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 4 | 2026-03-30 |
+| The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 4 | 2026-03-30 |
 | The Citrini post is just a scary bedtime story | blog | 4 | 2026-03-30 |
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 4 | 2026-03-30 |
 | The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 4 | 2026-03-30 |
@@ -1088,6 +1094,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Island Test | blog | 4 | 2026-03-31 |
 | The Lean Startup is Dead⚰️, AGI Delusion?🤖, Top Leadership Books📚 | blog | 4 | 2026-03-30 |
 | The List of N Things | blog | 4 | 2026-03-31 |
+| The New World for Entrepreneurs 🌍, State of Private Markets 🔍, AI Eating Software 🚀 | blog | 4 | 2026-03-30 |
 | The Other Half of "Artists Ship" | blog | 4 | 2026-03-31 |
 | The Patent Pledge | blog | 4 | 2026-03-31 |
 | The Pooled-Risk Company Management Company | blog | 4 | 2026-03-31 |
@@ -2136,7 +2143,6 @@ Generated on 2026-04-05 | 2421 sources
 | Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix) | blog | 0 | 2026-03-31 |
 | Alex Osterwalder: “Companies can’t outsource the validation of their ideas” | blog | 0 | 2026-03-31 |
 | Alex Osterwalder On Inventing The Future With Business Model Innovation | blog | 0 | 2026-03-31 |
-| Alien Truth | blog | 0 | 2026-03-31 |
 | All the ways to grow your product | blog | 0 | 2026-03-31 |
 | AMA (Ask Machines Anything) | blog | 0 | 2026-03-30 |
 | Amazon Prime: There's No Such Thing As Free Streaming | blog | 0 | 2026-03-31 |
@@ -2244,7 +2250,6 @@ Generated on 2026-04-05 | 2421 sources
 | Elena Verna | blog | 0 | 2026-03-26 |
 | Elon Musk sues OpenAI ⚖️, Rethinking the startup MVP 🔄, The Future of Digital Health 🩺, & more! | blog | 0 | 2026-03-30 |
 | Elon Musk, xAI, and the Logic of Vertical Integration | blog | 0 | 2026-03-30 |
-| Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor Should Understand in 2026 | blog | 0 | 2026-03-30 |
 | Elon Musk’s xAI raises Monster $6B Series B for AI Supercomputer and Grok 3 | blog | 0 | 2026-03-30 |
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
@@ -2259,10 +2264,8 @@ Generated on 2026-04-05 | 2421 sources
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
 | General and Surprising | blog | 0 | 2026-03-31 |
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
-| Giving AI Agents Purchasing Power | blog | 0 | 2026-03-30 |
 | Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 0 | 2026-03-30 |
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
-| GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 417.5 | blog | 0 | 2026-03-30 |
@@ -2320,7 +2323,6 @@ Generated on 2026-04-05 | 2421 sources
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
 | Short Dive: The Trump Administration's Fiscal Strategy | blog | 0 | 2026-03-30 |
-| Something feels weird about this economy | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
 | Sponsorships | blog | 0 | 2026-03-30 |
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
@@ -2336,7 +2338,6 @@ Generated on 2026-04-05 | 2421 sources
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
-| The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
@@ -2349,7 +2350,6 @@ Generated on 2026-04-05 | 2421 sources
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Need to Read | blog | 0 | 2026-03-31 |
-| The New World for Entrepreneurs 🌍, State of Private Markets 🔍, AI Eating Software 🚀 | blog | 0 | 2026-03-30 |
 | The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 0 | 2026-03-30 |
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |

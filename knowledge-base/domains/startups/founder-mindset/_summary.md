@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 312 insights
+> 313 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -262,6 +262,7 @@
 - `INS-260328-C2CB` [medium] Michael Seibel's 21-year-old plan — '20s money, 30s family, 40s government, retire and teach' — guided two decades of decisions despite being four words.
 - `INS-260325-4CBB` [medium] When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
 - `INS-260322-92D7` [medium] Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
+- `INS-260405-1D7B` [medium] Applying a threshold heuristic generously — including borderline cases rather than excluding them — protects against missing important ideas.
 - `INS-260329-A7E2` [medium] For each friend, ask: does this person increase or decrease my probability of hitting my goal? If decrease, remove them.
 - `INS-260329-64A3` [medium] Arbitrage — same asset, two markets, different prices — is the meta-pattern behind all of Hormozi's 10 wealth strategies.
 - `INS-260329-4A09` [medium] When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.

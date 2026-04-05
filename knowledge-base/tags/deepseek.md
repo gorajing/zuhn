@@ -7,5 +7,5 @@
 - `INS-260320-EF3A` Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 - `INS-260403-5FD1` DeepSeek R1 achieves o1-level reasoning using pure RL instead of supervised fine-tuning with worked examples.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
-- `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - `INS-260404-6B73` DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
+- `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.

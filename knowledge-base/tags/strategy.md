@@ -5,6 +5,9 @@
 - `INS-260320-901C` Six strategies combined took production systems from $300+/month to ~$10/month while processing 10x more data.
 - `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
+- `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
+- `INS-260326-79DF` Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
+- `INS-260323-DE39` Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
 - `INS-260402-9E2D` Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - `INS-260404-B04F` Plants produce 40 billion tons of a half-broken enzyme rather than evolving a better one, and still dominate Earth's biomass.
 - `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
@@ -74,6 +77,7 @@
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260330-53A9` RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
 - `INS-260330-54ED` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
+- `INS-260405-0806` RuBisCo makes errors ~50% of the time yet dominates because plants produce 40 billion tons of it — volume compensated for quality and the strategy locked in permanently.
 - `INS-260323-BEE6` GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
 - `INS-260330-FAB8` The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
 - `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
@@ -100,6 +104,3 @@
 - `INS-260403-462F` Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
 - `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
-- `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
-- `INS-260326-79DF` Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
-- `INS-260323-DE39` Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.

@@ -48,12 +48,11 @@ resolutions:
     distorting the deficiency-satisfaction cycle. The test: does this change
     serve the customer's expectation cycle, or does it serve our convenience?
 related:
-  - INS-260322-5A72
   - INS-260327-EF89
+  - INS-260322-5A72
   - INS-260323-19A8
   - PRI-260323-1B96
   - INS-260323-5CBE
-  - INS-260322-683B
 stance: Successful brands ask fundamental questions and act fast on answers
 evidence:
   - id: INS-260323-5CBE

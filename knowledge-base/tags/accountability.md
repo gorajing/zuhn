@@ -25,5 +25,5 @@
 - `INS-260330-AA25` Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
 - `INS-260326-CA8C` Safety without standards is a comfort zone; standards without safety is an anxiety zone — you need both for high performance.
 - `INS-260323-D9CE` Expectations + Measurement x Reinforcement = Accountability — without reinforcement, expectations and measurement produce zero accountability.
-- `INS-260404-3070` Sears, Toys-R-Us, and J.C. Penney died not because Amazon killed retail, but because they failed to adapt — while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260329-34A9` Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
+- `INS-260404-3070` Sears, Toys-R-Us, and J.C. Penney died not because Amazon killed retail, but because they failed to adapt — while Costco, Aldi, and Dollar General thrived in the same environment.

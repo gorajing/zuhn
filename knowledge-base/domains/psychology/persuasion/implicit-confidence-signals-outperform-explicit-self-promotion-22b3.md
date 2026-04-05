@@ -47,7 +47,6 @@ stance: >-
   persuasive than stating confidence directly, because audiences automatically
   discount or penalize explicit self-praise.
 related:
-  - INS-260325-8DF7
   - INS-260323-810D
   - PRI-260323-8EEA
   - INS-260327-5688
@@ -55,7 +54,8 @@ related:
   - INS-260327-A9E8
   - INS-260329-895D
   - INS-260330-40E9
-  - INS-260403-C5C0
   - INS-260403-22FE
+  - INS-260403-B216
+  - INS-260403-48BF
 ---
 Paul Graham draws a sharp line between showing and telling confidence. Explicit claims like 'we're passionate' or 'our product is great' are either ignored or actively count against founders — audiences classify them as bullshitters. Real confidence is implicit: speaking clearly and slowly, making eye contact, presenting specific numbers, telling concrete user stories. This maps to a broader persuasion principle: credibility signals that are costly to fake (detailed knowledge, specific metrics, calm demeanor under scrutiny) are trusted, while cheap signals (self-praise, superlatives) are discounted. The asymmetry is important — explicit self-promotion doesn't just fail to help, it actively damages credibility by suggesting the speaker has nothing better to offer.

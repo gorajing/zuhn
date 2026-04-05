@@ -1,6 +1,12 @@
 # Tag: power-law
 
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
+- `INS-260323-8544` In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
+- `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
+- `INS-260403-9775` VC portfolio math requires every bet to be capable of returning the fund because most investments return zero.
+- `INS-260403-BB6B` Venture returns are so concentrated in a few outliers that non-outlier investments are economically irrelevant.
+- `INS-260403-AA09` Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
+- `INS-260330-7DA5` In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.
 - `INS-260403-A868` Elite developer talent is qualitatively different from average, following power-law rather than normal distribution.
 - `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
@@ -14,9 +20,3 @@
 - `INS-260403-147C` More potential winners per year amplifies the gap between investors with genuine selection skill and those who follow consensus.
 - `INS-260322-EE1B` There's a power law in everything — identify the single most important thing each period and go all-in before distributing effort across secondary goals.
 - `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
-- `INS-260323-8544` In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
-- `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
-- `INS-260403-9775` VC portfolio math requires every bet to be capable of returning the fund because most investments return zero.
-- `INS-260403-BB6B` Venture returns are so concentrated in a few outliers that non-outlier investments are economically irrelevant.
-- `INS-260403-AA09` Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
-- `INS-260330-7DA5` In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.

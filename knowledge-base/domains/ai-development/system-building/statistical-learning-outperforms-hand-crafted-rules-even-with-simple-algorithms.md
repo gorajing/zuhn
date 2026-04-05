@@ -49,7 +49,6 @@ stance: >-
   non-obvious signal patterns that human engineers miss.
 related:
   - INS-260323-B309
-  - INS-260325-696D
   - INS-260325-4CBB
   - INS-260330-5E67
   - INS-260330-B5D2

@@ -53,11 +53,12 @@ related:
   - INS-260325-206C
   - INS-260329-72A5
   - INS-260403-1208
+  - INS-260405-8884
   - INS-260404-60D6
   - INS-260403-CDB9
   - INS-260404-98F5
-  - INS-260404-9EDC
   - INS-260404-8365
+  - INS-260404-9EDC
 ---
 Amazon Prime and Costco memberships both trigger sunk-cost loyalty, but they differ in a critical structural way. Prime is a loyalty layer on top of a margin-based business — it enhances retention but doesn't change Amazon's fundamental incentive to maximize per-item profit. Costco's membership IS the business model: 75% of profit comes from fees, not product markup. This creates a powerful incentive alignment where the company genuinely benefits from keeping prices as low as possible, because every price increase risks the $60-120 annual renewal.
 

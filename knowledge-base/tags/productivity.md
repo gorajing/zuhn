@@ -11,15 +11,16 @@
 - `INS-260321-9824` Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
 - `INS-260320-E683` Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
 - `INS-260321-988C` A worker saving 20% of their time is 'soft savings' — employers rarely productively reallocate that 20% immediately. Individual task speedups don't automatically translate to enterprise-level value.
+- `INS-260405-D34A` Costco's $21/hour average wage (double retail average) yields 3x productivity — the higher wage is cheaper per unit of output, not more expensive.
 - `INS-260323-2E51` Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely uses an IDE, and explicitly doesn't read 'boring' code (data transformation, UI alignment) — focusing review only on critical paths like database interactions.
 - `INS-260320-76D2` Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 - `INS-260329-D481` Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
@@ -32,8 +33,8 @@
 - `INS-260330-D61A` Doing your most exciting task first makes boring subsequent tasks feel worse and tanks performance on them — start with moderately interesting work instead.
 - `INS-260325-1AD3` We suffer doubly from problems: once from the problem itself, and again from indignation that problems should even exist in our lives.
 - `INS-260405-0591` The Calvin cycle produces 6 G3P molecules per turn but only 1 escapes as net product—the other 5 must be recycled to regenerate the 3 RuBP molecules needed to run the next cycle.
-- `INS-260325-FA70` Joy's preconditions — emotional availability, surprise, and connection — are precisely what productivity optimization destroys.
 - `INS-260325-4868` Joy requires emotional openness and surprise, which means putting down the phone and being experientially surprisable.
+- `INS-260325-FA70` Joy's preconditions — emotional availability, surprise, and connection — are precisely what productivity optimization destroys.
 - `INS-260327-5833` Researching the perfect workout plan is more exciting than doing pushups, but only one of them builds muscle.
 - `INS-260404-95FC` Costco pays double the US retail average ($21/hr) and gets employees who are three times more productive.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
@@ -56,8 +57,8 @@
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
 - `INS-260329-3473` When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
-- `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
 - `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
+- `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
 - `INS-260322-B264` The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
 - `INS-260403-857E` Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
 - `INS-260404-8A1D` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors.

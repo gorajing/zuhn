@@ -1,6 +1,7 @@
 # Tag: growth
 
 - `INS-260323-1F27` Galaxies grow hierarchically — larger ones absorb smaller neighbors — and the evidence of those acquisitions persists in the chemistry and position of ancient stars at the galaxy's outskirts.
+- `INS-260327-A25E` Islam's universalist message — any person of any background could convert and be equal in the faith — enabled it to grow far faster than religions tied to specific ethnic or cultural identities.
 - `INS-260327-8DC5` If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
 - `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
 - `INS-260325-58F5` Lower the bar of the first step until you find a version you are actually willing to do right now.
@@ -40,8 +41,7 @@
 - `INS-260404-D1F6` The Calvin Cycle produces 6 G3P molecules but only 1 exits — 83% is reinvested to keep the cycle running.
 - `INS-260404-1F1B` Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
-- `INS-260403-57FF` If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
-- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260404-087C` End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.
 - `INS-260330-D1C8` Non-users reveal the barriers preventing market expansion, which existing users and competitor users cannot articulate.
-- `INS-260327-A25E` Islam's universalist message — any person of any background could convert and be equal in the faith — enabled it to grow far faster than religions tied to specific ethnic or cultural identities.
+- `INS-260403-57FF` If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
+- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.

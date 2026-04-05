@@ -51,7 +51,6 @@ stance: >-
   environmental constants that become catastrophic failures when conditions
   change.
 related:
-  - INS-260322-F6C3
   - INS-260327-ABF8
   - INS-260327-CBDF
   - INS-260330-50B3
@@ -61,6 +60,7 @@ related:
   - INS-260330-A3EB
   - INS-260403-979D
   - INS-260403-B08E
+  - INS-260403-D16C
 evidence:
   - id: INS-260327-ABF8
     type: CHALLENGES

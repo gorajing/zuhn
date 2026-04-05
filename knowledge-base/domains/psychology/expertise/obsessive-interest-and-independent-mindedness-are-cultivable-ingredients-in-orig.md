@@ -46,7 +46,6 @@ stance: >-
   cultivable rather than inborn
 related:
   - INS-260325-2C31
-  - INS-260321-F864
   - INS-260322-25B4
   - INS-260321-1A84
   - INS-260329-1739
@@ -55,5 +54,6 @@ related:
   - INS-260403-41BC
   - INS-260403-FE91
   - INS-260403-A136
+  - INS-260403-A4CF
 ---
 Graham catalogs several ingredients beyond intelligence that contribute to new ideas: obsessive interest in a topic, independent-mindedness, general techniques for working on your own projects, strategies for overcoming early-work obstacles, and even mundane factors like sleep, health, stress management, and colleague selection. The critical point is that while intelligence is largely inborn, most of these other ingredients can be cultivated — both individually and at the societal level. This shifts the optimization problem from 'select for intelligence' to 'create conditions that develop the full stack of ingredients.' The compounding effect is significant: someone with moderate intelligence who cultivates all the other ingredients may out-discover someone smarter who neglects them.

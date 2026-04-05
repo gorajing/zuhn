@@ -6,6 +6,7 @@
 - `INS-260404-93CD` Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
+- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260403-B08E` Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
 - `INS-260404-AB0F` When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
@@ -36,9 +37,9 @@
 - `INS-260325-3CE2` Structured peer groups of 6-8 founders at similar stages outperform any advisor — EO's 18,000-member model proves this at scale.
 - `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
 - `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
+- `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
-- `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
 - `INS-260403-021D` Every major software architecture shift predictably spawns new billion-dollar cybersecurity companies.
@@ -47,4 +48,3 @@
 - `INS-260322-5E5D` Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260403-3E46` If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.
-- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.

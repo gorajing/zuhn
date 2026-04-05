@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 282 insights
+> 283 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -140,6 +140,7 @@
 - `INS-260330-F909` [high] Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
 - `INS-260403-28C7` [high] We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - `INS-260404-E185` [high] Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
+- `INS-260405-02EE` [high] Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
 - `INS-260404-375E` [high] Nature and nurture trained us to avoid obvious self-indulgence, but modern dangers disguise themselves as virtuous activity to bypass those ancient alarms.
 - `INS-260329-67D1` [high] Letting customers choose their own quantity shifts price blame from the business to the buyer.
 - `INS-260330-712D` [high] When excited about a new trend, ruthlessly separate the real value proposition from the fantasies you're projecting onto it.

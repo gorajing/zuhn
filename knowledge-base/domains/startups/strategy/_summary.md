@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 258 insights
+> 262 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -94,6 +94,7 @@
 - `INS-260404-A951` [high] RuBisCo is a terrible enzyme that won by being first and scaling massively, illustrating how early commitment to 'good enough' can lock in dominance.
 - `INS-260403-05D8` [high] Plants produce 40 billion tons of the inefficient enzyme RuBisCo rather than evolve a better one — volume compensates for per-unit quality.
 - `INS-260330-54ED` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
+- `INS-260405-0806` [high] RuBisCo makes errors ~50% of the time yet dominates because plants produce 40 billion tons of it — volume compensated for quality and the strategy locked in permanently.
 - `INS-260323-BEE6` [high] GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
 - `INS-260328-4BF3` [high] Getting angry about hype cycles is like getting angry about the weather — they always exist, so develop the skill of neutral observation instead.
 - `INS-260403-B133` [high] The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
@@ -115,6 +116,7 @@
 - `INS-260403-215E` [high] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - `INS-260403-21A2` [high] Overpaying customers make it rational to ignore the future until it's too late.
 - `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
+- `INS-260405-8884` [high] Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
 - `INS-260403-C0FE` [high] Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 - `INS-260404-A520` [high] Past market dominance creates unrealistic margin expectations and institutional resistance that prevent companies from competing effectively in new paradigms.
 - `INS-260329-3BEE` [high] The market you operate in constrains your upside more than your effort level does.
@@ -152,6 +154,7 @@
 - `INS-260403-8C56` [high] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
 - `INS-260403-C49F` [high] Property definitions are pragmatic conventions that must evolve with technology, not fixed truths to be defended.
 - `INS-260330-CB2E` [high] Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
+- `INS-260405-1AAC` [high] Costco's 4,000-SKU constraint gives it monopoly-like negotiating power with suppliers who desperately want to be one of two choices in a category.
 - `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
 - `INS-260403-6BD9` [high] Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
@@ -219,6 +222,7 @@
 - `INS-260323-1302` [medium] Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.
 - `INS-260329-4D24` [medium] Enumerating all failure modes is tractable and reveals risks that forward-looking analysis misses.
 - `INS-260329-4161` [medium] Building the frozen yogurt system (franchise, brand, supply chain) generates far more wealth than operating any single store.
+- `INS-260405-E353` [medium] Costco's maze-like layout and IKEA's self-assembly both work because they make customers feel like active participants who earned their reward rather than passive consumers.
 - `INS-260330-FEB0` [medium] The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260323-9B68` [medium] Shapiro's counter to the 'arc of history bends toward progress' narrative: the 20th century produced communism, Nazism, and the Holocaust — moral regression is not just possible, it's historically common.
 - `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.

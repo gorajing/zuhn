@@ -1,5 +1,7 @@
 # Tag: power-dynamics
 
+- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
+- `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
 - `INS-260330-3528` English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260403-7644` Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260402-116A` Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
@@ -23,5 +25,3 @@
 - `INS-260330-68EF` France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
-- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
-- `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.

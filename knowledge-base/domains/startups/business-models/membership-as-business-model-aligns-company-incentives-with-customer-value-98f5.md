@@ -46,7 +46,6 @@ stance: >-
   product margins, its incentive structure shifts from maximizing
   per-transaction extraction to maximizing long-term customer satisfaction.
 related:
-  - INS-260403-1208
   - INS-260403-F634
   - INS-260403-CDB9
   - INS-260403-3864

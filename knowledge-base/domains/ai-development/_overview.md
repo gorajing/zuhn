@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 973 insights across 24 topics
+> 974 insights across 24 topics
 
 ## Topics
 
@@ -12,7 +12,7 @@
 | ai-automation | 21 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-capabilities | 99 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
 | ai-market-dynamics | 94 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
-| alignment | 47 | KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text. |
+| alignment | 48 | KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text. |
 | architecture | 14 | Libraries are reusable because they are language, not because they are object-oriented. |
 | automation | 10 | Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI. |
 | claude-code | 38 | Planning is king — always use planning mode before implementation; never let the builder start without plans. |

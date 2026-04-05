@@ -1,6 +1,6 @@
 # Topic: human-physiology
 
-> 38 insights
+> 39 insights
 
 - `INS-260404-A1E2` [high] Every calorie you eat traces back to a photon from solar fusion that was captured by chlorophyll and converted through the electron transport chain into chemical energy.
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
@@ -10,6 +10,7 @@
 - `INS-260404-EFA8` [high] The light-dependent reactions prove that virtually all life on Earth is fusion-powered, with photosynthesis as the critical conversion step from stellar to chemical energy.
 - `INS-260330-1084` [high] A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260330-BA7F` [high] Every oxygen molecule we breathe originates from Photosystem II splitting water — a single reaction point sustaining all aerobic life.
+- `INS-260405-AE0D` [high] Photosynthesis runs in two completely separate stages — light reactions capture energy into ATP/NADPH buffers, then the Calvin Cycle spends that buffer to fix carbon — with neither stage directly coupled to the other.
 - `INS-260330-8538` [high] Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260404-EE01` [high] Stress is not the silent killer — lack of recovery from stress is.
 - `INS-260330-81E0` [high] Biological function is a direct consequence of physical form at every organizational level.

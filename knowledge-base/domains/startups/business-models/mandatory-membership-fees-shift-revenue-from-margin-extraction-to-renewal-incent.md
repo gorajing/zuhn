@@ -45,7 +45,6 @@ stance: >-
   raising prices gains pennies today but costs the full membership fee at
   renewal.
 related:
-  - INS-260327-7435
   - INS-260327-7BE4
   - INS-260330-D824
   - INS-260403-E71A

@@ -52,8 +52,8 @@ related:
   - INS-260404-20AD
   - INS-260403-C125
   - INS-260403-43E5
+  - INS-260405-D34A
   - INS-260403-365D
-  - INS-260403-8A80
 ---
 While Amazon and many retailers treat labor as a cost to minimize, Costco pays an average of $21/hour — double the US retail average — plus superior health insurance and retirement benefits. The return: employees three times more productive than the industry norm.
 

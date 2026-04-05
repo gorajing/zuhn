@@ -51,8 +51,8 @@ related:
   - INS-260327-C6DC
   - INS-260403-CE5F
   - INS-260403-FFF0
+  - INS-260405-1D7B
   - INS-260403-280B
-  - INS-260330-579B
   - INS-260403-4CE7
 stance: Wikipedia's deepest ongoing challenge is notability
 evidence:

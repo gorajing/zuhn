@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 47 insights
+> 48 insights
 
 - `INS-260322-2E33` [high] KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text.
 - `INS-260325-11A6` [high] AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
@@ -27,6 +27,7 @@
 - `INS-260325-C9EB` [medium] AI could flip the democracy/totalitarianism balance because it can process the centralized information volume that overwhelmed human Soviet bureaucrats.
 - `INS-260323-38EC` [medium] Hotz argues humanity is more likely to be destroyed by AI-generated infinite TikTok that we can't look away from than by a hostile superintelligence — we'll simply stop reproducing.
 - `INS-260325-2C31` [medium] AI should be understood as alien intelligence because it generates genuinely unpredictable ideas, not just automates human ones.
+- `INS-260405-CCB4` [medium] AI development offers an empirical path to proving which cognitive principles are prerequisites for intelligence rather than contingent human conventions.
 - `INS-260327-C69F` [medium] We talk about aligning AI with human values, but what if human values also need updating? Alignment should be mutual, not unilateral.
 - `INS-260326-7995` [medium] Yudkowsky identifies the fundamental asymmetry of superintelligence development: normal science assumes we can learn from failures and retry, but a misaligned superintelligence eliminates the possibility of iteration.
 - `INS-260327-4E8E` [medium] If AI models in datacenters are like a 'country of geniuses,' the natural question is what their intent is — and this existential risk of autonomous AI action is the one area where limited US-China cooperation might be possible.

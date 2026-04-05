@@ -58,7 +58,6 @@ stance: >-
   When a company's growth fundamentally changes its competitive environment, the
   capabilities that drove early success often become liabilities.
 related:
-  - INS-260325-0895
   - INS-260330-D304
   - INS-260330-026F
   - INS-260402-70FD
@@ -66,8 +65,8 @@ related:
   - INS-260403-3D7D
   - INS-260404-581C
   - INS-260404-C663
+  - INS-260405-02EE
   - INS-260330-4441
-  - INS-260405-7E85
 ---
 RuBisCo evolved when Earth's atmosphere contained almost no oxygen. In that context it was a workable solution: fix CO2, produce organic carbon, reproduce. Over hundreds of millions of years, photosynthesis gradually flooded the atmosphere with oxygen as a byproduct. RuBisCo, never having 'encountered' oxygen before, couldn't reliably distinguish between O2 and CO2 — leading to photorespiration, a costly process that consumes energy without producing useful carbon.
 

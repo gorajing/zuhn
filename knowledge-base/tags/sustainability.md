@@ -1,6 +1,7 @@
 # Tag: sustainability
 
 - `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
+- `INS-260325-A8E6` Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.
 - `INS-260325-8DF7` Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.
 - `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
@@ -18,4 +19,3 @@
 - `INS-260330-8C52` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260404-1C01` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260329-C893` If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
-- `INS-260325-A8E6` Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.

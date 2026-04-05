@@ -56,8 +56,8 @@ related:
   - INS-260403-754F
   - INS-260330-4DFA
   - INS-260403-AFBB
+  - INS-260405-8BEA
   - INS-260322-5650
-  - INS-260327-735A
   - INS-260327-47BA
 stance: Having a great product is necessary but nowhere near sufficient
 ---

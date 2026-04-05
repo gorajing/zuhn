@@ -47,11 +47,11 @@ stance: >-
   Every competitive advantage is context-dependent, and traits that dominate in
   one environment can be instantly fatal in another.
 related:
+  - INS-260405-02EE
   - INS-260403-3D7D
   - INS-260405-7E85
   - INS-260404-581C
   - INS-260404-B7B6
-  - INS-260405-F03A
   - INS-260330-0027
 evidence:
   - id: INS-260330-57E6

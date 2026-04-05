@@ -55,7 +55,6 @@ related:
   - PRI-260325-7A6B
   - INS-260330-10AA
   - INS-260325-6571
-  - INS-260325-CE25
   - INS-260327-12B5
 ---
 De Botton describes Freud's repetition compulsion applied to relationships: human beings are not guided by a search for pleasure but by a search to repeat patterns, often of pain. Children of alcoholics head for partners struggling with alcohol. Offspring of violent parents head for people struggling with temper.

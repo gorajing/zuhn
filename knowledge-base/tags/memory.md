@@ -11,6 +11,6 @@
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
 - `INS-260330-B784` Goggins compensates for ADHD by writing material repeatedly until each page becomes a retrievable visual image during tests.
+- `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
-- `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.

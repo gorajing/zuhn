@@ -55,7 +55,6 @@ related:
   - INS-260402-EA72
   - PRI-260403-26B9
   - INS-260404-DA2E
-  - INS-260403-C695
   - INS-260403-47B7
 evidence:
   - id: INS-260330-3B31

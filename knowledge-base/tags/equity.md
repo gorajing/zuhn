@@ -1,5 +1,7 @@
 # Tag: equity
 
+- `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
+- `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
 - `INS-260329-5514` Revenue and profit grow enterprise value by a multiple (3-20x), making equity appreciation the dominant wealth creation lever over personal income.
 - `INS-260330-0B55` Among the highest-valued YC companies, zero have significantly disproportionate founder equity splits.
 - `INS-260330-F4C0` Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
@@ -20,5 +22,3 @@
 - `INS-260330-A9CB` Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
 - `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
 - `INS-260403-CF7C` Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.
-- `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
-- `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.

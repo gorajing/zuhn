@@ -55,6 +55,7 @@ related:
   - INS-260404-61DA
   - INS-260404-B31C
   - INS-260403-30D8
+  - INS-260405-4B31
 ---
 Sequoia calls this the 'proxy for demand' — observable behavior that proves people need what you're building. When people pay a lot for something, cobble together workarounds, or spend hours on manual processes, that's hard evidence of need. Market size numbers (is it $500M or $5B?) are abstract and forgettable — like an aspiring actor citing Tom Hanks' salary instead of demonstrating their own talent.
 

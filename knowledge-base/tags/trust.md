@@ -2,17 +2,19 @@
 
 - `INS-260321-8414` The biggest barrier to enterprise AI agent adoption isn't model capability but trust UX — too many status updates and users say 'stop telling me crap,' too few and they say 'what is it doing?' — requiring progressive disclosure design patterns that don't yet exist.
 - `INS-260322-191F` Some voice AI companies intentionally add latency and background noise to make agents sound more human, revealing that performance has outpaced user comfort.
-- `INS-260327-AC8E` Kellis argues we should raise AI like children - building mutual trust rather than forcing alignment - because you can't make an intelligent system love you by threatening to shut it off.
 - `INS-260323-4794` AI infrastructure includes human expectations, staff training, and cultural readiness — not just data pipelines and cloud credits.
+- `INS-260327-AC8E` Kellis argues we should raise AI like children - building mutual trust rather than forcing alignment - because you can't make an intelligent system love you by threatening to shut it off.
 - `INS-260321-9A03` Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
 - `INS-260325-FA86` Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
 - `INS-260403-D82B` Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
-- `INS-260323-9E30` Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.
+- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
+- `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
 - `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
+- `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
+- `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
 - `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
-- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
@@ -20,15 +22,14 @@
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
+- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
+- `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
 - `INS-260323-176B` Covert contracts — where one party secretly resents an agreement and begins taking compensation through indirect sabotage — are the root mechanism of relationship destruction.
 - `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
 - `INS-260330-DD91` Rogan trusts old friends and fellow comedians because the grueling process of becoming a comic — years of bombing, humiliation, and persistence — creates a bond that reveals character more reliably than any other signal.
 - `INS-260323-CF27` Positive interactions require vulnerability -- exposing that you care, that you're stressed, that you want to be liked -- and this exposure is what transforms routine exchanges into genuine bonds.
-- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
-- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
-- `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260322-5831` ElevenLabs' co-founders Mati and Peter are childhood best friends with complementary skills — one product-focused, one research-focused — and their deep mutual trust enables the company to move at extreme speed.
@@ -79,10 +80,9 @@
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260330-0145` Ramsey treats every endorsement as a trust liability — if a partner fails the 'would you send your sister there' test, the deal dies regardless of revenue.
 - `INS-260329-79D3` Ramsey Solutions turns down advertisers that fail the 'would you send your sister there' test, even when the revenue is significant.
+- `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
+- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
+- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
+- `INS-260323-9E30` Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.
 - `INS-260323-2DB0` Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
 - `INS-260330-4ACF` Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
-- `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
-- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
-- `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
-- `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
-- `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.

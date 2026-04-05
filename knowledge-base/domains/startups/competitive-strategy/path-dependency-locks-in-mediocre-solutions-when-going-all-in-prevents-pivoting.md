@@ -55,7 +55,6 @@ stance: >-
 related:
   - INS-260330-E1B3
   - INS-260330-0E1E
-  - INS-260330-53A9
   - INS-260330-4C3A
   - INS-260330-F82A
   - INS-260330-4489
@@ -63,6 +62,7 @@ related:
   - INS-260403-262F
   - INS-260404-AE3C
   - INS-260330-0B4A
+  - INS-260404-8947
 evidence:
   - id: INS-260330-68C8
     type: TRANSFERS_TO

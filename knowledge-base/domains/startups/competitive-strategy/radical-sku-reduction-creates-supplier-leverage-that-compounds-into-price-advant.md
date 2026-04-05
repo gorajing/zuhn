@@ -56,7 +56,6 @@ related:
   - INS-260404-36D7
   - INS-260404-3EA3
   - INS-260404-7BEE
-  - INS-260405-DEF2
 evidence:
   - id: INS-260403-DC2D
     type: REFINES

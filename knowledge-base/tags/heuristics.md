@@ -10,5 +10,7 @@
 - `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
 - `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260325-27B2` When every single heuristic breaks at once, you need a new framework, not better heuristics.
+- `INS-260405-C3B0` The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
 - `INS-260404-D672` When investors can't evaluate the tech, your own confidence becomes the largest piece of evidence they use to form an opinion.
 - `INS-260404-875B` Apply a sentence-level filter: if you wouldn't say it to a friend, rewrite it until you would.
+- `INS-260405-1D7B` Applying a threshold heuristic generously — including borderline cases rather than excluding them — protects against missing important ideas.

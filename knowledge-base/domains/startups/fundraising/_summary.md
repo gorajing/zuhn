@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 316 insights
+> 321 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -128,6 +128,7 @@
 - `INS-260403-1BD8` [high] Investors who wait for others to commit first will be pushed to last place in line, missing hot deals entirely.
 - `INS-260402-9288` [high] Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
 - `INS-260403-24F0` [high] Never say 'we're passionate' or 'our product is great'—investors ignore or penalize explicit self-promotion, responding only to demonstrated conviction.
+- `INS-260405-8BEA` [high] Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
 - `INS-260403-2F22` [high] Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
 - `INS-260403-E9C6` [high] Super-angels emerged specifically because the $200k-$600k range was too large for angels and too small for VCs.
 - `INS-260330-070A` [high] VCs who avoid flawed companies systematically miss the biggest winners because extreme outliers always have glaring weaknesses alongside their extraordinary strengths.
@@ -179,6 +180,7 @@
 - `INS-260404-17E3` [high] A narrow, concrete description of what you built beats a grand vision statement when pitching investors.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` [high] Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260405-28E2` [high] Describing your startup too narrowly is safer than describing it too vaguely — precision gives investors something to latch onto.
 - `INS-260404-394A` [high] Describe your product as a specific, graspable thing rather than an abstract vision to hold investor attention.
 - `INS-260403-39B0` [high] Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
 - `INS-260404-4573` [high] Concrete narrow descriptions stick in investors' heads while broad visionary language gets discarded as meaningless boilerplate.
@@ -232,6 +234,7 @@
 - `INS-260328-D26B` [high] The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
 - `INS-260403-ED1F` [high] Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
 - `INS-260405-2AFB` [high] Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
+- `INS-260405-C22F` [high] Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
 - `INS-260404-3713` [high] Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 - `INS-260328-0C4C` [high] Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
 - `INS-260403-8D8D` [high] Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
@@ -275,6 +278,7 @@
 - `INS-260404-EF17` [high] Replace market-size slides with concrete stories of specific users and the problems they face.
 - `INS-260404-4F3A` [high] Specific user stories beat market-size slides because they directly counter the investor's primary fear: that nobody actually wants your product.
 - `INS-260403-1A73` [high] Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
+- `INS-260405-4B31` [high] What are people doing right now with inadequate tools? That story is worth more than any market size number.
 - `INS-260405-F9EC` [high] Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.
 - `INS-260404-06C4` [high] Tell concrete stories about specific users and their problems—Sequoia calls this the 'proxy for demand' and it's the strongest signal for early-stage startups.
 - `INS-260404-EE85` [high] Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
@@ -287,6 +291,7 @@
 - `INS-260402-4719` [high] VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - `INS-260403-FAFA` [high] Early-stage VCs suffer more from missing winners than from funding losers, which means founders should emphasize upside potential over risk mitigation.
 - `INS-260403-C2BE` [high] VCs fund spiky excellence over well-rounded competence, so founders should highlight their extraordinary strengths rather than shore up weaknesses.
+- `INS-260405-3E57` [medium] Investors hear dozens of pitches per event — the startup that left a single memorable phrase is the one that gets the follow-up email.
 - `INS-260404-7060` [medium] Deliberately concentrating resources behind a bottleneck and releasing them through one optimized channel creates disproportionate output.
 - `INS-260403-F447` [medium] When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - `INS-260402-8E29` [medium] Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.

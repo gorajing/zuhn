@@ -1,5 +1,6 @@
 # Tag: fundraising
 
+- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
 - `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260403-9E0E` Once a startup makes enough to cover founders' living expenses, the entire relationship with investors shifts from desperation to negotiation.
@@ -14,8 +15,10 @@
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260327-4B5A` Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
+- `INS-260405-3E57` Investors hear dozens of pitches per event — the startup that left a single memorable phrase is the one that gets the follow-up email.
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
@@ -51,6 +54,7 @@
 - `INS-260402-9288` Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
 - `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
 - `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
+- `INS-260405-8BEA` Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
 - `INS-260330-376E` Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
 - `INS-260402-421B` Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
 - `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
@@ -58,6 +62,7 @@
 - `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260330-975D` Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
 - `INS-260403-78B7` Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
+- `INS-260405-28E2` Describing your startup too narrowly is safer than describing it too vaguely — precision gives investors something to latch onto.
 - `INS-260404-394A` Describe your product as a specific, graspable thing rather than an abstract vision to hold investor attention.
 - `INS-260403-20D6` Approach your pitch like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-8448` Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
@@ -71,6 +76,7 @@
 - `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
 - `INS-260403-1034` Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
 - `INS-260328-D26B` The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
+- `INS-260405-C22F` Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
 - `INS-260328-0C4C` Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
 - `INS-260330-C8E1` Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
@@ -85,12 +91,11 @@
 - `INS-260330-478B` Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
 - `INS-260403-1949` Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
+- `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
 - `INS-260405-F9EC` Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
-- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
+- `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
-- `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
-- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.

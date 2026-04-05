@@ -53,6 +53,7 @@ related:
   - INS-260330-4DC5
   - INS-260325-0E70
   - INS-260330-A516
+  - INS-260405-C3B0
 stance: >-
   Donald Hoffman's interface theory argues that organisms evolved to perceive
   fitness-relevant simplifications, not objective reality

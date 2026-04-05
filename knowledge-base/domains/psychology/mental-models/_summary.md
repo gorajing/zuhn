@@ -1,8 +1,9 @@
 # Topic: mental-models
 
-> 96 insights
+> 98 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
+- `INS-260405-C3B0` [high] The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
 - `INS-260330-CAB3` [high] Bernoulli's principle unifies cavitation across wildly different domains: bullets, propellers, pipes, and arteries all create vacuum bubbles through the same mechanism.
 - `INS-260330-5670` [high] ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
@@ -72,6 +73,7 @@
 - `INS-260330-16F0` [high] Replacing 30% of aerogel's OH groups with hydrophobic groups completely reverses it from water-absorbing to water-repelling.
 - `INS-260402-ED85` [high] Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
 - `INS-260330-7511` [high] The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
+- `INS-260405-4C63` [high] Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
 - `INS-260330-3698` [high] Mentally reversing roles in a conflict reveals whether both sides operate under the same ethical constraints.
 - `INS-260330-5779` [high] If reversing which side uses a tactic produces an absurd or unthinkable scenario, the two sides are not morally equivalent in that dimension.
 - `INS-260404-9428` [high] Photosynthesis splits into light reactions (capture energy as ATP/NADPH) and the Calvin Cycle (spend it on carbon fixation), enabling each stage to optimize independently.

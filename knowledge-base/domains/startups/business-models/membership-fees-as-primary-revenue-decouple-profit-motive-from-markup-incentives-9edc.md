@@ -52,8 +52,8 @@ related:
   - INS-260403-3864
   - INS-260404-35F8
   - INS-260405-48EC
+  - INS-260405-8884
   - INS-260403-CDB9
-  - INS-260403-5C88
 ---
 Costco generates 75% of its profit from membership fees, not product markups. This fundamentally restructures its incentives: rather than maximizing margin per item, Costco maximizes renewal rate by consistently delivering low prices and high quality. The self-imposed 15% max markup rule is not charity—it's rational when $60-120/year renewals at 90% retention are the real revenue engine.
 

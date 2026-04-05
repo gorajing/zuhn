@@ -48,7 +48,6 @@ stance: >-
   persuasion lever in early-stage pitches.
 related:
   - INS-260325-803C
-  - INS-260327-5688
   - INS-260327-8DFE
   - INS-260403-2F22
   - INS-260403-B505
@@ -57,6 +56,7 @@ related:
   - INS-260403-48BF
   - INS-260403-E51B
   - INS-260403-2F4E
+  - INS-260403-E4C6
 evidence:
   - id: INS-260403-E4C6
     type: REFINES

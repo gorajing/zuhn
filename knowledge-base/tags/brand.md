@@ -11,4 +11,5 @@
 - `INS-260322-7B71` Timeless how-to content (like 'Good Product Manager Bad Product Manager') compounds in value while opinion pieces about market bubbles are forgotten quickly.
 - `INS-260321-5598` Professional CEOs trained to say nothing on stage now lose to founder CEOs interesting enough to fill 3 hours on Joe Rogan — the 80-year reign of synthetic corporate communication is over.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
+- `INS-260405-E353` Costco's maze-like layout and IKEA's self-assembly both work because they make customers feel like active participants who earned their reward rather than passive consumers.
 - `INS-260404-007B` Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.

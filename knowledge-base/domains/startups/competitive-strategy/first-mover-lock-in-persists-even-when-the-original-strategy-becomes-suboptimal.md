@@ -54,8 +54,8 @@ related:
   - INS-260330-3EE4
   - INS-260330-53A9
   - INS-260330-22C0
+  - INS-260405-0806
   - INS-260404-8A57
-  - INS-260404-D452
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and oxygen scarce, making its imprecision acceptable. Plants went 'all-in' on this enzyme strategy and conquered the planet. But as oxygen levels rose (ironically due to photosynthesis itself), RuBisCo began confusing O2 for CO2 roughly half the time, producing toxic byproducts that require additional enzymatic cleanup.
 

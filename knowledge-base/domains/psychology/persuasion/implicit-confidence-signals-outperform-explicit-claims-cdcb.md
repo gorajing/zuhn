@@ -59,7 +59,6 @@ related:
   - INS-260403-2081
   - INS-260405-2AFB
   - INS-260403-2F22
-  - INS-260403-B3CA
 ---
 Graham identifies a critical asymmetry in investor evaluation: because audiences lack the technical background to fully evaluate the product in a few minutes, the founder's own confidence becomes the single biggest piece of evidence. But this confidence must be shown, not stated. Explicit claims ('we're passionate,' 'our product is great') are worse than useless — they're actively discounted as cheap signals that anyone can produce.
 

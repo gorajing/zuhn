@@ -26,6 +26,7 @@
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260322-683B` Less than 10% of brands succeed, and the common factor among those that do is preserving a single undiluted brand message through every stage of organizational growth.
 - `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
+- `INS-260405-3E57` Investors hear dozens of pitches per event — the startup that left a single memorable phrase is the one that gets the follow-up email.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - `INS-260403-B3CA` A single compelling phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.

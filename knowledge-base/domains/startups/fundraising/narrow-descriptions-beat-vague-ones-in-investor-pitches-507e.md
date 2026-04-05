@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260327-5297
   - INS-260330-B5DF
-  - INS-260403-86DB
   - INS-260403-41FF
   - INS-260403-9680
   - INS-260403-0973
@@ -58,6 +57,7 @@ related:
   - INS-260404-873C
   - INS-260404-3161
   - INS-260404-CA98
+  - INS-260403-4760
 evidence:
   - id: INS-260404-873C
     type: REFINES

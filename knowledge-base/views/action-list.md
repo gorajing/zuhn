@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3973 actionable insights
+Generated on 2026-04-05 | 3981 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1556,6 +1556,8 @@ Generated on 2026-04-05 | 3973 actionable insights
 - [INS-260402-0F45] Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
 - [INS-260402-2C6B] Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - [INS-260403-C55B] Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
+- [INS-260405-C3B0] The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
+- [INS-260405-4C63] Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
 
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
@@ -2710,6 +2712,7 @@ Generated on 2026-04-05 | 3973 actionable insights
 - [INS-260404-8890] How founders respond to advice — chasing all implications vs. filtering through preconceptions — is the strongest early signal of startup success.
 - [INS-260404-8A02] Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
 - [INS-260404-F708] Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
+- [INS-260405-1D7B] Applying a threshold heuristic generously — including borderline cases rather than excluding them — protects against missing important ideas.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -3008,6 +3011,11 @@ Generated on 2026-04-05 | 3973 actionable insights
 - [INS-260405-4AE1] State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - [INS-260405-2AFB] Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - [INS-260405-E7FB] Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
+- [INS-260405-3E57] Investors hear dozens of pitches per event — the startup that left a single memorable phrase is the one that gets the follow-up email.
+- [INS-260405-8BEA] Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
+- [INS-260405-28E2] Describing your startup too narrowly is safer than describing it too vaguely — precision gives investors something to latch onto.
+- [INS-260405-C22F] Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
+- [INS-260405-4B31] What are people doing right now with inadequate tools? That story is worth more than any market size number.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
