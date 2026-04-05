@@ -57,8 +57,8 @@ related:
   - INS-260404-5483
   - INS-260403-1852
   - INS-260403-C625
+  - INS-260404-5DBD
   - INS-260403-13ED
-  - INS-260404-BD17
   - INS-260404-C64D
 ---
 Even experienced founders with millions in funding typically have wrong business models that will change multiple times. Smart VCs know this and invest despite it. When you spend precious pitch minutes on business model details, two bad things happen: first, you're talking about your weakest material (guesses about stuff outside your expertise) instead of your strongest (the problem you understand deeply and the solution you've built). Second, if the model sounds wrong, it becomes the memorable anchor—investors remember you as 'the company with the boneheaded revenue plan' rather than 'the company that solved that important problem.'

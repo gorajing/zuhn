@@ -53,11 +53,11 @@ related:
   - INS-260330-C456
   - INS-260330-5C36
   - INS-260330-09F8
-  - INS-260330-1084
   - INS-260330-F671
   - INS-260330-4B45
   - INS-260403-6129
   - INS-260403-8125
+  - INS-260403-FC01
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, it runs photon energy through a multi-step electron transport chain: PSII captures the excited electron, passes it to the Cytochrome Complex (which uses some energy to pump protons), then to PSI for re-energization, ultimately producing ATP and NADPH as intermediate energy carriers. Only then does the Calvin Cycle use those carriers to build sugar.
 

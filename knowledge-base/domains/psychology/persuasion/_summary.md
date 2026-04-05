@@ -1,8 +1,10 @@
 # Topic: persuasion
 
-> 78 insights
+> 80 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
+- `INS-260404-1E11` [high] Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest that gradient through ATP synthase — the same principle underlies pricing arbitrage, information asymmetry, and attention funnels.
+- `INS-260404-7B68` [high] Saying 'we're passionate' or 'our product is great' triggers audience skepticism; conviction must be shown, never stated.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260404-DD77` [high] Never tell an audience you're passionate—show it through specificity and demeanor, because explicit confidence claims trigger bullshit detectors.
 - `INS-260403-2F86` [high] Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.

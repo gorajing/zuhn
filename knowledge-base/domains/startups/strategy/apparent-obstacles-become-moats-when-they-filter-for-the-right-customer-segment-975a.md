@@ -55,6 +55,5 @@ related:
   - INS-260404-FB91
   - INS-260404-79EC
   - INS-260404-9783
-  - INS-260404-B24E
 ---
 Costco systematically converts apparent weaknesses into strengths. The $60 membership fee should make customer acquisition fatally difficult — instead it selects for affluent households averaging $100K income who become locked-in repeat buyers. The confusing warehouse layout should frustrate shoppers — instead it forces exploration through aisles, increasing impulse purchases while making customers feel like treasure-hunting deal-seekers. The bulk-only format should limit the customer base — instead it attracts business owners (one-third of members) who account for two-thirds of sales. This pattern of constraint-inversion is a powerful strategic template: rather than removing friction to broaden your market, deliberately introduce friction that filters for your most valuable customer segment. The key insight is that not all customers are equal, and the right obstacle can be the most efficient segmentation tool available.

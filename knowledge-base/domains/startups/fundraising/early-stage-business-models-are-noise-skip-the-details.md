@@ -49,11 +49,11 @@ stance: >-
   will remember you for the wrong thing.
 related:
   - INS-260403-FF86
+  - INS-260404-5DBD
   - INS-260403-C625
   - INS-260404-4B69
   - INS-260404-BD17
   - INS-260404-40D1
-  - INS-260404-B43A
   - INS-260403-6A55
   - INS-260403-462F
   - INS-260404-9710

@@ -46,7 +46,6 @@ stance: >-
   prevents most people from attempting anything ambitious.
 related:
   - INS-260321-2482
-  - INS-260323-9D6E
   - INS-260323-42A7
   - INS-260325-B8D4
   - INS-260325-5023
@@ -55,6 +54,7 @@ related:
   - INS-260323-AB5F
   - INS-260327-8D82
   - INS-260327-E747
+  - INS-260329-64B8
 evidence:
   - id: INS-260321-2482
     type: TRANSFERS_TO

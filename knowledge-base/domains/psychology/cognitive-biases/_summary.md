@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 277 insights
+> 278 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -253,6 +253,7 @@
 - `INS-260404-9505` [medium] Costco's mandatory membership exploits sunk-cost bias universally, while Amazon Prime's optional model lets price-sensitive customers self-select out of the loyalty trap.
 - `INS-260403-CE5F` [medium] Costco's mandatory membership triggers sunk-cost reasoning on every shopping trip, while Amazon Prime's optional nature lets non-subscribers self-select out.
 - `INS-260404-B46E` [medium] Mandatory membership fees trigger universal sunk-cost loyalty across all customers, while optional subscriptions only lock in the subset who already calculated it worthwhile.
+- `INS-260404-A938` [medium] Costco's mandatory membership triggers stronger sunk-cost loyalty than Amazon Prime's optional subscription because every member is psychologically invested.
 - `INS-260403-546E` [medium] Costco's mandatory membership exploits sunk-cost psychology more effectively than Amazon Prime because there is no opt-out comparison path.
 - `INS-260329-A011` [medium] Reframe every purchase as the number of hours you must work to afford it, accounting for taxes.
 - `INS-260404-94EB` [medium] We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.

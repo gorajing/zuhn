@@ -60,6 +60,7 @@ related:
   - INS-260403-37E2
   - INS-260404-3A71
   - INS-260404-167D
+  - INS-260404-1263
 ---
 Paul Graham frames pitch descriptions as an information theory problem: as your description approaches something that 'could be anything,' its actual content approaches zero. Investors discard sentences like 'a system to collaboratively leverage the value of information' as meaningless boilerplate.
 

@@ -55,10 +55,10 @@ stance: >-
   more revenue than subscription or access fees.
 related:
   - INS-260327-2B62
-  - INS-260327-4440
   - INS-260330-999F
   - INS-260330-C24F
   - PRI-260328-6A8D
+  - INS-260404-8AE1
   - INS-260330-9137
   - INS-260330-931A
   - INS-260330-2ABC

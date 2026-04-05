@@ -21,6 +21,7 @@
 - `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
 - `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
+- `INS-260404-7B68` Saying 'we're passionate' or 'our product is great' triggers audience skepticism; conviction must be shown, never stated.
 - `INS-260403-2F86` Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
 - `INS-260404-37F7` When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
 - `INS-260404-F161` In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.

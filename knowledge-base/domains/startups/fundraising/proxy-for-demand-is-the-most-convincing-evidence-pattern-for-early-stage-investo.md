@@ -51,8 +51,8 @@ stance: >-
   Showing what people currently do with inadequate tools is more persuasive to
   investors than any market size number or growth projection.
 related:
-  - INS-260403-92EB
   - INS-260403-66D0
+  - INS-260404-A95D
   - INS-260404-132E
   - INS-260404-44A4
   - INS-260404-B31C

@@ -55,10 +55,10 @@ related:
   - INS-260330-72E1
   - INS-260330-E497
   - INS-260330-F5CF
-  - INS-260403-8653
   - INS-260403-1636
   - INS-260403-53C9
   - INS-260330-EACA
+  - INS-260404-84FE
 ---
 Photosynthesis was so successful that it fundamentally altered Earth's atmosphere, flooding it with oxygen. But RuBisCo — the enzyme at the heart of carbon fixation — was designed for a low-oxygen world. The oxygen that plants created became a competitive inhibitor of their own core metabolic process, causing RuBisCo to produce toxic phosphoglycolate roughly half the time.
 

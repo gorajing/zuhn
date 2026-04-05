@@ -48,7 +48,7 @@ related:
   - INS-260403-D882
   - INS-260403-047B
   - INS-260404-683B
+  - INS-260404-1263
   - INS-260404-17E3
-  - INS-260404-9882
 ---
 Founders resist narrow descriptions because early-stage products have unbounded potential, but as a description approaches 'could be anything,' its informational value approaches zero. Investors discard vague statements like 'collaboratively leverage information' as meaningless boilerplate. The correct strategy is successive approximation: start with a gripping but perhaps overly narrow description, then flesh it out. This mirrors incremental development — at every point you have 'working code,' meaning a concrete mental model in the investor's head. A narrow description they understand beats a grand vision they forget.

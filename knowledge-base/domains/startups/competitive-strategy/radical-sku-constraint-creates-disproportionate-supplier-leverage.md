@@ -48,7 +48,6 @@ stance: >-
   outsized negotiating power because suppliers compete intensely for scarce
   shelf positions, inverting the typical retailer-supplier power dynamic
 related:
-  - INS-260403-5BAC
   - INS-260404-1843
   - INS-260404-8C84
   - INS-260403-0DC2

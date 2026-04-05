@@ -46,7 +46,7 @@ related:
   - INS-260327-B6B7
   - INS-260404-3E82
   - INS-260404-76FF
-  - INS-260404-1EA6
+  - INS-260404-72F5
   - INS-260330-0FF7
 stance: >-
   America has 50,000 self-storage facilities and 2 billion sq ft of extra

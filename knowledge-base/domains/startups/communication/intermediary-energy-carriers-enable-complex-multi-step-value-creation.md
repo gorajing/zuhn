@@ -48,12 +48,11 @@ stance: >-
   intermediary layers unlock disproportionate flexibility.
 related:
   - INS-260330-30E8
-  - INS-260330-1298
   - INS-260403-AC7A
+  - INS-260404-F014
   - INS-260404-F908
   - INS-260404-3500
   - INS-260404-0214
-  - INS-260403-6F40
 ---
 Photosynthesis doesn't convert sunlight directly into glucose — it first converts photon energy into portable energy currencies (ATP and NADPH) through the light-dependent reactions, then uses those currencies in a completely separate process (Calvin Cycle) to build carbohydrates. This decoupling is what makes the system adaptable.
 

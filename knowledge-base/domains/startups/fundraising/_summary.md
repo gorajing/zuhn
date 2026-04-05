@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 296 insights
+> 299 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -82,6 +82,7 @@
 - `INS-260404-10FF` [high] Don't spend pitch time on your business model — investors expect it to be wrong at early stage, and a bad one will overshadow your real strengths.
 - `INS-260403-13ED` [high] Early business models are usually wrong, so pitching them wastes time and can make you look naive — talk about what you've built instead.
 - `INS-260403-088E` [high] Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
+- `INS-260404-5DBD` [high] At the early stage, discussing your business model wastes pitch time and can actively damage investor perception.
 - `INS-260404-EAB7` [high] Business models at early stage are guesses about things outside your expertise — spend that time on the problem and product instead.
 - `INS-260404-9158` [high] Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
 - `INS-260404-F139` [high] Mention monetization briefly to show you've thought about it, then redirect to problem and product.
@@ -193,6 +194,7 @@
 - `INS-260403-20D6` [high] Approach your pitch like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-B29D` [high] Vague all-encompassing descriptions are parsed as meaningless boilerplate; narrow concrete descriptions create a working mental model investors can build on.
 - `INS-260403-8013` [high] As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.
+- `INS-260404-1263` [high] A narrow, concrete description of your product creates more investor interest than an expansive, vague one.
 - `INS-260404-0BB0` [high] As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.
 - `INS-260403-5B46` [high] Falling startup costs don't just shrink existing funding models — they open ecological niches for fundamentally new ones.
 - `INS-260403-8448` [high] Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
@@ -281,6 +283,7 @@
 - `INS-260403-147C` [medium] More potential winners per year amplifies the gap between investors with genuine selection skill and those who follow consensus.
 - `INS-260330-7346` [medium] A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
 - `INS-260330-404B` [medium] A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
+- `INS-260404-F014` [medium] Photosynthesis converts sunlight to glucose through a long chain of intermediaries (excited electrons → proton gradients → ATP/NADPH → G3P → glucose) because no single step could accomplish the full transformation.
 - `INS-260404-F908` [medium] Photosynthesis converts sunlight to glucose through a long chain of intermediate energy carriers (ATP, NADPH) rather than directly, losing energy at each step but gaining reliability.
 - `INS-260403-C0D4` [medium] Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260330-1002` [medium] Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.

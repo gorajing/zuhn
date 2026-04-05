@@ -48,7 +48,6 @@ stance: >-
   environments where dozens of pitches blur together.
 related:
   - INS-260403-81CE
-  - INS-260403-2A1D
   - INS-260403-2FE1
   - INS-260404-D242
   - INS-260403-BDBE

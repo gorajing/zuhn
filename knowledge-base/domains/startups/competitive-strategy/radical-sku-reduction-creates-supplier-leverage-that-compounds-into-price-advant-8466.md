@@ -43,12 +43,11 @@ stance: >-
   negotiating power per SKU than broad selection ever could
 related:
   - INS-260403-115B
-  - INS-260404-7D8F
   - INS-260404-6945
   - INS-260404-36D7
   - INS-260404-7F16
+  - INS-260404-72F5
   - INS-260403-5BAC
-  - INS-260404-1843
   - INS-260404-AB9A
 ---
 By limiting selection to one or two choices per category, Costco transforms every supplier relationship into a high-stakes negotiation. Brands compete intensely to be the single option on Costco's shelves, willingly lowering prices and customizing products (like re-engineering cashew containers to save 24,000 pallets annually). This is a counterintuitive strategy: less choice creates more power. The same principle applies to platform businesses and marketplaces — constraining supply-side options can paradoxically improve quality and pricing for consumers while increasing the platform's leverage.

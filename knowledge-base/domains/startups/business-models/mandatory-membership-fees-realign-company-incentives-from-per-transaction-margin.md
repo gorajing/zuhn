@@ -42,14 +42,12 @@ stance: >-
   per-unit markups will consistently offer better prices because raising prices
   destroys more value than it captures
 related:
-  - INS-260328-AB0C
-  - INS-260403-C4DF
-  - INS-260403-CDB9
-  - INS-260404-8365
-  - INS-260404-60D6
-  - INS-260404-98F5
-  - INS-260403-5C88
-  - INS-260404-1E28
-  - INS-260404-6751
+  - INS-260323-9D6E
+  - INS-260403-B6FF
+  - INS-260403-546E
+  - INS-260403-CE5F
+  - INS-260404-ED19
+  - INS-260404-B46E
+  - INS-260404-9505
 ---
 Costco derives 75% of its profit from membership fees, which fundamentally changes its pricing calculus. Raising the price of any item gains pennies today but risks losing $60-120 in annual renewal revenue. This creates a self-reinforcing loop: low prices drive high renewal rates (90%), which fund further price reductions. The key insight for business model design is that shifting your primary revenue mechanism from transaction margin to access fees can permanently realign your incentives with the customer's, making 'customer-first' not a slogan but a mathematical inevitability.

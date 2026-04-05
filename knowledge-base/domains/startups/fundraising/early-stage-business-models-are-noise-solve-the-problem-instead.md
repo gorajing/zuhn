@@ -50,11 +50,11 @@ stance: >-
 related:
   - INS-260327-ECDA
   - INS-260402-5974
-  - INS-260403-1290
   - INS-260404-4B69
+  - INS-260404-5DBD
+  - INS-260403-1290
   - INS-260403-C496
   - INS-260403-3482
-  - INS-260404-B43A
 ---
 A VC who spoke at Y Combinator described investing in experienced founders whose business model he knew was wrong — expecting it to change three times before they got it right. If even repeat founders with top-tier VC backing have bad early business models, spending pitch time on yours is doubly wasteful.
 

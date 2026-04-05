@@ -46,10 +46,10 @@ stance: >-
   a marketing gimmick but a cognitive necessity, because professional investors
   process so many pitches that recall—not evaluation—is the actual first filter.
 related:
+  - INS-260404-96C6
   - INS-260403-2A1D
   - INS-260403-BDBE
   - INS-260403-81CE
   - INS-260404-D242
-  - INS-260403-2FE1
 ---
 Graham identifies something founders often miss: the bottleneck isn't convincing investors your startup is good, it's being remembered at all. Professional investors hear dozens of pitches and they blur together. A sticky descriptive phrase ('the x of y') serves as a cognitive anchor that survives this compression. This is why Graham says if you can't describe your startup in one compelling phrase, your plans may not be focused enough—the exercise of compression forces strategic clarity. The phrase should be launched 'clearly but apparently casually,' because explicit framing ('our tagline is...') triggers the same skepticism as explicit confidence claims. The soundbite works best when it feels discovered by the audience rather than delivered to them.

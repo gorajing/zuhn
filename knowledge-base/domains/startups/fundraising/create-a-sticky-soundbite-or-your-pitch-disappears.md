@@ -50,11 +50,11 @@ stance: >-
   single memorable descriptive phrase ('the X of Y') is the minimum bar for
   being remembered at all.
 related:
+  - INS-260404-96C6
   - INS-260403-FE37
   - INS-260403-2A1D
   - INS-260403-87CD
   - INS-260404-C2BC
-  - INS-260403-D984
 ---
 Graham observes that after hearing enough pitches, investors experience a blur effect where companies become indistinguishable. The first cut in fundraising isn't impressing investors — it's simply being one of the startups they remember afterward. The Hollywood formula ('X meets Y') translates to startups as 'the X of Y' — Viaweb was 'the Microsoft Word of ecommerce.'
 

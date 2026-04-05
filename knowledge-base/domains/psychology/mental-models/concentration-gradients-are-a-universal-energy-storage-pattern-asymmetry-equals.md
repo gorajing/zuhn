@@ -51,11 +51,12 @@ stance: >-
   substance but as a difference in concentration or potential across a barrier
 related:
   - INS-260330-972B
-  - INS-260330-666E
   - INS-260330-7FF3
   - INS-260403-099C
+  - INS-260330-666E
   - INS-260403-0429
   - INS-260404-73DA
+  - INS-260404-1E11
 evidence:
   - id: INS-260330-7E39
     type: REFINES

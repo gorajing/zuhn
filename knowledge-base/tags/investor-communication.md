@@ -28,4 +28,5 @@
 - `INS-260404-167D` Pitch a narrow, concrete description first and expand later—vague descriptions register as zero content.
 - `INS-260403-F981` As a startup description approaches capturing everything it could become, its informational content approaches zero.
 - `INS-260403-8013` As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.
+- `INS-260404-1263` A narrow, concrete description of your product creates more investor interest than an expansive, vague one.
 - `INS-260404-0BB0` As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.

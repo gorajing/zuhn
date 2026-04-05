@@ -57,7 +57,6 @@ related:
   - INS-260404-1F1B
   - INS-260330-F5CF
   - INS-260330-E497
-  - INS-260404-1455
 ---
 When RuBisCo grabs oxygen instead of CO2, it produces phosphoglycolate — a toxic byproduct that interferes with the Calvin Cycle itself. Plants evolved dedicated enzyme pathways (photorespiration) solely to break down this waste product into something usable. The cleanup infrastructure is not optional; without it, the core process poisons itself.
 

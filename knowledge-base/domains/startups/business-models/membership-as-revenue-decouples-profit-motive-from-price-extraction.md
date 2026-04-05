@@ -47,12 +47,12 @@ stance: >-
   competitors cannot replicate through discounting alone
 related:
   - INS-260403-1208
-  - INS-260404-A938
   - INS-260404-C4B9
   - INS-260404-5C4B
   - INS-260404-60D6
   - INS-260403-3864
   - INS-260404-98F5
+  - INS-260404-DD00
   - INS-260404-1E28
 ---
 Costco makes 75% of its revenue from membership fees, not product markups. This fundamentally changes its optimization function: instead of maximizing per-item margin, it maximizes renewal probability. Every pricing decision filters through 'will this impress customers enough to renew at $60/year?' — making price increases irrational since a few cents today costs $60 next year.

@@ -44,9 +44,9 @@ stance: >-
   business quality.
 related:
   - PRI-260328-0993
-  - INS-260404-A938
   - INS-260327-BEB1
   - INS-260329-C8C7
   - INS-260327-FBD8
+  - INS-260322-B450
 ---
 Dalton and Michael break down the distortion in current AI startup metrics. Monthly usage-based revenue gets annualized despite zero lock-in. Companies resell API calls from OpenAI or Anthropic at below cost. Big enterprise logos turn out to be million-dollar pilots with no binding contract. LOIs get counted as ARR. The implication for founders: do not be demoralized by competitors' reported numbers because many are substantially inflated. The implication for investors: dig into contract quality, retention, and unit economics rather than accepting headline ARR. As one observer put it, AI-era ARR is 'not annual, nor recurring, nor revenue.'

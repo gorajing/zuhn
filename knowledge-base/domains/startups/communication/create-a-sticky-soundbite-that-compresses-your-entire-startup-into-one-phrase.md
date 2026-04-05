@@ -55,9 +55,8 @@ related:
   - INS-260403-2FE1
   - INS-260403-BDBE
   - INS-260404-D242
-  - INS-260403-7FBE
+  - INS-260404-96C6
   - INS-260403-19D8
-  - INS-260403-D984
   - INS-260404-6C20
 ---
 Professional investors hear so many pitches that they blur together. The first filter isn't quality — it's memorability. A crisp, descriptive phrase like 'the Microsoft Word of ecommerce' (Viaweb's) gives investors a mental handle to retrieve you from the blur. Graham recommends launching this phrase early and apparently casually, so it lodges without feeling forced.

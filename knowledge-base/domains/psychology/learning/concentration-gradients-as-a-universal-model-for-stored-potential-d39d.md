@@ -51,7 +51,6 @@ stance: >-
   energy inputs themselves.
 related:
   - INS-260325-6A2C
-  - INS-260403-FC01
   - INS-260404-869D
   - INS-260403-EE83
   - INS-260330-7E39

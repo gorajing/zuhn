@@ -51,13 +51,13 @@ stance: >-
 related:
   - INS-260327-7AB5
   - INS-260329-13D2
-  - INS-260403-1B2D
   - INS-260403-5C8E
   - INS-260403-B216
   - INS-260403-0949
   - INS-260403-E4C6
   - INS-260403-05DF
   - INS-260404-ED31
+  - INS-260404-7B68
 ---
 Graham draws a sharp line between showing and telling confidence. Explicitly stating passion or product quality is not just ineffective—it's actively counterproductive, causing audiences to write you off. The confidence signal must be structural: embedded in how you present, what you emphasize, and the frame you put around your work.
 

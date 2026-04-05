@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3929 actionable insights
+Generated on 2026-04-05 | 3934 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1712,6 +1712,7 @@ Generated on 2026-04-05 | 3929 actionable insights
 - [INS-260404-65BE] Explicitly claiming passion or quality triggers skepticism; implicitly demonstrating it through behavior is far more persuasive.
 - [INS-260404-37F7] When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
 - [INS-260404-ED31] Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, but respond strongly to behavioral confidence signals.
+- [INS-260404-7B68] Saying 'we're passionate' or 'our product is great' triggers audience skepticism; conviction must be shown, never stated.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2057,6 +2058,7 @@ Generated on 2026-04-05 | 3929 actionable insights
 - [INS-260404-616F] Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - [INS-260404-6EB8] Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.
 - [INS-260404-47AC] Investors hunt for raw talent, not polished surfaces—corporate cosplay and knowledge-faking conceal the very thing they're looking for.
+- [INS-260404-96C6] A sticky descriptive phrase is a survival necessity in investor pitches because the first filter is simply being remembered.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2970,6 +2972,8 @@ Generated on 2026-04-05 | 3929 actionable insights
 - [INS-260404-06C4] Tell concrete stories about specific users and their problems—Sequoia calls this the 'proxy for demand' and it's the strongest signal for early-stage startups.
 - [INS-260404-A8C0] VCs expect early business models to be wrong—pitching them displaces the interesting signal (your problem and solution) with forgettable noise.
 - [INS-260404-D752] As a pitch description approaches 'could be anything,' its information content approaches zero—investors discard it as boilerplate.
+- [INS-260404-5DBD] At the early stage, discussing your business model wastes pitch time and can actively damage investor perception.
+- [INS-260404-1263] A narrow, concrete description of your product creates more investor interest than an expansive, vague one.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -4105,6 +4109,7 @@ Generated on 2026-04-05 | 3929 actionable insights
 - [INS-260404-C1C1] NFX's AI Litmus Test asks founders how long it would take a user to do their core task with ChatGPT+, directly measuring defensibility.
 - [INS-260404-8050] Oxygen is a 'useless byproduct' of photosynthesis that became the foundation for all animal life — the most consequential side effect in biological history.
 - [INS-260404-3879] Investors' biggest early-stage fear is you built from theory not need—specific user stories and inadequate-tool workarounds are the strongest counter-evidence.
+- [INS-260404-A95D] Demonstrating what workarounds people currently use proves demand more convincingly than citing market size numbers.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

@@ -52,9 +52,9 @@ related:
   - INS-260324-D90C
   - INS-260404-37BB
   - INS-260404-1843
+  - INS-260404-72F5
   - INS-260403-5BAC
   - INS-260404-1EA6
-  - INS-260404-7D8F
   - INS-260404-1B66
 ---
 Costco stocks roughly 4,000 unique items compared to 30,000 at a typical supermarket and 140,000 at Walmart Supercenter. This constraint is strategic: when there are only one or two choices per category, being Costco's chosen supplier means access to 94 million affluent members. Suppliers will lower prices, customize packaging, and re-engineer products (like the cashew container redesign that saved 24,000 pallets annually) just to win that slot.

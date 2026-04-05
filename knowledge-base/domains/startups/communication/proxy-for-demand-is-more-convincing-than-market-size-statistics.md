@@ -52,7 +52,7 @@ related:
   - INS-260403-92EB
   - INS-260403-3837
   - INS-260403-F8FF
+  - INS-260404-A95D
   - INS-260404-132E
-  - INS-260404-B31C
 ---
 Graham relays Sequoia's concept of 'proxy for demand'—observable behavior showing that people already need what you're building, even though they don't have it yet. This is structurally different from market sizing: a TAM slide says 'this market is big,' but a proxy-for-demand story says 'look at these specific people doing painful workarounds right now.' The latter is concrete, verifiable, and implies the founders deeply understand their users. Graham reinforces this with another demand signal: people paying a lot for an existing solution. If you can offer a cheaper alternative that preserves the qualities people already pay for, the demand argument makes itself. Both approaches ground the pitch in observable reality rather than speculative projections, which is exactly what de-risks an early-stage bet for investors.

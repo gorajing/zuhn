@@ -49,14 +49,13 @@ stance: >-
   winner-take-all dynamics among suppliers that drive prices down more
   effectively than scale alone.
 related:
-  - INS-260324-4ACD
   - INS-260403-5BBC
   - INS-260403-4874
   - INS-260404-7D8F
   - INS-260404-7F16
   - INS-260404-57E3
+  - INS-260404-72F5
   - INS-260404-3E82
-  - INS-260404-36D7
   - INS-260404-AB9A
   - INS-260404-B350
 ---

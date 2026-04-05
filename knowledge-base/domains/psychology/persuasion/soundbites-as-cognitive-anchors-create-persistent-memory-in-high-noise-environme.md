@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260320-080B
   - INS-260403-D375
-  - INS-260403-81CE
   - INS-260404-3212
   - INS-260404-D8C7
   - INS-260404-A526
@@ -58,5 +57,6 @@ related:
   - INS-260403-85F1
   - INS-260403-7FBE
   - INS-260403-BDBE
+  - INS-260404-8D37
 ---
 Graham identifies that the investor pitch environment has a severe signal-to-noise problem: after hearing many presentations, the content merges into an undifferentiated mass. The solution is a cognitive anchor—a compact, memorable phrase that lodges in memory. The Hollywood formula ('x meets y') and startup formula ('the x of y') work because they leverage existing mental models to compress novel information into a retrievable chunk. Graham adds that this exercise has a diagnostic function beyond persuasion: if you can't compress your startup into one compelling phrase, your plans may lack sufficient focus. The soundbite thus serves dual duty as both a communication tool and a strategic clarity test.

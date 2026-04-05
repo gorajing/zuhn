@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260403-91F9
   - INS-260403-06E0
+  - INS-260404-1263
   - INS-260403-B274
   - INS-260403-A0C4
   - INS-260404-9F1D
-  - INS-260404-4573
 ---
 Founders instinctively resist narrow descriptions because their product could become so much more. But as a description approaches 'anything,' its information content approaches zero. Investors discard vague sentences like 'collaboratively leverage the value of information' as meaningless boilerplate.
 

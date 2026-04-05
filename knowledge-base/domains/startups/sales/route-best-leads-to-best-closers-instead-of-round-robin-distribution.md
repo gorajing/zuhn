@@ -55,7 +55,7 @@ related:
   - INS-260329-7E63
   - INS-260329-B2BE
   - INS-260327-0826
-  - PRI-260328-F0B4
+  - INS-260404-7A5B
 ---
 Hormozi shares the story of a top timeshare salesman who convinced the CEO to stop round-robin lead distribution. Instead, the most qualified, highest-budget prospects went to the proven closers, while newer reps cut their teeth on harder leads. The result: the salesman's personal income went from $250K to $3M/year, and when rolled out company-wide, total output increased dramatically.
 
