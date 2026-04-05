@@ -49,10 +49,10 @@ stance: >-
   and daily habit remains the key product challenge.
 related:
   - INS-260327-8389
+  - INS-260404-DFE8
   - INS-260404-3E82
   - INS-260329-EBBB
   - INS-260404-57E3
-  - INS-260403-5BBC
   - INS-260330-6AC1
 evidence:
   - id: INS-260327-8389

@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 965 insights across 24 topics
+> 966 insights across 24 topics
 
 ## Topics
 
@@ -28,5 +28,5 @@
 | platform-shifts | 34 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
 | product-strategy | 70 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | system-building | 209 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |
-| system-design | 7 | Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production. |
+| system-design | 8 | Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production. |
 | systems-design | 4 | Chloroplasts charge thylakoids like batteries by pumping protons steadily, then release them through ATP synthase — the biological equivalent of a message queue enabling batch processing. |

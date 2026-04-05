@@ -52,14 +52,13 @@ stance: >-
   founder's genuine confidence becomes the single largest signal driving
   investment decisions.
 related:
-  - INS-260403-2F22
   - INS-260403-1B2D
   - INS-260403-E4C6
   - INS-260403-05DF
   - INS-260404-0CD8
+  - INS-260404-ED31
   - INS-260403-48BF
   - INS-260403-C5C0
-  - INS-260403-2F4E
   - INS-260404-C887
 ---
 Graham argues that most investors at demo day lack the technical background and time to properly evaluate what a startup has built. In this information-poor environment, the founder's own confidence in their work becomes the dominant signal. But this confidence must be demonstrated, not declared — saying 'we're passionate' or 'our product is great' is actively counterproductive because audiences either ignore such claims or mark you as a bullshitter.

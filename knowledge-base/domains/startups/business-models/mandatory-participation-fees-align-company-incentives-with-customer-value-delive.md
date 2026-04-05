@@ -48,7 +48,6 @@ stance: >-
   than product margins are structurally forced to optimize for customer
   satisfaction over extraction.
 related:
-  - INS-260324-2AD8
   - INS-260322-C33D
   - INS-260327-4B5A
   - INS-260327-795D
@@ -58,6 +57,7 @@ related:
   - INS-260329-3E28
   - INS-260403-87AC
   - INS-260403-D444
+  - PRI-260403-1D59
 ---
 Costco derives 75% of its revenue from membership fees, not product sales. This creates a structural incentive where raising prices gains pennies today but risks losing $60-120 in annual renewals. The 15% maximum markup rule is not charity — it's rational self-interest under a membership model.
 

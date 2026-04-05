@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260329-A575
   - INS-260403-FAE1
+  - INS-260404-02A0
   - INS-260404-5C4B
   - INS-260404-B8AE
   - INS-260404-0000
-  - INS-260404-37B5
   - INS-260404-C4B9
 ---
 Costco derives 75% of its profit from membership fees, not product sales. This fundamentally changes its optimization function: raising prices would generate pennies today but cost $60-120 in lost renewals next year. The self-imposed 15% max markup (vs Walmart's 24% or Home Depot's 35%) is rational because the company's survival depends on members feeling the membership is worth renewing — which 90% do annually.

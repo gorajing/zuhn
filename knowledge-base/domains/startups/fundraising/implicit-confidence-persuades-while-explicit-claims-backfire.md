@@ -52,7 +52,7 @@ related:
   - INS-260403-1E82
   - INS-260403-E51B
   - INS-260403-E4C6
+  - INS-260404-ED31
   - INS-260403-05DF
-  - INS-260404-0CD8
 ---
 When investors evaluate early startups, they lack technical depth and time to fully assess the product, so founder confidence becomes the single biggest piece of initial evidence. But this confidence must be shown, not told. Statements like 'we're passionate' or 'our product is great' get discarded as noise—or worse, mark founders as bullshitters. The correct framing is that if you've truly built something good, you're doing investors a favor by telling them about it. This reframe produces natural confidence rather than performed enthusiasm. Simultaneously, founders shouldn't overcorrect by trying to seem more corporate or polished than they are—smart investors detect bullshit better than hackers produce it, and attempting to conceal rawness may also conceal talent.

@@ -48,12 +48,10 @@ stance: >-
   while ignoring depreciation curves and total cost of ownership
 related:
   - INS-260327-FC4F
-  - INS-260329-BF51
   - INS-260329-67D1
   - INS-260330-8639
   - INS-260330-1B6E
   - INS-260403-97F8
-  - INS-260403-F03A
 evidence:
   - id: INS-260330-1B6E
     type: SUPPORTS

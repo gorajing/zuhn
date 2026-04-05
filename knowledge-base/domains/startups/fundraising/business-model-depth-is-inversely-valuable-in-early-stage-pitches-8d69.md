@@ -57,7 +57,7 @@ related:
   - INS-260403-7B28
   - INS-260403-8D2C
   - INS-260403-52DB
-  - INS-260403-DAB4
+  - INS-260403-97F5
 ---
 Graham cites a VC who invested in experienced founders despite their business model being 'crap' — because he expected it to be crap at that stage. The business model will likely change three times before working. If you're solving an important problem, talking about that makes you sound smarter than guessing about monetization.
 

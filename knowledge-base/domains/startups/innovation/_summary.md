@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 94 insights
+> 95 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
@@ -49,6 +49,7 @@
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-D62D` [high] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
 - `INS-260404-2DB4` [high] Companies must reinvent while successful because decline eliminates the resources needed for transformation.
+- `INS-260404-8256` [high] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
 - `INS-260403-E25F` [high] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
 - `INS-260404-BD46` [high] Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260403-910E` [high] Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.

@@ -47,7 +47,6 @@ stance: >-
   widespread than direct energy transfer
 related:
   - INS-260325-6A2C
-  - INS-260330-CA62
   - INS-260330-2EAB
   - INS-260404-47BC
   - INS-260404-95E9

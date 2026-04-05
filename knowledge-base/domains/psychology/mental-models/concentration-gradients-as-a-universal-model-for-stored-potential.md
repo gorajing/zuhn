@@ -50,7 +50,6 @@ stance: >-
   storing potential energy in both biological and social systems
 related:
   - INS-260330-6E5F
-  - INS-260403-384C
   - INS-260403-34B4
   - INS-260330-3037
   - INS-260404-C290

@@ -55,13 +55,13 @@ related:
   - INS-260323-35D4
   - INS-260322-FCFC
   - INS-260323-0FDA
-  - INS-260321-8D2B
   - INS-260323-4DD9
   - INS-260327-4431
   - INS-260327-4877
   - INS-260329-79D3
   - INS-260329-4B45
   - INS-260329-39E1
+  - INS-260403-DF7F
 ---
 Kodak co-invented the digital camera and had a product customers loved, yet went bankrupt because they never found a viable business model for the digital age. This pattern recurs across industries: teams obsess over product-market fit while treating unit economics, customer acquisition cost, and revenue model as afterthoughts.
 

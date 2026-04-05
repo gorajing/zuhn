@@ -1,5 +1,6 @@
 # Tag: boundaries
 
+- `INS-260404-04EA` Thylakoid proton gradients show that maintaining imbalance across a boundary is itself a form of stored energy.
 - `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
 - `INS-260327-5C91` True kindness requires first building your own mental, physical, and financial stability.
 - `INS-260330-3037` Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.

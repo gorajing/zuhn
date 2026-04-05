@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3910 actionable insights
+Generated on 2026-04-05 | 3915 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1156,7 +1156,6 @@ Generated on 2026-04-05 | 3910 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
-- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -1706,6 +1705,7 @@ Generated on 2026-04-05 | 3910 actionable insights
 - [INS-260404-0CD8] Never say 'we're passionate' or 'our product is great'—such messages must be implicit or audiences write you off as bullshitters.
 - [INS-260404-65BE] Explicitly claiming passion or quality triggers skepticism; implicitly demonstrating it through behavior is far more persuasive.
 - [INS-260404-37F7] When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
+- [INS-260404-ED31] Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, but respond strongly to behavioral confidence signals.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2958,6 +2958,9 @@ Generated on 2026-04-05 | 3910 actionable insights
 - [INS-260404-BD17] Skip detailed business model discussion in early pitches — investors expect it to be wrong and will remember the bad model instead of your good product.
 - [INS-260404-1BFF] Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
 - [INS-260404-29F4] Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
+- [INS-260404-19FE] Mention that you've thought about monetization, but don't elaborate—smart investors expect your business model to change multiple times.
+- [INS-260404-4573] Concrete narrow descriptions stick in investors' heads while broad visionary language gets discarded as meaningless boilerplate.
+- [INS-260404-06C4] Tell concrete stories about specific users and their problems—Sequoia calls this the 'proxy for demand' and it's the strongest signal for early-stage startups.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3286,6 +3289,7 @@ Generated on 2026-04-05 | 3910 actionable insights
 - [INS-260404-6394] Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.
 - [INS-260404-0240] Company culture is an operating system that must be deliberately architected, not left to chance.
 - [INS-260404-2DB4] Companies must reinvent while successful because decline eliminates the resources needed for transformation.
+- [INS-260404-8256] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3858,6 +3862,7 @@ Generated on 2026-04-05 | 3910 actionable insights
 - [INS-260404-FF84] Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 - [INS-260404-BFD0] Effort spent looking productive doesn't just waste resources — it actively makes organizations less productive.
 - [INS-260404-9F51] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, yielding only 1 net G3P per cycle.
+- [INS-260404-E1FF] Costco pays $21/hour (double retail average) with strong benefits, and gets employees three times more productive than competitors in return.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.

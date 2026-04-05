@@ -42,9 +42,9 @@ stance: >-
 related:
   - PRI-260328-F497
   - INS-260404-1E28
+  - INS-260404-02A0
   - INS-260403-3656
   - INS-260403-616B
-  - PRI-260328-2E23
 ---
 Modern arcades survive by stacking revenue streams: games, food, drinks, prizes, party bookings, creating per-visit revenue that single-entertainment venues cannot match.
 

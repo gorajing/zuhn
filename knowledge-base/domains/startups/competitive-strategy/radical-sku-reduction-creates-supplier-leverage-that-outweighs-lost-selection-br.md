@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260327-749F
   - INS-260403-DD63
+  - INS-260404-DFE8
   - INS-260404-3EA3
   - INS-260403-5BBC
   - INS-260404-B350
-  - INS-260403-5D89
 ---
 Costco stocks roughly 4,000 unique items versus Walmart's 140,000. This apparent limitation is actually a strategic weapon: suppliers compete intensely to be one of Costco's one or two choices per category, accepting lower margins and even redesigning packaging (like the cashew container that saved 24,000 pallets/year) to win placement.
 

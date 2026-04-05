@@ -54,5 +54,6 @@ related:
   - INS-260404-7D8F
   - INS-260404-1EA6
   - INS-260404-8466
+  - INS-260404-DFE8
 ---
 By stocking only 4,000 unique items compared to 30,000 at a typical supermarket or 140,000 at Walmart, Costco concentrates its enormous purchasing volume into very few products per category. Suppliers compete fiercely to be the one or two options Costco carries, willingly lowering prices and even redesigning packaging to Costco's specifications (e.g., reengineering cashew containers to save 24,000 pallets annually). This creates a flywheel: fewer choices → more volume per SKU → stronger negotiating position → lower prices → higher membership renewal. The counterintuitive lesson is that constraining selection can be a source of power rather than a limitation. When Costco can't find satisfactory supplier terms, it simply creates its own brand (Kirkland Signature, 25% of sales), further strengthening its negotiating position.

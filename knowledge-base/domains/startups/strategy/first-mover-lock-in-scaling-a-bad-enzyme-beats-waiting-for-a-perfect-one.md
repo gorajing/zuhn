@@ -50,7 +50,6 @@ stance: >-
   and scale it massively will outcompete those waiting for an optimal approach,
   even when the original solution becomes half-broken under new conditions.
 related:
-  - INS-260330-7B09
   - INS-260330-BFA2
   - INS-260403-05D8
   - INS-260404-EC33

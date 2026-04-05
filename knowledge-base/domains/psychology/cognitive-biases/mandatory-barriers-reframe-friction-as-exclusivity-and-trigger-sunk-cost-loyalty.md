@@ -51,6 +51,7 @@ stance: >-
   spending and loyalty beyond what free-entry models achieve.
 related:
   - INS-260403-3F91
+  - INS-260403-CE5F
   - INS-260404-2D53
   - INS-260404-3156
   - INS-260404-50A7

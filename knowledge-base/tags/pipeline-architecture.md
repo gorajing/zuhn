@@ -2,6 +2,7 @@
 
 - `INS-260404-0214` Photosynthesis converts sunlight to glucose through a long chain of intermediate carriers because each step produces independently useful energy currencies like ATP and NADPH.
 - `INS-260404-DDB5` Photosynthesis converts light energy through a four-complex electron transport chain rather than directly, because intermediary steps allow controlled energy capture at each stage.
+- `INS-260404-64E2` Photosynthesis splits energy capture into four protein complexes because stepwise degradation is more controllable than single-step conversion.
 - `INS-260404-2D92` The electron transport chain loses energy at every step but gains the ability to produce multiple useful outputs (ATP, NADPH, oxygen) from a single photon.
 - `INS-260404-9428` Photosynthesis splits into light reactions (capture energy as ATP/NADPH) and the Calvin Cycle (spend it on carbon fixation), enabling each stage to optimize independently.
 - `INS-260403-AC7A` Photosynthesis converts light to sugar not in one step but through a chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each reusable across the organism.

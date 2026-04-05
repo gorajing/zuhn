@@ -48,9 +48,9 @@ related:
   - INS-260403-F3FF
   - INS-260403-37E2
   - INS-260403-B274
+  - INS-260404-4573
   - INS-260403-21A8
   - INS-260403-D430
-  - INS-260403-A0C4
   - INS-260404-17E3
 ---
 Most founders resist describing their startup concisely because they see vast possibilities and fear a narrow description is misleading. But investors process dozens of pitches — vague language like 'collaboratively leverage information value' gets discarded as noise. Paul Graham recommends treating pitch descriptions like incremental development: start with a working prototype (a narrow but accurate description), then flesh it out. A tight description that investors can hold in their heads beats an expansive one they immediately forget. This maps to a general principle: specificity is more persuasive than ambition in any high-noise communication environment.

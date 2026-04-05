@@ -49,12 +49,13 @@ stance: >-
   one will crowd out what investors should remember about you.
 related:
   - INS-260403-2247
+  - INS-260404-19FE
   - INS-260404-3214
   - INS-260403-97DB
   - INS-260404-16E1
-  - INS-260404-F139
   - INS-260403-4A4A
   - INS-260404-BF04
+  - INS-260404-F139
 ---
 A top VC told Y Combinator founders that even experienced repeat founders with millions in funding had a business model that was 'crap' and would change three times. He invested anyway because he expected it to be wrong at that stage. Smart investors know this.
 

@@ -54,8 +54,8 @@ related:
   - INS-260327-E2BC
   - INS-260330-C391
   - INS-260403-9D89
+  - INS-260404-06C4
   - INS-260404-30B2
-  - INS-260402-CCF4
 ---
 Graham describes a bootstrapping problem and its solution: you can't get good deal flow without a track record, but you can't build a track record without deal flow. The solution is to start with your existing network, be genuinely helpful and decisive with those first investments, and let the chain reaction build. The key insight is that the Valley runs on referrals, and insiders won't refer deals to you until you've proven yourself.
 

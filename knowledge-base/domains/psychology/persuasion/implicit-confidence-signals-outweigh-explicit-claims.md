@@ -57,8 +57,7 @@ related:
   - INS-260403-0949
   - INS-260403-E4C6
   - INS-260403-05DF
-  - INS-260403-24F0
-  - INS-260403-48BF
+  - INS-260404-ED31
 ---
 Graham draws a sharp line between showing and telling confidence. Explicitly stating passion or product quality is not just ineffective—it's actively counterproductive, causing audiences to write you off. The confidence signal must be structural: embedded in how you present, what you emphasize, and the frame you put around your work.
 

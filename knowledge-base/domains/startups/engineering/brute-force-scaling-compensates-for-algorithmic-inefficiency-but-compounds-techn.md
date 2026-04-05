@@ -56,7 +56,7 @@ related:
   - INS-260404-47F5
   - INS-260404-EC33
   - INS-260330-8BF6
-  - INS-260404-B6E8
+  - INS-260404-8256
 ---
 When RuBisCo began confusing O2 for CO2 as atmospheric oxygen rose, plants didn't evolve a better enzyme. Instead, they scaled production massively and evolved additional enzymes to break down the toxic phosphoglycolate byproduct into useful compounds. The 'fix' was more infrastructure around the broken component.
 

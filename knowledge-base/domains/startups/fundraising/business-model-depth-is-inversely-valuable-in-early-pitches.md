@@ -55,10 +55,10 @@ related:
   - INS-260403-E393
   - INS-260403-481F
   - INS-260403-054F
-  - INS-260403-2247
   - INS-260403-4A4A
   - INS-260403-DAB4
   - INS-260403-B4B9
+  - INS-260404-3214
 ---
 Graham relays a VC who invested in a company while openly acknowledging their business model was wrong and would change three times. The founders were experienced repeat entrepreneurs with millions in funding, and even their model was 'crap.' The investor expected this.
 

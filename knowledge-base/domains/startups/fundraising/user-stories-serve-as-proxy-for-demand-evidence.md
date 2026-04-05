@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260403-D49E
   - INS-260404-5248
+  - INS-260404-06C4
   - INS-260404-9A82
   - INS-260403-19C0
   - INS-260404-CF2A
-  - INS-260403-1949
 ---
 The biggest fear investors have when evaluating early-stage startups is that you've built something based on a priori theories rather than real need. Sequoia specifically looks for 'proxy for demand'—evidence that people are already doing something with inadequate tools that shows they need what you're making.
 

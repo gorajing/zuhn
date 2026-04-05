@@ -52,9 +52,9 @@ related:
   - INS-260403-74CD
   - INS-260403-E51B
   - INS-260403-A8E8
-  - INS-260403-E4C6
   - INS-260403-05DF
-  - INS-260404-C887
+  - INS-260403-E4C6
+  - INS-260404-ED31
 ---
 Paul Graham identifies a fundamental asymmetry in persuasion: explicit claims of quality ('our product is great') are discarded or trigger skepticism, while the same message delivered implicitly through behavior, tone, and demonstrated understanding is highly persuasive. This maps to the broader show-don't-tell principle but with a specific mechanism — audiences have finely tuned bullshit detectors for self-promotional language.
 

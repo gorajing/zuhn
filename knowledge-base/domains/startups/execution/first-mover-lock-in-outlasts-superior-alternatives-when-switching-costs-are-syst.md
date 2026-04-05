@@ -46,7 +46,6 @@ stance: >-
   suboptimal choice, replacement becomes effectively impossible regardless of
   how much better alternatives could be
 related:
-  - INS-260403-5755
   - INS-260330-3FF4
   - INS-260404-1D8F
   - INS-260404-AE3C

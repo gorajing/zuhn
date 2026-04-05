@@ -52,9 +52,9 @@ related:
   - INS-260403-BEAC
   - PRI-260403-26B9
   - INS-260330-B6FA
+  - INS-260404-19FE
   - INS-260404-64EC
   - INS-260330-A949
-  - INS-260330-B09B
 ---
 Even with steep revenue growth (5x+ annually), investor interest can never be fully counted on. Something about your business can always spook investors regardless of growth metrics. Graham advises founders to write down precisely what they'll do to survive without more money and precisely when they'll switch to that plan.
 
