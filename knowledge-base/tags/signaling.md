@@ -42,9 +42,9 @@
 - `INS-260404-0CD8` Never say 'we're passionate' or 'our product is great'—such messages must be implicit or audiences write you off as bullshitters.
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
 - `INS-260403-6BF7` Developer influencers who master visibility often outperform technically superior peers in career outcomes.
+- `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
-- `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260404-AFE6` When investors lack time and technical background to evaluate your product, your own confidence becomes the single biggest piece of evidence they use.
 - `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260404-ED0F` With limited time and technical understanding, investors use your confidence as a proxy for product quality — but it must be shown, never stated.
