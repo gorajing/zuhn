@@ -10,34 +10,35 @@
 - `INS-260330-D63D` At near-light speeds, Lorentz contraction literally flattens Earth into a disc, demonstrating that 'objective shape' depends on the observer's reference frame — a physical fact, not mere perspective.
 - `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
-- `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
+- `INS-260327-62AB` Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - `INS-260327-F4CB` Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
 - `INS-260327-02CF` A hospital can't fill a doctor role at $80K and calls it a 'skills gap' when the actual gap is between what they're offering and what the market demands.
+- `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
 - `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260403-420A` Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260404-B8D9` Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
-- `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.
-- `INS-260403-89B5` The 130,000 fps camera reveals failure dynamics invisible to the naked eye, proving that understanding often requires changing observation speed rather than adding theory.
 - `INS-260329-8015` The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
 - `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
+- `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.
+- `INS-260403-89B5` The 130,000 fps camera reveals failure dynamics invisible to the naked eye, proving that understanding often requires changing observation speed rather than adding theory.
+- `INS-260330-51D6` Earth's uneven mass distribution, rotation, and external gravitational influences make 'down' a messy, ever-changing vector rather than a simple line to the center.
+- `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
+- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
+- `INS-260330-0BC2` Scales measure force but display mass units, and weight is mutual — Earth weighs 180 pounds on you just as you weigh 180 pounds on Earth.
 - `INS-260323-189B` Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
 - `INS-260325-2999` fMRI gives spatial detail but loses time; EEG captures millisecond timing but low resolution; direct electrode recording is precise but covers tiny fractions of 86 billion neurons.
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.
 - `INS-260323-144F` Lunar rocks match Earth's isotope ratios at parts-per-million precision — an empirical fact that invalidates the most physically elegant Moon formation model, demonstrating that measurement precision can overturn theoretical elegance.
 - `INS-260329-95EF` Shrinking the measurement interval from average to instantaneous rate of change is the core technique for converting rough observations into precise understanding.
-- `INS-260330-51D6` Earth's uneven mass distribution, rotation, and external gravitational influences make 'down' a messy, ever-changing vector rather than a simple line to the center.
-- `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
-- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
-- `INS-260330-0BC2` Scales measure force but display mass units, and weight is mutual — Earth weighs 180 pounds on you just as you weigh 180 pounds on Earth.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - `INS-260330-4F7B` Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
-- `INS-260327-EBDF` Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
 - `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
+- `INS-260327-EBDF` Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
 - `INS-260403-A99F` Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260330-1A63` Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
@@ -45,4 +46,3 @@
 - `INS-260330-201F` The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.
 - `INS-260403-99D1` Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
 - `INS-260330-901B` The silicon sphere (Avogadro) and Watt Balance (Planck's constant) provide independent checks on each other — dual independent approaches beat single-method perfection.
-- `INS-260327-62AB` Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
