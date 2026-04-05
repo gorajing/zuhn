@@ -49,14 +49,12 @@ stance: >-
   earning capacity because each new skill multiplies rather than adds to total
   value
 related:
-  - INS-260327-1FA1
-  - INS-260328-0DFE
   - INS-260329-4C93
+  - INS-260327-1FA1
   - PRI-260403-FBA8
   - INS-260404-9AEC
   - PRI-260323-50FE
   - INS-260329-DDBC
-  - INS-260330-16B1
 evidence:
   - id: INS-260328-0DFE
     type: TRANSFERS_TO

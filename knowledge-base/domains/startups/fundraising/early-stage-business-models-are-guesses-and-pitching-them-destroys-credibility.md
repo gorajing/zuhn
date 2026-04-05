@@ -53,5 +53,6 @@ related:
   - INS-260403-1290
   - INS-260403-C496
   - INS-260403-054F
+  - INS-260405-AC3E
 ---
 Graham cites a VC who invested in a company whose business model he expected to be wrong and change three times — and still invested because at early stage that's normal. Smart investors do not expect correct revenue models; they expect them to be wrong. The risk of discussing business models at length is twofold: it occupies precious minutes that could demonstrate the problem and solution, and if the model sounds spectacularly flawed, that becomes the dominant memory. Investors will recall the 'company with the boneheaded plan' rather than the company that solved an important problem. The advice is to show you've thought about monetization (one slide, one sentence) and move on — the problem and product are the actual evidence investors are evaluating.

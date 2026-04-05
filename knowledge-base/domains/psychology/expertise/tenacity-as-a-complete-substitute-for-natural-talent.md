@@ -42,9 +42,9 @@ stance: >-
   as a career success driver.
 related:
   - INS-260326-2259
+  - INS-260405-945B
   - INS-260330-CC7D
   - INS-260329-1741
   - INS-260403-0479
-  - INS-260329-557C
 ---
 Rollins watched bands with far more musical talent fail to 'get over the wall' while he built a multi-decade career across music, film, writing, and speaking. His self-assessment is brutally honest: no talent, just willingness to show up early, rewrite three times what others write once, and maintain iron discipline. This challenges the talent-first narrative by showing that consistency compounds in ways that sporadic brilliance cannot. The key insight is that talent without tenacity has a higher failure rate than tenacity without talent, because creative industries reward sustained output and reliability over occasional flashes of genius.

@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 83 insights
+> 85 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -56,6 +56,7 @@
 - `INS-260402-F853` [high] Writing forces idea formation that pure thinking cannot achieve alone.
 - `INS-260402-A693` [high] Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - `INS-260402-12D0` [high] Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
+- `INS-260405-678B` [high] Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260403-ABB7` [medium] Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260403-951B` [medium] Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260330-8134` [medium] After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
@@ -77,6 +78,7 @@
 - `INS-260330-EE16` [medium] Johns Hopkins research shows that the intensity of mystical-type experiences, not just drug dose, predicts whether patients achieve lasting therapeutic benefits from psilocybin.
 - `INS-260330-3C2F` [medium] Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
 - `INS-260330-2EF0` [medium] Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
+- `INS-260405-9760` [medium] Being measured on output alone and judged against your own bar is the condition for peak productivity.
 - `INS-260330-B539` [medium] Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260330-2304` [medium] Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
 - `INS-260330-87A0` [medium] World-class debaters spend their final prep minutes writing the best case against themselves, not reinforcing their own position.

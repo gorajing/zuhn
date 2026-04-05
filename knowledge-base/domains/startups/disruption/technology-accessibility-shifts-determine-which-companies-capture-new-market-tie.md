@@ -54,5 +54,6 @@ related:
   - INS-260403-5D89
   - PRI-260328-5F64
   - INS-260330-8481
+  - INS-260405-6B96
 ---
 Netflix's Value Proposition Shift from mail-order DVDs (Low Tech) to a streaming platform (High Tech) illustrates how technology accessibility transitions reshape entire industries. The DVD model had hard geographic and inventory constraints; the streaming model is borderless and infinite. But the deeper lesson isn't that Netflix adopted better technology—it's that they recognized the shift early enough to cannibalize their own profitable DVD business before a competitor did it for them. Blockbuster had the same opportunity and optimized the wrong model instead. For founders, the signal to watch is not whether competitors are improving within your current model, but whether a new delivery mechanism is emerging that makes the constraints of your current model irrelevant.

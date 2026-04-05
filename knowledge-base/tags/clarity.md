@@ -1,5 +1,6 @@
 # Tag: clarity
 
+- `INS-260327-FDD0` At Toulon, the 24-year-old Napoleon identified the one fort whose capture would force the British fleet to withdraw, while senior generals were planning futile frontal assaults on the harbor.
 - `INS-260403-8BF4` Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260402-A693` Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
@@ -22,4 +23,3 @@
 - `INS-260404-0BB0` As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
 - `INS-260405-D514` As pitch descriptions approach 'could be anything,' their information content approaches zero.
-- `INS-260327-FDD0` At Toulon, the 24-year-old Napoleon identified the one fort whose capture would force the British fleet to withdraw, while senior generals were planning futile frontal assaults on the harbor.

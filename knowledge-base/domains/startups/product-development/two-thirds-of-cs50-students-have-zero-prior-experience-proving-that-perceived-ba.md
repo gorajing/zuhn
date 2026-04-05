@@ -50,7 +50,6 @@ stance: >-
   with a majority of complete beginners proves that programming aptitude is far
   more evenly distributed than the tech industry assumes.
 related:
-  - INS-260325-E84D
   - INS-260323-FCBB
   - INS-260330-0346
   - INS-260330-2666
@@ -60,6 +59,7 @@ related:
   - INS-260329-8986
   - INS-260329-E40B
   - INS-260329-C66E
+  - INS-260330-48C6
 evidence:
   - id: INS-260323-13C0
     type: CHALLENGES

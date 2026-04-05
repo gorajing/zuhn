@@ -54,7 +54,7 @@ related:
   - INS-260325-8B36
   - INS-260321-7109
   - INS-260325-FADB
-  - INS-260328-6898
+  - INS-260405-9FD9
 ---
 Centivax's founder repeatedly resisted pressure to fill seats quickly, instead holding out for people 'so good they're scary' — world-class experts like a CMO who had more approved vaccines than anyone alive. His reasoning: in a small organization of 10-30 people, individual impact is dramatically non-linear. One luminary changes the trajectory of the entire company.
 

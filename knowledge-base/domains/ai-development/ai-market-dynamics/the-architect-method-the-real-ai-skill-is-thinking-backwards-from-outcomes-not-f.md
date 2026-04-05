@@ -53,7 +53,6 @@ related:
   - INS-260330-C681
   - INS-260330-8D34
   - INS-260403-3EFB
-  - INS-260403-2B1D
 stance: The winning AI skill isn't prompting
 evidence:
   - id: INS-260329-EC01

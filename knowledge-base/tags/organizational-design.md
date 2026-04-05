@@ -5,12 +5,12 @@
 - `INS-260330-0BD3` If someone claims they were too incompetent to prevent fraud, but built 50+ subsidiaries and one-way information walls, the complexity itself is evidence of deliberate design.
 - `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
 - `INS-260404-CC9A` Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
-- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260403-5593` Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
-- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
+- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
 - `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
@@ -24,11 +24,14 @@
 - `INS-260404-0240` Company culture is an operating system that must be deliberately architected, not left to chance.
 - `INS-260403-C6A6` Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.
 - `INS-260403-6224` Innovation program assessment requires dual axes: value creation and culture change capacity.
+- `INS-260405-34F1` Diagnosing where an organization currently sits on the innovation maturity spectrum is the prerequisite to building an effective innovation system.
 - `INS-260403-499B` Across 40 large organizations, intrapreneurship structures scored lowest — dedicated processes and incentives for internal ventures are exceptionally hard to build.
 - `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
+- `INS-260405-7AE0` Having a few innovation projects is easy; building a system that produces innovation reliably is the actual leadership challenge.
 - `INS-260403-2BEE` Growth experiments need independent spaces with dedicated resources to avoid being absorbed by the core business's gravitational pull.
 - `INS-260403-3A34` Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
+- `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260404-63B0` Inventing future growth engines requires a structurally separate organization that operates independently from the team optimizing the existing business.
 - `INS-260403-C8FD` A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
 - `INS-260404-CDF0` Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
@@ -44,6 +47,7 @@
 - `INS-260403-D36D` Whoever holds organizational power imposes their schedule type on everyone else, usually at makers' expense.
 - `INS-260403-F0DF` Splitting the CEO role into a chief execution officer and a chief entrepreneur resolves the explore-exploit tension structurally rather than hoping one person can do both.
 - `INS-260330-3E3C` Glial cells outnumber neurons 10:1 and make up half the brain's mass, proving that support infrastructure is the majority of any high-performing system.
+- `INS-260405-6DC4` Osterwalder proposes a 'Chief Entrepreneur' role to own the invention space — separating the search function from the execute function at the C-suite level.
 - `INS-260403-9FE2` A Chief Entrepreneur needs C-suite level power and prestige to protect innovation from the execution engine's organizational antibodies.
 - `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260329-8ABB` Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.

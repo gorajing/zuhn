@@ -54,7 +54,6 @@ stance: >-
   and financial services will build more defensible empires than single-product
   companies.
 related:
-  - INS-260323-76B8
   - INS-260327-25D7
   - INS-260329-693E
   - INS-260403-13E6

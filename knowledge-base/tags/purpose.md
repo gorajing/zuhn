@@ -13,3 +13,4 @@
 - `INS-260323-7C3A` Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260323-810D` At 54 with grown children and strong convictions, Carlson finds that pure curiosity ('I was just interested') is the most sustainable and honest driver -- outlasting career anxiety, reputation management, and fear.
 - `INS-260323-7BB8` Instead of asking 'what do you want to be?' (astronaut, writer, game designer), ask 'what do you want to do?' — follow the activities that bring joy moment-to-moment, and the career identity will emerge from that.
+- `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.

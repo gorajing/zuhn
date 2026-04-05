@@ -48,10 +48,10 @@ stance: >-
   from a disadvantaged position
 related:
   - INS-260329-A6F0
+  - INS-260405-7529
   - INS-260323-A700
   - INS-260327-B410
   - INS-260327-4739
-  - INS-260328-F60B
 evidence:
   - id: INS-260327-4739
     type: CHALLENGES

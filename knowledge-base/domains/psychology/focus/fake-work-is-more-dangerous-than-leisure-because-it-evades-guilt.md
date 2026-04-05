@@ -55,6 +55,7 @@ related:
   - INS-260403-449A
   - INS-260325-0A49
   - INS-260403-2B63
+  - INS-260405-7529
 ---
 A full day watching TV would produce intense guilt within hours, forcing a course correction. But a full day of email, meetings, and busywork can pass without triggering those same alarms — even though the productive output is identical: zero. The fake work feels acceptable because it has the surface properties of real work: you're at a desk, it's not fun, and it involves effort.
 

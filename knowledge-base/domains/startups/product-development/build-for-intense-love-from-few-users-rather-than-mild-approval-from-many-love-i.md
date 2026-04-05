@@ -46,7 +46,6 @@ stance: >-
   A product loved by a small number of users can be expanded to broad love, but
   a product merely liked by many users almost never converts to love at scale.
 related:
-  - INS-260330-9055
   - INS-260403-EDFC
   - INS-260403-3E9A
   - INS-260321-7D7C

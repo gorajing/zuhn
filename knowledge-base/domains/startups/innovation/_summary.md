@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 107 insights
+> 111 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
@@ -96,15 +96,19 @@
 - `INS-260403-E172` [medium] Thriving innovation requires maintaining a large pipeline of 150-200 ideas per year across varying scales.
 - `INS-260403-C6A6` [medium] Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.
 - `INS-260403-0372` [medium] Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
+- `INS-260405-34F1` [medium] Diagnosing where an organization currently sits on the innovation maturity spectrum is the prerequisite to building an effective innovation system.
 - `INS-260403-17E1` [medium] Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses.
 - `INS-260403-B5A5` [medium] Startups need INVENT patterns to design new business models; incumbents need SHIFT patterns to transform existing ones — different strategic contexts require different pattern sets.
 - `INS-260403-ACA8` [medium] Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-31C2` [medium] Enterprise lean startup adoption scales faster through peer practitioner networks than top-down mandates.
 - `INS-260403-343D` [medium] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
+- `INS-260405-7AE0` [medium] Having a few innovation projects is easy; building a system that produces innovation reliably is the actual leadership challenge.
 - `INS-260403-0030` [medium] Cohort networks from innovation programs often outvalue the curriculum by providing ongoing diverse perspectives for context-dependent innovation challenges.
 - `INS-260403-65C3` [medium] When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
 - `INS-260403-63E6` [medium] When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
 - `INS-260403-3A34` [medium] Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
+- `INS-260405-9FD9` [medium] Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
+- `INS-260405-66A1` [medium] Regulatory constraints define the innovation search space but don't eliminate the need for systematic discovery and validation.
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-4D8F` [medium] Structured toolboxes with experiment libraries and progress mapping enable both large and small companies to achieve world-class innovation.
 - `INS-260403-5BAD` [medium] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.

@@ -56,8 +56,8 @@ related:
   - INS-260323-64A4
   - PRI-260323-C49D
   - INS-260322-DAA1
+  - INS-260405-86BB
   - INS-260329-0F39
-  - INS-260327-9BA2
   - INS-260327-3B69
 stance: >-
   Students using AI to complete writing homework are skipping cognitive

@@ -42,11 +42,11 @@ stance: >-
   If your innovation efforts feel ad hoc, you have already fallen behind
   competitors who systematized innovation earlier.
 related:
+  - INS-260405-34F1
   - INS-260403-9AB5
   - INS-260403-F75F
   - INS-260402-580C
   - PRI-260403-6DD6
-  - INS-260403-5427
 ---
 Organizations often treat innovation as a creative, serendipitous activity that resists systematization. But when innovation lacks accountability, tracking, and structured frameworks, it produces inconsistent results and fails to compound. The absence of an innovation system is not neutral — it actively signals that the organization has deprioritized repeatable growth.
 

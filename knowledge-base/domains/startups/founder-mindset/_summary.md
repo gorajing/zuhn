@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 313 insights
+> 314 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -71,6 +71,7 @@
 - `INS-260323-53FF` [high] People who score high in financial avoidance save less, carry more high-interest debt, and have higher financial stress — saying 'I'm bad with numbers' is ego protection, not truth.
 - `INS-260329-1CB0` [high] Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260329-EFA8` [high] Whether in college or career, the first four years should maximize learning speed — early income is a bonus, not the objective.
+- `INS-260405-AC3E` [high] The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
 - `INS-260404-F708` [high] Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
 - `INS-260328-0540` [high] Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
 - `INS-260329-A024` [high] Focus is inversely proportional to the number of things you say yes to — the most focused person says yes to exactly one thing.

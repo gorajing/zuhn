@@ -48,11 +48,11 @@ resolutions:
     enemy of flow' — applies beyond music to any creative performance where
     overanalysis kills spontaneity.
 related:
+  - INS-260405-678B
   - INS-260403-0479
   - INS-260329-E6DB
   - INS-260321-6D01
   - INS-260330-6CA5
-  - INS-260330-363D
 stance: >-
   Miles Davis never rehearsed with his band, never told them they were being
   recorded, and never listened back to recordings

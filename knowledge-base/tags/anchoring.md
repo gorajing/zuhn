@@ -8,4 +8,5 @@
 - `INS-260330-EBF6` A $300K Lamborghini feels like $30 to someone earning $400M/year because price sensitivity scales with the ratio, not the absolute number.
 - `INS-260403-BA62` Creating a crisis first makes your offer to stop look like a concession, giving you leverage you never earned.
 - `INS-260330-1E12` Staying anchored to a known reference point in chaos prevents the fatal disorientation that kills more people than the threat itself.
+- `INS-260405-F705` We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.
 - `INS-260329-6B3C` A 10x premium tier at 10% conversion doubles revenue and triples profit versus base offering alone.

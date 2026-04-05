@@ -47,11 +47,11 @@ stance: >-
   The failure to find archaeological evidence for a phenomenon does not disprove
   it when the vast majority of potentially relevant sites remain unexamined
 related:
+  - INS-260405-66A1
   - INS-260330-716C
   - INS-260327-A44E
   - INS-260403-4672
   - INS-260330-420B
-  - INS-260330-C31B
 evidence:
   - id: INS-260327-A44E
     type: CHALLENGES

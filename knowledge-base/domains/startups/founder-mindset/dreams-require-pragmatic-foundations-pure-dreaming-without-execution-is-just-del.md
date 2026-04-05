@@ -51,7 +51,7 @@ related:
   - PRI-260328-902C
   - INS-260325-8D66
   - INS-260323-4082
-  - PRI-260324-E8C6
+  - INS-260405-7529
 stance: >-
   The tension between dreaming and pragmatism is not a contradiction to resolve
   but a dance to maintain

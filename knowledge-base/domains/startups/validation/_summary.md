@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 160 insights
+> 161 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -72,6 +72,7 @@
 - `INS-260330-843E` [high] Non-users reveal the barriers preventing market expansion — problems that existing user feedback will never surface.
 - `INS-260330-1854` [high] Non-users tell you what blocks market growth; existing users only tell you about incremental improvements.
 - `INS-260330-5D4F` [high] Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
+- `INS-260405-CA45` [high] You cannot delegate the learning that comes from direct customer interaction — outsourcing validation transfers the insight to the vendor, not back to you.
 - `INS-260403-3E3B` [high] Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260404-1000` [high] RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
 - `INS-260327-C900` [high] Susan turned Tesla saying no to home supercharging into a multi-million dollar business by solving the problem herself.

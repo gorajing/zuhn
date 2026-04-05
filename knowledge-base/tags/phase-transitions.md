@@ -1,5 +1,6 @@
 # Tag: phase-transitions
 
+- `INS-260330-B906` Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.
 - `INS-260330-4C26` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — skill acquisition followed a step-function, not a gradient.
 - `INS-260330-0B0B` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — a discrete phase transition.
 - `INS-260330-3170` Synchronization in coupled oscillators occurs as a sudden phase transition at a critical coupling strength, not as a gradual convergence.
@@ -15,4 +16,3 @@
 - `INS-260330-488B` Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
 - `INS-260323-9772` At the critical point of a phase transition (like a magnet at its Curie temperature), the system becomes scale-free and fractal — local influences chain together into infinite-range correlations, making the system 'maximally interesting' and maximally unpredictable.
 - `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
-- `INS-260330-B906` Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.

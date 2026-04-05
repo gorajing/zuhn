@@ -6,3 +6,4 @@
 - `INS-260329-41BC` OOP inheritance mirrors human prototype-based categorization, making it more cognitively natural than its reputation suggests.
 - `INS-260403-9BBA` The Uncanny Valley is best understood not as a robot-specific phenomenon but as what happens when anything straddles the boundary between two categories our brain needs to resolve.
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
+- `INS-260405-F705` We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.

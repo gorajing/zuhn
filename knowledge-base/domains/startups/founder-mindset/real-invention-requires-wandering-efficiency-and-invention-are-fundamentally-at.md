@@ -54,6 +54,7 @@ related:
   - INS-260323-19A8
   - INS-260402-FE91
   - INS-260402-1F58
+  - INS-260405-6DC4
 stance: >-
   True invention (not incremental improvement) requires permission to wander
   aimlessly

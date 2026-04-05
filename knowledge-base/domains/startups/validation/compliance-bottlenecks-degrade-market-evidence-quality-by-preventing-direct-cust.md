@@ -55,8 +55,10 @@ related:
   - INS-260403-3A34
   - INS-260404-CD55
   - INS-260404-AD2B
+  - INS-260405-AC3E
   - PRI-260328-B2EA
   - INS-260403-C737
+  - INS-260405-CA45
 ---
 The quality of business model innovation depends directly on the quality of evidence collected from the market. When compliance processes prevent teams from talking directly to customers or putting prototypes in front of real users, the evidence they gather is necessarily filtered, delayed, and less actionable.
 

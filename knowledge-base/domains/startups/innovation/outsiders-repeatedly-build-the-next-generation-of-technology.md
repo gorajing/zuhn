@@ -47,11 +47,11 @@ stance: >-
   technological generation than motivated outsiders poking at existing systems
 related:
   - INS-260327-C464
+  - INS-260405-9FD9
   - INS-260330-1266
   - INS-260403-A4CF
   - PRI-260321-7307
   - INS-260402-C664
-  - INS-260325-D624
 ---
 Graham's examples are striking: IBM had an internal team building the next business computer while two Steves in a garage actually built it; the official next-gen OS (Multics) lost to Unix, written by two engineers who thought Multics was too complex. This is not coincidence — it's structural. Insiders are constrained by existing architecture, organizational politics, and sunk-cost thinking. Outsiders start from the question 'what should this be?' rather than 'how do we extend what we have?'
 

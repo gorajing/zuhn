@@ -1,5 +1,6 @@
 # Tag: bundling
 
+- `INS-260405-F691` Amazon Prime shows that pairing a mundane utility with entertainment makes customers reluctant to cancel either, since dropping the subscription means losing both.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260403-9106` Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - `INS-260403-D2A9` Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.

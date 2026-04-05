@@ -53,8 +53,8 @@ related:
   - INS-260403-42F2
   - INS-260403-CF09
   - INS-260403-47BF
-  - INS-260403-C05F
   - INS-260403-DB22
+  - INS-260405-34F1
 ---
 Keeley's Ten Types of Innovation framework reveals that product innovation is just one of ten categories, alongside profit model, network, structure, process, product performance, product system, service, channel, and brand innovations. Most companies default to product-feature competition, which is the most easily copied and lowest-margin form of innovation.
 

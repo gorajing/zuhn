@@ -49,8 +49,8 @@ related:
   - INS-260329-3EB6
   - INS-260329-96EC
   - INS-260402-3196
+  - INS-260405-2748
   - INS-260327-6177
-  - INS-260323-C90C
 ---
 ARM's business model demonstrates a powerful principle: by designing chip architectures and licensing them rather than manufacturing chips, the company decoupled its revenue growth from physical production constraints. Each design can be sold to multiple partners across multiple applications (mobile, IoT, networking), creating compounding returns on the same R&D investment.
 

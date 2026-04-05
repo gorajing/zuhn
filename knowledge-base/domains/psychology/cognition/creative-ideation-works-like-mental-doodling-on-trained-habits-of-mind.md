@@ -50,13 +50,12 @@ stance: >-
   applying domain-specific mental habits to unexpected inputs, which requires
   deep expertise before any ideas can form.
 related:
-  - INS-260322-DAA1
   - INS-260323-3E21
   - PRI-260328-E64D
   - INS-260403-78E2
   - INS-260403-B508
+  - INS-260322-DAA1
   - INS-260403-6E11
-  - INS-260403-ABB7
 evidence:
   - id: INS-260330-264B
     type: TRANSFERS_TO

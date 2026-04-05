@@ -46,10 +46,10 @@ stance: >-
 related:
   - INS-260330-0CAD
   - INS-260403-F100
+  - INS-260405-D23E
   - INS-260329-4DBC
   - INS-260403-FCA6
   - INS-260403-1269
-  - INS-260403-17A3
 ---
 Paul Graham observes that the best programming languages (C, Lisp) were designed by their authors for their own use, while the worst (Cobol) were designed for 'other people' — always meaning people less capable than the designer. This patronizing stance produces tools that talk down to users and constrain power users.
 

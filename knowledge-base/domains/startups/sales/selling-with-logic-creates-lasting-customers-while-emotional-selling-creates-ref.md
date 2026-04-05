@@ -50,8 +50,8 @@ stance: >-
   excitement fades.
 related:
   - INS-260320-00C2
-  - INS-260327-4877
   - INS-260329-E96A
+  - INS-260405-F691
   - PRI-260323-8EEA
   - INS-260329-3609
   - INS-260403-B216

@@ -3,6 +3,8 @@
 - `INS-260321-4178` AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260327-1C7C` Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
+- `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
+- `INS-260327-5DD3` Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
 - `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260327-10A2` Sneaker reseller Leo makes the highest margins on pre-owned shoes where pricing is non-standardized and his years of expertise let him issue bids within seconds, while new-shoe margins are constrained to 20-25%.
 - `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
@@ -16,7 +18,5 @@
 - `INS-260403-268F` Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260402-0F36` The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
-- `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
 - `INS-260328-9C16` Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
-- `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
-- `INS-260327-5DD3` Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
+- `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.

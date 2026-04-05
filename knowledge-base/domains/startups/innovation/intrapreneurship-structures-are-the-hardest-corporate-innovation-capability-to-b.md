@@ -53,10 +53,10 @@ stance: >-
   challenge
 related:
   - INS-260403-B32D
+  - INS-260405-9FD9
   - PRI-260328-F0B4
   - INS-260403-65C3
   - INS-260330-0BD3
-  - INS-260403-3326
 ---
 Self-assessments from the summit showed that intrapreneurship structures received the lowest scores of any category. No organization had cracked the problem of creating strong institutionalized structures, processes, and dedicated incentive systems for business model innovation projects.
 

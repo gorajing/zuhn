@@ -45,7 +45,6 @@ stance: >-
   many users, because expanding a user base is easier than deepening
   satisfaction
 related:
-  - INS-260320-00C2
   - INS-260327-2718
   - INS-260330-E089
   - INS-260330-EA94

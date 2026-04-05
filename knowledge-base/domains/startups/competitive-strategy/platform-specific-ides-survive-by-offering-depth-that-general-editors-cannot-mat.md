@@ -49,10 +49,10 @@ stance: >-
   cannot reliably replicate.
 related:
   - INS-260330-112E
+  - INS-260405-D23E
   - INS-260321-7D7C
   - INS-260323-7D3C
   - INS-260403-906E
-  - INS-260330-EA94
 evidence:
   - id: INS-260330-112E
     type: TRANSFERS_TO

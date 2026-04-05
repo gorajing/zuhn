@@ -13,6 +13,7 @@
 - `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-4CD0` Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
+- `INS-260405-66A1` Regulatory constraints define the innovation search space but don't eliminate the need for systematic discovery and validation.
 - `INS-260403-4D8F` Structured toolboxes with experiment libraries and progress mapping enable both large and small companies to achieve world-class innovation.
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 - `INS-260403-C8FD` A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.

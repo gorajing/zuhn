@@ -2,6 +2,10 @@
 
 - `INS-260326-7B2C` Computational irreducibility guarantees that sufficiently complex AI systems will produce unintended consequences — alignment can be patched but never solved.
 - `INS-260325-D680` Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
+- `INS-260327-4D1F` Every proxy war creates future adversaries: U.S. armed Afghan fighters became Al-Qaeda, the installed Shah was overthrown into hostile revolution, and supported Saddam later invaded Kuwait.
+- `INS-260330-B490` Removing the Sinaloa cartel's leadership shattered it into a dozen warring factions and empowered the far more violent Jalisco New Generation Cartel.
+- `INS-260330-E082` Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
+- `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
 - `INS-260330-247C` Most government policies are iatrogenic — they create more harm than good — and their true cost is hidden by currency expansion rather than transparent taxation.
 - `INS-260330-F6DB` Facebook's own internal research found Instagram is 'toxic to a sizable percent of users' and worsens body image for 1 in 3 teen girls — a structural consequence of curated self-presentation at scale.
 - `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
@@ -18,7 +22,3 @@
 - `INS-260330-2119` Oxygen — the gas that enabled all animal life — was originally just a toxic waste product of photosynthesis, making it history's most valuable accidental byproduct.
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
-- `INS-260327-4D1F` Every proxy war creates future adversaries: U.S. armed Afghan fighters became Al-Qaeda, the installed Shah was overthrown into hostile revolution, and supported Saddam later invaded Kuwait.
-- `INS-260330-B490` Removing the Sinaloa cartel's leadership shattered it into a dozen warring factions and empowered the far more violent Jalisco New Generation Cartel.
-- `INS-260330-E082` Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
-- `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.

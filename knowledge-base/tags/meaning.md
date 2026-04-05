@@ -18,3 +18,4 @@
 - `INS-260330-48C6` The video's punchline — a programmer who becomes a farmer — illustrates that exiting status competition requires decoupling identity from professional achievement entirely.
 - `INS-260330-DA0B` Successful people who feel 'something is missing' are sensing their undeveloped willpower and unexplored potential, not lacking external achievements.
 - `INS-260326-4164` 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.
+- `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.

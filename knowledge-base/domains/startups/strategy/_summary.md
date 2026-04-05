@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 271 insights
+> 272 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -272,4 +272,5 @@
 - `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260330-3FCF` [medium] Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
 - `INS-260330-B27A` [medium] LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
+- `INS-260405-2748` [medium] Amazon's original content production reduces its exposure to third-party studios that could raise licensing fees or pull content to launch competing services.
 - `INS-260403-3E46` [medium] If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.

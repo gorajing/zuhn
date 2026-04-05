@@ -51,12 +51,12 @@ related:
   - INS-260323-1CA4
   - INS-260327-7846
   - INS-260329-EFA8
-  - INS-260329-C66E
   - INS-260329-7AAB
   - INS-260329-E76F
   - INS-260329-55DC
   - INS-260329-4C4C
   - INS-260330-4341
+  - INS-260403-0020
 ---
 Naval and Bill Gates both converge on the same insight: it's far easier to teach an engineer marketing than to teach a marketer engineering. Building skills—whether software, hardware, or operational systems—require prolonged periods of deep, focused learning that become harder to carve out as career responsibilities grow.
 

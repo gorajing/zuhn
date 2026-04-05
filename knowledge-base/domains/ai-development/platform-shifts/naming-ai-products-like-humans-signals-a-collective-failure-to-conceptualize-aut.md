@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260321-9EBB
   - INS-260324-27E2
+  - INS-260405-F705
   - INS-260330-C8ED
   - PRI-260327-0D6E
   - PRI-260328-BF1E
-  - PRI-260328-C006
 ---
 NFX draws a parallel between calling the internet an 'information superhighway' in the 1990s and naming AI products after people today. Both are bridging metaphors that help the public grasp a paradigm shift by anchoring it to something familiar. The implication is that we are still in the early adoption phase where customers conceptualize AI as 'a person who helps' rather than 'autonomous infrastructure that executes.' This matters for product positioning: founders ahead of their customers must manage the gap between how they see AI (autonomous labor) and how customers still see it (a smart assistant). The naming convention will likely fade as autonomous execution becomes normalized, just as nobody says 'information superhighway' anymore.

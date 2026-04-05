@@ -50,7 +50,6 @@ stance: >-
   alternatives — what Sequoia calls the 'proxy for demand.'
 related:
   - INS-260322-4B63
-  - INS-260403-A5B8
   - INS-260403-419B
   - INS-260404-CF2A
   - INS-260404-9E71

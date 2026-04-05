@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 177 insights
+> 178 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
@@ -170,6 +170,7 @@
 - `INS-260327-B7FC` [medium] When Rajat saw his early team members were willing to die for the company, he knew he had built something real — their dedication became his motivation.
 - `INS-260403-4760` [medium] Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 - `INS-260404-8520` [medium] Innovation leadership requires a dedicated C-level role because the CEO's optimization mindset conflicts with the exploration mindset needed for new ventures.
+- `INS-260405-6DC4` [medium] Osterwalder proposes a 'Chief Entrepreneur' role to own the invention space — separating the search function from the execute function at the C-suite level.
 - `INS-260403-9FE2` [medium] A Chief Entrepreneur needs C-suite level power and prestige to protect innovation from the execution engine's organizational antibodies.
 - `INS-260330-7675` [medium] Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - `INS-260404-266F` [medium] The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.

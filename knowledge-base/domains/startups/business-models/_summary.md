@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 242 insights
+> 243 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -14,6 +14,7 @@
 - `INS-260403-1A5A` [high] Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
 - `INS-260327-1576` [high] BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260324-C33C` [high] Unlike most food trends, bubble tea innovation flows from Asia to the West — Chinese and Taiwanese chains invest millions in US franchising while Americans have the highest disposable income and lowest product familiarity.
+- `INS-260405-F691` [high] Amazon Prime shows that pairing a mundane utility with entertainment makes customers reluctant to cancel either, since dropping the subscription means losing both.
 - `INS-260403-CA57` [high] Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260403-E642` [high] Innovating the business model itself—not just the product—is the primary driver of durable market disruption.
 - `INS-260403-3F10` [high] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.

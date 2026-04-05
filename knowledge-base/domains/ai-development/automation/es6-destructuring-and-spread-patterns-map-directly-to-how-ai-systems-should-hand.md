@@ -51,11 +51,11 @@ stance: >-
   systems that can elegantly decompose and recompose structured data handle
   complexity better than those requiring manual field-by-field extraction
 related:
-  - INS-260329-5F96
   - INS-260329-8F86
   - INS-260329-FAE2
   - INS-260329-91DD
-  - INS-260329-E280
+  - INS-260329-5F96
+  - INS-260405-4B12
 evidence:
   - id: INS-260329-8F86
     type: SUPPORTS

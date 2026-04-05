@@ -51,7 +51,7 @@ related:
   - INS-260403-9A57
   - INS-260403-6279
   - INS-260322-5831
-  - INS-260330-DDF0
+  - INS-260405-9FD9
 stance: >-
   Tight-knit groups of early employees at breakout companies go on to found and
   lead the next generation of billion-dollar companies, creating collab...

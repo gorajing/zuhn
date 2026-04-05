@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 4037 actionable insights
+Generated on 2026-04-05 | 4047 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -134,6 +134,7 @@ Generated on 2026-04-05 | 4037 actionable insights
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
 - [INS-260329-ED44] File I/O and modules transform Python from a calculator into an automation tool — this is the critical capability threshold for practical value.
 - [INS-260329-3FF4] Well-chaptered, manually transcribed long-form content produces far better AI-assisted knowledge extraction than unstructured equivalents.
+- [INS-260405-86BB] Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 
 ## ai-development/claude-code
 - [INS-260320-93E1] Planning is king — always use planning mode before implementation; never let the builder start without plans.
@@ -963,6 +964,8 @@ Generated on 2026-04-05 | 4037 actionable insights
 - [INS-260404-4E6D] Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
 - [INS-260404-50F7] Imagining constrained environments exposes which dependencies you've normalized and stopped noticing.
 - [INS-260404-C7A1] Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
+- [INS-260405-9760] Being measured on output alone and judged against your own bar is the condition for peak productivity.
+- [INS-260405-678B] Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1907,6 +1910,9 @@ Generated on 2026-04-05 | 4037 actionable insights
 - [INS-260404-9A69] Regularly doing things that suck recalibrates your brain's limit-detection system, raising your baseline tolerance for difficulty everywhere.
 - [INS-260404-5365] Treating selectors as customers rather than judges dissolves the expectation that rejection should be fair.
 
+## psychology/skill-development
+- [INS-260405-874D] Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
+
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
 - [INS-260322-EDA4] New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
@@ -2745,6 +2751,7 @@ Generated on 2026-04-05 | 4037 actionable insights
 - [INS-260404-8A02] Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
 - [INS-260404-F708] Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
 - [INS-260405-1D7B] Applying a threshold heuristic generously — including borderline cases rather than excluding them — protects against missing important ideas.
+- [INS-260405-AC3E] The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -3344,6 +3351,7 @@ Generated on 2026-04-05 | 4037 actionable insights
 - [INS-260403-816B] The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - [INS-260404-CF9F] Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
 - [INS-260404-70AE] Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
+- [INS-260405-34D7] During major platform transitions, systematically looking for physical objects to replace with software is a reliable source of startup ideas.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
@@ -3400,6 +3408,8 @@ Generated on 2026-04-05 | 4037 actionable insights
 - [INS-260405-F1A2] Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - [INS-260405-F99E] Believing you can pick innovation winners leads to concentrated bets on false certainty; portfolio strategy acknowledges uncertainty and prices it correctly.
 - [INS-260405-0A6D] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
+- [INS-260405-34F1] Diagnosing where an organization currently sits on the innovation maturity spectrum is the prerequisite to building an effective innovation system.
+- [INS-260405-66A1] Regulatory constraints define the innovation search space but don't eliminate the need for systematic discovery and validation.
 
 ## startups/investor-relations
 - [INS-260405-F980] Sequoia's 'proxy for demand' — what are people doing with inadequate tools right now? — is worth more than any market size estimate.
@@ -3558,6 +3568,7 @@ Generated on 2026-04-05 | 4037 actionable insights
 
 ## startups/platform-dynamics
 - [INS-260403-15DD] When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
+- [INS-260405-D23E] Platform builders should maximize developer access rather than try to anticipate use cases, because versatility produces emergent applications the platform creator never imagined.
 
 ## startups/problem-solving
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
@@ -4225,6 +4236,7 @@ Generated on 2026-04-05 | 4037 actionable insights
 - [INS-260405-EE92] Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - [INS-260405-9460] Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
 - [INS-260405-B673] A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
+- [INS-260405-CA45] You cannot delegate the learning that comes from direct customer interaction — outsourcing validation transfers the insight to the vendor, not back to you.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

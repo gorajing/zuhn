@@ -266,6 +266,7 @@ Generated on 2026-04-05 | 2421 sources
 | 500,000 | blog | 5 | 2026-03-31 |
 | 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
 | 7 Ways To Tank Your Business Model | blog | 5 | 2026-03-31 |
+| 8 Free Excel Templates Every Startup Founder Should Use | blog | 5 | 2026-03-30 |
 | 80+ Non-Dilutive Funding Sources for Startups (2026 Database) | blog | 5 | 2026-03-30 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
 | A Fundraising Survival Guide | blog | 5 | 2026-03-31 |
@@ -300,6 +301,7 @@ Generated on 2026-04-05 | 2421 sources
 | "All Lawful Use": Much More Than You Wanted To Know | blog | 5 | 2026-03-30 |
 | America must embrace the Electric Age, or fall behind | blog | 5 | 2026-03-30 |
 | America's chip export controls are working | blog | 5 | 2026-03-30 |
+| An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire) | blog | 5 | 2026-03-31 |
 | An Open Letter To CEOs | blog | 5 | 2026-03-31 |
 | An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace, Zynga) | blog | 5 | 2026-03-31 |
 | Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram) | blog | 5 | 2026-03-31 |
@@ -341,6 +343,7 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: Is AI Disrupting the Future of Work? | blog | 5 | 2026-03-30 |
 | Deep Dive on Humanoid Robots: The Case for a World Running Out of Workers | blog | 5 | 2026-03-30 |
 | Deep Dive on Neuralink: Controlling Computers With Your Mind | blog | 5 | 2026-03-30 |
+| Deep Dive: The Current State of AI | blog | 5 | 2026-03-30 |
 | Deep Dives | blog | 5 | 2026-03-30 |
 | DeepSeek R1: The AI Disruption No One Saw Coming | blog | 5 | 2026-03-30 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
@@ -422,6 +425,7 @@ Generated on 2026-04-05 | 2421 sources
 | Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance | blog | 5 | 2026-03-30 |
 | Jessica Livingston | blog | 5 | 2026-03-31 |
 | Last Rights | blog | 5 | 2026-03-30 |
+| Learning from Failure🛑 | blog | 5 | 2026-03-30 |
 | Lessons from 140+ angel investments | blog | 5 | 2026-03-31 |
 | Let the Chinese cars in | blog | 5 | 2026-03-30 |
 | Let's save the human species! | blog | 5 | 2026-03-30 |
@@ -920,6 +924,8 @@ Generated on 2026-04-05 | 2421 sources
 | AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 4 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 4 | 2026-03-30 |
 | Alex Karp Interview: How Palantir Hit $500B Market Cap | blog | 4 | 2026-03-30 |
+| Alex Osterwalder: “Companies can’t outsource the validation of their ideas” | blog | 4 | 2026-03-31 |
+| Amazon Prime: There's No Such Thing As Free Streaming | blog | 4 | 2026-03-31 |
 | Amazon spends $2.75 billion on AI startup Anthropic💸, The Founders Guide to Optimizing Your Fundraise📘, The Pulse of SaaS☁️ & more! | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Analysis Paralysis…Innovators Move Fast | blog | 4 | 2026-03-31 |
@@ -998,6 +1004,7 @@ Generated on 2026-04-05 | 2421 sources
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | From Sci-Fi to Reality 🗣️ | blog | 4 | 2026-03-30 |
 | Gangster affordability | blog | 4 | 2026-03-30 |
+| GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 4 | 2026-03-30 |
 | Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 4 | 2026-03-30 |
 | Giving AI Agents Purchasing Power | blog | 4 | 2026-03-30 |
 | Global Ranking of the Most Valuable Private Startups in 2025 | blog | 4 | 2026-03-30 |
@@ -1117,6 +1124,7 @@ Generated on 2026-04-05 | 2421 sources
 | Subject: Airbnb | blog | 4 | 2026-03-31 |
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 4 | 2026-03-30 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
+| Tablets | blog | 4 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 4 | 2026-03-30 |
 | Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 4 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 4 | 2026-03-30 |
@@ -1214,6 +1222,7 @@ Generated on 2026-04-05 | 2421 sources
 | WIRTW: Record Government Shutdown Ends | blog | 4 | 2026-03-30 |
 | World’s Best Founders 🔍, Changing VC Landscape 💼, Venture Trends 🌐 | blog | 4 | 2026-03-30 |
 | Write Like You Talk | blog | 4 | 2026-03-31 |
+| Writes and Write-Nots | blog | 4 | 2026-03-31 |
 | Writing and Speaking | blog | 4 | 2026-03-31 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 4 | 2026-03-30 |
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
@@ -1400,6 +1409,7 @@ Generated on 2026-04-05 | 2421 sources
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
 | What Will We Miss? | youtube | 4 | 2026-03-30 |
 | What’s the Future of Vertical SaaS in an AGI World? Jamie Cuffe, CEO of Pace | youtube | 4 | 2026-03-26 |
+| When You Truly Work for Yourself | youtube | 4 | 2026-03-30 |
 | Where to invest in a multipolar world (WW3?) | youtube | 4 | 2026-03-22 |
 | Why 90% of Startup CEOs Are Failing | John Kim Sendbird | youtube | 4 | 2026-03-23 |
 | Why AI Is Tech's Latest Hoax | youtube | 4 | 2026-03-24 |
@@ -1419,6 +1429,8 @@ Generated on 2026-04-05 | 2421 sources
 | This n8n workflow scrapes any business URL and writes a full analysis report for ~$0.20 | reddit | 3 | 2026-03-20 |
 | I built an n8n workflow that scrapes unlimited LinkedIn leads | reddit | 3 | 2026-03-20 |
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 3 | 2026-03-20 |
+| 200+ VC Funds Under $200M Still Investing in 2025 | blog | 3 | 2026-03-30 |
+| Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 3 | 2026-03-31 |
 | Business Model Innovation and Change | blog | 3 | 2026-03-31 |
 | Olympiad-level formal mathematical reasoning with reinforcement learning - Nature | blog | 3 | 2026-03-26 |
 | Reinvent Your Company While It's Still Successful | blog | 3 | 2026-03-31 |
@@ -2143,7 +2155,6 @@ Generated on 2026-04-05 | 2421 sources
 | 153 Startups Fundraising Right Now (and Their Decks) | blog | 0 | 2026-03-30 |
 | 2 Changes to Virtual Goods in Web3 Gaming | blog | 0 | 2026-03-31 |
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
-| 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
 | 234 Tech European Conferences in 2025 | blog | 0 | 2026-03-30 |
 | 2,500+ Angel Investors for AI & SaaS Startups | blog | 0 | 2026-03-30 |
 | 26 Pitch Decks That Raised $393M (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
@@ -2160,7 +2171,6 @@ Generated on 2026-04-05 | 2421 sources
 | 50 Real Startup Pitch Decks That Raised $380M+ | blog | 0 | 2026-03-30 |
 | 8 Concrete Tips On How To Intentionally Design Great Corporate Culture | blog | 0 | 2026-03-31 |
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
-| 8 Free Excel Templates Every Startup Founder Should Use | blog | 0 | 2026-03-30 |
 | 8 Reminders To Motivate Your Search For Value Propositions & Business Models | blog | 0 | 2026-03-31 |
 | 89 Best Startup Essays by Top VCs & Founders (YC, a16z, Naval) | blog | 0 | 2026-03-30 |
 | 9 Ways To Make The Business Model Canvas Part Of Your DNA | blog | 0 | 2026-03-31 |
@@ -2186,17 +2196,14 @@ Generated on 2026-04-05 | 2421 sources
 | AI tools are overdelivering: results from our large-scale AI productivity survey | blog | 0 | 2026-03-31 |
 | Airbnb Business Model | blog | 0 | 2026-03-31 |
 | Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix) | blog | 0 | 2026-03-31 |
-| Alex Osterwalder: “Companies can’t outsource the validation of their ideas” | blog | 0 | 2026-03-31 |
 | Alex Osterwalder On Inventing The Future With Business Model Innovation | blog | 0 | 2026-03-31 |
 | All the ways to grow your product | blog | 0 | 2026-03-31 |
 | AMA (Ask Machines Anything) | blog | 0 | 2026-03-30 |
-| Amazon Prime: There's No Such Thing As Free Streaming | blog | 0 | 2026-03-31 |
 | Amazon's Value Proposition: Never Run Out Of Toilet Paper! | blog | 0 | 2026-03-31 |
 | An AI Glossary | blog | 0 | 2026-03-31 |
 | An Alternative Theory of Unions | blog | 0 | 2026-03-31 |
 | An exclusive inside look at GPT-5 | blog | 0 | 2026-03-31 |
 | An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth) | blog | 0 | 2026-03-31 |
-| An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire) | blog | 0 | 2026-03-31 |
 | An inside look at how CNN builds product | Upasna Gautam | blog | 0 | 2026-03-31 |
 | An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma) | blog | 0 | 2026-03-31 |
 | An inside look at how Miro builds product: Lessons on outmaneuvering competitors, team structure, product quality, and moving fast | Varun Parmar (CPO of Miro) | blog | 0 | 2026-03-31 |
@@ -2225,7 +2232,6 @@ Generated on 2026-04-05 | 2421 sources
 | Book Review: The White King Of La Gonave | blog | 0 | 2026-03-30 |
 | Bootcamp Exclusive: Steve Blank On Lean Startup Inside Big Companies & More | blog | 0 | 2026-03-31 |
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
-| Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
 | China's Startup Scene📉, Illiquidity is a Feature💡, Scaling SaaS💻 | blog | 0 | 2026-03-30 |
 | Choosing The Final Frontier: Launching a Rocket Company with Andy Lapsa of Stoke Space | blog | 0 | 2026-03-31 |
@@ -2276,7 +2282,6 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: Defense 2.0 - Protecting America | blog | 0 | 2026-03-30 |
 | Deep Dive: Moore's Law and Next Steps for Silicon | blog | 0 | 2026-03-30 |
 | Deep Dive: The Business Model of Healthcare | blog | 0 | 2026-03-30 |
-| Deep Dive: The Current State of AI | blog | 0 | 2026-03-30 |
 | Deep Dive: The Future of Space | blog | 0 | 2026-03-30 |
 | Deep Dive: The Media Landscape - Sense-Making 2.0 | blog | 0 | 2026-03-30 |
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
@@ -2295,7 +2300,6 @@ Generated on 2026-04-05 | 2421 sources
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
 | From Numbers to Narrative: Financial Modeling for Founders 📊 | blog | 0 | 2026-03-30 |
 | Gaming Superpowers for Non-Game Founders with Gabi Shalel (Plarium) & Gigi Levy-Weiss | blog | 0 | 2026-03-31 |
-| GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
 | General and Surprising | blog | 0 | 2026-03-31 |
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
@@ -2316,7 +2320,6 @@ Generated on 2026-04-05 | 2421 sources
 | Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 0 | 2026-03-30 |
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
-| Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
@@ -2349,7 +2352,6 @@ Generated on 2026-04-05 | 2421 sources
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
-| Tablets | blog | 0 | 2026-03-31 |
 | Term Sheets Demystified 📄🤝 | blog | 0 | 2026-03-30 |
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
@@ -2408,7 +2410,6 @@ Generated on 2026-04-05 | 2421 sources
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |
 | Write Simply | blog | 0 | 2026-03-31 |
-| Writes and Write-Nots | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | Backspin Basketball Flies Off Dam | youtube | 0 | 2026-03-30 |
@@ -2422,5 +2423,4 @@ Generated on 2026-04-05 | 2421 sources
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
-| When You Truly Work for Yourself | youtube | 0 | 2026-03-30 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

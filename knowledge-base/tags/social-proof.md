@@ -1,5 +1,6 @@
 # Tag: social-proof
 
+- `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.
 - `INS-260403-6B97` Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists.
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
@@ -13,10 +14,10 @@
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
 - `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260403-4788` If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
-- `INS-260329-563F` Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
 - `INS-260327-212A` Stanley tumblers grew explosively not because they were better water bottles but because carrying one signaled membership in specific social tribes.
 - `INS-260329-F73D` Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
 - `INS-260329-7B56` Reviews that mention real downsides before praising outcomes are more believable and convert better than pure five-star praise.
+- `INS-260329-563F` Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
 - `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
 - `INS-260403-77B4` PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
@@ -26,4 +27,3 @@
 - `INS-260329-348D` Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
 - `INS-260329-9C6B` Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.
 - `INS-260404-9E71` Investors' biggest early-stage fear is that you built something nobody wants — specific user stories and proxy-for-demand signals neutralize this more than market data.
-- `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.

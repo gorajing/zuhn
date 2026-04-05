@@ -41,13 +41,12 @@ stance: >-
   The sense of authoring your thoughts is not evidence of a thinker — it is what
   thinking without metacognitive awareness feels like.
 related:
-  - INS-260323-043E
   - INS-260330-5F9E
   - INS-260330-6CA5
   - INS-260330-DE69
+  - INS-260405-678B
   - INS-260402-A693
   - INS-260330-3C2F
-  - INS-260323-8289
 evidence:
   - id: INS-260323-043E
     type: TRANSFERS_TO

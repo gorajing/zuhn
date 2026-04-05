@@ -51,8 +51,10 @@ related:
   - INS-260330-363D
   - INS-260330-6CA5
   - INS-260402-A693
+  - INS-260405-86BB
+  - INS-260405-678B
+  - INS-260402-12D0
   - INS-260403-1046
   - INS-260405-B8BE
-  - INS-260402-12D0
 ---
 Sam Harris makes a precise phenomenological claim: the sense that 'I am thinking' is not produced by a self generating thoughts, but is simply what happens when you fail to observe the moment a thought appears. When you catch a thought at its inception—before the narrative of ownership forms—the sense of a thinker dissolves. This reframes the self not as an entity that could theoretically be found with better introspection, but as a perceptual gap. The practical implication is that meditation isn't building a skill so much as removing a default blindspot. Once you see thoughts arising without a thinker, the illusion doesn't need to be maintained—it simply stops appearing. This is testable in first-person experience: sit quietly, watch for the next thought, and notice there is no 'you' who decided to think it.

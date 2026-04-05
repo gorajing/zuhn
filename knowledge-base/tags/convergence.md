@@ -1,9 +1,9 @@
 # Tag: convergence
 
 - `INS-260325-3CB5` AI, clean energy, and bioengineering are all hitting exponential growth tipping points at the same time.
+- `INS-260404-B1BC` Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
 - `INS-260325-B882` AI, clean energy, and bioengineering are simultaneously hitting their technology adoption tipping points, creating a convergence that may produce civilizational-scale change.
 - `INS-260325-CED9` AI, clean energy, and bioengineering are all hitting their tipping points simultaneously, creating a convergence that historically triggers 25-year explosions of civilizational progress.
-- `INS-260404-B1BC` Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
 - `INS-260330-BC3E` Biology uses concentration gradients across membranes as universal batteries — the same mechanism powers photosynthesis, cellular respiration, nerve impulses, and kidney filtration.
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
 - `INS-260330-E1CA` Rogue waves aren't random — they're multiple ordinary waves meeting and amplifying, which reframes how we think about extreme events.
