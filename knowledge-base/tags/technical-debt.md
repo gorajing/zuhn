@@ -1,26 +1,13 @@
 # Tag: technical-debt
 
-- `INS-260404-5440` Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
 - `INS-260404-76DD` Plants evolved entire metabolic pathways to detoxify RuBisCo's mistakes rather than replacing the enzyme itself — a pattern mirrored in legacy software systems.
-- `INS-260404-C663` Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
+- `INS-260404-5440` Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
 - `INS-260330-CA97` RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
+- `INS-260404-C663` Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
 - `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
 - `INS-260330-F5CF` Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
 - `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260404-84FE` Plants evolved entire metabolic pathways just to clean up after RuBisCo's mistakes rather than replacing the enzyme itself.
-- `INS-260403-C514` Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
-- `INS-260404-581C` RuBisCo evolved in a low-oxygen atmosphere and became fatally confused when plants themselves oxygenated the air, showing how success can poison the conditions that enabled it.
-- `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
-- `INS-260404-2695` RuBisCo evolved when oxygen was scarce; when oxygen rose, plants added workarounds instead of replacing it — a pattern mirrored in legacy software.
-- `INS-260403-2CDA` RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.
-- `INS-260404-3608` When replacement cost exceeds compensation cost, scaling the workaround beats re-architecting — the same logic that keeps RuBisCo in every plant on Earth.
-- `INS-260404-4010` RuBisCo is terrible at its job but plants invested so heavily in it that 40 billion tons exist on Earth rather than evolving a replacement.
-- `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
-- `INS-260330-4EC0` RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme.
-- `INS-260330-BFA2` RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
-- `INS-260403-3E1C` RuBisCo is a poor enzyme that plants can never replace, so they produce 40 billion tons of it and build workaround systems instead.
-- `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.
-- `INS-260404-BF8A` RuBisCo's oxygen-grabbing error produces a toxin that plants must build separate enzyme pathways to neutralize — core processes always generate waste that needs its own infrastructure.
 - `INS-260330-56D6` RuBisCo is terrible at its job but irreplaceable — biology's ultimate lesson in path dependence and first-mover lock-in.
 - `INS-260330-8B93` RuBisCo is a terrible enzyme that won the planet because switching costs exceeded optimization pressure.
 - `INS-260404-3DD7` RuBisCo's dominance in all plant life despite 50% error rates illustrates how early strategic commitment creates irreversible lock-in.
@@ -37,6 +24,19 @@
 - `INS-260330-4C3A` RuBisCo is a terrible enzyme that plants can never replace because their entire metabolism depends on it — a biological case study in permanent lock-in from early architectural decisions.
 - `INS-260403-9F4B` RuBisCo was designed for a low-oxygen atmosphere and became increasingly dysfunctional as plants themselves filled the air with oxygen.
 - `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
+- `INS-260403-C514` Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
+- `INS-260404-581C` RuBisCo evolved in a low-oxygen atmosphere and became fatally confused when plants themselves oxygenated the air, showing how success can poison the conditions that enabled it.
+- `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
+- `INS-260404-2695` RuBisCo evolved when oxygen was scarce; when oxygen rose, plants added workarounds instead of replacing it — a pattern mirrored in legacy software.
+- `INS-260403-2CDA` RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.
+- `INS-260404-3608` When replacement cost exceeds compensation cost, scaling the workaround beats re-architecting — the same logic that keeps RuBisCo in every plant on Earth.
+- `INS-260404-4010` RuBisCo is terrible at its job but plants invested so heavily in it that 40 billion tons exist on Earth rather than evolving a replacement.
+- `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
+- `INS-260330-4EC0` RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme.
+- `INS-260330-BFA2` RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
+- `INS-260403-3E1C` RuBisCo is a poor enzyme that plants can never replace, so they produce 40 billion tons of it and build workaround systems instead.
+- `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.
+- `INS-260404-BF8A` RuBisCo's oxygen-grabbing error produces a toxin that plants must build separate enzyme pathways to neutralize — core processes always generate waste that needs its own infrastructure.
 - `INS-260330-DF69` RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
 - `INS-260403-D482` RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
@@ -52,9 +52,6 @@
 - `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
 - `INS-260330-C658` Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
 - `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
-- `INS-260404-1C48` RuBisCo is a mediocre enzyme that dominates all life on Earth because it arrived first and everything was built on top of it.
-- `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
-- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260403-0162` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement — scaling around inefficiency creates permanent cost.
 - `INS-260404-B7B6` RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
@@ -87,3 +84,6 @@
 - `INS-260403-EDA2` RuBisCo is a terrible enzyme that conquered the planet by being produced in enormous quantities — 40 billion tons — rather than being redesigned.
 - `INS-260330-E180` Putin delayed pension reform for 13 years after vowing never to touch it, then was forced into a more extreme version that caused his worst-ever approval crisis.
 - `INS-260330-3FCF` Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
+- `INS-260404-1C48` RuBisCo is a mediocre enzyme that dominates all life on Earth because it arrived first and everything was built on top of it.
+- `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
+- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.

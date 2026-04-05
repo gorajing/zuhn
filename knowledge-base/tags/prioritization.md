@@ -27,8 +27,8 @@
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260327-482E` Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260403-BEAC` Founders frequently come in worried about fundraising or growth when the real issue is product quality or company health.
+- `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
+- `INS-260330-6C7F` A NASA committee concluded that no deflection method works for kilometer-scale asteroids, making survey telescopes the single highest-value investment in planetary defense.
 - `INS-260403-1E4A` Use one Value Proposition Canvas per customer segment — never combine payers, users, and other segments.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
-- `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
-- `INS-260330-6C7F` A NASA committee concluded that no deflection method works for kilometer-scale asteroids, making survey telescopes the single highest-value investment in planetary defense.

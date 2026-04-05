@@ -1,9 +1,9 @@
 # Tag: failure-modes
 
 - `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
-- `INS-260404-C663` Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
 - `INS-260329-3FC9` Try-except forces you to explicitly enumerate what can go wrong, transforming crashes into controlled responses — the foundation of production-grade software.
 - `INS-260323-1811` Minecraft shows five distinct degradation zones before total failure — from buggy terrain to stretched blocks to void to infinity — demonstrating how systems fail gradually through observable stages before hitting hard limits.
+- `INS-260404-C663` Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
 - `INS-260330-D304` RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
 - `INS-260403-7252` Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
 - `INS-260329-89ED` Eliminating the 28 behaviors that guarantee poverty is a more reliable wealth strategy than any positive wealth-building framework.

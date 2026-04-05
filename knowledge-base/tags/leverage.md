@@ -12,24 +12,24 @@
 - `INS-260323-2FF9` Options offer three distinct advantages over direct stock ownership: capped maximum loss (the premium paid), amplified returns through leverage, and the ability to hedge specific risks.
 - `INS-260327-7F54` PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
 - `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
+- `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
+- `INS-260329-2242` Block your first 4-6 hours for the one thing that would make all other problems disappear.
+- `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
+- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
+- `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
+- `INS-260403-0429` Photosynthesis stores energy by pumping protons across a membrane to create a gradient — the same principle applies to information asymmetry, skill gaps, and market inefficiencies.
+- `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
+- `INS-260330-9BC3` A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260327-6ACA` The US forced Britain to withdraw from Suez not through military threats but by threatening to collapse the pound sterling through selling reserves and blocking IMF support.
 - `INS-260327-8E45` Venice's earliest power base was salt — the essential food preservative of the medieval world that the lagoon naturally produced in abundance.
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
 - `INS-260327-178D` Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
 - `INS-260330-59BC` Singapore's lack of accountability let the PAP implement excellent policies efficiently, but the same lack of checks means a less benevolent successor could do permanent, lethal damage with no mechanism for removal.
-- `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
-- `INS-260329-2242` Block your first 4-6 hours for the one thing that would make all other problems disappear.
-- `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
-- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
-- `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
-- `INS-260403-0429` Photosynthesis stores energy by pumping protons across a membrane to create a gradient — the same principle applies to information asymmetry, skill gaps, and market inefficiencies.
-- `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
-- `INS-260330-9BC3` A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260325-B206` When two operations turn out to be inverses (like integration and differentiation), knowing how to do one gives you the other for free.
-- `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.

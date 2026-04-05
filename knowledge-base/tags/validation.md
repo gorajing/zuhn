@@ -44,6 +44,8 @@
 - `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
 - `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
+- `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
+- `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260329-F7F4` When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260323-A2E5` Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
@@ -81,5 +83,3 @@
 - `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
 - `INS-260404-9A82` Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
 - `INS-260403-19C0` Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.
-- `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
-- `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.

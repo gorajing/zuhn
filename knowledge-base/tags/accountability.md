@@ -2,9 +2,9 @@
 
 - `INS-260330-1F7E` The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
 - `INS-260402-F3D7` Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
-- `INS-260325-D797` The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260330-790F` Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
 - `INS-260330-66E6` Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
+- `INS-260325-D797` The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260329-6B95` Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
 - `INS-260326-3F06` Blame is pain management disguised as accountability — when people blame, they are discharging discomfort, not seeking truth.
 - `INS-260329-4499` Your self-respect degrades each time you break a promise to yourself, because you're the only one who knows your true capacity.
@@ -25,5 +25,5 @@
 - `INS-260330-AA25` Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
 - `INS-260326-CA8C` Safety without standards is a comfort zone; standards without safety is an anxiety zone — you need both for high performance.
 - `INS-260323-D9CE` Expectations + Measurement x Reinforcement = Accountability — without reinforcement, expectations and measurement produce zero accountability.
-- `INS-260329-34A9` Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
 - `INS-260404-3070` Sears, Toys-R-Us, and J.C. Penney died not because Amazon killed retail, but because they failed to adapt — while Costco, Aldi, and Dollar General thrived in the same environment.
+- `INS-260329-34A9` Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.

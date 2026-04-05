@@ -1,7 +1,7 @@
 # Tag: good-enough
 
-- `INS-260404-9213` Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
+- `INS-260404-9213` Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - `INS-260330-D108` Photosynthesis 'rather sucks' — it's complicated, inefficient, and confusing — yet it powers all complex life because it was first and sufficient.
 - `INS-260404-26AE` RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
 - `INS-260330-7B11` RuBisCo is a terrible enzyme that won by being produced in massive quantities — 40 billion tons on Earth — because 'good enough at scale' beats 'perfect but scarce.'

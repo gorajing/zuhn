@@ -1,8 +1,8 @@
 # Tag: preparation
 
-- `INS-260327-485B` Every WW1 belligerent expected the war to last months; it lasted four years. The catastrophic cost was amplified by the universal failure to prepare for a long war.
 - `INS-260323-F9FD` Adams lost the 1980 Olympic final after cutting weight poorly with bad nutrition — a fundamental failure that mattered more than the opponent's skill at the highest competitive level.
 - `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
+- `INS-260327-485B` Every WW1 belligerent expected the war to last months; it lasted four years. The catastrophic cost was amplified by the universal failure to prepare for a long war.
 - `INS-260330-66F7` Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
 - `INS-260403-3831` Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
 - `INS-260323-C4E2` When someone emails Cuban asking what kind of business to start, that question itself reveals they are not ready — real entrepreneurs already know because they cannot stop thinking about the problem.

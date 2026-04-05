@@ -28,8 +28,8 @@
 - `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260403-FDD8` Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.
 - `INS-260404-1F1B` Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
-- `INS-260404-8050` Oxygen is a 'useless byproduct' of photosynthesis that became the foundation for all animal life — the most consequential side effect in biological history.
 - `INS-260404-15E4` Oxygen was a waste product of photosynthesis that became the foundation of all animal life — the ultimate accidental platform.
 - `INS-260330-90B6` Oxygen — the molecule enabling all animal life — is literally a waste product of photosynthesis, not its purpose.
 - `INS-260404-E60B` Oxygen was a toxic waste product of early photosynthesis that became the foundation of all complex animal life.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
+- `INS-260404-8050` Oxygen is a 'useless byproduct' of photosynthesis that became the foundation for all animal life — the most consequential side effect in biological history.
