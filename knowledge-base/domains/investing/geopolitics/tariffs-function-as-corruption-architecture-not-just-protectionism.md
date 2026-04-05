@@ -51,10 +51,10 @@ stance: >-
   dependency on executive favor.
 related:
   - PRI-260328-37D8
+  - INS-260405-A1E6
   - INS-260404-7060
   - INS-260404-BFAB
   - INS-260330-D460
-  - PRI-260321-5BF1
 evidence:
   - id: INS-260330-D460
     type: SUPPORTS

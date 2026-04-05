@@ -56,7 +56,7 @@ related:
   - INS-260330-9EBA
   - INS-260330-C9A6
   - INS-260330-80AF
-  - INS-260403-280B
+  - INS-260405-7305
 ---
 The original base unit of mass was the 'grave' — a clean, prefix-free name derived from Latin 'gravitas.' But during the French Revolution, it sounded too much like the aristocratic title 'graf,' so it was politically unacceptable. Scientists switched to the gram (a thousandth of a grave), then realized it was too small, and awkwardly bolted 'kilo-' onto it. Two centuries later, the kilogram remains the only SI base unit with a prefix — a permanent scar from a political constraint.
 

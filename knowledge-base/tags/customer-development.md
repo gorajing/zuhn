@@ -1,10 +1,10 @@
 # Tag: customer-development
 
 - `INS-260330-8103` Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
-- `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
 - `INS-260330-FE9E` Your job is to listen to customer problems and translate them into the best simplest solution — not to build exactly what they tell you to build.
 - `INS-260330-2B45` Ship a prototype fast and refine based on user reactions — the 'Hail Mary' strategy of planning extensively before building wastes millions.
 - `INS-260330-139D` Ask how users behave and live rather than whether they want specific features to uncover category-creating opportunities.
+- `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
 - `INS-260330-C5FD` Prospects who condition purchase on one more feature rarely convert even after you build it — either get a signed agreement contingent on the feature or wait for multiple customers to request it.
 - `INS-260403-DD95` Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260404-087C` End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.

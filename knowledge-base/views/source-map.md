@@ -200,9 +200,9 @@ Generated on 2026-04-05 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
@@ -322,6 +322,7 @@ Generated on 2026-04-05 | 2421 sources
 | Best Innovation Management Books: 20 Must-Reads for Leaders | blog | 5 | 2026-03-31 |
 | Best Of Moltbook | blog | 5 | 2026-03-30 |
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
+| Bill Gates's €1bn Climate fund🔋, Paths to Product-Market Fit🎯, State of AI investing📊 | blog | 5 | 2026-03-30 |
 | Billionaires Build | blog | 5 | 2026-03-31 |
 | Black Swan Farming | blog | 5 | 2026-03-31 |
 | build a Billion-Dollar Startup with a minimal team thanks to AI | blog | 5 | 2026-03-30 |
@@ -889,6 +890,7 @@ Generated on 2026-04-05 | 2421 sources
 | A 4-step framework for building delightful products | Nesrine Changuel (Spotify, Google, Skype) | blog | 4 | 2026-03-31 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | A Conversation with JCal about the Evolution of Media | blog | 4 | 2026-03-30 |
+| A Conversation with One of My 8090 Co-Founders | blog | 4 | 2026-03-30 |
 | A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) | blog | 4 | 2026-03-31 |
 | A founding vision for a startup is similar to a scientific hypothesis | blog | 4 | 2026-03-31 |
 | A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 4 | 2026-03-31 |
@@ -927,12 +929,15 @@ Generated on 2026-04-05 | 2421 sources
 | Alex Osterwalder: “Companies can’t outsource the validation of their ideas” | blog | 4 | 2026-03-31 |
 | Amazon Prime: There's No Such Thing As Free Streaming | blog | 4 | 2026-03-31 |
 | Amazon spends $2.75 billion on AI startup Anthropic💸, The Founders Guide to Optimizing Your Fundraise📘, The Pulse of SaaS☁️ & more! | blog | 4 | 2026-03-30 |
+| An Alternative Theory of Unions | blog | 4 | 2026-03-31 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Analysis Paralysis…Innovators Move Fast | blog | 4 | 2026-03-31 |
+| Announcing a brand-new podcast: “How I AI” with Claire Vo 🔥 | blog | 4 | 2026-03-31 |
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Apple Business Model | blog | 4 | 2026-03-31 |
 | Apple Pay’s Uncopyable Business Model Delivers What Nobody Else Could | blog | 4 | 2026-03-31 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
+| Are Gains the Opposite of Pains? | blog | 4 | 2026-03-31 |
 | ARM Business Model | blog | 4 | 2026-03-31 |
 | Assess & Design Your Innovation Portfolio | blog | 4 | 2026-03-31 |
 | Assess how your Innovation Programs are Performing | blog | 4 | 2026-03-31 |
@@ -980,6 +985,7 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: How Equity Tokenization Is Breaking TradFi Barriers | blog | 4 | 2026-03-30 |
 | Deep Dive: Is India the Next Economic Giant? | blog | 4 | 2026-03-30 |
 | Deep Dive: Prediction Markets | blog | 4 | 2026-03-30 |
+| Deep Dive: The Media Landscape - Sense-Making 2.0 | blog | 4 | 2026-03-30 |
 | Deep Dive: Why AI Will Break the Grid | blog | 4 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Defining Property | blog | 4 | 2026-03-31 |
@@ -1005,6 +1011,7 @@ Generated on 2026-04-05 | 2421 sources
 | From Sci-Fi to Reality 🗣️ | blog | 4 | 2026-03-30 |
 | Gangster affordability | blog | 4 | 2026-03-30 |
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 4 | 2026-03-30 |
+| GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 4 | 2026-03-30 |
 | Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 4 | 2026-03-30 |
 | Giving AI Agents Purchasing Power | blog | 4 | 2026-03-30 |
 | Global Ranking of the Most Valuable Private Startups in 2025 | blog | 4 | 2026-03-30 |
@@ -1045,6 +1052,7 @@ Generated on 2026-04-05 | 2421 sources
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 4 | 2026-03-30 |
 | Investor Herd Dynamics | blog | 4 | 2026-03-31 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
+| Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
 | Is There Such a Thing as Good Taste? | blog | 4 | 2026-03-31 |
 | It's Charisma, Stupid | blog | 4 | 2026-03-31 |
@@ -1202,6 +1210,7 @@ Generated on 2026-04-05 | 2421 sources
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 4 | 2026-03-31 |
 | Where to See Silicon Valley | blog | 4 | 2026-03-31 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
+| Why Companies Invest in Open-Source Tech and Research | blog | 4 | 2026-03-30 |
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
 | Why Hire Offshore?  | blog | 4 | 2026-03-30 |
 | Why It's Safe for Founders to Be Nice | blog | 4 | 2026-03-31 |
@@ -2177,7 +2186,6 @@ Generated on 2026-04-05 | 2421 sources
 | A 3-step AI coding workflow for solo founders | Ryan Carson (5x founder) | blog | 0 | 2026-03-31 |
 | A builder’s guide to living a long and healthy life | blog | 0 | 2026-03-31 |
 | A Collection of the Best 89 VC and Founder Essays  | blog | 0 | 2026-03-30 |
-| A Conversation with One of My 8090 Co-Founders | blog | 0 | 2026-03-30 |
 | A Day in the Life of Your Customer Worksheet | blog | 0 | 2026-03-31 |
 | A designer’s guide to AI: Building in Cursor (instead of Figma) lets you prototype 10x faster, simplifies collaboration, and accelerates getting ideas out of your head | Joel Unger | blog | 0 | 2026-03-31 |
 | A designer's guide to Cursor: How to build interactive prototypes with sound, explore visual styles, and transform data visualizations | Elizabeth Lin | blog | 0 | 2026-03-31 |
@@ -2201,7 +2209,6 @@ Generated on 2026-04-05 | 2421 sources
 | AMA (Ask Machines Anything) | blog | 0 | 2026-03-30 |
 | Amazon's Value Proposition: Never Run Out Of Toilet Paper! | blog | 0 | 2026-03-31 |
 | An AI Glossary | blog | 0 | 2026-03-31 |
-| An Alternative Theory of Unions | blog | 0 | 2026-03-31 |
 | An exclusive inside look at GPT-5 | blog | 0 | 2026-03-31 |
 | An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth) | blog | 0 | 2026-03-31 |
 | An inside look at how CNN builds product | Upasna Gautam | blog | 0 | 2026-03-31 |
@@ -2210,14 +2217,12 @@ Generated on 2026-04-05 | 2421 sources
 | An inside look at how the New York Times builds product | Alex Hardiman (CPO at The New York Times) | blog | 0 | 2026-03-31 |
 | An inside look at Mixpanel’s product journey | Vijay Iyengar (Head of Product) | blog | 0 | 2026-03-31 |
 | An NFT That Saves Lives | blog | 0 | 2026-03-31 |
-| Announcing a brand-new podcast: “How I AI” with Claire Vo 🔥 | blog | 0 | 2026-03-31 |
 | Announcing Lenny and Friends Summit 🙌 | blog | 0 | 2026-03-31 |
 | Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann | blog | 0 | 2026-03-31 |
 | Anthropic's 2022 Pitch Deck Leaked (10 Slides → $380B) | blog | 0 | 2026-03-30 |
 | “Anyone can cook”: How v0 is bringing Git workflows to vibe coding | Guillermo Rauch (Vercel CEO) | blog | 0 | 2026-03-31 |
 | Apple Pay: An Obvious Value Proposition | blog | 0 | 2026-03-31 |
 | April Dunford on product positioning, segmentation, and optimizing your sales process | blog | 0 | 2026-03-31 |
-| Are Gains the Opposite of Pains? | blog | 0 | 2026-03-31 |
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |
 | Ask Me Anything session with Alex & Yves | blog | 0 | 2026-03-31 |
@@ -2225,7 +2230,6 @@ Generated on 2026-04-05 | 2421 sources
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
-| Bill Gates's €1bn Climate fund🔋, Paths to Product-Market Fit🎯, State of AI investing📊 | blog | 0 | 2026-03-30 |
 | Bio | blog | 0 | 2026-03-31 |
 | Biz4Kids - a business model for kids | blog | 0 | 2026-03-31 |
 | Biz4Kids - Join Our Business Comic For Kids | blog | 0 | 2026-03-31 |
@@ -2283,7 +2287,6 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: Moore's Law and Next Steps for Silicon | blog | 0 | 2026-03-30 |
 | Deep Dive: The Business Model of Healthcare | blog | 0 | 2026-03-30 |
 | Deep Dive: The Future of Space | blog | 0 | 2026-03-30 |
-| Deep Dive: The Media Landscape - Sense-Making 2.0 | blog | 0 | 2026-03-30 |
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
@@ -2301,7 +2304,6 @@ Generated on 2026-04-05 | 2421 sources
 | From Numbers to Narrative: Financial Modeling for Founders 📊 | blog | 0 | 2026-03-30 |
 | Gaming Superpowers for Non-Game Founders with Gabi Shalel (Plarium) & Gigi Levy-Weiss | blog | 0 | 2026-03-31 |
 | General and Surprising | blog | 0 | 2026-03-31 |
-| GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 417.5 | blog | 0 | 2026-03-30 |
@@ -2317,7 +2319,6 @@ Generated on 2026-04-05 | 2421 sources
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
-| Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 0 | 2026-03-30 |
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
@@ -2404,7 +2405,6 @@ Generated on 2026-04-05 | 2421 sources
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
-| Why Companies Invest in Open-Source Tech and Research | blog | 0 | 2026-03-30 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |

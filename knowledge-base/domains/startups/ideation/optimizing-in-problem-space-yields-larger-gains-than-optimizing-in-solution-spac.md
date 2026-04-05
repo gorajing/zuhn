@@ -43,7 +43,6 @@ stance: >-
   grind harder on their current solution.
 related:
   - INS-260325-03D5
-  - INS-260321-7D76
   - INS-260329-E333
   - INS-260329-0CC5
   - INS-260330-77E2

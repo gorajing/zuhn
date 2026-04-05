@@ -50,11 +50,11 @@ stance: >-
   already winning.
 related:
   - INS-260330-2025
-  - INS-260330-DF2C
   - INS-260330-A78C
+  - INS-260330-DF2C
   - INS-260327-7846
+  - INS-260405-95D1
   - INS-260323-2394
-  - INS-260325-FA70
 evidence:
   - id: INS-260330-2025
     type: TRANSFERS_TO

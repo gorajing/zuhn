@@ -52,7 +52,6 @@ related:
   - PRI-260328-BF67
   - PRI-260323-1F9C
   - INS-260323-3045
-  - INS-260327-6F26
   - INS-260404-A15B
 stance: >-
   Both tech optimism and tech pessimism are self-fulfilling prophecies —

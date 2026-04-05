@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3796 insights across 46 topics
+> 3802 insights across 48 topics
 
 ## Topics
 
@@ -8,13 +8,14 @@
 | ----- | -------- | ------- |
 | ai-business-models | 18 | AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record. |
 | bootstrapping | 35 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
-| business-models | 243 | Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere. |
+| business-models | 245 | Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere. |
 | co-founders | 44 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 47 | If you can't find one compelling phrase for your startup, your plans may not be focused enough — the description exercise is a focus test as much as a communication test. |
 | community-building | 2 | Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay. |
 | company-culture | 2 | Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint. |
-| competitive-strategy | 548 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 549 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 37 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
+| customer-discovery | 1 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 1 | Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | disruption | 2 | We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad. |
@@ -42,6 +43,7 @@
 | problem-solving | 8 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 12 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 142 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
+| product-market-fit | 2 | Removing friction meets the baseline; gains require going beyond what customers already expect. |
 | product-strategy | 62 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
 | quality | 14 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 179 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |

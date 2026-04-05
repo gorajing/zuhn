@@ -47,8 +47,8 @@ related:
   - PRI-260328-C581
   - INS-260325-FDF5
   - INS-260403-B5A5
+  - INS-260405-A1E6
   - INS-260323-E0B5
-  - INS-260329-4DBC
 ---
 Graham notes that bottom-up work 'causes you always to be on the lookout for patterns in your code' and that noticing similarity between distant components leads to redesigning the program in a simpler way. This is not refactoring after the fact — it's a fundamentally different design process where construction and pattern recognition happen simultaneously.
 

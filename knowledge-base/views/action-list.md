@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 4047 actionable insights
+Generated on 2026-04-05 | 4052 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2028,6 +2028,8 @@ Generated on 2026-04-05 | 4047 actionable insights
 - [INS-260405-D9C8] Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
 - [INS-260405-FE86] 23andMe turned its genetic database from a customer education tool into a drug discovery asset—the same resource, a second business.
 - [INS-260405-39F3] Adobe's shift from selling licenses to selling Creative Cloud subscriptions transformed a lumpy transactional business into compounding recurring revenue.
+- [INS-260405-EE74] Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
+- [INS-260405-A1E6] Overpayment patterns expose a company's real bottleneck — follow the money to find the constraint.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2354,6 +2356,9 @@ Generated on 2026-04-05 | 4047 actionable insights
 - [INS-260403-6BF7] Developer influencers who master visibility often outperform technically superior peers in career outcomes.
 - [INS-260404-5AC1] Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 - [INS-260404-875B] Apply a sentence-level filter: if you wouldn't say it to a friend, rewrite it until you would.
+
+## startups/customer-discovery
+- [INS-260405-A742] You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
 
 ## startups/decision-making
 - [INS-260405-809E] Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
@@ -3687,6 +3692,10 @@ Generated on 2026-04-05 | 4047 actionable insights
 - [INS-260403-912E] Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.
 - [INS-260404-8A18] Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
 - [INS-260404-226F] Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
+
+## startups/product-market-fit
+- [INS-260405-95D1] Removing friction meets the baseline; gains require going beyond what customers already expect.
+- [INS-260405-7305] Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.

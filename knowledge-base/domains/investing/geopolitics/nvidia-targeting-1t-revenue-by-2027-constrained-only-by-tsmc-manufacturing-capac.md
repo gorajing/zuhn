@@ -47,9 +47,9 @@ resolutions:
 related:
   - INS-260325-3B58
   - INS-260325-5CB1
+  - INS-260405-A1E6
   - INS-260327-DECA
   - INS-260403-8011
-  - INS-260323-758B
   - INS-260330-ADB7
   - INS-260403-59F0
 stance: >-

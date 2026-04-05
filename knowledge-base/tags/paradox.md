@@ -11,7 +11,7 @@
 - `INS-260330-EAAE` Harlow's rejecting-mother experiment and Hess's duckling shock study both showed that punishment for attachment behavior paradoxically strengthened it.
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260327-1B09` The harder you try to control life, the worse it gets - because the energy spent maintaining control exceeds the benefit of the control itself.
-- `INS-260327-E6B0` Underconsumption-core and anti-haul content generates as much commercial activity as the consumption it critiques, because it creates a new identity to signal.
 - `INS-260325-BE8A` Ben Horowitz: great founders hold contradictions — fully believing in the mission while planning for failure, optimistic and paranoid simultaneously.
 - `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
+- `INS-260327-E6B0` Underconsumption-core and anti-haul content generates as much commercial activity as the consumption it critiques, because it creates a new identity to signal.
 - `INS-260330-B6FA` Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.

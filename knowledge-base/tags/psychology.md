@@ -21,13 +21,13 @@
 - `INS-260325-45BC` In 1971, men were 56% of psychology undergraduates; now it is 20% and falling — Reeves argues this gender imbalance in caregiving professions may matter even more than the lack of women in tech.
 - `INS-260330-206F` There are infinitely more ways to make your life worse than better, so protect what you have rather than chasing marginal gains.
 - `INS-260325-5A93` CIA, Mossad, and MI6 all look for the same trait: someone so loyal and dependent on external validation that they will lie, steal, and change their identity to earn approval from one institution.
-- `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260330-D42C` Responsive desire (emerging from pleasure, not before it) is normal — recognizing it resolves most 'low desire' concerns without intervention.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260327-4153` Living deep in the Amazon for 17 years restructured Rosolie's entire value system in ways that no intellectual understanding of nature could replicate.
 - `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
 - `INS-260325-3754` Research consistently shows approximately two-thirds of people exposed to potentially traumatic events continue functioning normally — resilience is the norm, not the exception.
+- `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260325-9B73` Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260324-988E` Nightclubs make money from men buying $1,000 tables and $100 bottles to impress women — promoters are the invisible workforce that fills clubs with attractive women to create the demand signal.
 - `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.

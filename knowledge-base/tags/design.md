@@ -6,6 +6,6 @@
 - `INS-260405-BEA7` Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
 - `INS-260330-A18F` Placebo potency scales with perceived seriousness: surgery > injection > capsule > pill, and even color matters (blue calms, red energizes).
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
-- `INS-260404-95BA` Treating design as a first-class strategic concern creates self-reinforcing competitive advantage.
 - `INS-260323-A0CE` If you combine genuine novelty in synthetic biology, robotics, material science, and computational design simultaneously, the output is guaranteed to be novel.
 - `INS-260323-6908` The codec avatar system crosses the uncanny valley by preserving human imperfections like freckles, asymmetry, and wrinkles rather than smoothing them out.
+- `INS-260404-95BA` Treating design as a first-class strategic concern creates self-reinforcing competitive advantage.

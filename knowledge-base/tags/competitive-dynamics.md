@@ -40,6 +40,7 @@
 - `INS-260327-9018` Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
 - `INS-260327-5973` Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
+- `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.
 - `INS-260403-699F` Large organizations' advantage erodes proportionally to how fast the competitive landscape changes.
 - `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260403-1258` A monopoly's real death is when new entrants stop considering it a threat, which precedes financial decline by years.

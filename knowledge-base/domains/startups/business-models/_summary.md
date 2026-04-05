@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 243 insights
+> 245 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -59,6 +59,7 @@
 - `INS-260324-468C` [high] Esports teams, leagues, and publishers collectively burned billions chasing a future where gaming tournaments would rival the NFL — no team or league ever turned a profit, even at their peak.
 - `INS-260324-D274` [high] Cupcakes (Sprinkles), froyo (Pinkberry), cookies (Crumbl) — every dessert fad follows identical dynamics: trendsetter creates category, copycats flood, saturation hits, market crashes.
 - `INS-260404-CC9A` [high] Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
+- `INS-260405-EE74` [high] Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
 - `INS-260327-7681` [high] Western Unions high fees are sustainable because its customers — immigrants sending remittances, unbanked populations — 
 - `INS-260404-35B6` [high] Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
 - `INS-260324-2AD8` [high] European football clubs generate billions in revenue from merchandise, TV rights, and sponsorships — yet they're barely cash-flow positive because they spend everything on player salaries to sustain on-field success.
@@ -215,6 +216,7 @@
 - `INS-260403-BB22` [high] Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
 - `INS-260330-D824` [high] WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260327-38BC` [high] Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
+- `INS-260405-A1E6` [high] Overpayment patterns expose a company's real bottleneck — follow the money to find the constraint.
 - `INS-260323-0026` [high] Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
 - `INS-260327-F7C0` [high] Pizza Hut's sit-down restaurant model, once a competitive advantage for family dining, became a liability when consumers shifted to delivery and takeout -- their oversized spaces now drive higher costs without corresponding revenue.
 - `INS-260324-C496` [high] BuzzFeed ($1.7B valuation to penny stock) and VICE (bankruptcy) prove that millions of views and hit shows are worth almost nothing without subscription revenue.

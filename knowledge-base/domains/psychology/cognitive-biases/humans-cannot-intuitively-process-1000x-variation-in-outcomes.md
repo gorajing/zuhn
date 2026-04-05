@@ -48,7 +48,6 @@ stance: >-
   expertise or experience.
 related:
   - INS-260403-3CD0
-  - INS-260403-508D
   - INS-260402-E140
   - INS-260403-E319
   - INS-260402-EEDB

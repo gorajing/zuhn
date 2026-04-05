@@ -56,15 +56,15 @@ stance: >-
   integration rather than disappearing entirely.
 related:
   - INS-260325-FA70
-  - PRI-260323-ADA4
   - PRI-260328-94D4
   - INS-260404-BFAB
   - INS-260327-40DA
+  - INS-260405-A1E6
   - PRI-260328-3C01
-  - INS-260327-DECA
   - INS-260329-F7F4
   - INS-260329-5EE7
   - INS-260329-C881
+  - INS-260403-36DD
 evidence:
   - id: INS-260321-D484
     type: TRANSFERS_TO

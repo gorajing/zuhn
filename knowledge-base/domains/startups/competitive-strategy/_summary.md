@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 548 insights
+> 549 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -522,6 +522,7 @@
 - `INS-260404-D149` [medium] OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - `INS-260403-1D43` [medium] Incumbent game studios will use AI to cut costs and add depth to existing formats, but category-defining breakthroughs require AI-native thinking from new entrants.
 - `INS-260330-E5F2` [medium] Netflix will never produce documentaries about ongoing fraud because a single lawsuit threatens institutional-scale liability, while independent journalists like Coffeezilla face proportionally lower consequences.
+- `INS-260405-10A5` [medium] Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.
 - `INS-260327-C54D` [medium] Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
 - `INS-260403-F234` [medium] Buying distribution then forcing technology change fails because legacy organizations resist replacing systems that already work for them.
 - `INS-260322-F6AA` [medium] Industries whose profitability depends on making processes boring, difficult, and time-consuming are most vulnerable to LLM disruption — and many don't realize this is their actual business model.

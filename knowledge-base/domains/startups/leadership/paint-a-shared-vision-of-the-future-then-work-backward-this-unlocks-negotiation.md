@@ -50,7 +50,7 @@ related:
   - INS-260329-B011
   - INS-260323-4082
   - INS-260329-A9B7
-  - INS-260323-1871
+  - INS-260405-690F
 stance: People endure incredible hardship today if the future portends what they want
 evidence:
   - id: INS-260329-B011
