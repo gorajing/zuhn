@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-ADB7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-3912
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Altman opens with a bold claim: 'Compute is gonna be the currency of the future... maybe the most precious commodity in the world.' This frames the entire AI race as fundamentally an infrastructure and resource competition, not just an algorithms competition.
 

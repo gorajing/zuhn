@@ -73,6 +73,9 @@ evidence:
   - id: INS-260327-BB71
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-0350
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Stripe's machine payment protocol demo showed agents autonomously paying third-party services (BrowserBase for a browser session, Parallel AI for web search, Postal Form for physical mail) as part of completing a task. The total cost for planning a birthday party across multiple services was roughly $5.47. This points to a nascent business model category: companies that exist primarily to serve AI agents, with no need for traditional SaaS infrastructure like dashboards, admin panels, or landing pages — just a hyper-useful single API endpoint.
 

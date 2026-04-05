@@ -51,6 +51,10 @@ related:
   - INS-260403-EDFC
   - INS-260404-D976
   - INS-260330-EA94
+evidence:
+  - id: INS-260403-D82B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Paul Buchheit's insight—which Graham calls one of the ten most important sentences he'd tell any startup—inverts the default growth instinct. Most founders optimize for user count, but intense love from a small group is a more reliable signal and growth engine than lukewarm adoption at scale.
 

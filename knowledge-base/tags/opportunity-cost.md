@@ -1,17 +1,14 @@
 # Tag: opportunity-cost
 
-- `INS-260329-55DC` Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
-- `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
-- `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
 - `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260403-D294` Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
+- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260325-0103` Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260329-19EE` Events, masterminds, and networking carry enormous hidden costs beyond their time slots — they fragment focus and create ongoing obligations.
 - `INS-260403-A112` 'Grab coffee' meetings are nearly free for managers but devastatingly expensive for makers, and neither side naturally recognizes the asymmetry.
-- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
-- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260329-C3DF` Whether in college or a career, the first four years should maximize learning speed, not paycheck size.
 - `INS-260329-49E6` Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
 - `INS-260330-16B1` Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
@@ -40,10 +37,13 @@
 - `INS-260329-A01C` The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260329-1669` The belief that pursuing multiple opportunities increases the odds of one succeeding is a fallacy—any single one could have succeeded with full focus, but none will with divided attention.
 - `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
-- `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260404-E36F` Early-stage business models are almost certainly wrong, so time spent on them displaces discussion of the problem and product where founders actually have insight.
 - `INS-260403-ABBB` Fundraising damages startups primarily by becoming the top idea in the founder's mind, starving product work of background processing cycles.
 - `INS-260330-7220` The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
 - `INS-260403-FAFA` Early-stage VCs suffer more from missing winners than from funding losers, which means founders should emphasize upside potential over risk mitigation.
+- `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260329-7D18` Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
 - `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.
+- `INS-260329-55DC` Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
+- `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
+- `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.

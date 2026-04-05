@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-960A
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-D645
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Korea's industrialization success came from fast-following: studying developed nations' proven approaches (open-book exam). Three conditions enabled this: (1) slow-moving heavy industry allowed catch-up, (2) globalization meant knowledge was shared freely, (3) the hungry spirit drove 150-hour work weeks. All three conditions are now gone.
 

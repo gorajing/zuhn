@@ -59,6 +59,10 @@ related:
   - INS-260329-8C69
   - INS-260403-EF30
   - INS-260405-6433
+evidence:
+  - id: INS-260323-197A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Most strategy discussions fail because participants talk past each other using vague language about 'value' and 'differentiation' without grounding those concepts in specific business model components. The Business Model Canvas and Value Proposition Canvas solve this by decomposing strategy into discrete, interrelated blocks — each with trigger questions that force specificity.
 

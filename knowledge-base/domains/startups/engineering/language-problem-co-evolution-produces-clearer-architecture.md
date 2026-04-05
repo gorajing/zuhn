@@ -53,6 +53,10 @@ related:
   - INS-260329-7C59
   - INS-260325-898A
   - INS-260327-2C5F
+evidence:
+  - id: INS-260323-3920
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Top-down design imposes structure by decomposing the stated goal into subroutines. Bottom-up design discovers structure by noticing repeated patterns and extracting them into operators. Graham's key insight is that these two approaches don't produce the same program — bottom-up yields 'a larger language with more abstract operators, and a smaller program written in it.'
 

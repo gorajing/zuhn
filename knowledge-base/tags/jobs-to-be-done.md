@@ -7,6 +7,7 @@
 - `INS-260404-1E47` The customer profile (jobs, pains, gains) should drive value proposition design, not the other way around.
 - `INS-260402-C883` Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 - `INS-260403-10D8` AI coaches that ask structured questions help teams articulate what they already know and pinpoint what they still need to learn about customers.
+- `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260403-08E6` Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - `INS-260403-B87D` Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.

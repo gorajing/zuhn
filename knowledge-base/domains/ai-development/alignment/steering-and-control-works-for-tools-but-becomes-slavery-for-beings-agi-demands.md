@@ -65,6 +65,10 @@ stance: >-
   The current alignment paradigm of steering/control is appropriate for
   tool-like AI but becomes morally equivalent to slavery when applied to
   genera...
+evidence:
+  - id: INS-260403-1325
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Shear frames the alignment landscape with a stark taxonomy: if what you're building is a machine, steering and control make it a tool (good). If what you're building is a being, steering and control make it a slave (bad). The possible outcomes are: (1) a tool you can't control — bad, (2) a tool you can control — fine, (3) a being that isn't aligned — bad, (4) a being that cares about us — the only good outcome.
 

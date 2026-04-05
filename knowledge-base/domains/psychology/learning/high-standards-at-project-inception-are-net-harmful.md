@@ -52,6 +52,10 @@ related:
   - INS-260405-020E
   - INS-260403-25EE
   - INS-260403-AA8F
+evidence:
+  - id: INS-260323-1C32
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham argues that the most important phase of a personal project is the transition from 'it might be cool to do x' to actually doing x. At this fragile moment, high standards are not merely useless but positively harmful. While a few people start too many projects, far more are deterred by fear of failure from starting projects that would have succeeded.
 

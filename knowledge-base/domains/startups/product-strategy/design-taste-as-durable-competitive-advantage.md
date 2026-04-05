@@ -50,6 +50,10 @@ related:
   - INS-260403-0414
   - INS-260327-289F
   - INS-260404-7A5B
+evidence:
+  - id: INS-260327-7C69
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Steve Jobs demonstrated that elevating design from frivolous extra to core company principle creates a moat that competitors struggle to copy even when they recognize its importance. Apple's competitors 'now know better' but still can't replicate the advantage because design taste is cultural and deeply embedded—it's not a feature you bolt on.
 

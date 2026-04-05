@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-38C9
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-538C
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Zitron's 'beginning of history' concept (a Fukuyama inversion) describes how the tech industry keeps assuming what worked before will work again. Amazon Web Services took 11 years and $39B to become profitable — Oracle's AI bet already dwarfs that timeline and investment. But AI data centers are not fiber optic cables from the dot-com era; they don't last as long, aren't as broadly useful, and serve unprofitable customers.
 

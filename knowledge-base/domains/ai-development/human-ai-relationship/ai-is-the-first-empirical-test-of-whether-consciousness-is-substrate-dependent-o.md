@@ -69,5 +69,8 @@ evidence:
   - id: INS-260327-D212
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260405-C3B0
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Three domains converge: psychology/consciousness suggests consciousness may be fundamental like gravity rather than emergent from complexity. AI/limitations shows intelligence and consciousness can be decoupled — LLMs demonstrate intelligence without apparent consciousness. AI/alignment asks whether this question is even empirically testable. The synthesis: if consciousness is fundamental (panpsychist view), then sufficiently complex AI systems may already be conscious and alignment becomes an ethics problem. If consciousness requires specific biological substrates, then AI alignment is purely a control problem. The practical implication is that AI safety researchers are making implicit metaphysical commitments that shape their entire approach, usually without examining them.

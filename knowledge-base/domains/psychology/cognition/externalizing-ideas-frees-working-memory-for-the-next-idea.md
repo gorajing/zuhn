@@ -52,6 +52,10 @@ related:
   - INS-260403-AA8F
   - INS-260403-21AF
   - INS-260404-200B
+evidence:
+  - id: INS-260322-5B1B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham admits he rarely revisits his notebooks — their value is almost entirely in the act of writing, not the artifact. This reveals that note-taking's primary function is cognitive offloading: by externalizing an idea, you free the working memory slot it occupied, allowing the next idea to surface. The notebook acts as a 'wick' for ideas, drawing them out continuously.
 

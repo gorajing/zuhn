@@ -1,6 +1,5 @@
 # Tag: signaling
 
-- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
 - `INS-260404-92AC` Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
 - `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260403-7586` Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
@@ -68,3 +67,4 @@
 - `INS-260404-438C` When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - `INS-260404-103B` Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260403-7708` A firm like Sequoia taking 30% needs to improve outcomes by 43%—their brand signal alone may exceed that.
+- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.

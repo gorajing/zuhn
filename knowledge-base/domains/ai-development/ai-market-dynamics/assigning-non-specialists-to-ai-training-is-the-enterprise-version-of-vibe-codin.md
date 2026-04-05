@@ -60,5 +60,8 @@ evidence:
   - id: INS-260327-D888
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-DBD2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 A common failure pattern: the company decides to launch an AI support agent, and assigns it to 'Jim from IT' — the guy who installed Intercom once. But AI training requires understanding vector stores, embedding strategies, chunking methods, hallucination minimization, and reinforcement learning design. This is data science, not IT setup. The gap between installing a tool and making an AI system reliable is enormous, and it maps directly to why the 95% failure rate exists. Organizations confuse 'easy to access' with 'easy to implement well.' The tools have democratized access but not competence. This counterweights the optimistic narrative that AI-first means everyone can build with AI — the skill bar for deployment that actually works remains high.

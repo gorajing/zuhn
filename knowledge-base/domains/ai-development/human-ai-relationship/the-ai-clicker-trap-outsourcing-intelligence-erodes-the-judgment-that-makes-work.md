@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-4EDE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-9409
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Choi coins 'AI clicker' (AI 딸깍발이) to describe people who click through AI for everything without cultivating underlying skills — not reading books, not writing papers themselves, not studying design tools to develop aesthetic sensibility. He connects this to the broader intelligence outsourcing trend: consumers outsource purchasing decisions to reviews, then to algorithms, and now to AI.
 

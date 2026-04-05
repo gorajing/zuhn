@@ -73,6 +73,15 @@ evidence:
   - id: INS-260327-6F26
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-438C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-F7F4
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-A15B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Verdon introduces the concept of 'hyperstition' — ideas that, once believed, increase their own probability of becoming real. He argues that pessimism about technology is fundamentally destructive because it is hyperstitious: if you believe the future will be worse, you reduce investment, slow innovation, and make that worse future more likely.
 

@@ -1,12 +1,13 @@
 # Tag: discovery
 
+- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
 - `INS-260405-2849` Erdős's 'God's book' intuition — that the best proofs feel found, not made — points to a real distinction between constructed arguments and universal truths.
 - `INS-260402-89DE` Writing works as a discovery mechanism because committing to specific words forces vague ideas into falsifiable form, enabling iterative refinement.
 - `INS-260402-4E59` Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
 - `INS-260402-607A` Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - `INS-260402-D0F3` Dishonesty in thinking doesn't just produce biased conclusions — it produces boring ones by preventing the discovery of surprising ideas.
-- `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260405-AF1E` History's biggest paradigm shifts — heliocentrism, evolution, selfish gene — all share a single move: removing humans from the center of the story.
+- `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260404-8908` Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
 - `INS-260403-5215` Photosystem II was discovered before Photosystem I, so the 'first' complex in the chain is called II — and renaming would cause more confusion than it solves.
@@ -19,7 +20,7 @@
 - `INS-260330-CCD4` Spotify's shift from search-based music access to algorithmic recommendations gave it unprecedented control over which artists succeed.
 - `INS-260405-A9B2` Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.
 - `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
-- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
+- `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
 - `INS-260327-B64E` Asking about everything a prospect has already tried and failed at surfaces deprivation, which creates the psychological urgency that drives buying decisions.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
 - `INS-260327-00EB` Bad sellers identify pain and pitch; good sellers indicate the cost; elite sellers implicate the pain so deeply the buyer feels they must act now or suffer personally.

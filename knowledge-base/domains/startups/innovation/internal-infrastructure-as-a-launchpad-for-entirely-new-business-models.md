@@ -53,6 +53,10 @@ related:
   - INS-260403-E25F
   - INS-260327-5CB6
   - INS-260404-7E24
+evidence:
+  - id: INS-260322-83D4
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Amazon's creation of AWS demonstrates that a company's internal infrastructure — built to serve its core business — can become the basis for a fundamentally different value proposition. Rather than treating IT infrastructure as a cost center, Amazon recognized it as a key resource capable of generating recurring revenue with margins far exceeding its razor-thin e-commerce operations.
 

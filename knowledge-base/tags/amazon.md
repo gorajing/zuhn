@@ -1,6 +1,5 @@
 # Tag: amazon
 
-- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260330-C825` Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
 - `INS-260327-4440` Amazon dominated e-commerce by offering incredible service below cost, but maintaining that service at scale without unpopular sacrifices was mathematically impossible from the start.
@@ -11,3 +10,4 @@
 - `INS-260322-6AF5` Amazon's product search has degraded so badly (spam, fake reviews, wrong-size photos, unclear ads) that DoorDash competing on product trust from local stores is a viable strategy — big tech's moats erode from the inside.
 - `INS-260403-FED6` The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260404-AD52` Sears, Toys-R-Us, and J.C. Penney died not because of Amazon directly but because they shared Amazon's basic model while executing it worse.
+- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.

@@ -53,6 +53,10 @@ related:
   - INS-260327-A5F9
   - PRI-260403-26B9
   - INS-260403-9F5A
+evidence:
+  - id: INS-260327-DE27
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 ARM's willingness to incur R&D costs an average of eight years before revenue starts represents a profound competitive moat. At 42% of revenue ($773M in 2018), this sustained investment creates an ever-growing library of optimized designs that no new entrant can replicate quickly. The long time horizon functions as a natural barrier to entry because it requires both deep technical capability and patient capital.
 

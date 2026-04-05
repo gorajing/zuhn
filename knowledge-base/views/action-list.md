@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 4032 actionable insights
+Generated on 2026-04-05 | 4037 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1063,6 +1063,7 @@ Generated on 2026-04-05 | 4032 actionable insights
 - [INS-260405-FE57] The tendency to see purpose in random events is the brain's default, not the result of deliberate reasoning.
 - [INS-260405-F1FD] Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
 - [INS-260405-3331] Optimal calibration is a worse strategy than slight overconfidence when you're fighting systematic biases in the opposite direction.
+- [INS-260405-966C] Public outcome data enables bias audits that institutions cannot suppress.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -4220,6 +4221,10 @@ Generated on 2026-04-05 | 4032 actionable insights
 - [INS-260404-61DA] Showing what people currently do with bad tools proves demand more convincingly than any market size number.
 - [INS-260405-DF08] Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - [INS-260405-B32E] Fidelity is a function of evidence gathered, not how good the idea seems internally.
+- [INS-260405-A6BA] Test your riskiest business assumptions before writing a single line of code.
+- [INS-260405-EE92] Use card sorting with real customers to rank their jobs and pains before designing any solution.
+- [INS-260405-9460] Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
+- [INS-260405-B673] A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

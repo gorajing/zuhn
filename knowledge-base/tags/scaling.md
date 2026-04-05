@@ -1,8 +1,8 @@
 # Tag: scaling
 
+- `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
 - `INS-260330-7E4F` Running multiple AI agents in parallel requires cloud development environments because local machines hit physical limits at 3-4 concurrent worktrees.
 - `INS-260325-F981` Month-long agents will need entirely new inference systems — current serving stacks cannot handle persistent execution.
-- `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
 - `INS-260321-BFA3` AI solved 50 Erdős problems which looks amazing, but systematic studies show a 1-2% success rate per problem — scale and selection bias make it look like magic when you only see the wins.
 - `INS-260323-D56E` Yudkowsky publicly acknowledges that GPT-4 exceeded what he thought stacking transformer layers could achieve, which means he can't predict what GPT-5 will do.
 - `INS-260322-474A` AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
@@ -13,10 +13,10 @@
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
 - `INS-260327-C962` Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260325-4846` Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
+- `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260323-4E12` The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
-- `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260328-6C9A` In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
@@ -58,15 +58,16 @@
 - `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-75A3` Facebook built a community translation platform covering 104 languages instead of just translating the top 4, which prepared them for explosive growth in markets like Hindi that didn't matter at launch.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
-- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
-- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
-- `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260329-CBF6` Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
+- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
+- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
+- `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
+- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
 - `INS-260403-8B5A` Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260330-EF51` The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
 - `INS-260330-4CA7` Hero mode — working 18+ hours to avoid hiring — feels like dedication but is actually a growth ceiling that only breaks by accepting temporary regression to build capacity.
@@ -74,7 +75,6 @@
 - `INS-260330-85B8` Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
 - `INS-260322-A892` An early startup is like an egg (simple: find customers, build product, don't die) while a late-stage company is a full chicken (international, multi-product, M&A, compliance) — but three CEO responsibilities persist across all stages.
 - `INS-260325-6F89` The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
-- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
 - `INS-260403-0550` Shared language and cultural similarity across LatAm countries dramatically reduces the friction of multi-country expansion compared to Europe's patchwork.
 - `INS-260323-C90C` True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.
 - `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.

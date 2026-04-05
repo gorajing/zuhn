@@ -78,6 +78,12 @@ evidence:
   - id: INS-260402-70FD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-6BBC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-E7E1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Karpathy acknowledges scale as 'the first principal component' of frontier model capability but argues it's insufficient alone. Training models across tens of thousands of GPUs is an 'insane thing' where hardware fails randomly and constantly. GPUs were never designed for 10,000+ workloads until very recently, and the infrastructure is 'creaking under pressure.'
 

@@ -19,15 +19,15 @@
 - `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
 - `INS-260320-3798` Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
 - `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
+- `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
 - `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
-- `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
-- `INS-260405-F980` Sequoia's 'proxy for demand' — what are people doing with inadequate tools right now? — is worth more than any market size estimate.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
+- `INS-260405-F980` Sequoia's 'proxy for demand' — what are people doing with inadequate tools right now? — is worth more than any market size estimate.
 - `INS-260403-30D8` Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - `INS-260403-17A3` Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
 - `INS-260403-F8FF` Demonstrate demand by showing the awkward workarounds people currently use, not by citing market size statistics.
@@ -47,6 +47,7 @@
 - `INS-260404-EE85` Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 - `INS-260403-A65D` Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
+- `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
 - `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
 - `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
@@ -56,6 +57,7 @@
 - `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - `INS-260329-F007` Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
+- `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.
@@ -74,6 +76,7 @@
 - `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260330-40E9` Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.
 - `INS-260330-CFBF` Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
+- `INS-260405-B673` A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
 - `INS-260405-B32E` Fidelity is a function of evidence gathered, not how good the idea seems internally.
 - `INS-260404-A95D` Demonstrating what workarounds people currently use proves demand more convincingly than citing market size numbers.
 - `INS-260403-0803` Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.

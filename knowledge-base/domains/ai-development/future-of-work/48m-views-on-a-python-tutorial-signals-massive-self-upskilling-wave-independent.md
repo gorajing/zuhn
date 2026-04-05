@@ -74,6 +74,12 @@ evidence:
   - id: INS-260329-6B2C
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-6EA6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-449D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 48 million views on a single Python tutorial — from one channel among many — indicates that self-directed technical education is operating at a scale that formal CS programs cannot match. These learners are data analysts, marketers, scientists, and hobbyists who will never get a CS degree but are acquiring enough programming skill to automate their work.
 

@@ -46,7 +46,6 @@ stance: >-
   process to art produces mediocrity.
 related:
   - INS-260321-B85C
-  - INS-260323-3737
   - INS-260328-7241
   - INS-260404-9823
   - INS-260403-ABBB

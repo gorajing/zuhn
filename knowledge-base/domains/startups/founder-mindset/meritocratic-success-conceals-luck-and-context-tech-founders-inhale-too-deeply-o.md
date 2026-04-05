@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260404-6394
   - INS-260403-147C
+  - INS-260405-D66B
   - INS-260403-39DD
   - INS-260403-B734
-  - INS-260329-EF89
 stance: 'Even in a perfect meritocracy, winners would be wrong to claim full credit'
 evidence:
   - id: INS-260327-32F1

@@ -1,8 +1,7 @@
 # Tag: culture
 
-- `INS-260325-11A6` AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
 - `INS-260323-8E4D` The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
-- `INS-260405-D34A` Costco's $21/hour average wage (double retail average) yields 3x productivity — the higher wage is cheaper per unit of output, not more expensive.
+- `INS-260325-11A6` AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
 - `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
 - `INS-260325-F8B8` The Roman toga was impossible to put on alone — its design literally encoded dependency on slave labor into the daily fabric of elite life.
@@ -23,6 +22,8 @@
 - `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
 - `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
 - `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
+- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
+- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-2691` Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
@@ -34,8 +35,6 @@
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260403-D966` Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - `INS-260403-74E5` Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
-- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
-- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260403-5F44` Innovation should live in every job rather than be siloed into a dedicated department or role.
 - `INS-260403-A99F` Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
@@ -57,10 +56,11 @@
 - `INS-260330-36B4` When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
-- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
 - `INS-260330-A69C` Hire only when someone can do something you need done but can't do yourself — never hire to fill an org chart or seem impressive.
 - `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
+- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
+- `INS-260405-D34A` Costco's $21/hour average wage (double retail average) yields 3x productivity — the higher wage is cheaper per unit of output, not more expensive.

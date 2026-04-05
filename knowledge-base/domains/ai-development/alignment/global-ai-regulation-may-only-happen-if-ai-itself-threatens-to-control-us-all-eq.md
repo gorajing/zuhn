@@ -68,6 +68,12 @@ evidence:
   - id: INS-260323-59FE
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-B4DC
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-3A8A
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Netanyahu distills his AI conversations with Sam Altman and Elon Musk into a stark game-theoretic framework. Four conclusions: (1) no nation can avoid entering AI with full force, (2) regulation is needed, (3) global regulation is unlikely because no one will voluntarily stop competing, and (4) universal regulation may only become possible if AI itself comes to threaten human control universally.
 

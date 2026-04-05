@@ -69,6 +69,12 @@ evidence:
   - id: INS-260403-4935
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-A14B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-4328
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Hormozi frames AI as a bidirectional filter for all information processing. On the input side, AI summarizes books, emails, Slack messages, and data into essential nuggets — letting you consume 10x the information. On the output side, AI predicts what you would normally say or produce, drafts it, and you validate — producing 10x the output.
 

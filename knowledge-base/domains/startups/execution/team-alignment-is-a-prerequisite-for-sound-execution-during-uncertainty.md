@@ -49,6 +49,10 @@ related:
   - INS-260322-C935
   - INS-260403-FFFE
   - INS-260330-DF02
+evidence:
+  - id: INS-260327-91C7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 During the high-uncertainty phase of building a new business, teams often assume they're aligned when they're not. Each member may have different mental models of priorities, success criteria, and next steps. The Team Alignment Map makes commitments, resources, and dependencies explicit, preventing the silent misalignment that causes wasted effort.
 

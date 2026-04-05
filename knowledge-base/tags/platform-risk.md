@@ -1,7 +1,6 @@
 # Tag: platform-risk
 
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
-- `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
 - `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
 - `INS-260330-7251` Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services.
 - `INS-260404-581C` RuBisCo evolved in a low-oxygen atmosphere and became fatally confused when plants themselves oxygenated the air, showing how success can poison the conditions that enabled it.
@@ -10,3 +9,4 @@
 - `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260322-ABA0` Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
 - `INS-260329-C893` If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
+- `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.

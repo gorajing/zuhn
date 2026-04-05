@@ -8,10 +8,10 @@
 - `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
 - `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
+- `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
-- `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
 - `INS-260329-2EF9` A failed ad, store, or product isn't back to zero — it's your current position plus one experience point, and enough experience points trigger a level-up.
@@ -30,8 +30,11 @@
 - `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260403-910E` Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
+- `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260403-B1F2` Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
+- `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
+- `INS-260405-B673` A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
 - `INS-260403-99D1` Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.

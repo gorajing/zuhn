@@ -50,6 +50,10 @@ related:
   - INS-260327-94FE
   - INS-260403-6340
   - INS-260404-AE2E
+evidence:
+  - id: INS-260320-B99F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham proposes a simple career heuristic: look at whether the most successful people in a field are nerds — people who care about the work for its own sake. In fields like politics, crime-adjacent business, or patent trolling, earnestness appears to be irrelevant or even a handicap. In technology and startups, it's increasingly the dominant factor.
 

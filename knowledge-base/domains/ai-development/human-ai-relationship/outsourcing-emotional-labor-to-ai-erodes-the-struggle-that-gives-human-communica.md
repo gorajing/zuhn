@@ -83,6 +83,12 @@ evidence:
   - id: INS-260327-04D8
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-0949
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-616F
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Tegmark highlights a disturbing trend: people using ChatGPT to rewrite angry messages in nicer language, or Microsoft demoing a parent using GPT-4 to write a graduation speech for their child. While there are efficiency gains, this outsources the very friction that makes communication human.
 

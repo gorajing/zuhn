@@ -52,6 +52,10 @@ related:
   - INS-260329-72C1
   - INS-260330-0982
   - INS-260402-4AB4
+evidence:
+  - id: INS-260329-72C1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham identifies a compounding effect in startups: unsolved problems command higher market prices AND are cheaper to solve per unit of effort. The mechanism is that clean-sheet design attracts intrinsically motivated builders ('skaters') who are far more productive when working on something that feels like their own project. You get both better talent selection and higher per-person output simultaneously.
 

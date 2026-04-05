@@ -75,6 +75,9 @@ evidence:
   - id: INS-260329-A937
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-DBD2
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 
 Dario Amodei identifies critical thinking as the single most important

@@ -23,10 +23,10 @@
 - `INS-260323-76B8` Manifast CEO deliberately keeps the product focused on front-end software planning rather than expanding to project management — arguing that horizontal plays generate short-term sales but not sustainable value.
 - `INS-260327-4669` Insta360 discovered that 70%+ of action camera users had content sitting on hard drives collecting dust because editing was too hard -- investing in mobile-first editing software became their primary competitive moat over GoPro.
 - `INS-260330-8890` Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
+- `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260329-BB8F` When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
 - `INS-260329-22A8` One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
-- `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
 - `INS-260405-1AAC` Costco's 4,000-SKU constraint gives it monopoly-like negotiating power with suppliers who desperately want to be one of two choices in a category.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.

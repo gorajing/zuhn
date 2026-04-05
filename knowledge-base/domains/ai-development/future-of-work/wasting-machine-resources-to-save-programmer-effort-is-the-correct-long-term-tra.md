@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-19A8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-2CDA
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham distinguishes between 'good waste' and 'bad waste' — good waste trades abundant machine resources for simpler designs and less programmer effort, while bad waste serves no design purpose (like SUVs solving the problem of making minivans look masculine). As computers get faster, the definition of acceptable inefficiency expands, and languages that seem shockingly wasteful by previous standards become the practical choice.
 

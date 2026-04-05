@@ -62,6 +62,12 @@ evidence:
   - id: INS-260404-D672
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260323-4D4E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260321-9A03
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Most investors at demo days lack the technical background and have insufficient time to deeply evaluate what a startup has built. In that information vacuum, the founder's own apparent conviction becomes the dominant signal. This means confidence must be shown through behavior, not stated — saying 'we're passionate' or 'our product is great' gets ignored or triggers bullshit detectors.
 

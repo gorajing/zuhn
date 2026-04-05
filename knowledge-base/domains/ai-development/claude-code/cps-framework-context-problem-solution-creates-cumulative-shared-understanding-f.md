@@ -63,6 +63,15 @@ evidence:
   - id: INS-260321-C513
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-BA8B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-1C10
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-CF81
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Inspired by Palantir's internal MUD sessions, DIO adopted the CPS framework where every problem and solution is preceded by explicit context synchronization. As meetings generate new requirements and solutions, the context section continuously grows, creating a cumulative knowledge base.
 

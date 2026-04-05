@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-B7AB
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-3A71
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Harari argues that self-correcting mechanisms are the fundamental distinction between functional and dysfunctional systems. Elections let democracies correct bad policy choices. Scientific peer review lets knowledge improve. The US Constitution's amendment process allowed correcting its original endorsement of slavery. By contrast, dictatorships, traditional religions, and holy texts lack mechanisms to identify and correct their own errors.
 

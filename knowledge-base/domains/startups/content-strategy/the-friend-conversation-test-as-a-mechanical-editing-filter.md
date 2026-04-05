@@ -49,6 +49,10 @@ related:
   - INS-260323-87F3
   - INS-260404-E5D9
   - INS-260321-703F
+evidence:
+  - id: INS-260321-703F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham offers a concrete editing process: write your first draft naturally, then review each sentence asking 'Is this the way I'd say this to a friend?' Replace anything that fails with what you'd actually say in conversation. For drafts too far gone for sentence-level fixes, explain the whole piece to a friend and replace the draft with what you said.
 

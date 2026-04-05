@@ -68,6 +68,9 @@ evidence:
   - id: INS-260329-AD3E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-8779
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 AutoDream solves a practical problem: as Claude Code accumulates hundreds of sessions, memory files bloat with redundant information, outdated context, and noise. The feature runs a sub-agent that gathers session info, reads existing memory files, and runs a consolidation prompt that synthesizes recent learnings into durable, well-organized memories.
 

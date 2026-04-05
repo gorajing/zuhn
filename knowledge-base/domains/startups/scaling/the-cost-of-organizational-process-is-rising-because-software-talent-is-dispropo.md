@@ -54,6 +54,10 @@ related:
   - INS-260405-0E77
   - INS-260327-5661
   - INS-260403-021D
+evidence:
+  - id: INS-260405-0E77
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham argues that the cost of organizational checks may actually be increasing over time, driven by software's growing role in every company. Unlike most workers, the best programmers actively prefer to work hard and ship more code—they're intrinsically motivated by output velocity rather than merely tolerating busy periods.
 

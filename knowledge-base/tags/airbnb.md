@@ -1,7 +1,5 @@
 # Tag: airbnb
 
-- `INS-260403-4DFB` In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
-- `INS-260403-8291` Seniority in investing creates anchoring bias that filters out novel categories.
 - `INS-260330-59FD` Airbnb declined to acquire their Rocket Internet clone despite the clone having 10x their funding and 10x their headcount, because the clone's mercenary culture would poison Airbnb's missionary DNA.
 - `INS-260403-D49B` Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
 - `INS-260402-1436` Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
@@ -13,3 +11,5 @@
 - `INS-260403-6386` Airbnb moved from air beds to spare rooms to professional rentals to hotels along a predictable continuum.
 - `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - `INS-260403-39F6` When the Airbnb founders personally photographed hosts' apartments in New York, they didn't just improve listings — they discovered that hosts were in the same financial desperation they were, which deepened their mission.
+- `INS-260403-4DFB` In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
+- `INS-260403-8291` Seniority in investing creates anchoring bias that filters out novel categories.

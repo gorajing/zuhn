@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-8B79
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-AF1E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Kellis argues humans are irreplaceable not despite but because of their 'baggage' - each person's unique genetic variants plus unique life experiences create a singular lens through which all of civilization has been independently rediscovered. No two humans have the same perspective on the same knowledge.
 

@@ -23,7 +23,6 @@
 - `INS-260329-9745` SQL triggers automatically execute code in response to INSERT/UPDATE/DELETE events, enabling powerful automation but creating implicit behavior that doesn't appear in application code.
 - `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
 - `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
-- `INS-260329-A9ED` HFT systems enforce automated pre-trade risk checks in microseconds to prevent runaway algorithms from causing financial disasters.
 - `INS-260329-94CF` Design your financial systems so investing happens automatically and spending requires deliberate effort.
 - `INS-260325-BCA6` Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
@@ -33,3 +32,4 @@
 - `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - `INS-260402-F62B` Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
+- `INS-260329-A9ED` HFT systems enforce automated pre-trade risk checks in microseconds to prevent runaway algorithms from causing financial disasters.

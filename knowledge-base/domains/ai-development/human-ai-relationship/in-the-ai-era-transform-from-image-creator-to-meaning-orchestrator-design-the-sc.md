@@ -68,6 +68,9 @@ evidence:
   - id: INS-260329-5975
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-3EEA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Choi documents the AI compression of creative work: video production from weeks to days (60M won to 3M won), automated graphic/motion/interior prototypes, 2D-to-3D transformation, website code in minutes. Yet his Soomgo rebranding case shows what AI cannot do: through 2 weeks of anthropological observation (7am-10pm at cafes, sketching consumer behavior), he discovered that 'hip' cafes burn energy while the essence of cafes is vitality/rest, and that removing tables (counterintuitive to revenue logic) reduced stress-driven customer walkways.
 

@@ -1,7 +1,6 @@
 # Tag: selection-bias
 
 - `INS-260321-BFA3` AI solved 50 Erdős problems which looks amazing, but systematic studies show a 1-2% success rate per problem — scale and selection bias make it look like magic when you only see the wins.
-- `INS-260325-0A81` The Copernican principle works for predicting Neptunes elsewhere but fails for properties tied to our existence — it cannot tell us life is common because we can only exist where life is possible.
 - `INS-260405-2B3F` Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
@@ -15,3 +14,4 @@
 - `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260404-06B9` The startups where VCs need compulsion over founders are not the ones that become big hits driving fund returns.
 - `INS-260403-2718` Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
+- `INS-260325-0A81` The Copernican principle works for predicting Neptunes elsewhere but fails for properties tied to our existence — it cannot tell us life is common because we can only exist where life is possible.

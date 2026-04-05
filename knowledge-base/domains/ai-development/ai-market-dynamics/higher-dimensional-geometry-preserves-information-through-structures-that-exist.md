@@ -66,6 +66,9 @@ evidence:
   - id: INS-260329-DAD1
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-280B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 While most high dimensions are chaotic, dimensions 8 and 24 are mathematical anomalies of perfect order. In 8D, exactly 240 spheres touch a central sphere in the E8 lattice -- a structure so perfect it cannot be improved. In 24D, exactly 196,560 spheres arrange in the leech lattice. Both numbers are exact, not approximate.
 

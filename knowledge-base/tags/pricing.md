@@ -2,7 +2,6 @@
 
 - `INS-260323-F68A` Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
-- `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
 - `INS-260404-A938` Costco's mandatory membership triggers stronger sunk-cost loyalty than Amazon Prime's optional subscription because every member is psychologically invested.
 - `INS-260329-8602` Removing the small cup size forces customers to anchor on medium as the minimum, increasing average spend.
 - `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
@@ -35,11 +34,11 @@
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
 - `INS-260329-6079` Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
-- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260321-AA91` Enterprise customers resist AI credit-based pricing because credits are opaque (unlike transferable units like gigabytes), vendors can silently increase consumption by adding features, and outcome-based pricing creates a dynamic baseline problem where savings erode year over year.
 - `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260322-8BC5` Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
+- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
 - `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260330-B8C5` Instead of free trials, offer annual agreements with a 30-60 day opt-out clause to get real commitment while giving prospects comfort.
@@ -61,3 +60,4 @@
 - `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260330-0F52` Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
+- `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.

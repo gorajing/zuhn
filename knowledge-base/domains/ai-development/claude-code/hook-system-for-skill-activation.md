@@ -68,6 +68,9 @@ evidence:
   - id: INS-260403-0907
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-9AEC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 
 Even with exact keyword matches in prompts, Claude does not reliably activate

@@ -57,5 +57,9 @@ related:
   - INS-260403-C3A3
   - INS-260403-6342
   - INS-260403-E25F
+evidence:
+  - id: INS-260323-62F3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Strategyzer's research on world-class companies found that survival in a changing competitive landscape requires shifting from one business model pattern to a fundamentally better one—not optimizing the existing model. Netflix didn't improve its DVD mail service; it abandoned the Low Tech pattern entirely for a High Tech streaming platform. Adobe didn't sell better boxed software; it shifted from Transactional to Recurring Revenue. The distinction matters because incremental improvement keeps you competitive within a dying paradigm, while a categorical shift repositions you in an emerging one. Founders and executives should periodically audit whether they're optimizing inside a shrinking model or building toward a structurally superior one.

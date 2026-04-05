@@ -58,5 +58,11 @@ evidence:
   - id: INS-260330-984C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-61A1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-89C3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The meta-analysis found that neither AI explanations nor confidence indicators significantly affected performance — despite these being the dominant research agenda in human-AI collaboration. The researchers suggest this line of inquiry should be deprioritized in favor of more impactful moderators: task type, relative performance, and division of labor. The field has been pouring resources into making AI systems more transparent when the binding constraints are structural (which tasks, who is better, how to divide work).

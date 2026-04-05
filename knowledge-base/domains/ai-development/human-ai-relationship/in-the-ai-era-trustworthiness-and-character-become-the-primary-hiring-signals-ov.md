@@ -131,6 +131,9 @@ evidence:
   - id: INS-260403-B87D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-1DC9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Po-Shen Loh describes his own hiring philosophy: when he meets someone with great intention and great learning capacity, he doesn't look for a specific role — he just finds a place for them. Conversely, he explicitly avoids hiring people trained for one particular task because 'one or two more years, I can use AI to do that task and it'll be way cheaper.'
 

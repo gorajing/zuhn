@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-85E2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-0E77
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The labor market is astronomically larger than the software market. AI is not primarily displacing people but rather making previously uneconomical tasks viable. A front desk receptionist job at $47K/year was never going to be served by $500/year software — but a $20K/year AI product that handles 5 of 8 job responsibilities fills a gap that previously had no software solution at all.
 

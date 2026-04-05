@@ -56,6 +56,10 @@ related:
   - PRI-260328-0BE1
   - INS-260327-C673
   - INS-260330-697F
+evidence:
+  - id: INS-260321-988C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Most career decisions optimize along conventional axes: compensation, prestige, growth opportunity. Graham suggests adding bullshit-minimization as an explicit, primary filter. The amount of meaningless work varies enormously between employers, and most large organizations are saturated with it. By consciously deprioritizing money and prestige in favor of authentic work, you can find environments that waste dramatically less of your finite time.
 

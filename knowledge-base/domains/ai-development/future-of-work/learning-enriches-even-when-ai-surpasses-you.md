@@ -70,6 +70,9 @@ evidence:
   - id: INS-260403-A1DF
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-C135
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 
 Dario Amodei makes a philosophical argument that goes beyond pure

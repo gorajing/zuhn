@@ -66,6 +66,9 @@ evidence:
   - id: INS-260402-7FCC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-910E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Sequoia frames the new production function as flops per knowledge worker. Today a worker might use one AI assistant; tomorrow they might manage dozens or hundreds of AI agents, each consuming compute. Their portfolio survey shows minimum 10x compute increase per worker, with optimistic projections of 1,000-10,000x.
 

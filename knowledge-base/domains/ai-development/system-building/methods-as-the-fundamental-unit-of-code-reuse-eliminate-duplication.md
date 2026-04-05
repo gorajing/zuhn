@@ -48,11 +48,11 @@ stance: >-
   highest-leverage refactoring pattern — it reduces duplication, centralizes
   change, and makes code self-documenting.
 related:
+  - INS-260405-9460
   - INS-260330-F5A1
   - INS-260329-7B1D
   - INS-260325-FDA9
   - INS-260329-E333
-  - INS-260403-FF4E
 evidence:
   - id: INS-260329-7B1D
     type: EXTENDS

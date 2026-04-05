@@ -53,5 +53,12 @@ related:
   - INS-260325-0F4F
   - INS-260325-B868
   - INS-260323-F2BD
+evidence:
+  - id: INS-260325-0F4F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260325-B868
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The Jevons Paradox originates from 19th-century observations that more efficient steam engines increased total coal consumption because lower cost per unit unlocked new use cases. Applied to AI knowledge work: legal services become cheaper → more people can afford legal help → total legal work expands. Education becomes cheaper → personalized tutoring becomes a mass-market product, not a luxury. The honest caveat is that Jevons doesn't hold universally — it requires elastic demand and new use cases to emerge. Knowledge work categories where demand was previously suppressed by cost (legal advice for SMBs, personalized tutoring, financial planning for middle-income households) are the best candidates. Founders should model demand expansion scenarios, not just displacement scenarios, when sizing their market.

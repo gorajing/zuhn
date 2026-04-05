@@ -1,8 +1,8 @@
 # Tag: evolution
 
-- `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260327-9DB0` Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-A44E` Evolution doesn't randomly search the space of possible organisms - it accumulates successful building blocks and recombines them, which is why it can create complexity that random search never could.
+- `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260325-D680` Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
 - `INS-260330-CC30` RuBisCo confuses O2 for CO2 up to 50% of the time, but plants compensate by producing ~40 billion tons of it rather than evolving a replacement.
 - `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
@@ -19,7 +19,6 @@
 - `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
 - `INS-260404-B6E8` Plants produce massive quantities of a flawed enzyme rather than evolving a better one, mirroring how humans double down on suboptimal commitments.
 - `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
-- `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
 - `INS-260330-E5DC` RuBisCo worked perfectly in low-oxygen atmospheres but its O2-confusion failure mode was invisible until plants changed their own environment — success can hide latent vulnerabilities.
 - `INS-260330-D5DD` Placebos may work because the brain evolved to maintain distress signals until help arrives — external authority cues grant 'permission' to switch from help-seeking to healing mode.
@@ -27,6 +26,7 @@
 - `INS-260330-4634` Dinosaurs dominated for 300 million years without developing intelligence, and without their extinction asteroid, mammals would still be rodents — proving intelligence is not evolution's inevitable destination.
 - `INS-260325-CB41` Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
 - `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
+- `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-0C95` Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.

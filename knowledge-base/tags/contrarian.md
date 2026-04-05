@@ -1,6 +1,5 @@
 # Tag: contrarian
 
-- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260327-D570` The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
 - `INS-260403-4788` If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
@@ -13,3 +12,4 @@
 - `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
 - `INS-260402-9093` The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260403-D882` Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor.
+- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.

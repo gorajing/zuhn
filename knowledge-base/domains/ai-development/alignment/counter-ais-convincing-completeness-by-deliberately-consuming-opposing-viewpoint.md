@@ -99,6 +99,9 @@ evidence:
   - id: INS-260402-1414
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-DD95
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Loh tunes his X feed to right-leaning viewpoints and his Facebook to left-leaning viewpoints, reading both every day. His goal isn't to find truth in either side but to identify where they disagree and understand why — using disagreement as the signal for underlying values differences.
 

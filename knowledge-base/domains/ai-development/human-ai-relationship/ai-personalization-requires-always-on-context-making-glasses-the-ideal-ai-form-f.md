@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-6FFC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-F8AE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Zuckerberg frames Meta's two strategic pillars as presence (AR/VR) and personalized AI (Llama/Meta AI). The convergence point is glasses: AI becomes truly useful when it has both global context (your preferences, history) and real-time local context (what's physically happening around you). Glasses are uniquely positioned to provide both.
 

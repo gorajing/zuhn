@@ -73,5 +73,8 @@ evidence:
   - id: INS-260329-20F8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-AC03
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Dr. Chuck Severance makes a deliberate pedagogical choice to personify syntax errors as the computer's admission of its own limitations — 'Python is saying hey, I got to line seven and I was doing fine, but boy there's some little thing I don't understand. Please help me.' This reframing is counter-intuitive because error messages feel hostile and judgmental, especially to beginners who take them personally. The insight extends beyond Python education: every interface that produces error messages (compilers, APIs, AI tools) would benefit from this reframe. The emotional barrier of 'the computer hates me' is the primary dropout trigger in introductory programming, and addressing it through narrative reframing rather than technical simplification is more effective because it changes the student's relationship with failure itself.

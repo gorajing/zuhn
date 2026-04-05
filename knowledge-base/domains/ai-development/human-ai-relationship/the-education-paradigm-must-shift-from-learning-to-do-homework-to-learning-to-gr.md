@@ -69,6 +69,9 @@ evidence:
   - id: INS-260403-E9DD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-C135
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Po-Shen Loh's formulation is sharp: 'People used to go to school to learn how to do the homework and do the exams. Today, everyone needs to learn how to grade the homework.' This captures the fundamental skill inversion that AI creates.
 

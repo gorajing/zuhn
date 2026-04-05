@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-F04B
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-743D
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The traditional education model trained people to perform tasks: solve problems, write essays, produce outputs. AI now handles execution at superhuman levels. The new bottleneck is evaluation — can you assess whether AI output is correct, complete, and aligned with the actual goal?
 

@@ -58,5 +58,8 @@ evidence:
   - id: INS-260322-3159
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-36F4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX observes that hundreds of generative AI companies use essentially the same tech stack under the hood: similar models, similar data pipelines, similar UX patterns. The formula (Data + Model) x UX alone won't work — you need to multiply by distribution and perceived customer value. This mirrors what happened with bottled water: once the product itself became identical, companies like Perrier won by creating emotional and cultural value around a commodity. For AI founders, this means investing heavily in brand identity, go-to-market strategy, and unique positioning from day one rather than assuming technical superiority will protect them.

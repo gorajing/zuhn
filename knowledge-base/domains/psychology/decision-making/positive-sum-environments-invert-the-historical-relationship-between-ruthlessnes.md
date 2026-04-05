@@ -57,6 +57,10 @@ related:
   - INS-260328-A417
   - PRI-260403-2E59
   - INS-260405-CF27
+evidence:
+  - id: INS-260321-3C8A
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham traces a historical arc: pastoral nomads, Gilded Age financiers, and communist states all rewarded ruthless control of scarce resources. But as civil order stabilizes and intellectual property becomes protectable, success increasingly flows from creating new things rather than capturing existing ones. In this environment, the traits that help — curiosity, generosity, collaborative ability — are precisely the ones meanness destroys.
 

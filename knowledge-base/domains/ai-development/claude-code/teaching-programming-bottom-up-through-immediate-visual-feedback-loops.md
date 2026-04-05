@@ -71,6 +71,9 @@ evidence:
   - id: INS-260402-7999
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-F835
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 This 4-hour tutorial demonstrates a pedagogical pattern: every new concept (variables, loops, functions, classes) is introduced through a concrete, visual program first — drawing shapes with print statements, building a calculator, creating a guessing game. Only after the student sees the output does the tutorial explain the underlying abstraction.
 

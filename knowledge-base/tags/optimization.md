@@ -16,7 +16,6 @@
 - `INS-260330-77E2` Two-step lookahead improved Wordle solving from 3.6 to 3.43 — significant but diminishing returns over greedy one-step.
 - `INS-260329-0B55` Union-Find achieves near-constant amortized operations by lazily flattening tree paths only when queried, not eagerly during union.
 - `INS-260322-24FB` The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.
-- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
 - `INS-260325-EDE1` Saladino raised testosterone from 500 to 857 at age 48 through 5 natural interventions — no TRT needed.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
@@ -51,4 +50,5 @@
 - `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260402-3C79` Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.
 - `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
+- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.

@@ -1,8 +1,6 @@
 # Tag: switching-costs
 
 - `INS-260322-A367` Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
-- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
-- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260404-D975` Once deeply committed to a strategy, systems cope with its flaws rather than replace it, because replacement cost exceeds inefficiency cost.
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
@@ -29,6 +27,8 @@
 - `INS-260330-1A23` Free samples designed to eliminate the user's ability to revert create permanent lock-in.
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
 - `INS-260330-C870` Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
+- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260405-95AE` RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.
 - `INS-260404-C25C` Early ecosystem capture with a 'good enough' solution creates compounding switching costs that make replacement nearly impossible, even when the solution is demonstrably suboptimal.
 - `INS-260403-05D8` Plants produce 40 billion tons of the inefficient enzyme RuBisCo rather than evolve a better one — volume compensates for per-unit quality.

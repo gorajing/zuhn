@@ -72,6 +72,9 @@ evidence:
   - id: INS-260330-08E1
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-1CB1
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 Howard points out that while LLM progress looked exponential in early 2023 (around GPT-4's release), by late 2023 all signs pointed to a sigmoid curve flattening out. The evidence: GPT-4 Turbo was worse than the original GPT-4, inference costs remained high, and each marginal improvement required disproportionately more compute investment.
 

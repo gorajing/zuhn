@@ -62,6 +62,9 @@ evidence:
   - id: INS-260403-6178
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-06D5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 We tend to dismiss practical, intuitive knowledge of AI as inferior to understanding the technical architecture. Shipper argues this is the Socratic bias at work: if you cannot explicitly define the rules, you do not really know it.
 

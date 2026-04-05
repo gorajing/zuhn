@@ -55,6 +55,10 @@ related:
   - INS-260403-3F10
   - INS-260403-E0FE
   - INS-260322-8D47
+evidence:
+  - id: INS-260322-299C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Technology differentiation erodes as competitors catch up, open-source alternatives emerge, and commoditization takes hold. But value propositions grounded in deep, systematic customer understanding are harder to replicate because they require organizational capability, not just engineering talent.
 

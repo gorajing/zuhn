@@ -1,12 +1,6 @@
 # Tag: risk
 
-- `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
-- `INS-260325-51E6` When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
 - `INS-260405-C592` When people can choose different enhancements, humans a century from now may differ from each other more than any two people differ today — creating cooperation problems no institution currently exists to solve.
-- `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
-- `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
-- `INS-260322-415E` Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
-- `INS-260323-3864` The entire nuclear arsenal can launch in seconds; the president has 6 minutes to decide; and deterrence as a philosophy collapses completely once the first missile flies.
 - `INS-260325-5A72` Men's higher risk appetite leads them to save lives in emergencies and to blow their savings on gambling -- the trait itself is neutral, and society needs both male and female approaches to risk.
 - `INS-260327-015B` Rosolie faces genuine mortal danger regularly from poachers, animals, and the jungle itself - and reports a depth of meaning that safe career optimization cannot provide.
 - `INS-260330-CD65` YC data shows 100% failure rate when companies added random co-founders between interview and batch start.
@@ -18,5 +12,11 @@
 - `INS-260330-C8E1` Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
 - `INS-260330-EE5E` Small investors who don't understand startup timelines (uncles, neighbors putting in $5-10K) become the most problematic investors because they treat startup equity like a short-term liquid investment.
 - `INS-260330-478B` Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
+- `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
+- `INS-260325-51E6` When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
+- `INS-260322-415E` Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
+- `INS-260323-3864` The entire nuclear arsenal can launch in seconds; the president has 6 minutes to decide; and deterrence as a philosophy collapses completely once the first missile flies.
+- `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
+- `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.

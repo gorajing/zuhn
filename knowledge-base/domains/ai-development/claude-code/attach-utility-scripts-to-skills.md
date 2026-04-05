@@ -50,6 +50,9 @@ evidence:
   - id: INS-260327-B17E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-EE38
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 
 When a skill involves running tests, data migrations, or other scripted

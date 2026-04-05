@@ -71,5 +71,11 @@ evidence:
   - id: INS-260330-BCD8
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-66D0
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-9B5D
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Wharton researchers discovered 'algorithmic aversion bias': when people see an algorithm make a single error — even if its error rate is lower than human error rates — they prefer their own judgment. The antidote is counterintuitive: allowing users to slightly tweak algorithm parameters increases error rates but dramatically increases adoption. This reveals a deep insight about human-AI product design. The question for AI product builders is not 'how do we make this perfectly accurate?' but 'what acceptable error rate would we trade for dramatically higher adoption?' Giving users a sense of control — even minimal — is more important than marginal accuracy improvements.

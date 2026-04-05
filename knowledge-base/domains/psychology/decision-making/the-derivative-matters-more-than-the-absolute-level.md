@@ -54,6 +54,10 @@ related:
   - INS-260330-6AA3
   - PRI-260328-0993
   - INS-260325-DA83
+evidence:
+  - id: INS-260325-DA83
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham draws a parallel between declining vaccination rates and shrinking windows of acceptable expression. In both cases, the absolute numbers are still reasonable — measles cases are low, you can still say most things publicly. But the derivative (rate of change) flipped from positive to negative around 2010 and 1985 respectively. Anyone projecting from the prior trend would have predicted continued improvement.
 

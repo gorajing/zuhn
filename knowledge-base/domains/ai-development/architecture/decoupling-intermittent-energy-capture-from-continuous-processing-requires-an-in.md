@@ -71,6 +71,22 @@ related:
   - INS-260330-7E39
   - INS-260404-6876
   - INS-260404-BDE5
+evidence:
+  - id: INS-260330-07B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-30E8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-FC01
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-37C4
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-6876
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Sunlight arrives in discrete photon packets and is unavailable at night, during cloud cover, and during seasons. The Calvin Cycle needs a steady chemical energy supply to run. Evolution's solution was a two-layer architecture: the light-dependent reactions act as a capacitor, pumping protons into the thylakoid lumen to build a concentration gradient. The Calvin Cycle then draws on that gradient via ATP synthase whenever needed, independently of whether photons are currently arriving.
 

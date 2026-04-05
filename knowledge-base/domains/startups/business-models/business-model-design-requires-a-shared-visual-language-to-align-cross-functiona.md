@@ -55,6 +55,10 @@ related:
   - INS-260403-066E
   - INS-260403-3EFB
   - INS-260404-2BAD
+evidence:
+  - id: INS-260327-91C7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Strategyzer's core thesis is that business tools create shared language — a common vocabulary and visual structure that lets cross-functional teams discuss strategy without talking past each other. The Business Model Canvas achieves this by decomposing a business model into nine standardized building blocks that everyone can point to and debate.
 

@@ -18,6 +18,7 @@
 - `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260328-F3C4` If someone doesn't want the burrito, cutting the price just makes them wonder what's wrong with it.
 - `INS-260403-7E7C` Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
+- `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260403-B87D` Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - `INS-260403-113D` Separate customer observation from solution design by temporarily forgetting what you offer.
 - `INS-260403-E816` Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.

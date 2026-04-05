@@ -50,11 +50,12 @@ stance: >-
   junior team members with fewer priors evaluate the actual opportunity more
   clearly.
 related:
-  - INS-260403-C732
   - INS-260326-6B98
+  - INS-260403-C732
   - INS-260403-910E
   - INS-260402-4719
   - PRI-260323-81E9
+  - INS-260405-AA3C
 ---
 Fred Wilson's own account shows the three senior partners at Union Square Ventures 'didn't get' Airbnb while the two junior members were enthusiastic. This is not an isolated anecdote — it reveals a structural bias where experience becomes a liability. Senior investors have stronger mental models of what markets look like, so they evaluate new concepts against existing categories ('this is like Etsy for beds' rather than 'this could replace hotels'). Junior investors, with fewer crystallized frameworks, are more open to novel category creation.
 

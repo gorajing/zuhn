@@ -3,7 +3,6 @@
 - `INS-260329-560D` AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260405-194F` When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
@@ -18,9 +17,9 @@
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
 - `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
-- `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-6F6D` The Pioneer plaque's arrow symbol — obvious to humans who hunted with projectiles — may be meaningless or misleading to an alien intelligence, revealing how deeply cultural assumptions embed in supposedly universal designs.
+- `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
 - `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
 - `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
 - `INS-260330-2783` Friedrich Miescher isolated DNA in 1869, but Watson and Crick are remembered because they synthesized others' work into a communicable model.
@@ -72,6 +71,8 @@
 - `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
+- `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
+- `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260405-54B8` If you can't find one compelling phrase for your startup, your plans may not be focused enough — the description exercise is a focus test as much as a communication test.
 - `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
 - `INS-260404-EDED` Craft a single sticky phrase for your startup because after dozens of pitches, investors' recall — not comprehension — determines who gets follow-ups.
@@ -82,8 +83,6 @@
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260404-616F` Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-280B` Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
-- `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
-- `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260329-BE8E` Simplify all marketing language to a third-to-fifth grade reading level to maximize comprehension and conversion rates.
 - `INS-260330-B65B` Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
@@ -92,15 +91,6 @@
 - `INS-260327-47BA` Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
 - `INS-260328-12EE` Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
 - `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.
-- `INS-260403-4102` Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
-- `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
-- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
-- `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
-- `INS-260330-FF9A` Convert your survival plan into concrete metric targets for each team so every employee can see exactly how their work contributes to the company's path through the crisis.
-- `INS-260330-25A8` You can take someone's job but you cannot take their dignity — every employee in your company will become an informal reference for that person.
-- `INS-260330-AC36` You can take someone's job but you don't have to take their dignity — what you say at the departure announcement becomes their professional reputation.
-- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
-- `INS-260329-8ABB` Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260405-3E57` Investors hear dozens of pitches per event — the startup that left a single memorable phrase is the one that gets the follow-up email.
 - `INS-260405-283A` The inability to find a soundbite isn't a wordsmithing failure — it's a signal that the strategy itself isn't sharp enough.
@@ -142,14 +132,24 @@
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260404-3713` Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
+- `INS-260403-4102` Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
+- `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
+- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
+- `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
+- `INS-260330-FF9A` Convert your survival plan into concrete metric targets for each team so every employee can see exactly how their work contributes to the company's path through the crisis.
+- `INS-260330-25A8` You can take someone's job but you cannot take their dignity — every employee in your company will become an informal reference for that person.
+- `INS-260330-AC36` You can take someone's job but you don't have to take their dignity — what you say at the departure announcement becomes their professional reputation.
+- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
+- `INS-260329-8ABB` Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.
+- `INS-260329-4D5E` Answer objections with questions about their questions to stay in control without damaging rapport.
+- `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
+- `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
 - `INS-260330-DF02` Productivity falls with the square of employee count due to pairwise communication overhead, making alignment the single most important word for scaling companies.
 - `INS-260330-0E4B` At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
 - `INS-260330-1F41` Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260330-E99F` Force daily cross-functional calls where every discipline presents constraints together, because trade-offs in one area systematically affect others in ways that organic communication misses.
 - `INS-260330-725F` Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
-- `INS-260329-4D5E` Answer objections with questions about their questions to stay in control without damaging rapport.
-- `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
-- `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
 - `INS-260323-1EEA` Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260330-281A` Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.

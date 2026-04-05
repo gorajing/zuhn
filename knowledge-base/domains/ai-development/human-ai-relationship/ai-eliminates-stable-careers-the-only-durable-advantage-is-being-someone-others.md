@@ -70,6 +70,12 @@ evidence:
   - id: INS-260327-015B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-1DC9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-5F44
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Loh demolishes the 'safe job' myth systematically. White-collar knowledge work? AI already solves International Math Olympiad problems better than he can. Blue-collar trades like plumbing? Hyundai bought Boston Dynamics and will deploy humanoid robots in manufacturing plants within years. The conclusion: 'For everyone who wanted a stable life, good luck, because AI is going to take that.'
 

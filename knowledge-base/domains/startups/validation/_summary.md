@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 156 insights
+> 160 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -13,6 +13,7 @@
 - `INS-260402-F62B` [high] Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
 - `INS-260329-B0BA` [high] Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
 - `INS-260330-E089` [high] Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
+- `INS-260405-A6BA` [high] Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-DF7F` [high] Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - `INS-260403-22D3` [high] Test customer desirability cheaply before committing to expensive technology builds.
 - `INS-260327-CECA` [high] Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
@@ -57,6 +58,7 @@
 - `INS-260403-58BB` [high] Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - `INS-260403-7E27` [high] Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
 - `INS-260403-CF0E` [high] Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
+- `INS-260405-9460` [high] Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
 - `INS-260403-64D0` [high] The startup environment's rapid success/failure cycle makes it uniquely suited to reveal which evaluation signals actually predict performance.
 - `INS-260330-D5BD` [high] Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
 - `INS-260330-E6B7` [high] DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.
@@ -76,6 +78,7 @@
 - `INS-260330-CFBF` [high] Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
 - `INS-260330-5A0A` [high] Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
 - `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
+- `INS-260405-B673` [high] A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
 - `INS-260404-DD95` [high] Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.
 - `INS-260405-B32E` [high] Fidelity is a function of evidence gathered, not how good the idea seems internally.
 - `INS-260404-5882` [high] Sequoia's 'proxy for demand' — what are people doing now with bad tools — is more persuasive than market size because it proves behavioral need exists.
@@ -137,6 +140,7 @@
 - `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260403-3569` [medium] Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-6342` [medium] Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
+- `INS-260405-EE92` [medium] Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260404-F8B7` [medium] When compliance prevents direct customer conversations, innovation teams collect lower-quality secondhand evidence that leads to worse strategic decisions.
 - `INS-260404-087C` [medium] End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.
 - `INS-260403-2718` [medium] Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.

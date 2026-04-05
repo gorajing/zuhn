@@ -77,6 +77,12 @@ evidence:
   - id: INS-260327-E1EB
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-5B46
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-6B73
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Dario provides the clearest framework for understanding DeepSeek: two simultaneous dynamics drive AI economics. First, algorithmic efficiency improves roughly 4X per year — meaning last year's billion-dollar model can be replicated for $250M today. Second, economic demand for intelligence means total spending grows roughly 10X per year, because smarter models have higher value. The 4X efficiency gain is consumed and exceeded by the desire for ever-smarter models.
 

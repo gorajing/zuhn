@@ -6,7 +6,6 @@
 - `INS-260404-93CD` Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
-- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260403-B08E` Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
 - `INS-260404-AB0F` When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
@@ -48,3 +47,4 @@
 - `INS-260322-5E5D` Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260403-3E46` If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.
+- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.

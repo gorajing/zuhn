@@ -57,6 +57,10 @@ related:
   - INS-260404-83C6
   - INS-260327-422B
   - INS-260403-1AE5
+evidence:
+  - id: INS-260327-422B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The AI investment thesis since 2022 has rested on a core assumption: building state-of-the-art models requires massive GPU clusters costing hundreds of millions of dollars. This created a perceived moat around companies like Nvidia, whose monopoly on training hardware (via CUDA lock-in and superior Linux drivers) made them the picks-and-shovels play of the AI boom.
 

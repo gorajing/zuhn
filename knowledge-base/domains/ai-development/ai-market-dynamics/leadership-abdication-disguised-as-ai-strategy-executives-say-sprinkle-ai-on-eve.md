@@ -65,5 +65,11 @@ evidence:
   - id: INS-260330-A9CB
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-DF73
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260405-6BBC
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Kozyrkov identifies a common pattern: executives issue mandates like 'everybody should be using AI' or 'we need more AI in the business' — but this often represents an abdication of leadership decision-making, not a strategy. Sometimes it's board pressure to have anything that calls itself AI. Sometimes it's genuine panic about being left behind without knowing what AI is actually needed for. The smart response to this panic is not deploying AI — it's investing in AI readiness infrastructure while watching competitors prove or disprove use cases. A very pragmatic defense: if the board demands AI, deploy it somewhere harmless where it can't touch anything important. But the real work is asking 'why?' — understanding the actual business problem before choosing AI as the solution. The pattern of solution-first, problem-later thinking is the single biggest driver of the 95% failure rate.

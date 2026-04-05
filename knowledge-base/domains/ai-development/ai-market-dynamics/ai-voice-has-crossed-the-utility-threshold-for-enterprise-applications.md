@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-809A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-CBB2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Sequoia identifies AI voice as a more immediate investment theme than AI video, because voice has crossed both the fidelity threshold (quality sufficient for daily use) and the latency threshold (real-time conversations are possible). While consumer applications (AI friends, companions, therapists) get more attention, the enterprise opportunity is significant.
 

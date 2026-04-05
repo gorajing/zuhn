@@ -48,5 +48,9 @@ related:
   - INS-260330-2691
   - INS-260329-6CE8
   - INS-260403-B87D
+evidence:
+  - id: INS-260329-6CE8
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham draws a structural parallel between industrial food and corporate careers. Both dominate not because they're good but because they're cheap to produce at scale, heavily marketed, and immediately appealing. The damage from both is delayed and diffuse—you feel 'vague malaise' rather than acute pain. This framing reframes the startup-vs-corporate decision: it's not about risk tolerance or ambition, it's about recognizing that the default option is actively harmful. The 'Birkenstock-wearing weirdos' who eat well and work in startups aren't eccentric—they're the only ones living naturally in an artificial environment. This insight is especially useful for advising early-career people who assume the safe path is neutral rather than corrosive.

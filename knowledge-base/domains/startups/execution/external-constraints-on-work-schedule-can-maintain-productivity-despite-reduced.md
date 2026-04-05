@@ -53,6 +53,10 @@ related:
   - INS-260402-7182
   - INS-260403-AEBD
   - INS-260329-72C1
+evidence:
+  - id: INS-260329-72C1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham found that having kids forced him onto a fixed schedule, eliminating the ability to let work 'spill promiscuously' through his entire life. Despite having less total time, he adapted and still got enough done. Work, like love, finds a way — when there are only certain times it can happen, it happens at those times.
 

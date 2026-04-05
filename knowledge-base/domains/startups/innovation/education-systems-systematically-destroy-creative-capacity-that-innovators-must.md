@@ -56,6 +56,13 @@ related:
   - INS-260322-DAA1
   - INS-260403-5BAD
   - INS-260330-FDC2
+evidence:
+  - id: INS-260322-B693
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260322-DAA1
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Ken Robinson's thesis, cited by Osterwalder as particularly valuable, identifies a structural problem in the innovation pipeline: the educational system that produces future innovators actively suppresses their creative capacity. Schools reward conformity, standardized answers, and risk avoidance — the opposite of what innovation requires.
 

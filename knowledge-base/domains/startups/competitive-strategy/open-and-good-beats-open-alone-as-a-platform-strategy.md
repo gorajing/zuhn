@@ -54,6 +54,10 @@ related:
   - INS-260328-9B8A
   - INS-260325-FDF5
   - INS-260330-EF64
+evidence:
+  - id: INS-260325-DB7D
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Graham draws a sharp distinction between platforms that are merely open and those that are open and good. Linux was open and powerful, attracting hackers away from Macs in the 1990s. But OS X combined the Unix foundation hackers needed with Apple's design excellence, pulling them back. The Thinkpad was 'not actively repellent' — damning with faint praise that reveals how low the design bar had fallen.
 

@@ -57,6 +57,10 @@ related:
   - INS-260403-57FF
   - INS-260403-160A
   - INS-260403-D8C1
+evidence:
+  - id: INS-260322-A14D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Unlike Google or Uber, which could expand globally with relatively uniform products, real estate tech faces fundamentally different legal frameworks in every market. Real estate law, title systems, transaction processes, and regulatory requirements vary enormously by country and even by state or municipality.
 

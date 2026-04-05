@@ -59,6 +59,9 @@ evidence:
   - id: INS-260323-05B5
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260325-EE14
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The article surfaces a non-obvious adoption barrier through a founder's personal story: his parents (a school manager and music studio owner) couldn't use SaaS tools or agencies — not primarily because of cost, but because both required ongoing time investment for learning and monitoring. This insight reframes the SMB technology gap as a UX problem, not just a pricing problem.
 

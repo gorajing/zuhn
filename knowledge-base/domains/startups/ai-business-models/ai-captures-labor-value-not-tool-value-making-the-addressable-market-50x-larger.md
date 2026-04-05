@@ -48,5 +48,9 @@ related:
   - INS-260404-61DA
   - INS-260323-BF81
   - INS-260325-ADF5
+evidence:
+  - id: INS-260325-ADF5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 SaaS captured tool value—charging ~$1,000/person/year to make a $100K/year worker more productive. AI can capture the labor itself, not just the tool margin. At the macro level, global software spend is ~$1T while global labor is $50-60T. This reframing matters for startup positioning: companies that pitch 'we do the work' rather than 'we help you do the work' are playing for a fundamentally larger prize. Jasper's trajectory illustrates the danger of the tool framing—$80M ARR collapsed when generalist AI made the tool layer commoditized, forcing a pivot to agentic labor framing.

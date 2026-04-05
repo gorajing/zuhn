@@ -71,6 +71,9 @@ evidence:
   - id: INS-260327-5661
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-202E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Sequoia draws a direct analogy to the cloud transition: cloud SaaS grew from $6B to $400B over 15 years (40% CAGR) within a software market that itself expanded from $350B to $650B. But AI's opportunity is fundamentally larger because it can interact in a human-like capacity, meaning it can replace human services, not just software tools.
 

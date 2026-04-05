@@ -49,10 +49,10 @@ stance: >-
   superiority.
 related:
   - INS-260329-B583
-  - INS-260330-070A
+  - INS-260405-D66B
   - INS-260403-0414
   - INS-260322-5745
-  - INS-260324-A9DF
+  - INS-260330-070A
 ---
 The article makes a subtle but critical distinction: it's not enough to be different, and it's not even enough to be better — you must be better on the exact axes your customers use to measure improvement. YouTube TV's growth came not from having more channels but from matching how modern viewers define great TV (flexibility, multi-stream, on-demand).
 

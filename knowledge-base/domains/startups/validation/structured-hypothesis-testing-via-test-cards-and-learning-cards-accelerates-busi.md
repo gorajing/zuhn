@@ -49,10 +49,10 @@ stance: >-
   criteria produces faster validated learning than ad-hoc experimentation
 related:
   - INS-260403-FFEA
+  - INS-260405-9460
   - INS-260330-0102
   - INS-260323-4D8D
   - PRI-260328-8E01
-  - INS-260403-1358
 evidence:
   - id: INS-260323-4D8D
     type: TRANSFERS_TO

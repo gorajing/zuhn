@@ -55,6 +55,10 @@ related:
   - INS-260403-99DE
   - INS-260403-A87D
   - INS-260403-8C92
+evidence:
+  - id: INS-260323-8637
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The US dollar's position as world reserve currency is fundamentally a security asset — it makes the US less vulnerable to financial warfare and hostile economic actions. As money becomes increasingly digital, that status depends on the dollar having a robust digital presence. Stablecoins, with 99% currently pegged to USD, represent an organic, market-driven digitization of the dollar that extends its reach to millions of new users globally.
 

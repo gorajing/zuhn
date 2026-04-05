@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 289 insights
+> 291 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -13,6 +13,7 @@
 - `INS-260330-1319` [high] Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-318B` [high] Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260330-B08E` [high] Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
+- `INS-260405-966C` [high] Public outcome data enables bias audits that institutions cannot suppress.
 - `INS-260330-A151` [high] Destiny's two mental safeguards — argue both sides convincingly, and name what would change your mind — are more effective than claiming objectivity.
 - `INS-260330-AFF8` [high] Bigotry, political tribalism, and conspiracy theories all share the same cognitive root: attributing the actions of individuals to entire groups they belong to.
 - `INS-260327-D77C` [high] The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
@@ -113,6 +114,7 @@
 - `INS-260405-8732` [high] Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.
 - `INS-260403-7E8E` [high] The most effective orthodoxy rules are superficial — easy to follow, yet grant moral superiority, making them attractive to people who lack genuine virtue.
 - `INS-260325-B067` [high] We evolved to over-detect patterns because false positives are survivable but false negatives are fatal, so we see meaning in randomness.
+- `INS-260405-D66B` [high] Post-selection outperformance is a mathematical signature of upstream bias, not exceptional talent.
 - `INS-260405-F1FD` [high] Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
 - `INS-260403-AFC4` [high] Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260403-393C` [high] Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.

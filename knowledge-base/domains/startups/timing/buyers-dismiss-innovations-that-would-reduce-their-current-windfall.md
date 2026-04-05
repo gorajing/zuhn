@@ -48,5 +48,9 @@ related:
   - INS-260323-FFE8
   - INS-260323-4D4E
   - INS-260402-7DCC
+evidence:
+  - id: INS-260323-4D4E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 When Yahoo evaluated Viaweb's Revenue Loop algorithm in 1998, Jerry Yang showed zero interest despite it being demonstrably superior for search ranking. The reason was structural: advertisers were massively overpaying for banner ads at the time, so adopting a more efficient pricing model would have actually decreased Yahoo's revenue. This reveals a counterintuitive dynamic — during bubbles or periods of market irrationality, incumbents have a rational short-term reason to reject innovations that would make their business more efficient. The implication for startup founders is that timing rejection correctly matters: if a potential acquirer or partner dismisses your technology, ask whether their current model is temporarily inflated. Their disinterest may validate your approach rather than invalidate it.

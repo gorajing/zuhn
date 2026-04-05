@@ -69,6 +69,15 @@ evidence:
   - id: INS-260327-30E4
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-2E0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-3F10
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-E06E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Po-Shen Loh describes his AI usage pattern: when curious about Nashville's country music performance scene, he didn't ask AI to write a report. He asked for links, background on specific venues, competitive dynamics of getting performance spots — all to build a richer mental simulation of that world. The AI fed his understanding; he drew his own conclusions.
 

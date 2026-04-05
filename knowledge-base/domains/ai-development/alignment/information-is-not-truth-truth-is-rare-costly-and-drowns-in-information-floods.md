@@ -91,6 +91,9 @@ evidence:
   - id: INS-260402-1F58
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-8750
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Harari dismantles the assumption that information equals truth. Billions of portraits of Jesus have been created over 2,000 years, and not one is authentic — we have zero information about his appearance. Creating fiction requires no research, no evidence. Creating truth requires enormous institutional investment (academic research, investigative journalism, peer review).
 

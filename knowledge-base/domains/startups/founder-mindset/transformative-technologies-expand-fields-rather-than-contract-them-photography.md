@@ -60,6 +60,10 @@ related:
   - INS-260403-740E
   - PRI-260328-D292
   - INS-260403-3C2C
+evidence:
+  - id: INS-260322-8147
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The essay traces photography from the 1839 daguerreotype through calotype mass printing, the Kodak Brownie consumer camera, 35mm street photography, Polaroid instant film, and smartphone cameras. Each leap didn't replace prior ecosystems — it layered on top while spawning entirely new ones: photojournalism, darkroom culture, consumer film labs, instant print shops, and eventually billion-user image platforms.
 

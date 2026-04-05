@@ -63,6 +63,12 @@ evidence:
   - id: INS-260402-AD42
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-226F
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-802D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 OpenAI's strategy of deploying imperfect models publicly is deliberate: the collective intelligence of millions of users discovers capabilities and weaknesses that no internal team could find. The trade-off is public embarrassment from flaws, but making mistakes while stakes are low builds both the product and public understanding.
 

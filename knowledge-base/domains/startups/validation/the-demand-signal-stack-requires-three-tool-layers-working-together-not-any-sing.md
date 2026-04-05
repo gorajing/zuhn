@@ -51,11 +51,12 @@ stance: >-
   measurement (analytics/heatmaps) — using only one or two layers produces
   misleading validation results.
 related:
+  - INS-260405-9460
   - INS-260403-FFEA
   - INS-260403-B1F2
   - INS-260403-1358
+  - INS-260405-B673
   - INS-260403-343D
-  - INS-260403-3569
 ---
 The tool taxonomy reveals that business experiments aren't single-tool activities. A landing page without traffic generation produces no signal. Online ads without analytics produce vanity metrics. A prototype without user observation produces confirmation bias. The reliable experiment stack has three layers: a traffic source (Google Ads, Facebook, LinkedIn, Reddit), an experience layer (landing page, prototype, explainer video), and a measurement layer (Google Analytics, Mixpanel, Crazy Egg, Lucky Orange).
 

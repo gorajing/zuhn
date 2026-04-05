@@ -55,6 +55,10 @@ related:
   - INS-260327-E75F
   - INS-260404-18F1
   - INS-260321-E9B7
+evidence:
+  - id: INS-260321-E9B7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Politeness and social habit compel people to pay attention to someone standing near them and looking at them. This is a fragile contract: the moment you turn to fuss with your computer, the spell breaks and minds drift to errands and email. The practical fix is role separation — one person presents, another drives the demo.
 

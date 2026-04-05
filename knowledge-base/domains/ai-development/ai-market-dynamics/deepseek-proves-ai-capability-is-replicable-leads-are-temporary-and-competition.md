@@ -62,6 +62,9 @@ evidence:
   - id: INS-260322-54F3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-CEBA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Andreessen highlights a critical pattern in AI competition: OpenAI appeared to have an insurmountable lead 2-3 years ago, then Anthropic caught up, then XAI caught up rapidly, and then DeepSeek — a Chinese hedge fund with no prior AI reputation — replicated frontier capabilities and released them as open source. The lesson is stark: once someone proves a capability is possible, it seems not to be that hard for others to catch up, even with far fewer resources.
 

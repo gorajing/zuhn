@@ -51,5 +51,12 @@ related:
   - INS-260329-5901
   - INS-260329-92C3
   - INS-260326-0AB4
+evidence:
+  - id: INS-260326-0AB4
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260329-92C3
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The horizontal SaaS era created mega-platforms that serve every industry adequately but none exceptionally. AI changes this equation because model performance is directly tied to training data specificity and domain expertise. A team that intimately understands an industry's control points, has access to high-quality vertical data (often unstructured or siloed), and builds purpose-fit UX can deliver results that horizontal incumbents structurally cannot match. This mirrors the Craigslist unbundling pattern where vertical marketplaces captured billions by doing one thing exceptionally well rather than everything adequately. NFX argues the addressable market is not just existing SaaS spend but the entire cost of doing the work itself — potentially 10x larger than current vertical SaaS markets.

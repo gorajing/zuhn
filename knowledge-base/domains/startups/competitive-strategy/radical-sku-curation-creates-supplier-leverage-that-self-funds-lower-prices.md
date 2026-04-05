@@ -46,10 +46,10 @@ stance: >-
   more negotiating power than offering comprehensive choice
 related:
   - INS-260404-67C5
+  - INS-260405-966C
   - INS-260404-2135
   - PRI-260323-81E9
   - INS-260402-3DBF
-  - INS-260323-9AA5
 evidence:
   - id: INS-260404-8466
     type: REFINES

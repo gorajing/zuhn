@@ -54,6 +54,10 @@ related:
   - INS-260404-DBD2
   - PRI-260328-5D9E
   - INS-260329-F51D
+evidence:
+  - id: INS-260327-DE27
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham makes a crucial distinction about the nature of exceptional performance: it's not a faster version of ordinary performance. A great programmer doesn't write the same code in less time — they conceive entirely different approaches that ordinary programmers wouldn't imagine. This means the value of exceptional talent cannot be measured by productivity multiples on identical tasks.
 

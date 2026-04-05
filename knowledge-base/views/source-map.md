@@ -246,6 +246,7 @@ Generated on 2026-04-05 | 2421 sources
 | Claude for Finance | pdf | 5 | 2026-03-22 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
+| 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 5 | 2026-03-31 |
 | 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 5 | 2026-03-31 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
@@ -337,6 +338,7 @@ Generated on 2026-04-05 | 2421 sources
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
 | Dario Amodei Says AGI Is 1-3 Years Away: Full Breakdown | blog | 5 | 2026-03-30 |
 | Deep Dive: How China Built Its Industrial Power | blog | 5 | 2026-03-30 |
+| Deep Dive: Is AI Disrupting the Future of Work? | blog | 5 | 2026-03-30 |
 | Deep Dive on Humanoid Robots: The Case for a World Running Out of Workers | blog | 5 | 2026-03-30 |
 | Deep Dive on Neuralink: Controlling Computers With Your Mind | blog | 5 | 2026-03-30 |
 | Deep Dives | blog | 5 | 2026-03-30 |
@@ -551,6 +553,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Top Idea in Your Mind | blog | 5 | 2026-03-31 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
 | The Ultimate Guide to Writing Powerful AI Prompts | blog | 5 | 2026-03-30 |
+| The VC Corner 📰 #12 | blog | 5 | 2026-03-30 |
 | The VC Corner 📰 #9 | blog | 5 | 2026-03-30 |
 | The VC Math Problem📊, Inside a16z’s Speedrun💸, The 5% Rule for AGI🧠 | blog | 5 | 2026-03-30 |
 | The Venture Capital Playbook | blog | 5 | 2026-03-30 |
@@ -893,6 +896,7 @@ Generated on 2026-04-05 | 2421 sources
 | A new-parent gift guide | blog | 4 | 2026-03-31 |
 | A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 4 | 2026-03-31 |
+| A Way to Detect Bias | blog | 4 | 2026-03-31 |
 | A Word to the Resourceful | blog | 4 | 2026-03-31 |
 | A year free of PostHog ($16,500 value): The all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, LLM analytics platform | blog | 4 | 2026-03-31 |
 | a16z New Media and How We Invested in 20+ YC Startups in 5 Months | blog | 4 | 2026-03-30 |
@@ -935,6 +939,7 @@ Generated on 2026-04-05 | 2421 sources
 | Best Practices: How To Use The Culture Map | blog | 4 | 2026-03-31 |
 | Beyond Smart | blog | 4 | 2026-03-31 |
 | Biz4Kids Update: Mini Sprints To Develop The Comic Book | blog | 4 | 2026-03-31 |
+| Book Review Contest Rules 2026 | blog | 4 | 2026-03-30 |
 | Bradley's Ghost | blog | 4 | 2026-03-31 |
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
@@ -965,6 +970,7 @@ Generated on 2026-04-05 | 2421 sources
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 4 | 2026-03-30 |
 | Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
+| Deep Dive: China’s Global Strategy and Power Balance | blog | 4 | 2026-03-30 |
 | Deep Dive: How Equity Tokenization Is Breaking TradFi Barriers | blog | 4 | 2026-03-30 |
 | Deep Dive: Is India the Next Economic Giant? | blog | 4 | 2026-03-30 |
 | Deep Dive: Prediction Markets | blog | 4 | 2026-03-30 |
@@ -974,6 +980,7 @@ Generated on 2026-04-05 | 2421 sources
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
 | Do Founders Ever Take a Vacation?🌴,AI and Longevity🤖, Venture Trends Q2 2024📊 | blog | 4 | 2026-03-30 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
+| Elon Musk sues OpenAI ⚖️, Rethinking the startup MVP 🔄, The Future of Digital Health 🩺, & more! | blog | 4 | 2026-03-30 |
 | EU and US to work together on AI guidelines🤖, YC's Secret SAFE📜, Climate Risk Landscape🌍 | blog | 4 | 2026-03-30 |
 | Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 4 | 2026-03-30 |
@@ -1011,6 +1018,7 @@ Generated on 2026-04-05 | 2421 sources
 | How Natural Tradeoff And Failure Components? | blog | 4 | 2026-03-30 |
 | How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 4 | 2026-03-30 |
 | How Solar Beat Coal, Gas, and Nuclear Combined | blog | 4 | 2026-03-30 |
+| How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 4 | 2026-03-30 |
 | How to Be an Expert in a Changing World | blog | 4 | 2026-03-31 |
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 4 | 2026-03-30 |
 | How to Disagree | blog | 4 | 2026-03-31 |
@@ -2126,7 +2134,6 @@ Generated on 2026-04-05 | 2421 sources
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
 | @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
-| 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
 | 121 Startups Fundraising Right Now (With Pitch Decks) | Exclusive Deal Flow for 2025 | blog | 0 | 2026-03-30 |
@@ -2169,7 +2176,6 @@ Generated on 2026-04-05 | 2421 sources
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
 | A new perk for annual subscribers: A free year of some of the world's most beloved products (while supplies last) | blog | 0 | 2026-03-31 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
-| A Way to Detect Bias | blog | 0 | 2026-03-31 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
 | AI and product management | Marily Nika (Meta, Google) | blog | 0 | 2026-03-31 |
@@ -2216,7 +2222,6 @@ Generated on 2026-04-05 | 2421 sources
 | Bio | blog | 0 | 2026-03-31 |
 | Biz4Kids - a business model for kids | blog | 0 | 2026-03-31 |
 | Biz4Kids - Join Our Business Comic For Kids | blog | 0 | 2026-03-31 |
-| Book Review Contest Rules 2026 | blog | 0 | 2026-03-30 |
 | Book Review: The White King Of La Gonave | blog | 0 | 2026-03-30 |
 | Bootcamp Exclusive: Steve Blank On Lean Startup Inside Big Companies & More | blog | 0 | 2026-03-31 |
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
@@ -2267,10 +2272,8 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: A Primer on Mag7 (Part 4) | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Stablecoins | blog | 0 | 2026-03-30 |
 | Deep Dive: Artificial Intelligence | blog | 0 | 2026-03-30 |
-| Deep Dive: China’s Global Strategy and Power Balance | blog | 0 | 2026-03-30 |
 | Deep Dive: Creator Economy - The Next Phase of Media | blog | 0 | 2026-03-30 |
 | Deep Dive: Defense 2.0 - Protecting America | blog | 0 | 2026-03-30 |
-| Deep Dive: Is AI Disrupting the Future of Work? | blog | 0 | 2026-03-30 |
 | Deep Dive: Moore's Law and Next Steps for Silicon | blog | 0 | 2026-03-30 |
 | Deep Dive: The Business Model of Healthcare | blog | 0 | 2026-03-30 |
 | Deep Dive: The Current State of AI | blog | 0 | 2026-03-30 |
@@ -2280,7 +2283,6 @@ Generated on 2026-04-05 | 2421 sources
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
 | Elena Verna | blog | 0 | 2026-03-26 |
-| Elon Musk sues OpenAI ⚖️, Rethinking the startup MVP 🔄, The Future of Digital Health 🩺, & more! | blog | 0 | 2026-03-30 |
 | Elon Musk, xAI, and the Logic of Vertical Integration | blog | 0 | 2026-03-30 |
 | Elon Musk’s xAI raises Monster $6B Series B for AI Supercomputer and Grok 3 | blog | 0 | 2026-03-30 |
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
@@ -2306,7 +2308,6 @@ Generated on 2026-04-05 | 2421 sources
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
-| How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
@@ -2382,7 +2383,6 @@ Generated on 2026-04-05 | 2421 sources
 | The VC Corner #1 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #10 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #11 | blog | 0 | 2026-03-30 |
-| The VC Corner 📰 #12 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #13 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #14 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #2 | blog | 0 | 2026-03-30 |

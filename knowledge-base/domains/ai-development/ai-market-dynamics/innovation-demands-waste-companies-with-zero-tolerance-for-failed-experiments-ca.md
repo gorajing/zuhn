@@ -67,5 +67,8 @@ evidence:
   - id: INS-260330-2F13
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-472E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Kozyrkov identifies a structural paradox in enterprise AI adoption: companies say they want to innovate with AI but have zero tolerance for experiments that produce no results. Innovation inherently demands waste — the first pancake is an investment whose return is learning, not product. Companies that require predictable outcomes from every project are structurally unable to innovate and should accept their role as followers who wait for others to prove use cases. The Solow Paradox is repeating with AI: individuals feel vastly more productive, but organizational productivity numbers don't reflect it. Part of this is measurement failure (generative AI's infinite right answers make traditional error-minimization metrics useless), and part is that the real ROI is capability-building — learning how to innovate — which doesn't appear on quarterly reports.

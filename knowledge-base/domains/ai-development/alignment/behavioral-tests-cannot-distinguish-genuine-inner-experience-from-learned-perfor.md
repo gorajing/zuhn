@@ -57,6 +57,16 @@ related:
   - INS-260330-84C6
   - INS-260326-E5D3
   - INS-260325-33DA
+evidence:
+  - id: INS-260327-B59B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-84C6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260325-33DA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The qualia problem demonstrates that behavioral equivalence does not imply experiential equivalence. Two people can both call a strawberry 'red,' communicate effectively, and pass every color vision test — while having entirely different internal experiences. This same limitation scales directly to artificial systems: an AI could learn every fact about pain, describe it eloquently, and even respond to simulated pain stimuli with appropriate behaviors, yet have zero subjective experience.
 

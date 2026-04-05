@@ -6,7 +6,6 @@
 - `INS-260405-C592` When people can choose different enhancements, humans a century from now may differ from each other more than any two people differ today — creating cooperation problems no institution currently exists to solve.
 - `INS-260330-0764` Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.
 - `INS-260330-F8B6` The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
-- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260330-6D13` Treating all sides as morally equal regardless of their demonstrated ethical norms is a failure of moral reasoning, not balanced thinking.
 - `INS-260327-B0F2` Orwell's deepest warning: the desire to be seen as good is the most effective way to stop actually being good, because performance replaces substance.
@@ -23,3 +22,4 @@
 - `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260404-AE2E` Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
 - `INS-260328-6A8C` Selling something that produces no benefit for the buyer isn't trade — it's something else entirely.
+- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.

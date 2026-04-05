@@ -4,6 +4,7 @@
 - `INS-260405-1CAA` You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260405-2B3F` Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260405-F7FA` All else being equal, bet against the explanation where you are the protagonist.
+- `INS-260405-D3D7` You cannot use a biased yardstick to measure whether the selection was biased.
 - `INS-260405-AF1E` History's biggest paradigm shifts — heliocentrism, evolution, selfish gene — all share a single move: removing humans from the center of the story.
 - `INS-260330-790F` Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
 - `INS-260405-8732` Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.

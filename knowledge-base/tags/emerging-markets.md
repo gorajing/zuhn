@@ -1,7 +1,5 @@
 # Tag: emerging-markets
 
-- `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
-- `INS-260330-38C9` Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.
 - `INS-260327-1ACE` After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
 - `INS-260330-519D` Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
 - `INS-260330-DCFB` Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
@@ -17,3 +15,5 @@
 - `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 - `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
+- `INS-260330-38C9` Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.
+- `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.

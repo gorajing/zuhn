@@ -67,6 +67,10 @@ related:
   - INS-260325-568A
   - INS-260323-7212
   - INS-260325-2832
+evidence:
+  - id: INS-260327-C69F
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The standard fears about longevity — resource depletion, overpopulation, calcified power structures — miss what Vitalik considers the deeper risk: enhancement divergence. If people can choose different cognitive, physical, or perceptual enhancements, the result isn't a homogeneously upgraded humanity but a diverging population of incompatible sub-types, each optimized for different environments or value systems.
 

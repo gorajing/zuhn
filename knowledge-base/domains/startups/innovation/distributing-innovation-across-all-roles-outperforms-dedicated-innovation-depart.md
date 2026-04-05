@@ -52,6 +52,10 @@ related:
   - PRI-260323-50FE
   - INS-260322-D2E9
   - INS-260330-AC36
+evidence:
+  - id: INS-260322-D2E9
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 WD-40's approach treats innovation not as a specialized function but as a universal expectation woven into every role. This contrasts with companies that create Chief Innovation Officers or standalone innovation labs, which can inadvertently signal that innovation is someone else's job.
 

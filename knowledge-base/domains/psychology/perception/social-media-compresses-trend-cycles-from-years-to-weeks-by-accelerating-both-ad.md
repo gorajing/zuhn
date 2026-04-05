@@ -84,6 +84,9 @@ evidence:
   - id: INS-260329-8E48
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-36F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Before social media, a trend might take 2-3 years to move from early adopters through mass adoption to cultural saturation. TikTok and Instagram compress this to weeks: a product goes viral on Monday, peaks Wednesday, gets backlash content Friday, and is 'over' by next week. The fundamental dynamic hasn't changed — adoption, saturation, signaling inversion, rejection — but the speed has increased 10-100x.
 

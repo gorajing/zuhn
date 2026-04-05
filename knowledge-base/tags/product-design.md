@@ -19,7 +19,6 @@
 - `INS-260403-06D5` In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 - `INS-260404-A183` Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260403-8E4D` Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
-- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 - `INS-260403-9B5D` SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 - `INS-260403-6D0D` Deliberately choose which customer jobs, pains, and gains you will NOT address.
@@ -27,6 +26,7 @@
 - `INS-260403-35CB` Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.
+- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260403-A5B8` The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.

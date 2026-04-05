@@ -58,6 +58,15 @@ evidence:
   - id: INS-260320-8632
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260327-CED9
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260321-0CCD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260325-3CB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham argues that startups should deliberately ignore scalability, internationalization, and heavy-duty security in their first version. The reasoning is counterintuitive: the pain of retrofitting these later is real, but the bigger pain is building something too rigid to evolve into what users actually want.
 

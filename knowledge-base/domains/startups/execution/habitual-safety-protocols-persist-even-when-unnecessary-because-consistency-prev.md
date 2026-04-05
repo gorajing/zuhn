@@ -53,5 +53,9 @@ related:
   - PRI-260403-9E80
   - INS-260321-4178
   - INS-260329-A90C
+evidence:
+  - id: INS-260321-4178
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The tattoo artist puts on gloves before handling sterile equipment even though she's not tattooing anyone, noting 'it feels strange to open a bag without gloves on.' This habitual consistency eliminates a category of error: if you always follow the protocol, you never accidentally skip it when it matters. The same principle applies to startup execution — teams that always run the checklist, always do the code review, always document the decision, don't have to waste cognitive bandwidth deciding which situations warrant rigor. The cost of occasional unnecessary protocol adherence is far lower than the cost of a single missed step during a critical moment. This is why high-reliability organizations (aviation, surgery, nuclear) enforce checklists even for routine procedures.

@@ -54,6 +54,10 @@ related:
   - PRI-260328-6136
   - INS-260330-CB30
   - PRI-260328-C918
+evidence:
+  - id: INS-260323-1720
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Founders often frame their choices as a dichotomy between growing fast and operating cheaply, but Graham argues this is a false trade-off. In practice, there's surprisingly little connection between how much a startup spends and how fast it grows. Fast growth usually comes from the product hitting a nerve — addressing a big need directly. High spending usually comes from expensive development, sales costs, or simple waste.
 

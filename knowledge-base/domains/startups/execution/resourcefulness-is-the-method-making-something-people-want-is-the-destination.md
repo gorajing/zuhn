@@ -49,6 +49,10 @@ related:
   - INS-260327-E833
   - INS-260327-0E57
   - INS-260322-A208
+evidence:
+  - id: INS-260322-A208
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham draws a sharp distinction between strategic direction and tactical execution: 'Make something people want' is the destination, but 'Be relentlessly resourceful' is how you get there. This framing suggests that most founder failure happens not at the vision level but at the execution level — in the daily confrontation with novel obstacles.
 

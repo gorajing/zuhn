@@ -1,11 +1,6 @@
 # Tag: speed
 
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
-- `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
-- `INS-260325-4C16` Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
-- `INS-260327-33EA` Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
-- `INS-260327-C22F` Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
-- `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260320-20F2` Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260329-DF50` In HFT, the first system to react to market data captures the opportunity — everyone else follows with nothing left to take.
 - `INS-260325-C29B` Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.
@@ -21,12 +16,17 @@
 - `INS-260327-BA8E` Your biggest regret will be not pivoting three months earlier, not the pivot itself.
 - `INS-260321-EE05` The NYT's 24-hour editorial cycle is an OODA loop — the internet cycles in 12 hours, causing traditional media to perpetually chase viral posts and have a psychological breakdown.
 - `INS-260403-DF01` Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
+- `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
+- `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260403-7227` Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 - `INS-260330-A69C` Hire only when someone can do something you need done but can't do yourself — never hire to fill an org chart or seem impressive.
 - `INS-260330-C658` Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
 - `INS-260323-5341` Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
 - `INS-260325-A326` Robinhood's Vlad Tenev: wartime CEOs make fast irreversible decisions with incomplete info — peacetime consensus-building will kill you in crisis.
-- `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
-- `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
 - `INS-260329-F007` Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
+- `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
+- `INS-260325-4C16` Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
+- `INS-260327-33EA` Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
+- `INS-260327-C22F` Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
+- `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.

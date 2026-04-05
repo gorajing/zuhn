@@ -50,5 +50,9 @@ related:
   - INS-260330-EB1B
   - PRI-260324-12CF
   - INS-260330-A3EB
+evidence:
+  - id: INS-260327-7C69
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 McDonald's possessed strategically placed locations worldwide, integrated delivery apps, celebrity endorsement experience, and global brand reach — every ingredient VDC used. Yet the concept emerged from an outsider. The explanation is organizational: incumbents optimize their entire operation around the current business model, creating 'corporate antibodies' that reject anything structurally different. This isn't about intelligence or resources — it's about organizational architecture. The company's evaluation frameworks, incentive structures, and decision-making processes are all calibrated to the existing model, making genuinely novel configurations invisible or threatening rather than exciting.

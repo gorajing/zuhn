@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-5688
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-A101
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Products that create flavor through scent alone demonstrate that a large percentage of what consumers perceive as taste is actually olfactory, making it possible to sell flavored nothing.
 

@@ -88,6 +88,9 @@ evidence:
   - id: INS-260403-B87D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-79E0
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The speaker's 25-year career arc demonstrates how optimizing for fewer than four dimensions creates predictable failure modes. Profit without passion (Accenture consulting) led to misery. Passion without prowess (early labs) felt hollow. Prowess without purpose (innovation director) triggered the Peter Principle. The breakthrough came only when all four aligned simultaneously.
 

@@ -55,6 +55,10 @@ related:
   - INS-260330-3B0A
   - INS-260327-FCCF
   - INS-260330-75E2
+evidence:
+  - id: INS-260330-B28C
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham identifies a contagion mechanism in compensation: once startups and professional service firms (consulting, law, finance) began paying young employees market rates in the late 1970s-80s, it created a 'yuppie' phenomenon that forced every other organization to follow. If smart, driven young people can earn more by starting companies or joining performance-based firms, legacy employers must raise pay to retain talent.
 

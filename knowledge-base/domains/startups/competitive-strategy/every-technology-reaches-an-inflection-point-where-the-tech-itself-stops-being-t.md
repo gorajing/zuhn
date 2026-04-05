@@ -54,5 +54,9 @@ related:
   - INS-260403-4690
   - INS-260403-89A5
   - INS-260403-C49F
+evidence:
+  - id: INS-260403-A101
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX draws a pattern across genome sequencing, EV batteries, crypto protocols, and now AI: each technology eventually became cheap and ubiquitous enough that the core tech stopped being defensible. What happens next follows one of two paths — either an entirely new industry forms on top of the commoditized tech (like techbio built on cheap genome sequencing), or companies double down on brand and non-technical differentiation (like NFT projects where brand held value long after protocol differences became irrelevant). The critical insight for AI is that this inflection point arrived almost immediately — there was no grace period of technical moats. Founders who haven't recognized this transition are already behind.

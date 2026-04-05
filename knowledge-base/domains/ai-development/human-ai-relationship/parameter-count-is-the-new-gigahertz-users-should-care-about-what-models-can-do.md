@@ -55,6 +55,12 @@ evidence:
   - id: INS-260330-C9FA
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-44A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-2B4C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Altman draws a direct analogy between the AI community's fixation on parameter counts and the processor gigahertz wars of the 1990s-2000s. Nobody knows or cares about their phone's clock speed today; they care about what it can do. Similarly, the path to better AI performance doesn't always run through bigger models — it runs through whatever delivers the most value to users.
 

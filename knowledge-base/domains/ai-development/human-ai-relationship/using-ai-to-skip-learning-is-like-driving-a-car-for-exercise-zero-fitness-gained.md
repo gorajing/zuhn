@@ -82,6 +82,12 @@ evidence:
   - id: INS-260403-0907
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-21AF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-09EE
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 LLMs are powerful precisely because they master language patterns, which means the biggest cheating vector is writing — the exact skill that develops logical thinking. Loh uses the analogy: using AI for school writing is like driving your car one mile instead of running it for exercise. You get zero benefit.
 

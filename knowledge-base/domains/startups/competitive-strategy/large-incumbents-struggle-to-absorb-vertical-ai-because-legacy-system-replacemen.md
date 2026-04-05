@@ -57,5 +57,9 @@ related:
   - INS-260330-4983
   - PRI-260323-00C6
   - PRI-260328-0C51
+evidence:
+  - id: INS-260321-1749
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The Silicon Valley debate between verticalization-from-scratch versus software-led rollups reveals a fundamental tension. Rollup advocates argue that buying existing distribution is cheaper than building it, then infusing AI from within. But NFX argues this approach fails because it creates a mindset collision: the acquirer wants to rethink entire workflows while the acquired company wants to refine what already works. People vastly underestimate how hard it is to rip out legacy systems from companies that succeeded using those systems. The winning approach instead is to sell into companies already seeking change — finding buyers of similar mindset who want transformation but need the right implementation partner. This is why incumbents like Thomson Reuters and Docusign are acquiring vertical AI specialists (CaseText, Lexicon) rather than building internally — tacit acknowledgment that vertical expertise is hard to replicate.

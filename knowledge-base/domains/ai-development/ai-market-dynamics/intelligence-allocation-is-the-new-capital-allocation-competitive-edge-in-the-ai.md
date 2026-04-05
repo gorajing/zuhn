@@ -70,6 +70,9 @@ evidence:
   - id: INS-260327-4081
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-427E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 HBS professor Rem Coning argues that just as Warren Buffett's edge was capital allocation and McKinsey's was talent allocation, the defining advantage in the AI era is intelligence allocation. This means deciding what Claude does, what Lovable does, what GPT does, and critically what humans still do.
 

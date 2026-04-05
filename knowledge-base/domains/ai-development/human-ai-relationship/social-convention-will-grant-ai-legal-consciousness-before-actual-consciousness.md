@@ -67,6 +67,9 @@ evidence:
   - id: INS-260327-A4FE
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260404-CE92
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Harari argues that consciousness has always been validated by social convention, not logical proof. You believe your dog is conscious because you have a relationship with it, not because you can scientifically verify its inner experience. The same pig is more intelligent than your dog, but you don't consider your bacon conscious because you never formed a relationship with it.
 

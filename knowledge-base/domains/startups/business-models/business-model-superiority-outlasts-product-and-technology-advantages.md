@@ -56,6 +56,10 @@ related:
   - INS-260403-E0FE
   - PRI-260324-36BF
   - INS-260404-95BA
+evidence:
+  - id: INS-260327-7C69
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 In fast-moving markets, product features and technology advantages are rapidly copied or made obsolete. Companies that have survived and thrived through multiple economic cycles—like Salesforce—share a common trait: they invested in the design of their overall business model, not just their product.
 

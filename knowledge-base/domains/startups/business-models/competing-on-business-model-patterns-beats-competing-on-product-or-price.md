@@ -56,6 +56,10 @@ related:
   - INS-260403-8008
   - INS-260403-3F10
   - INS-260403-946A
+evidence:
+  - id: INS-260327-7C69
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Most companies default to competing on product features, technology, or price — dimensions that are easily copied and lead to commoditization. The most successful companies instead compete at the business model level, configuring multiple building blocks (channels, revenue streams, customer relationships, etc.) into repeatable patterns that create structural advantages.
 

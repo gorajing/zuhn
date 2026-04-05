@@ -59,6 +59,19 @@ related:
   - INS-260403-0218
   - INS-260330-1F41
   - INS-260325-E1FA
+evidence:
+  - id: INS-260322-BF4C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260321-96CE
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-0218
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-1F41
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The essay frames AI as 'the ultimate craftsman' that pays the skill entry fee for everyone. Rather than seeing this as pure loss, it argues this commoditization expands the creative surface — the total space of what can be attempted and expressed. When anyone can produce serviceable code, writing, or design, the bottleneck shifts from 'can you execute?' to 'do you have something original to say?'
 

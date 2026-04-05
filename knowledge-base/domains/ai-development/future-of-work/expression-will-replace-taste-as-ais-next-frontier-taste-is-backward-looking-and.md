@@ -64,6 +64,25 @@ related:
   - INS-260402-E11A
   - INS-260403-3C2C
   - PRI-260328-9F8C
+evidence:
+  - id: INS-260327-6A45
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260327-2A59
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260329-2EB1
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260402-D2C9
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260402-E11A
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-3C2C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The essay proposes a three-stage depreciation ladder: craft → taste → expression. AI first commoditized execution skill (coding, writing, design). The current consensus is that 'taste' — the ability to evaluate and curate quality — is the new differentiator. But the essay argues taste is fundamentally backward-looking: it evaluates what has worked before and copies it, making it a learnable signal that AI companies are already working to codify.
 

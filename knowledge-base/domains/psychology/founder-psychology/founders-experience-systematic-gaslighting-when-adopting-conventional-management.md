@@ -51,6 +51,10 @@ related:
   - INS-260324-62A8
   - INS-260330-DB4B
   - INS-260403-2822
+evidence:
+  - id: INS-260323-1452
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Founders who resist conventional management advice face pressure from two directions simultaneously: VCs and advisors insist they must delegate more and manage through hierarchy, while the executives they hire under this model use their skill at 'managing up' to obscure problems. This creates a gaslighting dynamic where the founder's correct instincts — that something is broken — are dismissed as inexperience or micromanagement.
 

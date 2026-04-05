@@ -63,6 +63,12 @@ evidence:
   - id: INS-260330-B882
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-D4EA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-AC03
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 
 After Claude generates a plan, do not immediately proceed to implementation.

@@ -51,13 +51,16 @@ stance: >-
   at every stage.
 related:
   - INS-260323-0B52
-  - INS-260329-6D6C
   - INS-260329-3CB6
   - INS-260325-2052
   - INS-260403-D4EA
   - INS-260404-673B
   - INS-260329-D48B
   - INS-260329-1ACD
+evidence:
+  - id: INS-260323-0B52
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham draws an explicit parallel between writing lists and iterative software development: you think of N/2 points in five minutes, giving you a complete but low-resolution structure, then progressively refine. He compares this to both programming (ship version 1 fast, then iterate) and painting (start with a blurry sketch, crank up resolution over a week).
 

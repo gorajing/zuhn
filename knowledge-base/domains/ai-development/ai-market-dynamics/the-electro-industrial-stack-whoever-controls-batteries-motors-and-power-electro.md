@@ -55,6 +55,10 @@ related:
   - PRI-260328-D292
   - INS-260403-4690
 stance: The next industrial revolution isn't just factories
+evidence:
+  - id: INS-260403-4690
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Ryan McIntosh at a16z identifies the 'electro-industrial stack' as the foundation of 21st century economic and military power. This shared technology layer powers electric vehicles, drones, data centers, and modern manufacturing. The US can match China's engineering capability for any individual technology, but China's advantage lies in its multi-tier supplier ecosystem that enables industrial scale at low cost.
 

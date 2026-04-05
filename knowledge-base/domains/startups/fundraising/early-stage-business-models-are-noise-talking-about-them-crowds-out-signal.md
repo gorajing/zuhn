@@ -59,6 +59,10 @@ related:
   - INS-260403-0764
   - INS-260404-8D69
   - INS-260404-DA2E
+evidence:
+  - id: INS-260330-4AD5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 A top VC told YC founders that a company he just funded had a business model he expected to change three times before they got it right — and he invested anyway. This reveals that smart investors treat early business models as disposable. They're evaluating the team and the problem, not the monetization plan.
 

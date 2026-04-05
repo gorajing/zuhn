@@ -58,6 +58,13 @@ related:
   - INS-260402-9B06
   - PRI-260328-E870
   - INS-260326-7B2A
+evidence:
+  - id: INS-260322-D2E9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260322-116B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham draws a direct parallel between enterprise software purchasing and corporate recruiting: in both cases, the decision-maker faces asymmetric consequences. Hiring a Stanford grad who underperforms is a defensible mistake; hiring a state school grad who underperforms is a career risk. Since recruiters are never measured by the later performance of candidates they reject, there's no feedback loop to correct the bias.
 

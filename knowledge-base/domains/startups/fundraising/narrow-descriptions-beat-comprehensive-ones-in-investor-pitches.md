@@ -56,6 +56,10 @@ related:
   - INS-260404-F20B
   - INS-260404-1BFF
   - INS-260403-9AB3
+evidence:
+  - id: INS-260320-E872
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham observes that as a startup description approaches 'could be anything,' its information content approaches zero. Founders resist narrow descriptions because they feel misleadingly limited, but investors process pitches serially and will discard boilerplate like 'collaboratively leverage the value of information' without retaining anything.
 

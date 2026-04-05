@@ -1,9 +1,9 @@
 # Tag: failure
 
 - `INS-260403-5C89` Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260329-A218` Deliberately exposing learners to common errors builds debugging intuition that error-avoidance pedagogy cannot produce.
 - `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
-- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260325-A006` Experimental archaeology hasn't solved how the pyramids were built, but it has definitively ruled out ramp theories -- the ramps would require more material than the pyramids themselves.
 - `INS-260325-B8D4` The optimal failure response is 'forgive and remember' -- psychological safety for admission plus systematic learning from mistakes.

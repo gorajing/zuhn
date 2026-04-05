@@ -57,6 +57,10 @@ related:
   - INS-260327-8936
   - INS-260326-DBEF
   - INS-260325-2F1E
+evidence:
+  - id: INS-260327-8936
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham traces a consistent pattern in intellectual history: Copernicus moved Earth from the center of the universe, Darwin removed divine authorship of humanity, Dawkins showed we aren't even the protagonists of our own genes. Each step required discarding the naive assumption that reality is organized around us.
 

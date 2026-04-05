@@ -54,6 +54,10 @@ related:
   - INS-260403-696C
   - INS-260403-4904
   - INS-260402-8424
+evidence:
+  - id: INS-260327-422B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham frames YC's emergence through biological analogy: when a new ecological niche opens, a new species evolves to fill it rather than existing species simply shrinking. The dramatic reduction in web startup costs (to ~$15K) created a funding gap too small for VCs to address efficiently but large enough to support a new institutional form.
 

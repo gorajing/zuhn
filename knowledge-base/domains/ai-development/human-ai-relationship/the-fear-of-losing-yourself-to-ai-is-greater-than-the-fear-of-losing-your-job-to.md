@@ -70,6 +70,9 @@ evidence:
   - id: INS-260327-37C8
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-272E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Kim Kyung-ah, a Korean designer, was confident in her work until her decision-maker started running every output through AI prompts. Instead of 10 pieces of normal feedback, she received 40 AI-generated revision requests. The boss would 'immediately turn on the prompt' whenever reviewing her work, giving infinite source code and telling her to fix everything exactly as prescribed.
 

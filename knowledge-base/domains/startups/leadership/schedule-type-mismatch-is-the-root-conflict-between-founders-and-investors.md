@@ -53,6 +53,10 @@ related:
   - INS-260330-0E4B
   - INS-260403-4328
   - PRI-260328-30C2
+evidence:
+  - id: INS-260327-0C4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham identifies that most powerful people — executives, investors, board members — operate on manager's schedules, and because they hold positional authority, their scheduling preferences become the organizational default. This creates a structural disadvantage for makers who need long uninterrupted blocks.
 

@@ -75,6 +75,9 @@ evidence:
   - id: INS-260402-F957
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260404-09EE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 After visiting a Chinese school using AI to optimize student performance on standardized exams, Loh gave blunt feedback: 'You're just creating people who are human versions of AI. You're just making human robots.' The AI app helped students rank higher on standard problems — exactly the capability that AI itself already excels at, making the trained humans redundant by design.
 

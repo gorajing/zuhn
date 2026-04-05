@@ -54,6 +54,13 @@ related:
   - INS-260329-18C9
   - INS-260329-1ACD
   - INS-260329-CB03
+evidence:
+  - id: INS-260321-703F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-500E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Conventional wisdom treats code rewrites as wasteful unless the resulting code is measurably better. Graham reframes rewriting as a cognitive tool: the act of rewriting forces you to hold the entire program in your head, which is itself the goal. The improved design is a frequent side effect, but even without it, the rewrite accomplishes something valuable — deep mental loading.
 

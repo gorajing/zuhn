@@ -50,9 +50,9 @@ resolutions:
 related:
   - INS-260322-C6CE
   - INS-260330-984C
+  - INS-260405-9460
   - INS-260325-5023
   - INS-260403-0218
-  - INS-260328-6E7A
 stance: >-
   Ironic process theory means telling someone what they did wrong makes them
   repeat it — paint the future vision instead.

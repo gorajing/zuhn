@@ -53,6 +53,10 @@ related:
   - INS-260329-E0B0
   - INS-260327-E833
   - INS-260330-C33B
+evidence:
+  - id: INS-260325-11E9
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham identifies two distinct senses of project ownership that are often conflated: (1) doing work voluntarily rather than being told to, and (2) doing it by yourself rather than collaboratively. Critically, you can choose to deeply own work you were assigned — his father treated assigned math problems as personal puzzles — and you can collaborate extensively while still feeling individual ownership, as the Macintosh team demonstrated.
 

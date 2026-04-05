@@ -47,7 +47,6 @@ stance: >-
   competition.
 related:
   - INS-260323-EF23
-  - INS-260323-DA13
   - INS-260327-7F11
   - INS-260330-E3ED
   - INS-260403-AA8F

@@ -57,6 +57,10 @@ related:
   - INS-260403-FE3B
   - INS-260404-1986
   - INS-260402-E140
+evidence:
+  - id: INS-260329-0CDD
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Paul Graham notes that while predicting which ideas will succeed is nearly impossible, predicting which people will generate good ideas is surprisingly tractable. The Airbnb investment illustrates this: YC thought the idea was bad but recognized the founders as earnest, energetic, and independent-minded — traits that reliably correlate with breakthrough work.
 

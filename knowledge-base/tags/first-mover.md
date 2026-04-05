@@ -1,9 +1,6 @@
 # Tag: first-mover
 
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
-- `INS-260327-E1EB` OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
-- `INS-260327-FA38` The Crusader States, despite being tiny and surrounded by enemies, survived for nearly 200 years because they fortified first and forced attackers to bear the enormous cost of siege warfare.
-- `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260330-2064` A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities.
 - `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
@@ -39,6 +36,7 @@
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
 - `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
+- `INS-260327-E1EB` OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-FAE9` RuBisCo's 450-million-year reign shows that dominant systems compensate for flaws rather than replace core mechanisms.
 - `INS-260404-6F39` Photosynthesis is explicitly 'complicated, inefficient, and confusing' yet it powers virtually all life on Earth because it shipped 450 million years ago.
@@ -64,3 +62,5 @@
 - `INS-260404-1C48` RuBisCo is a mediocre enzyme that dominates all life on Earth because it arrived first and everything was built on top of it.
 - `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
 - `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
+- `INS-260327-FA38` The Crusader States, despite being tiny and surrounded by enemies, survived for nearly 200 years because they fortified first and forced attackers to bear the enormous cost of siege warfare.
+- `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.

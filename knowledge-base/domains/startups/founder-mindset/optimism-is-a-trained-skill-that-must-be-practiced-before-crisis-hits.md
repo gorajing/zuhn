@@ -57,6 +57,10 @@ related:
   - INS-260403-4102
   - INS-260325-75C5
   - INS-260405-3C56
+evidence:
+  - id: INS-260323-4D4E
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 The essay cites Frank Herbert's Dune on how the mind leans under stress being 'strongly influenced by training,' and NFX's explicit advice is to 'practice optimism in good times so that you can still access it when everything goes wrong.' This reframes optimism from a character trait (you either have it or don't) to a skill with a training regimen.
 

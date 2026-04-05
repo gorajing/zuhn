@@ -49,11 +49,11 @@ stance: >-
   systematically amplify social comparison anxiety in their user base, and this
   effect is structural — not fixable by feature tweaks like hiding like counts.
 related:
+  - INS-260405-AA3C
   - PRI-260323-7BFA
   - INS-260330-06E3
   - INS-260403-E51B
   - INS-260323-E81D
-  - INS-260327-0F4E
 evidence:
   - id: INS-260323-E81D
     type: TRANSFERS_TO

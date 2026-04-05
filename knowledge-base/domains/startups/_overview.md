@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3774 insights across 43 topics
+> 3780 insights across 44 topics
 
 ## Topics
 
@@ -41,11 +41,12 @@
 | problem-solving | 8 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 12 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 142 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
-| product-strategy | 61 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
+| product-strategy | 62 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
 | quality | 14 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 179 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
 | scaling | 159 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | startup-ecosystem | 2 | Inequality statistics are systematically biased because safe, unfireable jobs carry real economic value that never enters the measurement. |
 | strategy | 271 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 56 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 156 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 160 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| venture-capital | 1 | A VC's internal portfolio study is a mirror of their own biases, not a market study. |

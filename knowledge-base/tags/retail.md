@@ -1,6 +1,5 @@
 # Tag: retail
 
-- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
 - `INS-260404-8AE1` Costco generates 75% of revenue from membership fees, making low prices the strategy rather than the sacrifice.
 - `INS-260329-C474` A frozen yogurt store doing $800K revenue yields roughly $93K in owner take-home, illustrating the salary-not-wealth trap of small retail.
 - `INS-260403-91DB` Sears, Toys-R-Us, and J.C. Penney died from their own failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
@@ -14,3 +13,4 @@
 - `INS-260403-6CA8` Sears, Toys-R-Us, and RadioShack died not because of Amazon but because they failed to adapt, while Ross, Aldi, Dollar General, and Costco thrived in the same environment.
 - `INS-260404-96E6` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
 - `INS-260403-87BE` Sears, Toys-R-Us, and J.C. Penney died from self-inflicted adaptation failures while Ross, Aldi, and Costco thrived in the same environment.
+- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.

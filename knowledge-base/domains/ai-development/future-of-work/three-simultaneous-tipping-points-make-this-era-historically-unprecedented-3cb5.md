@@ -55,6 +55,9 @@ evidence:
   - id: INS-260325-0F4F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-EFAF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Unlike previous eras which were driven by one or two key technologies (steam engines, railroads, computing), we now face three world-historic technologies hitting their tipping points simultaneously. AI is scaling across all fields of human intelligence. Solar and clean energy have crossed cost parity and are entering exponential deployment. Bioengineering is approaching the point where we can engineer all living things.
 

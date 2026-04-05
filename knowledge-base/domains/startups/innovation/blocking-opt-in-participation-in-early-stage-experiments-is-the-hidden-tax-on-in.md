@@ -60,7 +60,6 @@ stance: >-
   medical, autonomous vehicle, or drone trials impose a societal cost greater
   than the risks they protect against.
 related:
-  - INS-260403-343D
   - PRI-260323-FA42
   - INS-260330-C087
   - PRI-260323-F37F

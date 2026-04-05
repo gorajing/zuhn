@@ -58,6 +58,10 @@ stance: >-
   Being slightly overconfident about your abilities is net positive because it
   compensates for the systematic downward bias of self-criticism and external
   skepticism
+evidence:
+  - id: INS-260323-4794
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham notes that across many fields, the most successful people are slightly overconfident — which seems paradoxical since perfectly calibrated self-assessment should be optimal. The resolution is that overconfidence compensates for multiple opposing biases: your own tendency to judge early work too harshly, other people's skepticism, and the social pressure against ambitious attempts.
 

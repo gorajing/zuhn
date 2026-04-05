@@ -64,6 +64,9 @@ evidence:
   - id: INS-260402-0DC9
     type: CONTRADICTS
     classified_at: '2026-04-05'
+  - id: INS-260323-E2DD
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 RuBisCo is a terrible enzyme — it confuses oxygen for CO2 roughly half the time, producing toxic byproducts that plants must neutralize with additional metabolic machinery. Yet there are 40 billion tons of it on Earth because early organisms went all-in on the RuBisCo strategy before oxygen levels rose. Plants compensate by simply producing enormous quantities rather than evolving a replacement.
 

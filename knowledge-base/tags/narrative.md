@@ -1,10 +1,5 @@
 # Tag: narrative
 
-- `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
-- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
-- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
-- `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
 - `INS-260405-AC51` Investors who hear many pitches need a single phrase to remember you by — creating one is table stakes for recall.
 - `INS-260325-8729` Zen teaches that pain is inevitable but the stories we tell about it — how unfair it is, how permanent it feels — are optional suffering we inflict on ourselves.
 - `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
@@ -30,3 +25,8 @@
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260330-FAB8` The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
 - `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
+- `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
+- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
+- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
+- `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.

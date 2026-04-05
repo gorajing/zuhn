@@ -83,6 +83,9 @@ evidence:
   - id: INS-260329-CABE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-2376
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Shear draws a critical distinction: when you instruct an AI, you transmit a byte string or audio vibrations — a description of a goal — not the goal itself. The AI must then infer what goal that description corresponds to, which is a fundamentally different task from instruction-following. Humans are so fast at this inference (turning descriptions into goals) that we don't even notice it happening, which causes us to confuse the two.
 

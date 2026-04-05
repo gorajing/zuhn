@@ -53,6 +53,9 @@ evidence:
   - id: INS-260327-2EFD
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-A101
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Once functional features converge, commoditized products re-differentiate through aesthetics, limited editions, and brand collaborations, restarting the consumption cycle.
 

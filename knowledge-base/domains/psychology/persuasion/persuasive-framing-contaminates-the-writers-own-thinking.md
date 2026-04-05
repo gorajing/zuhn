@@ -50,5 +50,9 @@ related:
   - PRI-260403-57EC
   - INS-260330-A151
   - INS-260323-64A4
+evidence:
+  - id: INS-260328-711E
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 When you write to persuade, you add padding around controversial ideas to make them easier for readers to accept. Graham argues this isn't just cosmetic — the spin becomes woven into the ideas themselves. Over time, you can no longer separate what you actually think from the accommodations you made for your audience. This is why persuasion-optimized writing is epistemically dangerous: it's not just less honest to the reader, it makes the writer less honest with themselves. The mechanism is subtle — you don't notice the moment your thinking starts serving your rhetoric rather than the reverse.

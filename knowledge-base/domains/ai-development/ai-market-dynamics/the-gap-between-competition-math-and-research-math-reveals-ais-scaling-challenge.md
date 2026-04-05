@@ -70,6 +70,12 @@ evidence:
   - id: INS-260330-201F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-5427
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-D645
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Noam Brown provides a sobering perspective: models went from grade school math (seconds) to IMO problems (1.5 hours) in two years, but research math requires 1,500+ hours of thinking, and Millennium Prize problems have consumed entire lifetimes. Each evaluation at longer timescales itself takes that long, creating a fundamental speed bump on progress.
 

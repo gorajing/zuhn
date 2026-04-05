@@ -1,6 +1,5 @@
 # Tag: lock-in
 
-- `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260404-D975` Once deeply committed to a strategy, systems cope with its flaws rather than replace it, because replacement cost exceeds inefficiency cost.
 - `INS-260404-1D8F` RuBisCo is terrible at its job but 450 million years of dependency means plants produce 40 billion tons of it rather than evolve a replacement.
@@ -91,3 +90,4 @@
 - `INS-260404-1C48` RuBisCo is a mediocre enzyme that dominates all life on Earth because it arrived first and everything was built on top of it.
 - `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
 - `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
+- `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.

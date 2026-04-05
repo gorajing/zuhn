@@ -4,16 +4,17 @@
 - `INS-260403-359D` Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
+- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260322-185B` You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
 - `INS-260327-2661` The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
 - `INS-260322-A9DE` Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
-- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
 - `INS-260404-1E47` The customer profile (jobs, pains, gains) should drive value proposition design, not the other way around.
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
+- `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260404-F8B7` When compliance prevents direct customer conversations, innovation teams collect lower-quality secondhand evidence that leads to worse strategic decisions.
 - `INS-260403-08E6` Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - `INS-260403-C737` Always follow customer interviews with cheap experiments that observe actual behavior, because what people say and what they do diverge systematically.

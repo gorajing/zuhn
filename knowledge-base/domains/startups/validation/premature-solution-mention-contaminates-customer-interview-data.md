@@ -56,6 +56,13 @@ related:
   - INS-260330-9F1F
   - INS-260330-281A
   - INS-260330-F3A8
+evidence:
+  - id: INS-260322-F65F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260320-508F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 When you mention a potential solution during a customer interview, you activate social desirability bias — the interviewee's natural tendency to tell you what you want to hear. This doesn't just slightly skew results; it fundamentally corrupts the interview's purpose. The interviewer shifts from learner to seller, and the interviewee shifts from informant to audience.
 
