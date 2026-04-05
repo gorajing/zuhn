@@ -50,6 +50,7 @@ related:
   - PRI-260323-6644
   - INS-260323-8271
   - INS-260327-4367
+  - INS-260405-F7FA
 ---
 Graham resolves the philosophical puzzle of aesthetic quality by drawing an analogy to physics: if every particle a mass interacts with behaves as if it has mass m, then it has mass m. Similarly, if most humans respond to certain art in similar ways, that response pattern constitutes a real property of the art.
 

@@ -45,7 +45,6 @@ stance: >-
 related:
   - INS-260325-FADB
   - INS-260322-FCFC
-  - INS-260322-C33D
   - INS-260327-16D7
   - INS-260327-4B5A
   - INS-260329-776B
@@ -53,5 +52,6 @@ related:
   - INS-260404-1E28
   - INS-260404-6751
   - INS-260322-8D47
+  - INS-260403-87AC
 ---
 Most startups grow revenue by adding customers, creating a linear relationship between users and revenue. Category leaders break this pattern by stacking business model layers that increase revenue per customer over time—through upsells, add-ons, API access, data products, or embedded services. When revenue growth matches or exceeds user growth, it signals that the business model is compounding: each customer becomes more valuable as the product surface area expands. This is the metric that separates companies that have found product-market fit from those that have merely found product-market attention. In the AI era, where viral adoption is easy but retention is hard, this compounding dynamic is the clearest evidence that the business has real defensibility.

@@ -426,6 +426,7 @@ Generated on 2026-04-05 | 2421 sources
 | Microsoft is Dead | blog | 5 | 2026-03-31 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
 | Moltbook: After The First Weekend | blog | 5 | 2026-03-30 |
+| Monzo hits $5bn valuation 🚀, A Guide to Founder Salary 💵, Entrepreneurship in Africa 💡, & more! | blog | 5 | 2026-03-30 |
 | Musk, Trump, and the VCs Picking Sides ⚔️, Thoma Bravo’s Record $34.4B Fundraise💸, VCs Are Funding 2 Things💡 | blog | 5 | 2026-03-30 |
 | News from the Front | blog | 5 | 2026-03-31 |
 | No, China doesn't plan 1000 years ahead | blog | 5 | 2026-03-30 |
@@ -450,6 +451,7 @@ Generated on 2026-04-05 | 2421 sources
 | Roundup #77: The Fix-Everything Button | blog | 5 | 2026-03-30 |
 | Roundup #78: Roboliberalism | blog | 5 | 2026-03-30 |
 | Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
+| Running a Fundraising Process 💸 | blog | 5 | 2026-03-30 |
 | SaaS Financial Model Guide (+ Free Excel Template) | blog | 5 | 2026-03-30 |
 | SaaS MRR Projection Model + Excel Template | blog | 5 | 2026-03-30 |
 | San Francisco's urban revival is in danger | blog | 5 | 2026-03-30 |
@@ -474,6 +476,7 @@ Generated on 2026-04-05 | 2421 sources
 | Startup Valuation Methods: 8 Approaches Investors Use | blog | 5 | 2026-03-30 |
 | Startups in 13 Sentences | blog | 5 | 2026-03-31 |
 | State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 5 | 2026-03-30 |
+| State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 5 | 2026-03-30 |
 | Stuff | blog | 5 | 2026-03-31 |
 | Succinctness is Power | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
@@ -501,6 +504,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Dark Side of the 9-9-6 Work Culture⏰, AI's Impact on SaaS Growth🤖, VCs Are Rethinking Deal Sourcing🔍 | blog | 5 | 2026-03-30 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The economic consequences of the Iran war | blog | 5 | 2026-03-30 |
+| The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 5 | 2026-03-30 |
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
 | The Fall of the Nerds | blog | 5 | 2026-03-30 |
 | The Fatal Pinch | blog | 5 | 2026-03-31 |
@@ -835,6 +839,7 @@ Generated on 2026-04-05 | 2421 sources
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 4 | 2026-03-30 |
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
 | $1,000 Head Start For America's Youth | blog | 4 | 2026-03-30 |
+| 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 4 | 2026-03-30 |
 | 13 Essential Strategyzer Links On Organizational Culture | blog | 4 | 2026-03-31 |
 | 13 Traps That Can Render Your Market Research Irrelevant | blog | 4 | 2026-03-31 |
 | 14 Essential Links For Working With The Business Model Canvas | blog | 4 | 2026-03-31 |
@@ -933,6 +938,7 @@ Generated on 2026-04-05 | 2421 sources
 | Business Model Portfolio Part 1: Manage The Existing Business | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 3: The Business Portfolio Map | blog | 4 | 2026-03-31 |
+| Business Model Shifts: Netflix's Business Model Broken Down | blog | 4 | 2026-03-31 |
 | Business Strategy: The Business Model Patterns | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | Change Your Name | blog | 4 | 2026-03-31 |
@@ -1074,6 +1080,7 @@ Generated on 2026-04-05 | 2421 sources
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 4 | 2026-03-30 |
 | Schlep Blindness | blog | 4 | 2026-03-31 |
+| See Randomness | blog | 4 | 2026-03-31 |
 | Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 4 | 2026-03-30 |
 | Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 4 | 2026-03-30 |
 | Selling Innovation & Experimentation To A CFO | blog | 4 | 2026-03-31 |
@@ -1151,6 +1158,7 @@ Generated on 2026-04-05 | 2421 sources
 | Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 4 | 2026-03-30 |
 | Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 4 | 2026-03-30 |
 | Trolls | blog | 4 | 2026-03-31 |
+| TSMC Record Earnings and U.S. Expansion | blog | 4 | 2026-03-30 |
 | Two Kinds of Judgement | blog | 4 | 2026-03-31 |
 |  | blog | 4 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
@@ -2109,7 +2117,6 @@ Generated on 2026-04-05 | 2421 sources
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
-| 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 0 | 2026-03-30 |
 | 121 Startups Fundraising Right Now (With Pitch Decks) | Exclusive Deal Flow for 2025 | blog | 0 | 2026-03-30 |
 | 14 habits of highly effective product managers | blog | 0 | 2026-03-31 |
 | 144 Family Offices That Cut Pre-Seed Checks | blog | 0 | 2026-03-30 |
@@ -2206,7 +2213,6 @@ Generated on 2026-04-05 | 2421 sources
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
-| Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
 | China's Startup Scene📉, Illiquidity is a Feature💡, Scaling SaaS💻 | blog | 0 | 2026-03-30 |
 | Choosing The Final Frontier: Launching a Rocket Company with Andy Lapsa of Stoke Space | blog | 0 | 2026-03-31 |
 | Coatue’s 18-Chart Report: Why AI Is Still Early, Not a Bubble | blog | 0 | 2026-03-30 |
@@ -2309,7 +2315,6 @@ Generated on 2026-04-05 | 2421 sources
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
 | Megarounds make a comeback💰, The State of GenAI🤖, Doing Diligence Well🕵️ | blog | 0 | 2026-03-30 |
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
-| Monzo hits $5bn valuation 🚀, A Guide to Founder Salary 💵, Entrepreneurship in Africa 💡, & more! | blog | 0 | 2026-03-30 |
 | MVP Mastery: The Key to Building What Matters 📈 | blog | 0 | 2026-03-30 |
 | Novelty and Heresy | blog | 0 | 2026-03-31 |
 | One Year of The VC Corner: From 0 to 62,000 🚀 | blog | 0 | 2026-03-30 |
@@ -2329,10 +2334,8 @@ Generated on 2026-04-05 | 2421 sources
 | Power | blog | 0 | 2026-03-31 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
-| Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
-| See Randomness | blog | 0 | 2026-03-31 |
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
 | Short Dive: The Trump Administration's Fiscal Strategy | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
@@ -2340,7 +2343,6 @@ Generated on 2026-04-05 | 2421 sources
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
-| State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 0 | 2026-03-30 |
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Term Sheets Demystified 📄🤝 | blog | 0 | 2026-03-30 |
@@ -2350,7 +2352,6 @@ Generated on 2026-04-05 | 2421 sources
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
-| The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
@@ -2390,7 +2391,6 @@ Generated on 2026-04-05 | 2421 sources
 | The VC Corner 📰 #9 | blog | 0 | 2026-03-30 |
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
-| TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |

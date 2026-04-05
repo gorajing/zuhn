@@ -10,8 +10,8 @@
 - `INS-260327-E382` Venice endured as a republic for over 1,000 years with 117 successive doges, while surrounding monarchies rose and fell with their dynasties.
 - `INS-260330-2AC0` Sovereign wealth funds combine massive capital pools with minimal oversight, making them uniquely exploitable for large-scale fraud.
 - `INS-260327-7C1A` Russia was founded by Viking traders who established fortified trading posts along rivers connecting the Baltic to Constantinople — the trade route became the state.
-- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
+- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
@@ -37,9 +37,9 @@
 - `INS-260323-4AB5` Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.
 - `INS-260330-88DE` The Indus Valley maintained identical brick ratios and drainage standards across 1500km without any evidence of kings or central government.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
+- `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
 - `INS-260330-7462` Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260403-1325` Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.
-- `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.

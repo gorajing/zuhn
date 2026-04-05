@@ -32,9 +32,9 @@
 - `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
-- `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
-- `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
-- `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
+- `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
+- `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
+- `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.

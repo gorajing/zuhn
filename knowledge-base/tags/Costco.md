@@ -68,6 +68,12 @@
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260405-194D` Costco's average $21/hour wage (double retail average) produces 3x productivity, making it a unit-economics win rather than a values trade-off.
 - `INS-260403-83A8` Carrying 4,000 SKUs instead of 140,000 makes each slot so valuable that suppliers will cut prices and customize products to win placement.
+- `INS-260404-6A20` Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
+- `INS-260404-E1FF` Costco pays $21/hour (double retail average) with strong benefits, and gets employees three times more productive than competitors in return.
+- `INS-260404-1936` Costco's $21/hr average wage (2x retail average) produces employees 3x more productive than competitors.
+- `INS-260403-5CB5` Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
+- `INS-260403-365D` Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
+- `INS-260404-8D5F` Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.
 - `INS-260403-747B` Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260404-164F` Costco's $60 membership fee, confusing layout, and bulk-only format filter for affluent customers averaging $100K household income who spend more per visit.
 - `INS-260404-41AA` Costco's 15% markup cap, warehouse layout, and limited selection create interlocking efficiencies that compound into an unreplicable cost advantage.
@@ -77,9 +83,3 @@
 - `INS-260403-2AE7` Converting obstacles like confusing layouts and upfront fees into deal-hunting excitement and club exclusivity builds emotional loyalty that pure convenience cannot match.
 - `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
 - `INS-260403-137D` Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
-- `INS-260404-6A20` Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
-- `INS-260404-E1FF` Costco pays $21/hour (double retail average) with strong benefits, and gets employees three times more productive than competitors in return.
-- `INS-260404-1936` Costco's $21/hr average wage (2x retail average) produces employees 3x more productive than competitors.
-- `INS-260403-5CB5` Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
-- `INS-260403-365D` Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
-- `INS-260404-8D5F` Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.

@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3754 insights across 39 topics
+> 3759 insights across 40 topics
 
 ## Topics
 
@@ -8,7 +8,7 @@
 | ----- | -------- | ------- |
 | ai-business-models | 18 | AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record. |
 | bootstrapping | 35 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
-| business-models | 239 | Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere. |
+| business-models | 242 | Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere. |
 | co-founders | 44 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 47 | If you can't find one compelling phrase for your startup, your plans may not be focused enough — the description exercise is a focus test as much as a communication test. |
 | community-building | 2 | Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay. |
@@ -17,10 +17,11 @@
 | content-strategy | 37 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | decision-making | 1 | Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
+| disruption | 1 | Netflix's streaming shift wasn't just about convenience—it structurally expanded the addressable market by removing physical distribution constraints. |
 | engineering | 43 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
 | execution | 225 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 313 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
-| founder-psychology | 59 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
+| founder-psychology | 60 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 333 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
 | growth | 69 | When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth. |
 | growth-marketing | 128 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |

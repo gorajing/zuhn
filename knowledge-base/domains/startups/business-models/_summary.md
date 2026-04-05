@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 239 insights
+> 242 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -21,6 +21,7 @@
 - `INS-260404-7EFA` [high] Creating Business Model Canvases for external parties like competitors and partners exposes their motivations, constraints, and possibilities for collaboration or conflict.
 - `INS-260403-7E18` [high] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
 - `INS-260403-0414` [high] Durable competitive advantage comes from business model design, not product or technology superiority alone.
+- `INS-260405-1894` [high] Invincible companies reinvent their business model categories, not just their execution.
 - `INS-260403-BB23` [high] Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
 - `INS-260404-420F` [high] Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - `INS-260325-B8CB` [high] BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
@@ -173,6 +174,7 @@
 - `INS-260327-46F6` [high] When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychological
 - `INS-260330-EDAC` [high] After rapid expansion led to $1.5 million in debt from failing franchise stores, Domino's switched to requiring franchisees to successfully manage an existing store for a year before opening their own — with no upfront fee.
 - `INS-260327-DF8C` [high] Resource businesses that maximize short-term extraction rates deplete reserves faster, while those that manage sustainab
+- `INS-260405-FE86` [high] 23andMe turned its genetic database from a customer education tool into a drug discovery asset—the same resource, a second business.
 - `INS-260327-38F0` [high] Fast-food chains whose brand promise is consistency (every KFC tastes the same) lose to competitors whose promise is fre
 - `INS-260327-D794` [high] Restaurant formats designed to minimize operator skill requirements (assembly-line processes, standardized techniques) a
 - `INS-260403-C844` [high] Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
@@ -190,6 +192,7 @@
 - `INS-260404-D471` [high] Social activism and regulatory changes can render entire business models unviable, not just reduce margins.
 - `INS-260404-BCA2` [high] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.
 - `INS-260324-ABAC` [high] Steakhouses make up over half of the top 100 highest-grossing US restaurants because customers show up expecting to spend $50-100 per steak — the more predictable the menu and experience, the better.
+- `INS-260405-39F3` [high] Adobe's shift from selling licenses to selling Creative Cloud subscriptions transformed a lumpy transactional business into compounding recurring revenue.
 - `INS-260330-9137` [high] Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
 - `INS-260327-4ED3` [high] Subscriptions have been forced onto products that don't need them — heated car seats, printer ink, software — creating consumer resentment that is now driving backlash against all subscription models.
 - `INS-260327-B9BB` [high] The difference between gardening as a hobby and gardening as income is planning density -- specifically, succession planting where beds are never empty and each crop has a replacement already growing weeks ahead.

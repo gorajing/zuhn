@@ -45,7 +45,7 @@ related:
   - INS-260323-104E
   - INS-260327-0004
   - PRI-260328-0993
-  - INS-260324-62A8
+  - INS-260405-1894
 stance: >-
   The systematic replacement of marketing/sales CEOs with finance/analytics CEOs
   post-2011 created a corporate monoculture optimized for yesterday's ...

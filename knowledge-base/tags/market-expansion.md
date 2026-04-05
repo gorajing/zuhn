@@ -1,6 +1,7 @@
 # Tag: market-expansion
 
 - `INS-260327-5690` Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
+- `INS-260405-CF38` Netflix's streaming shift wasn't just about convenience—it structurally expanded the addressable market by removing physical distribution constraints.
 - `INS-260327-0A48` Under Armour's premium pricing ($25 tees when competitors sold for $10-15, $100 running shoes) built credibility with athletes and retailer confidence, but the same pricing became a barrier when they tried to reach mainstream consumers and international markets.
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260403-0550` Shared language and cultural similarity across LatAm countries dramatically reduces the friction of multi-country expansion compared to Europe's patchwork.

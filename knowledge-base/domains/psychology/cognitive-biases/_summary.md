@@ -1,11 +1,12 @@
 # Topic: cognitive-biases
 
-> 285 insights
+> 287 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260330-FC6E` [high] Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this.
 - `INS-260330-3260` [high] Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation.
+- `INS-260405-AF1E` [high] History's biggest paradigm shifts — heliocentrism, evolution, selfish gene — all share a single move: removing humans from the center of the story.
 - `INS-260330-C8B4` [high] Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
 - `INS-260323-4E23` [high] What looks like intentional strategy in evolution is actually 'simple chemistry that happens to work well and propagates' -- the same applies to business success stories.
 - `INS-260330-FCFA` [high] True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
@@ -139,6 +140,7 @@
 - `INS-260330-F737` [high] Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - `INS-260330-716C` [high] Tyson identifies at least four stacking biases in the search for extraterrestrial life (carbon, planet, habitable zone, intelligence), each of which independently narrows the search space.
 - `INS-260330-F909` [high] Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
+- `INS-260405-FE57` [high] The tendency to see purpose in random events is the brain's default, not the result of deliberate reasoning.
 - `INS-260403-28C7` [high] We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - `INS-260404-E185` [high] Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
 - `INS-260405-02EE` [high] Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.

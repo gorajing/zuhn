@@ -28,6 +28,6 @@
 - `INS-260325-175B` Ron from Open Router cited a Brazilian chat app that looks generic on the surface but succeeds because it is deeply localized for Brazilian preferences, search patterns, and model optimization.
 - `INS-260403-E86E` The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
-- `INS-260403-04AF` Software IP is nearly worthless as a moat because the field evolves faster than patents can protect, but bio/techbio IP remains a genuine durability source.
 - `INS-260327-C900` Susan turned Tesla saying no to home supercharging into a multi-million dollar business by solving the problem herself.
 - `INS-260404-C1C1` NFX's AI Litmus Test asks founders how long it would take a user to do their core task with ChatGPT+, directly measuring defensibility.
+- `INS-260403-04AF` Software IP is nearly worthless as a moat because the field evolves faster than patents can protect, but bio/techbio IP remains a genuine durability source.

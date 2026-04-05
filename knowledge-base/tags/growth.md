@@ -7,8 +7,8 @@
 - `INS-260325-58F5` Lower the bar of the first step until you find a version you are actually willing to do right now.
 - `INS-260330-A47B` Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.
 - `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
-- `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
+- `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260402-2632` Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - `INS-260403-D2A9` Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
@@ -36,8 +36,6 @@
 - `INS-260323-4DF1` Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
 - `INS-260403-1A08` Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
 - `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
-- `INS-260403-57FF` If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
-- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
 - `INS-260404-D1F6` The Calvin Cycle produces 6 G3P molecules but only 1 exits — 83% is reinvested to keep the cycle running.
@@ -45,3 +43,5 @@
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
 - `INS-260404-087C` End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.
 - `INS-260330-D1C8` Non-users reveal the barriers preventing market expansion, which existing users and competitor users cannot articulate.
+- `INS-260403-57FF` If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
+- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.

@@ -48,11 +48,11 @@ stance: >-
   engineered through unique positioning, and most people underinvest in the
   higher-controllability types.
 related:
-  - INS-260402-9093
   - INS-260403-147C
   - INS-260402-33CA
   - INS-260328-68BA
-  - INS-260402-CCC3
+  - INS-260405-AEA0
+  - INS-260402-9093
 ---
 Naval identifies four distinct types of luck: blind luck (pure chance), hustle luck (generated through volume of activity), skill luck (pattern recognition from domain expertise), and character luck (unique positioning that attracts opportunities to you). The key insight is that these form a controllability gradient — each successive type gives you more agency over outcomes.
 

@@ -53,8 +53,8 @@ related:
   - INS-260330-D801
   - INS-260403-462F
   - INS-260403-E25F
-  - INS-260403-B5A5
   - INS-260403-98F3
+  - INS-260405-1894
   - INS-260403-C8B9
 ---
 Established business models operate in known environments where forecasts are reliable and performance projections make sense. People are evaluated on hitting targets, and failure is unacceptable. New business models operate in the unknown — projections are meaningless, and the goal is hypothesis testing through small experiments. When companies apply execution-mode governance to invention-mode work, they optimize for predictability at the cost of discovery.

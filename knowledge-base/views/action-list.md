@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 4011 actionable insights
+Generated on 2026-04-05 | 4015 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1060,6 +1060,7 @@ Generated on 2026-04-05 | 4011 actionable insights
 - [INS-260404-B8D9] Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
 - [INS-260404-E185] Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
 - [INS-260405-9F38] Optional subscriptions self-select for rational evaluators who keep comparing prices; mandatory ones commit everyone equally.
+- [INS-260405-FE57] The tendency to see purpose in random events is the brain's default, not the result of deliberate reasoning.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1165,7 +1166,6 @@ Generated on 2026-04-05 | 4011 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
-- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -1173,6 +1173,7 @@ Generated on 2026-04-05 | 4011 actionable insights
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
+- [INS-260405-F7FA] All else being equal, bet against the explanation where you are the protagonist.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -2007,6 +2008,8 @@ Generated on 2026-04-05 | 4011 actionable insights
 - [INS-260404-BCA2] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.
 - [INS-260404-BA8B] Visual canvases like the Business Model Canvas create shared language that reduces misalignment in strategic discussions.
 - [INS-260405-D9C8] Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
+- [INS-260405-FE86] 23andMe turned its genetic database from a customer education tool into a drug discovery asset—the same resource, a second business.
+- [INS-260405-39F3] Adobe's shift from selling licenses to selling Creative Cloud subscriptions transformed a lumpy transactional business into compounding recurring revenue.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2762,6 +2765,7 @@ Generated on 2026-04-05 | 4011 actionable insights
 - [INS-260403-DAB1] Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.
 - [INS-260403-D833] Fighting forces your brain into trick-finding mode instead of big-idea mode, making meanness a direct cognitive handicap for founders.
 - [INS-260404-924C] Founders confuse their inability to think of alternative names with the belief that no better alternatives exist.
+- [INS-260405-AEA0] Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.

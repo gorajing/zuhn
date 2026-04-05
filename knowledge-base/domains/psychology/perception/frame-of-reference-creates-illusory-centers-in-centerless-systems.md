@@ -48,10 +48,10 @@ stance: >-
   privileged position, even in systems with no center at all
 related:
   - INS-260325-0A81
+  - INS-260405-AF1E
   - PRI-260323-6644
   - INS-260403-5808
   - INS-260327-EDE4
-  - PRI-260323-D475
 evidence:
   - id: INS-260325-0A81
     type: SUPPORTS

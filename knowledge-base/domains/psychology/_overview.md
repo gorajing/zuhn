@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2130 insights across 22 topics
+> 2133 insights across 22 topics
 
 ## Topics
 
@@ -8,11 +8,11 @@
 | ----- | -------- | ------- |
 | behavior-change | 21 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
 | cognition | 83 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
-| cognitive-biases | 285 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
+| cognitive-biases | 287 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 47 | Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered. |
 | consciousness | 96 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
 | decision-making | 99 | Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search. |
-| epistemics | 3 | History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence. |
+| epistemics | 4 | History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence. |
 | expertise | 65 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
 | focus | 174 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 19 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |

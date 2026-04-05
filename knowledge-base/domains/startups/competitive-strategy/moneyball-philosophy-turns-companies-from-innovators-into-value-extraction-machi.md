@@ -46,11 +46,11 @@ related:
   - PRI-260324-12CF
   - INS-260403-2B6E
   - INS-260327-78A0
-  - INS-260324-92E9
   - INS-260323-B0EA
   - INS-260324-DC98
   - INS-260327-95C6
   - INS-260327-4081
+  - INS-260403-DF73
 stance: >-
   The Moneyball mindset — data over instinct, singles over home runs — gave
   corporations intellectual cover to rebrand cost-cutting as innovation, sy...

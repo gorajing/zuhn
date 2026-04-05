@@ -8,6 +8,6 @@
 - `INS-260330-8326` Apple's refusal to make large acquisitions is its competitive advantage, not a missed opportunity.
 - `INS-260330-A660` Tax optimization strategies like the Double Irish Dutch Sandwich create temporary advantages that inevitably attract regulatory attention proportional to their scale.
 - `INS-260405-0271` Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
+- `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-7ECB` Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
 - `INS-260323-2DB0` Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
-- `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.

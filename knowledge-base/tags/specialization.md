@@ -12,15 +12,15 @@
 - `INS-260403-41BC` Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 - `INS-260327-C571` Finkel can read cuneiform scripts that perhaps only a handful of people alive can read - when these scholars die, the ability to directly access thousands of ancient texts may die with them.
 - `INS-260322-54F3` The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.
-- `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260327-E3DE` A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
 - `INS-260330-ACCD` China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260330-9055` General-purpose editors win breadth but specialized IDEs win depth for committed platform developers.
+- `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260330-73C1` The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
 - `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
 - `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260330-4A1F` Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
 - `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
-- `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
+- `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.

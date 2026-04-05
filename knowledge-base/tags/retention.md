@@ -6,7 +6,6 @@
 - `INS-260329-820D` Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
 - `INS-260330-2DB0` Reinventing concepts through play before formal study turns them into 'familiar friends' rather than arbitrary definitions.
 - `INS-260330-677A` John Gottman's four horsemen of relationship failure (criticism, contempt, defensiveness, stonewalling) map precisely to customer support anti-patterns that cause churn.
-- `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260404-DD00` Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
@@ -32,11 +31,11 @@
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
 - `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
+- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
 - `INS-260404-CEA8` Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
 - `INS-260404-0572` Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
 - `INS-260404-E1B0` Costco pays $21/hour (double retail average) and gets 3x the productivity per employee in return.
 - `INS-260404-20AD` Costco pays $21/hour (2x retail average) and gets 3x productivity, suggesting high wages are an investment with positive ROI in high-volume operations.
-- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260327-BEEE` Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
 - `INS-260327-8388` AI apps have lower daily-to-monthly active user ratios and worse retention than mobile peers, signaling that the transition from weekly tinkering to daily habit is the key unsolved product problem.
@@ -46,9 +45,10 @@
 - `INS-260403-3656` Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 - `INS-260327-9AD8` Optimizely closed six-figure deals where customers never ran a single A/B test because they treated implementation as the customer's job -- the fix was project-managing implementation like a high-priority internal project.
 - `INS-260327-A814` After the initial close, future-pace the customer: 'People love texting me when they hit their first milestone -- would you keep me in the loop on your transformation?' This cements commitment and shifts you from sales rep to partner.
+- `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
-- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
 - `INS-260404-E1FF` Costco pays $21/hour (double retail average) with strong benefits, and gets employees three times more productive than competitors in return.
 - `INS-260403-365D` Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
 - `INS-260404-EE20` Costco pays $21/hour (2x retail average) and gets 3x productivity, proving high wages can be the economically rational choice.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.

@@ -49,10 +49,9 @@ related:
   - INS-260403-8CDD
   - INS-260403-E25F
   - INS-260403-219E
+  - INS-260405-1894
   - INS-260403-42F2
   - INS-260403-2E0F
-  - INS-260404-BD46
-  - INS-260403-F590
 ---
 The case study describes a team that iterated their business model four times in 12 weeks using structured innovation sprints, ultimately delivering an evidence-based presentation to their project sponsor. This speed was enabled by having access to pre-built e-learning modules, workshops, and structured workflows rather than designing processes from scratch.
 

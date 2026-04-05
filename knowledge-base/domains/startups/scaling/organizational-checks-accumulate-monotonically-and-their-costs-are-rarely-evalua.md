@@ -48,10 +48,10 @@ stance: >-
   each new check is invisible while the disaster it prevents is vivid
 related:
   - INS-260403-83C7
-  - INS-260404-7C3F
   - INS-260403-696C
   - INS-260404-30CA
   - INS-260404-83D5
+  - INS-260329-36D9
 ---
 Organizations naturally accumulate checks and approval processes in response to past disasters—a supplier goes bankrupt, so now all suppliers must prove solvency. This learning process is rational at the individual-check level but pathological in aggregate because no one accounts for the cumulative cost.
 

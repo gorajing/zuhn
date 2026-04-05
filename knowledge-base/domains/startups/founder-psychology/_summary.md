@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 59 insights
+> 60 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -52,6 +52,7 @@
 - `INS-260323-E2ED` [medium] When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260328-9574` [medium] People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
 - `INS-260403-0CCB` [medium] Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.
+- `INS-260405-AEA0` [medium] Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260405-F5D8` [medium] Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
 - `INS-260403-9F9F` [medium] People who want to get rich by changing the world work harder and build better products than those optimizing purely for money.
 - `INS-260403-3E9A` [medium] Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.

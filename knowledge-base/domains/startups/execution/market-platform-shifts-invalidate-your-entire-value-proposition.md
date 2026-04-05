@@ -47,8 +47,8 @@ related:
   - INS-260320-630D
   - INS-260403-5D89
   - INS-260327-77C7
+  - INS-260405-CF38
   - PRI-260328-78A5
-  - PRI-260328-8F94
   - INS-260403-0CA9
 ---
 Bruce's startup began as P2P CDN (saving bandwidth costs), pivoted to video sharing (lost to YouTube), then pivoted to enterprise video management. Over 9 years, two mega platform shifts — AWS dropping server costs and the iPhone creating mobile video consumption — fundamentally changed the market. The P2P value proposition evaporated when bandwidth became cheap. The lesson: founders deep in execution often miss macro shifts that obsolete their core thesis. Periodic stepping back to assess whether the fundamental market conditions still support your value proposition is essential.

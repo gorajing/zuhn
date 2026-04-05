@@ -54,6 +54,6 @@ related:
   - INS-260330-AFF8
   - PRI-260325-45A2
   - INS-260402-D0F3
-  - INS-260403-7342
+  - INS-260405-FE57
 ---
 Ben Shapiro articulates a quantified version of Hanlon's Razor: 90-94% of political events that spawn conspiracy theories are better explained by incompetence than malice. He illustrates with Trump's classified documents (likely just 'I like these papers') and Hunter Biden's Ukraine consulting (likely fake influence peddling that went nowhere). The mechanism is evolutionary — humans survived by finding patterns in the wild, cracking codes of the universe. When applied to inexplicable political events, this same machinery forces us to construct increasingly convoluted conspiracy theories rather than accept the mundane explanation of cascading stupidity. The antidote is defaulting to the stupidity hypothesis and requiring extraordinary evidence before upgrading to conspiracy. This has practical implications for media literacy and political analysis — the simplest explanation should be exhausted before reaching for coordinated malice.

@@ -15,8 +15,8 @@
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
 - `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
-- `INS-260405-FBF1` An innovation Sharpe Ratio gives CFOs a risk-adjusted metric to compare experimentation against other asset classes rather than treating it as pure cost.
 - `INS-260328-AB0C` Much AI-era ARR is run-rate revenue from usage-based pricing, multiplied by 12, on customers who could leave tomorrow.
+- `INS-260405-FBF1` An innovation Sharpe Ratio gives CFOs a risk-adjusted metric to compare experimentation against other asset classes rather than treating it as pure cost.
 - `INS-260323-D621` If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260405-0271` Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.

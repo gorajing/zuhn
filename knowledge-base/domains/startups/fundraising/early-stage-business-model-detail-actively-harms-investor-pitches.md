@@ -48,8 +48,6 @@ stance: >-
   counterproductive because the model is almost certainly wrong and displaces
   discussion of the problem and solution where founders have genuine expertise.
 related:
-  - PRI-260324-A608
-  - INS-260329-9A8B
   - INS-260405-D6B9
   - INS-260404-93E3
   - INS-260403-A709

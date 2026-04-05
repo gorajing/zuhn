@@ -6,10 +6,13 @@
 - `INS-260403-7B3B` AI influencer agencies eliminate talent management costs while capturing the full revenue stream that traditionally splits between creator and agency.
 - `INS-260322-FCFC` Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
 - `INS-260403-0414` Durable competitive advantage comes from business model design, not product or technology superiority alone.
+- `INS-260405-1894` Invincible companies reinvent their business model categories, not just their execution.
 - `INS-260405-06B0` When membership fees are the primary revenue source, delivering customer value isn't optional — it's arithmetically mandatory.
 - `INS-260405-48EC` When membership fees are the primary revenue source, the company is structurally forced to keep product prices low to drive renewals.
 - `INS-260405-D4F4` Making membership the revenue source (not a loyalty add-on) structurally forces a company to serve customers rather than extract from them.
 - `INS-260405-051E` Costco makes 75% of revenue from membership fees, so it profits by impressing customers with low prices rather than extracting margin from each sale.
+- `INS-260405-FE86` 23andMe turned its genetic database from a customer education tool into a drug discovery asset—the same resource, a second business.
+- `INS-260405-39F3` Adobe's shift from selling licenses to selling Creative Cloud subscriptions transformed a lumpy transactional business into compounding recurring revenue.
 - `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - `INS-260327-D285` Don't just build a better product—build a business model that makes incumbents look exploitative.
 - `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
@@ -22,9 +25,9 @@
 - `INS-260404-5721` Smart investors expect early-stage business models to be wrong, so pitch time is better spent on the problem and solution.
 - `INS-260405-4FC0` At early stage, detailed business model discussion consumes time from your strong suit and exposes your weak one.
 - `INS-260327-58AC` Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.
+- `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.
 - `INS-260322-229C` Most of the world's most successful companies made their real money not from their core product but from a first derivative of it — Union Pacific from land sales, Google from ads on search, Shopify from payments on commerce.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260405-8884` Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
 - `INS-260403-DB16` Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
 - `INS-260323-104E` Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
-- `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.

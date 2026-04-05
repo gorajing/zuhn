@@ -15,11 +15,11 @@
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
 - `INS-260403-D0B9` MoE architectures let smaller labs like Mistral compete with frontier labs by using compute more efficiently.
+- `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
+- `INS-260404-A08A` The electron transport chain loses energy at every step, but each step performs a distinct useful function — a design pattern that applies to any multi-stage data or inference pipeline.
 - `INS-260327-7214` Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
 - `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
-- `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
-- `INS-260404-A08A` The electron transport chain loses energy at every step, but each step performs a distinct useful function — a design pattern that applies to any multi-stage data or inference pipeline.
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-03B0` CS50P's curriculum progression from variables to functions to libraries to classes teaches the same abstraction layering principle that governs good software architecture.
 - `INS-260329-9FE0` CS50 Python's curriculum structure — building from functions to libraries to classes — mirrors how well-designed software systems layer abstractions.
@@ -58,16 +58,16 @@
 - `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
 - `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.
 - `INS-260330-181B` Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
+- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260329-003B` Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.
 - `INS-260329-818A` HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
-- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260403-3F05` RuBisCo shows how early design choices become permanent constraints that systems compensate around rather than replace.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
+- `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260404-B7B6` RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
 - `INS-260330-48F2` RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260403-818F` RuBisCo was built for a low-oxygen world and became too entrenched to replace when oxygen levels rose, forcing plants to build workarounds instead.
 - `INS-260404-9229` When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
-- `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.

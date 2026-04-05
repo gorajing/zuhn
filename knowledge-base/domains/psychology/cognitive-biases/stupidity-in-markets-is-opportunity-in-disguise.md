@@ -49,8 +49,8 @@ related:
   - INS-260403-876D
   - INS-260403-147C
   - INS-260323-7E6F
+  - INS-260405-AEA0
   - PRI-260322-9E36
-  - INS-260402-CCC3
 ---
 Graham frames the VC industry's conservatism not as a lament but as a market opportunity: 'the exciting thing about market economies is that stupidity equals opportunity.' When an entire industry systematically misprices assets — in this case, VCs undervaluing innovative startups — the inefficiency creates space for new entrants who can capture the value incumbents leave on the table.
 

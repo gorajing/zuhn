@@ -8,9 +8,9 @@
 - `INS-260325-58F5` Lower the bar of the first step until you find a version you are actually willing to do right now.
 - `INS-260325-C8D5` For any feared activity, keep lowering the scale until you find a version you're willing to do right now — that minimum viable increment bypasses resistance entirely.
 - `INS-260403-0B99` Adults avoid new disciplines not from inability but from fear that replaces teenage ignorance-driven confidence.
+- `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260403-53D9` Creepiness is a specific cognitive state triggered when something is maybe-threatening but maybe-not, leaving the brain unable to commit to fight-or-flight.
 - `INS-260327-1845` Ask 'what would I do if I weren't afraid?' and notice how many of your current life choices are fear-avoidance rather than genuine pursuit.
-- `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260329-8B1C` Spelling out worst-case scenarios in concrete steps reveals that the feared outcome is almost always a manageable experience rather than a catastrophe.
 - `INS-260403-2074` If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260403-37FD` Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.

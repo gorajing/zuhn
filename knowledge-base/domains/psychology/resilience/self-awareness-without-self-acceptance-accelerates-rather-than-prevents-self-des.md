@@ -56,8 +56,8 @@ related:
   - INS-260329-4499
   - INS-260330-BA3A
   - INS-260330-B67C
+  - INS-260404-7C3F
   - INS-260325-05E4
-  - INS-260327-B64B
 ---
 Scott Adams was remarkably self-aware — he could laugh at his restaurant failures, acknowledged his Dilberito was terrible, and understood intellectually that he was a world-class cartoonist trying to be something else. But self-awareness without acceptance is like a diagnosis without treatment: it makes the condition more visible without resolving it. Adams could see the trap clearly yet remained caught in it, because seeing the problem and accepting it are fundamentally different psychological operations.
 
