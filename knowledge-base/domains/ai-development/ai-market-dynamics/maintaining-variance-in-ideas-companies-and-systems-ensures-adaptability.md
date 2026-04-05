@@ -46,10 +46,10 @@ resolutions:
     approach. Maintain parallel experiments.
 related:
   - INS-260323-1D15
+  - INS-260404-5CC6
   - INS-260323-FFE8
   - INS-260325-502D
   - PRI-260328-4CC0
-  - INS-260329-6D3B
 stance: >-
   Healthy competition across ideas, companies, products, and cultures —
   maintaining variance — is what keeps complex systems adaptive and growing.

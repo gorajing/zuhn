@@ -47,10 +47,10 @@ stance: >-
   incumbents in their space are more vulnerable than they appear.
 related:
   - INS-260330-50B3
+  - INS-260404-8CEE
   - INS-260326-6870
   - INS-260323-E81D
   - INS-260404-D0D8
-  - INS-260403-91DB
   - INS-260330-2200
 evidence:
   - id: INS-260330-CA97

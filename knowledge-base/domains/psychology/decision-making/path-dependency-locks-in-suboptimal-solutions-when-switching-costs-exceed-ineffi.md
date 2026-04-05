@@ -51,7 +51,6 @@ stance: >-
   indefinitely rather than switch, even when the environment changes to make the
   strategy half-broken.
 related:
-  - INS-260326-2C4E
   - INS-260403-A907
   - INS-260404-3608
   - PRI-260403-40D7

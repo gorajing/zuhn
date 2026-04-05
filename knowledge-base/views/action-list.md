@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3879 actionable insights
+Generated on 2026-04-05 | 3886 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -402,6 +402,7 @@ Generated on 2026-04-04 | 3879 actionable insights
 
 ## ai-development/systems-design
 - [INS-260404-59B6] Chloroplasts charge thylakoids like batteries by pumping protons steadily, then release them through ATP synthase — the biological equivalent of a message queue enabling batch processing.
+- [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
 
 ## automation/content-creation
 - [INS-260320-D58E] An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
@@ -425,6 +426,9 @@ Generated on 2026-04-04 | 3879 actionable insights
 - [INS-260320-0063] n8n workflows can be exported as JSON and shared on GitHub with Google Doc templates -- the business analysis workflow repo has 98 stars and is MIT licensed.
 - [INS-260320-B8B0] Use Linkfinder AI as a proxy for LinkedIn scraping — no direct LinkedIn API connection means zero ban risk for your personal account.
 - [INS-260320-6845] An n8n workflow pulls YouTube links from Google Sheets, extracts transcripts via Dumpling AI, transforms them into newsletter drafts with GPT-4o, and logs results back to Sheets.
+
+## automation/pipelines
+- [INS-260404-3ABF] Sequential pipelines need periodic energy re-injection to sustain throughput, not just extraction at each stage.
 
 ## automation/self-improving-systems
 - [INS-260322-D6D7] Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does the hook describe a result, not a feature?') to make optimization machine-readable and eliminate subjectivity.
@@ -1077,6 +1081,7 @@ Generated on 2026-04-04 | 3879 actionable insights
 - [INS-260404-A526] Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - [INS-260404-0AF3] Crafting a sticky one-phrase description of your startup is both a memorability tactic and a litmus test for whether your strategy is focused enough.
 - [INS-260404-E4B8] Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
+- [INS-260404-18F1] Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -2932,6 +2937,10 @@ Generated on 2026-04-04 | 3879 actionable insights
 - [INS-260404-16E1] Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - [INS-260404-D543] As your startup description approaches 'could be anything,' its information content approaches zero—start narrow and expand.
 - [INS-260404-3713] Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
+- [INS-260404-7060] Deliberately concentrating resources behind a bottleneck and releasing them through one optimized channel creates disproportionate output.
+- [INS-260404-ED0F] With limited time and technical understanding, investors use your confidence as a proxy for product quality — but it must be shown, never stated.
+- [INS-260404-A450] As your startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.
+- [INS-260404-3B9E] Investors' top fear is you built something nobody wants — specific user stories and 'proxy for demand' evidence neutralize this better than market size numbers.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

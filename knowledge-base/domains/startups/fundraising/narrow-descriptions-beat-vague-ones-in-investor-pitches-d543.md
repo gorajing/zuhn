@@ -48,7 +48,6 @@ stance: >-
   A specific, possibly too-narrow description of your startup is more effective
   with investors than a broad one that captures all possibilities
 related:
-  - INS-260403-8013
   - INS-260403-6712
   - INS-260403-F981
   - INS-260404-F560
@@ -58,6 +57,7 @@ related:
   - INS-260404-FE9F
   - INS-260404-167D
   - INS-260404-C03F
+  - INS-260404-A450
 ---
 Founders resist concise descriptions because early-stage startups have many possibilities, and a tight description feels misleadingly narrow. But Graham argues this instinct is backwards: as you approach a description of something that could be anything, the content approaches zero. Investors will discard vague language like 'collaboratively leverage the value of information' as meaningless boilerplate.
 

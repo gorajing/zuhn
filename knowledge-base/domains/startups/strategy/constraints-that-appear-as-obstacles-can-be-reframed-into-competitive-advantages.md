@@ -58,6 +58,7 @@ related:
   - INS-260404-029D
   - INS-260404-FB91
   - INS-260404-EC27
+  - INS-260404-79EC
 ---
 Costco turns nearly every apparent disadvantage into a strategic filter. The membership fee selects for affluent households (average income ~$100K). The warehouse layout forces wandering through aisles, increasing impulse purchases. Bulk quantities attract business owners who make up one-third of members but two-thirds of sales. Even the lack of decoration signals 'we spend money on low prices, not aesthetics.'
 

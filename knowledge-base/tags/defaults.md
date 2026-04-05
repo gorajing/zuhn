@@ -7,6 +7,6 @@
 - `INS-260330-BCD8` Most users never change default settings — making ignorance and apathy the most reliable distribution channels in tech.
 - `INS-260330-2CE3` Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-7DAA` Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
-- `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260403-DF37` Big company jobs are the career equivalent of junk food—cheap, branded, immediately satisfying, but intellectually corrosive over time.
+- `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260322-4F7A` Life defaults are like software defaults — you can only change one or two at a time, and each change requires total commitment or the system reverts you back.

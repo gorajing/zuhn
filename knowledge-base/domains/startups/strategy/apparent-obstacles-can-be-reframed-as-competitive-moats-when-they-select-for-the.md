@@ -48,9 +48,9 @@ related:
   - INS-260404-30CA
   - INS-260404-E65A
   - INS-260404-86F8
+  - INS-260404-79EC
   - INS-260404-B086
   - INS-260404-6E7B
-  - INS-260404-50A7
   - INS-260404-EC27
 ---
 Costco's membership fee selects for households with ~$100K average income, and business owners who make up one-third of members but two-thirds of sales. The maze-like warehouse layout forces wandering through aisles, increasing incidental purchases. These 'obstacles' would destroy a conventional retailer but create competitive advantages for Costco's model. This mirrors IKEA's do-it-yourself assembly model, which transforms a cost-saving measure into customer pride. The broader principle: friction that seems universally negative can become a strategic asset when it selects for or psychologically engages your target customer segment. The key is understanding which friction filters and which friction repels.

@@ -53,11 +53,11 @@ related:
   - INS-260403-6712
   - INS-260403-39B0
   - INS-260403-F981
+  - INS-260404-A450
   - INS-260404-72EE
   - INS-260404-D543
   - INS-260404-FE9F
   - INS-260404-0BB0
-  - INS-260404-8AB9
   - INS-260404-C03F
 ---
 Founders resist narrow descriptions because early-stage startups have many possibilities. But Paul Graham argues this is precisely the wrong instinct: the more general your description, the less memorable and useful it becomes. 'A system to allow people to collaboratively leverage the value of information' conveys nothing, while 'an easy web-based database' is immediately graspable.

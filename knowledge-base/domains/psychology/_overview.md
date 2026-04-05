@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2062 insights across 20 topics
+> 2064 insights across 20 topics
 
 ## Topics
 
@@ -8,8 +8,8 @@
 | ----- | -------- | ------- |
 | behavior-change | 20 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
 | cognition | 77 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
-| cognitive-biases | 272 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
-| communication | 40 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
+| cognitive-biases | 273 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
+| communication | 41 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
 | consciousness | 96 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
 | decision-making | 93 | Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search. |
 | expertise | 64 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |

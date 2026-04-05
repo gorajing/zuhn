@@ -54,6 +54,6 @@ related:
   - INS-260403-C0FE
   - INS-260403-AABF
   - INS-260403-951B
-  - INS-260403-3F05
+  - INS-260404-2AA1
 ---
 Aereo's Supreme Court loss demonstrates that brilliant technical workarounds for regulatory constraints don't constitute a business model strategy. The company's antenna-based streaming was technically creative but legally vulnerable, and no amount of product iteration could fix a business model built on a regulatory grey area. Uber and Airbnb survived similar challenges because they built enough user demand and economic impact to shift the regulatory landscape—but this is the exception, not the rule, and required massive capital reserves to sustain the legal fights. The key distinction is between designing a business model that accounts for regulatory reality versus hoping regulators won't notice or care. For founders in regulated industries, the regulatory strategy IS the business strategy.

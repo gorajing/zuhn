@@ -44,7 +44,6 @@ stance: >-
   The most transformative outputs of a system are often unintended side effects
   rather than the designed primary product
 related:
-  - INS-260330-413D
   - INS-260330-C607
   - INS-260330-3AB4
   - INS-260330-E786

@@ -59,7 +59,6 @@ related:
   - INS-260404-CFD5
   - INS-260404-5343
   - INS-260403-A290
-  - INS-260404-EBB3
 ---
 Graham identifies a sharp asymmetry in how confidence signals are processed. Explicit claims ('we're passionate,' 'our product is great') are filtered out or actively penalized — audiences treat them as empty rhetoric or, worse, as bullshitter markers. But the same underlying message conveyed through body language, demo quality, and the way you talk about the problem lands with full force.
 

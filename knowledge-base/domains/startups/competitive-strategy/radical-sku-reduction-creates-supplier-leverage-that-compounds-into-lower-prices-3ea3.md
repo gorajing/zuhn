@@ -53,6 +53,7 @@ related:
   - INS-260403-DC2D
   - INS-260404-6945
   - INS-260404-7F16
+  - INS-260404-1B66
 ---
 By stocking only ~4,000 unique items compared to 30,000 at a typical supermarket or 140,000 at Walmart, Costco creates a winner-take-all dynamic among suppliers. Companies compete fiercely to be the one or two choices in each category, accepting lower margins and even reengineering products to Costco's specifications (e.g., redesigning cashew containers to save 24,000 pallets annually).
 

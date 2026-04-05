@@ -52,8 +52,8 @@ related:
   - INS-260330-E811
   - INS-260403-7C67
   - INS-260323-3ADC
+  - INS-260404-5CC6
   - INS-260402-6BB6
-  - INS-260403-160A
 ---
 Graham identifies the absence of investors as Pittsburgh's hardest problem and argues there's no shortcut. Silicon Valley's investor community took 50 years to develop; New York's emerged from its existing money culture. Neither model can be replicated on demand. The only path is: make the city great for startups → some stick around → some succeed → some founders become investors → more startups stick.
 

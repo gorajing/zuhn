@@ -53,7 +53,6 @@ stance: >-
   becomes the most important strategic question post-PMF, and founders should
   view incumbent competition as a sign they're playing in a market worth winning
 related:
-  - INS-260323-E2DD
   - INS-260325-C29B
   - INS-260329-8DE7
   - INS-260329-BB8F

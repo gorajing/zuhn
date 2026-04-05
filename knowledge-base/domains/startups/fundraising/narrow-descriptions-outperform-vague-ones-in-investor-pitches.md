@@ -49,12 +49,11 @@ stance: >-
   investor interest than those who use broad language trying to capture all
   possibilities.
 related:
-  - INS-260403-6712
   - INS-260403-39B0
   - INS-260404-0430
-  - INS-260404-F560
-  - INS-260404-72EE
   - INS-260404-C03F
+  - INS-260403-6712
+  - INS-260404-F560
   - INS-260404-D543
   - INS-260404-FE9F
 ---

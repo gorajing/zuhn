@@ -56,6 +56,6 @@ related:
   - INS-260404-3156
   - INS-260404-86F8
   - INS-260404-3D8F
-  - INS-260404-029D
+  - INS-260404-AC1B
 ---
 Costco's mandatory membership fee appears to be an acquisition barrier — you can't even enter without paying. But this obstacle performs three strategic functions simultaneously: it filters for an affluent demographic (average household income ~$100K), it triggers sunk-cost psychology that reduces comparison shopping ('I already paid, so I should use it'), and it selects for business owners who account for one-third of members but two-thirds of sales. Similarly, the confusing warehouse layout that should annoy shoppers instead creates a treasure-hunt mentality that increases impulse discovery. This pattern — where what looks like a disadvantage becomes a moat — appears across successful businesses. The key insight is that not all friction is bad; strategically placed friction can filter, commit, and engage your best customers.

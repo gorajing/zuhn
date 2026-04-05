@@ -56,6 +56,7 @@ related:
   - INS-260404-D0D8
   - INS-260403-87BE
   - INS-260403-6CA8
+  - INS-260404-8CEE
   - INS-260404-96E6
 ---
 The narrative of an 'Amazon-driven retail apocalypse' oversimplifies what actually happened. Sears tried to do everything poorly, J.C. Penney lost touch with its customers, and Toys-R-Us dismissed the internet. Meanwhile, physical retailers like Ross, Lush, Aldi, Dollar General, and Costco grew during the same period by offering distinctive value propositions that e-commerce couldn't easily replicate.

@@ -50,10 +50,10 @@ related:
   - INS-260321-7D76
   - INS-260329-9074
   - INS-260329-F4CD
+  - INS-260404-7060
   - PRI-260321-14D8
   - INS-260327-DECA
   - PRI-260323-ADA4
-  - INS-260403-A907
 ---
 Graham kept HN running through 14x growth on Arc — a language designed for language experimentation, not performance — by following McIlroy and Bentley's principle: 'The key to performance is elegance, not battalions of special cases.' Each time the site slowed, he looked for the one bottleneck removable with the least code.
 

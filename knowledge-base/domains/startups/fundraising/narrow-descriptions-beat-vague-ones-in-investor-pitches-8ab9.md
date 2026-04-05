@@ -50,8 +50,8 @@ related:
   - INS-260404-D543
   - INS-260403-F981
   - INS-260403-6712
+  - INS-260404-A450
   - INS-260404-72EE
-  - INS-260404-F560
   - INS-260404-71F3
 ---
 Paul Graham observes that founders resist narrow descriptions because their product could become so much more. But the calculus metaphor is precise: as you approach a description of something that could be anything, the content approaches zero. Investors hear 'a system to collaboratively leverage the value of information' and tune out.

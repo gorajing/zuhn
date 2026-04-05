@@ -50,11 +50,11 @@ stance: >-
   users with real needs are the most effective way to neutralize that fear.
 related:
   - INS-260330-F125
+  - INS-260404-3B9E
   - INS-260403-1444
   - INS-260404-9E71
   - INS-260403-8F31
   - INS-260404-CF2A
-  - INS-260404-4F3A
 ---
 Sequoia looks for the 'proxy for demand' — what are people doing now with inadequate tools that proves they need your solution? This reframes validation from 'we think people want this' to 'here's observable behavior that proves the need exists.' The hierarchy of convincing user stories is: your own need (Apple, Google, Yahoo all started this way), needs of people you personally know, then broader market signals.
 

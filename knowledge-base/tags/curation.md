@@ -27,6 +27,7 @@
 - `INS-260404-7B3A` Offering only 1-2 choices per category forces suppliers to compete on price and quality for scarce shelf space.
 - `INS-260403-5BBC` Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
 - `INS-260403-89B5` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
+- `INS-260404-1B66` Extreme product curation concentrates buying power into fewer suppliers, creating leverage that funds lower prices.
 - `INS-260404-7D8F` Costco's 4,000 SKUs vs Walmart's 140,000 creates immense supplier leverage because brands compete fiercely for limited shelf space.
 - `INS-260403-7F06` Reddit beat Slashdot because user submissions made content fresher than human moderators could achieve, and users always follow the newest news.
 - `INS-260403-7732` Selection from a large open pool surfaces better top-end quality than editorial curation, which dampens extremes.

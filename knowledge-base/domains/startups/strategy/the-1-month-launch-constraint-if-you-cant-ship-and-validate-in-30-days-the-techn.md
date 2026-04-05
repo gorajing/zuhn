@@ -55,7 +55,7 @@ related:
   - INS-260404-AFE6
   - INS-260329-F7F4
   - INS-260330-E39E
-  - INS-260329-4DBC
+  - INS-260404-ED0F
 stance: >-
   A product that takes months to reach a testable state is burning the founder's
   most scarce resource

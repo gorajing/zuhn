@@ -57,6 +57,7 @@ related:
   - INS-260403-CD2A
   - INS-260330-3037
   - INS-260403-8125
+  - INS-260404-7060
 evidence:
   - id: INS-260329-A6F0
     type: TRANSFERS_TO
