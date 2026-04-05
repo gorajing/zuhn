@@ -205,7 +205,7 @@ async function main(): Promise<void> {
       }
 
       const slug = slugify(article.metadata.title || "untitled");
-      const sourceId = generateSourceId(article.metadata.title || slug);
+      const sourceId = generateSourceId(article.metadata.title || slug, url);
       const today = new Date().toISOString().slice(0, 10);
 
       // Build source frontmatter
@@ -272,7 +272,7 @@ async function main(): Promise<void> {
       }
 
       const slug = slugify(post.title || "untitled");
-      const sourceId = generateSourceId(post.title || slug);
+      const sourceId = generateSourceId(post.title || slug, url);
       const today = new Date().toISOString().slice(0, 10);
 
       // Build source frontmatter

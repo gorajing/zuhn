@@ -126,6 +126,30 @@ export async function writeInsights(
         filePath = join(topicDir, `${slug}.md`);
       }
 
+      // Near-duplicate check: scan domain for title prefix match (first 40 chars)
+      // Only check files NOT created in this batch (same-batch same-title is intentional)
+      const titlePrefix = insight.title.toLowerCase().trim().slice(0, 40);
+      const domainDir = join(kbRoot, "domains", insight.domain);
+      const batchFiles = new Set(result.files);
+      if (titlePrefix.length >= 30 && existsSync(domainDir)) {
+        const domainFiles = await fg("**/*.md", { cwd: domainDir, absolute: true, ignore: ["**/_index.md"] });
+        let nearDup = false;
+        for (const df of domainFiles) {
+          if (df === filePath || batchFiles.has(df)) continue;
+          const dfRaw = await readFile(df, "utf-8");
+          const { data: dfData } = matter(dfRaw);
+          const existingPrefix = (typeof dfData.title === "string" ? dfData.title : "").toLowerCase().trim().slice(0, 40);
+          if (existingPrefix === titlePrefix) {
+            result.errors.push(
+              `Skipping near-duplicate: "${insight.title}" — similar to existing "${dfData.title}"`
+            );
+            nearDup = true;
+            break;
+          }
+        }
+        if (nearDup) continue;
+      }
+
       // Track new topics
       const topicKey = `domains/${insight.domain}/${insight.topic}`;
       if (!existingTopics.has(topicKey)) {

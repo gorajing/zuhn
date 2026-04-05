@@ -59,7 +59,7 @@ export async function ingestPdf(
   }
 
   // Generate source ID and metadata
-  const sourceId = generateSourceId(slug);
+  const sourceId = generateSourceId(slug, input);
   const today = new Date().toISOString().slice(0, 10);
 
   // Build source .md with frontmatter via gray-matter

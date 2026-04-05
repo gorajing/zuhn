@@ -177,7 +177,7 @@ export async function ingestAudio(
   const wordCount = cleanText.split(/\s+/).filter(Boolean).length;
 
   // 8. Generate source ID and write source .md
-  const sourceId = generateSourceId(title);
+  const sourceId = generateSourceId(title, filePath);
   const today = new Date().toISOString().slice(0, 10);
 
   const sourceData: Record<string, string | number> = {

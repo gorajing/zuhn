@@ -118,7 +118,7 @@ async function ingestOne(
       }
 
       const slug = slugify(article.metadata.title || "untitled");
-      const sourceId = generateSourceId(article.metadata.title || slug);
+      const sourceId = generateSourceId(article.metadata.title || slug, normalized);
       const today = new Date().toISOString().slice(0, 10);
 
       const sourceData: Record<string, string | number | null> = {
@@ -168,7 +168,7 @@ async function ingestOne(
       const post = await fetchRedditPost(normalized);
 
       const slug = slugify(post.title || "untitled");
-      const sourceId = generateSourceId(post.title || slug);
+      const sourceId = generateSourceId(post.title || slug, normalized);
       const today = new Date().toISOString().slice(0, 10);
 
       const sourceData: Record<string, string | number> = {

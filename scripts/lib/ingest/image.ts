@@ -47,7 +47,7 @@ export async function ingestImage(
   await copyFile(filePath, rawPath);
 
   // Generate source ID and metadata
-  const sourceId = generateSourceId(slug);
+  const sourceId = generateSourceId(slug, filePath);
   const today = new Date().toISOString().slice(0, 10);
 
   // Build source .md with frontmatter via gray-matter

@@ -421,7 +421,7 @@ export async function ingestYouTube(
   }
 
   // 3. Generate source ID and today's date
-  const sourceId = generateSourceId(metadata.title);
+  const sourceId = generateSourceId(metadata.title, url);
   const today = new Date().toISOString().slice(0, 10);
 
   // 4. Build source frontmatter with gray-matter
