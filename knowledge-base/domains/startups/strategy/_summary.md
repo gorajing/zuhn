@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 254 insights
+> 257 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -91,6 +91,7 @@
 - `INS-260403-5BFB` [high] Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - `INS-260330-8E45` [high] Glycolysis invests 2 ATP to break glucose apart, then earns 4 ATP back — a net gain that requires spending resources before generating them.
 - `INS-260330-53A9` [high] RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
+- `INS-260404-A951` [high] RuBisCo is a terrible enzyme that won by being first and scaling massively, illustrating how early commitment to 'good enough' can lock in dominance.
 - `INS-260403-05D8` [high] Plants produce 40 billion tons of the inefficient enzyme RuBisCo rather than evolve a better one — volume compensates for per-unit quality.
 - `INS-260330-54ED` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
 - `INS-260323-BEE6` [high] GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
@@ -154,6 +155,7 @@
 - `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
 - `INS-260403-6BD9` [high] Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
+- `INS-260404-3C9B` [high] Costco's membership fee and maze-like layout are features, not bugs — they filter for affluent, high-spending customers.
 - `INS-260404-007B` [high] Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
 - `INS-260403-22E9` [high] Cruise ships register under flags of convenience like Panama or Liberia to exploit favorable labor laws, saving millions in wages and enabling a global low-cost workforce.
 - `INS-260403-8C20` [high] When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
@@ -226,6 +228,7 @@
 - `INS-260403-4F1B` [medium] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-9DCD` [medium] Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.
 - `INS-260403-2AE7` [medium] Converting obstacles like confusing layouts and upfront fees into deal-hunting excitement and club exclusivity builds emotional loyalty that pure convenience cannot match.
+- `INS-260404-C13E` [medium] Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
 - `INS-260330-440E` [medium] The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260330-E17D` [medium] The Indus Valley Civilization thrived peacefully for over a millennium but collapsed partly because it had almost no weapons or military capability.
 - `INS-260403-D882` [medium] Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor.

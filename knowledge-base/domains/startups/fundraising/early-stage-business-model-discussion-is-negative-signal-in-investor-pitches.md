@@ -51,7 +51,6 @@ stance: >-
 related:
   - INS-260327-363C
   - INS-260327-B6C7
-  - INS-260327-5B30
   - INS-260328-03BB
   - INS-260330-D644
   - INS-260330-A954
@@ -59,6 +58,7 @@ related:
   - INS-260403-D882
   - INS-260404-4B69
   - INS-260403-3482
+  - INS-260404-40D1
 ---
 Graham recounts a VC who invested in a company whose business model he knew was 'crap' — because at the early stage, business models are just guesses about areas outside the founders' expertise. The real danger isn't having a bad model; it's that a spectacularly wrong model becomes the thing investors remember instead of the compelling problem you're solving.
 

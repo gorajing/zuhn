@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260330-3FCF
   - INS-260403-EFAF
+  - INS-260404-E6F9
   - INS-260404-76DD
   - INS-260404-84FE
   - INS-260404-1455
-  - INS-260403-1636
 ---
 Rather than evolving a new carbon-fixation enzyme, plants evolved C4 and CAM photosynthesis — elaborate workaround systems that concentrate CO2 near RuBisCo to reduce oxygen interference. These compensatory adaptations became competitive advantages in specific niches (C4 grasses dominate tropical agriculture).
 

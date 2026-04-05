@@ -28,6 +28,7 @@
 - `INS-260329-25FC` Project-based progression creates natural 'need to know' hooks that make abstract programming concepts memorable.
 - `INS-260330-9033` Presenting proofs as guided exercise sequences — even in a lecture format — forces the active engagement that produces genuine understanding.
 - `INS-260404-BEF7` Photosystem II was discovered before Photosystem I but functions first in the chain, creating unnecessary confusion for every student who encounters it.
+- `INS-260404-3C96` The electron transport chain teaches that understanding complex systems requires tracing energy/value transformations at each intermediate step.
 - `INS-260404-6AD7` CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.
 - `INS-260330-C8ED` Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.
 - `INS-260403-F63E` Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.

@@ -49,13 +49,11 @@ stance: >-
   persuasive than stating confidence directly, because audiences automatically
   discount explicit self-praise as bullshit.
 related:
-  - INS-260327-5688
-  - INS-260329-E900
   - INS-260404-22B3
   - INS-260404-ED31
   - INS-260403-E4C6
+  - INS-260404-0461
   - INS-260403-48BF
-  - INS-260403-05DF
 ---
 Graham identifies a fundamental asymmetry in persuasion: explicit confidence claims ('we're passionate,' 'our product is great') are either ignored or actively count against you, while implicit confidence signals — speaking as if you're doing the audience a favor, demonstrating rather than claiming — build genuine conviction.
 

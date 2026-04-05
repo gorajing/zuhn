@@ -53,8 +53,8 @@ related:
   - INS-260330-47CF
   - INS-260403-1636
   - INS-260404-84FE
+  - INS-260404-E6F9
   - INS-260404-76DD
-  - INS-260330-EACA
 ---
 When RuBisCo started binding oxygen instead of CO2 (due to rising atmospheric oxygen levels it helped create), plants didn't evolve a better enzyme. Instead, they evolved photorespiration pathways, C4 carbon fixation, and CAM photosynthesis — elaborate workaround systems to manage or prevent the problem. The cost of replacing a deeply integrated core component exceeded the cost of compensating for its flaws.
 

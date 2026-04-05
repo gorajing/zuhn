@@ -54,8 +54,8 @@ related:
   - INS-260403-A290
   - INS-260403-C5C0
   - INS-260404-CFD5
+  - INS-260404-405A
   - INS-260403-915E
-  - INS-260404-C1FF
 ---
 Graham identifies a critical asymmetry in investor presentations: between brief time and limited technical background, many investors can't properly evaluate the product. The single biggest piece of evidence becomes the founder's own confidence. But this must be shown, not told.
 

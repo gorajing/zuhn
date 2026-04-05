@@ -1,5 +1,6 @@
 # Tag: messaging
 
+- `INS-260404-61E0` If you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused — the compression exercise is diagnostic, not just cosmetic.
 - `INS-260404-C2BC` If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 - `INS-260403-F7DD` Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - `INS-260404-3C46` Crafting a single memorable phrase for your startup doubles as a test of strategic focus.

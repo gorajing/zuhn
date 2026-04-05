@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260321-4280
   - INS-260403-EA2D
+  - INS-260404-2B4C
   - INS-260328-D1B2
   - INS-260403-EA82
   - INS-260402-426C
-  - INS-260403-30D8
 evidence:
   - id: INS-260328-D1B2
     type: TRANSFERS_TO

@@ -57,9 +57,9 @@ related:
   - INS-260403-D7DF
   - INS-260403-7072
   - INS-260403-035A
+  - INS-260404-2B4C
   - INS-260403-1949
-  - INS-260404-7609
-  - INS-260404-3D06
+  - INS-260404-817A
   - INS-260403-39F9
 ---
 Investors' biggest fear with early-stage startups is that the founders built something based on a priori theories rather than real need. Sequoia explicitly looks for the 'proxy for demand' — what are people doing now with inadequate tools that proves they need what you're building? Specific user stories answer this fear directly. A story about a particular person with a particular problem using your product in a particular way is far more convincing than 'the market is $5 billion.'

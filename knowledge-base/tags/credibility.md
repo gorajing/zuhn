@@ -15,6 +15,7 @@
 - `INS-260404-58AE` Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
 - `INS-260403-B12E` Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
+- `INS-260404-0461` Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-promotion, but they heavily weight behavioral confidence signals.
 - `INS-260403-05DF` Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 - `INS-260404-65BE` Explicitly claiming passion or quality triggers skepticism; implicitly demonstrating it through behavior is far more persuasive.
 - `INS-260403-B3CA` Telling people you're great gets you written off; showing it through behavior and energy gets you believed.

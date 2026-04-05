@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 258 insights
+> 259 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -216,6 +216,7 @@
 - `INS-260403-CBB0` [medium] Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
 - `INS-260330-8F91` [medium] Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
 - `INS-260329-438D` [medium] Motivation scales with the perceived gap between where you are and your reference point — change who you compare yourself to and you change your drive.
+- `INS-260404-3C96` [medium] The electron transport chain teaches that understanding complex systems requires tracing energy/value transformations at each intermediate step.
 - `INS-260403-7738` [medium] Photosynthesis routes energy through photons → excited electrons → proton gradients → ATP → G3P, losing energy at every step but enabling precise control at each stage.
 - `INS-260404-1CA4` [medium] The electron transport chain deliberately loses energy at each step to capture it in usable forms — a design pattern favoring reliability over theoretical efficiency.
 - `INS-260404-6AD7` [medium] CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.

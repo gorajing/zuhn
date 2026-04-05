@@ -54,6 +54,7 @@ related:
   - INS-260403-91F9
   - INS-260404-8660
   - INS-260404-F20B
+  - INS-260404-896B
 ---
 When founders try to capture everything their product could become, the description paradoxically communicates nothing. Paul Graham frames this as a calculus limit: as you approach a description of something that could be anything, the information content approaches zero. Investors hear 'a system to collaboratively leverage information' and mentally discard it.
 

@@ -40,9 +40,9 @@ stance: >-
   effectively and safely than antihistamines or decongestants
 related:
   - INS-260325-A926
-  - INS-260325-8AB8
   - INS-260327-24AA
   - INS-260323-7D2E
-  - INS-260327-918A
+  - INS-260325-8AB8
+  - INS-260404-AC1D
 ---
 Hypertonic saline nasal irrigation (neti pot or spray) and salt water gargling naturally thin and clear mucus from sinuses and respiratory passages more effectively and safely than antihistamines or decongestants

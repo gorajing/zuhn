@@ -53,11 +53,11 @@ stance: >-
 related:
   - INS-260329-086B
   - INS-260403-F447
+  - INS-260404-2B4C
   - INS-260403-53AA
   - INS-260404-B887
   - INS-260404-AC2B
   - INS-260403-035A
-  - INS-260403-7072
 ---
 The biggest fear investors have with early-stage startups is that founders built from a priori theory rather than observed need. Sequoia's Greg McAdoo calls the antidote the 'proxy for demand' — evidence that people are already doing something with inadequate tools, proving latent demand for your solution. Concrete user stories provide this evidence in a memorable, emotionally resonant format.
 

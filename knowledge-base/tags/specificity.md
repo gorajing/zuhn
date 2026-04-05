@@ -7,4 +7,5 @@
 - `INS-260404-873C` Describe your startup as a specific, graspable thing rather than an expansive vision statement.
 - `INS-260404-FE9F` As a startup description approaches 'could be anything,' its informational value approaches zero — start narrow and expand.
 - `INS-260403-74EA` Founders should describe their startup as narrowly as possible rather than gesturing at everything it could become.
+- `INS-260404-1002` Founders should describe their startup as narrowly and concretely as possible rather than expanding to capture all future possibilities.
 - `INS-260404-17E3` A narrow, concrete description of what you built beats a grand vision statement when pitching investors.

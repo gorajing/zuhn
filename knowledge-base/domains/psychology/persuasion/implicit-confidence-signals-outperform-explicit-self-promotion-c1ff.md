@@ -51,13 +51,12 @@ stance: >-
   discount or distrust you, while the same messages delivered implicitly through
   behavior and demonstration are highly persuasive
 related:
-  - INS-260403-0F95
-  - INS-260403-2F86
   - INS-260404-58AE
   - INS-260404-F3C6
   - INS-260404-CFD5
   - INS-260404-5343
-  - INS-260403-A290
+  - INS-260403-2F86
+  - INS-260404-405A
 ---
 Graham identifies a sharp asymmetry in how confidence signals are processed. Explicit claims ('we're passionate,' 'our product is great') are filtered out or actively penalized — audiences treat them as empty rhetoric or, worse, as bullshitter markers. But the same underlying message conveyed through body language, demo quality, and the way you talk about the problem lands with full force.
 

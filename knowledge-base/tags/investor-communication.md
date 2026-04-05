@@ -1,5 +1,6 @@
 # Tag: investor-communication
 
+- `INS-260404-896B` Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 - `INS-260404-1BFF` Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
 - `INS-260404-3161` Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - `INS-260403-37E2` Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
@@ -14,6 +15,7 @@
 - `INS-260404-CA98` Describe your startup as narrowly and concretely as possible — vagueness destroys comprehension.
 - `INS-260404-C03F` As a startup description approaches 'could be anything,' its informational content approaches zero — narrow and gripping beats broad and forgettable.
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
+- `INS-260404-1002` Founders should describe their startup as narrowly and concretely as possible rather than expanding to capture all future possibilities.
 - `INS-260404-17E3` A narrow, concrete description of what you built beats a grand vision statement when pitching investors.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-507E` Describe your startup as a specific, graspable thing rather than abstracting it into meaningless generality.

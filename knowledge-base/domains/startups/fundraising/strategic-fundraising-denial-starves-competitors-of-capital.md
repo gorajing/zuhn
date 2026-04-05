@@ -49,11 +49,11 @@ stance: >-
   competitive weapons in venture-backed markets.
 related:
   - INS-260320-39A3
+  - INS-260404-5D3B
   - INS-260330-DEBC
   - INS-260404-BD17
   - INS-260404-DA2E
   - INS-260403-1852
-  - INS-260404-B43A
   - INS-260330-870B
 evidence:
   - id: INS-260330-870B

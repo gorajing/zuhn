@@ -31,4 +31,5 @@
 - `INS-260403-64E7` Costco's $60 membership fee filters for affluent households averaging $100K income, turning an acquisition barrier into a demographic selection mechanism.
 - `INS-260403-FDB8` Costco's $60 entry fee filters for affluent households averaging $100K income, who then spend more and renew at 90%.
 - `INS-260403-0CF7` Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.
+- `INS-260404-3C9B` Costco's membership fee and maze-like layout are features, not bugs — they filter for affluent, high-spending customers.
 - `INS-260403-137D` Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.

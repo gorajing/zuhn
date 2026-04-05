@@ -53,7 +53,7 @@ related:
   - INS-260404-3214
   - INS-260404-BD17
   - INS-260404-40D1
-  - INS-260403-C496
+  - INS-260404-5D8B
 ---
 Graham notes that even experienced founders with millions in VC backing have business models that are 'crap' at the early stage — and sophisticated investors expect this. A spectacularly wrong business model doesn't just waste time; it actively displaces the strong signals (problem importance, product quality) from investors' memory.
 

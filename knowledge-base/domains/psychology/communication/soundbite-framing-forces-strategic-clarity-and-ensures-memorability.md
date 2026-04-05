@@ -55,8 +55,8 @@ related:
   - INS-260403-ED1E
   - INS-260403-26D3
   - INS-260403-BFD1
-  - INS-260403-C5D8
   - INS-260404-E0B5
   - INS-260404-4127
+  - INS-260404-C2BC
 ---
 Graham notes that professional investors hear so many pitches they blur together, so the first survival filter is simply being remembered. The tactical advice—create an 'x of y' or 'x meets y' phrase and drop it early in the talk—is straightforward. But the deeper insight is diagnostic: Graham says that if you can't compress your startup into one compelling phrase, your plans may not be sufficiently focused. This reframes the soundbite exercise from a communication tactic into a strategic thinking tool. The compression forces you to identify the single most important thing about what you're doing, which clarifies positioning, competitive framing, and resource allocation. It's an example of how communication constraints can surface strategic confusion that would otherwise remain hidden behind comfortable ambiguity.

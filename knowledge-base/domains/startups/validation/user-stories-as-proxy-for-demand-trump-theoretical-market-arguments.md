@@ -48,11 +48,11 @@ stance: >-
   Specific stories about real users with real problems are more convincing to
   investors than market size figures or theoretical demand arguments
 related:
-  - INS-260403-53AA
   - INS-260403-035A
   - INS-260403-7072
   - INS-260403-1949
   - INS-260404-7609
+  - INS-260404-817A
   - INS-260404-3B9E
   - INS-260403-8F31
 ---

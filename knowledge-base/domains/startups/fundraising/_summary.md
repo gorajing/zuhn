@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 300 insights
+> 304 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -58,6 +58,7 @@
 - `INS-260404-93E3` [high] Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
 - `INS-260404-BD17` [high] Skip detailed business model discussion in early pitches — investors expect it to be wrong and will remember the bad model instead of your good product.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
+- `INS-260404-5D3B` [high] Don't detail your business model in early pitches — investors expect it to be wrong and you'll sound smarter discussing the problem you solve.
 - `INS-260403-C496` [high] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260403-481F` [high] Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
@@ -87,6 +88,7 @@
 - `INS-260404-9158` [high] Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
 - `INS-260404-F139` [high] Mention monetization briefly to show you've thought about it, then redirect to problem and product.
 - `INS-260404-40D1` [high] Smart early-stage investors expect your business model to be wrong — talking about it wastes time and risks being remembered for a bad model rather than a good product.
+- `INS-260404-5D8B` [high] Don't detail your business model in early pitches — investors expect it to change and will remember a bad model more than a good product.
 - `INS-260403-4A4A` [high] Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
 - `INS-260403-D7C4` [high] Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6A55` [high] Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
@@ -131,6 +133,7 @@
 - `INS-260402-421B` [high] Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
 - `INS-260403-6F52` [high] In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260403-C8A9` [high] Investor interest compounds exponentially because each commitment makes others more likely to invest.
+- `INS-260404-896B` [high] Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 - `INS-260403-82CC` [high] Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
 - `INS-260404-438C` [high] When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - `INS-260404-103B` [high] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
@@ -166,6 +169,7 @@
 - `INS-260403-6712` [high] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260404-0430` [high] Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
+- `INS-260404-1002` [high] Founders should describe their startup as narrowly and concretely as possible rather than expanding to capture all future possibilities.
 - `INS-260404-17E3` [high] A narrow, concrete description of what you built beats a grand vision statement when pitching investors.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` [high] Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.

@@ -55,6 +55,7 @@ related:
   - INS-260403-74EA
   - INS-260403-507E
   - INS-260404-3161
+  - INS-260404-1002
 ---
 As a startup description approaches something that 'could be anything,' its information content approaches zero. Investors discard abstract language like 'collaboratively leverage information value' as meaningless boilerplate. Instead, use successive approximation: start with a narrow, gripping description (even if it undersells the vision), then flesh it out. This mirrors incremental development — at every point you have a 'working description' in the investor's head. The goal isn't to capture everything you might become, but to be compelling enough to earn the next conversation.
 

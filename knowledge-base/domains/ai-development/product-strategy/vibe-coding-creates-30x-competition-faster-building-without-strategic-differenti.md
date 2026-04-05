@@ -47,7 +47,6 @@ resolutions:
     isn't 'how fast can we ship?' but 'what do we know about customers that
     nobody else building fast will discover?'
 related:
-  - INS-260325-DD43
   - INS-260323-E15F
   - INS-260403-8011
   - PRI-260328-D5EB
@@ -57,6 +56,7 @@ related:
   - INS-260327-A61B
   - INS-260327-EC45
   - INS-260329-9115
+  - INS-260329-A57B
 stance: 'If AI lets you build faster, it lets every other founder build faster too'
 evidence:
   - id: INS-260323-E15F

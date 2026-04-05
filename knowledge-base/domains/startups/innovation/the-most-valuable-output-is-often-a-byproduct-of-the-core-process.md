@@ -48,12 +48,11 @@ stance: >-
   than from intentional design, and recognizing byproduct value is a repeatable
   innovation strategy
 related:
-  - INS-260330-BA7F
   - INS-260330-B061
+  - INS-260404-AC1D
   - INS-260404-0FEB
   - INS-260404-E9F3
   - PRI-260403-181B
-  - INS-260330-57E6
 ---
 Photosynthesis splits water not because plants need oxygen, but because chlorophyll desperately needs a replacement electron after losing one to the transport chain. Oxygen is literally discarded waste — yet it enabled the entire animal kingdom and transformed Earth's atmosphere. The most consequential output of the process was never the point.
 

@@ -1,6 +1,7 @@
 # Tag: sequoia
 
 - `INS-260325-F20C` Sequoia sizes AI at $10T+ because it replaces cognitive labor — every knowledge worker seat becomes a software purchase.
+- `INS-260404-2B4C` Tell stories about specific users struggling with inadequate tools rather than citing market size numbers — investors care about proof of demand, not theoretical TAM.
 - `INS-260403-66D0` Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
 - `INS-260403-92EB` Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
 - `INS-260403-17A3` Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.

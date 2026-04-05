@@ -56,11 +56,11 @@ related:
   - INS-260403-AC74
   - INS-260403-B505
   - INS-260403-ED1F
-  - INS-260403-1E82
   - INS-260403-9DE0
   - INS-260404-F3C6
   - INS-260404-CFD5
-  - INS-260404-C1FF
+  - INS-260404-405A
+  - INS-260404-C99B
 ---
 When audiences lack technical background to evaluate your work directly, they rely heavily on your own confidence as a proxy signal. But this signal must be implicit: demonstrated through how you present, not declared in words. Saying 'we're passionate' triggers a credibility penalty — people either ignore it as noise or actively mark you as a bullshitter.
 

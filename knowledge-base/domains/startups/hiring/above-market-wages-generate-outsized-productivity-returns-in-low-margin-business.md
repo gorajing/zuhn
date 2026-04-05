@@ -54,7 +54,7 @@ related:
   - INS-260403-365D
   - INS-260404-EE20
   - INS-260404-6A20
-  - INS-260403-3062
+  - INS-260404-C13E
 ---
 Costco's average wage of $21/hour — double the U.S. retail average — paired with better health insurance and retirement benefits, produces employees three times more productive than competitors. In a business model with 11% average markup (vs 24-35% at competitors), this productivity multiplier is existentially important. The math only works if each employee handles significantly more throughput.
 

@@ -50,7 +50,6 @@ stance: >-
   demonstrating deep understanding of the problem you're solving builds real
   credibility.
 related:
-  - INS-260403-C625
   - INS-260403-0267
   - INS-260403-E319
   - INS-260403-A709
@@ -60,6 +59,7 @@ related:
   - INS-260403-481F
   - INS-260403-C8B9
   - INS-260403-88E8
+  - INS-260403-2E90
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong — and expected it to change three times before they got it right. The founders were experienced repeat entrepreneurs who'd just raised millions, and even their model was bad. This is the norm, not the exception.
 

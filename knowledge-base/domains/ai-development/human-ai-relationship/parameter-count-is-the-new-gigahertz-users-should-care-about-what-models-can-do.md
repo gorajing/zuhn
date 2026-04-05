@@ -47,7 +47,7 @@ related:
   - PRI-260328-B2EA
   - PRI-260321-14D8
   - INS-260330-C9FA
-  - INS-260322-474A
+  - INS-260404-2B4C
 stance: >-
   The obsession with parameter counts mirrors the 1990s gigahertz race — what
   matters is end-user utility, not raw numbers.

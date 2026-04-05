@@ -1,7 +1,8 @@
 # Topic: communication
 
-> 41 insights
+> 43 insights
 
+- `INS-260404-B87E` [high] Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
 - `INS-260404-5BBF` [high] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - `INS-260404-92AC` [high] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
 - `INS-260404-F965` [high] Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
@@ -37,6 +38,7 @@
 - `INS-260404-D6EE` [medium] Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
 - `INS-260403-7FFA` [medium] Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260404-E5D9` [medium] Saying 'you suck' is easier than explaining exactly what you disagree with, and also shields the speaker from refutation.
+- `INS-260404-61E0` [medium] If you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused — the compression exercise is diagnostic, not just cosmetic.
 - `INS-260403-3D61` [medium] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 - `INS-260404-18F1` [medium] Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
 - `INS-260330-FAB4` [medium] As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.

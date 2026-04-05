@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 80 insights
+> 82 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260404-1E11` [high] Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest that gradient through ATP synthase — the same principle underlies pricing arbitrage, information asymmetry, and attention funnels.
@@ -8,6 +8,7 @@
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260404-DD77` [high] Never tell an audience you're passionate—show it through specificity and demeanor, because explicit confidence claims trigger bullshit detectors.
 - `INS-260403-2F86` [high] Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
+- `INS-260404-405A` [high] Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
 - `INS-260404-37F7` [high] When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
 - `INS-260404-6388` [high] When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
 - `INS-260404-F161` [high] In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.
@@ -23,6 +24,7 @@
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
 - `INS-260403-915E` [high] Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
+- `INS-260404-0461` [high] Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-promotion, but they heavily weight behavioral confidence signals.
 - `INS-260403-05DF` [high] Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 - `INS-260404-65BE` [high] Explicitly claiming passion or quality triggers skepticism; implicitly demonstrating it through behavior is far more persuasive.
 - `INS-260403-B3CA` [high] Telling people you're great gets you written off; showing it through behavior and energy gets you believed.

@@ -48,6 +48,6 @@ related:
   - INS-260403-507E
   - INS-260403-0973
   - INS-260404-3161
-  - INS-260403-74EA
+  - INS-260404-1002
 ---
 Founders resist narrow descriptions because their product could be so much more, but as you approach a description of something that could be anything, the information content approaches zero. Investors discard vague statements like 'collaboratively leverage information' as meaningless boilerplate. The correct approach mirrors incremental development: start with a gripping but perhaps overly narrow description that creates a working mental model in the investor's head, then expand. A 'web-based database' lands; a 'platform for collaborative information leverage' doesn't. The investor's first job is to understand what you built before they can evaluate whether it's good.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3934 actionable insights
+Generated on 2026-04-05 | 3945 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1086,6 +1086,8 @@ Generated on 2026-04-05 | 3934 actionable insights
 - [INS-260404-0AF3] Crafting a sticky one-phrase description of your startup is both a memorability tactic and a litmus test for whether your strategy is focused enough.
 - [INS-260404-E4B8] Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
 - [INS-260404-18F1] Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
+- [INS-260404-61E0] If you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused — the compression exercise is diagnostic, not just cosmetic.
+- [INS-260404-B87E] Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1517,6 +1519,7 @@ Generated on 2026-04-05 | 3934 actionable insights
 - [INS-260404-9213] Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - [INS-260404-D39D] ATP synthase is powered not by photons directly but by the proton gradient plants deliberately build up across membranes.
 - [INS-260404-6AD7] CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.
+- [INS-260404-3C96] The electron transport chain teaches that understanding complex systems requires tracing energy/value transformations at each intermediate step.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1713,6 +1716,8 @@ Generated on 2026-04-05 | 3934 actionable insights
 - [INS-260404-37F7] When your audience can't evaluate your work technically, your confidence in it becomes their primary evidence of quality.
 - [INS-260404-ED31] Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, but respond strongly to behavioral confidence signals.
 - [INS-260404-7B68] Saying 'we're passionate' or 'our product is great' triggers audience skepticism; conviction must be shown, never stated.
+- [INS-260404-0461] Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-promotion, but they heavily weight behavioral confidence signals.
+- [INS-260404-405A] Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2059,6 +2064,8 @@ Generated on 2026-04-05 | 3934 actionable insights
 - [INS-260404-6EB8] Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.
 - [INS-260404-47AC] Investors hunt for raw talent, not polished surfaces—corporate cosplay and knowledge-faking conceal the very thing they're looking for.
 - [INS-260404-96C6] A sticky descriptive phrase is a survival necessity in investor pitches because the first filter is simply being remembered.
+- [INS-260404-2B4C] Tell stories about specific users struggling with inadequate tools rather than citing market size numbers — investors care about proof of demand, not theoretical TAM.
+- [INS-260404-817A] Tell specific stories about real users and their problems rather than citing market sizes, because investors' primary fear is that no one actually wants what you built.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2974,6 +2981,10 @@ Generated on 2026-04-05 | 3934 actionable insights
 - [INS-260404-D752] As a pitch description approaches 'could be anything,' its information content approaches zero—investors discard it as boilerplate.
 - [INS-260404-5DBD] At the early stage, discussing your business model wastes pitch time and can actively damage investor perception.
 - [INS-260404-1263] A narrow, concrete description of your product creates more investor interest than an expansive, vague one.
+- [INS-260404-5D3B] Don't detail your business model in early pitches — investors expect it to be wrong and you'll sound smarter discussing the problem you solve.
+- [INS-260404-1002] Founders should describe their startup as narrowly and concretely as possible rather than expanding to capture all future possibilities.
+- [INS-260404-5D8B] Don't detail your business model in early pitches — investors expect it to change and will remember a bad model more than a good product.
+- [INS-260404-896B] Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

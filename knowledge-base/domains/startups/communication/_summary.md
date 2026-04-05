@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 42 insights
+> 44 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-47AC` [high] Investors hunt for raw talent, not polished surfaces—corporate cosplay and knowledge-faking conceal the very thing they're looking for.
@@ -16,6 +16,7 @@
 - `INS-260403-FE37` [high] A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
 - `INS-260403-7FBE` [high] A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - `INS-260330-D511` [high] Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
+- `INS-260404-2B4C` [high] Tell stories about specific users struggling with inadequate tools rather than citing market size numbers — investors care about proof of demand, not theoretical TAM.
 - `INS-260404-44A4` [high] Investors care more about seeing what workarounds real people use today than hearing billion-dollar TAM numbers, because workarounds prove demand exists while market stats are abstract.
 - `INS-260403-66D0` [high] Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
 - `INS-260403-92EB` [high] Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
@@ -28,6 +29,7 @@
 - `INS-260404-616F` [high] Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-280B` [high] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
 - `INS-260404-CF2A` [high] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
+- `INS-260404-817A` [high] Tell specific stories about real users and their problems rather than citing market sizes, because investors' primary fear is that no one actually wants what you built.
 - `INS-260404-24FB` [medium] Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260330-76DA` [medium] Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260404-6EB8` [medium] Craft one sticky phrase like 'the Microsoft Word of ecommerce' that anchors your startup in investor memory after they've heard dozens of pitches.

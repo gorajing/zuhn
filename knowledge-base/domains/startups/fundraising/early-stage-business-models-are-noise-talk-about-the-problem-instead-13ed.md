@@ -51,10 +51,10 @@ related:
   - INS-260327-D285
   - INS-260330-072D
   - INS-260403-A709
-  - INS-260403-D7C4
   - INS-260403-8346
   - INS-260403-1852
-  - INS-260404-5483
+  - INS-260404-5D3B
+  - INS-260403-D7C4
   - INS-260404-C64D
 ---
 A VC speaking at YC described investing in experienced founders whose business model he expected to change three times before working. If seasoned founders with millions in funding have wrong business models, an early-stage startup's model is essentially fiction. Worse, a spectacularly wrong business model will push the important stuff out of investors' heads — they'll remember you as 'the company with the boneheaded revenue plan' rather than 'the company solving that important problem.'

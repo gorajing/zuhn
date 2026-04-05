@@ -53,7 +53,6 @@ stance: >-
   discount you, while demonstrating those qualities through behavior and
   specifics makes them stick.
 related:
-  - INS-260325-803C
   - INS-260327-B0F2
   - INS-260329-13D2
   - INS-260329-7C84
@@ -63,6 +62,7 @@ related:
   - INS-260403-2F86
   - INS-260404-F3C6
   - INS-260404-CFD5
+  - INS-260403-05DF
 ---
 Graham identifies a communication asymmetry: explicit confidence claims ('we're passionate,' 'our product is great') get discarded as noise or worse, mark you as a bullshitter. But implicit confidence — demonstrated through how you talk about your work, your comfort with hard questions, your genuine excitement about the problem — registers as authentic signal. The audience receives the same message but processes it through a completely different credibility filter.
 

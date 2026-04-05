@@ -50,16 +50,15 @@ stance: >-
   investors than market size statistics because they address the core fear that
   nobody actually wants what you've built
 related:
-  - INS-260327-5DD2
   - INS-260327-4D70
   - INS-260329-C36D
   - INS-260330-F268
   - INS-260403-1444
-  - INS-260403-53AA
   - INS-260403-035A
-  - INS-260403-7072
   - INS-260404-3D06
+  - INS-260404-817A
   - INS-260404-4F3A
+  - INS-260404-AC2B
 ---
 Investors' primary anxiety with early-stage startups is that founders built something from a priori theories rather than real demand. Market size figures ('$5 billion TAM') are like an aspiring actor citing Tom Hanks' salary — technically relevant but completely disconnected from whether you'll get there.
 

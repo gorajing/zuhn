@@ -52,8 +52,8 @@ related:
   - INS-260403-1636
   - INS-260403-F290
   - INS-260404-84FE
+  - INS-260404-E6F9
   - INS-260404-76DD
-  - INS-260330-F5CF
 ---
 When RuBisCo began confusing oxygen for CO2 as atmospheric oxygen levels rose, plants couldn't simply swap in a better enzyme — they had already gone all-in on the RuBisCo strategy. Instead, they evolved photorespiration pathways, C4 carbon fixation, and CAM metabolism as workarounds. The 'fix' for a core flaw became more complex than the original system.
 

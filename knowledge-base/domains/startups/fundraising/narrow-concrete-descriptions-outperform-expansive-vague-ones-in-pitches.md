@@ -60,6 +60,7 @@ related:
   - INS-260404-9F1D
   - INS-260404-516B
   - INS-260404-71F3
+  - INS-260404-896B
 ---
 Paul Graham observes that as a startup description approaches 'could be anything,' its informational content approaches zero. Investors hearing 'a system to collaboratively leverage the value of information' will discard it and wait impatiently for the actual explanation. The counterintuitive advice is to start with a description that feels misleadingly narrow — 'an easy web-based database' — then expand. This mirrors incremental development: always have working code (a working mental model in the investor's head) at every step.
 

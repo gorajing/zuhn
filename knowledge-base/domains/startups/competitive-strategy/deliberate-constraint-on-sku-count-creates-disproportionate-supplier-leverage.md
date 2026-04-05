@@ -50,7 +50,6 @@ stance: >-
   negotiate.
 related:
   - INS-260324-D90C
-  - INS-260404-37BB
   - INS-260404-1843
   - INS-260404-72F5
   - INS-260403-5BAC
