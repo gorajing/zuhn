@@ -60,6 +60,7 @@ related:
   - INS-260330-FA4C
   - INS-260330-608C
   - INS-260330-CB30
+  - INS-260404-1A9D
 evidence:
   - id: INS-260330-FA4C
     type: CHALLENGES

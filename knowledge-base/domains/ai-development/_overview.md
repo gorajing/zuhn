@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 966 insights across 24 topics
+> 967 insights across 24 topics
 
 ## Topics
 
@@ -26,7 +26,7 @@
 | pedagogy | 1 | Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload. |
 | platform-dynamics | 22 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
 | platform-shifts | 34 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
-| product-strategy | 70 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
+| product-strategy | 71 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | system-building | 209 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |
 | system-design | 8 | Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production. |
 | systems-design | 4 | Chloroplasts charge thylakoids like batteries by pumping protons steadily, then release them through ATP synthase — the biological equivalent of a message queue enabling batch processing. |

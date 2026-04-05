@@ -52,6 +52,7 @@ related:
   - INS-260322-7282
   - INS-260404-CE26
   - INS-260330-E670
+  - INS-260404-60A6
 stance: >-
   Korea's surviving manufacturing workforce can generate proprietary physical AI
   training data that no other country can replicate.

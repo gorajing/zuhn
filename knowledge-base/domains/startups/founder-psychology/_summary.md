@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 56 insights
+> 57 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -57,4 +57,5 @@
 - `INS-260325-5B08` [medium] Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
 - `INS-260325-788E` [medium] The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
 - `INS-260328-33E8` [medium] When most of your peers made money from sports betting and crypto, advice about building for years doesn't land.
+- `INS-260404-108C` [medium] Across money, time, and likely other resources, the biggest losses come not from obvious indulgence but from activities that mimic virtue while destroying value.
 - `INS-260404-7071` [medium] Young founders benefit from two offsetting mistakes: underestimating obstacles and underestimating their own capacity to grow.

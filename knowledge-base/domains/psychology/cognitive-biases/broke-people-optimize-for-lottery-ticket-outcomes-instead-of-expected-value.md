@@ -46,10 +46,10 @@ stance: >-
   appeal of a life-changing outcome overrides rational probability assessment.
 related:
   - INS-260325-5A72
+  - INS-260404-EEAF
   - PRI-260323-81E9
   - INS-260327-DAA4
   - INS-260403-147C
-  - INS-260323-53FF
 evidence:
   - id: INS-260326-6B98
     type: TRANSFERS_TO

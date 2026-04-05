@@ -9,6 +9,7 @@
 - `INS-260330-F734` Even 4chan has a moderation policy — 'free speech absolutism' is an illusion because every platform necessarily makes curation decisions, and the real question is whether those decisions are responsible.
 - `INS-260403-31B1` Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
 - `INS-260330-70B9` The most likely outcomes feel least informative, but a strategy optimized for rare jackpots performs worse than one optimized for average information.
+- `INS-260404-375E` Nature and nurture trained us to avoid obvious self-indulgence, but modern dangers disguise themselves as virtuous activity to bypass those ancient alarms.
 - `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260330-6620` Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.

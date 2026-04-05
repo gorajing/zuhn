@@ -48,10 +48,10 @@ stance: >-
   steps
 related:
   - INS-260403-16AB
+  - INS-260404-304E
   - PRI-260324-36BF
   - PRI-260328-D5EB
   - PRI-260328-5CDE
-  - INS-260322-C472
 ---
 In any industry where large incumbents hold massive datasets and distribution (real estate marketplaces, mortgage platforms, construction software), AI improvements will make their existing platforms incrementally better. Startups cannot win this incremental game.
 

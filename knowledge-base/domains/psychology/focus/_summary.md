@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 173 insights
+> 174 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -39,6 +39,7 @@
 - `INS-260329-DABC` [high] Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
 - `INS-260325-E78D` [high] Claiming you do not need a philosophy of life IS a philosophy of life — an unexamined one that probably serves you worse than a deliberate one.
 - `INS-260330-7AE9` [high] Expert meditators don't hold perfect focus — they recover from distraction faster, making each mind-wandering episode a training rep rather than a failure.
+- `INS-260404-D547` [high] Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 - `INS-260323-C1B2` [high] Fear occurs in proportion to importance — the intensity of your resistance signals the significance of the action you are avoiding.
 - `INS-260330-487E` [high] Purpose acts as an internal radar that cuts through distractions and decision paralysis by giving all choices a directional filter.
 - `INS-260329-D481` [high] Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.

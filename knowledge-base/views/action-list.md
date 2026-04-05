@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 3915 actionable insights
+Generated on 2026-04-05 | 3920 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -321,6 +321,7 @@ Generated on 2026-04-05 | 3915 actionable insights
 - [INS-260330-6828] Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - [INS-260402-543E] Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
 - [INS-260403-AFBB] AI products should optimize for user absence, not presence — the best product is one you never have to look at.
+- [INS-260404-60A6] Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -766,6 +767,7 @@ Generated on 2026-04-05 | 3915 actionable insights
 - [INS-260330-AD13] Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
 - [INS-260330-44C7] Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
 - [INS-260404-6B73] DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
+- [INS-260404-EEAF] Most fortunes are destroyed by bad investments rather than extravagant spending because investments bypass our innate alarms about self-indulgence.
 
 ## investing/fintech
 - [INS-260323-825F] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
@@ -1331,6 +1333,7 @@ Generated on 2026-04-05 | 3915 actionable insights
 - [INS-260403-3756] Money worries and disputes hijack your top mental slot with unusual effectiveness because they feel urgent and engaging but produce no creative output.
 - [INS-260403-50F1] Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
 - [INS-260404-B7E4] You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
+- [INS-260404-D547] Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -3430,6 +3433,7 @@ Generated on 2026-04-05 | 3915 actionable insights
 - [INS-260403-8BE9] Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
 - [INS-260403-20B1] Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
 - [INS-260403-AFCD] Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
+- [INS-260404-304E] AI startups capture the most value by targeting 'lagging' analog processes where existing tools still rely on docs and spreadsheets.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -4091,6 +4095,7 @@ Generated on 2026-04-05 | 3915 actionable insights
 - [INS-260404-9E71] Investors' biggest early-stage fear is that you built something nobody wants — specific user stories and proxy-for-demand signals neutralize this more than market data.
 - [INS-260404-4E13] Test cards and learning cards formalize the experiment-learn loop into a repeatable validation system.
 - [INS-260404-3D06] Tell stories about specific users and their problems rather than citing market sizes—investors fear you've built something nobody actually wants.
+- [INS-260404-C1C1] NFX's AI Litmus Test asks founders how long it would take a user to do their core task with ChatGPT+, directly measuring defensibility.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

@@ -58,6 +58,7 @@ related:
   - INS-260330-C870
   - INS-260403-E78B
   - INS-260404-C25C
+  - INS-260404-1A9D
 ---
 ARM's decision to license rather than manufacture created something more powerful than a product — it created an ecosystem. With over 1,000 global partners (Samsung, Apple, Microsoft) building on ARM architectures, the switching costs are distributed across the entire value chain. Each partner has invested in ARM-specific tooling, software optimization, and manufacturing processes that would be enormously expensive to replicate for an alternative architecture.
 

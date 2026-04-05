@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3622 insights across 35 topics
+> 3626 insights across 35 topics
 
 ## Topics
 
@@ -18,9 +18,9 @@
 | engineering | 42 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
 | execution | 224 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 312 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
-| founder-psychology | 56 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
+| founder-psychology | 57 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 294 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
-| growth | 68 | Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve. |
+| growth | 69 | When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth. |
 | growth-marketing | 128 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
 | growth-strategy | 63 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
 | health-innovation | 13 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
@@ -28,7 +28,7 @@
 | ideation | 84 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
 | innovation | 95 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
 | leadership | 177 | Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems. |
-| market-entry | 35 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
+| market-entry | 36 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | mental-models | 5 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | platform-dynamics | 15 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
 | problem-solving | 8 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
@@ -40,4 +40,4 @@
 | scaling | 157 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | strategy | 248 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 56 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 147 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 148 | Pretty much 100% of startups that make something popular manage to make money from it. |

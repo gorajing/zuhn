@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 147 insights
+> 148 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -99,6 +99,7 @@
 - `INS-260403-260B` [high] Validate that the problem exists and matters before testing whether your solution addresses it.
 - `INS-260403-F0C3` [high] Always validate that customers want the core offering before optimizing secondary features.
 - `INS-260323-F9E5` [high] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
+- `INS-260404-C1C1` [high] NFX's AI Litmus Test asks founders how long it would take a user to do their core task with ChatGPT+, directly measuring defensibility.
 - `INS-260330-0F52` [high] Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
 - `INS-260403-88AF` [high] Prioritize testing the hypothesis whose failure would make your entire business model collapse, regardless of how easy other hypotheses are to test.
 - `INS-260330-3F24` [high] If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.

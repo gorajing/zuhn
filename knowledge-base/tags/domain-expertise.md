@@ -7,15 +7,15 @@
 - `INS-260327-5DD3` Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
 - `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260327-10A2` Sneaker reseller Leo makes the highest margins on pre-owned shoes where pricing is non-standardized and his years of expertise let him issue bids within seconds, while new-shoe margins are constrained to 20-25%.
+- `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
 - `INS-260330-49C8` DoorDash founders personally delivering food, dispatching drivers, and handling support gave them the domain expertise to design their dispatch algorithm and customer experience — manual work is competitive intelligence, not just bootstrapping.
 - `INS-260330-7CC0` Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
 - `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260327-BE1F` Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
-- `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
+- `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
 - `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
-- `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260403-268F` Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260402-0F36` The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
 - `INS-260328-9C16` Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.

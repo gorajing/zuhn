@@ -832,6 +832,7 @@ Generated on 2026-04-05 | 2421 sources
 | 5 Forces Acting Upon Your Business Model | blog | 4 | 2026-03-31 |
 | 5 Lean Startup Essentials to Reduce Risk and Uncertainty | blog | 4 | 2026-03-31 |
 | 5 Questions You Never Dared to Ask About the Business Model Canvas | blog | 4 | 2026-03-31 |
+| 59 Startup Pitch Decks That Raised Millions—See What Works | blog | 4 | 2026-03-30 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
 | 61 Startups Actively Raising Capital (Pre-Seed to Series B) | blog | 4 | 2026-03-30 |
 | 6,631,372 | blog | 4 | 2026-03-31 |
@@ -918,9 +919,11 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: How Equity Tokenization Is Breaking TradFi Barriers | blog | 4 | 2026-03-30 |
 | Deep Dive: Is India the Next Economic Giant? | blog | 4 | 2026-03-30 |
 | Deep Dive: Prediction Markets | blog | 4 | 2026-03-30 |
+| Deep Dive: Why AI Will Break the Grid | blog | 4 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Defining Property | blog | 4 | 2026-03-31 |
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
+| Do Founders Ever Take a Vacation?🌴,AI and Longevity🤖, Venture Trends Q2 2024📊 | blog | 4 | 2026-03-30 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
 | Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 4 | 2026-03-30 |
@@ -960,7 +963,9 @@ Generated on 2026-04-05 | 2421 sources
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
+| How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 4 | 2026-03-30 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
+| How to Lose Time and Money | blog | 4 | 2026-03-31 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
 | How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 4 | 2026-03-30 |
 | How to Write a Top 1% Cold DM to Investors | blog | 4 | 2026-03-30 |
@@ -1107,6 +1112,7 @@ Generated on 2026-04-05 | 2421 sources
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
 | Why Hire Offshore?  | blog | 4 | 2026-03-30 |
 | Why It's Safe for Founders to Be Nice | blog | 4 | 2026-03-31 |
+| Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 4 | 2026-03-31 |
 | Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 4 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 4 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
@@ -2066,7 +2072,6 @@ Generated on 2026-04-05 | 2421 sources
 | 5 OpenClaw agents run my home, finances, and code | Jesse Genet | blog | 0 | 2026-03-31 |
 | 50 AI Agent Startup Ideas for 2025 (Across 10 Industries) | blog | 0 | 2026-03-30 |
 | 50 Real Startup Pitch Decks That Raised $380M+ | blog | 0 | 2026-03-30 |
-| 59 Startup Pitch Decks That Raised Millions—See What Works | blog | 0 | 2026-03-30 |
 | 8 Concrete Tips On How To Intentionally Design Great Corporate Culture | blog | 0 | 2026-03-31 |
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
 | 8 Free Excel Templates Every Startup Founder Should Use | blog | 0 | 2026-03-30 |
@@ -2211,9 +2216,7 @@ Generated on 2026-04-05 | 2421 sources
 | Deep Dive: The Future of Space | blog | 0 | 2026-03-30 |
 | Deep Dive: The Media Landscape - Sense-Making 2.0 | blog | 0 | 2026-03-30 |
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
-| Deep Dive: Why AI Will Break the Grid | blog | 0 | 2026-03-30 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
-| Do Founders Ever Take a Vacation?🌴,AI and Longevity🤖, Venture Trends Q2 2024📊 | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
 | Early Work | blog | 0 | 2026-03-31 |
 | Elena Verna | blog | 0 | 2026-03-26 |
@@ -2254,8 +2257,6 @@ Generated on 2026-04-05 | 2421 sources
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 0 | 2026-03-30 |
 | How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
-| How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 0 | 2026-03-30 |
-| How to Lose Time and Money | blog | 0 | 2026-03-31 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
@@ -2396,7 +2397,6 @@ Generated on 2026-04-05 | 2421 sources
 | Why Companies Invest in Open-Source Tech and Research | blog | 0 | 2026-03-30 |
 | Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
-| Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |

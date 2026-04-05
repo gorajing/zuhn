@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 64 insights
+> 65 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260330-4D05` [high] Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
@@ -30,6 +30,7 @@
 - `INS-260325-803C` [high] Financial media does not sell content to viewers — it sells viewers to advertisers — which is why everything is presented as an existential threat designed to capture attention rather than inform decisions.
 - `INS-260330-E43F` [high] China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260330-A98B` [high] Local governments funding themselves primarily through land sales creates a structural incentive to oversupply housing, inflating bubbles.
+- `INS-260404-EEAF` [high] Most fortunes are destroyed by bad investments rather than extravagant spending because investments bypass our innate alarms about self-indulgence.
 - `INS-260325-0688` [high] The loser's game framework shows that investing success comes from minimizing errors, not maximizing returns.
 - `INS-260325-9DBB` [high] Like amateur tennis, investing is won not by brilliant plays but by making fewer mistakes than your opponent.
 - `INS-260325-13C2` [high] We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.

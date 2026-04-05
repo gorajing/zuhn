@@ -54,6 +54,7 @@ related:
   - INS-260403-C5D8
   - INS-260403-5F3E
   - INS-260403-31C2
+  - INS-260404-304E
 ---
 Graham articulates a subtle compounding mechanism: when founders improve at choosing which problems to work on, they benefit twice — the path to success becomes shorter (fewer wrong turns), and they can move faster along the right path because they're more certain it's correct. This is analogous to a running back's downfield path — winding but executed rapidly.
 

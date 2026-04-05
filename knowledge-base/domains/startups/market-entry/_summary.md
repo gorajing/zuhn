@@ -1,9 +1,10 @@
 # Topic: market-entry
 
-> 35 insights
+> 36 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
+- `INS-260404-304E` [high] AI startups capture the most value by targeting 'lagging' analog processes where existing tools still rely on docs and spreadsheets.
 - `INS-260403-CC4E` [high] Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-710A` [high] Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 - `INS-260402-15A7` [high] Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.

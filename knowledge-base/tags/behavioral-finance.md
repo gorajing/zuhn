@@ -1,6 +1,7 @@
 # Tag: behavioral-finance
 
 - `INS-260325-FC0B` About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
+- `INS-260404-EEAF` Most fortunes are destroyed by bad investments rather than extravagant spending because investments bypass our innate alarms about self-indulgence.
 - `INS-260325-0688` The loser's game framework shows that investing success comes from minimizing errors, not maximizing returns.
 - `INS-260325-9DBB` Like amateur tennis, investing is won not by brilliant plays but by making fewer mistakes than your opponent.
 - `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.

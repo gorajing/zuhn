@@ -46,7 +46,6 @@ stance: >-
   sufficient traction creates an immune response from established business
   models that destroys the new initiative.
 related:
-  - INS-260402-0A49
   - INS-260403-C8FD
   - INS-260403-98F3
   - INS-260403-9276

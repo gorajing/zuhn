@@ -49,7 +49,6 @@ stance: >-
   because rare authentic interest eliminates competition.
 related:
   - INS-260323-C814
-  - INS-260329-6BFC
   - INS-260329-1F3F
   - INS-260329-723A
   - INS-260330-31B5
@@ -58,6 +57,7 @@ related:
   - INS-260403-A06E
   - INS-260403-2B63
   - INS-260329-640C
+  - INS-260402-8223
 ---
 Graham uses Bill Gates as the canonical example: Gates didn't just love programming (common taste) — he loved writing software for customers (strange taste). This distinction matters enormously because common interests create intense competition while strange interests that happen to align with market demand create near-monopolies of authentic motivation.
 

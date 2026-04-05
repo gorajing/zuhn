@@ -1,7 +1,8 @@
 # Topic: growth
 
-> 68 insights
+> 69 insights
 
+- `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260402-5EDC` [high] Affordability barriers don't suppress demand — they redirect it into entirely new market categories that serve the same underlying need through novel structures.

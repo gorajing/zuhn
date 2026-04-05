@@ -52,10 +52,9 @@ related:
   - INS-260325-5A72
   - PRI-260323-A3A3
   - INS-260327-C316
+  - INS-260404-EEAF
   - INS-260330-206F
-  - INS-260403-915E
   - INS-260329-8443
-  - INS-260329-BEFB
   - INS-260403-3BD3
 stance: >-
   People who score high in financial avoidance save less, carry more

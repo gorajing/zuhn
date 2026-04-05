@@ -51,10 +51,10 @@ stance: >-
   contaminates self-knowledge with social comparison.
 related:
   - INS-260403-BDE0
+  - INS-260404-375E
   - INS-260329-20E8
   - INS-260404-CDF0
   - INS-260403-41BC
-  - INS-260325-9507
 evidence:
   - id: INS-260329-20E8
     type: CHALLENGES
