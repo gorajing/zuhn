@@ -48,5 +48,9 @@ related:
   - INS-260327-6C54
   - INS-260321-5C24
   - INS-260330-1F7E
+evidence:
+  - id: INS-260330-1F7E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham acknowledges that the biggest spammers could probably protect their servers against auto-retrieving filters. But the most practical defense — adding working unsubscribe links — would itself be a major improvement. This reveals a powerful strategic pattern: you don't need to completely defeat an adversary if you can raise their costs enough to change their behavior. Each threshold of cost increase forces a new adaptation, and those adaptations often benefit the defender. In business, this is why competitive moats work through accumulated friction rather than absolute barriers — you don't need to make competition impossible, just expensive enough that competitors must play by rules that favor you.

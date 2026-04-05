@@ -54,7 +54,6 @@ related:
   - INS-260329-FEA8
   - INS-260329-9391
   - INS-260329-F4B2
-  - INS-260330-30E8
 ---
 The fundamental theorem of calculus — that integration and differentiation are inverse operations — is presented as the climactic insight. What makes this profound is that integration (finding areas) and differentiation (finding rates of change) seem like completely unrelated problems. Yet they're the same problem viewed from opposite directions.
 

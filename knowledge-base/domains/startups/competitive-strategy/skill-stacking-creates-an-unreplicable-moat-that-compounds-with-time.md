@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-4EE4
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-2E46
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Hormozi's earning formula has three variables: total value created × negotiation ability × scarcity of others who can create that value. The third variable is the moat. A great salesperson creates millions in value, but if someone else will do it for less, the position disappears. The defense isn't learning one 'incredibly secret unique skill' — it's the skill SET, the stack that emerges from your specific path.
 

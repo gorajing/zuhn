@@ -11,4 +11,5 @@
 - `INS-260404-02A0` When membership fees are the primary revenue source, the company's survival depends on continuously impressing customers rather than extracting margin from individual transactions.
 - `INS-260405-D4F4` Making membership the revenue source (not a loyalty add-on) structurally forces a company to serve customers rather than extract from them.
 - `INS-260404-F827` When membership IS the business model (not a perk), the company's profit motive aligns with delivering maximum customer value.
+- `INS-260405-051E` Costco makes 75% of revenue from membership fees, so it profits by impressing customers with low prices rather than extracting margin from each sale.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.

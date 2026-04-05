@@ -58,6 +58,7 @@ related:
   - INS-260404-C03F
   - INS-260403-EE70
   - INS-260404-CA98
+  - INS-260405-44F5
 ---
 When founders try to describe everything their product could become, they approach a description of nothing. Saying 'a system to collaboratively leverage the value of information' goes in one ear and out the other—investors discard it as meaningless boilerplate. The counterintuitive move is to start with an overly narrow description that's gripping, then flesh it out incrementally. This mirrors incremental software development: start with a working prototype (a clear mental model in the investor's head), then add features. The goal isn't to capture your full vision but to be compelling enough that investors want to talk further.
 

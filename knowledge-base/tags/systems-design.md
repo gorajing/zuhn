@@ -12,5 +12,5 @@
 - `INS-260330-0017` The electron transport chain extracts energy through 4 sequential protein complexes rather than one reaction — a pattern that applies to any complex value-extraction pipeline.
 - `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260404-F908` Photosynthesis converts sunlight to glucose through a long chain of intermediate energy carriers (ATP, NADPH) rather than directly, losing energy at each step but gaining reliability.
-- `INS-260402-F479` Gall's Law states that all complex working systems evolved from simple working systems — designing complexity from scratch always fails.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
+- `INS-260402-F479` Gall's Law states that all complex working systems evolved from simple working systems — designing complexity from scratch always fails.

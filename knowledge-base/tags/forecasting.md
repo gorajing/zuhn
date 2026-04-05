@@ -6,4 +6,5 @@
 - `INS-260330-FB66` Human brains default to linear extrapolation, causing systematic underestimation of exponential processes in their early stages.
 - `INS-260330-71DE` Human brains default to linear extrapolation, causing systematic underestimation of exponential processes like epidemics, compounding returns, and technology adoption.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
+- `INS-260405-809E` Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
 - `INS-260327-1421` The paper process (NDAs, contracts, procurement, legal reviews) is the single biggest cause of deal slippage, which is why MEDDPICC separates it from the decision process as its own tracked element.

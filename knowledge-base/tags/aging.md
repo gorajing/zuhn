@@ -1,7 +1,7 @@
 # Tag: aging
 
-- `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
+- `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260325-B393` Standard blood work can reveal your biological age, which typically diverges from your chronological age by up to 5 years — and this number is what actually predicts disease risk.
 - `INS-260325-E8BC` Your biological age is malleable through lifestyle changes, even though your chronological age is fixed.
 - `INS-260327-2321` Common skincare ingredients including retinol, chemical sunscreens, and fragrances accelerate skin aging

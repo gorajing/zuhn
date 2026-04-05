@@ -61,6 +61,10 @@ related:
   - INS-260403-CE5F
   - INS-260404-3D8F
   - INS-260404-ED19
+evidence:
+  - id: INS-260322-2E33
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Once a customer pays $60-120 for Costco membership, sunk-cost psychology kicks in: they stop comparing prices elsewhere because not shopping at Costco feels like 'wasting' the fee already paid. Amazon Prime triggers the same mechanism, but with a critical difference — Prime is optional, so customers self-select based on whether they calculate the savings justify the cost. Costco's mandatory fee means every customer experiences the sunk-cost effect, creating universal behavioral lock-in rather than selective lock-in.
 

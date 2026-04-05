@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-05 | 4001 actionable insights
+Generated on 2026-04-05 | 4011 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1165,10 +1165,14 @@ Generated on 2026-04-05 | 4001 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
+- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - [INS-260404-6C8F] A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
+
+## psychology/epistemics
+- [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -2087,6 +2091,9 @@ Generated on 2026-04-05 | 4001 actionable insights
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
 - [INS-260404-78E6] When downvotes affect karma, users delete wisecracks but stubbornly leave up substantive controversial opinions.
 
+## startups/company-culture
+- [INS-260405-AC40] Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
+
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
 - [INS-260322-7723] AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
@@ -2293,6 +2300,7 @@ Generated on 2026-04-05 | 4001 actionable insights
 - [INS-260404-6E47] Costco's membership fee filters for affluent households averaging $100K income, ensuring high per-visit spending and loyal renewal behavior.
 - [INS-260404-E9F3] Oxygen is technically a waste byproduct of water-splitting in photosynthesis, yet it became the foundation of all animal life on Earth.
 - [INS-260405-6524] Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
+- [INS-260405-F57E] Costco stocks ~4,000 SKUs vs 30,000 for a typical supermarket, making suppliers compete fiercely to be one of two choices per category.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2325,6 +2333,9 @@ Generated on 2026-04-05 | 4001 actionable insights
 - [INS-260403-6BF7] Developer influencers who master visibility often outperform technically superior peers in career outcomes.
 - [INS-260404-5AC1] Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 - [INS-260404-875B] Apply a sentence-level filter: if you wouldn't say it to a friend, rewrite it until you would.
+
+## startups/decision-making
+- [INS-260405-809E] Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
 
 ## startups/developer-tools
 - [INS-260329-9A58] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
@@ -3026,6 +3037,11 @@ Generated on 2026-04-05 | 4001 actionable insights
 - [INS-260405-3DDF] As your description expands to cover everything, it converges to saying nothing — be narrow first, then flesh it out.
 - [INS-260405-672E] Investors' biggest fear is that you built something nobody wants — concrete user stories are the antidote to that fear.
 - [INS-260405-3C56] Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.
+- [INS-260405-5BD3] After seeing hundreds of pitches, investors' first filter is memory — a single sticky phrase ('the X of Y') determines whether you clear that bar.
+- [INS-260405-092A] Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
+- [INS-260405-12E6] Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.
+- [INS-260405-44F5] Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.
+- [INS-260405-9E25] Investors' deepest fear is that you built something nobody wants — specific user stories and proxies for existing demand directly counter that fear.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

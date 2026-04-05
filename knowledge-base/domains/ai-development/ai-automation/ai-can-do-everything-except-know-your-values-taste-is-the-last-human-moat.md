@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-FC6F
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260405-283A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Even frontier models like GPT-5.4 and Opus 4.6 lack taste. They can build, design, write, and code, but they cannot decide what 'good' looks like for your specific brand, product, or vision. This makes values articulation the critical skill: you need to become more aware of your own values and learn to communicate them as custom skills, brand guides, and configuration rules.
 

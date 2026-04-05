@@ -56,6 +56,10 @@ related:
 stance: >-
   The Cursor founders saw the 2020 scaling laws papers as predictable progress,
   but early GPT-4 access in late 2022 made the theoretical gains concre...
+evidence:
+  - id: INS-260403-1B8A
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The Cursor team traces their founding conviction to the 2020 scaling laws papers from OpenAI, which showed predictable improvement with more compute and data. But it was early access to GPT-4 in late 2022 that converted theoretical belief into action — 'the step up in capabilities felt enormous.' One founder even had a bet that AI would win an IMO gold medal by 2024, which seemed delusional at the time but turned out to be prescient.
 

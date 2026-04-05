@@ -57,6 +57,16 @@ related:
   - INS-260403-D379
   - INS-260404-4E13
   - INS-260403-3DF3
+evidence:
+  - id: INS-260325-5656
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-E282
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-63DD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The 'Build' in Build-Measure-Learn is widely misinterpreted as 'build a smaller version of the final product.' In practice, a landing page measuring click-through rates or a card-sort exercise ranking customer jobs-to-be-done can generate more useful signal at a fraction of the cost. The goal of early experiments is not to demonstrate technical feasibility but to reduce uncertainty about customer behavior and willingness to pay.
 

@@ -49,5 +49,11 @@ evidence:
   - id: INS-260403-0949
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-12EA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-445D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The mainstream narrative around AI centers on efficiency, accuracy, and automation throughput. But the essay argues that the more consequential property is AI's ability to simulate genuine human interaction — stochastic, empathic, and emotionally expressive. No prior technology could actually act human in return; AI can. This shifts the relevant competitive axis from 'how much work does it do?' to 'how does it make users feel?' Products built on the latter axis tap different markets, command different pricing, and face different moats than productivity tools.

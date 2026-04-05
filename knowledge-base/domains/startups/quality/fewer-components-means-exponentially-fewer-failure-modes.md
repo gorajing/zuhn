@@ -49,6 +49,10 @@ related:
   - INS-260403-13E6
   - INS-260329-D2CA
   - INS-260329-B214
+evidence:
+  - id: INS-260329-D2CA
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham draws an analogy to industrial design: just as designers strive to reduce moving parts in a machine, bottom-up programming reduces components in a program. The insight goes deeper than 'less code, fewer bugs.' Connections between components grow combinatorially — halving your component count can quarter your connection count.
 

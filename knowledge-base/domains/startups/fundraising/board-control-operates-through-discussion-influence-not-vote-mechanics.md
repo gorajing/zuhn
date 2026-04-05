@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260330-7675
   - INS-260330-7BF5
+  - INS-260405-370B
   - INS-260330-5779
   - INS-260403-3A71
-  - INS-260323-500B
 ---
 Graham makes a subtle but important distinction about what board control actually means in practice. Board votes are rarely split; decisions are effectively made in the discussions that precede votes. The side that knows it would lose a formal vote tends to be less insistent in those discussions, naturally yielding to the majority position.
 

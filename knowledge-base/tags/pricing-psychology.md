@@ -8,5 +8,6 @@
 - `INS-260404-5D39` Once customers pay a mandatory membership fee, sunk-cost bias makes them default to that retailer without comparing prices elsewhere.
 - `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
 - `INS-260404-3D8F` Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
+- `INS-260405-9EE6` Costco's deliberate obstacles — confusing layout, membership fee, crowded aisles — select for the right customers and increase per-visit spend.
 - `INS-260329-39E1` Self-serve models reduce price resistance by making customers feel responsible for their own spending.
 - `INS-260329-D159` Hormozi argues you should never sell tutoring hours — you sell the score increase and the downstream earning premium of attending a better school.

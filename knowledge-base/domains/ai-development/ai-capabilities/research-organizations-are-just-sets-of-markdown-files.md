@@ -55,5 +55,11 @@ evidence:
   - id: INS-260330-A660
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-C05F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-6AB5
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Karpathy describes the meta-layer of auto-research: the program.md file IS the research organization's operating system. Different program.mds would yield different research progress. You can imagine a contest where people write different program.mds for the same hardware budget and measure which produces the most improvement. Then feed all that data to a model to write an even better program.md. This is meta-optimization of the research process itself.

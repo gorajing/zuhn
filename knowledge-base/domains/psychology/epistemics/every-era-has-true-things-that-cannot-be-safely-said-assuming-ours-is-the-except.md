@@ -52,6 +52,10 @@ related:
   - INS-260330-8E8A
   - INS-260323-DA1E
   - INS-260326-E0CB
+evidence:
+  - id: INS-260326-E0CB
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham makes a simple but forceful argument from historical base rates: at every documented point in history, there existed true statements that were dangerous to voice. To believe that the present moment is uniquely free of such constraints requires an extraordinary coincidence — the kind that should trigger Bayesian skepticism, not comfort. Yet most people default to trusting their gut that the present is different.
 

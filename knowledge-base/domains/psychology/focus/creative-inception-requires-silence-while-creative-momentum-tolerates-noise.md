@@ -52,6 +52,13 @@ related:
   - INS-260403-CCC3
   - INS-260403-21AF
   - INS-260321-E4EB
+evidence:
+  - id: INS-260321-E4EB
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260323-0603
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Graham distinguishes two modes of thinking: continuing an existing project (editing, debugging, iterating) versus starting something new. The first tolerates ambient noise because the mental scaffolding is already in place — you know what you're doing and just need to execute. The second requires complete quiet because you're building that scaffolding from scratch.
 

@@ -51,6 +51,10 @@ related:
   - INS-260327-9377
   - INS-260329-ACE6
   - INS-260330-AB58
+evidence:
+  - id: INS-260325-C7FA
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Most companies are structurally optimized for one mode. Startups are built to search; established companies are built to execute. The challenge for any company that wants longevity is building the capacity for both. This isn't just about having an 'innovation lab' — it requires different incentive structures, different reporting lines, different definitions of success, and leadership that can context-switch between the two modes.
 

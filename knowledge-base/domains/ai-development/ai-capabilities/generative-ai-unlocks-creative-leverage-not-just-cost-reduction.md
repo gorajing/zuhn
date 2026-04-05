@@ -55,6 +55,10 @@ related:
   - PRI-260328-D5EB
   - INS-260402-543E
   - PRI-260328-0C15
+evidence:
+  - id: INS-260330-059C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 While the immediate impact of generative AI is cost reduction (Azra Games cut concepting costs by >50%), the essay argues the transformative value lies in what becomes newly possible: infinite unique in-game items, personalized storylines that never repeat, and AI companions that adapt to individual players over time. This is creative leverage — the ability to produce n-of-1 content at scale.
 

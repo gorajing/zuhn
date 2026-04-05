@@ -45,7 +45,6 @@ related:
   - INS-260404-007B
   - INS-260323-8392
   - INS-260323-979C
-  - INS-260327-9924
 evidence:
   - id: INS-260323-1930
     type: TRANSFERS_TO

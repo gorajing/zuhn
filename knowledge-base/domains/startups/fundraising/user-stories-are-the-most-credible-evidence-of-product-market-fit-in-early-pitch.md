@@ -50,12 +50,11 @@ stance: >-
   genuine demand more convincingly than market size statistics or abstract value
   propositions.
 related:
-  - INS-260403-17A3
   - INS-260403-A65D
+  - INS-260405-9E25
   - INS-260404-CF2A
   - INS-260403-419B
   - INS-260404-9E71
-  - INS-260404-3B9E
 ---
 The core investor anxiety about early-stage startups is a priori product development: founders building based on theory rather than validated need. User stories counter this directly by providing 'proxy for demand' — evidence of what people are doing today with inadequate tools.
 

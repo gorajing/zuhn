@@ -56,6 +56,13 @@ related:
   - INS-260329-388E
   - INS-260329-7192
   - INS-260330-B5D6
+evidence:
+  - id: INS-260325-EF79
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-9EE4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Osterwalder's interest in willpower research — specifically McGonigal's work — reveals a pattern among high-performing entrepreneurs: they treat willpower not as a fixed trait but as a developable skill with cross-domain returns. The key insight is the transfer effect — willpower gains in exercise or diet spill over into professional discipline, creative output, and strategic patience.
 

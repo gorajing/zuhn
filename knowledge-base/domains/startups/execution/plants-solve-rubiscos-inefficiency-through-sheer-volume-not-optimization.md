@@ -47,7 +47,6 @@ stance: >-
   strategy when replacement cost is prohibitive
 related:
   - INS-260330-E1B3
-  - INS-260330-4EC0
   - INS-260330-BFA2
   - INS-260404-1FCE
   - INS-260404-AE3C
@@ -56,6 +55,7 @@ related:
   - INS-260403-3E1C
   - INS-260403-2A50
   - INS-260404-B6E8
+  - INS-260405-95AE
 ---
 When RuBisCo proved too error-prone to replace, plants adopted a brute-force strategy: flood the system with so much of the enzyme that the net output is sufficient despite per-unit failure rates. At any given time, roughly 40 billion tons of RuBisCo exist on Earth — making it likely the most abundant protein on the planet.
 

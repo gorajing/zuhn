@@ -52,7 +52,6 @@ related:
   - INS-260403-BDBE
   - INS-260403-0AF4
   - INS-260404-D8C7
-  - INS-260404-B87E
 ---
 Professional investors hear enough pitches that they all blur together. The first cut for getting funded is simply being remembered, and the mechanism is a sticky descriptive phrase launched early in the presentation—apparently casually but deliberately crafted.
 

@@ -51,5 +51,6 @@ related:
   - INS-260404-D543
   - INS-260404-A450
   - INS-260404-72EE
+  - INS-260405-44F5
 ---
 As a pitch description approaches 'could be anything,' its information content approaches zero. Investors discard sentences like 'collaboratively leverage the value of information' as meaningless boilerplate. The counterintuitive move is to start with a description that feels misleadingly narrow — 'an easy web-based database' — then flesh it out. This mirrors incremental development: always have 'working code,' meaning a working mental model in the investor's head. The goal isn't to capture your full vision but to be compelling enough to earn a follow-up conversation.

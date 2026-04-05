@@ -48,7 +48,6 @@ stance: >-
   low-price competitors cannot match.
 related:
   - INS-260327-724D
-  - INS-260403-2AE7
   - INS-260403-323A
   - INS-260403-0435
   - INS-260403-524B

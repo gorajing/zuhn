@@ -78,6 +78,12 @@ evidence:
   - id: INS-260330-0F23
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260325-252D
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260327-EDF0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The article identifies a structural asymmetry in AI agent adoption. In large enterprises, deploying an AI agent means navigating decision-maker hierarchies, entrenched departmental processes, proprietary systems integration, and organizational politics around job displacement. In SMBs, the same AI agent simply fills a role that never existed — there's no system to rip out, no department to reorganize, no incumbent to threaten.
 

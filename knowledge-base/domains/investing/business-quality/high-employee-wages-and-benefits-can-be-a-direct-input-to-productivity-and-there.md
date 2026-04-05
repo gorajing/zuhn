@@ -56,6 +56,7 @@ related:
   - INS-260405-194D
   - INS-260403-C125
   - INS-260404-E1B0
+  - INS-260405-AC40
 ---
 The standard business instinct is to minimize labor cost per hour. Costco's data suggests the relevant metric is output per dollar spent, not wages per hour. Higher wages attract better candidates, reduce turnover (eliminating costly rehiring and training cycles), and create genuine loyalty that shows up as lower theft, better customer service, and higher throughput.
 

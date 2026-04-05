@@ -57,6 +57,10 @@ related:
   - INS-260404-76DD
   - INS-260404-1455
   - INS-260404-84FE
+evidence:
+  - id: INS-260404-76DD
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 When RuBisCo grabs oxygen instead of CO2, it produces phosphoglycolate — a toxic compound that interferes with the Calvin Cycle. Rather than fix the root cause (replace RuBisCo), plants evolved an entire secondary pathway: enzymes to break phosphoglycolate into glycine and other compounds that feed back into useful metabolism. This workaround pathway is now itself essential infrastructure.
 

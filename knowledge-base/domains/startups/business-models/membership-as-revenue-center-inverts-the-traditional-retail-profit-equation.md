@@ -56,9 +56,9 @@ related:
   - INS-260403-5348
   - INS-260403-F634
   - INS-260403-CDB9
+  - INS-260405-051E
   - INS-260404-60D6
   - INS-260404-35F8
-  - INS-260404-4DC8
 ---
 Traditional retailers use loss leaders to attract foot traffic, then profit from marked-up goods elsewhere in the store. Costco inverts this entirely: its self-imposed 15% maximum markup means products are essentially sold near cost, while the $60-$120 annual membership fee is where real revenue lives. This creates a structural incentive to keep prices relentlessly low — raising prices would generate pennies today but cost the company $60+ per defecting member next year.
 

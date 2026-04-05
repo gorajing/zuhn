@@ -71,5 +71,11 @@ evidence:
   - id: INS-260330-B50A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-8908
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260405-4693
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Transfer from psychology principle: formal systems reveal truths their creators never intended. Applied to AI capabilities: LLMs are formal systems trained on mathematical optimization of token prediction. When they produce surprising outputs — apparent reasoning, unexpected capabilities, or solutions that contradict the developer's model of what the system should be able to do — the historical precedent from mathematics and physics is to take the output seriously. Dirac's equation predicted antimatter, which seemed absurd until it was confirmed. Cantor's set theory revealed multiple sizes of infinity, which was ridiculed until it became foundational. The practical implication for AI research: build systematic processes for investigating surprising LLM behaviors rather than dismissing them as hallucinations or bugs. Some of what we call 'hallucination' may be emergent capability we do not yet understand.

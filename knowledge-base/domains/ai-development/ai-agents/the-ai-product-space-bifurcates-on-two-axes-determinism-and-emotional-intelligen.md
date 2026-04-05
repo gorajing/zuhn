@@ -52,5 +52,18 @@ related:
   - INS-260325-55D8
   - PRI-260325-A95E
   - INS-260403-78E2
+evidence:
+  - id: INS-260327-3049
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-34C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260325-55D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-78E2
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The essay proposes a two-axis framework: how deterministic does the output need to be, and how much emotional intelligence is required in the delivery? This produces three archetypes. Anonymous automation: deterministic, low EQ — agents that just do the work invisibly. Humanness as last mile: mostly deterministic but EQ-enhanced delivery (e.g., a warm voice reading out a customer service resolution). Humanness as the product: stochastic, high EQ — synthetic users, companions, coaches where unpredictability and emotional resonance are features, not bugs. The practical implication for builders is that the right tech stack, evaluation metric, and go-to-market differ sharply across archetypes. Misidentifying your archetype leads to over-engineering empathy into automation tools or under-investing in emotional fidelity in companion products.

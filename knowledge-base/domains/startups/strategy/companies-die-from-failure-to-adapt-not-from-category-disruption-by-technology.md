@@ -50,7 +50,6 @@ stance: >-
   but by individual companies failing to evolve their value propositions while
   blaming external forces for their decline.
 related:
-  - INS-260323-5106
   - INS-260327-418E
   - INS-260327-0710
   - INS-260327-1B4A
@@ -60,6 +59,7 @@ related:
   - INS-260403-CF09
   - INS-260403-FED6
   - INS-260403-D8A2
+  - INS-260404-CD53
 ---
 The narrative that Amazon killed retail is factually wrong. During the same period that Sears lost 142 stores and Toys-R-Us went bankrupt, companies like Costco, Ross, Aldi, and Dollar General grew significantly. Each failed retailer had specific, identifiable failures: Sears tried to do everything poorly, J.C. Penney lost touch with its customers, and Toys-R-Us dismissed the internet.
 

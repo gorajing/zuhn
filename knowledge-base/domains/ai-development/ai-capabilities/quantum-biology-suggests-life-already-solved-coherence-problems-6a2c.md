@@ -75,6 +75,15 @@ evidence:
   - id: INS-260330-6E61
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-172E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-47BC
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-D39D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Al-Khalili introduces quantum biology: the hypothesis that evolution has discovered and exploited quantum phenomena inside living cells. Evidence hints that photosynthesis may use quantum superposition for energy transfer efficiency. If life can maintain coherence in warm, wet, chemically noisy cellular environments — conditions far harsher than laboratory setups — studying these biological mechanisms could provide blueprints for engineering quantum computers.
 

@@ -50,6 +50,10 @@ related:
   - INS-260403-F6F9
   - INS-260325-05EC
   - PRI-260328-E870
+evidence:
+  - id: INS-260325-05EC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The standard advice given to scaling founders — hire good people, give them autonomy, manage only through direct reports — consistently produces worse outcomes than founders who maintain deeper engagement across the organization. Brian Chesky found this out the hard way at Airbnb, as did numerous other successful YC founders.
 

@@ -56,6 +56,10 @@ related:
   - INS-260403-5BAD
   - INS-260403-2BEE
   - INS-260403-45AA
+evidence:
+  - id: INS-260330-E282
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 At the start of any innovation initiative, risk and uncertainty are at their maximum. The instinct to reduce this through more analysis, bigger plans, or consensus-building is a trap — these activities feel productive but don't actually reduce uncertainty about whether customers want what you're building or whether the business model works.
 

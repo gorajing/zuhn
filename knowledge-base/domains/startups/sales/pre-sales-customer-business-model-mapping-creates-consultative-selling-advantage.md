@@ -59,6 +59,10 @@ related:
   - INS-260404-0777
   - INS-260403-754F
   - INS-260403-C0FE
+evidence:
+  - id: INS-260322-E4D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 SAP and Ericsson use the Business Model Canvas to map their customers' business models before or during the sales process. This flips the sales conversation from 'here's what our product does' to 'here's how our solution strengthens your value creation and delivery system.' When you understand a customer's key activities, cost structure, and revenue streams, you can frame your offering as addressing a specific building block constraint.
 

@@ -55,6 +55,13 @@ related:
   - INS-260323-0961
   - INS-260403-34C0
   - INS-260403-A1DF
+evidence:
+  - id: INS-260403-78E2
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-34C0
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham notes that AI may serve as a form of 'alien life' that lets us determine precisely which truths are necessary for intelligence. If we find it impossible to build a system we'd recognize as intelligent without it using Occam's razor — preferring simpler explanations — that would constitute evidence that parsimony is a necessary feature of intelligence, not a human cultural preference. We might eventually prove it.
 

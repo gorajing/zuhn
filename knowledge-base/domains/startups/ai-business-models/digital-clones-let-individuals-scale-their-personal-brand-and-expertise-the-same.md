@@ -55,5 +55,9 @@ related:
   - INS-260403-43B9
   - PRI-260328-8317
   - PRI-260328-C528
+evidence:
+  - id: INS-260325-F20C
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 The essay extends the AI-as-labor thesis from businesses to individuals. Businesses use AI workers to scale revenue without headcount; individuals will use digital clones to scale personal presence without time. The clone preserves specific attributes — communication style, domain expertise, point of view — rather than generic capability. This unlocks new economic models: tiered access (clone vs. real person), renting domain expertise on marketplaces, or licensing your likeness for media appearances. The technology also raises new questions about authenticity and consent in professional and personal relationships. The plausibility depends on whether users will actually accept clones as substitutes in high-trust contexts — still an open question at this stage.

@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260323-6BF4
   - INS-260402-F3D7
+  - INS-260405-E06B
   - INS-260330-725C
   - INS-260403-B9F4
-  - INS-260403-B505
 evidence:
   - id: INS-260402-F3D7
     type: TRANSFERS_TO

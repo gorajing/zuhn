@@ -53,6 +53,10 @@ related:
   - INS-260404-76DD
   - INS-260404-1455
   - INS-260404-E6F9
+evidence:
+  - id: INS-260404-76DD
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 When rising oxygen levels caused RuBisCo to produce toxic phosphoglycolate, plants didn't evolve a better carbon-fixing enzyme. Instead, they evolved photorespiration pathways to convert the toxic byproduct into useful amino acids (glycine) and Calvin cycle intermediates. They also evolved C4 and CAM photosynthesis as spatial and temporal workarounds.
 

@@ -57,6 +57,9 @@ evidence:
   - id: INS-260327-E747
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-7F06
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 
 The best users of AI automation are "super AI enabled, not replacing

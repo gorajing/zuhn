@@ -52,11 +52,12 @@ stance: >-
   Buffering intermittent energy through concentration gradients is more robust
   than direct coupling between energy source and consumer.
 related:
-  - INS-260330-1677
   - INS-260403-37C4
   - INS-260404-BDE5
+  - INS-260330-1677
   - INS-260404-91A0
   - INS-260330-666E
+  - INS-260405-64C5
 ---
 Rather than directly coupling photon energy to glucose production, photosynthesis uses an intermediate buffering step: the electron transport chain pumps protons into the thylakoid, creating a concentration gradient. Protons then flow back through ATP Synthase, converting this stored potential into ATP on demand. This decouples the intermittent input (photons) from the downstream consumer (Calvin Cycle).
 

@@ -55,6 +55,10 @@ related:
   - INS-260327-684D
   - INS-260326-E5D3
   - INS-260323-1D46
+evidence:
+  - id: INS-260325-2C31
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham proposes using 'would an alien intelligence share this?' as a heuristic for identifying the most fundamental truths below math and physics. The filter works because it strips away cultural, evolutionary, and human-specific biases, leaving only claims that follow from intelligence itself. Ideas like empirical reasoning, Occam's razor, and improvement through practice survive this test; many cherished human philosophical frameworks would not.
 

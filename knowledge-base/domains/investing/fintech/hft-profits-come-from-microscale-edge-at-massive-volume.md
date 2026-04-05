@@ -46,10 +46,10 @@ stance: >-
   sustainable competitive advantage.
 related:
   - INS-260403-C1A5
+  - INS-260405-051E
   - INS-260321-D183
   - INS-260404-837E
   - INS-260404-0298
-  - INS-260404-41AA
 evidence:
   - id: INS-260322-3259
     type: TRANSFERS_TO

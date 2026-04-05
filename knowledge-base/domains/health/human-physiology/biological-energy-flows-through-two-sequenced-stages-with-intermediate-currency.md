@@ -62,6 +62,10 @@ related:
   - INS-260404-9428
   - INS-260405-C780
   - INS-260405-F3C0
+evidence:
+  - id: INS-260405-F3C0
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 The light-dependent reactions and the Calvin Cycle are physically and temporally distinct: the first happens on thylakoid membranes using photon energy, and converts it into ATP and NADPH. The second happens in the stroma and consumes those molecules to build carbohydrates from CO2. The two stages don't interact directly — they communicate only through the intermediate energy currencies.
 

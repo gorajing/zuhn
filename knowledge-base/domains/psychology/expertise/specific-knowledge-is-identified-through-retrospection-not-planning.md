@@ -56,6 +56,10 @@ related:
   - INS-260329-6004
   - INS-260330-053D
   - INS-260330-6F2F
+evidence:
+  - id: INS-260320-E6DD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Naval makes a counterintuitive point: you don't choose your specific knowledge, you discover it. Especially past your early twenties, the most honest strategy is to examine what you've already built — the skills you naturally accumulated, the topics you obsessively return to, the problems that feel like play rather than work.
 

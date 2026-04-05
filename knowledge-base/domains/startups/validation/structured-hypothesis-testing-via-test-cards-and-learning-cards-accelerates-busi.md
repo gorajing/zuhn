@@ -53,6 +53,10 @@ related:
   - INS-260323-4D8D
   - PRI-260328-8E01
   - INS-260403-1358
+evidence:
+  - id: INS-260323-4D8D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Strategyzer's test card and learning card framework structures the messy process of business model validation into discrete, trackable experiments. A test card forces founders to articulate their hypothesis, what they'll measure, the metric threshold for success, and the expected outcome — before running the experiment. The learning card then captures what was actually observed and what decisions follow.
 

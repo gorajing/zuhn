@@ -61,5 +61,8 @@ evidence:
   - id: INS-260325-BCA6
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-670E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Le Cong describes his decision framework: when choosing between paths, he picks the one that maximizes the sci-fi nature of his life. This led him from gaming dreams to electronic engineering to biology to CRISPR. He argues that it is sometimes less about whether you are the smartest person to work on a problem and more about whether you really believe in it enough to keep working through failure. His two years of failed experiments before the CRISPR breakthrough would have ended the journey of anyone optimizing for predictable outcomes. Curiosity and belief sustained him through the failure period.

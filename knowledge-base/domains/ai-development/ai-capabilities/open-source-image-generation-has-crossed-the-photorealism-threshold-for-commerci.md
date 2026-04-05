@@ -56,6 +56,10 @@ related:
   - INS-260403-8A65
   - INS-260327-5D5F
   - INS-260323-23B9
+evidence:
+  - id: INS-260321-CCD9
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The gap between open-source and proprietary image generation has collapsed to the point where fine-tuned checkpoints on Stable Diffusion XL (like Juggernaut XL) produce images realistic enough to sustain paid subscription businesses. Aitana, an entirely AI-generated Instagram model, earns ~$10K/month from subscriptions alone, demonstrating that photorealism is no longer the bottleneck — distribution and persona building are.
 

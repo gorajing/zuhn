@@ -62,5 +62,8 @@ evidence:
   - id: INS-260330-7DCF
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-C514
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Ross discovered that sending multiple Figma screens simultaneously to Windsurf produces poor results — the AI conflates elements across screens and mispositions components. His workaround is feeding one screen at a time with explicit spatial context ('the button is at the bottom of the screen, the logo is at the top'). This reveals a fundamental limitation: AI coding tools can generate code but lack the spatial reasoning to understand where elements should be positioned relative to a mobile viewport. This limitation likely persists because training data contains code but not the visual layouts the code produces. The workaround of narrating spatial relationships is essentially converting visual information into the textual format AI can process.

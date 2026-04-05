@@ -54,6 +54,10 @@ related:
   - INS-260403-B1F2
   - INS-260404-2E6C
   - INS-260403-3DF3
+evidence:
+  - id: INS-260330-E282
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 At the earliest stage of a venture, uncertainty is maximum and nearly every assumption is unvalidated. If each experiment costs significant time or money, the startup burns through resources before learning enough to find product-market fit. The solution is to sequence experiments by risk: test the hypotheses that could kill the business first, using the cheapest possible methods.
 

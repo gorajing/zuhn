@@ -57,8 +57,7 @@ related:
   - INS-260403-2A1D
   - INS-260403-F171
   - INS-260403-BDBE
-  - INS-260404-96C6
-  - INS-260403-7FBE
+  - INS-260405-5BD3
 ---
 Professional investors experience pitch fatigue where presentations blur together into undifferentiated noise. The first survival filter isn't being impressive — it's being remembered at all. A single descriptive phrase like 'the Microsoft Word of ecommerce' (Viaweb's soundbite) creates a cognitive anchor that persists after the details fade.
 

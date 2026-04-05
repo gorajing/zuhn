@@ -48,7 +48,6 @@ stance: >-
   cost-cutting measure
 related:
   - INS-260329-4870
-  - INS-260329-C409
   - INS-260330-B3DD
   - INS-260404-C9B5
   - INS-260404-7A5B

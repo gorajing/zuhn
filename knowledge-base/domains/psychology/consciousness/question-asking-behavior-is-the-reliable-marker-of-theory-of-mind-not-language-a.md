@@ -55,6 +55,10 @@ related:
   - INS-260329-4D06
   - INS-260329-ACE6
   - INS-260325-E84D
+evidence:
+  - id: INS-260323-2C19
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Despite decades of sign language training, no ape has ever asked a human a question. They can answer questions, express emotions, and form novel thoughts at the level of a 2.5-year-old human child. But asking a question requires recognizing that another being possesses knowledge you lack — a theory of mind. Human children develop this around age 4, as demonstrated by the Sally-Anne test, where younger children cannot separate their own knowledge from what others know.
 

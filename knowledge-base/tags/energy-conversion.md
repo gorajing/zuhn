@@ -1,6 +1,7 @@
 # Tag: energy-conversion
 
 - `INS-260403-791A` Photosynthesis charges thylakoids like batteries via proton gradients before synthesizing ATP — a pattern of staged intermediate storage that applies to computational pipeline design.
+- `INS-260405-64C5` Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260404-DDB5` Photosynthesis converts light energy through a four-complex electron transport chain rather than directly, because intermediary steps allow controlled energy capture at each stage.
 - `INS-260404-CDD2` The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency.
 - `INS-260404-64E2` Photosynthesis splits energy capture into four protein complexes because stepwise degradation is more controllable than single-step conversion.

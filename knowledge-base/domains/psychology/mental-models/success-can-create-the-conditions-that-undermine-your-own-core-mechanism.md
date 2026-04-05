@@ -59,7 +59,6 @@ stance: >-
 related:
   - INS-260325-0895
   - INS-260322-F6C3
-  - INS-260330-AB3C
   - INS-260330-B71B
   - INS-260330-4441
   - INS-260330-B3D5
@@ -67,6 +66,7 @@ related:
   - INS-260330-1650
   - INS-260330-D304
   - INS-260330-E497
+  - INS-260330-F5CF
 ---
 RuBisCo, the enzyme at the heart of carbon fixation, was optimized for a world with negligible atmospheric oxygen. As photosynthesis itself pumped oxygen into the atmosphere over millions of years, RuBisCo began confusing oxygen for CO2 about 50% of the time—producing phosphoglycolate, a toxic byproduct that interferes with the Calvin cycle and requires its own energy-expensive cleanup pathway.
 

@@ -63,6 +63,10 @@ related:
   - INS-260404-AE3C
   - INS-260330-6ECA
   - INS-260404-76DD
+evidence:
+  - id: INS-260404-76DD
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved when Earth's atmosphere had almost no oxygen, so its inability to distinguish CO2 from O2 didn't matter. When plants themselves filled the atmosphere with oxygen through the light-dependent reactions, RuBisCo started grabbing oxygen about half the time — creating a toxic byproduct (phosphoglycolate) that plants must spend additional energy to neutralize.
 

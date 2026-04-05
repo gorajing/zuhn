@@ -41,10 +41,10 @@ stance: >-
   experience profitable.
 related:
   - INS-260327-8F03
+  - INS-260405-AC40
   - INS-260403-85DE
   - INS-260403-E2D9
   - INS-260405-C8BC
-  - INS-260327-724D
 evidence:
   - id: INS-260329-D8C7
     type: TRANSFERS_TO

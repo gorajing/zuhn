@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 546 insights
+> 548 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -356,6 +356,7 @@
 - `INS-260404-4780` [high] Costco stocks ~4,000 SKUs vs Walmart's 140,000, making each slot so valuable that suppliers compete on price to win it.
 - `INS-260404-7B3A` [high] Offering only 1-2 choices per category forces suppliers to compete on price and quality for scarce shelf space.
 - `INS-260403-5BBC` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
+- `INS-260405-F57E` [high] Costco stocks ~4,000 SKUs vs 30,000 for a typical supermarket, making suppliers compete fiercely to be one of two choices per category.
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
 - `INS-260404-7BEE` [high] Fewer choices means more volume per item, which means more power over suppliers and lower costs.
 - `INS-260404-1B66` [high] Extreme product curation concentrates buying power into fewer suppliers, creating leverage that funds lower prices.
@@ -440,6 +441,7 @@
 - `INS-260330-0C96` [high] Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260324-160B` [high] Texas has the most BBQ spots per capita but a 33% failure rate — lower than less competitive states like California and New York where failure rates are even higher.
 - `INS-260330-1DCA` [high] We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
+- `INS-260405-7B7C` [high] Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
 - `INS-260404-CB96` [high] The best defense turns the attacker's greatest strength into their greatest vulnerability.
 - `INS-260330-6B7F` [high] Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260327-E2BC` [high] AI startups either help professionals do their jobs, replace tasks entirely, or make previously impossible work feasible.

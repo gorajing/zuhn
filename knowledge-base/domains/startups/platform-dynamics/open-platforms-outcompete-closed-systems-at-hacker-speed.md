@@ -51,6 +51,10 @@ related:
   - INS-260403-D2B1
   - PRI-260328-4CC0
   - PRI-260322-8FD4
+evidence:
+  - id: INS-260321-D01E
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 The Internet beat TV primarily because it is an open platform where anyone can build whatever they want. Innovation happens at the speed of individual hackers and small teams, not at the pace of large corporate planning cycles. This is a recurring pattern in technology competition: closed systems that control distribution lose to open ones that let a thousand experiments run simultaneously. The market's ability to select winners from a massive pool of attempts is more powerful than any single company's ability to pick the right product direction.
 

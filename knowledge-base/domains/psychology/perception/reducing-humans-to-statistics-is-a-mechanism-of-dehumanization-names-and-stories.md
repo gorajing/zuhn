@@ -57,6 +57,7 @@ related:
   - INS-260330-2B33
   - INS-260330-2294
   - INS-260330-0764
+  - INS-260405-2B3F
 stance: >-
   When casualties become 'averaging 10,000 a month' instead of named individuals
   with stories, moral weight evaporates

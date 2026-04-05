@@ -58,6 +58,10 @@ related:
   - INS-260327-E75F
   - INS-260404-E8B2
   - INS-260404-5882
+evidence:
+  - id: INS-260329-8DDF
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Computers were adopted in waves: first by nerds who loved them intrinsically, then by gamers for entertainment, but it was social applications that brought everyone else — grandmas and 14-year-old girls alike. The infinite human appetite for connecting with friends turned out to be a more powerful adoption driver than any content or utility offering. Graham's observation that 'Facebook killed TV' captures how social needs trump passive entertainment.
 

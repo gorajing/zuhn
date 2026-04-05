@@ -53,10 +53,10 @@ related:
   - INS-260322-E791
   - INS-260321-1A99
   - PRI-260328-B11D
+  - INS-260405-7B7C
   - INS-260327-DD1D
   - INS-260403-1C09
   - PRI-260328-82BE
-  - PRI-260328-0993
   - INS-260327-CA05
 stance: >-
   Open Secret's marketplace failure created the financial discipline that

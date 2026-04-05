@@ -50,7 +50,6 @@ related:
   - INS-260327-C79D
   - INS-260325-B234
   - PRI-260320-5947
-  - INS-260404-3275
 stance: >-
   The stock market is a voting machine short-term but a weighing machine
   long-term — the edge comes from knowing the difference between price and

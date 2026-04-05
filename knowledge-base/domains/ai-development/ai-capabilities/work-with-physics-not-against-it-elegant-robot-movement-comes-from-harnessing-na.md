@@ -74,6 +74,9 @@ evidence:
   - id: INS-260330-FB9C
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-8114
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Playter describes how early walking robots failed by fighting their own physics — constantly trying to prevent tipping. Dynamic stability means going with the fall, catching yourself with the next foot. When the physics of the machine inherently want to do the right motion, the result is more efficient, more stable, and more beautiful.
 

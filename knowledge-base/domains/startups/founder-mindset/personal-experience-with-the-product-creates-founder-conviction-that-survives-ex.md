@@ -59,6 +59,10 @@ related:
   - INS-260330-BEE7
   - INS-260403-9CD9
   - INS-260403-C9DC
+evidence:
+  - id: INS-260323-3F11
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 After a year of no growth and a binder full of maxed-out credit cards, the Airbnb founders kept going because they had personally experienced something transformative as the first hosts on their own platform. They'd rented out airbeds during a design convention purely for rent money, but discovered that both they and their guests genuinely enjoyed it. That firsthand experience gave them a conviction that couldn't be shaken by investor rejection or market conditions.
 

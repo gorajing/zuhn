@@ -13,6 +13,7 @@
 - `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260404-1BFF` Describe your startup narrowly and concretely first, then expand — vague descriptions register as zero information.
 - `INS-260403-37E2` Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
+- `INS-260405-44F5` Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.
 - `INS-260404-C03F` As a startup description approaches 'could be anything,' its informational content approaches zero — narrow and gripping beats broad and forgettable.
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260405-3DDF` As your description expands to cover everything, it converges to saying nothing — be narrow first, then flesh it out.

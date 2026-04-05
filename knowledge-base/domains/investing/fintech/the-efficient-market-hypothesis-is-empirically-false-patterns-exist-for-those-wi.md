@@ -50,8 +50,8 @@ related:
   - INS-260325-EF4C
   - INS-260323-D6C7
   - PRI-260403-EA13
+  - INS-260405-809E
   - PRI-260328-3FEF
-  - INS-260403-2B1D
   - INS-260330-BA13
 stance: The Efficient Market Hypothesis has been empirically rejected
 evidence:

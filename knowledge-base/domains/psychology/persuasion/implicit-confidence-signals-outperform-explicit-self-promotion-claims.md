@@ -54,7 +54,7 @@ related:
   - INS-260329-0B1D
   - INS-260330-568F
   - INS-260330-916B
-  - INS-260402-F5E0
   - INS-260403-0F95
+  - INS-260403-915E
 ---
 Graham identifies a critical asymmetry in how confidence signals are processed: when audiences lack technical ability to evaluate the product (as most investors do with early-stage startups), the founder's own confidence becomes 'probably the single biggest piece of evidence.' But this signal must be implicit. Saying 'we're passionate' or 'our product is great' gets ignored or actively backfires — people write you off as bullshitters. The mechanism is similar to the observer effect in social signaling: the act of explicitly claiming a quality destroys its credibility. Instead, confidence must emerge from how you present — your pace, your willingness to be candid about unknowns, and your genuine belief that you're doing investors a favor by telling them about your work.

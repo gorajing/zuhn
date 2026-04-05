@@ -1,0 +1,67 @@
+---
+id: INS-260405-AB6B
+domain: investing
+topic: macro
+title: >-
+  The Fed's repo and reverse repo facilities act as interest rate ceiling and
+  floor respectively
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - fed
+  - interest-rates
+  - monetary-policy
+  - repo
+  - rate-corridor
+sources:
+  - type: blog
+    title: 'WIRTW: Deepseek Breakthrough'
+    author:
+      - '@type': Person
+        name: Chamath Palihapitiya
+        url: 'https://substack.com/@chamath'
+        description: 'CEO @SocialCapital, Bestie @theallinpod'
+        identifier: 'user:97776398'
+        image:
+          '@type': ImageObject
+          contentUrl: >-
+            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+          thumbnailUrl: >-
+            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    url: 'https://chamath.substack.com/p/what-i-read-this-week-167'
+date_extracted: '2026-04-05'
+last_accessed: null
+access_count: 0
+indexed: false
+embedded: false
+resolutions:
+  one_line: >-
+    The SRF caps rates by providing unlimited cash against collateral; the RRP
+    floors rates by offering a guaranteed return that crowds out sub-Fed-rate
+    private lending.
+  standard: >-
+    Central bank rate corridor mechanics are frequently misunderstood, leading
+    to viral misreadings of normal Fed operations as crisis signals. The SRF
+    acts as a ceiling: if money market rates spike above the SRF rate, any bank
+    can borrow from the Fed at that rate, making it irrational for rates to go
+    higher. The RRP acts as a floor: if money market rates fall below the RRP
+    rate, any money fund would rather park funds at the Fed than lend to a
+    riskier private counterparty for less.
+
+
+    This ceiling-floor structure means the Fed can reliably maintain rates
+    within a narrow band regardless of day-to-day cash supply/demand
+    fluctuations. Large facility usage does not indicate stress — it indicates
+    the corridors are functioning as designed. For investors and analysts, the
+    key calibration is whether facility usage is anomalous *relative to its
+    seasonal baseline*, not whether the absolute number is large.
+stance: >-
+  Understanding the structural symmetry of SRF as rate ceiling and RRP as rate
+  floor explains most short-term Fed rate corridor mechanics and prevents
+  misreading liquidity operations as money printing.
+---
+Central bank rate corridor mechanics are frequently misunderstood, leading to viral misreadings of normal Fed operations as crisis signals. The SRF acts as a ceiling: if money market rates spike above the SRF rate, any bank can borrow from the Fed at that rate, making it irrational for rates to go higher. The RRP acts as a floor: if money market rates fall below the RRP rate, any money fund would rather park funds at the Fed than lend to a riskier private counterparty for less.
+
+This ceiling-floor structure means the Fed can reliably maintain rates within a narrow band regardless of day-to-day cash supply/demand fluctuations. Large facility usage does not indicate stress — it indicates the corridors are functioning as designed. For investors and analysts, the key calibration is whether facility usage is anomalous *relative to its seasonal baseline*, not whether the absolute number is large.

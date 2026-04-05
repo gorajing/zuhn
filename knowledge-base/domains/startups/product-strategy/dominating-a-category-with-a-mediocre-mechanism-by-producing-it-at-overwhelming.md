@@ -64,10 +64,10 @@ related:
   - INS-260325-0A8A
   - INS-260330-0B4A
   - INS-260403-962E
+  - INS-260405-C497
   - INS-260330-E039
   - INS-260405-F20F
   - INS-260404-1FCE
-  - INS-260403-3E1C
 ---
 RuBisCo's error rate would disqualify it as an engineered solution: it confuses oxygen for CO2 roughly 50% of the time under current atmospheric conditions, requiring an expensive repair pathway. Yet plants never evolved a better replacement—instead, they evolved to overproduce RuBisCo massively, ensuring that even with a ~50% misfire rate, enough correct reactions occur to sustain life.
 

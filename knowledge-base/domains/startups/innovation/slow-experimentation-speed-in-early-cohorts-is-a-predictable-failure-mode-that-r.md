@@ -57,5 +57,9 @@ related:
   - INS-260403-47BF
   - INS-260403-F75F
   - INS-260403-E3C4
+evidence:
+  - id: INS-260322-474A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The pharma company's first cohort of innovation teams experienced frustratingly slow experimentation — a pattern Strategyzer identifies as nearly universal in organizations building innovation capabilities. The insight is that this is not a people problem but a process problem: without explicit experimentation infrastructure (clear experiment design templates, rapid feedback loops, decision criteria for kill/continue), teams default to traditional product development cadences that are far too slow for exploratory innovation. The fix is investing in experimentation process management as a core organizational capability, treating speed of testing as a metric on par with idea volume and portfolio balance. Organizations that treat slow experimentation as a coaching issue rather than a systems issue will keep hitting the same wall with every new cohort.

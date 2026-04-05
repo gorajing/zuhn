@@ -83,6 +83,12 @@ evidence:
   - id: INS-260403-C032
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-38C0
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-9BEF
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 a16z's analysis shows that ChatGPT, Claude, and Gemini are diverging into distinct niches rather than competing head-to-head. ChatGPT dominates consumer breadth (2.7x bigger than Gemini on web, 30x bigger than Claude), Claude targets prosumer/professional use cases, and Gemini leads in creative tools. Their app stores have only 11% overlap.
 

@@ -53,6 +53,10 @@ related:
   - INS-260403-C1E9
   - INS-260403-2E0F
   - INS-260403-946A
+evidence:
+  - id: INS-260328-C246
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Business Model Canvas forces founders to think beyond the product into the full system of value creation and capture — revenue streams, cost structure, key partnerships, channels, and customer segments. The critical insight is that profitability and scalability must be designed together through iteration, not treated as sequential goals.
 

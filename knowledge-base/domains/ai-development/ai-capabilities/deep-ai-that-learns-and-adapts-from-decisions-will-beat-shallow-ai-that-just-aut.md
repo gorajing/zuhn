@@ -70,5 +70,8 @@ evidence:
   - id: INS-260330-FCA3
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-8B5A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Stanford Prof Kuang Xu, after a year at Uber building AI products, distinguishes two AI strategies. Shallow AI automates existing tasks reliably — useful but commoditizable. Deep AI creates feedback loops where decisions immediately impact data collection which improves future decisions. His glucose monitor example: the device doesn't just measure blood sugar — it changes eating behavior in real-time, creating a loop where the user's decisions generate data that improves the system's recommendations. For startups: shallow AI is faster to build but has no moat. Deep AI is harder but creates compounding advantages through proprietary feedback loops. The 'right now the task is not complicated' trap leads builders toward shallow approaches when deep is where lasting value lives.

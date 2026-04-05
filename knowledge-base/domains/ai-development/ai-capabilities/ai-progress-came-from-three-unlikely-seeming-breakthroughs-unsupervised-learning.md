@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-2F13
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-023C
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Altman outlines three breakthroughs that experts initially mocked. First, GPT-1: training a model to predict the next word in a sequence could learn complex concepts about physics, math, and programming. Experts said it was 'ridiculous' and 'never going to be robust.' Second, scaling laws: these models get predictably better with more compute, memory, and data — over many orders of magnitude. This let OpenAI make confident bets on scale. Third, reinforcement learning for reasoning: using 'this is good, this is bad' feedback to teach models to reason, leading to the o1/o3 and GPT-5 progress.
 

@@ -73,6 +73,9 @@ evidence:
   - id: INS-260329-22A8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-EF20
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The core of OpenClaw started as the simplest possible architecture: WhatsApp message comes in, calls Claude Code CLI with -p flag, gets string back, sends to WhatsApp. Built in one hour. Yet this trivial integration created something qualitatively different from using an IDE or terminal — a phase shift in how AI integrates into life.
 

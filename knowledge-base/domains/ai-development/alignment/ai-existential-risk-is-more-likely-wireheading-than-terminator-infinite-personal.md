@@ -82,6 +82,9 @@ evidence:
   - id: INS-260330-E990
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-B4DC
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 George Hotz's AI risk thesis diverges sharply from the Terminator narrative. His primary concern is wireheading: once generative AI can produce content with 100x human creative intelligence, it will create the equivalent of David Foster Wallace's 'Infinite Jest' tape — entertainment so perfectly optimized for the human dopamine system that people can't look away. Current TikTok is already approaching this with human-generated content and algorithmic recommendation. AI-generated content with superhuman understanding of human psychology completes the loop.
 

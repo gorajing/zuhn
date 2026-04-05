@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 106 insights
+> 107 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
@@ -65,6 +65,7 @@
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
 - `INS-260405-0A6D` [high] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
+- `INS-260405-C342` [high] Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
 - `INS-260403-B4F1` [high] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
 - `INS-260403-227B` [high] Oxygen—the gas that enabled all complex animal life—is technically just the waste product of photosynthesis splitting water to replace lost electrons.
 - `INS-260404-D0A5` [high] Oxygen — the molecule all animal life depends on — was originally just a waste product of photosynthesis, not its purpose.

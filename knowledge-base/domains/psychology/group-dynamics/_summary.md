@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 60 insights
+> 61 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -27,6 +27,7 @@
 - `INS-260402-116A` [high] Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
 - `INS-260330-E794` [high] Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
 - `INS-260402-A2F1` [high] When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
+- `INS-260405-E06B` [high] When elite culture enforces a consensus, many people mouth the consensus publicly while holding different views privately — a stable equilibrium Graham calls 'bad table manners.'
 - `INS-260402-B817` [high] Groups persecute outsiders not from hatred but because shared enemies create the strongest internal bonds.
 - `INS-260330-DBAD` [high] The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.
 - `INS-260330-B22D` [high] Political visibility creates a separating equilibrium where any slight lean gets amplified into full tribal membership through social pressure.

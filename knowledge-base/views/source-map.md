@@ -3,11 +3,11 @@ Generated on 2026-04-05 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 355 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 313 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 290 | 2026-03-31 |
-| How to Do Great Work | blog | 205 | 2026-03-31 |
-| February 2025 Startups Raising Capital | blog | 94 | 2026-03-30 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 359 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 318 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 295 | 2026-03-31 |
+| How to Do Great Work | blog | 210 | 2026-03-31 |
+| February 2025 Startups Raising Capital | blog | 99 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -393,6 +393,7 @@ Generated on 2026-04-05 | 2421 sources
 | How to Model Mezzanine Financing End-to-End | blog | 5 | 2026-03-30 |
 | How to Prepare for Your First VC Intro Call (and Actually Impress Them) | blog | 5 | 2026-03-30 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
+| How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 5 | 2026-03-30 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
 | How to Start Google | blog | 5 | 2026-03-31 |
 | How to Think for Yourself | blog | 5 | 2026-03-31 |
@@ -529,6 +530,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Pentagon Threatens Anthropic | blog | 5 | 2026-03-30 |
 | The Power of the Marginal | blog | 5 | 2026-03-31 |
 | The Pro-Rata Trap: How VCs Miss Out on Billion-Dollar Returns | blog | 5 | 2026-03-30 |
+| The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 5 | 2026-03-30 |
 | The Refragmentation | blog | 5 | 2026-03-31 |
 | The SaaS Reset: Why the 10x ARR Club Is Now a Ghost Town | blog | 5 | 2026-03-30 |
 | The Second-Time Founder Effect: How Experience Shapes Startup Success | blog | 5 | 2026-03-30 |
@@ -584,6 +586,7 @@ Generated on 2026-04-05 | 2421 sources
 | Where does a liberal go from here? | blog | 5 | 2026-03-30 |
 | Where To Build Your Startup | blog | 5 | 2026-03-31 |
 | Where VCs Are Betting on AI in 2025 | blog | 5 | 2026-03-30 |
+| Who Controls the American Food Supply? | blog | 5 | 2026-03-30 |
 | Why America's extremes will both fail | blog | 5 | 2026-03-30 |
 | Why does America feel worse than other countries? Crime. | blog | 5 | 2026-03-30 |
 | Why LatAm Is On The Rise | blog | 5 | 2026-03-31 |
@@ -866,6 +869,7 @@ Generated on 2026-04-05 | 2421 sources
 | 8 Tips For Conducting Interviews That Deliver Relevant Customer Insights | blog | 4 | 2026-03-31 |
 | A 4-step framework for building delightful products | Nesrine Changuel (Spotify, Google, Skype) | blog | 4 | 2026-03-31 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
+| A Conversation with JCal about the Evolution of Media | blog | 4 | 2026-03-30 |
 | A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) | blog | 4 | 2026-03-31 |
 | A founding vision for a startup is similar to a scientific hypothesis | blog | 4 | 2026-03-31 |
 | A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 4 | 2026-03-31 |
@@ -917,6 +921,7 @@ Generated on 2026-04-05 | 2421 sources
 | Best Practices: How To Use The Culture Map | blog | 4 | 2026-03-31 |
 | Beyond Smart | blog | 4 | 2026-03-31 |
 | Biz4Kids Update: Mini Sprints To Develop The Comic Book | blog | 4 | 2026-03-31 |
+| Bradley's Ghost | blog | 4 | 2026-03-31 |
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Building a World-Class Innovation Culture: Bayer | blog | 4 | 2026-03-31 |
@@ -1137,6 +1142,7 @@ Generated on 2026-04-05 | 2421 sources
 | The Two Kinds of Moderate | blog | 4 | 2026-03-31 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
 | The Ultimate Go-To-Market Strategy Framework 🚀 | blog | 4 | 2026-03-30 |
+| The Ultimate SaaS Financial Model | blog | 4 | 2026-03-30 |
 | The Venture Arrogance Score🧮, The Bay is back🏙️, The $100B Empire You’ve Never Heard Of🏛️ | blog | 4 | 2026-03-30 |
 | The Venture Capital Apocalypse | blog | 4 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 4 | 2026-03-31 |
@@ -1175,6 +1181,7 @@ Generated on 2026-04-05 | 2421 sources
 | Why to Start a Startup in a Bad Economy | blog | 4 | 2026-03-31 |
 | Why TV Lost | blog | 4 | 2026-03-31 |
 | WIRTW: China's minerals, AI financing, Nobel winners, robotics... | blog | 4 | 2026-03-30 |
+| WIRTW: Deepseek Breakthrough | blog | 4 | 2026-03-30 |
 | WIRTW: Elon's $1T Package, Prediction Markets on Google, And More | blog | 4 | 2026-03-30 |
 | WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B Valuation | blog | 4 | 2026-03-30 |
 | WIRTW: Micron's $100B Megafab | blog | 4 | 2026-03-30 |
@@ -2134,7 +2141,6 @@ Generated on 2026-04-05 | 2421 sources
 | A 3-step AI coding workflow for solo founders | Ryan Carson (5x founder) | blog | 0 | 2026-03-31 |
 | A builder’s guide to living a long and healthy life | blog | 0 | 2026-03-31 |
 | A Collection of the Best 89 VC and Founder Essays  | blog | 0 | 2026-03-30 |
-| A Conversation with JCal about the Evolution of Media | blog | 0 | 2026-03-30 |
 | A Conversation with One of My 8090 Co-Founders | blog | 0 | 2026-03-30 |
 | A Day in the Life of Your Customer Worksheet | blog | 0 | 2026-03-31 |
 | A designer’s guide to AI: Building in Cursor (instead of Figma) lets you prototype 10x faster, simplifies collaboration, and accelerates getting ideas out of your head | Joel Unger | blog | 0 | 2026-03-31 |
@@ -2197,7 +2203,6 @@ Generated on 2026-04-05 | 2421 sources
 | Book Review Contest Rules 2026 | blog | 0 | 2026-03-30 |
 | Book Review: The White King Of La Gonave | blog | 0 | 2026-03-30 |
 | Bootcamp Exclusive: Steve Blank On Lean Startup Inside Big Companies & More | blog | 0 | 2026-03-31 |
-| Bradley's Ghost | blog | 0 | 2026-03-31 |
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
@@ -2292,7 +2297,6 @@ Generated on 2026-04-05 | 2421 sources
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
-| How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
@@ -2356,7 +2360,6 @@ Generated on 2026-04-05 | 2421 sources
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Need to Read | blog | 0 | 2026-03-31 |
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
-| The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |
 | The Rise of the AI Underground | blog | 0 | 2026-03-31 |
 | The Risk of Discovery | blog | 0 | 2026-03-31 |
@@ -2369,7 +2372,6 @@ Generated on 2026-04-05 | 2421 sources
 | The Ultimate Investors List of Lists 🚀 | blog | 0 | 2026-03-30 |
 | The Ultimate Open-Source AI Agent Directory | blog | 0 | 2026-03-30 |
 | 🎯 The Ultimate Pitch Deck Collection | blog | 0 | 2026-03-30 |
-| The Ultimate SaaS Financial Model | blog | 0 | 2026-03-30 |
 | 💼 The Ultimate VC Pitch Deck Collection: Over $1B Raised 🚀 | blog | 0 | 2026-03-30 |
 | The Ultimate Venture Capital Database 🌟 | blog | 0 | 2026-03-30 |
 | The VC Corner #1 | blog | 0 | 2026-03-30 |
@@ -2396,14 +2398,12 @@ Generated on 2026-04-05 | 2421 sources
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
-| Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
 | Why Companies Invest in Open-Source Tech and Research | blog | 0 | 2026-03-30 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |
-| WIRTW: Deepseek Breakthrough | blog | 0 | 2026-03-30 |
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writes and Write-Nots | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |

@@ -49,6 +49,10 @@ related:
   - INS-260329-A57B
   - INS-260322-B6DE
   - INS-260322-F128
+evidence:
+  - id: INS-260322-B6DE
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The Business Model Canvas was distilled from exhaustive research into the minimum set of decisions every business must make. Kiva nearly failed by ignoring risk management as a key activity; Google's model depends entirely on audience as a key resource. These aren't optional extras—they're load-bearing pillars.
 

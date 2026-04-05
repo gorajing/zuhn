@@ -57,6 +57,10 @@ related:
   - INS-260404-84FE
   - INS-260404-76DD
   - INS-260404-1455
+evidence:
+  - id: INS-260404-76DD
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 When RuBisCo started producing phosphoglycolate as a toxic byproduct, plants evolved photorespiration pathways and specialized enzymes to convert it into useful amino acids and Calvin cycle intermediates. Each workaround made the overall system more complex but also more resilient—and harder to replace wholesale.
 

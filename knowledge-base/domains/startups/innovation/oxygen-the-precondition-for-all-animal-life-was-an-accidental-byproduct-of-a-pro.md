@@ -62,9 +62,9 @@ related:
   - INS-260330-40DA
   - INS-260403-C0D4
   - INS-260403-31AF
+  - INS-260405-C342
   - INS-260403-EFE6
   - INS-260404-FF39
-  - INS-260405-7E85
 ---
 Plants split water molecules during the light-dependent reactions to replenish electrons — releasing oxygen as a byproduct. Photosynthesis did not evolve to produce oxygen; oxygen is what's left over after the process takes what it actually wants. Yet this 'useless byproduct' transformed Earth's atmosphere and enabled the entire evolutionary lineage leading to every breathing organism.
 

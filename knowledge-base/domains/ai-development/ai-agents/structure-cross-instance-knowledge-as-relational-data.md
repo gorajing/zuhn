@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-B33F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-C135
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 
 For cross-instance context sharing (Claude Code, Web, Mobile), structure

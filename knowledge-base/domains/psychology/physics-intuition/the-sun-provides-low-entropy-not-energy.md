@@ -47,10 +47,10 @@ stance: >-
   into high-entropy thermal radiation
 related:
   - INS-260404-596E
+  - INS-260405-64C5
   - INS-260404-1B29
   - INS-260330-09F8
   - INS-260330-1084
-  - INS-260404-F908
   - INS-260330-31A9
 evidence:
   - id: INS-260330-1084

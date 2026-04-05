@@ -55,6 +55,10 @@ related:
   - INS-260403-147C
   - PRI-260327-117F
   - INS-260328-0DFE
+evidence:
+  - id: INS-260328-0DFE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham observes a continuous transfer of power from dealmakers to technicians — from the charismatic to the competent — over the past century. Where fierceness was once optional in nerds' traditional territory of scholarship (Darwin wasn't particularly fierce), it's now essential for business leadership at scale. The result is that fierce nerds increasingly monopolize the biggest successes.
 

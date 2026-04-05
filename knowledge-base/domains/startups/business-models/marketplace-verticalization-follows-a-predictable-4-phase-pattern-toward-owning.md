@@ -53,6 +53,10 @@ related:
   - INS-260327-4CCE
   - INS-260322-B6DE
   - INS-260330-AE4B
+evidence:
+  - id: INS-260322-B6DE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 NFX identifies a consistent 4-phase evolution pattern across vacation rentals, real estate, and food delivery: (1) horizontal lead generation (Craigslist), (2) vertical lead generation (HomeAway), (3) vertical transactional (Airbnb), and (4) tightly managed marketplace (Pacaso). Each phase moves closer to owning the actual transaction.
 

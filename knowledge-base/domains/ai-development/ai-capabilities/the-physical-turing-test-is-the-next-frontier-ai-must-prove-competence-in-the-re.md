@@ -60,5 +60,8 @@ evidence:
   - id: INS-260322-02A6
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-9AEC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Jim Fan outlines Nvidia's roadmap for embodied AI: 1) Foundation models for robotics (similar to GPT for language — general-purpose robot brains), 2) Simulation-to-reality transfer (train in simulated environments, deploy in physical world), 3) End-to-end learning (robots learn from raw sensory input to motor output, like Wayve's autonomous driving approach). The physical Turing test means: can a robot perform a complex real-world task (cooking, warehouse picking, home care) well enough that an observer cannot distinguish it from a human? This requires solving perception, planning, and motor control simultaneously. Fan argues this will be a bigger economic transformation than language AI because physical labor is a larger portion of global GDP than knowledge work.

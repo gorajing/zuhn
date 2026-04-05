@@ -66,5 +66,8 @@ evidence:
   - id: INS-260322-054E
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260405-AD55
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Sequoia's AI Ascent 2025 keynote frames the opportunity: previous technology revolutions (steam, electricity, internet) primarily automated physical labor and information distribution. AI automates cognitive labor — reasoning, analysis, writing, coding, decision-making — which constitutes the majority of GDP in developed economies. The math: ~1 billion knowledge workers globally × potential software spend of $10K+/worker/year = $10T+ addressable market. This is not speculative — companies like Harvey (legal), Ramp (finance), and Cresta (customer experience) are already replacing human cognitive tasks with AI agents. The critical insight: the opportunity is not in building foundation models (that's a capex game for hyperscalers) but in building the application layer that connects AI capabilities to specific work domains.

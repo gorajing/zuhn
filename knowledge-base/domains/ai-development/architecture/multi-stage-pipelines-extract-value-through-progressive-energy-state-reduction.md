@@ -60,6 +60,28 @@ related:
   - INS-260404-CDD2
   - INS-260404-2A07
   - INS-260404-2D92
+evidence:
+  - id: INS-260327-1C1B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-4D0E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-0017
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-4B45
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-545E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-D2FD
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-2D92
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis doesn't convert photon energy to usable chemical energy in a single step. Instead, it runs excited electrons through a four-stage transport chain (PSII → Cytochrome Complex → PSI → NADPH reductase), each extracting a specific form of value: water splitting for protons, proton pumping for concentration gradients, ATP synthesis from those gradients, and finally NADPH production. By the end, the electrons are in their lowest useful energy state.
 

@@ -22,7 +22,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The skills that make someone a great speaker are often orthogonal or opposed
@@ -47,7 +47,6 @@ stance: >-
   audience flattery — compete directly with the time and rigor needed for
   original thinking.
 related:
-  - INS-260323-BA17
   - INS-260330-3B31
   - INS-260403-BB6B
   - INS-260330-AB6E

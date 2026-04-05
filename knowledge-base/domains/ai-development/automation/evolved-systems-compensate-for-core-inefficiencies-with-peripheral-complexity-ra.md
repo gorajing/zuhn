@@ -58,6 +58,28 @@ related:
   - INS-260404-E6F9
   - INS-260404-CC7C
   - INS-260404-1455
+evidence:
+  - id: INS-260403-8653
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-1636
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-F290
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-84FE
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-E6F9
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-CC7C
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260404-1455
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 When atmospheric oxygen levels rose, RuBisCo started grabbing O2 instead of CO2 about half the time, producing toxic phosphoglycolate. Rather than evolving a better enzyme, plants evolved photorespiration — entire additional metabolic pathways to convert the toxic byproduct into useful compounds. The fix was more complex than the original problem.
 

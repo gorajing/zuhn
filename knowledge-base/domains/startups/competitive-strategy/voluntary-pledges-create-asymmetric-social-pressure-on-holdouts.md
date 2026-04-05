@@ -50,7 +50,7 @@ related:
   - PRI-260328-95A5
   - INS-260404-D6EC
   - INS-260403-876D
-  - PRI-260322-8FD4
+  - INS-260405-E06B
 ---
 Paul Graham's Patent Pledge demonstrates a powerful competitive dynamics pattern: when you can't change the rules from the top (government regulation), you can attack the problem downstream by creating voluntary commitments. The key mechanism is that once enough good actors sign on, the pledge becomes a filter — not signing becomes a strong negative signal to employees, investors, and customers.
 

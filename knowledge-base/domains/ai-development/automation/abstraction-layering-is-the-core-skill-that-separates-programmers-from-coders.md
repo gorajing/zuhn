@@ -64,6 +64,9 @@ evidence:
   - id: INS-260329-1741
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-9AEC
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Malan's course progression reveals a deliberate pattern: each module introduces a new abstraction layer (functions → libraries → classes → decorators) that encapsulates previous complexity. The key insight is that the skill being trained isn't Python — it's the meta-skill of recognizing when to create a new abstraction boundary.
 

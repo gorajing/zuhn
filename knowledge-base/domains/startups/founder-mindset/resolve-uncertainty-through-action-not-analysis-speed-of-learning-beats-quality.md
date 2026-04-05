@@ -57,7 +57,6 @@ related:
   - PRI-260324-2C9F
   - INS-260403-1A71
   - INS-260330-3879
-  - INS-260330-E982
 stance: >-
   In high-uncertainty environments, executing quickly to gather real information
   beats prolonged analysis.

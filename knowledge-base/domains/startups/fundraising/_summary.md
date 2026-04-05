@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 328 insights
+> 333 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -29,6 +29,7 @@
 - `INS-260404-16E1` [high] Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - `INS-260404-8D69` [high] Early-stage business models are guesses outside your expertise — pitch the problem and product instead, since investors expect the model to change multiple times.
 - `INS-260403-DAB4` [high] Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
+- `INS-260405-092A` [high] Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
 - `INS-260404-BF04` [high] Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
 - `INS-260404-E36F` [high] Early-stage business models are almost certainly wrong, so time spent on them displaces discussion of the problem and product where founders actually have insight.
 - `INS-260403-FF86` [high] Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
@@ -103,6 +104,7 @@
 - `INS-260403-A172` [high] Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260404-187C` [high] Explicit confidence claims get ignored or trigger bullshit detection, while implicit confidence through substance and demeanor is the primary signal investors use.
+- `INS-260405-12E6` [high] Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.
 - `INS-260403-5C8E` [high] Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` [high] Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
 - `INS-260403-C5C0` [high] Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
@@ -170,6 +172,7 @@
 - `INS-260404-516B` [high] Overly specific beats overly general when describing your startup to investors.
 - `INS-260403-2204` [high] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260404-9F1D` [high] Narrow, gripping descriptions convey more signal than broad visionary language when pitching investors.
+- `INS-260405-44F5` [high] Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.
 - `INS-260403-D430` [high] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 - `INS-260404-FE9F` [high] As a startup description approaches 'could be anything,' its informational value approaches zero — start narrow and expand.
 - `INS-260404-CA98` [high] Describe your startup as narrowly and concretely as possible — vagueness destroys comprehension.
@@ -264,6 +267,7 @@
 - `INS-260330-EE5E` [high] Small investors who don't understand startup timelines (uncles, neighbors putting in $5-10K) become the most problematic investors because they treat startup equity like a short-term liquid investment.
 - `INS-260330-478B` [high] Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
 - `INS-260404-29F4` [high] Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
+- `INS-260405-9E25` [high] Investors' deepest fear is that you built something nobody wants — specific user stories and proxies for existing demand directly counter that fear.
 - `INS-260403-39F9` [high] Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - `INS-260404-3217` [high] Investors' biggest early-stage fear is that you built from theory, not need — specific user stories and 'proxy for demand' signals directly counter this.
 - `INS-260404-AC2B` [high] Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
@@ -299,6 +303,7 @@
 - `INS-260403-C2BE` [high] VCs fund spiky excellence over well-rounded competence, so founders should highlight their extraordinary strengths rather than shore up weaknesses.
 - `INS-260405-3E57` [medium] Investors hear dozens of pitches per event — the startup that left a single memorable phrase is the one that gets the follow-up email.
 - `INS-260405-283A` [medium] The inability to find a soundbite isn't a wordsmithing failure — it's a signal that the strategy itself isn't sharp enough.
+- `INS-260405-5BD3` [medium] After seeing hundreds of pitches, investors' first filter is memory — a single sticky phrase ('the X of Y') determines whether you clear that bar.
 - `INS-260404-7060` [medium] Deliberately concentrating resources behind a bottleneck and releasing them through one optimized channel creates disproportionate output.
 - `INS-260403-F447` [medium] When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - `INS-260402-8E29` [medium] Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.

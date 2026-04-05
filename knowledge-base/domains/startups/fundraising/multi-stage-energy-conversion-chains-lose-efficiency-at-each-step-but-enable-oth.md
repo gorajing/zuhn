@@ -56,10 +56,10 @@ related:
   - INS-260330-BC56
   - INS-260403-6F40
   - INS-260403-2DC0
-  - INS-260403-FC01
   - INS-260403-AC7A
   - INS-260404-F908
   - INS-260404-040D
+  - INS-260404-3500
 ---
 Photosynthesis is remarkably inefficient — only about 3-6% of incident solar energy ends up stored in glucose. The electron transport chain, Calvin Cycle, and multiple intermediate energy carriers (ATP, NADPH) each extract a toll. Yet this multi-step approach exists because converting a photon directly into a sugar molecule is thermodynamically impossible in a single reaction.
 

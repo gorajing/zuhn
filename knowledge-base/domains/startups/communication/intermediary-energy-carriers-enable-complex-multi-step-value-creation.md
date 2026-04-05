@@ -54,6 +54,10 @@ related:
   - INS-260404-3500
   - INS-260404-0214
   - INS-260405-F3C0
+evidence:
+  - id: INS-260405-F3C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Photosynthesis doesn't convert sunlight directly into glucose — it first converts photon energy into portable energy currencies (ATP and NADPH) through the light-dependent reactions, then uses those currencies in a completely separate process (Calvin Cycle) to build carbohydrates. This decoupling is what makes the system adaptable.
 

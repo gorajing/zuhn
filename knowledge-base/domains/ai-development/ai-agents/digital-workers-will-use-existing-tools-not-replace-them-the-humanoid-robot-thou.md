@@ -67,6 +67,9 @@ evidence:
   - id: INS-260327-6976
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-9B5D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Jensen uses a thought experiment: imagine the most amazing AI agent in 10 years as a humanoid robot. Would it enter your house and morph its hand into a hammer, then a scalpel, then beam microwaves from its fingers? Or would it use the tools you already have, reading the manual of the microwave from the internet the first time it encounters one?
 

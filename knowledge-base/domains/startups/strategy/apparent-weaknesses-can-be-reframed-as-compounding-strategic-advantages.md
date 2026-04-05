@@ -55,6 +55,7 @@ related:
   - INS-260404-8B1C
   - INS-260404-9783
   - INS-260404-8D5F
+  - INS-260405-9EE6
 ---
 Costco's strategy inverts conventional retail wisdom at nearly every point: charge customers to enter (creates loyalty), limit selection (creates leverage), use warehouse aesthetics (cuts costs), and make navigation confusing (increases browsing and basket size). Each 'weakness' reinforces the others—the warehouse format enables the low prices that justify the membership that funds the whole system.
 

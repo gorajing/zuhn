@@ -76,6 +76,9 @@ evidence:
   - id: INS-260402-F957
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-5427
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Epoch AI argues against the software-only singularity (AI automating AI research to produce rapid recursive improvement) based on a key empirical observation: experimental compute — the compute needed to actually test ideas — is receiving similar or more investment than final training runs. This suggests you can't just throw more AI researchers at the problem without also scaling up the physical compute for experiments.
 

@@ -60,7 +60,7 @@ related:
   - INS-260403-1DB7
   - INS-260403-C496
   - PRI-260403-26B9
-  - INS-260404-4B69
+  - INS-260405-092A
 ---
 Graham observes that investor behavior toward founders has improved materially over the past two decades, and attributes this to structural changes — not moral evolution. As the startup world became more connected (via YC, Twitter, founder communities), information about investor conduct aggregates faster and spreads wider. An investor who mistreats a founder may not face a press story, but loses deal access as the signal circulates through founder networks.
 

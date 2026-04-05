@@ -55,6 +55,10 @@ related:
   - INS-260330-1A23
   - INS-260330-F512
   - INS-260321-D01E
+evidence:
+  - id: INS-260321-D01E
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The essay identifies a classic innovator's dilemma in gaming: large developers benefit from virtual goods lock-in (users who invested hundreds or thousands in Counter-Strike skins can't take them elsewhere), so they have no incentive to enable cross-game portability. Web3's blockchain architecture makes portable ownership technically feasible, but adoption will start with new entrants, not incumbents.
 

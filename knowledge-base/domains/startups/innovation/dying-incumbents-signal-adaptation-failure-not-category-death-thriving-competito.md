@@ -50,7 +50,6 @@ stance: >-
   failure to adapt rather than the obsolescence of the entire category
 related:
   - INS-260327-418E
-  - INS-260327-0710
   - INS-260327-1B4A
   - INS-260330-E615
   - INS-260330-B22D
@@ -59,6 +58,7 @@ related:
   - INS-260403-FED6
   - INS-260404-3070
   - INS-260404-CD53
+  - INS-260404-2839
 ---
 The 'Retail Apocalypse' narrative attributed store closures to Amazon making physical retail obsolete. But the reality is more nuanced: Sears tried to do everything poorly, Toys-R-Us dismissed the internet, J.C. Penney alienated its customer base. Meanwhile, in the exact same market conditions, Costco, Ross, Aldi, Lush, and Dollar General were growing.
 

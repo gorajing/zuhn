@@ -81,6 +81,9 @@ evidence:
   - id: INS-260403-EEDF
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-4E13
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Jensen Huang outlines a framework of four AI scaling laws: (1) Pre-training — larger models with more data produce smarter AI, now augmented by synthetic data so the bottleneck shifts from data to compute. (2) Post-training — refinement and fine-tuning. (3) Test-time scaling — inference is thinking, not just lookup, making it intensely compute-intensive despite early industry assumptions it would be 'easy.' (4) Agentic scaling — spinning off sub-agents multiplies AI capacity like hiring employees.
 
