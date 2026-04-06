@@ -19,6 +19,7 @@ import matter from "gray-matter";
 import { initDb } from "./lib/db";
 import { hybridSearch } from "./lib/vector-search";
 import { searchInsights } from "./lib/search";
+import { embedText, isOllamaAvailable } from "./lib/embeddings";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
@@ -39,7 +40,7 @@ interface RetrievedItem {
 
 // ─── Retrieval ──────────────────────────────────────────────────────
 
-function retrieveContext(query: string): RetrievedItem[] {
+async function retrieveContext(query: string): Promise<RetrievedItem[]> {
   const db = initDb();
   const items: RetrievedItem[] = [];
 
@@ -50,14 +51,23 @@ function retrieveContext(query: string): RetrievedItem[] {
   let searchResults: Array<{ id: string; score: number }> = [];
 
   try {
-    searchResults = hybridSearch(db, sanitized, 12);
+    // Generate query embedding for semantic search
+    const ollamaUp = await isOllamaAvailable();
+    if (ollamaUp) {
+      const queryEmbedding = await embedText(sanitized);
+      const hybridResults = hybridSearch(db, sanitized, queryEmbedding, { limit: 12 });
+      searchResults = hybridResults.map((r) => ({ id: r.id, score: r.score }));
+    } else {
+      // Ollama unavailable — keyword-only
+      const kwResults = searchInsights(db, sanitized, { limit: 12 });
+      searchResults = kwResults.map((r) => ({ id: r.id, score: r.score }));
+    }
   } catch {
-    // Fall back to keyword-only if embeddings unavailable
+    // Fall back to keyword-only if hybrid fails
     try {
-      const kwResults = searchInsights(db, sanitized, 12);
+      const kwResults = searchInsights(db, sanitized, { limit: 12 });
       searchResults = kwResults.map((r) => ({ id: r.id, score: r.score }));
     } catch {
-      // If both fail, return empty
       searchResults = [];
     }
   }
@@ -280,7 +290,7 @@ async function main(): Promise<void> {
 
   // 1. Retrieve
   console.log("Searching knowledge base...\n");
-  const items = retrieveContext(query);
+  const items = await retrieveContext(query);
 
   if (items.length === 0) {
     console.log("No relevant insights found. Consider ingesting sources on this topic.");

@@ -255,6 +255,21 @@ async function ingestOne(
         wordCount: result.wordCount,
       };
     }
+
+    case "image": {
+      const { ingestImage } = await import("./lib/ingest/image");
+      const result = await ingestImage(normalized, KB_ROOT);
+      return {
+        sourceId: result.sourceId,
+        title: normalized.split("/").pop() || "Image",
+        type: "image" as ContentType,
+        wordCount: 0,
+      };
+    }
+
+    default: {
+      throw new Error(`Unsupported content type: ${type}`);
+    }
   }
 }
 
