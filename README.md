@@ -17,6 +17,27 @@ Built for founders, researchers, writers, and anyone who thinks for a living.
 
 Every source you feed it becomes structured knowledge. The system finds patterns you wouldn't — cross-domain transfers, contradictions, gaps. Insights compress into principles. Principles inform decisions. Decisions track outcomes. The loop closes.
 
+<!-- Add a screenshot here: docs/mindmap-preview.png or a terminal flow GIF -->
+
+### Example: From Source to Principle
+
+```
+Source:  Paul Graham — "How to Present to Investors" (2,742 words)
+           ↓  npm run ingest
+Insight: "Narrow descriptions beat vague ones in investor pitches — as a
+          description approaches 'could be anything,' its information
+          content approaches zero."
+           ↓  npm run learn (connection discovery + compression)
+Principle: "Early-stage business models are almost certainly wrong — pitch
+            time spent on monetization displaces discussion of the problem
+            and product where founders actually have insight."
+           ↓  npm run search "how should I pitch?"
+Result:  Retrieves the principle + 5 supporting insights from 4 different
+         sources, with confidence levels and source attribution.
+```
+
+One essay becomes searchable knowledge that connects to everything else you've ingested.
+
 ## Start Fresh (5 minutes)
 
 ```bash
@@ -32,10 +53,17 @@ ollama pull nomic-embed-text
 
 # Ingest your first source
 npm run ingest https://youtu.be/your-video-id
+#   → downloads transcript, creates source file, prints source ID (SRC-XXXXXX-XXXX)
+```
 
-# Claude extracts insights as JSON, then:
+**Extraction:** Open Claude Code in the Zuhn directory and say *"extract insights from SRC-XXXXXX-XXXX"*. Claude reads the source, writes structured JSON, and runs `extract.ts` — which validates via Zod and creates insight files. Or do it manually:
+
+```bash
+# Write extraction JSON (Claude does this for you in conversation)
 npx tsx scripts/extract.ts --source SRC-XXXXXX-XXXX --file /tmp/zuhn-extract.json --post-ingest
+```
 
+```bash
 # Search your knowledge
 npm run search "your query"
 ```
