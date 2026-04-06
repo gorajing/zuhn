@@ -3,11 +3,11 @@
 - `INS-260325-DE23` As LLMs integrate into search, email, and word processing, their content restrictions become de facto information gatekeeping affecting freedom of thought.
 - `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260403-27F5` Proprietary AI safety layers are strategically undermined by uncensored open-source alternatives that attract users seeking unrestricted generation.
-- `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
 - `INS-260327-1439` Proposed legislation threatens to criminalize sharing health information that contradicts pharmaceutical interests
+- `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
 - `INS-260403-D609` Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
 - `INS-260402-116A` Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
-- `INS-260402-476E` Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260325-36F0` From Jesus to Socrates to Barbra Streisand, suppressing ideas consistently amplifies them — people are more interested in and more likely to believe prohibited content.
 - `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
+- `INS-260402-476E` Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260323-B497` Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.

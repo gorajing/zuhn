@@ -1,10 +1,10 @@
 # Tag: customer-acquisition
 
 - `INS-260324-8D35` FanDuel and DraftKings are spending billions on advertising and sign-up bonuses to acquire users in newly legal states before the regulatory window closes — the same blitzscaling playbook as Uber.
-- `INS-260329-D5FF` Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
 - `INS-260324-D90C` Casper, Warby Parker, and Dollar Shave Club promised that cutting out retailers would lower costs — but they replaced wholesale margins with massive advertising budgets and ended up spending more on customer acquisition than retailers spent on shelf space.
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260405-631B` Costco's $60 annual fee screens out price-sensitive customers and concentrates a cohort with ~$100k average household income and 90% annual renewal.
+- `INS-260329-D5FF` Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
 - `INS-260327-E093` As a 19-year-old dropout with no credibility, he offered advertisers performance-based pricing — absorbing all risk — and grew to $150M ARR in 4 years.
 - `INS-260330-BC21` Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.

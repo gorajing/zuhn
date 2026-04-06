@@ -39,10 +39,10 @@ resolutions:
     Twitter trend, it is by definition not unique.
 related:
   - INS-260329-AA30
+  - PRI-260405-72D4
   - INS-260330-6C68
   - INS-260403-C610
   - INS-260403-573F
-  - INS-260403-699B
 stance: >-
   Making startup decisions based on VC podcasts and content is literally the
   definition of generating non-unique ideas.

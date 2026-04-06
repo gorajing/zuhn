@@ -37,6 +37,7 @@ resolutions:
     what it can measure. You're either on-rails (speed of light) or off-rails
     (everything meanders).
 related:
+  - PRI-260405-FB37
   - PRI-260403-EA13
   - PRI-260323-8E89
   - INS-260402-FEA3

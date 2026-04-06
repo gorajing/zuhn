@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260326-163A
   - PRI-260328-F723
+  - PRI-260405-1A34
   - INS-260322-CCAA
   - INS-260329-075C
-  - INS-260327-BF89
   - INS-260404-0570
 evidence:
   - id: INS-260326-163A

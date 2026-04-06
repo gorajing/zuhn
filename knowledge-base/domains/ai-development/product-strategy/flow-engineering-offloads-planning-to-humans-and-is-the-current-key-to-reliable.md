@@ -53,7 +53,6 @@ stance: >-
   steps in a loop.
 related:
   - INS-260326-9402
-  - INS-260327-77E7
   - PRI-260328-F723
   - PRI-260328-B4BD
   - INS-260327-A9D5

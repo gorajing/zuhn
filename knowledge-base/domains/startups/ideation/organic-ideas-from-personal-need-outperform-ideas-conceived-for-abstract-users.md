@@ -48,11 +48,11 @@ related:
   - INS-260327-4DDE
   - INS-260327-D5CC
   - INS-260328-A9D2
-  - INS-260330-6C68
   - INS-260402-D739
-  - INS-260403-C610
   - INS-260403-DDFD
-  - INS-260403-B835
+  - PRI-260405-72D4
+  - INS-260403-C610
+  - INS-260330-6C68
 ---
 Paul Graham distinguishes two types of startup ideas: organic ones (Apple, Google, Facebook) that grow from a founder's personal frustration, and made-up ones (Viaweb) conceived for users the founders don't resemble. The most successful startups skew heavily toward the organic type because the founder has authentic domain knowledge and can iterate from genuine experience rather than speculation.
 

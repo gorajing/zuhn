@@ -17,11 +17,11 @@ sources:
     title: Building the Zuhn knowledge base — lessons from Phase 1-5
     author: Jin Choi + Claude
 related:
+  - PRI-260405-3080
   - INS-260320-4B31
   - PRI-260403-5B3D
   - INS-260403-5C1D
   - INS-260320-1B10
-  - INS-260320-6F8E
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0

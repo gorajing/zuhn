@@ -59,7 +59,6 @@ stance: >-
 related:
   - INS-260326-98A0
   - INS-260329-FC75
-  - INS-260329-F969
   - INS-260329-EDA2
   - INS-260329-A077
   - INS-260330-0102
@@ -67,6 +66,7 @@ related:
   - INS-260330-C4F1
   - PRI-260403-0509
   - INS-260329-DAD1
+  - INS-260329-FA1C
 evidence:
   - id: INS-260326-98A0
     type: TRANSFERS_TO

@@ -49,7 +49,6 @@ related:
   - INS-260328-E410
   - INS-260321-BFA3
   - INS-260327-CEE4
-  - INS-260330-BA71
 evidence:
   - id: INS-260321-BFA3
     type: CHALLENGES

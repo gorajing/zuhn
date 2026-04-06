@@ -44,11 +44,11 @@ stance: >-
   product vision based on technology trajectory and communicating that vision
   clearly to the team.
 related:
+  - PRI-260405-72D4
   - INS-260327-CD36
   - INS-260404-5AC1
   - INS-260403-AA8F
   - INS-260402-D0F3
-  - INS-260403-0218
 evidence:
   - id: INS-260327-6F12
     type: CHALLENGES

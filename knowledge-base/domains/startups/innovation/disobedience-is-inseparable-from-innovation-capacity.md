@@ -47,13 +47,12 @@ stance: >-
   You cannot suppress hackers' irreverence toward authority without also
   suppressing their ability to solve problems others declare unsolvable
 related:
-  - INS-260323-D2AA
-  - INS-260330-39D7
   - INS-260330-E881
   - INS-260402-46AD
   - INS-260402-C664
   - INS-260402-AA3F
   - INS-260403-9FE2
+  - INS-260323-D2AA
   - INS-260403-FF74
 evidence:
   - id: INS-260323-D2AA

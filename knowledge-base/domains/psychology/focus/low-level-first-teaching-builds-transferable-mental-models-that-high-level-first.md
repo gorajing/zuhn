@@ -52,11 +52,11 @@ stance: >-
   languages, even though it's harder and slower initially.
 related:
   - INS-260322-B693
+  - PRI-260405-49C0
   - INS-260330-C4F1
   - INS-260322-DAA1
   - INS-260330-E47D
   - INS-260329-EDA2
-  - INS-260329-B2F4
   - INS-260403-3831
 evidence:
   - id: INS-260322-B693

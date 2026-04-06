@@ -56,7 +56,6 @@ stance: >-
   models or infrastructure, because applications must generate enough revenue to
   fund all the technology layers beneath them.
 related:
-  - INS-260320-2DDE
   - PRI-260405-D6F5
   - INS-260327-89AE
   - INS-260405-D23E

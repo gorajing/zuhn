@@ -45,12 +45,11 @@ resolutions:
     'too early but right' and 'just wrong' — and that distinction comes from
     deep customer understanding, not consensus validation.
 related:
+  - PRI-260405-72D4
   - INS-260403-C610
   - INS-260330-6C68
   - INS-260403-816B
   - INS-260327-FCCF
-  - INS-260402-D739
-  - INS-260329-AA30
   - INS-260403-C4E2
 stance: >-
   When everyone agrees your startup idea is great, someone has probably already

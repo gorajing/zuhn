@@ -45,10 +45,9 @@ resolutions:
     builders is to stop optimizing for tasks AI can do and start optimizing for
     the judgment and values layer that determines which tasks should be done.
 related:
-  - INS-260321-7D7C
-  - INS-260322-B693
   - INS-260327-A507
   - PRI-260323-50FE
+  - INS-260321-7D7C
   - INS-260325-2832
   - INS-260325-DFA5
   - INS-260325-FBA0

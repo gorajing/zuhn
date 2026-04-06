@@ -51,7 +51,6 @@ stance: >-
   consistently deliver value rather than extract margin from transactions.
 related:
   - INS-260327-1576
-  - INS-260403-C4DF
   - INS-260403-3F5F
   - INS-260404-12A4
   - INS-260405-48EC

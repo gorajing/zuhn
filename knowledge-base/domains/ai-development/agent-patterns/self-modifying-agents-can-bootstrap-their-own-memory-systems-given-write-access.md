@@ -47,7 +47,6 @@ stance: >-
   system without human-written code.
 related:
   - INS-260322-96D1
-  - INS-260322-22B3
   - INS-260323-4B4D
   - INS-260320-F8FD
   - INS-260325-B1D8

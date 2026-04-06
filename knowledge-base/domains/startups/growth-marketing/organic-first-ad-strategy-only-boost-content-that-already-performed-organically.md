@@ -48,9 +48,9 @@ resolutions:
 related:
   - PRI-260328-6CEC
   - INS-260403-DEF6
+  - PRI-260405-675B
   - INS-260327-6F79
   - INS-260320-DADA
-  - INS-260329-CBF6
 stance: Rella never runs ads on content created specifically for ads
 evidence:
   - id: INS-260327-6F79

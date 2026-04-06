@@ -46,10 +46,10 @@ resolutions:
 related:
   - INS-260322-5CBF
   - PRI-260328-BDC2
+  - PRI-260405-675B
   - PRI-260322-8FD4
   - INS-260328-2BCF
   - PRI-260328-0C15
-  - INS-260323-D679
   - INS-260403-A112
 stance: >-
   The cost of reaching audiences on social platforms is zero for distribution —

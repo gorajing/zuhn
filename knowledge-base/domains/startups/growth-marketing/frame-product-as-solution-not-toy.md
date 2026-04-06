@@ -20,11 +20,11 @@ sources:
     url: 'https://youtu.be/Wg70HlO-5gY'
 related:
   - INS-260320-703F
+  - PRI-260405-675B
   - INS-260402-2632
   - INS-260327-A608
   - INS-260327-C75F
   - INS-260327-735A
-  - INS-260327-3A71
   - INS-260403-CA1F
   - INS-260404-59D1
 date_extracted: '2026-03-20'

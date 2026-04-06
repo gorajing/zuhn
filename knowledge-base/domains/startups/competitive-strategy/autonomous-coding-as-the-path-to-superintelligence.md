@@ -45,7 +45,6 @@ stance: >-
   Solving autonomous coding will unlock superintelligence more broadly because
   code is the universal substrate for all problem-solving.
 related:
-  - INS-260323-D2AA
   - INS-260323-1477
   - INS-260326-7995
   - INS-260403-F60C

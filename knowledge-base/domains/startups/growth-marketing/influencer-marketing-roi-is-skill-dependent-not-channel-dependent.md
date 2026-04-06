@@ -42,10 +42,10 @@ resolutions:
     selection, poor creative brief) rather than structural.
 related:
   - PRI-260328-2E23
+  - PRI-260405-675B
   - PRI-260328-BDC2
   - INS-260325-8B36
   - INS-260322-FFF6
-  - PRI-260321-558C
   - INS-260321-96CE
   - INS-260403-F745
   - INS-260403-A8F3

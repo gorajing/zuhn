@@ -47,9 +47,9 @@ stance: >-
 related:
   - PRI-260323-C49D
   - PRI-260328-4000
+  - PRI-260405-49C0
   - PRI-260403-9D15
   - INS-260329-64B8
-  - PRI-260403-2376
   - INS-260403-50F1
 ---
 Graham tried setting rules like 'only use the internet twice a day' and found they always collapsed—some legitimate need would arise, creating a crack that widened back into old habits. He concludes that addictive things must be treated as if a sentient adversary in your head is constantly generating plausible justifications.

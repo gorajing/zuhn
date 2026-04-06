@@ -53,11 +53,11 @@ resolutions:
     propaganda, especially AI-generated propaganda that 'sounds like a very
     convincing, reasonable person.'
 related:
-  - INS-260323-64A4
   - PRI-260323-C49D
+  - PRI-260405-49C0
   - INS-260322-DAA1
   - INS-260405-86BB
-  - INS-260329-0F39
+  - INS-260323-64A4
   - INS-260327-3B69
   - INS-260330-B784
 stance: >-

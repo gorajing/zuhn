@@ -41,10 +41,10 @@ stance: >-
   full, creating a regressive wealth transfer.
 related:
   - INS-260327-3377
+  - PRI-260405-1A34
   - INS-260322-0C28
   - PRI-260328-BEDD
   - INS-260327-CFC5
-  - PRI-260328-FD90
 evidence:
   - id: INS-260322-0C28
     type: TRANSFERS_TO

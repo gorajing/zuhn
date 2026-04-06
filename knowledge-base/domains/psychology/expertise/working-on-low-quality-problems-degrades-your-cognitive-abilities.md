@@ -46,7 +46,6 @@ stance: >-
   not merely bored — it's cognitive degradation, not just dissatisfaction.
 related:
   - INS-260325-13B9
-  - INS-260322-C6CE
   - INS-260330-1E5E
   - INS-260329-023F
   - INS-260329-64B8

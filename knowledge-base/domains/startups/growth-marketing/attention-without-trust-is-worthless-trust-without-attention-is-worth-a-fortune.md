@@ -46,10 +46,10 @@ stance: >-
   outsized business outcomes.
 related:
   - PRI-260328-2E23
+  - PRI-260405-675B
   - INS-260327-735A
   - INS-260321-F0DF
   - INS-260327-B7C4
-  - INS-260323-7AF7
   - INS-260403-15DA
 evidence:
   - id: INS-260327-B7C4

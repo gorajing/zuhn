@@ -48,14 +48,13 @@ stance: >-
   treating ideas as fixed blueprints.
 related:
   - INS-260323-C4E2
-  - INS-260321-3660
   - INS-260322-3E59
   - INS-260329-EAFD
+  - PRI-260405-72D4
   - INS-260330-6C68
   - INS-260403-C610
   - INS-260403-8C36
   - PRI-260328-59DC
-  - INS-260403-AEB3
   - INS-260403-FBF0
 evidence:
   - id: INS-260329-EAFD

@@ -46,12 +46,12 @@ stance: >-
   cognitive development that makes them employable, analogous to driving a car
   instead of running for exercise.
 related:
-  - INS-260322-5A0F
-  - INS-260322-DAA1
   - INS-260325-1345
   - PRI-260323-C49D
+  - INS-260322-DAA1
+  - INS-260322-5A0F
   - INS-260323-5D6D
-  - INS-260327-DF8B
+  - PRI-260405-49C0
 evidence:
   - id: INS-260322-5A0F
     type: SUPPORTS

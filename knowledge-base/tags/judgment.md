@@ -3,8 +3,8 @@
 - `INS-260323-B07C` A Harvard study found that below-median entrepreneurs saw a 10% decline in profits from AI access because they lacked the judgment to filter good advice from bad.
 - `INS-260321-4178` AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260327-C0C5` Marshal Ney was the bravest man in Napoleon's army but his recklessness — charging cavalry without infantry support at Waterloo — contributed to some of the greatest French disasters.
-- `INS-260404-E185` Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
+- `INS-260404-E185` Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
 - `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260329-1A64` When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.

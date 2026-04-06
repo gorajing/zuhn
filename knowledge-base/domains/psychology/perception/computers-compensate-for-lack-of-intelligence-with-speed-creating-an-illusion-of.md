@@ -51,12 +51,11 @@ stance: >-
   but brute-force speed compensating for fundamental inability to understand
   meaning
 related:
-  - INS-260320-76E7
   - INS-260325-40DC
+  - PRI-260405-2DE5
   - INS-260403-7342
   - INS-260321-F864
   - INS-260327-9BA2
-  - INS-260325-2C31
 evidence:
   - id: INS-260320-76E7
     type: SUPPORTS

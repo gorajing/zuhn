@@ -52,10 +52,10 @@ stance: >-
   debugging experience in early programming education
 related:
   - INS-260329-20F8
+  - PRI-260405-2DE5
   - INS-260330-5609
   - INS-260321-53E2
   - INS-260329-500E
-  - INS-260330-F5A1
   - INS-260329-19EA
 evidence:
   - id: INS-260329-20F8
