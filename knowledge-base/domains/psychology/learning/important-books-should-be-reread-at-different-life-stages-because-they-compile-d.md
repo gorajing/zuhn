@@ -57,6 +57,13 @@ related:
   - INS-260327-2021
   - INS-260329-613F
   - INS-260329-7D18
+evidence:
+  - id: INS-260321-2564
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-7D18
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham identifies a cognitive error: treating reading like carpentry, where doing something again implies you did it wrong the first time. But if knowledge is compiled into your mental model using the current state of your brain, then the same source material will produce different outputs at different life stages. A book on leadership read before you've led anyone compiles very differently from the same book read after a decade of management.
 

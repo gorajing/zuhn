@@ -55,6 +55,13 @@ related:
   - INS-260330-43EE
   - INS-260403-DC64
   - PRI-260403-52DF
+evidence:
+  - id: INS-260403-C7A9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-0CA8
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham's advice to not 'try to seem more than you are' rests on an asymmetry insight: experienced investors are better at detecting bullshit than technical founders are at producing it. This makes authenticity not just ethically correct but strategically optimal — the expected value of faking competence is negative.
 

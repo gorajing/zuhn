@@ -66,5 +66,20 @@ evidence:
   - id: INS-260327-C79D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-4AE1
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-25A8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-16E1
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-224A
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-1852
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham reveals that investor communication operates on a different protocol than normal conversation. 'I don't lead' really means 'my interest is a function of other investors' interest' — the spectral signature of mediocre investors hiding behind structural-sounding language. Investors who 'just want to meet and chat' never just want to chat. The protocol fix is to require written confirmation of any commitment — this forces the discrepancy between investor-speak and reality to surface, whether the source is deliberate misleading or founder wishful thinking. The broader principle applies to any negotiation where one party benefits from ambiguity: build systems that force clarity rather than trying to interpret signals through a fog of motivated reasoning.

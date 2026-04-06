@@ -68,6 +68,9 @@ evidence:
   - id: INS-260327-DD1D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-A326
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Lincoln expanded executive power during the Civil War, Woodrow Wilson during WWI, FDR during the Depression and WWII, and subsequent presidents during the Cold War and War on Terror. In each case, emergency powers were claimed as temporary but became permanent. The institutional apparatus (agencies, authorities, precedents) built for each crisis persisted and expanded.
 

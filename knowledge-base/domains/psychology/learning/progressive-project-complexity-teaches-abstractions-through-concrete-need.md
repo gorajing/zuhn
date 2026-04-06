@@ -65,6 +65,9 @@ evidence:
     relationship: RELATED
   - id: INS-260329-9A58
     relationship: RELATED
+  - id: INS-260403-743D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The tutorial sequences three projects of increasing complexity — a calculator, a mad libs game, and a guessing game — each requiring new concepts (variables, strings, loops, conditionals) precisely when the project demands them. This creates a pull-based learning dynamic where the learner wants the concept to solve a concrete problem, rather than a push-based model where concepts are taught speculatively.
 

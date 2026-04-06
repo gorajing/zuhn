@@ -58,5 +58,8 @@ evidence:
   - id: INS-260323-47B0
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-4102
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Kennedy's 'three pilots' metaphor defines sturdy leadership. Pilot 1 dismisses the passengers' fear ('Stop being dramatic') — loses connection to others. Pilot 2 opens the cockpit ('Does anyone know what to do?') — loses connection to self. Pilot 3 validates feelings while maintaining authority ('I hear you. I know what I am doing. I am going to get us there.') — maintains connection to both self and others simultaneously. The turbulence does not change, but relief comes from the combination of emotional validation and confident competence. This is the template for any authority role: parenting, management, crisis leadership. The key insight is that empathy and firmness are not opposing forces — the boundary between 'I can see your feeling' and 'I am not taking on your feeling' is precisely what makes effective empathy possible.

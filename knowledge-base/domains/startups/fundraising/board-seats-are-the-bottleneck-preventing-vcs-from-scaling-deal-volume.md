@@ -51,6 +51,10 @@ related:
   - INS-260403-AFCD
   - PRI-260328-6A8D
   - INS-260321-D484
+evidence:
+  - id: INS-260321-D484
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham identifies board seats as the binding constraint on VC deal volume. If a partner can handle 12 boards and startups run ~6 years, that's only 2 new deals per partner per year. The solution seems obvious: take fewer board seats. But VCs haven't tested whether board membership actually improves returns versus simply providing advice without governance power.
 

@@ -52,6 +52,10 @@ related:
   - INS-260402-D0F3
   - INS-260330-D61A
   - PRI-260328-4000
+evidence:
+  - id: INS-260403-9627
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues morale is surprisingly underrated in design. A drawing teacher's observation that 'if you're bored drawing something, the drawing will look boring' captures a deep truth: the maker's engagement level is encoded into the artifact. This is why gradually refining a prototype beats the 'Hail Mary' approach — continuous small rewards sustain the engagement that produces quality.
 

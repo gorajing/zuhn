@@ -51,6 +51,19 @@ related:
   - INS-260404-5BBF
   - INS-260403-7586
   - INS-260404-312D
+evidence:
+  - id: INS-260323-D41A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-5BBF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-7586
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-0471
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham's advice to 'not try to seem more than you are' is counterintuitive because conventional wisdom says to project success. But he argues that smart investors look past superficial flaws (no office, no business experience, few months old) because Google was like that once. They're screening for raw talent and genuine insight into a problem.
 

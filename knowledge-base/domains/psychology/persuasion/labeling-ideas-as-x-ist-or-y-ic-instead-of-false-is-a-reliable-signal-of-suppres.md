@@ -59,6 +59,9 @@ evidence:
   - id: INS-260325-CF3E
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-0803
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a powerful heuristic: if a statement is genuinely false, calling it false is the strongest possible rebuttal. Resorting to labels like 'inappropriate,' 'divisive,' or any x-ist/y-ic formulation signals that the critic either cannot or will not engage with the truth value of the claim. The word 'defeatist' in 1917 Germany and 1940 Britain served this exact function — shutting down strategic debate by moralizing it.
 

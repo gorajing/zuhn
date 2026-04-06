@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-95EB
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-FFF0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Most salespeople lose deals by immediately responding to objections with answers, which puts the prospect in the judge position. The 3A framework breaks this pattern: first Acknowledge by restating what they said (builds rapport, buys thinking time), then Associate their question with behavior of successful customers ('that's actually a question our best clients ask'), then Ask a question about their question rather than answering it directly.
 

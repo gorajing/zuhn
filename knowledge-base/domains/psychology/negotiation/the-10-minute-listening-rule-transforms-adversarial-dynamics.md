@@ -52,6 +52,10 @@ related:
   - INS-260330-3570
   - INS-260330-A151
   - INS-260330-568F
+evidence:
+  - id: INS-260322-F65F
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Shapiro's second barrier — appreciation — reveals a paradox: both sides desperately want to feel appreciated, yet neither wants to appreciate the other first. He prescribes a concrete protocol: spend the first 10 minutes of any conflict purely listening, not formulating rebuttals. The goal is to understand the value, logic, and rationale behind the opposing perspective.
 

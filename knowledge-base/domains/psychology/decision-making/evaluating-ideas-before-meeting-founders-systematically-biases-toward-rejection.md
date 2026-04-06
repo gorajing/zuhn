@@ -53,6 +53,22 @@ related:
   - INS-260403-A60E
   - INS-260402-F08D
   - INS-260403-B2EB
+evidence:
+  - id: INS-260405-F5D8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-71D1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A60E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-F08D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-B2EB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When Fred Wilson said his partnership was 'having a debate' about Airbnb, PG immediately pushed back: 'I'd recommend having the debate after meeting them instead of before. We had big doubts about this idea, but they vanished on meeting the guys.' This is a specific procedural insight about how evaluation order affects outcomes.
 

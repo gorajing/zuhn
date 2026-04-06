@@ -56,6 +56,16 @@ related:
   - INS-260323-09E4
   - INS-260402-FE91
   - INS-260403-E365
+evidence:
+  - id: INS-260403-D1D4
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260323-09E4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-E365
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a specific psychological mechanism: in most places, starting a startup makes you seem unemployed. In Silicon Valley, it's fashionable. This isn't just branding — it fundamentally changes the activation energy required to start. The atmosphere in most places 'pulls you back toward the mean,' while hub environments push you toward ambition. This works because humans calibrate their sense of what's reasonable based on their immediate social environment, not abstract knowledge of what's possible.
 

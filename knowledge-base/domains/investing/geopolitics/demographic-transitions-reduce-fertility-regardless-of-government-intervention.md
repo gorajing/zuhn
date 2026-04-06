@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-74AC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-3043
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Every developed nation has experienced a demographic transition where fertility drops from 5-6 children per woman to below replacement rate (2.1) as the economy industrializes. China's fertility was already falling sharply before the one-child policy took effect in 1979 — from about 6 children per woman in the 1960s to roughly 2.7 by the time the policy launched. The policy accelerated an existing trend rather than creating it.
 

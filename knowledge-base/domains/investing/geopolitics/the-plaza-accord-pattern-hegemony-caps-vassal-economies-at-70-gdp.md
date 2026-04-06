@@ -63,5 +63,8 @@ evidence:
   - id: INS-260402-9F35
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-912C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The quant trader identifies a repeating geopolitical pattern: the dominant power acts when a rising economy reaches approximately 70% of their GDP. Japan was forced to sign the Plaza Accord, which effectively capped their growth. China triggered the same response at the same threshold. The lesson for investors: don't get lost in the details of specific economic policies (tariffs, currency pegs, bond restructuring). Put a black box over the event — the input is 'which country is more powerful' and the output is 'the more powerful country gets their way.' The strong eat the weak.

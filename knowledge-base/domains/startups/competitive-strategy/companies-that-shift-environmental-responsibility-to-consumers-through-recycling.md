@@ -50,6 +50,9 @@ evidence:
   - id: INS-260327-2B94
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-0CD8
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and packaging for actual sustainability.
 

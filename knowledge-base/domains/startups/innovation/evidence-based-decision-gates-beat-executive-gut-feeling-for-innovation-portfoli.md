@@ -55,6 +55,13 @@ related:
   - INS-260403-910E
   - INS-260405-9DF5
   - PRI-260327-5635
+evidence:
+  - id: INS-260329-8226
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-62E3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 A critical failure mode in corporate innovation is when senior leaders override the testing and evidence-gathering process to champion pet projects or kill uncomfortable findings. This is an innovation practice problem—the third pillar of culture change alongside leadership support and organizational design.
 

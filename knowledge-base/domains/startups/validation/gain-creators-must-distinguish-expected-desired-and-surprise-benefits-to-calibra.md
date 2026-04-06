@@ -67,5 +67,8 @@ evidence:
   - id: INS-260329-16F0
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260405-690F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Value Proposition Canvas distinguishes three tiers of customer gains: expected (baseline requirements), desired (known improvements customers actively seek), and surprising (benefits customers didn't know they wanted). This taxonomy is strategically important because it maps directly to competitive positioning. Delivering expected gains is table stakes — every competitor does this or dies. Delivering desired gains puts you in a feature-comparison race. But delivering surprising gains creates the 'wow' moments that drive word-of-mouth and make direct comparison difficult. Most founders spend their energy on expected and desired gains because those are what customers articulate in interviews. The surprise gains require deeper observation and creative inference — watching what customers do, not just what they say — which is why they're rarer and more defensible.

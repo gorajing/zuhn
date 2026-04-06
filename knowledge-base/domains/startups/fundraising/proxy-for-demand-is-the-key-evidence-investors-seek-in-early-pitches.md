@@ -52,5 +52,15 @@ related:
   - INS-260405-F980
   - INS-260404-2B4C
   - INS-260403-EA8C
+evidence:
+  - id: INS-260329-577E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-B31C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-132E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Investors' deepest fear with early-stage startups is that the product is built on a priori theories rather than real need. Market size figures ('$5 billion TAM') are as meaningless as an aspiring actor citing Tom Hanks's salary — the number is irrelevant until you prove you can capture it. What Sequoia and similar investors look for instead is the 'proxy for demand': what are people doing right now, with inadequate tools, that proves they need what you're building? The strongest version is the founders' own need (Apple, Google, Yahoo all started this way). Next best is the needs of people you know personally. These concrete stories stick in memory and address the core investor concern directly.

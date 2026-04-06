@@ -50,15 +50,15 @@ stance: >-
   can overcome missing it
 related:
   - INS-260321-13EA
-  - INS-260320-20F2
   - INS-260323-2040
   - INS-260323-2559
-  - INS-260326-80B1
   - INS-260327-0C56
   - INS-260328-93C8
   - INS-260403-36F4
   - INS-260403-C37B
   - INS-260403-CAAB
+  - INS-260326-80B1
+  - PRI-260328-94D4
 evidence:
   - id: INS-260403-36F4
     type: SUPPORTS
@@ -66,6 +66,9 @@ evidence:
   - id: INS-260321-13EA
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260326-80B1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 NFX presents compelling data on technology window compression. The social network window opened with Friendster's beta in October 2002 and effectively closed with Facebook's launch in February 2004 — just 11 months. The mobile social window ran from WhatsApp (February 2009) to Snapchat (July 2011) — about 30 months. After these windows closed, even superior products with talented teams couldn't gain traction.
 

@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-8304
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-9BBA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Raibert describes seeing a slow, cautious six-legged robot that always kept three feet on the ground and immediately thinking 'that's wrong — that's not how animals work.' Animals bounce, fly, use springiness, and predict outcomes. This insight drove 40 years of legged robotics: the pogo stick robot, Big Dog, Atlas, and Spot all embody the principle that dynamic, aggressive approaches yield better results than conservative, static ones.
 

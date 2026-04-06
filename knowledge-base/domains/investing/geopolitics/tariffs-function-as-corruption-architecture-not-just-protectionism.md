@@ -62,6 +62,15 @@ evidence:
   - id: INS-260403-8011
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260405-A1E6
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-7060
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-BFAB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Goldberg argues that tariffs are historically the biggest driver of political corruption because they force every industry to either seek exemptions or request that competitors be tariffed. This creates a system of 'special pleading' where access to executive power becomes the primary determinant of business success.
 

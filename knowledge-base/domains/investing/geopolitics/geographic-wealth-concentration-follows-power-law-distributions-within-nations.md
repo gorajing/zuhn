@@ -68,6 +68,15 @@ evidence:
   - id: INS-260403-C381
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-CA93
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-5D7D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-87CF
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Economic geography follows remarkably similar power-law patterns regardless of political system. In the US, 37 of the 75 highest-earning counties cluster in the DC-to-Boston corridor, and 54% of startups receive initial funding in just five metropolitan areas. China mirrors this with Beijing (political capital), Shanghai (financial center), and Shenzhen (innovation hub) playing structurally identical roles to DC, New York, and Silicon Valley.
 

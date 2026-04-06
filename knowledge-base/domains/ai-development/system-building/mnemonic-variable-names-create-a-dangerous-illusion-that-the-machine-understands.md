@@ -80,5 +80,11 @@ evidence:
   - id: INS-260329-24CE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-D022
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-5257
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Dr. Chuck demonstrates three versions of the same payroll calculation program: one with gibberish variable names, one with single letters, and one with mnemonic names like 'hours', 'rate', and 'pay'. He points out a subtle pedagogical trap: while mnemonic names massively improve code readability, they cause beginners to over-attribute intelligence to the language. Students see 'hours * rate' and unconsciously believe Python understands payroll math, when Python is simply multiplying two numbers it has zero semantic understanding of. This insight generalizes to AI development: when we name AI system components descriptively (like 'reasoning_engine' or 'memory_module'), we risk the same trap—attributing capabilities the system doesn't actually have. The naming creates an illusion of understanding that can mask fundamental limitations. Dr. Chuck deliberately alternates between meaningful and meaningless variable names in early lectures to repeatedly break this illusion.

@@ -57,6 +57,9 @@ evidence:
   - id: INS-260329-9A30
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-47B7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Fundraising has a mysterious capacity to consume all available founder attention — even a single meeting per day somehow burns the entire day through preparation, travel, and rumination. The counterintuitive solution is to deliberately subordinate fundraising to product development. Partition the founding team so one person handles investors while others keep building. Schedule investor meetings around development milestones, not vice versa.
 

@@ -69,6 +69,15 @@ evidence:
   - id: INS-260330-D8E4
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-1731
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-E52B
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-F20F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When RuBisCo fixes CO2 onto the 5-carbon RuBP molecule, the resulting 6-carbon chain is inherently unstable — it cannot persist in that form. It must immediately split into two molecules of 3-Phosphoglycerate, which are the first stable products of the Calvin Cycle. The instability isn't a bug; it's the mechanism by which energy gets redistributed into a usable configuration.
 

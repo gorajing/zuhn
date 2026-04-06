@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-A55A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-BDBE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The standard Western history narrative says Rome fell in 476 CE when Germanic chieftain Odoacer deposed the last Western emperor. But the Eastern Roman Empire — Byzantium — continued for nearly another millennium, producing Justinian's legal code, preserving Greek learning, and projecting enormous military and cultural power until Constantinople fell in 1453.
 

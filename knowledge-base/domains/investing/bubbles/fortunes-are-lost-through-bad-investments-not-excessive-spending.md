@@ -83,6 +83,12 @@ evidence:
   - id: INS-260403-39DD
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-6130
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-108C
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 The popular narrative of fortunes lost to luxury spending is largely fiction. In reality, most wealth destruction comes from bad investments — particularly complex instruments like derivatives where you can lose millions instantly without the visceral discomfort of spending.
 

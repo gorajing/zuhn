@@ -55,6 +55,10 @@ related:
 stance: >-
   Consumer businesses should be funded by repeating customers, not venture
   capital — capital cannot solve unit economics problems.
+evidence:
+  - id: INS-260403-7CAF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Ahana's hardest lesson: capital cannot solve your problems, only your unit economics can. After burning through Series B money on the marketplace model, Open Secret went back to basics — in food, the most important metric is repeat purchases. On quick-commerce, 80% of their revenue now comes from organic or repeat sources. The consumer is literally funding the business through repurchases.
 

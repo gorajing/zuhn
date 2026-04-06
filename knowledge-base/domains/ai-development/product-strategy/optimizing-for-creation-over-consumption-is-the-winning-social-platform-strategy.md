@@ -91,6 +91,12 @@ evidence:
   - id: INS-260403-6947
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-2AF0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-0A1C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Sora team discovered that when they made it trivially easy for users to create (via cameos and remixes), engagement patterns shifted dramatically from consumption to creation. The 'cameo' feature, which lets users insert themselves into AI-generated videos, produced immediate product-market fit internally before launch, with the team's entire feed becoming cameos.
 

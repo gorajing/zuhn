@@ -63,6 +63,12 @@ evidence:
   - id: INS-260329-89ED
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-3DF3
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-4F1B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi uses Charlie Munger's inversion technique as his primary strategic tool: instead of asking 'how do I win?' he asks 'what are the fewest moves I could make to absolutely guarantee I lose?' This exploits a cognitive asymmetry — humans are neurologically better at finding threats and problems than solutions. Our survival programming makes us natural critics but poor optimists.
 

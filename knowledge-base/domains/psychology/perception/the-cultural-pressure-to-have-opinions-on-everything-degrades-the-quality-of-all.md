@@ -72,6 +72,12 @@ evidence:
   - id: INS-260323-FCA7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-F8B5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-F834
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When Malice mentions writing a book about North Korea, 90% of people immediately start telling him everything they know about the subject — despite knowing almost nothing. He describes a cultural norm where admitting 'I don't know anything about that, tell me more' feels like a social failure.
 

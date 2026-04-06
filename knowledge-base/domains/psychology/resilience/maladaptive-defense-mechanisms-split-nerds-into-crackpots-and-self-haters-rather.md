@@ -70,6 +70,9 @@ evidence:
   - id: INS-260323-F853
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-6340
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Alexander identifies a psychological fork that every mildly-talented person faces: the realization that raw ability alone won't make them dominant. How someone handles this realization determines their trajectory. Denial produces the crackpot — the nerd who insists they really are the next Einstein despite evidence. Reaction formation produces the self-hating nerd — someone who turns against nerdiness itself, often becoming a cynical advocate for 'street smarts' or 'persuasion' over intellect (Adams being a prime example). Both are Freudian maladaptive defense mechanisms.
 

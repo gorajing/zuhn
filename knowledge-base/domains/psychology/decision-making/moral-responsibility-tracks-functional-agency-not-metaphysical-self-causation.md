@@ -54,6 +54,16 @@ related:
   - INS-260329-C472
   - INS-260329-6B95
   - INS-260329-8CA3
+evidence:
+  - id: INS-260323-7C3A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-B5C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-A8D9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The recursive desire analysis shows that ultimate self-causation is impossible — you always bottom out at desires you didn't choose. Yet we don't typically think this eliminates moral responsibility. Graham's framework implies that responsibility is grounded in the layers of agency you do have: whether the action flowed from your deliberation, values, and second-order endorsements, not whether those were constructed ex nihilo.
 

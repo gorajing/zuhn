@@ -70,6 +70,12 @@ evidence:
   - id: INS-260323-2117
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-ADCD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-280B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The mathematician's perspective on vectors deliberately ignores what vectors look like (arrows or lists) and instead defines them purely by the operations they support: addition and scalar multiplication. Anything that satisfies these operations 'is' a vector. This operational definition is what allows linear algebra to apply to function spaces, polynomial spaces, and other domains far beyond geometric arrows.
 

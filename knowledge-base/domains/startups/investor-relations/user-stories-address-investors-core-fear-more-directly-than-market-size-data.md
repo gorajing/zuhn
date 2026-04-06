@@ -58,6 +58,10 @@ related:
   - INS-260403-0F5C
   - INS-260404-5D18
   - INS-260404-B31C
+evidence:
+  - id: INS-260403-3421
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies the core investor anxiety at the early stage: they fear the founder built something based on a priori theory rather than real demand. TAM slides don't address this fear — they show the size of a potential market, not evidence that anyone wants this specific product. User stories directly rebut the fear.
 

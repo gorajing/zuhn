@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-C4D8
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-D062
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Bonanno's flexibility sequence provides a concrete, learnable framework for coping with adversity. Step 1 (context sensitivity): stop and identify the specific problem in this moment — not 'this ruined my life' (too big to solve) but 'I cannot sleep' or 'I feel anxious in this specific place.' Step 2 (repertoire): open your toolbox of strategies and select one suited to this specific problem. Step 3 (feedback): monitor whether the strategy is working. If yes, continue. If not, return to the repertoire and try something else.
 

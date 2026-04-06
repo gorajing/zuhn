@@ -51,6 +51,13 @@ related:
   - INS-260330-E606
   - INS-260330-FC16
   - INS-260330-04F9
+evidence:
+  - id: INS-260330-012D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-FC16
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The shade ball experiment perfectly demonstrates the quicksand principle: when stationary on the multi-layer surface, you float comfortably. But movement gives the balls enough energy to shift, and you sink progressively deeper. The more you struggle, the faster you descend.
 

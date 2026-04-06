@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-814E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-72BD
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Plokhy provides crucial contextual analysis of Putin's famous statement. The timing — weeks before Victory Day celebrations — is key. WWII cost millions of Soviet lives but ended with the USSR as a world power controlling half of Europe. 1991 cost very few lives but meant loss of state, territory, and great power status. For Putin, the 'catastrophe' is the loss of unified Russian peoples and superpower standing, not human suffering.
 

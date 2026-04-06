@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-62D6
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260403-886D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Destiny names a recurring debate pattern he calls the 'conservative merry-go-round': when presented with an addressable problem (school funding, lunch programs, air conditioning), the response always redirects to a deeper root cause (two-parent households, family structure, cultural values) that is true but not directly actionable through the mechanism being discussed. Each proposed intervention gets dismissed not because it's wrong, but because it's not the biggest lever.
 

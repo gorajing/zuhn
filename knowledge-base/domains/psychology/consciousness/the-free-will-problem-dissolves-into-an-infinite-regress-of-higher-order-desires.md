@@ -54,6 +54,10 @@ related:
   - INS-260325-4CF9
   - INS-260405-AAB7
   - INS-260403-803A
+evidence:
+  - id: INS-260325-7B58
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham formalizes the free will problem as a regular expression: 'you can't (want to)* want what you want.' The asterisk means you can recurse as many levels as you like, but there is always some nth-order desire that is unchosen — the bedrock of the self. This isn't a defeat for agency; three or four recursive levels of control is enough that lived experience feels free. But it resolves the philosophical puzzle: absolute self-determination is incoherent because the self that chooses was itself not chosen.
 

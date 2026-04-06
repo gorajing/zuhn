@@ -52,11 +52,11 @@ stance: >-
   seizes those nodes controls the entire system.
 related:
   - INS-260323-3CD0
-  - INS-260327-4DE7
   - INS-260327-37E3
   - INS-260327-C22F
   - PRI-260328-43D8
   - INS-260330-6BAF
+  - PRI-260403-B9A0
 evidence:
   - id: INS-260327-4DE7
     type: CHALLENGES

@@ -58,6 +58,13 @@ related:
   - INS-260403-3518
   - INS-260403-8C92
   - INS-260403-8BE9
+evidence:
+  - id: INS-260330-247C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-8BE9
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The US dollar's reserve currency status is one of America's most powerful geopolitical tools. Stablecoins represent a natural path to extending that dominance into the digital era — every USD-backed stablecoin in a Kenyan or Argentine wallet reinforces dollar demand. Yet US regulators are treating compliant stablecoin issuers as adversaries rather than allies.
 

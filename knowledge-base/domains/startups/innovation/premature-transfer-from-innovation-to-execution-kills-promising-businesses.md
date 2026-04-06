@@ -53,6 +53,10 @@ related:
   - INS-260403-52DB
   - INS-260326-CA66
   - INS-260322-F6AA
+evidence:
+  - id: INS-260326-CA66
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Business Portfolio Map identifies a critical failure mode: pushing promising ideas from the Innovation Engine into the Execution Engine prematurely. New businesses that graduate need traction, stability, and explicit protection because the dominant business models generate 'corporate antibodies' — organizational habits, resource allocation patterns, and cultural norms that actively resist new entrants.
 

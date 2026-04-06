@@ -59,6 +59,12 @@ evidence:
   - id: INS-260330-1F7E
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-F734
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-36F0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a specific failure mode he calls the Fluff Principle: content that requires zero effort to evaluate (amusing cartoons, rallying-cry rants) gets more upvotes than substantive content (novel theorems, detailed analyses) simply because the friction to vote is lower. A rant with a provocative title gets upvoted without being read; a proof requires actual engagement before a vote.
 

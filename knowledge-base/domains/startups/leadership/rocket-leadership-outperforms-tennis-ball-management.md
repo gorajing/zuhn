@@ -52,6 +52,13 @@ related:
   - INS-260322-A928
   - INS-260327-BEEE
   - INS-260330-5EAC
+evidence:
+  - id: INS-260330-5EAC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260322-A928
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham contrasts two management models using the original Macintosh team: people like Burrell Smith and Andy Hertzfeld were not 'tennis balls hit by Steve Jobs' but 'rockets let loose by Steve Jobs.' The critical difference is that rockets have their own propulsion and guidance — they need direction but not constant control. The team voluntarily worked late into the night not because of pressure but because they felt individual ownership.
 

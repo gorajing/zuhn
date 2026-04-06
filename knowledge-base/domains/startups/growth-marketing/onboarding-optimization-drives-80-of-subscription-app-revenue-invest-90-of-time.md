@@ -57,6 +57,10 @@ related:
 stance: >-
   More than 80% of subscription conversions happen during onboarding, so spend
   90% of your optimization time on onboarding screens, paywall design, a...
+evidence:
+  - id: INS-260404-B46E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Arthur's single biggest takeaway after 57 days: 'Only optimize your onboarding. Try to spend nearly 90% of your time on the onboarding. More than 80% of conversions are during the onboarding. That's way more important than the app itself.' This sounds counterintuitive, but the data backed it up repeatedly.
 

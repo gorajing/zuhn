@@ -71,5 +71,8 @@ evidence:
   - id: INS-260327-71A3
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-8646
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Vitamin B1 (thiamine) is essential for the autonomic nervous system which controls the balance between sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) states. When B1 is depleted, the sympathetic system stays chronically activated — producing anxiety, panic, racing heart, and hypervigilance. B1 is depleted by: refined carbohydrates (B1 is required to process glucose), alcohol, caffeine, stress, and certain medications. The fix is supplementation with benfotiamine or allithiamine (fat-soluble forms with better absorption than regular thiamine). Nutritional yeast is a food source. Many people diagnosed with generalized anxiety disorder actually have unrecognized B1 deficiency.

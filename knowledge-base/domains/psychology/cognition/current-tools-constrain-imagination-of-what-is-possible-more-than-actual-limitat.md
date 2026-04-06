@@ -90,6 +90,18 @@ evidence:
   - id: INS-260403-F9F0
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260405-F6A6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-673B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-F100
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-D645
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham observes that despite humans being fundamentally lazy creatures who should naturally gravitate toward the least-effort solution, our ideas about what's possible are so constrained by our current tools that simpler formulations seem 'very surprising' when encountered. Easier ways to express programs are 'something you have to discover, not something you naturally sink into.' This is a practical manifestation of the Sapir-Whorf hypothesis applied to programming — the language you think in determines the boundaries of what you can conceive.
 

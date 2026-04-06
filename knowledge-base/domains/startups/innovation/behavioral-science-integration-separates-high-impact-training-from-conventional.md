@@ -56,6 +56,19 @@ related:
   - INS-260323-D400
   - INS-260327-DF8B
   - INS-260404-9AEC
+evidence:
+  - id: INS-260403-449D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-D400
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-DF8B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-9AEC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 McKinsey Academy's approach stands out by explicitly using behavioral science to drive habit change — not just teaching frameworks but engineering the conditions for participants to apply them on the job. This includes simulations, reflection loops, progress tracking tied to business impact, and strong coaching elements.
 

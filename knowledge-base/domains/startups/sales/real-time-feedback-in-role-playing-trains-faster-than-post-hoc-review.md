@@ -63,6 +63,12 @@ evidence:
   - id: INS-260329-D48B
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-DC8D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-DAD1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Most sales training fails because feedback is delayed. A manager listens to a 30-minute role-play, then lists 10 things done wrong at the end. This violates the fundamental learning principle: trainability is inversely correlated with feedback delay. The faster the correction, the fewer repetitions needed.
 

@@ -74,6 +74,18 @@ evidence:
     relationship: RELATED
   - id: INS-260325-81BD
     relationship: RELATED
+  - id: INS-260330-1298
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6F40
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-5670
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-1B29
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Photosynthesis could theoretically convert photon energy directly into glucose, but instead it runs through an elaborate pipeline: photon → excited electron → proton gradient → ATP/NADPH → G3P → glucose. Each conversion step loses energy, making the overall process remarkably inefficient. Yet this multi-stage approach has powered all plant life for 450 million years.
 

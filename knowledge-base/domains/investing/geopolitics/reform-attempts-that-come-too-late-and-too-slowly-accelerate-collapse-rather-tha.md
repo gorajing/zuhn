@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-654D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-E585
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Qing dynasty's reform efforts in the 1900s came after decades of decline. But the reforms themselves destroyed the system's stability: abolishing the traditional exam system eliminated the main path for elites into government, creating a class of educated but frustrated young men who became revolutionaries. Modernizing the army created military units that turned against the dynasty. Each reform weakened the old system faster than the new system could be built.
 

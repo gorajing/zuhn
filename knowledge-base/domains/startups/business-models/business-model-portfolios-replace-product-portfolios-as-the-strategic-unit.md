@@ -59,6 +59,9 @@ evidence:
   - id: INS-260322-CCE8
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260330-02A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Traditional portfolio management focuses on products and brands, but this misses the structural differences in how value is created and captured. A business model portfolio approach — exemplified by Nestlé using the same pod technology across Nespresso, Dolce Gusto, SpecialT, and BabyNes with entirely different business models — makes explicit where synergies exist and where cannibalization threatens.
 

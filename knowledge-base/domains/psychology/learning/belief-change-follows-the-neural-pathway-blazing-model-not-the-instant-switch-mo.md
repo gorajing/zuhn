@@ -76,5 +76,8 @@ evidence:
   - id: INS-260403-6061
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-9376
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Conti uses a powerful metaphor: negative self-talk ('I'm a loser,' 'no one will want me') that has been repeated thousands of times creates the equivalent of a four-lane highway in the brain. When you start replacing it with a healthier narrative, you're cutting a new trail through wilderness. Initially the trail is narrow and fragile compared to the highway. But with persistent use, the trail widens, gets paved, and attracts more 'traffic' while the highway starts to crack and become overgrown from disuse. This directly challenges the rapid-gratification therapy model — Conti explicitly criticizes insurance-mandated 10-session CBT as a 'guarantee of failure' for deep belief change. The practical implication is that feeling improvement during the process (not just at the endpoint) is expected and valid. The very act of understanding the mechanism increases empowerment, which itself accelerates change. This reframes therapy not as 'fixing' but as progressive infrastructure development.

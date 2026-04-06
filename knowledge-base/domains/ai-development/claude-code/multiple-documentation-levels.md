@@ -23,8 +23,8 @@ related:
   - PRI-260320-3032
   - INS-260327-E0F7
   - INS-260320-47FA
-  - INS-260329-003B
   - INS-260329-DEA1
+  - INS-260326-3D8D
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
@@ -54,6 +54,9 @@ evidence:
   - id: INS-260330-70A8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-003B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 
 Large codebases need layered documentation for Claude to navigate

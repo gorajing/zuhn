@@ -60,6 +60,10 @@ related:
   - INS-260327-00EB
   - INS-260327-5AFE
 stance: Cuban redefines selling as simply asking 'can my product help this person?'
+evidence:
+  - id: INS-260403-EA34
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Cuban's framework for selling is deceptively simple: put yourself in the other person's shoes and ask whether you can genuinely help them. From selling garbage bags door-to-door at age 12 to building billion-dollar companies, the principle never changed. At Cost Plus Drugs, the product is trust in an industry lacking it. At Micro Solutions, it was productivity improvements.
 

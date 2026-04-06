@@ -51,6 +51,13 @@ related:
   - INS-260403-2B1D
   - INS-260326-6B98
   - INS-260330-070A
+evidence:
+  - id: INS-260330-070A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-2B1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham reveals that of YC's ~$10 billion in portfolio value, roughly three quarters came from just two companies (Dropbox and Airbnb). This extreme concentration means that in each YC batch, at most one company meaningfully affects returns — the rest are a cost of doing business.
 

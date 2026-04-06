@@ -66,5 +66,8 @@ evidence:
   - id: INS-260330-BFD0
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-51D6
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 PolarQuant replaces 'Go 3 blocks East, 4 blocks North' with 'Go 5 blocks at 37 degrees' — converting standard XYZ coordinates into radius (strength) and angle (meaning). Because the angle distribution in high-dimensional spaces is naturally concentrated and predictable, the data maps onto a fixed circular grid rather than a variable square grid. This eliminates the memory overhead of storing normalization constants that traditional quantization methods require. The deeper principle: hard problems often contain hidden structure that becomes visible only under the right coordinate transformation. Random rotation followed by polar decomposition is the specific instance; the general pattern appears throughout physics (Dirac's visual-geometric approach, Lagrange's scalar reformulation of mechanics) and problem-solving (reframing eliminates phantom barriers).

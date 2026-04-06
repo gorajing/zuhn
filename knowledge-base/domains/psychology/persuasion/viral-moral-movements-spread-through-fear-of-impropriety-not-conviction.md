@@ -62,6 +62,9 @@ evidence:
   - id: INS-260320-3798
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-3E46
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a two-stage adoption curve for new moral norms. First, zealots adopt eagerly as a way to signal virtue. If enough zealots adopt, a much larger group follows — motivated not by conviction but by fear. Most people already worry they might be breaking social rules they don't know about, so when someone tells them they're violating a norm, their default reaction is to believe it. Multiple accusers compound this effect.
 

@@ -50,5 +50,15 @@ related:
   - INS-260329-18BB
   - INS-260320-630D
   - INS-260329-69F0
+evidence:
+  - id: INS-260323-527B
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260320-630D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-69F0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The demonstration follows a deliberate escalation: first proving the wheel is genuinely heavy (failed attempts to hold it horizontally), then showing precession makes it appear weightless, then escalating to overhead one-handed lifts. This scaffolding technique works because each step recalibrates the viewer's expectations upward, making the final result feel maximally counterintuitive. The approach is more effective than leading with the explanation because it creates genuine cognitive dissonance that demands resolution. This pattern applies broadly — when communicating counterintuitive findings, establishing the expected baseline first amplifies the impact of the surprising result.

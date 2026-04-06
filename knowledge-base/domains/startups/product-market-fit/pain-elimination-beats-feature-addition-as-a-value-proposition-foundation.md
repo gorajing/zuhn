@@ -59,6 +59,13 @@ related:
   - INS-260403-5BBE
   - INS-260404-B5EB
   - INS-260330-7D6D
+evidence:
+  - id: INS-260322-96F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-7ED0
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The Value Proposition Canvas distinguishes between customer jobs (what people are trying to do), pains (what makes those jobs hard), and gains (desired outcomes). Apple Pay's clarity came from anchoring entirely on pains: the payment process was slow, awkward, and left users financially exposed through card skimming and data breaches.
 

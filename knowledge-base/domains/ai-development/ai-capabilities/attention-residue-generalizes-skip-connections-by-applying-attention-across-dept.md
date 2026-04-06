@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-1F41
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260405-0184
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Ilya Sutskever's observation that residual connections are LSTMs rotated 90 degrees inspired a natural follow-up: if attention replaced LSTMs in the temporal dimension, why not replace residual connections with attention in the depth dimension? Attention Residue does exactly this -- instead of fixed addition from the previous layer, it attends to all previous hidden states to compute the current layer's output.
 

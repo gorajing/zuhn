@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-68EF
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-4E55
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Britain and France won WW1, but at what cost? Britain's national debt increased 14x. A generation of young men was killed or traumatized. The British Empire began its terminal decline. France lost 1.4 million dead and vast productive territory was devastated. The 'victors' were too exhausted to enforce the peace, setting the stage for WW2 just 21 years later.
 

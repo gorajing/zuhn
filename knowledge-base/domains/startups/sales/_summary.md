@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 178 insights
+> 176 insights
 
 - `INS-260329-913C` [high] Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days.
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
@@ -31,7 +31,6 @@
 - `INS-260329-C56D` [high] Invest 60 minutes daily in structured sales training: 25min script reading aloud, 5min objection drilling, and 30min recorded call review.
 - `INS-260329-95EA` [high] Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
 - `INS-260329-1621` [high] Structure sales arguments as negative admission + 'but' + positive claim to amplify believability.
-- `INS-260327-B17D` [high] When buyers fear messing up, de-risk with concrete mechanisms: million-dollar performance warranties, bundled professional services, peer referrals from trusted community members, starting small with expansion plans, and bringing your legal/finance teams to the table early.
 - `INS-260327-8115` [high] Plunge waterfalls require patient field marketing and multi-touch attribution; slide waterfalls are dangerous without renewal/CS infrastructure; cascade waterfalls enable land-and-expand but need product management and cross-functional selling.
 - `INS-260327-5DD2` [high] When deal sizes exceed $10K, customers require human interaction to build trust before purchasing.
 - `INS-260327-6AA0` [high] Decision criteria isn't one thing — it's three: technical (features, integrations, security), economic (ROI, resources to implement, priority ranking), and relationship (partnership fit, industry strength, roadmap) — and each stakeholder weights these differently.
@@ -103,7 +102,6 @@
 - `INS-260329-4D5E` [high] Answer objections with questions about their questions to stay in control without damaging rapport.
 - `INS-260329-E96A` [high] If you measure success by 'did I help them decide' instead of 'did they buy,' pressure disappears and close rates increase.
 - `INS-260327-AEC2` [high] Michelangelo painting your house is a 7-year masterpiece that can never be replicated; Thomas Kincaid mass-produces paintings with standard pricing and distribution — only Kincaid's model creates investable leverage.
-- `INS-260327-4DE7` [high] Instead of free trials that provide no commitment or revenue, offer annual agreements with a 30-day satisfaction guarantee — the default becomes 'customer' rather than 'prospect.'
 - `INS-260330-8B52` [high] Instead of free trials, offer annual agreements with a 30-60 day cancellation window — buyers get the same safety net while you get real commitment.
 - `INS-260328-8B2C` [high] The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
 - `INS-260327-D7E6` [high] The same technique you use to roll a prospect's objection ('I hear you, can I challenge that belief?') works on your own internal objections like 'I'm not good enough' or 'this is too risky.'

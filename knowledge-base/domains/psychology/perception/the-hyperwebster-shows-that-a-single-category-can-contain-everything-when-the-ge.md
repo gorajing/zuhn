@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-B65B
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-280B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Ian Stewart's Hyperwebster lists every possible finite string over the 26-letter alphabet. Volume A contains every string starting with A. Remove the leading A from each entry, and you're left with... every possible string. One twenty-sixth of the dictionary is the entire dictionary. This isn't a trick — it's a necessary consequence of the generative space being infinite.
 

@@ -54,6 +54,16 @@ related:
   - INS-260325-436A
   - INS-260330-B5D2
   - INS-260326-DBEF
+evidence:
+  - id: INS-260330-B5D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260326-DBEF
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260322-2DBD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham makes the point that startups are inherently strange — they pursue ideas that most people think are wrong or pointless. A city that only tolerates conventional behavior will filter out the exact people who start transformative companies. Crucially, you can't be selectively tolerant, accepting tech weirdness while rejecting cultural weirdness, because they stem from the same disposition toward nonconformity.
 

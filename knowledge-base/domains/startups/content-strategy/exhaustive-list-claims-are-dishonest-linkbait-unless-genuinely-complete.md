@@ -51,6 +51,16 @@ related:
   - INS-260329-4A69
   - INS-260330-9BB7
   - INS-260402-89DE
+evidence:
+  - id: INS-260403-AA5B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-9BB7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-89DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham identifies a specific dishonesty in list formats: claiming exhaustiveness when you haven't earned it. Titles like 'The 7 Secrets of Success' trigger a reflexive challenge — readers must check whether they already know all 7, creating an irresistible pull. This is the same psychological mechanism as a whodunit.
 

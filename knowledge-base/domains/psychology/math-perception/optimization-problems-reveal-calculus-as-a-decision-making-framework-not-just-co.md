@@ -65,6 +65,12 @@ evidence:
   - id: INS-260329-2F63
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-A183
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-DC6C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The course's progression from abstract derivative rules to concrete optimization problems — maximizing area with fixed perimeter, minimizing cost functions, finding optimal production quantities in marginal cost analysis — reveals calculus's real power: it converts 'what's the best choice?' into a systematic procedure. Set the derivative to zero, check second derivatives, evaluate boundary conditions. This algorithmic approach to finding optima applies far beyond mathematics.
 

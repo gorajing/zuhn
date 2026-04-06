@@ -75,6 +75,9 @@ evidence:
   - id: INS-260330-4C67
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260329-58E7
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The Mongols had never seen a castle before they began raiding settled civilizations, yet they rapidly became experts at siege warfare — not through independent invention, but by systematically interrogating prisoners and adopting their techniques. They similarly absorbed gunpowder technology and even built ships to attack Japan, despite being a landlocked steppe people.
 

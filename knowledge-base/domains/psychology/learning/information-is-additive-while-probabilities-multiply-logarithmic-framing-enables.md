@@ -79,6 +79,9 @@ evidence:
   - id: INS-260323-B309
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-30BF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Shannon's choice of logarithmic units for information wasn't arbitrary — it transforms probability multiplication into addition. If guess 1 gives 2 bits (cutting possibilities by 4x) and guess 2 gives 3 bits (cutting by 8x), together they give 5 bits (cutting by 32x). You just add. This is far more intuitive than saying 'the probability was 1/4 and then 1/8 so together it's 1/32.'
 

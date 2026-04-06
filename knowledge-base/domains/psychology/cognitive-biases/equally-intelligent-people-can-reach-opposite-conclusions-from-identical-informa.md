@@ -74,6 +74,9 @@ evidence:
   - id: INS-260330-0E49
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-DA41
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The Guardian poll of 31,000+ people showed a near-even split (53.5% one-boxers vs 46.5% two-boxers) on Newcomb's Paradox. Each side finds the other's position obviously wrong. The divide stems from a hidden assumption: one-boxers rely on evidential decision theory (prior accuracy of the predictor), while two-boxers rely on causal decision theory (your current choice cannot change what is already in the box).
 

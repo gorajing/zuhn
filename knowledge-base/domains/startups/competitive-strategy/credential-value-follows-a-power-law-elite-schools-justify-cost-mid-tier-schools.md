@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-04CB
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260403-62AF
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Hormozi distinguishes sharply between elite institutions (Harvard, Stanford, Yale, Princeton) and the broad middle tier. Elite schools provide two irreplaceable assets: a personal brand effect ('he went to Harvard' shifts perception in every room) and access to the ruling-class network where graduates have median incomes in the tens of millions. These schools also offer generous endowments that offset tuition for non-wealthy students, making the arbitrage even stronger.
 

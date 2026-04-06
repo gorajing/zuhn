@@ -66,6 +66,21 @@ evidence:
   - id: INS-260327-4348
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260405-4423
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-BEFB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-FBC0
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-99FE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-6992
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham challenges the assumption that '15 big hits per year' is a cosmological constant, arguing that the limiting factor is the number of good founders — not technology or ideas — and that this number could grow 10-50x. If big hits go from 15 to 50-100 annually, the best pickers will have dramatically more winners to find.
 

@@ -58,6 +58,22 @@ stance: >-
   Most great projects pass through a phase that looks embarrassingly bad, and
   prematurely judging early work by finished-work standards kills more ambitious
   projects than genuine lack of ability
+evidence:
+  - id: INS-260403-726B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-2BA7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-5C74
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-D0A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-8E0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that the biggest barrier to doing great work isn't lack of talent but the fear of producing something embarrassing. Most people never even start ambitious projects because they judge their early output against the standard of finished work. This is a category error—early versions of ambitious projects are a fundamentally different type of artifact than polished final products, and evaluating them on the same scale systematically destroys high-expected-value work.
 

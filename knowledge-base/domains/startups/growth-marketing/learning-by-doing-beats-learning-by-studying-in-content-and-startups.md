@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-DAD1
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260322-24FB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Cheung was a college dropout sitting in a psychology lecture when he realized he couldn't learn in traditional settings. So he self-taught by building websites, creating graphics, and posting on Twitter. When ChatGPT launched, his first thread went viral because he'd already built the muscle of learning-by-doing.
 

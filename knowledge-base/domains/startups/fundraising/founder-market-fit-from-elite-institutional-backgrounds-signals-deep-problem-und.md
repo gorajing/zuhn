@@ -58,6 +58,13 @@ related:
   - INS-260403-CEC0
   - INS-260403-EE10
   - INS-260403-028F
+evidence:
+  - id: INS-260330-D7CC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-C732
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 NFX explicitly highlights the Veriti founders' backgrounds in Unit 8200 (Israel's elite intelligence cyber unit) and Check Point as a primary reason for investment. This goes beyond generic 'domain expertise' — these founders spent 6-13 years embedded in the actual institutions where cybersecurity problems are most acute and advanced. They didn't just study the problem; they lived it at the highest level.
 

@@ -49,5 +49,18 @@ related:
   - INS-260403-7639
   - INS-260325-DF82
   - PRI-260324-1134
+evidence:
+  - id: INS-260325-BBF1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-79AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-7475
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-7639
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 McDonald's 2019 financials reveal that $7.5 billion of its $11.6 billion in franchise fees came from rent, not royalties on food sales. The company holds $39 billion in property assets, making it technically the fifth-largest real estate holder globally. This pattern — where the visible product is not the actual profit engine — appears across industries. The lesson for founders is to audit where margin actually concentrates in a business model rather than assuming it aligns with the customer-facing product. When building a platform or franchise, the infrastructure layer (real estate, data, distribution) often becomes more valuable than the product layer.

@@ -61,6 +61,13 @@ related:
   - INS-260403-FF74
   - INS-260330-7ED0
   - INS-260330-C24F
+evidence:
+  - id: INS-260403-FF74
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-7ED0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Apple Pay's value proposition was not just about convenience — it was about a security architecture that required tight integration across layers that Apple uniquely controlled: the Secure Enclave in its custom silicon, iOS's biometric authentication, and its relationships with payment networks. No competitor owning only one or two of these layers could deliver the same experience.
 

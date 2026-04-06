@@ -59,6 +59,21 @@ evidence:
   - id: INS-260326-E0CB
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-B50A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-AB3E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-E8B2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-4C6D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-FAE2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The colliding blocks puzzle demonstrates a meta-principle about discovery: nobody set out to find pi in collisions. Someone noticed the digits 3, 31, 314, 3141 and recognized the anomaly demanded explanation. The pattern was discovered by working backward from surprising output to hidden structure.
 

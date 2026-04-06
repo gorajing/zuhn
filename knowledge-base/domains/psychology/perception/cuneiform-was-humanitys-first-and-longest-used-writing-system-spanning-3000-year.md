@@ -71,6 +71,12 @@ evidence:
   - id: INS-260330-3C4C
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-1A18
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-3831
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Cuneiform writing emerged around 3500 BC and was still in use in the first century AD - over three millennia of continuous use. During this period, it was adapted to write multiple languages (Sumerian, Akkadian, Babylonian, Hittite) and served every purpose from accounting to literature to law.
 

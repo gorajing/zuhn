@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-3138
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-61ED
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 JC started Fuse at 19 and never went to college. His argument: being young provides naivete (you don't know enough to be discouraged) and stamina (you have the energy to sustain extraordinary intensity). Both of these advantages naturally decline with age and experience.
 

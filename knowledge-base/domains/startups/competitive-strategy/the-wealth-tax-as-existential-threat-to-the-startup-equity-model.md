@@ -58,6 +58,13 @@ stance: >-
   Taxing unrealized gains on private company stakes would break the fundamental
   startup financing model where founders hold illiquid paper wealth for years
   before any cash event.
+evidence:
+  - id: INS-260330-F37B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-5CD6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The proposed California wealth tax includes unrealized gains and values company stakes by voting rights rather than ownership percentage. This means a typical founder who maintains board control despite dilution could be taxed on more wealth than they actually own. Since startup founders routinely hold billions in paper wealth for years before any liquidity event, this would force premature equity sales or restructuring.
 

@@ -59,6 +59,13 @@ related:
   - PRI-260323-81E9
   - INS-260405-966C
   - INS-260330-0A95
+evidence:
+  - id: INS-260405-966C
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-D3D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham points out that safe jobs with strong employment protections are essentially annuities — they deliver a stream of future income with minimal variance. Socialist economies with powerful tenured bureaucrats have real wealth inequality even if measured income looks flat, because the value of that tenure doesn't show up in statistics.
 

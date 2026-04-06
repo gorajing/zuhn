@@ -62,6 +62,21 @@ evidence:
   - id: INS-260405-8808
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260330-CCD8
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-94EB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-6EDC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-783C
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A4EB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham observes that persistent people are usually quite rational — except at the very top of their decision tree. When choosing between problems of roughly equal expected value, they follow personal preference, even deliberately widening their bands of acceptable EV to ensure the problem they love qualifies. Empirically, this works.
 

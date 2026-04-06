@@ -52,6 +52,13 @@ related:
   - INS-260402-CCC3
   - INS-260402-4AB4
   - INS-260405-8584
+evidence:
+  - id: INS-260329-D062
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-4AB4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham's 'staying upwind' principle — illustrated by choosing math over economics because math-to-economics is easier than the reverse — encodes a general decision heuristic for uncertainty. The less certain you are about your destination, the more you should weight optionality over immediate payoff. Hard, foundational skills are upwind of applied ones; broad platforms are upwind of narrow specializations.
 

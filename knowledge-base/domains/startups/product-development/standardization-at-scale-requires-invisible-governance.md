@@ -48,12 +48,12 @@ stance: >-
   Large-scale standardization (like uniform brick sizes across cities) is
   stronger evidence of effective governance than palaces or monuments.
 related:
-  - INS-260327-4DE7
   - INS-260327-4DE8
   - INS-260329-EC78
   - INS-260330-AE4B
   - INS-260327-191B
   - INS-260327-F417
+  - INS-260327-AA2C
 evidence:
   - id: INS-260327-4DE8
     type: EXTENDS
@@ -64,6 +64,12 @@ evidence:
   - id: INS-260327-D25D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-F417
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-191B
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Mohenjo Daro and Harappa — cities hundreds of miles apart — used identically sized bricks, perpendicular street layouts, and centralized drainage systems. This level of standardization across a geographically dispersed civilization implies powerful coordination mechanisms, yet archaeologists have found no palaces, no monumental royal architecture, and no clear evidence of kings or authoritarian rule.
 

@@ -50,8 +50,8 @@ related:
   - INS-260330-CCF0
   - INS-260329-8830
   - INS-260330-AE16
+  - INS-260405-2299
   - PRI-260328-5F64
-  - INS-260404-CE26
 evidence:
   - id: INS-260330-CCF0
     type: SUPPORTS
@@ -62,6 +62,9 @@ evidence:
   - id: INS-260329-9115
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-CE26
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Vim's modal editing — where the same keys perform different actions depending on the current mode — is initially confusing but enables operations like 'delete 3 lines' (3dd) that are impossible to match with mouse-based editing. The 50-year survival of this paradigm despite far more intuitive alternatives proves that memorization-heavy interfaces can be durably superior for expert users.
 

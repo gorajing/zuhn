@@ -56,5 +56,8 @@ evidence:
     relationship: RELATED
   - id: INS-260329-C345
     relationship: RELATED
+  - id: INS-260405-DC20
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi contrasts two patterns: most entrepreneurs are 'micro fast, macro slow'—they execute rapidly but constantly change directions, resulting in slow overall progress. His billionaire neighbor exemplifies 'micro slow, macro fast'—doing the same thing for 40 years, where speed comes from never taking detours. Hormozi crystallizes this as: '90% of success can be boiled down to consistently doing the obvious thing for an uncommonly long period of time without convincing yourself you're smarter than you are.' The practical implication is that the urge to pivot every 90 days—chasing the next shiny opportunity—is the primary destroyer of entrepreneurial wealth. The compounding only kicks in when you resist the temptation to restart.

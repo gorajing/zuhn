@@ -46,5 +46,12 @@ related:
   - PRI-260403-6DD6
   - INS-260405-AD55
   - PRI-260328-1ED1
+evidence:
+  - id: INS-260330-42DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-C1A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When organizations grow beyond natural group sizes (~8-20 people), they must use tree structures to coordinate. In these trees, each manager represents their entire group to the level above, meaning the group must compress its collective agency into one person's worth of freedom. This constraint propagates: the larger the tree, the less freedom each leaf node has. This isn't a management failure—it's a structural inevitability. Even the best-run large companies can't escape it, which is why staying small at every stage is a genuine competitive advantage, not just a lifestyle choice.

@@ -59,6 +59,28 @@ related:
   - INS-260329-C3DF
   - INS-260329-D8C7
   - INS-260329-04CB
+evidence:
+  - id: INS-260329-191D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-D76A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-1E81
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-EF89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-4B99
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7F6F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-8BA2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham makes two key empirical claims: first, that the faculty quality curve across colleges is much flatter than the student quality curve, especially in math and hard sciences — you have to go far down the rankings before smart professors disappear. Second, that while elite schools' biggest advantage is peer quality, most people only maintain a handful of close college friendships anyway, and a handful of smart peers can be found at most institutions.
 

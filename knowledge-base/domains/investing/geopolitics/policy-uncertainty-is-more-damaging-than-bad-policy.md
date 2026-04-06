@@ -64,6 +64,15 @@ evidence:
   - id: INS-260402-7FCC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-C3A3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-CC9A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-335F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Every business decision from hiring to building warehouses requires assumptions about the future. When tariffs are announced, cancelled, re-announced, raised, lowered, exempted, un-exempted, and litigated in rapid succession, businesses freeze. This uncertainty paralysis is often worse than simply implementing bad policy consistently, because at least consistent bad policy allows adaptation.
 

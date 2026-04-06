@@ -51,13 +51,19 @@ stance: >-
 related:
   - INS-260325-F451
   - INS-260327-B034
-  - INS-260403-0AF4
   - INS-260403-85F1
   - INS-260403-74DB
   - INS-260403-21C4
   - INS-260404-6EB8
   - INS-260404-756D
   - INS-260404-A526
+evidence:
+  - id: INS-260403-74DB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-A526
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Professional investors hear enormous volumes of pitches that blur together. Graham argues the first survival filter is simply being remembered, and the mechanism is a single descriptive phrase that sticks — typically in 'the X of Y' format. Viaweb's was 'the Microsoft Word of ecommerce,' which instantly communicates product category, ambition level, and user experience philosophy in five words.
 

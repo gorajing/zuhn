@@ -55,6 +55,13 @@ related:
   - INS-260402-3FC5
   - PRI-260403-26B9
   - INS-260404-2250
+evidence:
+  - id: INS-260329-8602
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-2250
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues it's a mistake for startups to fix upon a specific fundraising number because the optimal amount depends on investor reactions — which are impossible to predict. If investors are easily convinced, raise more now; if skeptical, take less and use it to reach a more convincing state. This flexibility principle applies broadly: any negotiation where you must commit to terms before knowing counterparty demand puts you at a disadvantage.
 

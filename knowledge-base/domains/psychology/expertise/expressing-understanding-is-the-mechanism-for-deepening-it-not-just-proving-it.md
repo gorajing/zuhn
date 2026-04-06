@@ -62,6 +62,9 @@ evidence:
   - id: INS-260320-47FA
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260329-4A69
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham makes a subtle but important distinction: expression is not just a verification step for understanding but an active component of the understanding process itself. If you can't make a model of something or write about it, you don't fully understand it — and the act of trying to express it produces deeper understanding than you had before the attempt.
 

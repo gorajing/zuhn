@@ -57,6 +57,10 @@ related:
   - INS-260403-D379
   - INS-260403-4050
   - INS-260403-3DF3
+evidence:
+  - id: INS-260330-70B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Business Portfolio Map framework reveals that innovation engines follow a power-law distribution: out of ten ideas, roughly five die, three remain mediocre, and two become home runs. This means the primary lever for innovation output is the number of cheap experiments running simultaneously, not the quality of any single bet. Companies that try to pick winners early and invest heavily in few ideas systematically underperform those that maintain a broad portfolio of low-cost explorations.
 

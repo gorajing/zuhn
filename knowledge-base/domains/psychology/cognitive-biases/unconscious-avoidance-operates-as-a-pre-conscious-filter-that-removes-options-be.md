@@ -60,6 +60,12 @@ related:
 evidence:
   - id: INS-260329-FEA6
     relationship: RELATED
+  - id: INS-260325-788E
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-59A5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Schlep blindness illustrates a broader cognitive pattern: the unconscious mind acts as a pre-filter, removing options from consideration before they ever reach conscious deliberation. Graham notes this extends far beyond startups — most people don't consciously decide against Olympic-level fitness; their unconscious simply never presents it as a real option.
 

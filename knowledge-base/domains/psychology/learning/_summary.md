@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 222 insights
+> 221 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -16,7 +16,6 @@
 - `INS-260330-1DDE` [high] Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-137C` [high] Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260330-3D7B` [high] Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
-- `INS-260330-617A` [high] Destin's son learned the backwards bicycle in 2 weeks versus Destin's 8 months — a ~16x speed difference attributable to childhood neural plasticity.
 - `INS-260330-4A6A` [high] Destin's son learned the backwards bicycle in 2 weeks versus his father's 8 months — a roughly 16x speed advantage attributable to childhood neural plasticity.
 - `INS-260330-DF2C` [high] Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260330-E8BD` [high] Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.

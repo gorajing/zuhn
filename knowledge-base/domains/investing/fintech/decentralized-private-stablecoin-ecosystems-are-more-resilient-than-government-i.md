@@ -60,6 +60,9 @@ evidence:
   - id: INS-260403-8BE9
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260322-36E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Rather than building a top-down central bank digital currency, the US can outsource digital dollar proliferation to capitalism itself. Multiple independent stablecoin projects create a decentralized, resilient network — if one fails, others persist. This diversity makes the dollar's digital presence far harder for competitors to displace than a single point of failure like a government CBDC.
 

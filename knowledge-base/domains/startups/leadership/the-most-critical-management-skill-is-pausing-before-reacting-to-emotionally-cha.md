@@ -87,5 +87,23 @@ evidence:
   - id: INS-260403-2702
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-2F16
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-1289
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-DF73
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-16F2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D0EE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-2349
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Horowitz describes a pattern he calls 'the kimchi problem' — the deeper you bury a poorly-considered decision, the hotter it gets. CEOs learn this the hard way: they give the confidential raise, make the quiet demotion, or approve the exception, thinking nobody will notice. Then it blows up three weeks, three months, or a year later — and by then it's a forest fire instead of a campfire. The antidote is simple but emotionally difficult: pause. Tell the person 'I'm taking this seriously, but I need to think it through from all perspectives before I respond.' This feels like weakness in the moment but is actually the hallmark of elite leaders. Bill Campbell, whom Horowitz considers one of the greatest business leaders, had this as his defining skill — seeing the company through the eyes of all employees before acting.

@@ -56,5 +56,8 @@ evidence:
   - id: INS-260329-F063
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-C37D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 When a prospect holds a belief that blocks the sale (e.g., 'I don't have time' when it's really a priorities problem), directly challenging that belief destroys rapport. Hormozi identifies three straw man strategies: (1) reference someone from earlier today who asked the same question — allowing brutal honesty directed at the absent third party, (2) reference a successful past customer who had the same concern and ultimately succeeded, and (3) appeal to an authority figure's wisdom rather than claiming personal authority. All three create psychological distance between the hard truth and the prospect, making the message receivable. This is especially critical when there's an age or experience gap — a 22-year-old salesperson can't 'put on a coach hat' with a 45-year-old business owner, but can relay what the CEO said about this exact situation.

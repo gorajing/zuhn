@@ -81,6 +81,9 @@ evidence:
   - id: INS-260403-101D
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-FAE3
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Ron from Open Router shared that at their company, non-engineering employees — people a few years out of college in sales roles, support specialists — are building agents to multiply themselves. These agents do in hours what previously took days. This is happening without any top-down mandate; individuals are simply recognizing the opportunity and acting on it.
 

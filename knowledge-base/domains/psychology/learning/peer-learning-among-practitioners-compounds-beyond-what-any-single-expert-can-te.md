@@ -53,6 +53,13 @@ related:
   - INS-260327-24D2
   - INS-260330-8901
   - INS-260325-A272
+evidence:
+  - id: INS-260327-24D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-A272
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Bootcamp explicitly frames its value as coming not just from Osterwalder and Pigneur, but from interaction with other practitioners who have applied the same frameworks across different industries, cultures, and organizational structures. At expert levels, the most valuable knowledge is tacit, situational, and won't appear in any book.
 

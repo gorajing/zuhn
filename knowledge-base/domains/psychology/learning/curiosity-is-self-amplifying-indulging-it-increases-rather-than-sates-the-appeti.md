@@ -59,5 +59,8 @@ evidence:
   - id: INS-260329-595E
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-8C36
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most appetites follow a satisfaction curve: eating reduces hunger, drinking reduces thirst. Curiosity operates inversely — investigating an interesting question tends to surface more questions, creating a self-reinforcing cycle. This has a practical implication for knowledge work: rather than following the advice 'do what you love,' the better compass for finding novel ideas may be 'do what you're curious about,' because curiosity is more specific and individual than love. Different people are curious about very different things, and this specificity serves as a natural compass toward the domains where you're most likely to produce original work. The compounding nature also means that the initial activation energy to start investigating something is the hardest part — momentum builds automatically.

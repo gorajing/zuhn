@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-D7B1
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260321-08AC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When placed in an anechoic chamber — the quietest environment on Earth — the brain doesn't hallucinate or break down. Instead, it recalibrates its attention toward internal signals: heartbeat, blood circulation, breathing, and even the faint hum of the nervous system. This is interoception, the perception of internal bodily states, which is normally masked by the constant background noise of daily life.
 

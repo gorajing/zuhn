@@ -77,6 +77,9 @@ evidence:
   - id: INS-260403-F100
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260405-F6A6
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Windows, Linux, and macOS kernels are written in C. Python, Ruby, and PHP interpreters are implemented in C. MySQL, SQLite, and countless other databases are C. vim, git, and most Unix tools are C. The language is the substrate beneath nearly every abstraction stack in computing.
 

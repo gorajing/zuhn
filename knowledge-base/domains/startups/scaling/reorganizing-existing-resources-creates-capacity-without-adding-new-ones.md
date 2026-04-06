@@ -54,5 +54,11 @@ evidence:
   - id: INS-260323-784B
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260330-4AC6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-1D95
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Hilbert's Hotel shows that moving every guest to double their room number frees an infinite number of odd rooms — capacity appears from reorganization alone. In startups and operations, teams default to 'we need more resources' when the real bottleneck is allocation inefficiency. Before hiring, raising, or expanding, the highest-leverage move is often remapping what you already have: reassigning engineers to higher-impact work, restructuring databases to handle new query patterns, or reorganizing team responsibilities to eliminate bottlenecks. The insight is that reallocation is not a lesser strategy than acquisition — mathematically, it can produce equivalent results.

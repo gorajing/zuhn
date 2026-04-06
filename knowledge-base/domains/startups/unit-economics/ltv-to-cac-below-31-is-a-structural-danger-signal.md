@@ -51,5 +51,12 @@ resolutions:
 stance: >-
   A SaaS business with LTV:CAC below 3:1 is destroying value at scale, meaning
   growth makes the problem worse rather than better
+evidence:
+  - id: INS-260403-8A65
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260321-5DF8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The model flags LTV:CAC below 3:1 as a red-alert condition. This ratio captures whether the lifetime value of a customer meaningfully exceeds what it cost to acquire them — accounting for gross margin, churn, and payback period. A ratio below 3:1 means either CAC is too high (inefficient acquisition) or LTV is too low (churn erodes value before payback). Scaling a business with poor unit economics accelerates cash burn without building durable value. Founders must fix the ratio before pouring fuel into growth channels, or investor dollars will exit through leaking unit economics faster than they arrive.

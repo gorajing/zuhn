@@ -68,6 +68,12 @@ evidence:
   - id: INS-260405-4B12
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260329-E4F6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-0F06
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 ES6 introduced destructuring (extracting values from objects/arrays into named variables) and spread/rest operators (decomposing and recomposing collections). These aren't just syntactic sugar — they represent a fundamental approach to data transformation where the system understands structure rather than treating data as opaque blobs requiring manual field access.
 

@@ -74,6 +74,9 @@ evidence:
     relationship: RELATED
   - id: INS-260325-DFA5
     relationship: RELATED
+  - id: INS-260405-7E85
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Animals in the wild rarely get chronic diseases. Put them in a zoo and they become obese, depressed, develop strange behaviors, and in some cases even kill themselves. The insight: an organism's health is a reflection of its environment's health, not the organism's willpower.
 

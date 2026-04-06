@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-C8E1
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-1A08
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Harris highlights that Trump supporters simultaneously expected Harris to concede if she lost (and she did) while knowing Trump would not have conceded if he lost — and they were fine with this asymmetry. His key insight is that this asymmetry itself constitutes the damage to democratic norms, not any hypothetical future violation. The norm of peaceful transfer of power is already broken when half the population accepts that their candidate is exempt from it.
 

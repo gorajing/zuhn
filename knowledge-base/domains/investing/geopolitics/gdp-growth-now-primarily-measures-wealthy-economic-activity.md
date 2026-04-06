@@ -66,6 +66,12 @@ evidence:
   - id: INS-260330-5958
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-10A5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D522
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 3.8% GDP growth shocked economists while 36% of consumers reported trouble paying bills. The resolution is that GDP counts all economic activity equally: a $100M PE transaction and a family's grocery run contribute the same per dollar. When economic activity concentrates among the wealthy, GDP can grow robustly while most people experience stagnation.
 

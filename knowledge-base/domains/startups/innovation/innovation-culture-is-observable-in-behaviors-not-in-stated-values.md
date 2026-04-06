@@ -56,6 +56,13 @@ related:
   - INS-260403-6428
   - INS-260403-F8B5
   - INS-260403-89A5
+evidence:
+  - id: INS-260404-A8B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260326-2E56
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Strategyzer's framework distinguishes between three layers: visible behaviors and results (experimentation, new revenues), the structural enablers that drive those behaviors (incentives, policies, dedicated roles), and leadership support that funds the structures. Most companies have the leadership rhetoric but lack the structural enablers.
 

@@ -72,6 +72,18 @@ evidence:
   - id: INS-260330-AF2A
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-B33F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-AA77
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-DFDB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-FF94
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Companies typically focus on one or two business model elements — most commonly product, service, technology, or price. This narrow optimization misses the compounding effects that emerge when multiple building blocks are intentionally configured to reinforce each other.
 

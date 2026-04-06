@@ -62,6 +62,13 @@ related:
   - PRI-260328-D292
   - INS-260325-7FE6
   - INS-260327-74CF
+evidence:
+  - id: INS-260325-7FE6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-74CF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The essay names a specific recurring pattern: the 'daguerreotype moment' where practitioners declare their field dead, followed by an expansion that dwarfs the original field. Paul Delaroche reportedly declared 'painting is dead' in 1839; painting then had its most prolific and innovative century. Electronic production was supposed to end music; chess engines were supposed to end competitive chess. In each case, the technology didn't end the field — it expanded, splintered, and found new directions.
 

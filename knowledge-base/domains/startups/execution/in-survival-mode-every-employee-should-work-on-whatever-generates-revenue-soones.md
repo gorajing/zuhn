@@ -55,5 +55,8 @@ evidence:
   - id: INS-260327-3E23
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260320-DEAF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Graham makes a counterintuitive but logical argument: if your startup is running out of money, having engineers write more product code is potentially wasteful. The question 'what good will more code do you when you're out of business?' reframes engineering as an investment that only pays off if the company survives to deploy it. In survival mode, everyone — including engineers — should focus on whatever generates the most revenue the soonest. This might mean writing code to close a specific deal, but only that code, not speculative product development. This principle challenges the deeply held startup belief that 'if we just build the right thing, the money will follow.' In the fatal pinch, the causation runs the other way: money first, then you earn the right to build.

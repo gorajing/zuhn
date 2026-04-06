@@ -59,6 +59,9 @@ evidence:
   - id: INS-260322-22B3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-DE7F
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Laplace's demon is the thought experiment that if you knew every particle's position and velocity in the universe, you could predict the entire future. Classical mechanics implies this level of determinism. But Carroll argues this is a thought experiment, not a practical reality — the memory required to know all your brain's molecules would exceed your brain's capacity.
 

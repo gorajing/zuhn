@@ -57,5 +57,14 @@ evidence:
   - id: INS-260327-F9C3
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260326-3E19
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-4A9E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-4846
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham observes that the founder community functions as a rapid-transmission network: when one founder adopts a new language, hosting provider, or approach and gets good results, half the community follows within six months. He argues this same dynamic applies to funding strategies. The current generation of founders wants VC because Google took VC—it's social proof, not necessity. If the next breakout startup visibly succeeds without raising, it creates a new template that propagates through the same network. This insight reveals that funding norms are far more fragile than they appear—they rest on imitation of recent successes rather than structural necessity, making them vulnerable to rapid phase transitions when a prominent counterexample emerges.

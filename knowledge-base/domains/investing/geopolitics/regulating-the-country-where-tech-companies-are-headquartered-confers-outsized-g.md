@@ -79,5 +79,11 @@ evidence:
   - id: INS-260330-E670
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-7B04
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-8256
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The video makes a point often missed in coding-education debates: politicians push 'everyone should code' partly because they understand that technology companies started by programmers wield international influence unlike any other industry. The country that regulates these companies effectively regulates global information flows, financial systems, and cultural narratives. This explains both America's eagerness to grow its tech workforce and China's decision that the cost of American tech dominance was too high, leading to parallel ecosystem development. For investors, this framing recontextualizes tech regulation debates—they're not primarily about consumer protection but about which nation controls the platforms that pull the world's financial and emotional levers. Instagram's 4 employees serving 7 million users illustrates the leverage: tiny teams creating massive influence footprints.

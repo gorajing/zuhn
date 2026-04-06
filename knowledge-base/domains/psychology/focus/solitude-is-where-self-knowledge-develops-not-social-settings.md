@@ -52,5 +52,11 @@ evidence:
   - id: INS-260323-40AA
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-614D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-0D90
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In social settings, humans automatically adjust their behavior to context. Self-knowledge developed socially is actually knowledge of your social performance self. Solitude strips away the performance layer, revealing what you actually think, feel, and want. Many people find solitude uncomfortable because they encounter a self they don't know well.

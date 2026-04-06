@@ -59,5 +59,11 @@ evidence:
   - id: INS-260327-4F3D
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-CE7C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-73AB
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Kotler presents intrinsic motivation not as a menu but as a stack with a required build order: curiosity → passion → purpose → autonomy → mastery. Each layer provides 'focus for free' — attention that doesn't cost willpower. The critical insight is that people who try to start with purpose (as many self-help frameworks advise) are building on sand. Without genuine curiosity feeding into passion first, purpose becomes an intellectual abstraction rather than a felt drive. This explains why 'find your purpose' advice fails so often — it's asking people to skip to step three. The practical application is to start with what genuinely makes you curious, let that deepen into passion through exploration, and only then attach it to a larger purpose.

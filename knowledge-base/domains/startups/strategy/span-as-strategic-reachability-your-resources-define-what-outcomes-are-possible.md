@@ -56,6 +56,10 @@ related:
   - INS-260403-924B
   - INS-260321-E654
   - INS-260327-80A8
+evidence:
+  - id: INS-260403-4C61
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 In linear algebra, the span of vectors defines every point reachable through their combinations. Two vectors pointing the same direction span only a line, no matter how large they are — while two independent vectors span the entire plane. This maps directly to organizational strategy: hiring three people with identical skills gives you a line of capability, while three people with independent skills span a volume of possible outcomes.
 

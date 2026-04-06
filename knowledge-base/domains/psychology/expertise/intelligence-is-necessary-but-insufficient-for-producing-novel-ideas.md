@@ -59,5 +59,20 @@ evidence:
   - id: INS-260330-44EF
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260321-C14C
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260321-1A84
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260328-FF2C
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-E4AD
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-5AC1
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that society conflates intelligence with the ability to generate new ideas, but they are distinct phenomena with a large gap between them. Universities and research labs are full of genuinely smart people who never discover anything significant. This distinction matters because if intelligence were the only ingredient, the path would be fatalistic — discover your aptitude and work hard. But since intelligence is only one of several ingredients, many of which are cultivable, people have far more agency over their intellectual output than the 'born smart or not' narrative suggests. The implication is that optimizing purely for intelligence (as schools and hiring processes tend to do) misses the factors that actually drive original contribution.

@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-9B68
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-339F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Harris draws a direct line between American lynch mobs of the early 20th century — where thousands of 'good Christians' celebrated torture as entertainment and kept body parts as souvenirs — and modern Western norms that find such behavior monstrous. This isn't a claim about permanent differences between peoples; it's evidence that moral frameworks evolve at different rates in different places. The Americans who attended lynchings were not genetically different from Americans today. The change is in dominant ideas and cultural norms.
 

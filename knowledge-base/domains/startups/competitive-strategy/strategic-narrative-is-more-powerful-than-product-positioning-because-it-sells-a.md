@@ -64,5 +64,8 @@ evidence:
   - id: INS-260330-4C23
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-4A9E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Andy Raskin, who has worked with Salesforce, Gong, Turing, Uber, Square, VMware, and Intel, defines the strategic narrative as a five-step framework: 1) Articulate the world shift (what's changing that makes old approaches obsolete), 2) Show why this shift is life-or-death for the buyer, 3) Define the buyer's mission in this new world, 4) Explain why old tools can't accomplish this mission, 5) Show how your product uniquely enables it. The key insight: the framework itself is not the hard part — alignment is. The biggest value is getting leadership teams to agree on ONE story that spans sales decks, product roadmaps, marketing, and fundraising. Every successful company is really selling a movement, from Star Wars to Salesforce.

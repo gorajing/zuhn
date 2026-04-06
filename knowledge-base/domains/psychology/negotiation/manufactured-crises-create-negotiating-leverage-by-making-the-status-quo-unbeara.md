@@ -52,5 +52,21 @@ related:
   - INS-260327-3E6F
   - INS-260323-8893
   - INS-260322-E791
+evidence:
+  - id: INS-260322-96F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-A476
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-3E6F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-8893
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260322-E791
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 North Korea's repeating cycle — manufacture crisis, drive fear to maximum, then offer negotiations — demonstrates how controlling the emotional baseline of a negotiation determines outcomes. When the other party is desperate for relief from tension you created, even minimal concessions from you feel like major wins to them. This pattern appears far beyond geopolitics: in business negotiations, a party that creates urgency or anxiety (artificial deadlines, competitive threats, withdrawal of cooperation) then 'graciously' offers to resolve it captures value disproportionate to their actual position. The key insight is that the crisis itself is the product — it's what generates the willingness to pay. This maps directly to anchoring: by setting the reference point at 'possible nuclear war,' anything short of that feels like a gift.

@@ -52,6 +52,16 @@ related:
   - INS-260329-783C
   - INS-260403-886D
   - INS-260322-AB55
+evidence:
+  - id: INS-260403-DAB1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-886D
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260322-AB55
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When people first encounter haters, the natural reaction is to treat them like a normal interpersonal dispute — understand their grievance, see if you can fix it, resolve the tension. Graham argues this is a false analogy that wastes enormous energy. In a genuine dispute, the other party has a specific, fixable complaint. A hater's complaint is a surface rationalization for an identity-level obsession that no concession can resolve.
 

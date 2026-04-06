@@ -61,5 +61,11 @@ evidence:
   - id: INS-260325-EBDD
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260325-66BE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260405-911F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The widespread belief that Columbus proved Earth was round — against a backdrop of medieval flat-Earth ignorance — is itself a myth. Eratosthenes calculated Earth's circumference around 240 BC with remarkable accuracy. The 'flat Earth controversy' was largely invented by Washington Irving in his 1828 fictionalized biography of Columbus. This example is epistemically important because it demonstrates a meta-pattern: false narratives about past ignorance can themselves become entrenched 'knowledge' through sheer repetition in textbooks and popular culture. The lesson applies broadly — when a historical claim serves too neatly as a progress narrative (ignorant past vs. enlightened present), that narrative convenience itself should trigger skepticism.

@@ -45,6 +45,7 @@ stance: >-
   Separating functional, social, emotional, and basic-need jobs reveals value
   proposition gaps that a single 'problem statement' hides.
 related:
+  - INS-260330-E99F
   - INS-260403-91CC
   - PRI-260323-50FE
   - INS-260327-77FA
@@ -57,5 +58,8 @@ evidence:
   - id: INS-260322-116B
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-91CC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Most founders describe their customer's problem as a single functional task ('they need to do X faster'). The Value Proposition Canvas forces decomposition into four layers: functional jobs (tasks to complete), social jobs (how they want to appear), emotional jobs (how they want to feel), and basic needs (security, communication). This matters because products that nail the functional job but ignore the social or emotional layer lose to competitors who address the full stack. A B2B tool that saves time (functional) but makes the buyer look unsophisticated to peers (social) will struggle despite objective superiority. Mapping all four layers before building prevents the common failure mode of solving the right functional problem with the wrong emotional wrapper.

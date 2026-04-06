@@ -66,5 +66,8 @@ evidence:
   - id: INS-260403-8C50
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260321-B8E8
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The structural parallel: consumer AI startups (Webvan/Pets.com equivalents) sit on top of software gateways (OpenAI = Netscape), which depend on platform owners (Apple/Google/Microsoft = Windows), which run on proprietary hardware (Nvidia = Sun Microsystems + Cisco). Each layer has the same fragility as 1990s. The app layer will fall first — high burn, no margins, no control over underlying platforms. VCs learned from dot-com to keep companies private longer, inflate valuations through back-room deals, and dump profitability burden onto the public at IPO.

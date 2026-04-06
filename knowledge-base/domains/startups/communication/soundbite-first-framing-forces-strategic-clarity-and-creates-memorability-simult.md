@@ -60,6 +60,16 @@ related:
   - INS-260404-3C46
   - INS-260403-FC45
   - INS-260404-2BAD
+evidence:
+  - id: INS-260320-C65B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-F171
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-941F
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Professional investors hear so many pitches that they blur together. The first survival filter is simply being remembered, and the mechanism is a sticky descriptive phrase launched early in the talk. Viaweb used 'the Microsoft Word of ecommerce'—instantly comprehensible, leveraging existing mental models, and memorable enough to survive a day of back-to-back pitches.
 

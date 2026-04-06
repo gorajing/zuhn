@@ -64,6 +64,13 @@ related:
   - INS-260403-C949
   - INS-260330-F527
   - INS-260325-8B36
+evidence:
+  - id: INS-260403-FBC0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-99FE
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Graham's essay applies directly to startup psychology: the tendency to see competitor actions, press coverage, or market shifts as deliberately targeting your company is the same anthropocentric bias at a smaller scale. When a large incumbent releases a feature adjacent to yours, 'they noticed us and are trying to kill us' competes with 'they had this on the roadmap and were pursuing their own users.'
 

@@ -57,11 +57,18 @@ related:
   - INS-260327-418E
   - INS-260327-0710
   - INS-260327-446A
+  - INS-260330-B22D
   - INS-260330-9DE6
   - INS-260403-FED6
   - INS-260403-D8A2
-  - INS-260404-3070
   - INS-260404-2839
+evidence:
+  - id: INS-260405-C0AF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-446A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The narrative that 'Amazon killed retail' is a misdiagnosis. Sears tried to do everything and did everything poorly. Toys-R-Us dismissed the internet as a fad. JC Penney forgot who its customers were. These failures were strategic, not Amazon-caused — Amazon provided the final pressure that exposed pre-existing rot.
 

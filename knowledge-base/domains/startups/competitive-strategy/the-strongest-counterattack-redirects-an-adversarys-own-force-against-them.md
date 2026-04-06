@@ -46,5 +46,15 @@ related:
   - PRI-260403-57EC
   - INS-260330-2B5F
   - INS-260323-71B3
+evidence:
+  - id: INS-260323-61FE
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-2B5F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-4E09
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Paul Graham's spam filter proposal works precisely because it exploits the spammer's own volume — send a million emails, receive a million hits on your servers. This is a general pattern in competitive strategy: rather than building walls to absorb force, redirect the adversary's own momentum against them. The principle applies beyond spam to any domain where one party relies on scale to overwhelm another. If you can make their scale costly to them rather than to you, the economics flip entirely. The more they attack, the worse it gets for them, creating a self-correcting feedback loop.

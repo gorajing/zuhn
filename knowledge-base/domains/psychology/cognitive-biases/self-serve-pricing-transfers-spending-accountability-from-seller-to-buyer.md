@@ -44,7 +44,6 @@ stance: >-
   business as expensive, fundamentally changing the psychological framing of the
   transaction.
 related:
-  - INS-260327-8388
   - INS-260327-8389
   - INS-260328-F3C4
   - INS-260403-1E4A
@@ -71,5 +70,14 @@ evidence:
   - id: INS-260329-39E1
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260403-1E4A
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-88F9
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-1949
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Frozen yogurt stores pioneered weight-based self-serve pricing that flipped the traditional cup-size model. When a customer fills their own cup and sees $7 at the register, the internal reaction is 'I put too much in' rather than 'this place is expensive.' This is a fundamental reframe: the same $7 transaction feels like personal accountability rather than merchant greed. Hormozi identifies this as applicable far beyond food — any business where usage-based pricing lets customers control their own spend (cloud computing, metered services, pay-per-minute models) benefits from this transferred accountability. The key insight is that perceived control over spending reduces price sensitivity even when the total cost is identical.

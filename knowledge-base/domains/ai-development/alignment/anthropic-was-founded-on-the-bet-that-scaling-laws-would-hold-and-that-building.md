@@ -98,6 +98,9 @@ evidence:
   - id: INS-260330-9367
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-1755
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Dario explains Anthropic's origin story with unusual specificity: in 2019-2020, a group within OpenAI recognized scaling laws — the empirical finding that more computation and data with simple algorithms reliably improves cognitive task performance. They measured these trends when models cost $1K-$10K to train and predicted they'd hold at $100M, $1B, $10B — which they have.
 

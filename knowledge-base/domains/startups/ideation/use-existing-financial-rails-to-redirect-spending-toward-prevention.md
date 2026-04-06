@@ -58,6 +58,9 @@ evidence:
   - id: INS-260325-39FD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-F98F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Rather than waiting for insurance companies to cover lifestyle interventions or lobbying for new legislation, Truemed identified an existing IRS mechanism — letters of medical necessity — that already allowed tax-free HSA/FSA spending on qualifying health interventions. They built telemedicine infrastructure to issue these letters at scale.
 

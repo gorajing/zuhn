@@ -57,6 +57,13 @@ related:
   - INS-260403-C514
   - INS-260403-558D
   - INS-260405-9DB6
+evidence:
+  - id: INS-260404-B04F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-EC33
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 RuBisCo is objectively terrible at its job — it confuses oxygen for CO2 roughly half the time, creating toxic byproducts that plants must expend additional energy to neutralize. Yet plants never replaced it. Instead, they went all-in on the strategy, producing staggering quantities to compensate for per-unit inefficiency.
 

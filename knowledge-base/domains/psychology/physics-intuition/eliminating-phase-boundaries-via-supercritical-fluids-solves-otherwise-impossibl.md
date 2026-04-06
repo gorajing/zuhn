@@ -58,6 +58,10 @@ related:
   - INS-260330-2DF9
   - INS-260330-43D3
   - INS-260330-9BB5
+evidence:
+  - id: INS-260403-227B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When liquid evaporates from a gel, surface tension forces pull on the solid skeleton and collapse it. Samuel Kistler solved this in 1931 by heating the liquid past its critical point, where the distinction between liquid and gas ceases to exist. No interface means no surface tension, so the solid structure survives intact.
 

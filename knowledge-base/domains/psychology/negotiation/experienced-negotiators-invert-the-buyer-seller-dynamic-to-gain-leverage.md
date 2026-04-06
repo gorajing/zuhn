@@ -52,5 +52,21 @@ related:
   - INS-260403-7E27
   - INS-260403-D328
   - INS-260403-D972
+evidence:
+  - id: INS-260403-C949
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-25A8
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7E27
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D328
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D972
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies a critical negotiation pattern: corp dev professionals are skilled at turning tables so that founders shift from being courted to actively trying to convince the acquirer to buy. This inversion is devastating because it transfers all leverage to the buyer. The mechanism works through a combination of flattery (initial interest), anchoring (lowball offers that demoralize), and the sunk cost of time already invested in the process. Once a founder is psychologically invested in the deal happening, they've lost. This pattern extends well beyond M&A — any negotiation where one party can get the other to start justifying their own value has fundamentally shifted the power dynamic. Recognizing when you've been flipped from 'being pursued' to 'pursuing' is a critical meta-skill in any high-stakes negotiation.

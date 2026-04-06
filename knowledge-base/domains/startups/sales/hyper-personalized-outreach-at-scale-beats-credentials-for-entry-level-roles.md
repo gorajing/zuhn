@@ -60,5 +60,8 @@ evidence:
   - id: INS-260322-116B
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-7AAB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Hormozi's job application strategy is essentially a sales playbook applied to hiring: research the company, write personalized cover letters referencing specific business needs, message 4+ people at each company on LinkedIn (HR, hiring manager, department head), and physically visit after applying. The key insight is that most applicants do the minimum (mass-submit generic resumes), so even moderate personalization creates massive differentiation. This is the same principle that works in B2B sales — multi-threading across an organization dramatically increases conversion. For someone without credentials, demonstrating hustle IS the credential. The 4-hour daily investment in 10 applications with 40 personalized messages is a specific, executable protocol.

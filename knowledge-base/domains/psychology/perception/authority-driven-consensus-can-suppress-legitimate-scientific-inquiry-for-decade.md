@@ -73,6 +73,9 @@ evidence:
   - id: INS-260323-3F56
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-80AC
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Einstein's 1935 EPR paper demonstrated that quantum mechanics requires non-local influences — 'spooky action at a distance' — that violate relativity. This was a legitimate, formally rigorous argument. Yet the physics community dismissed it for nearly three decades. The reason wasn't scientific refutation — Bohr's response was 'famously obscure and difficult to understand,' and even close reading reveals it as 'either nonsensical or makes some actual mistakes.'
 

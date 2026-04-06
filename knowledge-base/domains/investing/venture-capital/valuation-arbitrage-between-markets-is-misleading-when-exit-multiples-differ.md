@@ -56,6 +56,22 @@ related:
   - INS-260403-5B89
   - INS-260327-1B7C
   - INS-260330-174B
+evidence:
+  - id: INS-260330-F527
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-5B89
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-1B7C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-174B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-575D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 As international VCs flood into Latin America, a common heuristic emerges: LatAm valuations look like a '20% discount to US companies.' This framing is seductive but potentially misleading. The discount at entry only matters relative to what exit valuations can be, and exit multiples depend on market size, liquidity, acquirer base, and operational friction — all of which differ substantially between LatAm and the US.
 

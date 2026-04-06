@@ -55,5 +55,11 @@ evidence:
   - id: INS-260323-6134
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260328-75B8
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-9A83
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The tattoo artist explicitly warns that understanding how a coil machine works does not mean you know how to use it — illustrated by a colleague's failed self-tattoo attempt. This maps to a broader pattern across domains: knowing how an engine works doesn't make you a race car driver, understanding music theory doesn't make you a performer. The gap is filled by tacit knowledge — embodied, procedural skill that can only be acquired through guided practice. This has direct implications for training programs: pure theoretical instruction creates dangerous overconfidence when learners mistake comprehension for competence. Effective skill transfer requires supervised practice bridges between mechanistic knowledge and operational fluency.

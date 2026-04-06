@@ -58,6 +58,16 @@ related:
   - INS-260330-DD63
   - INS-260325-3CE2
   - INS-260327-73CB
+evidence:
+  - id: INS-260403-9DC6
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-DD63
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-3CE2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that YC's peer network may be even more important than partner advice, drawing parallels to Florence in the 15th century, Göttingen in the 19th, Bell Labs, and Xerox PARC. The key insight is that very ambitious people are the most starved for peers in everyday life, because people at their level are proportionally rare. This makes clustering disproportionately valuable for exactly the people who seem like they'd need it least.
 

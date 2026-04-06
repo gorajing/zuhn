@@ -80,5 +80,8 @@ evidence:
   - id: INS-260403-A5FF
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-70F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The power of deep neural networks comes from their ability to decompose complex recognition tasks into layers of increasingly abstract features. In digit recognition, early layers detect edges, middle layers combine edges into shapes (loops, lines), and final layers map shape combinations to specific digits. This hierarchical decomposition is not just an implementation detail — it's the fundamental reason deep networks outperform shallow ones. The same principle applies across domains: speech recognition decomposes audio into phonemes → syllables → words → meaning. This suggests that when designing AI systems, the key architectural question isn't 'how many neurons?' but 'what hierarchy of abstraction does this problem naturally decompose into?' Understanding this helps practitioners choose appropriate network depth and interpret what each layer is learning.

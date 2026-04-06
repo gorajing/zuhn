@@ -51,11 +51,11 @@ stance: >-
   experience.
 related:
   - INS-260330-7E58
-  - INS-260403-365D
-  - INS-260403-C125
-  - INS-260404-6A20
   - INS-260403-E2D9
+  - INS-260403-365D
+  - INS-260404-6A20
   - INS-260403-43E5
+  - INS-260404-20AD
   - INS-260405-C8BC
 ---
 Costco's average wage of $21/hour is double the US retail average, supplemented by better health insurance and retirement benefits. The result: employees three times more productive than the industry norm. The math works decisively in Costco's favor — 2x cost for 3x output is a 50% improvement in labor cost efficiency.

@@ -53,6 +53,13 @@ related:
   - INS-260330-593E
   - INS-260403-A8B1
   - INS-260403-5D18
+evidence:
+  - id: INS-260323-F853
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-5D18
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham claims this pattern is bidirectional after years of observation: successful people don't become haters because achieving fame reveals how random it is, and haters don't produce great work because the psychological energy directed at obsessive criticism crowds out creation. He suspects frustrated talent — 'it's unfair that so-and-so is famous, and not me' — is a key driver.
 

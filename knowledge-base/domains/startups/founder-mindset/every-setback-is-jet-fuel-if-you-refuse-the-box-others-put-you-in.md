@@ -50,6 +50,9 @@ evidence:
   - id: INS-260330-03F7
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-21A5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Senkut's career is a chain of people telling him he couldn't do the next thing: stuck in Turkey, wrong university, not an engineer, never been a VP, never done venture capital. At every stage, someone tried to put him in a box. His response was always to burn bridges and do whatever it takes.
 

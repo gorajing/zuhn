@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-FEB7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-165D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Jon Noronha tested GPT-3 in 2020 for summarization and slide generation, found it inadequate, and dismissed language AI. Two years later, seeing Stable Diffusion and DALL-E outputs on Twitter provided the aha moment. The visual output was inherently viral and magical in a way that text improvements were not. Image generation was 'the next clip art,' a 30-year gap in presentation innovation.
 

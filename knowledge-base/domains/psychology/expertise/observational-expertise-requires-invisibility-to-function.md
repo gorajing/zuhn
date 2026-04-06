@@ -49,5 +49,15 @@ related:
   - INS-260327-18D4
   - INS-260327-6058
   - INS-260329-A45D
+evidence:
+  - id: INS-260327-31BD
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-18D4
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-6058
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Livingston's character-reading ability functioned optimally when she was invisible. Applicants who assumed she was a secretary revealed their true selves, while the interviewers who asked technical questions created a distraction. This reveals a tension in expertise: the very recognition that would give someone authority in a domain can destroy their ability to exercise that expertise. This pattern appears beyond founder evaluation — undercover investigators, ethnographic researchers, and skilled negotiators all rely on some form of invisibility. For organizations, this means the most valuable evaluators may be the ones who resist public profiles, and forcing visibility on them (through PR, public speaking, or leadership roles) may degrade the skill that makes them valuable.

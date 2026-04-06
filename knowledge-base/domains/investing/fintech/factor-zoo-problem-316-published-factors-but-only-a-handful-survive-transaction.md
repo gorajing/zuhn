@@ -65,6 +65,9 @@ evidence:
   - id: INS-260403-4CE7
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260323-422B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 John Cochrane's 2011 presidential address to the American Finance Association described the proliferation of asset pricing factors as a 'factor zoo.' A 2016 census confirmed 316 distinct published factors, with more since. This created a major data-mining problem: with enough slicing, you can find patterns that don't reflect real economic risks.
 

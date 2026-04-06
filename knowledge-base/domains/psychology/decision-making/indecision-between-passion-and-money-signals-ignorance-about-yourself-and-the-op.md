@@ -56,6 +56,25 @@ related:
   - INS-260403-862E
   - INS-260323-979C
   - INS-260403-A4EB
+evidence:
+  - id: INS-260323-1FC1
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-BEEE
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-0406
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-3E9A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-862E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-979C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies three simultaneous forms of ignorance that masquerade as indecision: not knowing what truly makes you happy, not knowing what various kinds of work are actually like day-to-day, and not knowing how well you could perform them. People mistake this ignorance for a balanced trade-off between equally valid paths.
 

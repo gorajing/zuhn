@@ -53,6 +53,13 @@ related:
   - INS-260405-E7FB
   - INS-260405-F980
   - INS-260404-B31C
+evidence:
+  - id: INS-260403-3421
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-B31C
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 The biggest investor fear at early stage is that you've built something from pure theory that nobody actually wants. Market size statistics ('it's a $5B market') don't address this fear — they're abstract and say nothing about whether your specific product has demand. As Graham analogizes, citing market size is like a beginning actor citing Tom Hanks' salary.
 

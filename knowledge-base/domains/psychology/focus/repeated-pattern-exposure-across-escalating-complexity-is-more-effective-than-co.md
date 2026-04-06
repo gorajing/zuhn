@@ -63,6 +63,13 @@ related:
   - INS-260329-BE50
   - INS-260329-50C0
   - INS-260330-B4B9
+evidence:
+  - id: INS-260329-26AC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-BE50
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Across 24 chapters and 13+ hours, Dr. Chuck's course doesn't teach conditionals once and move on — it reintroduces them when parsing strings, when filtering file data, when handling web scraping edge cases, and when querying databases. Each revisit adds complexity and context while reinforcing the core pattern.
 

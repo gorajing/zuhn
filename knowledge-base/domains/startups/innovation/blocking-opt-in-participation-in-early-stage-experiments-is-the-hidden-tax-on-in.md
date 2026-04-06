@@ -65,6 +65,10 @@ related:
   - PRI-260323-F37F
   - INS-260403-FF74
   - INS-260403-1BCC
+evidence:
+  - id: INS-260403-FF74
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Most regulatory debate focuses on protecting unwilling people from risk. But Vitalik points to a different category: preventing willing people from taking on known risks in exchange for early access. Medical trials, autonomous vehicle testing, and drone deployment all have populations of people who understand the risks and would eagerly participate — but are legally excluded from doing so.
 

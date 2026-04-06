@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-F116
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-B384
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The early Islamic empire is often described as 'spreading by the sword,' but the reality was more nuanced. Non-Muslims weren't forced to convert — they paid a higher tax (jizya). This created a steady economic incentive that, over decades, drove mass voluntary conversion without explicit coercion.
 

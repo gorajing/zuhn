@@ -67,5 +67,14 @@ evidence:
   - id: INS-260330-C9A6
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260402-5034
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260325-69CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-8C92
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Yi Shi dropped out at 19, built Avazu to $150M ARR, exited for $350M by 25, raised $450M+ across 3 startups. His framework: 1) Look where standards are not set in traditional industries — that's where disproportionate reward lives, 2) Nietzsche's will to power + Japanese wabi-sabi guide decisions through first principles, 3) 'Token is the new currency' — companies will shift from reducing OPEX to investing in CAPEX (compute/tokens), 4) The ultimate form of simplicity in AI is full autonomy — define goals, the model does everything. His current bet: FlashIntel's autonomous AI sales agents to free 10M jobs from repetitive go-to-market tasks. His view: AI is no longer a research problem but an engineering problem — it's just a matter of time.

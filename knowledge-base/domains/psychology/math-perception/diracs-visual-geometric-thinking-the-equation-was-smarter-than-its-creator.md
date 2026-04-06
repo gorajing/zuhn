@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-8F33
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-17E1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Dirac's unique cognitive style -- cultivated through both mathematics and technical drawing in school -- let him visualize physics geometrically rather than just symbolically. This enabled him to unite special relativity and quantum mechanics into an equation that predicted antimatter as an unexpected consequence. He described the equation like a poem: 'the most supercharged kind of language' where you keep finding things that weren't obvious on first reading.
 

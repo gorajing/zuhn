@@ -99,6 +99,9 @@ evidence:
   - id: INS-260330-649B
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-3A8A
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Banach-Tarski is mathematically valid but physically unrealizable because the five pieces must be infinitely complex and detailed — more complex than any physical object can be. This suggests that the discrete, finite nature of physical reality isn't a limitation we should try to overcome but a structural safeguard.
 

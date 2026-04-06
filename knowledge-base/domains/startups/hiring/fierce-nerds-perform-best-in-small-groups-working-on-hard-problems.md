@@ -52,6 +52,10 @@ related:
   - INS-260402-FEA3
   - INS-260403-F7DA
   - INS-260327-7F11
+evidence:
+  - id: INS-260330-593E
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham notes that the same qualities making fierce nerds effective — competitiveness, impatience, independent-mindedness — also make them annoying in conventional settings. His prescription is to seek out organizations and work where getting the right answer matters more than preserving social harmony, which in practice means small groups working on hard problems.
 

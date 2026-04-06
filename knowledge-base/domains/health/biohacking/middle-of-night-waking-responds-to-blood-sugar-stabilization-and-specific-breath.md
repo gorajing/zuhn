@@ -46,5 +46,9 @@ related:
   - PRI-260328-B115
   - INS-260330-968D
   - INS-260330-F374
+evidence:
+  - id: INS-260330-968D
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Waking at 2-3AM and inability to return to sleep is typically caused by blood sugar crashes triggering cortisol; eating a small amount of fat before bed and using 4-7-8 breathing can prevent and resolve this

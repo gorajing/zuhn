@@ -46,5 +46,21 @@ related:
   - PRI-260323-81E9
   - INS-260403-DD95
   - INS-260322-7282
+evidence:
+  - id: INS-260404-DA41
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260405-F369
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-3DBF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-DD95
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260322-7282
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Selection data (who applies) is typically proprietary and held close by institutions. But outcome data — who got funded, who got hired, how they performed — is increasingly public or aggregatable. This asymmetry means third parties can run outperformance audits independently, making bias detection harder to suppress or deny. As data availability grows, the cost of such audits drops to near zero. Organizations that believe their selection processes are fair should welcome this; those that resist it provide indirect evidence of awareness of bias. The technique is especially powerful in domains with clear, measurable performance metrics: investing returns, job performance reviews, academic outcomes.

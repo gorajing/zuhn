@@ -54,6 +54,10 @@ related:
   - INS-260403-7227
   - PRI-260328-FD47
   - INS-260322-5678
+evidence:
+  - id: INS-260322-5678
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 NFX distinguishes between two strategic approaches to AI in gaming. Incumbents will naturally add AI incrementally — lowering production costs, increasing development speed, and deepening existing game mechanics. This is valuable but evolutionary, not revolutionary.
 

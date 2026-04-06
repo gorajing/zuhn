@@ -55,6 +55,19 @@ related:
   - INS-260403-AA8F
   - INS-260404-5AC1
   - INS-260404-4E6D
+evidence:
+  - id: INS-260402-F08D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260321-E471
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-AA8F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-5AC1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies three reasons people don't know something: it's unimportant (random facts), they're obtuse (can't understand it), or they're inexperienced (haven't encountered it yet). For important ideas aimed at smart audiences, inexperience is the dominant factor. This reframes education and knowledge-sharing — the gap isn't intellectual capacity but exposure and lived experience.
 

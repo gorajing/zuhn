@@ -57,6 +57,10 @@ related:
   - INS-260327-89C7
   - INS-260322-CCAA
   - PRI-260328-7E58
+evidence:
+  - id: INS-260322-CCAA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Every time a finding passes through another person — a researcher, a consultant, a product manager, an executive summary — it gets filtered, summarized, and reframed. Nuance collapses. Contradictions get resolved prematurely. The emotional texture of what a customer actually said disappears. By the time a finding reaches the person who needs to act on it, it has been shaped to fit existing mental models rather than challenge them.
 

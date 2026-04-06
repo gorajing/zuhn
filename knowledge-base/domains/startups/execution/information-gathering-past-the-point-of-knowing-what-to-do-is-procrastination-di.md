@@ -61,6 +61,9 @@ evidence:
     relationship: RELATED
   - id: INS-260330-14A1
     relationship: RELATED
+  - id: INS-260403-3CD9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi attended a mastermind, extracted what he needed, then didn't return for 18 months. When he came back, he was the success story — not because of ongoing learning, but because he spent that time executing on what he already knew. He identifies that most events and coaching programs primarily serve social needs, not informational ones.
 

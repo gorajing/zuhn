@@ -52,6 +52,19 @@ related:
   - PRI-260328-0BE1
   - INS-260323-5341
   - INS-260323-EBC3
+evidence:
+  - id: INS-260330-3E3C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260321-4B38
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260323-5341
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260323-EBC3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The pharmacy director described implementing an AI system to manage movement of 2,000 medical devices across 50 hospital locations, replacing manual report-based tracking. The algorithm reduced travel time for nurses retrieving devices by 50%. Notably, staff didn't consciously register the change — they just experienced less frustration and more productive time.
 

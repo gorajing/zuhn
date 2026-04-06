@@ -58,6 +58,13 @@ related:
 stance: >-
   Pincus's product religion: start by copying every pixel of what's proven to
   work, only change what existing users unanimously confirm is better, th...
+evidence:
+  - id: INS-260327-A25E
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-AB0F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The Proven-Better-New framework inverts the typical startup narrative of disruption and innovation. PROVEN: copy what existing successful products do — you do not have the right to change it, you are not good enough to change it. BETTER: only counts if 10 out of 10 current users confirm it's better (not what you think is better — that's just 'new'). NEW: the narrow innovation layer, where you can experiment but must be honest that it's a gamble.
 

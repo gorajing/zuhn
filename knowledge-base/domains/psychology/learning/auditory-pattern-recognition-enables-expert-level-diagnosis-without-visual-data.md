@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-BEE6
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-283A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 A revealing moment in the video occurs when Destin notes that 'anyone who knows the game well can tell what's going on simply at the crack of the bat.' He could distinguish grounders (bottom barrel contact), fly balls (top barrel), and foul balls (late rotation contact) purely by sound. This represents a form of tacit knowledge that develops through thousands of hours of exposure — the auditory cortex learns to map sound signatures to physical events.
 

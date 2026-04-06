@@ -61,6 +61,18 @@ evidence:
   - id: INS-260330-C367
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260323-5D6D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-BEC7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-3473
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260329-6117
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The SEAL's motto — 'if it doesn't suck, we don't do it' — isn't masochism. It's a systematic calibration protocol. By repeatedly proving that you can endure more than you thought in controlled settings (cold water, extra reps, longer runs), you update your brain's internal model of your limits.
 

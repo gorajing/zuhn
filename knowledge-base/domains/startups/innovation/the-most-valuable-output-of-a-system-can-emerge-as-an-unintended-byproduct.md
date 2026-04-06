@@ -58,6 +58,9 @@ evidence:
     relationship: RELATED
   - id: INS-260330-C607
     relationship: RELATED
+  - id: INS-260404-F8E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Photosynthesis evolved to produce glucose for plant energy. Oxygen was merely the leftover from splitting water molecules — a 'useless byproduct' as the video puts it. Yet this waste product became the foundation for all aerobic life on Earth, arguably the most consequential chemical output in biological history.
 

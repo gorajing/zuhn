@@ -63,6 +63,12 @@ evidence:
   - id: INS-260330-63DD
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-2DF9
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-CDF0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 CS50 Python dedicates an entire lecture to testing with pytest — unusual for an introductory course. The key insight isn't that testing catches bugs (obvious), but that writing a test forces the programmer to answer 'what do I actually expect this to do?' before they can assert anything. This is a metacognitive exercise: you must make implicit assumptions explicit, consider edge cases you hadn't thought of, and define the boundary between correct and incorrect behavior.
 

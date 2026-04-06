@@ -58,6 +58,10 @@ related:
   - INS-260330-6A47
   - PRI-260403-C337
   - PRI-260328-0E23
+evidence:
+  - id: INS-260330-6A47
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The essay argues that launch defensibility is 'impermeable' once established — no team will have the money, resources, time, or justification to reinvent a launch system when great ones already exist. This is the infrastructure lock-in thesis: the combination of massive capital requirements, deep technical expertise, regulatory relationships, and proven reliability creates a moat that compounds over time rather than eroding.
 

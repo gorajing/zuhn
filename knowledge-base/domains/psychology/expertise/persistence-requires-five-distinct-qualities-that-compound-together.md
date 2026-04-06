@@ -54,6 +54,10 @@ related:
   - PRI-260325-A95E
   - INS-260403-E8DD
   - INS-260320-DDD9
+evidence:
+  - id: INS-260320-DDD9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham decomposes persistence into a five-part internal structure where each component enables the others. Energy creates demand for ideas, imagination supplies them, resilience prevents morale collapse from setbacks, good judgment optimizes which paths to pursue based on expected value, and goal focus provides direction. The compound nature explains why persistence is so rare — you need sufficient quantities of all five.
 

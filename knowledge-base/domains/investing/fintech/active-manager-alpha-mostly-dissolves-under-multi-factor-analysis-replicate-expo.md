@@ -61,6 +61,9 @@ evidence:
   - id: INS-260403-9C63
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-92EB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The original 1968 Jensen paper showed active managers couldn't beat the market on a single-factor (CAPM) basis. Fama-French's multi-factor model made this worse: funds that appeared to generate alpha under CAPM were often just holding small-cap or value-tilted portfolios. Once you account for all five factors, the 'skill' disappears.
 

@@ -76,6 +76,9 @@ evidence:
   - id: INS-260330-5C6E
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-43EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Sassanian and Byzantine empires had been fighting each other for roughly 300 years when the early Islamic forces emerged. The Sassanians were 'super tired' and had been struck by plague. This mutual exhaustion created a strategic window that a smaller, more unified force could exploit.
 

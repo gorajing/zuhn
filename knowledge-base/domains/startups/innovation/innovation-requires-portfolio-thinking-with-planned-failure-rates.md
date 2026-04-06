@@ -60,6 +60,12 @@ evidence:
   - id: INS-260402-180C
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-B008
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260326-6B98
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The venture capital model of portfolio investing applies directly to corporate innovation. Out of ten innovation projects, expect only two to succeed big, three to perform moderately, and five to fail outright. This is not pessimism — it is the mathematical reality of exploring uncertain territory.
 

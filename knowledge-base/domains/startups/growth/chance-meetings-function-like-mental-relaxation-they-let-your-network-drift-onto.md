@@ -62,6 +62,27 @@ evidence:
   - id: INS-260327-B539
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260329-6D8B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-7AE9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-F0C0
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-909E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-0892
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-E7B8
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260328-AE33
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham draws an analogy between chance meetings and the well-known phenomenon of solving problems in the shower. When you're grinding on a problem, your thinking gets stuck on a wrong path. Relaxation lets thoughts drift slightly — not randomly, but just enough to find the right adjacent path. Similarly, chance meetings in startup hubs let your acquaintance network drift in controlled ways: you meet people similar enough to be relevant but different enough to offer new perspectives.
 

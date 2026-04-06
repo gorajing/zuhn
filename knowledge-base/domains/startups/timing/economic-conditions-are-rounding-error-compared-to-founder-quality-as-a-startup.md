@@ -54,6 +54,10 @@ related:
   - INS-260403-862E
   - INS-260403-4A2F
   - PRI-260328-C918
+evidence:
+  - id: INS-260403-472E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Paul Graham draws on Y Combinator's extensive funding history to argue that the economy's effect on startup outcomes is rounding error compared to founder qualities. Microsoft and Apple were both founded during the mid-1970s recession, yet became defining companies of their era.
 

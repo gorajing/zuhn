@@ -72,5 +72,8 @@ evidence:
   - id: INS-260330-E881
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-BE07
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham proposes a structural solution to the tension between needing great hackers and having tedious product work: partition the engineering org into toolmakers and application builders. The toolmakers — your best hackers — build the internal languages, frameworks, and abstractions. The application developers use those tools to build customer-facing products. This keeps top talent insulated from the 'nasty little problems' of end-user requirements while their work still flows into the product. The toolmakers' users are only other internal developers, which is a far more satisfying audience. Graham argues this would have prevented many of Microsoft's security holes, because application developers wouldn't be doing low-level memory management — they'd be composing high-level abstractions. This is essentially a formalization of the platform team model that many modern tech companies now use, where the best engineers build developer infrastructure rather than product features directly.

@@ -59,5 +59,8 @@ evidence:
   - id: INS-260329-07D3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-97B4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham observed at Viaweb that doing 3-5 releases per day versus 1-2 per year wasn't just faster iteration — it was a fundamentally different innovation dynamic. Each implemented idea spawned new ideas during implementation, creating a compounding effect. Shelving ideas broke this chain: developers would see their backlog and self-censor new thinking. Graham explicitly said 'plans are just another word for ideas on the shelf.' The implication is that release cadence doesn't just affect speed-to-market — it affects the total volume of ideas a team generates. Companies that batch releases are not just slower; they are structurally less creative because they never trigger the implementation-breeds-insight loop.

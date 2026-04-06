@@ -66,6 +66,9 @@ evidence:
   - id: INS-260327-6B02
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260330-7DA5
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Graham explicitly dismisses physical infrastructure, weather, and similar factors as the engine of Silicon Valley. These things helped get it started, but the reaction is now self-sustaining based on people density alone. This is a crucial insight for cities trying to build startup ecosystems: you can't policy-engineer your way to a hub by building incubator spaces or offering tax incentives. Those are catalyst-stage interventions. The actual flywheel is: enough startup people attract more startup people, who normalize startup culture, who generate more chance meetings, which produce more successes, which attract more people.
 

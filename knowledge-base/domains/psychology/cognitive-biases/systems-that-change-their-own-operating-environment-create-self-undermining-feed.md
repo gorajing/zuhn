@@ -55,6 +55,31 @@ related:
   - INS-260403-6628
   - INS-260404-B7B6
   - INS-260330-EACA
+evidence:
+  - id: INS-260330-F222
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-2CFA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-C4CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-1F1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-6628
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-B7B6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-C134
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-72E1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Plants using RuBisCo were so successful that they transformed Earth's atmosphere from CO2-rich to O2-rich. But RuBisCo was designed for low-oxygen conditions, so the very success of photosynthesis degraded the enzyme's effectiveness by roughly 50%. Plants created the environmental conditions that undermined their own core process.
 

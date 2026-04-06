@@ -57,6 +57,9 @@ evidence:
     relationship: RELATED
   - id: INS-260327-A763
     relationship: RELATED
+  - id: INS-260403-97F8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The $999 iPhone triggers 'sticker shock' that dominates consumer perception, even though its $320 annual cost-of-ownership is competitive with phones half its price. This is a textbook anchoring bias — the salient, upfront number crowds out the more relevant but harder-to-calculate depreciation math. The video notes that 'sticker price isn't the best way to measure actual cost — in fact, it's pretty misleading.'
 

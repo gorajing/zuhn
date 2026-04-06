@@ -74,6 +74,9 @@ evidence:
   - id: INS-260327-F26E
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-6EDC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Kreischer describes the turning point in his partnership with Tom Segura: a business deal where money was causing friction. One of them said 'our feelings are more important than the money, so let's just split it.' They operate their joint ventures on a handshake deal — no contracts, no lawyers.
 

@@ -75,5 +75,17 @@ evidence:
   - id: INS-260330-72D0
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260323-1811
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260329-9074
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-4730
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-7305
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Two principles from different domains describe the same structural pattern: in AI, scaling laws show diminishing returns and jaggedness persists across model size — throwing more compute at a model doesn't eliminate its blind spots, it just adds capability around them. In startups, rapid scaling systematically outpaces quality control, and revenue growth masks the operational decay until it's too late (GoPro, Crumbl, Under Armour all demonstrate this). The synthesis: scale has a quality inversion point in every complex system. Before the inversion, more scale = more quality (economies of scale, better training data, more process refinement). After the inversion, more scale = less quality (complexity overwhelms control, growth covers sins, jaggedness persists). The practical implication: the most important metric to track isn't growth rate but the delta between growth rate and quality rate. When growth outpaces quality, you've passed the inversion point.

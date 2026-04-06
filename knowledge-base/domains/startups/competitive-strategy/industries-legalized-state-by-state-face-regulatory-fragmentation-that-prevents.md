@@ -46,6 +46,10 @@ related:
   - INS-260402-B42C
   - INS-260403-1FCD
   - PRI-260328-F0B4
+evidence:
+  - id: INS-260403-1FCD
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Cannabis businesses cannot achieve the scale economies that other industries enjoy because state-by-state legalization creates 50 separate regulatory environments that prevent national operations.
 

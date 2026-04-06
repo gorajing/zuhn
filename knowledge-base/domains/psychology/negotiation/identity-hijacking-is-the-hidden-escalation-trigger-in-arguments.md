@@ -54,6 +54,10 @@ related:
   - INS-260326-2E56
   - INS-260330-C548
   - INS-260330-2EB0
+evidence:
+  - id: INS-260329-57B3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Dan Shapiro identifies identity as the first major barrier to effective argumentation. When a conflict touches your core values and beliefs, it transforms from a disagreement about facts into a threat to your sense of self. Your pride and identity become the stakes, which triggers disproportionate emotional responses.
 

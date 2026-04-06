@@ -62,5 +62,8 @@ evidence:
   - id: INS-260329-0154
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260405-66A1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Hancock's core argument rests on a meta-epistemological point: when enormous portions of the potentially relevant search space remain unexamined (ocean floors, jungle canopies, desert sands), the standard archaeological argument that 'we would have found evidence by now' carries far less weight than it appears. This mirrors a common reasoning error in many domains — confusing low search coverage with negative results. The same bias appears in startup markets (assuming no demand because no one has tried), investing (assuming no opportunity because no analyst covers it), and scientific research (null results in a narrow study being treated as universal negatives). The correction is to always ask: what percentage of the relevant search space has actually been examined before treating absence of evidence as meaningful?

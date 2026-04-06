@@ -51,6 +51,13 @@ related:
   - INS-260403-560A
   - INS-260405-370B
   - INS-260330-50D4
+evidence:
+  - id: INS-260405-370B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-560A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Customer interviews fail when they collect opinions instead of behavioral facts. People are poor predictors of their own future actions — they'll say they'd pay for something they'd never actually buy. The fix is structural: replace hypothetical questions ('Would you use X?') with behavioral ones ('Tell me about the last time you dealt with Y'). This forces customers to draw from real experience rather than speculation.
 

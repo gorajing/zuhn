@@ -47,20 +47,25 @@ stance: >-
   in the ecosystem, creating defensive moats that competitors targeting the
   primary product cannot replicate
 related:
-  - INS-260330-3AB4
+  - INS-260330-19C3
+  - INS-260330-E786
   - INS-260330-656A
   - INS-260330-13A1
   - INS-260403-B4F1
   - INS-260403-FDD8
   - INS-260404-FF39
-  - INS-260330-E786
-  - INS-260330-19C3
   - INS-260404-8050
   - INS-260404-AC1D
 evidence:
   - id: INS-260403-99CE
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260404-AC1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-E786
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 In photosynthesis, splitting water is just a mechanism to replace lost electrons in Photosystem II — oxygen is literally discarded as waste. Yet this 'useless byproduct' fundamentally reshaped Earth's atmosphere and enabled the evolution of all aerobic life. The primary product (glucose for the plant) matters far less to the broader ecosystem than the exhaust.
 

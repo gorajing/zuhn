@@ -75,6 +75,9 @@ evidence:
   - id: INS-260330-14E1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-7C71
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Across 2,000 years, Chinese dynasties followed a remarkably consistent arc: a vigorous founder establishes order, successors consolidate and expand, later generations grow complacent and corrupt, and eventually the dynasty collapses — often to a new vigorous founder. The Mandate of Heaven provided ideological framing, but the underlying pattern was structural: centralized institutions accumulate inefficiencies and rent-seeking over time until they can no longer respond to crises.
 

@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-4AB1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-DEF6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Andrew Callaghan's core insight about journalism applies directly to content creation: everyone wants to be on camera and get exposure, which means the person holding the camera has a ticket to anywhere they want to go. This isn't just about professional journalism — it's a fundamental social dynamic where the content creator has asymmetric access.
 

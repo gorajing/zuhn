@@ -61,6 +61,37 @@ related:
   - INS-260327-89C7
   - INS-260325-E84D
   - INS-260403-6714
+evidence:
+  - id: INS-260323-7D01
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260320-07A2
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-F3A8
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2718
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-DD95
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-DD95
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-C737
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-89C7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-6714
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-CBC7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The ground rule to 'adopt a beginner's mindset' is really a debiasing technique for confirmation bias. Once a founder has a hypothesis about their customer's problem, every interview becomes an unconscious search for confirming evidence. Leading questions get asked, disconfirming signals get rationalized away, and ambiguous statements get interpreted favorably.
 

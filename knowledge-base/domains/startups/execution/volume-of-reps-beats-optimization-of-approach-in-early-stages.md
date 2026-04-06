@@ -57,6 +57,9 @@ evidence:
   - id: INS-260329-9115
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-020E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi argues that ambitious people often stall because they try to optimize their approach before they have enough reps to know what good looks like. They research the perfect strategy, plan the ideal execution, and then do very little actual work. Meanwhile, someone doing high-volume imperfect work accumulates data, builds pattern recognition, and develops intuition that no amount of planning can substitute for.
 

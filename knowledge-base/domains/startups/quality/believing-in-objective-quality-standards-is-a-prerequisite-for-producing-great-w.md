@@ -61,6 +61,12 @@ evidence:
   - id: INS-260327-8BF6
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-A8B1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7093
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a causal link between believing in quality standards and actually producing quality: Renaissance Florence's artists were intensely competitive, always trying to outdo one another 'like mathematicians or physicists today — maybe like anyone who has ever done anything really well.' The belief wasn't a useful illusion; they were right that greatness was achievable, and believing it enabled the effort required to get there.
 

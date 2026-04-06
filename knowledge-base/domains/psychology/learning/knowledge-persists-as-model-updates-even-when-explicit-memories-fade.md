@@ -55,6 +55,10 @@ related:
   - INS-260330-6D5C
   - INS-260323-8289
   - INS-260403-AC03
+evidence:
+  - id: INS-260403-AC03
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that reading hundreds of books yet recalling little from them is misleading as a measure of learning. The actual output of reading is not a set of stored facts but a recalibrated model of the world — updated intuitions, refined heuristics, altered priors. Even after the specific memories fade, the model-level effects persist and shape future reasoning.
 

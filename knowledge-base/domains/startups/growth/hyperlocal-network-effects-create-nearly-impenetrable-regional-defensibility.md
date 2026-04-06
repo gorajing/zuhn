@@ -49,5 +49,9 @@ related:
   - INS-260330-6D2E
   - PRI-260328-A4AC
   - INS-260403-BA5D
+evidence:
+  - id: INS-260330-6D2E
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 NFX explicitly avoids investing in globally-operated digital businesses (developer tools, SaaS) in LatAm, instead favoring hyperlocal marketplaces and platforms that can bootstrap local network effects. Once past critical mass in a local network, these businesses become nearly impenetrable to US or global competitors because the network effect is tied to local density — local suppliers, local customers, local logistics, local regulatory knowledge. This compounds as companies layer multiple hyperlocal networks across geographies. The strategic insight is that defensibility in emerging markets comes not from technological superiority but from network density in specific localities, which requires on-the-ground operational excellence that remote competitors cannot replicate.

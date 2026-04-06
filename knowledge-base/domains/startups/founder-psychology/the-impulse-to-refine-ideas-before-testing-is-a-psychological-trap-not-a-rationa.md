@@ -59,6 +59,19 @@ related:
   - INS-260330-FB5A
   - INS-260403-D379
   - INS-260403-22FE
+evidence:
+  - id: INS-260327-924F
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-AD42
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-FB5A
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-22FE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Teams that fall into analysis paralysis aren't being irrational about their desire for good outcomes — they're being irrational about the path to those outcomes. The refinement impulse feels productive: you're engaging with the idea, making it sharper, reducing obvious weaknesses. But the actual function it serves is often psychological: it defers the moment of external judgment, when real customers might say the idea doesn't work.
 

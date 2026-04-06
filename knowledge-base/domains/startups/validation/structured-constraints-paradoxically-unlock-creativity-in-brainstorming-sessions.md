@@ -61,6 +61,12 @@ evidence:
   - id: INS-260403-951B
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-D022
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-B19E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When the children brainstormed the comic book story, Osterwalder deliberately provided constraints and guidelines rather than a blank canvas. This mirrors a well-documented pattern in creative work: boundaries focus ideation and prevent the paralysis of infinite possibility.
 

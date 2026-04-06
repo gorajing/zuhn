@@ -68,6 +68,9 @@ evidence:
   - id: INS-260323-1477
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-F60C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Misha Laskin argues that if you solve autonomous coding, you solve the broader superintelligence problem. His reasoning: code is the universal medium through which all other capabilities can be built. Reflection AI combines large language models with reinforcement learning (the same technology behind AlphaGo) to create autonomous coding agents.
 

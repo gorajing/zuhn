@@ -55,5 +55,8 @@ evidence:
   - id: INS-260323-5D6D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-4EBF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Neuroscience research on the anterior mid-cingulate cortex (aMCC) reveals a counterintuitive finding: the brain structure associated with willpower grows specifically when people do things they don't want to do, not just hard things. If you love ice baths and extend from 1 to 10 minutes, your aMCC doesn't grow. But if you hate cold water and force yourself in, it does. This distinction matters because most 'discipline' advice focuses on increasing difficulty within domains people already enjoy. The aMCC is also bidirectional — it shrinks when you stop imposing unwanted friction, meaning willpower requires constant renewal. This maps to addiction recovery's 'one day at a time' principle: the cure works, but only if you re-apply it daily.

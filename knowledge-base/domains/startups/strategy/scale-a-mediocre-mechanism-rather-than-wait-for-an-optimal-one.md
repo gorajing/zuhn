@@ -55,6 +55,10 @@ related:
   - INS-260403-D482
   - INS-260403-0162
   - INS-260404-1D8F
+evidence:
+  - id: INS-260404-1D8F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, fails roughly half the time — grabbing oxygen instead of CO2 and producing a toxic byproduct. Yet plants produce an estimated 40 billion tons of it at any given time, making it the most abundant protein on Earth. Early single-celled organisms committed to the RuBisCo strategy when atmospheric CO2 was high and oxygen was low. When conditions changed, they were already all-in and adapted around the flaw rather than replacing the enzyme.
 

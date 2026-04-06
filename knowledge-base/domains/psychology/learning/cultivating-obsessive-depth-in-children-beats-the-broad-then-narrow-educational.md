@@ -50,5 +50,12 @@ related:
   - INS-260321-7D7C
   - INS-260330-112E
   - INS-260402-F3D7
+evidence:
+  - id: INS-260330-EA94
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260321-7D7C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham describes an educational philosophy opposite to the conventional approach: instead of broad-then-narrow, he encourages his children to go 'preposterously, bus ticket collectorly deep' on whatever random topic interests them. The rationale is that schools already cover breadth, and the joy of learning only comes from genuine interest — you can't force it. The deeper insight is that most of a child's propensity for specific interests appears to be inborn; the most a parent can do is ensure topics get a fair showing, then follow the child's lead. If the bus ticket theory is correct, this depth-first approach might actually cultivate the obsessive interest patterns that underlie genius.

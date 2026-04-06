@@ -55,6 +55,15 @@ evidence:
   - id: INS-260325-11E9
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260404-D547
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-4739
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-874D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The conventional framing of work-life balance assumes two separable domains that need scheduling. For entrepreneurs, this framing is structurally wrong: you are the business, the product, and the entity — there's nothing to turn off. The tradeoff is that you lose the ability to clock out, but gain the experience of deep motivation that makes work feel like play.
 

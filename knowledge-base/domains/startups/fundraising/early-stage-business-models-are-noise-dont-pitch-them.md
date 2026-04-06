@@ -63,6 +63,9 @@ evidence:
     relationship: RELATED
   - id: INS-260403-1852
     relationship: RELATED
+  - id: INS-260330-A954
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 A top VC told YC founders that a company he'd just invested millions in had a business model he expected to change three times before they got it right — and he invested anyway. At the early stage, the business model is a collection of guesses about things that aren't the founders' area of expertise. Smart investors know this. They're evaluating the team's ability to identify and solve real problems, not their ability to forecast revenue streams.
 

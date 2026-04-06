@@ -59,6 +59,22 @@ related:
   - INS-260403-A8E8
   - INS-260404-D6EE
   - INS-260404-5BBF
+evidence:
+  - id: INS-260326-C692
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-5688
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260329-E900
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2F22
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-ED1F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When investors lack the technical background and time to fully evaluate an early-stage product, the founders' own confidence becomes the single biggest piece of evidence. But this confidence must be shown, not told. Saying 'we're passionate' or 'our product is great' causes people to either ignore the statement entirely or actively write you off as a bullshitter.
 

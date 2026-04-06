@@ -67,6 +67,46 @@ related:
   - INS-260330-F5CF
   - INS-260403-CF3E
   - INS-260403-B5E2
+evidence:
+  - id: INS-260330-AB3C
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-B71B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-2CFA
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-1650
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-CF3E
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260325-0895
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-F03A
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-2695
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260322-F6C3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-FBD7
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6628
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-B09F
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-2C1A
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the enzyme at the heart of carbon fixation, was optimized for a world with negligible atmospheric oxygen. As photosynthesis itself pumped oxygen into the atmosphere over millions of years, RuBisCo began confusing oxygen for CO2 about 50% of the time—producing phosphoglycolate, a toxic byproduct that interferes with the Calvin cycle and requires its own energy-expensive cleanup pathway.
 

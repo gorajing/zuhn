@@ -52,6 +52,13 @@ related:
   - INS-260403-F7F4
   - PRI-260328-BEAB
   - INS-260329-D1B8
+evidence:
+  - id: INS-260330-D26B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-09AF
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Unity CEO Tomer Bar-Zeev explicitly advised communicating with teams 'even when you don't have anything new to say,' because employees seek belonging and stability more than information. Many CEOs communicate at the onset of a crisis then go silent, which employees interpret as either indifference or hidden bad news.
 

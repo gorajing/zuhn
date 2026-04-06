@@ -63,6 +63,12 @@ evidence:
   - id: INS-260330-B6FA
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-776C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A57D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When a16z launched in 2009 in the wake of the financial crisis, they faced widespread criticism: 'Why are you raising money now? What are you stupid?' The answer proved to be that raising capital when nobody else has it is structurally advantageous — less competition for deals, better pricing, and founders who are more serious about building.
 

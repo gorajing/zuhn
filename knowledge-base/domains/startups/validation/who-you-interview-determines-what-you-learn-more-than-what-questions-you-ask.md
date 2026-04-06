@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-F063
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-359D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Shear emphasizes that Twitch's decision to focus on broadcasters rather than viewers was the foundational strategic choice. Viewers would have given completely different feedback — likely about discovery, recommendation, and viewing experience. Broadcasters revealed the supply-side dynamics that actually drove platform growth: content creators chose platforms, and viewers followed the content. Interviewing the wrong segment would have optimized for the wrong side of the marketplace.
 

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260329-2EB1
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260403-8E4D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham defines good taste operationally as two skills. First, immunity to tricks: explicitly seek out and catalog manipulations — the airbrushed shiny metal that impresses ten-year-olds, the conspicuously avant-garde work that impresses would-be intellectuals, the illustration deliberately made to look faster than it was. Once you've cataloged enough tricks, you develop a general trickery-detection sense, like a professional magician watching amateurs. A trick is identified by contempt for the audience: the maker doesn't believe in what they're making, they're exploiting known weaknesses.
 

@@ -68,5 +68,8 @@ evidence:
   - id: INS-260325-C5AA
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-66AE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Harris dismantles the free-speech-vs-censorship framing by pointing out a structural reality: every platform, from 4chan to X to individual podcasts, is necessarily in the curation business. Joe Rogan will do perhaps 10,000 podcasts in his lifetime — he still must choose who to platform and who not to. Even self-proclaimed 'free speech absolutists' like Elon Musk demonstrably curate: boosting some content, suppressing other content, complying with authoritarian regimes' speech restrictions. The insight is that framing platform responsibility as a free speech issue is itself a cognitive error — it conflates government restriction of speech (First Amendment territory) with editorial judgment about amplification. Harris's point is not that anyone should be silenced, but that platforming someone without adequate preparation to challenge their claims is irresponsible curation, not brave free-speech advocacy. This reframe — from 'should we allow this speech?' to 'are we curating responsibly?' — applies to any content platform, newsletter, or media operation.

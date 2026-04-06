@@ -59,6 +59,13 @@ related:
   - INS-260403-B008
   - INS-260327-2B75
   - INS-260403-DF73
+evidence:
+  - id: INS-260403-B008
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-DF73
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Wand references Andy Grove's 'Only the Paranoid Survive' to explain why incumbent leadership fails at self-disruption. The core insight: people at the top of large organizations got there by consistently making the right decisions for the existing business model. Their 'entire DNA is wired to a certain thing.' Disruption requires someone to make choices that are counter to what got the CMO, CEO, and CFO promoted in the first place.
 

@@ -59,7 +59,20 @@ related:
   - INS-260403-A5D5
   - INS-260403-818F
   - INS-260404-03E7
-  - INS-260403-9F4B
+  - INS-260404-B7B6
+evidence:
+  - id: INS-260330-1650
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-DF69
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A5D5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-818F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved when atmospheric oxygen was negligible, so its inability to distinguish CO2 from O2 didn't matter. But as photosynthesis itself flooded the atmosphere with oxygen, RuBisCo began grabbing O2 roughly half the time, producing a toxic byproduct (phosphoglycolate) that plants must expend energy to neutralize. Despite this catastrophic inefficiency, plants had built their entire carbon fixation strategy around RuBisCo and couldn't pivot — they compensated by producing enormous quantities of it (an estimated 40 billion tons on Earth at any time) and evolving detox pathways.
 

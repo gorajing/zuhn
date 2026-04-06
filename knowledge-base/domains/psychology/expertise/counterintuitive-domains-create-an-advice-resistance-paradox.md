@@ -53,6 +53,22 @@ related:
   - INS-260330-6C68
   - INS-260403-26D3
   - INS-260403-DF73
+evidence:
+  - id: INS-260404-8890
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-2B96
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-93E3
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-6C68
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-26D3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham spent years puzzling over why founders don't listen to YC partners, initially attributing it to stubbornness. The deeper insight is that startups are so counterintuitive that correct advice literally sounds wrong to someone without direct experience. This creates a paradox: the domains where advice is most valuable (highly counterintuitive ones) are exactly where advice is least likely to be followed.
 

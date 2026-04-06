@@ -53,10 +53,10 @@ related:
   - INS-260325-D033
   - INS-260330-CA97
   - INS-260330-50B3
-  - INS-260403-9F4B
   - INS-260404-B7B6
   - INS-260403-818F
   - INS-260404-0BED
+  - INS-260404-581C
   - INS-260330-A3EB
   - INS-260403-304E
   - INS-260403-A5D5
@@ -88,6 +88,12 @@ evidence:
   - id: INS-260403-304E
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-3D7D
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-0BED
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved when Earth's atmosphere had minimal oxygen. As photosynthesis itself increased atmospheric oxygen levels, RuBisCo began confusing O2 for CO2 roughly half the time, producing toxic phosphoglycolate. Plants had to evolve entirely new enzymatic pathways (photorespiration) just to clean up this byproduct — infrastructure that exists solely to manage a legacy design flaw.
 

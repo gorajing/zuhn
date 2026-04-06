@@ -62,6 +62,9 @@ evidence:
   - id: INS-260405-C0AF
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-B22D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The popular narrative frames Amazon as the executioner of physical retail, but the data tells a more nuanced story. The companies that died—Sears (tried to do everything poorly), Toys-R-Us (dismissed the internet), J.C. Penney (lost touch with customers)—share a common trait: internal failure to adapt, not external competitive pressure. Meanwhile, Costco, Aldi, Ross, Dollar General, and Lush are all growing.
 

@@ -48,5 +48,18 @@ related:
   - INS-260330-0F04
   - INS-260403-C37D
   - INS-260330-D066
+evidence:
+  - id: INS-260330-0F04
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-D066
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-D94D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-C37D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a perception trap: when readers are conditioned to expect persuasive framing, the absence of that framing reads as hostility. A curt statement that contradicts beliefs looks identical to a partisan attack, even though the two come from completely different sources — one from honest inquiry, the other from tribal signaling. This matters for founders and leaders communicating unpopular truths. The instinct is to add softening language, but Graham's point is that this softening isn't free — it distorts the message and the messenger's thinking. The practical tension is real: you can either be understood correctly or think clearly, but optimizing for both simultaneously is nearly impossible on controversial topics.

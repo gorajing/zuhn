@@ -53,6 +53,9 @@ evidence:
   - id: INS-260321-167A
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260323-7E6F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Timing is one of the most cited reasons startups succeed or fail, yet most founders treat it as luck rather than something that can be systematically assessed. The Business Model Environment framework structures this assessment into four quadrants: market trends, competitive landscape, customer context, and macro-environmental forces.
 

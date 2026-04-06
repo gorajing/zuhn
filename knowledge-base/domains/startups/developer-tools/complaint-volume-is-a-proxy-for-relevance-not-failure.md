@@ -64,6 +64,18 @@ evidence:
   - id: INS-260325-CACA
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-131B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-81D3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-9676
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-EDA2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Fireship's closing line captures a real pattern: complaining about a tool requires that people actually use it. Java has been among the most criticized programming languages for decades, yet it has run on billions of devices continuously. This inverts the naive interpretation of widespread criticism as a sign of failure.
 

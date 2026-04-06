@@ -49,9 +49,9 @@ related:
   - INS-260321-3EC0
   - INS-260327-C79D
   - INS-260403-04FF
-  - INS-260404-438C
   - INS-260404-AFE6
   - INS-260405-0B17
+  - INS-260404-AF54
   - INS-260403-C96F
   - INS-260403-C732
   - INS-260403-D882
@@ -65,5 +65,14 @@ evidence:
   - id: INS-260327-C79D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-C732
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-8291
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-AF54
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that most VCs are dealmakers, not technologists, and their investment algorithm resembles momentum trading: they don't predict winners but try to notice what's already winning slightly sooner than peers. Their stated priority ordering is traffic first, other investors' opinions second, and team third—the inverse of what they publicly claim. This creates extreme volatility where a startup can go from hot to cold in days with nothing materially changing, purely because one influential investor cooled. The practical implication is that founders should optimize for demonstrable traction before fundraising and, when offered a decent deal, take it rather than trying to ride the momentum wave to a peak—because the wave can crash overnight.

@@ -52,6 +52,12 @@ related:
 evidence:
   - id: INS-260329-2FEB
     relationship: RELATED
+  - id: INS-260329-F51D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-500E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Lines of code is the most common size metric only because it's the easiest to measure, not because it captures anything meaningful. Different languages have different conventions for line density — C uses many lines for just delimiters. Character count is similarly distorted by identifier naming conventions.
 

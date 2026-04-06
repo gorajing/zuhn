@@ -60,6 +60,10 @@ related:
   - INS-260325-600C
   - INS-260330-A3AF
   - INS-260403-D63C
+evidence:
+  - id: INS-260325-600C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Matthew Johnson proposes that psychiatric disorders are not fundamentally different categories but rather share a common underlying mechanism: a narrowing of mental and behavioral repertoire. Depression narrows toward hopelessness, anxiety toward threat-avoidance, OCD toward compulsive rituals, and substance addiction toward drug-seeking — but all represent the same structural pattern of rigidity.
 

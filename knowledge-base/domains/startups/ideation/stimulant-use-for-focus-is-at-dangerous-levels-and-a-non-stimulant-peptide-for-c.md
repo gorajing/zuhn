@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-9E25
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260330-43E8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Huberman makes an important pharmacological distinction: there are no drugs that increase focus per se — all current options (Adderall, modafinil, Wellbutrin, caffeine, nicotine) increase alertness, which gates focus. Sleep gates alertness. So stimulants are essentially a bypass for inadequate sleep, and they always exact a cost — either disrupted sleep (creating a vicious cycle) or cardiac strain from chronic sympathetic nervous system activation.
 

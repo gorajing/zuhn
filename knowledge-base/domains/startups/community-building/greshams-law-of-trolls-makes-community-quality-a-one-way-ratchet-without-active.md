@@ -51,6 +51,10 @@ related:
   - INS-260402-C49E
   - INS-260403-22EE
   - INS-260322-F65F
+evidence:
+  - id: INS-260322-F65F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a Gresham's Law dynamic in online communities: trolls are willing to participate in high-quality forums, but thoughtful contributors flee troll-infested ones. This asymmetry means community quality degrades in only one direction unless actively defended. Reddit, Slashdot, and Digg all followed this trajectory.
 

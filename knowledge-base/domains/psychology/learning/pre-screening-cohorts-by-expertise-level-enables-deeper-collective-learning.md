@@ -50,6 +50,16 @@ related:
   - INS-260403-449D
   - INS-260330-AE22
   - INS-260403-3EFB
+evidence:
+  - id: INS-260329-3818
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-3EEA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-3EFB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most learning events waste the first 20–30% of time establishing shared foundations. The Strategyzer Bootcamp model inverts this by requiring demonstrated mastery as a prerequisite — everyone enters at an advanced level. This means facilitators can immediately engage with hard, context-specific problems rather than introductory content.
 

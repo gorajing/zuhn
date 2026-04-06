@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 883 insights across 26 topics
+> 885 insights across 26 topics
 
 ## Topics
 
@@ -13,14 +13,14 @@
 | ai-capabilities | 89 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
 | ai-market-dynamics | 93 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
 | alignment | 46 | KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text. |
-| applications | 1 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
+| applications | 2 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
 | architecture | 13 | Libraries are reusable because they are language, not because they are object-oriented. |
 | automation | 10 | Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI. |
 | claude-code | 33 | Planning is king — always use planning mode before implementation; never let the builder start without plans. |
 | embeddings | 7 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 1 | Open models consistently trail closed models by ~6 months, but the gap persists because proprietary labs keep redefining what 'frontier' means. |
 | future-of-work | 43 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
-| human-ai-relationship | 43 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
+| human-ai-relationship | 44 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | infrastructure | 2 | Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing. |
 | limitations | 35 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
 | llm-costs | 10 | OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever. |

@@ -61,6 +61,9 @@ evidence:
   - id: INS-260325-17E0
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-C13A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Scott's framework provides a practical gauge for reading feedback reactions. If someone seems sad, it signals you need to demonstrate more care. If someone seems angry, the instinct is to get defensive or back off — but both are wrong. Instead, 'get curious, not furious' — ask what's driving the anger.
 

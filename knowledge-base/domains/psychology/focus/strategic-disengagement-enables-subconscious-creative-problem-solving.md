@@ -63,6 +63,12 @@ evidence:
   - id: INS-260329-3473
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-8779
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-CF9F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Rubin's creative workflow follows a strict pattern: total dedication during active work sessions (whether 20 minutes or 5 hours with zero outside distraction), followed by complete disengagement where he deliberately avoids thinking about the project, takes no materials home, and ideally immerses fully in a different project. He believes stewing over a problem is counterproductive and that 'holding problems lightly' allows subconscious processing to do the heavy lifting.
 

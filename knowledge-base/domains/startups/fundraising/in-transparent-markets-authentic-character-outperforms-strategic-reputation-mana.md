@@ -61,6 +61,10 @@ related:
   - PRI-260323-0F93
   - INS-260329-2AB9
   - PRI-260324-2C9F
+evidence:
+  - id: INS-260403-A1DF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Ron Conway's dominance in early-stage investing stems not from superior pattern-matching or capital, but from being authentically good — a trait that generated referrals from Google, Facebook, and Twitter founders. Paul Graham argues this is not incidental: in a transparent market, bad behavior leaks out and costs deals, so reputation built on genuine character compounds while reputation built on performance degrades.
 

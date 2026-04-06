@@ -57,6 +57,9 @@ evidence:
   - id: INS-260330-568F
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260405-194F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When interviewers ask 'how do you handle objections,' they're probing multiple competencies at once: active listening, emotional regulation under pressure, creative problem-solving, and whether you view objections as threats or information. The best answers use a specific past example showing the objection, your diagnosis of the real concern beneath it, your response, and the outcome.
 

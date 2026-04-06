@@ -116,6 +116,9 @@ evidence:
   - id: INS-260405-C592
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260405-FBD7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 O'Connor argues the problem of suffering is the strongest counterargument to traditional theism, but carefully scopes its reach. The argument: if a loving, omnipotent God supervised the universe's creation and chose its parameters, why did that God select evolution by natural selection — survival of the fittest, which is simultaneously the destruction and suffering of the weakest — as the mechanism to produce human life?
 

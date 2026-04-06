@@ -52,6 +52,12 @@ evidence:
     relationship: RELATED
   - id: INS-260327-9838
     relationship: RELATED
+  - id: INS-260405-339F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-FCD7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspirational association that cannot be replicated by functionally equivalent newcomers.
 

@@ -59,5 +59,11 @@ evidence:
   - id: INS-260330-6A47
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-CF0E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-8BE9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Bond markets have emerged as the real constraint in geopolitical risk. Rising yields and inflation expectations are now driving policy reactions more than headlines or diplomatic negotiations. Fiscal pressure is increasingly shaping political decisions faster than traditional diplomatic timelines. This represents a structural shift where market mechanisms override institutional geopolitical processes. For investors and strategists, monitoring bond yields and inflation expectations provides better forward-looking signal on geopolitical outcomes than tracking diplomatic communications or media coverage.

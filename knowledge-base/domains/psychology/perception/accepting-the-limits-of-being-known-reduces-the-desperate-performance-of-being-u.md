@@ -55,6 +55,9 @@ related:
 evidence:
   - id: INS-260329-CD64
     relationship: RELATED
+  - id: INS-260404-C720
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Much relationship frustration comes from the impossible demand to be completely understood. 'You don't understand me' is always literally true and will always be true. The demand for complete understanding sets up a failure that breeds frustration, conflict, and isolation.
 

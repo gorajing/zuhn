@@ -46,7 +46,6 @@ stance: >-
   A flawed solution deployed at scale consistently outperforms a theoretically
   superior solution that never materializes.
 related:
-  - INS-260320-20F2
   - INS-260327-BA97
   - INS-260330-8D99
   - INS-260330-9A60
@@ -59,6 +58,24 @@ evidence:
   - id: INS-260404-6F39
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260320-20F2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-8D99
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-9A60
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-D108
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-BA93
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-1A18
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The CrashCourse episode opens by noting photosynthesis 'actually rather sucks — it's complicated, inefficient and confusing.' Modern photosynthesis converts only about 3-6% of incident solar energy into chemical energy. Yet this inefficient process is the foundation of nearly all food chains and atmospheric oxygen.
 

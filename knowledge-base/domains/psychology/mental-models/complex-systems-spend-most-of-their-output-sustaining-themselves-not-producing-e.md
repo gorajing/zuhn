@@ -78,6 +78,18 @@ evidence:
     relationship: RELATED
   - id: INS-260402-2074
     relationship: RELATED
+  - id: INS-260404-F69A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-07D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-E52B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-2CA2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In the Calvin Cycle, 3 molecules of RuBP are processed through carbon fixation, reduction, and regeneration to produce 6 molecules of G3P (the useful sugar precursor). But 5 of those 6 G3Ps must be fed back into the cycle to regenerate the 3 RuBP starting molecules. Only 1 G3P — roughly 17% of total output — actually leaves the system as net product.
 

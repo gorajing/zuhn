@@ -51,6 +51,13 @@ related:
   - INS-260330-3819
   - INS-260329-4D24
   - INS-260329-C689
+evidence:
+  - id: INS-260329-4E70
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-4D24
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham catalogs numerous alternatives to earnestness: clever cynicism, superficial brilliance, conspicuous virtue, coolness, sophistication, orthodoxy, snobbery, bullying, pandering, being on the make. The sheer variety suggests earnestness isn't one pole of a binary but a target in a multidimensional space where you can miss in many directions.
 

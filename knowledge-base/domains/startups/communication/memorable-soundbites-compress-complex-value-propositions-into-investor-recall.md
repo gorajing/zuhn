@@ -53,6 +53,10 @@ related:
   - INS-260403-F7DD
   - INS-260403-EF30
   - INS-260405-54B8
+evidence:
+  - id: INS-260403-941F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Professional investors hear dozens of pitches that blur together. The first survival filter is simply being remembered, and a sticky descriptive phrase ('the Microsoft Word of ecommerce,' 'the x of y') ensures you pass that filter. Graham notes this should be launched clearly but apparently casually near the beginning of the talk.
 

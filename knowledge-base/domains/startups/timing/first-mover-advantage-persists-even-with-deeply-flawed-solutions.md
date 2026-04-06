@@ -66,6 +66,28 @@ related:
   - INS-260404-6F39
   - INS-260404-9213
   - INS-260405-BEA7
+evidence:
+  - id: INS-260403-5755
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-26B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-9213
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-3591
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-BEA7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-BA97
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-4153
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Photosynthesis is explicitly described as 'complicated, inefficient and confusing' — yet no alternative energy-capture system has displaced it in 450 million years. The process involves four protein complexes, multiple electron carriers, a two-stage reaction system, and an enzyme (RuBisCo) that fails half the time. A rational designer would never build it this way. But it was first, it worked, and everything else evolved to depend on it.
 

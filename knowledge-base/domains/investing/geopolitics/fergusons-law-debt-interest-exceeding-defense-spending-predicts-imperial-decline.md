@@ -67,6 +67,9 @@ evidence:
   - id: INS-260321-1A99
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-7644
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Niall Ferguson identifies a recurring historical pattern he calls 'Ferguson's Law' (after Adam Ferguson, the Scottish Enlightenment thinker): when a great power's interest payments on national debt exceed its defense budget, decline follows. He traces this from Habsburg Spain through the Dutch Republic, 18th-century France, the Ottoman Empire, Austria-Hungary, and the British Empire. The United States crossed this threshold in 2024 — the first time since 1934 that debt interest exceeded defense spending.
 

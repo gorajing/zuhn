@@ -52,6 +52,10 @@ related:
   - INS-260404-D6EE
   - INS-260330-43E8
   - INS-260323-0603
+evidence:
+  - id: INS-260323-0603
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Graham observes that everyday life provides zero practice for addressing a roomful of people. The founders who'd been out in the world and presented to groups were visibly different from those who hadn't. His solution is counterintuitive: treat public speaking as a consciously artificial technique rather than an extension of natural conversation.
 

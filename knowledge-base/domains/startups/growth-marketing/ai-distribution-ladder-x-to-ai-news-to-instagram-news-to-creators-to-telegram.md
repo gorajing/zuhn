@@ -55,5 +55,8 @@ evidence:
   - id: INS-260330-8F91
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-4A9E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Higgsfield and many other AI products followed the same distribution journey: launch starts in small X (Twitter) communities, then gets picked up by AI news pages on X, then moves to Instagram news pages, then to individual creators, then spreads to Telegram and other platforms. However, this pattern was strongest in 2025 — by 2026, signal-to-noise ratio on X is dropping as too many companies try to use it for product launches. LinkedIn may be rising as an alternative channel. Organic social media and creator integrations outperform paid ads for AI product distribution.

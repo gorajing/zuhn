@@ -50,6 +50,16 @@ related:
   - INS-260329-9A30
   - PRI-260323-DC25
   - INS-260403-1CC5
+evidence:
+  - id: INS-260329-9A30
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-814E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-1CC5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that a meeting doesn't merely consume its scheduled time slot for makers — it fragments the surrounding time into pieces too small for ambitious work, and the mere awareness of an upcoming meeting suppresses willingness to start hard problems. This creates a cascading effect where a single afternoon meeting can neutralize the entire day's productive potential.
 

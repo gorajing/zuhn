@@ -89,6 +89,9 @@ evidence:
   - id: INS-260330-3ECE
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-B1BC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 DNA was discovered by Friedrich Miescher in 1869 — he isolated it from white blood cells on used hospital bandages and identified it as a new biological substance called 'nuclein.' Yet almost no one outside biology knows his name. Watson and Crick, who synthesized existing data (much of it from Franklin and others) into the double helix model in 1953, became the household names. Miescher had the discovery; Watson and Crick had the narrative.
 

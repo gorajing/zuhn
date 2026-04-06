@@ -45,5 +45,12 @@ related:
   - INS-260330-CC7D
   - INS-260323-9867
   - INS-260403-3CD9
+evidence:
+  - id: INS-260404-312D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A99F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham describes his own experience of feeling like an impostor at his startup — not because the work was failing, but because it didn't look like what business was 'supposed to' look like. Programming in a towel at 2 AM in a messy office felt illegitimate compared to suits at conference tables. This reveals how deeply cultural archetypes of professionalism are internalized, to the point where even people with direct evidence of their own productivity doubt themselves. The implication extends beyond startups: any domain where effective practice looks different from the popular image of that domain will produce unnecessary impostor syndrome in practitioners. Recognizing this pattern is the first step to inoculating against it.

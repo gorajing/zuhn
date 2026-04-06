@@ -56,5 +56,12 @@ related:
   - INS-260403-D482
   - INS-260404-3608
   - INS-260404-5E8F
+evidence:
+  - id: INS-260330-CC30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-1D8F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Plants went all-in on RuBisCo for carbon fixation despite it confusing oxygen for CO2 roughly half the time, requiring massive overproduction (40 billion tons globally) and dedicated detoxification pathways. This mirrors how startups often scale around a suboptimal early architecture or process rather than redesigning it — adding more servers, more people, more workarounds. The overhead becomes structural: plants now spend significant energy on photorespiration cleanup, just as companies spend engineering cycles maintaining legacy systems. The lesson isn't that brute-force scaling is always wrong — it enabled plants to dominate the planet — but that the cost compounds permanently and shapes all downstream decisions.

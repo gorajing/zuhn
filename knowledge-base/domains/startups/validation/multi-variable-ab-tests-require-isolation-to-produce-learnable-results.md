@@ -53,6 +53,9 @@ evidence:
   - id: INS-260402-7A1A
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-E21C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The article warns against testing multiple variables simultaneously — for example, changing both pricing and product naming in the same experiment. When results come in, it becomes impossible to attribute the outcome to either variable independently. The vegetable-vs-protein meal example illustrates this: was the cheaper option chosen for price or for dietary preference?
 

@@ -52,6 +52,13 @@ related:
   - INS-260323-4C71
   - INS-260329-A90C
   - INS-260403-E8DD
+evidence:
+  - id: INS-260402-0A49
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-4C71
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Human alarm systems for detecting wasteful behavior evolved in pre-industrial contexts where self-indulgence was the primary threat. Spending visibly on luxuries triggers immediate guilt and discomfort — most people would feel deeply uncomfortable watching TV all day.
 

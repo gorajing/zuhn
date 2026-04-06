@@ -54,6 +54,13 @@ resolutions:
 stance: >-
   AI taking over sourcing, diligence, and ops will permanently reduce VC
   headcount by 50% or more, not just trim it temporarily.
+evidence:
+  - id: INS-260325-ADF5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-5DA6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The structural labor of venture—deal sourcing, market mapping, reference checks, due diligence memos—is being automated by AI tools. Firms that built large analyst and associate benches to handle volume work are now shrinking those teams dramatically. This isn't cyclical headcount reduction tied to a down market; it's a permanent compression of the labor-per-deal ratio.
 

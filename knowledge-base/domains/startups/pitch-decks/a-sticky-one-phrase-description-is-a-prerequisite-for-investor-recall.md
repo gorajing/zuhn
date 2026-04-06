@@ -60,6 +60,12 @@ evidence:
   - id: INS-260323-5EA1
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260404-C0E6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-D242
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Professional investors at large Demo Days or pitch events experience genuine pitch blur — not from inattention but from volume. The first sorting step isn't 'was this good?' but 'do I remember what this was?' A concrete, distinctive phrase anchors the memory.
 

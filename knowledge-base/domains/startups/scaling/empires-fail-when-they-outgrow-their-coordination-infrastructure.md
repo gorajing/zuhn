@@ -72,6 +72,9 @@ evidence:
     relationship: RELATED
   - id: INS-260327-5140
     relationship: RELATED
+  - id: INS-260327-8B9A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The neo-Assyrian Empire's downfall wasn't primarily military — it was administrative. They extended control beyond what their road and communication infrastructure could support. Combined with a tax-and-labor burden that made subjects welcome invaders ('Hey nomadic invaders! Come on in; you seem better than the last guy'), the empire became ungovernable.
 

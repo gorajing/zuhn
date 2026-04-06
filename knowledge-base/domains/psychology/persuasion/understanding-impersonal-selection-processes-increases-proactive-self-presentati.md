@@ -51,6 +51,10 @@ related:
   - INS-260404-5365
   - INS-260329-5C65
   - INS-260403-0949
+evidence:
+  - id: INS-260402-EF63
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that a child's worldview — where every authority figure carefully evaluates you — creates passivity. If admissions committees are all-seeing, why try to influence the process? But once you realize selection is quick, impersonal, and influenced by random extraneous factors, the rational response is to actively shape how you're perceived.
 

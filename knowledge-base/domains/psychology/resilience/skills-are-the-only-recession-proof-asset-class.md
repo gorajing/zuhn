@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-A8D9
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-F07A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi frames skills as the only truly unconfiscatable asset. After losing everything and being down to $1,100 in his bank account, he was able to collect $110,000 in his next 30 days purely on the strength of skills he'd built. No financial asset offers this kind of resilience — real estate can be seized, accounts can be frozen, investments can go to zero.
 

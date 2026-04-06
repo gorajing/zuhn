@@ -65,6 +65,9 @@ evidence:
   - id: INS-260402-B12D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-D66B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 After years of hiring engineers, product managers, and designers, PolyAI discovered a pattern: their top performers were people who were exceptionally strong in one dimension, not people who scored well across the board. They restructured their interview process to optimize for this — they want at least one team member to feel strongly about a candidate ('fall in love') rather than settling for candidates where everyone gives a lukewarm positive score.
 

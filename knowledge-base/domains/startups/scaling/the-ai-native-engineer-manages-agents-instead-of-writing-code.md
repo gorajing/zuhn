@@ -70,6 +70,12 @@ evidence:
     relationship: RELATED
   - id: INS-260325-5F3B
     relationship: RELATED
+  - id: INS-260405-FAE3
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7FFA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 A Stanford class on 'the modern software developer' filled over 100 students within hours of announcement. The core thesis: AI is a new language, and the first generation entering the workforce now will be AI-native engineers. The top 0.1% of these engineers won't be the best coders—they'll be the best agent managers.
 

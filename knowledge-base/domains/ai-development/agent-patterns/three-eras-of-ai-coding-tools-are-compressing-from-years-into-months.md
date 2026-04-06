@@ -55,6 +55,10 @@ related:
   - INS-260325-5F3B
   - INS-260327-33FA
   - INS-260321-D3BE
+evidence:
+  - id: INS-260404-D711
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The panel identified three distinct eras of AI coding tools happening in rapid succession: (1) GUI-based copilots like Cursor where humans supervise AI like an intern, (2) CLI-based agentic coding like Claude Code where agents run autonomously with periodic human oversight, and (3) fully autonomous systems like OpenClaw where agents command sub-agents with humans getting out of the way entirely. What's remarkable is that all three eras are compressing into months rather than the years typical of previous technology waves.
 

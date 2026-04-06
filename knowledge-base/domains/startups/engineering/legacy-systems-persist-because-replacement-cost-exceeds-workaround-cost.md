@@ -64,6 +64,12 @@ evidence:
   - id: INS-260405-DAC9
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260323-7A11
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-C02D
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 The enzyme RuBisCo was designed for a low-oxygen atmosphere and now confuses O2 with CO2 roughly half the time, producing toxic byproducts. Yet plants went 'all-in' on the RuBisCo strategy and simply evolved cleanup pathways for the toxic waste rather than replacing the enzyme itself.
 

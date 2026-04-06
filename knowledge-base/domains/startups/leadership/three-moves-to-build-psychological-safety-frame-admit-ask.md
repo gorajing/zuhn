@@ -67,6 +67,9 @@ evidence:
   - id: INS-260327-A817
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-89E7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Edmondson prescribes three concrete leader behaviors. First, frame the work as a learning problem, not an execution problem — explicitly acknowledge uncertainty and interdependence. This creates the rational case for speaking up: 'We've never been here before, we need everyone's brains in the game.' Second, acknowledge your own fallibility with simple statements like 'I may miss something I need to hear from you.' This works with subordinates and peers alike. Third, model curiosity by asking lots of questions — this creates a necessity for voice, making silence the awkward choice rather than speaking up.
 

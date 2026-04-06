@@ -58,6 +58,13 @@ related:
   - INS-260322-C472
   - INS-260404-8746
   - INS-260404-304E
+evidence:
+  - id: INS-260322-C472
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-C477
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The US housing stock is aging (median age rose from 31 to 37 years in a decade) while consumer preferences shift dramatically — median years renting before buying doubled from 2.6 to 6 years. This dual mismatch can't be solved by information marketplaces alone; it requires companies that physically repurpose existing supply.
 

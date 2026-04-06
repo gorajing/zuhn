@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-D74A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-F158
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The anti-Bolshevik forces had every material advantage: more territory, foreign support, experienced generals. But they couldn't coordinate because their only shared goal was defeating the Bolsheviks. The monarchists wanted to restore the Tsar, the democrats wanted parliament, the socialists wanted land reform, and the nationalities wanted independence. Each White army fought independently, sometimes at cross-purposes. Meanwhile, the Bolsheviks had unity of command, a clear positive program, and interior lines.
 

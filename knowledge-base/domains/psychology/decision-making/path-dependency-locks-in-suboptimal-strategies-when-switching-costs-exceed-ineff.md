@@ -57,6 +57,28 @@ related:
   - INS-260403-0162
   - INS-260404-4010
   - INS-260404-B1AB
+evidence:
+  - id: INS-260330-54ED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-4983
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-22C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-D482
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-0162
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-4010
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-B1AB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved in a low-oxygen atmosphere where it only needed to distinguish CO2 from nitrogen. When photosynthesis itself raised oxygen levels, RuBisCo began confusing O2 for CO2 roughly half the time, producing a toxic byproduct. Yet plants had already built their entire metabolic architecture around this enzyme. Rather than evolve a replacement, they developed workaround pathways to detoxify the byproduct and simply produce massive quantities of RuBisCo to compensate for its error rate.
 

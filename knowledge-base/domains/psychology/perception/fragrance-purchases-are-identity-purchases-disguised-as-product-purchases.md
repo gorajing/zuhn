@@ -50,6 +50,9 @@ evidence:
   - id: INS-260327-E6B0
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-E4C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Consumers who buy cologne are purchasing an identity signal — sophistication, masculinity, wealth — rather than a functional product, which is why brand and bottle design matter more than the actual scent.
 

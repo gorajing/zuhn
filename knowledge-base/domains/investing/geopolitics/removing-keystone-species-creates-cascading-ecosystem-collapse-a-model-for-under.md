@@ -78,6 +78,9 @@ evidence:
   - id: INS-260330-0027
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-DC5E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Tasmanian tiger was Tasmania's only apex predator — a keystone species with outsized ecosystem impact. After humans drove it extinct, the consequences cascaded: wallabees and kangaroos exploded in population, overgrazing shrubs and bushes, which impacted bird populations and changed the landscape. Without an apex predator to cull sick animals, the Tasmanian devil developed a transmissible facial cancer that now threatens its own survival.
 

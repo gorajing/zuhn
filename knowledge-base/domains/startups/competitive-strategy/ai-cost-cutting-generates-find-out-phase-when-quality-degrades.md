@@ -72,6 +72,9 @@ evidence:
   - id: INS-260321-167A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-FA30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The AI cost-cutting cycle follows a predictable pattern: 1) Identify expensive human roles, 2) Replace with AI, 3) Celebrate cost savings, 4) Discover quality degradation, 5) Rehire at premium rates. Companies are now in phase 4-5, finding that most jobs involve judgment, relationships, and contextual understanding that AI lacks.
 

@@ -65,6 +65,15 @@ evidence:
   - id: INS-260327-368D
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-268C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-CA4F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-23B9
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Wallets work fine. Cards swipe. The physical payment system, while imperfect, is deeply habitual and requires zero learning curve. This means that 'making payments digital' is not itself a compelling value proposition — the friction of habit change exceeds the convenience gain.
 

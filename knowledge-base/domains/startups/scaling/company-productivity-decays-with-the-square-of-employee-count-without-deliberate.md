@@ -47,11 +47,11 @@ stance: >-
   quadratically with headcount because communication overhead scales with the
   number of node-pairs, not linearly with people.
 related:
+  - INS-260405-2C44
   - INS-260322-C935
   - INS-260404-CF81
   - INS-260322-B6DE
   - INS-260403-B008
-  - INS-260322-AAEA
 evidence:
   - id: INS-260322-B6DE
     type: CHALLENGES
@@ -59,5 +59,8 @@ evidence:
   - id: INS-260322-C935
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-B008
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Altman argues productivity loss is quadratic, not linear, because every pair of employees adds communication overhead (n*(n-1)/2 connections). His diagnostic test: ask 10 random employees the company's top 3 goals. Despite founders being 100% confident everyone knows them, no two employees give the same answer. The antidote is aggressive, repetitive alignment: weekly management meetings, monthly all-hands reviewing results and roadmap, quarterly planning, and frequent offsites. Founders chronically under-communicate goals because they announced them once at an all-hands and assume everyone remembers. The key principle is that alignment is not a one-time event but a continuous forcing function that must be actively maintained.

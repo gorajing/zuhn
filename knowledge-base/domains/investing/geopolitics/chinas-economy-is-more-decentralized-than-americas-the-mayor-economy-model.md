@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-73C1
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-3307
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Keyu Jin argues that China's economy is actually more decentralized than the US. While political power is centralized, economic power is distributed to local mayors and provincial governors who compete fiercely for results. Successful local reforms get rolled out nationally, and the reforming mayor gets promoted. This creates a tournament-style incentive structure that drove decades of rapid growth.
 

@@ -64,6 +64,10 @@ related:
   - PRI-260321-2DF0
   - PRI-260328-0993
   - INS-260324-72E8
+evidence:
+  - id: INS-260324-72E8
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Thiel argues that competition-as-validation is not merely a strategic mistake but a deep psychological phenomenon rooted in mimetic (imitative) human nature. He cites that in Shakespeare's time, 'ape' already meant both 'primate' and 'imitate.' This drives talented people toward the most crowded, least profitable positions: 20,000 people move to LA annually to become movie stars, 20 succeed. Harvard Business School's largest graduating cohorts systematically time market peaks — junk bonds before Milken's arrest (1989), tech at the dot-com peak (1999-2000), housing and private equity before the 2008 crash.
 

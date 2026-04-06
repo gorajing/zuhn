@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-B403
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260322-6D1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Nagoski uses tickling as a vivid illustration: the same person applying the same sensation produces opposite experiences depending on whether you're in a playful/trusting state versus mid-conflict. This isn't metaphorical — the brain's interpretation of sensory input is literally different based on emotional activation patterns. External circumstances (privacy, environment) and internal state (stress, mood, trust) together constitute the context that determines whether sensation registers as pleasure.
 

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-FDF5
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-5B7B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Coning distinguishes two types of AI value: process (using AI to code faster, handle support tickets) and product (embedding AI so it directly serves customers). Gamma exemplifies this — instead of hiring thousands of graphic designers, they let users write a few sentences and AI generates a deck. The core AI unlock was tiny but transformative.
 

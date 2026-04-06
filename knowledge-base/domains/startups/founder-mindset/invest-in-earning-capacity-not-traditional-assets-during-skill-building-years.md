@@ -72,6 +72,9 @@ evidence:
   - id: INS-260329-7FD6
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-EA34
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi argues that traditional saving advice ($500/month into index funds) is suboptimal during your highest-growth years. The math: if you can double or triple your earning capacity by investing $10,000 in skills, that dwarfs decades of compound interest on small monthly contributions. The key insight is that the opportunity cost of traditional saving isn't just the returns foregone — it's the earning capacity you never built.
 

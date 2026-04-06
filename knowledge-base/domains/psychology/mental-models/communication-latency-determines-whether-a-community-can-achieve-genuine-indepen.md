@@ -69,6 +69,9 @@ evidence:
   - id: INS-260329-05BB
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260329-4B07
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Vitalik frames the Moon vs. Mars question through communication latency: the Moon's 2.3-second round-trip is effectively synchronous with Earth — conversations are possible in real time. Mars's 5-15 minute one-way latency makes every interaction asynchronous, more like email than a phone call. That asynchrony isn't just a UX inconvenience — it's a civilizational structuring force.
 

@@ -79,6 +79,9 @@ evidence:
   - id: INS-260330-DD9C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-CC9E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Marshal Bernadotte was Napoleon's most politically ambitious marshal: he maintained relationships with republicans, royalists, and Napoleonists simultaneously. This hedging strategy frustrated Napoleon but made Bernadotte invaluable to everyone — no one wanted him as an enemy. When Sweden needed a new heir, Bernadotte's reputation for being independent of Napoleon (while still being a capable French marshal) made him the perfect candidate. He became King of Sweden and founded a dynasty that still reigns today.
 

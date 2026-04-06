@@ -62,5 +62,8 @@ evidence:
   - id: INS-260323-64A4
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-1BCC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Shapiro and Fridman explore the psychology of evil through the lens of Nazi Germany's rise. The key insight comes from philosopher Robert George's classroom experiment at Princeton: when asked who would have been abolitionists in 1861 Alabama, every hand goes up — but of course that's not true. The 'great lie' is that people who do evil are fundamentally different from us. Franz von Papen — a Catholic Democrat who personally disliked Hitler — enabled Hitler's rise by believing the buffoon could be instrumentalized to stop communists. The mechanism is disturbingly mundane: political polarization creates escalating 'lesser evil' calculations where supporting someone frightening feels justified to prevent someone more frightening. The protective mechanism is constant self-interrogation ('am I participating in evil?') combined with trusted people willing to call out your errors. This applies well beyond politics — to business decisions, group dynamics, and any domain where escalating commitment can normalize harmful actions.

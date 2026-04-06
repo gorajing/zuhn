@@ -61,6 +61,10 @@ related:
   - INS-260404-B46E
   - INS-260404-2D53
   - INS-260404-5D39
+evidence:
+  - id: INS-260330-48DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Amazon Prime is optional: each customer individually calculates whether Prime will save them enough to justify the cost. Those who subscribe are already price-sensitive rational actors who will continue comparison-shopping. The sunk-cost effect exists but is moderated by ongoing self-justification.
 

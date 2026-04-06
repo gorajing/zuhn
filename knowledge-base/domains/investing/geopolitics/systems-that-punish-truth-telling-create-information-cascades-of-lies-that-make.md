@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-6418
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-D051
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Each administrative layer in Mao's China added optimistic bias to production reports: village leaders reported high to avoid punishment, county officials inflated further to look good, provincial leaders added more to demonstrate loyalty. By the time the numbers reached Beijing, reported grain production was multiples of actual output. Based on these fictional numbers, China exported grain while its population starved. The system literally couldn't see reality because it had designed truth out of its information pipeline.
 

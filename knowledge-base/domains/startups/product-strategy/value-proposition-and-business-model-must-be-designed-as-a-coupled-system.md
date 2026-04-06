@@ -56,6 +56,10 @@ related:
   - INS-260403-8008
   - INS-260322-FCFC
   - INS-260403-A0F7
+evidence:
+  - id: INS-260327-57A4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Strategyzer analysis highlights a critical principle: 'The value proposition enables the business model; the business model enables the value proposition.' This bidirectional dependency means that designing a compelling product experience without simultaneously designing how it generates revenue (and vice versa) produces fragile strategies. Apple Pay's security features aren't just UX polish — they're the mechanism that reduces bank fraud costs, which is the revenue model.
 

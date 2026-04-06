@@ -60,6 +60,16 @@ related:
   - INS-260404-B04F
   - INS-260330-7B11
   - INS-260405-9DB6
+evidence:
+  - id: INS-260330-7B09
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-B04F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-B6E8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 RuBisCo fails roughly half the time, binding oxygen instead of CO2. Rather than evolving higher specificity (which may be thermodynamically impossible given its mechanism), plants simply produce staggering quantities. There are an estimated 40 billion tons of RuBisCo on Earth at any time, making it the most abundant protein on the planet.
 

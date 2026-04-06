@@ -56,6 +56,12 @@ evidence:
   - id: INS-260323-5CBE
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260325-E9B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-AE23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Surface-level customer responses describe what people do, but the 'why' behind the behavior is where product insight lives. A customer might say they use a spreadsheet to track invoices — that's a behavior. Asking why reveals they don't trust their accounting software's reporting. Asking why again reveals a past incident where incorrect data caused a tax filing error. Now you understand the real job-to-be-done: trust and auditability, not just tracking.
 

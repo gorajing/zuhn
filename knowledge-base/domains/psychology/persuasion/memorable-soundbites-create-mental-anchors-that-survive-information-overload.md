@@ -48,6 +48,22 @@ related:
   - INS-260403-B3A4
   - INS-260403-EF30
   - INS-260403-ED1E
-  - INS-260404-3713
+  - INS-260404-24FB
+evidence:
+  - id: INS-260329-5B18
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-F7DD
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-B3A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-EF30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-ED1E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham notes that professional investors hear so many pitches they all blur together, making the first cut simply being remembered. The solution is a descriptive phrase that sticks — in startups, usually 'the X of Y' format (Viaweb was 'the Microsoft Word of ecommerce'). But Graham adds a deeper insight: this exercise is valuable beyond pitching because if you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused. The soundbite becomes a diagnostic tool for strategic clarity, not just a marketing device. This connects to the broader principle that constraints (time limits, word limits) often improve rather than degrade communication quality by forcing ruthless prioritization.

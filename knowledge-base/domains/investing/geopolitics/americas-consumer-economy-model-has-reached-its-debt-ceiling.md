@@ -47,7 +47,7 @@ stance: >-
   structural limits.
 related:
   - INS-260324-4ACD
-  - INS-260327-DFF0
+  - INS-260327-8D5D
   - INS-260327-DFF1
   - INS-260327-1555
   - PRI-260328-6136

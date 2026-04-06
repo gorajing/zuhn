@@ -57,6 +57,13 @@ related:
   - INS-260402-9E2D
   - INS-260403-9627
   - INS-260325-36F0
+evidence:
+  - id: INS-260330-7819
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-9627
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies 'orthodox privilege' as a uniquely invisible form of bias: people whose opinions align with prevailing social norms never experience personal risk from stating them, so they genuinely cannot model the experience of someone whose true beliefs would provoke censure. This isn't dishonesty — they literally cannot conceive of a true statement that would get someone in trouble. The structural position creates a perceptual gap, not a moral failure.
 

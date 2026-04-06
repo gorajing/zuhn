@@ -55,6 +55,10 @@ related:
 stance: >-
   Tight-knit groups of early employees at breakout companies go on to found and
   lead the next generation of billion-dollar companies, creating collab...
+evidence:
+  - id: INS-260403-9A57
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The PayPal mafia is the famous example — Thiel started Palantir and Founders Fund, Musk did Tesla and SpaceX, Hoffman started LinkedIn, Levchin started Affirm — but this pattern repeats with every breakout company. Early Google employees became COOs at Facebook (Sandberg), Dropbox (Woodside), and the CEO/leadership of Stripe, Gusto, and dozens of others. Pinterest and Instagram founders came from Google.
 

@@ -45,8 +45,8 @@ related:
   - PRI-260328-F0E4
   - INS-260327-7F56
   - INS-260329-C33B
+  - INS-260405-CADE
   - PRI-260403-7E5E
-  - INS-260325-19E9
 stance: >-
   Entry-level delegation assigns tasks; advanced delegation exports your
   internal preferences and decision criteria as repeatable algorithms.

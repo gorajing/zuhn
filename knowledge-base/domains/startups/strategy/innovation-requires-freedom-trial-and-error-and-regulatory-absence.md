@@ -60,6 +60,10 @@ related:
   - INS-260403-97D6
   - INS-260403-CD68
   - INS-260405-5617
+evidence:
+  - id: INS-260403-97D6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Matt Ridley identifies four prerequisites for innovation: (1) a body of innovators around you to build on, (2) the ability to take many tries (requiring venture capital, startup-friendly environments), (3) tolerance for error and failure, and (4) feedback loops from a large customer base. Modern regulatory environments increasingly eliminate #3 — we 'don't like people making error anymore' — but by covering downside risk, we also cut off the upside.
 

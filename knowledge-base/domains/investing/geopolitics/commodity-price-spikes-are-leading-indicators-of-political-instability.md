@@ -55,6 +55,9 @@ related:
 evidence:
   - id: INS-260330-B7AB
     relationship: RELATED
+  - id: INS-260403-8BE9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The video overlays 15 years of agriculture, commodity, and grain prices against major geopolitical events. The Arab Spring (2010-2012) coincided with a commodity price spike. The Ukraine war pushed prices even higher — Russia and Ukraine together supply 28% of global wheat and 15% of global fertilizer.
 

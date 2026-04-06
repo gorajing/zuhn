@@ -59,6 +59,13 @@ related:
   - INS-260323-9AA5
   - INS-260330-141E
   - INS-260327-4367
+evidence:
+  - id: INS-260404-6442
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-3275
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Bradley Effect—named after a Black mayoral candidate who led in polls but lost the election—captures a specific failure mode in survey research: respondents misreport to avoid judgment. Graham extends this to exit polls, where the question is retrospective ('who did you just vote for?') and should be highly accurate, yet wasn't. The mechanism is non-response bias: people who refuse to answer aren't randomly distributed, so imputing their votes from demographics fails when vote choice itself correlates with willingness to disclose.
 

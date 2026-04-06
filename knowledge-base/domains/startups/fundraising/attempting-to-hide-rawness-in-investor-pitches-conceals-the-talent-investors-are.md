@@ -53,6 +53,10 @@ related:
   - INS-260403-FE3B
   - INS-260403-4337
   - INS-260404-AFE6
+evidence:
+  - id: INS-260403-7586
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Early-stage investors aren't looking for finished companies or smooth presentations — they're pattern-matching for raw talent and real insight. When founders try to appear more established than they are (corporate language, fake confidence about unknowns, pretending expertise they don't have), they obscure the very signal investors need to evaluate.
 

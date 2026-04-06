@@ -53,5 +53,8 @@ evidence:
   - id: INS-260327-85E2
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-2C57
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Microsoft built XMLHttpRequest because they needed it for Outlook's web interface — a narrow internal use case. They failed to recognize that this same capability would let anyone build web applications that felt like desktop software, ultimately undermining the entire desktop software model that was Microsoft's power base. Simultaneously, they tried to sabotage JavaScript but lost to the open source community. This pattern — incumbents creating the enabling technology for their own disruption — recurs throughout tech history. It happens because large companies evaluate new technology through the lens of their existing business, not through the lens of what new businesses it could enable. The lesson: if you're building infrastructure, the most transformative uses will likely come from people you never anticipated.

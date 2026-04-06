@@ -50,7 +50,6 @@ stance: >-
   real-time performance
 related:
   - INS-260327-8760
-  - INS-260327-6017
   - INS-260330-9471
   - INS-260330-FE49
   - INS-260330-0EF6
@@ -59,6 +58,7 @@ related:
   - INS-260330-FB34
   - INS-260330-14BD
   - INS-260330-B57C
+  - INS-260330-885C
 evidence:
   - id: INS-260327-8760
     type: SUPPORTS

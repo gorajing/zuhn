@@ -62,5 +62,8 @@ evidence:
   - id: INS-260322-3646
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-47B7
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham calculates that even in a best-case scenario—a YC company closing a round in 8 weeks after demo day—fundraising has been the company's main focus for 44% of its existence. Most rounds take 5-6 months; 6 weeks is considered fast. The process can't run as a background task—it inevitably becomes the company's primary activity, displacing product development. When founders finally return to building after closing, they've lost most of their momentum, like returning from a months-long illness. Graham argues this creates a massive market opportunity for investors who commit to fast yes-or-no decisions at lower valuations, because startups live on speed and momentum. The practical takeaway for founders: minimize fundraising time by having leverage (traction, alternatives), and when offered a reasonable deal, take it rather than optimizing for perfect terms.

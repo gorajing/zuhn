@@ -68,5 +68,8 @@ evidence:
   - id: INS-260323-7CA7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-0184
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The pervasive assumption that digital audiences can only consume short-form algorithmic content is disproven by the success of channels like MagnatesMedia and multi-hour podcasts like Lex Fridman. Audiences are eager to engage in intense cognitive labor — studying the nuances of Russian governance history or circadian biology mechanics — when two conditions are met: high production fidelity and genuine respect for the viewer's intellect. The barrier to deep learning is not fractured attention spans. It is a lack of quality in pedagogical delivery. When complex subjects are treated with the narrative weight they deserve, audiences reliably invest their time. This has direct implications for product design — depth wins when the packaging respects the audience.

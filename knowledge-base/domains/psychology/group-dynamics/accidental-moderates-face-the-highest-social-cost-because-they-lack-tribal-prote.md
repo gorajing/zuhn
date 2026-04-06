@@ -54,6 +54,10 @@ related:
   - INS-260330-3A3F
   - INS-260330-AF47
   - INS-260330-4859
+evidence:
+  - id: INS-260330-3A3F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The common framing of moderates as cowardly fence-sitters inverts reality for accidental moderates. Ideologues on either extreme enjoy the psychological comfort and social protection of belonging to a committed group. Intentional moderates may indeed be cowardly — choosing the safe middle to avoid controversy. But accidental moderates, who arrive at their positions through independent reasoning, get attacked from both directions.
 

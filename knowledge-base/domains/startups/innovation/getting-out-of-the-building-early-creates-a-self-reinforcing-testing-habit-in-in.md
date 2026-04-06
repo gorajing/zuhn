@@ -62,6 +62,13 @@ related:
   - PRI-260403-35FE
   - INS-260325-E84D
   - INS-260405-9460
+evidence:
+  - id: INS-260330-B882
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-E84D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Osterwalder observes that teams who get out of the building early to test tend to 'get hooked' — they become enthusiastic about the process because they quickly see how much they learn from even rough experiments. This is a virtuous cycle: testing produces surprising insights, surprising insights reduce fear of being wrong, reduced fear makes the next test easier to initiate. The habit compounds.
 

@@ -57,6 +57,15 @@ evidence:
   - id: INS-260323-7F22
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260327-1403
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-67D1
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-7D27
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When companies group jobs, pains, and gains from multiple customer segments (e.g., payers and end users) into one canvas, they create an averaged profile that accurately represents no one. Prioritization becomes impossible because high-priority needs for one segment get diluted by irrelevant needs from another.
 

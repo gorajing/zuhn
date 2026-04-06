@@ -55,6 +55,25 @@ related:
   - INS-260330-1002
   - INS-260323-E9E4
   - INS-260404-8750
+evidence:
+  - id: INS-260327-D0F4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-8C1C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-4904
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-1002
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-E9E4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-8750
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham's reflection on Julian Weber's seed investment in Viaweb reveals a crucial investing principle. His initial reaction — 'what a good deal Julian got' — was immediately followed by the realization that 'without Julian, Viaweb would never have made it.' Both sides got enormous value, which is precisely what made the deal work.
 

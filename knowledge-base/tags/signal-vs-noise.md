@@ -7,6 +7,6 @@
 - `INS-260404-19FE` Mention that you've thought about monetization, but don't elaborate—smart investors expect your business model to change multiple times.
 - `INS-260403-A172` Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260404-312D` Investors — supposedly experts at recognizing productive companies — are just as susceptible to mistaking professional appearance for real output.
-- `INS-260328-031A` Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.
 - `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
+- `INS-260328-031A` Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.

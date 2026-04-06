@@ -88,5 +88,11 @@ evidence:
   - id: INS-260403-3E3B
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-8402
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-1034
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 On the Putnam exam, problems 5 and 6 (positioned as hardest) quite often have the most elegant solutions available — some subtle shift in perspective transforms them from very challenging to doable. The sphere-tetrahedron problem's solution is 'surprisingly short' once you see the coin-flip reframing. This reveals something deep about the nature of difficulty: it's not about computational complexity but about the distance between your current frame and the frame that makes the answer obvious. A problem rated impossibly hard under one representation becomes trivial under another. The median Putnam score of 1-2 out of 120 isn't because the problems require superhuman computation — it's because finding the right perspective shift is rare. This has implications beyond math: in any domain, when something feels impossibly hard, the bottleneck is probably your framing, not your ability.

@@ -81,6 +81,15 @@ evidence:
   - id: INS-260329-0B76
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-03BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-4CE2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-EC93
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Oracle veteran breaks the sales cycle into two halves: motivation (getting the buyer interested and seeing potential) and enablement (making it actually happen). In SMB, motivation is easy because decision-makers are on the first call and companies move fast. But enablement is hard because they lack resources, dedicated IT teams, and implementation bandwidth.
 

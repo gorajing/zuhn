@@ -51,5 +51,15 @@ related:
   - INS-260403-4337
   - INS-260404-AFE6
   - PRI-260323-1B96
+evidence:
+  - id: INS-260403-5EB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-ED0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-AFE6
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a structural information asymmetry at early-stage pitches: most investors are non-technical, and the time is too short for deep evaluation. In this environment, 'probably the single biggest piece of evidence, initially, will be your own confidence.' This isn't about enthusiasm — it's about removing counter-evidence. Appearing nervous or apologetic signals doubt about whether the product is actually good. The mechanism is implicit: explicit claims of passion or greatness are ignored or treated as bullshitting, while composed delivery lets the product speak without contradiction. The heuristic extends beyond fundraising to any domain where the audience cannot independently verify quality — confidence fills the evidentiary vacuum.

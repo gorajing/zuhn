@@ -72,5 +72,8 @@ evidence:
   - id: INS-260327-472A
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-8BEA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Hildebrand dissects how greenwashing operates: vague terms ('eco-friendly,' 'natural,' 'sustainable') have no legal definition and no verification requirement. Companies use green packaging, nature imagery, and feel-good copy to charge premium prices for products with minimal environmental benefit. Examples: 'biodegradable' products that only degrade in industrial composting facilities that don't exist in most cities, 'recyclable' products made of mixed materials that recycling facilities reject, and 'plant-based' cleaners that contain the same synthetic chemicals as conventional ones plus a plant extract. The psychological mechanism: purchasing a 'green' product satisfies the consumer's need to feel responsible without requiring any actual behavioral change — it converts virtue into a transaction.

@@ -61,6 +61,40 @@ related:
   - INS-260405-A9B2
   - INS-260404-007B
   - INS-260404-41AA
+evidence:
+  - id: INS-260327-7EFD
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-EA23
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-323A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-6BD9
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-0435
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-8D5F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-8B1C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-A9B2
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-007B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-41AA
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-3C7A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Costco's warehouse layout — no decorations, forklift-loaded shelves, deliberately confusing navigation — should rationally frustrate shoppers. Instead, customers interpret the experience as treasure-hunting, feeling rewarded when they discover deals. This parallels IKEA's do-it-yourself model where customers feel pride in assembly rather than resentment at the lack of service.
 

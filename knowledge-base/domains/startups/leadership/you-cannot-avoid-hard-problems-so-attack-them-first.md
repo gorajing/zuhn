@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-1E5E
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-D7CC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Schroepfer learned this at Facebook: when they couldn't get data center space due to the 2008 financial crisis, there was no workaround—they had to build their own. Most things a startup does come from pure necessity, not grand strategy. The lesson: there's no getting away from the hard problems, so get to them immediately.
 

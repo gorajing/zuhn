@@ -71,6 +71,12 @@ evidence:
   - id: INS-260330-240A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-4634
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-2F1E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Recent dating places the emergence of life on Earth at 4.2 billion years ago, just 200 million years after oceans formed at 4.4 billion years ago. Kipping argues this rapid start is genuinely significant: even accounting for the anthropic argument that complex life needs roughly 4 billion years to evolve (forcing an early start), 200 million years is so short it overwhelms that reasoning.
 

@@ -53,6 +53,13 @@ related:
   - INS-260326-CA8C
   - INS-260330-4D9D
   - INS-260327-70DF
+evidence:
+  - id: INS-260330-4D9D
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-70DF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Paul Graham observed that Hacker News community quality correlated more with behavioral expectations than user count. When people are expected to behave well, they tend to — and vice versa. This means the broken windows theory applies directly: minor bad behavior left unchecked encourages worse behavior, while enforcing norms gently repels bad actors without explicit barriers.
 

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260405-945B
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260405-B32E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The cultural narrative of 'follow your passion' implies passion is a pre-existing signal pointing toward the right career. Hormozi's trajectory — from fitness passion to business operations to a $46M exit in a field he didn't initially love — demonstrates the opposite: competence generates passion. As you develop proficiency, the positive feedback loops of mastery create genuine enjoyment.
 

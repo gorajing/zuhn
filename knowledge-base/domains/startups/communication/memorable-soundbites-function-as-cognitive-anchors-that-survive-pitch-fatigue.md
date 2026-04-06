@@ -47,9 +47,16 @@ related:
   - INS-260403-2FE1
   - INS-260404-D242
   - INS-260403-BDBE
-  - INS-260403-0AF4
   - INS-260403-F171
+  - INS-260403-81CE
   - INS-260405-3E57
+evidence:
+  - id: INS-260403-F171
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-D242
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Professional investors hear enough pitches that they all blur together. The first cut for getting funded is simply being remembered, and the mechanism is a sticky descriptive phrase launched early in the presentation—apparently casually but deliberately crafted.
 

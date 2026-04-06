@@ -56,6 +56,31 @@ related:
   - INS-260403-2F22
   - INS-260404-405A
   - INS-260404-103B
+evidence:
+  - id: INS-260327-5688
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-7AB5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-13D2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-24F0
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260405-8BEA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-2F22
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-103B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-2AFB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham draws a sharp line between showing and telling confidence. Explicitly stating passion or product quality is not just ineffective—it's actively counterproductive, causing audiences to write you off. The confidence signal must be structural: embedded in how you present, what you emphasize, and the frame you put around your work.
 

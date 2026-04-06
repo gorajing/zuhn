@@ -1,6 +1,6 @@
 # Topic: biohacking
 
-> 120 insights
+> 119 insights
 
 - `INS-260330-B173` [high] Running up stairs for 20 seconds, 2-3 times daily across a workday, significantly improves VO2 max and blood glucose control.
 - `INS-260326-BF32` [high] Evolution optimized for stability under disruption, not peak performance — pushing one parameter to its optimum can crash the stability system that keeps everything else running.
@@ -65,7 +65,6 @@
 - `INS-260325-BF44` [high] Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260327-0105` [high] Upper cross syndrome from screen use is correctable within minutes through specific muscle activation patterns
 - `INS-260326-786D` [high] Taleb's via negativa principle argues that removing the unnatural (smoking, processed food, sedentary behavior) is categorically safer than adding interventions, because additions carry multiplicative hidden risks in complex systems.
-- `INS-260327-E6FE` [medium] Addiction recovery requires dopamine receptor upregulation through extended abstinence and nutrient support
 - `INS-260327-F384` [medium] Animal-based nutrition supports elite surfing performance through sustained energy without crashes
 - `INS-260327-56D0` [medium] Apple cider vinegar before meals improves insulin sensitivity and digestion
 - `INS-260327-7C0A` [medium] Candida overgrowth can be rapidly reduced with oregano oil caprylic acid and biofilm-disrupting enzymes

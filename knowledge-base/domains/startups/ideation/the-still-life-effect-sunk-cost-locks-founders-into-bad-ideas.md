@@ -47,7 +47,6 @@ stance: >-
 related:
   - INS-260327-8C58
   - INS-260327-6F11
-  - INS-260327-6F12
   - INS-260329-B0BA
   - INS-260330-2E58
   - INS-260330-CD7A
@@ -55,10 +54,32 @@ related:
   - INS-260402-8ACF
   - INS-260403-AAE4
   - INS-260403-472E
+  - INS-260404-9823
 evidence:
   - id: INS-260404-4E6D
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-CD7A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-8ACF
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-AAE4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-BB34
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-8C58
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-472E
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-200B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies what he calls the 'still life effect'—you pick the first idea that comes to mind, plunge in, and at each milestone (a day, a week, a month) feel you've invested too much to pivot. This mirrors the sunk cost fallacy but operates at the identity level: the idea becomes woven into your thinking, making it harder to discard than something with a single attachment point like a company name.
 

@@ -69,6 +69,12 @@ evidence:
   - id: INS-260330-F82A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-2DC4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-B6E8
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and O2 was scarce. It was mediocre at carbon fixation but better than nothing, so early organisms went all-in — building their entire metabolic infrastructure around it. When oxygen levels rose (ironically, because of photosynthesis itself), RuBisCo started confusing O2 for CO2 roughly half the time, producing toxic byproducts that plants must actively neutralize.
 

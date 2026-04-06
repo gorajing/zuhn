@@ -55,6 +55,10 @@ related:
   - PRI-260403-0ABD
   - INS-260323-1CA4
   - PRI-260328-E921
+evidence:
+  - id: INS-260403-9542
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Naval redefines selling beyond face-to-face persuasion to include writing, PR, recruiting, fundraising, and inspiring people. This broader definition matters because many technically-minded founders dismiss sales as outside their capability when they're actually already doing forms of it.
 

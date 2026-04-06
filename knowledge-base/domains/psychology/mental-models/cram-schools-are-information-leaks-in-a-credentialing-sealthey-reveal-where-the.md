@@ -56,6 +56,10 @@ related:
   - INS-260330-90C3
   - INS-260321-1A0B
   - INS-260403-62AF
+evidence:
+  - id: INS-260321-1A0B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham frames credentials as a 'seal' preventing direct transmission of power between generations, and cram schools as leaks in that seal where wealth converts into credentials. This is a broadly applicable mental model: any gatekeeping system will develop parasitic industries that exploit its weaknesses, and those industries serve as diagnostic tools showing you where the system is most vulnerable.
 

@@ -52,5 +52,17 @@ related:
 evidence:
   - id: INS-260329-3D3E
     relationship: RELATED
+  - id: INS-260330-A3B7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-0803
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-3DF3
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-88AF
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 The article identifies a subtle but devastating trap: choosing hypotheses that cannot be proven wrong, or interpreting ambiguous data as validation because you want it to be true. This is confirmation bias applied to entrepreneurship, and it is particularly dangerous because the stakes are existential. The antidote is a falsification protocol: before running any experiment, explicitly define what result would invalidate your hypothesis. Write it down. Share it with your team. This pre-commitment device prevents post-hoc rationalization. It also forces clarity about what you are actually testing, which often reveals that the experiment needs redesign before it even runs.

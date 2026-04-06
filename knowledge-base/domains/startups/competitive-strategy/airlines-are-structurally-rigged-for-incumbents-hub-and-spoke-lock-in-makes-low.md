@@ -52,5 +52,9 @@ related:
 stance: >-
   Low-cost carriers (Southwest, JetBlue, Spirit) outperformed legacy airlines
   for a decade, but legacy carriers reclaimed dominance because hub-and-s...
+evidence:
+  - id: INS-260403-8E25
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Airlines are capital-intensive with 30% of revenue going to fuel and heavily unionized labor. The Justice Department caps any airline at ~18% market share. Low-cost carriers outperformed in the 2010s with cheaper fares and better amenities, trading at higher multiples. But legacy carriers (Delta, United) reclaimed dominance because hub-and-spoke networks create compounding advantages: centralized maintenance, flexible plane swapping, higher load factors through passenger consolidation, and decades of airport gate control. Low-cost carriers are now panicking, claiming the industry is rigged. The structural moat isn't brand or product — it's physical infrastructure control built over 50+ years.

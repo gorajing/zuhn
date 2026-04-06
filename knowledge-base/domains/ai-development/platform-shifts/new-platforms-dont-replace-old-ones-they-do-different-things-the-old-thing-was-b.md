@@ -55,7 +55,7 @@ related:
   - INS-260322-ABA0
   - INS-260322-5E5D
   - INS-260328-9408
-  - INS-260329-0320
+  - INS-260329-8F98
   - INS-260330-7BAE
 stance: >-
   Each platform shift (PCs, web, mobile) succeeded not by doing the previous
@@ -85,6 +85,12 @@ evidence:
   - id: INS-260405-34D7
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-1D43
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-E59C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Evans articulates a fundamental pattern of platform shifts: the Apple II couldn't run banks, Netscape couldn't do professional video editing, mobile couldn't replace a 5-screen programming rig — but 5 billion people got smartphones while only 800 million had consumer PCs. Each new platform was terrible at what the old thing excelled at, but unlocked entirely new behaviors.
 

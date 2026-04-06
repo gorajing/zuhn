@@ -52,6 +52,16 @@ related:
   - INS-260327-9BA2
   - INS-260403-D7C4
   - PRI-260403-0ABD
+evidence:
+  - id: INS-260403-19D8
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-9BA2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-D7C4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a fundamental structural problem: the startup pitching environment systematically pairs technical founders who lack presentation experience with investors who lack technical depth. This isn't a failure of either side — it's an emergent property of the system. Even Google was turned down by investors who 'didn't get it.'
 

@@ -58,6 +58,28 @@ related:
   - INS-260403-3D7D
   - INS-260403-2C1A
   - INS-260404-52FC
+evidence:
+  - id: INS-260330-E5DC
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-4441
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-3D7D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-D304
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-02EE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-52FC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-7E85
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 RuBisCo was perfectly adapted to early Earth's CO2-rich, oxygen-poor atmosphere. But photosynthesis was so successful that it flooded the atmosphere with oxygen — its own waste product. Now RuBisCo grabs oxygen instead of CO2 roughly half the time, producing toxic phosphoglycolate that plants must spend energy to neutralize. The winning strategy literally created the conditions for its own degradation.
 

@@ -62,6 +62,9 @@ evidence:
   - id: INS-260403-8256
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-E59C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The trajectory from punch cards to terminal editors to GUI editors points toward cloud-based development as the next paradigm shift. Tools like vscode.dev (browser-based VS Code), GitHub Codespaces (cloud hardware), and StackBlitz (WebAssembly-powered full-stack in browser) represent early signals of this transition.
 

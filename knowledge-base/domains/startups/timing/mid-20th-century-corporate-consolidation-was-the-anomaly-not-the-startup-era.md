@@ -54,6 +54,16 @@ related:
   - INS-260325-7FE6
   - INS-260403-458A
   - INS-260405-4CDA
+evidence:
+  - id: INS-260330-8F72
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-8002
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260325-7FE6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham shows that in 1892, only 20% of American millionaires inherited their wealth — less than today. The 1982 Forbes 400, dominated by heirs and real estate/oil deals, was the product of a specific historical phase where J.P. Morgan-era financiers consolidated thousands of companies into oligopolies, making it nearly impossible to start new ones.
 

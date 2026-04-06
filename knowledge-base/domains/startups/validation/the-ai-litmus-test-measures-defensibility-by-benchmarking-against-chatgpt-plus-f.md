@@ -54,6 +54,10 @@ related:
   - INS-260330-E39E
   - INS-260327-E0B0
   - INS-260404-8A02
+evidence:
+  - id: INS-260327-E0B0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 NFX explicitly encourages founders to ask: 'How long would it take for a user to do the same task as your core product, with ChatGPT+?' This is a powerful validation heuristic because it forces founders to articulate what their product does that a general-purpose model cannot. If the answer is 'about the same time,' the startup has no moat.
 

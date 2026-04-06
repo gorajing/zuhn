@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-8329
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-D3F6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 For domain experts, AI inverts the time allocation between creation and review. Previously, 90% of an expert's time went to generating deliverables (writing briefs, drafting contracts, creating analyses). With AI, generation becomes near-instant, and the expert's value shifts to quality assurance — validating accuracy, making judgment calls on edge cases, and applying contextual knowledge the AI lacks.
 

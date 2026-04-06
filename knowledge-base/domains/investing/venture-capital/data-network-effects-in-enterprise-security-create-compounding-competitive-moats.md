@@ -67,6 +67,12 @@ evidence:
   - id: INS-260321-801C
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-7FFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-4081
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 NFX specifically calls out data network effects as central to Veriti's competitive advantage. Every time Veriti stops an attack or integrates a new product, the system learns and improves. This is a classic data network effect — the product gets better with usage, which attracts more users, which generates more data, creating a flywheel.
 

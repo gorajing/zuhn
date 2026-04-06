@@ -64,6 +64,9 @@ evidence:
   - id: INS-260403-87AC
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-3518
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Physicians Choice spends $70M/year on advertising in 2026, including $3-4M/month on Amazon ads alone. Their first year, they did $3M revenue and lost $1M. The philosophy: every dollar of profit not reinvested is a dollar a competitor could use to catch up. Most brands hit a revenue milestone and start extracting profits, buying luxuries, getting comfortable — and that is exactly when they become vulnerable.
 

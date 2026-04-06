@@ -50,6 +50,10 @@ related:
   - INS-260330-F08F
   - INS-260403-876D
   - INS-260325-502D
+evidence:
+  - id: INS-260330-80AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Frederick Brooks observed that programmer productivity decreases as team size grows due to communication overhead. Paul Graham reframes this: small teams using bottom-up design don't just lose less to coordination costs — they gain a compounding advantage because each abstraction they build reduces the remaining problem size.
 

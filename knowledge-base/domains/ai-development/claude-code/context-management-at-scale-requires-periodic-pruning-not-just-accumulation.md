@@ -58,6 +58,9 @@ evidence:
   - id: INS-260329-CC79
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-D16C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The core insight is that more context is not always better context. A ball pit with 100 balls where you're looking for one pink one becomes easier to search when you remove half the blue ones. AutoDream's pruning eliminates unnecessary details so that important information surfaces more readily.
 

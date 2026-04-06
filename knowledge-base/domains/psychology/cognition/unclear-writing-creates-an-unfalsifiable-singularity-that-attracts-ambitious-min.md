@@ -63,5 +63,11 @@ evidence:
   - id: INS-260322-5B1B
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-864F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-8C20
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham describes a 'singularity' in intellectual culture: writing that sounds impressive and can't be disproven creates its own market. Inexperienced but ambitious students can't distinguish genuine difficulty (like a math proof that's hard because the ideas are hard) from artificial difficulty (writing that's hard because the author was unclear). The trap is self-perpetuating because critical people who suspect it's nonsense simply study other things rather than denouncing it, removing exactly the people who could correct the field's flaws. This dynamic applies beyond philosophy — it appears in management consulting frameworks, corporate strategy jargon, literary theory, and any domain where sounding sophisticated is rewarded and falsification is difficult. The antidote is Graham's usefulness test: does understanding this cause anyone to do anything differently?

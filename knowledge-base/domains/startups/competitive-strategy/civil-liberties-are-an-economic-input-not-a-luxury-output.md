@@ -59,6 +59,9 @@ evidence:
   - id: INS-260325-C5AA
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260323-E1B6
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham proposes a causal chain: authoritarian countries become corrupt, corrupt countries become poor, poor countries become weak. The mechanism is selection pressure — in a society where people can say and do what they want, ideas compete on merit. In an authoritarian society, ideas compete on political sponsorship. Over time, merit-based selection compounds into massive economic advantage.
 

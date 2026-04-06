@@ -59,6 +59,9 @@ evidence:
   - id: INS-260403-E185
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260322-3646
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham notes that public acquirers are 'like property management companies run by madmen' — sometimes overpaying enormously, sometimes completely uninterested. Over a five-year window, you're likely to hit a favorable cycle. But you can only wait if your company is self-sustaining through its own revenues.
 

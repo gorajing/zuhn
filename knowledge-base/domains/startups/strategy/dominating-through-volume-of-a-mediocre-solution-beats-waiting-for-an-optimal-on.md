@@ -50,15 +50,15 @@ stance: >-
   scarce alternative, locking in suboptimal architecture permanently
 related:
   - INS-260330-0E1E
+  - INS-260330-43CA
   - INS-260330-7B11
+  - INS-260330-8B93
   - INS-260403-9442
-  - INS-260403-EDA2
   - INS-260403-3E1C
   - INS-260403-F68A
   - INS-260404-B04F
   - INS-260404-3B9D
   - INS-260404-1000
-  - INS-260404-26AE
 evidence:
   - id: INS-260403-EDA2
     type: REFINES
@@ -66,6 +66,9 @@ evidence:
   - id: INS-260404-3B9D
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260404-B04F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, is famously inefficient — it confuses oxygen for CO2 roughly half the time, producing a toxic byproduct plants must actively detoxify. Yet it became the foundation of nearly all life on Earth because the organisms that evolved it simply produced massive quantities to compensate for its poor performance.
 

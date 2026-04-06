@@ -58,6 +58,15 @@ evidence:
   - id: INS-260402-9676
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260330-FAB4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-80AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-E660
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham uses a thought experiment: if a language blocked your preferred expression but forced you into something shorter, it wouldn't feel restrictive — it would feel like a shortcut. The frustration of restrictiveness comes specifically from forced detours that make programs longer than the version in your head.
 

@@ -72,6 +72,9 @@ evidence:
   - id: INS-260403-6935
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260403-4431
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Most people who struggle with consistency misdiagnose the problem as lacking passion when the real bottleneck is frustration tolerance. Every worthwhile pursuit includes prolonged stretches of boring, painful, unrewarding work. The people who succeed aren't the ones who found work they love every day — they're the ones who learned to keep working through the periods they hated.
 

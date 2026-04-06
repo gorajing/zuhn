@@ -63,6 +63,15 @@ evidence:
   - id: INS-260329-6D6C
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260329-41BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-CE2F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-3A04
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Costco earns ~75% of its profit from membership fees, not product markups. This creates a fundamentally different incentive structure: raising prices or degrading quality costs the company $60–$120 per churned member next year, not just a few cents today. The business is only viable if customers renew, so every operational decision is filtered through 'will this impress members enough to renew?'
 

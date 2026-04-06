@@ -60,6 +60,15 @@ evidence:
   - id: INS-260329-B408
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-BB4A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-EDA2
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-DBD2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham makes a strong empirical claim: you can graduate with a CS degree from a top university and still not be good at programming. Tech companies know this, which is why they require coding tests regardless of academic credentials. The mechanism is motivation and context — when you're writing a game and need to figure something out, you learn faster because the problem is real and personally meaningful.
 

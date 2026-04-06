@@ -53,6 +53,19 @@ related:
   - INS-260320-DADA
   - INS-260327-679A
   - INS-260327-FEB7
+evidence:
+  - id: INS-260403-6BF7
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-71A7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260320-DADA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-679A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 A Duke University study flashed either the Apple or IBM logo to participants too quickly for conscious recognition. Those primed with the Apple logo subsequently performed better on creative tasks. The mechanism is identity priming — Apple's persistent 'creative, hip' narrative had been internalized deeply enough to activate without conscious brand engagement.
 

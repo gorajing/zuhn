@@ -55,6 +55,10 @@ related:
   - INS-260403-941F
   - INS-260403-3EFB
   - INS-260403-87CD
+evidence:
+  - id: INS-260403-941F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham recommends launching a descriptive phrase early in your pitch that sticks in investors' heads—patterns like 'the X of Y' (Viaweb was 'the Microsoft Word of ecommerce'). Professional investors hear so many pitches that they blur together; the first cut is simply being remembered.
 

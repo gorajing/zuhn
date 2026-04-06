@@ -50,6 +50,7 @@ stance: >-
   consumption that would never happen at all if consumers could only spend
   existing savings.
 related:
+  - INS-260322-3010
   - INS-260324-6FC7
   - INS-260325-B8CB
   - INS-260321-AA91
@@ -59,7 +60,6 @@ related:
   - PRI-260328-FD90
   - PRI-260328-386C
   - INS-260327-3377
-  - INS-260329-BF51
 evidence:
   - id: INS-260324-6FC7
     type: EXTENDS

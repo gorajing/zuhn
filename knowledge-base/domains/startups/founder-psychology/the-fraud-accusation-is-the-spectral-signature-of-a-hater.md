@@ -59,6 +59,21 @@ evidence:
   - id: INS-260403-15DA
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-A8E8
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-A14D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-D99D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-5A93
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-915E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham identifies 'fraud' as the telltale word that distinguishes a hater from an ordinary critic. The logic is structural: a hater can't deny the target's fame (it's what triggers them), and they're convinced the target has no talent, so the only reconciliation is deception — the target must have tricked everyone. This makes 'fraud' accusations a reliable signal for filtering criticism.
 

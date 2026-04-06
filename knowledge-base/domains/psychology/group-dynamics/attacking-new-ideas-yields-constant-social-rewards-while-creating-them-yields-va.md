@@ -57,6 +57,10 @@ related:
   - PRI-260323-27D6
   - INS-260402-8ACF
   - INS-260403-FE91
+evidence:
+  - id: INS-260403-74E5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 There is a deep asymmetry in how society rewards creators versus critics of new ideas. Working on new ideas has expected-value payoffs weighted by outcome magnitude — worth pursuing at 10% probability if the upside exceeds 10x. But attacking new ideas yields roughly constant social rewards: the attacker appears equally clever regardless of whether the target idea was genuinely bad or a future paradigm shift. This means criticism is the risk-free trade.
 

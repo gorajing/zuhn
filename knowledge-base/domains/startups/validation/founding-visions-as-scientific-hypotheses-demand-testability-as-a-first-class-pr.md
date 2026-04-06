@@ -57,6 +57,10 @@ related:
   - PRI-260328-04FA
   - PRI-260323-1B96
   - INS-260404-9376
+evidence:
+  - id: INS-260403-45D5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The Rashmi Sinha analogy — founding vision as scientific hypothesis — isn't just motivational framing. It imports a specific epistemic discipline: hypotheses must be falsifiable. A vision that can't be broken into testable claims isn't bold, it's unfalsifiable, and unfalsifiable beliefs are the most dangerous thing a founder can carry.
 

@@ -77,6 +77,15 @@ evidence:
   - id: INS-260327-1421
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-BA62
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-787F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-B5EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The stock market settlement system evolved from T+5 (5 days to settle) in the 1970s to T+1 today, but the fundamental absurdity remains: when you buy a stock, you appear to own it instantly, but actual settlement takes a full day. During that gap, brokers must post collateral to cover price changes, which is what triggered Robinhood's trading restrictions during GameStop — not collusion with hedge funds.
 

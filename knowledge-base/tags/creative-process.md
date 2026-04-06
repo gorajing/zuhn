@@ -11,5 +11,4 @@
 - `INS-260404-6BBB` Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 - `INS-260402-A94F` Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
-- `INS-260402-2074` Expect to discard 70-75% of initial output as the normal cost of producing quality work.
 - `INS-260321-6D01` Puth's best work follows a two-phase pattern: solo marination where the song develops in his head, then collaboration where others refine and constrain his tendencies.

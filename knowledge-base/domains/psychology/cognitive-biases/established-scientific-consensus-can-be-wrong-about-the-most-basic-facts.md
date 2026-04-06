@@ -58,6 +58,10 @@ related:
   - INS-260323-12F2
   - INS-260404-80AC
   - INS-260330-466E
+evidence:
+  - id: INS-260404-80AC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Kaku points out that every single physics textbook on Earth contains a fundamental error: they state the universe is mainly made of atoms. In reality, ordinary matter (hydrogen, helium stars) makes up only 4% of the universe, with higher elements like those composing humans at just 0.03%. The remaining 96% is dark energy (73%) and dark matter (23%) — substances we can detect but cannot explain.
 

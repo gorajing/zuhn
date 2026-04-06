@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-C6DC
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-A115
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In China, owning an apartment is widely considered a prerequisite for a man to be marriage-eligible. Families pool resources across generations to purchase property for sons, not as investment analysis but as social necessity. This creates a demand floor that is almost entirely disconnected from price-to-rent ratios, vacancy rates, or any other financial fundamental.
 

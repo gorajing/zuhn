@@ -57,6 +57,10 @@ related:
   - INS-260402-8424
   - INS-260328-195E
   - INS-260403-8448
+evidence:
+  - id: INS-260403-D98E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The pharmaceutical industry is undergoing a structural shift where large companies' internal research has failed to deliver blockbuster drugs, leading them to outsource innovation by acquiring promising startups at later stages. While this creates acquisition opportunities for startups, it also means the expensive, risky early-stage R&D now falls on smaller companies with far fewer resources.
 

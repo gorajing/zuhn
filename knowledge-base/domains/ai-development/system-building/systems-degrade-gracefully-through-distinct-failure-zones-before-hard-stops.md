@@ -74,6 +74,9 @@ evidence:
   - id: INS-260330-D88C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260328-EA3A
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Minecraft does not simply crash at its boundary. It passes through distinct failure zones: the Farlands (buggy walking, 12.5M), the Fartherlands (stretched terrain, lighting failures, 1B), the Farther Lands (blocks as void, 53 quadrillion), the Farthest Lands (code can no longer process, 9.2 quintillion), and finally infinity (1.8e308). Each zone has its own characteristic failure signature.
 

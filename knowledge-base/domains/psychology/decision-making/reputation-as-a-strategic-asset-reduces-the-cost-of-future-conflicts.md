@@ -48,6 +48,7 @@ stance: >-
   creates compounding returns by causing future opponents to capitulate without
   fighting.
 related:
+  - INS-260323-3CD0
   - INS-260325-4EE9
   - INS-260327-4A64
   - INS-260327-048C

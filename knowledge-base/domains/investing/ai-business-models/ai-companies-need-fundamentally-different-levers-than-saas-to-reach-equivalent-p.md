@@ -58,6 +58,16 @@ resolutions:
 stance: >-
   AI businesses can match SaaS profitability only through larger TAM or higher
   revenue per customer, not through margin improvement alone
+evidence:
+  - id: INS-260403-B508
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-0218
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-678B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 While SaaS businesses benefit from high gross margins (often 70-80%+) and recurring revenue, AI companies face persistent cost pressures from compute, inference, and model maintenance. This means AI companies cannot simply replicate the SaaS playbook — they must compensate through accessing larger total addressable markets, commanding higher revenue per customer, or achieving unprecedented scale.
 

@@ -70,6 +70,27 @@ evidence:
   - id: INS-260320-F78E
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260325-ADF5
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260325-854D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-41A9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260328-FFC3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260328-8B2C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-7E58
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-1FA1
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham makes a pointed observation about the corporate ladder's internal logic: promotions served as rewards, not as role assignments. This conflated two different questions — 'who deserves to be recognized?' and 'who is suited for this responsibility?' The result was a systematic pipeline of skilled individual contributors becoming mediocre or damaging managers.
 

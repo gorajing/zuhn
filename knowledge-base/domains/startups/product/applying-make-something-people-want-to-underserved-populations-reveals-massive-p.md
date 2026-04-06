@@ -58,6 +58,10 @@ related:
   - INS-260325-040F
   - PRI-260328-0BE1
   - INS-260325-B868
+evidence:
+  - id: INS-260325-040F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Traditional nonprofits and aid organizations typically skip user research for low-income beneficiaries — they assume poverty means any help is good enough and don't A/B test or iterate on their offerings. New Story applied YC's 'make something people want' mantra to housing for families in extreme poverty, incorporating feedback on home design, community layout, payment structures, and financing.
 

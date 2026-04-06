@@ -53,6 +53,16 @@ related:
   - INS-260327-8D5D
   - INS-260403-7C71
   - INS-260330-341D
+evidence:
+  - id: INS-260327-8D5D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-7C71
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-341D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 In 1982, zero fund managers appeared in the Forbes 100 richest despite hedge funds and PE firms already existing. Graham identifies two necessary conditions that had to align: fund managers needed to discover new ways to generate high returns, and the 1978 Labor Department rule change had to allow pension funds to invest in these vehicles, providing the scale of capital needed.
 

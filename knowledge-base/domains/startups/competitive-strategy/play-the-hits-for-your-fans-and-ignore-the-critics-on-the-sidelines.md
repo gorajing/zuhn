@@ -67,6 +67,9 @@ evidence:
   - id: INS-260403-15DA
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-BCD8
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Otwell uses a brilliant music analogy: if Metallica starts catering to Taylor Swift fans, they lose their core fans. If Swift changes her sound, she loses hers. The same applies to software products. Sideline critics who shout suggestions will always dangle another carrot—'oh thanks for that, but I also don't like this'—and never actually become users.
 

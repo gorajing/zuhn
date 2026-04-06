@@ -53,6 +53,16 @@ related:
   - INS-260330-3B05
   - INS-260402-8223
   - INS-260403-4DFB
+evidence:
+  - id: INS-260403-4DFB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-810D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-7E2A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Naval argues that specific knowledge often lives at the edge of what's known — areas being actively figured out where no established curriculum exists. In these frontier zones, the difference between someone who is genuinely fascinated and someone following market signals becomes decisive. The curious person puts in more hours, thinks about problems in the shower, and develops pattern-matching intuition that the mercenary never will.
 

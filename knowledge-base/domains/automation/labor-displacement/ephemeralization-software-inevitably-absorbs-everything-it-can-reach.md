@@ -69,6 +69,12 @@ evidence:
   - id: INS-260329-057F
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260327-B403
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-AC5E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Graham invokes Buckminster Fuller's 1938 concept of ephemeralization to explain why tablets would 'take over the world': it's not industrial design genius, it's that tablets open a channel for a deep structural force. Whenever general-purpose computing reaches a new domain, special-purpose physical objects in that domain get dissolved into software. The advantages of software (updatability, zero marginal cost, composability) are so overwhelming that the migration is essentially inevitable once the platform is capable enough.
 

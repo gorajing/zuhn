@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-F9CA
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-1D6E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 In 1998, Viaweb paid a PR firm $16,000 per month because getting mentioned in magazines and newspapers was the primary way to acquire users. There were no effective ways to get found online — their own SEO advice listed seven search engines that mattered, none of which was Google (incorporated that same September).
 

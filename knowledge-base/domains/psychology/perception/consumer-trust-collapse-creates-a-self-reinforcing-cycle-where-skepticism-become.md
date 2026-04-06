@@ -61,6 +61,12 @@ evidence:
   - id: INS-260323-40AA
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-187C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-103B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest products unable to differentiate themselves from scams.
 

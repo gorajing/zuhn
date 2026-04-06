@@ -62,6 +62,9 @@ evidence:
   - id: INS-260329-1435
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260329-3848
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When asked about his source of strength for persevering through seemingly impossible engineering challenges, Musk rejected the framing entirely: 'I don't need a source of strength. Quitting is not in my nature.' This reveals a fundamentally different approach to persistence than the typical advice of finding motivation or inspiration.
 

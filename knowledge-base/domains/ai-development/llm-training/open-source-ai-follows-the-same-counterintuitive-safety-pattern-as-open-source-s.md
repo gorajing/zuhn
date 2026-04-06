@@ -66,6 +66,12 @@ evidence:
   - id: INS-260403-2152
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260322-D58A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260405-3066
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The initial fear with open source software was that exposing the code would let attackers exploit holes. The opposite happened: more scrutiny meant faster discovery and patching. Zuckerberg argues the same dynamic applies to AI models. Llama's open releases get scrutiny, feedback loops identify issues, and new versions (3.0, 3.1, 3.2) roll out fixes to everyone.
 

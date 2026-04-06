@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-420B
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-9FA5
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 One of the most widely accepted theories for the Indus Valley Civilization's decline around 1750 BCE is that the Indus River simply changed course — a single hydrological event that undermined the agricultural surplus supporting millions of people across hundreds of cities. No amount of standardized bricks or sophisticated drainage could compensate for losing the water source everything depended on.
 

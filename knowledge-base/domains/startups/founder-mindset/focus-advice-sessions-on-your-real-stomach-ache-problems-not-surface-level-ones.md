@@ -50,5 +50,9 @@ related:
   - INS-260327-89C7
   - INS-260403-AA0B
   - INS-260323-4082
+evidence:
+  - id: INS-260403-AA0B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Michael's prep framework for advice sessions: identify the top three real problems in your business — not pop problems, fake problems, or things you read about on Twitter. The 'stomach ache' test is the filter: if it doesn't make you uncomfortable, it's probably not your real problem. One of the top-three stomach-ache problems is often 'we're not having fun' or 'we have low morale' — and that's a totally valid agenda item to bring up explicitly. The anti-pattern is the founder who comes in with a detailed agenda about renaming the company while the business has been 'shot in eight places' — they're discussing a sprained ankle while bleeding out. An adviser's job is to detect when someone is dancing around the core topic and redirect.

@@ -65,6 +65,9 @@ evidence:
   - id: INS-260325-D037
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-1547
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Napoleon's entire Russian campaign rested on one assumption: that capturing Moscow would force Alexander to negotiate. Every previous opponent — Austria, Prussia, the Italian states — had capitulated after losing their capital. Napoleon extrapolated from this pattern. But Alexander's resolve was shaped by different factors: vast strategic depth, a population willing to sacrifice their own cities, and advisors who understood that time and distance were Russia's greatest weapons.
 

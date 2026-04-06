@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-70DF
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-8F5E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Stoute illustrates this with his entry into the beauty business through Carol's Daughter (later sold to L'Oreal). He knew nothing about beauty as an industry, but he identified a problem he could solve. The fearless move was entering the space despite not understanding all its elements, embracing ignorance rather than being paralyzed by it.
 

@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-383F
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-D976
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Wufoo added an 'emotional state' dropdown to their support form, expecting no one would use it. Instead, it was filled out 75.8% of the time — nearly matching the browser type field at 78.1%. Users were saying: how I feel about this problem is as important as the technical details.
 

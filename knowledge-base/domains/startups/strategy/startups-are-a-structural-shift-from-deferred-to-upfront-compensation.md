@@ -58,6 +58,10 @@ related:
   - INS-260326-6B98
   - INS-260403-214B
   - INS-260403-776C
+evidence:
+  - id: INS-260326-6B98
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham's key insight is that the corporate ladder wasn't just a career path — it was a deferred compensation system. Employees did work early in their careers with the implicit promise of high-paying executive jobs later. Startups collapse that timeline: founders take the risk now and capture the reward now, rather than deferring both to an employer.
 

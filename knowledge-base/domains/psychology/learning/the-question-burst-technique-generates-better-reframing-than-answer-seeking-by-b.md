@@ -64,6 +64,12 @@ evidence:
   - id: INS-260403-699B
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-6BBB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-8C36
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Gregersen's 'question burst' technique has two strict rules: no answering questions, and no explaining why you're asking them. These constraints are the mechanism, not a limitation. When people are freed from the obligation to justify or resolve their questions, they bypass the cognitive shortcut of anchoring on familiar solutions.
 

@@ -56,6 +56,10 @@ related:
   - INS-260403-7E27
   - INS-260330-A86C
   - INS-260321-3521
+evidence:
+  - id: INS-260322-06EA
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Paul Graham describes pre-YC seed funding as 'very haphazard' — founders got money from a friend's rich uncle with deal terms that were 'often a disaster.' Neither investors, founders, nor lawyers knew what documents should look like, as evidenced by Facebook's early history as a Florida LLC.
 

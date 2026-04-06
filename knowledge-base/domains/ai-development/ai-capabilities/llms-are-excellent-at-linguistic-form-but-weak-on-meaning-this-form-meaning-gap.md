@@ -86,6 +86,9 @@ evidence:
   - id: INS-260403-617C
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-4C73
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Gibson identifies two components of language structure: form (syntax, word order, morphology) and meaning (what words and combinations refer to in the world). He states bluntly that LLMs are 'damn good at form' — and that's why they're impressive. But 'meaning's hard.' He sees a potentially large gap between mastering form and understanding meaning, though he acknowledges it's an open question how close the two actually are.
 

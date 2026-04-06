@@ -57,6 +57,10 @@ related:
   - INS-260403-ABBB
   - INS-260403-535C
   - INS-260327-E2BC
+evidence:
+  - id: INS-260322-C472
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 NFX identifies a specific pattern: GRC workflows already cost $47 billion in software spend, yet the actual work still happens in docs and spreadsheets. This gap between spending and actual workflow modernization represents the highest-leverage AI opportunity because the improvement is not incremental — it's a 100x leap from manual compilation to instant generation.
 

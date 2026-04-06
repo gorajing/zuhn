@@ -70,5 +70,8 @@ evidence:
   - id: INS-260330-E606
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-F075
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The LA reservoir team didn't brainstorm the perfect solution. They iterated: floating covers (too slow, multi-year project), PVC pipe trampolines (become bird perches, creating water quality issues), chipped pipe debris field (creates warm stagnant conditions — a petri dish). Each failure wasn't wasted — it defined a constraint: must be fast to deploy, must not attract wildlife, must not create stagnant conditions, must be UV-stable for years. By the time Dr. Bryan White found bird balls, the team had accumulated enough constraint knowledge to immediately recognize them as the fit. This iterative elimination process is faster than trying to specify all requirements upfront because real-world constraints are often invisible until you encounter them through prototyping.

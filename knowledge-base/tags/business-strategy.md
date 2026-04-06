@@ -16,8 +16,6 @@
 - `INS-260327-B815` Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights r
 - `INS-260327-E68D` Haunted house operators must generate an entire years revenue in 4-6 weeks, creating extreme operational intensity and h
 - `INS-260327-FD4C` Self-storage facilities profit during economic booms (people buy too much) and busts (people downsize) because both cond
-- `INS-260327-584D` Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficie
-- `INS-260327-6EB5` Nations and companies that control essential natural resources wield power disproportionate to the resources economic va
 - `INS-260327-F867` UNIQLO (timeless basics) and Zara (fast-fashion trends) both succeed in clothing by targeting opposite ends of the same 
 - `INS-260327-2695` Every generation of consumer credit innovation follows the same pattern: expand access during prosperity, accumulate ris
 - `INS-260327-34EB` The smashburger format succeeded because the cooking technique is simpler and more consistent than traditional methods, 

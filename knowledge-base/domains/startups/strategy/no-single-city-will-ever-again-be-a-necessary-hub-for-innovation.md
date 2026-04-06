@@ -64,6 +64,10 @@ related:
   - INS-260403-87CF
   - INS-260403-9DC6
   - INS-260403-D198
+evidence:
+  - id: INS-260403-D198
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Vitalik distinguishes between SF remaining a productive city and SF remaining a necessary city. Pre-2015, the network effects of being in SF were so strong that choosing not to be there was a real competitive disadvantage — the investors, engineers, and customers were concentrated there. That lock-in is now broken. Remote work, crypto-native communities, and alternative hubs (Denver, Wyoming, Miami, Singapore) have all eroded the necessity premium.
 

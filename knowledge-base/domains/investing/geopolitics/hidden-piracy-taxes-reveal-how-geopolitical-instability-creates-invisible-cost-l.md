@@ -56,9 +56,28 @@ stance: >-
 related:
   - INS-260322-F868
   - INS-260327-DFF1
-  - INS-260327-DFF0
   - INS-260404-AC1B
   - INS-260403-2C00
+  - INS-260405-631B
+evidence:
+  - id: INS-260322-F868
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-DFF1
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-DFF0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-AC1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-2C00
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-747B
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 The direct cost of Somali piracy (ransoms paid) is a fraction of its true economic impact. The full cost of $4.9-8.3 billion annually includes insurance premium increases, private security contracts, naval patrol funding, route diversions, and fuel costs from speed increases (an extra $88,000/day per ship just for going from 13 to 18 knots). These costs cascade through supply chains and ultimately land on consumers as an invisible 'piracy tax' embedded in the price of goods.
 

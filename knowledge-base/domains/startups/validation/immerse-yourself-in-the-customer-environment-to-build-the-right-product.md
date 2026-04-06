@@ -57,5 +57,8 @@ evidence:
   - id: INS-260323-7CA7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-9A7F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Rajat did not just interview restaurant owners — he became a waiter. For a year, he spent 16 hours daily inside restaurants: coding on his laptop, remote-desktoping into Samsung tablets on tables to watch how users clicked, asking customers for feedback after meals, and talking to waiters constantly. He even crashed a restaurants entire POS system while testing an integration. This deep immersion produced understanding that no amount of customer interviews could match. The free food also helped his near-zero bank account. The principle: for physical-world products, there is no substitute for embedding yourself in the actual operating environment.

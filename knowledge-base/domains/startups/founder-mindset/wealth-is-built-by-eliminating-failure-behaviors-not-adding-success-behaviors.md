@@ -56,5 +56,14 @@ evidence:
   - id: INS-260325-0688
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-268C
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-CA46
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-39DD
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Hormozi argues that wealth accumulation is less about finding the perfect investment or business strategy and more about systematically removing behaviors that drain resources and compound into poverty. This is a subtraction-first approach: stop doing harmful things before adding beneficial ones. The insight applies broadly to startup founders who often chase growth tactics while ignoring the operational failures (overspending, bad hires, wrong market) that actually kill companies. The 80/20 of wealth-building is not in the top strategies but in eliminating the bottom behaviors.

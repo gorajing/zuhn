@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-EA4E
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-F03A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 WhatsApp generated just $1.2M in revenue in the nine months before Facebook's $19B acquisition — a price-to-revenue ratio that baffled analysts. But the acquisition logic wasn't about WhatsApp's revenue; it was about preventing a competitor (Google was in talks) from owning a billion-user messaging platform and about absorbing those users into Facebook's data graph.
 

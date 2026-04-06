@@ -53,6 +53,19 @@ related:
   - INS-260330-8103
   - PRI-260320-D2E1
   - INS-260327-89C7
+evidence:
+  - id: INS-260330-FE9E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-E6B7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-8103
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-89C7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham identifies a specific cognitive bias: when solutions are delivered informally, people must actually understand them to judge their value, which is more work than evaluating surface-level signals of legitimacy. Complex solutions seem impressive. Thick documents seem serious. Formal presentations seem credible. Simple solutions delivered casually seem like nothing.
 

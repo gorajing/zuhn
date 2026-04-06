@@ -68,6 +68,12 @@ evidence:
   - id: INS-260330-5F6C
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260329-0487
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-CA4F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Veriti's core insight is that cybersecurity should mirror wartime strategy — the appropriate defensive posture changes based on current threat conditions. Static security tools apply the same rules regardless of context, forcing companies to choose between being over-secured (adding friction to employees and customers) or under-secured (leaving gaps). Dynamic posture management resolves this tradeoff by adjusting in real-time.
 

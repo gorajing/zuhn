@@ -62,5 +62,8 @@ evidence:
   - id: INS-260329-B34E
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-488B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Despite 90% of organizations claiming AI adoption and 9 out of 10 workers using AI tools personally, 95% of corporate AI projects fail. This failure rate is 2x higher than any other emerging technology. Kyndryl's Katherine Malova identifies two primary causes: (1) Skills gap — more than half of failures are attributed to insufficient skills in the market to execute AI projects. The talent simply doesn't exist at scale yet. (2) Employee trust deficit — more than half of employees resist AI adoption because they fear job loss. This creates a paradox: organizations need their employees to champion AI adoption, but those same employees see AI as a threat to their livelihood. Neither cause is technical. Both are human problems. This fundamentally challenges the narrative that AI is a technology problem to be solved — it's a leadership and change management problem to be navigated.

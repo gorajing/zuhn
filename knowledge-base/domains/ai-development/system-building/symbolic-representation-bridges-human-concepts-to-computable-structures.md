@@ -62,6 +62,9 @@ evidence:
   - id: INS-260329-19B3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-E47D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Wolfram spent 45 years building symbolic programming systems and found that the critical challenge is bridging human conceptualization with computational possibility. Humans compress visual scenes into symbolic descriptions ('two chairs at a table'), and these symbolic representations happen to be computable in ways that raw pixel data or natural language are not.
 

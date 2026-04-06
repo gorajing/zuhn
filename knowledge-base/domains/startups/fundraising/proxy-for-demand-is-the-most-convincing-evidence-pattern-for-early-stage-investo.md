@@ -53,6 +53,13 @@ related:
   - INS-260404-B31C
   - INS-260404-2B4C
   - INS-260403-D7DF
+evidence:
+  - id: INS-260404-B31C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-132E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Sequoia's Greg Mcadoo calls it the 'proxy for demand'—what are people doing right now, using inadequate tools, that proves they need what you're building? This is far more convincing than top-down market sizing (which Paul Graham compares to an aspiring actor citing Tom Hanks's salary). Market size numbers are abstract and unfalsifiable; proxy-for-demand evidence is concrete and verifiable.
 

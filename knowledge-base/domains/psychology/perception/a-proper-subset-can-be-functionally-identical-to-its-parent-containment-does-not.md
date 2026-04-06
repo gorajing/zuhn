@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-47E0
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-9D8A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Hyperwebster dictionary demonstrates that stripping the first letter from every word in the 'A' volume reproduces the entire dictionary. Even numbers are equinumerous with all integers. These aren't paradoxes — they're structural features of any system with self-similar or recursive properties.
 

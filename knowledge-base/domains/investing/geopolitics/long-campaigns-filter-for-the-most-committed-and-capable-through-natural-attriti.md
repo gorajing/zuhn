@@ -57,6 +57,10 @@ related:
   - INS-260325-4C16
   - INS-260327-377A
   - INS-260327-B038
+evidence:
+  - id: INS-260326-8189
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The three-year march from Europe to Jerusalem acted as an extreme filter: disease, starvation, battle, and desertion reduced the crusading army by roughly 90%. The survivors were not a random sample — they were the most physically resilient, the most psychologically committed, and the most battle-hardened. This selection pressure created a force that was small but qualitatively extraordinary.
 

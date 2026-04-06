@@ -41,11 +41,11 @@ stance: >-
   with pro-inflammatory omega-6), and reducing processed food address root
   causes
 related:
-  - INS-260327-6EB5
   - INS-260327-4C6D
   - INS-260330-2025
   - INS-260330-0804
   - INS-260327-F8BF
+  - INS-260327-DB76
 evidence:
   - id: INS-260327-6EB5
     type: CHALLENGES

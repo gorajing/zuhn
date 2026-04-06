@@ -59,6 +59,10 @@ related:
   - INS-260325-6F7F
   - INS-260330-DBA4
   - INS-260403-D294
+evidence:
+  - id: INS-260325-6F7F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The video builds a crescendo of awe-inspiring future events — Betelgeuse supernovas, the Milky Way–Andromeda collision, skies glowing with newborn stars — seemingly to maximize FOMO. Then it inverts the frame: those future beings will never see total solar eclipses, Niagara Falls, or Saturn's rings. They'll wish they'd been born in our time to witness the birth of the Internet.
 

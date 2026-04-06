@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 38 insights
+> 36 insights
 
 - `INS-260404-47AC` [high] Investors hunt for raw talent, not polished surfaces—corporate cosplay and knowledge-faking conceal the very thing they're looking for.
 - `INS-260404-864F` [high] Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
@@ -21,7 +21,6 @@
 - `INS-260404-6C20` [high] The first cut in fundraising is simply being remembered—a sticky one-phrase description is the mechanism that survives investors' information overload.
 - `INS-260404-616F` [high] Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-280B` [high] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
-- `INS-260404-09E8` [high] Tell stories about specific users with specific problems to prove demand isn't theoretical.
 - `INS-260404-CF2A` [high] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 - `INS-260404-817A` [high] Tell specific stories about real users and their problems rather than citing market sizes, because investors' primary fear is that no one actually wants what you built.
 - `INS-260405-54B8` [medium] If you can't find one compelling phrase for your startup, your plans may not be focused enough — the description exercise is a focus test as much as a communication test.
@@ -37,6 +36,5 @@
 - `INS-260404-C2BC` [medium] If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 - `INS-260404-3C46` [medium] Crafting a single memorable phrase for your startup doubles as a test of strategic focus.
 - `INS-260403-C5D8` [medium] If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
-- `INS-260404-E0B5` [medium] The inability to craft a one-phrase startup description signals unfocused strategy, not just weak messaging.
 - `INS-260403-26D3` [medium] Inability to describe your startup in one compelling phrase signals unfocused strategy, not just poor messaging.
 - `INS-260404-4127` [medium] Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.

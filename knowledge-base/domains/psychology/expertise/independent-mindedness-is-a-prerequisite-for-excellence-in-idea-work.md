@@ -50,6 +50,13 @@ related:
   - INS-260403-AAE4
   - INS-260403-449A
   - INS-260330-7819
+evidence:
+  - id: INS-260403-AA8F
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-7819
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham makes a sharp claim: when your professional domain overlaps with politically contested territory, you face a binary choice between independent thinking and mediocre output. He illustrates this with 20th-century Marxist intellectuals — many were brilliant, but none were smart about the subjects Marxism actually addressed.
 

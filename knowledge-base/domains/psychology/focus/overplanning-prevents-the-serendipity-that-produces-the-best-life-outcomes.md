@@ -57,6 +57,9 @@ evidence:
   - id: INS-260325-7B58
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-AA8F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Survey any group of successful or fulfilled people about their most important life events and the majority will be unplanned: chance meetings, unexpected opportunities, forced pivots that turned out better than the original plan. Rigid life planning not only creates anxiety when reality deviates but actively prevents these serendipitous discoveries.
 

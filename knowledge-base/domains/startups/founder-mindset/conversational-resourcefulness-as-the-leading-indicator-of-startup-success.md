@@ -55,6 +55,13 @@ related:
   - INS-260403-82CC
   - INS-260403-6890
   - INS-260403-20A7
+evidence:
+  - id: INS-260403-6890
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2822
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham observed that the most successful YC founders were 'fire-and-forget' — give them a lead and they'd close it without babysitting. The least successful were hard to talk to, not because they lacked intelligence, but because they filtered advice through pre-existing decisions rather than processing it with fresh eyes.
 

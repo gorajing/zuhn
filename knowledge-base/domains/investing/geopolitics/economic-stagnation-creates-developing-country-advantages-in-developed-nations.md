@@ -68,6 +68,12 @@ evidence:
     relationship: RELATED
   - id: INS-260403-160A
     relationship: RELATED
+  - id: INS-260403-2C50
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-0550
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Japan's post-2007 stagnation has created a paradox: a country with world-class infrastructure, a highly skilled workforce, efficient government, and strong rule of law now offers cost advantages typically associated with developing nations. Manufacturing costs have declined 30% for some operations due to the weak yen and stagnant wages. France's labor productivity is 61% higher than Japan's, meaning Japan has significant catch-up potential — if it could close this gap over three decades, living standards would grow at ~2.86% per year, approaching bubble-era rates. Companies like Korea's Cosmax are building their first Japanese plants specifically to exploit these cost advantages, and JVCKenwood has repatriated all US capacity to Japan.
 

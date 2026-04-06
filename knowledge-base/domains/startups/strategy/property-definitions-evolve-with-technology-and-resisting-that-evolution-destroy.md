@@ -61,6 +61,15 @@ evidence:
   - id: INS-260325-40DC
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-5A9E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-B6D9
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-2C6B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham argues that property is not an inherent, unchanging concept but rather a pragmatic convention: something counts as property when treating it as property works for society. Hunter-gatherers didn't treat land as property; we do because it works for our economy. Digital content is undergoing the same shift — the arrival of networks made data move like smells, freely and uncontainably.
 

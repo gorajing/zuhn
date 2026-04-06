@@ -77,6 +77,9 @@ evidence:
     relationship: RELATED
   - id: INS-260403-FC01
     relationship: RELATED
+  - id: INS-260403-7738
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, it runs photon energy through a multi-step electron transport chain: PSII captures the excited electron, passes it to the Cytochrome Complex (which uses some energy to pump protons), then to PSI for re-energization, ultimately producing ATP and NADPH as intermediate energy carriers. Only then does the Calvin Cycle use those carriers to build sugar.
 

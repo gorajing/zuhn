@@ -49,5 +49,12 @@ related:
   - INS-260405-D66B
   - PRI-260323-81E9
   - INS-260403-63E6
+evidence:
+  - id: INS-260405-F369
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-63E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The outperformance technique requires that performance measurement be independent of the selection bias being examined. If a company hires women based on appearance but men based on ability, and then measures 'performance' using manager ratings that replicate the same appearance-based evaluation, the method breaks down — women might not outperform even though selection was biased against them on ability grounds. This is not a minor caveat: it means the method is reliable primarily in domains with hard, quantifiable outcomes (financial returns, test scores, objective production metrics) and unreliable where performance evaluation is itself a social judgment. Recognizing this limits the technique's applicability and prevents false negatives from being used to argue 'there is no bias.'

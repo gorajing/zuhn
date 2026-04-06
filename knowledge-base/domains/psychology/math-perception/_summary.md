@@ -1,6 +1,6 @@
 # Topic: math-perception
 
-> 57 insights
+> 56 insights
 
 - `INS-260325-03D5` [high] Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
 - `INS-260330-09AB` [high] For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.
@@ -26,7 +26,6 @@
 - `INS-260329-F8AF` [high] The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
 - `INS-260330-4329` [high] Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
 - `INS-260330-ED8A` [high] Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
-- `INS-260330-FED6` [high] Log-scale plots turn exponential curves into straight lines, making growth rate changes and inflection points visible to human linear-pattern-matching intuition.
 - `INS-260329-6773` [high] The number e is defined by the property that d/dx(e^x) = e^x, illustrating how mathematical constants are constructed from desired functional properties rather than discovered empirically.
 - `INS-260325-4CA1` [high] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
 - `INS-260323-D400` [high] Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.

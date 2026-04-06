@@ -55,5 +55,12 @@ related:
   - INS-260403-E748
   - INS-260325-CF3E
   - INS-260405-F7C5
+evidence:
+  - id: INS-260327-9F46
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-5023
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When the tail of a Prince Rupert's Drop is broken, the resulting explosion is not powered by the force of the break. It is powered by the enormous mechanical strain energy stored throughout the glass itself — energy that was locked in during the rapid cooling process. The initial nick merely releases the first link; after that, the failure front feeds on the system's own internal tension, propagating at measurable velocity through the entire structure. This is a precise model for cascading failures in businesses, financial systems, and technology platforms. The trigger event (a small regulatory change, a key employee departure, a minor security breach) may be trivial in itself. The destruction comes from stored internal tensions — technical debt, cultural dysfunction, over-leveraged positions — that the trigger merely unleashes. This means that measuring the magnitude of potential triggers is far less important than auditing the amount of stored tension in the system.

@@ -60,6 +60,13 @@ related:
   - INS-260330-9E1B
   - INS-260403-07C1
   - INS-260404-CE92
+evidence:
+  - id: INS-260330-F324
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-07C1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Shapiro observes that modern political discourse has fallen into a 'tribal trap' where anything the opposing side says is automatically rejected regardless of merit. The instinct becomes: prove I'm right, prove you're wrong, stifle you to raise me up. In this state, the substance of arguments becomes irrelevant because evaluation is based on tribal affiliation rather than logic.
 

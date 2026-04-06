@@ -73,6 +73,9 @@ evidence:
   - id: INS-260330-2ABC
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-0B14
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a structural incentive problem in parental career advice that goes beyond the usual 'parents are materialistic' framing. Parents have asymmetric exposure: if a child takes a risky career path and fails, parents bear real emotional and sometimes financial consequences. But if the child succeeds spectacularly — experiences creative flow, builds something meaningful — parents don't get a share of that internal reward. This makes even well-intentioned parents systematically conservative.
 

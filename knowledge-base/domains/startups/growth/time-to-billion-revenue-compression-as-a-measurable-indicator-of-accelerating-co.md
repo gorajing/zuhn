@@ -59,6 +59,13 @@ related:
   - PRI-260328-0993
   - INS-260327-2B62
   - INS-260403-7C71
+evidence:
+  - id: INS-260327-725F
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-87AC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham traces a concrete metric: IBM (founded 1896) took 45 years to $1B revenue in 2020 dollars, HP (1939) took 25 years, Microsoft (1975) took 13 years, and modern fast-growing companies reach it in 7-8 years. This isn't just about reaching milestones sooner — faster growth creates a double effect on company value because valuation is a function of both revenue and growth rate.
 

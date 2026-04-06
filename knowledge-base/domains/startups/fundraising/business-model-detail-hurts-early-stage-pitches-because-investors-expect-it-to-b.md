@@ -68,6 +68,9 @@ evidence:
   - id: INS-260323-1B42
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260402-7FCC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 A VC Graham cites invested in a company whose business model 'would probably change three times before they got it right' — and they knew this when writing the check. At the early stage, business model is a set of guesses in an area that's probably outside the founders' expertise. Talking about it at length signals poor prioritization of scarce pitch time.
 

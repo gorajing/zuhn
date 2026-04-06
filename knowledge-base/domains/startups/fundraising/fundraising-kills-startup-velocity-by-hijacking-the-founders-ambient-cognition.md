@@ -52,5 +52,9 @@ related:
   - INS-260403-16B4
   - INS-260403-5593
   - INS-260403-2B6E
+evidence:
+  - id: INS-260403-D98E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham observed that startups consistently grind to a halt during fundraising — not because meetings consume all available hours, but because money concerns are uniquely 'sticky' as mental preoccupations. Money is hard to get and won't happen by default, so it demands sustained cognitive attention to make progress. Once fundraising becomes the top idea, every shower thought, every idle moment goes toward investor dynamics instead of product problems. This explains why even 'easy' fundraises still drag on and damage velocity: the cognitive tax is disproportionate to the calendar time invested. The same pattern applies during acquisition talks.

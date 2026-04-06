@@ -57,12 +57,16 @@ related:
   - INS-260405-7E85
   - PRI-260403-181B
   - INS-260404-EFA8
+  - INS-260404-3C96
 evidence:
   - id: INS-260330-30FB
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
   - id: INS-260330-F2B6
     type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-EFA8
+    type: TRANSFERS_TO
     classified_at: '2026-04-05'
 ---
 Photosynthesis involves dozens of chemical reactions across multiple cellular compartments. The CrashCourse approach makes it learnable by aggressively naming every stage and sub-component — Photosystem II, Cytochrome Complex, Calvin Cycle, RuBisCo — and giving each a mini-narrative. Even confusing names (why is it called Photosystem II if it comes first?) become memorable anchors because the confusion itself creates a cognitive hook.

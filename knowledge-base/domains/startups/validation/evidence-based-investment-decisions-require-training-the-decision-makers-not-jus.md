@@ -59,6 +59,12 @@ evidence:
   - id: INS-260325-9AD4
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260404-D672
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-D0F3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Bayer trained senior business leaders who served as investment decision-makers on how to evaluate based on evidence rather than personal preference for ideas. This is a subtle but critical intervention — most innovation programs focus exclusively on training the teams doing the innovating.
 

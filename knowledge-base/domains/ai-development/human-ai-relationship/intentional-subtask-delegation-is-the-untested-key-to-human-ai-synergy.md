@@ -51,7 +51,6 @@ related:
   - PRI-260403-7E5E
   - INS-260325-4793
   - INS-260323-8268
-  - INS-260322-DAFB
 evidence:
   - id: INS-260323-8268
     type: TRANSFERS_TO

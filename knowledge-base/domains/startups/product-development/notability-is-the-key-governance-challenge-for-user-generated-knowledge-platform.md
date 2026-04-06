@@ -68,6 +68,15 @@ evidence:
   - id: INS-260330-579B
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-194F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-CE5F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-FFF0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Wales reveals that the hardest question Wikipedia faces is not accuracy but scope: what deserves an article? The classic Bic pen example illustrates the spectrum — the Bic pen product line (yes, it has history and significance) versus Lex Fridman's specific Bic pen (no, it's one instance with no known history). The German Wikipedia metaphor of 'the rear nut of Ulifook's bicycle wheel' shows where the limit lies.
 

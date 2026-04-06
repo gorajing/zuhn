@@ -56,6 +56,10 @@ resolutions:
 
     the hard part; code is the easy part.
 stance: Detailed spec design before coding prevents bugs and eliminates scope creep
+evidence:
+  - id: INS-260329-5EE7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 
 We spent hours designing a detailed spec before writing any code. The spec

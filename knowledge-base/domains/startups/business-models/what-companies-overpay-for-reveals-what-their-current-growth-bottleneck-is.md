@@ -69,6 +69,15 @@ evidence:
   - id: INS-260404-93CD
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260321-D484
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-4980
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-02C5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The insight from Graham's essay isn't just historical — it's a diagnostic tool. If you want to understand what a company truly believes is rate-limiting its growth, look at where it consistently pays above-market rates. 1950s manufacturers overpaid for labor. 2000s tech companies overpaid for servers and bandwidth. 2020s AI companies overpay for GPU compute and ML talent.
 

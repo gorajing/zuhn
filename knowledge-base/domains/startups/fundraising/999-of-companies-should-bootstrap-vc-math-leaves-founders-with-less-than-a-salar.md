@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-44C7
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-1D6E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The VC math is brutal: raise $20M, give away 50%, sell for $30M. First return $20M to investors, split the remaining $10M with investors (they own 50%), then split your share with co-founders and team equity. After 10 years of founder-level stress, you might net six figures — less than you'd have earned at a regular job. But if you bootstrap and sell for $30M, you keep all of it.
 

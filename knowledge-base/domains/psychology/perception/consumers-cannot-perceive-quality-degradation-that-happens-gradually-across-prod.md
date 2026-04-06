@@ -40,13 +40,12 @@ stance: >-
   imperceptible to consumers who evaluate each purchase individually rather than
   comparing to products from years ago.
 related:
-  - INS-260327-EF89
   - PRI-260403-5FC4
+  - INS-260327-EF89
   - INS-260325-040F
   - INS-260402-7B69
   - INS-260329-8F98
   - INS-260327-CB07
-  - INS-260329-0320
 evidence:
   - id: INS-260325-040F
     type: EXTENDS

@@ -69,6 +69,9 @@ evidence:
     relationship: RELATED
   - id: INS-260329-04FA
     relationship: RELATED
+  - id: INS-260405-F6A6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The author describes being a proficient Ruby programmer who has since forgotten nearly all Ruby syntax, yet retains the ability to solve problems in any language. This illustrates a key asymmetry in skill retention: declarative knowledge (syntax) decays rapidly without use, while procedural knowledge (patterns like choosing between loops, recursion, or data structure trade-offs) persists because it's encoded as transferable problem-solving heuristics.
 

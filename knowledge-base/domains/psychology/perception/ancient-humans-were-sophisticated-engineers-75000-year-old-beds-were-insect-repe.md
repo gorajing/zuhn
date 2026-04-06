@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-DF69
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-B7B6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Kean describes how ancient humans 75,000 years ago built beds with an ash layer (tick-proof mattress) topped with aromatic leaves (mosquito repellent), and carried water in ostrich egg canteens that self-cooled through evaporative pores. Obsidian tools were sharper than modern surgical scalpels. These were not crude survival hacks but multi-layered engineering solutions.
 

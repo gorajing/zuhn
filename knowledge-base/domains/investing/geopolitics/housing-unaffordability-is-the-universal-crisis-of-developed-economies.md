@@ -65,6 +65,15 @@ evidence:
   - id: INS-260330-6418
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-91DB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-5554
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-B378
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The housing crisis is not unique to any single country - Canada, Australia, the UK, and US have all reached unaffordability through different specific mechanisms (negative gearing in Australia, NIMBYism in the US, foreign investment in Canada, financialization in the UK) but the same root dynamic: prioritizing housing as a wealth vehicle for owners over shelter for residents.
 

@@ -49,6 +49,16 @@ related:
   - INS-260405-370B
   - INS-260330-5779
   - INS-260403-3A71
+evidence:
+  - id: INS-260405-370B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-3A71
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-5779
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham makes a subtle but important distinction about what board control actually means in practice. Board votes are rarely split; decisions are effectively made in the discussions that precede votes. The side that knows it would lose a formal vote tends to be less insistent in those discussions, naturally yielding to the majority position.
 

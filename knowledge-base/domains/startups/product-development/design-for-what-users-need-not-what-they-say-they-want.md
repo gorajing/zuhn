@@ -44,11 +44,11 @@ stance: >-
   cannot articulate their actual needs, just like patients describing symptoms
   instead of diagnoses.
 related:
-  - INS-260330-0B79
   - INS-260330-2F22
   - PRI-260403-53D6
   - INS-260330-2306
   - INS-260403-08E6
+  - INS-260327-3A71
   - INS-260403-4501
 ---
 Paul Graham draws an analogy between designers and doctors: users report symptoms (feature requests, complaints) but cannot diagnose their underlying needs. A doctor who only treats symptoms is negligent; a designer who only builds what users request is equally misguided.

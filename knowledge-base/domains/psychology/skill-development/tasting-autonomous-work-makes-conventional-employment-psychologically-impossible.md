@@ -54,6 +54,16 @@ related:
   - INS-260403-449A
   - PRI-260323-50FE
   - INS-260405-7529
+evidence:
+  - id: INS-260403-DF37
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-56CB
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260405-7529
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Naval frames this as 'a taste of freedom can make you unemployable' — not as hyperbole but as a psychological reality. Once someone experiences being measured purely on output, setting their own bar, and working with intrinsic motivation, the overhead of conventional employment (manager check-ins, fixed schedules, playbooks) becomes viscerally aversive rather than merely inconvenient.
 

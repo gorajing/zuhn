@@ -67,6 +67,9 @@ evidence:
   - id: INS-260327-AEC2
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-21AF
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Rubin observes that in the digital age, where any sound or instrument can be summoned instantly, infinite choices don't produce better music. He advocates deliberately imposing constraints — like deciding to paint using only green and red — because the limitation forces the creator to solve problems in unexpected ways. When anything is possible, nothing demands creative ingenuity; when options are restricted, every choice becomes more meaningful and inventive.
 

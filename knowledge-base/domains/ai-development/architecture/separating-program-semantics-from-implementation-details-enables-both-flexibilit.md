@@ -61,6 +61,9 @@ evidence:
   - id: INS-260322-8299
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-D062
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham proposes that instead of baking efficiency concerns into language semantics (like having separate string and list types), languages should define meaning purely in terms of minimal abstractions, then allow programmers to add optimization annotations that don't change correctness. Declarations become advice, not requirements — a principle first embodied in Lisp Machine Lisp and explicitly stated in Common Lisp.
 

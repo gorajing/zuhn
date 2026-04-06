@@ -56,6 +56,16 @@ related:
   - INS-260330-156C
   - INS-260402-F04F
   - INS-260402-9681
+evidence:
+  - id: INS-260403-4DFB
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-2F77
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-F04F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham observed from YC's earliest-stage investing that determination consistently outpredicted intelligence for startup outcomes. The 'genius founder' narrative persists because it's more compelling for PR and gives observers an excuse for their own inaction ('I'm just not smart enough').
 

@@ -72,6 +72,9 @@ evidence:
   - id: INS-260330-66F7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-7E6A
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Jacobsen uncovered a disturbing pattern: most presidents enter office understanding deterrence as a concept but avoiding the operational reality of nuclear command. Clinton, according to Panetta, didn't want to deal with nuclear issues because he had too many other priorities. Reagan stated in a 1983 press conference that submarine-launched ballistic missiles could be recalled — they cannot, nor can ICBMs once launched.
 

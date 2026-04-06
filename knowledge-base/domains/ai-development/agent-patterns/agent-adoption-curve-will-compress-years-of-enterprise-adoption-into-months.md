@@ -68,6 +68,12 @@ evidence:
   - id: INS-260403-AC5E
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-64A5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-4E7A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Ron from Open Router observed that the typical technology adoption pattern — where innovations start as toys and take years to reach regulated enterprises — is being dramatically compressed for AI agents. He predicted the adoption curve will be measured in months, not years.
 

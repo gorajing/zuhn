@@ -69,6 +69,9 @@ evidence:
   - id: INS-260329-E0DE
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-EAF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Burkeman identifies a meta-problem: we deal with both the actual problem AND our indignation that problems exist. We believe we should have reached a stage where problems are behind us. But problems are just areas where limited capacities meet reality — another word for that is 'meaningful activity in life.'
 

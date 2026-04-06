@@ -55,6 +55,10 @@ related:
   - INS-260403-B4B9
   - INS-260404-BD46
   - INS-260404-FF0B
+evidence:
+  - id: INS-260329-3E3A
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that even experienced repeat founders with millions in funding from top VCs have business models their own investors expect to change three times. At the early stage, the model is just guesses about areas outside your expertise. If your model sounds spectacularly wrong, it becomes the only thing investors remember — 'the company with the boneheaded plan' instead of 'the company that solved that important problem.'
 

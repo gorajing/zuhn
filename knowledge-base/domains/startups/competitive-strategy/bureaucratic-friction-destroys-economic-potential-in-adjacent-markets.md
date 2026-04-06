@@ -59,6 +59,9 @@ evidence:
   - id: INS-260402-B653
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-C032
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The Pearl River Delta contains world-class financial services (Hong Kong), manufacturing (Shenzhen), entertainment/tourism (Macau), and administrative capacity (Guangzhou) — all within 100km of each other. Yet separate currencies, insurance regimes, visa requirements, and even driving sides mean that crossing from one to another requires more friction than flying internationally between allied nations.
 

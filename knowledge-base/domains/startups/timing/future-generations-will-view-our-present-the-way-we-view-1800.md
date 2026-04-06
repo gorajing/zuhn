@@ -56,6 +56,12 @@ evidence:
   - id: INS-260325-362B
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-EE23
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-41DB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 In 1800, the vast majority of the world lived in what we now call extreme poverty — but nobody at the time experienced it that way because lacking electricity, indoor plumbing, and refrigeration was simply normal. Crawford argues the same dynamic applies today: we do not perceive our current state as primitive, but future generations with AI, genetic engineering, fusion energy, and space settlement may look back with the same incredulity.
 

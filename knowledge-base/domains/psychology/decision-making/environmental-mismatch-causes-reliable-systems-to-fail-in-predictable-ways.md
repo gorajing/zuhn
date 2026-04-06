@@ -71,6 +71,15 @@ evidence:
   - id: INS-260330-50B3
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-CF3E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-F03A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-B09F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 RuBisCo was 'designed' for an atmosphere with abundant CO2 and negligible oxygen. When oxygen levels rose, the enzyme didn't stop working — it started systematically grabbing the wrong molecule, producing toxic phosphoglycolate instead of useful products. The failure mode wasn't shutdown but misapplication.
 

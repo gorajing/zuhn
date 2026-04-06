@@ -58,6 +58,12 @@ evidence:
   - id: INS-260330-EACA
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-53C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-F5CF
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Plants' light-dependent reactions split water and release oxygen as waste. This oxygen gradually accumulated in the atmosphere and began competing with CO2 at RuBisCo's active site, causing the enzyme to produce toxic phosphoglycolate instead of useful products. Plants now spend significant metabolic energy detoxifying their own success byproduct.
 

@@ -62,6 +62,13 @@ related:
   - INS-260327-3F8B
   - INS-260327-33EA
   - INS-260403-C161
+evidence:
+  - id: INS-260403-C161
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-130D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Napoleon's strategic template was consistent from 1805 to 1815: use interior lines to concentrate against one enemy army while holding the others at bay, defeat it, then turn on the next. This worked at Ulm and Austerlitz (1805), Jena (1806), and Friedland (1807) because coalition armies operated on different timelines and couldn't coordinate effectively. It failed at Leipzig (1813) and Waterloo (1815) when opponents finally learned to coordinate.
 

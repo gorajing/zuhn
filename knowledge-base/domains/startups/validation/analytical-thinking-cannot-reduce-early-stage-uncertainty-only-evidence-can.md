@@ -54,6 +54,10 @@ related:
   - INS-260403-D379
   - PRI-260324-2C9F
   - PRI-260328-23DB
+evidence:
+  - id: INS-260326-B10B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 At the start of any new venture or product, uncertainty and risk are at their peak. The tempting response is to analyze more carefully — refine the business model, sharpen the value proposition, debate the strategy. But this is a trap. Analytical thinking operates on existing knowledge; it cannot generate new evidence about an unknown market or customer. The only thing that reduces early-stage uncertainty is getting out of the building and running real tests.
 

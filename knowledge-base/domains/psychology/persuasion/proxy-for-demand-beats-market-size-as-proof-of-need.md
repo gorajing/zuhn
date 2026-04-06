@@ -59,6 +59,37 @@ related:
   - INS-260403-30D8
   - INS-260403-F8FF
   - INS-260403-EA2D
+evidence:
+  - id: INS-260321-C4CD
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260328-9C16
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D7DF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-DC32
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-92EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-30D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-F8FF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-5D18
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260405-E7FB
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-61DA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham cites Sequoia's Greg McAdoo on looking for 'proxy for demand' — evidence that people are already doing something with inadequate tools that shows they need what you're building. This is fundamentally a persuasion principle about revealed preference: watching someone struggle with a spreadsheet to do what your product handles natively is more convincing than any market size estimate.
 

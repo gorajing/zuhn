@@ -67,6 +67,15 @@ evidence:
   - id: INS-260330-4441
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-F3C0
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260403-53C9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-7E85
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Early photosynthetic organisms succeeded so thoroughly that their byproduct — oxygen — accumulated and fundamentally changed the atmosphere. But RuBisCo, the enzyme that powered that success, had evolved in a low-oxygen world and couldn't distinguish O2 from CO2. The very output of photosynthesis became the input that degraded photosynthesis.
 

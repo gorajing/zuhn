@@ -58,6 +58,13 @@ related:
   - INS-260403-FAFA
   - INS-260403-C2BE
   - INS-260403-B957
+evidence:
+  - id: INS-260403-2F77
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-3138
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham offers a counterintuitive explanation for why young founders disproportionately succeed: they make two errors that cancel out. They don't know how hard the problem will be, but they also don't know how much they'll grow in the process. Older founders only make the first mistake — they can see the obstacles clearly but still can't foresee their own growth, so the net calculation looks negative.
 

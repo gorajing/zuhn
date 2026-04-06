@@ -64,6 +64,9 @@ evidence:
   - id: INS-260329-E6AF
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-90C3
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 This C++ tutorial has accumulated 13M+ views since 2018 — roughly 1.7M views per year — because it ranks as the definitive beginner resource for the topic. This demonstrates the power law in educational content: a single exhaustive piece that covers a topic end-to-end captures search intent that dozens of fragmented shorter videos cannot. YouTube's algorithm rewards watch time and completion, and a 4-hour tutorial that viewers bookmark and return to generates compounding engagement signals.
 

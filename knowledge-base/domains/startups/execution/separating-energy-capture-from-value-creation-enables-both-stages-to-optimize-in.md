@@ -86,6 +86,18 @@ evidence:
   - id: INS-260405-AE0D
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-8125
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-C780
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-4D0E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-9428
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Photosynthesis achieves its complexity through a two-stage architecture: Stage 1 (light-dependent reactions) converts photon energy into universal energy currencies (ATP and NADPH), while Stage 2 (Calvin Cycle) spends those currencies to fix carbon and build useful carbohydrates. Crucially, Stage 2 doesn't need light — it only needs the energy currencies. This decoupling means each stage can optimize independently and the energy currencies serve as a clean interface between them.
 

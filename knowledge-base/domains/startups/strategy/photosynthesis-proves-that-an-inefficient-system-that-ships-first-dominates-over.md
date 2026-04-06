@@ -51,7 +51,6 @@ stance: >-
   First-mover advantage with a flawed but functional system consistently beats
   waiting for an optimal solution, in biology and in markets
 related:
-  - INS-260320-20F2
   - INS-260330-CA62
   - INS-260330-09DE
   - INS-260404-9213
@@ -67,6 +66,9 @@ evidence:
   - id: INS-260330-CA62
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-9213
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Photosynthesis converts only about 1-2% of incoming solar energy into chemical energy — an objectively terrible conversion rate. RuBisCo fails half the time. The whole system requires elaborate workarounds for its own byproducts. Yet this 'complicated, inefficient and confusing' system has been the dominant energy platform on Earth for 450 million years with no competitor displacing it.
 

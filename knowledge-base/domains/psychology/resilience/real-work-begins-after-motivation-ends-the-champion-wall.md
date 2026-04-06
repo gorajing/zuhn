@@ -70,6 +70,12 @@ evidence:
   - id: INS-260329-1F3F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-1E35
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-F348
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Drawing from bodybuilding ('your working reps begin at failure') and Muhammad Ali ('suffer now, live the rest of your life as a champion'), Hormozi argues that the productive period of any venture starts after the initial excitement wears off. He maps out an emotional arc: excitement → neutral → worried/stressed, and claims real work only begins in that third phase.
 

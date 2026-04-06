@@ -58,6 +58,9 @@ evidence:
   - id: INS-260329-C36D
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-359D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 
 Multiple Gumloop hires followed the same pattern: a customer from

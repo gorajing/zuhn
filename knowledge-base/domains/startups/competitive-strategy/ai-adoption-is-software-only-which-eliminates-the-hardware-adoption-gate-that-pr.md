@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-AB62
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260405-4B12
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The mobile platform shift gave startups a window because consumers needed to buy new hardware (smartphones), creating a natural adoption curve that incumbents couldn't accelerate past. AI has no such gate — adoption is entirely software-driven, which massively increases the near-term addressable market but also means incumbents can integrate AI capabilities quickly through modular microservices and APIs.
 

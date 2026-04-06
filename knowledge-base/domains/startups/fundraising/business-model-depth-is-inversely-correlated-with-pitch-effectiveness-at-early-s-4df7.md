@@ -59,6 +59,13 @@ related:
   - INS-260328-D2EC
   - INS-260329-1CB0
   - INS-260329-34A9
+evidence:
+  - id: INS-260323-4473
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260405-020E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham recounts a VC who invested in experienced founders despite their business model being 'crap' — because he expected it to be crap at that stage. The model would change three times before they got it right. This reveals a fundamental asymmetry: your problem understanding is your area of genuine expertise, while your business model is just guesses about domains you probably don't know well.
 

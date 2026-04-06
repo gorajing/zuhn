@@ -6,6 +6,7 @@
 - `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260323-5609` Glasses positioned on the face can see what you see and hear what you hear, making them the natural endpoint for personalized AI that needs continuous context.
+- `INS-260405-2DC0` Reframing health conversations around personal motivations instead of clinical outcomes brings disengaged patients back to their providers.
 - `INS-260402-BF2E` When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
 - `INS-260327-A048` British PM Eden personally despised Nasser and compared him to Hitler, making the Suez response about personal vendetta rather than calculated national interest.
 - `INS-260330-CFAD` Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine.

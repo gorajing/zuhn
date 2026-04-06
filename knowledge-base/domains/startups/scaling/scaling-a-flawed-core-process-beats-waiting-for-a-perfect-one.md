@@ -61,6 +61,10 @@ related:
   - INS-260330-54ED
   - INS-260405-0806
   - INS-260330-22C0
+evidence:
+  - id: INS-260330-E70C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, misidentifies oxygen as CO2 roughly half the time, creating toxic byproducts plants must actively neutralize. Despite this catastrophic error rate, plants never evolved a replacement — they simply produce staggering quantities of the enzyme (an estimated 40 billion tons on Earth at any moment) and built elaborate cleanup pathways around its failures.
 

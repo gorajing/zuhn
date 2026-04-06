@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-2F75
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-C5D8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The perpetual search for new methods, tools, and approaches often feels productive but functions as procrastination. Researching productivity systems is more stimulating than doing the work. Planning a business is more exciting than operating one. Designing a workout is more interesting than following one.
 

@@ -90,6 +90,12 @@ evidence:
   - id: INS-260405-2849
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-9669
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-AA5B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Goedel showed that any sufficiently powerful logical system contains true statements that cannot be proven within the system. Penrose noticed that human mathematicians can see the truth of certain statements that no algorithm can formally prove — not by brute force calculation, but by insight and understanding. If human understanding were fully equivalent to an algorithm, humans would be bound by the same limitations as formal systems. Yet in practice, they are not.
 

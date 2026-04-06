@@ -58,6 +58,19 @@ related:
   - INS-260404-9213
   - INS-260404-1A18
   - INS-260404-6F39
+evidence:
+  - id: INS-260330-9A60
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-BA93
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-1A18
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-6F39
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The video opens by noting photosynthesis 'actually rather sucks'—it's complicated, inefficient, and confusing—and closes the RuBisCo section with the phrase 'another example of unintelligent design.' This is not a rhetorical flourish. RuBisCo misfires half the time, requires enormous overproduction to compensate, generates toxic byproducts requiring additional cleanup enzymes, and cannot be replaced because evolution has no mechanism to do a ground-up redesign.
 

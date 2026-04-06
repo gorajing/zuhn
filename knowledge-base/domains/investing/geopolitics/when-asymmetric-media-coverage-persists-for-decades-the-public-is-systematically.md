@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-795D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-500F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Suleiman documents a systematic pattern: Palestinian casualties are footnotes while Israeli casualties are headlines; daily occupation is invisible until an escalation forces coverage; over 600 Palestinians killed in 2023 alone before October 7th never made Western headlines. The result is an American public that sees conflicts begin at the point of escalation rather than at the root causes.
 

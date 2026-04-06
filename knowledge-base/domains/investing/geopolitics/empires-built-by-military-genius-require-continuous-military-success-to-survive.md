@@ -60,6 +60,16 @@ related:
   - INS-260327-35CB
   - INS-260330-4E55
   - INS-260330-B384
+evidence:
+  - id: INS-260330-F158
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-4E55
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-B384
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Napoleon's political authority derived almost entirely from military success. Unlike hereditary monarchs (who ruled by birth) or republics (which ruled by consent), Napoleon ruled because he won. This created an unsustainable dynamic: he needed continuous victories to maintain domestic support, which drove him into increasingly risky campaigns, which eventually produced the defeat that destroyed everything.
 

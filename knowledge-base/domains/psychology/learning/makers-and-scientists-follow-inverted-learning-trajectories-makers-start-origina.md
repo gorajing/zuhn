@@ -75,6 +75,12 @@ evidence:
   - id: INS-260326-291C
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-F9E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-BF09
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Scientists learn through labs and problem sets, beginning by perfectly reproducing established results and gradually working toward original contributions. Makers (hackers, painters, writers) follow the inverse path: from their very first project they are doing original work, but it's terrible. They learn by doing, with each project building on techniques discovered in previous ones. A painter's chronological body of work shows this clearly — version 1 of a breakthrough technique usually appears in smaller form in an earlier painting.
 

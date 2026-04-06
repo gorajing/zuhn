@@ -12,7 +12,6 @@
 - `INS-260405-672E` Investors' biggest fear is that you built something nobody wants — concrete user stories are the antidote to that fear.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-035A` Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
-- `INS-260404-B887` Tell specific stories about real users and their problems to counter the investor's biggest fear: that you've built something based on untested theories about what the world needs.
 - `INS-260404-2FC0` Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
 - `INS-260405-F9EC` Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.
 - `INS-260403-F4F6` Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.

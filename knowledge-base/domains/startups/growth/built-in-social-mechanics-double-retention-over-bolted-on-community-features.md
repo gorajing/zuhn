@@ -51,6 +51,13 @@ related:
   - INS-260323-AB5F
   - INS-260327-C7BF
   - INS-260323-6043
+evidence:
+  - id: INS-260327-C7BF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-CA82
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Plarium found that the same game with clan mechanics commanded double the retention of the version without them. But critically, this only worked because social interaction was woven into the core game design — players needed clan members to complete missions, build armies, and reach new heights. Simply adding chat or friend lists after the fact rarely produces this effect.
 

@@ -48,5 +48,15 @@ related:
   - INS-260330-D644
   - PRI-260328-E921
   - INS-260403-6713
+evidence:
+  - id: INS-260330-D644
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-E3E6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6713
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Corporate development teams exist to buy companies — that's their only function. When they reach out to a startup, founders rationalize taking the meeting out of flattery and curiosity, but the process is engineered to be long, distracting, and demoralizing. Unlike other distractions that merely consume time, corp dev conversations attack founder morale by introducing the fantasy of an exit while simultaneously deploying lowball tactics. The compounding effect of lost focus plus psychological manipulation makes this uniquely destructive. Graham's Rockefeller rule — never take the first drink — is the cleanest defense: if you're not ready to sell right now, don't take the first meeting. The expected value of 'just seeing what they want' is deeply negative for any startup still in growth mode.

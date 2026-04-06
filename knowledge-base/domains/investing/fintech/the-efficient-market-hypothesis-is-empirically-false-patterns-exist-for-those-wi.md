@@ -63,6 +63,9 @@ evidence:
   - id: INS-260405-809E
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-2B1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Andrew Lo of MIT published research in 1988 showing the EMH is statistically false — predictable patterns exist in stock markets. Jim Simons' Medallion fund proved this practically with 66% annual returns for 30 years (turning $100 into $8.4B).
 

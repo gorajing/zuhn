@@ -53,6 +53,16 @@ related:
   - INS-260325-13B9
   - INS-260402-4AB4
   - INS-260405-D606
+evidence:
+  - id: INS-260325-13B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-D606
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-A3AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham's examples of Viaweb and Reddit both demonstrate the same pattern: strip away what seems important (transaction processing, graphic design respectively) and solve only the core problem. Viaweb focused on automatically generating web stores when everyone thought e-commerce meant transaction processing. Reddit focused on surfacing what's new and otherwise staying out of the way when everyone expected sophisticated design.
 

@@ -59,6 +59,16 @@ related:
   - INS-260403-8BA2
   - INS-260404-6891
   - INS-260327-70DF
+evidence:
+  - id: INS-260330-5B0C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-8BA2
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-6891
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a specific cultural mechanism: the values of a society's visible elite (in 2004, 'NPR values') become the publicly endorsed norm even when the median person holds different views. People who diverge from that norm don't necessarily change their values — they simply hide them, treating the divergence as a kind of social infraction, like bad table manners. They know what they believe, and they know what they're supposed to believe.
 

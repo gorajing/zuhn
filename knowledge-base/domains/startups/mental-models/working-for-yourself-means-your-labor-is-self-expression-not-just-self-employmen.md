@@ -54,6 +54,16 @@ related:
   - PRI-260323-50FE
   - INS-260328-E410
   - INS-260402-8223
+evidence:
+  - id: INS-260403-F1C6
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-874D
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260402-8223
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Naval identifies a hidden ambiguity in the phrase 'working for yourself': the surface reading is 'you're your own boss,' but the deeper reading is that your labor becomes a form of self-expression — an externalization of who and what you are. This is much harder to achieve and much more valuable when found.
 

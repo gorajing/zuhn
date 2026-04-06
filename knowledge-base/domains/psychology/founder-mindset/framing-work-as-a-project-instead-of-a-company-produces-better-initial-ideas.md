@@ -54,6 +54,31 @@ related:
   - INS-260403-C9DC
   - INS-260330-5A0A
   - INS-260403-71D1
+evidence:
+  - id: INS-260327-B7FC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260328-D866
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260328-6F5B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-CFBF
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6279
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D328
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-5A0A
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-71D1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham highlights that Apple, Facebook, and Microsoft all began as personal projects, not deliberate company-building exercises. Wozniak wanted a computer, Zuckerberg wanted a campus directory, Gates wanted a Basic interpreter. None were trying to start companies. Graham argues this framing matters: founders who think they're building a company get tempted to do something more 'serious' and miss the organic opportunity.
 

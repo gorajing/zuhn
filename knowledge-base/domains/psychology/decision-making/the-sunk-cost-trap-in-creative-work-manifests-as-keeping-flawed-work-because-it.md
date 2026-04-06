@@ -52,11 +52,11 @@ stance: >-
   cost you a lot of effort
 related:
   - INS-260329-B1A1
-  - INS-260402-2074
   - PRI-260328-F0B4
   - INS-260403-E365
   - INS-260403-94C4
   - INS-260403-4431
+  - INS-260403-2B63
   - INS-260403-3FF5
 evidence:
   - id: INS-260330-264B
@@ -77,6 +77,15 @@ evidence:
   - id: INS-260327-CD36
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-E365
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-4431
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-3FF5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham reports cutting a 17-paragraph subtree from this very essay, plus countless shorter ones, and advocates being quick to cut in general. The sunk cost fallacy takes a specific form in creative work: you keep a flawed section not because of pure cost-already-invested reasoning, but because it contains a few genuinely good fragments embedded in a broken structure. This makes it feel wasteful to discard.
 

@@ -52,5 +52,8 @@ evidence:
   - id: INS-260328-D826
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260330-6D2E
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 YC's most valuable feature — its alumni network — was a second-order effect of Jessica Livingston's character-based founder selection. By refusing to fund founders whose characters they doubted, even when they seemed likely to succeed, YC inadvertently built a high-trust community that became self-reinforcing. This suggests that for any organization building a network (accelerator, community, marketplace), character filtering at the gate is not a luxury but the primary value-creation mechanism. The cost of rejecting capable-but-questionable people is lower than expected because, as Graham notes, bad founders who succeed tend to sell early anyway — they never become the long-term network anchors.

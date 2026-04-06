@@ -51,9 +51,37 @@ related:
   - INS-260403-2FE1
   - INS-260403-7FBE
   - INS-260403-BDBE
-  - INS-260403-0AF4
+  - INS-260403-F171
   - INS-260404-6C20
-  - INS-260404-896B
+  - INS-260404-A526
+evidence:
+  - id: INS-260403-81CE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-D2A6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6F52
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-2A1D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2FE1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7FBE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-6C20
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-896B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-E6F9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 After hearing dozens of pitches, investors' memories compress everything into vague impressions. The first survival filter isn't whether you're the best company — it's whether you're remembered at all. A descriptive phrase like 'the Microsoft Word of ecommerce' creates a durable mental anchor that persists through information overload.
 

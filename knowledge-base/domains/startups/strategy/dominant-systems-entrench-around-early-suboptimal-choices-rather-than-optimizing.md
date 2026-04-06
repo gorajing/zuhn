@@ -61,6 +61,25 @@ related:
   - INS-260330-E2F5
   - INS-260403-5755
   - PRI-260403-C34A
+evidence:
+  - id: INS-260325-5E9B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-5755
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-F82A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-E2F5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-A3A2
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-4153
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and oxygen was scarce, making its poor specificity irrelevant. When oxygen levels rose, RuBisCo began binding oxygen half the time—a catastrophic inefficiency. Yet plants doubled down: producing 40 billion tons of the enzyme and evolving photorespiration pathways to handle the toxic byproduct, rather than evolving a better enzyme.
 

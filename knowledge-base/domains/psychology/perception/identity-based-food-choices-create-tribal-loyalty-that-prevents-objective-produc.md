@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-3431
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-0D90
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, creating markets where neither side can objectively assess quality.
 

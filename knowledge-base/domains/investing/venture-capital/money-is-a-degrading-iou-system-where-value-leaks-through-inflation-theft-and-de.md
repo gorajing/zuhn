@@ -60,6 +60,28 @@ related:
   - INS-260404-EEAF
   - INS-260404-108C
   - INS-260405-3066
+evidence:
+  - id: INS-260323-1338
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-7FD6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-BF96
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-89ED
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6602
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-108C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-3066
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Naval frames money not as wealth itself but as a transfer mechanism — social credits representing IOUs for value previously created. When you create value for society, you receive money as a promise of future reciprocity. However, this IOU system degrades through multiple channels: governments print extra IOUs (inflation), people steal IOUs (fraud), and people renege on IOUs (default).
 

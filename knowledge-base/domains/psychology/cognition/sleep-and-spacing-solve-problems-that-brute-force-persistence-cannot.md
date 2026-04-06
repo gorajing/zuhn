@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-8D66
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260321-AD95
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
 ---
 The author describes a universal programmer experience: staying up late, Stack Overflowing every possible combination, giving up, sleeping, then immediately solving the problem the next morning. This isn't anecdotal—it reflects well-documented cognitive science. Focused-mode thinking (conscious, analytical) can get trapped in local optima, while diffuse-mode thinking (unconscious, associative) explores a wider solution space during rest.
 

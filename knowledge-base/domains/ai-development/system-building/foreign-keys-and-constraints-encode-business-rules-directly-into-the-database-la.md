@@ -66,5 +66,8 @@ evidence:
   - id: INS-260402-3196
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-FF74
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 The tutorial emphasizes that constraints like FOREIGN KEY, NOT NULL, UNIQUE, and ON DELETE CASCADE aren't just nice-to-haves — they're the database's way of saying 'I will never allow invalid state.' When business rules live only in application code, every new client or API endpoint must re-implement those rules, and a single bug can corrupt shared data. By contrast, constraints at the database layer are enforced universally. This principle generalizes to any system architecture: enforce invariants at the lowest shared layer. In AI pipelines, this means validating data schemas at ingestion rather than hoping every downstream consumer handles malformed input gracefully.

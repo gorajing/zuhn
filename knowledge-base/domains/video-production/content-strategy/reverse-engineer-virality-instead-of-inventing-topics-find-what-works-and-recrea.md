@@ -100,5 +100,8 @@ evidence:
   - id: INS-260330-F2EB
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-555D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The creator's topic research system eliminates the guessing game entirely: browse YouTube in incognito mode (so the feed isn't personalized and shows what's actually trending), search for your niche category, filter to Shorts, and scroll until you find videos going viral. Check the description for total views and posting date to confirm recency. Then recreate the concept with original execution — never steal the actual video (copyright strikes kill channels), but the underlying story structure and emotional hook are fair game. The creator demonstrates this by showing a heartwarming story video they modeled after a trending one — their recreation got more views than the original. The strategy works because you're leveraging proven audience demand rather than starting from unvalidated ideas. This gives 'infinite ideas that are proven to work' and can be repeated daily.

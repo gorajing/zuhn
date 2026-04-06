@@ -50,11 +50,12 @@ related:
   - INS-260321-9A03
   - INS-260322-7723
   - INS-260403-DFC3
-  - INS-260404-438C
   - INS-260404-AFE6
   - INS-260405-0B17
   - INS-260404-ED0F
   - INS-260403-4337
+  - INS-260404-187C
+  - INS-260404-0095
   - INS-260404-5017
 evidence:
   - id: INS-260404-438C
@@ -63,6 +64,21 @@ evidence:
   - id: INS-260321-9A03
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260322-7723
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-DFC3
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-AFE6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260405-0B17
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-ED0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most investors at Demo Day lack the technical background to independently evaluate what a startup has built, and the time constraint (ten minutes) makes deep evaluation impossible anyway. In this information-poor environment, investors fall back on heuristic signals, and the strongest one is the founder's own conviction.
 

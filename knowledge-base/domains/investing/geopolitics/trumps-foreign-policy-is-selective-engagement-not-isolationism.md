@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-9E26
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-0525
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Dr. Kim identifies three foreign policy camps within the Republican Party: Reagan-era world police, MAGA non-interventionism, and selective engagement (Elbridge Colby's approach). She places Trump squarely in the third camp.
 

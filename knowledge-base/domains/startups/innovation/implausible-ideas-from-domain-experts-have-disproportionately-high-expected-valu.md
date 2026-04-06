@@ -57,6 +57,16 @@ related:
   - INS-260403-4788
   - INS-260403-B12E
   - INS-260330-4EF8
+evidence:
+  - id: INS-260327-4367
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-15F4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-B12E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When a reasonable domain expert proposes an implausible idea, the implausibility itself becomes evidence of potential value rather than evidence of incompetence. The expert knows how crazy it sounds yet proposes it anyway, suggesting they possess knowledge the listener lacks. This creates an efficient-market dynamic: the craziest-sounding ideas, if correct, produce the largest effects. The systematic conservatism of paradigm-bound thinking means these ideas have already survived an excessively strict internal filter before being proposed publicly, making them better bets than they appear.
 

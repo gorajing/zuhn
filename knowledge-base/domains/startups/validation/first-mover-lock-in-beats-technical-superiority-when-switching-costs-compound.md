@@ -50,14 +50,20 @@ related:
   - INS-260323-F963
   - INS-260330-2BF4
   - INS-260403-3946
-  - INS-260403-C436
   - INS-260405-8469
   - INS-260404-1000
   - INS-260404-3B9D
+  - INS-260404-5DE4
 evidence:
   - id: INS-260323-F963
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-8469
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-2BF4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo is objectively bad at its job — it confuses oxygen for CO2 roughly half the time, creating toxic byproducts that plants must spend energy cleaning up. Yet it remains the most abundant protein on Earth (40 billion tons) because it was the first enzyme to fix carbon, and all plant life evolved around it.
 

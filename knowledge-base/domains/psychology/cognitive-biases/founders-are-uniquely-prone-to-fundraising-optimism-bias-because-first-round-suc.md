@@ -51,5 +51,18 @@ related:
   - INS-260404-7071
   - PRI-260403-26B9
   - INS-260403-FE3B
+evidence:
+  - id: INS-260327-BA93
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-B09B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-7071
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-FE3B
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a specific variant of optimism bias that affects startup founders: having successfully convinced investors once, they assume they can do it again. But the conditions are categorically different — the bar is higher, the framing is adversarial, and the burn is larger. This is a calibration error rooted in anchoring to a non-comparable reference experience. The first raise was under 'too early to judge' conditions; the second is under 'prove you're not failing' conditions. This bias is particularly dangerous because it's self-reinforcing: the more confident founders are about future fundraising, the less urgently they pursue profitability, which makes their situation worse. Graham's prescription — assume the probability of raising more is zero — is a deliberate overcorrection designed to defeat this specific bias.

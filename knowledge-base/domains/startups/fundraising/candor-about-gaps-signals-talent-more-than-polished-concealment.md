@@ -57,5 +57,14 @@ evidence:
   - id: INS-260322-2D2F
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-AA09
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-5C1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-0353
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham observes that founders instinctively try to conceal rawness—adopting corporate affectations or pretending expertise they lack—but this strategy backfires with sophisticated investors. Smart investors aren't looking for finished presentations; they're pattern-matching for raw talent and genuine insight into a real problem. Concealment efforts don't just fail to impress—they actively obscure the very qualities investors are screening for. The asymmetry Graham identifies is key: hackers are amateurs at deception while experienced investors are professionals at detection. This creates a dominant strategy where honesty isn't just ethical but tactically optimal. Google had no office and no business experience, and investors who saw past that got the best return in venture history.

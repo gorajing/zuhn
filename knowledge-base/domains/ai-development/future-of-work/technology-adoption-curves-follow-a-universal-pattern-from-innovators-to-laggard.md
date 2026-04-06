@@ -82,6 +82,9 @@ evidence:
   - id: INS-260403-AC5E
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260403-1B9E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Leyden draws on decades observing technology diffusion to argue that all successful technologies follow the same adoption curve: innovators try it, early adopters use it, early majority catches on, late majority follows, and finally laggards join when they have no choice. The internet, color TV, smartphones, and solar all followed this path.
 

@@ -1,7 +1,7 @@
 # Tag: pivoting
 
-- `INS-260330-4AE7` Use a 3-4 week growth flatline as a concrete pivot trigger, provided you've been executing with full effort.
 - `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
+- `INS-260330-4AE7` Use a 3-4 week growth flatline as a concrete pivot trigger, provided you've been executing with full effort.
 - `INS-260404-F708` Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
 - `INS-260330-F1C8` Track confidence in your investment thesis bullets to know when to persist, adapt, or pivot.
 - `INS-260322-C9AC` Founders who define themselves by a life mission rather than a specific product idea can pivot repeatedly without existential crisis.

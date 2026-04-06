@@ -60,6 +60,30 @@ evidence:
   - id: INS-260327-C5D9
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260329-57D7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-5306
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-7A3C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-DD06
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-6900
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-7182
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-E255
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D746
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The common assumption is that scheduled interruptions are less disruptive because they're predictable. Graham argues the opposite: when you know a meeting is coming, you unconsciously avoid starting anything that requires deep loading of context into working memory. You never even attempt the hard problem.
 

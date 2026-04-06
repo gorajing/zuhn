@@ -52,6 +52,28 @@ related:
   - INS-260403-6652
   - INS-260329-E402
   - INS-260329-65CD
+evidence:
+  - id: INS-260323-8E4D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-6652
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260402-3639
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-519E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-65CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-A19F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-E402
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 There's a common misconception that sophisticated ideas require sophisticated prose. Graham observes the opposite: specialists discussing abstruse topics with peers use sentence structures no more complex than lunch conversation. They use precise terminology, but only as much as necessary.
 

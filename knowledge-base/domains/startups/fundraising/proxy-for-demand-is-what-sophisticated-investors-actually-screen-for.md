@@ -51,6 +51,10 @@ related:
   - INS-260405-F980
   - INS-260405-E7FB
   - INS-260403-30D8
+evidence:
+  - id: INS-260325-D797
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The biggest investor fear with early startups is that founders built something from a priori theories that nobody actually wants. The antidote is showing proxy for demand: what are people doing right now, with inadequate tools, that proves they need what you're making?
 

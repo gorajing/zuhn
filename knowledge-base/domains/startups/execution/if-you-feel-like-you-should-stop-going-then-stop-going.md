@@ -56,6 +56,9 @@ evidence:
   - id: INS-260329-3848
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-21B2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Kausas frames the persistence question with brutal simplicity: if you feel like you should stop, you probably should. The only founders who should continue are those who literally can't stop themselves—there's something nagging inside that won't let them quit.
 

@@ -84,5 +84,17 @@ evidence:
   - id: INS-260402-E470
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260329-F969
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-8190
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260405-F6A6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-F100
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Severance opens the course with a claim that became more interesting with time: 'It is much easier for us to learn to speak their language than it is for them to learn to speak our language.' He notes that it took 40-50 years of research for computers to begin understanding human speech. This asymmetry reveals something deep about computation — machines are literal by design, processing instructions without the error-correction that humans apply automatically (like reading 'ham' as 'hand' in the Macarena example). Even as LLMs have dramatically closed this gap, the underlying point holds: structured communication with machines (code, prompts, schemas) remains more reliable than ambiguous natural language. The implication for AI development is that the best interfaces don't eliminate structure — they make structure more learnable.

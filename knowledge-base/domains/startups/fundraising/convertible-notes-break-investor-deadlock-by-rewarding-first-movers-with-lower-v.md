@@ -53,6 +53,13 @@ related:
   - INS-260403-0680
   - INS-260322-6C4B
   - INS-260402-40D7
+evidence:
+  - id: INS-260402-40D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-2250
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Fixed-size equity rounds create a deadlock where every angel investor waits to see who else commits before they do, like cyclists deliberately riding slowly to follow the first mover. Convertible notes with variable valuation caps solve this by letting startups offer lower effective valuations to investors who commit first — appropriately compensating them for taking more risk.
 

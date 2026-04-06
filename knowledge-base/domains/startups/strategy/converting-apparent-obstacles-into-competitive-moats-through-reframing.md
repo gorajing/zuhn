@@ -59,6 +59,10 @@ related:
   - INS-260404-B24E
   - INS-260404-8B1C
   - INS-260403-524B
+evidence:
+  - id: INS-260330-0C1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Costco's strategy is a masterclass in obstacle-to-advantage conversion. Its membership fee should make customer acquisition fatally difficult — instead, it creates loyal, affluent patrons. Its warehouse layout should confuse and annoy shoppers — instead, it forces wandering through aisles (increasing impulse purchases) and makes customers feel like deal-hunters. Its limited selection should frustrate choice-seeking consumers — instead, it eliminates decision paralysis and concentrates buying power.
 

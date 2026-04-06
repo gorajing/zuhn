@@ -70,6 +70,9 @@ evidence:
   - id: INS-260327-A462
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-6BAF
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Austria's plan at Rivoli was to attack Napoleon from multiple directions simultaneously. On paper, this would overwhelm him. In practice, the different columns couldn't coordinate timing (mountains and weather caused delays), and Napoleon — positioned centrally — defeated each column individually. The dispersion that was supposed to be Austria's advantage became their fatal weakness.
 

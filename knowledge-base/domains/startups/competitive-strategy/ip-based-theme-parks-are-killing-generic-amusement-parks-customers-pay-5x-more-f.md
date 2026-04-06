@@ -55,5 +55,8 @@ evidence:
   - id: INS-260330-F9CA
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-3F91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Amusement parks used to compete on ride speed and drop height. Now what matters is intellectual property. Disney and Universal charge 2-5x more for entry alone, then extract further spend through $9 Harry Potter butterbeer, $15 One Piece meat-on-the-bone, and branded merchandise. Generic amusement parks like Six Flags can't compete — having the fastest roller coaster is irrelevant when customers would rather make a special trip to Diagon Alley. The lesson applies beyond theme parks: in any experience economy, IP and emotional resonance beat functional superiority.

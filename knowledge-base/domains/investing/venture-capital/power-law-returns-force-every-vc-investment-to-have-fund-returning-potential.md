@@ -47,5 +47,9 @@ related:
   - INS-260325-0688
   - INS-260403-4717
   - INS-260323-1B42
+evidence:
+  - id: INS-260405-3403
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Venture capital returns do not follow a normal distribution — they follow an extreme power law where most investments return 0-1x and a tiny number generate all the returns. This mathematical reality means VCs cannot afford to make 'safe' bets on companies that will return 2-3x; every investment must theoretically be capable of returning the entire fund. For a $100M fund owning 10% of a company, that company must reach $1B+ valuation just to return the fund once. This is why VCs reject good businesses that aren't big enough — it's not about quality, it's about the math of their portfolio construction requiring extreme outcomes.

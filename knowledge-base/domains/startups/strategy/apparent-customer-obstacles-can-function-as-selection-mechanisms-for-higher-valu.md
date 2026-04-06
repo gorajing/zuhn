@@ -74,6 +74,9 @@ evidence:
     relationship: RELATED
   - id: INS-260403-C40D
     relationship: RELATED
+  - id: INS-260403-F98F
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Conventional business wisdom says reduce friction to maximize customer acquisition. Costco's membership fee appears to violate this—charging customers before they can even browse. But the fee functions as a selection mechanism: it filters for households with ~$100K average income and business owners (one-third of members, two-thirds of sales). The sunk-cost psychology then converts these high-value customers into loyal repeat buyers who stop price-comparing.
 

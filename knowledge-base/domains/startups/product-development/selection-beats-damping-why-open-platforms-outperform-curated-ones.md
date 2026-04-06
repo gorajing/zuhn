@@ -51,6 +51,10 @@ related:
   - INS-260330-012D
   - PRI-260328-F497
   - INS-260403-0C1D
+evidence:
+  - id: INS-260402-B12D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that while 95% of articles are improved by editing, the top 5% are actually dragged down. Editors compress output toward a high but bounded quality ceiling. Open platforms like Reddit or blogs remove this damping—most content is worse, but the sheer size of the contributor pool means the best content surpasses anything a curated publication could produce.
 

@@ -45,11 +45,11 @@ stance: >-
   provider-patient communication, creating the core dysfunction that healthcare
   AI must route around rather than integrate with.
 related:
+  - INS-260405-85B5
   - INS-260403-2A44
   - INS-260327-5D62
   - INS-260327-9DA6
   - INS-260323-5CBE
-  - INS-260329-CEC5
 evidence:
   - id: INS-260323-5CBE
     type: SUPPORTS

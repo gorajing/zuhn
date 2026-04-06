@@ -56,6 +56,16 @@ related:
   - INS-260403-3912
   - INS-260403-8BE9
   - INS-260325-DFC7
+evidence:
+  - id: INS-260330-A561
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-8BE9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-DFC7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Because there is no official government definition of a digital US dollar, anyone can create a token branded as USD without any backing requirements. This is digital counterfeiting made trivially easy — the author notes you could launch a fake USD stablecoin in 15 minutes. At the nation-state level, this means China could theoretically create an RMB-backed stablecoin branded as USD, connecting the American brand to Chinese monetary policy.
 

@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-E81D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-3E46
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Weinstein's observation maps a consistent structure across historical moral panics: a small group drives the hunt, a large group follows, most stay silent, and the tiny group that opposes becomes the target. This pattern appears in the quotes collection alongside Einstein's note that 'few people are capable of expressing opinions which differ from the prejudices of their social environment' and Robert P. George's classroom experiment showing everyone believes they'd have been abolitionists.
 

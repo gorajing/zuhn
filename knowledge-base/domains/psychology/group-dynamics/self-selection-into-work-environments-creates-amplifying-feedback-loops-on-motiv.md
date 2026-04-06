@@ -56,6 +56,13 @@ related:
   - INS-260404-5A3D
   - INS-260403-3E9A
   - INS-260325-57CA
+evidence:
+  - id: INS-260325-57CA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-3E9A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a compounding social dynamic in career choice: the reason you choose a type of work determines the character of your peers, which in turn amplifies that original motivation. Finance attracts people optimizing for compensation, creating an environment where compensation obsession intensifies. Research attracts people optimizing for intellectual interest, creating an environment where curiosity deepens.
 

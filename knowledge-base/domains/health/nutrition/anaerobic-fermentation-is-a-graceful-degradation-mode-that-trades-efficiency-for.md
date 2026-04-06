@@ -49,10 +49,10 @@ stance: >-
   oxygen debt, but this keeps the system running rather than halting entirely
 related:
   - INS-260330-AB3C
-  - INS-260330-6ECA
   - INS-260405-C497
   - INS-260404-47F5
   - INS-260404-8256
+  - INS-260330-BFA2
 evidence:
   - id: INS-260330-6ECA
     type: SUPPORTS
@@ -75,6 +75,9 @@ evidence:
   - id: INS-260404-47F5
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260404-8256
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When oxygen is unavailable, cells reroute pyruvates from glycolysis into fermentation rather than the Krebs Cycle and electron transport chain. This yields only 2 ATP per glucose molecule compared to the 38 from full aerobic respiration — a 95% efficiency loss. In human muscles, this produces lactic acid as a byproduct, causing the soreness associated with intense exercise.
 

@@ -60,6 +60,16 @@ related:
   - INS-260330-9346
   - INS-260330-41DB
   - INS-260325-7FE6
+evidence:
+  - id: INS-260330-41DB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-3DB2
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260325-7FE6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Heinrich Magnus formally described his eponymous effect in 1852, and Isaac Newton observed it nearly 200 years earlier while watching tennis balls at Cambridge. Yet Flettner rotors — which apply this principle directly to ship propulsion — only began seeing real commercial adoption in the 2010s with vessels like the E-Ship 1. The physics was never a bottleneck; economics, manufacturing capability, and competitive inertia were.
 

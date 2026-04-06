@@ -55,6 +55,10 @@ related:
   - INS-260402-91B5
   - INS-260329-ADC4
   - INS-260402-9D7B
+evidence:
+  - id: INS-260402-9D7B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Lightricks CEO Zeev Farbman, who ran a company with only one-third of his team available during reserve duty call-ups, stated that 'if your prioritization isn't being felt, you're not cutting deep enough.' This goes beyond the standard startup advice to focus. It's a diagnostic test: look around your organization and ask whether the prioritization decisions are actually changing people's daily work. If everyone is still working on the same things with vague awareness that 'priorities shifted,' the exercise was theater.
 

@@ -67,6 +67,12 @@ evidence:
   - id: INS-260330-EAA3
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260403-F249
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-464D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In photosynthesis, the electron transport chain doesn't directly create usable energy. Instead, it pumps protons across the thylakoid membrane, building up an artificial concentration gradient. When those protons naturally push back toward equilibrium through ATP synthase, that flow drives the mechanical production of ATP.
 

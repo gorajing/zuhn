@@ -64,5 +64,8 @@ evidence:
   - id: INS-260402-FEA3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-8EFF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham observes that human knowledge grows fractally—areas that once seemed trivial expand into entire fields. This increases the number of situations where performance is measured, which mathematically forces the average (wisdom) and peaks (intelligence) of the same curve further apart. In Confucius's time, with fewer specialized domains, a wise person and a smart person looked similar. Today, with thousands of specialized fields, the distinction is sharp. Society has voted: we admire the genius over the sage. This isn't just cultural drift—it reflects the structural reality that as more work becomes unbounded and creative, peak performance (intelligence) delivers more value than reliable average performance (wisdom). The tradeoff is real: time spent building broad judgment across domains is time not spent pushing peaks in one domain.

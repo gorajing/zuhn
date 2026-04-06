@@ -65,6 +65,10 @@ related:
   - INS-260329-0487
   - INS-260403-1CC5
   - INS-260327-1787
+evidence:
+  - id: INS-260327-1787
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Harris repeats a specific framing: 'It doesn't matter how long you've been lost in thought. Just notice it in this instant and come back.' This is not motivational language — it is a precise cognitive intervention. The alternative framing ('I've been distracted for two minutes, I've failed') triggers self-criticism, which itself becomes a new distraction requiring additional recovery time. The neutral framing collapses recovery latency to near zero.
 

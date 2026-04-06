@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 206 insights
+> 202 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -94,7 +94,6 @@
 - `INS-260403-C8A9` [high] Investor interest compounds exponentially because each commitment makes others more likely to invest.
 - `INS-260404-896B` [high] Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 - `INS-260403-82CC` [high] Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
-- `INS-260404-438C` [high] When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - `INS-260405-180B` [high] A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
 - `INS-260404-103B` [high] Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260405-4AE1` [high] State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
@@ -129,7 +128,6 @@
 - `INS-260403-ED1F` [high] Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
 - `INS-260405-2AFB` [high] Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260405-C22F` [high] Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
-- `INS-260404-3713` [high] Craft a single sticky phrase that positions your startup and launch it near the beginning of your pitch—if you can't, your plans may not be sufficiently focused.
 - `INS-260328-0C4C` [high] Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
 - `INS-260403-8D8D` [high] Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
 - `INS-260330-C8E1` [high] Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
@@ -157,7 +155,6 @@
 - `INS-260405-672E` [high] Investors' biggest fear is that you built something nobody wants — concrete user stories are the antidote to that fear.
 - `INS-260403-53AA` [high] Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-035A` [high] Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
-- `INS-260404-B887` [high] Tell specific stories about real users and their problems to counter the investor's biggest fear: that you've built something based on untested theories about what the world needs.
 - `INS-260403-D7DF` [high] Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-8F31` [high] Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1949` [high] Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
@@ -195,7 +192,6 @@
 - `INS-260403-C0D4` [medium] Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260330-1002` [medium] Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260403-37F4` [medium] Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
-- `INS-260327-DFF0` [medium] The era of $200M funds leading Series A rounds is over — the math on round sizes, follow-on reserves, and time-to-exit now demands billion-dollar vehicles.
 - `INS-260403-5106` [medium] High-charisma founders get more tolerance for past mistakes than low-charisma ones.
 - `INS-260328-3A00` [medium] YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
 - `INS-260403-87CD` [medium] A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.

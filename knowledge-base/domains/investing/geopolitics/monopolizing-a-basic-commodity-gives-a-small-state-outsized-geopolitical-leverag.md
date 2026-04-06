@@ -77,6 +77,9 @@ evidence:
   - id: INS-260330-E786
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260405-0FC4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Before Venice dominated the spice trade, it dominated salt — 'the true foundation of our state' as Venetians called it. Salt was essential for food preservation in the pre-refrigeration world, had limited production sites, and Venice's lagoons were natural salt pans. This gave a tiny refugee settlement control over something every European kingdom needed. The salt monopoly funded Venice's first ships, which enabled the spice trade, which funded the navy, which enforced the monopoly.
 

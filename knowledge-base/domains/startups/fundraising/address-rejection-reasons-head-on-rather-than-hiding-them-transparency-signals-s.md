@@ -50,11 +50,20 @@ related:
   - INS-260403-915E
   - INS-260405-0B17
   - INS-260403-47B7
-  - INS-260404-438C
+  - INS-260404-EE85
 evidence:
   - id: INS-260325-9AD4
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-47B7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-AF54
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-915E
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The most common founder lie is implying other investors are about to commit. Most founders can't pull this off because investors hear this constantly. Graham argues the better strategy is radical transparency: explain what scared previous investors and why they're mistaken. This works especially well with top-tier investors who already believe most VCs are conventional-minded and miss the biggest outliers.
 

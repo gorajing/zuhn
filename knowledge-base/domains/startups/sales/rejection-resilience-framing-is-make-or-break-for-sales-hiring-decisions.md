@@ -58,6 +58,12 @@ evidence:
   - id: INS-260330-C13A
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-02BE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-5365
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Every sales interview includes some variant of 'tell me about a time you faced rejection' or 'how do you handle losing a deal.' The question isn't really about the rejection — it's a proxy for coachability, self-awareness, and long-term durability in a high-rejection role.
 

@@ -59,6 +59,10 @@ related:
 stance: >-
   A week is long enough to validate ideas and ship products; ten years captures
   true strategic direction
+evidence:
+  - id: INS-260403-74DB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Learned from Tobi Lutke, who applies a zero discount rate to the future — caring about what happens in 10 years as much as what happens today. Nejatian adds the weekly cadence: you can validate most ideas in a week, ship most things in a week. But 12 weeks (a quarter) is not useful for measuring anything meaningful — cohorts don't bake in that time, and results of most decisions show up either within a week or over years.
 

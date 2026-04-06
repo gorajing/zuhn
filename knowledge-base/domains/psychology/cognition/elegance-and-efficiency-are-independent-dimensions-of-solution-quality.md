@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-F5A1
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-DC6C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 3Blue1Brown highlights that this algorithm would win Olympic medals for both elegance and comedic inefficiency. Computing 20 digits of pi requires a block with mass 10 times that of the Milky Way's supermassive black hole and counting 31 billion billion collisions. Yet the algorithm is beautiful precisely because it reveals a deep structural truth about why pi exists.
 

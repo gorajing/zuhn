@@ -57,6 +57,9 @@ evidence:
   - id: INS-260330-9367
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-66BE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The US is building housing at record rates while still short 4 million homes. The resolution: virtually all new construction is luxury because only luxury units generate sufficient margins at current construction costs. The market reliably produces what's profitable, not what's needed.
 

@@ -58,5 +58,8 @@ evidence:
   - id: INS-260330-2601
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-ACDA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham cites Sequoia's Greg McAdoo on the concept of 'proxy for demand': instead of arguing about total addressable market, show what people are currently doing with inadequate tools that demonstrates they need what you're building. This is powerful because it shifts from theoretical ('the market is $5B') to observable ('users are doing X painful workaround right now'). Graham explicitly dismisses market size numbers as irrelevant at the early stage — 'like an actor at the beginning of his career telling his parents how much Tom Hanks makes.' The strongest version of this is when founders built something to solve their own problem, which is why so many famous startups (Apple, Microsoft, Yahoo, Google) grew from founder need. The hierarchy of demand evidence is: your own need > needs of people you know personally > observed workarounds in the market.

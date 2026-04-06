@@ -47,5 +47,9 @@ related:
   - INS-260403-FAC0
   - INS-260330-CD7A
   - INS-260322-F65F
+evidence:
+  - id: INS-260322-F65F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham's hierarchy reveals that disagreement forms DH0 through DH2 are structurally incapable of proving anything—they address the person or their tone, never the argument itself. This means an eloquent ad hominem is no more logically valid than crude name-calling; the sophistication is cosmetic. The practical implication is a simple diagnostic: if you can't identify a specific claim being challenged with evidence, the disagreement is below DH4 and can be safely deprioritized regardless of how forceful it sounds. This is especially useful for filtering online discourse where rhetorical polish often substitutes for substantive engagement.

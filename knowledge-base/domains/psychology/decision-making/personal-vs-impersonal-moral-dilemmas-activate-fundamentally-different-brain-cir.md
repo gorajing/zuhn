@@ -55,8 +55,8 @@ related:
   - INS-260404-0519
   - INS-260404-0348
   - INS-260330-DBB3
-  - INS-260330-92BB
   - INS-260330-C548
+  - INS-260330-D5DD
 ---
 The classic trolley problem and its footbridge variant produce identical utilitarian math (sacrifice one to save five) but radically different psychological experiences. The impersonal version (flicking a switch) engages the prefrontal cortex, posterior parietal cortex, and temporal regions — cold empathy circuits responsible for reasoning. The personal version (physically pushing someone) activates the amygdala and medial orbital frontal cortex — hot empathy circuits that make us feel what another person would feel.
 

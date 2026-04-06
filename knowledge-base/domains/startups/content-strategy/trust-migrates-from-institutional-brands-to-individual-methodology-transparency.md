@@ -60,6 +60,10 @@ related:
   - INS-260403-22FE
   - INS-260405-1F65
   - INS-260329-4A69
+evidence:
+  - id: INS-260403-22FE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The 2026 sensemaking media landscape reveals a fundamental shift in how audiences assign credibility. Rather than defaulting to institutional authority (newspapers, universities, think tanks), consumers increasingly evaluate content by whether the creator visibly shows their reasoning process — citing sources, acknowledging uncertainty, updating positions when wrong.
 

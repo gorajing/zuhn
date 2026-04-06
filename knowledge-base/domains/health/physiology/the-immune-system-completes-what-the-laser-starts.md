@@ -52,7 +52,6 @@ stance: >-
   clearance — neither alone is sufficient.
 related:
   - INS-260323-F2AE
-  - INS-260327-97AD
   - INS-260327-97AE
   - INS-260330-F76B
   - INS-260330-FD7C

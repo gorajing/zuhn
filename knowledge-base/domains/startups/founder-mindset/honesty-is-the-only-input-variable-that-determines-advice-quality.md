@@ -56,5 +56,17 @@ evidence:
   - id: INS-260327-52CF
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-4363
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-9DE0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-37F7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-58AE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Michael makes the direct comparison to LLM prompting: if you type in a generic, lame prompt, you get a generic answer; if you spend time crafting a really good prompt with unique aspects, you get interesting answers. The same applies to adviser interactions. The most valuable thing a founder can do is be honest about the three things that give them a stomach ache — even embarrassing ones like low morale or not having fun. Counterintuitively, when founders are super honest about something they think is really bad, advisers often respond with 'oh, you think THAT's bad?' — the thing the founder was hiding turns out to be normal or solvable. But when you hide it, you leave the meeting catastrophizing when you didn't need to.

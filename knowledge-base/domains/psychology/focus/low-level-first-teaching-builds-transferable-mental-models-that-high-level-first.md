@@ -74,6 +74,15 @@ evidence:
   - id: INS-260329-04FA
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-EDA2
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260322-DAA1
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-3831
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 CS50's curriculum deliberately starts with C — pointers, memory allocation, manual string handling — before introducing Python. This seems counterintuitive since Python is easier and more immediately productive. But the pedagogical bet is that struggling with low-level concepts builds a foundation that makes high-level abstractions legible rather than magical.
 

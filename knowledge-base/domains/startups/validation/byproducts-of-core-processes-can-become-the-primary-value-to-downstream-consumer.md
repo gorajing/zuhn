@@ -51,12 +51,12 @@ stance: >-
   The most valuable output of a system is often not the intended product but a
   side effect that enables an entirely different ecosystem
 related:
-  - INS-260330-3AB4
+  - INS-260330-2119
   - INS-260330-E786
   - INS-260403-C0D4
   - INS-260404-E9F3
-  - INS-260330-2119
   - INS-260330-19C3
+  - INS-260403-FDD8
 evidence:
   - id: INS-260330-3AB4
     type: REFINES
@@ -67,6 +67,9 @@ evidence:
   - id: INS-260403-D85D
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-E786
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The video explicitly calls oxygen 'the most useful useless byproduct in the history of useless byproducts.' Plants split water molecules to replenish lost electrons — oxygen is just waste. Yet this waste product enabled the entire aerobic ecosystem, including every animal that has ever lived. The byproduct became more consequential than the intended product (glucose for the plant).
 

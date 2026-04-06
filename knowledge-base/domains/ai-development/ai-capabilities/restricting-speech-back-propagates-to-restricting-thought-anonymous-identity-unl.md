@@ -93,6 +93,18 @@ evidence:
   - id: INS-260403-CBB2
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260404-18F1
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2AF0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-F172
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-CCC3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Verdon discovered that creating an anonymous account (Beff Jezos) felt like 'unclamping variables in his brain' — he could suddenly explore a much wider parameter space of thought. He didn't realize how much he was restricting his thinking until he had the opportunity to let go. Restrictions on speech back-propagate to restrictions on thought.
 

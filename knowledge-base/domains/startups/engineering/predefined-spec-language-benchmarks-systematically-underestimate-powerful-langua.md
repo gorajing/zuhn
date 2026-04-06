@@ -63,6 +63,12 @@ evidence:
   - id: INS-260327-40DA
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-BDCC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-9676
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham distinguishes between two capabilities: solving a predefined problem versus discovering and solving new problems. Formal language studies necessarily use predefined specs and small problems, which tests the wrong thing. The true power of a language is how well it serves as a medium for thinking — like the difference between embroidery (good for reproducing known images) and oil paint (good for discovering images as you work).
 

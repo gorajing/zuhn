@@ -75,6 +75,9 @@ evidence:
   - id: INS-260330-8BDA
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-7BBD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 To capture an AK-47 firing underwater at 27,450fps, SmarterEveryDay built a custom periscope mirror system. This wasn't just a practical necessity — the rig's design embedded hypotheses about where the interesting phenomena would occur, what field of view was needed, what lighting conditions would reveal the physics, and what temporal resolution would separate the mechanisms. Getting any of these wrong would have produced footage showing nothing interesting.
 

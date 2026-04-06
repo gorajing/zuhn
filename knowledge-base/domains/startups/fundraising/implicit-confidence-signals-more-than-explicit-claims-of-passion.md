@@ -60,6 +60,22 @@ related:
   - INS-260328-E410
   - INS-260330-2576
   - INS-260403-2F22
+evidence:
+  - id: INS-260325-8DF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-B0F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-58AE
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-915E
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-0CD8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Investors have heard thousands of pitches. Explicit claims of quality or passion have been conditioned into meaninglessness through overuse. Worse, stating them can mark you as naive about investor norms or, more charitably, as someone who relies on assertion rather than demonstration.
 

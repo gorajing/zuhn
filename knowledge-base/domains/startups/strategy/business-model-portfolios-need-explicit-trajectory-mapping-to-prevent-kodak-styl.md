@@ -59,6 +59,10 @@ related:
   - INS-260322-F6AA
   - INS-260403-98F3
   - INS-260404-17DD
+evidence:
+  - id: INS-260330-DA38
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Portfolio Map prototype includes visual annotations for trends and trajectories of each business model — whether it's growing, shrinking, or shifting position on the two axes. This seemingly simple addition addresses a critical failure mode in strategic planning: the inability to detect gradual decline.
 

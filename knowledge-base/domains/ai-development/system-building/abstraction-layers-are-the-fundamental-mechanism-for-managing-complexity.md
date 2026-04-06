@@ -63,5 +63,8 @@ evidence:
   - id: INS-260329-8D19
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-112E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The course traces a clear abstraction hierarchy: binary → machine code → assembly → high-level languages → built-in functions → imported libraries → custom functions. Each layer hides the complexity below it. The print statement, for example, wraps 'extremely complex code' into a single line. Functions exist primarily to wrap repeated code segments into reusable, named units. This layered abstraction is identical to how effective AI systems are built — you don't expose raw model outputs; you wrap them in functions, validation layers, and orchestration logic. The key insight is that abstraction isn't just about convenience — it's about making systems comprehensible enough to debug, modify, and extend. The same principle drives good API design, good prompt engineering (abstracting complex instructions into reusable templates), and good knowledge management (compressing insights into principles).

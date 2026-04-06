@@ -57,6 +57,9 @@ evidence:
   - id: INS-260330-007E
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-D36D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi explicitly cut masterminds and events — activities most entrepreneurs consider high-value investments, not distractions. This is the non-obvious part of the argument. Social media is an obvious time sink; cutting it is common advice. But cutting masterminds, conferences, and networking events contradicts mainstream entrepreneurial wisdom.
 

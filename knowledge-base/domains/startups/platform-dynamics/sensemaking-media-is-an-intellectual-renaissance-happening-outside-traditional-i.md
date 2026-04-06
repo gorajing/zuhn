@@ -58,6 +58,13 @@ related:
   - INS-260405-6BC4
   - PRI-260322-DCDB
   - INS-260403-2AF0
+evidence:
+  - id: INS-260403-2AF0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-795D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The analysis of 30 top sensemaking platforms reveals that the center of gravity for serious intellectual discourse has shifted decisively outside traditional institutions. University academics, legacy journalists, and think tank researchers are no longer the primary producers of high-quality public reasoning — independent creators are.
 

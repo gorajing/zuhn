@@ -83,6 +83,12 @@ evidence:
   - id: INS-260403-2BAD
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-C555
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260403-5D81
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Music engages more simultaneous brain systems than almost any other activity: motor control, auditory processing, emotional circuits, memory systems, and pattern recognition all activate together. Regular musical practice strengthens connections between these systems, physically enlarging structures like the corpus callosum that bridges brain hemispheres.
 

@@ -58,6 +58,19 @@ related:
   - INS-260330-376E
   - INS-260403-DE45
   - INS-260403-AA09
+evidence:
+  - id: INS-260403-AA09
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-870B
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-3899
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-A14D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham distinguishes between legitimate and manufactured urgency in fundraising. If you're genuinely progressing toward an offer from investor B but prefer investor A, telling A creates real pressure without manipulation. However, investors are oversensitive to fabricated urgency because founders attempt it constantly.
 

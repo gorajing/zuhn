@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-B583
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-B734
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Carlson identifies a general-purpose heuristic: when someone pushing a major initiative refuses to define what success looks like precisely, deception is almost certainly involved. He applies this to Ukraine war policy ('victory was never defined precisely') but the principle is universal.
 

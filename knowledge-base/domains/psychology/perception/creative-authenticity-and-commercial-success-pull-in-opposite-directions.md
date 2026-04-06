@@ -57,6 +57,9 @@ evidence:
   - id: INS-260323-F282
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-8E4D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Creative authenticity requires breaking conventions, taking risks, and expressing uncomfortable truths. Commercial success requires meeting audience expectations, managing risk, and producing reliable output. Thompson's career embodies the tension: his most authentic work was also his most commercially successful initially, but the market demanded more of the same, turning authenticity into formula.
 

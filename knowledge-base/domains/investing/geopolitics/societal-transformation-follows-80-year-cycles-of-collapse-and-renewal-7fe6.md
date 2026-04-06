@@ -84,6 +84,15 @@ evidence:
   - id: INS-260403-A22E
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260405-911F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-740E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7C71
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Leyden identifies four inflection points in American history spaced roughly 80 years apart: the Founding Era (1780s), post-Civil War (1865), post-WWII (1945), and now (2025). Each follows the same pattern: an old system becomes dysfunctional, political polarization reaches extreme levels, and then a burst of innovation lasting roughly 25 years creates entirely new economic and social systems.
 

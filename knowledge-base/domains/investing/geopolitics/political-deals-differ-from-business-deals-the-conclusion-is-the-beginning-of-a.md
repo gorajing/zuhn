@@ -67,6 +67,18 @@ evidence:
   - id: INS-260330-CCD8
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-4DF7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-FBF8
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7E7C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-D606
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Kushner identifies a fundamental difference between business and political deal-making that most people miss. In business, you negotiate, buy or sell, and the transaction is complete. In political deals (especially foreign policy), the signing ceremony is not the end — it's the beginning of a new paradigm. You have to think about what happens the day after the signing and design the deal to create positive momentum.
 

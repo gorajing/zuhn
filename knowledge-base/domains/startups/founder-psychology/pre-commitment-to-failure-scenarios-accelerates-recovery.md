@@ -71,6 +71,9 @@ evidence:
     relationship: RELATED
   - id: INS-260329-5FB5
     relationship: RELATED
+  - id: INS-260403-B008
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Since failure is inherent in any new experiment -- new job, product, hobby, or relationship -- pre-commitment to failure scenarios is a practical skill. This means giving thought before starting to what you will do if it does not work out and how to minimize the downside while maximizing the upside.
 

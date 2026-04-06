@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-A9B7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-690F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Voss describes a lawyer Tom Girardi's technique: in every negotiation, he would say 'let's look at 10 years from now, where we could both be in a phenomenal place together — now let's work our way back from there.' Voss then connects this to hostage negotiation where he opens with 'I want you to live' — painting a future the other person wants. People make decisions based on their vision of the future, and they'll endure enormous present pain for the right future.
 

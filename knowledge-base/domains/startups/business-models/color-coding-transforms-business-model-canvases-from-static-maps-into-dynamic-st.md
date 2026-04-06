@@ -58,5 +58,11 @@ evidence:
   - id: INS-260329-18C9
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-AFF7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-C401
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The Business Model Canvas in its default form captures structure but not dynamics. Strategyzer identifies three distinct color-coding strategies: mapping internal connections between canvas blocks, contrasting current business models against proposed future states, and distinguishing validated assumptions from untested hypotheses. This matters because the canvas is often treated as a one-time snapshot rather than a living strategic artifact. Color-coding forces teams to confront what they actually know versus what they assume, which is the core activity of lean experimentation. The technique is particularly powerful for board presentations and cross-functional alignment, where a single visual needs to communicate both the model and its epistemic status simultaneously.

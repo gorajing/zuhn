@@ -64,6 +64,12 @@ evidence:
   - id: INS-260329-63DD
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-44BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-9377
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 This source has 30 chapters and a manual transcript across 45K+ words — structural metadata that makes AI extraction tractable. Without chapters, a 3.75-hour video would require watching or reading linearly to identify insight boundaries. With them, each chapter acts as a pre-segmented unit that can be evaluated independently for insight density.
 

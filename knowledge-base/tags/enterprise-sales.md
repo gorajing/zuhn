@@ -10,7 +10,6 @@
 - `INS-260330-6611` Build a product that sells itself, then hire salespeople anyway — they serve different functions.
 - `INS-260330-24A5` Build products that spread through individual users but hire consultative salespeople to help enterprises navigate adoption — viral growth and sales are complementary.
 - `INS-260327-D7AA` Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.
-- `INS-260327-B17D` When buyers fear messing up, de-risk with concrete mechanisms: million-dollar performance warranties, bundled professional services, peer referrals from trusted community members, starting small with expansion plans, and bringing your legal/finance teams to the table early.
 - `INS-260327-5DD2` When deal sizes exceed $10K, customers require human interaction to build trust before purchasing.
 - `INS-260327-6AA0` Decision criteria isn't one thing — it's three: technical (features, integrations, security), economic (ROI, resources to implement, priority ranking), and relationship (partnership fit, industry strength, roadmap) — and each stakeholder weights these differently.
 - `INS-260327-C6DC` When buyers lack defined decision criteria, elite sellers craft it for them — embedding their unique differentiators as 'must-haves' that disqualify competitors.

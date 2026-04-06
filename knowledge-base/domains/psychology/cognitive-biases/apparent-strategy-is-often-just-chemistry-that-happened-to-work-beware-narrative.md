@@ -64,6 +64,12 @@ evidence:
   - id: INS-260327-EAB0
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-D452
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-9B3A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Selfish Gene framework reveals that behaviors appearing strategic in nature -- like squirrels giving alarm calls or penguins being timid -- aren't the result of conscious planning. They're traits that happened to increase gene survival and were thus copied. As the video states: 'What may look like intention is just simple chemistry that happens to work well and propagates.'
 

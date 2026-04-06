@@ -57,6 +57,10 @@ related:
   - INS-260323-19A8
   - INS-260403-93A5
   - INS-260403-FA30
+evidence:
+  - id: INS-260403-FA30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Tenev provides hard-earned wisdom from multiple trust crises: NPS drops are acute (massive overnight losses during incidents) while recovery is always gradual (5-point gains from big announcements, slow steady improvement over many months). The team searched for magic bullets, some blog post or gesture that would reset trust, and found none.
 

@@ -54,6 +54,10 @@ related:
   - INS-260322-7FA4
   - INS-260403-A101
   - PRI-260322-94C4
+evidence:
+  - id: INS-260322-7FA4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The sensemaking media boom of 2026 is partly an AI story in disguise. As LLMs make it trivial to summarize, research, and synthesize information, the bottleneck shifts upstream: deciding what questions matter, which frames illuminate rather than obscure, and how to weigh competing evidence requires human judgment that AI cannot yet replicate.
 

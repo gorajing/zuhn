@@ -53,6 +53,13 @@ related:
   - INS-260325-AE23
   - INS-260330-DB4B
   - INS-260323-8893
+evidence:
+  - id: INS-260330-DB4B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-8893
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Dr. Severance's Python course deliberately front-loads abstract concepts (variables, conditionals, loops, functions) for 6+ chapters before chapter 7's file I/O reveals why they matter. This suspend-disbelief approach mirrors how university math works — you grind through proofs before the application course makes everything click.
 

@@ -77,6 +77,9 @@ evidence:
     relationship: RELATED
   - id: INS-260329-023F
     relationship: RELATED
+  - id: INS-260329-07D3
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 This tutorial demonstrates a pedagogical pattern where each project naturally introduces the need for new concepts. The mad libs game motivates variables and string concatenation. The calculator motivates user input and type conversion. The guessing game motivates loops and conditionals. The better calculator motivates switch statements. Each concept arrives exactly when the learner needs it to solve a concrete problem.
 

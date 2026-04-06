@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-3260
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-80AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Zimbabwe twice attempted technical fixes to its currency crisis — removing 10 zeros from banknotes in 2008 and 12 in 2009 — but both failed. The fundamental issue was that inflation had become self-reinforcing: prices rose largely because people expected them to. The government simultaneously undermined its own credibility by continuing to print money to fund the Second Congo War, spending $500,000 USD weekly on banknotes that were worthless by the time they arrived from Germany.
 

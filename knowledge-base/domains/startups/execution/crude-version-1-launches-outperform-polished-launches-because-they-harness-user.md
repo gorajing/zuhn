@@ -50,6 +50,13 @@ related:
   - INS-260327-2387
   - INS-260330-1DDE
   - INS-260405-9DB6
+evidence:
+  - id: INS-260330-1DDE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-75A3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that starting with a crude version 1 lets your solution benefit from what Feynman called the imagination of nature — the complex reality of actual usage that no amount of planning can anticipate. Viaweb launched with under 10,000 lines of code. Reddit launched looking like it had no design at all.
 

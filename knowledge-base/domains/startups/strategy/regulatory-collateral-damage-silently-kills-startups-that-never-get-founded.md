@@ -58,6 +58,18 @@ evidence:
   - id: INS-260402-7C15
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-1A96
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-12D0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-3639
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-A693
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham makes a subtle point about regulatory harm: when Sarbanes-Oxley effectively killed the IPO market for small companies, it didn't just remove one exit path—it restructured the entire startup ecosystem. With IPOs off the table, 'succeeding' became synonymous with 'getting acquired,' which reshaped what VCs fund, how startups operate, and which companies get built at all. The most dangerous aspect is the invisibility of the damage: unlike harming an established industry that will lobby loudly, killing potential startups produces no noise because the affected founders simply never start companies.
 

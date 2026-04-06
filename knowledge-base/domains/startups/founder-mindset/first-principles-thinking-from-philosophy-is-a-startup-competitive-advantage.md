@@ -59,5 +59,11 @@ evidence:
   - id: INS-260325-1EAC
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260405-89E7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-C6DC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 This serial founder draws from Nietzsche's will to power (drive to create) and Japanese wabi-sabi (beauty in imperfection) to guide business decisions. He argues that a founder's main competitive advantage is the depth of their thinking. Philosophy provides the framework for boiling problems down to fundamentals (ontology) rather than reacting to surface-level tactics. The insight contrasts with the Silicon Valley tendency to follow playbooks — when the market changes and playbooks fail, founders with deep thinking frameworks can reason from first principles.

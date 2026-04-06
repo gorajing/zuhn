@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-E4F1
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260323-500B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham reframes the founder's decision to start a company as an investment decision: founders are buying equity with their labor. Larry and Sergey became wealthy not primarily because they did billions of dollars of work, but because they were Google's first investors. This framing means the same contrarian logic that tells financial investors to buy in downturns applies to founders.
 

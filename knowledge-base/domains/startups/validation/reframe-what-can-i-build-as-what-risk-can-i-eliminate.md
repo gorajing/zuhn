@@ -53,6 +53,10 @@ related:
   - INS-260403-97F5
   - INS-260403-0701
   - INS-260405-A6BA
+evidence:
+  - id: INS-260403-97D6
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The default entrepreneurial impulse — 'what can I build?' — smuggles in a dangerous assumption: that building is the right next step. It anchors you on solution space before you've adequately explored problem space and risk space.
 

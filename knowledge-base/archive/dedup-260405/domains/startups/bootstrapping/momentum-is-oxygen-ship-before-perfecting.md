@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-4441
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-9213
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 
 Get traction before perfecting anything. Coconote shipped a basic product

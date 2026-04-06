@@ -70,6 +70,9 @@ evidence:
   - id: INS-260329-27A7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-62AF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The cost of college has doubled while the median starting salary has remained essentially unchanged — meaning students now pay twice as much for the same economic output. This has produced $1.76 trillion in national student loan debt, exceeding the GDP of all but the top 10 countries. Unlike other debt, student loans cannot be discharged through bankruptcy, creating a permanent drag on earnings during the critical family-formation years of the late 20s through early 40s.
 

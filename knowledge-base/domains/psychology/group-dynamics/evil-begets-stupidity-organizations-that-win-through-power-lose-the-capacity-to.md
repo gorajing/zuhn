@@ -55,6 +55,19 @@ related:
   - INS-260329-EB4B
   - INS-260330-4150
   - PRI-260328-FA83
+evidence:
+  - id: INS-260330-4150
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-3CC2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-EC01
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-EB4B
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham articulates a causal mechanism for organizational decay: when a company starts winning through coercive power (like controlling app distribution), it creates an internal culture where the best ideas no longer determine outcomes. Smart people find it intolerable to work where power trumps merit, so they leave. This creates a selection effect that hollows out the organization's creative capacity over time.
 

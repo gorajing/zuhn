@@ -46,5 +46,9 @@ related:
   - PRI-260324-12CF
   - INS-260403-C949
   - INS-260403-2B6E
+evidence:
+  - id: INS-260329-3848
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham draws an analogy between sprinters and startups: both reach maximum speed immediately and then slow down. The winners don't accelerate past others — they simply lose less momentum. This reframes startup strategy away from hockey-stick growth narratives toward a preservation mindset. The implication is that founders should obsess over removing friction and organizational drag rather than seeking acceleration, because the natural trajectory is deceleration. Every process, hire, or structure that doesn't directly serve the mission is a drag coefficient on an already-decelerating vehicle.

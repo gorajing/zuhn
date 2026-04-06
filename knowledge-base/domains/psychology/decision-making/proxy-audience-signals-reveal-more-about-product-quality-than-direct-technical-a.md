@@ -63,6 +63,15 @@ evidence:
   - id: INS-260327-E75F
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-BF8F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-0095
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7F06
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham's 'wrong people like it' heuristic examines not just whether people use a technology, but which people and for what reasons. Java attracted suits who followed press coverage, enterprise programmers amazed by anything better than C++, and students chasing job prospects — all extrinsically motivated groups. Meanwhile, the programmers he most admired were indifferent to Java.
 

@@ -50,5 +50,12 @@ related:
   - INS-260329-A90C
   - PRI-260325-45A2
   - INS-260405-3066
+evidence:
+  - id: INS-260404-A850
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-3066
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The human nervous system has a negativity bias rooted in survival: ancestors who were highly attuned to threats survived, while those focused on rewards often didn't. This means framing a behavior change as 'I will not do X harmful thing' activates more primal motivation than 'I will do Y beneficial thing.' For wealth-building specifically, 'I will never carry credit card debt' is psychologically stickier than 'I will invest 20% of my income.' This has implications for how founders and individuals should design their personal operating systems — leading with constraints and prohibitions rather than aspirations and goals.

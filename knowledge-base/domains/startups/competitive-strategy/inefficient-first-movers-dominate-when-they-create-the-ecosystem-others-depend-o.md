@@ -57,6 +57,10 @@ related:
   - INS-260403-818F
   - INS-260404-03E7
   - INS-260405-95AE
+evidence:
+  - id: INS-260404-03E7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Early photosynthetic organisms weren't efficient, but they were the only game in town for converting inorganic carbon to organic carbon. As they proliferated, they flooded the atmosphere with oxygen — a byproduct that actually made their own core enzyme (RuBisCo) work worse. Paradoxically, this environmental change also eliminated most competing metabolic strategies that couldn't handle oxygen.
 

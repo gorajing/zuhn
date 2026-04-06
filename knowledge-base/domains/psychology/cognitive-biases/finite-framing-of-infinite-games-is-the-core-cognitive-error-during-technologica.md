@@ -66,6 +66,12 @@ evidence:
   - id: INS-260323-636C
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260325-CC49
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-868C
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The essay identifies a specific cognitive pattern: founders and investors applying finite framing ('SaaS is dead,' 'it's the end of programmers') to what is fundamentally an infinite, expansionary process. This framing error has a consistent structure — it treats the disrupted category as fixed in scope, assumes displacement is the primary dynamic, and ignores the expansion mechanism.
 

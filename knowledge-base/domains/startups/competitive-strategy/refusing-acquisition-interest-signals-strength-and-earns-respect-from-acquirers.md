@@ -51,5 +51,15 @@ related:
   - INS-260403-4337
   - INS-260403-BCB1
   - INS-260403-6713
+evidence:
+  - id: INS-260403-BCB1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-E3E6
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6713
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Counterintuitively, founders fear offending large companies by declining acquisition conversations, but Graham argues the opposite occurs. The founders who built the acquiring company didn't sell early either — that's precisely why they're now in a position to acquire others. When you decline with 'we're focusing on growing the company,' you're signaling the same ambition and discipline they respect. This creates a positive signaling loop: the companies most worth acquiring are exactly the ones that refuse to engage prematurely. This principle extends beyond M&A — in many competitive contexts, the willingness to walk away or decline engagement is itself a signal of strength that increases your perceived value. The fear of giving offense by saying no is almost always overestimated relative to the respect earned by demonstrating focus.

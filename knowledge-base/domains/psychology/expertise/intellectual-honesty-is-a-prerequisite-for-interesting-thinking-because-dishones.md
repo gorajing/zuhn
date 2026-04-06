@@ -55,10 +55,10 @@ related:
   - INS-260323-FAF0
   - INS-260323-DA13
   - INS-260327-AEFA
+  - INS-260327-6F11
   - INS-260329-6004
   - INS-260330-2911
   - INS-260330-32E6
-  - INS-260330-4EF8
 evidence:
   - id: INS-260322-F65F
     type: SUPPORTS
@@ -84,6 +84,15 @@ evidence:
   - id: INS-260330-32E6
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-DFC3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-B673
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-B32E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham makes a counterintuitive connection between honesty and interestingness: gaps between your written claims and the truth are where new ideas hide. When you force yourself to be strict in rereading — asking 'is this correct and complete?' — you sometimes discover that a roughly correct answer can't be made exactly right because it rests on a false assumption. Discarding that assumption reveals a completely different answer.
 

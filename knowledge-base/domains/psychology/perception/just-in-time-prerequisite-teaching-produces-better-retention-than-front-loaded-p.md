@@ -64,6 +64,9 @@ evidence:
   - id: INS-260322-32E3
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260329-BE50
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 This Calculus 1 course has a distinctive structure: 87 chapters alternate between calculus content and bracketed [Corequisite] chapters covering algebra and trigonometry. Rational expressions are reviewed right before limits involving rational functions. Trig identities appear right before derivatives of trig functions. Logarithm rules come right before the chain rule with exponentials. The student never asks 'why am I learning this?' because the answer is always 'you'll need it in 10 minutes.'
 

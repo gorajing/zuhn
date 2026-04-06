@@ -53,5 +53,9 @@ related:
   - INS-260405-370B
   - INS-260329-1D08
   - INS-260330-5C69
+evidence:
+  - id: INS-260329-3D14
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 North Korea has run the same escalate-then-charm playbook through six rounds of negotiations, and each time the international community treats it as a potentially genuine breakthrough. This reveals a deep cognitive vulnerability: when we desperately want an outcome (denuclearization, peace), we systematically discount historical pattern evidence in favor of surface-level signals (handshakes, symbolic gestures). Politicians on both sides have incentives to declare success, reinforcing the cycle. This applies broadly — in business relationships, personal dynamics, and institutional negotiations, repeated cycles of promise-and-breach persist because each party has motivated reasons to believe 'this time is different.' The antidote isn't cynicism but rather requiring concrete, verifiable commitments rather than symbolic gestures before updating your beliefs.

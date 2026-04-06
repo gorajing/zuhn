@@ -51,5 +51,9 @@ related:
   - INS-260330-B3D9
   - INS-260330-ED9D
   - INS-260323-EA36
+evidence:
+  - id: INS-260323-EA36
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Altman observes that flat organizational structure with everyone reporting to the founder works optimally from 0-20 employees but becomes disastrous at 30. The critical insight is that this isn't a gradual decline — it's a phase transition. What works at 20 is catastrophic at 30, with no intermediate warning. This means founders can't rely on sensing when structure becomes necessary; they must proactively install it before the failure point. The fix is simple: every employee knows exactly one manager, every manager knows their reports. The mistake founders make is either waiting too long (because flat feels good) or overcomplicating it with matrix structures. Altman specifically warns against innovating on management structure — save innovation for product and business model.

@@ -60,6 +60,12 @@ evidence:
   - id: INS-260403-A0B0
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-B635
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260325-4A01
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Benedict Evans highlights a crucial signal: ChatGPT's usage data shows massive awareness but thin daily engagement. Only about 5% pay, 10-15% use it daily, and another 20-30% weekly. The remaining majority have accounts, understand the product, and simply can't think of what to do with it.
 

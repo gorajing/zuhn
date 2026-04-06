@@ -1,6 +1,6 @@
 # Topic: human-physiology
 
-> 22 insights
+> 21 insights
 
 - `INS-260404-A1E2` [high] Every calorie you eat traces back to a photon from solar fusion that was captured by chlorophyll and converted through the electron transport chain into chemical energy.
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
@@ -21,6 +21,5 @@
 - `INS-260330-5676` [high] Cultural taboos against direct examination of human bodies delayed anatomical knowledge for centuries, forcing reliance on flawed animal analogies.
 - `INS-260330-E647` [high] Neurons have extremely high metabolic rates, with the brain consuming about 25% of daily calories, making cognitive function the first casualty of energy deficits.
 - `INS-260405-174B` [medium] Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
-- `INS-260330-AA6E` [medium] Kissing likely evolved to allow saliva-based sampling of a partner's hormonal profile and immune compatibility (MHC genes).
 - `INS-260330-2A6A` [medium] Bright tattoo ink colors are created from heavy metal compounds, creating an ironic contrast with the sterile-field protocols used during application.
 - `INS-260330-5D64` [medium] Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.

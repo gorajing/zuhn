@@ -70,6 +70,16 @@ related:
   - INS-260330-CA97
   - INS-260405-02EE
   - INS-260405-18F3
+evidence:
+  - id: INS-260404-B7B6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-CA97
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-48F2
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 RuBisCo was an effective enzyme in early Earth's high-CO2, low-oxygen atmosphere. It became error-prone only after photosynthesis itself changed the atmospheric conditions. The enzyme didn't degrade — the environment it was calibrated for disappeared. This is not unintelligent design; it is the predictable outcome of optimization under historical constraints applied to a changed present.
 

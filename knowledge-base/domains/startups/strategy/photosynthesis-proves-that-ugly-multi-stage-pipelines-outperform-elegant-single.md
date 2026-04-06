@@ -92,6 +92,9 @@ evidence:
     relationship: RELATED
   - id: INS-260404-CDD2
     relationship: RELATED
+  - id: INS-260403-6F40
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Photosynthesis could theoretically convert sunlight directly into glucose in fewer steps. Instead, it uses a baroque pipeline: photon → excited electron → electron transport chain → proton gradient → ATP/NADPH → Calvin Cycle → G3P → glucose. Each stage has its own intermediate energy carrier and can be independently regulated.
 

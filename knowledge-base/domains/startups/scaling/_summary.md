@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 144 insights
+> 141 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -45,7 +45,6 @@
 - `INS-260329-3924` [high] You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260327-4CCE` [high] Both ElevenLabs and Lovable converged on approximately 50/50 splits between experienced operators and high-slope generalists on their leadership teams.
 - `INS-260403-3062` [high] Costco pays double the retail average ($21/hr vs ~$10.50) yet gets 3x more productive employees, making the higher wage a net-positive investment rather than an expense.
-- `INS-260404-9F51` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, yielding only 1 net G3P per cycle.
 - `INS-260327-91E7` [high] Scaling requires hiring domain experts and having genuine humility to learn from them.
 - `INS-260330-304C` [high] Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
 - `INS-260329-C92A` [high] When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
@@ -68,7 +67,6 @@
 - `INS-260403-DC6E` [high] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 - `INS-260330-C658` [high] Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
 - `INS-260403-46BD` [high] Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
-- `INS-260330-4FED` [high] Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking, and he taught them execution — a deliberate skill trade.
 - `INS-260330-1A63` [high] Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
 - `INS-260404-BFD0` [high] Effort spent looking productive doesn't just waste resources — it actively makes organizations less productive.
 - `INS-260330-9FCC` [high] In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
@@ -109,7 +107,6 @@
 - `INS-260404-ABB1` [medium] Costco's $21/hour average wage (double the retail average) produces 3x more productive employees, making generosity operationally rational.
 - `INS-260404-6A20` [medium] Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
 - `INS-260403-43E5` [medium] Costco pays $21/hour (2x retail average) and gets 3x employee productivity, making generous wages a competitive advantage.
-- `INS-260403-C125` [medium] Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
 - `INS-260403-8A80` [medium] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-F745` [medium] The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.
 - `INS-260403-4E23` [medium] A founder measured his team's output before and after acquisition by a competent big company and found a 13x productivity decline from organizational overhead alone.

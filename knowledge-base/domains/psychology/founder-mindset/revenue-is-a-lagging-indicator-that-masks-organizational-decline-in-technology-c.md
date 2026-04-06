@@ -91,6 +91,24 @@ evidence:
   - id: INS-260330-DE80
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-599B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-92CC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-A0F7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-458A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-ADB3
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-D444
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham makes a sharp observation about Apple post-Jobs: revenues may continue to rise, but 'as Microsoft shows, revenue is a lagging indicator in the technology business.' This is a deeper point than it first appears. It means that the most commonly used metric for corporate health — revenue — is actively misleading in technology because it measures the monetization of past innovations, not the capacity for future ones.
 

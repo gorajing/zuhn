@@ -66,6 +66,9 @@ evidence:
   - id: INS-260323-1B0B
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-E4C6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham surfaces an underappreciated heuristic for evaluating environments: the quality of ambient, involuntary information exposure. Walking through Cambridge at dusk, you see bookshelves through windows. Walking through Palo Alto, you see TV screens. A friend who moved to Silicon Valley complained that the 'eavesdropping quality' was terrible — which sounds eccentric until you realize that overheard conversations are an unfiltered signal of what the people around you actually care about.
 

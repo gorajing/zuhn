@@ -68,5 +68,14 @@ evidence:
   - id: INS-260329-32A4
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260323-0982
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-CBCB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-A30D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi claims 20 hours of focused skill study is enough to transition from zero to job-applicant level. This aligns with Josh Kaufman's research on rapid skill acquisition (distinct from Gladwell's 10,000-hour mastery claim). The critical qualifier is 'focused' — he prescribes a physical timer (not a phone) and stopping the clock every time attention wanders, meaning 4 hours of timer time likely represents 5-6 hours of wall-clock time. The implication is that the barrier to career transition is much lower than most people assume. The bottleneck isn't learning time — it's the willingness to endure a focused, uncomfortable learning period rather than passively consuming content. This framework suggests most people dramatically overestimate how long it takes to become functionally competent (not expert) in a new domain.

@@ -50,5 +50,21 @@ related:
   - PRI-260403-3906
   - INS-260330-6C68
   - INS-260404-BB34
+evidence:
+  - id: INS-260327-7DAA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-4E70
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-2FDF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-AA8F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-6C68
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that great discoveries happen not because geniuses have better vision to spot promising paths, but because their obsessive interest compels them down paths that look unpromising. Darwin didn't strategically decide to study individual species — he was just deeply, irresistibly interested. Tolkien didn't rationally plan to write great novels by first inventing Elvish. This means hedging your bets by following conventionally promising paths actually decreases your chances of breakthrough work. The implication is counterintuitive: the most productive strategy for ambitious people may be to relax, follow genuine curiosity, and accept that the resulting work will look irresponsible to outsiders.

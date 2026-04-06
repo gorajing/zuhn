@@ -60,6 +60,13 @@ related:
   - INS-260403-C37D
   - INS-260327-9BA2
   - INS-260330-9BB7
+evidence:
+  - id: INS-260330-04C0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-9BA2
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham addresses the obvious objection to his thesis: if good writing correlates with truth, how do skilled liars exist? His answer is that beautiful false writing requires the writer to almost believe their own false premises. The resulting text is internally consistent — it would be true if the premises were — which is why it reads well. The deception lives at the attachment point between reasoning and reality, not in the prose quality itself.
 

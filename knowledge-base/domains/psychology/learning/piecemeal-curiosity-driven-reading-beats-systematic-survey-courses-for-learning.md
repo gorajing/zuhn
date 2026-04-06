@@ -52,6 +52,10 @@ related:
   - INS-260402-8223
   - INS-260403-C135
   - INS-260403-8EFF
+evidence:
+  - id: INS-260403-8EFF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham recommends learning history 'piecemeal' — reading books about specific topics that excite you, even if you don't understand everything on first pass, rather than grinding through comprehensive surveys like Roberts's History of the World. He then provides a curated list spanning medieval technology, Roman history, art, and trade.
 

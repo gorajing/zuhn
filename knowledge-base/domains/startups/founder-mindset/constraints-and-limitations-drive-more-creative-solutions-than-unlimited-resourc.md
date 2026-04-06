@@ -73,6 +73,9 @@ evidence:
   - id: INS-260325-F8B8
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-BE07
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Giertz's early robots were built with limited tools, knowledge, and budgets. These constraints forced creative solutions: repurposing household objects, improvising mechanisms, and finding simpler approaches to complex problems. As her resources grew, she noticed that more options sometimes produced less creative outcomes.
 

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-D41A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-C37D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Naval's co-founder exemplifies this by spending days deep-diving into obscure GitHub projects and niche research papers — not the obvious AI model training work, but adjacent fields like micro weather forecasting with unusual ML algorithms. He then contributes a genuine code tweak or asks a considered question, building authentic relationships with people who are tinkering at the edges unnoticed.
 

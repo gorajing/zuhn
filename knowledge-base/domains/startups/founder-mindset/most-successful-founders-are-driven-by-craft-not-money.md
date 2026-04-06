@@ -52,5 +52,9 @@ related:
   - INS-260328-A666
   - INS-260330-725F
   - INS-260330-86CD
+evidence:
+  - id: INS-260327-1B60
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham observes that if the most successful founders were primarily motivated by money, they would have accepted one of the many acquisition offers every fast-growing startup receives on the way up. The fact that they don't reveals their true motivation: the company is their project, much like any maker's relationship to what they build. This intrinsic motivation naturally aligns with the 'be nice, optimize growth rate' strategy because craft-driven founders focus on product quality (which drives word-of-mouth growth) rather than revenue extraction. The implication is that founder motivation is not just a personality trait but a strategic variable — intrinsic motivation produces better outcomes in the startup growth model specifically because it prioritizes the exponent over the multiplier.

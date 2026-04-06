@@ -50,6 +50,10 @@ related:
   - INS-260327-7C67
   - PRI-260321-0A4D
   - INS-260404-7C79
+evidence:
+  - id: INS-260403-87AC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham advises startups to try to make as little money as possible—not as a charity, but as a competitive moat. If you can compress a billion-dollar industry into fifty million dollars of total revenue and own all of it, you've built an unassailable position. Craigslist did this to classified ads; free alternatives did it to paid content.
 

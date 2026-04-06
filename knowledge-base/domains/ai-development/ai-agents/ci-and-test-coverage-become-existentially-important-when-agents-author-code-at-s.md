@@ -61,5 +61,8 @@ evidence:
   - id: INS-260330-8BF6
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-3AF7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Stripe handles 1,300 agent-authored PRs per week with human review as the final gate, but this is only feasible because of comprehensive CI tooling, test coverage, synthetics for end-to-end interactions, and blue-green deployment with rollback capability. The argument is that whether code is written by Steve or Steve's robot, you need the same CI confidence — but at agent scale, CI becomes the load-bearing quality mechanism rather than a supplementary check. Engineers freed from writing code redirect their time to reviewing agent output, but that review is only tractable because CI has already verified safety and correctness. The broader implication: as AI shifts the bottleneck from code writing to code review, organizations without strong CI/testing infrastructure will hit a wall where they can't absorb the volume of agent-produced code.

@@ -61,6 +61,22 @@ related:
   - INS-260405-D606
   - INS-260405-7B8D
   - INS-260404-4DF7
+evidence:
+  - id: INS-260329-5818
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-E36A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-5D18
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-E365
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-4DF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When we judge early versions of ambitious projects, we apply the wrong standard: we compare them to finished work or to less ambitious projects, rather than recognizing them as a special case. A project 20% of the way to a goal worth 100 looks worse than a project 80% of the way to a goal worth 10, even if the former has far more expected value.
 

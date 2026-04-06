@@ -56,6 +56,10 @@ related:
   - INS-260404-D242
   - INS-260405-4AE1
   - INS-260405-D514
+evidence:
+  - id: INS-260404-D242
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Investors evaluating early-stage startups are primarily trying to answer one question: have you built a compelling product? Before they can assess quality, they need to understand what you've made. Every second spent on preamble, market context, or founder backstory before the product description is a second where the investor's mental model remains empty.
 

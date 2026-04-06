@@ -74,6 +74,12 @@ evidence:
   - id: INS-260330-ABBF
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-B4DC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-D149
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Musk's analysis of the Israel-Hamas conflict is game-theoretic: Hamas committed maximum atrocities specifically to provoke the most aggressive Israeli response possible, then leveraged that response to rally global Muslim support — 'which they have succeeded in doing.' The counterintuitive optimal strategy is not restraint alone but active, visible, unambiguous kindness (mobile hospitals, food, water, 24/7 webcams) that makes Hamas's counter-narrative ('it's a trick') untenable.
 

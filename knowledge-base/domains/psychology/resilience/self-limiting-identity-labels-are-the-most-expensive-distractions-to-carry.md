@@ -68,6 +68,12 @@ evidence:
   - id: INS-260323-53FF
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-ED1F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-3214
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Hormozi shares his own example: he believed he was bad at math from ninth grade onward due to a bad teacher. In his 20s, he decided this label no longer served him and stopped using calculators entirely, forcing mental math for years. The people around him now consider him exceptionally good with numbers. The identity was entirely constructed and entirely dismantlable.
 

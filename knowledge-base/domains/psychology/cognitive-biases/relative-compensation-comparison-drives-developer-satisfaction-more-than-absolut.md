@@ -67,6 +67,9 @@ evidence:
   - id: INS-260402-CF0A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-AC40
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The video illustrates a compensation hierarchy where each level flexes on the one below: junior at $50K → negotiator at $225K → Netflix at $900K → early Uber engineer at $25M → crypto billionaire. Each person in the chain feels inadequate relative to the next, despite objectively high compensation.
 

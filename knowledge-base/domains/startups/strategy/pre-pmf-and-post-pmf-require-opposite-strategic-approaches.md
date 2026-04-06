@@ -53,6 +53,10 @@ related:
   - INS-260329-EC01
   - INS-260403-B198
   - INS-260403-9B3A
+evidence:
+  - id: INS-260403-B4DC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Before product-market fit, the best advice is to quiet the strategic mind and focus entirely on making something people want. Strategy is a distraction when you don't yet have users or understand customers. However, founders who carry this same 'just do the thing' mentality past PMF often find themselves stuck in a local maximum — making incremental improvements to something that will never become a very large business.
 

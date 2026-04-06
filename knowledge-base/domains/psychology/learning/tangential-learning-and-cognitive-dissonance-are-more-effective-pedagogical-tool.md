@@ -63,5 +63,8 @@ evidence:
   - id: INS-260320-3798
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-CCB4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Academic research in physics education shows that telling a student the correct answer is less effective than forcing them to confront flaws in their own misunderstanding. Veritasium applies this by exposing common myths through public interviews then physically debunking them. Vsauce uses tangential learning — connecting disparate fields so that an inquiry about shadows leads to mortality, infinity, and cognitive perception. 3Blue1Brown bypasses the notation barrier by creating spatial, geometric visualizations of abstract math. The pattern: the most effective science communicators don't simplify — they reframe complex subjects through mechanisms that exploit how human cognition actually processes new information.

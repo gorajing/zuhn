@@ -59,9 +59,13 @@ related:
   - INS-260403-D518
   - INS-260403-D482
   - INS-260403-637C
+  - INS-260403-3E1C
   - INS-260404-B04F
   - INS-260404-4010
-  - INS-260404-CC7C
+evidence:
+  - id: INS-260404-B04F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Plants evolved RuBisCo in a low-oxygen atmosphere where it worked adequately for carbon fixation. When oxygen levels rose (ironically due to photosynthesis itself), RuBisCo started confusing O2 for CO2 roughly half the time, producing toxic byproducts. But plants had already built their entire metabolic architecture around it. Rather than evolving a replacement, they evolved workarounds — enzymes to break down the toxic phosphoglycolate and massive overproduction of RuBisCo to compensate for its error rate.
 

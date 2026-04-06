@@ -73,6 +73,18 @@ evidence:
   - id: INS-260323-DEF0
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-DCCD
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-500F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-58AE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-C7D8
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Chris Voss redefines empathy as pure understanding without agreement, liking, or compassion. He demonstrated this with Egyptian Muslim witnesses in terrorism trials — by stating 'you believe there's been a succession of American governments for 200 years that are anti-Islamic' without agreeing or disagreeing, he built enough trust for every single witness to testify. The key insight: being unafraid to articulate someone's worldview signals strength, not weakness.
 

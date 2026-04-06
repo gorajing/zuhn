@@ -76,6 +76,9 @@ evidence:
   - id: INS-260327-8521
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-A742
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham captures this in one devastating sentence about graduate school: 'If you think something's supposed to hurt, you're less likely to notice if you're doing it wrong.' This is a signal-detection problem. Pain during work is ambiguous — it could mean you're pushing through a hard problem (good) or that you're misaligned with the work entirely (bad). The cultural narrative that all worthwhile work requires suffering collapses this distinction, causing people to interpret misery as evidence they're on the right track.
 

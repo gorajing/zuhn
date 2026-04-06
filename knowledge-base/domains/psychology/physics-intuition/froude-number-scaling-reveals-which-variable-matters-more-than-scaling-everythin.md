@@ -58,6 +58,9 @@ evidence:
     relationship: RELATED
   - id: INS-260321-8C35
     relationship: RELATED
+  - id: INS-260403-BB23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When the Navy tests 1:46 scale ship models, they don't try to match both Reynolds number (viscous forces) and Froude number (gravitational/inertial forces) — they can't, since matching one violates the other. Instead, they identify that wave dynamics are governed by the Froude number and scale everything around it. The model travels at 1/√46 of real speed, and footage is slowed by √46x to match reality.
 

@@ -60,8 +60,18 @@ related:
   - INS-260404-D1F6
   - INS-260404-F69A
   - INS-260405-A103
-  - INS-260404-9F51
   - INS-260403-5648
+  - INS-260403-E52B
+evidence:
+  - id: INS-260404-D1F6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-F69A
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260405-A103
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 In the Calvin cycle, the apparent output (6 G3P molecules) dramatically overstates the actual yield. Five out of six G3Ps must be fed back into the cycle to regenerate the three RuBP starter molecules—consuming 9 ATP and 6 NADPH in the process. Only one G3P escapes as usable product. The cycle's primary activity, measured by molecular throughput, is sustaining itself.
 

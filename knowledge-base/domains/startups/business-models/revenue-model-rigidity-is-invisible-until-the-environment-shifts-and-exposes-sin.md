@@ -57,6 +57,10 @@ related:
   - INS-260327-D0F4
   - PRI-260328-0993
   - INS-260330-999F
+evidence:
+  - id: INS-260330-3994
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Spotify's pre-pandemic model treated ad-supported free users as a growth engine—the more free users, the more ad revenue, the more runway to convert them to premium. This logic was sound in a stable advertising market. When ad budgets cratered, the model's hidden fragility was exposed: free users became a cost center with no offsetting revenue.
 

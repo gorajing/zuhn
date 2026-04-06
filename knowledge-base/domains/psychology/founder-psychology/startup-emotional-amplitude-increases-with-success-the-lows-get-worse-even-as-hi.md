@@ -69,5 +69,11 @@ evidence:
   - id: INS-260327-3349
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-7071
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-9D89
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Counter to the expectation that success stabilizes a founder's psychology, Altman observes the opposite: the highs improve but the lows keep getting worse. This expanding oscillation is compounded by a social shift — founders go from being rooted-for underdogs to targets of public criticism. The most common post-YC failure mode is founders losing focus after initial success, seeking gratification through conferences and advising instead of building. Acquisition conversations are particularly dangerous — they distract, demoralize if they fail, and lead to accepting low offers from founders who've mentally checked out. Altman's framing is stark: the final cause of death for most startups is founders giving up, making psychology management a survival skill rather than a luxury.

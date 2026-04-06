@@ -54,9 +54,9 @@ related:
   - INS-260320-2058
   - INS-260330-7220
   - INS-260327-DFF1
-  - INS-260327-DFF0
   - INS-260325-17BF
   - INS-260324-1216
+  - INS-260327-B6B7
   - INS-260403-8002
   - INS-260403-FED1
 evidence:
@@ -66,5 +66,8 @@ evidence:
   - id: INS-260320-2058
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-8002
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Traditional corporate budgeting divides the annual number into hundreds of cost centers, assigns individuals accountability for each, and incentivizes spending exactly that amount — not more, not less. Anderson calls these 'money traps' that lock resources regardless of changing conditions. His alternative: Tier 1 is the high-level annual commitment (what you tell investors), which stays fixed. Tier 2 is a resource pool roughly assigned across teams, but with no special significance to that assignment — it's not the basis for performance bonuses, it's just a starting point. Every 90 days, teams evaluate what happened and what should happen next. Teams that hit roadblocks release their people and budget to teams with new opportunities. 10-15% of the organization moves to different teams each cycle. Teams form and collapse based on need. Nobody is rewarded for being under budget or penalized for being over — performance is assessed via peer review at year-end.

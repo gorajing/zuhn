@@ -60,6 +60,9 @@ evidence:
   - id: INS-260324-5C53
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260325-D797
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The biggest investor fear at early stage is that you've built something from theory rather than observed need. Greg McAdoo from Sequoia calls the antidote 'proxy for demand': evidence that people are already doing the thing your product enables, just with worse tools. This is more persuasive than TAM slides because it's behavioral evidence rather than statistical projection.
 

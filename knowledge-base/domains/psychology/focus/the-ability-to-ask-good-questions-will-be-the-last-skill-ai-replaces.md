@@ -73,6 +73,9 @@ evidence:
   - id: INS-260402-BA91
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-89E7
+    type: REFINES
+    classified_at: '2026-04-05'
 ---
 Anandkumar argues that even as AI tools get dramatically better at execution, you still need to tell AI what to do. The ability to describe tasks, define problems, and ask the right questions remains a human skill. She begins classes by asking questions, not writing equations—because the ability to question is more fundamental than the ability to compute.
 

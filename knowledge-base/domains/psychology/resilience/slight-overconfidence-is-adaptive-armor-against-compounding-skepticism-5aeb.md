@@ -60,6 +60,10 @@ stance: >-
   Being slightly overconfident produces better outcomes than perfectly
   calibrated self-assessment because it compensates for the cumulative drag of
   both external skepticism and internal self-doubt.
+evidence:
+  - id: INS-260403-1BCC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Perfect calibration sounds optimal in theory, but creative work faces asymmetric headwinds: other people's skepticism, your own harsh self-judgment, and the inherently unimpressive appearance of early-stage ambitious projects. These forces all push toward quitting too early. Slight overconfidence acts as a counterweight — not enough to make you delusional, but enough to keep you moving through the ugly phase where most people abandon ship.
 

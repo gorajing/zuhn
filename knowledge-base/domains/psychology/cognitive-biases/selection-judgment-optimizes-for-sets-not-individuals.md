@@ -49,6 +49,13 @@ related:
   - INS-260404-0570
   - INS-260404-5365
   - INS-260330-4A16
+evidence:
+  - id: INS-260330-1282
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-4A16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies that most judgments people face — hiring, admissions, dating, investment — are not designed to assess individuals correctly. They optimize for selecting a reasonably good group. When the 20th and 21st best candidates differ by less than measurement error, rejecting one over the other isn't unfair — it's just noise in a set-optimization process.
 

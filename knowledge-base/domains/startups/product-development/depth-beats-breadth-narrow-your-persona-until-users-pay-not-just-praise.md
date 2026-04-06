@@ -50,6 +50,10 @@ related:
 stance: >-
   Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to
   ophthalmology patients -- then revenue tripled annually.
+evidence:
+  - id: INS-260405-8B05
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Moddoc accumulated 2 million MAU and hundreds of thousands of verified reviews, but revenue remained in the tens of millions of won. The founder realized the problem: when asked 'who is your customer,' he could only answer 'everyone in South Korea.' The persona was too broad to drive paying behavior.
 

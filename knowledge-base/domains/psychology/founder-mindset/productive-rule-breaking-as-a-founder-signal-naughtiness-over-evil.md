@@ -52,6 +52,25 @@ related:
   - INS-260404-1986
   - INS-260402-9075
   - INS-260402-8813
+evidence:
+  - id: INS-260402-8813
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-7BF5
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7C88
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-3A49
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-1986
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-9075
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham distinguishes between naughtiness and evil: the best founders aren't amoral, they're selectively rebellious. They care about getting the big moral questions right but delight in circumventing arbitrary systems and proprieties. Sam Altman's suggestion to ask applicants about a time they 'hacked something to their advantage' became one of YC's most predictive application questions.
 

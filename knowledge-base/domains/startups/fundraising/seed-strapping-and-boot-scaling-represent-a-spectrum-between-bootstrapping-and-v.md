@@ -72,6 +72,18 @@ evidence:
   - id: INS-260322-760A
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260322-3646
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-76E4
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-DC64
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-D672
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The traditional framing of 'bootstrap or raise VC' presents a false binary. Seed strapping involves taking a small seed round but then growing primarily from revenue rather than raising successive rounds, preserving equity while getting initial capital momentum. Boot-scaling is the inverse: starting bootstrapped to prove the model, then raising venture capital to accelerate once unit economics are validated.
 

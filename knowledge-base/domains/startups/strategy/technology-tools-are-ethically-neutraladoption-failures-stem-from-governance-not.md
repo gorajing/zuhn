@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-7C58
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-A2D4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The FTX collapse illustrates a recurring pattern in technology adoption: a tool designed for transparency and decentralization was used to propagate fraud because centralized actors operated without checks and balances. The technology itself continued functioning as designed—Bitcoin and Ethereum kept working throughout the crisis.
 

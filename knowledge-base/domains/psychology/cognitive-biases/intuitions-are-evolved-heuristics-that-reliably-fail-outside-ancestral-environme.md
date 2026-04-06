@@ -55,6 +55,10 @@ related:
   - INS-260404-D452
   - INS-260403-E8DD
   - INS-260403-0C95
+evidence:
+  - id: INS-260404-D452
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Intuitions are strong feelings that something is true, shaped by evolution to help with survival-relevant tasks: detecting danger, reading social cues, making rapid decisions about apartments or jobs. Studies show gut instinct often outperforms deliberate reasoning for these domains.
 

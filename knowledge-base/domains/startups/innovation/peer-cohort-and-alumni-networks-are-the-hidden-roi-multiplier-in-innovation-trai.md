@@ -53,6 +53,10 @@ related:
   - INS-260403-449D
   - INS-260403-5BAD
   - INS-260403-5D81
+evidence:
+  - id: INS-260403-449D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The comparison table reveals that platforms like Coursera lack networking and collaboration features despite offering strong content — and the article positions this as a meaningful gap, not a minor feature difference. Innovation problems are inherently context-dependent; a framework that works in fintech may fail in healthcare. Peer cohorts provide the ongoing diverse perspectives needed to adapt general frameworks to specific contexts.
 

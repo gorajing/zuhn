@@ -57,6 +57,10 @@ related:
   - INS-260329-2DF2
   - INS-260405-2849
   - INS-260405-1D7B
+evidence:
+  - id: INS-260405-1D7B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 3Blue1Brown explicitly models 'universal problem solving tip number one': begin any hard problem with the simplest version. For holography, this means studying a hologram of a single point in space before tackling complex scenes. The single-point case yields the Fresnel zone plate, which connects directly to diffraction gratings — well-studied optics phenomena — making the reconstruction mechanism intuitive rather than magical.
 

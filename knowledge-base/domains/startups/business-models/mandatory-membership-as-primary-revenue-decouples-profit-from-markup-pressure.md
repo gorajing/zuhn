@@ -46,6 +46,7 @@ stance: >-
   producing a self-reinforcing loyalty loop that optional loyalty programs
   cannot replicate.
 related:
+  - INS-260327-176D
   - INS-260327-50CE
   - INS-260327-B6D6
   - INS-260330-106F

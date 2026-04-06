@@ -60,6 +60,28 @@ related:
   - INS-260330-8D27
   - INS-260402-F3D7
   - INS-260403-BADD
+evidence:
+  - id: INS-260327-1563
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260321-EE05
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-3473
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-D212
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-B1A1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-7C08
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-8D27
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 One of the most striking patterns across the 30 sensemaking platforms analyzed is audience willingness to invest significant cognitive effort. Multi-hour podcasts, dense essay series, and technically demanding video explainers are not niche — they command massive and growing audiences. This directly contradicts the dominant narrative that attention spans are collapsing.
 

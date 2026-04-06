@@ -54,8 +54,8 @@ related:
   - INS-260330-40DA
   - INS-260330-4315
   - INS-260330-C418
-  - INS-260330-413D
   - INS-260330-FEB0
+  - INS-260403-EB0B
 evidence:
   - id: INS-260325-6262
     type: SUPPORTS
@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-413D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-FEB0
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Archaeological evidence consistently shows that foragers had healthier bones and teeth, worked fewer hours, and had more leisure time than early agriculturalists. Yet agriculture arose independently across Africa, China, the Americas, and the Fertile Crescent. Every civilization that encountered the trade-off chose the same way: worse individual health for greater collective food security and population capacity.
 

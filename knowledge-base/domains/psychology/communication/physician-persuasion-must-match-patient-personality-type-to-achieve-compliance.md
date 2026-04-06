@@ -52,6 +52,13 @@ related:
   - INS-260327-8521
   - INS-260330-D27C
   - INS-260325-5A93
+evidence:
+  - id: INS-260326-3C9C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Dr. Gilbert's insight reveals that Houdini's physician likely failed not because the medical recommendation was wrong, but because it was framed in a way that a strong personality would reject. The surgeon suggests that with the right bedside manner — perhaps framing surgery as a strategic move rather than an admission of defeat — Houdini might have consented.
 

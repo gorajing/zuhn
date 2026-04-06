@@ -54,6 +54,13 @@ related:
   - INS-260326-CA8C
   - INS-260403-62AF
   - INS-260405-E06B
+evidence:
+  - id: INS-260405-E06B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-62AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham concedes that there is no total order of artistic works or people's ability to judge them, but argues there is definitely a partial order. You can't rank Bellini vs. Leonardo definitively, but you can reliably say both are better than a random child's drawing.
 

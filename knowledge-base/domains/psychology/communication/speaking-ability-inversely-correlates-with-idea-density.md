@@ -22,7 +22,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: nomic-embed-text
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     The skills that make someone a great speaker are often orthogonal or opposed
@@ -59,6 +59,18 @@ evidence:
   - id: INS-260330-3B31
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260323-BA17
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-BB6B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-0688
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-06CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that speaking and idea quality are not just independent — they actively conflict. A great speaker engages audiences through ad-libbing, jokes, and emotional momentum, but ad-libbing limits thinking time to however long it takes to say a sentence. Writing, by contrast, lets you spend unlimited time refining each thought.
 

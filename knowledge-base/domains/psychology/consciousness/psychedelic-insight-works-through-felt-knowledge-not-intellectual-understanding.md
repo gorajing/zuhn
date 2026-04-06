@@ -83,6 +83,9 @@ evidence:
   - id: INS-260330-FBC0
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-09F6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Johnson describes what he calls 'duh moments' — experiences where people feel they've learned something at a fundamental level that they already knew cognitively. Cancer patients who knew intellectually that fear was limiting them suddenly feel it in their bones and hearts. 'They knew it up here, they could tell you the words, but now they feel it in their heart.'
 

@@ -57,5 +57,11 @@ evidence:
   - id: INS-260327-70DF
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-A8B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-2B63
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham's hiring heuristic asks: could you describe this person as an animal? This means someone who takes their work so seriously they cross from professional into obsessive — a salesperson who won't take no, a hacker who stays up till 4 AM to fix a bug, a designer who feels physical pain at misalignment. This intensity is unnecessary and even counterproductive in big companies, but it's essential in startups where every person must punch far above their weight. The test is intuitive: picture the person and say 'so-and-so is an animal.' If you laugh, they're not. The corollary for programmers adds three filters: genuinely smart (evidenced by comfort saying 'I don't know'), able to actually ship, and tolerable to work with — though the last rarely filters anyone out because truly smart people don't need to perform smartness.

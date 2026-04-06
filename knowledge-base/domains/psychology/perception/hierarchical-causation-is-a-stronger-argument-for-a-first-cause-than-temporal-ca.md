@@ -71,6 +71,9 @@ evidence:
   - id: INS-260323-A2E5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-06B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 O'Connor distinguishes two types of causal chains. Temporal (horizontal) causation goes back in time: grandfather causes father, father causes child. Even if the grandfather dies, the father retains independent causal power. This chain can plausibly extend infinitely with no first cause needed. Hierarchical (vertical) causation operates in a single time-slice: the glass is held by the hand, the hand by the arm, the arm by the shoulder, the body by the chair, the chair by the floor. Remove any link and everything above it instantly loses causal power.
 

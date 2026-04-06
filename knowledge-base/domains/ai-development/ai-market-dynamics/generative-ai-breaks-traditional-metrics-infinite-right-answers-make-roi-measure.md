@@ -53,5 +53,9 @@ related:
 stance: >-
   Classical ML has one right answer and measurable error; generative AI has
   infinite valid outputs, making traditional ROI frameworks useless.
+evidence:
+  - id: INS-260403-2CDA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Traditional ML operated in a world of correct answers: is the image a cat or dog? Is the temperature 72 degrees? You could minimize error against a known target. Generative AI operates in a fundamentally different paradigm — there are infinite valid ways to write an email, infinite valid customer service responses, and no single 'correct' output to measure against. This creates a management nightmare: how do you define 'good enough'? How do you set KPIs when you can't define error? Leaders trained in MBA programs focused on targeting single right answers now face a paradigm where their measurement instincts are wrong. Most organizations haven't adapted their evaluation frameworks, and this unmeasurability is a major contributor to the 95% no-ROI statistic. The counterweight here: the failure isn't just in implementation — it's in the fundamental inability of existing management frameworks to evaluate generative AI outputs.

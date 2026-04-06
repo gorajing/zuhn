@@ -50,7 +50,6 @@ stance: >-
   Deliberately offering fewer choices concentrates supplier competition, giving
   a retailer disproportionate bargaining power relative to its size
 related:
-  - INS-260327-8388
   - INS-260327-8389
   - INS-260329-67D1
   - INS-260403-4874
@@ -60,5 +59,9 @@ related:
   - INS-260405-D9C8
   - INS-260405-1AAC
   - INS-260405-F57E
+evidence:
+  - id: INS-260329-67D1
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Conventional retail wisdom says more selection equals more sales — give customers options and they'll find something they want. Costco ignores this entirely. With roughly 4,000 unique items versus a typical supermarket's 30,000 or Walmart's 140,000, Costco's shelves are sparse by design. The payoff is that suppliers desperately want to be the one or two brands chosen for any given category. To win that slot, they lower prices, customize packaging, and adapt products to Costco's operational needs — the cashew container reengineering that saved 24,000 pallets per year is a concrete example. Fewer choices also simplifies operations: stocking, inventory management, and customer decision-making all become faster and cheaper. The principle generalizes: constraint-driven focus often produces counterintuitive leverage. A company with a narrow, deep offering frequently extracts better terms from vendors than a sprawling competitor, because winning the narrow slot matters more to the supplier than winning one of fifty shelf facings.

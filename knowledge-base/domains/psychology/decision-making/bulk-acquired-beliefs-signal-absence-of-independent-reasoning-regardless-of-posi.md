@@ -55,6 +55,13 @@ related:
   - INS-260404-FDB2
   - INS-260402-62E3
   - INS-260404-DCCD
+evidence:
+  - id: INS-260321-1A84
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260322-F65F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that intentional moderates — those who deliberately position themselves midway between left and right — share a surprising similarity with ideologues on either extreme: none of them are actually thinking for themselves. An ideologue's opinion on taxation predicts their opinion on sex; an intentional moderate's position on any issue can be predicted from the current median. Both have outsourced their reasoning to an external reference point.
 

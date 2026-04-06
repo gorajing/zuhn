@@ -50,6 +50,13 @@ related:
   - INS-260321-C0A4
   - INS-260325-25A2
   - INS-260323-40AA
+evidence:
+  - id: INS-260321-C0A4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-40AA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Both Graham and his mother independently noted that children are surprisingly interesting to talk to. This contradicts the common pre-parenthood assumption that kids are purely dependents who consume energy without providing intellectual stimulation. The relationship is bidirectional — parents don't just love their children, they genuinely enjoy them as people.
 

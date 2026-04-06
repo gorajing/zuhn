@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-CC7D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-A4CF
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Karp describes a universal failure mode among tech founders engaging with government and defense: because they're intelligent in one domain, they assume competence transfers to all domains. A brilliant engineer decides they should personally negotiate a defense contract. A product genius assumes they understand military operations.
 

@@ -55,6 +55,13 @@ related:
   - INS-260326-967C
   - INS-260322-8D47
   - INS-260322-5831
+evidence:
+  - id: INS-260330-90AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-F957
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Traditional market research treats customers as sources of data to be extracted. Co-creation flips this: customers participate in designing the experiments and prioritizing features, which produces two distinct benefits. First, the resulting experiments are better calibrated to what customers actually care about rather than what the team assumes they care about. Second, customers who have participated in the process develop a sense of ownership and are more likely to become advocates and early adopters.
 

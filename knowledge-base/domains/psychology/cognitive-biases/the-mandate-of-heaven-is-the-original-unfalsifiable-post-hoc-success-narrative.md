@@ -73,6 +73,9 @@ evidence:
   - id: INS-260330-C7CB
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-6AED
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The Zhou dynasty invented the Mandate of Heaven to legitimize overthrowing the Shang, then retroactively applied it to the fictional Xia dynasty. The framework is brilliantly self-sealing: if a dynasty falls, the emperor must have been immoral; if it persists, the emperor must be virtuous. Natural disasters, floods, and rebellions all become evidence of moral failure rather than material causes.
 

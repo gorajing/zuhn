@@ -58,5 +58,9 @@ related:
   - INS-260404-8D5F
   - INS-260405-9EE6
   - INS-260404-8B1C
+evidence:
+  - id: INS-260403-524B
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 The retail instinct is to make navigation frictionless — clear signage, logical categories, easy wayfinding. Costco ignores this. Its warehouse layout is deliberately disorienting, with rotating stock placements and no obvious path to any specific item. The 'flaw' functions as a feature: customers who can't navigate directly to milk must walk past televisions, clothing, and furniture. This increases unplanned purchases, which is why business owners who account for one-third of members generate two-thirds of sales. The same principle appears in IKEA's forced-flow layout, which the video explicitly references. Both companies understood that inconvenience in the right direction (discovery) is commercially valuable, while inconvenience in the wrong direction (checkout friction) destroys conversion. The lesson for product design: not all friction is bad. Friction that slows customers in the discovery phase can increase lifetime value, while friction that slows commitment or payment destroys it. The question is where in the customer journey friction serves the user's latent interests versus where it serves only the company's.

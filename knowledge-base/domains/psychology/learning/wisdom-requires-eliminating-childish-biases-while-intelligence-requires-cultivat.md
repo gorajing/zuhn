@@ -67,5 +67,8 @@ evidence:
   - id: INS-260403-A136
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-34C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham identifies a deep tension in self-development: wisdom is achieved by stripping away the random biases of childhood and upbringing to become a neutral, reliable decision-maker. Intelligence, conversely, is achieved by identifying a particular idiosyncratic interest—a bias toward certain types of problems—and deliberately cultivating it through sustained work on hard problems. This means the wise are alike in their wisdom (universal pruning converges) while smart people are smart in distinctive ways (each cultivates different seedlings). The practical implication is stark: the self-discipline and humility that build wisdom can actively suppress the confident self-indulgence that builds intelligence. Choosing which to optimize is a genuine strategic decision for anyone investing in their own development.

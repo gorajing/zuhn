@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 43 insights
+> 44 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -19,6 +19,7 @@
 - `INS-260405-DFFB` [high] AI commoditizes information synthesis, elevating human curatorial judgment to the primary value layer in media.
 - `INS-260323-2AE2` [high] As AI automates strategy, naming, copy, design, video, and prototyping, the irreplaceable human role shifts from creating outputs to orchestrating meaning — designing values, selecting which work implants meaningful memories, and defining the scope of care for the community served.
 - `INS-260323-0961` [high] Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
+- `INS-260405-2DC0` [high] Reframing health conversations around personal motivations instead of clinical outcomes brings disengaged patients back to their providers.
 - `INS-260403-D82B` [high] Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 - `INS-260329-F635` [high] Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
 - `INS-260329-EDA2` [high] It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.

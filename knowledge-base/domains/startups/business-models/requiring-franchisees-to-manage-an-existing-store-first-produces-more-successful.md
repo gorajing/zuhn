@@ -59,6 +59,10 @@ related:
   - INS-260330-9014
   - INS-260330-F3E4
   - INS-260327-092E
+evidence:
+  - id: INS-260329-F443
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Domino's initial franchise model charged a large one-time fee, which attracted franchisees motivated by the opportunity but not necessarily equipped to execute. When 32 new stores mostly failed in 1969, Tom restructured the entire approach: no upfront fee, but you must successfully manage an existing Domino's store for a full year first. This unconventional model filtered for operational competence rather than capital availability.
 

@@ -56,6 +56,16 @@ related:
   - PRI-260328-22EC
   - INS-260325-2C31
   - INS-260327-684D
+evidence:
+  - id: INS-260330-D88C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-2C31
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-684D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The alien truth framing maps cleanly onto the concept of idea durability: truths that any intelligent being would share are maximally portable across time, culture, and context. Truths that depend on human evolutionary history, cultural assumptions, or biological substrate are inherently more brittle — they may stop being useful as circumstances change. This isn't just philosophical — it's practical for anyone building knowledge systems or making long-term bets.
 

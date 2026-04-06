@@ -56,6 +56,9 @@ evidence:
   - id: INS-260329-85E9
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-3B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham argues that list-of-N-things articles succeed because their structure is an exoskeleton: each point is independent, so readers can skip bad sections without abandoning the whole piece. This makes them 'fault tolerant' like watertight compartments in a ship. The format also signals safety to readers who don't trust the writer — just as ordering a cheeseburger at a suspect restaurant limits downside risk, choosing a listicle limits the damage a bad writer can do.
 

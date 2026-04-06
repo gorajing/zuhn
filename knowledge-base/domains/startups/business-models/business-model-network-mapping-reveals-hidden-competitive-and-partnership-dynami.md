@@ -55,5 +55,15 @@ related:
   - INS-260325-502D
   - INS-260330-3745
   - INS-260404-FBF8
+evidence:
+  - id: INS-260323-B1F5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-FBF8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-581C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most companies use the Business Model Canvas exclusively for self-analysis, but Strategyzer advocates mapping the canvases of key external parties — customers, competitors, and partners. When you understand a partner's revenue model and cost structure, you understand why they negotiate the way they do and where their flexibility lies. When you map a competitor's canvas, you see not just what they offer but why their model constrains them from entering certain spaces. This network-level view transforms the canvas from a single-entity planning tool into a competitive intelligence framework. The insight connects to game theory: you can only predict another player's moves if you understand their incentive structure, and the canvas makes that structure legible.

@@ -56,7 +56,6 @@ stance: >-
 related:
   - INS-260330-FE65
   - INS-260330-FF5B
-  - INS-260330-FED6
   - INS-260330-1C84
   - INS-260330-AE66
   - INS-260330-ED8A
@@ -70,6 +69,9 @@ evidence:
   - id: INS-260330-C499
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-FF5B
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Pure exponential growth requires infinite resources. In reality, every exponential process encounters limiting factors — a finite population to infect, a finite market to capture, a finite audience to reach. The logistic model adds a (1 - N/capacity) damping term that makes growth decelerate as the system fills up. The inflection point of the logistic curve — where growth switches from accelerating to decelerating — occurs at exactly half capacity.
 

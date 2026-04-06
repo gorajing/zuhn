@@ -55,6 +55,10 @@ related:
   - INS-260403-16D7
   - INS-260330-579B
   - INS-260402-5EDC
+evidence:
+  - id: INS-260330-579B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The article's final characteristic — difficulty to copy — is positioned as the capstone because without it, all other value proposition qualities become temporary. Beyond Meat's advantage isn't one recipe; it's the accumulated R&D, proprietary processes, and brand positioning that together create a barrier competitors can't easily replicate.
 

@@ -85,6 +85,15 @@ evidence:
     relationship: RELATED
   - id: INS-260330-CEAE
     relationship: RELATED
+  - id: INS-260404-4010
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-D482
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2CDA
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, was evolved in a low-oxygen atmosphere and now fails up to 50% of the time by grabbing oxygen instead of CO2. Rather than evolving a superior replacement, plants compensated by producing staggering quantities — an estimated 40 billion tons on Earth at any time — and developing secondary pathways to handle its toxic byproduct (phosphoglycolate).
 

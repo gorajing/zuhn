@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-B525
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-312D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Shapiro's 'photo negative' framing—Trump appears unserious but has serious foreign policy results, while Harris appears serious but has unserious foreign policy outcomes—captures a general pattern where style and substance are inversely correlated. Observers who anchor on presentation style systematically misjudge actual competence.
 

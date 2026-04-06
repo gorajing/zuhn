@@ -76,6 +76,9 @@ evidence:
   - id: INS-260403-9DC6
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-5882
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The video highlights how compensation has become the ultimate flex in programming culture — a FAANG salary is wielded as proof of technical worth. While pay transparency movements frame salary sharing as egalitarian, in practice within developer communities it often functions as a dominance display. The person sharing a $400K total comp is rarely doing it to help others negotiate; they're establishing position in the hierarchy.
 

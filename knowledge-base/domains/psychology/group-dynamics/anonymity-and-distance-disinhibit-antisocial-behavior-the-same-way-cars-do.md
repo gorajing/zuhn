@@ -52,6 +52,15 @@ evidence:
   - id: INS-260327-E75F
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260323-40AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260322-4B63
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-0603
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The most important cause of trolling is distance — the gap between actor and recipient that removes social consequences. This is the same mechanism that makes drivers tailgate or honk at people they'd be polite to on a sidewalk. The anonymity of online forums amplifies this by removing identity-linked accountability entirely.
 

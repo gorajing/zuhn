@@ -52,5 +52,9 @@ related:
 stance: >-
   Founders resist comping themselves to public companies because it feels like
   comparing yourself to astronauts
+evidence:
+  - id: INS-260403-8E25
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Michael observes that founders consistently comp themselves to other startups rather than public companies. When asked 'what company do you comp yourself to?' they name a company with a $1B valuation instead of one that actually IPO'd and proved the model works at scale. He compares this to wanting to learn basketball from a Duke player instead of Michael Jordan because 'Jordan is old.' Tony Xu at DoorDash was thinking about out-delivering Amazon before he had any right to — and that ambition shaped every strategic decision. You choose who your heroes are, and that choice determines the ceiling of what you build.

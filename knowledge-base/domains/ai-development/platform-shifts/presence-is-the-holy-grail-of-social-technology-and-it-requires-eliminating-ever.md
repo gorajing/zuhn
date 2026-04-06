@@ -94,6 +94,9 @@ evidence:
   - id: INS-260403-1046
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-F8AE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Zuckerberg describes presence as an illusion where the bar is set by absence of failure, not presence of excellence. A narrow field of view, latency, unrealistic physics, or any single broken element destroys the feeling. This is why it's a 10-year project -- you need every subsystem to be good enough simultaneously.
 

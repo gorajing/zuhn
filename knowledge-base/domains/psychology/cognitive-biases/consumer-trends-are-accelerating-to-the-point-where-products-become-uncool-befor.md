@@ -72,5 +72,11 @@ evidence:
   - id: INS-260403-36F4
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-219E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-8326
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hildebrand documents how consumer trends now follow a compressed lifecycle: 1) Niche discovery (small creator features product), 2) Viral adoption (millions see it simultaneously), 3) Mass purchase (everyone buys it within days), 4) Over-saturation (the product becomes basic/common), 5) Backlash (owning it signals you follow trends, not taste), 6) Abandonment (product is 'cheugy'). This entire cycle now happens in 4-8 weeks. Stanley tumblers went from niche to ubiquitous to mocked in under 6 months. Labubu collectibles repeated the pattern even faster. The business implication: brands built on trend momentum have a shrinking window before the trend turns against them. The psychological implication: consumers are trapped in an accelerating cycle of purchase-and-discard that produces neither satisfaction nor identity.

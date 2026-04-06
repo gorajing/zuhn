@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-3473
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-8779
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Each time boredom is immediately relieved by digital stimulation, the brain adjusts its baseline: the threshold for 'interesting' rises. This creates an escalating cycle where increasingly intense stimulation is needed to avoid boredom, while the capacity for sustained attention on less stimulating but more meaningful work degrades.
 

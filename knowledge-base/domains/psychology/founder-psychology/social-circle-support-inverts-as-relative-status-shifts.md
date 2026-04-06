@@ -78,6 +78,9 @@ evidence:
   - id: INS-260330-D98E
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-862E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi identifies a counterintuitive pattern in social support for entrepreneurs: the initial encouragement you receive when starting out isn't pure goodwill — it's partly because quitting a stable job to pursue something risky actually lowers your status relative to peers. You've stepped down in income and prestige, which makes them feel better about their own position. They're genuinely happy because your risk-taking effectively removes you from competition.
 

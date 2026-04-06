@@ -77,6 +77,9 @@ evidence:
   - id: INS-260403-8448
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260323-23B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The peptide phenomenon reveals how Silicon Valley's risk-tolerance framework has migrated from software to biology. Users explicitly compare trying untested peptides to beta-testing a new app — accepting potential side effects as the cost of gaining an edge others don't have. The supply chain mirrors gray-market tech: Chinese factories selling via Discord, labeled 'for research purposes only,' with Bitcoin payments.
 

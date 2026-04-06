@@ -72,5 +72,8 @@ evidence:
   - id: INS-260323-0961
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-CF9F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Conti's iceberg metaphor positions the conscious mind as roughly 5% of total brain function — the visible tip riding atop a vast unconscious infrastructure. This unconscious 'biological supercomputer' handles millions of operations per second: electrical and chemical signals across pathways as complex as superhighway systems, consolidating information and feeding it up to conscious awareness. What makes this clinically important rather than just neuroscience trivia is that all the mechanisms we use to interface with the world — defense mechanisms, predispositions, automatic reactions — originate in this 95%. A person who only works on their conscious mind (positive affirmations, rational self-talk) is trying to renovate a building by repainting the lobby while ignoring structural problems in the foundation. Conti's framework demands examining the unconscious through structured clinical inquiry: biological predispositions (have you always been anxious?), unprocessed trauma (did something happen?), and habitual patterns (what cycles do you repeat?). This is why he insists mental health treatment must be as individualized as physical medicine — two people saying 'I feel anxious' may have completely different unconscious architectures driving that identical symptom.

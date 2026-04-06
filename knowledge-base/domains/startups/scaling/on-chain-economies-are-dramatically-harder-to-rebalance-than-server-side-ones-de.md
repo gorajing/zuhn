@@ -61,6 +61,10 @@ related:
   - PRI-260328-D893
   - INS-260327-4440
   - INS-260405-8107
+evidence:
+  - id: INS-260402-0E46
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 In web2 gaming, developers can iterate rapidly on economy parameters — adjusting drop rates, currency sinks, pricing — because everything runs on their servers. The move-fast-and-break-things approach works because changes are unilateral and immediate.
 

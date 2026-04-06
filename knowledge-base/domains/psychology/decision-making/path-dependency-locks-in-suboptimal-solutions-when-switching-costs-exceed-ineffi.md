@@ -57,6 +57,19 @@ related:
   - INS-260330-3FCF
   - INS-260330-53A9
   - PRI-260323-0F93
+evidence:
+  - id: INS-260330-CBF8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-3608
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-3FCF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-53A9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the most abundant protein on Earth (~40 billion tons), evolved when atmospheric oxygen was negligible. Now that oxygen is abundant, it confuses O2 for CO2 roughly half the time, producing a toxic byproduct plants must actively detoxify. Yet no plant lineage has replaced RuBisCo — they simply produce massive quantities and bolt on repair pathways.
 

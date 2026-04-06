@@ -59,6 +59,9 @@ evidence:
   - id: INS-260321-8414
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-97D6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 All three case studies (Taobao, Michelin, Airbnb) converge on the same meta-pattern: trust is the binding constraint. Taobao had to overcome a counterfeit-heavy market through strict regulations, reviews, and ratings. Airbnb needed verified profiles and robust review systems to get strangers to sleep in each other's homes. Michelin needed anonymous, rigorous inspections to become a credible authority.
 

@@ -51,6 +51,13 @@ related:
   - INS-260329-7A3C
   - INS-260403-1CC5
   - INS-260403-D746
+evidence:
+  - id: INS-260329-9A30
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-1CC5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham's practical solution to the maker-manager conflict is the 'office hours' pattern: designating specific chunks at the end of the working day for all meetings, ensuring they compress the day but never interrupt it. This transforms meetings from random interruptions into predictable boundaries.
 

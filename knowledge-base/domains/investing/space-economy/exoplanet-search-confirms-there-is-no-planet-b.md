@@ -69,6 +69,9 @@ evidence:
   - id: INS-260323-A64F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-09DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Despite discovering thousands of exoplanets, no true Earth twin has been found, and even if one were, the distances involved make travel or colonization practically impossible with current or foreseeable technology. Sara Seager, who has devoted her career to finding other Earths, concludes: 'ultimately, there is no Planet B.'
 

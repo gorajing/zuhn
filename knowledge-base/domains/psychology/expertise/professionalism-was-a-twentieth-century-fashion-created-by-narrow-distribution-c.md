@@ -72,6 +72,9 @@ evidence:
   - id: INS-260402-EF63
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-7732
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham reframes 'professionalism' as a historical accident rather than an inherent virtue. When distribution channels were narrow (few journalism jobs, limited TV slots), competition ensured professionals were above average. But the Web eliminates channel scarcity, and the relevant comparison shifts from average-professional-vs-average-amateur to best-of-professionals-vs-best-of-amateurs.
 

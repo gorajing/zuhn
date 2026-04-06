@@ -61,6 +61,28 @@ related:
   - INS-260402-D0F3
   - INS-260402-89DE
   - INS-260325-0147
+evidence:
+  - id: INS-260403-A408
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-775F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-C66E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-0218
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-D0F3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-89DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-0147
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 There is a natural human instinct to polish before presenting — to make things look finished before exposing them to scrutiny. In innovation contexts, this instinct actively works against learning. A low-fidelity prototype (a sketch, a paper mockup, a landing page with no backend) can answer critical questions about desirability at near-zero cost. A high-fidelity prototype answers the same questions at 10-100x the cost, but no more accurately.
 

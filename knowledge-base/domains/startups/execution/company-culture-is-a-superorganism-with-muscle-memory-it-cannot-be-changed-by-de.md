@@ -54,6 +54,10 @@ related:
   - INS-260327-390A
   - INS-260403-0218
 stance: Culture is not what you write on the wall
+evidence:
+  - id: INS-260403-0218
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Kim frames culture as a 'superorganism' where the collection is greater than the individuals combined (1+1=3). Culture operates like muscle memory — habitual, slow to change, and impossible to rewire through top-down declarations. Saying 'today we define our culture as XYZ' doesn't work because culture is a collection of people's habits that evolves through nudging and iterative feedback loops.
 

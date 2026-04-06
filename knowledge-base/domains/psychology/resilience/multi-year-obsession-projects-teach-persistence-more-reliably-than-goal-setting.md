@@ -51,5 +51,12 @@ related:
   - INS-260403-2B63
   - INS-260329-8330
   - INS-260402-8223
+evidence:
+  - id: INS-260403-6935
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-8330
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Destin's 3+ year vortex collision project was never rational on paper — it had no commercial value, no guaranteed outcome, and required hundreds of failed attempts. Yet he describes it as 'what taught me persistence,' not the fluid dynamics knowledge gained. This suggests persistence is a skill acquired through sustained irrational commitment to one specific challenge, not through reading about grit or setting SMART goals. The project's difficulty was the feature, not the bug — each tank refill and failed shot was a repetition that built the muscle. This mirrors research on deliberate practice: the emotional experience of continuing through futility is what rewires the brain's relationship with difficulty.

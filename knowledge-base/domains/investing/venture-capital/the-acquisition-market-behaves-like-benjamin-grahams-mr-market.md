@@ -53,6 +53,25 @@ related:
   - INS-260327-C316
   - INS-260329-CE86
   - INS-260325-B8CB
+evidence:
+  - id: INS-260329-1D08
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-4605
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-C316
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-CE86
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-B8CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-F26E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham draws an explicit parallel between the acquisition market and Benjamin Graham's Mr. Market metaphor from value investing. Just as Mr. Market offers wildly different prices for the same stock on different days, acquirers swing between frenzied buying (overpaying enormously) and total disinterest — driven by sentiment rather than fundamental value.
 

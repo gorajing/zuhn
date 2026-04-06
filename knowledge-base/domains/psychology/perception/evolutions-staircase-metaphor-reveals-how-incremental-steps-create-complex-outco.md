@@ -86,6 +86,9 @@ evidence:
   - id: INS-260325-0C20
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-558D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Sean B. Carroll explains that humans think like engineers — we envision outcomes and work backward. Evolution does the opposite: it starts with random error (mutation) and lets selection propagate what works. Each mutation-selection cycle is one step on a staircase. The key insight is that immensely complex structures like eyes and wings emerge from this stepwise process over millions of years.
 

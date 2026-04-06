@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-43EE
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-7FFA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 One of the most common traps for novice leaders is believing they need to know more technically than every team member. This drives two destructive behaviors: first, they spend excessive time studying to maintain technical superiority rather than leading; second, they unconsciously avoid hiring anyone smarter than themselves, which systematically lowers the team's talent density.
 

@@ -1,6 +1,6 @@
 # Topic: quality
 
-> 13 insights
+> 12 insights
 
 - `INS-260402-EF63` [high] Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - `INS-260403-4942` [high] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
@@ -14,4 +14,3 @@
 - `INS-260330-FA4D` [high] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
 - `INS-260402-E994` [high] Unseen details accumulate into visible quality — great software, like great painting, requires fanatical devotion to parts no one is supposed to see.
 - `INS-260402-3A0D` [high] Simplicity forces you to face the real problem because you can't hide behind ornament.
-- `INS-260402-2074` [high] Expect to discard 70-75% of initial output as the normal cost of producing quality work.

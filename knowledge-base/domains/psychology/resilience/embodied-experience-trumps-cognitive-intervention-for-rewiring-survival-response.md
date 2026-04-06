@@ -57,6 +57,10 @@ related:
   - INS-260325-DF82
   - INS-260403-7639
   - PRI-260325-F21B
+evidence:
+  - id: INS-260403-94CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Bessel van der Kolk's 50 years of trauma research reveals a fundamental mismatch in conventional treatment: trauma is encoded in the body's survival brain, yet most treatments target cognition or neurochemistry. His studies found that SSRIs like Prozac and Zoloft 'didn't work very well' for PTSD, while yoga proved 'a more effective treatment for PTSD than any of the drugs we had studied.'
 

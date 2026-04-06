@@ -64,6 +64,12 @@ evidence:
   - id: INS-260329-9A58
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-27AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-743D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham argues that the way to become a great programmer is to work a lot on hard problems, and the way to sustain that effort is to work on engaging projects you chose yourself. He cites Robert Morris learning networking by connecting Harvard to the Arpanet — a project so consuming he got kicked out of school, yet it built skills no class could match.
 

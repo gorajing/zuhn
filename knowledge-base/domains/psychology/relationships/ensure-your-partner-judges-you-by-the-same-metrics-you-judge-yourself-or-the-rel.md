@@ -66,5 +66,8 @@ evidence:
   - id: INS-260329-E0B0
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-7E95
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Hormozi identifies a subtle but devastating relationship failure mode: when partners evaluate each other using different scorecards. You might be optimizing for career achievement while they measure you on time spent together — both of you feel you're giving 100% yet both feel underappreciated. The fix is explicit alignment before commitment: what does a 10/10 partner look like to them? If their ideal already matches what you naturally do or plan to do, the relationship becomes synergistic rather than zero-sum. This is literally business strategy applied to relationships — if your KPIs don't match your stakeholder's KPIs, no amount of effort will produce satisfaction. The relationship version of 'what gets measured gets managed.'

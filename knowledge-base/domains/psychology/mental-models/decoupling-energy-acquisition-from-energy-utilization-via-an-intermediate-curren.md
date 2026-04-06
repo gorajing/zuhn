@@ -80,6 +80,12 @@ evidence:
   - id: INS-260330-E8CF
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-ED04
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-20FD
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The light-dependent reactions don't directly build sugars. Instead, they convert raw photon energy into two intermediate currencies: ATP (chemical energy) and NADPH (reducing power). The Calvin cycle then treats these as its only inputs—it never needs to 'know' that sunlight was the original source. This decoupling means the two stages can be regulated separately, run at different rates, and even be studied or engineered independently.
 

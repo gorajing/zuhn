@@ -62,6 +62,10 @@ related:
   - INS-260404-1C01
   - INS-260403-5B46
   - INS-260329-ADCD
+evidence:
+  - id: INS-260330-02A7
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 New Story's evolution from purely philanthropic funding to a model where families pay for homes and land reveals a critical scaling insight: philanthropy and government subsidies are excellent for proving risky models and funding innovation, but they cannot scale to serve 1.6 billion people. The transition requires building systems (better financing, lower construction costs via 3D printing, digital payments via crypto) that make the product affordable enough for the market itself.
 

@@ -59,5 +59,8 @@ evidence:
   - id: INS-260330-2D6D
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-BCB1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Rajat describes a pivotal moment: seeing that his early team members were willing to make enormous sacrifices for Presto. Their dedication validated his vision and became a powerful source of motivation. This created a virtuous cycle — the founders commitment inspired team loyalty, which in turn reinforced the founders conviction during the 5 years of zero revenue. The insight: team willingness to sacrifice is the ultimate product-market fit signal for the company itself. If people will not fight for your mission, no amount of product iteration will save you.

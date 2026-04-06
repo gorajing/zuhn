@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-E263
   - INS-260330-FFDB
-  - INS-260330-0B79
   - INS-260330-1854
   - INS-260330-2F22
+  - PRI-260403-53D6
 ---
 Hosain Rahman describes how Jawbone transformed the wireless speaker market from 0% to 78% share in three years. He notes that if they had asked focus groups 'do you want a $199 speaker for your phone?' the answer would have been universally no. Instead, they asked behavioral questions: how much music do you listen to with other people? How do you play it? How often do you want to share? This approach validates the underlying thesis about user needs without asking users to imagine products that don't exist yet.
 

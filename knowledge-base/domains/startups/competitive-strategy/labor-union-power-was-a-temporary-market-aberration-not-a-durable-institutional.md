@@ -58,6 +58,10 @@ related:
   - PRI-260328-6CDE
   - PRI-260328-C918
   - PRI-260403-E097
+evidence:
+  - id: INS-260327-EF98
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that the conventional explanation for union decline — that workers lost courage or that capital captured politics — misses the simpler structural truth. Unions flourished when manufacturing was a fast-growing sector where reliable labor supply was more valuable than cheap labor. As growth slowed and global competition intensified, the calculus flipped: labor cost mattered more than labor reliability.
 

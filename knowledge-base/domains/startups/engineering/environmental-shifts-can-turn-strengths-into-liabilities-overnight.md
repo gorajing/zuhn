@@ -53,17 +53,29 @@ related:
   - INS-260330-E5DC
   - INS-260330-B3D5
   - INS-260330-EACA
+  - INS-260330-DF69
   - INS-260403-CF3E
   - INS-260403-F52E
   - INS-260403-B5E2
   - INS-260403-3D7D
-  - INS-260403-9F4B
   - INS-260404-2695
   - INS-260405-F03A
 evidence:
   - id: INS-260330-EACA
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260330-E5DC
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-3D7D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-B3D5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-B5E2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo was engineered by evolution in an atmosphere with abundant CO2 and negligible oxygen. It worked well enough under those conditions. But the very success of photosynthetic organisms gradually flooded the atmosphere with oxygen — a byproduct of their own process — and RuBisCo began grabbing O2 instead of CO2 roughly half the time, creating toxic phosphoglycolate.
 

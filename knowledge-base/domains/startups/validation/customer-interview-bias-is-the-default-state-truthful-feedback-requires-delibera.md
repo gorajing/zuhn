@@ -60,6 +60,21 @@ evidence:
   - id: INS-260320-508F
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260322-D6D7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-359D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-966C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-775F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-2B3F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Rob Fitzpatrick's Mom Test principle highlights a fundamental flaw in how most teams validate ideas: asking people about your idea triggers social desirability bias. Customers will praise your concept to avoid conflict, producing false positives that waste months of development.
 

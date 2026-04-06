@@ -56,6 +56,12 @@ evidence:
   - id: INS-260325-3B28
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-A526
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-915E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Sequoia partners challenge the room to connect their data flywheels to specific business metrics. When hands go up for 'having a data flywheel' but fewer can identify what metric it moves, the verdict is clear: 'Either you don't have a data flywheel or it just doesn't matter.'
 

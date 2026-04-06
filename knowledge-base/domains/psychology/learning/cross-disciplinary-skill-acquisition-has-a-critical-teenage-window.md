@@ -51,6 +51,10 @@ related:
   - INS-260323-8726
   - INS-260402-E76D
   - INS-260403-222E
+evidence:
+  - id: INS-260323-8726
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that painters rarely hack and hackers rarely paint because both appear as 'great abstruse mysteries' from the outside. Teenagers can learn either because everything is mysterious at that age, and ignorance breeds boundless self-confidence. But adults who mastered one discipline develop enough awareness to fear the other.
 

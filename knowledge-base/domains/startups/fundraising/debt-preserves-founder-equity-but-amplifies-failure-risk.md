@@ -77,6 +77,9 @@ evidence:
   - id: INS-260323-6351
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-C732
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Ackman's lemonade stand example shows why founders choose debt: by borrowing $250 at 10% instead of selling additional equity, the founders retained 2/3 ownership. When the business succeeded, equity investors earned 100%+ returns while the lender only got 10%. But the debt created a priority claim — if the business failed, the lender recovers first and equity holders get wiped out.
 

@@ -52,7 +52,6 @@ related:
   - INS-260403-9442
   - INS-260403-532D
   - INS-260404-16B0
-  - INS-260403-EDA2
   - INS-260404-1FCE
   - INS-260404-47F5
   - INS-260404-8256
@@ -61,6 +60,30 @@ evidence:
   - id: INS-260330-68C8
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-CEAE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-9442
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-532D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-16B0
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-1FCE
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-47F5
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-8256
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-9DB6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo fails roughly 50% of the time under current atmospheric conditions, grabbing oxygen instead of CO2. Plants compensate purely through volume — producing so much RuBisCo that the successful half still fixes enough carbon to sustain all plant life on Earth.
 

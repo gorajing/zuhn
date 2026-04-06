@@ -52,6 +52,10 @@ related:
   - INS-260403-2E90
   - INS-260404-4DF7
   - INS-260403-481F
+evidence:
+  - id: INS-260327-D6C5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham cites a VC who invested in a company despite knowing their business model was wrong and would change three times. The founders were experienced repeat entrepreneurs who'd just raised millions, and even their model was 'crap.' The investor expected it to be crap at that stage.
 

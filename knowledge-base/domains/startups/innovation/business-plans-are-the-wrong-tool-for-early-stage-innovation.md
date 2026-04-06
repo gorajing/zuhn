@@ -49,5 +49,12 @@ related:
   - INS-260330-2E58
   - INS-260403-F75F
   - INS-260403-C135
+evidence:
+  - id: INS-260403-97D6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-C135
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 In early-stage innovation, good ideas and bad ideas look identical on paper. Requiring a business plan pressures teams to perform false certainty—to argue that they know something will work when the entire point of the exercise is to find out. This conflates execution (where plans make sense) with exploration (where plans don't). Business plans are appropriate for predictable investments like factory expansions, but harmful when applied to new ventures where the core assumptions are untested. The Business Model Canvas is better suited here because it makes assumptions explicit rather than hiding them behind projected financials.

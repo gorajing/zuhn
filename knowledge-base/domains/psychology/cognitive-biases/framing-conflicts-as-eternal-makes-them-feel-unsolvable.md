@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-4473
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-3E9A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The Israel-Palestine conflict is widely perceived as an ancient religious war, but historians trace it to competing 19th-century nationalisms and British colonial decisions. John Green argues that framing it as eternal and theological makes it 'feel intractable in a way that it isn't.' This is a general cognitive pattern: when we frame any dispute — organizational, interpersonal, or geopolitical — as rooted in immutable identity rather than concrete interests, we unconsciously shift from problem-solving mode to fatalism. Reframing from 'who they are' to 'what they want' opens negotiation space.
 

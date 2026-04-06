@@ -66,6 +66,9 @@ evidence:
   - id: INS-260327-B561
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-DB38
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 GPTers' CEO Kim Tae-hyun started with a single agent (Ppojjak) handling community operations for 400-500 members. As he added more agents for different functions, he realized he was again becoming the bottleneck -- constantly assigning work and reviewing outputs. The breakthrough was creating a senior agent (Poya) to manage the junior agents, handle handoffs, review quality, and report only final results upward.
 

@@ -53,6 +53,22 @@ related:
   - INS-260328-68BA
   - INS-260405-AEA0
   - INS-260402-9093
+evidence:
+  - id: INS-260403-147C
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-33CA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260328-68BA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-AEA0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-9093
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Naval identifies four distinct types of luck: blind luck (pure chance), hustle luck (generated through volume of activity), skill luck (pattern recognition from domain expertise), and character luck (unique positioning that attracts opportunities to you). The key insight is that these form a controllability gradient — each successive type gives you more agency over outcomes.
 

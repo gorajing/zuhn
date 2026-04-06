@@ -74,6 +74,9 @@ evidence:
   - id: INS-260325-9F41
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-268F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Tetlock tracked experts for 20 years and found that 'hedgehogs' — experts who relate everything to a single central vision and speak with tremendous confidence — performed worst at prediction, sometimes below random chance. 'Foxes' — skeptical of big theories, comfortable with complexity and uncertainty — were more accurate but terrible media guests because they say things like 'it depends.'
 

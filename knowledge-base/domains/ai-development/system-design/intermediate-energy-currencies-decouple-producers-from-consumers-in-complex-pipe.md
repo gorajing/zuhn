@@ -76,6 +76,9 @@ evidence:
   - id: INS-260405-C780
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260404-9428
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Light-dependent reactions don't directly build sugars — they convert photon energy into ATP and NADPH, standardized energy currencies that the Calvin Cycle then spends. This decoupling means the two stages can operate with different inputs, at different rates, and evolve independently. The thylakoid membrane essentially acts as a battery, charging via proton gradients and discharging through ATP synthase.
 

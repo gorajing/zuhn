@@ -101,6 +101,15 @@ evidence:
   - id: INS-260403-37FD
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-535C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-7AA1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-304E
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 a16z's framework for evaluating whether AI startups can displace incumbent software companies requires three simultaneous innovations: (1) A completely reimagined UI/UX — instead of users inputting data into forms, the product proactively tells users what to do based on what it already knows. (2) Access to new data — replacing structured databases (Salesforce's real moat) with unstructured data lakes that AI can query. (3) Business model disruption — moving beyond seat-based pricing to value-based pricing tied to completed tasks.
 

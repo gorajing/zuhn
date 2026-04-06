@@ -64,5 +64,11 @@ evidence:
   - id: INS-260323-2D1D
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260404-1A18
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-A183
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that philosophy's 2500-year history is misleading because for most of that time practitioners were either writing commentaries on Plato and Aristotle, hopelessly entangled with religion, or trapped in the abstraction singularity. He compares it to how little progress math made between Hellenistic times and the Renaissance. The implication is that 'civilization always seems old, because it's always the oldest it's ever been' — but structural evidence, not calendar time, determines actual maturity. This pattern appears in many domains: fields like nutrition science, economics, and psychology have long histories but may be structurally young because foundational assumptions were wrong. Recognizing structural youth is liberating — it means there is still a lot of low-hanging fruit to discover, and one shouldn't be intimidated by the apparent weight of tradition.

@@ -62,6 +62,13 @@ related:
   - PRI-260403-88F5
   - INS-260403-979D
   - INS-260403-A7FD
+evidence:
+  - id: INS-260405-809E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-979D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Big-O notation only cares about the worst case — if searching an unsorted list for the number 7, the relevant scenario is when 7 is the very last element, not the average case where it's somewhere in the middle. It also only cares about behavior as input grows arbitrarily large, deliberately ignoring constants and small-n performance.
 

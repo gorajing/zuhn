@@ -62,5 +62,8 @@ evidence:
   - id: INS-260403-D82B
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-9DBA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 PG's instinct at YC was to build software for every problem instead of hiring people, and most of YC's internal tools trace back to software PG originally wrote. Standard Capital is replicating this by having a CTO (Brian Berg, ex-Stripe) as a co-founder and using AI tools to write the code that powers the fund. This is radically different from traditional VC, where the workflow is email inbox -> warm intros -> pitch decks -> coffee dates. Dalton notes that asking 'how can software help us?' is one of the most unnatural questions for investors — they default to hiring scouts, lawyers, and associates instead.

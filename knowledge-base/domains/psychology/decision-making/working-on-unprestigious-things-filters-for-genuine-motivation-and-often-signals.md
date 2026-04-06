@@ -64,6 +64,12 @@ evidence:
   - id: INS-260402-9093
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-F657
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-4431
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a 'conspicuous pattern' across his life: still life painting (least prestigious painting form), Viaweb (seemed lame), Y Combinator (seemed lame), online essays (seemed like nutjob rants), and Lisp (intellectually respected but unhip) all turned out to be deeply valuable pursuits. The pattern works as a double filter.
 

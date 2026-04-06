@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-BA00
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-5755
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, fails roughly half the time by grabbing oxygen instead of CO2, producing a toxic byproduct plants must actively detoxify. Yet plants produce 40 billion tons of it at any given time rather than evolving a replacement. The reason: every downstream system — the Calvin Cycle, photorespiration pathways, amino acid synthesis — has been built around RuBisCo's quirks.
 

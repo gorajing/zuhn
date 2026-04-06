@@ -57,6 +57,9 @@ evidence:
   - id: INS-260330-440E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-C844
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Sri Lanka's tourism sector represented 22% of GDP in 2019, and Lonely Planet ranked it the #1 destination that year. Then two shocks hit in rapid succession: the 2019 Easter bombings killed 269 people and caused a 70% drop in tourist arrivals, and COVID-19 eliminated the remainder. Foreign reserves collapsed from $7.9B (2019) to $1.6B (2021).
 

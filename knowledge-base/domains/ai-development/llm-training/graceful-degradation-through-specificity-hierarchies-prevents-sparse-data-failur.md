@@ -66,6 +66,9 @@ evidence:
   - id: INS-260322-F46F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260325-DFC7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Expanding a classifier's vocabulary from 23,000 to 187,000 tokens created a dilemma: more specific tokens are more discriminating, but spreading a corpus over more tokens means many will lack sufficient training data. Graham's solution — 'degeneration' — creates a specificity hierarchy where the system automatically falls back from the most specific token version to progressively more general ones, taking whichever probability is farthest from neutral.
 

@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-7D6D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260404-B5EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In advanced economies like the US, widespread banks and credit cards create a coordination problem for new payment apps — users need the same app but there are too many competitors (Chase Pay, Venmo, Zelle, etc.) fighting for critical mass. In Africa, where only 20% of sub-Saharan populations are banked vs. 92% in advanced economies, the value proposition was stark: send a text or take a two-day bus ride. Combined with telecom monopolies that ensured universal adoption, this absence of legacy infrastructure allowed countries like Kenya (M-PESA) and Zimbabwe (EcoCash) to surpass advanced economies in mobile payment penetration. By 2017, digital payments accounted for 90% of Zimbabwe's $97.5 billion in transactions.
 

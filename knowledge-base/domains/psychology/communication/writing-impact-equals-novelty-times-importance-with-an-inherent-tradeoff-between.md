@@ -52,6 +52,22 @@ related:
   - INS-260403-280B
   - INS-260323-2FC3
   - INS-260402-4605
+evidence:
+  - id: INS-260404-5AC1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-280B
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260323-2FC3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-4605
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-98DE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Paul Graham frames essay impact as the product of two factors: how much it changes readers' thinking and how important the topic is. In practice, writers face a tradeoff — you can shift thinking dramatically on moderately important topics, or nudge it slightly on very important ones. This is because important topics have been extensively explored, leaving less room for novel contributions.
 

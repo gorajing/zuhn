@@ -59,5 +59,8 @@ evidence:
   - id: INS-260328-896B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-2F77
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham makes a counter-intuitive claim: when he sees a young-founder startup that's wildly successful at fundraising, he mentally decreases his estimate of their success probability. The mechanism is psychological — fundraising, when going well, feels like validation (famous investors, nice restaurants, millions offered), while actual company-building involves 'unglamorous schleps' like listening to users complain about bugs. The danger isn't just time spent, but identity corruption: founders start thinking of themselves as already successful and lose appetite for the hard work. This maps to a broader pattern where optimizing for legible metrics (valuation, press coverage) diverges from optimizing for actual value creation (product quality, user satisfaction).

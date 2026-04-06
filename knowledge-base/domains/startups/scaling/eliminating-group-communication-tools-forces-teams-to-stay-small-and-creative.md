@@ -90,6 +90,12 @@ evidence:
   - id: INS-260403-CE95
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-0949
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6947
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Naval describes Slack as inheriting email's worst property — the ability to asymmetrically waste other people's time. One message to 50 people takes seconds to send but collectively consumes hours of attention as everyone sifts through noise for signal. Over time, group messaging degenerates into entertainment, politicking, and non-germane conversation with a terrible signal-to-noise ratio.
 

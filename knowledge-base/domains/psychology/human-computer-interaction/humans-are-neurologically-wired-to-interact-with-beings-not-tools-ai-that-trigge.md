@@ -61,5 +61,8 @@ evidence:
   - id: INS-260323-C984
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260402-7182
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The essay draws on the 'Computers Are Social Actors' finding (2000) — humans have a reflexive tendency to treat sufficiently responsive entities as social actors. Previous technologies eroded this perception over time as users became familiar with their deterministic nature. AI is the first technology that can sustain that perception because it actually reciprocates socially. This matters for product design because social interaction activates belonging, feeling seen, and emotional resonance — experiences that create stickiness and willingness-to-pay that pure utility cannot. The strategic implication: if your AI product can cross the threshold where users perceive it as a being rather than a tool, you are competing in a fundamentally different retention and monetization landscape.

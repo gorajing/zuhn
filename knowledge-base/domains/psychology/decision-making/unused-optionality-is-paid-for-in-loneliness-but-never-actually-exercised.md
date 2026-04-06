@@ -49,6 +49,13 @@ related:
   - PRI-260324-E8C6
   - INS-260327-7427
   - INS-260403-83E2
+evidence:
+  - id: INS-260403-83E2
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-1BB4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham's key realization was that the freedom he lost by having kids — spontaneous international travel, unstructured time — was freedom he rarely actually used. He paid for that optionality in loneliness but almost never converted it into action. This is a profound insight about how humans systematically overvalue uncommitted flexibility.
 

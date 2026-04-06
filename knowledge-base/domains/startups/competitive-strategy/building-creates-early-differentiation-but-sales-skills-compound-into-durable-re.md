@@ -61,6 +61,10 @@ related:
   - INS-260330-7D07
   - PRI-260403-0ABD
   - INS-260403-EA34
+evidence:
+  - id: INS-260403-EA34
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Naval identifies an asymmetry in how building and selling skills age. Early in a career, building skills cut through noise because many hustlers lack substance—a track record of actually shipping products is a powerful signal. However, building is exhausting, requires staying current with rapidly changing tools, and faces constant competition from younger builders with more time and newer skills.
 

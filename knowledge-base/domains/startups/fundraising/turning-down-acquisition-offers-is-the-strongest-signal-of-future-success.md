@@ -54,6 +54,10 @@ related:
   - INS-260403-FE3B
   - INS-260402-8424
   - INS-260403-0FEC
+evidence:
+  - id: INS-260403-B7FA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that startups which turn down acquisition offers usually end up doing better — not because offers always undervalue them, but because the founders willing to walk away from significant money possess exactly the risk tolerance and ambition that predicts startup success. This creates a paradox for corporate M&A: the best deals are systematically the ones that get rejected, because the willingness to reject is itself the signal of a company worth acquiring.
 

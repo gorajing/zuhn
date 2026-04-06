@@ -53,5 +53,9 @@ related:
   - INS-260321-CCE3
   - INS-260327-28FC
   - INS-260330-0804
+evidence:
+  - id: INS-260321-CCE3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The sun provides: 1) Vitamin D synthesis from cholesterol in skin, 2) Nitric oxide release for vasodilation and blood pressure control, 3) Infrared radiation (50% of sunlight) which penetrates tissue and supports mitochondrial function, 4) Circadian rhythm synchronization via retinal light receptors. Morning sunlight is especially powerful for setting the circadian clock. Modern indoor living has created widespread deficiency in all four mechanisms. While vitamin D can be supplemented, the combination of all four effects from sunlight cannot be replicated by any pill or device.

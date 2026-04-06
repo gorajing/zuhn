@@ -71,5 +71,8 @@ evidence:
     relationship: RELATED
   - id: INS-260330-66EF
     relationship: RELATED
+  - id: INS-260403-EB0B
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The Bronze Age G8 civilizations were individually incapable of producing all the resources they needed. To make bronze, you needed 90% copper (Cyprus) and 10% tin (Afghanistan) — if trade routes were cut, you literally could not make your primary material. This is identical to modern dependencies: Taiwan produces most advanced semiconductors, rare earth processing is concentrated in China, energy supplies flow through chokepoints. The lesson is that once an economy has specialized within a network, 'decoupling' is not merely expensive but may be structurally impossible without massive capability loss. Strategic planning must account for irreducible dependencies.

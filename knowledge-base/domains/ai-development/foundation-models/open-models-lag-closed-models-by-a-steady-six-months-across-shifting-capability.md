@@ -56,6 +56,10 @@ related:
   - INS-260404-83C6
   - INS-260404-6B73
   - PRI-260328-A82C
+evidence:
+  - id: INS-260404-6B73
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The Redis Arc panelist noted that the best open models remain roughly six months behind the best closed models, and this gap has been remarkably steady. The reason is a moving-target dynamic: when the benchmark was chat quality, open models nearly reached parity. But by then, the frontier had shifted to function calling, then to hard knowledge questions, and now to multi-turn agentic coding. Each new capability frontier emerges from strong pretraining combined with proprietary post-training recipes and stable infrastructure built over years.
 

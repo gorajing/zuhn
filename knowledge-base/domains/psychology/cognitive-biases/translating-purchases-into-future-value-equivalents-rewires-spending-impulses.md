@@ -61,6 +61,12 @@ evidence:
   - id: INS-260327-290C
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-5BBE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-D8AA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Hormozi presents a simple reframe: a $200 pair of Jordans invested in the S&P 500 for 40 years at 9% becomes over $6,000. His test is: 'If you wouldn't buy those shoes for $6,000, don't buy them for $200 today.' This converts an abstract opportunity cost into a concrete, emotionally resonant comparison.
 

@@ -56,5 +56,8 @@ evidence:
   - id: INS-260404-56AC
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260405-DC20
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Michael and Dalton close with a balanced message that cuts both ways. On one side: do not shut down your company because you are 'only' growing 6x year-over-year, and do not let ragebait marketing from VCs demoralize you. On the other side: do not use the complexity of the market as an excuse for slow growth. If dramatically better AI tools are available and your growth has not accelerated, that is a signal to act — whether through a pivot, a product rethink, or more aggressive execution. The tools are getting better every day, which means the bar for what you should be able to accomplish is also rising.

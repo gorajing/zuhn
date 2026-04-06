@@ -47,7 +47,7 @@ related:
   - INS-260403-9104
   - INS-260404-AC1B
   - INS-260320-9937
-  - INS-260404-50A7
+  - INS-260324-8D35
 stance: >-
   New TikTok Ads accounts get matched spending credits (spend $200, get $200
   free) plus recurring coupons, effectively halving your early ad costs.

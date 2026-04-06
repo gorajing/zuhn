@@ -48,10 +48,10 @@ resolutions:
     replaces, the switch is justified.
 related:
   - INS-260327-DFF1
-  - INS-260327-DFF0
   - INS-260322-C33D
   - INS-260327-B357
   - INS-260322-1435
+  - INS-260327-CFC5
 stance: >-
   Upload bank and credit card statements to an AI agent to identify SaaS
   subscriptions that can be replaced with custom AI-built modules

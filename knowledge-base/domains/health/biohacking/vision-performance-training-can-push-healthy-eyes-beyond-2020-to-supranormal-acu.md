@@ -73,6 +73,9 @@ evidence:
   - id: INS-260327-DF8B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-1B9A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Most vision research focuses on restoring impaired vision to normal baselines. Stanford's new Vision Performance Center is exploring the opposite direction: can we train normal vision to become supranormal? Athletes already demonstrate faster visual reflexes and higher visual acuity than the general population, suggesting the visual system has untapped performance headroom.
 

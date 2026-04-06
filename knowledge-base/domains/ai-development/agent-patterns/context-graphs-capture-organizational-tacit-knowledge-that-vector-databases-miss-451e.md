@@ -51,5 +51,9 @@ related:
   - INS-260405-214D
   - INS-260327-4CB3
   - INS-260321-167A
+evidence:
+  - id: INS-260327-73BE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Vector databases excel at semantic similarity search but lose structural relationships and temporal context. Context graphs address this by encoding organizational memory as a graph where nodes represent decisions, events, people, and locations, connected by edges that preserve causal and temporal relationships. This means an AI agent can not only find relevant information but trace why a decision was made, what precedent existed, and how policies evolved over time — analogous to case law explaining why a law exists today. The speaker demonstrated this with a Neo4j-backed system where agents could answer questions like 'why was this credit line approved?' by traversing decision chains rather than just finding semantically similar documents.

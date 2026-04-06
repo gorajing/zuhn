@@ -72,6 +72,9 @@ evidence:
   - id: INS-260330-2D6D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-D976
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Anthony Eden's response to the Suez nationalization was driven by personal animosity toward Nasser and a traumatic analogy to 1930s appeasement of Hitler. Eden told associates 'I want him destroyed.' This personalization transformed a manageable diplomatic crisis into a catastrophic military adventure. A rational cost-benefit analysis would have shown that the Canal could be managed through negotiation, but Eden's personal fury overrode strategic calculation.
 

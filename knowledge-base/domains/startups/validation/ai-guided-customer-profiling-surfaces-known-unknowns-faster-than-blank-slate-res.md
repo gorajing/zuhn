@@ -52,6 +52,13 @@ related:
   - INS-260403-9A4C
   - INS-260403-78B7
   - INS-260328-57CF
+evidence:
+  - id: INS-260330-E77D
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-E68E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most teams possess significant tacit knowledge about their customers but struggle to externalize and organize it systematically. The blank page problem isn't a knowledge deficit — it's a structuring deficit. AI-guided profiling acts as an interactive scaffold: it prompts teams through frameworks like Customer Profiles and Jobs-to-be-Done, drawing out latent assumptions before flagging gaps.
 

@@ -70,6 +70,12 @@ evidence:
     relationship: RELATED
   - id: INS-260404-DDB5
     relationship: RELATED
+  - id: INS-260404-F014
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-F908
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The video's central metaphor — ATP as the 'dollar' of biological energy — illuminates a deep systems principle. Glucose contains energy, but cells cannot use it directly for any function (movement, nerve impulses, membrane transport). It must first be converted into ATP, a universal intermediary that all cellular processes accept.
 

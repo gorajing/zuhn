@@ -60,6 +60,9 @@ evidence:
   - id: INS-260322-38D8
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-D976
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Michael argues that anything memeing about San Francisco on Twitter, whether positive or negative, has a greater than 50% chance of being wrong. The signal you're getting from viral posts is fuzz, not real signal. Politicians get too much agency in these narratives -- the underlying macroeconomic forces (COVID emptying offices, defund-the-police movement, and the natural recovery from both) explain far more than whoever is leading the city.
 

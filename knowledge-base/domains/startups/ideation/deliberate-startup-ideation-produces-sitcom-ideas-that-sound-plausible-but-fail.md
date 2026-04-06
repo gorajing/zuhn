@@ -59,6 +59,13 @@ related:
   - INS-260329-9513
   - PRI-260403-3906
   - INS-260404-9823
+evidence:
+  - id: INS-260403-2822
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-AAE4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies a systematic failure mode in startup ideation: when founders sit down to think up ideas, they produce 'sitcom ideas' — concepts that sound reasonable enough that friends say 'yeah, maybe I could see using that' but that no one actually wants urgently. The classic example is 'a social network for pet owners' — millions of potential users, targeted monetization, but zero desperate demand.
 

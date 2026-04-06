@@ -63,6 +63,22 @@ related:
   - INS-260404-26AE
   - INS-260403-262F
   - INS-260403-F68A
+evidence:
+  - id: INS-260330-E039
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-1C48
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-26AE
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-262F
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-F68A
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in plants, is widely regarded as inefficient — it misfires roughly half the time in oxygen-rich environments, latching onto O2 instead of CO2 and producing toxic byproducts plants must then expend energy to neutralize. Yet it is estimated there are 40 billion tons of RuBisCo on Earth at any given time, making it the single most abundant protein in the biosphere.
 

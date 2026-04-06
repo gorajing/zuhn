@@ -66,6 +66,30 @@ evidence:
   - id: INS-260403-2702
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260404-7F34
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-EC78
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-DBAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-2689
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-EA82
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-0780
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-5692
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-CC79
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Paul Graham frames useful writing as a multiplicative function of four components: correctness, importance, novelty, and strength. The multiplicative framing is critical — a piece that scores 10/10 on correctness but 0/10 on novelty is still useless. This contrasts with additive mental models where being really good at one thing compensates for weakness in another.
 

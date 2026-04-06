@@ -55,6 +55,10 @@ related:
 stance: >-
   When everyone agrees your startup idea is great, someone has probably already
   built it
+evidence:
+  - id: INS-260403-C4E2
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Hagger frames contrarian rejection as a positive signal: 'When everybody thinks your idea is crazy, you should take it very, very seriously. If everybody agrees with your idea, it's probably too late and somebody's already done it.' His Scatter experience validated this — everyone said photo sharing on phones was absurd, but the concept was sound.
 

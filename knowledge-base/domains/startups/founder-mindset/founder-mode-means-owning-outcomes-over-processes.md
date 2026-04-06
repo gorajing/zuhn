@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-D432
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-0D62
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Kaz articulates the sharpest definition of founder mode: it's about the amount of responsibility the CEO takes for outcomes. Professional managers optimize for process because their authority derives from management hierarchy. Founders optimize for truth because their authority derives from being right. Kaz deliberately pairs himself with a process-focused COO, acknowledging this as a strength-complement rather than a personal weakness to fix.
 

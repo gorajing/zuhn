@@ -49,11 +49,11 @@ stance: >-
   expressing their identity while systematically increasing the price of every
   transaction.
 related:
-  - INS-260327-8388
   - INS-260329-EBBB
   - INS-260405-88F9
   - INS-260329-CEC5
   - INS-260329-67D1
+  - INS-260405-1AAC
   - INS-260330-6AC1
 evidence:
   - id: INS-260327-8388

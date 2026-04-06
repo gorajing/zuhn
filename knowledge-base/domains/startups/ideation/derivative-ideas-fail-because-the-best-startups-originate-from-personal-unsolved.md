@@ -65,5 +65,8 @@ evidence:
   - id: INS-260402-ED85
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-D33B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham observes that Y Combinator applications are flooded with 'the Facebook but for X' proposals, yet when you trace successful startups to their origins, very few began as imitations. Apple happened because Wozniak wanted a computer, Google because Larry and Sergey couldn't find things online, Hotmail because its founders couldn't email at work. The mechanism is that personal experience with a problem gives founders a depth of understanding that no market research can replicate — they know the edge cases, the emotional frustrations, and the workarounds people actually use. This creates a wealth-creation formula: you generate value in proportion to how well you understand the problem, and you understand your own problems best. The practical inversion Graham suggests is powerful: instead of starting from companies and working backward to problems, start from problems ('What do people complain about? What do you wish existed?') and imagine the company that might solve them.

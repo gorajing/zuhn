@@ -52,6 +52,22 @@ related:
   - INS-260330-5A66
   - INS-260402-AD42
   - INS-260330-568F
+evidence:
+  - id: INS-260330-5A66
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-AD42
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-FFCB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-D0F2
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-568F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a consistent structural pattern across eras: heretic hunters accuse those who disapprove of their methods of being heretics themselves. If you question whether the process for identifying x-ists is fair, you get labeled x-ist. This meta-accusation pattern is so reliable that Graham proposes it as a diagnostic: you can use it to detect witch hunts in any era or context.
 

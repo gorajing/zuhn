@@ -79,6 +79,18 @@ evidence:
   - id: INS-260329-3E3A
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-89E7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-E5D9
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-A246
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-9DE0
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Nejatian openly says nobody thinks he's a great manager — not even the people who worked for him. But many would work for him again because he's a good leader. Throughout his career at Facebook, Shopify, and now Opendoor, he has always had a dedicated 'process person' — someone whose job is literally to round him out. At Facebook, this person kicked him under the table in his first meeting. At Opendoor, it's his COO Jung.
 

@@ -56,6 +56,13 @@ related:
   - PRI-260328-7E6E
   - PRI-260328-3BEF
   - INS-260325-93A9
+evidence:
+  - id: INS-260330-E349
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-B4A8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham's observation that most big startup successes have two or three founders, and that those founders must genuinely like each other, is backed by the statistical pattern YC has observed across hundreds of companies. The sock-and-dog metaphor is vivid: startup pressure doesn't create relationship problems, it reveals and amplifies existing ones.
 

@@ -60,6 +60,13 @@ related:
   - INS-260402-426C
   - INS-260323-4DF1
   - INS-260403-449A
+evidence:
+  - id: INS-260405-690F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-449A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Customer interviews frequently produce false signals because interviewers and subjects share an implicit but unverified assumption about what 'normal' is. When a user says they love that a feature 'just works,' they may be expressing relief from previously poor expectations rather than genuine enthusiasm — which won't drive acquisition or retention. The Strategyzer framework makes the expectation baseline explicit as a first step, preventing this conflation.
 

@@ -58,5 +58,8 @@ evidence:
   - id: INS-260330-7EAA
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-7CAF
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 When a startup is losing money, investors hold structural power: they can stall, impose harsh terms, or wait for founders to become pliable as runway shrinks. Ramen profitability eliminates this dynamic entirely. The startup no longer needs money to survive, so any fundraising becomes optional rather than existential. This transforms the negotiation from 'we need you to live' to 'we'd like you to accelerate,' which yields dramatically better terms and founder-friendly structures. The insight extends beyond fundraising — any business relationship where one party has an existential dependency on the other creates exploitable power asymmetry.

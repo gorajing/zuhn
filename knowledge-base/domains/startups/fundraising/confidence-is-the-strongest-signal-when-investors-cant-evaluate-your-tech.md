@@ -49,11 +49,20 @@ related:
   - INS-260403-4337
   - INS-260403-5EB4
   - INS-260404-D672
-  - INS-260404-438C
   - INS-260404-F161
   - INS-260404-AFE6
   - INS-260405-76E4
   - INS-260405-0B17
+evidence:
+  - id: INS-260405-76E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-F161
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-D672
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most investors at demo days lack the technical depth to fully evaluate what you've built in a few minutes. Graham argues that in this information-poor environment, your own evident belief in your product becomes the dominant signal. But this must be demonstrated implicitly — never say 'we're passionate' or 'our product is great,' which audiences ignore or interpret as bullshit.
 

@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-C68B
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-7987
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Tenev's crisis decision tree is deceptively simple: (1) Are the best people awake? (2) Do they need anything? (3) What can only I do? During GameStop, the CEO-only tasks were public communication about a complex situation and raising billions of dollars overnight. Everything else was delegated to known experts.
 

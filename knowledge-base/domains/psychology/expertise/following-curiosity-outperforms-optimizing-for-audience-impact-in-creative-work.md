@@ -63,6 +63,15 @@ evidence:
   - id: INS-260403-F157
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260402-7E2A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-A94F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-D624
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham explicitly concludes that despite understanding the 'gravitational field' of essay impact, he shouldn't change his curiosity-driven approach. He frames strategic audience-targeting as a potential mistake — the essay must be something you write to figure something out, meaning it must be novel to the writer first. If you optimize for surprising others rather than surprising yourself, you lose the exploratory quality that makes essays valuable.
 

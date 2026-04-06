@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-B906
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-9CD9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The video describes a consistent pattern among the ultra-wealthy: as net worth grows past $100M, the ability to form authentic friendships and romantic relationships degrades sharply. Everyone around you has a financial incentive to agree with you, creating an echo chamber of yes-men. Dating becomes distorted because the power asymmetry — whether you pay for everything or your partner is independently wealthy — creates a dynamic that 'feels off.'
 

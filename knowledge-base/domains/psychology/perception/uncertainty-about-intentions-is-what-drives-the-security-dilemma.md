@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-B40C
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260404-7EFA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Mearsheimer emphasizes that the deepest problem in international relations is not aggression itself but uncertainty. States cannot verify each other's intentions with certainty, so rational actors must prepare for worst-case scenarios. This uncertainty paradoxically makes realists more cautious — they advocate restraint precisely because they know how easily miscalculation leads to catastrophe.
 

@@ -76,6 +76,15 @@ evidence:
   - id: INS-260320-7B4B
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260320-2DDE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-4F8C
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-FAE2
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The course opens with a crucial distinction: abstract data types (ADTs) define behavior — what operations are supported — while data structures define implementation — how those operations execute. A priority queue is an ADT; a binary heap is one possible implementation. This separation means you can swap implementations (Fibonacci heap vs binary heap) without changing any code that uses the priority queue interface.
 

@@ -78,6 +78,9 @@ evidence:
   - id: INS-260330-C366
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-EBF7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Johnson describes a multi-level mechanism for psychedelics' lasting effects. At the receptor level, psilocybin activates serotonin 2A receptors. At the network level, brain areas that normally never communicate suddenly become highly correlated. Psychologically, this manifests as radical perspective shifts and ego dissolution.
 

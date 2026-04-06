@@ -60,6 +60,18 @@ evidence:
   - id: INS-260403-518E
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-D06F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-B065
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-B11F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-A90C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Osterwalder explicitly notes that Sutton's 'No Asshole Rule' is 'very important at Strategyzer,' revealing that successful innovation companies treat behavioral standards not as HR niceties but as strategic infrastructure. Toxic individuals destroy the psychological safety required for creative risk-taking, idea sharing, and honest feedback — all prerequisites for innovation.
 

@@ -71,6 +71,12 @@ evidence:
     relationship: RELATED
   - id: INS-260330-1084
     relationship: RELATED
+  - id: INS-260330-498B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-F908
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The electron transport chain converts high-energy photon excitation into ATP and NADPH through a deliberate sequence of energy-losing transfers: photon → excited electron → mobile carrier → cytochrome complex → ATP synthase → ATP. Each step extracts a fraction of the energy for useful work. The electron arrives at Photosystem I depleted and must be re-energized by another photon.
 

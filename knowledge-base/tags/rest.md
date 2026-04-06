@@ -9,5 +9,3 @@
 - `INS-260403-B6CD` Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
 - `INS-260330-909E` Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions.
 - `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
-- `INS-260327-6F12` The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
-- `INS-260329-0320` Always version APIs (e.g., /v2/products) so old clients continue working while new clients get updated behavior.

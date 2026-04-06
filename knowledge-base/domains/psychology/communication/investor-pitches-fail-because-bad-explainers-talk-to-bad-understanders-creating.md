@@ -53,6 +53,19 @@ related:
   - INS-260403-19D8
   - INS-260405-E6F9
   - INS-260405-283A
+evidence:
+  - id: INS-260403-4730
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-19D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-E6F9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-283A
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Graham observes that practically every successful startup — including Google — presented at some point to investors who didn't get it and turned them down. The structural cause is a compounding communication failure: technical founders who are bad at explaining present to non-technical investors who are bad at understanding. Both sides contribute to information loss.
 

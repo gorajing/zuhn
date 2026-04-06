@@ -51,6 +51,10 @@ related:
   - INS-260326-6B98
   - INS-260325-0688
   - INS-260403-D882
+evidence:
+  - id: INS-260403-D882
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Pure asset-focused biotech is fundamentally binary: you either get FDA approval or you don't. If you don't, the entire investment is lost. Platform companies mitigate this by generating multiple independent candidates — if one fails, the platform still has value through other pipeline assets and licensing revenue.
 

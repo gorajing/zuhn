@@ -50,5 +50,9 @@ related:
   - PRI-260328-D9D0
   - INS-260327-DDC3
   - INS-260322-3259
+evidence:
+  - id: INS-260322-3259
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The 13 foods you should NEVER buy organic (because they are already low-pesticide): avocados, sweet corn, pineapple, onions, papaya, frozen sweet peas, asparagus, honeydew melon, kiwi, cabbage, mushrooms, mangoes, and watermelon. These have thick peels or natural pest resistance. Conversely, the dirty dozen MUST be organic: strawberries, spinach, kale, nectarines, apples, grapes, peaches, cherries, pears, tomatoes, celery, and hot peppers. These have thin skins and high pesticide absorption. This selective approach saves 30-50% on grocery bills while avoiding the worst pesticide exposure.

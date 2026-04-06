@@ -57,6 +57,12 @@ evidence:
   - id: INS-260330-EAA3
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-F249
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-464D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 In photosynthesis, the electron transport chain pumps protons into the thylakoid, creating a concentration gradient. Protons then flow back out through ATP synthase, and that flow generates ATP — the cell's energy currency. The thylakoid is literally charged like a battery.
 

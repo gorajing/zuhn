@@ -69,8 +69,15 @@ related:
   - INS-260404-26AE
   - INS-260404-D39F
   - INS-260405-8B89
-  - INS-260330-6ECA
   - INS-260403-262F
+  - INS-260405-95AE
+evidence:
+  - id: INS-260330-F82A
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-5DFF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved when Earth's atmosphere had almost no oxygen. When photosynthesis itself flooded the atmosphere with oxygen, RuBisCo started accidentally slicing the wrong molecule roughly half the time — producing a toxic byproduct. Rather than evolving a better enzyme, plants compensated by producing enormous quantities of RuBisCo (an estimated 40 billion tons exist on Earth at any given time) and building elaborate detoxification pathways for the toxic byproduct.
 

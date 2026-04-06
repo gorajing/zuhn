@@ -58,6 +58,9 @@ evidence:
   - id: INS-260324-FF33
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-380C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The malls original value proposition was social gathering that included shopping; when social interaction moved to social media, the shopping venue lost its primary draw.
 

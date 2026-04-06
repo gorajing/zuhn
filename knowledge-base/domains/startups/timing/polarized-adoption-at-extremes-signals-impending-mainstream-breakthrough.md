@@ -52,6 +52,10 @@ related:
   - INS-260327-2A58
   - INS-260328-C12D
   - INS-260321-1A0B
+evidence:
+  - id: INS-260321-1A0B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies an unprecedented pattern in 2005: Apple was popular with his seventy-year-old mother and with PhD computer scientists, but had tiny overall market share. He predicted this polarization was temporary — and history proved him spectacularly right. Apple went from ~3% market share to dominating premium computing within a decade.
 

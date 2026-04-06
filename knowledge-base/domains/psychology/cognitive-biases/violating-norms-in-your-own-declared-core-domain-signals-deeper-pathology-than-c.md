@@ -56,6 +56,10 @@ related:
   - INS-260403-0353
   - INS-260402-46AD
   - INS-260402-2D7B
+evidence:
+  - id: INS-260402-2D7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Trump spends 30% of his time on golf courses — it is arguably the center of his life. Yet he violates golf's norms in ways that one-in-a-million golfers would never consider. This pattern — desecrating the norms of the thing you claim to love most — is far more revealing than casual rule-breaking in areas you don't care about. It suggests the person's relationship to the activity is fundamentally about something other than what they claim (status, winning, appearance rather than the actual craft).
 

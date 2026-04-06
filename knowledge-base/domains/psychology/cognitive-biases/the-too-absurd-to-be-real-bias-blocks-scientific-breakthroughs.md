@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-2D1D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260323-5955
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When 19-year-old Chandrasekhar proved that electron degeneracy pressure has a mass limit (the Chandrasekhar limit), Eddington - one of the most respected scientists alive - publicly dismissed it, saying nature must have a law preventing such absurd collapse. This wasn't a technical objection but an aesthetic one: the conclusion felt wrong. Even after Oppenheimer and Volkoff proved neutron stars also have a mass limit, and Oppenheimer and Snyder showed indefinite collapse is inevitable for massive stars, Einstein himself couldn't accept it.
 

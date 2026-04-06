@@ -55,6 +55,28 @@ related:
   - INS-260330-DC22
   - PRI-260328-3BEF
   - INS-260403-7C88
+evidence:
+  - id: INS-260325-C5AE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-4C43
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-2B75
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-2A73
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-7BF5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-DC22
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-7C88
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham identifies a surprisingly psychological driver behind VC negotiation behavior: many VCs don't personally care whether founders keep board control, but they don't want to return to their partners appearing to have made concessions. The harshness in negotiation is often performance for an internal audience rather than genuine strategic preference.
 

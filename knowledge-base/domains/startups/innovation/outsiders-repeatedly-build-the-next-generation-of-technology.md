@@ -52,6 +52,10 @@ related:
   - INS-260403-A4CF
   - PRI-260321-7307
   - INS-260402-C664
+evidence:
+  - id: INS-260403-A4CF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham's examples are striking: IBM had an internal team building the next business computer while two Steves in a garage actually built it; the official next-gen OS (Multics) lost to Unix, written by two engineers who thought Multics was too complex. This is not coincidence — it's structural. Insiders are constrained by existing architecture, organizational politics, and sunk-cost thinking. Outsiders start from the question 'what should this be?' rather than 'how do we extend what we have?'
 

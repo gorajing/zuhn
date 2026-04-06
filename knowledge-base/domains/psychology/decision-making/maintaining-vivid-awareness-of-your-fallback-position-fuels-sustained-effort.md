@@ -47,5 +47,21 @@ related:
   - INS-260330-049B
   - INS-260323-D564
   - INS-260327-F6BA
+evidence:
+  - id: INS-260323-E551
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-125F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-049B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-D564
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-F6BA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Throughout his career, Rollins kept a visceral mental image of the Haagen-Dazs counter as his motivational anchor. This inverts the typical success-visualization advice: instead of imagining the mansion, he imagined the chocolate-spattered apron. Psychologically, this leverages loss aversion — the pain of returning to minimum wage is a stronger daily motivator than the abstract pleasure of future success. It also maintains humility and urgency simultaneously. For anyone who has escaped difficult circumstances, the practical application is to deliberately preserve that memory as fuel rather than trying to forget it. The fallback position isn't something to be ashamed of; it's the most honest motivational tool available.

@@ -101,6 +101,9 @@ evidence:
   - id: INS-260403-130D
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260404-7E24
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Zuckerberg originally thought full holographic AR glasses would be the single ultimate product. A decade of development revealed that display-less glasses (Ray-Ban Metas) will permanently be more affordable, heads-up display glasses (20-30 degree FOV) occupy a middle tier for AI interaction and text, and full holographic AR (70 degree FOV, Orion) sits at the premium end. VR headsets continue alongside all three.
 

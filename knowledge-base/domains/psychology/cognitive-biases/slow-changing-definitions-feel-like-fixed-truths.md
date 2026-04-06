@@ -61,6 +61,12 @@ evidence:
   - id: INS-260323-3045
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260323-181D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-C49F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham observes that people think of property as having a single unchanging definition because its definition changes very slowly. This is a general cognitive pattern: when something evolves at a rate below our perceptual threshold, we experience it as static and natural. We then defend the current state as if it were a fundamental law rather than a snapshot of an ongoing process.
 

@@ -67,6 +67,9 @@ evidence:
   - id: INS-260402-C4FF
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-5A3D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham makes a counter-intuitive competitive argument: at the far end of the performance curve where returns are steepest, there is less competition than expected. This isn't just because exceptional work is hard — it's because the prospect of competing at that level is so intimidating that few people even try. The competition thins out not from failure but from self-selection.
 

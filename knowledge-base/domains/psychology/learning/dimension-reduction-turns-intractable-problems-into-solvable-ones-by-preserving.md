@@ -51,5 +51,9 @@ related:
   - INS-260330-579B
   - INS-260330-541B
   - INS-260327-CEE4
+evidence:
+  - id: INS-260327-CEE4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When facing a hard problem, the instinct to simplify isn't about giving up on the real thing — it's about finding the structural core. The Putnam sphere problem (what's the probability a random tetrahedron contains the center?) becomes tractable only after reducing to 2D: what's the probability a random triangle contains the center of a circle? The 2D answer (1/4) reveals the combinatorial structure (coin flips on line endpoints) that generalizes seamlessly to 3D (1/8). The key insight is that dimension reduction preserves the essential mechanism while stripping away computational complexity. This applies broadly: when facing any complex system, find the simplest version that preserves the same structural dynamics, solve that, then verify the solution scales back up.

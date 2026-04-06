@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-3924
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-83E2
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Kapil Gupta argues that the only reason any human being is not free is because of his mind — it creates anxieties, conflicts, rules, and tortures. Naval confirms this from personal experience: after achieving material freedom (wealth, travel, relationships), his baseline level of peace barely changed because his internal experience remained the same. Each desire fulfilled simply spawned the next desire.
 

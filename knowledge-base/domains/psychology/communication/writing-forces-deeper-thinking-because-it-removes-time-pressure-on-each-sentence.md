@@ -61,6 +61,18 @@ evidence:
   - id: INS-260320-9935
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-112B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-5AC1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-0603
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-1F65
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The core mechanism Graham identifies is time pressure. When speaking ad lib, you can only think about each sentence for as long as it takes to say it. Listeners face the same constraint — they can only process each sentence in the time it takes to hear it. Writing removes this bottleneck entirely: the writer can spend minutes or hours on a single sentence, and the reader can re-read and pause at will.
 

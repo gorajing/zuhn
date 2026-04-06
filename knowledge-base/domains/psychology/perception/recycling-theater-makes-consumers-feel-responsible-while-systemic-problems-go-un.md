@@ -55,6 +55,12 @@ evidence:
   - id: INS-260329-36FF
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-BFD0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-FDD8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled materials are landfilled or exported, enabling continued overconsumption without guilt.
 

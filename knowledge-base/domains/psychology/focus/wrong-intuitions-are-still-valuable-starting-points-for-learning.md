@@ -55,6 +55,9 @@ evidence:
   - id: INS-260323-FEDF
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-670E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Anandkumar observes that students with wrong intuitions often learn faster than students with no intuitions. The wrong intuition provides a framework to correct, while starting from nothing requires building the entire mental model from scratch.
 

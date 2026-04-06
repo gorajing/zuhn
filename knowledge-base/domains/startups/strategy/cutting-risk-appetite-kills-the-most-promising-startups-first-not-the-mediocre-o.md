@@ -60,6 +60,13 @@ related:
   - INS-260403-C949
   - INS-260403-214B
   - INS-260403-4E71
+evidence:
+  - id: INS-260403-B008
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6890
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham extends the risk-reward relationship one level deeper: not only do startups yield faster growth at greater risk than established companies, but within the startup category, the riskiest ventures likely generate the most growth if they succeed. This creates a particularly dangerous adverse selection effect — reducing investors' risk appetite doesn't uniformly thin the startup population but preferentially eliminates the most transformative ones.
 

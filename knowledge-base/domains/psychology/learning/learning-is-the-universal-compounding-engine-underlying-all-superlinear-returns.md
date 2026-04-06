@@ -68,6 +68,9 @@ evidence:
   - id: INS-260402-318B
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260403-C8A9
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham argues that learning is the most fundamental compounding mechanism because knowledge builds on itself — the more you know, the easier it is to learn more. Even when other forms of exponential growth (company growth, audience building) appear distinct, they are almost always intermixed with learning. A failed startup founder who learned deeply is still on an exponential curve.
 

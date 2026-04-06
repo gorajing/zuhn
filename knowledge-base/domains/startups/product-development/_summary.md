@@ -1,15 +1,13 @@
 # Topic: product-development
 
-> 128 insights
+> 124 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
 - `INS-260330-16CD` [high] A dropdown asking users their emotional state was filled out 75.8% of the time and measurably reduced exclamation marks, curse words, and all-caps in support tickets.
 - `INS-260323-C90C` [high] True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.
 - `INS-260327-A8B6` [high] Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
-- `INS-260327-8388` [high] AI apps have lower daily-to-monthly active user ratios and worse retention than mobile peers, signaling that the transition from weekly tinkering to daily habit is the key unsolved product problem.
 - `INS-260325-1160` [high] Roman concrete contains lumps of quickite that were once considered manufacturing defects — MIT researchers discovered these lumps actually create self-healing concrete that gets stronger over time.
-- `INS-260329-0320` [high] Always version APIs (e.g., /v2/products) so old clients continue working while new clients get updated behavior.
 - `INS-260329-92E9` [high] App Store rejections are often reviewer-dependent, not rule-dependent — sometimes just replying 'that's not true' gets the app approved.
 - `INS-260329-4696` [high] Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
 - `INS-260323-3239` [high] The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
@@ -98,13 +96,11 @@
 - `INS-260323-F7DB` [high] Boston Dynamics' breakthrough came from rejecting the safe, slow, static approach to robotics in favor of aggressive dynamic movement — bouncing, running, and predicting rather than always maintaining perfect stability.
 - `INS-260323-257D` [high] Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
 - `INS-260327-62CF` [high] YouTube's embed feature — built from day one — turned MySpace profiles into a free distribution channel: users embedded YouTube videos, the logo spread, and curiosity converted viewers into uploaders, all at zero marketing cost.
-- `INS-260330-0B79` [high] When users request a feature, don't build it — instead investigate the underlying problem driving the request.
 - `INS-260402-4633` [high] The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
 - `INS-260330-2119` [high] Oxygen — the gas that enabled all animal life — was originally just a toxic waste product of photosynthesis, making it history's most valuable accidental byproduct.
 - `INS-260330-8890` [high] Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
 - `INS-260403-EE38` [high] Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
 - `INS-260322-3C3D` [high] ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
-- `INS-260330-3AB4` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all animal life — the side effect exceeded the intended output in civilizational impact.
 - `INS-260329-1741` [high] CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
 - `INS-260323-C5D3` [high] Before ZZT shipped, Sweeney invited neighbors of all ages to play it while forcing himself not to explain anything -- noting where they got stuck, felt bored, or enjoyed themselves -- then iteratively polished until the game worked without his guidance.
 - `INS-260330-2F22` [high] When users request a feature, don't build it — instead investigate what underlying problem triggered the request.

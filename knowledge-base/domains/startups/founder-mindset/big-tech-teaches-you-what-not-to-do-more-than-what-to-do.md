@@ -51,6 +51,10 @@ related:
   - INS-260403-7AA1
   - INS-260403-79AD
   - INS-260403-924B
+evidence:
+  - id: INS-260404-459B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Brodeur-Urbas worked at Microsoft and found it actively unhelpful for his startup. The only value was the logo on his resume providing default credibility. Everything he does at Gumloop is the exact opposite of how big tech works.
 

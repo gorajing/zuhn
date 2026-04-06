@@ -77,6 +77,9 @@ evidence:
   - id: INS-260323-95BC
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260404-A850
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Hormozi attributes his stage presence not to natural talent or positive thinking but to years of standing on a box with a microphone leading fitness classes multiple times daily. When he first got on a real stage, he was puzzled by his own lack of nervousness — the reps had habituated his nervous system without him noticing. This mirrors clinical exposure therapy: lock someone afraid of spiders in a room with spiders and after hours of panic attacks, they walk out unafraid.
 

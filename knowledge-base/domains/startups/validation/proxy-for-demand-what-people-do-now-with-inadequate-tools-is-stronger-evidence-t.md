@@ -61,6 +61,16 @@ related:
   - INS-260404-5D18
   - INS-260404-132E
   - INS-260405-E7FB
+evidence:
+  - id: INS-260404-B31C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-132E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-3421
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham relays that Sequoia partner Greg McAdoo specifically looks for 'proxy for demand': what are people doing right now, using inadequate tools, that demonstrates they need what you're building? This is fundamentally different from the typical pitch approach of citing market size numbers ('$5 billion TAM').
 

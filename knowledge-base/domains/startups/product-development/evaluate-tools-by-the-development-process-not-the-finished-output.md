@@ -52,6 +52,19 @@ related:
   - INS-260404-37F7
   - INS-260327-EBDF
   - INS-260402-7B69
+evidence:
+  - id: INS-260403-5AAC
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260325-C830
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-AC3D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-37F7
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Graham observes that side-by-side comparisons of finished programs in different languages are misleading. A language that produces beautiful finished code may require agonizing trial-and-error to get there — like marble, which looks great finished but is hopeless for iterating. The real test is the development experience: can you explore, make mistakes, and refine?
 

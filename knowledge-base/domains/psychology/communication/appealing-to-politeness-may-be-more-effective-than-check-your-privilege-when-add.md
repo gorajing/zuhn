@@ -56,6 +56,16 @@ related:
   - INS-260328-93F7
   - INS-260327-4D29
   - INS-260323-4AB5
+evidence:
+  - id: INS-260403-ED1F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260328-93F7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-4AB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Direct confrontation with orthodox privilege — 'check your privilege' — fails because the person doesn't recognize themselves as being in that demographic. They don't feel conventional; they feel correct. Graham suggests an alternative frame: social courtesy. If someone says they can hear a frequency you cannot, politeness dictates you take them at their word rather than demanding impossible proof or denying their experience.
 

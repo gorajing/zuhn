@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-8374
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-2250
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Elliot explains a critical nuance most first-time founders miss: raising money isn't automatically good. Ideally, you use profits to grow. When you can't, you sell equity — but investors get liquidation preference (typically 1x). This means in any acquisition, invested capital gets returned first before equity splits.
 

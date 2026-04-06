@@ -72,6 +72,9 @@ evidence:
   - id: INS-260329-BCCB
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-59D1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 This single 4.5-hour video has accumulated 48 million views since 2018 — roughly 6 million views per year, compounding as Python's popularity grew. The cost to produce it was finite (one instructor, one recording session), but the return is essentially perpetual because beginner Python content never goes stale.
 

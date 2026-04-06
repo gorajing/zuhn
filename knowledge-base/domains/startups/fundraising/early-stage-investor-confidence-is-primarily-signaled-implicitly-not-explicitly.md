@@ -60,6 +60,31 @@ related:
   - INS-260330-3899
   - INS-260403-4337
   - INS-260403-915E
+evidence:
+  - id: INS-260330-15AE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-A8E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-3899
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-990F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-78AE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-F161
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-915E
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260327-A9E8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a counterintuitive asymmetry in how confidence registers with investors. Explicit statements like 'we're passionate' or 'our product is great' don't just fail — they actively damage credibility by triggering the audience's bullshit filter. Yet confidence is simultaneously the single biggest piece of evidence investors use when evaluating early startups they can't fully assess technically.
 

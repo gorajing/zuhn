@@ -61,6 +61,10 @@ related:
   - INS-260325-25A2
   - INS-260329-87C2
   - INS-260327-439A
+evidence:
+  - id: INS-260329-4F3F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham makes a subtle point about the cognitive cost of two-facedness: to behave well toward some people and badly toward others, you need a reliable model of who belongs in which category. In stable, legible environments this is feasible. In startup ecosystems — where a random college student can become a billion-dollar CEO in two years — that model breaks down.
 

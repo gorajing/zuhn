@@ -62,6 +62,9 @@ evidence:
   - id: INS-260320-C56D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-862E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Collatz conjecture is so notorious that Jeffrey Lagarias personally warned Alex Kontorovich not to work on it early in his career. Paul Erdos declared mathematics 'not yet ripe enough' for the problem. The Soviet joke — that 3x+1 was invented to slow down American science — captures how attractive-yet-unproductive these problems are.
 

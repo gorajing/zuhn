@@ -60,5 +60,8 @@ evidence:
   - id: INS-260329-764E
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-D976
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Kevin Systrom's Bourbon app had ~100 users and was failing as a location check-in tool. Rather than iterating on the original vision, he interviewed active users and discovered they only cared about photo sharing — not check-ins or virtual prizes. He then made the radical decision to strip away every feature except photos, rebranding to Instagram. The insight is that early-stage founders often resist killing features they built, but Systrom's willingness to discard 80% of Bourbon and focus on 'doing one thing really well' was the pivotal decision. This maps to the broader pattern that product-market fit is discovered by subtraction, not addition — listening to what users actually do rather than what you intended them to do.

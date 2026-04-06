@@ -54,6 +54,10 @@ related:
   - INS-260330-E039
   - INS-260403-D482
   - INS-260330-39B0
+evidence:
+  - id: INS-260327-8E45
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 RuBisCo is described explicitly as 'not particularly good at its job'—slow, promiscuous, prone to misfiring. But at the time of its emergence, it was categorically better than the alternative (waiting for chemically formed organic carbon), so single-celled organisms simply produced it in huge quantities to compensate for its poor per-unit performance. That strategy was sufficient to achieve planetary dominance.
 

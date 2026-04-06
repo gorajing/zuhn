@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-9BFD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-28C7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Edmondson identifies four fears that drive workplace silence: looking ignorant (don't ask questions), looking incompetent (don't admit mistakes), looking intrusive (don't offer ideas), and looking negative (don't challenge the status quo). This impression management is learned in grade school and becomes second nature by adulthood.
 

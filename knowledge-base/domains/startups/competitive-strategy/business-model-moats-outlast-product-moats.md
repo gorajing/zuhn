@@ -60,6 +60,12 @@ evidence:
   - id: INS-260323-5C6F
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260404-AB0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-8A87
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Samsung can copy the iPhone's hardware and software features, but replicating Apple's App Store ecosystem with its hundreds of thousands of applications, developer relationships, and user habits is a fundamentally different challenge. This illustrates why product innovation alone is an increasingly unreliable source of long-term competitive advantage.
 

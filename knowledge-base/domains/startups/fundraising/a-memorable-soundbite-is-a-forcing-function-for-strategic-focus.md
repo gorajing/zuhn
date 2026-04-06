@@ -48,14 +48,23 @@ related:
   - INS-260330-FE14
   - INS-260404-C0E6
   - INS-260403-BFD1
-  - INS-260404-E0B5
   - INS-260403-26D3
   - INS-260405-54B8
   - INS-260327-1795
+  - INS-260325-29D5
 evidence:
   - id: INS-260327-1795
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260327-62AB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-C0E6
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-FE14
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Professional investors see hundreds of pitches; memorability drives which ones get follow-up. The tactical goal is to plant a descriptive phrase — 'the Microsoft Word of ecommerce' — that survives the blur of pitch day. The format ('the X of Y') is secondary to the discipline of generating it.
 

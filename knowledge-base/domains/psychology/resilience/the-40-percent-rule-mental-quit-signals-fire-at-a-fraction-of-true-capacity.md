@@ -56,6 +56,9 @@ evidence:
   - id: INS-260325-DC90
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-7FDA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The 40 Percent Rule, popularized by Navy SEAL David Goggins, posits that when your mind tells you you're done, you're really only at about 40% of your true capacity. This maps to the central governor theory in exercise science — the brain proactively limits exertion as a protective mechanism, well before actual physiological failure.
 

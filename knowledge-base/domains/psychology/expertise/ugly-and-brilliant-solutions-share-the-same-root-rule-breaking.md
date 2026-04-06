@@ -51,6 +51,10 @@ related:
   - PRI-260323-27D6
   - INS-260326-DBEF
   - INS-260330-30AB
+evidence:
+  - id: INS-260330-30AB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham observes that the word 'hack' means both an ugly kludge and a brilliant workaround, and argues this ambiguity is meaningful. Both senses share the quality of breaking rules — the duct-tape solution ignores aesthetic rules, while the brilliant solution ignores conceptual constraints everyone else accepted. The difference is one of imagination, not kind.
 

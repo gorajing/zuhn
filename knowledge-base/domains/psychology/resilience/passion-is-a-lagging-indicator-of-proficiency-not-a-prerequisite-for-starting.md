@@ -79,6 +79,12 @@ evidence:
   - id: INS-260330-9863
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-3346
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-63E6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The cultural narrative of 'follow your passion' implies passion exists before skill, but Hormozi argues the causal arrow points the other direction. You develop passion for things you become proficient at because competence creates enjoyment, social validation, and flow states. This means the initial choice of what to pursue matters less than the willingness to push through the early incompetence phase where everything feels terrible.
 

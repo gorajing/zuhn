@@ -57,6 +57,19 @@ related:
   - INS-260327-BB4A
   - INS-260330-9BF3
   - INS-260404-4FDB
+evidence:
+  - id: INS-260402-DCC5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-BF96
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-BB4A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-4FDB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Naval draws a fundamental distinction between two life games: wealth creation and status competition. Wealth creation is positive-sum — building a house doesn't prevent others from building houses, and shared knowledge actually makes it easier. Status, however, is strictly zero-sum: for one person to rise in rank, another must fall.
 

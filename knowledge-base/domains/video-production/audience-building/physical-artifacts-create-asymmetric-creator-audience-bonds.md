@@ -52,6 +52,22 @@ related:
   - INS-260330-A561
   - INS-260330-FC16
   - INS-260328-2BCF
+evidence:
+  - id: INS-260323-5B36
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-E695
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-A561
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-FC16
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260328-2BCF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Rather than discarding 10,000 shade balls after filming, Veritasium announced signing each one and mailing them to Patreon supporters worldwide — explicitly acknowledging the 'horrendous' shipping costs as a thank-you investment. This transforms a disposable prop into a unique physical token that supporters will keep, display, and talk about.
 

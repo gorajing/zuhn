@@ -56,5 +56,8 @@ evidence:
     relationship: RELATED
   - id: INS-260402-2FDF
     relationship: RELATED
+  - id: INS-260403-9DA1
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The backwards bicycle experiment conclusively demonstrates that knowing the steering is reversed does nothing to help you ride it. Every audience member who tried — despite being told exactly how it works — failed immediately. This separates declarative knowledge (I know the wheel turns opposite) from procedural understanding (my body can balance and steer accordingly). The implication extends far beyond bicycles: in any complex skill domain, understanding the theory is a fundamentally different cognitive achievement than executing the practice. This is why reading about negotiation doesn't make you a negotiator, and why studying music theory doesn't make you a musician. The neural algorithms for complex motor tasks involve so many simultaneous variables (balance, force, timing, proprioception) that conscious knowledge cannot substitute for trained pathways.

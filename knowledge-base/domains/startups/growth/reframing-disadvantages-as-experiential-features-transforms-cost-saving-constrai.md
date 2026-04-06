@@ -60,6 +60,19 @@ related:
   - INS-260403-0041
   - INS-260403-F66B
   - INS-260403-E71A
+evidence:
+  - id: INS-260403-06E2
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-F66B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-524B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-45BD
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Costco's warehouse stores have no decorations, no organized aisles, and products sit on industrial pallets. Objectively, this is a worse shopping experience than a curated retail store. But Costco reframes these cost-saving measures as features: the industrial feel signals 'we spend money on low prices, not fancy displays,' and the maze-like layout creates a treasure-hunt dynamic that increases average basket size.
 

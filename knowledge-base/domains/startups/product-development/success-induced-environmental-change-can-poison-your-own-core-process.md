@@ -61,6 +61,18 @@ evidence:
   - id: INS-260330-E218
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-02EE
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-53C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-F5CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-7E85
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Photosynthesis was so successful that it fundamentally altered Earth's atmosphere, flooding it with oxygen. But RuBisCo — the enzyme at the heart of carbon fixation — was designed for a low-oxygen world. The oxygen that plants created became a competitive inhibitor of their own core metabolic process, causing RuBisCo to produce toxic phosphoglycolate roughly half the time.
 

@@ -52,6 +52,19 @@ related:
   - INS-260325-502D
   - INS-260329-E0B0
   - INS-260404-7EFA
+evidence:
+  - id: INS-260323-4473
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260325-502D
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-E0B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-7EFA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Shapiro's third barrier — affiliation — addresses the structural framing of conflict. Most people default to an adversarial frame (my position vs. yours), which creates a zero-sum dynamic where both sides butt heads like rams. The fix is a deliberate reframe: turn the other person from an adversary into a partner facing the same shared problem.
 

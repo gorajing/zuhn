@@ -57,10 +57,41 @@ related:
   - INS-260330-24E0
   - INS-260403-F447
   - INS-260403-C7A9
+  - INS-260403-4337
   - INS-260403-2F22
   - INS-260403-22FE
   - INS-260404-187C
-  - INS-260405-8BEA
+evidence:
+  - id: INS-260327-0595
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-24E0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-F447
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-C7A9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2F22
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-187C
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260405-8BEA
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-DAB1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-ED1F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-2AFB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a paradox: for early-stage startups where investors can't fully evaluate the technical merits, the founder's own confidence becomes 'probably the single biggest piece of evidence' for investment decisions. Yet explicitly stating that confidence ('we're passionate,' 'our product is great') causes the opposite effect — investors write you off as bullshitters.
 

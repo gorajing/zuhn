@@ -71,6 +71,9 @@ evidence:
   - id: INS-260329-B4C8
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-4431
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham argues that interest is not just a nice-to-have but the primary engine of sustained hard work. People who are deeply interested in their work don't need to push themselves — the flaws in their work or the problems they're solving pull them forward. This inverts the common framing that hard work is primarily about discipline and willpower.
 

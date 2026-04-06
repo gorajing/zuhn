@@ -54,6 +54,13 @@ related:
   - INS-260323-6BF4
   - INS-260403-F8B5
   - INS-260404-74F4
+evidence:
+  - id: INS-260330-E0F5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-6BF4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Organizations develop shorthand for cultural problems — phrases like 'people are lazy' or 'there's no accountability' become reflexive explanations that everyone nods along to without actually diagnosing anything. The Culture Map framework combats this by requiring participants to tell stories with specific examples, describing scenes rather than summarizing sentiments.
 

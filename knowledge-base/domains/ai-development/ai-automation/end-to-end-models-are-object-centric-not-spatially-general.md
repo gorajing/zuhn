@@ -59,5 +59,8 @@ evidence:
   - id: INS-260330-6494
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260324-5C53
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Through systematic experiments, the author proves that sub-1B parameter VLAs approximate 'move toward salient object and grasp' regardless of the prompt. 'Don't move' produces as much motion as 'pick up block'. 'Move away from block' produces motion toward the block. 'Move toward base' works only because the base is a visually grounded object. The model has no understanding of 'up/down/left/right' as spatial primitives — these words describe scene composition in VLM training data, not robot workspace directions. Natural language commands are most reliable when they closely match the training distribution, severely narrowing 'zero-shot generalization.'

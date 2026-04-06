@@ -71,6 +71,9 @@ evidence:
   - id: INS-260329-1DA3
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260404-89C3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Harris identifies a paradox in how we value authority in science and expertise. People confuse respecting expert knowledge with blind credentialism or establishment loyalty. This confusion fuels both anti-expert populism ('they're all shills') and expert arrogance ('trust us without question').
 

@@ -60,6 +60,13 @@ related:
   - INS-260327-6058
   - INS-260330-E615
   - INS-260330-B22D
+evidence:
+  - id: INS-260327-6058
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-B22D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The common narrative attributes retail store closures to Amazon's dominance, but the evidence shows a more nuanced picture. Sears failed by trying to do everything poorly, J.C. Penney alienated its core customers, and Toys-R-Us dismissed the internet as a fad. Meanwhile, Ross, Lush, Aldi, Dollar General, and Costco all thrived during the same period by executing distinct strategies well.
 

@@ -73,6 +73,9 @@ evidence:
   - id: INS-260405-3772
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-EBDC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Lattner identifies Python's killer feature as being a 'universal connector' — it brings together C libraries, CUDA kernels, web APIs, and data processing into one composable layer. TensorFlow and PyTorch embracing Python created a virtuous cycle: more users meant more packages, which attracted more users. The language's readability lowered barriers to entry while the ecosystem handled performance-critical paths in C/C++ underneath.
 

@@ -67,5 +67,11 @@ evidence:
   - id: INS-260321-2482
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-482E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-EF52
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Destin explicitly identifies intellectual humility as the core safety principle after 15 years as a missile flight test engineer. He states that 'the moment I start to think I've got it figured out is the moment I get myself into trouble.' This maps to a broader pattern in high-stakes domains: expertise creates justified confidence, but that confidence can become the mechanism of failure. The antidote is not less confidence in your skills, but maintaining active awareness that your mental model of the situation may be incomplete. This applies to software deployments, financial decisions, and any domain where the cost of failure is asymmetric.

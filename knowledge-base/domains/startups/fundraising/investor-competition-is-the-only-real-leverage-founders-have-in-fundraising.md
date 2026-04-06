@@ -52,6 +52,10 @@ related:
   - INS-260403-47B7
   - INS-260405-AEA0
   - INS-260403-25A8
+evidence:
+  - id: INS-260403-47B7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Investors and acquirers share a herd mentality: nobody wants to buy until someone else wants to buy, then everyone wants to buy. This means your only real leverage in any deal is the existence of competing offers. Paul Graham argues that when an investor says they want to invest, your natural tendency is to relax and go back to building—but this is exactly the wrong move. You must keep talking to other investors, not just as backup, but because the existence of alternatives is what compels the first investor to actually close.
 

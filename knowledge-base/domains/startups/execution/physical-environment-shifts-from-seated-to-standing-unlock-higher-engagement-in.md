@@ -57,6 +57,13 @@ related:
   - INS-260403-3EEA
   - INS-260403-8779
   - INS-260327-112B
+evidence:
+  - id: INS-260325-0892
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-112B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When workshop participants sit around a table, a predictable social hierarchy emerges: dominant voices control the conversation, quieter participants disengage, and the physical arrangement reinforces a speaker-audience dynamic. Wall-mounted canvases invert this by creating a shared workspace where everyone has equal physical access.
 

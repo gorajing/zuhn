@@ -61,6 +61,16 @@ related:
   - INS-260403-6224
   - INS-260403-A99F
   - INS-260404-CDF0
+evidence:
+  - id: INS-260330-B4BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-93F3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-A40E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Silicon Valley's encouragement of strange ideas by unknown people wasn't built on moral superiority. It was built on the observation that dismissing ideas is dangerous when outcomes follow a power-law distribution — missing a single needle in the haystack is painfully obvious in retrospect. Optimism became urgent because the cost of false negatives was catastrophically high.
 

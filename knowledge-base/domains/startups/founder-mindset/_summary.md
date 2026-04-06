@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 302 insights
+> 301 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
@@ -242,7 +242,6 @@
 - `INS-260323-7C3A` [medium] Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260327-F477` [medium] Big tech experience is anti-helpful for startups—the culture, speed, and processes are the exact opposite of what you need.
 - `INS-260327-CA72` [medium] With no fallback options, fear stops paralyzing you and starts driving productive action.
-- `INS-260329-21C6` [medium] Hormozi applies business principles — friction reduction, single-metric optimization, and systemization — to nutrition, producing a sustainable high-protein diet that requires zero willpower or cooking skill.
 - `INS-260327-E3ED` [medium] Shameless urgency—like chasing PG to his car—signals genuine conviction that investors can't ignore.
 - `INS-260323-1975` [medium] You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260323-5D6D` [medium] Repetitive work that violates your values causes cognitive depletion — your brain literally runs at lower capacity, making it impossible to learn new skills or build on the side.

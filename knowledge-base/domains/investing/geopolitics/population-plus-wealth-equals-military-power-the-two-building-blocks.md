@@ -58,6 +58,12 @@ evidence:
   - id: INS-260328-60C7
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-2A50
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-EB0B
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Mearsheimer identifies two material building blocks of power: population size and wealth. China was not considered a great power until recently despite its massive population because it lacked wealth. The US is powerful because it has both. This two-factor model explains why demographic decline and economic stagnation are existential threats to great power status.
 

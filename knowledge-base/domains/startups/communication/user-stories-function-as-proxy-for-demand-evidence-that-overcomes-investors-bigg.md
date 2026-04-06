@@ -55,9 +55,10 @@ related:
   - INS-260403-1444
   - INS-260403-53AA
   - INS-260403-035A
-  - INS-260404-B887
+  - INS-260404-EE85
   - INS-260404-3D06
   - INS-260403-7072
+  - INS-260405-F9EC
 ---
 The biggest fear investors have with early-stage startups is that the founders built something from a priori theories about what the world needs rather than observed demand. Market size numbers ('it's a $5B market') don't address this fear — they're abstract and disconnected from actual usage evidence. Sequoia specifically looks for what Greg McAdoo calls the 'proxy for demand': what are people doing now, using inadequate tools, that proves they need your solution?
 

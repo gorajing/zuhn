@@ -64,6 +64,18 @@ evidence:
   - id: INS-260325-7BE7
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-C99B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-22FE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-405A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-37F7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi identifies a specific hack: extract reviews from books in your niche to find the exact quotes and language customers use to describe their pain. When your marketing mirrors their internal monologue, it creates an instant credibility transfer — 'pain and persuasion only exist in the specific, never the vague.'
 

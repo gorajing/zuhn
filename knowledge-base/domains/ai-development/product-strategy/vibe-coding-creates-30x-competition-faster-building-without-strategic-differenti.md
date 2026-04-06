@@ -101,6 +101,9 @@ evidence:
   - id: INS-260329-4B07
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-2074
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Founders see GitHub Copilot and ChatGPT writing functions and conclude they can prototype and ship in weeks. The fallacy: AI helps write code fast, but production-ready systems still require architecture, testing, security, scalability, and maintainability that vibe coding doesn't provide. Maurya has seen startups ship impressive demos in days then throw away the entire codebase because it wasn't fit for real users.
 

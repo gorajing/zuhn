@@ -44,5 +44,18 @@ related:
   - INS-260328-23B4
   - INS-260327-5DD2
   - PRI-260327-942E
+evidence:
+  - id: INS-260330-0317
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-809A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260328-23B4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-5DD2
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies a pervasive cognitive error: we evaluate acquisitions by the difference between retail price and purchase price rather than by the utility we'll actually derive. A 'perfectly good' item found on trash night costs nothing financially but still carries ownership costs — mental overhead, storage space, and decision fatigue. This reframing is powerful because it collapses the entire category of 'bargain hunting' into a simple question: will I use this constantly? The insight applies beyond physical goods to digital subscriptions, free tools, and even relationships — anything that consumes attention has a carrying cost that must be offset by actual value extracted.

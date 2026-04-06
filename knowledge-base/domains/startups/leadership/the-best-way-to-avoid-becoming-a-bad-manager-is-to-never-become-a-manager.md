@@ -52,6 +52,10 @@ related:
   - INS-260402-0727
   - INS-260327-E2BC
   - INS-260329-1741
+evidence:
+  - id: INS-260330-48C6
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies the 'pointy-haired boss' as a manager who stopped programming, and traces the root cause to corporate structures where advancement requires leaving technical work. His solution isn't to become a better manager — it's to avoid the structural incentive entirely by working at startups where peer consensus replaces hierarchy.
 

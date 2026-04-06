@@ -56,5 +56,8 @@ evidence:
   - id: INS-260329-0A55
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-07C1
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Tim Miller proposes imagining Obama sending Black Panthers to storm the Capitol — the thought experiment instantly reveals that the same people rationalizing January 6th would never forgive the identical act from the other side. This 'counterfactual mirror test' is a powerful debiasing tool precisely because it holds the action constant while changing only tribal identity. Sam Harris notes that Obama wearing a tan suit was enough to generate controversy, making the asymmetry undeniable. This technique has broad application: in business decisions, evaluate whether you'd accept the same behavior from a competitor; in personal relationships, ask whether you'd tolerate this treatment from someone outside your in-group. The method works because it bypasses the rationalization machinery by forcing explicit comparison.

@@ -54,6 +54,13 @@ related:
   - INS-260330-EACA
   - INS-260403-53C9
   - INS-260330-43CA
+evidence:
+  - id: INS-260330-EACA
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-53C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo fixes carbon roughly half the time and produces toxic phosphoglycolate the other half. Plants evolved an entire photorespiration pathway just to clean up this mess — converting the toxic byproduct into usable glycine and Calvin cycle intermediates. The cleanup infrastructure is nearly as complex as the productive pathway itself.
 

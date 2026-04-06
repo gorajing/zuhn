@@ -51,7 +51,7 @@ related:
   - INS-260404-CF2A
   - INS-260405-9E25
   - INS-260403-8F31
-  - INS-260404-B887
+  - INS-260404-29F4
 ---
 The core investor anxiety about early-stage startups is a priori product development: founders building based on theory rather than validated need. User stories counter this directly by providing 'proxy for demand' — evidence of what people are doing today with inadequate tools.
 

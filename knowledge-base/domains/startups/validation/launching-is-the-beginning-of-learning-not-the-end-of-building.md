@@ -53,6 +53,10 @@ related:
   - PRI-260328-EC3F
   - INS-260323-E15F
   - INS-260323-3239
+evidence:
+  - id: INS-260329-A4CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham argues that the primary value of launching isn't getting to market early — it's that you haven't really started working on your product until you've launched. Everything before launch is building on assumptions. The launch itself is a pretext for engaging users, which is where genuine product insight begins.
 

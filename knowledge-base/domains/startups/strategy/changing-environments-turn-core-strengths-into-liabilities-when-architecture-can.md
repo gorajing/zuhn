@@ -61,6 +61,27 @@ evidence:
   - id: INS-260330-CA97
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260403-304E
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260405-3048
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-B5E2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-02EE
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-53C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-F5CF
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260325-D033
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved in an atmosphere with almost no oxygen, where its inability to distinguish O2 from CO2 was irrelevant. But photosynthesis itself raised atmospheric oxygen levels, turning RuBisCo's design flaw into an active liability — it now produces toxic phosphoglycolate that plants must expend energy to neutralize.
 

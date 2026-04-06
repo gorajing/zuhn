@@ -55,6 +55,19 @@ related:
   - INS-260330-50D4
   - INS-260330-A476
   - INS-260330-DB4B
+evidence:
+  - id: INS-260328-A4EB
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-50D4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-A476
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-DB4B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 A YC partner's observation crystallizes two distinct behavioral modes when receiving advice. Good founders look at everything with fresh eyes — even when they dismiss advice, it's for logical reasons like 'we already tried that' or 'our users told us otherwise.' Bad founders have already decided what they're going to do, and everything said to them passes through an internal process that either forces conformity with their decision or creates a rationalization for dismissal.
 

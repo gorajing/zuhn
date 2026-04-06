@@ -52,6 +52,10 @@ related:
   - PRI-260403-4612
   - INS-260329-F4E4
   - INS-260322-FCFC
+evidence:
+  - id: INS-260329-F20E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The theater analogy reveals the BMC's deeper logic: the audience (customers) pays for the play (value proposition), but there's no play without backstage infrastructure (resources, activities, partners), and the theater only survives if ticket revenue exceeds backstage costs. This isn't a list of nine independent factors—it's a causal chain.
 

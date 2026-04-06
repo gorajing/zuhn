@@ -54,6 +54,12 @@ evidence:
     relationship: RELATED
   - id: INS-260329-CD38
     relationship: RELATED
+  - id: INS-260403-B7FA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-153F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham notes that when selecting startups for Y Combinator, he didn't care about applicants' grades but wanted to hear everything about projects they'd worked on independently. This reflects a deeper truth: grades measure compliance with external structure, while personal projects measure the ability to identify problems, sustain motivation without external pressure, and ship results — exactly the skills founders need.
 

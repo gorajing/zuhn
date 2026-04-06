@@ -58,6 +58,34 @@ related:
   - INS-260329-78AE
   - INS-260330-990F
   - INS-260330-26E7
+evidence:
+  - id: INS-260327-9EE4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-0B1D
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-E900
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-DC86
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-26E7
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-6BC4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-2CDB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-103B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-ED1F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 There's a fundamental asymmetry in persuasion: explicit self-promotion ('we're passionate,' 'our product is great') gets filtered out or actively triggers negative judgment, while the same message conveyed implicitly through behavior lands with full force. This is because audiences have well-calibrated bullshit detectors for direct claims but are much more susceptible to indirect signals.
 

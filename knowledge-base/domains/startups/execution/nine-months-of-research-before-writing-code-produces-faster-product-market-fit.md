@@ -60,6 +60,9 @@ evidence:
   - id: INS-260329-D48B
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260404-BE07
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Merge did extensive user interviews and competitive analysis before building anything. Ding says product-market fit 'mostly happened before we even started the company.' They deeply understood why competitors had failed, what customers would actually pay for, and why Merge would be better.
 

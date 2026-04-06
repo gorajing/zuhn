@@ -68,6 +68,9 @@ evidence:
   - id: INS-260329-C66E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-0346
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The course culminates with web scraping, API consumption, and database operations — skills that let a beginner automate real tasks within days of learning them. This practical-first ordering (syntax → data structures → files → web → databases → OOP) prioritizes capability over theory. A student finishing this course can scrape websites, call REST APIs, and store results in SQLite before they've touched recursion or Big-O notation.
 

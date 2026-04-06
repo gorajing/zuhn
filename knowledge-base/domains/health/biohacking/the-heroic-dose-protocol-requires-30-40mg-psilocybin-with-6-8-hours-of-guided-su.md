@@ -72,5 +72,8 @@ evidence:
   - id: INS-260330-81B1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-ECA9
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The Johns Hopkins protocol for psychedelic therapy uses what Terence McKenna called the 'heroic dose' — 30-40mg of psilocybin, roughly equivalent to 5g of dried mushrooms. But the dose is only one variable. The protocol requires extensive preparation sessions to build therapeutic rapport, a carefully controlled physical environment (comfortable room, eye shades, curated music playlist), and trained guides present for the entire 6-8 hour session. Johnson emphasizes that set (mindset/expectations) and setting (environment/support) are as important as the pharmacology. The clinical results — 80% smoking cessation at 6 months, significant depression remission — come from this full package, not the molecule alone. This challenges both the recreational approach (drug without support) and the pharmaceutical approach (pill without context).

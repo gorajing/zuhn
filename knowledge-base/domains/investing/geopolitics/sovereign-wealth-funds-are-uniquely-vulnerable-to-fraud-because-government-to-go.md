@@ -59,5 +59,8 @@ evidence:
   - id: INS-260323-92AD
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-98E1
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 The 1MDB scandal exploited a structural vulnerability in sovereign wealth funds: they hold enormous capital but operate with far less regulatory oversight than comparable private-sector vehicles. Jho Low specifically identified this gap — government-to-government transactions attract less scrutiny from auditors and banks than corporate ones. He used bearer shares (ownership determined by physical possession of certificates), shell companies with names mimicking real firms (e.g., 'BlackRock Commodities Global Limited'), and layered offshore transfers across tax havens. The fund's chairman (PM Najib) had personal incentives to avoid scrutiny since he was receiving kickbacks. This structural analysis suggests investors and citizens should be particularly skeptical of sovereign wealth fund performance claims, especially in countries where the fund's political sponsor also controls oversight mechanisms.

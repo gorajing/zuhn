@@ -54,6 +54,10 @@ related:
   - INS-260330-365B
   - INS-260330-5779
   - INS-260323-8271
+evidence:
+  - id: INS-260323-8271
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham points out that accidental moderates may not even care about the questions that the left and right consider paramount. Their political identity can only be measured from the intersection of their concerns with mainstream political concerns — and this intersection can be vanishingly small.
 

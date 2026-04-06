@@ -68,6 +68,9 @@ evidence:
   - id: INS-260327-3D0F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-F258
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Harris frames Trump's presidency as a 'stress test of our democracy that we nearly failed.' The key insight is that many democratic protections were norms — traditions of behavior that previous presidents followed voluntarily — rather than enforceable laws. Trump's willingness to violate these norms (refusing to commit to peaceful transfer of power, spreading election misinformation, inciting mob violence) exposed this vulnerability.
 

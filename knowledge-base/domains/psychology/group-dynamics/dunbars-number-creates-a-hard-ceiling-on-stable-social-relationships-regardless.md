@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-DA37
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-3E3C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Dunbar's Number estimates the maximum number of people with whom one can maintain stable social relationships — typically 100-230 — based on neocortex size. The video contextualizes this powerfully: a YouTube video with just 230 views has already been seen by more people than any individual can truly know at one time. At 100,000 views, it surpasses the total number of people you'll ever meet in a lifetime (meeting 2-3 new people per day for ~78 years).
 

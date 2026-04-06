@@ -51,6 +51,13 @@ related:
   - PRI-260323-C49D
   - INS-260329-023F
   - INS-260403-A7D0
+evidence:
+  - id: INS-260327-3C19
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A7D0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 There's a well-documented action bias in entrepreneurship — the feeling that progress means building, shipping, and doing visible work. Hypothesis identification and prioritization feels abstract and unproductive by comparison, even though it's often the highest-leverage activity available.
 

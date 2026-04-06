@@ -51,5 +51,9 @@ related:
   - INS-260402-8424
   - INS-260329-CB10
   - INS-260403-7CAF
+evidence:
+  - id: INS-260403-7CAF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Hormozi describes a framework he calls 'client-financed acquisition' that he applied across all four businesses. Instead of the traditional loss-leader model (spend to acquire, recoup over LTV), you structure the offer so the first transaction generates enough margin to acquire and fulfill the next customer. This creates a compounding flywheel: one customer buys you two more, those two buy four more. The practical requirement is front-loaded revenue — high-ticket or high-margin first sales — rather than back-loaded subscription revenue. Hormozi credits this model with allowing Gym Launch to outspend every competitor despite starting with minimal capital, because every dollar spent immediately recycled into more customers rather than sitting in an LTV recovery queue.

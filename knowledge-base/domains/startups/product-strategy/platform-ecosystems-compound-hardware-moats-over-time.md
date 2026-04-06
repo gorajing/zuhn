@@ -54,6 +54,9 @@ evidence:
   - id: INS-260405-DAC9
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-4C61
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The iPhone launched in 2007 without an App Store. When it opened in 2008 with 500 apps, it grew to 1.8 million by 2019. This platform layer transformed a hardware product into an ecosystem play — users stay for the apps, developers build for the users, creating a flywheel that competitors cannot easily replicate.
 

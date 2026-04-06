@@ -61,6 +61,9 @@ evidence:
   - id: INS-260328-12EE
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-66A1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Sanderson demonstrates a powerful problem-solving pattern with the integral function A(x): 'We don't know what A(x) is, that remains a mystery. But we do know a property that this mystery function must have' — namely, that dA/dx ≈ x². By discovering this constraint (the derivative relationship), the unknown function becomes determinable through reverse-engineering.
 

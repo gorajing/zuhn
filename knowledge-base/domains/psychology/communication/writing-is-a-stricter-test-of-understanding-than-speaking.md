@@ -61,6 +61,24 @@ evidence:
   - id: INS-260323-0603
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260321-FB3F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-FDC1
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260322-B264
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-8D27
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-864F
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-616F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham distinguishes writing from speaking as tests of understanding, arguing writing is strictly harder. In conversation, tone of voice carries meaning, shared context fills gaps, and social dynamics prevent the kind of obsessive revision that writing demands. You can spend two weeks and fifty drafts on an essay; doing the equivalent in conversation would seem pathological.
 

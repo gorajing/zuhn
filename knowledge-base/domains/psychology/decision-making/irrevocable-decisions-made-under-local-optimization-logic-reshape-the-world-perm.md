@@ -53,6 +53,7 @@ stance: >-
   The most consequential decisions in human history were not recognized as
   consequential when made, because each step was locally rational optimization.
 related:
+  - INS-260330-D0AB
   - INS-260403-CB33
   - INS-260330-318C
   - PRI-260328-D292
@@ -70,6 +71,12 @@ evidence:
   - id: INS-260330-318C
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-CB33
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-202E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 No individual farmer decided to 'start the agricultural revolution.' Each made a locally rational choice: plant more of what grows, breed bigger snails, settle near fertile land. But these choices accumulated into an irreversible transformation that brought patriarchy, inequality, war, famine, and environmental destruction alongside cities, technology, and abundance.
 

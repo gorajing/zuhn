@@ -53,6 +53,10 @@ related:
   - INS-260402-F3D7
   - PRI-260324-1134
   - INS-260403-FE91
+evidence:
+  - id: INS-260330-5B0C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham argues that audiences function as incipient mobs. The reactions that spread person-to-person in a crowd are disproportionately the more visceral kind — he uses the analogy of low notes traveling through walls better than high ones. Good speakers exploit this dynamic, using emotional momentum to sweep audiences along.
 

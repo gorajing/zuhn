@@ -50,6 +50,10 @@ related:
   - INS-260403-A60E
   - INS-260404-9A82
   - INS-260403-2B6E
+evidence:
+  - id: INS-260330-AC16
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham's description of TJ Rodgers reveals a specific cognitive pattern: 'brutally candid, aggressively garbage-collecting outdated ideas, and yet driven by pragmatism rather than ideology.' The key word is 'aggressively'—this isn't passive updating but active pruning of mental models that no longer serve.
 

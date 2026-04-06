@@ -70,5 +70,14 @@ evidence:
   - id: INS-260323-ACD9
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260402-2879
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-803A
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-3E86
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Hormozi's 'more-better-new' hierarchy dictates resource allocation: First, increase volume (he was posting 50+ times/day across platforms while competitors posted once). Second, optimize when the return on improvement exceeds the return on one more unit of volume (e.g., when going from 10 to 11 salespeople yields only 10% growth but a headline test could yield 25%). Third, try new channels only when existing ones are genuinely saturated — and commit 3-12 months of investment before judging results, tracking leading indicators (clicks → opt-ins → qualified leads → conversions) rather than immediate ROI. The critical mindset shift: once something works, unlearn the experimentation habit and focus on scaling what's proven. Most entrepreneurs invert this, spending 80% on new ideas when they should spend 90% on more and better.

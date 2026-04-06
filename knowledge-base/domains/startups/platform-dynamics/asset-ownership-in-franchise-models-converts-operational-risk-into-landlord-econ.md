@@ -62,5 +62,11 @@ evidence:
   - id: INS-260330-E43F
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-1EAC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-8849
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Unlike Burger King or Subway, McDonald's buys the real estate before franchisees sign on, then locks them into 20-year leases at that specific address with above-market rent. If a location underperforms, McDonald's replaces the operator or sells the land at a profit — the asset never depreciates from the franchisor's perspective. During the pandemic, franchisees bore the operational downside while remaining contractually obligated to pay minimum rent. This is a masterclass in platform design: own the scarce, appreciating layer (location) and let others compete on the commoditized layer (operations). The same principle applies to tech platforms that own distribution or data while partners compete on the application layer.

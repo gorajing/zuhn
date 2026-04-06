@@ -61,6 +61,34 @@ related:
   - INS-260330-26E7
   - INS-260330-83D5
   - INS-260326-7B2A
+evidence:
+  - id: INS-260322-C6CE
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260326-98A0
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-6CB7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-A817
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260327-E3DE
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260329-CF70
+    type: REFINES
+    classified_at: '2026-04-05'
+  - id: INS-260330-26E7
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-83D5
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260326-7B2A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Linda from MiniMax articulated a hiring philosophy that inverts traditional tech recruitment: they hire for first-principles thinking regardless of background, because AI increasingly handles the execution layer. In their interviews, candidates can vibe-code solutions with AI rather than writing code from scratch — what matters is whether they can decompose problems and ask the right questions. MiniMax operates with only 400 people while building foundation models across coding, video, audio, music, and images.
 

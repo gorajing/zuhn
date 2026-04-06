@@ -61,6 +61,9 @@ evidence:
   - id: INS-260322-CCE8
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260325-A08A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Microsoft's Windows licensing model was enormously profitable for decades, but the shift to mobile and cloud made per-device licensing increasingly obsolete. The company's pivot to Office 365 subscriptions and free Windows 10 upgrades illustrates how even the most dominant business models have a finite shelf life.
 

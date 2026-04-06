@@ -55,6 +55,13 @@ related:
   - INS-260329-5412
   - PRI-260403-88F5
   - INS-260326-9E23
+evidence:
+  - id: INS-260329-5412
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260326-9E23
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The panel discussed voice biomarkers as indicators of emotional and cognitive states — anxiety, depression, pain levels — noting that speech-language pathologists can detect granular differences in how patients pronounce vowels and consonants after neurological events. However, the panelists emphasized that a single voice data point is dangerously insufficient for clinical conclusions.
 

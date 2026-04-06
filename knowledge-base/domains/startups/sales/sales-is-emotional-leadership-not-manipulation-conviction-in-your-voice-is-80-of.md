@@ -78,6 +78,15 @@ evidence:
   - id: INS-260327-2A59
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-F66B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-405A
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-0CD8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Shelby reframes sales from manipulation to emotional leadership: you're leading people through a hard decision that will genuinely improve their lives. The key distinction is whether you believe your solution actually helps. If you do, you have a duty to push through their hesitation. If you don't, it's manipulation.
 

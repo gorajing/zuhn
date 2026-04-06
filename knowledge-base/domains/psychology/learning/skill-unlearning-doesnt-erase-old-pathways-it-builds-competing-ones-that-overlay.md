@@ -49,7 +49,6 @@ stance: >-
   original
 related:
   - INS-260330-9471
-  - INS-260330-617A
   - INS-260330-B047
   - INS-260330-0EF6
   - INS-260330-4A6A
@@ -58,5 +57,6 @@ related:
   - INS-260330-4114
   - INS-260330-14BD
   - INS-260330-0930
+  - INS-260330-9C78
 ---
 When Destin tried to ride a normal bicycle in Amsterdam after months of backwards-bike training, he initially failed completely. But after 20 minutes of struggle, his brain suddenly snapped back to the original algorithm in a discrete moment he could physically feel. This reveals that learning a conflicting procedural skill doesn't overwrite the original — it creates a parallel neural pathway that competes for control. The old pathway remains intact but dormant, which is why the folk wisdom 'you never forget how to ride a bike' is technically true. The practical implication is that unlearning is harder than learning: you're not erasing a pathway, you're building a new one strong enough to consistently win the competition for activation. This also explains why relapse is common in habit change — the old pathway is always there, waiting for the new one to weaken.

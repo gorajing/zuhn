@@ -70,6 +70,18 @@ evidence:
   - id: INS-260323-636C
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260323-DE39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260321-C292
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-C26B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-B198
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The essay identifies three failing postures during disruption: the craftsman defending depreciated skills, the tastemaker protecting validated approaches, and the finite-game optimizer declaring categories dead ('SaaS is dead,' 'programming is over'). All three share a common error — treating a fundamentally expansionary moment as a zero-sum contest.
 

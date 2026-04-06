@@ -56,6 +56,15 @@ evidence:
   - id: INS-260320-D972
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260404-D6EE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-86BB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-6652
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Most people unconsciously switch to a more formal, complex register when they start writing. This shift—using words like 'pen' as a verb, or calling someone 'the mercurial Spaniard'—creates distance between writer and reader, makes text harder to process, and worst of all, gives the writer a false sense of having said something profound.
 

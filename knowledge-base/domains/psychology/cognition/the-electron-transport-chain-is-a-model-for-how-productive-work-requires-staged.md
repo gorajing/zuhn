@@ -54,14 +54,15 @@ stance: >-
   same thermodynamic logic
 related:
   - INS-260330-CA62
-  - INS-260330-0017
   - INS-260403-D2FD
   - INS-260404-2A07
   - INS-260404-3C96
   - PRI-260403-181B
+  - PRI-260403-70D0
   - INS-260403-A6AF
   - INS-260403-8125
   - INS-260403-FC01
+  - INS-260404-3ABF
 evidence:
   - id: INS-260330-E8CF
     type: TRANSFERS_TO
@@ -94,6 +95,12 @@ evidence:
     type: EXTENDS
     classified_at: '2026-04-05'
   - id: INS-260403-A6AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-2A07
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-A08A
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
 ---

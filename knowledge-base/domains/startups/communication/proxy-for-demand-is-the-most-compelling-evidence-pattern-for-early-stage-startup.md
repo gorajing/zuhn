@@ -60,6 +60,12 @@ evidence:
   - id: INS-260323-8AB8
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260323-C370
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-B31C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Sequoia's Greg McAdoo specifically looks for the 'proxy for demand' — observable behavior showing people need what you're building. This is more convincing than TAM slides because it's grounded in real human behavior rather than analyst projections. When people pay a lot for something, a cheaper alternative that preserves the valued qualities is an easy sell.
 

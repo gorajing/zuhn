@@ -58,6 +58,10 @@ stance: >-
   Top-tier VC firms will increasingly evolve into full-service venture banks,
   bundling banking, media, and advisory services to capture more value from
   portfolio companies.
+evidence:
+  - id: INS-260322-0AA6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Andreessen Horowitz has evolved from a traditional venture fund into what's being called a 'venture bank' — a platform that combines venture investing with broader financial services, media operations, and strategic advisory. This model goes beyond the standard GP/LP structure by creating multiple revenue streams and deeper portfolio company lock-in.
 

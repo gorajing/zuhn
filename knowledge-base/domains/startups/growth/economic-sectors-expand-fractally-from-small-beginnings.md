@@ -53,6 +53,13 @@ related:
   - INS-260402-580C
   - INS-260327-EF98
   - PRI-260328-43F1
+evidence:
+  - id: INS-260327-3DCB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-EF98
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham draws a parallel between steam power's trajectory in the British economy and Internet startups today. Steam was a sliver of the economy when Watt began his work, but successive waves of innovation expanded that sliver until it dwarfed the original whole. The mechanism is a positive feedback loop: the most dynamic sector offers the best opportunities, which attracts the most ambitious people, whose work expands the sector further.
 

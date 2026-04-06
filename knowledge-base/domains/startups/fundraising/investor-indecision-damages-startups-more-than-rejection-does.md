@@ -56,6 +56,9 @@ evidence:
   - id: INS-260322-3646
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-47B7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Investors who can't make up their minds create a uniquely dangerous situation for startups. Unlike a clean rejection that lets founders move on, the 'long no' — months of meetings that ultimately lead nowhere — burns irreplaceable time and morale. The startup stops shipping, becomes less attractive to other investors, and enters a death spiral where investor-caused stagnation makes the company look worse to those same investors.
 

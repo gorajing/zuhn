@@ -63,6 +63,10 @@ related:
   - INS-260325-A54F
   - INS-260404-C25C
   - INS-260330-DCFB
+evidence:
+  - id: INS-260325-A54F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The video's Oracle joke captures a well-documented enterprise pattern: organizations adopting Java commonly pair it with Oracle's database, spending the next decade announcing they'll migrate to Postgres while Oracle raises license fees. The joke lands because it's structurally true — Oracle's pricing power comes entirely from switching costs that accumulate as the codebase deepens.
 

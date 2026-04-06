@@ -62,6 +62,12 @@ evidence:
   - id: INS-260320-901C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-CA46
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-2A50
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When early organisms needed carbon fixation, RuBisCo was a poor enzyme for the job. But instead of evolving a better one, organisms simply produced massive quantities of the mediocre version. This volume-first strategy let them dominate before any competitor could develop a superior alternative.
 

@@ -68,6 +68,9 @@ evidence:
   - id: INS-260327-8521
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-17E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Adams distinguishes between the competitive drive most children feel in school races and something qualitatively different that he and other champions possess. His drive wasn't the keen determination of a young swimmer training early mornings — it was something constitutional, as fundamental as a physical limb.
 

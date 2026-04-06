@@ -66,6 +66,12 @@ evidence:
   - id: INS-260329-4DBC
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260323-FEDF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-C8FA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Dr. Severance's Python course deliberately teaches variables, conditionals, loops, and functions as isolated building blocks that feel pointless in isolation. Students are told to 'suspend disbelief' until chapter 7, where file I/O suddenly makes everything click — loops process real data, conditionals filter real records, functions organize real workflows. This mirrors how mathematical education works: you learn algebra without knowing why until physics class retroactively justifies it.
 

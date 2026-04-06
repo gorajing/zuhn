@@ -61,6 +61,18 @@ evidence:
   - id: INS-260322-AB55
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-B1F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-1BCC
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-B673
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-62B2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Silverglate applies the scientific method beyond science to all discourse: you entertain different views, hear all sides, and make decisions about which are accurate. No scientist says 'don't do that experiment because the outcome would be bad' — yet in social and political discourse, we routinely suppress ideas deemed uncomfortable.
 

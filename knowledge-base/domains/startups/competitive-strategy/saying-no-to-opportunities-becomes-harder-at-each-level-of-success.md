@@ -55,6 +55,15 @@ evidence:
   - id: INS-260325-636B
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-DDEB
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-6F65
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-14CB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi uses The Matrix's woman in the red dress as a metaphor for shiny-object opportunities that scale with your success. At $1K/month, you can easily say no to small distractions. At $100K/month, the opportunities that tempt you are proportionally larger and harder to refuse. He shares his own mistake: when Gym Launch was doing $26M/year, he started a supplement company instead of growing Gym Launch to $40M. It sounded good on paper but was strategically wrong.
 

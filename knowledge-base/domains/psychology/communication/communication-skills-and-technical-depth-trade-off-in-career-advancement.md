@@ -60,5 +60,26 @@ evidence:
   - id: INS-260320-F78E
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260325-854D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260322-2ABB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-4B1C
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260322-D6B8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-005D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-2200
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-1FA1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The introvert-to-brogrammer spectrum highlights a structural tension in engineering organizations: the skills that make someone an exceptional individual contributor (deep focus, mathematical thinking, comfort with isolation) are nearly orthogonal to the skills that drive career advancement (communication, relationship building, cultural fit). The brogrammer who 'refuses to test because TDD is for losers' but has strong social skills often evolves into management, while the technically superior introvert remains an IC. This isn't merely unfair—it's a systemic misallocation where the people making architectural and process decisions may be optimized for communication rather than technical judgment.

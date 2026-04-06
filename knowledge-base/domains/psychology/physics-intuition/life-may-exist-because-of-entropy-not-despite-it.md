@@ -70,5 +70,8 @@ evidence:
   - id: INS-260330-D8E4
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-65D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The conventional framing positions life as fighting entropy — organisms maintaining internal order against thermodynamic decay. Jeremy England's dissipation-driven adaptation hypothesis inverts this: life exists *because* of the second law, not despite it. Seawater with cyanobacteria produces 30-680% more entropy than sterile seawater, suggesting biological matter is dramatically better at converting low-entropy energy into high-entropy waste heat. If the universe tends toward maximum entropy, then structures that accelerate energy dissipation are thermodynamically favored. Over billions of years of constant solar energy input, this could drive the emergence of increasingly sophisticated energy-dissipating structures — eventually producing life. As England puts it: 'You start with a random clump of atoms, and if you shine light on it for long enough, it should not be so surprising that you get a plant.'

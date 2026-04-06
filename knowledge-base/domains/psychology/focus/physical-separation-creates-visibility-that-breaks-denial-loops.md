@@ -58,6 +58,9 @@ evidence:
   - id: INS-260403-3587
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260327-B403
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham's solution was radical: a dedicated offline work computer with a separate internet laptop across the room. The key mechanism isn't inconvenience—it's visibility. When checking email requires walking to another machine, you can't deny to yourself that you're procrastinating. The biggest ingredient in bad habits is denial, and physical separation eliminates it.
 

@@ -83,6 +83,12 @@ evidence:
   - id: INS-260330-3570
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-C732
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-37D9
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Hoffman provides a rigorous test for contrarian ideas: can you identify a smart, expert person who disagrees with you, and can you articulate what specific thing you know that they don't? When LinkedIn launched, two-thirds of Hoffman's network — including very smart people — said it would fail because network products need critical mass and there's no value for early users. His specific knowledge advantage was understanding the set of psychological motivations (believing in the vision, willingness to experiment, curiosity) that would drive early adoption before the network delivered its core value proposition.
 

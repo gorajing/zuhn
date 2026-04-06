@@ -50,7 +50,6 @@ stance: >-
   to bars they set themselves, not externally imposed benchmarks
 related:
   - INS-260322-A36C
-  - INS-260402-2074
   - INS-260329-9D26
   - INS-260404-312D
   - INS-260329-72C1

@@ -57,6 +57,10 @@ related:
   - INS-260403-CBC7
   - INS-260403-6714
   - INS-260404-F8B7
+evidence:
+  - id: INS-260403-359D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Steve Blank's analogy — cheating on customer discovery is like cheating in parachute packing class — captures the stakes. Interviews collect stated preferences, but stated preferences are a notoriously poor predictor of actual behavior. People overstate willingness to pay, understate switching costs, and rationalize post-hoc. The say-do gap is not noise; it's a systematic bias.
 

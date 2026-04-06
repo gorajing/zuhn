@@ -59,6 +59,15 @@ evidence:
   - id: INS-260403-AFBB
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-91CC
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-8B1A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-8E9B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Jobs to Be Done framework typically gets reduced to functional tasks, but the article emphasizes that the emotional and social layers are where true differentiation lives. The NWSL example is telling — Angel City FC's prom night theme has nothing to do with soccer quality, yet it drives fan loyalty by fulfilling desires for community, identity, and shared experience.
 

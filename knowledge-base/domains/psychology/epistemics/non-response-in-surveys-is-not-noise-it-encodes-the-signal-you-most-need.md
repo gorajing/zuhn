@@ -57,6 +57,12 @@ evidence:
   - id: INS-260322-A36C
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260322-AB55
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-DD95
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Standard polling practice imputes non-respondents using demographic proxies (age, sex, race). This is defensible only when the reason for non-response is unrelated to the question being asked. Graham's analysis shows this assumption breaks down precisely when stakes are highest: contested elections where one candidate's supporters face social costs for disclosure.
 

@@ -53,6 +53,10 @@ related:
 stance: >-
   Tudor maintained his ice monopoly by systematically undercutting copycat
   businesses on price until they gave up or went bankrupt.
+evidence:
+  - id: INS-260403-5BF9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 After Tudor proved the ice trade was profitable in the 1820s, copycat businesses emerged. His response was not innovation or differentiation — it was predatory pricing. He undercut competitors on price until they either gave up or went out of business. Combined with his existing supply chain infrastructure and ice house network spanning the globe, this made entry prohibitively expensive.
 

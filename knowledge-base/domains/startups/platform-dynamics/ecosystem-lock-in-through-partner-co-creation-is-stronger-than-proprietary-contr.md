@@ -67,6 +67,9 @@ evidence:
   - id: INS-260329-3AE5
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260325-A54F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 ARM's decision to license rather than manufacture created something more powerful than a product — it created an ecosystem. With over 1,000 global partners (Samsung, Apple, Microsoft) building on ARM architectures, the switching costs are distributed across the entire value chain. Each partner has invested in ARM-specific tooling, software optimization, and manufacturing processes that would be enormously expensive to replicate for an alternative architecture.
 

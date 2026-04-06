@@ -62,6 +62,15 @@ evidence:
   - id: INS-260323-1B42
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-187C
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-4960
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-3403
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Murray points out that Trump talked about tariffs 'rally after rally after rally' yet market participants and commentators like Ben Shapiro assumed it was merely a negotiating ploy. This reveals a systematic forecasting error: sophisticated observers over-index on strategic interpretation and under-index on literal interpretation of stated intentions.
 

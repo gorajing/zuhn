@@ -64,5 +64,11 @@ evidence:
   - id: INS-260323-73AB
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-CEC5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-21C4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Rather than framing commitment as an emotional leap of faith, Hormozi decomposes it into three explicit trades: (1) novelty for loyalty — you give up new experiences with new people but gain predictability and deep knowledge of one person, (2) exploration for trust — you stop sampling options but build compounding trust through sustained investment in one relationship, (3) the chase for a shared journey — you stop pursuing people and instead travel alongside someone toward a shared destination. This framework is valuable because it makes the commitment decision legible. If you prefer novelty over loyalty, exploration over trust, or the chase over a journey, you shouldn't commit — and that's a valid choice. The failure mode is committing while secretly valuing the things you traded away.

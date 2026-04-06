@@ -56,5 +56,8 @@ evidence:
   - id: INS-260323-FEAB
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260405-A164
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 With Allen, Hormozi unlocked 4x pricing power simply by repackaging how they charged, not by changing the product itself. He explored usage-based pricing, recurring fees, and different API structures. This is especially relevant for software businesses where the marginal cost of delivery is near zero and the pricing model is essentially arbitrary. The lesson extends beyond software: the $700 supplement receipt that inspired Prestige Labs showed that the same nutritional products Hormozi was recommending for $400 were being sold at retail for $700, revealing massive pricing headroom that existed simply because the packaging and channel were different. In both cases, the value was already there; the revenue unlock came from restructuring how that value was captured.

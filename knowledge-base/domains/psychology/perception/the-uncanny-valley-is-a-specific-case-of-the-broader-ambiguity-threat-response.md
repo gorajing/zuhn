@@ -52,6 +52,7 @@ related:
   - INS-260321-9906
   - INS-260322-A8F2
   - INS-260330-5DCA
+  - INS-260330-D0E2
   - INS-260403-53D9
   - PRI-260324-1134
   - INS-260403-E8DD
@@ -63,6 +64,9 @@ evidence:
   - id: INS-260321-9906
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260323-F7DB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The Uncanny Valley describes unease at humanoid forms that are almost-but-not-quite human — too realistic to dismiss as fake, too flawed to accept as real. But this is a special case of a broader pattern: creepiness arises whenever something straddles the line between two categories we can understand and explain with language. Masks are creepy because they sit between 'face showing emotion' and 'no face at all.' Ambiguous intentions are creepy because they sit between 'friend' and 'threat.'
 

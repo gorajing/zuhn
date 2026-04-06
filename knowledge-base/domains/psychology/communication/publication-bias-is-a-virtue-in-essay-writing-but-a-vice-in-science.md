@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-45B4
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-8C20
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In science, publication bias is a serious problem: only publishing positive results distorts the literature and wastes resources on already-disproven hypotheses. But Graham argues that in essay writing, the same behavior is exactly correct. You generate many ideas loosely, then ruthlessly filter to only publish the ones that survive scrutiny.
 

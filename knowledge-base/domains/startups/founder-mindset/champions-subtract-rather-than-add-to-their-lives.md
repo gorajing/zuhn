@@ -56,5 +56,8 @@ evidence:
   - id: INS-260323-197A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-7644
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The default assumption is that successful people have something extra — more talent, more connections, more knowledge. Hormozi argues the opposite: they lack things you still have. They've pruned friendships, hobbies, side projects, and comfort that others cling to. Everyone has the same 24 hours, so the differentiator is allocation through elimination. This reframes the path to excellence from additive (say yes to everything, accumulate advantages) to subtractive (identify and remove everything that doesn't serve your singular goal). The practical implication is that most people's bottleneck isn't insufficient resources but insufficient willingness to sacrifice.

@@ -56,6 +56,10 @@ related:
   - PRI-260403-7D1F
   - INS-260327-8F03
   - PRI-260328-5B61
+evidence:
+  - id: INS-260327-540D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Executive sponsorship alone is insufficient for innovation program success. The organizational design dimension requires building actual structural bridges between innovation teams and the core business. Without these bridges, innovation teams are perceived as superfluous, calls for assistance are met with contempt, and new ventures can never leverage the company's existing capabilities.
 

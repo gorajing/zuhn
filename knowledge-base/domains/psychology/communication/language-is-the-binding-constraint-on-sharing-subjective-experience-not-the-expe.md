@@ -57,6 +57,16 @@ related:
   - INS-260323-085A
   - INS-260325-59D4
   - INS-260403-4CF9
+evidence:
+  - id: INS-260323-3F30
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260405-3772
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-085A
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 The dominant intuition is that subjective experiences are metaphysically private — that no amount of description could ever convey what red looks like to someone who has never seen it. But Dennett's counterargument is provocative: perhaps qualia appear ineffable only because our current languages lack the expressive power to encode them. A hypothetical alien language might cause colors to appear in your brain without retinal involvement, or billions of precisely ordered English words might achieve the same effect.
 

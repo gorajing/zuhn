@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-0F39
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-3EFB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Bonanno recommends converting the flexibility sequence into self-talk prompts that can be used in real-time distress. For the flexibility mindset: 'It is going to be okay' (optimism), 'I have some tools to work with this' (coping self-efficacy), 'What do I need to do to get through this?' (challenge appraisal). For the flexibility sequence: 'What is happening now? What do I need to do?' (context sensitivity), 'What tools do I have in my toolbox?' (repertoire).
 

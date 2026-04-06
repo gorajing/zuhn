@@ -49,6 +49,10 @@ related:
   - INS-260327-991D
   - INS-260323-B029
   - PRI-260323-FA42
+evidence:
+  - id: INS-260329-C092
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Noah Falstein described a home health AI companion system built by former Amazon Alexa engineers. One agent provides health advice to discharged patients, while a second agent reviews that output and aggressively filters anything not well-supported by evidence. The dual-agent architecture produced advice quality comparable to the best human clinicians.
 

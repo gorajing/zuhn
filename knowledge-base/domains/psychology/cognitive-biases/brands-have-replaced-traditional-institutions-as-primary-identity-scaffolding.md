@@ -54,6 +54,16 @@ related:
   - INS-260322-5A72
   - INS-260404-2E30
   - INS-260330-3431
+evidence:
+  - id: INS-260329-C0F1
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260322-5A72
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-3431
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Americus Reed at UPenn frames brand attachment not as shallow consumerism but as a response to institutional decline. Humans have a fundamental need for identity support systems — historically provided by religion, community organizations, and civic institutions. As these have weakened, brands have stepped into the vacuum, offering ready-made identity narratives people can adopt.
 

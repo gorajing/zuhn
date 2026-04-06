@@ -61,6 +61,36 @@ evidence:
   - id: INS-260329-0CDD
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260323-3C7B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-671E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-FEA3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A136
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-E6FD
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-FE3B
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-1986
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-E140
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-8ACF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-EB56
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham notes that while predicting which ideas will succeed is nearly impossible, predicting which people will generate good ideas is surprisingly tractable. The Airbnb investment illustrates this: YC thought the idea was bad but recognized the founders as earnest, energetic, and independent-minded — traits that reliably correlate with breakthrough work.
 

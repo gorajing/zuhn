@@ -52,6 +52,10 @@ related:
 stance: >-
   Moddoc's senior care team of just 2 people reached 50M won monthly revenue in
   under 4 months, while reducing overall headcount tripled business rev...
+evidence:
+  - id: INS-260405-8B05
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Moddoc discovered counterintuitively that reducing team sizes dramatically increased output. Their senior care vertical was validated and scaled to 50 million won in monthly sales by just 2 people in under 4 months. The broader business unit shrank to nearly one person but generated 3x the revenue.
 

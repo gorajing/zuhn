@@ -50,5 +50,9 @@ related:
   - INS-260404-B31C
   - INS-260403-DC32
   - INS-260403-8C50
+evidence:
+  - id: INS-260404-B31C
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 The central anxiety of early-stage investors is that founders built something based on theory rather than observed need. Abstract market size figures don't resolve this fear — they're too easy to construct and too disconnected from real behavior. Specific user stories do resolve it, because they demonstrate the founder has been close enough to real users to see the problem in the wild. The strongest version is founder-need (Apple, Microsoft, Yahoo, Google all started here), followed by observed need in people the founder knows personally. PG's framing from Sequoia's Greg Mcadoo — 'proxy for demand' — is a useful forcing function: what existing behavior, however workaround-y, shows that the need is real?

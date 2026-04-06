@@ -51,6 +51,13 @@ related:
   - INS-260403-0701
   - INS-260329-500E
   - INS-260403-AC03
+evidence:
+  - id: INS-260329-1ACD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-500E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The Lean Startup loop of Build-Measure-Learn is commonly misread as a directive to start building immediately. In practice, the goal early in the startup journey is maximum learning with minimum investment — which often means no building at all. Smoke tests, landing pages, customer interviews, and concierge MVPs can invalidate a flawed assumption in days, whereas a half-built product can burn months before revealing the same truth.
 

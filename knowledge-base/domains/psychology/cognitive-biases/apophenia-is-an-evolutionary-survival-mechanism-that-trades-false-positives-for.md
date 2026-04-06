@@ -66,6 +66,10 @@ related:
   - INS-260330-12FB
   - INS-260330-12D5
   - INS-260330-A484
+evidence:
+  - id: INS-260330-2154
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Apophenia — the tendency to perceive meaningful connections in random information — exists because evolution favors false positives over false negatives in threat detection. If a shadow might be a predator, the organism that runs from shadows survives to reproduce, while the organism that waits for certainty occasionally gets eaten. This asymmetric payoff matrix means pattern-over-detection became the evolutionary default.
 

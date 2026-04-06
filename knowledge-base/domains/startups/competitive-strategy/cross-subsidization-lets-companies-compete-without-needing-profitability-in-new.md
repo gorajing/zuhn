@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-EFA6
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-7BEC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Amazon's retail business operates near zero profit while AWS generates 58% of operating income. This cross-subsidization model means Amazon doesn't need retail to be profitable — it just needs growth. Traditional competitors like Safeway or Publix must actually make money selling groceries, creating a fundamental asymmetry.
 

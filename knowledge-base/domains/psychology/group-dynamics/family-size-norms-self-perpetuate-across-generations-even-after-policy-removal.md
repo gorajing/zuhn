@@ -60,6 +60,12 @@ evidence:
   - id: INS-260330-0881
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-8A29
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-339F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 China's experience reveals a powerful mechanism of norm persistence: the one-child policy didn't just limit births during its enforcement — it reshaped what Chinese families consider normal. Two generations grew up seeing one child as the default, and that internalized norm persists even after the policy was repealed in 2015. Predictions suggest the two-child policy will only increase population from 1.4 to 1.45 billion by 2029.
 

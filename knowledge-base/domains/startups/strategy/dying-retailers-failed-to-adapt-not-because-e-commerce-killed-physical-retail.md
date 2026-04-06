@@ -52,13 +52,17 @@ related:
   - INS-260327-6058
   - INS-260328-D0F6
   - INS-260330-570F
-  - INS-260330-413D
   - INS-260330-C418
   - INS-260403-3673
   - INS-260403-91DB
   - INS-260404-AD52
-  - INS-260404-3070
   - INS-260403-D8A2
+  - INS-260405-D6E6
+  - INS-260405-7B7C
+evidence:
+  - id: INS-260327-6058
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The common narrative is that Amazon killed retail, but the video highlights a crucial distinction: the companies that died (Sears, Toys-R-Us, J.C. Penney, RadioShack, Payless) all had specific strategic failures — Sears tried to do everything badly, Toys-R-Us ignored the internet, J.C. Penney alienated its core customers. Meanwhile, Ross, Lush, Aldi, Dollar General, and Costco thrived in the same competitive environment.
 

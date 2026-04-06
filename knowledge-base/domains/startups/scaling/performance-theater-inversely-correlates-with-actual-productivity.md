@@ -48,5 +48,15 @@ related:
   - INS-260330-F6B1
   - INS-260403-3CD9
   - INS-260329-ADC4
+evidence:
+  - id: INS-260403-3CD9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-2B94
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-F6B1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a general principle: the less energy people spend on real performance, the more they spend on appearances to compensate, and this compensation actively degrades output. The sports car analogy is precise — manufacturers bolt on visual cues of speed (spoilers, rims) that add weight and drag. Similarly, corporate professionalism rituals (suits, formal meetings, polished reports) consume cognitive bandwidth and signal conformity over substance. This isn't just opportunity cost — the performative layer creates organizational norms that suppress the conditions under which real thinking happens. The implication for scaling startups is that every professional ritual adopted should be interrogated for whether it adds capability or merely appearance.

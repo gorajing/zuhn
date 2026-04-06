@@ -58,5 +58,8 @@ evidence:
   - id: INS-260327-FA62
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-312D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 PolyMatter highlights a specific failure mode: politicians and thought leaders see programming's growing importance and conclude everyone should learn it, but they lack the firsthand experience to understand what the work actually involves. This is a textbook Dunning-Kruger pattern applied to career guidance—enough knowledge to see the trend, not enough to assess the skill requirements. The result is advice that conflates 'programming' (memorizable syntax teachable in 14 weeks) with 'computer science' (creative mathematical problem-solving that commands six-figure salaries). This pattern generalizes: any time outsiders advocate for mass adoption of a specialized skill based on its outcomes rather than its process, the advice will be systematically misleading.

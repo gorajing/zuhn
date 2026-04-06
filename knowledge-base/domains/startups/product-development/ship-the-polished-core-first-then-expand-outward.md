@@ -49,6 +49,16 @@ related:
   - INS-260403-7586
   - INS-260330-112E
   - INS-260403-C7A9
+evidence:
+  - id: INS-260404-F965
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7586
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-112E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Most founders make the mistake of trying to achieve quality across every feature before going to market. Plarium's approach was the opposite: identify the one or two things users actually return for — in gaming, the core battle mechanic or art style — polish only those, and ship everything else at minimum viable quality.
 

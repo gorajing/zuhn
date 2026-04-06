@@ -55,6 +55,15 @@ evidence:
   - id: INS-260327-F95F
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260330-19F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-21AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-1739
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Naval describes a pattern familiar to many creators: conceiving an idea (tweet storm, blog post, business solution) but hesitating or pausing, only to find the inspiration has died by the time he returns to it. The insight has never come back with the same energy or clarity.
 

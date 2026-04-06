@@ -55,6 +55,31 @@ related:
   - INS-260403-ED1F
   - INS-260403-24F0
   - INS-260405-8BEA
+evidence:
+  - id: INS-260323-8271
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-7A5A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260328-EBBC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-1282
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-97DB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-ED1F
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-24F0
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260405-8BEA
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 When audiences lack the technical background to evaluate substance directly, they fall back on the presenter's own confidence as a proxy signal. But explicit confidence claims ('we're passionate,' 'our product is great') get filtered out or worse, coded as bullshit.
 

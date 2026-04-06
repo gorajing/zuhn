@@ -59,6 +59,19 @@ related:
   - INS-260405-020E
   - INS-260403-EAF7
   - INS-260323-4473
+evidence:
+  - id: INS-260323-4473
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-C0B9
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-260B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-EAF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Hilbert's dictum, quoted by Graham: 'a perfect formulation of a problem is already half its solution.' This is not rhetorical — it reflects something structural. A vague problem permits an infinite solution space; a precise formulation prunes most of it. The act of specifying constraints, naming unknowns, and defining what counts as a solution does much of the cognitive work that people mistakenly attribute to the solving phase.
 

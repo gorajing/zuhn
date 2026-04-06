@@ -39,11 +39,11 @@ stance: >-
   endurance sports like surfing without the crashes associated with processed
   carbohydrate loading
 related:
-  - INS-260329-21C6
   - INS-260325-1550
   - PRI-260325-654D
   - INS-260327-E728
   - INS-260327-118C
+  - INS-260327-0795
 evidence:
   - id: INS-260329-21C6
     type: SUPPORTS

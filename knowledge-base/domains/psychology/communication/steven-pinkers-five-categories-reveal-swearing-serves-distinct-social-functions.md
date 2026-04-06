@@ -57,6 +57,10 @@ related:
   - INS-260330-534C
   - INS-260403-C49F
   - INS-260330-80AF
+evidence:
+  - id: INS-260403-C49F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Steven Pinker's taxonomy of swearing reveals it's not a monolithic behavior but five distinct communicative strategies. Dysphemistic swearing forces the listener to think about an uncomfortable topic. Abusive swearing is weaponized to intimidate or demean. Idiomatic swearing signals casual register and in-group membership. Emphatic swearing adds intensity to a claim. Cathartic swearing provides genuine pain relief — studies show swearing while in pain increases tolerance.
 

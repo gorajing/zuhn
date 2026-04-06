@@ -51,6 +51,7 @@ stance: >-
 related:
   - INS-260324-FF33
   - INS-260327-418E
+  - INS-260327-0710
   - INS-260327-1B4A
   - INS-260330-E615
   - INS-260330-B22D
@@ -58,7 +59,13 @@ related:
   - INS-260403-CF09
   - INS-260403-FED6
   - INS-260403-3673
-  - INS-260404-3070
+evidence:
+  - id: INS-260405-C0AF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-B22D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The 'Retail Apocalypse' narrative attributed store closures to Amazon making physical retail obsolete. But the reality is more nuanced: Sears tried to do everything poorly, Toys-R-Us dismissed the internet, J.C. Penney alienated its customer base. Meanwhile, in the exact same market conditions, Costco, Ross, Aldi, Lush, and Dollar General were growing.
 

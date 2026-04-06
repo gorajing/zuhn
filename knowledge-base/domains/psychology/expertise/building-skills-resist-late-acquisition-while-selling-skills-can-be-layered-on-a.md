@@ -61,6 +61,36 @@ evidence:
   - id: INS-260329-55DC
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260403-2B1D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260322-D6B8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-1CA4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-EFA8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-E76F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-4C4C
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-4341
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-0020
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-B446
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260329-9F81
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Naval and Bill Gates both converge on the same insight: it's far easier to teach an engineer marketing than to teach a marketer engineering. Building skills—whether software, hardware, or operational systems—require prolonged periods of deep, focused learning that become harder to carve out as career responsibilities grow.
 

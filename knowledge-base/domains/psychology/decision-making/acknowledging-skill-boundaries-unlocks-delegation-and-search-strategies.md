@@ -46,5 +46,12 @@ related:
   - INS-260329-A6FB
   - INS-260403-EA8C
   - INS-260329-64B8
+evidence:
+  - id: INS-260322-C6CE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-EA8C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham presents a general problem-solving pattern: when you acknowledge you lack a particular skill, you stop believing the problem is unsolvable and start exploring alternative approaches — either finding someone who has the skill, or using systematic methods that don't require it. In the naming case, once founders admit they're bad at naming, they can either hire someone creative or simply search the vast space of available domains. This pattern generalizes: many founders struggle not because problems are genuinely hard, but because ego prevents them from recognizing which subproblems require different capabilities than they possess. The meta-skill is accurate self-assessment of where your competence boundaries lie.

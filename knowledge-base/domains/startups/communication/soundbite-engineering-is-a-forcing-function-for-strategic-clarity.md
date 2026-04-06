@@ -55,7 +55,11 @@ related:
   - INS-260403-26D3
   - INS-260403-BFD1
   - INS-260403-C5D8
-  - INS-260404-E0B5
+  - INS-260404-756D
+evidence:
+  - id: INS-260404-61E0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Creating a memorable descriptor — 'the Microsoft Word of ecommerce' — isn't just a marketing exercise. It's a diagnostic tool. The inability to compress your startup into a compelling phrase often reveals that your strategy genuinely lacks focus, not just that you're bad at copywriting. The compression forces you to identify the single most important dimension of what you're building.
 

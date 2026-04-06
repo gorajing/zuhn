@@ -53,6 +53,10 @@ related:
   - INS-260329-6727
   - INS-260330-5263
   - INS-260325-5FE9
+evidence:
+  - id: INS-260403-0C1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The 4πr² formula for a sphere's surface area is actually a special case of Cauchy's formula: for any convex body, the average projected area (shadow) over all orientations in 3D space equals exactly one-fourth the total surface area. A sphere, being symmetric, casts the same shadow (πr²) from every angle, making the average trivially πr² = (1/4)(4πr²).
 

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-A4E3
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-2B1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Malice draws a culinary analogy for comedy: it's easy to make bacon taste good, but making obscure, bitter ingredients palatable takes real skill. Similarly, making people laugh about emotionally charged or dark subjects requires more craft than safe comedy. Joan Rivers (quoting possibly Churchill) said that making people laugh is giving them a 'little vacation.'
 

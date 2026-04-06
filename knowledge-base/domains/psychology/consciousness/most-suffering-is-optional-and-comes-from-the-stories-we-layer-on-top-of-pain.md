@@ -66,5 +66,8 @@ evidence:
   - id: INS-260403-DFBC
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260322-A9DE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Waldinger distinguishes between unavoidable pain and optional suffering. The back pain is real. The story about how unfair it is that you have back pain, how it should not be happening, how it ruins everything — that is added. Zen practice does not promise to eliminate pain or unsatisfactoriness (which is 'always there in life') but teaches how to 'be with' what is painful without layering on the stories that multiply suffering. The practical implication is profound: when you notice yourself suffering disproportionately, the leverage point is usually not the external situation but the narrative you have constructed around it. Learning to observe the narrative as separate from the event is the core skill.

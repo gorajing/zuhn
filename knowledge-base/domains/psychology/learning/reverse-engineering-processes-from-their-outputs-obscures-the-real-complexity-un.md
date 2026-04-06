@@ -49,13 +49,28 @@ stance: >-
   inputs and outputs, because the intermediate energy-transfer steps are
   invisible
 related:
-  - INS-260330-0017
   - INS-260404-F014
   - INS-260404-3500
   - INS-260330-1084
   - INS-260330-BC56
   - INS-260404-2A07
   - INS-260403-D2FD
+evidence:
+  - id: INS-260404-2A07
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-BC56
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-1084
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-F014
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-498B
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The equation for photosynthesis fits on one line, yet the actual mechanism involves photosystem II splitting water, an electron transport chain charging thylakoids like batteries, photosystem I re-energizing electrons, and the Calvin Cycle running three phases just to net a single G3P molecule. Each step has dozens of proteins and precise molecular choreography.
 

@@ -56,6 +56,13 @@ related:
   - INS-260404-4DF7
   - INS-260404-3214
   - INS-260404-93E3
+evidence:
+  - id: INS-260402-7FCC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-A954
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham relays a VC who invested in a company while openly acknowledging their business model was wrong and would change three times. The founders were experienced repeat entrepreneurs with millions in funding, and even their model was 'crap.' The investor expected this.
 

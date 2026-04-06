@@ -56,6 +56,10 @@ related:
   - INS-260322-A892
   - INS-260327-89C7
   - INS-260403-4101
+evidence:
+  - id: INS-260403-4101
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 At Viaweb, Graham's team personally built online stores for their customers despite the whole point of their software being self-service store creation. This felt deeply wrong — 'particularly humiliating, since the whole raison d'etre of our software was that people could use it to make their own stores.' But it turned out to be exactly right. Building stores taught them about retail (like the collar-closeup insight for shirt images) and revealed how the software actually felt to use.
 

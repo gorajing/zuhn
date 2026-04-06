@@ -55,5 +55,21 @@ related:
   - PRI-260323-6644
   - PRI-260323-DA09
   - INS-260323-7345
+evidence:
+  - id: INS-260330-AACC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-B224
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-7345
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-466E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-1509
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When CERN announced neutrinos exceeding light speed, the physics community's response was instructive: intense engagement combined with deep skepticism. Rather than immediately restructuring the foundations of modern physics, physicists demanded independent replication and began hunting for systematic errors. This instinct was vindicated when the result was traced to a loose fiber optic cable and GPS calibration issues. The same discipline applies to startups: a single customer interview contradicting your thesis, a single A/B test showing a 10x improvement, or a single market signal suggesting your entire competitive landscape has shifted — these are all 'faster-than-light neutrino' moments. The correct response is not to ignore them, but to demand independent verification before restructuring your strategy. The cost of false negatives (missing a real signal) is usually far lower than the cost of false positives (rebuilding your foundation on a measurement error).

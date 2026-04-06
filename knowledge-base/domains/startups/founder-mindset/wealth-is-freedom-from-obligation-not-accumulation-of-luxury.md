@@ -58,6 +58,12 @@ evidence:
   - id: INS-260322-760A
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-9DC9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-EA4E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Naval redefines wealth not as money or possessions but as assets that earn while you sleep — businesses, software, investments, rental properties. More importantly, he reframes the purpose of wealth entirely: it's not about fur coats, Ferraris, or private jets (which he says get boring fast), but about freedom from mandatory obligations.
 

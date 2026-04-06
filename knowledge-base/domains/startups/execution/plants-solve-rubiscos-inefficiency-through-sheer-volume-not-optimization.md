@@ -46,15 +46,25 @@ stance: >-
   Compensating for a weak core process by scaling volume is a viable long-term
   strategy when replacement cost is prohibitive
 related:
+  - INS-260330-4EC0
   - INS-260330-BFA2
   - INS-260404-1FCE
   - INS-260404-AE3C
-  - INS-260330-6ECA
   - INS-260404-5DE4
   - INS-260403-3E1C
   - INS-260403-2A50
   - INS-260404-B6E8
   - INS-260405-95AE
+evidence:
+  - id: INS-260404-AE3C
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-B6E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-2A50
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When RuBisCo proved too error-prone to replace, plants adopted a brute-force strategy: flood the system with so much of the enzyme that the net output is sufficient despite per-unit failure rates. At any given time, roughly 40 billion tons of RuBisCo exist on Earth — making it likely the most abundant protein on the planet.
 

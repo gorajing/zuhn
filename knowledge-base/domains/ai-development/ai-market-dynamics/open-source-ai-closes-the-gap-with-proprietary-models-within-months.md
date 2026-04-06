@@ -54,6 +54,9 @@ evidence:
   - id: INS-260325-522A
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-D660
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 OpenAI's o1 launched as a premium $200/month reasoning model, yet within months DeepSeek released R1 — a free, MIT-licensed alternative matching or exceeding o1 on math and software engineering benchmarks. This pattern of rapid open-source catch-up has strategic implications.
 

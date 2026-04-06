@@ -55,6 +55,12 @@ evidence:
   - id: INS-260327-290C
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260405-CF27
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-1E4A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal cost feeling, even when extras and upgrades are priced separately.
 

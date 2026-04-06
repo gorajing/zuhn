@@ -55,6 +55,13 @@ related:
   - INS-260403-C737
   - INS-260403-359D
   - INS-260404-DD95
+evidence:
+  - id: INS-260403-359D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-AE23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Customers rarely articulate their true motivations unprompted. They give socially acceptable or top-of-mind answers that sound reasonable but don't reflect the deeper drivers of their behavior. The interview ground rule of asking 'why' to get real motivations is a lightweight application of root-cause analysis to customer discovery.
 

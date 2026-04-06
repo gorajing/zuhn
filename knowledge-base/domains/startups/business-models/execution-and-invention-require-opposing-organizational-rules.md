@@ -60,6 +60,12 @@ evidence:
   - id: INS-260322-A14D
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260327-99CE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260326-CA66
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Established business models operate in known environments where forecasts are reliable and performance projections make sense. People are evaluated on hitting targets, and failure is unacceptable. New business models operate in the unknown — projections are meaningless, and the goal is hypothesis testing through small experiments. When companies apply execution-mode governance to invention-mode work, they optimize for predictability at the cost of discovery.
 

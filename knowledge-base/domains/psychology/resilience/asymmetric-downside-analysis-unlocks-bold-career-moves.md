@@ -46,5 +46,15 @@ related:
   - INS-260329-36D9
   - INS-260402-4AB4
   - INS-260403-DC6C
+evidence:
+  - id: INS-260329-59A5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-4AB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-DC6C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Rollins frames his Black Flag audition not as a brave leap but as a simple cost-benefit calculation: miss one shift ($21) and risk embarrassment versus a potential life-changing outcome. This reframing strips away the emotional weight of 'risk-taking' and reveals most career pivots have absurdly asymmetric payoff structures. The practical application is to explicitly quantify the actual downside of any opportunity before letting fear of change dominate. Most people overweight social embarrassment and underweight the compounding cost of inaction — staying in the ice cream shop forever was the real risk.

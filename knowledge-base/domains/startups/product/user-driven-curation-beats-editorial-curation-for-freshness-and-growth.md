@@ -56,6 +56,9 @@ evidence:
   - id: INS-260320-5A6F
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-6B97
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Reddit's key architectural decision was letting users vote on submissions rather than having editors choose what appeared on the front page, like Slashdot did. Graham notes that while Slashdot's moderators did a good job, the 'one small difference turned out to be a big difference' — user-driven submissions meant Reddit was always fresher.
 

@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-6BAF
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-280B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Hormozi redefines focus through a vivid analogy: imagine you have four ladder rungs and a wall to climb over. Spreading those rungs across four ladders means none reaches the top. Stack all four on one ladder and you clear the wall. This reframes productivity as a subtraction problem — the most focused person does the fewest things outside their core pursuit. He extends this to environmental design: Slack notifications, open doors, and visible distractions are all 'not the work' and must be eliminated.
 

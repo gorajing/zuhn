@@ -55,6 +55,9 @@ evidence:
   - id: INS-260327-4EDE
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-4DFB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Ginni Rometty's hiring philosophy evolved over 40 years from speed-hiring to hiring experts to finally prioritizing willingness to learn above all else. Her reasoning: experts with 30 years in one domain have low odds of adapting when the industry shifts. At IBM, only 2 out of 10 employees had future-relevant skills when she became CEO.
 

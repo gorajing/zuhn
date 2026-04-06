@@ -50,5 +50,15 @@ related:
   - INS-260330-4FC5
   - INS-260327-E63E
   - INS-260327-CFD5
+evidence:
+  - id: INS-260330-7DE0
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260323-72EB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-4FC5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Destin tried to recreate the vortex collision alone and failed completely. He then tried undergraduate research students with limited results. Only when he partnered with David Lenderman — a motion control engineer whose skills were perfectly complementary — did the project become feasible. The key insight is specificity of complementarity: Destin didn't need a general helper or more hands, he needed someone whose exact domain (precision electromechanical actuation, pneumatic control) filled the exact gap in his capability. David's refusal to quit also provided mutual reinforcement during the hundreds of failed attempts. For founders, this argues for finding one deeply complementary co-builder rather than assembling a generalist team.

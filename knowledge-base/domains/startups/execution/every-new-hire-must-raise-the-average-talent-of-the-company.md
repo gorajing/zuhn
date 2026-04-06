@@ -48,7 +48,6 @@ stance: >-
 related:
   - INS-260325-D19B
   - INS-260323-DA85
-  - INS-260322-AC23
   - INS-260322-2ABB
   - INS-260323-9A93
   - INS-260322-D5EB
@@ -56,6 +55,7 @@ related:
   - INS-260330-A69C
   - PRI-260403-7BEC
   - INS-260327-2608
+  - INS-260403-D51E
 evidence:
   - id: INS-260325-D19B
     type: SUPPORTS
@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-DA85
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260405-89E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Seibel frames early hiring as a compounding decision: each person you bring on becomes a signal to the market about your company's quality. Smart early employees attract other smart people. Mediocre hires signal to the talent market that your bar is low. His maxim — 'if you can't hire someone who's smarter than you, just do it yourself' — is deliberately provocative but contains a real insight.
 

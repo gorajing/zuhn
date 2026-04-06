@@ -55,6 +55,22 @@ related:
   - INS-260404-F161
   - INS-260404-187C
   - INS-260405-8BEA
+evidence:
+  - id: INS-260403-B08E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-F161
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-0CD8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-A9E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-22FE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Most investors at a Demo Day can't deeply evaluate the technical merit of what you've built — they lack both the background and the time. So they rely heavily on proxy signals, and founder confidence is the strongest one. But this must be shown, not told: saying 'we're passionate' or 'our product is great' gets ignored or marks you as a bullshitter.
 

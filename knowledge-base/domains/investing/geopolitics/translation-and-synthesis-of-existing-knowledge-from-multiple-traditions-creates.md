@@ -91,6 +91,15 @@ evidence:
   - id: INS-260330-3ECE
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260329-3FF4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-D711
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-B1BC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The House of Wisdom's most enduring contribution was translation and synthesis: Greek philosophy, Persian administrative science, Indian mathematics, and Arab astronomy were combined into new frameworks that exceeded any individual tradition. Arabic numerals (originally Indian) and algebra (originally Greek concepts, formalized by al-Khwarizmi) were synthesis products, not original inventions.
 

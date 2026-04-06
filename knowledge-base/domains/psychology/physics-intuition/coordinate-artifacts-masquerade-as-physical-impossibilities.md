@@ -58,6 +58,10 @@ related:
   - INS-260323-A52F
   - INS-260330-4FC5
   - INS-260330-9B16
+evidence:
+  - id: INS-260404-80AC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When Schwarzschild solved Einstein's equations, the math appeared to blow up at both r=0 and the event horizon. For decades, physicists including Einstein interpreted the horizon singularity as evidence that nothing could cross it, concluding black holes were impossible. It took a simple coordinate transformation to reveal this was purely an artifact of the chosen representation - like how the Mercator projection distorts Greenland's size. The real singularity at r=0 remained, but the horizon barrier vanished.
 

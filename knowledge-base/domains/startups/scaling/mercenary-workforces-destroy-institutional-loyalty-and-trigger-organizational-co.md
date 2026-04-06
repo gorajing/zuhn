@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-E751
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-7605
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Roman Empire's fatal workforce decision was hiring Germanic warriors who had no cultural connection to Rome, no investment in its institutions, and loyalty only to their direct commanders and paychecks. Between 235-284 CE, 41 different people claimed the emperor title as military commanders leveraged mercenary armies for personal power grabs.
 

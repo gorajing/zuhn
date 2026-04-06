@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-E497
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260405-7E85
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When atmospheric oxygen levels rose, RuBisCo began confusing O2 for CO2 roughly half the time, producing toxic phosphoglycolate. Plants couldn't replace RuBisCo, so they evolved entire additional metabolic pathways (photorespiration) solely to clean up after this bug. These cleanup systems now consume significant energy — a permanent tax on every plant's metabolism.
 

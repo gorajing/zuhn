@@ -48,8 +48,8 @@ related:
   - INS-260327-5DD2
   - INS-260329-917B
   - INS-260330-178D
-  - INS-260330-0B79
   - INS-260330-2F22
   - INS-260330-F268
+  - INS-260323-40AA
 ---
 Tyler describes a common trap where prospects say 'I'd use your product but it's just missing this one feature.' Ambitious founders hear this as a development ticket, but nine times out of ten, building the feature leads to another feature request or another excuse. The correct response is either (1) sign an agreement now that commits to building the feature, proving the prospect is serious, or (2) tell them you'll wait to hear the demand from more customers first. This prevents one-off custom development and filters genuine demand from polite rejection disguised as feedback. The underlying pattern is that real buyers find ways to say yes despite limitations, while non-buyers find reasons to say no.

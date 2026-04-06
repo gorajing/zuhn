@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-EBDD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-C161
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Finkel's expertise in ancient board games reveals that complex strategic thinking - probability assessment, multi-move planning, risk management - was embedded in Mesopotamian culture over 4,000 years ago through games like the Royal Game of Ur. These games required mathematical intuition that wouldn't be formally codified for millennia.
 

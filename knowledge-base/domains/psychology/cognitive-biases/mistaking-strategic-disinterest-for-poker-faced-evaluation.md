@@ -49,5 +49,9 @@ related:
   - INS-260403-8B13
   - INS-260403-61ED
   - INS-260403-E8DD
+evidence:
+  - id: INS-260403-3E9A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham spent years thinking Jerry Yang was simply 'poker-faced' during his whiteboard presentation, when Yang's disinterest was entirely rational given Yahoo's economic position. This is a specific instance of the fundamental attribution error applied to business contexts: we attribute behavior to character ('he's not curious') rather than situation ('his business makes more money ignoring this'). For founders pitching to investors, partners, or acquirers, this bias is dangerous because it prevents you from diagnosing the real objection. When someone seems unimpressed by your demo, the most productive question isn't 'how do I present better?' but 'what about their current situation makes this unappealing to them?' The structural explanation is almost always more useful than the personality one.

@@ -55,7 +55,6 @@ related:
   - INS-260330-C456
   - INS-260330-F671
   - INS-260330-4D0E
-  - INS-260330-0017
   - INS-260403-2DC0
   - INS-260403-D2FD
   - INS-260404-3C96
@@ -77,6 +76,21 @@ evidence:
     classified_at: '2026-04-05'
   - id: INS-260403-D2FD
     type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-6E61
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-C456
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260330-F671
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-2DC0
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-3C96
+    type: EXTENDS
     classified_at: '2026-04-05'
 ---
 Photosynthesis doesn't try to convert photon energy directly into glucose. Instead, it runs excited electrons through a four-stage pipeline (PSII → Cytochrome Complex → PSI → NADPH production), extracting energy at each step to charge different carriers (ATP via proton gradient, NADPH via electron transfer). Each stage is specialized for a different type of energy conversion.

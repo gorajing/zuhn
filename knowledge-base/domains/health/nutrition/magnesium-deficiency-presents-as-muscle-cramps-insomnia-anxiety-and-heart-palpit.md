@@ -39,14 +39,13 @@ stance: >-
   only 1% of body magnesium is in blood; muscle cramps, insomnia, anxiety, and
   heart palpitations are early warning signs
 related:
-  - INS-260325-600C
   - INS-260325-61A7
   - INS-260327-0105
   - INS-260327-2D68
   - INS-260327-7E2F
   - INS-260327-C782
   - PRI-260325-638B
-  - INS-260327-6EB5
+  - INS-260325-600C
   - INS-260327-E121
   - INS-260327-6EB6
 evidence:

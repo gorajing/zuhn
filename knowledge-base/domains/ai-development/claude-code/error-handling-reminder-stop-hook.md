@@ -52,6 +52,10 @@ resolutions:
 stance: >-
   Stop hooks should detect risky code patterns and show non-blocking self-check
   reminders
+evidence:
+  - id: INS-260322-24FB
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 
 The Error Handling Reminder is a Stop hook that scans recently edited

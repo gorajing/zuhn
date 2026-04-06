@@ -1,16 +1,13 @@
 # Source Map
-Generated on 2026-04-05 | 2421 sources
+Generated on 2026-04-06 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
 | Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 356 | 2026-03-30 |
 | Early Work | blog | 175 | 2026-03-31 |
 | How to Present to Investors | blog | 166 | 2026-03-31 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 157 | 2026-03-31 |
 | Why Costco is Cheaper than Amazon | youtube | 136 | 2026-03-30 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 125 | 2026-03-31 |
 | February 2025 Startups Raising Capital | blog | 84 | 2026-03-30 |
-| How to Do Great Work | blog | 79 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Why we shifted to Spec-Driven Development | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
@@ -33,7 +30,8 @@ Generated on 2026-04-05 | 2421 sources
 | AK-47 Underwater at 27,450 frames per second (Part 2) - Smarter Every Day 97 | youtube | 19 | 2026-03-30 |
 | System Design Concepts Course and Interview Prep | youtube | 19 | 2026-03-29 |
 | Waking Up with Sam Harris - Looking for the Self (26 Minute Meditation) | youtube | 19 | 2026-03-30 |
-| Hiring is Obsolete | blog | 18 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 17 | 2026-03-31 |
+| Hiring is Obsolete | blog | 17 | 2026-03-31 |
 | Figma To App Store In 37 Minutes With AI [Tutorial] | youtube | 16 | 2026-03-29 |
 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | youtube | 16 | 2026-03-30 |
 | 14 Life Lessons I Wish I Knew Earlier | youtube | 15 | 2026-03-30 |
@@ -170,6 +168,7 @@ Generated on 2026-04-05 | 2421 sources
 | World's Lightest Solid! | youtube | 8 | 2026-03-30 |
 | You’ll never escape life's problems. Why that’s actually liberating | Oliver Burkeman for BT+ | youtube | 8 | 2026-03-25 |
 | Your brain wasn't built to hold this much information | Richard Cytowic | youtube | 8 | 2026-03-25 |
+| How to Do Great Work | blog | 7 | 2026-03-31 |
 | #1 Sales Tactic (to Make a TON of Money!) | youtube | 7 | 2026-03-27 |
 | $1.3B AI CEO: "You ONLY Need 2 People and 90 Days to Build a $1M Business" | Higgsfield Founder | youtube | 7 | 2026-03-22 |
 | Should You Learn Coding Now? Anthropic CEO Explains | youtube | 7 | 2026-03-20 |
@@ -244,6 +243,7 @@ Generated on 2026-04-05 | 2421 sources
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
 | 35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley | blog | 5 | 2026-03-31 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 5 | 2026-03-31 |
 | 5 Tools For New Business Success | blog | 5 | 2026-03-31 |
 | 500,000 | blog | 5 | 2026-03-31 |
 | 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
@@ -814,6 +814,7 @@ Generated on 2026-04-05 | 2421 sources
 | Your Legs Are Failing First — Here’s Why | youtube | 5 | 2026-03-26 |
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
+| SVAI   Keynote 2 | audio | 4 | 2026-03-31 |
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 4 | 2026-03-30 |
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
 | $1,000 Head Start For America's Youth | blog | 4 | 2026-03-30 |
@@ -2143,7 +2144,9 @@ Generated on 2026-04-05 | 2421 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| SVAI   Keynote 2 | audio | 0 | 2026-03-31 |
+| Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
+| Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
+| The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
 | This Automation Took Me From 0 to 175k Followers in Under 12 Months | reddit | 0 | 2026-03-20 |
 | After learning this, my AI workflows cost me 30x less | reddit | 0 | 2026-03-20 |
 | Claude Code usage limit hack | reddit | 0 | 2026-03-20 |
@@ -2156,9 +2159,6 @@ Generated on 2026-04-05 | 2421 sources
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 0 | 2026-03-20 |
 | Sound Design Breakdown [and tutorial] | reddit | 0 | 2026-03-20 |
 | [Tutorial] All there is to know about syncing video and audio | reddit | 0 | 2026-03-20 |
-| Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
-| Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
-| The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
 | 2504.19874v1 | pdf | 0 | 2026-03-26 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
 | @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |

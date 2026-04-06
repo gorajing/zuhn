@@ -57,11 +57,47 @@ related:
   - INS-260403-6E11
   - INS-260403-6F52
   - INS-260403-C228
-  - INS-260403-0AF4
+  - INS-260403-85F1
 evidence:
   - id: INS-260403-0AF4
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260322-7B71
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-6D57
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-F7BD
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-0595
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-6F52
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-C228
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-D8C7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-6EB8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-8D37
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-85F1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-3212
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-21C4
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham argues that the first cut in fundraising is simply being remembered. Professional investors hear pitch after pitch until they all blur together. A descriptive phrase — 'the x of y' pattern like Viaweb's 'the Microsoft Word of ecommerce' — functions as a cognitive anchor that survives this blur.
 

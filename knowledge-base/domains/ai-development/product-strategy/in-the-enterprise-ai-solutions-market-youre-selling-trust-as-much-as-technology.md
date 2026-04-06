@@ -88,5 +88,11 @@ evidence:
   - id: INS-260403-F0DF
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-C6A6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-FB4D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Sequoia partner draws a clear market map: bottoms-up distribution (ChatGPT, open-source tools) versus top-down solutions (Harvey for law, Sierra for customer communications, Pace for insurance). The insight is that for the solutions end of the spectrum, you're at a moment in time where trust is the primary product. Customers can see AI's potential — they want to believe — but they've also seen exciting demos that didn't pan out. The role of companies like Pace is essentially saying: trust us, we'll make sure this new world of AI benefits your business, and we'll do whatever it takes. Forward-deployed engineering, industry expertise, onsite presence — these aren't cost centers, they're trust-building mechanisms. This is especially true in insurance, which is literally 'the business of trust.' Starting with the most trusted brands at the top of the market and building credibility through demonstrated results creates a reputational flywheel for the rest of the market.

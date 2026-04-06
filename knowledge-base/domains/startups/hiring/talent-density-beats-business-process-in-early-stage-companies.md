@@ -52,6 +52,10 @@ related:
   - INS-260402-C4FF
   - PRI-260324-D701
   - PRI-260328-0C86
+evidence:
+  - id: INS-260402-C4FF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Larry and Sergey's hypothesis was radical: hire all the smartest people, point them at measurable problems, and figure out the business stuff later. The results 'won't be perfect, but they'll be optimal.' This was experimentally verified by Google's success.
 

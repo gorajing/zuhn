@@ -50,6 +50,10 @@ related:
   - INS-260329-6D8B
   - INS-260323-7D01
   - INS-260330-C6A2
+evidence:
+  - id: INS-260329-6D8B
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Joly empowered all Best Buy employees — especially customer-facing staff — to make decisions autonomously by ensuring they deeply understood the company's purpose, values, and strategy. Managers' approval wasn't required; employees only needed to consider their manager's input.
 

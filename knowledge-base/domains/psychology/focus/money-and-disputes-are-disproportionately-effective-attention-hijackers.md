@@ -55,5 +55,8 @@ evidence:
   - id: INS-260323-BCCC
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-36C1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies two categories of thought that are especially destructive as top-of-mind occupants: money concerns and disputes. Both share a critical property — they are engaging in the way genuinely interesting ideas are, with the same 'velcro-like shape' that makes thoughts stick, but without the substance that makes creative work rewarding. Money demands attention because getting it is never passive; it requires active pursuit. Disputes are worse: they simulate the pattern-matching of real intellectual work while producing nothing. Even Newton lost years of productive thinking to disputes about his color theory — not because the 14 pages of replies were expensive to write, but because the controversy kept reintroducing itself as his top idea.

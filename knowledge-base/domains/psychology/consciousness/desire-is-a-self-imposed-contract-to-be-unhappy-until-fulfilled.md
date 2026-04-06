@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-3FCF
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-1AE5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Naval frames desire as a literal contract: you agree to be unhappy until you get what you want. The critical insight is what happens after fulfillment — you don't reach a blissful peak that persists. You revert to whatever state you were in before the desire arose. This is the hedonic treadmill described in clinical terms.
 

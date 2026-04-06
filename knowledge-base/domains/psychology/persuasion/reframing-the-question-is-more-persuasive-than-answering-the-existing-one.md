@@ -49,6 +49,13 @@ related:
   - INS-260330-0E49
   - INS-260330-14CA
   - INS-260330-3570
+evidence:
+  - id: INS-260330-0E49
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-14CA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham's essay is a masterclass in persuasion through reframing. He doesn't engage with the standard death penalty arguments (morality of state killing, deterrence, racial bias). Instead, he shifts the question from 'Is the death penalty justified?' to 'Is it acceptable to execute innocent people?' — a question with only one defensible answer.
 

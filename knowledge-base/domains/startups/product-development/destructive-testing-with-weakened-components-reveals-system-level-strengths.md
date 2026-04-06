@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-A9F8
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-8908
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Steve the suppressor designer deliberately used acrylic casings instead of metal — not just for visibility, but as a diagnostic tool. When the acrylic shattered, it revealed exactly where stress concentrated: thread joints, flex points on monocore baffles, and axial stress from pressurization. With a full metal design, you'd never see these failure modes until catastrophic failure in the field.
 

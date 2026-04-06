@@ -57,6 +57,10 @@ related:
   - INS-260329-F2E1
   - INS-260322-5745
   - INS-260327-CEE4
+evidence:
+  - id: INS-260403-393C
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham compares containing parental ambition to keeping heroin out of a prison: naive solutions won't work because you're fighting one of the most powerful forces in human nature. Parents will push their scruples to the limit for their children, especially when other parents do the same. This means any credentialing system, no matter how well-designed, will eventually be gamed.
 

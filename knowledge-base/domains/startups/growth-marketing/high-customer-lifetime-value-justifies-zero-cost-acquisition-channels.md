@@ -53,6 +53,9 @@ evidence:
   - id: INS-260329-C409
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-A61B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 SiteGPT's funnel: 50K monthly visitors -> 200 leads -> 60 trials -> 15-24 customers at ~$100/month ARPU with $1700-1800 LTV. With zero marketing spend, every customer is pure profit contribution. This demonstrates that SaaS products with strong retention and high LTV can afford inefficient top-of-funnel conversion rates.
 

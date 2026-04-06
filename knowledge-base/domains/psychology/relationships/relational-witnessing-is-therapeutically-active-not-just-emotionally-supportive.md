@@ -62,6 +62,10 @@ related:
   - INS-260403-7639
   - INS-260403-7475
   - INS-260403-0070
+evidence:
+  - id: INS-260403-94CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Van der Kolk describes how being in a relationship where you can talk about guilt, trace feelings to their origins, and be genuinely heard was 'actually quite helpful.' This challenges the assumption that relationship is just the container for therapy while techniques do the real work. In trauma treatment, the relational experience of being witnessed without judgment may itself rewire the nervous system's expectations about safety.
 

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-8D0C
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-CA93
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The fact that agriculture arose independently in at least six regions is often cited as evidence it was the 'right' choice. But the video challenges this: every civilization also independently developed patriarchy, inequality, and warfare alongside agriculture. Independent convergence tells you about shared constraints and incentive structures, not about optimality.
 

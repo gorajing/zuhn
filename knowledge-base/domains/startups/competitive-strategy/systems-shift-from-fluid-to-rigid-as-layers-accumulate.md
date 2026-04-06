@@ -51,6 +51,22 @@ related:
   - INS-260330-833E
   - INS-260403-C5FB
   - INS-260329-E914
+evidence:
+  - id: INS-260330-1B16
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-DFDB
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-A9F8
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-833E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-E914
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 In the shade ball experiment, a single layer allows swimming with difficulty — balls move past each other like a fluid. But adding a second layer transforms the system: balls trap against each other and behave like a solid, providing dramatically more resistance.
 

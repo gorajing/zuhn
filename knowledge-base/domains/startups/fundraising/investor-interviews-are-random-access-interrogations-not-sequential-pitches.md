@@ -60,6 +60,12 @@ evidence:
   - id: INS-260403-6E11
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-A526
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-D242
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Paul Graham reveals that YC's 10-minute interview format is deliberately designed for random-access questioning, not sequential pitches. The partners need to test two things: whether founders truly understand their domain and whether they're being honest. A rehearsed pitch provides only indirect evidence of both; direct Q&A provides conclusive evidence quickly.
 

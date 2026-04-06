@@ -64,6 +64,15 @@ evidence:
   - id: INS-260321-82FE
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-AABF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-2D99
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-66A1
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The SQL tutorial demonstrates that CREATE TABLE with datatypes, primary keys, and constraints must precede any INSERT statement. This isn't just a technical requirement — it's a design discipline. When you define VARCHAR(20) for a name field, you're forced to reason about real-world bounds. When you declare a foreign key, you're forced to articulate how entities relate before you have any data.
 

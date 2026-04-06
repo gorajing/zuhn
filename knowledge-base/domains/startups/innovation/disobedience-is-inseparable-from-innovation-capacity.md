@@ -59,6 +59,15 @@ evidence:
   - id: INS-260323-D2AA
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260402-46AD
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-E881
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-FF74
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that disobedience and innovation are not separate traits that happen to coexist — they are the same trait expressed in different contexts. A programmer who laughs at the CEO's corporate-speak is exercising the same muscle that lets them laugh at someone saying a problem is unsolvable. Organizations that try to enforce conformity and respect for hierarchy will systematically filter out or suppress the people most likely to produce genuine breakthroughs.
 

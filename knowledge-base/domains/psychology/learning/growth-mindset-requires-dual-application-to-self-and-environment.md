@@ -75,6 +75,9 @@ evidence:
   - id: INS-260402-43F9
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-2B1D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Research by Justin Berg, Amy Wrzesniewski, and Adam Grant found that teaching growth mindset about personal skills was not enough to boost happiness or performance at work. Only when they added a growth mindset about the job itself — teaching people that their job is a set of flexible building blocks (tasks to accentuate, subtract, or swap with colleagues) — did participants get a sustainable happiness boost lasting at least six months, with no cost to performance.
 

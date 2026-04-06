@@ -60,5 +60,17 @@ evidence:
   - id: INS-260330-68C8
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260404-B04F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-EC33
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-F82A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-033A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Rather than evolving a more efficient carbon-fixation enzyme, plants simply produce staggering quantities of RuBisCo — an estimated 40 billion tons exist on Earth at any time. This brute-force strategy made plants the dominant life form on the planet. The parallel to startups is direct: shipping a mediocre MVP at scale often beats waiting to build the perfect product. Companies like Craigslist, early Google Docs, and PHP-powered Facebook all won with 'good enough at massive scale' rather than technical excellence. The strategic implication is that when your market has high tolerance for imperfection and rewards speed/coverage, investing in distribution of a flawed product beats investing in perfecting a product with limited distribution. The constraint is recognizing when your market actually demands quality versus when it rewards availability.

@@ -67,6 +67,9 @@ evidence:
   - id: INS-260323-581C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-7EFA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Kushner explains that Iran's geopolitical strategy is built on proxy warfare: funding and directing Hamas, Hezbollah, the Houthis, and various rebel groups rather than engaging directly. When Iranian financial resources increase (as they did after the 2015 nuclear deal which provided $150 billion), proxy activity increases proportionally. When sanctions cut off funding (as under Trump), proxy activity decreases.
 

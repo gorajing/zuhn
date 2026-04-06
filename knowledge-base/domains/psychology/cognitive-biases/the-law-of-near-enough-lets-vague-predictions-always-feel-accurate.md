@@ -52,5 +52,9 @@ related:
   - PRI-260323-6644
   - PRI-260324-2C9F
   - INS-260405-809E
+evidence:
+  - id: INS-260405-809E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The video demonstrates that famous album-movie sync-ups (like Dark Side of the Moon with The Wizard of Oz) work not because of secret planning, but because of three compounding biases: selection bias (ignoring all the moments that don't sync), confirmation bias (over-weighting moments that do), and the law of near enough (accepting approximate fits as exact matches). The same mechanism explains why horoscopes, cold readings, and vague prophecies feel accurate — the number of narrative paces and rhythms humans enjoy is much smaller than the number possible, so any two sequences share more structural similarity than chance would suggest. This is directly actionable: when evaluating any claimed pattern or prediction, ask whether you're applying the law of near enough and whether you're counting misses as carefully as hits.

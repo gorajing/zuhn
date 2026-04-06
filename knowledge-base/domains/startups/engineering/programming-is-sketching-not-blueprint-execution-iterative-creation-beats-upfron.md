@@ -61,6 +61,12 @@ evidence:
     relationship: RELATED
   - id: INS-260405-86BB
     relationship: RELATED
+  - id: INS-260403-0218
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-7B8D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham argues that the way most programmers actually work — spewing broken code and gradually beating it into shape — is not a failure mode but the correct creative process, analogous to how painters begin with rough sketches and refine. This has direct implications for tool choice: programming languages should be malleable pencils that let you scribble and change your mind, not rigid pens that demand upfront commitment. Static typing and premature specification both fight against this natural creative flow.
 

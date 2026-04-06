@@ -55,5 +55,8 @@ evidence:
   - id: INS-260322-96D1
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260404-B863
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The 'codefluencer' archetype exposes a genuine market inefficiency: someone who learns to print 'hello world in PHP' but masters social media distribution can land better-paying jobs than deeply skilled but invisible developers. This reflects a broader truth about information markets—when hiring managers cannot perfectly evaluate technical skill, they use visibility and cultural signaling as proxies. For individual developers, this creates a strategic choice: invest in depth or invest in distribution. For organizations, it reveals a hiring vulnerability where interview processes optimized for 'culture fit' systematically reward self-promotion over competence.

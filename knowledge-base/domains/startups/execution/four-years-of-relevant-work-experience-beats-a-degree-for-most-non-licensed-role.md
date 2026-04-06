@@ -71,6 +71,9 @@ evidence:
   - id: INS-260323-F2C3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-1202
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi speaks from the employer side of the hiring table: across his portfolio of companies employing nearly a thousand people, no one checks where candidates went to school, what they majored in, or their GPA. The only things that matter are relevant experience and the likelihood of performing well in the role. Given a choice between a four-year philosophy graduate and someone with four years of sales experience for a sales role, the experienced candidate wins every time.
 

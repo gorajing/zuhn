@@ -73,6 +73,12 @@ evidence:
   - id: INS-260322-E90F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-0184
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-9A69
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Hormozi describes a specific micro-pattern in sustained work: you hit a point where your brain wants to stop, and most people treat that as a signal to take the rest of the day off. But the fatigue wave is typically only 5-15 minutes long. If you push through it, you catch 'the next draft' and re-enter productive flow. This is analogous to his dieting observation — food cravings typically last under 20 minutes and pass if you wait.
 

@@ -49,17 +49,19 @@ related:
   - INS-260327-DB8F
   - INS-260403-2822
   - INS-260403-D430
-  - INS-260404-E0B5
   - INS-260403-BFD1
   - INS-260404-C2BC
   - INS-260403-B3A4
   - INS-260404-3C46
-  - INS-260404-3713
+  - INS-260404-24FB
   - INS-260405-283A
 evidence:
   - id: INS-260404-E0B5
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-2822
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Professional investors hear so many pitches that they blur together. The first cut is simply being remembered, and the mechanism is a descriptive phrase that sticks — 'the Microsoft Word of ecommerce' (Viaweb), or Hollywood's 'X meets Y' formula. These soundbites should be launched apparently casually near the beginning of your talk.
 

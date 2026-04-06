@@ -84,6 +84,9 @@ evidence:
   - id: INS-260404-1B29
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-2CFA
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis runs in two distinct stages that cannot be collapsed into one. Light-dependent reactions capture photon energy and convert it into stable chemical currencies — ATP and NADPH. Only then does the Calvin Cycle spend those currencies to do the actual useful work of building glucose. The intermediate currencies serve as a buffer: they smooth out the variability of incoming photons and provide a stable, controllable energy source for downstream chemistry.
 

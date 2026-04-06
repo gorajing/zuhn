@@ -51,5 +51,9 @@ related:
 stance: >-
   Most founders filter out ideas requiring more than two years to work, so
   simply imagining ideas with longer timelines dramatically reduces competit...
+evidence:
+  - id: INS-260404-200B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 There's a systematic ideation cheat code: most founders, especially young ones, cut out any idea that might take longer than two years to work, telling themselves they'll figure it out faster. This means any idea with a legitimately long time horizon — 5 or 10 years — automatically has far less competition. OpenAI and Anthropic are prime examples: both were deeply weird, took years without real products, and nobody would have picked them as consensus good ideas at inception. OpenAI started as a nonprofit research lab during the SaaS era. The willingness to commit to longer timelines and tolerate years of people thinking your idea is bad is both a filter and a moat.

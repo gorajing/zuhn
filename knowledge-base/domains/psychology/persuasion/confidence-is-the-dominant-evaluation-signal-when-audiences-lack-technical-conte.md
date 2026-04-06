@@ -56,5 +56,29 @@ evidence:
   - id: INS-260322-7E86
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260321-FE91
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260322-AB55
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260328-EBBC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-E900
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-300A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-9C60
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-F657
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-0095
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 In investor presentations, most of the audience lacks the technical background to evaluate what founders have built, and the brief time window prevents deep analysis. The single biggest piece of evidence becomes the founder's own confidence. But this must be shown, not told — saying 'we're passionate' or 'our product is great' gets you written off as a bullshitter. Confidence must be implicit: conveyed through how you present, not what you claim about yourself. The frame shift is powerful: if you've truly made something good, you're doing investors a favor by telling them about it. If you don't believe that, the problem isn't your pitch — it's your company.

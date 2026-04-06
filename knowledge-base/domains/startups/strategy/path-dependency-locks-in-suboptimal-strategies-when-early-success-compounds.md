@@ -59,6 +59,16 @@ related:
   - INS-260330-22C0
   - PRI-260403-C34A
   - INS-260330-3EE4
+evidence:
+  - id: INS-260323-4E23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-CB41
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-3B05
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and oxygen scarce, making its sloppiness irrelevant. Plants went 'all-in' on this enzyme and took over the planet. When oxygen levels rose and RuBisCo started confusing O2 for CO2 half the time, plants couldn't swap it out — they were too deeply committed. Instead, they evolved elaborate workarounds (photorespiration pathways, C4 and CAM photosynthesis) to compensate.
 

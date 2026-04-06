@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-2DF7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-6EDC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham illustrates this with a doctor friend who decided on medicine in high school, was ambitious enough to overcome every obstacle — including not liking the work — and now has 'a life chosen for her by a high-school kid.' The cultural celebration of early career certainty mistakes having an answer for having the right answer. Kids who declare early paths look impressive the same way someone who answers a math problem quickly looks smart — but speed of answer doesn't correlate with correctness when the problem is fundamentally under-determined.
 

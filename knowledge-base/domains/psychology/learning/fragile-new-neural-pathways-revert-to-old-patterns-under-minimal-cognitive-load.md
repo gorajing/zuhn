@@ -51,11 +51,11 @@ stance: >-
   collapse back to legacy algorithms when attention is divided, even by trivial
   distractions like a phone vibration
 related:
-  - INS-260327-6017
   - INS-260330-27CA
   - INS-260330-FE49
   - INS-260330-B047
   - INS-260330-0EF6
+  - INS-260330-4A6A
   - INS-260330-0C49
   - INS-260330-FB34
   - INS-260330-4114

@@ -51,12 +51,12 @@ stance: >-
   fewer sets to stimulate growth, while those with poor neural control need more
   volume — the opposite of what most people assume.
 related:
-  - INS-260327-6EB5
   - INS-260327-6EB6
   - INS-260330-60A5
   - PRI-260328-024A
   - INS-260403-9EB1
   - INS-260327-BEC7
+  - INS-260404-61E0
 evidence:
   - id: INS-260327-6EB5
     type: TRANSFERS_TO

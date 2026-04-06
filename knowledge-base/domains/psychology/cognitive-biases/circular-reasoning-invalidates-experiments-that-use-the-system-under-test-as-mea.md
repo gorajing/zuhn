@@ -49,5 +49,9 @@ related:
   - INS-260329-CCDE
   - INS-260329-E914
   - INS-260330-3819
+evidence:
+  - id: INS-260323-3F30
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The OPERA experiment used GPS — a system built on general relativity — to measure distances that would disprove general relativity. This creates a logical trap: if relativity is wrong, the GPS measurements are also wrong, meaning the experimental setup cannot produce valid evidence either way. This pattern appears far beyond physics — in startups using customer surveys designed around existing product assumptions, in AI evaluation benchmarks that embed the biases they claim to measure, and in financial models that use market prices to predict market crashes. The defense is identifying which assumptions your measurement tools encode and ensuring they are independent of the hypothesis under test.

@@ -57,5 +57,8 @@ evidence:
   - id: INS-260330-77D1
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260404-2250
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Altman recommends a non-obvious optimization: after your Series B, hire a great full-time employee whose sole job is to raise the company's next round of funding. The thesis is that someone embedded in the company — who deeply understands the product, metrics, and narrative — will outperform external investment bankers while costing significantly less. Altman claims you can achieve double the valuation you'd otherwise get, at half the dilution of using a banker. This works because fundraising is fundamentally about storytelling and relationship-building, both of which benefit from deep company context that external advisors can never fully replicate.

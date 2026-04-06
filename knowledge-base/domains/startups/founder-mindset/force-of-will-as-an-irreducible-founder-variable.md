@@ -53,6 +53,13 @@ related:
   - PRI-260328-B11D
   - INS-260327-3349
   - INS-260403-FE3B
+evidence:
+  - id: INS-260403-4DFB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-B715
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham distinguishes between normal startup evaluation—which is not like picking winners in a horse race—and the rare case where a founder's sheer force of will makes them nearly unstoppable. This 'doctrine of the elect' applies far less than people think, but when it does apply, it overrides conventional analysis.
 

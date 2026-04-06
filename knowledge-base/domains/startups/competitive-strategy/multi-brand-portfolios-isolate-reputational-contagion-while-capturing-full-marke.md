@@ -56,6 +56,10 @@ related:
   - INS-260330-27E8
   - INS-260404-D68E
   - INS-260327-77A0
+evidence:
+  - id: INS-260327-77A0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The cruise industry is dominated by just two mega-corporations — Carnival (owning Holland America, Princess, Costa, and more) and Royal Caribbean (owning Celebrity, Azamara). This multi-brand architecture serves two strategic purposes: it captures mainstream, premium, and luxury market segments without brand dilution, and it firewalls reputational damage so a disaster like Costa Concordia doesn't contaminate the parent company's other brands.
 

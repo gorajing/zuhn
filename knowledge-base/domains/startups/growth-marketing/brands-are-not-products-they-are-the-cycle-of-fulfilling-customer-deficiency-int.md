@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-16F0
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-7541
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Kwak reframes branding through a deficiency-satisfaction lens. K-pop's global success isn't about music consumption — it stems from a lack of desire to connect, and albums, merch, and fan culture are the process of filling that gap. The brand IS the completion of the value exchange cycle: identifying what the customer lacks, demonstrating how you resolve that deficiency, and showing how resolution leads to expectation and satisfaction.
 

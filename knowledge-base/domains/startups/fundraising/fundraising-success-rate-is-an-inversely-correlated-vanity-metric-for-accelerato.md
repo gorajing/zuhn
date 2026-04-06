@@ -51,6 +51,10 @@ related:
   - INS-260328-372B
   - PRI-260403-26B9
   - INS-260328-3F19
+evidence:
+  - id: INS-260404-2250
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a dangerous measurement trap: the only easily trackable metric for YC batches — post-Demo Day fundraising rate — has zero or even inverse correlation with the metric that actually matters (whether the batch contains a massive winner). This is because outlier-producing batches necessarily include more unconventional, harder-to-fund startups.
 

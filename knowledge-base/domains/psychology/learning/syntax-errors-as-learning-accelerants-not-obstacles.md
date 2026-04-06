@@ -76,6 +76,12 @@ evidence:
   - id: INS-260330-0102
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-B2F4
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260327-1787
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The lecture frames syntax errors as a major pain point: 'if you forget one semi colon or misplace a character, the entire program will not run.' But viewed through a learning science lens, this is actually programming's superpower. Most complex skills — writing, management, investing — have feedback delays of weeks to years. Programming gives sub-second feedback on mistakes.
 

@@ -47,10 +47,10 @@ stance: >-
   recovery and cortisol normalization.
 related:
   - INS-260327-02AF
-  - INS-260327-E6FE
   - INS-260327-FD30
   - INS-260329-6204
   - INS-260327-1DAB
+  - INS-260325-085E
   - INS-260327-78E6
   - INS-260330-0233
   - INS-260403-B6CD

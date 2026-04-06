@@ -47,7 +47,6 @@ stance: >-
   Being first and good-enough beats being late and optimal — market dominance
   accrues to adequate solutions that ship early
 related:
-  - INS-260320-20F2
   - INS-260330-09DE
   - INS-260330-8D99
   - INS-260330-9A60
@@ -61,6 +60,12 @@ evidence:
   - id: INS-260404-9213
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-09DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-BEA7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Photosynthesis is described as a process that 'rather sucks' — it's complicated, inefficient, and confusing. RuBisCo fails at its core task roughly half the time. Yet photosynthesis became the dominant energy conversion system for life on Earth, not because it was elegant, but because it was first and sufficient.
 

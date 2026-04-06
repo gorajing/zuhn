@@ -52,6 +52,10 @@ related:
   - INS-260405-C342
   - INS-260404-8050
   - INS-260330-E786
+evidence:
+  - id: INS-260330-E786
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Early photosynthetic organisms produced oxygen as a literal waste product of water splitting. This 'pollution' was so toxic to anaerobic life that it caused the Great Oxidation Event, one of the largest mass extinctions in Earth's history. Yet that same waste product became the foundation for aerobic respiration, enabling the evolution of all complex animal life.
 

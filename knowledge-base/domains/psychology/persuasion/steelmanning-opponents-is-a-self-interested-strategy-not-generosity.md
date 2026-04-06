@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-DB4B
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-CB96
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Competitive debaters steelman opponents not out of intellectual charity but out of strategic self-interest. If you only respond to the weak version of someone's argument, two things happen: (1) the opponent doesn't feel heard, so they disengage or escalate rather than concede, and (2) someone else — or even your opponent in a later moment — will surface the stronger version, making your previous rebuttal look inadequate.
 

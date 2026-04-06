@@ -63,6 +63,9 @@ related:
 evidence:
   - id: INS-260329-FEA6
     relationship: RELATED
+  - id: INS-260403-D500
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Peter An argues that feature comparison charts are tragic because modern enterprise buyers see through them immediately. Instead, the most powerful sales tool is explaining the specific architectural or technical decisions that make your approach fundamentally different.
 

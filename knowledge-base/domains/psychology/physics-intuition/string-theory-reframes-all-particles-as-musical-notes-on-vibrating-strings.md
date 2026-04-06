@@ -65,6 +65,9 @@ evidence:
   - id: INS-260404-596E
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260404-2A07
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The Standard Model catalogs 36 quarks, 19 free parameters, and 3 generations of particles with 'no rhyme, no reason' — Kaku calls it 'the ugliest theory known to science, but it works.' It cost billions of dollars and 20 Nobel Prizes to construct. String theory offers a radically different approach: instead of cataloging ever more particles, it proposes that all particles are vibrational modes of a single type of entity (a string). Twang it one way, you get an electron; another way, a neutrino; another, a quark.
 

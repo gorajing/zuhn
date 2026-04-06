@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-16B1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-89E7
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Julius AI focuses exclusively on data analysis and visualization. ChatGPT can do data analysis too, but the experience is much worse—insights aren't deep, charts don't look good, you can't collaborate with colleagues. Users start with ChatGPT, realize it falls short for real data analysis, Google 'AI data analysis,' and find Julius as the #1 result.
 

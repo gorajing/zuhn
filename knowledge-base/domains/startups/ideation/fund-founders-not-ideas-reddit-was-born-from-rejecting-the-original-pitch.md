@@ -57,6 +57,9 @@ evidence:
   - id: INS-260328-896B
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-45D5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham was so impressed by Steve Huffman and Alexis Ohanian's intelligence and energy that he started Y Combinator partly to fund people like them. When their original idea (mobile food ordering, pre-smartphone era) was clearly unworkable, YC rejected it but then called them back with a different idea. This became Reddit.
 

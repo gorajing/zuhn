@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-ADF5
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260405-FAE3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 YC tends to fund real startups — teams that lean toward building and shipping rather than performing. As a result, the most impactful advice YC gives is not about building better products (these teams already excel at that) but about sales, marketing, and revenue generation — precisely the activities these founders would naturally avoid.
 

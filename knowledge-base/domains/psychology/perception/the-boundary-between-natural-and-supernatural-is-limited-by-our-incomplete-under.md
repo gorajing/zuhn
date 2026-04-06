@@ -57,6 +57,9 @@ evidence:
     relationship: RELATED
   - id: INS-260325-82E8
     relationship: RELATED
+  - id: INS-260403-922C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The video's epistemological framing is powerful: synchronicity is unfalsifiable, existing 'less in the realm of science and more in that of the supernatural.' But this critique contains its own limitation — we cannot confidently define 'supernatural' because our understanding of 'natural' remains incomplete. 'No matter how deep we dig, we always hit the bedrock of our ignorance and fallibility.'
 

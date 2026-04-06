@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-568F
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-C37D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Shear describes a common failure mode: you conduct user interviews, synthesize findings, and present conclusions to your team, but they don't trust your interpretation. Recording solves this by letting teammates hear the user's actual words, tone, and context. Shear calls it 'magic' — the influence recorded interviews have on what the team believes they should build.
 

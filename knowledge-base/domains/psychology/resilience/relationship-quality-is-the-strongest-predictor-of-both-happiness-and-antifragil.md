@@ -48,5 +48,9 @@ related:
   - INS-260327-F405
   - PRI-260325-AA01
   - INS-260325-268F
+evidence:
+  - id: INS-260327-F405
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Ben-Shahar highlights a convergence in the research: quality time with people who matter is the top predictor of happiness, and relationship quality is also the primary condition enabling antifragile growth through hardship. This dual role suggests relationships are not merely one component of wellbeing but a meta-factor that amplifies all others. For founders and high-performers who deprioritize relationships during intense work phases, this creates a compounding vulnerability — they sacrifice both their happiness floor and their capacity to recover from the inevitable setbacks their work guarantees.

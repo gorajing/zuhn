@@ -53,6 +53,10 @@ related:
   - INS-260403-3A9D
   - INS-260323-C90C
   - INS-260402-45FA
+evidence:
+  - id: INS-260403-9DBA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Viaweb deliberately inserted 'cgi-bin' into their dynamic URLs to mislead competitors about how their software worked. This wasn't a technical decision — it was a strategic one. In an era where competitors would reverse-engineer your approach by examining your public-facing site, feeding them false signals about your architecture could waste months of their R&D effort.
 

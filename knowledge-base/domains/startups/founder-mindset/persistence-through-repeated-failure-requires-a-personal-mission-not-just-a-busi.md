@@ -59,6 +59,12 @@ evidence:
   - id: INS-260327-E052
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-5BF9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-1547
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Frederic Tudor's early ice ventures were catastrophic failures. Investors laughed. His first Caribbean shipment earned only $50. He accumulated $40,000 in debt (over $1M in today's money), was hounded by creditors, hid from sheriffs on his own ships, and went to debtor's prison twice. He described this period as 'the winter of my discontent.'
 

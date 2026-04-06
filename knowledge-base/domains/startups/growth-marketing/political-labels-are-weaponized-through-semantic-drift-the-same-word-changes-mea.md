@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-A458
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-B6D9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Pakman traces how 'liberal' used to mean what 'progressive' means now, but was weaponized into a smear, forcing him to adopt 'progressive' as his self-descriptor. Meanwhile, the socialist-leaning left now uses 'liberal' to mean 'not left enough.' The term 'leftist' is currently transitioning from neutral to negative. These labels evolve month-by-month and are used strategically to either start or stop conversation.
 

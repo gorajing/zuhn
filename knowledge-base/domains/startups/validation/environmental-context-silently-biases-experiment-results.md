@@ -56,6 +56,12 @@ evidence:
   - id: INS-260330-CA97
     type: REFINES
     classified_at: '2026-04-05'
+  - id: INS-260329-BFBF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-4329
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The article highlights that a diet program tested right after Thanksgiving will show artificially inflated interest that does not persist year-round. This is a specific instance of a broader problem: founders rarely account for the environmental context surrounding their experiments, treating all positive signals as intrinsic demand rather than situational artifacts.
 

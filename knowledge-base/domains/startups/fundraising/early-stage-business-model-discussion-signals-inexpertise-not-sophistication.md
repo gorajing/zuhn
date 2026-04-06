@@ -60,6 +60,9 @@ evidence:
   - id: INS-260320-703F
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260330-DF2C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 A VC who spoke at YC described investing in experienced repeat founders whose business model he expected to change three times before they got it right — and he invested anyway. The business model at seed stage is a collection of guesses about areas where founders typically lack expertise. Dwelling on it displaces discussion of what you actually know: the problem space and what you've built.
 

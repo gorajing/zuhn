@@ -69,6 +69,9 @@ evidence:
   - id: INS-260325-DFC7
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-35E7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The International Prototype Kilogram (Le Grand K) and its 40 replicas diverged by up to 50 micrograms over decades despite identical materials and storage conditions. No one could determine which cylinder had changed because there was no external reference — the artifact WAS the definition.
 

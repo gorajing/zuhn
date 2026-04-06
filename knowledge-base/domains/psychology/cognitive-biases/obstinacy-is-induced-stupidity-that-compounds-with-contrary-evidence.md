@@ -53,6 +53,10 @@ related:
   - INS-260330-3BBC
   - INS-260403-B9E5
   - INS-260323-543C
+evidence:
+  - id: INS-260323-543C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies obstinacy not as mere stubbornness but as a reflexive resistance to changing one's ideas that becomes a 'sort of induced stupidity as contrary evidence mounts.' This is a dynamic, not a static trait — the obstinate person becomes effectively stupider over time because their model of reality grows increasingly stale while the world keeps updating.
 

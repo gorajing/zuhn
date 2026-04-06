@@ -54,6 +54,13 @@ related:
   - INS-260402-CCC3
   - INS-260403-4DFB
   - INS-260403-0A97
+evidence:
+  - id: INS-260403-4DFB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-0A97
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham argues that beliefs about the future are so rarely correct that they usually aren't worth the rigidity they impose. The better strategy is to stop trying to point yourself in the right direction and instead become maximally sensitive to the winds of change. This is a fundamentally different epistemic posture: rather than forming strong priors and updating, you maintain weak priors and optimize for signal detection.
 

@@ -56,6 +56,9 @@ evidence:
   - id: INS-260327-A620
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-0435
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools, which is why consumers own dozens while using few.
 

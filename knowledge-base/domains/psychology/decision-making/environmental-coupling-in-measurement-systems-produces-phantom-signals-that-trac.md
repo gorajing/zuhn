@@ -60,5 +60,14 @@ evidence:
   - id: INS-260327-6F94
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260330-ED04
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-CA97
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-0919
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 A rival experiment to the Pound-Rebka measurement found the speed of light appeared to rise in the morning, peak at noon, and fall at night — an obviously absurd result caused by outdoor temperature-dependent sensors. This is a universal failure mode: any measurement system coupled to an environmental variable will produce phantom correlations. In business analytics, this manifests as seasonal patterns in metrics that actually reflect marketing calendar changes, not user behavior shifts. In machine learning, models trained on data with time-correlated features learn to predict the clock rather than the underlying phenomenon. In health tracking, wearable sensors affected by ambient temperature or motion produce phantom physiological signals. The fix is always the same as Pound's: isolate the measurement from the confound, or explicitly model and subtract the environmental coupling.

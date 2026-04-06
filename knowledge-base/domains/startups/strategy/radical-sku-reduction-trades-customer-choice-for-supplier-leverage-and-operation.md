@@ -51,6 +51,7 @@ stance: >-
   when it concentrates purchasing power
 related:
   - INS-260321-3BA8
+  - INS-260327-8389
   - INS-260330-7220
   - INS-260403-4874
   - INS-260404-B350

@@ -58,6 +58,13 @@ related:
   - PRI-260323-F92B
   - INS-260330-14CA
   - INS-260325-922D
+evidence:
+  - id: INS-260323-D9CE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-14CA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 When 7 billion people jump, Earth moves away by 1/100th of a hydrogen atom — then immediately returns when everyone lands. Newton's Third Law guarantees symmetric displacement. The jump looks dramatic but is structurally incapable of producing lasting change because the return is built into the action itself.
 

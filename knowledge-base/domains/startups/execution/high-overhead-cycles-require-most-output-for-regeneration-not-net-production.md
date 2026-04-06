@@ -57,8 +57,12 @@ related:
   - INS-260404-D1F6
   - INS-260405-0591
   - INS-260404-F69A
-  - INS-260404-9F51
   - INS-260403-5648
+  - INS-260330-E068
+evidence:
+  - id: INS-260405-0591
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Calvin Cycle fixes three CO2 molecules per turn, consuming 9 ATP and 6 NADPH to produce 6 G3P molecules. But 5 of those 6 G3P units are immediately consumed to regenerate the 3 RuBP molecules needed to start the next cycle. Only 1 G3P is 'net output.' The cycle has an 83% overhead ratio.
 

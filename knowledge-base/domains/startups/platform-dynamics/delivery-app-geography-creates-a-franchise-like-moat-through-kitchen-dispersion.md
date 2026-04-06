@@ -49,5 +49,9 @@ related:
   - INS-260330-DE2B
   - INS-260327-1ACE
   - INS-260327-F417
+evidence:
+  - id: INS-260327-F417
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Food delivery apps only show restaurants within a ~5 mile radius of the customer. A single location therefore has a hard geographic ceiling on its addressable market. VDC turns this constraint into a strategy by partnering with kitchens spread across a city, ensuring every neighborhood falls within delivery range of at least one partner. This creates a pseudo-franchise coverage map without franchise economics — no buildout costs, no real estate negotiations, just operational agreements with existing restaurants. The geographic dispersion also games delivery app algorithms, ensuring VDC brands appear in search results across the entire metro area rather than just one neighborhood.

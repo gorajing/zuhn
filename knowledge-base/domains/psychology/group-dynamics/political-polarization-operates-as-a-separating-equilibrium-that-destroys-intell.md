@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260404-96E6
   - INS-260404-2839
-  - INS-260404-3070
   - INS-260403-D8A2
   - INS-260327-7D63
+  - INS-260405-7B7C
 evidence:
   - id: INS-260327-37E3
     type: EXTENDS
@@ -75,6 +75,15 @@ evidence:
   - id: INS-260327-8B9A
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-96E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-2839
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-D8A2
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Adams initially positioned himself as a neutral 'outside hypnosis expert' analyzing Trump's persuasion techniques. But prominence triggered the separating equilibrium: liberals piled on him as an enemy, MAGA embraced him as an ally, and the social pressure gradient pushed him inexorably rightward until he was recommending ivermectin for cancer. This isn't unique to Adams — the essay lists Jordan Peterson, Curtis Yarvin, Elon Musk, and others who underwent similar intellectual collapse after age ~55.
 

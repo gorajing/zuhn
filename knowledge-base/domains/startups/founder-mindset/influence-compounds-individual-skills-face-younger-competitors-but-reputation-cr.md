@@ -67,6 +67,12 @@ evidence:
   - id: INS-260323-2B53
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-7FFA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-EA34
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Developers who focus exclusively on individual technical mastery face a structural disadvantage over time: younger competitors with fresher skills enter the market constantly. Whether you choose a management track or stay as an individual contributor, you need influence to be recognized and advance.
 

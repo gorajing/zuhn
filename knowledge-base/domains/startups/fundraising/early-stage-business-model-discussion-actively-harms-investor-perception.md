@@ -54,5 +54,12 @@ related:
   - INS-260403-6982
   - INS-260403-2E90
   - INS-260403-42F2
+evidence:
+  - id: INS-260403-C695
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2822
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham argues that early-stage business models are almost certainly wrong—even experienced repeat founders with top-tier VC backing have models that will change three times. The real damage isn't the time wasted but the memory displacement: if your revenue model sounds spectacularly wrong, investors will remember you as 'the company with the boneheaded plan' instead of 'the company solving that important problem.' This is an attention-management insight—in a short pitch, every topic competes for the finite slots in an investor's post-meeting memory. The problem you're solving is your strongest material because it's grounded in reality you understand deeply, whereas business model guesses expose your weakest area of expertise.

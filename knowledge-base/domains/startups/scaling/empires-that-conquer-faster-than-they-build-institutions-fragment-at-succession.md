@@ -72,6 +72,12 @@ evidence:
   - id: INS-260323-DF0F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-5140
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-B726
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Despite building the largest contiguous land empire in history, the Mongols failed to create a unified political structure. After Genghis Khan's death, the empire fractured into four khanates (Yuan Dynasty, Il-Khanate, Chagatai Khanate, Golden Horde) — mirroring Alexander the Great's empire, which similarly fragmented among his generals.
 

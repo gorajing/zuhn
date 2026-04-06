@@ -57,6 +57,10 @@ related:
   - PRI-260328-3BEF
   - INS-260325-83D9
   - INS-260404-DF8E
+evidence:
+  - id: INS-260404-DF8E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 While loneliness is a well-documented health hazard, the Harvard Study reveals that not all relationships are protective — toxic relationships are equally or even more damaging. A toxic relationship is defined by the inability to resolve difficulties, characterized by chronic resentment, withdrawal, and active arguing without a bedrock of affection and respect.
 

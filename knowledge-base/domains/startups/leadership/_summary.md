@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 169 insights
+> 170 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -28,6 +28,7 @@
 - `INS-260325-E895` [high] Gawande's coach taught him to count to 30 in his head before intervening when surgical trainees struggled with bleeding — breaking his instinct to grab the instruments and do it himself.
 - `INS-260326-3C9C` [high] Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260403-4102` [high] Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
+- `INS-260405-CADE` [high] Crisis coordination works through distributed decision-makers with explicit commitment chains, not centralized command.
 - `INS-260323-AE9C` [high] Hawaiian and Polynesian soldiers instinctively built relationships with Iraqi locals -- pointing gun muzzles skyward, throwing shakas, sharing tea -- and this cultural empathy directly reduced casualties compared to the previous unit.
 - `INS-260404-74F4` [high] Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260322-AB55` [high] Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.

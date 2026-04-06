@@ -72,6 +72,9 @@ evidence:
   - id: INS-260329-6253
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-027E
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Huberman presents a three-phase daily framework grounded in circadian neurochemistry. Phase 1 (0-8 hours after waking) features naturally elevated norepinephrine, dopamine, and cortisol — ideal for habits requiring high activation energy to overcome limbic friction. Phase 2 (9-15 hours after waking) sees rising serotonin and falling catecholamines — suited for habits requiring less conscious override, like journaling or language practice. Phase 3 (16-24 hours) is for deep sleep where neuroplasticity consolidation actually occurs.
 

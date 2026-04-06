@@ -57,6 +57,10 @@ related:
   - INS-260327-8473
   - PRI-260328-FA83
   - INS-260327-241F
+evidence:
+  - id: INS-260326-8189
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Borodino was a bloodbath: the French lost 30,000-35,000 men, the Russians around 45,000. Napoleon held the field, technically winning. But the Russian army retreated intact and would fight again. Napoleon's losses were irreplaceable this deep in enemy territory, while Russia could recruit from its vast population. The victory achieved nothing strategically — Moscow still wouldn't bring surrender, and the army was now fatally weakened.
 

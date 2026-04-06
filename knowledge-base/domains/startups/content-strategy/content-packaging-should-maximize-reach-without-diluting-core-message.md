@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-9D51
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-0CD8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi addresses the common creator tension of 'selling out' by reframing it: if you believe in your message, then packaging it to reach more people is serving the mission, not betraying it. He uses the band analogy — going from small-town to mass-market isn't selling out if the music stays true.
 

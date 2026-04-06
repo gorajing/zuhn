@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-BEAC
   - INS-260404-2FC0
-  - INS-260404-B887
-  - INS-260403-035A
   - INS-260404-29F4
+  - INS-260403-035A
   - INS-260403-1444
+  - INS-260404-817A
 ---
 Graham identifies the dominant fear at early-stage investing: that the founders built something based on a priori theories that no actual user wants. Market size statistics don't address this fear because they measure a category, not demand for the specific product. User stories address it directly by showing the problem exists and people are already solving it poorly. Sequoia's Greg McAdoo formalized this as the 'proxy for demand' — what are people doing right now with inadequate tools that reveals the need? The strongest variant is founder-own-need (Apple, Microsoft, Yahoo, Google all grew from founder problems), because it's maximally credible and non-gameable. The next tier is stories from people the founder knows personally.

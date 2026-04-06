@@ -53,6 +53,16 @@ related:
   - INS-260328-7CA9
   - INS-260330-FAB8
   - INS-260325-AC52
+evidence:
+  - id: INS-260330-0DCA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D99D
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260325-AC52
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a failure mode for fierce nerds: when their competitive energy isn't directed at ambitious projects, it degrades into intellectual bullying — the grumpy sysadmin, the forum troll, the hater. The mechanism is that fierceness needs a constructive outlet or it becomes destructive. Merely working on hard problems provides enough satisfaction to prevent this, even without success.
 

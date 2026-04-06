@@ -56,5 +56,11 @@ evidence:
   - id: INS-260327-DB8F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-8779
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-48CC
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 There's a psychological dimension to why 'better beats new' is so hard to follow. The dopamine hit from a new idea feels like strategic insight, but it's often the brain seeking novelty to escape the discomfort of grinding on hard problems. Hormozi's framing implies that the ability to distinguish genuine strategic pivots from emotional avoidance is a core entrepreneurial skill. The tell is timing: if the urge to explore something new coincides with a difficult phase in the current business (a hard sales conversation, a systems problem, a team conflict), it's almost certainly avoidance. True strategic opportunities don't conveniently appear when the current work gets uncomfortable.

@@ -61,6 +61,9 @@ evidence:
   - id: INS-260403-3F5F
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260405-39A6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 While crypto has spawned thousands of projects across DeFi, NFTs, and other verticals, the overwhelming majority of real-world adoption concentrates in USD-denominated stablecoins. Over 90% of the ~$135B stablecoin market cap represents USD-backed assets. This suggests that what people actually want from crypto infrastructure is not speculation or decentralized governance, but reliable access to dollar-denominated value transfer.
 

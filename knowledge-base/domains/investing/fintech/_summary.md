@@ -1,6 +1,6 @@
 # Topic: fintech
 
-> 68 insights
+> 67 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
@@ -33,7 +33,6 @@
 - `INS-260322-88FC` [high] Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
 - `INS-260323-70B9` [high] A $200K down payment on a $1M house that appreciates 10% yields a 50% return instead of 10% — leverage is the number one economic growth engine and creates massive tax advantages.
 - `INS-260327-4348` [high] 40% of people earning $500K+ live paycheck to paycheck - what used to be a cautionary tale about athletes and lottery winners is now the majority experience for top earners.
-- `INS-260329-71DE` [high] HFT event pipelines use lock-free queues because even minimal thread locking creates latency spikes that cost money.
 - `INS-260323-7E6F` [high] Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
 - `INS-260330-7ED0` [high] M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260324-8D35` [high] FanDuel and DraftKings are spending billions on advertising and sign-up bonuses to acquire users in newly legal states before the regulatory window closes — the same blitzscaling playbook as Uber.

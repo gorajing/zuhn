@@ -64,6 +64,9 @@ evidence:
   - id: INS-260323-1345
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260404-D452
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The video's conclusion ties kissing back to a broader evolutionary principle: life favors activities that transform uncertainty into knowledge. Kissing reduces mate-selection uncertainty through biological data exchange. Curiosity reduces environmental uncertainty through exploration. Scientific inquiry reduces causal uncertainty through experimentation.
 

@@ -49,8 +49,15 @@ related:
   - INS-260323-D8A9
   - INS-260403-F7DA
   - PRI-260328-E870
-  - INS-260322-AC23
   - INS-260327-70DF
+  - INS-260326-7B2A
+evidence:
+  - id: INS-260325-BAA4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-70DF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham argues that Google's 'Don't be evil' wasn't just PR — it was a competitive advantage in hiring. Technology companies win by attracting the most productive people, and those people preferentially choose employers with visible ethical commitments. The Patent Pledge operates on the same mechanism.
 

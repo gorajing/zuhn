@@ -53,6 +53,10 @@ related:
   - INS-260330-17C3
   - INS-260327-E039
   - INS-260329-68C8
+evidence:
+  - id: INS-260325-1585
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hard liquor, cigarettes, heroin, crack, processed food, and social media all follow the same pattern: each is a more concentrated form of something less addictive. This isn't a bug in technological progress — it's the core mechanism. Making things 'do more of what we want' is the definition of progress, and when what we want is something we don't want to want, the result is addiction.
 

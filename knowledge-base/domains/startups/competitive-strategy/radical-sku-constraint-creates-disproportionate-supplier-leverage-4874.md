@@ -56,6 +56,10 @@ related:
   - INS-260403-83A8
   - INS-260405-F57E
   - INS-260405-DEF2
+evidence:
+  - id: INS-260321-4B99
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Conventional retail wisdom holds that more selection attracts more customers. Costco deliberately violates this by offering roughly 4,000 unique items compared to a typical supermarket's 30,000 or Walmart Supercenter's 140,000. The counterintuitive result is that constraining selection concentrates enormous purchasing volume into each chosen product, making Costco one of the largest buyers for any supplier it works with.
 

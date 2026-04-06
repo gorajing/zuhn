@@ -63,6 +63,15 @@ evidence:
   - id: INS-260330-8FC5
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-E1E4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-4C61
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-9A57
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 NFX's analysis of US tech company valuations shows the SF Bay Area accounts for ~55% of all US tech company market value despite being the 5th largest metro area. Excluding tech giants, SF leads the #2 ecosystem (NYC) by 7X; even looking only at private startups, the lead is 3X. This isn't explained by talent alone—it's the mathematical properties of dense, specialized networks where information quality, serendipity, and capital access compound super-linearly.
 

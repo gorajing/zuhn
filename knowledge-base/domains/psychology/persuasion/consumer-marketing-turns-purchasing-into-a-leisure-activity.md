@@ -49,5 +49,21 @@ related:
   - INS-260403-21C4
   - INS-260403-C5D8
   - INS-260404-756D
+evidence:
+  - id: INS-260404-8D37
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260322-AAEA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-21C4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-C5D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-756D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham notes that companies selling stuff have invested enormous resources into making the buying experience itself pleasurable, transforming purchasing from a need-driven transaction into entertainment. The average 25-year-old is systematically outmatched by organizations with years of behavioral optimization. Graham himself — self-described as fairly skeptical — didn't develop resistance until his thirties. This has implications for anyone building products or evaluating their own consumption: the experiential wrapper around a purchase can completely decouple the pleasure of buying from the utility of owning. The countermeasure Graham suggests is a forcing function question: 'Will I use this constantly?' — a binary filter that cuts through the experiential haze.

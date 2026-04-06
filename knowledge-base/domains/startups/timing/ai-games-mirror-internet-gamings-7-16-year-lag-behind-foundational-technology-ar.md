@@ -60,6 +60,13 @@ related:
   - PRI-260328-4CC0
   - INS-260326-80B1
   - INS-260403-2DE3
+evidence:
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260326-80B1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 NFX draws a direct historical parallel between the internet era and the AI era for gaming. The first web browser arrived in 1993, but foundational internet games like Runescape, World of Warcraft, and Minecraft didn't emerge until 2001-2009 — a 7-16 year gap. The bottleneck wasn't imagination but convergence: bandwidth, video processing, and memory all had to reach critical thresholds simultaneously.
 

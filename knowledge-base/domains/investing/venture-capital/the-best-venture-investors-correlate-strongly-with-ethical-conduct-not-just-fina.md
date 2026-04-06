@@ -61,6 +61,28 @@ related:
   - INS-260330-855A
   - INS-260402-E140
   - INS-260403-5018
+evidence:
+  - id: INS-260330-C745
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-3E6F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-147C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-AF54
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-855A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-E140
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-5018
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham carefully qualifies his claim: sorting investors by benevolence does not perfectly sort them by returns, but a scatterplot would show a clear upward trend. This is a probabilistic claim about correlation, not a morality tale. The mechanism is concrete — referral dealflow disproportionately flows to trusted investors, and the best deals often come through warm introductions from founders who vouch for their prior investor's conduct.
 

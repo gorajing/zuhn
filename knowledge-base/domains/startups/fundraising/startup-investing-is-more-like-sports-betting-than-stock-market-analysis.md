@@ -77,6 +77,12 @@ evidence:
   - id: INS-260403-3CD0
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-D98E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-D33B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Some founders expect startup capital allocation to work like public markets, where companies have P/E ratios and can be valued through quantitative analysis. Dalton points out this expectation breaks completely at the early stage: 'Where are the value investors in startups?' Finding the stuff with the lowest valuation and highest revenue is a demonstrably bad way to invest in startups.
 

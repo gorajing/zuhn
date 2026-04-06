@@ -85,5 +85,8 @@ evidence:
   - id: INS-260330-E3ED
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-3570
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Audience capture — where creators unconsciously shift positions to match what their audience rewards — is one of the most insidious forces in media. Shapiro describes a multi-layered defense: (1) maintaining a public list on his website of 'all the dumb stupid things I've ever said' with explanations of why each was wrong, (2) deliberately holding heterodox positions across his content, (3) surrounding himself with trusted critics (wife, family, friends) who will call out errors rather than flatter, and (4) daily self-interrogation: 'Am I saying this because I'm afraid of ticking off my audience, or because I actually believe this?' Sam Harris is cited as another practitioner who 'almost leans into' saying things he knows will anger his audience. The structural insight is that audience capture is a default trajectory — it requires active, systematic counter-measures rather than just good intentions. For any content creator or thought leader, building accountability mechanisms that are visible to the audience creates a self-reinforcing commitment to honesty.

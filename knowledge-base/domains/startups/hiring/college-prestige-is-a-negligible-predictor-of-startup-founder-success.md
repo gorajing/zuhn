@@ -53,6 +53,10 @@ related:
   - INS-260404-8A02
   - PRI-260328-E9B5
   - INS-260403-62AF
+evidence:
+  - id: INS-260403-62AF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Y Combinator's dataset — roughly 40 companies per year selected from ~900 applications — provided a natural experiment in credential value. Founders were tested rapidly and unequivocally by the market, not by organizational politics. The finding was that YC partners consistently overestimated people from MIT, Harvard, and Stanford until they learned to trust direct assessment over pedigree.
 

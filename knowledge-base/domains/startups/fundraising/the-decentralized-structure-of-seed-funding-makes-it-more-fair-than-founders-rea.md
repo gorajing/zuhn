@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-E414
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-47B7
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Michael argues that startup funding is actually more fair than he used to believe, specifically because of its decentralized structure. There is very little coordination between seed investors -- if one says no, it doesn't poison your chances with others. There are many independent check-writers operating autonomously. Organizations like YC publicly communicate what they're looking for. And investors today are more accessible than ever through social media and AI-powered outreach.
 

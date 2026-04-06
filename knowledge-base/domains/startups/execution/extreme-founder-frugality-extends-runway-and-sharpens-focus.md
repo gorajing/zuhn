@@ -51,5 +51,9 @@ related:
   - INS-260402-3D61
   - INS-260330-B6FA
   - INS-260403-5BF9
+evidence:
+  - id: INS-260403-5BF9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Presto had zero revenue for 5 years before eventually IPOing. During that period, Rajat lived in extreme frugality — bank account under $100, tiny room with mice, free food from the restaurant he was working in. He notes that 90% of his MIT peers could not have tolerated these conditions. This extreme frugality was not just about survival but about focus: when you have nothing, you are completely focused on the product and customers. The insight is uncomfortable but important — founder willingness to endure personal hardship is a genuine competitive advantage that extends runway and eliminates distractions that comfortable founders face.

@@ -56,6 +56,9 @@ evidence:
   - id: INS-260403-572C
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-07C3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham's observation is subtle: the iPhone is not really a phone — it's a small tablet that can also make calls. We call it a phone only because the iPhone preceded the iPad. If the iPad had come first, we would have called the iPhone a 'pocket tablet' or similar. The category we assign to a product is a function of what we saw first, not the product's intrinsic nature.
 

@@ -52,6 +52,16 @@ related:
   - INS-260404-83D5
   - INS-260329-36D9
   - INS-260403-546E
+evidence:
+  - id: INS-260403-546E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-7C3F
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-36D9
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Organizations naturally accumulate checks and approval processes in response to past disasters—a supplier goes bankrupt, so now all suppliers must prove solvency. This learning process is rational at the individual-check level but pathological in aggregate because no one accounts for the cumulative cost.
 

@@ -73,6 +73,12 @@ evidence:
   - id: INS-260327-77E5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260325-5ACA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-BF09
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Carroll describes how the stability of a chair ultimately comes down to quantum field theory, which gives rise to chemistry, which gives rise to biology, and so on up the ladder. Each layer genuinely depends on the one below it — there is nothing magical happening.
 

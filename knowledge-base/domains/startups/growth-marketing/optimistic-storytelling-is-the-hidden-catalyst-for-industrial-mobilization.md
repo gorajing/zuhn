@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-B625
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-B4DC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Sankar draws a direct line between entertainment and national capability. His own assimilation as a Nigerian immigrant happened through 80s/90s movies — Hunt for Red October, Red Dawn, Rambo. He 'knew what it felt like to be American before he knew civics.' After 300, Navy SEAL recruitment spiked even though it was about Spartans. Top Gun Maverick reminded an entire generation what American confidence felt like.
 

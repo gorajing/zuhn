@@ -48,5 +48,6 @@ related:
   - INS-260330-45D9
   - INS-260327-9693
   - INS-260330-1078
+  - INS-260327-6EB6
 ---
 Loose skin after significant weight loss can be tightened through autophagy from intermittent fasting (recycling excess skin proteins), collagen-building nutrition (bone broth, vitamin C, zinc), and time -- typically improving over 6-18 months

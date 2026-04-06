@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-D88C
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-80AC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Every major interstellar message humanity has sent — Arecibo (1974), Pioneer plaques (1970s), Voyager golden records (1977) — independently converged on the same strategy: anchor all measurements to hydrogen's hyperfine transition (2.7 nanosecond period, 21 cm wavelength). This isn't coincidence but necessity. Language, symbols, even sensory modalities might not transfer, but the properties of the most abundant element in the universe should.
 

@@ -48,5 +48,12 @@ related:
   - INS-260403-4960
   - INS-260404-0CD8
   - INS-260405-8BEA
+evidence:
+  - id: INS-260403-915E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-0CD8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 In brief presentations where investors lack technical depth, the founder's own confidence becomes the primary evidence about product quality. But confidence must be shown, not told. Saying 'our product is great' triggers skepticism; acting as if investors are fortunate to hear about your company communicates the same thing credibly. PG frames this as a logical test: if you don't genuinely believe your startup is doing investors a favor by letting them in, that's a signal to reconsider what you're building. Nervousness and apologetic framing are the opposite — they signal the founder doesn't believe in their own work, and that signal is contagious.

@@ -70,6 +70,9 @@ evidence:
   - id: INS-260329-FAE2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-AE09
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 Finding if duplicates exist in an unsorted array is O(n²) with brute force comparison but O(n) with a hash set. Finding the minimum element repeatedly is O(n) per query with an array but O(log n) with a priority queue. Network connectivity queries are O(n) per query with graph traversal but nearly O(1) amortized with union-find. The problem doesn't change — only its representation does — yet the difficulty drops by orders of magnitude.
 

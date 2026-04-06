@@ -61,6 +61,12 @@ evidence:
   - id: INS-260328-4A93
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260327-540D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-FDF5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The article explicitly benchmarks innovation platforms on capabilities — onboarding speed, training access, expert support, progress tracking, proven track record — rather than feature lists. This is a meaningful distinction: features describe what a tool does, capabilities describe what an organization can achieve with it.
 

@@ -62,6 +62,19 @@ related:
   - INS-260403-F7F4
   - INS-260405-A742
   - INS-260403-508D
+evidence:
+  - id: INS-260323-28FB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-F7F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-A742
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-508D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Value Proposition Canvas framework implicitly surfaces a deep psychological phenomenon: hedonic adaptation. Once customers experience a gain consistently, their reference point shifts and the same outcome becomes the new expectation floor. Free two-day shipping was a differentiating gain for Amazon Prime at launch; it is now table stakes that competitors must match to avoid being coded as a pain.
 

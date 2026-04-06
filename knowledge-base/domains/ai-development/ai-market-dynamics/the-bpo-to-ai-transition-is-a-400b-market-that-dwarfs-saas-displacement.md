@@ -55,11 +55,11 @@ related:
   - INS-260322-3010
   - INS-260322-BC97
   - INS-260322-EDA4
-  - INS-260327-DFF0
   - INS-260327-8D5D
   - PRI-260328-8317
   - INS-260329-CC75
   - INS-260327-B6B7
+  - INS-260327-16A1
 evidence:
   - id: INS-260327-DFF0
     type: CHALLENGES
@@ -85,5 +85,8 @@ evidence:
   - id: INS-260329-28B0
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-F98F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Cuffe frames the opportunity through the Constellation Software lens: just as Constellation aggregated niche vertical software businesses into a $70-80B company, there's now an opportunity to do the same for vertical AI services replacing BPO. The numbers are staggering: BPO spend in BFSI alone is roughly $400B annually, with $70B in insurance. Current BPO companies (multiple publicly traded tens-of-billions enterprises) run at 10-15% gross margin with hundreds of thousands of human workers. The transformation to AI agents doesn't just replace the labor — it fundamentally restructures the economics toward software-like margins. The flywheel Cuffe describes: every product improvement increases gross margins, because the same AI does more work without proportional cost increase. This is not a SaaS displacement play (which is essentially taking existing software revenue) — it's converting a massive services market into a software-economics market.

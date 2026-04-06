@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-1811
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-280B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The video introduces a fundamental principle from the origin of life: the 'law of stability.' In the primordial void, random energy jolts caused simple molecules to combine. Most combinations were unstable and fell apart immediately. But occasionally, a combination happened to be more stable than its components. These stable configurations persisted, and when enough accumulated, they themselves could combine into even more complex structures.
 

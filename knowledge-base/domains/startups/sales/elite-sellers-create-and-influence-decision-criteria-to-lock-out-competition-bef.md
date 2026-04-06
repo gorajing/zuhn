@@ -79,6 +79,12 @@ evidence:
   - id: INS-260330-8849
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-F66B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-5365
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Whyte identifies decision criteria as the single most game-changing element of MEDDPICC for individual sellers. Most buyers, especially in self-generated opportunities, don't have written decision criteria. This vacuum is an enormous opportunity: you can become the trusted advisor who helps define what they should evaluate, naturally weaving in your unique capabilities as requirements.
 

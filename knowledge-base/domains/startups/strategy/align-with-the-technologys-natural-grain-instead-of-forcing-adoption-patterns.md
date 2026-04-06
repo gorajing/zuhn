@@ -52,6 +52,10 @@ related:
   - INS-260330-66C7
   - INS-260403-B557
   - INS-260330-2B42
+evidence:
+  - id: INS-260321-9E91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham's central thesis is that Web 2.0 wasn't a set of new trends but the web's inherent nature reasserting itself after the Bubble imposed broken models on it. Ajax was always possible in principle; democracy was inherent in the web's architecture; treating users well was the natural default before VC money created perverse incentives.
 

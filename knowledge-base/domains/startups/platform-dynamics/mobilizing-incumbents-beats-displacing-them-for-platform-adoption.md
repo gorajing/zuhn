@@ -58,6 +58,13 @@ related:
   - INS-260330-7D6D
   - INS-260330-C24F
   - PRI-260403-C337
+evidence:
+  - id: INS-260330-D583
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260322-96F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Apple Pay's go-to-market strategy was to mobilize the existing payments ecosystem rather than displace it. Card networks, banks, and merchants could continue their established business relationships — Apple simply added a mobile access layer on top. This contrasts sharply with disruptive approaches that require ecosystem participants to abandon existing workflows and adopt entirely new systems.
 

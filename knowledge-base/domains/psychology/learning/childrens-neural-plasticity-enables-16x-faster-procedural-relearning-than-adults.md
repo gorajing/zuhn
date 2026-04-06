@@ -45,11 +45,11 @@ stance: >-
   because their neural pathways are less consolidated and more malleable
 related:
   - INS-260330-83BC
-  - INS-260330-617A
   - INS-260330-9C78
   - PRI-260403-35FE
   - INS-260330-7B62
   - INS-260330-0EF6
+  - INS-260330-0930
 evidence:
   - id: INS-260330-617A
     type: SUPPORTS

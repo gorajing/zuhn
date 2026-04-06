@@ -70,6 +70,9 @@ evidence:
     relationship: RELATED
   - id: INS-260327-E7AC
     relationship: RELATED
+  - id: INS-260325-793A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Indus Valley Civilization is remarkable for what's absent: no grand temples, no monuments to military victories, no evidence of standing armies, and very few weapons. This has led historians to describe it as possibly the most peaceful major civilization in human history. Yet it collapsed, potentially accelerated by the arrival of the Indo-Aryan migration.
 

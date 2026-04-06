@@ -64,6 +64,15 @@ evidence:
   - id: INS-260403-2702
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-FE91
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-45D5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-F737
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham's essay implies a stark asymmetry: conventional-minded people are cognitively barred from certain true insights because recognizing them would require imagining that a socially acceptable belief could be wrong. Independent-minded people — those whose self-conception is not tied to social consensus — don't have this constraint. They can evaluate claims on the merits even when those claims conflict with prevailing norms.
 

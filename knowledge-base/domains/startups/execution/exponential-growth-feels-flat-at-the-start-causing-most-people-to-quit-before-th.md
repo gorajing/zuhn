@@ -72,6 +72,12 @@ evidence:
   - id: INS-260330-8FE7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-FF5B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-1CB1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 related:
   - INS-260328-D1B2
   - INS-260330-9346
@@ -80,9 +86,9 @@ related:
   - INS-260330-FF5B
   - INS-260330-41A5
   - INS-260330-AA4F
-  - INS-260330-FED6
   - INS-260330-1C84
   - INS-260330-AE66
+  - INS-260330-1AB0
 ---
 Graham identifies a fundamental cognitive bias: we cannot intuitively grasp exponential curves, so we underrate compounding efforts in their early stages. Learning compounds (the more you know, the easier it is to learn more), audience growth compounds (fans bring fans), and skill compounds. Yet these all feel flat at the beginning.
 

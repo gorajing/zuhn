@@ -55,6 +55,13 @@ related:
   - INS-260403-81CE
   - INS-260404-C64D
   - INS-260404-C0E6
+evidence:
+  - id: INS-260404-C64D
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-C0E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most B2B technology companies default to explaining what their product does—speeds, feeds, technical specifications—because that's what their teams know best. But customers don't buy technology; they buy better outcomes for their business. Schneider Electric's shift from selling microgrid equipment to offering 'Microgrid as a Service' illustrates this perfectly: same technology, completely different value proposition, dramatically better market reception.
 

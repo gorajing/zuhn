@@ -67,6 +67,18 @@ evidence:
   - id: INS-260330-C0D1
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260405-809E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A172
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-481F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-2824
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 In the video, the team makes explicit predictions before each cannon shot — how many gloves the ball will penetrate, whether the dummy will survive, how the different weave patterns will perform. This transforms passive watching into active hypothesis testing. When Trent correctly predicts the ball will go through all 9 gloves while others predict 2-4, it reveals who has the best mental model of the physics involved.
 

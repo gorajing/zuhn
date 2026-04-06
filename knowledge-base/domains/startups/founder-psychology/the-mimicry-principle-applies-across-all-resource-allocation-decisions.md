@@ -52,6 +52,19 @@ related:
   - INS-260329-BF96
   - INS-260403-268C
   - INS-260403-14CB
+evidence:
+  - id: INS-260403-268C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-14CB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-7FD6
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-EEAF
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a universal pattern: the most dangerous resource drains share a structural property — they mimic the surface features of responsible behavior, bypassing the alarms that would otherwise protect you. Bad investments look like prudent asset management. Fake work looks like diligent effort. In both cases, the absence of pleasure actually makes the trap harder to detect.
 

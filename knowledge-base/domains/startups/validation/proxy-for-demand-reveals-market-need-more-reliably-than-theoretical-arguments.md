@@ -52,6 +52,7 @@ stance: >-
 related:
   - INS-260323-35D4
   - INS-260322-2155
+  - INS-260327-4431
   - INS-260329-577E
   - INS-260403-5C1D
   - INS-260403-D7DF
@@ -59,11 +60,19 @@ related:
   - INS-260403-DC32
   - INS-260403-92EB
   - INS-260403-39F9
-  - INS-260403-30D8
 evidence:
   - id: INS-260323-35D4
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-577E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-5C1D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-3421
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Investors' biggest fear with early-stage startups is that founders built something based on a priori theories rather than real demand. The antidote is what Sequoia calls a 'proxy for demand': concrete evidence of people using inadequate tools to solve the problem you're addressing. This is fundamentally stronger than citing market size numbers because it shows revealed preference—people are already spending time and money on inferior solutions.
 

@@ -52,6 +52,19 @@ related:
   - INS-260323-72EB
   - INS-260330-8304
   - PRI-260324-F9CD
+evidence:
+  - id: INS-260330-8304
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-B462
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-C1D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-72EB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Zoo Labs residents consistently report that the Business Model Canvas doesn't teach them something new — it makes visible what they already understood intuitively. The canvas acts as an externalization tool for tacit knowledge rather than a teaching device for new knowledge.
 

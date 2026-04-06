@@ -57,6 +57,19 @@ related:
   - INS-260403-924B
   - PRI-260328-5CDE
   - INS-260403-D543
+evidence:
+  - id: INS-260327-2BAD
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-8256
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-924B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-D543
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Real estate at $228T globally dwarfs equities and debt combined, yet remained largely analog through multiple waves of tech disruption that transformed smaller categories. Despite this late start, proptech has already produced more billion-dollar companies in 15 years than almost any consumer services category except e-commerce.
 

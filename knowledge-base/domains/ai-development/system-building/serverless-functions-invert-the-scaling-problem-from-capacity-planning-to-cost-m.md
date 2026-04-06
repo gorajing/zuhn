@@ -78,6 +78,9 @@ evidence:
   - id: INS-260404-1755
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260329-36D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Traditional server architectures require capacity planning: estimate peak load, provision servers, and accept either wasted capacity (over-provisioned) or outages (under-provisioned). AWS Lambda and serverless functions completely eliminate this by auto-scaling to match demand — you never provision, never patch, and never think about servers. You pay only for actual compute time in millisecond increments.
 

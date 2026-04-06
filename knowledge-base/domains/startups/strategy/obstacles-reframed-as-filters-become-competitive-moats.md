@@ -49,6 +49,7 @@ stance: >-
   higher-value customers who spend more per visit.
 related:
   - INS-260403-2C00
+  - INS-260403-08FE
   - INS-260404-AC1B
   - INS-260403-243A
   - INS-260404-5587

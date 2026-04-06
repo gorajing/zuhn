@@ -88,6 +88,12 @@ evidence:
   - id: INS-260405-0806
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-0162
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-924C
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 RuBisCo evolved in an atmosphere with negligible oxygen, optimized for grabbing CO2. As photosynthesis itself increased atmospheric O2, the enzyme began slicing RuBP with oxygen instead of CO2, producing toxic phosphoglycolate. Rather than evolving a better enzyme, plants went all-in — producing massive quantities of RuBisCo (estimated 40 billion tons on Earth at any time) and evolving separate pathways to detoxify the byproduct.
 

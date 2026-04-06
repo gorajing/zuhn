@@ -55,5 +55,9 @@ related:
   - INS-260403-E748
   - INS-260403-BB23
   - PRI-260324-2A76
+evidence:
+  - id: INS-260330-E70C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When molten glass hits water, the outer layer solidifies instantly, locking in its shape. As the interior cools and contracts, it pulls against that rigid shell, creating enormous compressive strength — like an arch that gets stronger under load. But this same mechanism stores massive tensile energy that has no way to dissipate gradually. In startups and organizations, early architectural decisions and cultural norms that solidify quickly can create remarkable structural strength — a locked-in business model, a deeply embedded technical architecture, a rigid organizational hierarchy. These constraints enable the company to withstand direct competitive pressure. But they also store internal tension that cannot be released incrementally. When adaptation is finally forced, the result is often explosive restructuring rather than graceful evolution. The Prince Rupert's Drop teaches that strength-through-rigidity and fragility-under-change are the same phenomenon.

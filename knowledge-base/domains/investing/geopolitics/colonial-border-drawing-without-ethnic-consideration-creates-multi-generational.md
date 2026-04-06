@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-912C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-DA4A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The French, British, and Russians carved up the post-Ottoman Middle East based on their own power interests, not on the region's ethnic, linguistic, or religious geography. These arbitrary lines became the skeleton for modern borders. The consequences cascade through every subsequent conflict: Sunni-Shia tensions within Iraq, Kurdish populations split across four countries, Palestinian displacement by a new state.
 

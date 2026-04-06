@@ -72,6 +72,9 @@ evidence:
   - id: INS-260330-F229
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-9393
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Unlike some religions that were tied to specific ethnic identities (Judaism to the Jewish people, Hinduism to Indian caste structures), Islam was explicitly universalist: anyone could convert and become fully equal within the faith community. This open-access model allowed rapid growth across diverse cultures — from Southeast Asia to West Africa to Central Asia — because it removed the barriers to adoption.
 

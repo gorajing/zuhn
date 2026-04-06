@@ -65,6 +65,9 @@ evidence:
   - id: INS-260402-ED85
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-E300
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Wu describes working 9-10 hour days at a hedge fund and being miserable when called in on weekends. Now she works every waking second, 7 days a week, and has never been happier. The difference isn't the hours—it's ownership and alignment.
 

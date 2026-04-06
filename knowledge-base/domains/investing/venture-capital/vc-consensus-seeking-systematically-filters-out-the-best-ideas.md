@@ -54,6 +54,31 @@ related:
   - INS-260403-EA34
   - INS-260323-197A
   - INS-260320-DDD9
+evidence:
+  - id: INS-260323-A430
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-11AB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-4D06
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-B5D6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-2F52
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-EA34
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260320-DDD9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-8AC8
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a fundamental structural flaw in how most VC firms evaluate startups: decisions are driven by consensus both within the firm and across the broader VC community. Since any truly novel idea will initially seem bad to most people (otherwise someone would already be doing it), requiring multiple people to approve an investment creates a systematic filter against the highest-return opportunities. The more approval layers, the more outliers get lost.
 

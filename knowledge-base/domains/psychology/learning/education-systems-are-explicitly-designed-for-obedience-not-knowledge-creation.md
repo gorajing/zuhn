@@ -67,6 +67,9 @@ evidence:
     relationship: RELATED
   - id: INS-260402-2FDF
     relationship: RELATED
+  - id: INS-260404-09EE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Deutsch points out a deep irony: the very thing that makes humans cosmically exceptional — explanatory creativity — is precisely what education systems are designed to suppress. The overt objective of education is to make people behave alike in academic knowledge and social behavior. Whether you call it obedience or not, it's not creativity. Children who have already accomplished the massive intellectual feat of learning their native language without any formal instruction are then placed into systems designed around compliance.
 

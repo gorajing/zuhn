@@ -60,8 +60,8 @@ related:
   - INS-260404-007B
   - INS-260404-41AA
   - INS-260404-FB91
+  - INS-260404-B086
   - INS-260404-7A5B
-  - INS-260404-8B1C
 ---
 Costco's strategy reveals a pattern where constraints that seem like obstacles actually compound into advantages. The membership fee should make customer acquisition fatally difficult — instead it selects for affluent, loyal patrons and creates sunk-cost commitment. The warehouse layout should confuse shoppers — instead it forces wandering through aisles (increasing basket size) while eliminating back-room costs. Limited selection should drive customers away — instead it creates supplier leverage and reduces decision fatigue.
 

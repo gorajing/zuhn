@@ -79,5 +79,8 @@ evidence:
   - id: INS-260330-7A80
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-C68B
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Tenev faced existential threats that required wartime leadership: GameStop short squeeze (platform nearly failed under volume), Congressional testimony (personal reputation and company at stake), crypto winter (revenue collapse). His wartime playbook: 1) Compress decision timelines from weeks to hours, 2) Accept that 70% confidence is enough — waiting for 95% means death, 3) Communicate decisions as final, not proposals for discussion, 4) Personally own the hardest decisions instead of delegating for political cover, 5) Separate wartime decisions from peacetime culture — not every situation requires wartime mode. The meta-lesson: most CEOs have never operated in wartime and mistake peacetime optimization (consensus, incremental improvement) for good leadership when the building is on fire.

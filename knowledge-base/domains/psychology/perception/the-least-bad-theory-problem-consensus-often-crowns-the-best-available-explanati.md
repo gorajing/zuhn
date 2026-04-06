@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-19E1
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-63E2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Before the 1984 Hawaii conference, no scientist ranked any Moon origin theory as 'probable.' The giant impact hypothesis was not even on the survey. Yet it emerged as the consensus winner — not because evidence proved it, but because it failed less badly than alternatives at matching observable constraints like angular momentum and iron depletion.
 

@@ -50,6 +50,10 @@ related:
   - INS-260329-9A30
   - INS-260322-FFF6
   - PRI-260328-BDC2
+evidence:
+  - id: INS-260322-FFF6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham highlights that speculative meetings — the 'let's grab coffee' meetings with no specific agenda — have radically different costs depending on which schedule type you operate on. For managers, an empty hour slot has low opportunity cost, making speculative meetings effectively free. For makers, the same meeting destroys a half-day block of deep work.
 

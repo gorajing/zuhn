@@ -53,6 +53,9 @@ evidence:
   - id: INS-260322-A208
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260403-9C60
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Carl Hart challenges the dominant narrative that drugs have 'magical power' over behavior through dopamine interactions. The decade of brain research (1990-2000) expected to find a clear neural footprint of addiction, but the reality proved more complex. Cocaine interacting with dopamine neurons does not automatically produce addiction.
 

@@ -52,6 +52,10 @@ related:
   - INS-260403-30D8
   - INS-260404-2B4C
   - INS-260403-F8FF
+evidence:
+  - id: INS-260404-B31C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Sequoia's Greg Mcadoo coined the concept of 'proxy for demand'—what are people doing now, using inadequate tools, that proves they need what you're making? This reframes validation from abstract market sizing to concrete behavioral evidence.
 

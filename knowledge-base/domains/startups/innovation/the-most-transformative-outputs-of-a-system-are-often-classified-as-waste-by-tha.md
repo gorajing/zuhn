@@ -73,6 +73,12 @@ evidence:
   - id: INS-260327-FF4D
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260404-AC1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-E786
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Crash Course describes oxygen as 'the most useful useless byproduct in history.' From a plant's metabolic perspective, oxygen is genuinely waste — an electron disposal mechanism. The plant gains nothing from it. Yet that discarded output terraformed the planet and made complex animal life possible. The creators of the byproduct had no mechanism to capture that value.
 

@@ -53,6 +53,19 @@ related:
   - INS-260403-43B9
   - INS-260323-9393
   - INS-260327-FA62
+evidence:
+  - id: INS-260402-E994
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-43B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-9393
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260327-FA62
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham's example is devastating: 18th and 19th century painters imitated Renaissance masters by using brownish colors — not realizing the brown was centuries of accumulated dirt, not an artistic choice. When the originals were cleaned, they revealed brilliant colors, while the imitators remained permanently brown.
 

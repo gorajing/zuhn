@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-4605
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-8291
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Bayer's Catalyst Fund invested €10,000 each in 74 projects from 400+ proposals. After four months of testing, 29 received ~€90K second-round funding based on evidence presented to senior leaders. Of those, 17 showed feasibility and got €100-300K continuation funding, with 5 launching to market. This 400→74→29→17→5 funnel mirrors venture capital portfolio dynamics.
 

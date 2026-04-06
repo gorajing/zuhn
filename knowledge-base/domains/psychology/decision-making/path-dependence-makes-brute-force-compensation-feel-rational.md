@@ -67,6 +67,34 @@ related:
   - INS-260403-3E1C
   - INS-260404-B6E8
   - INS-260404-CC7C
+evidence:
+  - id: INS-260330-EB48
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-4489
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-47CF
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-BFA2
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-11EB
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-3FCF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-D518
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260403-3E1C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-CC7C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved in a low-oxygen atmosphere where its inability to distinguish CO2 from O2 didn't matter. When oxygen levels rose, RuBisCo began grabbing oxygen half the time, creating toxic byproducts. Rather than evolving a better enzyme, plants doubled down — producing staggering quantities of RuBisCo (estimated 40 billion tons on Earth at any time) and developing secondary pathways to detoxify the waste.
 

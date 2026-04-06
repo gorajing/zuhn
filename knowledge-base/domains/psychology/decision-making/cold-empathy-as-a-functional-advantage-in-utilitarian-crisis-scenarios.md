@@ -60,6 +60,19 @@ related:
   - INS-260403-A1DF
   - INS-260323-F853
   - INS-260330-DB4B
+evidence:
+  - id: INS-260323-4D5E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-5B4E
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-F853
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-DB4B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Dutton's framing challenges the assumption that psychopathic traits are purely destructive. In the footbridge scenario, the psychopath makes the objectively utilitarian choice (save five, lose one) without hesitation, while normal people's emotional circuits create paralysis or refusal — resulting in five deaths instead of one.
 

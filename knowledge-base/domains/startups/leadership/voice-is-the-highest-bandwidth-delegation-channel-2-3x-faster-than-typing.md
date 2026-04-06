@@ -60,6 +60,9 @@ evidence:
   - id: INS-260320-26B1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-6652
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Most people delegate with their thumbs on their phone, which is the worst method. Typing on a computer is better but still slow. Voice is the optimal channel — you can talk 2-3x faster, do it while walking between meetings, and capture ideas in real time.
 

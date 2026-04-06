@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-5D13
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260404-A526
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 a16z's content strategy revealed a clear hierarchy: substantive pieces on how to construct a company, manage people, and think about promotions generated lasting value and deep entrepreneur loyalty. Meanwhile, commentary pieces like 'are we in a bubble' generated temporary chatter but no lasting brand equity.
 

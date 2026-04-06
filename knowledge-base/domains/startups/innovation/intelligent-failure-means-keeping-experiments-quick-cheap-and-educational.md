@@ -59,6 +59,15 @@ evidence:
   - id: INS-260403-5C89
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-8D87
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-87BA
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-5FB5
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 The concept of 'intelligent failure' reframes the innovation challenge from picking winners to managing a rapid experimentation process. The goal is not to avoid failure — that is statistically impossible when exploring genuine uncertainty — but to ensure each failure is small enough to survive and informative enough to guide the next experiment.
 

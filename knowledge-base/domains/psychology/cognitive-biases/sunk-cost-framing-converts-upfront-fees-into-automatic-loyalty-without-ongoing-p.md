@@ -58,6 +58,10 @@ related:
   - INS-260404-2D53
   - INS-260404-B46E
   - INS-260404-94BB
+evidence:
+  - id: INS-260325-B8CB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Both Costco and Amazon Prime exploit the sunk-cost fallacy: once you've paid $60-120, shopping elsewhere feels like wasting money you've already spent. Customers stop comparing prices and automatically default to the paid-for option. This is psychologically distinct from loyalty points or discounts, which require ongoing calculation of value.
 

@@ -64,5 +64,8 @@ evidence:
   - id: INS-260329-03B5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260320-4B31
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 When production issues arise, the debugging workflow should follow a strict sequence: first, identify the issue through logs and monitoring; second, reproduce the issue in a staging or test environment; third, use debugging tools to investigate the root cause; fourth, deploy a hotfix as a temporary patch while working on a permanent solution. However, modern observability-first approaches (structured logging, distributed tracing, feature flags) increasingly make production-safe debugging viable. The principle is not 'never touch production' but 'never make the incident worse by debugging.' When staging faithfully mirrors production, use staging. When it doesn't (data-dependent bugs, scale-dependent failures), production debugging with appropriate guardrails is the pragmatic choice.

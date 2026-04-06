@@ -53,6 +53,13 @@ related:
   - INS-260327-7F56
   - PRI-260403-0ABD
   - INS-260403-08AE
+evidence:
+  - id: INS-260327-7F56
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-08AE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a paradox in presentation delivery: you need a completely different voice and manner for speaking to a group versus conversation, yet the goal is to make this artificial mode sound conversational and spontaneous. He draws a parallel to writing — 'good writing is an elaborate effort to seem spontaneous.'
 

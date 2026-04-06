@@ -72,6 +72,9 @@ evidence:
   - id: INS-260403-A4CF
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260329-41BC
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 There's a common assumption that fundamental scientific breakthroughs require a qualitatively different kind of cognition — rebuilding conceptual foundations rather than searching within existing frameworks. Grothendieck rebuilt algebraic geometry's foundations; Einstein replaced Newtonian ontology.
 

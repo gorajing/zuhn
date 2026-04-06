@@ -57,5 +57,8 @@ evidence:
   - id: INS-260402-B12D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-6B97
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham draws explicit parallels between three 'just good enough' moments: early microprocessors (designed for traffic lights, repurposed as CPUs), the first personal computers (256 bytes of RAM), and web pages as application interfaces. In each case, the technology was visibly inferior to the incumbent but enabled a new delivery model — personal ownership, low-cost development, or universal browser access. The pattern is that users will tolerate significant quality degradation for a step-change in accessibility or convenience. VisiCalc on the Apple II couldn't match mainframe software in capability, but two guys in an attic could build it. Web apps couldn't match desktop UI polish, but they worked from any browser without installation. The strategic lesson: when evaluating technology, the delivery model matters more than the feature comparison.

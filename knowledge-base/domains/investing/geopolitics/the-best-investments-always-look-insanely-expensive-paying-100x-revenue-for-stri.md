@@ -83,6 +83,9 @@ evidence:
   - id: INS-260328-AA1F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-8D8D
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 At each funding round, consensus declared the valuations were insane: Facebook at $100M was crazy, at $500M Greylock was 'stupid,' and Yuri Milner investing at $5B in common stock was 'dumb.' In hindsight, all were brilliant. Paying 100x revenue for Stripe in 2011-2012 seemed absurd. The best companies always look like you're paying too far ahead.
 

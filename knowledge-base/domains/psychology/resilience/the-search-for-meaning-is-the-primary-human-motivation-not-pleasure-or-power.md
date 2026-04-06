@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-E089
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-862E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Frankl presents survey data showing that 78% of American students identified 'finding a meaning and purpose in life' as their main concern, while only 16% said 'making a lot of money.' He contrasts this with the European stereotype that Americans are just out to make money — the data tells a different story.
 

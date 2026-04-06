@@ -56,6 +56,25 @@ related:
   - INS-260325-5023
   - INS-260327-9F46
   - INS-260403-AA5B
+evidence:
+  - id: INS-260403-8D87
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-FB5A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-AA5B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-476E
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-5023
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-9F46
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Every new venture rests on a stack of assumptions, but they are not equally load-bearing. The assumption at the bottom of the stack — typically whether customers actually have the problem you think they have — must be validated first because every other assumption depends on it being true. If customer need is unproven, testing distribution channels or pricing models is wasted effort.
 

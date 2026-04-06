@@ -49,5 +49,12 @@ related:
   - INS-260330-DB4B
   - INS-260330-8890
   - INS-260404-2F16
+evidence:
+  - id: INS-260404-2F16
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-0F39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham observes that Y Combinator's rule of 'do whatever's best for the founders' emerged not from altruism but from necessity — advising 57 startups simultaneously makes it impossible to maintain ulterior motives. Benevolence is stateless like truth-telling: you don't need to remember what you said before. This is a profound insight for any organization managing complexity. Strategic maneuvering requires tracking prior commitments, stakeholder politics, and narrative consistency. Genuine user-focus collapses all of that into a single heuristic. The implication is that benevolence isn't just morally superior — it's computationally superior at scale.

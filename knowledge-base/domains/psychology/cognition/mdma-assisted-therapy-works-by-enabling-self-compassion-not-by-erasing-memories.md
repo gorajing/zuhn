@@ -62,6 +62,10 @@ related:
   - INS-260330-D5DD
   - INS-260330-FE21
   - INS-260330-9743
+evidence:
+  - id: INS-260403-94CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Van der Kolk identifies the core barrier to trauma recovery as 'the basic sense of defectiveness and self-loathing' that trauma instills. MDMA doesn't erase memories or simply make people feel good — it allows people to 'see themselves with compassion' while confronting the worst things that happened to them. Measures of self-perception and self-awareness 'just shoot up.'
 

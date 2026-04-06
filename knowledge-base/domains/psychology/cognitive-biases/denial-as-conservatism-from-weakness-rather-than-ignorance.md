@@ -50,6 +50,10 @@ related:
   - INS-260327-5B13
   - INS-260402-D0F3
   - PRI-260403-88F5
+evidence:
+  - id: INS-260323-8B90
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham distinguishes between intellectual capacity and intellectual willingness. Unsuccessful founders were fully capable of following the implications of advice — they just weren't eager to. They 'traversed idea space as gingerly as a very old person traverses the physical world.'
 

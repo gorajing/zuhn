@@ -70,6 +70,9 @@ evidence:
   - id: INS-260403-C313
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260325-FD14
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The course demonstrates a career decision framework where jobs are scored on factors (pay, job market, enjoyment, talents, schooling) then multiplied by personal importance weights. The critical insight is the two-pass approach: first scoring without weights shows engineering and NFL player ranking similarly, but adding weights (job market weighted 5x vs schooling at 2x) dramatically reshapes the ranking because it forces the decision-maker to confront which factors actually matter to them.
 

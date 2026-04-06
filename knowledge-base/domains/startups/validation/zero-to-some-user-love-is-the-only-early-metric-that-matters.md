@@ -57,6 +57,13 @@ related:
   - INS-260330-E089
   - INS-260330-EA94
   - INS-260330-E263
+evidence:
+  - id: INS-260322-3263
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260404-D976
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham draws a sharp binary: the question after launch isn't 'how many users do we have?' but 'is there anyone who really loves this?' He cites Blogger and Delicious as cases where years of slow growth from a fanatically devoted core eventually produced large-scale success. The implication is that the transition from zero passionate users to even one is the hardest and most important leap.
 

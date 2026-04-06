@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-5E03
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-1E4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Consumer rage at automotive subscriptions exceeds rational price objections because the psychological experience is having something you own taken away rather than being asked to pay for something new.
 

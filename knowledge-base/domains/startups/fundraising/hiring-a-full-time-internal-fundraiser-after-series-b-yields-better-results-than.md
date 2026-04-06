@@ -56,5 +56,8 @@ evidence:
   - id: INS-260330-77D1
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260404-2250
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Altman identifies a non-obvious optimization: instead of hiring an investment banker for later rounds, hire someone full-time internally whose entire job is fundraising. Give them the mandate that by the C round, the valuation should be double what it would have been otherwise. Internal fundraisers understand the company deeply, build long-term investor relationships, and cost far less than banker fees. The result is literally half the dilution. This works because fundraising is relationship-intensive work that benefits from continuous engagement rather than episodic banker involvement. Most founders don't consider this because fundraising feels like a periodic event rather than an ongoing function worth staffing.

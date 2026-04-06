@@ -60,6 +60,12 @@ evidence:
   - id: INS-260330-EAA3
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-4980
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-5CB1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Photosynthesis charges the thylakoid like a battery — protons accumulate inside, creating a concentration gradient. Rather than letting protons diffuse randomly, the system forces them through a single channel: ATP synthase. This constrained release converts the gradient's potential energy into ATP with remarkable efficiency.
 

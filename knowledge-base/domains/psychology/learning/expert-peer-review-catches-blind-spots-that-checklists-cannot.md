@@ -51,5 +51,9 @@ related:
   - INS-260329-8261
   - INS-260330-0FCC
   - INS-260327-1313
+evidence:
+  - id: INS-260403-C4BE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Despite creating detailed checklists and stick-figure safety diagrams, Destin brought in explosives testing experts (Sheldon and Coop) who immediately identified a critical gap: misfire procedures needed to account for each possible combination of which gun fired and which didn't. The fix was 'obvious as soon as they said it' — a hallmark of genuine blind spots vs. knowledge gaps. This pattern appears in code review, medical peer consultation, and aviation safety. The key insight is that checklists capture known risks, but expert peer review catches the risks you didn't know to check for. The correction happened between steps 3 and 4 of an existing checklist — a location the original author had no reason to examine.

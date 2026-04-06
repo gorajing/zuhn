@@ -58,5 +58,8 @@ evidence:
   - id: INS-260330-38DA
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-D06F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Akili Interactive's game (based on the NeurRacer prototype from UCSF's Dr. Adam Gazzaley) became the first and only video game cleared by the FDA as a prescribed medical treatment. Clinical trials showed efficacy comparable to Adderall and Ritalin for ADHD, but with side effects limited to occasional headaches and frustration — a dramatic improvement over pharmaceutical side effects. This represents a category-creating precedent: digital therapeutics that go through rigorous FDA validation. The broader implication is that game design expertise — understanding engagement, motivation, and neurological reward systems — is becoming a legitimate healthcare competency. Companies combining neuroscience with game design are building a new treatment modality that could extend to depression, anxiety, PTSD, and physical rehabilitation.

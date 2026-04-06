@@ -60,6 +60,21 @@ evidence:
   - id: INS-260329-5427
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260325-001B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-ACE6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-0030
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-5D81
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260325-B50B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The most consistently praised feature across top innovation programs is hands-on application — working on real projects, running simulations, and getting feedback on actual business challenges. This pattern appears in every highly-rated program: Strategyzer's learn-while-doing platform, BCG's work-on-your-own-projects approach, and McKinsey's behavioral science-driven application.
 

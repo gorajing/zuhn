@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-9DCD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-A115
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In China, buildings can be owned but land beneath them is only leased from the government for 70 years — and renewal terms are uncertain. Combined with the fact that construction activity directly boosts GDP (which determines official promotions), this creates a perverse incentive structure: developers rationally use lower-quality materials knowing the building only needs to last a few decades, and cities benefit from the eventual rebuild cycle generating fresh GDP.
 

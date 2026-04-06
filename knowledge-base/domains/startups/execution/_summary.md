@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 217 insights
+> 218 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -85,7 +85,6 @@
 - `INS-260403-30E5` [high] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
 - `INS-260403-EFAF` [high] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
-- `INS-260327-6F12` [high] The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
 - `INS-260327-4081` [high] Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
 - `INS-260330-0102` [high] Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260330-8920` [high] The team broke multiple bats and redesigned between each attempt, reaching their goal faster than careful upfront engineering would have.
@@ -137,7 +136,6 @@
 - `INS-260330-A44F` [high] Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
 - `INS-260403-532D` [high] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - `INS-260330-20FD` [high] Photosynthesis splits into two decoupled stages — light reactions capture energy into ATP/NADPH currency, then the Calvin Cycle spends that currency to build useful molecules.
-- `INS-260329-003B` [high] Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.
 - `INS-260330-883E` [high] The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
 - `INS-260327-5661` [high] Customers will pay dramatically more for software bundled with human support services, especially for high-stakes use cases.
 - `INS-260327-A98E` [high] Nothing is going to be perfect if you do not ship the product — get it to market and iterate based on feedback.
@@ -178,7 +176,9 @@
 - `INS-260403-91FD` [high] Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260327-10E0` [high] If you can't explain specifically why you'll beat competitors before building, don't start building.
 - `INS-260330-DC22` [high] Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
+- `INS-260405-2299` [high] Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260329-3E28` [high] Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260405-2C44` [high] Visual alignment tools compress weeks of planning into hours by forcing concrete commitments.
 - `INS-260329-EECD` [high] Massive volume of attempts eliminates the need for luck because rejection costs nothing and one success changes everything.
 - `INS-260329-3FF3` [high] Doing something enough times guarantees outcomes that individual attempts leave to chance.
 - `INS-260405-0FC4` [high] RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.
@@ -195,6 +195,7 @@
 - `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
 - `INS-260403-B4B9` [medium] Use your business model as the starting point for defining what to measure, not generic KPIs.
 - `INS-260403-566D` [medium] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
+- `INS-260405-B59F` [medium] Translating unit objectives into explicit joint commitments creates the cross-unit accountability that crises demand.
 - `INS-260327-5297` [medium] When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260403-4328` [medium] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.

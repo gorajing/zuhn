@@ -52,5 +52,8 @@ evidence:
   - id: INS-260325-55D8
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-63E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Hormozi borrows from real estate arbitrage theory: a property near a noisy pub is a deal for someone who loves nightlife but a dealbreaker for others. The mismatch in valuation is where value is created. Applied to relationships, leading with your negatives means anyone who stays only experiences upside. This inverts conventional dating advice (emphasize strengths) and reframes compatibility as tolerance-matching rather than attraction-maximizing. The implication is that the strongest relationships aren't built on mutual admiration of positives but on mutual indifference to each other's perceived flaws.

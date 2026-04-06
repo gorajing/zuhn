@@ -64,6 +64,9 @@ evidence:
   - id: INS-260323-4D5E
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-1773
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 O'Connor traces the chain of reasons behind any action: why are you working? To earn money. Why? To provide for your family. Why? To raise healthy children. Why? At some point, the person answers: 'What do you mean why? That is just what it is about.' This is the self-justifying principle — the point where the question 'why' feels not just unanswered but inappropriate.
 

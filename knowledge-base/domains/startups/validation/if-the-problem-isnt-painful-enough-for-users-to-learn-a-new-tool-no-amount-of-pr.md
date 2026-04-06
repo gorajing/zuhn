@@ -62,6 +62,9 @@ evidence:
   - id: INS-260403-38C5
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260403-7ED5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The productivity app addressed a universally recognized problem: too many tabs and windows open on your computer. Everyone can relate. But relatability does not equal pain. Users weren't willing to learn a new tool, change their workflow, and adopt a new system for a problem that was merely annoying, not agonizing.
 

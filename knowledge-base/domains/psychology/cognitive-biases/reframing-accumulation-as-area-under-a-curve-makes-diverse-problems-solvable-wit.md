@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-2117
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-9D8A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The video explicitly connects the circle area problem to velocity-times-time distance calculations, showing both reduce to area under a graph. This is the power of mathematical abstraction: once you see that your problem is a sum of many small quantities (2*pi*r*dr, or v(t)*dt), you can reframe it as an area problem and apply the entire machinery of integration.
 

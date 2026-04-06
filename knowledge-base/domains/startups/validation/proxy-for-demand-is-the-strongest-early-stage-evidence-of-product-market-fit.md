@@ -54,6 +54,10 @@ related:
   - INS-260403-EA2D
   - INS-260403-0F5C
   - INS-260404-A246
+evidence:
+  - id: INS-260404-A246
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Investors' biggest fear with early-stage startups is that founders have built something based on a priori theories about what the world needs, but that no one will actually want. The antidote is what Sequoia's Greg McAdoo calls the 'proxy for demand' — evidence of what people are doing right now, using inadequate tools, that demonstrates they need what you're making.
 

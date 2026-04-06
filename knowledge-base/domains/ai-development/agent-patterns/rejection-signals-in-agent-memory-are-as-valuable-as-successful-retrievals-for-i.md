@@ -49,5 +49,18 @@ related:
   - INS-260402-5CF0
   - INS-260404-5365
   - INS-260330-8A0C
+evidence:
+  - id: INS-260328-41C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-92E9
+    type: CONTRADICTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-5365
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-8A0C
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 The demo showed a concrete case: the agent cached dog training results for terriers, but when a user asked about a different breed and rejected the terrier suggestion, that rejection was stored in the graph with a timestamp. This negative signal serves multiple purposes: it prevents the same irrelevant suggestion from resurfacing, it captures that user preferences evolved over time (like a legal precedent being reversed), and it provides training signal for improving similarity thresholds. Most agent memory implementations focus exclusively on storing successful interactions, missing the equally informative pattern of what was offered and declined. The graph structure makes this particularly natural since rejections are just edges with a different label connecting the same nodes.

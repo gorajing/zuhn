@@ -41,10 +41,10 @@ stance: >-
   the low-income customers who were the original user base.
 related:
   - INS-260327-7018
-  - INS-260404-50A7
   - INS-260324-A046
   - INS-260404-E65A
   - INS-260403-0435
+  - PRI-260324-90E8
 evidence:
   - id: INS-260327-7018
     type: EXTENDS

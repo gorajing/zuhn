@@ -58,6 +58,12 @@ evidence:
   - id: INS-260327-E41B
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-0CBC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-F853
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Research by Michael Platt's team at UPenn used MRI to observe iPhone and Samsung users hearing brand news. Apple customers showed brain empathy responses toward Apple identical to how people respond to family members — positive news triggered warmth, negative news triggered distress.
 

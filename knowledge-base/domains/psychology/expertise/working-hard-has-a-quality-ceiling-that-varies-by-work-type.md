@@ -75,6 +75,15 @@ evidence:
   - id: INS-260329-1F4D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-6AF5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-2AA1
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-B2EA
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies that different types of work have different sustainable intensity limits — about five hours daily for hard writing or programming, versus all waking hours for startup execution. The key insight is that exceeding the limit doesn't just produce diminishing returns; it actively degrades results. This reframes overwork not as dedication but as a subtle form of showing off.
 

@@ -61,7 +61,6 @@ related:
   - INS-260329-0F06
   - INS-260329-DEA1
   - INS-260329-FAE2
-  - INS-260329-003B
   - INS-260329-C7BF
   - INS-260329-AE09
 evidence:
@@ -74,5 +73,8 @@ evidence:
   - id: INS-260330-72C2
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-003B
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The course opens by establishing a critical distinction that many programmers blur: abstract data types (ADTs) define what operations must exist and what guarantees they provide, while data structures are specific implementations of those ADTs. A queue ADT says 'enqueue to back, dequeue from front' — but says nothing about whether you use an array, singly linked list, or doubly linked list underneath. This separation is not academic pedantry; it's the mechanism that makes software composable. When you program against an interface (the ADT) rather than an implementation (the data structure), you can swap implementations without changing any calling code. The course demonstrates this concretely: a stack can be implemented with arrays, singly linked lists, or doubly linked lists, each with different performance tradeoffs but identical external behavior. This principle scales beyond data structures to all system design — microservice contracts, API boundaries, and plugin architectures all rely on the same interface-implementation separation. The analogy used is transportation: the ADT is 'get from A to B,' while walking, biking, and trains are different implementations with different tradeoffs.

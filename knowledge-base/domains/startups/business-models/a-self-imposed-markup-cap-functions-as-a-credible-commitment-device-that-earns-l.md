@@ -62,6 +62,10 @@ related:
   - INS-260403-3F5F
   - INS-260404-41AA
   - INS-260403-99DE
+evidence:
+  - id: INS-260403-99DE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Costco has a self-imposed rule: no item marked up more than 15% (14% for branded goods), yielding an average 11% markup versus Walmart's 24% or Home Depot's 35%. What makes this powerful is not just the low markup but its public, rule-based nature. Because customers know the cap exists, they don't need to comparison-shop — the constraint IS the trust signal.
 

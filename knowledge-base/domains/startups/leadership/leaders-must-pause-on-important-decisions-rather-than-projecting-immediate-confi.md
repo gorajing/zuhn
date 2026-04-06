@@ -70,6 +70,12 @@ evidence:
   - id: INS-260327-F014
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-1289
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-BA62
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Leaders feel compelled to have immediate answers—it signals competence and decisiveness. But Horowitz argues this instinct is actively destructive for complex management decisions. When a great employee asks for a raise, the emotional pressure to respond immediately is enormous: you don't want to lose them, they clearly thought hard about it, and saying yes creates instant goodwill. But the right answer requires modeling how the entire company will interpret your decision, which you cannot do in real-time under emotional pressure.
 

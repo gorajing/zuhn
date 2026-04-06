@@ -64,6 +64,9 @@ evidence:
     relationship: RELATED
   - id: INS-260330-30FB
     relationship: RELATED
+  - id: INS-260404-F8E6
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen is literally the leftover from splitting water molecules — a waste product that plants actively need to keep low inside their leaves because it interferes with RuBisCo. Yet this 'useless byproduct' transformed Earth's atmosphere and enabled the entire animal kingdom.
 

@@ -72,6 +72,18 @@ related:
 evidence:
   - id: INS-260330-4B29
     relationship: RELATED
+  - id: INS-260330-5670
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-3C3C
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-49E9
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-24BA
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, it converts light energy into two intermediate currencies — ATP (for chemical energy transfer) and NADPH (for electron transfer) — which the Calvin Cycle then uses to assemble glucose. These intermediaries are essential: the light-dependent and light-independent reactions operate on different timescales, in different locations, and with different substrate requirements. Direct coupling would make the system brittle.
 

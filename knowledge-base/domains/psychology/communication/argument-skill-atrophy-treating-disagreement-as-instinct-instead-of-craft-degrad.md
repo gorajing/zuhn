@@ -60,5 +60,8 @@ evidence:
   - id: INS-260326-C692
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-AA8F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Bo Seo identifies a self-reinforcing degradation loop in public discourse: people view argument as something they 'jump into out of instinct or defensiveness' rather than a skill to be developed. This produces bad arguments, which decrease confidence in what disagreements can accomplish, which further reduces motivation to develop the skill. The insight has a direct parallel to other skill-atrophy cycles — when people stop treating something as improvable, it deteriorates, confirming their belief that it was never worth investing in. The implication is that argument quality is a commons problem: each bad-faith or unskilled argument makes the next one more likely to go poorly. Breaking the cycle requires treating disagreement as a craft with specific, teachable techniques (like RISA and side-switching) rather than an innate personality trait. This reframes 'being a good arguer' from a character attribute to a skill set — which means it can be taught, practiced, and improved.

@@ -58,6 +58,10 @@ related:
   - INS-260323-DE39
   - INS-260329-EC01
   - INS-260322-0247
+evidence:
+  - id: INS-260323-DE39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 OpenAI's response to DeepSeek R1 is a masterclass in what panic looks like from an incumbent. Within days they made o1 Mini free for all users and rushed the release of Operator (browser-controlling AI agent). Sam Altman's dramatic Napoleon quote on Twitter, nearly ratioed by someone saying 'just release a better model,' reveals the gap between narrative positioning and technical moat.
 

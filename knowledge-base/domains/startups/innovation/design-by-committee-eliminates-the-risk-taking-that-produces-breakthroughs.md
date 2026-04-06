@@ -50,6 +50,16 @@ related:
   - INS-260402-086D
   - INS-260329-27DF
   - INS-260403-0C33
+evidence:
+  - id: INS-260405-8732
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-0C33
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-27DF
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that the greatest danger of design-by-committee isn't the well-known problem of inconsistency — it's that committees won't take risks. A single person in charge can make bold bets that a group would never collectively approve, and in design (as in everything else), reward is proportionate to risk.
 

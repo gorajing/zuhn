@@ -54,6 +54,9 @@ related:
 evidence:
   - id: INS-260329-3D3E
     relationship: RELATED
+  - id: INS-260405-809E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The Banach-Tarski paradox isn't strange — it's perfectly valid math that violates intuitions evolved for finite, macroscopic objects. This pattern recurs everywhere: Newtonian physics works at human scale but breaks at relativistic or quantum scales. Financial intuitions calibrated to linear growth break in exponential or power-law regimes.
 

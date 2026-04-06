@@ -77,6 +77,12 @@ evidence:
   - id: INS-260327-4153
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-9213
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-BEA7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The video opens by calling photosynthesis a process that 'rather sucks' — it's inefficient, complex, and relies on a fundamentally flawed enzyme. Yet no competing energy-capture mechanism has displaced it in 450 million years. This is because photosynthesis didn't just become the dominant strategy — it reshaped the entire environment (oxygenating the atmosphere), making the ecosystem itself dependent on its outputs.
 

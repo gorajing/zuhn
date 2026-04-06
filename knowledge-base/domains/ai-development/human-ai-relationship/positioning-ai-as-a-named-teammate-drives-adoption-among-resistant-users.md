@@ -40,10 +40,10 @@ stance: >-
   dramatically increases adoption among technology-skeptical professionals.
 related:
   - INS-260330-2D6D
+  - INS-260405-AACA
   - INS-260321-8382
   - INS-260327-8521
   - INS-260404-C720
-  - INS-260328-3A00
 evidence:
   - id: INS-260330-2D6D
     type: EXTENDS

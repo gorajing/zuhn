@@ -80,6 +80,9 @@ evidence:
   - id: INS-260330-16B1
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260403-1202
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 Graham observes that AI does not raise everyone to competence — it removes the forcing function that compelled people to develop competence at all. The 'ok writer' disappears because AI handles the use case that created demand for ok writers. This pattern likely generalizes: AI assistance tends to polarize skill distributions rather than democratize them, because it removes the pressure that drove average practitioners to practice.
 

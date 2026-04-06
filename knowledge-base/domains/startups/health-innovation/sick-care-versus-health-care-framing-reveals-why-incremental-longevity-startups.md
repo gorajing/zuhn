@@ -70,6 +70,9 @@ evidence:
   - id: INS-260325-5501
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-10E8
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Most longevity companies operate within the existing sick care paradigm: wait for cancer to appear, then treat it. This approach yields diminishing returns because aging is a compounding process — by the time symptoms manifest, cascading damage is already extensive. The essay argues this structural mismatch explains why the longevity space suffers from lack of ambition.
 

@@ -54,6 +54,16 @@ related:
   - PRI-260328-99F0
   - PRI-260323-F193
   - INS-260330-3591
+evidence:
+  - id: INS-260330-09AB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-3591
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-E70C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Shade balls exist specifically to block sunlight from reservoirs, yet even in their tightest possible packing configuration, they leave 9% of the surface exposed. This isn't an engineering failure — it's a mathematical certainty of sphere packing geometry. Light still penetrates through the cracks.
 

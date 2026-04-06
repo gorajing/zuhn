@@ -54,6 +54,10 @@ related:
   - INS-260403-2A1D
   - INS-260404-B87E
   - INS-260405-E6F9
+evidence:
+  - id: INS-260404-B87E
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Graham frames the soundbite not as marketing fluff but as a compression algorithm for investor memory. Professional investors hear hundreds of pitches that blur together. The first cut isn't quality—it's memorability. A phrase like 'the Microsoft Word of ecommerce' creates a compact, retrievable mental model that survives the blur.
 

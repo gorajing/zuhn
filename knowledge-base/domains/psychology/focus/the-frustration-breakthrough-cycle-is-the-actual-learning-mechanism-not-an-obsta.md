@@ -58,6 +58,10 @@ related:
   - INS-260329-023F
   - INS-260330-E47D
   - INS-260329-B2F4
+evidence:
+  - id: INS-260329-B2F4
+    type: CHALLENGES
+    classified_at: '2026-04-05'
 ---
 David Malan describes the CS50 learning experience as 'banging your head against the wall for hours, even days, trying to fix a bug' followed by 'the rush of emotion, accomplishment, pride, exhaustion when you finally solve some problem.' He frames this cycle not as an unfortunate side effect but as the primary mechanism through which learning happens — the frustration is load-bearing.
 

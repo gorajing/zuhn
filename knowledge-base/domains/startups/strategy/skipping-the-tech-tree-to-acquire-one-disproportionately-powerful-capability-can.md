@@ -58,5 +58,21 @@ related:
   - INS-260327-2475
   - INS-260330-8F33
   - PRI-260403-B9A0
+evidence:
+  - id: INS-260323-A197
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-3864
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-493D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-2475
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-D479
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 North Korea cannot compete with the US across conventional military dimensions — they lack the $600B+ budget for broad military parity. Instead, they 'skipped the entire tech tree straight to nuclear weapons,' acquiring one capability so powerful it functions as both a shield and a bargaining chip. This is a strategic pattern that translates directly to resource-constrained competitors: rather than trying to match an incumbent across every dimension (features, marketing, sales force, support), concentrating resources on one capability that fundamentally changes the power dynamic can be more effective. A startup with one genuinely transformative technology can command attention and negotiating leverage that their size would never warrant. The key is identifying which single capability, if achieved, renders other competitive dimensions secondary — the asymmetric wedge that changes the entire game.

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 480 insights
+> 471 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -22,7 +22,6 @@
 - `INS-260328-9408` [high] None of the YC mobile winners had pre-iPhone mobile experience; the same pattern is playing out with AI disrupting SaaS.
 - `INS-260324-41D6` [high] Low-cost carriers (Southwest, JetBlue, Spirit) outperformed legacy airlines for a decade, but legacy carriers reclaimed dominance because hub-and-spoke networks create structural lock-in that point-to-point models can't replicate.
 - `INS-260330-CCD4` [high] Spotify's shift from search-based music access to algorithmic recommendations gave it unprecedented control over which artists succeed.
-- `INS-260330-413D` [high] Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.
 - `INS-260404-CA58` [high] Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - `INS-260327-0710` [high] Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260327-6B78` [high] Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
@@ -31,7 +30,6 @@
 - `INS-260329-6D3B` [high] Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260403-5593` [high] Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260327-5E03` [high] When consumers can't afford cars, automakers built more expensive cars with longer loan terms rather than more affordable alternatives.
-- `INS-260327-584D` [high] Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficie
 - `INS-260403-97CA` [high] Incumbents will always win the copilot game because they have the data and distribution; startups must leapfrog by eliminating workflows entirely.
 - `INS-260324-6C83` [high] 80% of US barbershops remain independent despite 40 years of corporate attempts because the core asset (barber talent) can walk out and open their own shop with just scissors and a chair.
 - `INS-260402-0A49` [high] Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
@@ -89,7 +87,6 @@
 - `INS-260327-77C7` [high] When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
 - `INS-260330-8F33` [high] Nakamura chose gallium nitride specifically because everyone else had abandoned it, giving him a field with almost no competition.
 - `INS-260403-4788` [high] If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
-- `INS-260327-6EB5` [high] Nations and companies that control essential natural resources wield power disproportionate to the resources economic va
 - `INS-260327-325B` [high] Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
 - `INS-260404-FB91` [high] Costco turns its membership barrier, warehouse chaos, and bulk-only model into mechanisms that select for affluent, loyal, high-spending customers.
 - `INS-260327-CC35` [high] Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
@@ -131,7 +128,6 @@
 - `INS-260404-7E24` [high] Internal infrastructure and capabilities can be repackaged into new business lines, as demonstrated by both Amazon's AWS and Microsoft's Azure.
 - `INS-260327-724D` [high] Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv
 - `INS-260327-F651` [high] Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
-- `INS-260330-1964` [high] Attack incumbents where their own business model or architecture prevents them from responding, not where they simply haven't bothered yet.
 - `INS-260330-DD10` [high] Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260330-6EE1` [high] Find what incumbents structurally can't do — whether that's platform agnosticism against suite vendors or novel monetization like Zenefits getting paid by insurance companies instead of customers.
 - `INS-260403-98F3` [high] Even sound business models die when external threats — competitor lock-in, shifting customer needs, macro trends — go unmonitored.
@@ -154,7 +150,6 @@
 - `INS-260403-1731` [high] RuBisCo dominates carbon fixation despite failing half the time because plants went all-in before alternatives could evolve.
 - `INS-260330-6A47` [high] In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
 - `INS-260404-26AE` [high] RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
-- `INS-260403-C436` [high] RuBisCo is a terrible enzyme that dominates Earth because it arrived first and scaled before alternatives could emerge.
 - `INS-260330-43CA` [high] RuBisCo is a terrible enzyme that confuses O2 for CO2 half the time, yet 40 billion tons of it dominate Earth because plants went all-in before oxygen levels rose.
 - `INS-260327-1ACE` [high] After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
 - `INS-260327-E3DE` [high] A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
@@ -211,7 +206,6 @@
 - `INS-260330-BE78` [high] Both debaters agree that conservative withdrawal from academia accelerated its leftward drift, illustrating how disengagement from institutions causes them to radicalize faster.
 - `INS-260330-F8A2` [high] The British created separate Christian, Jewish, and Muslim institutions in Palestine specifically to prevent unified Palestinian opposition.
 - `INS-260330-66C7` [high] Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
-- `INS-260327-6017` [high] Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
 - `INS-260324-6C5F` [high] Customers pay 2-5x more for Disney/Universal than Six Flags because branded attractions, $9 butterbeer, and character performers create emotional value that generic roller coasters can't match.
 - `INS-260403-A0F7` [high] Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260403-862D` [high] Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
@@ -345,10 +339,8 @@
 - `INS-260327-F2DF` [high] Lionsgate gained massive pricing power by producing hit shows (Mad Men, Orange is the New Black) that cable networks and streaming platforms used to differentiate themselves -- each platform's arms race for exclusive content made Lionsgate the indispensable supplier.
 - `INS-260324-C2B9` [high] Independent smashburger shops outperform burger chains on speed, consistency, and value — the things that used to differentiate Wendy's, BK, and McDonald's are now the baseline for any LA smashburger concept.
 - `INS-260327-4233` [high] Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
-- `INS-260403-9F4B` [high] RuBisCo was designed for a low-oxygen atmosphere and became increasingly dysfunctional as plants themselves filled the air with oxygen.
 - `INS-260327-D5CC` [high] The best startup ideas are in industries you've never worked in—tech insiders oversaturate their own problems.
 - `INS-260322-98D2` [high] Robinhood succeeded by combining three bets that were each individually contrarian (zero commissions, mobile-first, populist brand) into a single offering no incumbent could replicate quickly.
-- `INS-260330-43CF` [high] PayPal started with 20,000 eBay power sellers, Facebook with 10,000 Harvard students — markets dismissed as worthless that enabled 25-60% penetration in months before expanding outward.
 - `INS-260330-C9C6` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-568A` [high] Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
 - `INS-260403-CE7C` [high] Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
@@ -361,7 +353,6 @@
 - `INS-260330-DDF0` [high] Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
 - `INS-260325-F451` [high] Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260330-F5D1` [high] Constantine moved the empire's center of gravity east toward trade and growth, letting the declining west fade — a strategic pivot that extended the empire by 1000 years.
-- `INS-260404-01B1` [high] Costco's $60-120 membership fee filters for households earning ~$100K, and business owners who comprise one-third of members but drive two-thirds of sales.
 - `INS-260330-9313` [high] Apple's high-quality iPhones flood secondary markets, forcing new models to compete against still-excellent used versions of themselves.
 - `INS-260330-27E8` [high] Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
 - `INS-260403-DD63` [high] Apple keeps 60-70% margins not by manufacturing itself, but by exerting pricing power over its suppliers.

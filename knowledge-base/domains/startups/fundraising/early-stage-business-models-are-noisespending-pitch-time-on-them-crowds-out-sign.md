@@ -61,5 +61,8 @@ evidence:
   - id: INS-260327-5D13
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-DF2C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham relays a telling anecdote: a top VC invested in experienced founders while openly acknowledging their business model was wrong and would change three times. This reveals that sophisticated investors have already priced in business model uncertainty at the early stage—it's a known unknown. The opportunity cost argument is what makes this tactical: your few minutes of pitch time are zero-sum, and every minute spent on speculative business model details is a minute not spent on the problem domain and product, where you have genuine insight and credibility. Worse, a spectacularly wrong business model creates a negative anchor—investors remember you as 'the company with the boneheaded plan' rather than 'the company that solved that important problem.' The meta-lesson is about playing to your informational advantage: talk about what you know deeply, not what you're guessing at.

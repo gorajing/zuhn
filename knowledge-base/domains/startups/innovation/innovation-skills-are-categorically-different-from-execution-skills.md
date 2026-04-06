@@ -54,6 +54,10 @@ related:
   - INS-260405-1894
   - INS-260403-42F2
   - PRI-260323-1B96
+evidence:
+  - id: INS-260327-99CE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Execution skills optimize for delivering projects on time and on budget within known parameters. Innovation skills optimize for navigating uncertainty — designing business models, identifying risky assumptions, running experiments, and pivoting based on market evidence. These are not different points on the same spectrum; they are fundamentally different cognitive modes.
 

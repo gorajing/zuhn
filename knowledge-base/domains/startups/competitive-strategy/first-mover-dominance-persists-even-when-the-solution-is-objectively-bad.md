@@ -54,6 +54,16 @@ related:
   - INS-260404-6F39
   - INS-260404-9213
   - INS-260405-BEA7
+evidence:
+  - id: INS-260404-9213
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-09DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-BEA7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The video opens by calling photosynthesis something that 'actually rather sucks—complicated, inefficient and confusing.' Yet it has been the dominant energy conversion system for 450 million years, powering nearly all life on Earth. No competing biological mechanism has ever displaced it.
 

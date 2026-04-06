@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-AFAD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-D8C1
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 The 'Grace Rule' established that products with less than 1% asbestos would not be regulated. This single definitional victory meant that contaminated vermiculite insulation — used in the World Trade Center and millions of homes — was legally marketed as 'asbestos-free.' The detection method (PLM) was also conveniently unable to detect fibers below the 1% threshold.
 

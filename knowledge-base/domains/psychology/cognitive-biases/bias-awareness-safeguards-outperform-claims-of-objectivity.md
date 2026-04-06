@@ -81,6 +81,9 @@ evidence:
   - id: INS-260330-76DA
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-36C1
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Destiny outlines two concrete epistemic practices: (1) Before engaging in any debate, test whether you can argue both sides convincingly — if you can't, you're too partisan to have the debate productively. (2) Ask yourself what evidence would convince you to abandon your position — if you can't name anything, you're too dug in. He frames this as 'trying to be aware of your biases' rather than 'trying to be unbiased,' since the latter is literally impossible for humans.
 

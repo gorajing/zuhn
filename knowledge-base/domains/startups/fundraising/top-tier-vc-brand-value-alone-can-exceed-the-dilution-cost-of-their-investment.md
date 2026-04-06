@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-CFE5
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260327-725F
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham argues that top VC firms like Sequoia deliberately take artificially low ownership percentages, not because they can't negotiate more, but to keep founders feeling ownership. At 30%, Sequoia needs to improve outcomes by just 43% to break even for founders. Graham claims the signaling value alone—being able to say you're Sequoia-funded—likely exceeds that threshold for average startups.
 

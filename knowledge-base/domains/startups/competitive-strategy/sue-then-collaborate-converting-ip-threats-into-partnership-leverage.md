@@ -55,6 +55,13 @@ related:
   - INS-260330-09FF
   - INS-260330-7F62
   - INS-260403-E8E3
+evidence:
+  - id: INS-260403-8C92
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-E8E3
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Louis Vuitton initially sued Supreme for appropriating their monogram pattern — a standard IP protection move. But someone at LV recognized that Supreme's 'copying' was actually a signal of enormous cultural relevance with a younger demographic LV couldn't reach organically. Instead of pursuing the lawsuit to completion, LV pivoted to an official collaboration. The result: LV x Supreme products became some of the most valuable resale items in fashion history, with leather trunks listed at $125,000.
 

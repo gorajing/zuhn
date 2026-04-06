@@ -54,6 +54,16 @@ related:
   - INS-260327-7F6A
   - INS-260321-1A84
   - INS-260321-33FC
+evidence:
+  - id: INS-260330-1319
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-DE28
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-7F6A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham argues that Steve Jobs occupied a role with no historical precedent — closest to a Renaissance patron of the arts, but as a CEO. Most CEOs delegate taste to subordinates, and due to the design paradox, they're effectively choosing at random among options they can't evaluate. Jobs could actually evaluate design quality himself, which made Apple's product decisions non-random.
 

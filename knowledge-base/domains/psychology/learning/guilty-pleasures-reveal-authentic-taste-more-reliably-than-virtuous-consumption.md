@@ -52,6 +52,10 @@ related:
   - INS-260329-5B3D
   - INS-260327-8DDE
   - INS-260325-DF66
+evidence:
+  - id: INS-260329-E900
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham observes that 99% of people reading Ulysses are thinking 'I'm reading Ulysses' as they do it. The feeling of virtue in consuming prestigious work contaminates your ability to evaluate it honestly. Guilty pleasures bypass this contamination because there's no status payoff — the enjoyment is pure.
 

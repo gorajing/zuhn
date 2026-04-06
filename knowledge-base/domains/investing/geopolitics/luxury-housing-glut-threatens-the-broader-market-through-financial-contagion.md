@@ -55,6 +55,9 @@ evidence:
   - id: INS-260328-92BC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260404-9D4E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The luxury housing glut creates financial contagion risk: developers who overbuild luxury units face bankruptcy when demand falls short. Their distress doesn't free up capital for affordable housing - it causes lenders to tighten construction financing across all segments. The result is less total construction, worsening the affordable housing shortage.
 

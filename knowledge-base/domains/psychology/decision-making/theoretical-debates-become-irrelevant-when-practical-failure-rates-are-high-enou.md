@@ -51,6 +51,13 @@ related:
   - INS-260330-B7B1
   - INS-260325-5023
   - INS-260327-9F46
+evidence:
+  - id: INS-260403-7471
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-B7B1
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Graham's core rhetorical move is showing that intellectuals debate the death penalty on theoretical grounds (state authority, deterrence, equity) while the practical reality — innocent people being executed — makes those debates irrelevant. You never reach the philosophical question because the system fails at a more basic level.
 

@@ -59,5 +59,8 @@ evidence:
   - id: INS-260325-0FED
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-202A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The tutorial demonstrates triggers that fire BEFORE INSERT on the employee table, automatically inserting audit records into a trigger_test table. Triggers can reference the NEW row being inserted, use conditional logic (IF/ELSEIF), and fire on INSERT, UPDATE, or DELETE events. This is remarkably powerful for audit logging, data validation, and maintaining derived data. However, triggers introduce a critical architectural trade-off: the behavior is invisible to anyone reading the application code. When a developer writes INSERT INTO employee, they see no indication that other tables are being modified simultaneously. This is the database equivalent of action-at-a-distance — the same class of problem that makes global state and implicit side effects dangerous in application code. The practical guidance is: use triggers for cross-cutting concerns (audit logs, updated_at timestamps) but never for business logic that developers need to reason about.

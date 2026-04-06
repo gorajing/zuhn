@@ -50,6 +50,13 @@ related:
   - INS-260403-FA89
   - INS-260403-46B2
   - INS-260403-D966
+evidence:
+  - id: INS-260330-8FC5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-14D5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a powerful feedback loop in talent distribution: great programmers want to work with other great programmers. This creates a clustering dynamic where talent concentrates in a small number of hubs — potentially just one. The implication is that talent geography is not static; it's a compounding advantage that can shift.
 

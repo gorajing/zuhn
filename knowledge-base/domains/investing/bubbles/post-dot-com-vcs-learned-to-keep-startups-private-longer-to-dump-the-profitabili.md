@@ -67,5 +67,8 @@ evidence:
   - id: INS-260403-5B89
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260330-4B55
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 The dot-com fallout taught VCs a 'smarter way to pump and dump.' Instead of quick IPOs, they keep startups private, using multiple late-stage rounds to control narratives and inflate valuations through backroom deals. By IPO, growth curves are spent, future potential is priced in, and profitability is the public's problem. AI startups pursue war chests that make 2010s blitzscaling look like seed rounds. Media appearances are choreographed to sustain hype, VCs evangelize portfolio companies to coordinate exits at peak valuations.

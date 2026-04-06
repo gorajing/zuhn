@@ -56,6 +56,16 @@ related:
   - INS-260403-DDEB
   - INS-260330-1F41
   - INS-260403-FFF0
+evidence:
+  - id: INS-260403-DDEB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-1448
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-FFF0
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Strategyzer's toolkit includes design constraint cards and trigger question sets (for customer jobs, pains, gains, pain relievers, and gain creators) that function as structured prompts for innovation. Rather than asking 'what should we build?', these tools ask specific provocative questions that force teams to consider dimensions they would otherwise ignore.
 

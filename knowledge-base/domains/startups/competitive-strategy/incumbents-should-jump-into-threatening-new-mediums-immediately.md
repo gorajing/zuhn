@@ -61,6 +61,12 @@ evidence:
   - id: INS-260404-023C
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-712D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 TV networks and newspapers both made the mistake of grudgingly putting content online while still hoping audiences would come back to the original medium. This defensive posture consistently fails because it prioritizes preserving existing business models over serving customer behavior. By the time incumbents fully commit, insurgents have already captured the audience and built the new distribution infrastructure.
 

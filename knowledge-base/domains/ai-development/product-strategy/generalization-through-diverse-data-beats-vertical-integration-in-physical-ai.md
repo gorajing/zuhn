@@ -99,6 +99,12 @@ evidence:
   - id: INS-260403-2FC3
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-6BAF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260404-B475
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Wayve's approach demonstrates the power of generalization in physical AI: one foundation model trained on diverse global data can adapt to new countries, vehicles, and sensor configurations in months rather than years. They unveiled a Nissan vehicle driving in Tokyo just four months after first entering Japan, because their AI generalized from diverse training data rather than requiring city-specific HD maps and rules.
 

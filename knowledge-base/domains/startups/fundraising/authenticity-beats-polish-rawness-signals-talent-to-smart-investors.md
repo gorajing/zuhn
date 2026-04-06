@@ -53,6 +53,16 @@ related:
   - INS-260403-915E
   - INS-260403-0CA8
   - INS-260404-47AC
+evidence:
+  - id: INS-260404-F965
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-7586
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-915E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that smart investors at the early stage aren't looking for finished, smooth presentations — they're looking for raw talent. Two young hackers with no office and no business experience don't need to pretend otherwise, because Google was once exactly that. The superficial flaws are already priced in by experienced investors.
 

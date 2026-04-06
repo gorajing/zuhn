@@ -50,5 +50,18 @@ related:
   - PRI-260320-07A4
   - INS-260330-3C2F
   - INS-260329-E6AF
+evidence:
+  - id: INS-260330-8D27
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-DD0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260330-3C2F
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260329-E6AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 The talk outlined three memory layers emerging in agent systems. Short-term memory captures raw conversation flow — mostly filler but containing key signals. Long-term memory extracts and retains the meaningful facts, decisions, and knowledge from those conversations, organized via ontologies like POLE (Person, Organization, Location, Event). Reasoning memory stores the observable traces of how an agent reached conclusions — which tools it called, what paths it explored, what it rejected. This third layer is critical for debugging, auditing, and improving agent behavior over time. The separation matters because each layer has different retention policies, retrieval patterns, and update frequencies.

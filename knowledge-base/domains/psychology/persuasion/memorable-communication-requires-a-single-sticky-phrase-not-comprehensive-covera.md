@@ -59,7 +59,32 @@ related:
   - INS-260403-F7DD
   - INS-260403-2FE1
   - INS-260403-7FBE
-  - INS-260405-5BD3
+  - INS-260403-FC45
+evidence:
+  - id: INS-260328-70D3
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-81CE
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2A1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-BDBE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-F7DD
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-2FE1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-7FBE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-5BD3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Professional investors hear so many pitches they blur together. The first filter isn't quality — it's memorability. Graham recommends a single descriptive phrase, often in the form 'the X of Y' (Viaweb's was 'the Microsoft Word of ecommerce'), launched early in the presentation.
 

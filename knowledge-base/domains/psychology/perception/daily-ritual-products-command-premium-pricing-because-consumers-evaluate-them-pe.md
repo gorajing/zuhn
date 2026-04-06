@@ -52,6 +52,9 @@ evidence:
   - id: INS-260403-B6A0
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260324-A046
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Products consumed daily benefit from per-use price evaluation that makes even expensive items feel cheap, which is why coffee can sustain 500% markups that consumers would reject in other categories.
 

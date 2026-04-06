@@ -50,7 +50,17 @@ related:
   - INS-260330-E126
   - INS-260402-D9D0
   - INS-260402-8223
+  - INS-260402-9D7B
   - INS-260403-D64B
-  - INS-260403-94C4
+evidence:
+  - id: INS-260329-723A
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-E126
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-6935
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies a third ingredient for genius beyond natural ability and determination: a disinterested obsessive interest in something that matters. This 'bus ticket collector' quality means pursuing a topic purely because you find it fascinating, not for status or money. The key insight is that obsessive interest does double duty — it acts as a proxy for ability (you won't obsess over math without aptitude) and substitutes for willpower (curiosity pulls you forward without needing to push). This reframes the recipe for genius from 'be talented and work hard' to 'find something that matters and become obsessively, selflessly interested in it.'

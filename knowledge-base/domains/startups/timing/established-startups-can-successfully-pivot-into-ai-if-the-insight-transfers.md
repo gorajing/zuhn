@@ -64,5 +64,8 @@ evidence:
   - id: INS-260402-AC3D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-B31C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Dalton observed companies at Standard Capital that had been around 2-3 years with stagnant growth, executed a well-thought-through AI pivot 9 months ago, and it worked. The pattern: these founders had real customer relationships and domain insights but were constrained by B2B SaaS-era tools. With AI, they could suddenly deliver far more value — customers who were lukewarm started taking more meetings, paying more, and engaging more. This reframes AI not just as a new market but as a tool upgrade for existing businesses: 'You got better tools. Get back in the game.'

@@ -61,6 +61,13 @@ related:
   - INS-260405-88F9
   - INS-260405-1AAC
   - INS-260405-F57E
+evidence:
+  - id: INS-260321-4B99
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-E44D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Costco stocks roughly 4,000 unique items versus Walmart's 140,000. Because suppliers compete intensely to be one of two choices in a category, they lower prices, adapt packaging, and accommodate Costco's logistics needs — including redesigning cashew containers to save 24,000 pallets annually, savings passed directly to customers.
 

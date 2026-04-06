@@ -62,6 +62,18 @@ evidence:
   - id: INS-260323-0B52
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260325-2052
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-1ACD
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-3CB6
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260323-AF7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham draws an explicit parallel between writing lists and iterative software development: you think of N/2 points in five minutes, giving you a complete but low-resolution structure, then progressively refine. He compares this to both programming (ship version 1 fast, then iterate) and painting (start with a blurry sketch, crank up resolution over a week).
 

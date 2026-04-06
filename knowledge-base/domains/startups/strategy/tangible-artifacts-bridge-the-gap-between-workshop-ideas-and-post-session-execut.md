@@ -58,6 +58,15 @@ evidence:
   - id: INS-260323-2AE2
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-70D5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260405-6433
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-3263
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The gap between 'great workshop' and 'nothing happened after' is one of the most common failures in organizational strategy work. The article highlights that canvas tools create tangible outputs — filled-in frameworks with sticky notes, annotations, and visual maps — that persist beyond the session.
 

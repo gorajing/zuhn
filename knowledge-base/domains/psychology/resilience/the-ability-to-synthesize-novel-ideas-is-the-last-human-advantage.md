@@ -63,6 +63,12 @@ evidence:
   - id: INS-260325-2832
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260405-CF27
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-21AF
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Loh's interview process reveals his thesis: he asks questions until the candidate clearly has never seen the problem before, then gives hints to see how quickly they can synthesize a solution. This synthesis skill—combining unfamiliar pieces into coherent solutions—is what AI still struggles with in truly novel contexts.
 

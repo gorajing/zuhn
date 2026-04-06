@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-1226
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-5BF9
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Louis Vuitton worked as an apprentice boxmaker and packer for wealthy Parisians from age 16 to 33 before starting his own business. This wasn't wasted time — it was embedded market research. He personally packed and unpacked luggage for upper-class travelers, including the Empress of France, learning their exact pain points (unstackable dome-top trunks, heavy leather, poor water resistance). When he finally launched, his flat-top canvas trunks solved real problems he'd observed firsthand over nearly two decades.
 

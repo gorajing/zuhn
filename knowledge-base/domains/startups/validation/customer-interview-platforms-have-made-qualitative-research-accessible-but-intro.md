@@ -61,6 +61,10 @@ related:
   - INS-260403-DD95
   - INS-260403-359D
   - PRI-260328-B2EA
+evidence:
+  - id: INS-260403-359D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The inclusion of UserInterviews, Craigslist, and Amazon Mechanical Turk as customer interview recruitment channels highlights an important tension. These platforms make it trivially easy to schedule 10 interviews in a week, which was previously a major bottleneck for lean startup practitioners. However, they introduce systematic selection bias: Mechanical Turk participants are professional task-completers optimizing for payment speed, UserInterviews panels skew toward people comfortable with research participation, and Craigslist respondents self-select based on compensation.
 

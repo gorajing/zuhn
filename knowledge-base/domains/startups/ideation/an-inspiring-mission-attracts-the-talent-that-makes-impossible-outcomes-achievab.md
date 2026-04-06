@@ -61,5 +61,8 @@ evidence:
   - id: INS-260327-6992
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-A4CF
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Dalton credits Sam Altman with embedding this insight: great companies need to attract all kinds of talent — technical, investment, customer — and an exciting mission is the primary mechanism. Before understanding this, Dalton thought mechanically about company-building: big market, good product, correct pricing. But highly talented people have choices about where to put their time. Telling them 'we are going to do ad targeting' versus 'we are going to create intelligence' produces radically different talent pools. The Apollo moon landing is the canonical example — the project attracted extraordinary effort because the mission itself was extraordinary. Altman lived this advice by founding OpenAI around the mission of creating intelligence.

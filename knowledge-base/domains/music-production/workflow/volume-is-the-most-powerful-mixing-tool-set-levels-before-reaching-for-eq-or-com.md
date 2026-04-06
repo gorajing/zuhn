@@ -60,6 +60,9 @@ evidence:
     relationship: RELATED
   - id: INS-260405-4871
     relationship: RELATED
+  - id: INS-260404-DFE8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Being advanced at mixing means being really good at the basics. Volume is the primary tool: louder = more focus, quieter = less important. Getting volume relationships correct before touching EQ, compression, or spatial effects gives you a clear picture of what actually needs processing.
 

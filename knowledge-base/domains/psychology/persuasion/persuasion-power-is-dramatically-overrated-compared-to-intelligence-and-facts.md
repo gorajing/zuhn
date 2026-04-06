@@ -79,6 +79,9 @@ evidence:
   - id: INS-260403-07C6
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-E688
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Scott Adams built his brand around the claim that persuasion trumps facts and intelligence in determining life outcomes. But as Scott Alexander argues, this dramatically overstates the case. The 99.99th percentile persuader (Trump) and the 99.99th percentile nerd (Sutskever) both achieve extraordinary outcomes. Charismatic manipulators like Sam Bankman-Fried and Elizabeth Holmes ended up in prison because persuasion cannot permanently mask factual reality. Even Trump maintains only a 37% approval rating because making absurd claims sound plausible has hard limits.
 

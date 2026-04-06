@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-443B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-AEBD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The brain runs on ATP (adenine triphosphate), and most of its energy goes to maintaining physical structure — pumping ions across membranes. Very little is left for actual thought. This budget is fixed; no intervention can expand it. Listening to one person speak uses roughly half your bandwidth, making simultaneous listening impossible.
 

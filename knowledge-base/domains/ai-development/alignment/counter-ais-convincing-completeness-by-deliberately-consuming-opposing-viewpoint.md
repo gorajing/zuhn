@@ -102,6 +102,27 @@ evidence:
   - id: INS-260404-DD95
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-F60A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-A408
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-3959
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-500F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-6753
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-F6ED
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-22EE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Loh tunes his X feed to right-leaning viewpoints and his Facebook to left-leaning viewpoints, reading both every day. His goal isn't to find truth in either side but to identify where they disagree and understand why — using disagreement as the signal for underlying values differences.
 

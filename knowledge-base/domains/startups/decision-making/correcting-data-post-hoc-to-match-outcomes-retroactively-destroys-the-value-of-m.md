@@ -64,6 +64,30 @@ evidence:
   - id: INS-260323-BA17
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260327-D6C5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-7ABB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-BFBF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-DF2C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-E982
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-59CE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-96FB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-2F13
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham notes parenthetically that exit poll numbers published online were revised by the next afternoon to match the actual returns — the only plausible explanation being that the numbers were corrected after the outcome was known. This destroys the epistemic value of the measurement: a poll that agrees with the final result because it was corrected to agree with it tells you nothing.
 

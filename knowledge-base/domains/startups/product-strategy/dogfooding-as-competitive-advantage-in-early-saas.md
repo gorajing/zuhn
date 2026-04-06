@@ -51,6 +51,10 @@ related:
   - INS-260322-8D47
   - INS-260403-8F6E
   - INS-260325-FDF5
+evidence:
+  - id: INS-260325-FDF5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Viaweb deliberately used their own product to build their company website, even though it wasn't an online store, because they wanted to experience what their users did. This dogfooding practice created a tight feedback loop where every internal frustration became a product improvement opportunity.
 

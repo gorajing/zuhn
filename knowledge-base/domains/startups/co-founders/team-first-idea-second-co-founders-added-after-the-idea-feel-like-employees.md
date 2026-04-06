@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-F9C3
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-E3E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Dalton observes that many founders want to come up with the idea first, maybe even raise money, and then add a co-founder. He argues this sequence creates structural problems: a co-founder added later will always feel like it's 'your company' in their mind, even if the time difference is just one extra month. This subtle psychological gap reduces their willingness to endure the hardest moments.
 

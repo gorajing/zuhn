@@ -50,6 +50,10 @@ related:
   - INS-260404-D6EE
   - INS-260330-0F71
   - INS-260404-89C3
+evidence:
+  - id: INS-260321-FB3F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies an asymmetry in how people hold beliefs: casual opinions carry no cost of being wrong, so they drift toward whatever is comfortable or socially rewarded. But when you bet on ideas — whether financially as an investor or reputationally through published writing — you create a feedback loop that penalizes obsolete thinking.
 

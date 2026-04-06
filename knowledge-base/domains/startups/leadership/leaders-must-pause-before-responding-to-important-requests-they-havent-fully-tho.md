@@ -65,5 +65,8 @@ evidence:
   - id: INS-260330-7A80
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-1289
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Leaders feel pressure to have all the answers immediately — Horowitz admits he'll make things up rather than appear uncertain. But this instinct is the primary failure mode for the multi-perspective decision framework. A CEO who gives an ad-hoc raise because they don't want to lose the moment, or who agrees to a demotion because it feels compassionate in the conversation, has just buried a problem that will compound. Horowitz calls it 'the kimchi problem: the deeper you bury it, the hotter it gets.' Most CEOs learn this the hard way — they step in it three or four times, thinking each time they can handle it quietly and confidentially, before the decision explodes months later as a cultural crisis. The discipline is to pause, explicitly tell the person you're taking it seriously, and commit to coming back after thinking it through from all perspectives.

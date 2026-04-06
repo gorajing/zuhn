@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-640C
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-6EDC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 VanDusen identifies the most seductive startup trap: founders who treat their business as a passion project after launch. The emotional attachment that provides launch energy becomes a liability when it overrides data-driven decision making. 'It's not personal, it's just business' is usually delivered as bad news, but it's operationally true — successful businesses must be governed by facts, metrics, financials, processes, and rules.
 

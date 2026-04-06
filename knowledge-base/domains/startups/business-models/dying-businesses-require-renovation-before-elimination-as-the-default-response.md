@@ -53,6 +53,13 @@ related:
   - INS-260327-DF2F
   - INS-260327-96BB
   - INS-260404-7E24
+evidence:
+  - id: INS-260327-96BB
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260327-DF2F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When businesses fall from the profitable top-right to the struggling bottom-left of the Execution Engine, the framework explicitly warns against defaulting to elimination. Instead, the primary response should be renovation, improvement, or reinvention — moving the business back toward the top-right corner. Elimination is one option among several, not the automatic response.
 

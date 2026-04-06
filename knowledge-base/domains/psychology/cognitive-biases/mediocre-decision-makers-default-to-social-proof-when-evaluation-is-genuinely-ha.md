@@ -58,6 +58,46 @@ related:
   - INS-260403-F447
   - INS-260403-04C9
   - INS-260403-0680
+evidence:
+  - id: INS-260321-3521
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260328-03BB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-9B90
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-478B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-376E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-421B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-5974
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-F447
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-04C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-0680
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260402-EA72
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-776C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260328-F301
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham observes that judging startups is hard even for the best investors, so mediocre ones are essentially flipping coins. When they see other investors interested, they rationally conclude there must be signal in that consensus. This isn't laziness — it's an accurate self-assessment of their own judgment quality.
 

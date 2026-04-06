@@ -60,6 +60,10 @@ related:
   - INS-260322-5A72
   - INS-260329-CEC5
   - INS-260330-FE9E
+evidence:
+  - id: INS-260326-3F06
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most product teams operate with an implicit theory of value: 'customers want this feature because it helps them do X.' The Value Proposition Canvas makes that theory explicit and testable by forcing you to name the customer job (what they're trying to accomplish), the pains (frustrations, risks, obstacles), and the gains (desired outcomes, unexpected delights).
 

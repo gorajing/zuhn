@@ -51,6 +51,10 @@ related:
   - INS-260330-E3ED
   - INS-260402-3DBF
   - INS-260329-59A5
+evidence:
+  - id: INS-260330-E3ED
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 A common objection to reputation-based moderation is that it will suppress controversial ideas. Graham's empirical observation from Hacker News contradicts this: users self-censor low-investment comments (wisecracks, snark) when their reputation is at stake, but leave up substantive arguments even when downvoted. The mechanism is psychological investment — people defend positions they've reasoned through but won't sacrifice reputation for throwaway remarks.
 

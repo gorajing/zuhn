@@ -53,5 +53,12 @@ related:
   - PRI-260323-1187
   - INS-260330-84C6
   - INS-260330-7A80
+evidence:
+  - id: INS-260330-84C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-7A80
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The first wave of software translated analog processes digitally (Amazon as online bookstore, TurboTax as online tax filing)—the edge was distribution and cost. The second wave created entirely new categories impossible in analog (Instagram invented the creator economy, Lyft turned anyone into a driver). The third wave, enabled by AI, breaks reality itself—rejecting fundamental assumptions about who can build software, who can run a business, and what work requires humans. This framework is useful for evaluating startup ideas: translation-phase companies compete on efficiency, creation-phase companies compete on imagination, and reality-breaking companies compete on conviction. Shopify exemplifies the transition—it didn't digitize retail, it turned non-merchants into merchants, growing from $61B to $292B in facilitated sales over five years.

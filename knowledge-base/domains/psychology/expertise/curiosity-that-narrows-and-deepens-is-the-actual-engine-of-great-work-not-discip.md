@@ -70,6 +70,15 @@ evidence:
   - id: INS-260402-1414
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-4431
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-B05A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-56CB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham observes that people who do great work are universally terrible procrastinators who cannot make themselves do anything they're not interested in — yet they produce extraordinary output. The resolution is that curiosity transforms work into play. Einstein didn't experience relativity as drudgery; it was a mystery he was compelled to solve.
 

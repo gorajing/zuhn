@@ -55,6 +55,13 @@ related:
   - PRI-260403-C229
   - INS-260329-7FD6
   - PRI-260328-0C86
+evidence:
+  - id: INS-260403-39DD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-7FD6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 PG's key argument to Fred Wilson was about a continuum: 'there's a continuum between private sofas and hotel rooms.' Within months of launch, professional hosts were already listing on Airbnb. PG predicted small pensiones in Rome would follow, then small hotel chains, then asked 'where is the point (in size of chain) at which it stops?' The answer, as history showed, was that it essentially doesn't stop.
 

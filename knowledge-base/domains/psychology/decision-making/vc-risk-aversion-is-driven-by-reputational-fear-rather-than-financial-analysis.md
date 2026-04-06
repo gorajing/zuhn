@@ -68,5 +68,11 @@ evidence:
   - id: INS-260325-55D8
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-34C0
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-1D7B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a critical distinction: VCs aren't actually risk-averse in the financial sense—they're reputation-averse. A VC would rather invest in a team of three former banking executives who plan to outsource development (objectively riskier) than in two brilliant 18-year-old hackers, because the former is defensible if it fails while the latter invites blame. This is a classic principal-agent problem: the VC's personal incentive (looking competent to LPs and partners) diverges from the fund's optimal strategy (maximizing returns). This same dynamic drives VCs to co-invest (shared blame), collude rather than compete (preserving group power), and reject deals via ambiguous non-answers rather than clear nos. The insight generalizes beyond VC: any agent managing others' capital will systematically under-invest in unconventional opportunities.

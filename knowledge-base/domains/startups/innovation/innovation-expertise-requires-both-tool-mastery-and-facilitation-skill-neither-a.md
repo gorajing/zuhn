@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-6061
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-43EE
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The Strategyzer Bootcamp focuses equally on 'innovation management and facilitation skills,' treating them as co-equal. This is a corrective to a common failure mode: organizations buy into frameworks (OKRs, design sprints, business model canvases) but see poor adoption because the internal champions can teach the tool but cannot manage the room dynamics, resistance, and ambiguity that workshops surface.
 

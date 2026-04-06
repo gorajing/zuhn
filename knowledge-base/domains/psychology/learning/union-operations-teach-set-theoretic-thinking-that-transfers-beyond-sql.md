@@ -57,5 +57,17 @@ evidence:
   - id: INS-260329-FEF4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-057F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260327-4CB3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-CF48
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260329-C7BF
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The tutorial introduces UNION as combining result sets with the same column structure, which is fundamentally a set-theoretic operation. This mental model — thinking of data as sets you can combine, intersect, or subtract — transfers far beyond SQL. Array operations in JavaScript (spread, filter, reduce), stream processing in data pipelines, and even prompt engineering (combining context from multiple sources) all benefit from set-theoretic thinking. The pedagogical insight is that SQL is one of the most accessible ways to develop this mathematical intuition because the feedback loop is immediate: write a UNION, see the combined result. This makes SQL valuable even for people who will never manage a production database — it trains a way of thinking about data that applies everywhere.

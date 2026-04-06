@@ -57,6 +57,12 @@ evidence:
   - id: INS-260330-AB62
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260325-95EB
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260326-DBEF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham notes that domain expertise fueling crazy new ideas can come from another field entirely, and that such crossovers tend to be particularly promising. This aligns with the broader pattern that paradigm constraints are field-specific — an outsider with deep expertise in a different domain can see structural possibilities that insiders literally cannot conceive because their cognitive building blocks are paradigm-locked.
 

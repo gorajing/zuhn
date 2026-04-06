@@ -50,5 +50,9 @@ related:
   - INS-260322-8D47
   - INS-260322-837A
   - INS-260330-BC21
+evidence:
+  - id: INS-260329-E6AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 A Resource Driven Shift occurs when a company recognizes that a key asset it built for one purpose has latent value in a different context. 23andMe's genetic database was originally a Mono Usage asset: it powered consumer ancestry and health reports. By licensing access to pharmaceutical companies for drug discovery, the same database became a Multi Usage asset generating a second revenue stream without acquiring new data. This pattern applies broadly: media libraries, customer behavioral data, manufacturing capacity, and logistics infrastructure are all assets that may be worth more in secondary markets than their original use case. The strategic implication is to audit existing assets not just for how they serve current customers, but for who else would pay to access them.

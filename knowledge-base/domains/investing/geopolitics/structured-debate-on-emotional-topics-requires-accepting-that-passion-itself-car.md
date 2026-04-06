@@ -72,6 +72,9 @@ evidence:
   - id: INS-260330-16CD
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-500F
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 Lex Fridman made a deliberate moderation choice: rather than strictly controlling the Israel-Palestine debate to prevent emotion from boiling, he allowed the passion to flow because 'that emotion in itself spoke volumes.' The conversation became a microcosm of the actual conflict — the anger, frustration, biting wit, and occasional respect all carried meaning about the underlying tensions.
 

@@ -49,6 +49,7 @@ stance: >-
 related:
   - INS-260322-83D4
   - INS-260325-175B
+  - INS-260321-C513
   - INS-260328-4717
   - INS-260403-0A97
   - INS-260323-4EE4
@@ -68,6 +69,9 @@ evidence:
     classified_at: '2026-04-05'
   - id: INS-260404-420F
     type: TRANSFERS_TO
+    classified_at: '2026-04-05'
+  - id: INS-260325-175B
+    type: SUPPORTS
     classified_at: '2026-04-05'
 ---
 Demis Hassabis frames the path to AGI as a two-layer system: large multimodal models that serve as increasingly accurate world models, with AlphaZero-style planning and search mechanisms operating on top. He draws the analogy to chess — brute-force systems like Deep Blue search millions of positions, AlphaZero searches tens of thousands, and human grandmasters search only hundreds, because better models enable more efficient search. The implication is that improving LLM quality directly reduces the compute needed for planning. This contradicts pure scaling hypotheses that suggest simply making models bigger will produce AGI. Hassabis bets that the final AGI system will use large multimodal models as a foundation but will require additional planning and search capabilities that current LLMs lack — specifically the ability to chain reasoning, explore possibility spaces, and achieve concrete goals in the world.

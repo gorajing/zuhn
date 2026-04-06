@@ -55,6 +55,10 @@ related:
   - PRI-260323-9D46
   - PRI-260403-5DEA
   - PRI-260403-E023
+evidence:
+  - id: INS-260327-8B1A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Credentials are fundamentally a prediction mechanism—they exist because large organizations cannot cheaply or immediately measure the performance of individual recruits. When the economy consists of many small organizations competing in a market, the market itself acts as the measurement system: it takes every organization and keeps just the good ones, which approaches taking every person and keeping the good ones as organizations shrink.
 

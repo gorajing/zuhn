@@ -50,11 +50,10 @@ related:
   - INS-260323-0AF3
   - INS-260330-19C3
   - INS-260330-2119
-  - INS-260330-3AB4
   - INS-260404-8050
   - INS-260404-FF39
-  - INS-260403-C0D4
   - INS-260404-E9F3
+  - INS-260403-C0D4
   - INS-260405-C342
 evidence:
   - id: INS-260327-8E45
@@ -87,6 +86,21 @@ evidence:
   - id: INS-260330-13A1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-8050
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-FF39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260403-C0D4
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-E9F3
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260405-C342
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 When photosynthesis first evolved, oxygen was genuinely a waste product — it was toxic to the anaerobic organisms that dominated Earth. The Great Oxidation Event caused a mass extinction. Yet this 'waste' eventually enabled the entire branch of aerobic life, including every animal that has ever existed.
 

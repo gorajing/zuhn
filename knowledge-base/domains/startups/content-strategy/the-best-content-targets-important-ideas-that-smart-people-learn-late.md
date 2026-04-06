@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260321-3D65
   - INS-260327-6F11
-  - INS-260327-6F12
   - INS-260329-5975
   - INS-260403-BDE0
   - INS-260403-D1D4
@@ -58,6 +57,23 @@ related:
   - INS-260403-6BF7
   - INS-260403-2AF0
   - INS-260404-7F34
+  - INS-260404-200B
+evidence:
+  - id: INS-260403-2AF0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-7F34
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A4CF
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-200B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-BDE0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham's framework reveals a specific high-value content niche: important things that people tend to learn late. These are ideas where the novelty-importance tradeoff is most favorable — the topics are genuinely important, and the audience (smart but inexperienced people) has maximum room for their thinking to change. This is distinct from writing about obscure trivia (high novelty, low importance) or rehashing well-known important ideas (high importance, low novelty).
 

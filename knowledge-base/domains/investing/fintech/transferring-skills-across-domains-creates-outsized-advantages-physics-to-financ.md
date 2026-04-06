@@ -69,6 +69,9 @@ evidence:
   - id: INS-260323-E77E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-CF93
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Ed Thorpe transferred card-counting skills from blackjack to pioneering dynamic hedging on Wall Street (20% annual returns for 20 years). Jim Simons transferred Cold War code-breaking skills to finding stock market patterns (66% annual returns for 30 years). Bachelier discovered the random walk 5 years before Einstein by studying stock markets rather than pollen grains.
 

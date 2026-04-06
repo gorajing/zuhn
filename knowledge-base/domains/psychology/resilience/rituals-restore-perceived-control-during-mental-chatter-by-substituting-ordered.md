@@ -55,6 +55,10 @@ related:
   - INS-260403-CBB2
   - INS-260403-3756
   - INS-260325-2944
+evidence:
+  - id: INS-260403-36C1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 When chatter takes over, the subjective experience is one of losing control — thoughts spiral and you can't redirect them. Rituals work by providing an alternative source of control: a fixed, ordered sequence of behaviors performed identically each time. The mechanism isn't mystical; it's compensatory. You trade cognitive control (which chatter has hijacked) for procedural control (which remains accessible).
 

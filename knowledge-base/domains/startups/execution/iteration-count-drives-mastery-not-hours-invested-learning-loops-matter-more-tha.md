@@ -99,6 +99,9 @@ evidence:
   - id: INS-260329-E6A1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-C135
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Naval reframes Gladwell's 10,000 hours concept: it's directionally correct but misleading because it implies passive time accumulation leads to mastery. The actual driver is the number of complete iteration cycles: try something, test the result against a free market or physics, ask what worked, make a creative guess for improvement, and repeat. The faster you can rotate through this loop, the steeper your learning curve.
 

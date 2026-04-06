@@ -69,6 +69,9 @@ evidence:
     relationship: RELATED
   - id: INS-260323-5A96
     relationship: RELATED
+  - id: INS-260405-DC20
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Jin identifies a clear pattern in Chinese economic history: reform produces growth, growth slows, new reform produces the next wave. Agricultural reforms in the 1980s, special economic zones, WTO accession in 2001 — each triggered a decade of expansion. The current challenge is that reform pace has slowed in the last 15 years, with political security priorities increasingly overriding economic optimization.
 

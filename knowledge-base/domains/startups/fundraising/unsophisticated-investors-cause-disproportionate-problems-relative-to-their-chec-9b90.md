@@ -58,5 +58,8 @@ evidence:
   - id: INS-260323-1B42
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-47B7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 YC consistently observes that the investors who cause the most problems are unsophisticated ones — friends, family, and neighbors putting in $5,000-$10,000 each. These investors don't understand that startup investing is a long-term, high-risk game. Eventually they reach a point where they think 'I could use that money for a new kitchen' and start pressuring the company for returns. This creates operational drag at precisely the wrong moments. The solution is to only take money from accredited investors who understand and can afford to lose their investment. The broader principle: investor quality matters more than investor quantity, and the true cost of easy money from unsophisticated sources compounds over the life of the company in ways that aren't visible at the time of the check.

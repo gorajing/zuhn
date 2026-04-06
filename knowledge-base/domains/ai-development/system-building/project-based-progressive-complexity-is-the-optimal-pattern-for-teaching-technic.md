@@ -76,6 +76,15 @@ evidence:
   - id: INS-260329-493A
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260329-E402
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-3263
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260329-820D
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 This tutorial's structure — starting with a simple calculator, progressing to mad libs, then a guessing game, then a translator, then a quiz — embeds each new concept (variables, conditionals, loops, functions, file I/O, classes) inside a working project. The learner never encounters an abstract concept without an immediate application.
 

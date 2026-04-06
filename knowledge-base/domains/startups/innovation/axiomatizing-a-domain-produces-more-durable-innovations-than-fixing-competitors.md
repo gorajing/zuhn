@@ -75,6 +75,12 @@ evidence:
   - id: INS-260327-F232
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260402-26B0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-89CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham makes a subtle but powerful distinction: Lisp didn't succeed because McCarthy analyzed Fortran's weaknesses and addressed them. It succeeded because McCarthy was doing something entirely different — trying to create a mathematical notation for computation. The innovations emerged as natural consequences of that theoretical framework rather than as patches to existing problems.
 

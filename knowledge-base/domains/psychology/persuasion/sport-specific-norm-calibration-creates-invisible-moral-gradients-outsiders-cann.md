@@ -57,6 +57,10 @@ related:
   - INS-260330-7E3F
   - INS-260330-15AE
   - PRI-260328-4144
+evidence:
+  - id: INS-260403-DE45
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Harris maps a spectrum from soccer (where fake fouls are accepted gamesmanship) to hockey (where punching is tolerated) to golf (where failing to sign a scorecard disqualifies a Masters winner). People outside a domain often can't perceive these moral gradients — they see 'cheating in sports' as a single category. But insiders understand that the identical act of deception carries radically different moral weight depending on where the domain's norms have settled.
 

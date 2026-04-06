@@ -59,6 +59,25 @@ related:
   - INS-260402-BA91
   - INS-260403-1448
   - INS-260403-E1AD
+evidence:
+  - id: INS-260323-4AB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-8C69
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-BA91
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-E1AD
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-6BBB
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-08E6
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham uses Newton as a personal reproach — a reminder that the biggest obstacle to great work isn't lack of ability but the comfortable gravitational pull of small problems. Small questions are 'pleasantly familiar' and offer immediate rewards, even bigger rewards in your own lifetime. But this is the route to 'well-deserved obscurity.'
 

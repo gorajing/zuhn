@@ -58,6 +58,25 @@ related:
   - INS-260403-A06E
   - INS-260403-2B63
   - INS-260329-640C
+evidence:
+  - id: INS-260402-9D7B
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260402-8223
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-A06E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-6BFC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-31B5
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260329-640C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham uses Bill Gates as the canonical example: Gates didn't just love programming (common taste) — he loved writing software for customers (strange taste). This distinction matters enormously because common interests create intense competition while strange interests that happen to align with market demand create near-monopolies of authentic motivation.
 

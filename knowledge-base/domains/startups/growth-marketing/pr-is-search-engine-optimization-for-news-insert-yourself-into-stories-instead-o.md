@@ -56,5 +56,8 @@ evidence:
   - id: INS-260324-8D35
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260323-CD03
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham's startup spent its entire marketing budget on a PR firm at $16,000/month while assembling their own computers to save money — and considered it worth every penny. The firm secured press hits in over 60 publications in 18 months, including early promotion of eBay. The mechanism mirrors search engine optimization: instead of buying ad space that readers have learned to skip, you get your story woven into the editorial fabric that readers actually consume and trust. This makes PR especially valuable for small companies who can't afford large advertising budgets, since a well-placed story costs the same regardless of company size.

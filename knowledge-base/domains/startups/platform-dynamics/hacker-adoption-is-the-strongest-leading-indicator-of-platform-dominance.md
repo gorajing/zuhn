@@ -52,6 +52,10 @@ related:
   - INS-260328-91A1
   - INS-260325-BC2A
   - INS-260403-C37B
+evidence:
+  - id: INS-260325-BC2A
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Paul Graham argues that hacker tool choices are the most reliable leading indicator of mainstream technology adoption. His examples span decades: Unix workstations (Sun) in the 1980s became standard enterprise computing, VoIP experiments in 1994 became a massive industry, and the web itself spread from CS departments to everyone. The mechanism is causal, not merely correlational — hackers build the novel software that creates the ecosystem that eventually pulls in mainstream users.
 

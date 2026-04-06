@@ -53,6 +53,15 @@ related:
 evidence:
   - id: INS-260404-6945
     relationship: RELATED
+  - id: INS-260405-966C
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260323-9AA5
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260404-2135
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Costco's radical curation—stocking roughly 4,000 items versus a supermarket's 30,000 or Walmart's 140,000—seems like a limitation but functions as a leverage multiplier. When suppliers compete to be the single option in a category across 700+ stores and 94 million members, they'll lower prices and even reengineer products (like redesigning cashew containers to save 24,000 pallets annually).
 

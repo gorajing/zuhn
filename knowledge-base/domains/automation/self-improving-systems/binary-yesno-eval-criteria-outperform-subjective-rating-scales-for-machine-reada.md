@@ -72,6 +72,9 @@ evidence:
   - id: INS-260404-5365
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-DD95
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The most common failure point in autoresearch loops is the eval. People make criteria like 'Is this engaging?' or 'Does it sound good?' — that's just vibes, and machines can't reliably optimize against vibes. The fix is binary yes/no questions with zero gray area.
 

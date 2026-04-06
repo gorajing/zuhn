@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-FBD9
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260404-AE2E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Bustamante draws a sharp distinction most people never consider: ethics are externally defined by professional codes (attorneys, doctors, teachers all have different ethical codes), while morals are internally held personal beliefs about right and wrong. Most people conflate the two.
 

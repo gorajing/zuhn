@@ -59,5 +59,9 @@ related:
   - PRI-260328-FD47
   - INS-260329-DAC4
   - INS-260330-8481
+evidence:
+  - id: INS-260403-E8E3
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Six tactics emerging: (1) Hackathons as public performance — ElevenLabs' hackathon went viral when two AIs started conversing; Lovable staged designer-vs-vibecoder showdowns. (2) Social experiments — Bolt's $1M world-record hackathon for non-developers, Genspark's 'break the agent' challenges. (3) AI starter packs — companies bundling complementary tools (Captions + Runway + ElevenLabs + Hedra) as functional stacks that cross-pollinate audiences. (4) Insider evangelists over influencers — credible early adopters with domain authority in subreddits and Discord, not big-name creators. (5) Launch videos as distribution — Manus got 500K+ views from a 4-minute demo reel posted directly to X. (6) Building in public — broadcasting ARR milestones and experiments creates community feeling and provokes competitive momentum.

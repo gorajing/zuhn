@@ -53,6 +53,25 @@ related:
   - INS-260404-C720
   - INS-260328-031A
   - INS-260403-B635
+evidence:
+  - id: INS-260327-A048
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-E089
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-16CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-C720
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260328-031A
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-B635
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In the same MRI study, Samsung users showed no positive neural response to Samsung news — only reverse empathy toward Apple (positive brain response to negative Apple news). Critically, when asked directly, these users did not report the feelings their brain scans revealed.
 

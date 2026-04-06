@@ -82,6 +82,15 @@ evidence:
   - id: INS-260403-8BF4
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260403-AC03
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260405-4810
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-616F
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The productivity framing of AI writing tools treats writing as a separable output step: you think the thoughts, AI renders them into prose. Graham's essay challenges this framing directly. Writing is not the downstream product of thinking — it is thinking itself. The struggle to express an idea precisely IS the process of understanding it.
 

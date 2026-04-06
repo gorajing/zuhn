@@ -58,5 +58,9 @@ related:
   - INS-260328-3FA4
   - INS-260403-B133
   - INS-260403-3835
+evidence:
+  - id: INS-260404-0D62
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Horowitz endorses the kernel of founder mode: Brian Chesky hired extremely senior people, overly deferred to them, which created fiefdoms and politics, then took the company back by being more dictatorial. That correction was right. But Horowitz sees founders taking it to a dangerous extreme: 'I don't want to hire any senior people.' His response: okay, so you're going to teach someone who's never been a CFO how to be a CFO while also building a company? You need the raw horsepower and experience of senior hires — the lesson isn't to avoid them, it's to maintain your own decision-making authority and ground-level understanding while leveraging their expertise. The balance is what matters: stay decisive, stay connected to the details, but hire people who actually know how to do the job. The correction of over-deferral should not be the over-correction of refusing expertise.

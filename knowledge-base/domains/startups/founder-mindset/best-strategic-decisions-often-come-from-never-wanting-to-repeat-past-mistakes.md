@@ -66,6 +66,9 @@ evidence:
   - id: INS-260325-D037
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260403-F03A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 When asked how he knew to acquire massive GPU capacity before the AI wave, Zuckerberg admitted it wasn't foresight about AI — it was trauma from being GPU-constrained while trying to catch up to TikTok with Reels. His operating principle was 'always have enough capacity to build something you can't see on the horizon yet,' which led him to double the GPU order beyond what Reels required.
 

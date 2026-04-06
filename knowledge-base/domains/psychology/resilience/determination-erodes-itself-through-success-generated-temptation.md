@@ -56,6 +56,22 @@ related:
   - PRI-260328-4313
   - PRI-260323-2C5C
   - INS-260404-108C
+evidence:
+  - id: INS-260329-F33F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-976E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-B4C8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-1FA8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-108C
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a subtle feedback loop: determination produces achievement, achievement increases temptation (status, comfort, options), and temptation tips the will-discipline balance toward willfulness, causing regression to the mean. This is Shakespeare's insight about 'thin men' being dangerous — they weren't distracted by power's perquisites.
 

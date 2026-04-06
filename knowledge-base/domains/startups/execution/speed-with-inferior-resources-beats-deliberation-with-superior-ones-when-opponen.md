@@ -113,5 +113,8 @@ evidence:
   - id: INS-260327-E9FC
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260327-7750
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 In 1796, Napoleon took command of France's worst army -- the Army of Italy was starved of money, supplies, and troops, treated as a sideshow to the Rhine campaigns. Within one month he had won his first brilliant campaign. His secret was speed: he marched his men faster than Austrian and Piedmontese commanders believed possible, defeating each in detail before they could unite their superior forces. At the Granicus (334 BC), Alexander showed the same instinct -- attacking across the river immediately rather than waiting for dawn, buying time for his phalanx to cross by personally leading the risky cavalry vanguard. The pattern: when you're outresourced, the opponent's planning assumptions about your timeline become your greatest weapon. Move before they've finished deciding how to respond.

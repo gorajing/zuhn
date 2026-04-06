@@ -51,6 +51,16 @@ related:
   - INS-260329-27DF
   - INS-260326-6B98
   - INS-260325-5A72
+evidence:
+  - id: INS-260329-27DF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260325-5A72
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260326-6B98
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The framework emphasizes that a well-designed innovation portfolio is deliberately heavy on the left (high-risk, unvalidated) side. This is not a sign of poor discipline — it is the mathematically necessary structure given that most initiatives fail during testing. Organizations that maintain too few early-stage initiatives starve their future growth pipeline.
 

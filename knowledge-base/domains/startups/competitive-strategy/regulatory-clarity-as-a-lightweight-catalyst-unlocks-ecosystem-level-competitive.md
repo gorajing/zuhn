@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-365A
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260323-EA65
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 The stablecoin case illustrates a powerful pattern: instead of building complex infrastructure directly, authorities can catalyze entire ecosystems by providing just three things — a clear definition (what qualifies as a digital USD), simple requirements (full reserves, auditable finances, KYC'd founders), and legal protection (trademark enforcement). This is remarkably low-lift governance that enables high-impact outcomes.
 

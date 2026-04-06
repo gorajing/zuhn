@@ -68,6 +68,9 @@ evidence:
   - id: INS-260403-99DE
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260330-77D1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Costco's business model inverts the typical retail profit equation. While most retailers profit from markup on goods sold, Costco generates 75% of its revenue from membership fees. This creates a powerful incentive alignment: the company's primary goal becomes keeping members happy enough to renew at 90% annually, which means relentlessly lowering prices rather than raising them. The self-imposed 15% markup ceiling (11% average) is not altruism — it's rational behavior when your real product is the membership itself.
 

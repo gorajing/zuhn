@@ -64,6 +64,9 @@ evidence:
   - id: INS-260329-A231
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-7644
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Hormozi observes that most operators gravitate toward tasks they already know how to solve — the B+ problems — because completing them delivers immediate satisfaction. Meanwhile the single A+ problem, which is ambiguous and complex, keeps getting deferred. The critical insight is that this isn't laziness; it's a predictable neurological preference for certainty and quick feedback loops over uncertain, high-variance work.
 

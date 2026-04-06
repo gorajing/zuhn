@@ -69,6 +69,12 @@ evidence:
   - id: INS-260402-B66A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-45D5
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-200B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that the space of startup ideas has been so thoroughly picked over that a startup generally has to work on something everyone else has overlooked. But this doesn't happen through conscious effort. Usually successful startups happen because the founders are sufficiently different from other people that ideas few others can see seem obvious to them. The innovation is unconscious at the moment of founding.
 

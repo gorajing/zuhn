@@ -55,5 +55,8 @@ evidence:
   - id: INS-260327-FEB7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-C37D
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Food content is algorithm-friendly and universally relatable, making it one of the easiest ways to build an audience but hardest to stand out. The leading mukbangers succeed through personality, not food. One creator (Nate, 700K TikTok) talks stream-of-consciousness while eating, deliberately doesn't watch competitors, always wears the same blue hat and white shirt so food pops on camera, plans content a month ahead rotating between categories, and never films more than 20 minutes. The insight: in any saturated content category, the only durable differentiation is voice/personality — everything else (food choice, production quality, editing style) gets copied immediately.

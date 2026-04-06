@@ -54,6 +54,10 @@ related:
   - INS-260330-DA0B
   - INS-260330-43E8
   - INS-260330-6D52
+evidence:
+  - id: INS-260404-2AA1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The default response to boredom is seeking stimulation: phone, TV, social media. But boredom is information, not a problem. It signals a gap between what you're capable of and what you're doing. The person bored at their job isn't understimulated - they're underutilized.
 

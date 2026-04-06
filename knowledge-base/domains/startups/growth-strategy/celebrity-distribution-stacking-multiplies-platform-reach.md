@@ -49,5 +49,9 @@ related:
   - INS-260328-ACC3
   - INS-260324-C33C
   - INS-260324-1CC8
+evidence:
+  - id: INS-260327-84E6
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 VDC's model separates operational infrastructure from brand and distribution. The same kitchen network produces MrBeast Burgers, Mariah Carey's Cookies, and Tyga's Chicken Bites. Each celebrity brings a distinct audience segment, but the fulfillment cost is nearly identical. This is audience stacking — each new celebrity brand is an incremental distribution channel layered onto fixed operational capacity. The marginal cost of adding a new brand is just recipe development and a marketing deal, while the marginal revenue captures an entirely new customer segment. This creates a compounding advantage where the platform becomes more valuable with each brand addition.

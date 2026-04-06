@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 358 insights
+> 357 insights
 
 - `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
@@ -103,7 +103,6 @@
 - `INS-260327-787C` [high] Napoleon gave kingdoms to his brothers and the cavalry command to his brother-in-law Murat — guaranteeing loyalty but placing people in roles beyond their strategic capability.
 - `INS-260327-8DAA` [high] The First Crusade succeeded despite enormous losses because crusader commitment was absolute, while Muslim defenders were divided between rival Seljuk and Fatimid factions.
 - `INS-260327-0D3C` [high] Farm bailouts flow disproportionately to the largest 7% of producers who receive 63% of assistance.
-- `INS-260327-97AD` [high] Themistocles sent a false message to Xerxes saying the Greeks were about to flee, which Xerxes believed because it confirmed what he wanted to hear.
 - `INS-260330-4150` [high] Great powers that spend more servicing debt than funding defense consistently lose their dominant position within a generation.
 - `INS-260327-236D` [high] Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.
 - `INS-260327-6ACA` [high] The US forced Britain to withdraw from Suez not through military threats but by threatening to collapse the pound sterling through selling reserves and blocking IMF support.

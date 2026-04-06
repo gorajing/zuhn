@@ -46,5 +46,12 @@ related:
   - INS-260403-ED1F
   - INS-260330-FB5A
   - INS-260330-76DA
+evidence:
+  - id: INS-260403-ED1F
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260330-76DA
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Most people who think they're refuting an argument are actually attacking peripheral points or strawmen. Graham's DH6 level requires a specific structure: explicitly state what you believe the author's central point is, quote a passage that supports or depends on that point, then explain why it's wrong. This forced commitment acts as an honesty mechanism—if you can't articulate the central point, you probably don't understand the argument well enough to refute it. The framework also exposes a common form of intellectual dishonesty: picking off minor errors (grammar, numbers, tangential claims) to discredit an opponent while leaving the core argument untouched.

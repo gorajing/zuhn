@@ -59,6 +59,10 @@ related:
   - INS-260330-7B1C
   - INS-260403-B4DC
   - PRI-260324-3AAE
+evidence:
+  - id: INS-260403-B4DC
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 NFX observes that the crypto ecosystem's revolutionary ethos — overthrow existing power structures — becomes counterproductive when applied to gaming. Web2 game studios spent decades perfecting engagement mechanics, live ops, game economy design, and user psychology. Discarding this knowledge base to build 'from scratch' in web3 is wasteful.
 

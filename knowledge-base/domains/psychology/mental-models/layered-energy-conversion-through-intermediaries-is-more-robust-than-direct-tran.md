@@ -52,6 +52,7 @@ stance: >-
   steps rather than attempting a single efficient leap.
 related:
   - INS-260330-1084
+  - INS-260330-4D0E
   - INS-260403-2DC0
   - INS-260403-FC01
   - INS-260404-040D
@@ -59,6 +60,25 @@ related:
   - INS-260330-BC56
   - INS-260404-A1E2
   - INS-260405-8E85
+evidence:
+  - id: INS-260405-8E85
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260404-A1E2
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-BC56
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260330-1084
+    type: EXTENDS
+    classified_at: '2026-04-05'
+  - id: INS-260404-040D
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260404-F014
+    type: REFINES
+    classified_at: '2026-04-06'
 ---
 The electron transport chain in photosynthesis is a textbook example of layered conversion: photon energy excites an electron, which passes through multiple protein complexes, each extracting a small amount of energy to pump protons, which then flow through ATP synthase to produce ATP, which finally powers the Calvin Cycle to fix carbon. No single step is efficient, but the chain is extraordinarily reliable.
 

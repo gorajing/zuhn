@@ -57,6 +57,10 @@ related:
   - INS-260403-4337
   - INS-260321-3521
   - PRI-260323-1B96
+evidence:
+  - id: INS-260405-76E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 In Latin America and similar low-trust markets, consumers don't casually download apps and try them — they first ask whether the company and person behind it are trustable. This is fundamentally different from Silicon Valley where the barrier to trial is near zero. Founders must identify the specific trust symbols their target population respects (trusted companies, community leaders, local endorsements) and build 'trust bridges' by associating with those symbols.
 

@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-ADC4
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260403-2B6E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Niksen is the Dutch concept of the art of doing nothing: staring out the window, watching branches sway, listening to birds. It is not meditation and not a forced practice. It is a voluntary pause where you simply stop all busyness and look around.
 

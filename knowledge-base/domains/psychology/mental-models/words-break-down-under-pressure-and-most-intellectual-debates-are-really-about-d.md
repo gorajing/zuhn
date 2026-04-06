@@ -67,5 +67,8 @@ evidence:
   - id: INS-260330-76DA
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-C49F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham identifies what he calls the central fact of philosophy: words are inherently imprecise and break down when pushed too far. Questions like 'do we have free will?' or 'do abstract ideas exist?' collapse into definitional disputes rather than genuine disagreements about reality. This insight applies far beyond philosophy — in business strategy debates, political arguments, and technical architecture discussions, participants often argue past each other because they're using the same words with different implicit definitions. The practical remedy is to notice when a debate has become about word meanings rather than substance, and either define terms precisely or acknowledge that the question as posed doesn't have a determinate answer. Math succeeds precisely because it is the study of terms with precise meanings.

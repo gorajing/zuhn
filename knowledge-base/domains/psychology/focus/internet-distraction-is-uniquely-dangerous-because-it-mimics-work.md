@@ -49,6 +49,10 @@ related:
   - INS-260327-AAFA
   - INS-260323-3436
   - INS-260327-E7B8
+evidence:
+  - id: INS-260323-3436
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham points out that spending a morning on the sofa watching TV would immediately register as a danger sign—like drinking alone. But spending the same morning at your desk cycling between news, email, and web browsing feels productive because the posture, location, and tool are identical to actual work.
 

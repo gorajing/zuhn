@@ -60,6 +60,10 @@ related:
 stance: >-
   'Nature abhors a vacuum' dominated thinking for over a thousand years because
   Aristotle's framing was so intuitively compelling that even experimen...
+evidence:
+  - id: INS-260403-09F6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Aristotle's claim that nature abhors a vacuum wasn't just wrong -- it was so persuasively framed that it survived for over a millennium. When Torricelli finally created a vacuum in 1643, the philosophical establishment resisted: 'How can you show that centuries of philosophical tradition are wrong just by doing a trick?' The straw demonstration makes the intuition viscerally clear -- nature really does seem to fight against emptiness.
 

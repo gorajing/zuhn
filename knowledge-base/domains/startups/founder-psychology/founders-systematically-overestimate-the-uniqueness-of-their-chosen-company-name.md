@@ -49,5 +49,15 @@ related:
   - INS-260330-5EAC
   - INS-260330-CC30
   - INS-260321-1A84
+evidence:
+  - id: INS-260330-CC30
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260330-5EAC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260327-9BA2
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies two forces that keep founders attached to suboptimal names: identity attachment and lack of imagination. The second is particularly insidious because founders are often excellent at many skills required to build companies, leading them to assume they're equally capable at naming — which is an orthogonal skill. Once founders acknowledge that naming is a distinct ability they may lack, the solution becomes straightforward: either delegate to someone with that skill, or recognize that the space of acceptable names is vast enough that systematic search (buying available domains) works well. Graham reports 80% success finding good names in 20-minute sessions, suggesting the constraint is psychological, not practical.

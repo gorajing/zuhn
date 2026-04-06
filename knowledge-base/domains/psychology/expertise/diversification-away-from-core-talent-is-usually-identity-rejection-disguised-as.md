@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-4314
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-D966
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Scott Adams was a world-historical talent at cartooning but spent decades on failed restaurants, food products, TV shows, and tech startups — not because these were good bets, but because 'just a cartoonist' felt insufficient. This pattern appears across domains: Michael Jordan leaving basketball for baseball, accomplished academics abandoning research for consulting. The key diagnostic is whether the person frames their core talent dismissively ('I'm just a cartoonist') while pursuing ventures they have no edge in.
 

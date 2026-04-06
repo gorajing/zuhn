@@ -59,6 +59,18 @@ evidence:
   - id: INS-260330-B360
     type: CONTRADICTS
     classified_at: '2026-04-05'
+  - id: INS-260323-7CA7
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-A937
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260330-B966
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260329-9A7F
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The bootcamp format — 60 hours over 5 days with a live cohort — is not simply a scheduling choice. Immersion reduces context-switching costs, allows social norms and trust to develop within the cohort, and forces practitioners to confront edge cases and failure modes that would never arise in isolated exercises.
 

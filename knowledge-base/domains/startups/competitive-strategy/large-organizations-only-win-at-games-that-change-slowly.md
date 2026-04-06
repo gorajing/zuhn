@@ -50,6 +50,13 @@ related:
   - INS-260403-B7C6
   - INS-260321-21BE
   - PRI-260322-8FD4
+evidence:
+  - id: INS-260321-21BE
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260403-CA46
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 For most of history, bigger organizations won because they could marshal more resources and impose more discipline. But this advantage assumed a slowly-changing competitive environment where opponents couldn't rewrite the rules mid-game through new technology.
 

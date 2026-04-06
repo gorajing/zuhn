@@ -61,6 +61,12 @@ evidence:
   - id: INS-260327-C79D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-D33B
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-C695
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Unlike public markets where fear and greed create stabilizing counter-pressures (bargain hunters buy when others panic), startup investing has no such dampening mechanism. No investor wants the 'bargain' startup that everyone else passed on. With only ~10 relevant investors for any given startup, and each heavily influenced by the others' opinions, the system resembles a primitive organism that contracts violently when any part is irritated.
 

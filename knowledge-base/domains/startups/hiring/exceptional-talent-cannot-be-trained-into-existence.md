@@ -69,6 +69,21 @@ evidence:
   - id: INS-260320-DDD9
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260323-042C
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260404-BE07
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-2666
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-8190
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260329-F51D
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Paul Graham draws a sharp line between competent and exceptional programmers. Competent programmers can be produced through training programs, but exceptional ones possess an aptitude and deep interest that no curriculum can manufacture. The difference isn't speed — a great programmer invents things an ordinary one wouldn't even think of, potentially worth 100-1000x an average salary.
 

@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-247C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-8BE9
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 The BRICS alliance aims to reduce global dollar dependence, but the reality is more nuanced than revolutionary. Russia increased yuan-denominated oil trade with China and reduced Treasury holdings, but primarily under sanction pressure. China promotes yuan oil contracts and trade settlements but selectively, not comprehensively.
 

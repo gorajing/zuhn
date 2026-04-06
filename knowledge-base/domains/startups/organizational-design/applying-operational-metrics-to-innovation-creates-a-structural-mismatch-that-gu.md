@@ -57,5 +57,8 @@ evidence:
   - id: INS-260321-167A
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260325-0688
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The three mistakes described in this article share a common root: organizations treating innovation like an operational activity. Business plans, winner-picking, and project persistence all make sense when managing a proven business model—you know your inputs, outputs, and success criteria. But innovation is a search process, not an execution process. When operational tools (ROI projections, milestone-based funding, risk-averse culture) are applied to innovation, they systematically filter out the most uncertain bets—which are often the most valuable ones. The fix isn't just process change; it requires building a genuinely separate operating system for innovation with its own metrics, investment cadence, and failure tolerance.

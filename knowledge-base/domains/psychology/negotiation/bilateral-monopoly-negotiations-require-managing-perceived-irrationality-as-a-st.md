@@ -58,6 +58,10 @@ related:
   - PRI-260324-8EE6
   - PRI-260322-9E36
   - PRI-260323-9928
+evidence:
+  - id: INS-260329-3D14
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
 ---
 Somali pirate ransom negotiations are textbook bilateral monopolies: one buyer, one seller, massive information asymmetry, and no outside options. In this structure, pirates must simultaneously project two contradictory signals — rash enough that their threats are credible, yet patient enough that the counterparty believes a deal is reachable. Ship owners mirror this by appearing too poor to pay while clearly having resources.
 

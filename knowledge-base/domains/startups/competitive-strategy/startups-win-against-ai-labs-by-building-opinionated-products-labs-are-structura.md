@@ -53,10 +53,14 @@ related:
   - INS-260404-D672
   - PRI-260324-36BF
   - INS-260405-0B17
-  - INS-260404-438C
+  - INS-260404-0095
 stance: >-
   AI labs and big tech are structurally incapable of building opinionated
   standalone consumer products because their promo committees incentivize saf...
+evidence:
+  - id: INS-260404-D672
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Despite dozens of consumer product launches from OpenAI and Google in 2025 — group chat, Pulse, Atlas, Sora social, Stitch, Gems, Opal, Doppel — almost none gained traction beyond Notebook LM. The a16z team attributes this to a structural problem: at big companies, mid-career PMs get promoted by building safe features that extend core metrics, not by shipping risky opinionated products that might fail or create legal/compliance headaches.
 

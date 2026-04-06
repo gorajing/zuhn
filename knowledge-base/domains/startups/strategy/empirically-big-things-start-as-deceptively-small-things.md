@@ -56,6 +56,10 @@ related:
   - INS-260405-9FD9
   - INS-260403-2FC3
   - INS-260405-1B93
+evidence:
+  - id: INS-260403-BCB1
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham argues that the popular image of a visionary — someone with a clear view of the future who builds toward it — is empirically wrong. Microsoft started with a BASIC interpreter for a tiny machine. Facebook started as a Harvard-only social directory. Neither founder knew how big the company would become; they just knew they were onto something.
 

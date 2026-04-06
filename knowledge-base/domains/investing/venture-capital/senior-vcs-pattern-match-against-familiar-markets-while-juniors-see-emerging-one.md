@@ -56,6 +56,16 @@ related:
   - INS-260402-4719
   - PRI-260323-81E9
   - INS-260405-AA3C
+evidence:
+  - id: INS-260403-910E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260402-4719
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260405-AA3C
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Fred Wilson's own account shows the three senior partners at Union Square Ventures 'didn't get' Airbnb while the two junior members were enthusiastic. This is not an isolated anecdote — it reveals a structural bias where experience becomes a liability. Senior investors have stronger mental models of what markets look like, so they evaluate new concepts against existing categories ('this is like Etsy for beds' rather than 'this could replace hotels'). Junior investors, with fewer crystallized frameworks, are more open to novel category creation.
 

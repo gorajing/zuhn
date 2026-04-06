@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-AEA5
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-7E6A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Jacobsen distinguishes between strategic nukes (ICBMs, submarine-launched missiles, bomber-delivered — the full arsenal) and tactical nukes (smaller warheads designed for battlefield use). Russia has been threatening tactical nuclear use in current conflicts, framing it as 'just an escalation.'
 

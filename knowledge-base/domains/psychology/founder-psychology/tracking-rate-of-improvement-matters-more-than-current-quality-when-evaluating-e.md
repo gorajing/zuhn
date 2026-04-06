@@ -60,6 +60,18 @@ evidence:
   - id: INS-260328-0B99
     type: CHALLENGES
     classified_at: '2026-04-05'
+  - id: INS-260323-DA6F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260328-B57E
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-40DA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260329-22B6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Current quality of early work is a poor signal for whether to continue, because early work on ambitious projects is structurally bad relative to finished work — that's not a flaw, it's a phase. The more relevant question is whether the work is improving and at what rate.
 

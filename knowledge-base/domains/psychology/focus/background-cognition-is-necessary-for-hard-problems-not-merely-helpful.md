@@ -48,5 +48,12 @@ related:
   - INS-260330-1E5E
   - INS-260327-CEE4
   - INS-260323-9C11
+evidence:
+  - id: INS-260327-CEE4
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260323-9C11
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Paul Graham distinguishes between deliberate thinking and 'ambient thought' — the kind of processing that happens when your mind drifts freely in the shower or on a walk. Most people treat this background cognition as a pleasant bonus, but Graham argues it's actually necessary for breakthrough work. The mechanism is familiar: you work hard on a problem, fail, then see the answer later while doing something else. The critical implication is that you can only have one 'top idea' receiving this ambient processing at a time, which means the allocation of your background attention is a zero-sum resource that deserves deliberate management.

@@ -56,6 +56,16 @@ related:
   - INS-260402-26B0
   - INS-260330-F82A
   - INS-260404-1A18
+evidence:
+  - id: INS-260403-2457
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260404-FAE9
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-1A18
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and O2 was scarce, making its poor specificity acceptable. As plants changed the atmosphere by producing oxygen, RuBisCo began grabbing O2 instead of CO2 roughly half the time — creating toxic byproducts. Yet plants doubled down, producing ~40 billion tons of the enzyme rather than evolving a better one.
 

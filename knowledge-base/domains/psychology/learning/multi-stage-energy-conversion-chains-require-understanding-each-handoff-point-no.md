@@ -51,10 +51,14 @@ stance: >-
   inputs and outputs
 related:
   - INS-260330-F671
-  - INS-260330-0017
   - INS-260403-D2FD
   - INS-260404-52FC
   - INS-260404-2A07
+  - INS-260404-6AD7
+evidence:
+  - id: INS-260404-2A07
+    type: EXTENDS
+    classified_at: '2026-04-05'
 ---
 Photosynthesis involves a four-complex electron transport chain where energy is progressively extracted and converted: photon → excited electron → proton gradient → ATP. Each handoff has a specific mechanism and specific losses. Understanding only the input (sunlight) and output (glucose) misses the entire operational logic.
 

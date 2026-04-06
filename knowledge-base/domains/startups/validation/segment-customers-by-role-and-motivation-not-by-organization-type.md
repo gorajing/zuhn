@@ -62,6 +62,12 @@ evidence:
   - id: INS-260325-2069
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260402-F957
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-1F35
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 BioCity initially segmented their compound library customers by organization type — small biotech, universities, CROs, and large pharma — assuming these groups would have different needs, budgets, and behaviors. Through systematic customer interviews using the Value Proposition Canvas, they discovered the real divide was between biologists and chemists as roles, not between organization types. Biologists consistently reported one clear set of pains and gains, while chemists reported a completely different set, regardless of employer.
 

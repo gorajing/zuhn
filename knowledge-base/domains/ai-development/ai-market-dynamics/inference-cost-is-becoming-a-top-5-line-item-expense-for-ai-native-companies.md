@@ -54,6 +54,16 @@ related:
   - INS-260325-BEAC
   - INS-260329-0D70
   - INS-260403-D543
+evidence:
+  - id: INS-260322-D079
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260325-BEAC
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-D543
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 OpenRouter's data from processing over 100 trillion tokens reveals that inference is rapidly becoming one of the top 4-5 line item expenses for companies, especially AI-native startups where 60-80% of operating costs are inference. While companies like NVIDIA and cloud providers work to drive down per-token costs, the exponential growth in volume — particularly from agentic use cases spawning sub-agents — keeps total spend climbing. One anecdote: a developer went from $1,000/week to $1,000/hour when their app went viral.
 

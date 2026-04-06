@@ -67,6 +67,9 @@ evidence:
   - id: INS-260327-B410
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-B710
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 A third-generation Palestinian refugee tells Lex that while he has no hope in his lifetime ('I'm 50, I have seven kids, no hope'), his neighbor frames resilience differently: 'Nothing lasts forever.' This historical perspective — that all occupations eventually end — provides psychological survival fuel even when present conditions offer no rational basis for optimism.
 

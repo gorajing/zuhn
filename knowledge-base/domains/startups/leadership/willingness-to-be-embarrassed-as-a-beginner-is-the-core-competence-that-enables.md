@@ -75,6 +75,9 @@ evidence:
   - id: INS-260325-1EAC
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-0B99
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Zuckerberg articulates a profound leadership principle through his jiu-jitsu experience: the thing that stops most successful adults from growing is refusing to be a beginner again. After building an identity and expertise, people resist looking stupid. But every meaningful new capability — whether in martial arts, business, or technology — requires starting from zero.
 

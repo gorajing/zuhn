@@ -58,7 +58,7 @@ related:
   - INS-260327-DFF1
   - INS-260322-054E
   - INS-260322-9EC6
-  - INS-260327-DFF0
+  - INS-260327-5661
 stance: >-
   New AI-first financial platforms will be 10x bigger than their predecessors
   because they capture both software spend and labor spend

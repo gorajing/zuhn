@@ -70,5 +70,17 @@ evidence:
   - id: INS-260330-2BB3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-AA09
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-7BEC
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-9627
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-81D4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Hormozi contrasts two mindsets: broke people treat money like lottery tickets (high risk, low probability of payoff), while wealthy people engineer transactions to minimize downside. The wealthy approach involves buying existing cash-flowing businesses rather than starting from scratch, using seller financing so the business pays for itself, and only proceeding when the math works with built-in margins of safety. This reframes entrepreneurship from a courage narrative to an engineering narrative — the skill is in structuring deals where you can't lose much, not in having the stomach for big bets.

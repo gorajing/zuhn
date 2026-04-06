@@ -88,6 +88,9 @@ evidence:
   - id: INS-260404-50F7
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+  - id: INS-260403-AABF
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Noah Smith argues that the constraints on AI science will be a subset of the constraints on human science. Whenever data about a natural phenomenon is sparse, both AI and humans are limited to generating conjectures and designing data-collection strategies. Neither can conjure knowledge from nothing.
 

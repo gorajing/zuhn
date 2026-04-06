@@ -60,6 +60,9 @@ evidence:
     relationship: RELATED
   - id: INS-260404-D8C7
     relationship: RELATED
+  - id: INS-260404-A526
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham frames memorability as the first cut in investor evaluation: before they can evaluate you, they have to remember you. A clear analogical phrase creates a mental slot that persists. Viaweb's 'the Microsoft Word of ecommerce' instantly communicates product category, ambition level, and user experience philosophy in five words.
 

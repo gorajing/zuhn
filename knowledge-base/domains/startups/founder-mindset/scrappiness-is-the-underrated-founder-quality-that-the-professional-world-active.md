@@ -56,6 +56,13 @@ related:
   - PRI-260403-5C44
   - INS-260327-2B75
   - INS-260327-643E
+evidence:
+  - id: INS-260403-6890
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260325-D797
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Kate specifically used the word 'scrappy' to describe founders, and Graham unpacks this as the diminutive form of belligerent — someone who manages to be both threatening and undignified simultaneously. He argues this is exactly what one should want to be in any kind of work: if you're not threatening, you're probably not doing anything new, and dignity is merely a sort of plaque.
 

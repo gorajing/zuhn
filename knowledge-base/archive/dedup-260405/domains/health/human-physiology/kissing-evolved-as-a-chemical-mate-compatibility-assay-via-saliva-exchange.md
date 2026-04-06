@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-5588
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-8F70
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The evolutionary origin of kissing traces back to kiss-feeding — mothers pre-chewing food and transferring it mouth-to-mouth to infants. This behavior was co-opted for mate selection: saliva contains hormonal markers and MHC (major histocompatibility complex) signatures that allow unconscious assessment of genetic compatibility.
 

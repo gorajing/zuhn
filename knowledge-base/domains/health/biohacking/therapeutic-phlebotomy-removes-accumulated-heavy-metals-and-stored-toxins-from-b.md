@@ -39,11 +39,12 @@ stance: >-
   metals, stored seed oil metabolites, and excess iron that contribute to
   oxidative stress
 related:
-  - INS-260327-97AD
+  - INS-260327-B8E7
   - INS-260330-E3C0
   - INS-260327-A7D0
   - PRI-260328-F804
   - INS-260325-4E88
+  - INS-260323-198E
 evidence:
   - id: INS-260327-97AD
     type: CHALLENGES

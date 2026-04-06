@@ -65,6 +65,12 @@ evidence:
   - id: INS-260330-F737
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260404-B715
+    type: REFINES
+    classified_at: '2026-04-06'
+  - id: INS-260404-0D62
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham distills founder evaluation to a single axis: hapless vs. relentlessly resourceful. Bad founders, regardless of intelligence, get overwhelmed by events and give up. Good founders have 'a healthy respect for reality' but find ways to make things happen anyway. This is distinct from mere stubbornness — it includes adaptability and reality-testing.
 

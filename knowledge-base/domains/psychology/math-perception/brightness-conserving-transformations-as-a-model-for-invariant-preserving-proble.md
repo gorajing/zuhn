@@ -61,6 +61,9 @@ evidence:
   - id: INS-260405-64C5
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260404-040D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The proof's key building block is the inverse Pythagorean theorem (1/a² + 1/b² = 1/h²), which shows that replacing one lighthouse with two at specific positions conserves total brightness. This is an invariant-preserving transformation: you change the representation while keeping the quantity of interest fixed.
 

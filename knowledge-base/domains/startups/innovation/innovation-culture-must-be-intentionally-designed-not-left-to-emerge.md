@@ -53,6 +53,10 @@ related:
   - INS-260403-A99F
   - INS-260403-6224
   - INS-260404-266F
+evidence:
+  - id: INS-260330-647D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Most companies treat culture as an emergent byproduct of hiring and office norms, but Strategyzer argues culture should be designed with the same rigor as a business model. The Culture Map provides a systematic framework for making culture conversations tangible and actionable rather than fuzzy.
 

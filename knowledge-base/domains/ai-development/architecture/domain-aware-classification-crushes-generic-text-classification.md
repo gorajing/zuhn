@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-A22D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-DC6E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Paul Graham's spam filter outperformed academic Bayesian filters by 7.5 percentage points primarily because he treated email as structured data rather than flat text. By marking tokens with their context (Subject*free vs body free vs Url*free), the same word 'free' yielded spam probabilities ranging from 65% to 99.99% depending on location. This expanded vocabulary from 23,000 to 187,000 tokens.
 

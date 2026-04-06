@@ -60,6 +60,12 @@ evidence:
   - id: INS-260322-88FC
     type: EXTENDS
     classified_at: '2026-04-05'
+  - id: INS-260330-6411
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260327-EA4E
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Apple Pay's business model illustrates a counterintuitive strategy: rather than disrupting the existing payments ecosystem, Apple embedded itself within it. Banks willingly pay Apple a percentage of every transaction because Apple's dynamic security code technology reduces fraud costs that exceed what they pay Apple. This 'cost-reduction tax' model is far more defensible than pure disruption because every incumbent participant has positive incentives to support the platform.
 

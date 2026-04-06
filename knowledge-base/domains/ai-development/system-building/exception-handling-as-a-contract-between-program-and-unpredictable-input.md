@@ -55,5 +55,8 @@ evidence:
   - id: INS-260329-A218
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-A6FB
+    type: SUPPORTS
+    classified_at: '2026-04-05'
 ---
 The tutorial lets the program crash twice — once from dividing by zero, once from converting a letter to an integer — before introducing try-catch. Students see the unhandled exception dialog and experience the program terminating. This creates visceral motivation for exception handling. The key insight is that exceptions represent a boundary between what your program controls (internal logic) and what it doesn't (user input, external data). This maps directly to a broader system design principle: validate and handle errors at system boundaries, trust internal code. The tutorial's approach of crash-first-then-handle teaches this boundary thinking implicitly.

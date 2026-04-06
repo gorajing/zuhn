@@ -69,6 +69,9 @@ evidence:
   - id: INS-260322-1280
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260404-E65A
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Starbucks's pricing has nothing to do with coffee quality. The $6 latte is a $0.50 coffee with a $5.50 experience premium: comfortable seating, wifi, ambient music, the social permission to occupy space, and the ritual of a customized order. Starbucks sells belonging and routine, not caffeine.
 

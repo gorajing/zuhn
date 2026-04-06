@@ -52,5 +52,18 @@ related:
   - INS-260323-75A6
   - INS-260330-06CD
   - INS-260404-2E6C
+evidence:
+  - id: INS-260323-97DB
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260323-2B53
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-75A6
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260330-06CD
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Graham draws an analogy between financial risk-reward and intellectual exploration. Newton had three obsessions: physics (massively fruitful), alchemy (waste), and theology (waste). He ended up net ahead, but the alarming implication is that you can't cherry-pick which obsessions will pay off. Some people may make all bad bets and never become famous — we just never hear about them. This creates an uncomfortable portfolio theory of genius: the same disposition that leads to breakthrough discoveries also leads to apparent wastes of time, and you can't have one without risking the other. For innovators, this suggests accepting that a significant fraction of deeply pursued interests will yield nothing.

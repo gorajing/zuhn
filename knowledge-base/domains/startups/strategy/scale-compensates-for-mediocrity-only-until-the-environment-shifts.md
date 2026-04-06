@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-C02D
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260404-AE3C
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, is remarkably inefficient — it confuses oxygen for CO2 roughly half the time, producing toxic byproducts. Yet plants never evolved a replacement. Instead, they compensate by producing staggering quantities (an estimated 40 billion tons on Earth at any time) and developing secondary pathways to handle the toxic waste.
 

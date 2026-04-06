@@ -76,6 +76,12 @@ evidence:
   - id: INS-260327-691F
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260405-4C63
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-6AD0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The video catalogs humanity's message portfolio: radio signals (200 light-year bubble, but signal degrades), Pioneer plaques (metal, interstellar trajectory), Voyager golden records (gold-plated copper with uranium dating, interstellar), EchoStar XVI silicon disc (billions of years in geostationary orbit), and LAGEOS plaque (8.4 million year orbital stability). Each has radically different failure modes, discovery probabilities, and time horizons.
 

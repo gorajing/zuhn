@@ -62,6 +62,10 @@ resolutions:
 stance: >-
   When PMF stalls, founders should systematically reassess persona, problem,
   promise, and product in that order rather than defaulting to product changes.
+evidence:
+  - id: INS-260403-C936
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Todd Jackson's 'four P's' framework (persona, problem, promise, product) gives founders a structured diagnostic when PMF stalls. The ordering matters: most founders instinctively change the product when stuck, but often the real issue is targeting the wrong persona, solving the wrong problem, or positioning with the wrong promise. The framework forces founders to check upstream assumptions before investing engineering effort.
 

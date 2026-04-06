@@ -51,6 +51,10 @@ related:
   - INS-260329-1F4D
   - INS-260402-8223
   - INS-260327-3C96
+evidence:
+  - id: INS-260402-8223
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Naval extends Marc Andreessen's product-market fit into product-market-founder fit — how well you are personally suited to the business. This reframes the hustle-culture debate: both sides are right but talking about different games. Lifestyle business employees optimize for balance; Olympic-tier founders optimize for leverage across all three legs of the stool.
 

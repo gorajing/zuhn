@@ -55,6 +55,16 @@ related:
   - INS-260402-ECB6
   - INS-260323-64A4
   - INS-260404-CE92
+evidence:
+  - id: INS-260403-46BD
+    type: EXTENDS
+    classified_at: '2026-04-06'
+  - id: INS-260402-ECB6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260323-64A4
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Both Costco and Amazon Prime exploit sunk-cost psychology — once you've paid, not using the service feels like wasting money. But there's a crucial difference in mechanism. Amazon Prime users self-sort, individually calculating whether the subscription saves enough money to justify the cost. This creates loyalty but leaves the calculation framework intact.
 

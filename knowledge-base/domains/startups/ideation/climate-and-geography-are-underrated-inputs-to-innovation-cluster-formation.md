@@ -51,6 +51,13 @@ related:
   - INS-260403-0218
   - INS-260323-9F61
   - INS-260330-3EE4
+evidence:
+  - id: INS-260327-77A0
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-0218
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham identifies a combination of perfect weather, beautiful mountains, and proximity to cosmopolitan San Francisco as 'much of the reason Silicon Valley grew up around this university and not some other one.' This challenges the common narrative that innovation clusters form purely around intellectual capital, government funding, or economic policy.
 

@@ -58,5 +58,8 @@ evidence:
   - id: INS-260329-DACC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260405-6C88
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Dr. Chuck Severance describes his own learning experience and sets expectations for students: 'it went from me confused, confused, confused, confused, confused, holy mackerel, this is awesome.' This maps to a well-documented phenomenon in skill acquisition where complex conceptual frameworks resist partial understanding — you either grasp the whole system or none of it. The implications extend beyond programming: any domain with interconnected concepts (music theory, mathematics, systems thinking) likely exhibits this same phase-transition learning curve. Educators who warn students about this pattern in advance reduce dropout rates because students can distinguish 'I haven't clicked yet' from 'I'm incapable of learning this.'

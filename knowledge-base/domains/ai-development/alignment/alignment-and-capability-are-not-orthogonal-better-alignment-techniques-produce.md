@@ -52,6 +52,10 @@ related:
 stance: >-
   Alignment work (RLHF, interpretability) directly improves model capabilities,
   not just safety.
+evidence:
+  - id: INS-260329-DABC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-05'
 ---
 Sam Altman pushes back on the common framing that alignment and capability are orthogonal vectors. In practice, techniques like RLHF and interpretability that sound like pure safety work also produce more capable, more usable models. The division between safety research and capability research is much fuzzier than outsiders assume.
 

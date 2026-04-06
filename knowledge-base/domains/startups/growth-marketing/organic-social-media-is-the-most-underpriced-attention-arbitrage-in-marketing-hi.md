@@ -54,6 +54,10 @@ related:
 stance: >-
   The cost of reaching audiences on social platforms is zero for distribution —
   an unprecedented asymmetry that most businesses fail to exploit.
+evidence:
+  - id: INS-260403-A112
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Throughout marketing history, reaching audiences required paying gatekeepers — newspapers, cable companies, billboards, direct mail. Social media broke this model entirely: distribution is free, and the only cost is content creation. Yet most businesses dramatically under-produce content relative to this opportunity.
 

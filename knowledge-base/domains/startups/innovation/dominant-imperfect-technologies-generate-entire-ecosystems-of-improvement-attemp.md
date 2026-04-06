@@ -78,6 +78,12 @@ evidence:
   - id: INS-260330-EEBD
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260329-6A60
+    type: CHALLENGES
+    classified_at: '2026-04-05'
+  - id: INS-260403-9669
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 The video lists languages born directly from frustration with Java: Groovy, Clojure, Scala, Kotlin — each addressing specific Java pain points while targeting JVM compatibility. This is a productive externality of dominant but flawed platforms: they create a large population of motivated, expert-level users who know exactly what's broken and have strong incentives to fix it.
 

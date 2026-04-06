@@ -50,11 +50,11 @@ stance: >-
   scattered around the periphery by moving faster between fronts than the
   peripheral forces can coordinate.
 related:
-  - INS-260327-4DE7
   - INS-260327-4DE8
   - PRI-260403-B9A0
   - INS-260327-ABE5
   - INS-260327-8AF8
+  - INS-260327-9D23
   - INS-260327-33EA
   - INS-260403-7DEC
 evidence:

@@ -48,6 +48,13 @@ related:
   - INS-260403-43B9
   - INS-260322-A928
   - INS-260403-97B4
+evidence:
+  - id: INS-260403-F657
+    type: SUPPORTS
+    classified_at: '2026-04-06'
+  - id: INS-260403-43B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Paul Graham spent high school imitating prestigious literary fiction he didn't enjoy, college imitating philosophy papers he didn't understand, and grad school chasing expert systems he never used. In each case the mistake was the same: he confused social admiration with personal resonance. The heuristic 'copy only what you genuinely like' would have short-circuited all three dead ends.
 

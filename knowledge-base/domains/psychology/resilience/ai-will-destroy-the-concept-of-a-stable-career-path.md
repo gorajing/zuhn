@@ -68,6 +68,9 @@ evidence:
   - id: INS-260329-DEE5
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-0A6D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Loh states bluntly: 'For everyone who wanted a stable life, good luck—AI is going to take that.' As a math professor at Carnegie Mellon, he's not even sure what will happen to universities. He doesn't care if his own children go to university because the world will be so different by then.
 

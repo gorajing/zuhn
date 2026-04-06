@@ -57,6 +57,9 @@ evidence:
   - id: INS-260330-32E6
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260405-2CDB
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Socrates was executed for demonstrating that Athens' most respected citizens held beliefs they couldn't defend under examination. The insight isn't that majority opinion is always wrong but that beliefs adopted through social conformity rather than individual examination tend to contain uncorrected errors.
 

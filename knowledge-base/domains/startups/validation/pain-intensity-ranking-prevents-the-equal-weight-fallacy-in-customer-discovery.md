@@ -57,5 +57,8 @@ evidence:
   - id: INS-260330-75B5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-AA0B
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Customer interviews surface dozens of pains, and the natural instinct is to address as many as possible. The Value Proposition Canvas insists on ranking each pain by intensity (how much it hurts) and frequency (how often it occurs). This is critical because high-intensity, high-frequency pains are the only ones customers will pay to solve — low-intensity pains get tolerated indefinitely. Without explicit ranking, teams default to solving the most articulate pain (the one customers describe most eloquently) rather than the most intense one. The ranking discipline also reveals when your entire pain list is populated by mild annoyances rather than acute problems, which is an early signal that the customer segment itself may be wrong.

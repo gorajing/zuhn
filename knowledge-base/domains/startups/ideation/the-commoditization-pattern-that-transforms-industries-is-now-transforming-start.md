@@ -74,6 +74,12 @@ evidence:
   - id: INS-260403-34A6
     type: SUPPORTS
     classified_at: '2026-04-05'
+  - id: INS-260405-6A94
+    type: SUPPORTS
+    classified_at: '2026-04-05'
+  - id: INS-260403-1FCD
+    type: EXTENDS
+    classified_at: '2026-04-06'
 ---
 Graham identifies a meta-pattern across economic history: an expensive thing becomes cheap to produce, volume explodes by orders of magnitude, and entirely new applications emerge that were inconceivable at the old price point. Steel in the 1850s, power in the 1780s, cloth in the 1200s, computers in the 1980s — each triggered cascading structural changes far beyond the original industry.
 

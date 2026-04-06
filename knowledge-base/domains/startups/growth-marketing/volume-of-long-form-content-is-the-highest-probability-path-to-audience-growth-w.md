@@ -50,5 +50,9 @@ related:
   - INS-260405-0184
   - PRI-260322-DC5E
   - INS-260329-127F
+evidence:
+  - id: INS-260405-0184
+    type: SUPPORTS
+    classified_at: '2026-04-06'
 ---
 Hormozi frames content volume as a near-mathematical guarantee: 400 episodes across 6 years built a top-10 podcast. His friend posted daily for 6 months before a single video took off, then experienced cascading virality. The mechanism is twofold: volume improves quality through repetition (your 400th piece will be dramatically better than your 1st), and volume increases surface area for algorithmic discovery (more content = more chances for one piece to catch). This reframes the question from 'how do I make viral content?' to 'how do I sustain production long enough for compounding to work?' — a fundamentally different and more actionable problem.

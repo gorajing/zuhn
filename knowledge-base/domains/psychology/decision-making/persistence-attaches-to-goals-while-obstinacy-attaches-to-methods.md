@@ -52,6 +52,10 @@ related:
   - PRI-260323-0F93
   - INS-260329-557C
   - PRI-260328-BD81
+evidence:
+  - id: INS-260327-2F78
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham draws a sharp distinction between where in the decision tree someone refuses to yield. Persistent people are deeply attached to nodes high in the tree — the overarching goal — but will readily abandon lower-level tactical decisions when expected value drops. Obstinate people spray 'don't give up' indiscriminately across the entire tree, clinging to first ideas about methods even as evidence mounts against them.
 

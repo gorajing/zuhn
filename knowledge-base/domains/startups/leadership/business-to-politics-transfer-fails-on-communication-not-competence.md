@@ -50,5 +50,9 @@ related:
   - PRI-260327-117F
   - INS-260321-C14C
   - INS-260322-2ABB
+evidence:
+  - id: INS-260403-2B1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Trump describes knowing many highly successful business people who have wanted to run for president for 15+ years but 'don't have the guts to do it.' He specifically identifies stage fright and the inability to speak to large crowds as the blocking factor — describing one person as 'a total killer' in business who 'does badly' on stage. The insight is that domain transfer between business and politics is asymmetric: the strategic and decision-making skills transfer, but the performance-under-public-scrutiny skill does not. This has implications beyond politics — it suggests that leadership transitions between domains fail not on core competency but on domain-specific communication modalities. For founders considering public roles, the bottleneck to invest in is public communication rather than additional domain expertise.

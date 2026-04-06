@@ -56,6 +56,16 @@ related:
   - INS-260405-7305
   - INS-260402-CCC3
   - INS-260330-B904
+evidence:
+  - id: INS-260402-CCC3
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-D0EE
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-B904
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Graham's advice on the alien truth heuristic is to err toward generosity: if an idea might plausibly be relevant to aliens, include it rather than exclude it. He uses justice as an example — he wouldn't bet that all intelligent beings understand justice, but he wouldn't bet against it either, so the threshold is inclusion. This is a general insight about how to apply filtering heuristics: when the cost of a false negative (missing something important) exceeds the cost of a false positive (investigating something irrelevant), lower the threshold.
 

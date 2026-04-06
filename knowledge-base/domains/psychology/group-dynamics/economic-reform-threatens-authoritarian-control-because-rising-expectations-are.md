@@ -52,5 +52,18 @@ related:
   - INS-260330-21CC
   - INS-260330-45A9
   - INS-260403-D518
+evidence:
+  - id: INS-260323-8239
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260330-21CC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
+  - id: INS-260330-45A9
+    type: CHALLENGES
+    classified_at: '2026-04-06'
+  - id: INS-260403-D518
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 Kim Jong-un faces a paradox: economic reform would strengthen North Korea but simultaneously threaten his regime. A population at subsistence level 'only has time to do exactly that' — survive. Revolutions, the video argues, 'are feats of strength not weakness.' What's truly dangerous is 'a taste of the good life, a peek at what they could have.' This is the Tocqueville effect — the observation that revolutions tend to occur not when conditions are worst, but when they're improving. Rising expectations create a gap between what people have and what they believe they deserve. This principle applies to organizational change as well: giving teams partial autonomy or showing them better processes can make them less tolerant of remaining constraints. Leaders who introduce improvements must be prepared to follow through, because partial reform creates more instability than either full reform or the status quo.

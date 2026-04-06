@@ -56,6 +56,13 @@ related:
   - INS-260404-37F7
   - INS-260404-312D
   - INS-260404-47AC
+evidence:
+  - id: INS-260404-312D
+    type: CONTRADICTS
+    classified_at: '2026-04-06'
+  - id: INS-260404-47AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-06'
 ---
 Graham's advice to 'not try to seem more than you are' rests on an information asymmetry insight: experienced investors have seen thousands of pitches and have finely calibrated bullshit detectors, while first-time founders have essentially zero experience producing convincing deception. The expected outcome of attempted deception is therefore net negative — you won't fool them, and the attempt itself signals poor judgment.
 

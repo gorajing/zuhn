@@ -51,5 +51,9 @@ related:
   - INS-260403-5C06
   - INS-260404-2DB4
   - INS-260403-6602
+evidence:
+  - id: INS-260403-6602
+    type: CHALLENGES
+    classified_at: '2026-04-06'
 ---
 The three-tier framework (efficiency, sustaining, transformative) reveals a common pathology: organizations naturally gravitate toward efficiency innovation because it has the most predictable ROI and lowest organizational friction. Amazon is cited as a rare example of balanced portfolio allocation across all three tiers. This pharma company found their portfolio was massively geared toward efficiency, with few sustaining and almost no transformative projects. The fix is not to abandon efficiency innovation but to explicitly categorize every project, measure the portfolio balance, and set deliberate targets for each tier. Without this conscious rebalancing, the gravitational pull of short-term optimization will starve transformative work of resources every time.
