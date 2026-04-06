@@ -48,8 +48,8 @@ related:
   - INS-260323-9492
   - INS-260324-8D35
   - INS-260322-6AF5
+  - PRI-260405-AF79
   - PRI-260328-1D90
-  - INS-260328-0DFE
 stance: >-
   Even a 20-30% shift from Google to AI chatbots will dramatically raise paid
   search costs for remaining advertisers, making current acquisition stra...

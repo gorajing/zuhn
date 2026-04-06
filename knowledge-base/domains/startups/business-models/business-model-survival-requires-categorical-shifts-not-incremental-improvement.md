@@ -48,7 +48,6 @@ stance: >-
   existing one.
 related:
   - INS-260323-62F3
-  - INS-260324-92E9
   - PRI-260324-A608
   - INS-260329-9A8B
   - INS-260403-9AB5
@@ -57,6 +56,7 @@ related:
   - INS-260403-6342
   - INS-260403-E25F
   - INS-260403-97F5
+  - INS-260403-F590
 evidence:
   - id: INS-260323-62F3
     type: TRANSFERS_TO

@@ -41,11 +41,11 @@ resolutions:
     of low-quality, high-volume content trying to game agent attention — the
     spam equivalent in the agent era.
 related:
+  - PRI-260405-AF79
   - PRI-260328-C006
   - PRI-260328-9F8C
   - PRI-260328-8317
   - INS-260327-C1A4
-  - INS-260326-2410
   - INS-260327-77E7
   - INS-260327-5EEA
   - INS-260327-4CB3

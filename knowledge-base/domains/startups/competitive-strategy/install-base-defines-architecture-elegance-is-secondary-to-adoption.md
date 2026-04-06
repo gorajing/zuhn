@@ -48,8 +48,8 @@ related:
   - PRI-260323-BA94
   - INS-260326-163A
   - INS-260404-0240
+  - PRI-260405-A11F
   - INS-260405-DAC9
-  - INS-260329-A461
   - INS-260329-92FC
 stance: The install base is the single most important factor for a computing platform
 evidence:

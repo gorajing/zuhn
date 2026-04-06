@@ -53,7 +53,6 @@ stance: >-
   achieve dramatically lower error rates than systems relying on separate QA
   stages
 related:
-  - INS-260330-FC4D
   - INS-260405-9DB6
   - INS-260403-9442
   - PRI-260321-14D8

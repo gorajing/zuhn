@@ -57,13 +57,12 @@ stance: >-
   fund all the technology layers beneath them.
 related:
   - INS-260320-2DDE
-  - INS-260325-2BDB
+  - PRI-260405-D6F5
   - INS-260327-89AE
   - INS-260405-D23E
   - INS-260329-BB8F
   - INS-260327-BB71
-  - INS-260322-54F3
-  - INS-260403-15DD
+  - PRI-260405-A11F
 evidence:
   - id: INS-260329-BB8F
     type: EXTENDS

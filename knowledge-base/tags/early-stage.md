@@ -27,9 +27,9 @@
 - `INS-260404-103B` Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260403-8D8D` Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
-- `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
 - `INS-260330-EA94` Startups must choose depth of user love over breadth because weak enthusiasm cannot be upgraded to devotion, while intense love naturally expands.
 - `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
+- `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
 - `INS-260330-7D07` Top salespeople spend only 30% of the call talking and 70% listening to understand the prospect's problem.
 - `INS-260329-3392` Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
 - `INS-260329-9F8D` Start free, then raise your price incrementally with each batch of customers as your testimonial stack and confidence grow.

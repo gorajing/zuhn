@@ -46,7 +46,6 @@ stance: >-
   a common language to discuss, challenge, and iterate on model assumptions.
 related:
   - INS-260327-91C7
-  - INS-260330-A25A
   - INS-260330-AB62
   - INS-260403-7342
   - INS-260403-066E

@@ -53,7 +53,6 @@ stance: >-
   and computer interaction create substantially higher performance ceilings than
   models tuned only for human Q&A.
 related:
-  - INS-260322-CCAA
   - INS-260325-7FAF
   - INS-260325-5F3B
   - INS-260323-DA4A
@@ -63,6 +62,7 @@ related:
   - PRI-260328-8317
   - INS-260327-C1A4
   - INS-260327-7299
+  - PRI-260328-1ED1
 ---
 Ng observes that early LLMs were optimized to answer human-generated questions — queries like 'why did Shakespeare write Macbeth.' But agentic workflows require different capabilities: reliable function calling, structured output for tool use, and the ability to serve as components in iterative pipelines rather than standalone conversational agents.
 

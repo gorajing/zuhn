@@ -48,7 +48,6 @@ stance: >-
   the ability to create the right abstractions is the core skill that separates
   effective from ineffective system builders.
 related:
-  - INS-260323-7F36
   - INS-260329-E015
   - INS-260329-E839
   - INS-260329-6A60

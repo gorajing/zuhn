@@ -53,7 +53,7 @@ related:
   - PRI-260323-FA42
   - PRI-260325-262C
   - PRI-260328-C006
-  - PRI-260323-8E89
+  - PRI-260405-AF79
 ---
 Graham argues that organizations historically dampened variation in returns for performance — your prestige was your institution's prestige, and working outside institutions was nearly impossible. Technology has eroded this: ambitious projects now require less initial funding, and individuals can learn, earn, find collaborators, and reach audiences without institutional backing.
 

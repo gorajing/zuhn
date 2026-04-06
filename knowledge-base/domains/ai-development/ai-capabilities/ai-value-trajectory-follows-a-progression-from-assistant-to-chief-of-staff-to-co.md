@@ -52,7 +52,6 @@ stance: >-
   organizational metaphor it replaces — from chatbot to personal staff to a
   virtual workforce of thousands.
 related:
-  - INS-260322-D7B1
   - INS-260321-5598
   - INS-260323-7AF7
   - INS-260327-4CCE

@@ -48,10 +48,10 @@ stance: >-
   traditional network effects alone
 related:
   - INS-260330-B771
+  - PRI-260405-A11F
   - PRI-260324-DE71
   - INS-260325-2BDB
   - INS-260404-B5EB
-  - INS-260403-3615
 evidence:
   - id: INS-260325-2BDB
     type: SUPPORTS

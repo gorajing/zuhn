@@ -48,11 +48,11 @@ resolutions:
     is essentially 'token laundering': finding ways to get natural language in
     and intelligence out through whatever interface fits the use case.
 related:
-  - INS-260320-9D89
   - INS-260325-D540
   - INS-260327-94FE
   - INS-260327-DC4C
   - INS-260327-A9D5
+  - PRI-260405-AF79
 stance: OpenAI doesn't treat agents as a separate category
 evidence:
   - id: INS-260327-94FE
