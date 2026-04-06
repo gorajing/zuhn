@@ -52,14 +52,11 @@ stance: >-
   financial DNA is fundamentally incompatible with software-first marketplace
   culture.
 related:
-  - INS-260321-1A03
-  - INS-260327-95C6
   - INS-260403-81BD
+  - INS-260327-3B91
+  - INS-260404-FA1E
   - INS-260323-C8AC
   - INS-260323-8C53
-  - INS-260403-BE7C
-  - PRI-260328-A1AA
-  - INS-260403-C032
 evidence:
   - id: INS-260321-1A03
     type: TRANSFERS_TO

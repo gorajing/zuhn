@@ -45,10 +45,10 @@ stance: >-
   failing any single filter is disqualifying.
 related:
   - INS-260327-DD5C
+  - INS-260403-CD74
+  - INS-260405-8646
   - INS-260327-89C7
   - INS-260323-B4D2
-  - INS-260403-F745
-  - INS-260329-3DD7
 evidence:
   - id: INS-260323-B4D2
     type: SUPPORTS

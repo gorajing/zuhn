@@ -43,14 +43,12 @@ resolutions:
     strategic self-awareness. If you're not creating because you're afraid of
     what people will say, that's a bottleneck worth confronting directly.
 related:
-  - INS-260322-1C17
   - INS-260325-1EB3
   - INS-260327-112B
   - INS-260329-764E
   - INS-260402-D9D0
   - PRI-260323-0942
   - INS-260325-36F0
-  - INS-260403-22EE
   - INS-260404-F172
 stance: >-
   Most people who aren't creating content are stopped by fear of negative

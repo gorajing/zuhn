@@ -47,15 +47,16 @@ related:
   - INS-260323-F0A2
   - INS-260330-DF2C
   - INS-260403-F932
-  - INS-260404-EAB7
+  - INS-260403-141E
+  - INS-260405-1C8D
   - INS-260329-9CED
   - INS-260329-F969
 evidence:
   - id: INS-260323-F0A2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-F932
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-1852
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Before revealing the scale reading during the flywheel lift, the video explicitly asks viewers to predict whether the reading will be more, less, or equal to 91kg. This prediction prompt is a well-studied pedagogical technique — by forcing a commitment, it activates the viewer's existing mental model and creates stakes around the outcome. When the result contradicts their prediction, the surprise drives deeper encoding than passive viewing would. This technique is directly applicable to any teaching, presentation, or persuasion context: asking the audience to commit to an expectation before revealing data makes them active participants in their own belief revision rather than passive recipients of information.

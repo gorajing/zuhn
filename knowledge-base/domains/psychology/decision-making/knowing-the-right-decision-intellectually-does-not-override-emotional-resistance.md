@@ -54,14 +54,14 @@ related:
   - INS-260323-4D5E
   - INS-260327-7DBF
   - INS-260327-7427
+  - INS-260329-B22B
   - INS-260329-FEA6
-  - INS-260329-5094
-  - INS-260329-EE04
-  - INS-260330-4A16
   - INS-260404-2F16
+  - INS-260403-E554
+  - INS-260329-EE04
 evidence:
   - id: INS-260329-FEA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-4D5E
     type: SUPPORTS
     classified_at: '2026-04-06'

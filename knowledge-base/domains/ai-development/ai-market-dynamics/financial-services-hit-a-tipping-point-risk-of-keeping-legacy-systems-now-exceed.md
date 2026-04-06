@@ -51,12 +51,13 @@ resolutions:
     data into coherent systems of record.
 related:
   - INS-260322-EDA4
+  - INS-260403-7A48
   - PRI-260328-A1AA
   - PRI-260405-D6F5
-  - INS-260322-BC97
-  - PRI-260403-C337
+  - INS-260403-8194
   - INS-260329-3AE5
   - INS-260329-92FC
+  - INS-260403-5F1C
 stance: >-
   For the first time, banks and insurers face more risk from keeping decades-old
   mainframes than from migrating to AI-native platforms

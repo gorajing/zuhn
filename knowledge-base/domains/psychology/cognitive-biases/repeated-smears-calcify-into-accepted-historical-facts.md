@@ -47,7 +47,6 @@ stance: >-
   False historical narratives become unchallengeable conventional wisdom through
   sheer repetition, not through evidence
 related:
-  - INS-260325-EC7A
   - INS-260330-9EBA
   - INS-260330-3851
   - INS-260330-4FA3

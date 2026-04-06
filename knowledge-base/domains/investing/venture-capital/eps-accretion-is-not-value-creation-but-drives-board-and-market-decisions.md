@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'The Anatomy of an M&A Deal: Structure, Dilution, EPS'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/deal-structuring-model-template-excel'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Pro forma EPS improvement from acquisitions reflects share count math, not
@@ -59,6 +49,13 @@ stance: >-
   EPS accretion from M&A is an accounting artifact of share count mechanics
   rather than genuine value creation, yet it reliably drives real corporate and
   board decisions in both public and private contexts.
+related:
+  - INS-260404-A53F
+  - INS-260403-544B
+  - INS-260404-9103
+  - INS-260403-1115
+  - INS-260329-33D4
+  - INS-260403-6CB4
 ---
 When an acquirer buys a company using stock, the pro forma EPS changes based on the combined earnings divided by the new share count. If the target's P/E ratio is lower than the acquirer's, EPS mechanically increases (accretion) — even if zero operational synergies exist. This is pure arithmetic, not value creation. Yet public markets reward EPS accretion with higher stock prices, and private boards use it as a key decision metric.
 

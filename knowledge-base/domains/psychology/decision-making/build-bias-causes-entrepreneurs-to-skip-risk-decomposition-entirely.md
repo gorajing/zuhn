@@ -47,10 +47,10 @@ stance: >-
   under-investment in hypothesis identification and prioritization
 related:
   - INS-260327-3C19
+  - PRI-260405-9A14
   - INS-260402-D0F3
+  - INS-260404-393A
   - PRI-260323-C49D
-  - INS-260329-023F
-  - INS-260403-A7D0
 evidence:
   - id: INS-260327-3C19
     type: SUPPORTS

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Learn With Me
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/learn-with-me'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Writing short essays forces you to form and articulate a point of view,
@@ -57,6 +47,13 @@ stance: >-
   The act of writing a short essay on a topic produces meaningfully better
   understanding and decision-making than any amount of passive content
   consumption on that same topic
+related:
+  - INS-260321-FB3F
+  - INS-260402-7C15
+  - INS-260403-8C20
+  - INS-260402-12D0
+  - PRI-260405-9A14
+  - INS-260403-6E11
 ---
 Chamath explicitly notes he writes quick 1-2 page essays on topics that seem important specifically to 'develop a quick point of view and understand the nuances a little bit better.' This is writing as a thinking tool, not as a publishing exercise. The essay is for him, not for the audience.
 

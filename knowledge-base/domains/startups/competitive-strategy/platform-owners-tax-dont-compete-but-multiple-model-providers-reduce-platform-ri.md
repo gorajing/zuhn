@@ -50,12 +50,12 @@ related:
   - PRI-260405-6216
   - PRI-260405-BFAC
   - PRI-260403-5DEA
-  - PRI-260328-82BE
+  - PRI-260405-B144
   - PRI-260324-DE71
   - INS-260327-7D53
   - INS-260330-57BB
-  - INS-260330-7220
   - INS-260403-1258
+  - INS-260403-56BB
 stance: >-
   Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model
   providers means AI startups face taxation risk, not existential platform...

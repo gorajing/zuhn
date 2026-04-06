@@ -46,16 +46,15 @@ stance: >-
 related:
   - INS-260323-4711
   - INS-260325-311F
-  - INS-260323-A075
   - PRI-260328-EC3F
   - PRI-260328-4810
-  - PRI-260328-4CC0
-  - INS-260405-DC20
+  - INS-260405-7196
+  - INS-260323-A075
 evidence:
   - id: INS-260323-4711
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-C345
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-DC20
     type: SUPPORTS
     classified_at: '2026-04-06'

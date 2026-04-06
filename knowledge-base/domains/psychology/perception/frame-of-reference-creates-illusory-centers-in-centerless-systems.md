@@ -47,14 +47,14 @@ stance: >-
   Humans systematically mistake their observational vantage point for a
   privileged position, even in systems with no center at all
 related:
-  - INS-260325-0A81
   - INS-260405-AF1E
   - PRI-260323-6644
   - INS-260403-5808
   - INS-260327-EDE4
+  - PRI-260323-D475
 evidence:
   - id: INS-260325-82E8
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The universe's expansion has no center — like dots on an inflating balloon's surface, every point moves away from every other point at the same rate. But the moment you choose any single dot as your frame of reference, it immediately appears to be the center of all expansion. The 'center' is entirely an artifact of observation.
 

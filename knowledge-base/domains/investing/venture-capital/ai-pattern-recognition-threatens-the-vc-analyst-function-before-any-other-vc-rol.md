@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "AI Is Coming for Venture Firms \U0001F916, Most Active VCs and CVCs\U0001F4CA, Anthropic’s Blueprint for Smarter AI \U0001F6E0️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-is-coming-for-venture-firms-most'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Neural networks with no sleep schedule and superior pattern recognition are
@@ -58,6 +48,12 @@ stance: >-
   AI will automate deal screening and pattern recognition at venture firms
   faster than it displaces their relationship or judgment functions, compressing
   the analyst-to-partner pipeline.
+related:
+  - INS-260325-042A
+  - INS-260325-C59D
+  - INS-260330-3879
+  - INS-260325-4C6D
+  - INS-260403-EF2C
 ---
 The most automatable part of venture investing is the early screening function — parsing pitch decks, identifying sector trends, flagging founder pedigrees, and detecting deal momentum. These are pattern-recognition tasks that AI performs well at scale without fatigue or cognitive bias drift. The relationship and judgment functions (reference calls, term sheet negotiations, board dynamics) remain deeply human for longer.
 

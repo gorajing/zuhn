@@ -19,26 +19,14 @@ sources:
     title: >-
       The Death of the Corporate Job: Why Work Feels Pointless and What Comes
       Next
-    author:
-      - '@type': Person
-        name: Alex McCann
-        url: 'https://substack.com/@alexmccannn'
-        description: >-
-          On a mission to re-think traditional careers advice and help people
-          find meaningful work.
-        identifier: 'user:327442941'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!x9KN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a18ed94-309d-41f4-b2e1-0fdce0b769d7_389x389.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!x9KN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a18ed94-309d-41f4-b2e1-0fdce0b769d7_389x389.jpeg
+    author: Alex McCann
     url: 'https://www.thevccorner.com/p/death-of-the-corporate-job'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Corporate institutions persist structurally long after collective belief in
@@ -63,6 +51,12 @@ stance: >-
   Corporate work is dying like religion died: through diminishing belief rather
   than disappearing institutions, creating a prolonged period of performative
   participation without genuine conviction
+related:
+  - INS-260330-647D
+  - PRI-260328-79DA
+  - INS-260330-8F72
+  - INS-260327-C4AC
+  - INS-260402-1CAD
 ---
 The secularization analogy reveals a specific failure mode of institutions: they can maintain structural integrity (offices, meetings, hierarchies) while losing the animating belief that made those structures meaningful. This creates a zombie-institution phase where participation is driven by economic necessity rather than genuine conviction, and everyone knows it but continues performing.
 

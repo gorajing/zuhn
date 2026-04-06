@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: The Pentagon Threatens Anthropic
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Actions under threat reveal true safety commitments in ways that
@@ -57,6 +47,17 @@ stance: >-
   A company's willingness to absorb existential business risk for stated safety
   principles is far more informative about its true alignment priorities than
   any published research or policy document.
+related:
+  - INS-260323-6F66
+  - INS-260327-DCAF
+  - INS-260327-015B
+  - INS-260327-80DC
+  - INS-260327-1439
+  - INS-260330-7711
+  - INS-260403-1879
+  - INS-260403-C8EF
+  - INS-260323-BC61
+  - INS-260330-D7CC
 ---
 Anthropic's refusal to drop usage policy guardrails under Pentagon pressure — risking potential destruction via supply chain designation — provides a credibility signal that no safety paper or responsible scaling policy could match. Scott Alexander argues this willingness to have a 'hill to die on' is precisely what makes Dario Amodei a 'precious resource' for AI safety.
 

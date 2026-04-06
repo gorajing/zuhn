@@ -42,11 +42,13 @@ stance: >-
 related:
   - INS-260321-822B
   - INS-260329-55D8
-  - INS-260330-568A
   - INS-260330-608C
   - INS-260403-9D89
   - INS-260404-7C79
-  - INS-260326-870E
-  - INS-260403-99B1
+  - INS-260403-9CC1
+  - INS-260404-A0C2
+  - INS-260403-6694
+  - INS-260403-6F8B
+  - INS-260404-9FBC
 ---
 Paul Graham demonstrates that for a startup growing at 5% weekly, extracting only half the possible revenue per customer puts you just 15 weeks behind. But if that niceness enables even 1% faster weekly growth (6% vs 5%), you overtake the rapacious founder within two years and pull away exponentially. This is because growth rate is the exponent in a compounding function while extraction rate is merely a constant multiplier — and constant multipliers don't change the shape of an exponential curve. The practical implication is that founders should ruthlessly optimize for growth rate and treat per-customer revenue extraction as secondary.

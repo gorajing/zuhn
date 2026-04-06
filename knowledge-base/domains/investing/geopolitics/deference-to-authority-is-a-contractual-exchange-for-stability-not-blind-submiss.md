@@ -51,8 +51,8 @@ related:
   - INS-260323-86FA
   - PRI-260328-37D8
   - PRI-260325-262C
+  - INS-260403-56BB
   - INS-260330-1647
-  - INS-260330-CA88
 stance: Chinese deference to authority is a thousands-year-old implicit contract
 evidence:
   - id: INS-260323-86FA

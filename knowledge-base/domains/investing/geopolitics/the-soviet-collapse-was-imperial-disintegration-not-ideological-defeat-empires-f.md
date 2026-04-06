@@ -47,34 +47,34 @@ resolutions:
     empires and the redrawing of the world map. This framework helps analysts
     evaluate modern multi-ethnic states and imperial dynamics.
 related:
-  - INS-260325-793A
   - INS-260325-3C17
-  - INS-260325-6AD5
-  - PRI-260323-B798
-  - INS-260330-440E
-  - INS-260327-F7FE
-  - INS-260327-E7AC
   - INS-260323-7185
+  - PRI-260323-B798
   - INS-260327-C834
   - INS-260327-8912
+  - INS-260327-5140
+  - INS-260327-64A5
+  - INS-260327-4294
+  - INS-260327-15E1
+  - INS-260330-5C6E
 stance: >-
   The Soviet Union didn't collapse primarily from ideological or economic
   failure
 evidence:
   - id: INS-260330-440E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5C6E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-615D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4E55
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B384
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-72BD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-912C
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Plokhy distinguishes three intertwined but separate processes commonly conflated: the collapse of communism as ideology, the end of the Cold War, and the end of the Soviet Union as a state. The third is best understood as the continuation of Russian imperial disintegration that started in 1917, was temporarily arrested by Bolshevik internationalist ideology, and resumed in the late 1980s.
 

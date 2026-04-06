@@ -49,15 +49,15 @@ stance: >-
   too complex for rule-based definition and require pattern-based approaches.
 related:
   - INS-260323-3F30
+  - INS-260403-CDB0
   - INS-260322-32E3
   - PRI-260328-D893
-  - INS-260402-F479
-  - INS-260403-5FD1
+  - INS-260405-585D
 evidence:
   - id: INS-260325-29D5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The original AI project at Dartmouth in the 1950s tried to reduce human intelligence into symbolic logic: if X then Y rules that a computer could execute. This worked for toy problems but failed catastrophically as complexity increased. Even defining 'is this email spam?' generates an infinite regress of exceptions and sub-definitions.
 

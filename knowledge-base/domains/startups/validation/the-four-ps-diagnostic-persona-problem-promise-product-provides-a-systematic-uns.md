@@ -1,5 +1,5 @@
 ---
-id: INS-260403-A7D0
+id: INS-260403-E209
 domain: startups
 topic: validation
 title: >-
@@ -19,26 +19,14 @@ sources:
     title: >-
       A framework for finding product-market fit | Todd Jackson (First Round
       Capital)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-framework-for-finding-product-market'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When stuck at any PMF level, reassess the four P's — persona, problem,
@@ -66,6 +54,13 @@ evidence:
   - id: INS-260403-C936
     type: SUPPORTS
     classified_at: '2026-04-06'
+related:
+  - INS-260330-F140
+  - INS-260405-2021
+  - INS-260403-93DA
+  - INS-260327-8C1C
+  - INS-260330-1E5E
+  - PRI-260403-88F5
 ---
 Todd Jackson's 'four P's' framework (persona, problem, promise, product) gives founders a structured diagnostic when PMF stalls. The ordering matters: most founders instinctively change the product when stuck, but often the real issue is targeting the wrong persona, solving the wrong problem, or positioning with the wrong promise. The framework forces founders to check upstream assumptions before investing engineering effort.
 

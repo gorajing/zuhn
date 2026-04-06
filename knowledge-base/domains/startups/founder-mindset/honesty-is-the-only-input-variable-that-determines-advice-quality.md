@@ -45,10 +45,10 @@ stance: >-
   useless guidance.
 related:
   - PRI-260320-8205
+  - INS-260403-4363
   - INS-260403-9DE0
+  - INS-260403-7D7A
   - INS-260320-508F
-  - PRI-260322-94C4
-  - INS-260404-405A
 evidence:
   - id: INS-260320-508F
     type: TRANSFERS_TO

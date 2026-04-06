@@ -45,11 +45,11 @@ stance: >-
   because it was taken by force but because comfortable entertainment made it
   unnecessary, and social media has largely fulfilled this prediction.
 related:
-  - INS-260323-97A1
   - INS-260325-59D4
+  - INS-260403-9012
   - INS-260323-BC61
+  - INS-260323-97A1
   - INS-260323-47B0
-  - INS-260325-36F0
 evidence:
   - id: INS-260323-47B0
     type: CHALLENGES

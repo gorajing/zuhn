@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260328-2CFF
   - INS-260328-982A
+  - INS-260403-952F
   - INS-260328-4ED2
   - INS-260327-A59A
-  - INS-260330-DD9C
 ---
 Tracing board connections reveals a tight network: Boeing, Vanguard, Pfizer, Coca-Cola, Netflix, Qualcomm, and Fox Networks share interconnected directors. These connections ensure that 'independent oversight' comes from people who share social circles, economic interests, and career incentives with the executives they're supposed to oversee.
 

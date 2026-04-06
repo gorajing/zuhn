@@ -48,11 +48,11 @@ stance: >-
   marketing lies that sell hope, and real business success still requires
   grinding on hard problems that AI can't shortcut.
 related:
+  - INS-260403-4120
   - INS-260328-D2EC
   - INS-260329-B194
   - INS-260327-CFE5
   - INS-260403-7708
-  - INS-260403-0350
 evidence:
   - id: INS-260327-CFE5
     type: SUPPORTS

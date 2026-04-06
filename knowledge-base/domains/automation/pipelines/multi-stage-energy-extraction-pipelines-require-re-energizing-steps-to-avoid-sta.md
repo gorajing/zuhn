@@ -50,11 +50,11 @@ stance: >-
   inevitably stall without deliberate re-injection points that restore
   processing capacity
 related:
+  - INS-260404-8292
+  - INS-260403-BD30
   - PRI-260320-BC72
   - INS-260325-722C
   - INS-260329-6204
-  - INS-260325-2906
-  - PRI-260405-CE75
 evidence:
   - id: INS-260325-722C
     type: TRANSFERS_TO

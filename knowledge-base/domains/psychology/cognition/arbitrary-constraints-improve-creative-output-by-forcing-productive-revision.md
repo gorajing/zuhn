@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260404-2AA1
   - INS-260403-D022
+  - INS-260403-F400
   - INS-260403-21AF
   - INS-260403-2D99
-  - INS-260403-B2EA
 evidence:
   - id: INS-260404-2AA1
     type: SUPPORTS

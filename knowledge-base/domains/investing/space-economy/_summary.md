@@ -1,6 +1,6 @@
 # Topic: space-economy
 
-> 27 insights
+> 30 insights
 
 - `INS-260325-415A` [high] Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales.
 - `INS-260322-7A2F` [high] Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
@@ -27,5 +27,8 @@
 - `INS-260323-5955` [medium] Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
 - `INS-260403-B744` [medium] Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260327-969D` [medium] SpaceX doesn't grow like a software company — it accomplishes massive technical milestones every 5-7 years, each unlocking hundreds of billions in new value.
+- `INS-260405-F374` [medium] SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
+- `INS-260325-4996` [medium] The Drake equation only multiplies narrowing filters, but the real calculation should also add up alternative paths to life that use different chemistry.
 - `INS-260403-CAE5` [medium] On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
 - `INS-260325-5ACA` [medium] The Venus phosphine discovery illustrates that detecting alien life will be forensic, not definitive — unexplained chemistry is a clue, not a conclusion.
+- `INS-260325-1709` [low] Phosphine detected in Venus's atmosphere cannot be explained by known chemistry, potentially indicating life in an environment previously considered impossible.

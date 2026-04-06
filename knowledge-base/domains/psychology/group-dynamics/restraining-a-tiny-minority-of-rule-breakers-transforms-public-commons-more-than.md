@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #77: The Fix-Everything Button'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-77-the-fix-everything-button'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     BART fare gates cut crime 54% by blocking the small fraction of non-paying
@@ -58,5 +46,11 @@ stance: >-
   Most public disorder is caused by a very small number of individuals and
   simple enforcement mechanisms like fare gates are sufficient to restore order
   for everyone else
+related:
+  - INS-260330-931A
+  - INS-260322-25B4
+  - INS-260403-86DF
+  - INS-260404-0B8E
+  - INS-260323-7F22
 ---
 BART's installation of fare gates produced a 54% drop in crime and reduced patron-related corrective maintenance from enormous levels to near zero. The key insight is that the vast majority of disorder was caused by a tiny number of individuals who were also fare evaders — so a simple mechanical barrier removed them without punishing ordinary riders. This contradicts the 'anarchyfare' framing that removing rules helps marginalized people; in reality, the poor and working class who depend on public transit are the chief victims of unchecked disorder. The principle generalizes: in most commons-type situations, a small enforcement intervention targeting the few worst actors delivers outsized benefits to the many, rather than requiring sweeping surveillance or punitive systems.

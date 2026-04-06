@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Calling early work a sketch or hack lowers the psychological bar enough to
@@ -62,6 +50,13 @@ stance: >-
   Deliberately downgrading the perceived stakes of early work — calling it a
   sketch, hack, or experiment — is a reliable technique for getting past the
   initial quality barrier
+related:
+  - INS-260405-F402
+  - INS-260403-1A6B
+  - INS-260403-E7A7
+  - INS-260404-4154
+  - INS-260404-DDFB
+  - INS-260404-D66A
 ---
 Graham identifies a specific trick used by successful creators: they start by explicitly categorizing their work as a lower-stakes format — a sketch, a quick hack, an experiment. This isn't just humility; it's a deliberate psychological reframe that makes the gap between current quality and final quality feel acceptable.
 

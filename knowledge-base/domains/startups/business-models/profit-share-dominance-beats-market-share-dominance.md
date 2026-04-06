@@ -42,11 +42,11 @@ stance: >-
   is a more durable competitive position than pursuing volume-based market
   leadership
 related:
-  - INS-260330-2CE3
   - INS-260330-7479
+  - INS-260405-FCBE
   - INS-260405-051E
   - PRI-260328-6A8D
-  - INS-260405-54E2
+  - INS-260329-C409
 evidence:
   - id: INS-260329-C409
     type: CONTRADICTS

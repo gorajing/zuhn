@@ -48,11 +48,10 @@ stance: >-
   individual data, then data that has not even been digitized yet.
 related:
   - INS-260404-8A02
+  - INS-260326-291C
   - INS-260327-EA4E
   - INS-260405-2BB0
   - PRI-260328-0BA6
-  - INS-260329-19B3
-  - INS-260328-3FA4
   - INS-260403-3831
 evidence:
   - id: INS-260326-291C

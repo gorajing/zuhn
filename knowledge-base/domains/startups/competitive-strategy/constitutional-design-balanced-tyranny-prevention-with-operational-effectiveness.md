@@ -56,9 +56,9 @@ stance: >-
   rule — through structural checks rather than relying on good actors.
 related:
   - INS-260327-E382
-  - INS-260327-2958
   - PRI-260328-7EA5
   - INS-260404-FAE9
+  - INS-260327-2958
   - PRI-260328-37D8
   - INS-260330-3C4C
 evidence:

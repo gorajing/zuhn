@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Legal’s $900B AI Repricing⚖️, Team sizes are shrinking\U0001F4CA, a16z's AI x Commerce Thesis \U0001F6CD️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/legals-900b-ai-repricing-team-sizes'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The 2025 Global Startup Ecosystem Report shows Asian cities rising in
@@ -54,6 +44,12 @@ stance: >-
   Emerging Asian tech hubs like Beijing, Shanghai, and Bengaluru are rising in
   global startup rankings while established Western ecosystems face relative
   decline
+related:
+  - INS-260327-1ACE
+  - INS-260405-2230
+  - INS-260403-DAFA
+  - INS-260403-6B24
+  - INS-260403-5F8B
 ---
 The GSER 2025 reveals meaningful shifts in global startup power centers. London's drop to #3 and the rise of Beijing, Shanghai, Hong Kong, and Bengaluru signal that innovation gravity is shifting eastward. Meanwhile, Boston's return to the Top 5 suggests mature ecosystems with deep research institutions retain durable advantages.
 

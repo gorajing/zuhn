@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Evaluate new ideas by trying to imagine how they could work, not by listing
@@ -59,6 +47,17 @@ resolutions:
 stance: >-
   The correct response to a new idea is not lower standards but reversed
   polarity: actively imagining how it could succeed rather than cataloging flaws
+related:
+  - INS-260325-0147
+  - INS-260320-E044
+  - INS-260402-FE91
+  - INS-260403-AAE4
+  - INS-260403-AA8F
+  - INS-260404-323D
+  - INS-260404-9E63
+  - INS-260329-ABD9
+  - INS-260404-31C3
+  - INS-260404-6D51
 ---
 Graham distinguishes between merely lowering your standards for new ideas and completely switching polarity—from finding flaws to finding possibilities. This is the evaluation mode practiced at Y Combinator, where power-law outcomes make it painfully obvious when you miss winners. The cost of false negatives (dismissing the next Google) dwarfs the cost of false positives.
 

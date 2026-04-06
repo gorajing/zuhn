@@ -1,5 +1,24 @@
 # Tag: returns
 
+- `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
 - `INS-260327-7F54` PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
+- `INS-260403-CDC9` Winning deals matters more than picking them because access compounds faster than analytical skill.
+- `INS-260403-248E` Brex's early investors celebrated while late-stage investors lost money on the same $5.15B exit, proving entry price matters more than company trajectory.
+- `INS-260403-02B8` Shifting exit year by even one year can change lender IRR more dramatically than adjusting the coupon rate by several percentage points.
+- `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
+- `INS-260404-A2CA` The fund-of-funds approach in VC introduces compounding fee layers that structurally erode returns without proportional diversification benefit.
+- `INS-260403-693C` Index Ventures is reaping $11B+ from concentrated bets on Figma, Wiz, and Scale AI, positioning it as the new Sequoia.
+- `INS-260403-3562` Larger venture funds require exponentially larger exits to deliver target returns, creating a structural disadvantage.
+- `INS-260403-032B` Larger fund sizes create a structural math problem where required ownership of winners becomes impossible, favoring smaller disciplined funds.
+- `INS-260405-A6E1` The data is showing mega funds beating middle-market funds, inverting a long-held VC narrative.
+- `INS-260405-EB05` Investing at a $16M post-money and watching the company raise at $250M post-money looks like 15.6x on paper but nets only 5.5x after accounting for dilution from subsequent rounds.
+- `INS-260405-18AB` The math behind how many bets to make and how much to reserve matters as much as picking winners.
+- `INS-260405-C56F` In a power law return distribution, most investment decisions barely matter—what matters is maximizing ownership in the eventual outliers.
+- `INS-260405-D959` In VC, the few massive winners determine fund performance, so diversification is a trap.
+- `INS-260405-3A6E` The power law of VC returns means outlier investments drive total fund performance, so strategy must be built around identifying and doubling down on them.
+- `INS-260403-A2A6` Stanford research shows smaller funds thrive with one unicorn while mega-funds must chase decacorns to generate meaningful returns.
+- `INS-260405-7FFC` Smaller funds beat giants by maintaining agility, concentrated ownership, and disciplined focus rather than deploying at scale.
 - `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
+- `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
 - `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260404-A2AE` Data shows female-founded startups deliver better returns, representing an inefficiency VCs should exploit.

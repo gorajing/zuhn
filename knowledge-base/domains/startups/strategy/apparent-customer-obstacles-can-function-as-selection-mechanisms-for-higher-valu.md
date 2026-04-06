@@ -51,29 +51,29 @@ stance: >-
 related:
   - INS-260327-176D
   - INS-260403-F98F
-  - INS-260403-2C00
-  - INS-260404-B435
-  - INS-260404-B2FB
+  - INS-260403-9104
+  - INS-260404-AC1B
+  - INS-260404-E65A
+  - INS-260404-B086
   - INS-260404-5587
-  - INS-260403-0CF7
-  - INS-260403-137D
-  - INS-260404-01B1
-  - INS-260404-6E7B
+  - INS-260405-631B
+  - INS-260403-B8CD
+  - INS-260404-B2FB
 evidence:
   - id: INS-260404-5587
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-0CF7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-137D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-01B1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-79EC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-B2FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-C40D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-F98F
     type: CONTRADICTS
     classified_at: '2026-04-06'

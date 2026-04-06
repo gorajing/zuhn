@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The Must-Read Tech, VC, SaaS, AI, and Startup Reports of 2024 \U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-must-read-tech-vc-saas-ai-and'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VC deal flow is structurally shifting toward the Middle East and Southeast
@@ -57,6 +47,17 @@ resolutions:
 stance: >-
   The Middle East and Southeast Asia are structurally emerging as major VC
   destinations, not just cyclical beneficiaries of capital overflow.
+related:
+  - INS-260321-96CE
+  - INS-260405-39FA
+  - INS-260405-6EE5
+  - INS-260404-1A3F
+  - INS-260403-9D9E
+  - INS-260403-3122
+  - INS-260404-1ADA
+  - INS-260404-4146
+  - INS-260403-8450
+  - INS-260403-BF8C
 ---
 Dealroom's State of Global VC report identifies the Middle East and Southeast Asia as gaining meaningful traction in 2024, moving beyond the 'emerging market premium' narrative into genuine deal flow centers. This isn't purely about sovereign wealth fund recycling — it reflects growing local startup ecosystems, regulatory modernization, and demographic tailwinds (young, mobile-first populations).
 

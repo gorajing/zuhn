@@ -22,7 +22,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     If you dropped a skilled wealth-creator on a random street, they'd rebuild
@@ -45,6 +45,12 @@ resolutions:
 stance: >-
   The ability to create wealth is a portable, learnable skill that persists
   across contexts, not a product of specific circumstances or connections.
+related:
+  - INS-260329-BBBE
+  - INS-260403-39DD
+  - PRI-260403-C229
+  - INS-260403-22C2
+  - PRI-260405-1FBC
 ---
 Naval's thought experiment — being dropped on a random street in any English-speaking country and rebuilding wealth within 5-10 years — illustrates that wealth creation is fundamentally a skill set rather than a circumstantial outcome. This reframes the common narrative that success is primarily about connections, timing, or initial capital.
 

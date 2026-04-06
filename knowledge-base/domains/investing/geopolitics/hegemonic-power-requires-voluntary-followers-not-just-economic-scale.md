@@ -42,11 +42,12 @@ resolutions:
     show up during major events or offer genuine partnership cannot sustain
     hegemonic leadership regardless of GDP.
 related:
+  - INS-260405-8FCF
   - INS-260330-4045
   - INS-260330-E082
   - INS-260321-3808
   - INS-260323-636C
-  - PRI-260323-9295
+  - INS-260403-24DB
 stance: Becoming a hegemonic power requires other nations to voluntarily follow
 evidence:
   - id: INS-260323-636C

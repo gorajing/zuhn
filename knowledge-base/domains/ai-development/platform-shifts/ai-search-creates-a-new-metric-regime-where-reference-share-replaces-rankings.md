@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'AI Search & SEO in 2025: How to Stay Visible in the New Era'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-generated-search-seo-strategy'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Zero-click visibility, brand mentions in AI tools, and featured citations in
@@ -59,6 +49,12 @@ resolutions:
 stance: >-
   The primary measure of content visibility will shift from search rankings and
   click-through rates to how frequently AI systems cite or reference a source
+related:
+  - INS-260405-0810
+  - INS-260404-1C9D
+  - INS-260405-DFBC
+  - INS-260402-8D38
+  - INS-260405-3F0F
 ---
 The article identifies an emerging metric framework for AI-era content visibility: featured citations in SGE or AI summaries, brand mentions in AI chatbot references, engagement depth metrics (time on page, scroll depth, return visits), search visibility across multiple channels, and zero-click visibility (impressions without clicks). This represents a fundamental shift from position-based metrics to recognition-based metrics.
 

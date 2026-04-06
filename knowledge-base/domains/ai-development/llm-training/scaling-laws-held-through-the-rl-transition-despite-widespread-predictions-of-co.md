@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Dario Amodei Says AGI Is 1-3 Years Away: Full Breakdown'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/dario-amodei-agi-1-3-years-full-breakdown'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     RL training exhibits the same scaling dynamics as pre-training, meaning the
@@ -59,6 +49,15 @@ stance: >-
   The shift from pre-training scaling to reinforcement learning scaling
   preserved the same log-linear returns, disproving the 'scaling wall' narrative
   and extending the compute exponential.
+related:
+  - INS-260323-4D8D
+  - INS-260323-4D13
+  - INS-260327-5E40
+  - INS-260329-96EC
+  - INS-260330-CAE6
+  - PRI-260323-8E89
+  - PRI-260405-FB37
+  - PRI-260403-35FE
 ---
 When the AI field shifted emphasis from pure pre-training scaling to reinforcement learning, many predicted the scaling laws would break down. Dario's 2017 'Big Blob of Compute Hypothesis' argued that raw compute, data quantity, data quality, and objective functions are essentially all that matter — and this has held through the RL transition.
 

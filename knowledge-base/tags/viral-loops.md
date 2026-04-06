@@ -1,3 +1,3 @@
 # Tag: viral-loops
 
-- `INS-260330-EBDC` Sean Parker's virality model (payload × frequency × conversion) reveals that Hotmail won via high frequency, PayPal via near-perfect conversion, and Facebook via pure word-of-mouth — not viral mechanics at all.
+- `INS-260402-C301` Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).

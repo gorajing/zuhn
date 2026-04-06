@@ -3,12 +3,16 @@
 - `INS-260405-F3C0` Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.
 - `INS-260325-2DCD` Coding agents create well but cannot steward codebases — they lack system design judgment.
 - `INS-260325-252D` Context rot in agents stems from poor context management design, not just model limits.
+- `INS-260404-E91F` Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260321-1A0B` The biggest risk of AI adoption isn't that it fails — it's that it works so well that humans stop learning. Design AI systems where a key priority is the learning and improvement of the humans in the loop.
+- `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260325-19E9` Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
 - `INS-260330-4C31` Co-locating components on one chip eliminates data transfer overhead, beating systems with individually stronger but physically separated parts.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
+- `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
 - `INS-260405-C497` RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
 - `INS-260329-A93C` Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
+- `INS-260329-D0B3` CS50's progression from binary to C to Python mirrors how software systems are actually built — each layer abstracts away the complexity below.
 - `INS-260329-A461` Programming languages, functions, and libraries all exist as abstraction layers that hide complexity, and choosing the right abstraction level is the core system design skill.
 - `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260402-8A7A` Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
@@ -20,6 +24,7 @@
 - `INS-260330-D483` Fixed latency is predictable and compensable; jitter (variable latency) is random and destroys control quality.
 - `INS-260329-C33B` JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
 - `INS-260329-9BEF` JavaScript's evolution from var (global scope) to let/const (block scope, immutability) demonstrates how language-level constraints prevent entire classes of bugs that developer discipline cannot.
+- `INS-260329-F66E` C++ lambda capture by value vs reference is a microcosm of the universal architectural choice between isolated copies and shared state at every system boundary.
 - `INS-260329-C1A4` Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
 - `INS-260329-F887` Load balancers distribute traffic but become single points of failure — always deploy in redundant pairs with automatic failover.
 - `INS-260329-075C` OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
@@ -28,10 +33,19 @@
 - `INS-260329-7914` JavaScript strings being immutable (you must replace the whole string, not modify individual characters) demonstrates how immutability eliminates entire categories of bugs.
 - `INS-260323-1811` Minecraft shows five distinct degradation zones before total failure — from buggy terrain to stretched blocks to void to infinity — demonstrating how systems fail gradually through observable stages before hitting hard limits.
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
+- `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
+- `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments.
 - `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
+- `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
 - `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
+- `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
+- `INS-260404-82B2` Renaissance's edge was the integration of sizing, hedging, and execution across thousands of instruments, not a single brilliant algorithm.
+- `INS-260403-A9F3` Gerrymandering 6,641 tiny districts is computationally harder and more fragile than gerrymandering 435 large ones, and buying 0.02% of Congress per seat is less attractive than buying 0.23%.
+- `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
+- `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
 - `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
 - `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
+- `INS-260330-2C71` Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.

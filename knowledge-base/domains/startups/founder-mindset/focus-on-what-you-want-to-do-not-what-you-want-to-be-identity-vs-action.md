@@ -46,11 +46,11 @@ resolutions:
     naturally led to a career designing the biggest games in history. The
     activities came first; the identity followed.
 related:
+  - INS-260327-4F3D
   - INS-260327-DC0B
   - INS-260327-A59A
   - INS-260328-80E7
-  - INS-260327-3A71
-  - INS-260322-A208
+  - INS-260403-3E16
 stance: >-
   Instead of asking 'what do you want to be?' (astronaut, writer, game
   designer), ask 'what do you want to do?'

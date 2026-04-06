@@ -46,10 +46,10 @@ stance: >-
   of thinking in a way that private opinions and casual conversation cannot
 related:
   - INS-260321-FB3F
-  - INS-260403-6652
   - INS-260404-D6EE
+  - INS-260403-6652
   - INS-260330-0F71
-  - INS-260404-89C3
+  - INS-260404-996C
 evidence:
   - id: INS-260321-FB3F
     type: CHALLENGES

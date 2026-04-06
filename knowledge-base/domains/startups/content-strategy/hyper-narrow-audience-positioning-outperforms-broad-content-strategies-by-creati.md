@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: How Harry Stebbings Turned a Podcast Into a $400M Venture Fund
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-harry-stebbings-turned-a-podcast'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Stebbings spent two years interviewing only seed investors in San Francisco,
@@ -60,6 +50,14 @@ stance: >-
   Podcasts and content platforms that define their audience in a single specific
   sentence dramatically outperform broadly-targeted content in monetization,
   sponsorship, and community value.
+related:
+  - INS-260329-4FB2
+  - INS-260327-8DFE
+  - INS-260403-D730
+  - INS-260403-0680
+  - PRI-260405-2A11
+  - INS-260322-A02C
+  - PRI-260403-26B9
 ---
 The counterintuitive insight is that broad positioning ('entrepreneurs') is the worst content strategy because it attracts a diffuse audience with no shared needs. Stebbings' rule: if you can't write your exact audience in one sentence, you're too broad. His example of a great podcast: 'people who scaled a newsletter from zero to 1 million in 12 months' — specific enough that every guest, sponsor, and listener self-selects.
 

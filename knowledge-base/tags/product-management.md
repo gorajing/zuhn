@@ -1,7 +1,24 @@
 # Tag: product-management
 
+- `INS-260403-39CF` AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
+- `INS-260403-9A0F` Product managers embedded with AI researchers influence model behavior directly, creating differentiation impossible to achieve by building on public APIs alone.
+- `INS-260403-E706` A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
+- `INS-260403-541C` Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.
 - `INS-260327-B5C9` You are ultimately accountable for your product like a CEO, but to make things happen you sometimes need to sweep the floor because nobody else will.
+- `INS-260404-1DAA` Strong PMs master two of the 3 W's; those who rise to leadership master all three—output quality, unique contributions, and operating model.
+- `INS-260403-E09E` Repeatedly returning to the problem statement during design reviews and progress updates is the most effective scope control mechanism.
+- `INS-260403-7BCF` Every team member holds a unique mental model of the problem, and without forced alignment the team builds toward different goals.
+- `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
+- `INS-260405-8646` Product KPIs need to be designed for four audiences at once: product team, stakeholders, executives, and customers.
+- `INS-260404-1299` Good PMs produce good artifacts, and those artifacts are the mechanism for having 'impact on the impact.'
+- `INS-260404-F962` PMs should nail execution first because strategic opportunities emerge from the context built through delivery.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
+- `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
+- `INS-260404-16DC` Product teams fail when they don't actively translate between the three distinct languages of customers, product, and business.
+- `INS-260404-AEC9` The 50-40-10 rule structures roadmap investment across functional, anticipatory, and delightful features.
+- `INS-260402-B36F` Every AI feature PRD should specify how the feature distributes itself, where it inserts into existing workflows, and whether its economics improve at 10x scale.
+- `INS-260404-E4F1` A structured 5-phase strategy process over 8-12 weeks creates repeatable strategic clarity without the overhead of annual planning cycles.
+- `INS-260402-142F` Web3 forces PMs to recombine user research, data analysis, design, BD, and marketing into one role because the tasks are too intertwined to specialize.
 - `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
 - `INS-260330-8D34` A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.
 - `INS-260330-A6BE` Record interviews and play them back to the team — the emotional impact of hearing real users creates alignment that summaries and data slides cannot.

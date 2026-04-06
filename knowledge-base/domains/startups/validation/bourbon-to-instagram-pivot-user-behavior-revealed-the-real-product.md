@@ -43,13 +43,13 @@ stance: >-
   match actual usage patterns will outperform those who build what they
   originally envisioned.
 related:
-  - INS-260322-A61A
-  - INS-260326-4164
+  - INS-260403-14E0
   - INS-260404-C720
   - INS-260403-B635
   - INS-260403-EDFC
   - INS-260330-E263
   - INS-260404-D976
+  - INS-260403-C0E6
 evidence:
   - id: INS-260327-94E6
     type: TRANSFERS_TO

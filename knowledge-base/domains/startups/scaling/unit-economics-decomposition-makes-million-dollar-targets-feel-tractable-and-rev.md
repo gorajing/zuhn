@@ -46,10 +46,10 @@ stance: >-
   $20K/week = 20 sales of $1K) shifts focus from the intimidating total to the
   specific bottleneck — either more units or higher value per unit.
 related:
+  - INS-260405-FCBE
   - INS-260330-D556
   - INS-260329-ADCD
   - PRI-260328-BEDD
   - INS-260329-C8C7
-  - INS-260403-754F
 ---
 Hormozi frames $1M/year as ~$20K/week, then shows multiple paths: 20 people buying a $1K product, 2 people buying a $10K product, or 1 person buying an $80K product every 4 weeks. This decomposition does two things psychologically and strategically. First, it makes the goal tangible — selling 20 things a week is a concrete operational challenge rather than an abstract financial aspiration. Second, it reveals that growth only comes from two levers: sell more units or make each unit worth more. For subscription models ($100/month with 10-month average lifetime = $1K LTV), the math shows how recurring revenue stacks over time, meaning early effort compounds. The framework applies at any scale — just add or remove zeros.

@@ -49,15 +49,15 @@ stance: >-
   pay premium prices or get shut out entirely
 related:
   - INS-260322-A31D
-  - INS-260325-3E9F
-  - INS-260327-7E3D
-  - INS-260330-77D1
-  - INS-260330-404B
   - INS-260330-7346
   - INS-260330-0AA7
-  - INS-260330-C84C
-  - INS-260402-E522
   - INS-260403-AA6A
+  - INS-260403-776C
+  - PRI-260403-26B9
+  - INS-260403-1287
+  - INS-260403-9F64
+  - INS-260403-AF3B
+  - INS-260403-94A3
 evidence:
   - id: INS-260322-0C91
     type: CHALLENGES

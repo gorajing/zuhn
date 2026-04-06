@@ -49,19 +49,20 @@ stance: >-
   complexity, intelligence, and interconnection are vastly impoverished compared
   to what nature has actually produced.
 related:
-  - INS-260326-3B43
   - INS-260327-F608
-  - INS-260402-F479
-  - INS-260329-65CD
-  - INS-260330-9A60
+  - INS-260329-DFDB
+  - PRI-260405-C27E
   - INS-260330-09DE
+  - INS-260325-75A3
+  - INS-260330-1DDE
+  - INS-260326-3B43
 evidence:
   - id: INS-260327-F608
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9A60
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Amazon contains more species in a single hectare than most countries contain in total. The interconnections between species, the chemical warfare between plants, the symbiotic networks underground - all represent a complexity that human engineering has never approached. Rosolie's repeated emphasis on this isn't romantic idealism but empirical observation.
 

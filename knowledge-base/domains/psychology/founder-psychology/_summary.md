@@ -1,10 +1,15 @@
 # Topic: founder-psychology
 
-> 21 insights
+> 28 insights
 
 - `INS-260330-D644` [high] Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
+- `INS-260405-80B0` [high] Being slightly overconfident armors you against both others' skepticism and your own harsh early-work judgments.
+- `INS-260405-7A7C` [high] The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
+- `INS-260405-7BA5` [high] Every ambitious project looks bad early — the problem is not the work, it's the absence of calibrated judgment for unfinished things.
+- `INS-260405-A1D7` [high] Humans evolved no customs for evaluating nascent ambitious work, so we default to judging it by finished-work standards—a correctable error.
 - `INS-260405-020E` [high] Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260403-E3E6` [high] Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
+- `INS-260403-9FEA` [high] 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
 - `INS-260330-9BF3` [high] Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260329-1DA3` [high] An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260330-90C3` [high] Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
@@ -12,9 +17,11 @@
 - `INS-260329-5B3D` [high] Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
 - `INS-260330-7D83` [high] Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
 - `INS-260330-3138` [high] Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
-- `INS-260405-FAE3` [high] Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
+- `INS-260405-68DC` [high] Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 - `INS-260330-DC8B` [medium] Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
+- `INS-260404-91B8` [medium] Designing work around natural temperament produces sustainable high performance, while chronic temperament mismatch leads to burnout regardless of talent.
 - `INS-260330-CC9E` [medium] Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
+- `INS-260403-8AEA` [medium] $10B+ founders nearly universally exhibit both a superiority complex and a deep inferiority complex operating simultaneously.
 - `INS-260329-6D8B` [medium] Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
 - `INS-260403-DF73` [medium] Founders face coordinated pressure from VCs and executives to abandon instincts that are actually correct.
 - `INS-260330-90AD` [medium] Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.

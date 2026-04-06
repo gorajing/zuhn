@@ -51,13 +51,11 @@ stance: >-
   the psychological reward of rare hits overshadows the mathematical value of
   expected information.
 related:
-  - INS-260325-24D1
   - INS-260323-B849
-  - INS-260329-5C7A
   - INS-260330-E982
+  - INS-260403-F4C9
   - INS-260325-0688
   - PRI-260328-3FEF
-  - INS-260404-2E6C
 evidence:
   - id: INS-260325-24D1
     type: SUPPORTS

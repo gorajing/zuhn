@@ -53,8 +53,10 @@ related:
   - INS-260327-2684
   - INS-260329-04CB
   - INS-260403-CACE
-  - PRI-260328-7E6E
-  - INS-260326-967C
+  - INS-260404-9263
+  - INS-260402-2A1D
+  - INS-260402-491D
+  - INS-260403-26CD
 ---
 Graham presents empirical evidence that the list of universities producing the most successful startups closely mirrors the list of most selective universities. He explicitly dismisses prestige and teaching quality as causal factors. Instead, it's a selection effect: getting into MIT or Cambridge requires being smart and determined, so once you're in, you're surrounded by potential cofounders with those exact qualities.
 

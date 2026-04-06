@@ -51,10 +51,11 @@ stance: >-
   by known chemistry, but that does not prove life exists.
 related:
   - PRI-260328-9FB6
+  - INS-260325-1709
   - INS-260325-5635
   - INS-260327-684D
   - PRI-260323-CE34
-  - INS-260325-1F35
+  - INS-260404-ABCB
 evidence:
   - id: INS-260327-684D
     type: SUPPORTS

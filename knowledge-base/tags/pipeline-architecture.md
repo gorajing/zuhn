@@ -1,3 +1,3 @@
 # Tag: pipeline-architecture
 
-- `INS-260404-9428` Photosynthesis splits into light reactions (capture energy as ATP/NADPH) and the Calvin Cycle (spend it on carbon fixation), enabling each stage to optimize independently.
+- `INS-260330-2C71` Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.

@@ -46,11 +46,11 @@ resolutions:
     give a friend who said 'I'm thinking about starting a YouTube channel.' You
     would never tell a friend 'you're too old' or 'it's too late.'
 related:
-  - INS-260323-2394
   - INS-260323-8848
   - INS-260330-8304
   - INS-260327-F397
   - PRI-260323-2C5C
+  - INS-260323-2394
   - INS-260325-8D66
   - INS-260327-5F94
   - INS-260327-48BA

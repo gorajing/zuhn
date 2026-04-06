@@ -50,11 +50,11 @@ stance: >-
   optimization problem for adversaries, far more effective than any single
   shared defense.
 related:
+  - INS-260405-3046
   - INS-260404-2365
   - PRI-260405-0AC6
+  - INS-260403-BEB3
   - INS-260320-92CC
-  - INS-260330-3AF7
-  - PRI-260328-0BE1
 evidence:
   - id: INS-260330-3AF7
     type: TRANSFERS_TO

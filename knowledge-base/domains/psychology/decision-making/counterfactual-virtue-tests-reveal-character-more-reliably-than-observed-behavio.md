@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Being John Rawls
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/being-john-rawls'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Judging character by counterfactual behavior under reversed roles is more
@@ -59,6 +49,14 @@ resolutions:
 stance: >-
   Moral character should be judged by what a person would do under reversed
   circumstances, not by what luck has required of them so far.
+related:
+  - INS-260325-64FD
+  - INS-260403-D463
+  - INS-260404-94EB
+  - INS-260405-F7FA
+  - INS-260404-CDF0
+  - INS-260330-3698
+  - INS-260327-4C73
 ---
 The story's central mechanism — a drug that lets people live counterfactual lives — dramatizes a deep insight about character assessment. Observed behavior is contaminated by circumstance: a rich person never tested by poverty may appear virtuous simply because virtue was never costly. A poor person who steals may have been generous if born wealthy. The veil of ignorance framework strips away situational luck to reveal dispositional character.
 

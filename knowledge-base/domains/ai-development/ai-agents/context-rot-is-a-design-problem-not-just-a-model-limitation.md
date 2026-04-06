@@ -44,9 +44,9 @@ stance: >-
   (what gets loaded into context and how) rather than a pure model capability
   limitation.
 related:
-  - INS-260321-2482
   - PRI-260328-EE02
   - PRI-260320-07A4
+  - INS-260321-2482
   - INS-260403-0350
   - INS-260327-DC4C
 evidence:

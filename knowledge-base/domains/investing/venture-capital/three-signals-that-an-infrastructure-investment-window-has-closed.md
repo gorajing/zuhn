@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-B744
   - INS-260403-E1E4
-  - INS-260321-D01E
-  - INS-260403-E1EB
-  - INS-260330-D1C8
+  - INS-260405-DADB
+  - INS-260404-FA1E
+  - INS-260403-CC59
 evidence:
   - id: INS-260321-D01E
     type: SUPPORTS

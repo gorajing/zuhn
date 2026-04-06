@@ -1,0 +1,5 @@
+# Tag: scenario-planning
+
+- `INS-260403-8C2D` Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
+- `INS-260403-EAFC` Scenario models only work when assumptions cascade through the entire financial stack, not just the revenue line.
+- `INS-260403-F4C9` In periods of radical technological uncertainty, optimize for strategies that work across all scenarios rather than betting on a specific prediction.

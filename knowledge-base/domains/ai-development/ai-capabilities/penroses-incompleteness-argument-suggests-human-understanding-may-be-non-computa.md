@@ -57,8 +57,8 @@ related:
   - PRI-260323-DA09
   - INS-260323-E161
   - INS-260321-AE3F
-  - INS-260321-9824
   - INS-260325-CC49
+  - INS-260323-6944
 stance: >-
   Penrose argues from Goedel's incompleteness theorems that human mathematicians
   can grasp truths no algorithm can formally prove

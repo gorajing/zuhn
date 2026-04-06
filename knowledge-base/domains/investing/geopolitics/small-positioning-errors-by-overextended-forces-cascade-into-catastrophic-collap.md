@@ -51,11 +51,13 @@ stance: >-
   mistake into a total rout.
 related:
   - PRI-260328-E1CE
-  - INS-260330-4181
-  - PRI-260405-C47B
-  - INS-260327-191B
-  - INS-260330-72BD
+  - INS-260330-2E1E
+  - INS-260323-DF0F
+  - INS-260327-8B9A
+  - INS-260327-E7AC
   - INS-260330-E585
+  - INS-260330-4181
+  - INS-260404-4B39
 evidence:
   - id: INS-260330-2E1E
     type: TRANSFERS_TO

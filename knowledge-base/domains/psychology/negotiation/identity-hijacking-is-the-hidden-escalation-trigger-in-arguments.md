@@ -46,15 +46,15 @@ stance: >-
   both parties' core identity feels threatened, making the conflict existential
   rather than substantive
 related:
-  - INS-260329-57B3
-  - INS-260330-9575
   - INS-260330-27DF
   - INS-260330-E0F5
   - INS-260330-365B
   - INS-260404-CE92
+  - INS-260330-9575
   - INS-260326-2E56
   - INS-260330-C548
   - INS-260330-2EB0
+  - INS-260403-583B
 evidence:
   - id: INS-260329-57B3
     type: TRANSFERS_TO

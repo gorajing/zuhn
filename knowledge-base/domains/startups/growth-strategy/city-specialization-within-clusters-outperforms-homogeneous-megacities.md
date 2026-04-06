@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260323-E214
   - INS-260330-ACCD
+  - INS-260405-F20C
   - INS-260330-9E26
-  - INS-260327-B815
-  - INS-260330-8FC5
+  - INS-260402-142F
 evidence:
   - id: INS-260323-E214
     type: TRANSFERS_TO

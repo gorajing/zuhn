@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260323-2B53
   - INS-260325-0BD7
+  - INS-260403-14B3
   - INS-260327-9A23
   - INS-260323-C0BD
-  - INS-260323-97DB
 stance: >-
   Adams lost the 1980 Olympic final after cutting weight poorly with bad
   nutrition

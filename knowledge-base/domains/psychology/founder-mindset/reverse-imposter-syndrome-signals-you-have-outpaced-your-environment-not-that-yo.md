@@ -18,25 +18,15 @@ tags:
 sources:
   - type: blog
     title: 'Reverse Imposter Syndrome: A Founder’s Visibility Gap'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Feeling unseen as a founder usually means you've evolved faster than your
@@ -61,6 +51,15 @@ stance: >-
   The cognitive dissonance of feeling unseen typically indicates a founder has
   crossed an inflection point where their capabilities outrun market perception
   — a leading indicator of imminent recognition, not evidence of inadequacy.
+related:
+  - INS-260327-6725
+  - INS-260403-E300
+  - INS-260403-A36C
+  - INS-260327-200C
+  - INS-260403-9173
+  - INS-260403-0A20
+  - INS-260327-3349
+  - INS-260403-5762
 ---
 The article's most counter-intuitive reframe is treating reverse imposter syndrome as a positive leading indicator. The dissonance of feeling unseen typically appears just before others catch up — it signals that skills, traction, or insight have outpaced external perception. This mirrors early product-market fit: traction is real but quiet, users rave but metrics haven't caught up, growth lives in spreadsheets not headlines.
 

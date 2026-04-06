@@ -48,16 +48,16 @@ stance: >-
   chooses simplicity experiences more life than the 'winner' who accumulates
   everything.
 related:
+  - INS-260403-D7C4
   - PRI-260325-A95E
   - INS-260403-03BD
   - INS-260330-EFF3
   - PRI-260328-23B0
-  - INS-260325-71DE
   - INS-260323-BBD3
   - INS-260325-87FC
   - INS-260327-D10B
   - INS-260327-8C58
-  - INS-260327-0061
+  - INS-260327-ECBB
 evidence:
   - id: INS-260403-03BD
     type: TRANSFERS_TO

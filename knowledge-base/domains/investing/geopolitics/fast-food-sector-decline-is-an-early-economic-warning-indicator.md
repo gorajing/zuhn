@@ -45,14 +45,14 @@ stance: >-
   downturns - start losing sales, it signals that consumer distress has reached
   the bottom of the economic pyramid.
 related:
+  - PRI-260405-8E48
   - PRI-260328-6136
   - PRI-260328-0993
   - INS-260325-FF45
-  - INS-260330-7462
   - PRI-260328-D68F
 evidence:
   - id: INS-260330-B7AB
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Fast food is traditionally the last consumer category to decline because it represents the cheapest prepared food option. When McDonald's posts its biggest US sales decline in 5 years during a period of economic uncertainty, it means consumers have exhausted their ability to trade down. There's nowhere cheaper to go.
 

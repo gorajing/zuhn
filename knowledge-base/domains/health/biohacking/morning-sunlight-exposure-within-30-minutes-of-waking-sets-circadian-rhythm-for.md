@@ -41,23 +41,23 @@ stance: >-
 related:
   - INS-260327-C150
   - PRI-260328-B115
+  - INS-260330-A256
   - INS-260330-DBA4
   - INS-260330-BC8E
-  - INS-260330-F31A
-  - INS-260330-A256
   - INS-260330-ECA9
   - INS-260330-F6A2
   - INS-260404-C497
+  - INS-260325-9F01
 evidence:
   - id: INS-260330-DBA4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-BC8E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-ECA9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F6A2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-C497
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Getting direct sunlight in the eyes within 30 minutes of waking is the single most important circadian rhythm intervention, setting cortisol timing and melatonin production for the entire day

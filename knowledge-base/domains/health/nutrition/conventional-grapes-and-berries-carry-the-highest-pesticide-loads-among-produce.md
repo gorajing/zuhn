@@ -47,15 +47,15 @@ stance: >-
   making organic selection essential for these specific items even on a budget
 related:
   - INS-260325-A61B
-  - INS-260330-3BB5
   - PRI-260328-0174
   - INS-260327-BED6
   - INS-260330-F222
+  - PRI-260328-97E0
 evidence:
   - id: INS-260330-8BA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F222
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The dirty dozen list identifies produce with the highest pesticide residues when grown conventionally. Grapes and berries consistently rank among the worst. Thick-skinned fruits (avocados, bananas, oranges) are safer to buy conventional because the peel provides a barrier.
 

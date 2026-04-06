@@ -1,6 +1,6 @@
 # Topic: biohacking
 
-> 111 insights
+> 119 insights
 
 - `INS-260330-B173` [high] Running up stairs for 20 seconds, 2-3 times daily across a workday, significantly improves VO2 max and blood glucose control.
 - `INS-260326-BF32` [high] Evolution optimized for stability under disruption, not peak performance — pushing one parameter to its optimum can crash the stability system that keeps everything else running.
@@ -12,6 +12,7 @@
 - `INS-260325-E8BC` [high] Your biological age is malleable through lifestyle changes, even though your chronological age is fixed.
 - `INS-260330-54A3` [high] UV light accelerates cataracts and damages the retina, but virtually all modern eyeglasses already block UV; blue-blocking adds no proven benefit and may interfere with circadian entrainment.
 - `INS-260327-6664` [high] Body weight is a misleading health metric because it cannot distinguish fat loss from muscle gain or water shifts
+- `INS-260404-7CBC` [high] The brain receives ~1B bits/sec but can only output ~10 bits/sec, creating a massive bottleneck that BCIs aim to bypass.
 - `INS-260327-1DAB` [high] Chronic stress and cortisol management is as important as diet for health outcomes
 - `INS-260330-EC0F` [high] Measuring how slowly you can exhale after deep breathing predicts nervous system recovery status better than subjective feelings.
 - `INS-260330-6270` [high] Shivering releases succinate from muscles which activates brown fat thermogenesis — resisting shiver during cold exposure eliminates the fat-burning benefit.
@@ -35,11 +36,14 @@
 - `INS-260322-E7E9` [high] When insurance rejected a BMI-34.7 patient for Ozempic coverage at $1000/month, she turned to Chinese-sourced peptides at $15/vial — the access gap is creating the gray market.
 - `INS-260330-60A5` [high] Hypertrophy works across 5-30 reps per set with equal effectiveness — total volume of 10-25 working sets per muscle per week is the true driver.
 - `INS-260327-CBDF` [high] Indoor air is typically 2-5x more polluted than outdoor air due to mold, VOCs, and poor ventilation
+- `INS-260403-9757` [high] Research shows brain function drops 15% above 1000 ppm CO2 and over 50% above 1400 ppm, making CO2 monitoring a high-ROI cognitive tool.
+- `INS-260327-FB98` [high] Myopia rates of 80-90% in East Asian youth under 20 and 40-50% in the US are driven by indoor living and screen use; spending time outdoors looking at long distances is the primary prevention.
 - `INS-260330-1ACD` [high] Lactate is a triple-function molecule (buffer, fuel, hormone) that most people incorrectly believe causes the burn during exercise.
 - `INS-260330-713C` [high] Lactate buffers acid buildup during intense exercise and serves as fuel for the heart, brain, and liver — it's protective, not harmful.
 - `INS-260325-FC52` [high] Without someone to share stress with, the body stays in low-level fight-or-flight mode, causing chronic inflammation that gradually degrades multiple organ systems.
 - `INS-260325-39FD` [high] Longevity medicine aims to extend disease-free years, not prevent death — and one extra healthy year is worth $38 trillion.
 - `INS-260330-2025` [high] Your ability to deliberately cramp a muscle predicts both your growth potential for that muscle and how few sets you need to train it.
+- `INS-260327-6F94` [high] Morning sunlight exposure within 30 minutes of waking sets circadian rhythm for the entire day
 - `INS-260327-24AA` [high] Most bottled water in plastic containers contains microplastics and leached antimony/BPA; glass-bottled spring water or home reverse osmosis filtration with remineralization are the safest options.
 - `INS-260327-0871` [high] Non-toxic kitchen requires eliminating non-stick coatings, plastic storage, and unfiltered tap water
 - `INS-260327-D5E0` [high] Medical 'normal' ranges are bell-curve averages from a metabolically sick population -- 'normal' literally means 'average' not 'healthy,' and ranges shift as the population gets sicker.
@@ -63,6 +67,7 @@
 - `INS-260325-BF44` [high] Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260327-0105` [high] Upper cross syndrome from screen use is correctable within minutes through specific muscle activation patterns
 - `INS-260326-786D` [high] Taleb's via negativa principle argues that removing the unnatural (smoking, processed food, sedentary behavior) is categorically safer than adding interventions, because additions carry multiplicative hidden risks in complex systems.
+- `INS-260404-07C3` [medium] Google DeepMind's AlphaGenome can analyze up to 1 million DNA base pairs simultaneously, focusing on the regulatory regions that control gene expression.
 - `INS-260327-F384` [medium] Animal-based nutrition supports elite surfing performance through sustained energy without crashes
 - `INS-260327-7C0A` [medium] Candida overgrowth can be rapidly reduced with oregano oil caprylic acid and biofilm-disrupting enzymes
 - `INS-260327-1E16` [medium] Keto and carnivore diets dropped Saladino's testosterone from 800 to 500; adding fruit and honey back restored it, because carbohydrates signal evolutionary abundance for reproduction.
@@ -84,9 +89,11 @@
 - `INS-260327-78E6` [medium] Keto dieters who claim they need less sleep are misinterpreting sympathetic nervous system overdrive from elevated cortisol and catecholamines as reduced sleep need.
 - `INS-260327-C0AB` [medium] Magnesium taurate and malate are the best-absorbed forms; citrate causes diarrhea, glycinate may deplete methyl groups in those with MTHFR mutations, and threonate may cross the blood-brain barrier.
 - `INS-260327-5DB4` [medium] Methylene blue's perceived benefits are likely from its MAOI properties altering neurotransmitters rather than improving metabolism; it actually reduces ATP in healthy mitochondria.
+- `INS-260327-1C1B` [medium] Methylene blue bypasses parts of the electron transport chain, which helps broken mitochondria but reduces ATP in healthy ones; its MAOI effects confuse users into thinking they have more energy.
 - `INS-260327-027E` [medium] Middle-of-night waking responds to blood sugar stabilization and specific breathing techniques
 - `INS-260327-918A` [medium] Clinical studies show milk and orange juice are more hydrating than plain water; optimal daily hydration is 2.3L of fluid paired with 8-9g salt, consumed in the first 10 hours after waking.
 - `INS-260327-C150` [medium] Modern LED lighting damages health through invisible flicker and circadian-disrupting blue light spectra
+- `INS-260404-67F8` [medium] Neuralink improved signal quality in 18 of 20 cases by incorporating lessons from its first human implant recipient.
 - `INS-260403-2BAD` [medium] Neurofeedback uses real-time brainwave monitoring with reward signals to train the brain toward calmer, more focused configurations.
 - `INS-260327-7099` [medium] Despite nicotine occurring naturally in the body as a neurotransmitter, exogenous nicotine via pouches raises blood pressure, increases heart rate, and is highly addictive.
 - `INS-260327-5107` [medium] Of celebrity biohacks only cold exposure and red light therapy have meaningful evidence while IV drips are largely unnecessary
@@ -112,4 +119,5 @@
 - `INS-260327-CB82` [low] AirPods and wireless earbuds emit the same RF-EMF frequency as microwave ovens at significant microwatts/m2 directly adjacent to the brain during extended use.
 - `INS-260327-B987` [low] Grounding mats that connect to earth's electromagnetic field may be the most effective non-pharmaceutical sleep relaxation tool, based on reported subjective effects and emerging research.
 - `INS-260327-1E87` [low] Ranking from least to most harmful: cigars (quality tobacco leaf), nicotine pouches, marijuana, vaping, cigarettes.
+- `INS-260327-D070` [low] Molecular hydrogen (H2) in water shows emerging evidence as a selective antioxidant that targets harmful hydroxyl radicals without suppressing beneficial ROS signaling.
 - `INS-260327-51E8` [low] Specific compounds enhance nighttime fat oxidation during the extended overnight fast

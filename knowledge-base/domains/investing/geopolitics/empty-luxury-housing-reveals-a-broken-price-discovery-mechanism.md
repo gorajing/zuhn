@@ -47,12 +47,12 @@ stance: >-
   market demonstrates that the real estate market's price discovery mechanism is
   broken - owners prefer vacancy over price reduction.
 related:
-  - INS-260327-2B44
   - PRI-260328-EAC4
+  - INS-260403-D537
   - INS-260327-DF2F
   - INS-260330-01D5
+  - INS-260327-2B44
   - INS-260327-EE23
-  - INS-260404-9D4E
 evidence:
   - id: INS-260404-9D4E
     type: CONTRADICTS

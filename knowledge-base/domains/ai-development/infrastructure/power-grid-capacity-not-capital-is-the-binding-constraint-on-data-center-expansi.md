@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: NVIDIA and the $1T AI Buildout for the Agent Era
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-176'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The US data center pipeline hit 241 GW but only a third is under active
@@ -68,6 +58,14 @@ stance: >-
   Hyperscalers can deploy hundreds of billions in capital but cannot build data
   centers faster than utilities can supply power, making energy procurement the
   true bottleneck for AI scaling.
+related:
+  - INS-260323-F12F
+  - INS-260328-F05E
+  - INS-260330-F205
+  - INS-260405-1054
+  - INS-260325-5CB1
+  - PRI-260403-4612
+  - INS-260404-E544
 ---
 The data center boom has hit a physical constraint that capital cannot solve on short timescales: electrical grid capacity. US disclosed pipeline reached 241 GW by end of 2025 (up 159% YoY), but only a third of projects are actively developing. Q4 2025 saw only 25 GW of new capacity added—half the Q3 pace—because utilities lack the grid and generating capacity to serve these massive new demand centers.
 

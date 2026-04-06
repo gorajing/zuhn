@@ -1,3 +1,3 @@
 # Tag: stakeholder-alignment
 
-- `INS-260403-CC25` Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
+- `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.

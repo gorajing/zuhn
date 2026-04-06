@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "AI’s Fastest Growth Cycle Yet⚡, The VC Fund Trap\U0001F4C9, State of AI 2025\U0001F916"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ais-fastest-growth-cycle-yet-the'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI companies are scaling revenue at rates never seen before, concentrating
@@ -58,6 +48,17 @@ stance: >-
   AI companies are achieving revenue growth multiples that exceed every previous
   technology cycle, fundamentally compressing the timeline from startup to
   market dominance
+related:
+  - INS-260325-FADB
+  - INS-260322-5745
+  - INS-260321-822B
+  - INS-260324-92E9
+  - INS-260327-CFE5
+  - INS-260327-226A
+  - INS-260329-74F9
+  - INS-260403-92CC
+  - INS-260403-7708
+  - INS-260404-9BC6
 ---
 The current AI growth cycle is outpacing prior technology waves — including mobile, cloud, and SaaS — in terms of revenue scaling speed. Top AI companies are pulling far ahead of competitors, which forces incumbents into defensive positions and reshuffles market leadership faster than historical precedent would suggest.
 

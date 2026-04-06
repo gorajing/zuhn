@@ -48,10 +48,10 @@ resolutions:
     market-timing play.
 related:
   - INS-260403-A115
+  - INS-260403-8450
   - INS-260327-714F
   - INS-260330-809A
   - INS-260330-1EAC
-  - INS-260327-07C9
   - INS-260330-AE70
 stance: >-
   JungleKeepers' strategy of purchasing land concessions works because the

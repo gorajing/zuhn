@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Climate Tech is \"Dead\"\U0001F331, The Rise of Anti-Woke VC\U0001F4BC, State of Global VC \U0001F30D"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/climate-tech-is-dead-the-rise-of'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VC deal activity is increasingly distributed across global markets beyond
@@ -57,6 +47,17 @@ stance: >-
   Venture capital is structurally decentralizing away from Silicon Valley
   dominance, with meaningful deal flow now originating from Southeast Asia,
   Europe, and emerging markets
+related:
+  - INS-260324-8D35
+  - INS-260327-5DD2
+  - INS-260403-8448
+  - INS-260403-A691
+  - INS-260403-3122
+  - INS-260405-CD10
+  - INS-260403-23FD
+  - INS-260404-A893
+  - INS-260404-70DE
+  - INS-260405-6EE5
 ---
 The funding rounds highlighted span Singapore (Tyme Group $250M Series D, AppWorks Demo Day), Europe (Bnewable €40M, ETF Partners €285M, Drifter World SEK 36M), and emerging markets (Uzbekistan, Sri Lanka, Thailand VC roles). This geographic spread signals a structural shift in where venture-backed innovation happens.
 

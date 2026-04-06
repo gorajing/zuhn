@@ -50,30 +50,28 @@ stance: >-
   warm, noisy biological environments — a feat that quantum engineers are still
   struggling to achieve in controlled lab conditions.
 related:
-  - INS-260323-5199
-  - INS-260403-172E
-  - PRI-260403-70D0
-  - INS-260404-47BC
-  - INS-260404-D39D
-  - INS-260325-1B3E
   - INS-260325-3D31
-  - INS-260325-A782
+  - INS-260323-5199
   - INS-260325-1F35
+  - INS-260330-6E61
+  - PRI-260403-70D0
+  - INS-260404-FC20
+  - INS-260330-1084
 evidence:
   - id: INS-260323-5199
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-1F35
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8C6A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1084
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6E61
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-972B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-666E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Al-Khalili introduces quantum biology: the hypothesis that evolution has discovered and exploited quantum phenomena inside living cells. Evidence hints that photosynthesis may use quantum superposition for energy transfer efficiency. If life can maintain coherence in warm, wet, chemically noisy cellular environments — conditions far harsher than laboratory setups — studying these biological mechanisms could provide blueprints for engineering quantum computers.
 

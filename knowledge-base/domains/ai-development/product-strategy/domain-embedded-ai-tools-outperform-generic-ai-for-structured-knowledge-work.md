@@ -48,10 +48,11 @@ stance: >-
   knowledge tasks
 related:
   - INS-260403-4D80
-  - INS-260403-F148
   - INS-260403-3A7A
+  - INS-260404-E4C3
   - PRI-260328-517C
-  - INS-260403-ACA8
+  - INS-260403-F148
+  - INS-260403-008F
 evidence:
   - id: INS-260403-F148
     type: SUPPORTS

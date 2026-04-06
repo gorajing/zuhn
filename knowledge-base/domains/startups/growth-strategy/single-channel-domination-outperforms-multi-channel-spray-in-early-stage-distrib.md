@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Distribution Is the Final Moat
-    author:
-      - '@type': Person
-        name: GTMnow
-        url: 'https://substack.com/@gtmnow'
-        description: >-
-          The media brand of VC firm, GTMfund. Build, scale and invest with the
-          best minds in tech. 
-        identifier: 'user:304388186'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!9oNA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b85fac-affa-4dbf-bff1-7c9b407b1f7f_1080x1080.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!9oNA!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b85fac-affa-4dbf-bff1-7c9b407b1f7f_1080x1080.png
+    author: GTMnow
     url: 'https://www.thevccorner.com/p/distribution-is-the-final-moat'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Find one channel where you can win and double down until diminishing returns
@@ -61,6 +49,13 @@ stance: >-
   Founders who master one distribution channel before diversifying build
   stronger pipelines than those who spread efforts across multiple channels
   simultaneously
+related:
+  - INS-260322-ABA0
+  - INS-260330-323E
+  - INS-260405-D959
+  - INS-260330-8481
+  - INS-260329-AF18
+  - INS-260403-2054
 ---
 The instinct to diversify distribution channels early is a trap. The most effective early-stage founders identify one or two channels and absolutely crush them before expanding. The HVAC company that embedded in niche Facebook groups and the founder who brought a vertical podcast host on as an advisor both demonstrate this principle — deep channel mastery creates authentic pipelines that broad marketing spend cannot replicate.
 

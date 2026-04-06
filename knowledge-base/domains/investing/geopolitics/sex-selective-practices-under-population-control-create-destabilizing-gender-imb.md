@@ -55,7 +55,6 @@ stance: >-
   cannot find partners.
 related:
   - INS-260330-B4BD
-  - INS-260330-22A2
   - INS-260330-74AC
   - INS-260330-0FF7
   - INS-260330-AAE9

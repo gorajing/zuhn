@@ -45,23 +45,23 @@ stance: >-
   directly allows you to stretch 140 calories of sauce across an entire pound of
   plain meat while perceiving rich flavor.
 related:
-  - INS-260329-2D0B
   - INS-260329-C996
   - INS-260329-2EB1
-  - INS-260329-EBBB
-  - INS-260403-9679
+  - INS-260403-DE28
+  - INS-260330-BCAF
+  - INS-260403-A101
 evidence:
   - id: INS-260329-C996
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-2EB1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-EBBB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-BCAF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-DE28
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7964
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Hormozi describes a specific technique for his beef-and-cauliflower meal: instead of mixing sriracha-mayo sauce into the meat (where it gets diluted and invisible), he dips his spoon into the sauce and flips it so the sauce faces downward — toward the tongue on each bite. This exploits how taste perception works: flavor receptors on the tongue respond to direct contact intensity, not total volume consumed. By ensuring every bite's first contact is concentrated sauce hitting taste buds, 140 calories of mayo-sriracha stretches across a full pound of ground beef. This is a behavioral design insight that applies beyond nutrition — it's about optimizing the perception layer rather than the substance layer. The same principle appears in UX design (front-loading the most impactful element) and in sales (leading with the strongest benefit).

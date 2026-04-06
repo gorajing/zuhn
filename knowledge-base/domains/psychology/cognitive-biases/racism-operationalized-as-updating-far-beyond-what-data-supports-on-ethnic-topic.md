@@ -55,13 +55,14 @@ stance: >-
   makes people leap from small statistical differences to sweeping caricatures
   about entire ethnic groups.
 related:
-  - INS-260325-3B28
   - INS-260327-9D51
   - INS-260330-141E
   - INS-260330-420B
   - PRI-260405-ADEA
   - PRI-260323-81E9
-  - PRI-260403-50EF
+  - INS-260405-585D
+  - INS-260404-AE27
+  - INS-260403-7848
 evidence:
   - id: INS-260402-3FD8
     type: CHALLENGES

@@ -46,11 +46,12 @@ stance: >-
   capability but taste and values articulation, making self-awareness of your
   own values the critical meta-skill.
 related:
-  - INS-260323-4EE4
   - PRI-260328-9F8C
   - PRI-260328-AC85
   - INS-260327-289F
+  - INS-260323-4EE4
   - INS-260329-12EA
+  - INS-260405-2E46
 evidence:
   - id: INS-260327-289F
     type: SUPPORTS

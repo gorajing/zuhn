@@ -55,10 +55,10 @@ stance: >-
   replicated from scratch under time pressure.
 related:
   - INS-260322-D69E
-  - INS-260329-9A8B
   - INS-260329-B194
+  - INS-260403-183D
+  - INS-260329-9A8B
   - INS-260327-DD1D
-  - INS-260323-8C53
 ---
 Banzai International's situation was stark: 87% of revenue came from in-person events, they lacked virtual event infrastructure, and building it would take months they didn't have. Their acquisition of High Attendance in Houston compressed what would have been a 6-12 month development cycle into days. Within months, they had Google and Hitachi as clients and exceeded pre-pandemic event volumes.
 

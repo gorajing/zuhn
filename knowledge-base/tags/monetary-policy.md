@@ -1,8 +1,17 @@
 # Tag: monetary-policy
 
+- `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
+- `INS-260403-988C` Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
+- `INS-260405-AB6B` The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
+- `INS-260405-25DD` December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
 - `INS-260330-EA56` By excluding assets from CPI, governments hide the true inflation that transfers wealth from currency-holders (working class) to property-holders (wealthy class).
+- `INS-260403-4B3D` The Fed's pattern of letting bubbles inflate then responding with emergency measures has escalated intervention scale at each crisis.
 - `INS-260330-6DE0` Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
 - `INS-260330-F79F` Currency pegs that overvalue the local currency create a doom loop where black market exchange rates drain official reserves faster.
+- `INS-260403-2242` The Fed cut rates 25bps to 3.75-4.00% and announced QT ending December 1, with dissents revealing internal division, as major layoffs at UPS (48K), Amazon (30K), and others signal accelerating labor market deterioration.
+- `INS-260402-36DE` Massive fiscal deficits and shrinking buyer base for Treasuries mean Fed rate cuts no longer reliably lower long-term yields.
 - `INS-260323-6258` Friedman and Schwartz's 12-year study proved the Great Depression was caused by a 30% drop in money supply due to Fed inaction — not by inherent capitalist failure as Keynesians argued.
+- `INS-260403-AE6A` The BLS revised nonfarm employment down by 911K jobs, revealing the labor market was substantially weaker than monthly reports indicated.
 - `INS-260330-AACC` Zimbabwe's redenominations (removing 10 and then 12 zeros) failed because citizens' inflation expectations were self-fulfilling without credible institutional reform.
 - `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
+- `INS-260403-CFBD` Weaponizing legal institutions against independent economic bodies trades durable stability for short-term political leverage.

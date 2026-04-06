@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "GTM Benchmarks\U0001F4CA, Age of Unicorn Founders\U0001F4B0, Future of Sales with AI\U0001F916"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/gtm-benchmarks-age-of-unicorn-founders'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI automates volume in sales, making precision the only remaining
@@ -60,6 +50,12 @@ stance: >-
   AI in sales will eliminate most of the value in high-volume outreach while
   dramatically amplifying the returns on precise targeting and deep
   qualification.
+related:
+  - INS-260329-D02E
+  - INS-260403-C1A5
+  - INS-260403-4935
+  - PRI-260327-942E
+  - INS-260327-B357
 ---
 BCG's executive perspective on AI in sales points to a fundamental restructuring: the activities that have historically justified large sales headcount—prospecting, outreach sequencing, follow-up cadences—are being automated. This compresses the value of scale in outbound sales and shifts competitive advantage toward qualification accuracy, relationship depth, and enterprise deal complexity.
 

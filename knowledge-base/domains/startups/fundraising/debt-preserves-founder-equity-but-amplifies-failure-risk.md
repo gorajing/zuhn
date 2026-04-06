@@ -51,16 +51,16 @@ stance: >-
   ownership stake in success scenarios, but creates a binary outcome where
   moderate business underperformance can wipe out equity holders entirely.
 related:
-  - INS-260320-703F
   - INS-260323-E9E4
   - INS-260322-A31D
   - INS-260323-4C43
   - INS-260327-8AE7
-  - INS-260329-6BE8
   - INS-260329-CB10
   - INS-260329-2A70
   - PRI-260405-E9C5
   - PRI-260403-26B9
+  - INS-260402-8424
+  - INS-260403-1287
 evidence:
   - id: INS-260320-703F
     type: TRANSFERS_TO

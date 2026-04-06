@@ -54,11 +54,11 @@ stance: >-
   Writing tests forces you to articulate what you actually expect your code to
   do, making it a tool for clarifying thought rather than merely catching bugs.
 related:
+  - INS-260403-AB55
+  - INS-260403-A27F
   - PRI-260405-0676
   - PRI-260405-49C0
   - PRI-260328-0F0D
-  - INS-260403-2DF9
-  - INS-260323-ACD9
 evidence:
   - id: INS-260330-63DD
     type: TRANSFERS_TO

@@ -54,14 +54,13 @@ stance: >-
   produce more impactful products than well-funded labs that can sustain
   themselves on institutional backing
 related:
-  - INS-260323-3ADC
-  - INS-260324-1216
   - INS-260323-EBC3
   - INS-260327-D0F4
   - INS-260330-DE65
   - INS-260404-96E6
   - INS-260330-930D
-  - INS-260330-067C
+  - INS-260324-1216
+  - INS-260327-62AB
 evidence:
   - id: INS-260323-3ADC
     type: SUPPORTS

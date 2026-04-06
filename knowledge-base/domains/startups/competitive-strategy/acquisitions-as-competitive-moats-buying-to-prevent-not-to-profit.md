@@ -49,11 +49,11 @@ stance: >-
   than to generate direct revenue from the acquired product, making the
   acquisition price rational even when the target has near-zero revenue
 related:
+  - INS-260405-77C9
   - INS-260327-EA4E
   - INS-260330-930D
   - INS-260330-0871
-  - INS-260403-F03A
-  - INS-260330-809A
+  - INS-260403-B610
 evidence:
   - id: INS-260330-F9CA
     type: SUPPORTS

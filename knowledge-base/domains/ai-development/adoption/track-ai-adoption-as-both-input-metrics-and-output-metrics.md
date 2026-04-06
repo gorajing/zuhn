@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: 25 proven tactics to accelerate AI adoption at your company
-    author:
-      - '@type': Person
-        name: Peter Yang
-        url: 'https://substack.com/@petergyang'
-        description: >-
-          Extremely practical AI tutorials and interviews for busy people | Join
-          135K+ readers at creatoreconomy.so | Product at Roblox
-        identifier: 'user:6052627'
-        sameAs:
-          - 'https://twitter.com/petergyang'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!827n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2dbd75e-1c5a-48ab-94ef-b24caea63cdf_1024x1024.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!827n!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2dbd75e-1c5a-48ab-94ef-b24caea63cdf_1024x1024.png
+    author: Peter Yang
     url: 'https://www.lennysnewsletter.com/p/25-proven-tactics-to-accelerate-ai'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Effective AI adoption measurement pairs leading indicators like power-user
@@ -59,6 +45,13 @@ resolutions:
 stance: >-
   Companies that measure only AI tool usage or only business outcomes fail to
   create the feedback loop needed for sustained adoption growth
+related:
+  - INS-260323-9492
+  - INS-260321-2241
+  - INS-260405-62F8
+  - INS-260403-9A0C
+  - PRI-260323-2E5A
+  - INS-260329-14AE
 ---
 The most successful companies track both sides: Ramp publishes the number of AI power users (5+ actions/week) by team as a leading indicator, while Zapier tracks downstream impact like 10 hours saved per sales rep per week. Intercom uses merged pull requests as a proxy metric, seeing a durable 20% year-over-year improvement from AI-assisted development.
 

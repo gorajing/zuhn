@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'The Founder Operating System: Best Startup Resources 2026'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/founder-operating-system-startup-resources'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Early users come from consistent presence in user communities, not from
@@ -58,6 +48,13 @@ resolutions:
 stance: >-
   There is no single launch moment that changes everything — early users come
   from founders who showed up repeatedly where their users already were.
+related:
+  - INS-260404-3771
+  - INS-260330-59DC
+  - INS-260330-21CC
+  - INS-260403-B635
+  - INS-260403-CA1E
+  - INS-260330-1854
 ---
 Founders commonly expect a Product Hunt launch or newsletter mention to deliver sustained traction. When the spike fades, they conclude the idea is not working — but the idea never got a real chance because the founder stopped at broadcasting and never started engaging. The article argues that early traction is inherently unglamorous: direct messages, Reddit threads, cold emails, and showing up in the same communities repeatedly until recognition builds.
 

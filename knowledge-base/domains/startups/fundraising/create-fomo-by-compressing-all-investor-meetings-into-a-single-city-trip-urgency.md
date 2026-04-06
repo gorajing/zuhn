@@ -49,12 +49,13 @@ resolutions:
 related:
   - INS-260330-6900
   - INS-260327-E9F3
+  - INS-260403-E541
+  - INS-260402-A3DB
   - INS-260322-C33D
-  - INS-260403-9D89
-  - INS-260402-5974
   - INS-260325-3B2A
   - INS-260327-0833
   - INS-260329-57D7
+  - INS-260403-7795
 stance: >-
   Flying to a city and stacking every investor and customer meeting into 2-3
   days creates a forcing function where FOMO compounds

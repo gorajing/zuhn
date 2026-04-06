@@ -48,17 +48,14 @@ stance: >-
   aspirational broad one, because vague descriptions register as zero-content
   noise to investors.
 related:
-  - INS-260403-86DB
-  - INS-260404-683B
-  - INS-260404-8660
-  - INS-260403-D430
-  - INS-260404-CA98
-  - INS-260403-91F9
   - INS-260404-896B
-  - INS-260405-28E2
+  - INS-260405-44F5
+  - INS-260403-BA6A
+  - INS-260403-FC45
+  - PRI-260405-E9C5
 evidence:
   - id: INS-260403-7964
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Founders resist narrow descriptions because early-stage products have many possible futures. But as a description approaches 'could be anything,' its information content approaches zero. Investors will tune out 'a system to collaboratively leverage information value' but engage with 'an easy web-based database.' The right approach is successive approximation: start with a gripping but perhaps overly narrow description, then flesh it out. This mirrors incremental development — at every point you have a 'working description' in the investor's head, even if it doesn't capture everything yet.
 

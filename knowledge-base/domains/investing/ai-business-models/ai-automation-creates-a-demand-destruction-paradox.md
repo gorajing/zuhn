@@ -45,11 +45,13 @@ stance: >-
   fundamental economic paradox with no market-based solution.
 related:
   - INS-260327-3A81
+  - INS-260404-29AF
+  - INS-260403-063E
   - PRI-260328-D401
   - PRI-260321-7307
-  - INS-260322-F6AA
-  - PRI-260328-7E58
   - INS-260327-40D5
+  - INS-260405-4F2B
+  - INS-260403-2FB2
 evidence:
   - id: INS-260322-F6AA
     type: EXTENDS

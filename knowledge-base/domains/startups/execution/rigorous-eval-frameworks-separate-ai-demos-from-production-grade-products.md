@@ -44,16 +44,16 @@ stance: >-
   97%-accurate production system that retains customers is two weeks of
   sleepless prompt engineering against expanding eval suites.
 related:
-  - INS-260322-D6D7
-  - INS-260321-E8CB
   - INS-260321-2F09
+  - INS-260403-EDEF
   - PRI-260328-2014
+  - INS-260403-94EB
   - INS-260330-A86C
-  - PRI-260321-14D8
-  - INS-260330-E8C6
   - INS-260327-1C7C
   - INS-260327-7A48
   - INS-260328-F303
+  - INS-260330-E8C6
+  - INS-260403-C695
 evidence:
   - id: INS-260327-1C7C
     type: REFINES

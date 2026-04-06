@@ -52,13 +52,13 @@ stance: >-
   for the opponent to make mistakes — but they are psychologically difficult
   because they require accepting short-term losses and appearing passive.
 related:
-  - INS-260323-DE39
   - INS-260327-088D
   - PRI-260405-C47B
   - INS-260327-B038
+  - INS-260327-E7AC
   - PRI-260328-43D8
   - INS-260327-3F8B
-  - INS-260327-719D
+  - INS-260403-4E70
 evidence:
   - id: INS-260327-088D
     type: CONTRADICTS

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Venture Capital Unveiled: Time for Change!'
-    author:
-      - '@type': Person
-        name: Arthur Derderian
-        url: 'https://substack.com/@arthurderderian'
-        description: Repeat Entrepreneur⏐Investor⏐Human Driver
-        identifier: 'user:58405609'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!OAQt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8135b2b2-2a82-40e0-b163-53201fcd6f5e_1149x1436.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!OAQt!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8135b2b2-2a82-40e0-b163-53201fcd6f5e_1149x1436.jpeg
+    author: Arthur Derderian
     url: 'https://www.thevccorner.com/p/venture-capital-unveiled-time-for'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The 10-year fund model inherited from PE creates deployment urgency that
@@ -57,6 +47,12 @@ stance: >-
   Fixed deployment windows force VCs to either over-capitalize founders or back
   mediocre projects, making the time constraint itself a primary driver of poor
   portfolio outcomes.
+related:
+  - INS-260403-6F9C
+  - INS-260403-3EDE
+  - INS-260403-E2DE
+  - INS-260404-8CAE
+  - INS-260404-707C
 ---
 Traditional VC funds operate on a 10-year lifecycle—6-7 years of deployment followed by 3-4 years of divestment—inherited directly from private equity conventions. This structure forces GPs to deploy large pools of capital ($150M+) within rigid windows, which creates two failure modes: over-capitalizing founders (which inflates egos and burns cash without discipline) or backing weaker deals to hit deployment targets.
 

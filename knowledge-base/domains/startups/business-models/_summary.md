@@ -1,10 +1,11 @@
 # Topic: business-models
 
-> 182 insights
+> 208 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
+- `INS-260403-AFBC` [high] Agentic AI that replaces human work should charge per outcome; assistive AI that augments humans should charge per seat or usage tier.
 - `INS-260322-FCFC` [high] Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
 - `INS-260327-07FC` [high] Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-CCAE` [high] Esports drew audiences rivaling traditional sports and attracted Fortune 500 sponsors, but broadcast deals never materialized at meaningful scale -- no team or league has ever turned a profit, and the entire industry collapsed when the expected broadcast payday never arrived.
@@ -26,6 +27,7 @@
 - `INS-260324-2244` [high] Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
 - `INS-260327-8E9D` [high] Theme parks must continuously invest in new rides because each new attraction generates declining visitor impact over ti
 - `INS-260327-D480` [high] In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
+- `INS-260405-1661` [high] Classifieds were ~30% of newspaper revenue and effectively funded quality journalism — when Craigslist killed classifieds, it defunded journalism as a byproduct.
 - `INS-260324-6345` [high] The Pokemon card market is part hobby, part investment, part cultural revival — driven by nostalgia-fueled millennials who brought professional career mindsets into the hobby.
 - `INS-260327-8F03` [high] Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enth
 - `INS-260322-B450` [high] The best consumer AI companies achieve over 100% net revenue retention through usage-based pricing on top of subscriptions — something never seen before in consumer software.
@@ -38,6 +40,7 @@
 - `INS-260324-E785` [high] A flight from NYC to Barcelona takes 8 hours; by ship it's 8-10 days — so cruises compete on spectacle: restaurants, water parks, casinos, Broadway shows, unlimited drinks, and bottomless pizza.
 - `INS-260403-C681` [high] Waze's CEO argues data is only worth what you sold it for — the widespread startup belief that 'having a lot of data is valuable' is fundamentally wrong without a specific value-creation mechanism.
 - `INS-260324-358F` [high] Diners have survived unchanged since the 1940s because their customers don't want artisan bread and organic eggs — they want processed cheese, fake butter, and frozen hash browns served consistently at any hour.
+- `INS-260327-0A6B` [high] Diner businesses survive market cycles because they serve fundamental human needs (affordable food, community gathering,
 - `INS-260327-048B` [high] Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260323-5106` [high] Casper, built to disrupt retail mattress stores, found that retail sales grew 74% year-over-year with 15% higher average orders — the thing they disrupted became their only hope.
 - `INS-260324-D90C` [high] Casper, Warby Parker, and Dollar Shave Club promised that cutting out retailers would lower costs — but they replaced wholesale margins with massive advertising budgets and ended up spending more on customer acquisition than retailers spent on shelf space.
@@ -67,6 +70,7 @@
 - `INS-260330-067C` [high] Bing is culturally perceived as a failure but generates $5B/year in profit — public perception of a product's success is decoupled from its financial performance.
 - `INS-260403-E78B` [high] High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260327-6F08` [high] The home security industry business model is contract lock-in rather than service quality, with sales commissions incent
+- `INS-260403-6546` [high] OpenAI's capped-profit hybrid structure embedded a structural conflict between mission and commercialization that directly caused its 2023 leadership crisis.
 - `INS-260324-B7C0` [high] Unilever's ice cream division (Ben & Jerry's, Magnum, Klondike) grew only 4% in 20 years despite owning the world's best brands — they're now actively trying to sell the entire division.
 - `INS-260327-442D` [high] Lionsgate's acquisition of Artisan Entertainment gave them 8,000+ titles whose syndication licensing generated steady recurring revenue -- like a SaaS business -- that cushioned the inherent volatility of new film production.
 - `INS-260330-16F7` [high] McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.
@@ -91,7 +95,7 @@
 - `INS-260403-3F5F` [high] Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260327-4C5E` [high] External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
 - `INS-260330-0998` [high] Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
-- `INS-260403-94CA` [high] McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
+- `INS-260403-BD43` [high] McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
 - `INS-260324-98F6` [high] The Big Five movie studios (Paramount, Universal, Sony, Warner Bros, Disney) all have diversified parent conglomerates because standalone film businesses can't absorb the inevitable flops.
 - `INS-260327-723A` [high] Esports collapsed because the ecosystem required publishers, teams, leagues, and broadcasters to all invest simultaneously -- when publishers like EA and Ubisoft pulled back, teams lost revenue, players left, viewership dropped, and sponsors followed.
 - `INS-260403-C8B9` [high] New business models inherently start at low profitability and must be evaluated on trajectory rather than current performance.
@@ -99,13 +103,17 @@
 - `INS-260327-B116` [high] Nightclub economics are driven by selling status through bottle service, VIP areas, and exclusivity rather than the actu
 - `INS-260324-CBD3` [high] LA's top nightcrawlers make 6-8 figures filming breaking news at night that local TV stations can't cover — invisible infrastructure with guaranteed institutional demand.
 - `INS-260323-5A96` [high] Americans replace mattresses every 9-10 years — Casper's massive ad spend couldn't change this fundamental market constraint, and growth decelerated from 43% to 18% despite continued spending.
+- `INS-260405-ABCF` [high] Every closed project depends on OSS components, and OSS projects depend on closed companies funding them.
 - `INS-260403-4E16` [high] Shifting from task-based to outcome-based pricing for AI agents mirrors healthcare's fee-for-service to value-based care transition, emphasizing quality over quantity.
+- `INS-260404-DF95` [high] Payment friction acts as a quality filter that ad-supported models lack, because people won't pay for content they only rage-engage with.
+- `INS-260403-586C` [high] Per-seat pricing breaks down when AI agents do the work instead of humans, forcing a shift to usage or outcome-based billing.
 - `INS-260403-F5EE` [high] People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
 - `INS-260324-D612` [high] Pizza has the lowest food costs in fast food (flour, canned tomatoes, subsidized cheese), needs minimal space, and 50% of US pizza shops are still independent — unlike burgers where 90% are chains.
 - `INS-260327-C294` [high] Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
 - `INS-260327-FBD8` [high] Gun store revenue is driven primarily by fear of future regulation rather than actual use demand, creating cyclical boom
 - `INS-260403-BE7C` [high] Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
 - `INS-260329-72A5` [high] A 10x price increase on the same product can yield a 31x increase in net profit because fixed costs remain constant.
+- `INS-260403-D5C2` [high] Price cuts that seem modest (e.g., $200 to $150/month) dramatically extend payback periods because CAC is fixed while per-customer revenue shrinks.
 - `INS-260329-8F7C` [high] Allen unlocked 4x pricing power by running pricing surveys and repackaging its charging model, not by changing the product itself.
 - `INS-260322-5F87` [high] Private companies and individuals funding police technology (less than 1% of police budgets) can transform public safety because city budgets are too rigid and debt-laden to make marginal tech investments.
 - `INS-260403-9F5A` [high] Entrepreneurs who obsess over product while neglecting repeatable, scalable, and profitable business model design build ventures that survive only as long as investor funding lasts.
@@ -131,6 +139,7 @@
 - `INS-260403-C4DF` [high] Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - `INS-260330-DC0D` [high] McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
 - `INS-260324-9586` [high] VCs proclaimed scooters would 'disrupt walking,' raised billions with no moat in hardware or software, dumped scooters on cities without permission, and the entire category collapsed within 4 years.
+- `INS-260403-75E3` [high] Per-seat pricing creates an inverse relationship between AI product effectiveness and revenue.
 - `INS-260329-39E1` [high] Self-serve models reduce price resistance by making customers feel responsible for their own spending.
 - `INS-260324-4ACD` [high] America has 50,000 self-storage facilities and 2 billion sq ft of extra storage for 300M people — Europe has 5,000 facilities for 750M people. It's a recession-proof bet on American overconsumption.
 - `INS-260327-FD4C` [high] Self-storage facilities profit during economic booms (people buy too much) and busts (people downsize) because both cond
@@ -142,9 +151,12 @@
 - `INS-260404-BCA2` [high] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.
 - `INS-260324-ABAC` [high] Steakhouses make up over half of the top 100 highest-grossing US restaurants because customers show up expecting to spend $50-100 per steak — the more predictable the menu and experience, the better.
 - `INS-260330-9137` [high] Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
+- `INS-260404-9004` [high] Subscription SaaS companies from 2012 built durable moats through deep enterprise integration and high switching costs.
+- `INS-260327-B9BB` [high] The difference between gardening as a hobby and gardening as income is planning density -- specifically, succession planting where beds are never empty and each crop has a replacement already growing weeks ahead.
 - `INS-260403-97F8` [high] Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260404-A375` [high] Technology should reinforce or transform your business model, not drive it — the business model question comes first.
 - `INS-260402-B2A2` [high] Tech industry phases are additive layers that compound value, not distinct eras that replace predecessors.
+- `INS-260402-E144` [high] When labor and materials become expensive, technology that reduces those costs delivers higher marginal returns — making inflationary periods surprisingly good for tech adoption.
 - `INS-260324-157A` [high] Chinese merchants on Wish/Temu profit on $1-10 items because of low cost of living, cheap rural warehouses, and subsidized state-owned postal services — the platform takes a cut while owning zero inventory.
 - `INS-260327-C6A9` [high] Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards ear
 - `INS-260403-7C60` [high] Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
@@ -155,6 +167,7 @@
 - `INS-260403-1000` [high] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260324-861B` [high] Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
 - `INS-260403-754F` [high] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
+- `INS-260404-19B0` [high] Vertical SaaS companies are scaling ACV by embedding AI to automate more tasks across three waves: Cloud, Fintech, and now AI Inside.
 - `INS-260403-BB22` [high] Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
 - `INS-260330-D824` [high] WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260327-38BC` [high] Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
@@ -164,23 +177,36 @@
 - `INS-260324-C496` [high] BuzzFeed ($1.7B valuation to penny stock) and VICE (bankruptcy) prove that millions of views and hit shows are worth almost nothing without subscription revenue.
 - `INS-260327-6A4B` [high] Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone 
 - `INS-260329-59FF` [high] All zero-capital wealth strategies are variations of value arbitrage — delivering more value than you capture.
+- `INS-260403-9421` [medium] The time required to build a company is often predictive of how long it will last.
 - `INS-260405-39A6` [medium] Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
 - `INS-260403-4E71` [medium] Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.
 - `INS-260322-AABB` [medium] The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
 - `INS-260403-49E7` [medium] Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
 - `INS-260404-C8FA` [medium] BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
 - `INS-260403-97F5` [medium] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
+- `INS-260404-B407` [medium] Turning trade-ins into instant checkout discounts yielded +45% AOV and 5-10% revenue penetration for early customers.
 - `INS-260404-D711` [medium] Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
+- `INS-260405-6C1F` [medium] ATP and NADPH don't store energy permanently — they exist solely to carry it between subsystems that can't exchange value directly, a design principle that appears in every complex value-exchange system.
 - `INS-260404-6A15` [medium] Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
 - `INS-260403-0AF7` [medium] Existential constraints strip away incrementalism and force founders into genuinely novel business model territory.
+- `INS-260403-501D` [medium] Consumer AI apps achieve >100% revenue retention through usage-based pricing and enterprise adoption, breaking traditional SaaS churn assumptions.
+- `INS-260403-32BA` [medium] Creators are increasingly launching product lines, brands, and software companies rather than relying solely on content monetization.
 - `INS-260404-9D4E` [medium] Declining businesses should default to renovation over elimination because existing infrastructure has recoverable value.
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` [medium] Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260405-9EE6` [medium] Costco's deliberate obstacles — confusing layout, membership fee, crowded aisles — select for the right customers and increase per-visit spend.
+- `INS-260403-83A4` [medium] eDreams built multiple 'inelegant' revenue streams (web-scraping, service fees, media business, hybrid OTA-Meta) that gave them resilience investors initially dismissed.
+- `INS-260404-2F57` [medium] Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.
 - `INS-260403-BE18` [medium] Somali piracy independently reinvented venture capital, equity splits, and performance bonuses because these are convergent solutions to coordination under uncertainty.
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.
 - `INS-260403-F590` [medium] The time required for business model change is driven by organizational readiness, not by how radical the change is.
 - `INS-260330-DA4A` [medium] Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
+- `INS-260404-BEAA` [medium] Reports of SaaS death are exaggerated, but the sentiment reflects genuine pressure from AI-native tools that can replicate SaaS functionality without traditional subscription models.
+- `INS-260404-E8F4` [medium] SaaS alone no longer constitutes a defensible business — it is converging toward a utility delivery mechanism.
+- `INS-260405-FD9D` [medium] SaaS is speedrunning itself — viral today, vanished tomorrow — making defensibility more urgent than ever.
+- `INS-260403-EDA1` [medium] SaaS value is migrating from code to workflow orchestration, compliance, and distribution — categories AI cannot easily replicate.
 - `INS-260327-889F` [medium] Taco Bell's turnaround was powered by sequential complementary leaders -- Emil Brolick (product/operations, 6 years) laid the foundation, then Greg Creed (marketing/pricing, 9 years) built the house on top of it.
 - `INS-260403-1C10` [medium] Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260403-57E7` [medium] Blockchain's real contribution to gaming is making virtual goods truly portable and user-owned, not turning games into income sources.
+- `INS-260404-B8EB` [medium] Usage-based pricing is displacing seat-based licensing as the dominant SaaS monetization model.
+- `INS-260405-FE74` [medium] The lion's share of vertical software value is realized a decade or more after launch, not at Series A or B.

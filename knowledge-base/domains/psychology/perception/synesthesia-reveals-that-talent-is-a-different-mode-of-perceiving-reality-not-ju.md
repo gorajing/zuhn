@@ -51,13 +51,13 @@ related:
   - INS-260325-D7B1
   - INS-260323-C10D
   - INS-260322-6D1D
-  - INS-260322-4B37
   - INS-260325-6BDE
-  - INS-260323-A430
   - INS-260330-2B3F
   - INS-260330-8B24
   - INS-260327-B59B
   - INS-260327-680A
+  - INS-260329-438D
+  - INS-260330-84C6
 stance: 'Musicians like Charlie Puth experience notes as colors, tastes, and shapes'
 evidence:
   - id: INS-260323-C10D

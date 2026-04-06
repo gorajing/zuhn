@@ -46,10 +46,10 @@ stance: >-
   products than those who rely on interviews and surveys alone.
 related:
   - INS-260330-049B
+  - INS-260403-13AF
   - INS-260329-6AF5
+  - INS-260330-C215
   - INS-260323-7CA7
-  - INS-260323-FCBB
-  - INS-260329-9A7F
 evidence:
   - id: INS-260329-6AF5
     type: CHALLENGES

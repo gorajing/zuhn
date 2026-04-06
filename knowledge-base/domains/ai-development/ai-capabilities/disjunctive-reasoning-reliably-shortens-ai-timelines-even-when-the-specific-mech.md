@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: What Happened With Bio Anchors?
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/what-happened-with-bio-anchors'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive
@@ -61,6 +51,12 @@ stance: >-
   Forecasting AI arrival as a disjunction over multiple possible paths
   consistently produces shorter and more accurate timelines than betting on any
   single pathway.
+related:
+  - INS-260325-05EC
+  - INS-260403-BADD
+  - PRI-260328-5F64
+  - PRI-260405-64B2
+  - PRI-260323-0654
 ---
 Yudkowsky argued that timelines would be shorter than Bio Anchors predicted because researchers would actively seek new paradigms, and if the current paradigm wouldn't pay off until the 2050s, a new one would likely be discovered first. This created a disjunction: timelines are short either because deep learning works quickly OR because a new paradigm gets invented. It turned out to be the first path, not the second, but the disjunctive reasoning still produced a more accurate bottom line.
 

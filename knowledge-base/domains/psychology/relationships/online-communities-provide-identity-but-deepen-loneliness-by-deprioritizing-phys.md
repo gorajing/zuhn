@@ -20,26 +20,14 @@ sources:
     title: >-
       Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology
       and Comfort Are Rewiring a Generation
-    author:
-      - '@type': Person
-        name: Clare Ashcraft
-        url: 'https://substack.com/@clareashcraft'
-        description: >-
-          Reluctant skeptic & writer interested in personal identity,
-          philosophy, psychology, and culture. 
-        identifier: 'user:29275192'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!M2mk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60262b54-0694-4a39-a2f7-cba61244f59d_2399x3600.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!M2mk!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60262b54-0694-4a39-a2f7-cba61244f59d_2399x3600.jpeg
+    author: Clare Ashcraft
     url: 'https://www.thevccorner.com/p/gen-z-digital-addiction-comfort-crisis'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Online communities teach people they're not alone but paradoxically deepen
@@ -65,6 +53,14 @@ stance: >-
   Internet communities fulfill the need for identity exploration and belonging
   but actively undermine the physical co-presence and mutual obligation that
   prevent loneliness
+related:
+  - INS-260325-05E4
+  - INS-260323-7263
+  - INS-260323-D783
+  - INS-260403-E36A
+  - INS-260403-958C
+  - INS-260330-3888
+  - INS-260325-11E9
 ---
 The essay presents a nuanced view of online communities: they genuinely help marginalized individuals (like a gay teen in a prejudiced town) find identity and hope. However, these communities simultaneously deprioritize physical place, eroding the local third spaces — churches, malls, community centers — where embodied relationships form. The result is a generation with broad but shallow social graphs: many loose digital connections but fewer close friends than any previous generation.
 

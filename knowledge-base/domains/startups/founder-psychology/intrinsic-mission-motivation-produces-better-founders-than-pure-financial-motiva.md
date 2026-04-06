@@ -49,14 +49,13 @@ stance: >-
   motivated founders because they work harder and make better product decisions.
 related:
   - INS-260323-A183
-  - INS-260327-C673
-  - INS-260327-FF64
   - INS-260328-68BA
   - INS-260329-D4BC
-  - INS-260329-5B3D
   - INS-260402-8C0E
   - INS-260402-43F9
   - INS-260403-9CD9
+  - INS-260327-C673
+  - INS-260403-9E82
 evidence:
   - id: INS-260327-FF64
     type: SUPPORTS

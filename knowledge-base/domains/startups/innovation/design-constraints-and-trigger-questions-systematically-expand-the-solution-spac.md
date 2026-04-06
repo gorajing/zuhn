@@ -51,11 +51,12 @@ stance: >-
   design dimensions
 related:
   - INS-260327-3136
-  - INS-260328-7942
   - INS-260403-1448
   - INS-260403-DDEB
   - INS-260330-1F41
-  - INS-260403-FFF0
+  - INS-260403-822B
+  - INS-260405-6387
+  - INS-260404-40F2
 evidence:
   - id: INS-260403-DDEB
     type: SUPPORTS

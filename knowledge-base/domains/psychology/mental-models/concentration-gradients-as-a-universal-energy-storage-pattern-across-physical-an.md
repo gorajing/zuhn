@@ -59,19 +59,20 @@ stance: >-
   Systems store potential energy by creating and maintaining differentials —
   information asymmetry, skill gaps, and price spreads function identically to
   proton gradients
-related:
-  - INS-260403-099C
-  - INS-260330-49E9
-  - INS-260330-7FF3
-  - INS-260403-0429
-  - INS-260404-AC2C
 evidence:
   - id: INS-260330-8C6A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9FAA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-AC2C
-    relationship: RELATED
+    type: SUPPORTS
+related:
+  - PRI-260403-70D0
+  - PRI-260403-6E50
+  - INS-260330-9FAA
+  - INS-260330-2E41
+  - INS-260330-100F
+  - INS-260330-F2B6
 ---
 In photosynthesis, the thylakoid membrane is 'charged like a battery' by pumping hydrogen ions to one side, creating a concentration gradient. When protons flow back through ATP synthase, that stored potential converts to usable energy (ATP). The membrane's role is maintaining the differential — without it, equilibrium destroys the energy store.
 

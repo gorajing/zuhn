@@ -48,10 +48,10 @@ stance: >-
   critical.
 related:
   - PRI-260328-BE2D
+  - INS-260323-8D12
   - INS-260325-73C0
+  - INS-260403-77F4
   - INS-260322-36E3
-  - INS-260403-DD41
-  - INS-260330-956E
 evidence:
   - id: INS-260323-8D12
     type: TRANSFERS_TO

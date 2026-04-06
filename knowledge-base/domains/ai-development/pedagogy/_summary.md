@@ -2,4 +2,4 @@
 
 > 1 insights
 
-- `INS-260330-4B30` [high] Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload.
+- `INS-260405-75C4` [high] Watching someone use AI live is more instructive than reading or hearing about it.

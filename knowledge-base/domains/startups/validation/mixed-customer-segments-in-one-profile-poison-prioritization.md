@@ -43,16 +43,16 @@ stance: >-
   Combining multiple customer segments into a single profile makes it impossible
   to identify which needs matter most to any specific segment
 related:
-  - INS-260322-E20E
   - INS-260325-4FF3
   - INS-260325-73C0
   - INS-260321-AA91
-  - INS-260321-7109
   - INS-260327-F7C0
   - INS-260327-80E9
   - INS-260327-9C3A
   - INS-260327-B6D6
-  - INS-260327-1403
+  - INS-260327-7D27
+  - INS-260329-67D1
+  - INS-260330-9137
 evidence:
   - id: INS-260323-7F22
     type: TRANSFERS_TO

@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260327-BB4A
   - INS-260327-289F
+  - INS-260404-DFA5
   - INS-260320-A1D3
-  - INS-260402-C664
-  - INS-260327-99DB
+  - INS-260327-1FA1
 ---
 NFX observes that the first wave of web3 games was built primarily by 'crypto people' approaching gaming from a monetary perspective — and they largely failed at creating sustainable products. The standout teams instead have experienced game designers, storytellers, and live ops specialists at their core, augmented by blockchain engineering talent.
 

@@ -63,15 +63,15 @@ stance: >-
   order-taking rather than selling.
 related:
   - INS-260323-B07C
-  - INS-260323-422B
   - INS-260327-40E3
-  - INS-260327-DBA1
   - PRI-260328-21AD
   - INS-260327-CBBB
   - PRI-260328-6A8D
   - PRI-260327-942E
+  - INS-260403-5CAD
   - INS-260328-D826
   - INS-260330-5958
+  - INS-260403-DFA2
 evidence:
   - id: INS-260322-0C28
     type: TRANSFERS_TO

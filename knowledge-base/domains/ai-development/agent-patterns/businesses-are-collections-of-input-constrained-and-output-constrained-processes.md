@@ -55,10 +55,10 @@ resolutions:
     pricing, and change management.
 related:
   - INS-260403-2D99
+  - INS-260404-29AF
   - INS-260328-75B8
   - INS-260328-6E7A
-  - PRI-260328-9F8C
-  - PRI-260328-D401
+  - INS-260403-5DAD
   - INS-260328-4A93
   - INS-260405-9409
 stance: >-

@@ -51,15 +51,16 @@ stance: >-
   founders who use enterprise sales tactics for low-price products are building
   a business that cannot scale.
 related:
-  - INS-260322-B6DE
+  - INS-260404-F0E9
   - INS-260329-B194
   - INS-260329-2D77
+  - INS-260403-CD74
   - INS-260329-7B47
-  - INS-260330-C658
-  - INS-260330-49A4
   - INS-260327-17DE
   - INS-260327-EC45
   - INS-260329-3DD7
+  - INS-260330-49A4
+  - INS-260330-C658
 evidence:
   - id: INS-260322-B6DE
     type: REFINES

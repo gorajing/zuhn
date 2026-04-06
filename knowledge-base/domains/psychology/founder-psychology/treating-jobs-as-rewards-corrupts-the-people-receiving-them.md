@@ -1,5 +1,5 @@
 ---
-id: INS-260405-FAE3
+id: INS-260405-68DC
 domain: psychology
 topic: founder-psychology
 title: Treating jobs as rewards corrupts the people receiving them
@@ -55,14 +55,14 @@ stance: >-
 related:
   - INS-260320-8632
   - INS-260320-F78E
-  - INS-260325-854D
   - INS-260327-41A9
   - INS-260328-FFC3
   - INS-260328-8B2C
   - INS-260330-5DA6
   - INS-260330-7E58
   - INS-260403-7FFA
-  - INS-260325-ADF5
+  - INS-260405-FAE3
+  - INS-260404-177F
 evidence:
   - id: INS-260320-8632
     type: TRANSFERS_TO

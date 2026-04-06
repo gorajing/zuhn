@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'IRR vs Return Multiple: VC Math + Excel Template'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/irr-vs-return-multiple-the-vc-math'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     MOIC flatters slow capital while IRR exaggerates quick wins — you need both
@@ -52,5 +42,12 @@ resolutions:
 stance: >-
   Neither MOIC nor IRR alone gives an honest picture of fund performance — each
   metric has a specific failure mode that the other corrects
+related:
+  - INS-260330-7C05
+  - INS-260403-4960
+  - INS-260404-5E22
+  - INS-260403-CCED
+  - INS-260403-2369
+  - INS-260405-7F03
 ---
 MOIC without IRR can make a fund look successful when capital was tied up for a decade producing below-hurdle annualized returns. Conversely, IRR without MOIC can spike from a fast partial exit that didn't generate meaningful total gains relative to the risk taken. Consider a $10M investment returning $5M in year 3 and $25M in year 8 — the MOIC is 3x, but the IRR reflects the blended timing of cash flows and would change dramatically if the early return were delayed. Fund managers strategically highlight MOIC when discussing scale of outcome and IRR when discussing efficiency. Sophisticated LPs see through this and demand both metrics together, because one without the other distorts the narrative.

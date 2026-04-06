@@ -56,14 +56,13 @@ stance: >-
   it (implementation) is the foundational design principle that enables all
   software flexibility and modularity.
 related:
-  - INS-260329-E015
   - INS-260329-C031
   - INS-260329-0F06
   - INS-260329-DEA1
   - INS-260329-FAE2
-  - INS-260329-C7BF
-  - INS-260329-34C0
+  - INS-260329-E015
   - INS-260329-AE09
+  - INS-260329-0432
 evidence:
   - id: INS-260329-0F06
     type: TRANSFERS_TO

@@ -50,12 +50,13 @@ stance: >-
   Deliberately entertaining ideas far outside acceptable bounds trains cognitive
   flexibility that makes ordinary innovation trivially easy by comparison.
 related:
+  - INS-260405-F06C
   - INS-260403-21A5
+  - INS-260403-EEE5
   - PRI-260405-72D4
   - INS-260325-0147
-  - PRI-260328-9EC9
-  - INS-260323-7F3E
   - INS-260403-C4E2
+  - INS-260403-76C3
 evidence:
   - id: INS-260325-0873
     type: EXTENDS

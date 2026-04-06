@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'SpaceX-xAI Merger: The $1.25T Company'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-172'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Waymo's tripling to 15M annual rides with 90% fewer serious injuries
@@ -60,6 +50,14 @@ resolutions:
 stance: >-
   Waymo's 15M annual rides and 90% injury reduction prove autonomous driving has
   graduated from speculative technology to scalable public infrastructure.
+related:
+  - INS-260322-888D
+  - INS-260327-500C
+  - INS-260327-9C3A
+  - INS-260403-EDDC
+  - INS-260321-2BF9
+  - INS-260327-7214
+  - INS-260405-A309
 ---
 Waymo's $16B raise at $126B valuation is backed by concrete operational metrics: 15M rides in 2025 (3x growth), 400K+ paid rides per week across six US cities, and a 90% reduction in serious injury crashes over 127M miles. The planned expansion to 20+ additional cities including Tokyo and London in 2026 signals the transition from proving technology to executing commercial rollout.
 

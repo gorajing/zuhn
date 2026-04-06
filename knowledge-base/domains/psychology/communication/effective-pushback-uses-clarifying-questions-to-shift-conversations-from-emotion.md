@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: A framework for PM skill development | Vikrama Dhiman (Gojek)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-framework-for-pm-skill-development'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Reframe pushback as clarifying questions to move conversations from
@@ -60,6 +48,12 @@ stance: >-
   important?', 'What would success look like?') is more effective at redirecting
   bad ideas than direct opposition because it forces the proposer to confront
   gaps in their own reasoning.
+related:
+  - INS-260329-C996
+  - INS-260330-568F
+  - INS-260403-6652
+  - INS-260323-46B2
+  - INS-260329-4D5E
 ---
 Dhiman provides a specific toolkit for pushing back on ideas without being difficult to work with: ask clarifying questions that bring conversations to a logical space rather than an emotional one. His go-to questions include 'Why has this become suddenly important?', 'Can you help clarify xyz?', 'What would success look like?', and 'What time frame do you need this in?'
 

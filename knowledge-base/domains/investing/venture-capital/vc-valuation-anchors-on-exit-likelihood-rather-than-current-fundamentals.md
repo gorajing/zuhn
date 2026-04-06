@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: " How Do VCs Really Make Decisions?\U0001F4A1"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-do-vcs-really-make-decisions'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     65% of VCs weigh anticipated exit opportunities as the key valuation
@@ -58,6 +48,14 @@ stance: >-
   VCs primarily value companies based on anticipated exit opportunities (65%)
   and competitor comparisons (60%) rather than intrinsic financial metrics,
   making exit narrative the most important valuation lever.
+related:
+  - INS-260403-D500
+  - INS-260404-51A2
+  - INS-260403-DA8F
+  - INS-260403-1EE4
+  - INS-260403-49EC
+  - INS-260404-25FF
+  - INS-260403-F4AC
 ---
 VC valuation methodology is fundamentally different from traditional corporate finance. Rather than discounting future cash flows, 65% of VCs anchor valuation on the likelihood and quality of exit opportunities — whether IPO or acquisition. Another 60% benchmark against comparable companies. Traditional metrics like IRR (target ~31% for early stage) and NPV take a backseat, especially for earlier rounds.
 

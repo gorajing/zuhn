@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: Deepseek Breakthrough'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-167'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     DeepSeek's mHC paper shows that manifold constraints on layer connections
@@ -62,6 +52,12 @@ stance: >-
   Adding mathematical guardrails that limit how data streams are mixed — rather
   than allowing free amplification — is the key breakthrough that makes wider
   inter-layer connections viable in large language models.
+related:
+  - INS-260405-DA33
+  - INS-260403-65D2
+  - INS-260323-61CD
+  - PRI-260405-A11F
+  - PRI-260405-B144
 ---
 For a decade, transformer architectures have passed information between layers via a single residual stream — a narrow express lane that limits how much context can be preserved and combined across depth. Attempts to widen this channel historically caused instability because unrestricted mixing amplifies noise exponentially. DeepSeek's Manifold-Constrained Hyper-Connections (mHC) solve this by enforcing that each layer can only rearrange information, not amplify it — a mathematical guardrail that keeps the multi-lane highway from becoming chaotic.
 

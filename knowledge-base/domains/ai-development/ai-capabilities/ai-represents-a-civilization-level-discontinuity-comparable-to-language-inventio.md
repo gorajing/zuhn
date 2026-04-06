@@ -46,7 +46,6 @@ stance: >-
   because AI is not an incremental tool but a fundamental expansion of cognitive
   capacity comparable to when humans first developed language.
 related:
-  - INS-260323-8637
   - PRI-260328-D292
   - PRI-260323-A33E
   - INS-260323-4D14

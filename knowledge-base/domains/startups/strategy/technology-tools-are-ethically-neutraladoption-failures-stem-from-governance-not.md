@@ -49,10 +49,10 @@ stance: >-
   in the technology itself
 related:
   - INS-260330-7C58
+  - INS-260327-D570
   - PRI-260328-37D8
   - INS-260322-6088
   - INS-260327-ACB3
-  - INS-260330-A2D4
 evidence:
   - id: INS-260322-6088
     type: SUPPORTS

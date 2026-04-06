@@ -11,6 +11,7 @@
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260325-6AE7` Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260323-144F` Lunar rocks match Earth's isotope ratios at parts-per-million precision — an empirical fact that invalidates the most physically elegant Moon formation model, demonstrating that measurement precision can overturn theoretical elegance.
+- `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
 - `INS-260330-D7CD` Earth's rotation deflected a football field goal by a third of an inch — enough to change the outcome — proving that forces we dismiss as negligible can be decisive at the margin.
 - `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
 - `INS-260403-2245` Qualifications are not scalars measuring weakness — they're a rich vocabulary expressing scope, certainty, knowledge source, and falsifiability.

@@ -49,11 +49,12 @@ resolutions:
 related:
   - INS-260327-89AE
   - INS-260404-016F
+  - INS-260403-EDFB
   - PRI-260328-517C
-  - INS-260327-30E4
-  - INS-260322-54F3
+  - INS-260403-82E0
   - INS-260403-204E
-  - INS-260404-7A54
+  - INS-260404-B494
+  - INS-260404-277E
 stance: >-
   While staying on the model frontier matters, the real defensibility in
   vertical AI comes from deep application context

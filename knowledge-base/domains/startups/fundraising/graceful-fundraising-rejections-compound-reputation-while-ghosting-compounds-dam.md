@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'The Sequoia Playbook: How VC Discipline Compounds Returns'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/sequoia-playbook-vc-discipline-systems'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sequoia invests real work in explaining their passes — sometimes detailed
@@ -59,6 +49,17 @@ stance: >-
   Investing real effort in explaining why you're passing on a deal builds
   long-term reputation and deal flow because founders talk to each other and
   remember who respected their time.
+related:
+  - INS-260328-41C9
+  - INS-260329-E86C
+  - INS-260329-D913
+  - INS-260329-2B04
+  - INS-260329-34A9
+  - INS-260330-E3ED
+  - INS-260405-9579
+  - INS-260403-A36C
+  - PRI-260403-2E59
+  - PRI-260328-604D
 ---
 When Sequoia passes on a deal, they invest real effort in explaining why — sometimes writing detailed memos, sometimes offering specific suggestions for what to focus on. Alfred Lin experienced this firsthand running Zappos: Sequoia passed 2-3 times with thoughtful feedback each round, and when Zappos reached the right stage, they partnered.
 

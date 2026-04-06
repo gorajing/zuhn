@@ -3,5 +3,6 @@
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 - `INS-260403-F7DD` Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - `INS-260403-C5D8` If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
+- `INS-260403-9020` When AI commoditizes execution, the quality of what you decide to build matters far more than how fast you build it.
 - `INS-260327-10E0` If you can't explain specifically why you'll beat competitors before building, don't start building.
 - `INS-260403-21C4` Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.

@@ -48,11 +48,12 @@ stance: >-
   creates a feedback loop where they become less tolerant of brittle enterprise
   AI, accelerating rejection of vendor solutions.
 related:
-  - INS-260323-9492
   - PRI-260328-C581
+  - INS-260403-E23C
+  - INS-260403-63F9
   - INS-260321-9A03
-  - INS-260405-AD55
-  - INS-260403-1269
+  - INS-260403-9A0C
+  - INS-260403-23AA
 evidence:
   - id: INS-260405-AD55
     type: EXTENDS

@@ -41,9 +41,11 @@ resolutions:
 related:
   - PRI-260322-9E36
   - INS-260326-6B98
+  - INS-260404-6D29
   - INS-260402-4719
-  - INS-260327-C79D
-  - INS-260327-DAA4
+  - INS-260404-8FBE
+  - INS-260327-E72F
+  - INS-260403-8EBD
 stance: >-
   When you invest in a country's stock market, you're placing a geopolitical bet
   on that country's future economic power relative to rivals

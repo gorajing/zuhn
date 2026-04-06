@@ -50,26 +50,26 @@ stance: >-
   model that transfers to every higher-level language, even when those languages
   hide memory from the programmer.
 related:
-  - INS-260329-B922
-  - INS-260329-B408
-  - INS-260329-7677
-  - INS-260329-EDA2
   - INS-260403-D645
-  - INS-260329-F51D
   - INS-260405-2688
+  - INS-260329-BAB7
+  - PRI-260405-2DE5
+  - INS-260329-B408
+  - INS-260329-EDA2
+  - INS-260329-F51D
 evidence:
   - id: INS-260323-6761
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-B408
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-B922
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-BAB7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-EDA2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-2688
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D645
     type: CHALLENGES
     classified_at: '2026-04-06'

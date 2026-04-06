@@ -7,5 +7,7 @@
 - `INS-260329-D6AA` Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
 - `INS-260329-C33B` JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
 - `INS-260329-075C` OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
+- `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
 - `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
 - `INS-260330-628D` Asking 'what can I reach by combining these primitives?' reveals the true power and limits of any system.
+- `INS-260402-97AF` Open-source code plus portable user data means web3 projects cannot rely on IP or lock-in—only ongoing community value sustains them.

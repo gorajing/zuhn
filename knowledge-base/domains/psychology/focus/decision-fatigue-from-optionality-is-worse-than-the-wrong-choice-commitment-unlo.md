@@ -46,18 +46,21 @@ stance: >-
   to a suboptimal path because commitment eliminates decision fatigue and
   enables focused execution.
 related:
-  - INS-260329-5094
   - INS-260403-803A
+  - INS-260403-A7FD
+  - INS-260403-D7C4
+  - INS-260403-A6F1
+  - INS-260404-4D7F
   - INS-260404-8E68
   - INS-260403-C313
   - INS-260323-ACD9
-  - INS-260329-0B76
+  - INS-260404-7C1F
 evidence:
   - id: INS-260329-FEA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-59A5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5C64
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Hormozi observes that people who endlessly optimize their choice of path — which business, which skill, which market — never build momentum. The act of choosing eliminates the ongoing cognitive drain of evaluating alternatives. A committed wrong choice teaches you faster than an uncommitted search for the perfect choice, because execution generates real feedback while deliberation generates only hypothetical scenarios. This connects to the depth-over-breadth principle: the person who commits to one path for three years, even a suboptimal one, typically outperforms someone who spent those three years evaluating options. The key insight is that clarity comes from commitment, not before it.

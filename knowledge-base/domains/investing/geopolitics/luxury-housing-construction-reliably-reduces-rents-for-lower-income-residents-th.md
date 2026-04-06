@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #78: Roboliberalism'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-78-roboliberalism'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A Honolulu study traced how 512 luxury condo units created 557+ vacancies
@@ -63,6 +51,13 @@ stance: >-
   Building market-rate luxury housing consistently reduces rents for
   lower-income people through measurable vacancy chain effects, not
   gentrification-driven displacement.
+related:
+  - INS-260327-2B44
+  - INS-260327-96BB
+  - INS-260327-EE23
+  - PRI-260328-EAC4
+  - INS-260327-1ACE
+  - INS-260403-BC3B
 ---
 The 'Yuppie Fishtank Theory' — that building high-end housing absorbs wealthy residents who would otherwise compete for existing lower-cost stock — continues to accumulate supporting evidence. A detailed Honolulu study traced the vacancy chain from a 43-story luxury condo project and found its 512 units created at least 557 vacancies citywide, with some units generating up to four downstream moves. New residents left behind homes that were 38% cheaper per square foot than what they moved into.
 

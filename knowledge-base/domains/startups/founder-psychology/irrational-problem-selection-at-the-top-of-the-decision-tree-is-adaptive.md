@@ -48,16 +48,16 @@ stance: >-
   expected-value calculation is rational because humans work harder on problems
   they love and often unconsciously detect importance others miss.
 related:
-  - INS-260325-502D
   - INS-260327-CEE4
   - INS-260329-E0DE
   - INS-260329-783C
-  - INS-260330-CCD8
   - INS-260330-1A55
   - INS-260330-C0B9
+  - INS-260404-7604
   - PRI-260328-39FA
   - INS-260402-4AB4
   - PRI-260323-0F93
+  - INS-260403-6EDC
 evidence:
   - id: INS-260405-8808
     type: CHALLENGES

@@ -20,24 +20,14 @@ sources:
     title: >-
       The Broken Venture Capital System, Chinese VCs failed founders blacklist,
       AI-Powered Investment Memo Generator
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-broken-venture-capital-system'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Clawback mechanisms that reach founders' personal assets convert
@@ -59,5 +49,16 @@ stance: >-
   When investors target founders' personal assets to recoup losses, it
   structurally suppresses startup risk-taking and damages the ecosystem more
   than any single failure.
+related:
+  - INS-260326-73F4
+  - INS-260327-E3D5
+  - INS-260330-70BF
+  - INS-260403-830F
+  - INS-260403-0FEC
+  - PRI-260405-E9C5
+  - INS-260330-6204
+  - PRI-260328-604D
+  - PRI-260403-26B9
+  - INS-260403-1217
 ---
 Chinese VCs have begun placing failed founders on official debtor blacklists and pursuing personal assets — a practice that threatens the underlying incentive structure of startup ecosystems. The power of venture-backed entrepreneurship depends critically on limited liability: founders can swing for ambitious bets because the downside is bounded. When investors can pierce that boundary and attach personal liability to startup failure, the rational response is to take smaller, safer bets or avoid founding altogether. This is a structural difference from US VC norms, where failed founders are typically recycled back into the ecosystem as experienced operators or second-time founders. The Chinese approach optimizes for capital recovery at the cost of the ecosystem's generative capacity.

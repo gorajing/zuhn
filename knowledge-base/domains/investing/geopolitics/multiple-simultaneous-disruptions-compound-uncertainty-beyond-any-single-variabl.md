@@ -19,26 +19,14 @@ tags:
 sources:
   - type: blog
     title: The future isn't what it used to be
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/the-future-isnt-what-it-used-to-be'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Stacking AI disruption with geopolitical chaos creates compound uncertainty
@@ -62,6 +50,16 @@ stance: >-
   AI uncertainty alone would be manageable, but combined with geopolitical
   instability, authoritarian rise, and war risk, it creates a fog that defeats
   standard forecasting models.
+related:
+  - INS-260323-C304
+  - INS-260323-D4EC
+  - PRI-260325-D34E
+  - INS-260403-A52D
+  - INS-260330-43FF
+  - PRI-260405-8E48
+  - PRI-260322-9E36
+  - INS-260403-80D9
+  - INS-260403-4B5A
 ---
 Smith argues that while AI is the primary driver of future-uncertainty, it compounds with political chaos, the rise of China as a potential dominant authoritarian power, and the possibility of major war. Each disruption alone might be modelable, but together they create a fog that standard forecasting—whether personal life planning or financial market pricing—cannot penetrate.
 

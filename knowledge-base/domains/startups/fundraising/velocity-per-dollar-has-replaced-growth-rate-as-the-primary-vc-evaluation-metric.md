@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/what-top-vcs-look-for-2026-founder-playbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Burn multiple (net burn / net new ARR) below 1.5x is the new gold standard;
@@ -57,6 +47,12 @@ resolutions:
 stance: >-
   VCs now prioritize capital efficiency (learning and revenue per dollar burned)
   over raw growth rate, making burn multiple the defining metric of fundability
+related:
+  - INS-260321-E8CB
+  - INS-260326-8201
+  - INS-260403-3D75
+  - INS-260403-6740
+  - INS-260403-21DB
 ---
 The fundraising landscape has shifted from rewarding growth-at-all-costs to demanding efficient growth. VCs now evaluate 'velocity per dollar' — how much learning and revenue each dollar produces relative to the last. The concrete metric is burn multiple: net burn divided by net new ARR. Best-in-class companies operate below 1.5x, meaning they spend less than $1.50 for every new dollar of ARR. Companies above 3x face uncomfortable conversations.
 

@@ -54,9 +54,9 @@ related:
 stance: Defining something as supernatural requires knowing what natural is
 evidence:
   - id: INS-260330-B5D2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-82E8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-922C
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

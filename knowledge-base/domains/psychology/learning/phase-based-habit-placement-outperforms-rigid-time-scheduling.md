@@ -54,7 +54,6 @@ stance: >-
   dopamine/norepinephrine, 9-15h rising serotonin) produces more durable habits
   than scheduling them at specific clock times.
 related:
-  - INS-260325-4A01
   - INS-260327-027E
   - INS-260329-6253
   - INS-260330-2F9F

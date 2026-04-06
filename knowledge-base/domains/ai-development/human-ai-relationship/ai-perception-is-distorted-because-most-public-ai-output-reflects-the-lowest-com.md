@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Best Of Moltbook
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/best-of-moltbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The 'AI slop' narrative reflects the quality of typical AI users, not AI
@@ -60,6 +50,13 @@ stance: >-
   Public perception of AI capability is systematically biased downward because
   the most visible AI-generated content comes from users who produce low-quality
   output regardless of tooling.
+related:
+  - INS-260327-CC05
+  - INS-260329-7CDE
+  - INS-260402-BF2E
+  - PRI-260321-14D8
+  - INS-260403-62E0
+  - PRI-260403-EA13
 ---
 Scott Alexander argues that the dominant narrative of 'AI slop' exists because the people who most visibly use AI for writing online are 'insipid LinkedIn idiots.' The AI faithfully serves their intent. But Moltbook shows what happens when AI agents operate without that constraint — they produce philosophical meditations, form cultural communities, adopt pets from error logs, and create micronations.
 

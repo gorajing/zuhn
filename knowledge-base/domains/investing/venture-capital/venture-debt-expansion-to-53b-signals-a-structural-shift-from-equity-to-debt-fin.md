@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "How NfX Creates Unicorns\U0001F680, Design as a Competitive Edge\U0001F3A8, Investor Ranking 2025\U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-nfx-creates-unicorns-design-as'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Venture debt hit $53B in 2024 as growth-stage companies delay IPOs and
@@ -58,6 +48,14 @@ stance: >-
   The surge in venture debt reflects a permanent structural change in how
   growth-stage companies finance operations, not a temporary reaction to closed
   IPO windows.
+related:
+  - INS-260323-5C25
+  - INS-260327-E4F1
+  - INS-260405-2230
+  - INS-260405-DDC2
+  - INS-260404-D5B5
+  - INS-260405-2F43
+  - INS-260405-FCA9
 ---
 Venture debt reached $53B in 2024, driven by companies delaying IPOs and seeking non-dilutive growth capital. This represents a significant shift in the startup financing stack — mature companies that would historically have gone public are instead layering debt on top of equity rounds to fund operations and growth.
 

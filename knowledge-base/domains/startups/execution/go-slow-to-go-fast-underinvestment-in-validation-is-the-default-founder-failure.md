@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The Go to Market Handbook for B2B SaaS Leaders \U0001F3AF"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-go-to-market-handbook-for-b2b'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Invest deeply in validating your go-to-market thesis before hiring sales and
@@ -58,6 +48,12 @@ resolutions:
 stance: >-
   Most founders fail because they rush to market and hire expensive sales teams
   before adequately validating their go-to-market thesis
+related:
+  - INS-260330-3AF9
+  - INS-260327-B18F
+  - INS-260330-F1C8
+  - INS-260327-C5D0
+  - INS-260328-0C87
 ---
 The 'go slow to go fast' principle addresses what the authors call a profoundly universal problem among founders: rushing into market with an unvalidated thesis, then hiring expensive sales and marketing teams to push an unproven product. Co-author Paul Watson uses a geology metaphor — digging for gold without adequate prospecting data means you'll almost never find a seam, but with the right questions and data you can narrow your target to something worth pursuing.
 

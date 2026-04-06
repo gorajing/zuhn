@@ -9,4 +9,5 @@
 - `INS-260330-6C09` Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
 - `INS-260330-6A9E` Shadows and geometric intersection points can exceed light speed because they transfer no information — only physical causation is speed-limited.
 - `INS-260330-AFE0` The speed limit of the universe applies to information transfer, not to geometric abstractions like shadows or intersection points.
+- `INS-260404-7E86` Public and private information are now priced in so fast that human-speed reaction strategies cannot capture meaningful edge.
 - `INS-260323-8897` Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.

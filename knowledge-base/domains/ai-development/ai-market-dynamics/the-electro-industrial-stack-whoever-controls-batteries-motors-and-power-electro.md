@@ -50,11 +50,15 @@ resolutions:
     over decades.
 related:
   - INS-260322-8BD1
-  - PRI-260328-C528
+  - INS-260403-2B95
+  - INS-260403-2E12
+  - INS-260403-6FEB
+  - INS-260403-3AF9
+  - INS-260403-1337
   - INS-260325-722C
-  - PRI-260328-D292
   - INS-260403-4690
-  - INS-260325-2906
+  - INS-260405-B6CB
+  - INS-260403-CACB
 stance: The next industrial revolution isn't just factories
 evidence:
   - id: INS-260403-4690

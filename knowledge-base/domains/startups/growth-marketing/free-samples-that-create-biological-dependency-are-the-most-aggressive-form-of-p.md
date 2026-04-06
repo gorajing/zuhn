@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260403-9BEF
   - INS-260330-5C64
+  - INS-260403-7A48
   - INS-260404-8A57
-  - INS-260321-D01E
-  - INS-260330-82B5
+  - INS-260404-97AA
 evidence:
   - id: INS-260321-D01E
     type: SUPPORTS

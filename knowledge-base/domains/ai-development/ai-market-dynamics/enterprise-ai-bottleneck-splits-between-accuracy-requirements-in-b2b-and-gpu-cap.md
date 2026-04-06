@@ -51,11 +51,11 @@ stance: >-
   while B2C is blocked by GPU capacity during demand spikes.
 related:
   - INS-260321-D484
+  - INS-260405-9285
+  - INS-260403-7868
   - INS-260325-5CB1
   - PRI-260328-A82C
-  - INS-260321-4B99
-  - INS-260403-8011
-  - INS-260329-E7A4
+  - INS-260404-25F5
 evidence:
   - id: INS-260321-D484
     type: REFINES

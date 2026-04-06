@@ -46,16 +46,16 @@ stance: >-
   is the only reliable method to reduce innovation risk, because market reality
   cannot be predicted from internal analysis alone.
 related:
-  - INS-260325-0147
   - INS-260323-DA13
   - INS-260330-E282
   - INS-260403-3569
   - INS-260403-99D1
   - INS-260403-2BEE
   - INS-260403-1358
-  - INS-260403-FFEA
-  - INS-260403-A60E
-  - INS-260403-71A6
+  - INS-260403-9F78
+  - INS-260403-872C
+  - INS-260404-A46A
+  - PRI-260405-47B5
 evidence:
   - id: INS-260330-E282
     type: TRANSFERS_TO

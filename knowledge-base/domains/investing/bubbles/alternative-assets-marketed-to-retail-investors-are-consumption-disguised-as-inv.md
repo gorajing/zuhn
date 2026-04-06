@@ -49,7 +49,6 @@ stance: >-
   cars, trading cards) are consumption purchases wrapped in investment
   narrative, and the recent value crash reveals the distinction.
 related:
-  - INS-260323-750A
   - PRI-260328-2C4C
   - INS-260327-C79D
   - PRI-260328-1A2D

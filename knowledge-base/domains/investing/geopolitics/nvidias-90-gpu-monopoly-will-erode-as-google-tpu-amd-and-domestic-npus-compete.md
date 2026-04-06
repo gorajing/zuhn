@@ -44,14 +44,16 @@ resolutions:
     competitors mature, but it will take time for software ecosystems to catch
     up.
 related:
+  - INS-260327-3B91
+  - INS-260405-3805
   - INS-260322-0E41
   - PRI-260405-6216
-  - PRI-260324-36BF
-  - INS-260330-930D
-  - PRI-260328-D5EB
+  - INS-260404-1CC0
   - INS-260327-473D
   - INS-260329-6D3B
-  - INS-260403-699F
+  - INS-260330-930D
+  - INS-260403-84E1
+  - INS-260403-DF45
 stance: >-
   Google's TPU (Tensor Processing Unit) is already competitive for AI workloads,
   but NVIDIA's software ecosystem moat delays competitors

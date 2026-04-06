@@ -43,14 +43,16 @@ resolutions:
     ecosystem, so SpaceX built everything internally. Tesla is doing the same
     for chips.
 related:
+  - INS-260405-E4FC
+  - INS-260405-ADCE
   - PRI-260328-7007
   - INS-260327-0875
-  - PRI-260328-C528
-  - INS-260327-76B2
-  - INS-260327-1D37
+  - INS-260403-107E
   - INS-260321-2BF9
   - INS-260323-9770
-  - INS-260327-BEFF
+  - INS-260327-76B2
+  - INS-260403-F2A2
+  - INS-260405-FC36
 stance: >-
   Musk predicts humanoid robot production at 1-10 billion units/year (vs 100M
   vehicles/year), requiring edge inference chips at a scale that justifie...

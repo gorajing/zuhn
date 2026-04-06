@@ -19,24 +19,14 @@ sources:
     title: >-
       WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B
       Valuation
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-162'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Ramp's 153% YoY growth at $1B revenue is 10x the median public SaaS growth
@@ -62,6 +52,13 @@ resolutions:
 stance: >-
   AI-native fintech companies can sustain hypergrowth rates well past $1B in
   revenue, breaking the traditional SaaS growth deceleration curve
+related:
+  - INS-260403-92CC
+  - INS-260404-2C23
+  - INS-260404-9103
+  - INS-260404-F62A
+  - INS-260404-9BC6
+  - INS-260404-8CA8
 ---
 Ramp's $300M raise at $32B valuation reflects a 32x revenue multiple on $1B in revenue growing at 153% YoY — metrics that would be exceptional for a Series B company, let alone one at this scale. For context, the median public SaaS company grows at roughly 15% YoY, making Ramp's trajectory an order of magnitude faster.
 

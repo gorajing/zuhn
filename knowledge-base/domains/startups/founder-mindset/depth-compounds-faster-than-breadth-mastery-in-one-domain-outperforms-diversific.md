@@ -44,10 +44,10 @@ stance: >-
   input into the same system.
 related:
   - INS-260329-0935
+  - INS-260403-CDC9
+  - INS-260402-BEB6
   - INS-260329-9E6C
   - INS-260325-05FC
-  - INS-260403-2949
-  - INS-260321-7D7C
 evidence:
   - id: INS-260403-2949
     type: SUPPORTS

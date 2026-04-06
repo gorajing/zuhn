@@ -45,10 +45,10 @@ resolutions:
     is experiential rather than intellectual.
 related:
   - INS-260330-BC21
+  - INS-260404-B0DC
   - INS-260327-A8B6
   - INS-260323-E551
-  - INS-260330-1D9D
-  - INS-260329-12EC
+  - INS-260405-4AAD
 stance: >-
   Frederic Tudor broke through zero demand by giving bartenders free ice to make
   cocktails

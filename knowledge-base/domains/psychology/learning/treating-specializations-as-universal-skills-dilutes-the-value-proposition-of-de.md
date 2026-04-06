@@ -50,13 +50,13 @@ stance: >-
   simultaneously devalues practitioners and fails learners who needed different
   specializations.
 related:
-  - INS-260323-DA85
-  - INS-260327-E3DE
   - INS-260329-A862
   - INS-260330-B28C
+  - INS-260403-22C2
   - INS-260403-AB5C
   - INS-260405-945B
-  - INS-260330-43EE
+  - INS-260403-FCF7
+  - INS-260403-529D
 evidence:
   - id: INS-260323-DA85
     type: SUPPORTS

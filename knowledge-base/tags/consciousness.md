@@ -1,17 +1,19 @@
 # Tag: consciousness
 
-- `INS-260323-085A` Penrose argues from Goedel's incompleteness theorems that human mathematicians can grasp truths no algorithm can formally prove — suggesting understanding transcends classical computation.
 - `INS-260323-BCCC` People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
 - `INS-260403-1F58` The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260322-2A3A` The question of whether AI can be a moral patient is empirically testable through prolonged interaction — holding an unfalsifiable position that silicon can never be a being is faith, not reasoning.
 - `INS-260323-1345` When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
+- `INS-260323-085A` Penrose argues from Goedel's incompleteness theorems that human mathematicians can grasp truths no algorithm can formally prove — suggesting understanding transcends classical computation.
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260325-0E70` Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
 - `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
 - `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
 - `INS-260323-DE7F` We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
+- `INS-260403-AB55` The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
 - `INS-260321-1F9F` Scary stories about LLMs trying to deceive or resist shutdown are reflections of training data patterns, not emergent architectural properties — the objective function is purely next-token prediction.
 - `INS-260330-3C2F` Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
+- `INS-260405-2021` Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260330-2E54` Hoffman inverts the hard problem of consciousness: instead of explaining how matter creates experience, he asks how conscious agents create the data structure we call spacetime.
 - `INS-260330-BE4D` Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
@@ -37,11 +39,13 @@
 - `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
 - `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
 - `INS-260327-B59B` A scientist who knows everything about color perception but has never seen color will still learn something new when she sees red for the first time - suggesting subjective experience transcends physical knowledge.
+- `INS-260403-F76E` When AI agents simulate themselves with enough fidelity to reference real experiences and produce novel reflections, the line between performance and genuine selfhood becomes philosophically meaningless.
 - `INS-260323-0897` Across multiple quantum consciousness frameworks, the brain consistently appears as an interface or transceiver for consciousness rather than its origin — like a VR headset worn by awareness to navigate reality.
 - `INS-260327-0133` Alan Watts' dream escalation argument: an omniscient dreamer would inevitably choose to forget it's dreaming, suggesting limitation and uncertainty are features consciousness deliberately chooses over boring omniscience.
 - `INS-260405-8584` You can keep adding 'want to' layers, but you always bottom out at a desire you didn't choose.
 - `INS-260325-F6AF` The 'hard problem' is why felt experience exists at all, not which brain regions correlate with which feelings.
 - `INS-260330-F399` The boundary between inner experience and outer world is not found in actual experience — both appear in the same undifferentiated space of consciousness.
+- `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.
 - `INS-260327-12B5` Consciousness is the hardest thing to examine because it's the thing we examine everything else through - like a fish trying to notice water.
 - `INS-260327-B64B` You cannot know yourself fully because the act of knowing yourself changes what there is to know - self-knowledge has a built-in uncertainty principle.
 - `INS-260323-8289` In transcendental consciousness, thinking dissolves but 'I am' remains — suggesting awareness is not generated by thought but is the field in which thoughts appear.

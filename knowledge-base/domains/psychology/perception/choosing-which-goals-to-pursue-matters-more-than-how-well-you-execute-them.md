@@ -37,16 +37,16 @@ stance: >-
   Excellent execution of wrong goals produces more regret than mediocre pursuit
   of right ones, making goal selection the most important life decision.
 related:
-  - INS-260322-A208
   - INS-260323-C1B2
   - INS-260325-25A2
   - INS-260322-F128
+  - INS-260322-A208
   - INS-260327-1845
   - INS-260330-DB4B
   - INS-260323-ACD9
   - INS-260327-439A
-  - INS-260329-1E81
   - INS-260403-8B92
+  - INS-260403-A408
 evidence:
   - id: INS-260322-A208
     type: TRANSFERS_TO

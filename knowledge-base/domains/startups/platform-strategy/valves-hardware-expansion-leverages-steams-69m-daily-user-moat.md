@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: Record Government Shutdown Ends'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-161'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Valve can afford hardware bets others can't because every device plugs into
@@ -63,6 +53,13 @@ stance: >-
   Valve's entry into consoles and VR is strategically credible precisely because
   it routes new hardware through an existing software distribution monopoly, a
   move rivals without an equivalent platform cannot replicate.
+related:
+  - INS-260327-4233
+  - INS-260403-6A69
+  - INS-260403-C7A0
+  - INS-260405-55E0
+  - INS-260330-CCF0
+  - INS-260403-5CAD
 ---
 Steam's 69 million daily active users represent a distribution asset that fundamentally changes the risk calculus for Valve's hardware expansion. Nintendo, Xbox, and PlayStation all had to build platform audiences from scratch alongside their hardware. Valve enters with an existing library of hundreds of thousands of games and a decade-trained purchasing habit.
 

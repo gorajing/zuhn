@@ -49,28 +49,29 @@ stance: >-
   stages (electron transport chain: 34 ATP), making the final stage responsible
   for ~89% of total energy output.
 related:
-  - INS-260403-2918
-  - INS-260404-2A07
-  - INS-260404-2D92
+  - INS-260330-4D0E
   - INS-260330-2C71
-  - INS-260404-596E
+  - INS-260330-F671
+  - INS-260330-85D7
+  - PRI-260403-181B
+  - INS-260403-D2FD
 evidence:
   - id: INS-260330-2C71
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F671
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-85D7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4D0E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-2A07
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-596E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-C725
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7738
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Cellular respiration breaks glucose into usable energy (ATP) through three stages: glycolysis (2 net ATP), the Krebs Cycle (2 ATP), and the electron transport chain (34 ATP). The first two stages are essentially setup — glycolysis breaks glucose into pyruvate and the Krebs Cycle strips electrons onto carrier molecules (NADH, FADH2). The real payoff comes in the final stage, where those carriers drive proton pumps to mass-produce ATP.
 

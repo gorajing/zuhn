@@ -54,7 +54,6 @@ related:
   - INS-260330-8429
   - INS-260325-23E0
   - INS-260330-2EC4
-  - INS-260330-8538
   - INS-260403-6AD0
 stance: >-
   Dark matter — invisible yet five times more abundant than visible matter —

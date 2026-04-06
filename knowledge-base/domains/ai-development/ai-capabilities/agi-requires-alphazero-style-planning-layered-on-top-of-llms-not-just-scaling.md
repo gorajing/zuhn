@@ -48,7 +48,6 @@ stance: >-
   that pure scaling will not produce.
 related:
   - INS-260322-83D4
-  - INS-260325-175B
   - INS-260321-C513
   - INS-260328-4717
   - INS-260403-0A97

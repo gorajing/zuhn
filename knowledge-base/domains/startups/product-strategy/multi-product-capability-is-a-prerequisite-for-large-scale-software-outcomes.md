@@ -15,39 +15,14 @@ tags:
 sources:
   - type: blog
     title: Multi-Product In Pictures
-    author:
-      - '@type': Person
-        name: Akash Bajwa
-        url: 'https://substack.com/@akashbajwa'
-        description: >-
-          Principal @ Earlybird Venture Capital, investing across Europe from
-          inception onwards.
-        identifier: 'user:2161762'
-        sameAs:
-          - 'https://twitter.com/AkashBajwa96'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!KaV6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eb477d8-7e9a-4f10-869c-5c8a50463678_768x768.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!KaV6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eb477d8-7e9a-4f10-869c-5c8a50463678_768x768.jpeg
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: 'Akash Bajwa, Ruben Dominguez'
     url: 'https://www.thevccorner.com/p/multi-product-in-pictures'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     78% of public software companies above $5B market cap are multi-product,
@@ -69,6 +44,12 @@ stance: >-
   Software companies that remain single-product will face bounded outcomes and
   eventual acquisition, while multi-product platforms compound into dominant
   positions
+related:
+  - INS-260322-B450
+  - INS-260327-643C
+  - INS-260323-7D3C
+  - INS-260403-C6C3
+  - INS-260327-3B91
 ---
 Data from Lone Pine Capital shows that 78% of public companies with >$5B market cap are multi-product. Of the single-product public companies tracked from end of 2016, roughly one-third were acquired by end of 2022 — absorbed by what Tidemark calls 'Platforms of Compounding Greatness.' This suggests single-product companies face a binary fate: expand or get acquired.
 

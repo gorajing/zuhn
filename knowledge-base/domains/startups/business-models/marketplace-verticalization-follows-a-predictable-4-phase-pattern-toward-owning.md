@@ -47,12 +47,11 @@ stance: >-
   managed platforms that own the full transaction stack, and those that resist
   this progression get disrupted by those that embrace it.
 related:
-  - INS-260402-B2A2
   - INS-260403-1284
+  - INS-260404-A2C4
+  - INS-260403-2A92
+  - INS-260403-FF65
   - INS-260330-0525
-  - INS-260327-4CCE
-  - INS-260322-B6DE
-  - INS-260323-3D7D
 evidence:
   - id: INS-260322-B6DE
     type: SUPPORTS

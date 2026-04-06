@@ -18,7 +18,6 @@ sources:
     title: '[Tutorial] All there is to know about syncing video and audio'
     author: u/unknown
 related:
-  - INS-260321-A6A6
   - INS-260320-77C2
   - INS-260320-10E8
   - INS-260320-D44B

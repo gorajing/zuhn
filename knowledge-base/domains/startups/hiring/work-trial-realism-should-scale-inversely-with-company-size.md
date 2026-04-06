@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Adding a work trial to your interview process
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/adding-a-work-trial-to-your-interview'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The spectrum from full codebase access (Linear, Gumroad) to synthetic
@@ -60,6 +48,14 @@ stance: >-
   Smaller companies should invest in longer, more realistic work trials because
   each hire has disproportionate impact, while larger companies should
   standardize and shorten trials to maintain scalability.
+related:
+  - INS-260320-2DDE
+  - INS-260329-F66E
+  - PRI-260321-14D8
+  - PRI-260405-3080
+  - INS-260323-D2AA
+  - INS-260320-DEAF
+  - INS-260402-06DB
 ---
 Gumroad represents one extreme: hiring candidates as contractors for 4-6 weeks with full access to internal tools, essentially operating on a 'hired by default, fired in 30-60 days if underperforming' model. Linear runs 3-5 day co-working trials in the actual codebase. Both can afford this because they're small and each hire matters enormously.
 

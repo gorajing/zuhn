@@ -45,15 +45,14 @@ resolutions:
     enterprise email — the barrier to entry has collapsed. This applies to every
     company, nonprofit, and government department.
 related:
-  - INS-260325-2DCD
   - PRI-260328-3094
   - PRI-260321-7307
   - PRI-260328-0C51
+  - INS-260403-2609
   - INS-260327-C1A4
   - INS-260327-B9AD
-  - INS-260321-1A0B
   - INS-260330-C071
-  - INS-260402-543E
+  - INS-260403-949E
 stance: Corporate AI projects fail because they optimize human-to-human workflows
 ---
 Salem's 'organizational singularity' thesis: once you put a workflow into a set of agents that recursively self-improve, you can't compete by optimizing human-to-human processes. Every corporate AI project that tries to bolt AI onto existing human workflows is failing — because human-to-human processes are inherently flawed (latency, jealousy, unresponsiveness). The prescription: at the edge of every organization, create an AI-native operating system, move workflows to agent-to-agent, and shift humans to oversight, exception handling, and system monitoring. OpenClaw running on AWS Bedrock was set up in under 10 minutes and instantly connected to enterprise email — the barrier to entry has collapsed. This applies to every company, nonprofit, and government department.

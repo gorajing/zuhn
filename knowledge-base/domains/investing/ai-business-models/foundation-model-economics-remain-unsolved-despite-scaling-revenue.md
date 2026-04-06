@@ -17,24 +17,14 @@ sources:
     title: >-
       The End of YC, Why Specialists Will Win the Next Decade of Venture,
       Foundation Model Businesses 
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-end-of-yc-why-specialists-will'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Foundation model businesses are booming in revenue but the path to
@@ -57,6 +47,17 @@ stance: >-
   Foundation model companies are scaling revenue rapidly but have not yet proven
   sustainable unit economics, making the business model viability an open
   question.
+related:
+  - INS-260327-CADA
+  - INS-260403-DB16
+  - INS-260403-ADB3
+  - INS-260403-946A
+  - INS-260403-C8B9
+  - INS-260404-420F
+  - INS-260403-92CC
+  - INS-260403-CBFF
+  - INS-260322-FCFC
+  - INS-260404-9FBC
 ---
 The foundation model market is experiencing explosive revenue growth, but the fundamental question of where durable margins emerge remains unanswered. Training costs are astronomical, inference costs are declining but still significant at scale, and competitive moats are unclear as open-source alternatives narrow the gap.
 

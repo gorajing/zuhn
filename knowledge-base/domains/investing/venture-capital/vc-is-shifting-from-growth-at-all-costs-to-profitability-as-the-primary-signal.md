@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "AI Agents\U0001F916, Founder Mode\U0001F468‍\U0001F4BB, Global IPOs\U0001F4C8"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-agents-founder-mode-global-ipos'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs are now prioritizing path-to-profitability over top-line growth,
@@ -54,6 +44,12 @@ resolutions:
 stance: >-
   The venture capital investment paradigm has fundamentally shifted such that
   profitability now outweighs growth rate as the primary underwriting criterion.
+related:
+  - INS-260323-DA6F
+  - INS-260404-7D4D
+  - INS-260403-9CC1
+  - PRI-260328-0993
+  - INS-260403-3A72
 ---
 After years of near-zero interest rates enabling growth-at-all-costs investing, the VC landscape has recalibrated. Forbes and others note that investors now scrutinize unit economics and profitability timelines far more aggressively than during the 2020-2021 bubble peak.
 

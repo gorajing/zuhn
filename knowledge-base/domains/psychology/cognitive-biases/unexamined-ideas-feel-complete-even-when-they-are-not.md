@@ -45,10 +45,10 @@ stance: >-
   those ideas remain unwritten
 related:
   - INS-260330-DE69
+  - PRI-260405-9A14
   - INS-260330-125E
   - INS-260330-6CA5
   - INS-260327-E7B8
-  - INS-260323-1B0B
 evidence:
   - id: INS-260323-1B0B
     type: TRANSFERS_TO

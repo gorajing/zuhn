@@ -46,12 +46,11 @@ stance: >-
   become foundational once markets normalize, because they solve the real
   underlying problem that the bubble temporarily masked.
 related:
-  - INS-260330-AD61
+  - INS-260403-D540
   - INS-260402-4605
+  - INS-260402-E144
   - INS-260403-4E7A
   - PRI-260328-A1AA
-  - PRI-260328-E1CE
-  - INS-260403-B1F2
 evidence:
   - id: INS-260330-AD61
     type: TRANSFERS_TO

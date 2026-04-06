@@ -57,6 +57,8 @@ related:
   - INS-260329-6773
   - INS-260329-4092
   - INS-260329-1F17
+  - INS-260329-A67B
+  - INS-260404-C501
 evidence:
   - id: INS-260329-A67B
     type: EXTENDS

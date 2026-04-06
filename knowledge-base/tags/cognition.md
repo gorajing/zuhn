@@ -4,12 +4,16 @@
 - `INS-260323-8E4D` The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
 - `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
+- `INS-260404-7CBC` The brain receives ~1B bits/sec but can only output ~10 bits/sec, creating a massive bottleneck that BCIs aim to bypass.
+- `INS-260403-9757` Research shows brain function drops 15% above 1000 ppm CO2 and over 50% above 1400 ppm, making CO2 monitoring a high-ROI cognitive tool.
 - `INS-260325-9693` Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.
 - `INS-260323-3ED8` Rotating between heavy lifting and lighter/higher-rep training in 3-month cycles gives joints rest and changes hormonal cascades that directly affect cognitive performance.
 - `INS-260325-B6B6` DHA is 97% of brain omega-3 and 93% of retinal omega-3 — it is the brain-building omega-3, not EPA.
 - `INS-260404-0519` The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
+- `INS-260403-705C` Neuroscience's predictive coding theory reveals humans and AIs share the same core learning algorithm — predict the next input, update weights.
 - `INS-260330-3C2F` Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
+- `INS-260403-47FC` Both Fatima and Dhammakaya crowds saw spinning colored suns, but Catholics saw the Virgin Mary while Buddhists saw their founder — priming shapes content, mechanism shapes structure.
 - `INS-260402-12D0` Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
 - `INS-260405-678B` Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.

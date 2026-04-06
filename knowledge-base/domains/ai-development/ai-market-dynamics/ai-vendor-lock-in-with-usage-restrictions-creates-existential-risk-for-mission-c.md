@@ -48,14 +48,13 @@ resolutions:
     rent it with restrictive terms from a single vendor whose 'constitution' can
     override your operations.
 related:
-  - INS-260321-86F1
+  - INS-260403-C8EF
   - PRI-260328-37D8
   - INS-260323-BC61
-  - INS-260402-8595
-  - INS-260403-E1EB
-  - INS-260322-F6AA
+  - INS-260402-31D8
+  - INS-260403-35E1
   - INS-260327-DCAF
-  - INS-260327-6F08
+  - INS-260403-DDD5
 stance: >-
   The Pentagon discovered its AI vendor contracts included restrictions that
   could shut off models mid-operation if terms were violated

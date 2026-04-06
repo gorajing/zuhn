@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260329-E6DB
   - INS-260330-341D
+  - INS-260403-952F
   - INS-260327-F484
   - INS-260330-3084
-  - INS-260330-8686
   - INS-260330-2347
 evidence:
   - id: INS-260327-F484

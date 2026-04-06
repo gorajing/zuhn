@@ -50,11 +50,11 @@ stance: >-
   almost no one does both consistently.
 related:
   - INS-260323-8271
-  - INS-260330-5BEB
-  - INS-260330-F759
   - INS-260326-C692
+  - INS-260330-5BEB
+  - INS-260403-62BC
   - INS-260330-97B3
-  - INS-260323-DE39
+  - INS-260405-5341
   - INS-260402-2DCE
   - INS-260402-B817
 evidence:

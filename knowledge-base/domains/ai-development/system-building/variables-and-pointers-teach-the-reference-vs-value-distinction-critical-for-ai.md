@@ -52,15 +52,15 @@ stance: >-
   context.
 related:
   - INS-260329-F66E
-  - INS-260329-7677
-  - INS-260330-B599
   - INS-260329-9CFE
-  - INS-260329-B922
+  - INS-260330-81D3
+  - INS-260329-C7BF
+  - INS-260329-BDCC
 evidence:
   - id: INS-260330-C9A6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9CFE
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial's progression from variables (direct value storage) to pointers (storing memory addresses that reference values) teaches a fundamental computer science concept that extends far beyond C++. In AI system design, this same distinction appears everywhere: embedding vectors that reference semantic meaning, context windows that point to conversation history, RAG systems that store references to documents rather than documents themselves.
 

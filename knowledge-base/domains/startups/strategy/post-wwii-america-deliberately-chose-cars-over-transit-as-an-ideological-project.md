@@ -43,11 +43,11 @@ resolutions:
     transit-dependent development structurally impossible in most American
     cities.
 related:
+  - INS-260403-33BF
   - INS-260330-C7E6
   - INS-260327-3675
   - INS-260327-F3F0
   - INS-260330-2737
-  - INS-260321-D4D0
 stance: >-
   The US government used the American Dream (home + car ownership) as both
   domestic reintegration tool for veterans and Cold War propaganda against S...

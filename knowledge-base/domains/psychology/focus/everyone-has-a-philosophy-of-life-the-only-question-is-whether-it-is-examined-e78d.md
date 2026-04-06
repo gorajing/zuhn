@@ -48,17 +48,17 @@ stance: >-
   There is no way to live without a philosophy of life — choosing not to examine
   one's values and priorities is itself a philosophical position, just an
   unconscious and usually worse one.
-related:
-  - INS-260327-8DC5
-  - INS-260325-0A81
-  - PRI-260328-23B0
-  - PRI-260328-6189
-  - INS-260322-C9AC
 evidence:
   - id: INS-260325-82E8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-C9AC
-    relationship: RELATED
+    type: SUPPORTS
+related:
+  - PRI-260328-23B0
+  - PRI-260328-6189
+  - INS-260325-82E8
+  - INS-260325-560A
+  - INS-260325-76E6
 ---
 Pigliucci confronts people who say they do not need a philosophy of life. He points out that if he observed their behavior — their choices, priorities, values — he could reconstruct their implicit philosophy. Everyone has one; the question is whether it is conscious and deliberate.
 

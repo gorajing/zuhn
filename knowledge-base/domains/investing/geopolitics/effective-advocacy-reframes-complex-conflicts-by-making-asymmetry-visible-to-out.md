@@ -53,6 +53,9 @@ related:
   - INS-260323-F540
   - INS-260327-A75C
   - INS-260403-E8E3
+  - INS-260404-CB21
+  - INS-260403-C17B
+  - INS-260405-9015
 stance: >-
   El-Kurd's campaign succeeded globally because it finally matched visual
   imagery to rhetoric, making the power asymmetry undeniable to international...

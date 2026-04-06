@@ -42,12 +42,13 @@ stance: >-
   cannibalizes future new sales—a structural paradox of product excellence
 related:
   - INS-260327-7C15
+  - INS-260403-B53B
+  - INS-260404-5E82
+  - INS-260402-BCEC
   - INS-260327-82AA
-  - INS-260330-D5BD
-  - PRI-260328-7E58
-  - INS-260322-5790
   - INS-260330-A9F0
   - INS-260403-F932
+  - INS-260405-DFBC
 evidence:
   - id: INS-260322-5790
     type: EXTENDS

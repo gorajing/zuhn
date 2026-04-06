@@ -18,24 +18,14 @@ sources:
     title: >-
       Advice to Startup Founders and Employees: Strength Doesn’t Always Come in
       Numbers
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/advice-to-startup-founders-and-employees'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Employees joining startups should check whether the VC backers are a
@@ -62,6 +52,15 @@ stance: >-
   Startup employees should evaluate the correlation profile of their company's
   VC backers because overcrowded cap tables with highly correlated investors
   inflate valuations that may never convert to real equity value.
+related:
+  - INS-260403-47B7
+  - INS-260403-C1D2
+  - INS-260404-3687
+  - INS-260403-5056
+  - PRI-260405-E9C5
+  - INS-260403-0680
+  - INS-260403-7764
+  - INS-260405-CE53
 ---
 Most employees evaluate startup offers by looking at salary, benefits, and option grants. But the composition of the cap table carries hidden risk: if a company is backed by multiple highly-correlated venture firms that frequently co-invest in the same rounds, the valuation may be artificially inflated by mutual bidding rather than genuine market signal. When markets turn, these inflated valuations get re-rated across the board, and employee equity suffers disproportionately.
 

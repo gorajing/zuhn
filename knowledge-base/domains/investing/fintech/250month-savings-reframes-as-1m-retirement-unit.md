@@ -47,11 +47,12 @@ stance: >-
   retirement) is more motivating than traditional savings rate advice because it
   makes the compound math tangible and emotionally real.
 related:
-  - INS-260322-8BC5
   - INS-260327-0AB0
   - INS-260329-CC75
   - INS-260329-28B0
   - INS-260329-8443
+  - INS-260322-8BC5
+  - INS-260403-D5C2
 evidence:
   - id: INS-260322-8BC5
     type: TRANSFERS_TO

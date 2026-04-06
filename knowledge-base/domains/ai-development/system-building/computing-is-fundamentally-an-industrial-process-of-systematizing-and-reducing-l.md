@@ -56,10 +56,10 @@ stance: >-
   large-scale calculation — the same forces that drove factory production.
 related:
   - PRI-260328-7007
+  - INS-260325-BF84
   - INS-260325-5B7F
   - INS-260403-7BA1
   - INS-260325-D624
-  - PRI-260328-5D9E
   - INS-260330-6C7F
 evidence:
   - id: INS-260325-D624

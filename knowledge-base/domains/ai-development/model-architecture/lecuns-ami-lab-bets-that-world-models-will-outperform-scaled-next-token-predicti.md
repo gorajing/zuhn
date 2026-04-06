@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: Mastercard brings 85+ firms into crypto payments push
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-175'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AMI's $1.03B bet is that grounded, causal world models beat next-token
@@ -65,6 +55,13 @@ resolutions:
 stance: >-
   The next AI breakthrough will come from architectural innovation (world models
   / JEPA) rather than scaling LLMs on more compute and data.
+related:
+  - INS-260403-DC6E
+  - PRI-260328-D893
+  - INS-260323-6C6F
+  - PRI-260323-8E89
+  - PRI-260405-B144
+  - INS-260322-5790
 ---
 Yann LeCun's new lab AMI raised a record $1.03B seed round on the thesis that Joint Embedding Predictive Architecture (JEPA) — not transformer scaling — is the path to AI that reasons, plans, and operates safely in physical environments. The lab targets robotics, manufacturing, transportation, and healthcare, domains where causal grounding matters more than language fluency.
 

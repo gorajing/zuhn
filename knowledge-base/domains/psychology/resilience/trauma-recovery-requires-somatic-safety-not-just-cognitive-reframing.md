@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Trauma treatment that targets felt bodily safety outperforms purely
@@ -49,6 +49,13 @@ stance: >-
   Helping traumatized people feel physically safe in their bodies is more
   effective than cognitive-behavioral approaches that try to correct 'wrong'
   thinking patterns
+related:
+  - INS-260325-BBF1
+  - INS-260403-7639
+  - INS-260403-7475
+  - INS-260403-79AF
+  - PRI-260405-9D7B
+  - INS-260325-DF82
 ---
 Van der Kolk argues that the mainstream psychiatric approach — identifying what's wrong with a patient and fixing it through drugs or CBT — fundamentally misunderstands trauma. Trauma isn't a thinking error; it's a physiological state where the body's danger-detection system remains stuck in fight/flight/collapse mode long after the threatening event has ended.
 

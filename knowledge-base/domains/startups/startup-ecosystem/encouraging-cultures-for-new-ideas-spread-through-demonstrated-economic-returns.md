@@ -54,13 +54,15 @@ stance: >-
   achievement but an economically selected custom — and this mechanism means
   similar cultures will spread wherever the same incentives exist.
 related:
-  - INS-260329-E45A
   - INS-260330-B4BD
   - INS-260403-4850
   - INS-260403-6224
+  - INS-260403-22ED
   - INS-260403-A99F
-  - PRI-260405-1A34
-  - INS-260404-CDF0
+  - INS-260329-E45A
+  - INS-260404-86DE
+  - INS-260403-CF01
+  - INS-260327-A40E
 evidence:
   - id: INS-260330-B4BD
     type: TRANSFERS_TO

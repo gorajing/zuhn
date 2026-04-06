@@ -51,11 +51,11 @@ stance: >-
   organizations produces more dangerous, fragmented successors rather than
   eliminating the threat.
 related:
+  - INS-260403-62BC
   - INS-260327-E751
   - INS-260327-191B
   - INS-260327-4D1F
-  - INS-260330-8686
-  - INS-260330-27E8
+  - INS-260330-2E1E
 evidence:
   - id: INS-260330-2E1E
     type: SUPPORTS

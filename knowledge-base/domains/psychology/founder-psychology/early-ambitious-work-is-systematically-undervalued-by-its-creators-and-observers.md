@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The fear that your early work looks lame is real but wrong — ambitious
@@ -68,6 +56,17 @@ stance: >-
   Misjudging early-stage ambitious work as inferior is a universal cognitive
   failure, not a reliable quality signal — the lame-looking prototype and the
   great finished work are the same project.
+related:
+  - INS-260323-1C32
+  - INS-260402-E36A
+  - INS-260403-8A8B
+  - INS-260403-F657
+  - INS-260405-020E
+  - INS-260404-4666
+  - INS-260404-F8E6
+  - INS-260404-CD3E
+  - INS-260404-56F8
+  - INS-260404-9C4C
 ---
 Paul Graham identifies a specific cognitive trap: we apply the same evaluative standards to embryonic ambitious projects that we apply to finished, polished work or to less ambitious projects. This comparison is structurally unfair — a 20% sketch of something that will be 10x more valuable than what it's being compared to is already worth more than its surface appearance suggests.
 

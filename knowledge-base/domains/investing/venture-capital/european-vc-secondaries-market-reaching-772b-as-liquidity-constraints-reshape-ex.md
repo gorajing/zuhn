@@ -1,5 +1,5 @@
 ---
-id: INS-260403-DED4
+id: INS-260403-2668
 domain: investing
 topic: venture-capital
 title: >-
@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "YC's Handshake Deal Protocol\U0001F91D, The Generative AI Winners of 2025 \U0001F916, Redefining Independent Media\U0001F4F0"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ycs-handshake-deal-protocol-the-generative'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Europe's VC direct secondaries market is projected to reach $77.2B, driven
@@ -57,6 +47,14 @@ resolutions:
 stance: >-
   Secondary markets will become the primary liquidity mechanism for European
   VC-backed companies, surpassing traditional IPO and M&A exits in volume
+related:
+  - INS-260403-94A3
+  - INS-260403-9A94
+  - INS-260403-8EE8
+  - INS-260403-E294
+  - INS-260403-BAD6
+  - INS-260404-F45E
+  - INS-260404-5E82
 ---
 PitchBook projects Europe's VC direct secondaries market will reach $77.2 billion, representing a fundamental shift in how venture-backed companies provide liquidity to shareholders. This growth is driven by constrained traditional exit paths — IPO markets remain selective and M&A activity hasn't fully recovered.
 

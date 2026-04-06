@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: A Conversation with JCal about the Evolution of Media
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/a-conversation-with-jcal-about-the'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The internet killed the solid middle-class journalist salary while top
@@ -61,6 +51,12 @@ stance: >-
   Digital disruption destroys the economic floor for working professionals in
   creative industries before it touches the elite, creating a winner-take-most
   distribution where only stars survive.
+related:
+  - INS-260405-1661
+  - INS-260405-BFC0
+  - INS-260403-7878
+  - INS-260327-723A
+  - INS-260403-A2E9
 ---
 In journalism's Golden Age, frontline writers earned $60-80k/year at newspapers and $50k at trade publications — enough to live comfortably. Feature assignments paid $10-20k. This attracted elite talent like Bret Easton Ellis into the profession. The internet didn't eliminate the ceiling; top writers still command premium rates. What collapsed was the floor: the reliable, middle-tier career path that made journalism viable for talented people without breakout fame.
 

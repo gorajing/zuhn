@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Liquid and Illiquid Careers\U0001F4C8, 5 AI Distribution Plays That Build Moats\U0001F680, Notes on China\U0001F3ED"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/5-ai-distribution-plays-that-build'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In AI, distribution loops—not features—create defensible positions because
@@ -53,6 +43,13 @@ resolutions:
 stance: >-
   AI startups that embed into workflows and create compounding distribution
   loops will survive while feature-differentiated competitors get commoditized
+related:
+  - INS-260329-148D
+  - INS-260329-057F
+  - INS-260330-7DCF
+  - INS-260330-8F91
+  - INS-260402-C301
+  - PRI-260403-5FC4
 ---
 As AI capabilities commoditize, the deciding factor for startup survival shifts from what the product does to how it reaches and retains users. Fifteen distribution plays—from workflow embedding to output-as-marketing—illustrate how compounding loops create positions that are expensive for competitors to replicate.
 

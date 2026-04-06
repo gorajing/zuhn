@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260322-A36C
   - INS-260329-9D26
+  - INS-260403-CF46
   - INS-260404-312D
-  - INS-260329-72C1
-  - INS-260403-4935
+  - INS-260405-95A6
 evidence:
   - id: INS-260322-A36C
     type: EXTENDS

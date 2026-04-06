@@ -48,12 +48,14 @@ stance: >-
   per item so dramatically that suppliers will accept lower margins and custom
   packaging just to secure one of the few available slots.
 related:
-  - INS-260321-4B99
   - INS-260321-3BA8
+  - INS-260404-36D7
+  - INS-260403-6670
   - INS-260330-2F74
   - INS-260404-41AA
-  - INS-260329-9101
+  - INS-260321-4B99
   - INS-260405-DEF2
+  - INS-260402-7623
 evidence:
   - id: INS-260321-4B99
     type: TRANSFERS_TO

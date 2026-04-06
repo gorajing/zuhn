@@ -45,8 +45,8 @@ stance: >-
   conception to shipping actually decreases organizational throughput.
 related:
   - PRI-260320-5D78
-  - INS-260327-0D0B
   - PRI-260405-608A
+  - INS-260403-7825
   - INS-260325-FADB
   - INS-260323-C90C
   - INS-260404-312D

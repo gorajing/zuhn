@@ -5,3 +5,4 @@
 - `INS-260330-B91E` Naval advocates reading the best books over and over rather than maximizing book count, because deep understanding compounds while shallow reading doesn't.
 - `INS-260405-41AC` The phrase 'already read' is nearly ill-formed — the book you read at 25 is not the same book at 45.
 - `INS-260405-8412` Your mind is a compiled program whose source code you've lost — the program still runs correctly.
+- `INS-260403-8C71` Founders converge on the same small set of books, leaving valuable non-canonical knowledge undiscovered.

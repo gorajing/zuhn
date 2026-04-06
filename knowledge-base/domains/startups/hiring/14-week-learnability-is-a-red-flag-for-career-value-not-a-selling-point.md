@@ -44,11 +44,11 @@ stance: >-
   is overpaying or the bootcamp version of the skill is not what employers
   actually value
 related:
+  - INS-260403-FCF7
   - INS-260327-1787
   - PRI-260405-6A4E
+  - INS-260403-9A5D
   - INS-260323-FE69
-  - INS-260403-EA34
-  - INS-260329-C3DF
 evidence:
   - id: INS-260329-C3DF
     type: CHALLENGES

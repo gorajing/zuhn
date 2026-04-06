@@ -51,12 +51,12 @@ resolutions:
     structurally unable to respond because they literally can't see what's
     broken.
 related:
-  - INS-260322-03DD
+  - INS-260403-37FC
+  - INS-260403-B301
   - PRI-260323-1B96
   - PRI-260328-0C15
-  - INS-260404-E36F
-  - PRI-260405-BFAC
-  - INS-260403-0AF7
+  - INS-260403-ADF9
+  - INS-260403-7068
 stance: >-
   a16z's platform model worked because its founders had been VC customers
   (entrepreneurs), giving them a perspective that career VCs structurally cou...

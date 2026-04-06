@@ -51,15 +51,15 @@ related:
   - INS-260323-DEEA
   - INS-260325-788E
   - INS-260327-0133
-  - INS-260327-454C
   - PRI-260328-902C
-  - INS-260329-5094
   - INS-260329-59A5
-  - INS-260329-EE04
   - INS-260330-0FBF
+  - INS-260330-487E
+  - INS-260403-B9E5
+  - INS-260403-D0EE
 evidence:
   - id: INS-260329-FEA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-788E
     type: EXTENDS
     classified_at: '2026-04-06'

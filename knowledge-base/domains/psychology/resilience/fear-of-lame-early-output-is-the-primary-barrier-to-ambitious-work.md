@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Most people never start ambitious projects because they cannot tolerate the
@@ -59,6 +47,13 @@ stance: >-
   The biggest force preventing great work is not lack of skill or resources but
   the psychological inability to tolerate ugly first drafts of ambitious
   projects
+related:
+  - INS-260403-472E
+  - INS-260403-AC03
+  - INS-260404-9C4C
+  - INS-260405-020E
+  - INS-260403-FE41
+  - INS-260405-7A7C
 ---
 Paul Graham identifies fear of making something lame as the single largest obstacle to doing great work. This fear is not irrational—early versions of ambitious projects genuinely look unimpressive, even to their creators. But the fear is disproportionate to the reality: a lame-looking early version of an ambitious project is far more valuable than it appears, because it sits on a trajectory toward something great.
 

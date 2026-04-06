@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Global AI Adoption\U0001F4CA, SaaS Multiples Compress\U0001F4C9, How People Use ChatGPT\U0001F4AC"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/global-ai-adoption-saas-multiples'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Founders who empower aligned influencers to grow their own visibility create
@@ -58,6 +48,13 @@ stance: >-
   Identifying and empowering aligned connectors who already influence
   concentrated audiences creates self-reinforcing distribution loops that
   compound faster than direct marketing
+related:
+  - INS-260327-4F94
+  - INS-260403-6BF7
+  - INS-260403-7B3B
+  - INS-260403-47FC
+  - INS-260328-2BCF
+  - INS-260404-CAFA
 ---
 The Lighthouse Playbook describes a growth strategy where founders identify individuals who already influence their target audience and help those connectors grow their own reach. Rather than paying for distribution directly, you invest in making your champions more successful — which naturally amplifies your message through their expanding platform.
 

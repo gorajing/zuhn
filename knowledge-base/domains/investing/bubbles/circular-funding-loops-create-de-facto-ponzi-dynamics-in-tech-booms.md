@@ -44,12 +44,13 @@ stance: >-
   that attracts more venture capital, the resulting feedback loop is
   structurally identical to a Ponzi scheme and will collapse the same way.
 related:
-  - INS-260327-130C
   - INS-260327-C1F6
+  - INS-260403-4227
   - INS-260402-8424
   - INS-260403-A57D
-  - INS-260403-37FD
-  - PRI-260405-E9C5
+  - INS-260405-B4D0
+  - INS-260403-6694
+  - INS-260403-5835
 evidence:
   - id: INS-260327-130C
     type: EXTENDS

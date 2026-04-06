@@ -51,7 +51,6 @@ related:
   - INS-260323-B811
   - INS-260330-6D86
   - INS-260325-C2DA
-  - INS-260330-2B33
 stance: >-
   Emotional contagion empathy makes one identified victim more compelling than
   500,000 statistical victims

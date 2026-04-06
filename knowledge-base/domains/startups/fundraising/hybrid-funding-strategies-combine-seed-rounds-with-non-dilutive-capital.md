@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Seed Strapping: A Smarter Startup Funding Strategy'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/seed-strapping-startup-funding'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     After a seed round, founders can layer in revenue-based financing, small
@@ -57,6 +47,17 @@ stance: >-
   Revenue-based financing, bridge rounds from angels, and crowdfunding after an
   initial seed round provide superior capital structures compared to traditional
   Series A progression
+related:
+  - INS-260322-A02C
+  - INS-260330-3559
+  - INS-260403-7E27
+  - INS-260403-0680
+  - INS-260405-6EE5
+  - INS-260403-7483
+  - INS-260403-79F3
+  - INS-260403-AF3B
+  - INS-260405-36E6
+  - PRI-260405-E9C5
 ---
 The binary choice between bootstrapping and VC is dissolving into a spectrum of hybrid approaches. After raising a seed round, founders can turn to revenue-based financing platforms like Capchase or Lighter Capital for non-dilutive growth capital tied to recurring revenue. Others raise small bridge rounds from existing angels rather than pursuing a full Series A, maintaining ownership while extending runway.
 

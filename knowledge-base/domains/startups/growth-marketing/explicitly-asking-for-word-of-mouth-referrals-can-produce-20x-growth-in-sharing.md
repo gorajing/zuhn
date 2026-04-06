@@ -51,10 +51,10 @@ stance: >-
   order of magnitude because the primary barrier is prompting, not willingness.
 related:
   - INS-260323-7AF7
-  - INS-260323-F274
   - INS-260324-40AA
-  - INS-260329-E900
   - INS-260323-D679
-  - PRI-260327-3BD9
+  - INS-260329-E900
+  - INS-260403-8ABF
+  - INS-260323-F274
 ---
 For low-ticket products where paid acquisition is unprofitable (yogurt cups, consumer apps, content), word-of-mouth becomes the only viable growth channel. But Hormozi reveals a critical nuance: most businesses treat word-of-mouth as passive ('if the product is good enough, people will share'). When he simply started asking his podcast audience to leave reviews and share episodes, review volume increased 20x and growth 'skyrocketed.' The insight is that the primary barrier to referral behavior isn't product quality or willingness — it's activation energy. People need to be prompted. This applies broadly: explicitly asking for referrals at the point of highest satisfaction (right after a great experience, at checkout, post-purchase) converts latent goodwill into actual sharing behavior. The second viable channel he identifies is affiliate/partnership marketing — finding 'buckets of people' through organizations (fraternities, companies, clubs) and running competitions or promotions to drive group-based acquisition.

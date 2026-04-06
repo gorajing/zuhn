@@ -56,9 +56,9 @@ related:
   - INS-260325-11E4
   - PRI-260325-697B
   - INS-260330-1AEA
+  - INS-260403-3223
   - PRI-260328-D68F
   - INS-260325-45BC
-  - INS-260330-43EE
 ---
 Reeves identifies a structural blind spot: men and women at the top of the economic ladder—four-year degrees, decent incomes—don't see male disadvantage because it doesn't affect their social circle. He borrows Sandberg's phrase to frame it as 'so busy leaning in that we don't look down.' The reality for working-class men, Black men, and men lower on the economic ladder is starkly different.
 

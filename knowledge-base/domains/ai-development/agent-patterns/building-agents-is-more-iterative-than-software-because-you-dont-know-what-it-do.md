@@ -54,16 +54,16 @@ stance: >-
   iterate on what it should do, while with agents you don't even know what it
   does until you observe it running.
 related:
-  - INS-260321-D3BE
   - INS-260325-D540
   - INS-260322-EAB6
-  - INS-260325-2DCD
   - INS-260323-05B5
   - INS-260325-3F86
-  - INS-260322-D8C3
   - INS-260330-8F07
   - INS-260403-0350
-  - PRI-260328-8317
+  - INS-260405-E8A1
+  - INS-260403-F6F6
+  - INS-260327-9D50
+  - INS-260327-BF89
 evidence:
   - id: INS-260327-B9BB
     type: CONTRADICTS

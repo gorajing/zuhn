@@ -47,11 +47,12 @@ resolutions:
     sentence that everyone agrees with, your platform will struggle with
     coordination costs.
 related:
+  - INS-260403-219F
+  - INS-260402-2A1D
   - INS-260325-568A
   - INS-260403-066E
   - INS-260329-E6AF
-  - PRI-260321-AD44
-  - PRI-260403-7E5E
+  - INS-260403-30FF
 stance: >-
   Wikipedia works because everyone intuitively knows what an encyclopedia entry
   should look like

@@ -16,26 +16,14 @@ tags:
 sources:
   - type: blog
     title: "Announcing a brand-new podcast: “How I AI” with Claire Vo \U0001F525"
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/announcing-a-brand-new-podcast-how'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In AI content, doing-and-sharing beats talking-about at generating durable
@@ -59,6 +47,14 @@ resolutions:
 stance: >-
   An AI content creator who actively builds with AI tools attracts more trust
   and actionable insight than one who primarily discusses AI at a meta level.
+related:
+  - INS-260320-5A6F
+  - INS-260322-81CD
+  - INS-260327-8DFE
+  - INS-260403-4D04
+  - PRI-260322-DC5E
+  - INS-260329-13D2
+  - INS-260403-BC04
 ---
 The framing Lenny uses to introduce Claire Vo is telling: 'unlike many people online, she doesn't only talk about using AI—she lives and breathes it.' This distinction—between practitioners who share their learning in real time versus commentators who analyze AI from a distance—is becoming a primary credibility signal for audiences trying to evaluate whose guidance to follow.
 

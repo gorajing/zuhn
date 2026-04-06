@@ -47,12 +47,11 @@ resolutions:
     public stance is unconditional alliance. Sexton describes it as looking at
     the groom watching the bride walk down the aisle: pure adoration.
 related:
+  - INS-260403-49DF
   - INS-260325-9B73
   - INS-260325-9E0C
   - INS-260329-E0B0
   - INS-260323-8268
-  - INS-260330-8DCE
-  - INS-260329-8E89
 stance: >-
   The strongest relationships Sexton has seen are where partners are each
   other's unconditional advocates

@@ -48,10 +48,10 @@ resolutions:
     restrict spending.
 related:
   - PRI-260323-2E5A
+  - INS-260403-AFC6
   - INS-260327-EBDF
+  - INS-260403-B610
   - INS-260327-4440
-  - INS-260327-540D
-  - INS-260330-3E6B
 stance: >-
   Just as the internet ad industry needed companies like DoubleClick, Comscore,
   and Omniture before Google/Facebook could scale revenue, enterprise A...

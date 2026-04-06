@@ -49,14 +49,13 @@ stance: >-
   a strategic forcing function — if you can't compress your startup into one
   phrase, your plans aren't focused enough.
 related:
-  - INS-260325-F451
   - INS-260327-B034
   - INS-260403-74DB
   - INS-260403-21C4
+  - INS-260404-3212
   - INS-260404-A526
   - INS-260403-F171
   - INS-260403-FC45
-  - INS-260403-F7DD
 evidence:
   - id: INS-260403-74DB
     type: TRANSFERS_TO

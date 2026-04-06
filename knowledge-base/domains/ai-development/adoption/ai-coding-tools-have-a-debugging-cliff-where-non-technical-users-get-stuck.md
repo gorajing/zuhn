@@ -15,29 +15,14 @@ tags:
 sources:
   - type: blog
     title: A guide to AI prototyping for product managers
-    author:
-      - '@type': Person
-        name: Colin Matthews
-        url: 'https://substack.com/@colinmatthews'
-        description: >-
-          I'm excited to help you learn more about how software gets built! I
-          had my first SaaS product acquired in 2021 and have worked in
-          healthtech for 6+ years.
-
-          PM @ Datavant, 5000+ students
-        identifier: 'user:176430401'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!vdga!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16b7f99-8773-4997-b655-6570a1747ad5_960x960.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!vdga!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16b7f99-8773-4997-b655-6570a1747ad5_960x960.jpeg
+    author: Colin Matthews
     url: 'https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI tools generate code easily but debugging still requires technical
@@ -63,6 +48,17 @@ stance: >-
   The primary failure mode of AI prototyping is not generation quality but
   debugging difficulty, which creates a hidden skill floor that marketing
   obscures.
+related:
+  - INS-260321-AD95
+  - INS-260329-3D28
+  - INS-260329-FC75
+  - INS-260329-1ACD
+  - INS-260330-FA9D
+  - INS-260405-C1E4
+  - INS-260329-03B5
+  - PRI-260328-B4BD
+  - INS-260403-D6C2
+  - INS-260329-3763
 ---
 The article reveals a telling pattern: the author built a presentation app in 10 days using Lovable and Cursor, but 'most of that time was spent resolving bugs and troubleshooting issues.' Similarly, Lovable's lack of a code editor forces users to move to Cursor to resolve problems. This debugging cliff is the real capability boundary of AI prototyping for non-technical users.
 

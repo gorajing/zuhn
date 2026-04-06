@@ -43,9 +43,9 @@ stance: >-
   replaces the authentic one in consumer perception.
 related:
   - INS-260327-7498
-  - INS-260327-24A5
   - PRI-260328-909D
   - PRI-260328-7E58
+  - INS-260327-24A5
   - INS-260330-067C
 evidence:
   - id: INS-260327-7498

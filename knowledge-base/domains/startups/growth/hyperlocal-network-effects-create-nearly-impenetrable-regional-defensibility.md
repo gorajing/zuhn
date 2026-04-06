@@ -42,13 +42,12 @@ stance: >-
   Local network effects in emerging markets provide stronger defensibility than
   global scale because they're harder for foreign competitors to replicate
 related:
-  - INS-260330-DC14
-  - INS-260330-D460
-  - INS-260330-4F2A
   - INS-260330-0294
-  - INS-260330-6D2E
-  - PRI-260328-A4AC
   - INS-260403-BA5D
+  - INS-260403-DF45
+  - INS-260404-1CC0
+  - INS-260330-6D2E
+  - INS-260403-7841
 evidence:
   - id: INS-260330-6D2E
     type: REFINES

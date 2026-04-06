@@ -49,26 +49,25 @@ stance: >-
   Barriers that seem to limit your market actually concentrate it by filtering
   for customers whose lifetime value justifies the model.
 related:
-  - INS-260403-C40D
-  - INS-260403-747B
-  - INS-260403-0CF7
   - INS-260404-5587
+  - INS-260405-631B
+  - INS-260403-747B
   - INS-260404-B2FB
-  - INS-260404-01B1
-  - INS-260404-B435
+  - INS-260403-0CF7
+  - INS-260404-AC1B
 evidence:
   - id: INS-260404-B2FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-01B1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-747B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-79EC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-0CF7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-5587
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Costco's mandatory membership fee appears to be a fatal acquisition barrier — why would anyone pay to shop? But the fee acts as a selection mechanism: it filters for affluent households (average income ~$100K) and business buyers who purchase in volume. Business owners make up roughly one-third of members but account for two-thirds of sales. The sunk-cost psychology then locks these high-value customers in, reducing comparison shopping.
 

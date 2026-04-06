@@ -40,10 +40,10 @@ stance: >-
   chain logistics, where maintaining temperature from factory to consumer costs
   more than the product itself.
 related:
-  - INS-260324-D612
   - INS-260327-E359
   - INS-260329-4161
   - PRI-260328-5053
+  - INS-260324-D612
   - INS-260324-C33C
 ---
 Ice cream and frozen food businesses face cost structures dominated by cold chain logistics, where maintaining temperature from factory to consumer costs more than the product itself.

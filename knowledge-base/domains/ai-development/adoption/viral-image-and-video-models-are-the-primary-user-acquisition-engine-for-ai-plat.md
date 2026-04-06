@@ -50,8 +50,8 @@ related:
   - INS-260327-165D
   - INS-260327-FEB7
   - INS-260327-555D
+  - INS-260404-48D1
   - INS-260329-FB3F
-  - INS-260330-24A5
 stance: The most viral consumer AI moments of 2025 were all image/video
 evidence:
   - id: INS-260327-165D

@@ -44,15 +44,15 @@ stance: >-
   something larger than themselves.
 related:
   - INS-260325-11E9
-  - INS-260325-76E6
   - INS-260325-FBA0
   - INS-260325-5977
+  - INS-260403-320A
   - INS-260323-7263
   - PRI-260325-AA01
   - INS-260323-D783
-  - INS-260330-3888
   - INS-260323-BBD3
-  - INS-260323-8848
+  - INS-260327-B767
+  - INS-260330-3888
 evidence:
   - id: INS-260325-11E9
     type: CHALLENGES

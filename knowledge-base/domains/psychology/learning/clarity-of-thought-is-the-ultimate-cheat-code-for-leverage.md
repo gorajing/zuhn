@@ -50,15 +50,16 @@ related:
   - INS-260330-4E10
   - INS-260330-DB4B
   - INS-260330-6F7B
+  - INS-260405-6E4F
   - INS-260403-0240
-  - INS-260323-DEEA
+  - INS-260403-541C
 evidence:
   - id: INS-260330-DB4B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6F7B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5B0C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-0240
     type: REFINES
     classified_at: '2026-04-06'

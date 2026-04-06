@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'The SaaS Reset: Why the 10x ARR Club Is Now a Ghost Town'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/great-saas-reset-10x-arr-club'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI makes building software cheap, shifting competitive value from code to
@@ -58,6 +48,16 @@ resolutions:
 stance: >-
   When two engineers with model APIs can ship what previously required twenty,
   reaching $10M ARR signals speed-to-market rather than a durable moat.
+related:
+  - INS-260329-693E
+  - INS-260330-819E
+  - INS-260403-EDA1
+  - INS-260403-5CAD
+  - INS-260403-1D92
+  - INS-260402-8C42
+  - INS-260325-FDF5
+  - INS-260404-EEA7
+  - INS-260403-ED64
 ---
 The economics of software creation have fundamentally changed. Two engineers with the right model APIs and code-generation tools can now build products that previously required 20-person teams. This has caused a massive surge in software supply, especially among early-stage startups.
 

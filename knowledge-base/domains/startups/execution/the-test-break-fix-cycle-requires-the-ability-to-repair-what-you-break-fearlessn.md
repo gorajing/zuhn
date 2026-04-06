@@ -46,12 +46,13 @@ resolutions:
     rebuild. Self-sufficiency in fixing things unlocks the aggressive
     experimentation needed for breakthroughs.
 related:
-  - INS-260323-6134
   - INS-260327-7157
   - INS-260327-0875
+  - INS-260405-F05B
   - INS-260327-9C56
-  - INS-260329-023F
+  - INS-260323-6134
   - INS-260327-1B82
+  - INS-260403-107E
 stance: >-
   You can only iterate fearlessly on expensive robots if you can repair them
   yourself

@@ -50,15 +50,15 @@ stance: >-
   anchoring and brand association.
 related:
   - INS-260327-875C
-  - INS-260329-C6BB
   - INS-260329-9D87
   - INS-260329-1DE0
   - INS-260329-6B3C
   - INS-260329-B28C
+  - INS-260403-9DC2
   - PRI-260328-70D9
   - INS-260327-0A48
   - INS-260330-975D
-  - INS-260405-EE74
+  - INS-260404-6D22
 evidence:
   - id: INS-260327-875C
     type: TRANSFERS_TO

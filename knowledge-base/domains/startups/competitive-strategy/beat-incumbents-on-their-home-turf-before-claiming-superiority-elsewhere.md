@@ -49,10 +49,10 @@ stance: >-
   before the market will take broader claims seriously.
 related:
   - INS-260402-086D
+  - INS-260403-B255
+  - INS-260322-3A00
+  - INS-260405-4AAD
   - INS-260321-CCE3
-  - INS-260330-7E97
-  - INS-260404-375E
-  - INS-260404-17DD
 evidence:
   - id: INS-260330-7E97
     type: CHALLENGES

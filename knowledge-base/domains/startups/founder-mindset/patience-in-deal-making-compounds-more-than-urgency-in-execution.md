@@ -49,10 +49,10 @@ stance: >-
   outcomes than rushing to start something immediately.
 related:
   - INS-260329-F0DD
+  - INS-260403-6184
   - INS-260322-98AB
   - INS-260329-9C6B
-  - INS-260329-F73D
-  - INS-260329-12EC
+  - INS-260403-8E58
 ---
 Hormozi identifies impatience as the primary reason new entrepreneurs overpay or start from scratch unnecessarily. The character trait of success isn't hustle — it's the willingness to say 'I can take six months because in the next decade of my life there's no rush.' This patience unlocks dramatically better deal structures.
 

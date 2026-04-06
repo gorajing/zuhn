@@ -49,26 +49,21 @@ stance: >-
   offerings generates disproportionate negotiating power with suppliers because
   being one of only two choices on shelf becomes existentially important to
   brands.
-related:
-  - INS-260403-E143
-  - INS-260403-5BAC
-  - INS-260403-115B
-  - INS-260404-7D8F
-  - INS-260404-6945
-  - INS-260404-7F16
-  - INS-260404-72F5
-  - INS-260404-8466
-  - INS-260404-35BB
-  - INS-260405-F57E
 evidence:
   - id: INS-260403-5BAC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-4871
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6945
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-E143
-    relationship: RELATED
+    type: SUPPORTS
+related:
+  - INS-260403-4874
+  - INS-260403-DD63
+  - INS-260403-6670
+  - INS-260327-3B91
+  - INS-260330-DC0D
 ---
 Costco's radical constraint — 4,000 SKUs versus 30,000 at a typical supermarket or 140,000 at Walmart — appears to be a limitation but functions as a structural advantage. When a retailer offers only one or two options per category, being selected becomes critically important to suppliers. This creates intense competition among brands to offer Costco the lowest prices and even re-engineer products to fit its needs (like redesigning cashew containers to save 24,000 pallets annually).
 

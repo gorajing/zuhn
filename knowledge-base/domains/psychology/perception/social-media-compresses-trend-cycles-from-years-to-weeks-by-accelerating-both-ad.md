@@ -49,16 +49,16 @@ stance: >-
   shorten the lifecycle of trends because discovery, peak adoption, and cultural
   rejection all happen faster.
 related:
-  - INS-260321-5DF8
   - INS-260325-A08A
   - INS-260327-7C6B
   - INS-260327-F723
   - PRI-260328-1A2D
   - PRI-260325-070D
+  - INS-260403-9A44
   - INS-260322-5790
-  - INS-260330-D808
   - INS-260328-D26B
-  - INS-260330-230D
+  - INS-260403-36F4
+  - INS-260403-C460
 evidence:
   - id: INS-260321-5DF8
     type: TRANSFERS_TO

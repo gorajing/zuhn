@@ -51,18 +51,19 @@ stance: >-
   interesting problems — if you're smart and honest about what fascinates you,
   you'll naturally congregate where golden ages are forming.
 related:
+  - INS-260325-F915
   - INS-260325-E8BC
   - INS-260404-5AC1
   - PRI-260325-2800
   - INS-260321-80A9
-  - INS-260325-812F
+  - INS-260322-D6B8
 evidence:
   - id: INS-260321-80A9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-B393
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-E8BC
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Graham argues that fields have natural rhythms of golden ages and decline that are beyond individual control. You're far more likely to do great work in a field on the way up. But golden ages are never labeled in real time — they feel like 'just' smart people working hard on interesting problems and getting results. Their participants take the conditions for granted.
 

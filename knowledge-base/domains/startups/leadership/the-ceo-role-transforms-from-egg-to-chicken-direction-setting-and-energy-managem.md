@@ -47,15 +47,15 @@ resolutions:
     my capacity to do the three things only I can do?'
 related:
   - INS-260322-B6DE
-  - INS-260322-C472
   - INS-260327-A927
+  - INS-260322-C472
+  - INS-260404-1775
   - INS-260322-CFB1
   - INS-260402-EA72
-  - INS-260327-E2BC
-  - INS-260322-3E59
-  - INS-260327-27DA
   - INS-260327-9641
-  - INS-260329-903B
+  - INS-260402-4633
+  - INS-260403-5FE7
+  - INS-260403-C7E3
 stance: >-
   An early startup is like an egg (simple: find customers, build product, don't
   die) while a late-stage company is a full chicken (international, mul...

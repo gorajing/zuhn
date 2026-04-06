@@ -48,23 +48,23 @@ stance: >-
   flexible systems than monolithic programs with many features.
 related:
   - INS-260403-EE38
-  - INS-260403-A5B8
-  - INS-260329-55C4
+  - INS-260405-4091
   - INS-260329-8830
-  - INS-260403-66D0
+  - INS-260327-E3DE
+  - INS-260404-3CBE
 evidence:
   - id: INS-260329-8830
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-E3DE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-BF81
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-EE38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-A5B8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-61DA
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Unix philosophy of small programs that do one thing well, connected through pipes and redirects, predates modern microservices by decades but embodies the same principle: composability beats monolithism. In Linux, you can chain cat | sort | uniq to build a data pipeline from three tiny utilities that know nothing about each other.
 

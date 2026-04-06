@@ -48,9 +48,10 @@ stance: >-
   replace human services; agents must develop empathic, adaptive, relational
   qualities to handle disordered and complex human interactions.
 related:
-  - INS-260321-A56C
   - INS-260329-422F
   - INS-260326-2410
+  - INS-260404-6BD6
+  - INS-260321-A56C
   - PRI-260328-1ED1
   - PRI-260403-FBA8
 evidence:

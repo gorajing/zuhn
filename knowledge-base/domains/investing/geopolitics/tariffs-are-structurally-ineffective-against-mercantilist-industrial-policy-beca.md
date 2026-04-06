@@ -20,25 +20,15 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: How China Built Its Industrial Power'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: >-
       https://chamath.substack.com/p/deep-dive-chinas-industrial-might-and-domestic-policy
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     China's national champions are subsidized at cost, dump product to shape
@@ -70,6 +60,12 @@ stance: >-
   Tariffs cannot neutralize the competitive advantage of state-backed national
   champions because the advantage is built into cost structures via subsidies,
   not just export pricing
+related:
+  - INS-260403-5A4C
+  - INS-260405-5856
+  - INS-260404-1CC0
+  - INS-260404-8321
+  - PRI-260324-5F05
 ---
 Tariffs work by raising the import price of foreign goods, making domestic production relatively more competitive. But when a foreign government subsidizes its national champions at the cost level — cheap credit, direct grants, state loans — the tariff wall has to be extraordinarily high to offset the structural cost advantage. And at that height, it functions more as a trade prohibition than a competitive equalizer.
 

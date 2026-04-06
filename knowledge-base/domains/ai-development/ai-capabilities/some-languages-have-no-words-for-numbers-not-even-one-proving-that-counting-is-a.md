@@ -51,13 +51,11 @@ resolutions:
     specialized architectural features (like tool use for calculation) rather
     than expecting them to emerge from scale.
 related:
+  - INS-260327-2C5F
   - INS-260330-B640
   - INS-260327-9BA2
   - INS-260329-ACE6
   - INS-260325-C523
-  - INS-260404-864F
-  - INS-260328-2CFF
-  - INS-260330-2294
 stance: The Piraha language has zero words for counting
 evidence:
   - id: INS-260327-2C5F

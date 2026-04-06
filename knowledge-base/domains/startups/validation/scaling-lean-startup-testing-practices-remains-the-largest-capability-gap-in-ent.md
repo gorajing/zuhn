@@ -54,11 +54,11 @@ stance: >-
   fundamentally inexperienced at scaling the practice of systematically testing
   business ideas
 related:
-  - INS-260325-3CE2
   - INS-260403-499B
   - INS-260403-65C3
+  - INS-260325-3CE2
+  - INS-260403-4803
   - INS-260321-BFA3
-  - PRI-260323-8E89
 evidence:
   - id: INS-260321-BFA3
     type: TRANSFERS_TO

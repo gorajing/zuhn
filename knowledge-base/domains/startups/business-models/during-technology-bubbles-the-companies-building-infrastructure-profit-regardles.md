@@ -41,10 +41,10 @@ stance: >-
   all applications need the infrastructure.
 related:
   - INS-260322-6DFC
+  - INS-260403-5835
   - INS-260327-C1F6
   - PRI-260403-4612
-  - INS-260403-358D
-  - PRI-260321-05B5
+  - INS-260404-5AC8
 evidence:
   - id: INS-260322-6DFC
     type: EXTENDS

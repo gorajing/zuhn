@@ -1,88 +1,244 @@
 # Tag: fundraising
 
+- `INS-260405-285D` Mistral raised €600M at a €5.8bn valuation from DST Global and General Catalyst despite a 50% contraction in active European VCs.
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
-- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
+- `INS-260405-9C70` Bootstrapping and VC-backing are different contracts with different incentives — the right one depends on what the founder actually wants to build and own.
 - `INS-260321-E8CB` One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
+- `INS-260403-7068` a16z Speedrun's real offering is structured access to media operators, brand experts, and live demo rehearsals with buyers—not the $1M check.
+- `INS-260403-C5BD` AI automation compresses startup scaling timelines so dramatically that traditional VC growth benchmarks and pricing heuristics no longer predict winner outcomes.
+- `INS-260403-8EE8` AI startups captured 64% of U.S. deal value in H1 while traditional VC funds struggle to close, creating a two-tier market.
+- `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
+- `INS-260405-B738` DCF ignores the strategic flexibility and explosive optionality that defines startup value, making it the wrong tool for early-stage companies.
+- `INS-260404-B0BF` European startups are increasingly choosing venture debt over equity even as high interest rates persist, with lending nearing record highs.
+- `INS-260404-5E22` Family offices offer faster, more flexible early-stage capital than traditional VC firms.
+- `INS-260405-F01C` After the weakest fundraising year since 2017, Q1 2026 became the biggest fundraising quarter since the 2021 peak—a full reversal in one quarter.
+- `INS-260403-6B29` Thoma Bravo's $34.4B fundraise signals institutional capital concentrating in proven B2B/SaaS models.
+- `INS-260405-B126` General Catalyst and a16z alone captured 44% of all US VC fundraising in 2024, indicating a winner-take-most dynamic among funds.
+- `INS-260404-88F9` VCs struggle to raise while simultaneously planning to deploy more capital, creating structural tension.
+- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
-- `INS-260328-7CA9` Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
 - `INS-260320-F751` Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
+- `INS-260405-F20D` Founder compensation should be benchmarked against funding stage and market norms, not minimized to signal commitment.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
-- `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260328-7CA9` Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
+- `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
+- `INS-260404-3B83` Mamdani's NYC mayoral win used social-media-first grassroots fundraising to defeat opponents backed by 26 billionaires spending $22M+.
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260327-4B5A` Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
-- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
+- `INS-260403-7318` Startups with 18+ months of runway are 3x more likely to secure follow-on funding because runway signals discipline and reduces investor risk perception.
+- `INS-260404-6243` 38 new unicorns in 2024 show a more selective but still active late-stage venture market.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260405-5BD3` After seeing hundreds of pitches, investors' first filter is memory — a single sticky phrase ('the X of Y') determines whether you clear that bar.
+- `INS-260405-6387` The deck opens the door; the meeting closes it—optimize for curiosity, not completeness.
+- `INS-260403-0D41` VCs view claims of having no competition as evidence of poor market research rather than unique positioning.
+- `INS-260403-A3B2` Accelerator equity demands above 10% are a red flag indicating the program extracts more value than it creates.
+- `INS-260403-5896` Judge accelerators by their alumni outcomes, not their marketing or brand name.
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
+- `INS-260403-05B8` The winning pitch in VC 3.0 isn't that you use AI — it's that your product fundamentally could not exist without it.
+- `INS-260405-1BFA` Skip the TAM slide — show investors you understand the idea maze instead.
 - `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
+- `INS-260403-5CD7` ARR lacks a standardized definition, enabling companies to inflate their north-star metric by including non-recurring items or using favorable calculation methods.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
+- `INS-260403-05F2` Preparing 2-3 smart questions about the VC's involvement style and portfolio support is the easiest way to differentiate yourself from other founders.
+- `INS-260403-3F2C` Cuban argues raising money is an obligation, not an achievement — owning more of your company is the only path to outsized wealth.
+- `INS-260402-2300` Start thinking about fundraising 12 months before you need it, maintain 8+ months runway when beginning outreach, and consider bridge rounds if runway is short.
+- `INS-260404-F22C` Biotech and health tech VC funds are raising at dramatically larger scales than software-focused peers.
+- `INS-260403-6ACB` Bottom-up market sizing using specific customer counts and realistic pricing builds far more investor credibility than vague top-down industry size claims.
+- `INS-260403-44E9` Build revenue projections from funnel conversion rates upward rather than starting from a target number and working backward.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
+- `INS-260404-40F2` The best seed decks (Intercom 8 slides, Tinder 10, Airbnb 12) succeed by hammering one insight rather than covering everything.
 - `INS-260405-092A` Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
+- `INS-260402-3D34` Excessive early dilution locks in low valuations that create down-round dynamics or insufficient upside for later-stage investors.
+- `INS-260403-B6AB` Legal and structural hygiene issues kill more post-term-sheet deals than business fundamentals.
+- `INS-260403-2724` Multiple new funding mechanisms have shifted early-stage capital from network-gated to traction-gated.
+- `INS-260403-3C53` Investors are prioritizing capital discipline, clean unit economics, and 18-24 month runway plans over pure growth metrics when evaluating startups in tariff-uncertain markets.
+- `INS-260404-F970` Capital gravitates toward the biggest, most painful problems—founders who articulate problem severity clearly will raise more effectively.
+- `INS-260404-ECDF` Capital is commoditized; what differentiates top accelerators is unfair access to customers, talent, investors, and high-caliber peer founders.
+- `INS-260403-E930` Investors value cohort retention tables above topline metrics because they prove revenue durability rather than just acquisition velocity.
 - `INS-260402-E522` The only real leverage in fundraising is genuinely not needing the deal, which requires the kind of determination that can't be faked.
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260330-6900` Tell investors you're too busy building to meet for 2-3 weeks, then schedule all meetings in one concentrated week to create competition and signal confidence.
 - `INS-260403-AC74` Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - `INS-260322-8F80` Flying to a city and stacking every investor and customer meeting into 2-3 days creates a forcing function where FOMO compounds — meetings multiply, terms improve, and nobody wants to miss the deal.
+- `INS-260403-9F2A` Comparable-based valuations break down for differentiated growth-stage companies entering serious investor diligence.
 - `INS-260403-696C` Falling startup costs make large VC checks unnecessary, eroding the traditional fund model.
 - `INS-260403-9D89` Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies.
 - `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
+- `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
+- `INS-260404-EFA0` 80% of startups in a curated fundraising list are pre-seed or seed, with only 13% at Series A/B.
 - `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260405-12E6` Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.
+- `INS-260405-3E4E` A cybersecurity company led by former Microsoft executives went from zero to $100M ARR in nine months, backed by Index and Sequoia — a pace achievable only when founder credibility and sector tailwinds align.
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.
+- `INS-260403-4D4D` First VC calls screen for clarity, conviction, and chemistry rather than polished pitches or comprehensive business plans.
+- `INS-260403-C349` Synthesia rejected $3B acquisition offers from Adobe and Meta, then raised $180M independently after enduring 100 rejections.
+- `INS-260405-863C` Founder ownership compounds downward with each funding round — modeling this early prevents exit-day surprises.
 - `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260403-1287` Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
 - `INS-260403-20A7` The single heuristic for predicting fundraising evolution is to ask what founders dislike and expect it to disappear.
+- `INS-260403-6FB9` In competitive rounds, founders choose investors—not the reverse—making investor self-marketing the critical skill.
+- `INS-260403-5953` A simple verification checklist — Crunchbase history, WHOIS lookup, reference calls with portfolio founders — blocks most fundraising fraud.
+- `INS-260402-994D` Stopping investor updates during difficult periods feels protective but is perceived as betrayal by people who trusted you with their savings.
+- `INS-260405-3238` Define your funding amount, security type, and valuation floor before any investor conversation begins.
+- `INS-260403-5F15` Smart founders should demand measurable performance data from VCs rather than accepting vague value-add promises.
 - `INS-260330-CBF3` Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
+- `INS-260403-7C02` Running investor return math before setting valuation prevents overpricing that triggers painful down rounds later.
+- `INS-260403-53C0` Thinking like an investor before diligence begins compresses fundraising timelines.
+- `INS-260403-03CC` Showing investors exactly why your ask works mathematically — not hoping they 'get it' — builds credibility and strengthens your negotiating position.
+- `INS-260403-B02A` Structure pitch decks around two slides: risks retired since last round, and risks this capital will retire next.
+- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
+- `INS-260403-82B5` A $100M fund needs companies that can return 5-10x their check to matter, which mathematically eliminates certain exit paths and founder types.
+- `INS-260405-75E6` A $800M fund claiming to do seed is almost always lying — their economics require them to write checks that are too large for early-stage.
+- `INS-260405-C1DF` A VC who loves your company but raised their fund 4+ years ago almost certainly cannot invest.
+- `INS-260405-BDA0` The 2012 Seedpocalypse became a Series A crunch, then hit Series B two years after that — excess at one stage always creates shortage at the next.
 - `INS-260328-3F19` A funding announcement is not like a stock price going up -- it's an announcement of an illiquid bet that probably won't pay off, down to seed rounds with very low expected success rates.
+- `INS-260403-087E` Travis ran four parallel investor rooms for a week, aggregated bids like an IPO book, and built a pitch so precise that junior team members could close $250M checks independently.
 - `INS-260402-EA72` Fundraising typically consumes months of a startup's most critical early period, and investors don't recognize the damage their indecision causes.
 - `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
+- `INS-260402-3F8D` Effective fundraising sequences information release to build trust incrementally rather than sharing everything upfront.
 - `INS-260403-ABBB` Fundraising damages startups primarily by becoming the top idea in the founder's mind, starving product work of background processing cycles.
 - `INS-260403-0551` No matter how strong your growth, never treat fundraising as guaranteed — always have a written plan B specifying exactly what you'll cut and when you'll switch.
+- `INS-260404-5D6E` The largest venture rounds are concentrating in AI infrastructure and biotech, signaling investor preference for capital-intensive defensible businesses.
+- `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
+- `INS-260404-6D4D` Only 30% of 61 curated fundraising startups were US-based, with Spain, UK, and rest-of-world comprising the majority.
+- `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
+- `INS-260403-570D` VCs model durability not just growth, and high churn turns a growth engine narrative into a leaky bucket story.
+- `INS-260403-B374` A high valuation forces founders to hit unrealistic targets and removes the ability to call a strong outcome a win.
 - `INS-260402-9288` Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
 - `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
 - `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
+- `INS-260403-822B` Unicorn-creating pitch decks used simple, instantly understandable stories rather than polished design.
 - `INS-260405-8BEA` Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
+- `INS-260403-1984` Without dashboards or user charts, VCs evaluating stealth deals look for team track record, hard-to-copy technical edges, and reputation signals from the founder's network.
+- `INS-260403-DE9B` Smart founders treat big rounds like internal tranches, only releasing capital after hitting retention, revenue, or usage targets.
 - `INS-260330-376E` Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
 - `INS-260402-421B` Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
 - `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
+- `INS-260403-EDEF` Great startups get rejected constantly due to fund timing, thesis misalignment, or internal partner dynamics—not startup quality.
 - `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
+- `INS-260403-EB0F` Investors want to see how roles map to runway with taxes, benefits, and timing modeled — saying 'we're hiring 10 engineers' without that detail signals lack of financial control.
+- `INS-260403-7FF8` Investors reward founders who can articulate the mechanical relationship between their inputs and projected MRR over those who simply show large numbers.
 - `INS-260405-180B` A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
+- `INS-260405-67F2` Two-minute investor attention means pitch decks must satisfy a checklist, not tell a novel story.
+- `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
+- `INS-260405-C5F9` Investors fund logic they can follow, not visions they must believe on faith.
+- `INS-260403-7045` Tech startups like Hinge Health and Chime are going public at valuations well below their last private rounds, establishing down-rounds as the new normal.
+- `INS-260405-C764` IPO preparation is a company-building process spanning years, not a six-month transaction sprint.
 - `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
+- `INS-260403-D5EF` The universal rule: real investors invest in you, never the other way around.
 - `INS-260330-975D` Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
+- `INS-260403-21DB` VCs expect LTV to be at least 3x CAC — below 1:1 signals pricing or retention needs immediate work.
+- `INS-260403-E2DE` VCs disproportionately fund startups in large markets because only massive TAMs can deliver the 10x+ returns their fund model requires.
+- `INS-260404-F54F` U.S. median round sizes grew in H1 2024, suggesting capital is concentrating into fewer but larger deals.
+- `INS-260402-FC79` Ten friends each writing small checks under slightly different terms creates a cap table nightmare that VCs will either demand you fix or walk away from entirely.
+- `INS-260404-57B8` Consistent internal KPI tracking doubles as investor reporting, eliminating last-minute fundraise prep scrambles.
+- `INS-260403-6EBD` Mezzanine deal terms interact in non-obvious ways that only reveal their true cost over the life of the instrument.
 - `INS-260403-78B7` Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
+- `INS-260403-4E51` Showing CLTV/CAC ratio improvement over time is a stronger fundraising signal than a single favorable snapshot.
 - `INS-260405-44F5` Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.
 - `INS-260403-8448` Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
+- `INS-260403-E2A7` Too much funding lets founders mistake capital for validation, scaling a hypothesis before it's proven.
 - `INS-260403-5B89` Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
+- `INS-260404-9905` Founders with oversubscribed rounds allocate to investors based on non-capital value like distribution, expertise, or network — not check size.
+- `INS-260403-9F64` In fundraising, perceived competence routinely outranks actual performance because investors pattern-match on visible signals.
 - `INS-260403-77B4` PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
+- `INS-260404-63D5` The most effective AI-assisted pitch decks come from treating the tool as a story-building partner rather than a template filler.
+- `INS-260404-FD79` Nailing five structural elements in a pitch deck matters more than polished content or design.
+- `INS-260405-1EFD` The pitch deck as a static document is being superseded by a four-stage cycle that takes investors on a narrative journey.
+- `INS-260403-76F5` After VC silence, wait 3-4 weeks then send concise milestone updates rather than chasing — this keeps the door open while signaling confidence.
+- `INS-260403-B2ED` Systematic year-round LP relationship maintenance compresses fundraise timelines from months to days.
+- `INS-260403-10C8` Mira Murati's $12B valuation with no product shows that frontier AI fundraising now prices team credibility over product-market fit.
+- `INS-260403-7B41` Without hard metrics, founders must package qualitative indicators — waitlists, engagement data, customer feedback — as credible evidence of future traction.
+- `INS-260405-2A34` Filtering for fund size and vintage before outreach converts fundraising from a numbers game into a precision exercise.
+- `INS-260403-AB7D` Convertible notes' apparent simplicity masks predatory terms like ultra-low valuation caps and forced liquidity triggers that can devastate founder equity.
+- `INS-260403-83E0` Investors now treat pricing model design as a front-page due diligence item that signals founder sophistication about AI unit economics.
+- `INS-260403-62DB` Replace anecdotal customer quotes with quantified patterns like '8/10 customers mention X' — and use verbatim quotes only as emotional reinforcement, not proof.
 - `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260322-0C91` Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
+- `INS-260405-36E6` Raising exactly one round gives founders external capital to de-risk early stages while avoiding the compounding dilution and return-driven pressure of traditional multi-round VC paths.
 - `INS-260322-A31D` Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
+- `INS-260403-227D` High valuations lock founders into growth curves they can't sustain — the wrong kind of success that looks good on headlines but stalls company-building.
 - `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
+- `INS-260403-EA31` VCs now track developer engagement, product virality, and real-time usage data alongside or instead of traditional credentials.
 - `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
+- `INS-260403-A486` Track Risk Burn Efficiency by measuring how much validated learning each dollar of spend produces, not just how long runway lasts.
+- `INS-260404-9696` Sufficient runway isn't about comfort — it's about ensuring you spend crises building rather than fundraising.
+- `INS-260405-FFCE` Discussing SAFE deals in terms of ownership percentage rather than valuation cap creates clearer alignment and fewer surprises at conversion.
+- `INS-260405-D2E2` SAFEs let early founders avoid a premature valuation negotiation and delay dilution questions until the business has more proof.
+- `INS-260402-9055` SAFEs and convertible notes are securities instruments that legally require accredited investors, making them dangerous defaults for friends-and-family rounds.
+- `INS-260403-A057` SAFEs and convertible notes dominate rounds up to $4-5M as founders prioritize closing speed, but AI legal review tools may shift this equilibrium.
+- `INS-260405-D4FA` Carta's 2025 data shows SAFEs dominating early-stage capital as founders and investors both prefer deferred pricing in an uncertain market.
 - `INS-260403-1034` Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
+- `INS-260403-6177` Seed strapping combines early capital with revenue-driven growth to preserve ownership while avoiding the fundraising treadmill.
 - `INS-260328-D26B` The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
+- `INS-260405-3098` Series B pitches succeed by proving unit economics are scalable, not just by showing growth.
 - `INS-260405-C22F` Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
+- `INS-260403-888C` Asking VCs substantive evaluative questions—especially requesting introductions to portfolio founders—signals confidence and transforms the dynamic from pitch to partnership discussion.
+- `INS-260404-D8D8` Sector-specialist VCs win deals by offering founders industry access and expertise that generalist capital cannot match.
 - `INS-260328-0C4C` Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
 - `INS-260330-C8E1` Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
+- `INS-260405-278F` The widespread belief that early-stage VCs don't care about financials is wrong — they use them to probe founder thinking on unit economics and capital deployment.
+- `INS-260405-9492` Overlapping valuation bands across seed, Series A, and Series B mean stage labels no longer reliably communicate company maturity or risk profile.
+- `INS-260404-E9F2` Optimizing your startup's invest-ability profile before pitching reduces fundraising time to under 2.5 months by eliminating objections upfront.
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
+- `INS-260404-569C` Without public traction metrics or media validation, stealth fundraising shifts the evaluation entirely to founder credibility and trusted referral networks.
 - `INS-260330-A38C` Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
+- `INS-260402-A3DB` Coordinate first meetings within a 2-3 week window and manage all funds on parallel timelines to create a competitive market for your equity.
+- `INS-260403-793D` Emphasize different strengths of your startup depending on what each specific VC firm cares about, without changing the core narrative.
 - `INS-260403-BAD7` Give up n% only if the deal makes your (100-n)% worth more than 100% was before.
 - `INS-260403-A57D` Expecting to raise more money makes startups slack on profitability, which makes raising money harder.
+- `INS-260405-D20A` Investors must feel the problem, not just understand it, for the problem slide to do its job.
+- `INS-260402-A22C` After a VC partner buys in, shift from pitching mode to collaborative mode — help them tailor the pitch for their partnership meeting.
+- `INS-260403-EEE6` VCs work backward from target exits and desired returns, so founders should focus on making the exit case credible.
 - `INS-260403-07C6` Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
+- `INS-260403-9067` VCs evaluate not just your traction numbers but how you talk about them—one strong KPI clearly explained beats a messy list of vanity metrics.
 - `INS-260330-97F6` In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
+- `INS-260403-0E87` When VCs probe fragile parts of your business, responding with honest acknowledgment and a clear mitigation plan builds trust faster than defensive spinning.
+- `INS-260404-E4C9` Fundraising performed better when treated as a repeatable system with standardized templates, CRMs, and investor databases.
+- `INS-260403-0CBA` Combine 2-3 valuation methods to present a defensible range rather than a single number.
+- `INS-260403-D4BC` Startup culture's emphasis on speed and trust creates exploitable attack surfaces for fundraising fraud.
 - `INS-260330-08FA` The strongest fundraising position is not needing the money — reach ramen profitability before raising.
+- `INS-260403-5151` SAFEs and convertible notes create stealth dilution that founders consistently underestimate until conversion forces a reckoning.
 - `INS-260330-9B90` Uncle-and-neighbor investors who put in $5-10K each cause the most downstream problems because they eventually want their money back for personal needs.
 - `INS-260330-478B` Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
+- `INS-260405-5B4D` Investors asking 'what will you do with the money?' are really asking whether you understand your own business's leverage points.
 - `INS-260405-9E25` Investors' deepest fear is that you built something nobody wants — specific user stories and proxies for existing demand directly counter that fear.
 - `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
 - `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
 - `INS-260405-F9EC` Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
+- `INS-260403-EFAC` Demonstrating pain-product fit to investors yields dramatically higher close rates and better terms.
+- `INS-260405-F531` Simply asking 'what would a bootstrapped company do?' cuts through VC-funded bloat and restores prioritization clarity.
+- `INS-260403-CF92` VCs optimize for low-friction decision-making when triaging meeting requests, rewarding founders who package themselves for fast yes/no evaluation.
+- `INS-260404-943E` Six structural factors — low scalability, small market, wrong legal structure, broken cap table, no traction, and risk aversion — disqualify startups from VC regardless of pitch quality.
+- `INS-260405-7CF9` Pitch only after confirming scalability, large market, and real customer signals — pitching before this burns credibility.
+- `INS-260405-5D19` Behind every pitch decision is a messy mix of conviction, timing, and 'who else is in?' social proof — which founders can engineer.
+- `INS-260403-3BBB` Carta data shows longer gaps between rounds, record seed valuations, and smaller teams — investors are permanently rewarding efficiency over burn.
+- `INS-260403-6DED` Different fundraising stages require founders to optimize entirely different metric sets.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
-- `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
+- `INS-260403-25F9` Investors form their core impression in the first five minutes, so your founder story and problem framing must be rehearsed to near-perfection.
+- `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
+- `INS-260403-2936` Strong teams with clear pitches can raise from anywhere because VCs now allocate by sector and quality, not geography.
+- `INS-260405-7E50` Narrative structure should be locked before any design work begins on a pitch deck.
+- `INS-260404-2A95` YC's SAFE contains provisions that many founders don't fully understand, creating hidden advantages for investors.
+- `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260404-D60F` Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.
+- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
+- `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
+- `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
+- `INS-260405-CB93` A good pitch deck should simultaneously repel misfit investors and excite the right ones.
+- `INS-260405-C819` 17-22 slides, one point each—the format that fits how investors actually process information today.
+- `INS-260405-ECCD` Investors must feel the problem before they can value the solution.
+- `INS-260405-CC3F` Headers that assert facts do the selling when you're not in the room.
+- `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
+- `INS-260403-6CB4` Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
+- `INS-260405-6D3A` Quirky raised $185M and went bankrupt because capital scaled an unvalidated assumption, not a proven market.
+- `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
+- `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
+- `INS-260405-F2C7` Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.

@@ -55,11 +55,11 @@ stance: >-
   challenges.
 related:
   - INS-260327-8FD4
+  - INS-260403-05B8
   - INS-260322-A892
   - INS-260403-EEDB
   - INS-260403-407A
   - INS-260327-42F0
-  - INS-260403-C5D8
 evidence:
   - id: INS-260323-3D7D
     type: TRANSFERS_TO

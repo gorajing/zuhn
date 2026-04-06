@@ -38,38 +38,37 @@ resolutions:
     processing will see enormous activity.
 related:
   - INS-260321-4B99
-  - PRI-260403-C337
-  - INS-260404-57E3
   - INS-260324-FF33
+  - INS-260330-D583
+  - PRI-260403-C337
+  - INS-260402-C98A
   - INS-260330-7D6D
-  - INS-260330-744E
-  - INS-260330-D071
-  - INS-260403-B6A0
+  - INS-260403-D00D
 stance: >-
   Software was scarce and expensive — AI making it cheaper unlocks massive
   latent demand (Jevons paradox)
 evidence:
   - id: INS-260321-4B99
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260324-FF33
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-7D6D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260324-D90C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D071
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260324-B0D3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-744E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D583
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B6A0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-5D89
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-4871
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Karpathy argues cautiously optimistic about software engineering jobs. The classical example: ATMs were expected to replace bank tellers, but they made branch operations so much cheaper that more branches opened, creating more teller jobs. Similarly, AI making software development 10x cheaper unlocks enormous latent demand — code becomes ephemeral, customizable, and available for problems that were never economical to solve before. Digital information processing will see enormous activity.

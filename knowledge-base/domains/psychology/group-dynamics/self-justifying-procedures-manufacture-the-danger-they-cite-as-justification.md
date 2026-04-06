@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Why are federal agents gunning down Americans in the streets?
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/why-are-federal-agents-gunning-down'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Institutional procedures that create the threat they respond to form closed
@@ -61,6 +49,12 @@ stance: >-
   When institutional procedures create the very threat conditions they are
   designed to respond to, the organization develops a closed loop where
   escalation always appears justified from the inside.
+related:
+  - INS-260330-5A0B
+  - INS-260404-F5C3
+  - PRI-260324-8EE6
+  - INS-260330-F488
+  - PRI-260323-9928
 ---
 The Wall Street Journal identified a systematic pattern across 13 ICE vehicle shootings: agents box in a vehicle, try to extract an individual, block attempts to flee, then fire when the trapped person tries to escape. The procedure itself creates the 'threatening vehicle movement' that agents then cite as justification for lethal force. From inside the system, each shooting looks justified — the car moved toward an agent. From outside, the pattern reveals that the procedure manufactures the danger.
 

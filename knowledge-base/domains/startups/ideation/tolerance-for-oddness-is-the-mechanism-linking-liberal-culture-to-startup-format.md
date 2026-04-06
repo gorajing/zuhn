@@ -51,12 +51,13 @@ stance: >-
   only oddness-tolerant environments let them survive.
 related:
   - INS-260323-6BF4
-  - INS-260321-1A84
   - INS-260402-7C15
+  - INS-260405-4EAA
   - INS-260403-922C
+  - INS-260404-86DE
+  - INS-260405-F06C
   - INS-260403-39E9
   - INS-260403-8A29
-  - INS-260405-8732
 evidence:
   - id: INS-260402-7C15
     type: EXTENDS

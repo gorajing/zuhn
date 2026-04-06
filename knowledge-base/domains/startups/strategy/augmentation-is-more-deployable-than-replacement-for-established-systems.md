@@ -55,11 +55,11 @@ stance: >-
   replacing it) dramatically lowers the barrier to adoption and allows
   incremental validation in real-world conditions.
 related:
+  - INS-260403-9A0C
+  - INS-260403-9D90
+  - INS-260404-FAAC
   - INS-260330-318C
   - INS-260322-FCFC
-  - INS-260325-722C
-  - PRI-260405-CCCE
-  - INS-260403-B6A0
 evidence:
   - id: INS-260326-5E07
     type: SUPPORTS

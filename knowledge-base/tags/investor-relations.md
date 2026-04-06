@@ -4,10 +4,41 @@
 - `INS-260330-64E1` Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
+- `INS-260403-05F2` Preparing 2-3 smart questions about the VC's involvement style and portfolio support is the easiest way to differentiate yourself from other founders.
 - `INS-260405-371F` Experienced investors are better at detecting bullshit than early founders are at producing it — candid rawness beats practiced polish.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
+- `INS-260403-2B93` A clean LTV:CAC ratio unravels in investor meetings if the founder cannot explain what's in the numerator, timeframe, and channel breakdown.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
+- `INS-260403-F4E7` Ask founders directly whether they're building for a $100M acquisition or a $10B IPO before investing — mismatched expectations become unfixable under exit pressure.
+- `INS-260403-6FB9` In competitive rounds, founders choose investors—not the reverse—making investor self-marketing the critical skill.
+- `INS-260402-994D` Stopping investor updates during difficult periods feels protective but is perceived as betrayal by people who trusted you with their savings.
+- `INS-260402-3F8D` Effective fundraising sequences information release to build trust incrementally rather than sharing everything upfront.
+- `INS-260403-55E6` Fundraising success depends on pre-meeting preparation — investor mapping, warm intros, and narrative sharpening — not deck aesthetics.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
+- `INS-260403-8CDC` Build trust with the investor before pitching the product — business is a human connection first.
+- `INS-260403-7FF8` Investors reward founders who can articulate the mechanical relationship between their inputs and projected MRR over those who simply show large numbers.
 - `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
+- `INS-260404-047D` Halo's live demo was rated the highest session at a 100-founder retreat, with audience members visibly emotional — proving that experiential proof outperforms analytical proof for novel technology.
+- `INS-260402-FC79` Ten friends each writing small checks under slightly different terms creates a cap table nightmare that VCs will either demand you fix or walk away from entirely.
+- `INS-260405-1EFD` The pitch deck as a static document is being superseded by a four-stage cycle that takes investors on a narrative journey.
+- `INS-260405-AA2E` Lead with what the world looks like if you win, then work backwards to technology—investors fund directions, not features.
+- `INS-260403-76F5` After VC silence, wait 3-4 weeks then send concise milestone updates rather than chasing — this keeps the door open while signaling confidence.
+- `INS-260403-C1FB` Structured monthly updates with clear asks turn passive investors into active strategic assets for hiring, partnerships, and follow-on funding.
+- `INS-260403-83E0` Investors now treat pricing model design as a front-page due diligence item that signals founder sophistication about AI unit economics.
+- `INS-260403-62DB` Replace anecdotal customer quotes with quantified patterns like '8/10 customers mention X' — and use verbatim quotes only as emotional reinforcement, not proof.
+- `INS-260404-E9F2` Optimizing your startup's invest-ability profile before pitching reduces fundraising time to under 2.5 months by eliminating objections upfront.
+- `INS-260404-569C` Without public traction metrics or media validation, stealth fundraising shifts the evaluation entirely to founder credibility and trusted referral networks.
+- `INS-260403-793D` Emphasize different strengths of your startup depending on what each specific VC firm cares about, without changing the core narrative.
+- `INS-260402-A22C` After a VC partner buys in, shift from pitching mode to collaborative mode — help them tailor the pitch for their partnership meeting.
+- `INS-260403-0E87` When VCs probe fragile parts of your business, responding with honest acknowledgment and a clear mitigation plan builds trust faster than defensive spinning.
+- `INS-260404-E4C9` Fundraising performed better when treated as a repeatable system with standardized templates, CRMs, and investor databases.
+- `INS-260403-0CBA` Combine 2-3 valuation methods to present a defensible range rather than a single number.
+- `INS-260405-5B4D` Investors asking 'what will you do with the money?' are really asking whether you understand your own business's leverage points.
+- `INS-260403-CF92` VCs optimize for low-friction decision-making when triaging meeting requests, rewarding founders who package themselves for fast yes/no evaluation.
+- `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
+- `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
 - `INS-260403-D36D` Whoever holds organizational power imposes their schedule type on everyone else, usually at makers' expense.
+- `INS-260405-CB93` A good pitch deck should simultaneously repel misfit investors and excite the right ones.
+- `INS-260403-6CB4` Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
 - `INS-260403-7E27` Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
+- `INS-260403-F6EC` Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.

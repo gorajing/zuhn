@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: '$1.5T Bet On America, Google''s AI Biology Breakthrough, And More.'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-157'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The Netherlands seized Chinese-owned chipmaker Nexperia using a 1952 Cold
@@ -62,6 +52,12 @@ stance: >-
   Western governments will increasingly use dormant national security statutes
   to seize or neutralize foreign-owned technology companies, creating a new
   class of sovereign risk for cross-border tech acquisitions.
+related:
+  - PRI-260328-37D8
+  - INS-260403-8C92
+  - PRI-260323-7805
+  - INS-260404-2AD7
+  - INS-260404-5CFB
 ---
 The Dutch government invoked the Goods Availability Act — legislation from 1952 originally designed for Cold War resource management — to seize control of Nexperia from its Chinese parent company Wingtech. The government suspended Chinese leadership, placed shares under custodial management, and gave the Minister veto power over any company decision deemed harmful to European supply chains.
 

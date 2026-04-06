@@ -53,10 +53,11 @@ related:
   - PRI-260323-D475
   - INS-260330-3C2F
   - PRI-260324-1134
-  - INS-260405-B8BE
+  - PRI-260405-9A14
   - INS-260330-AEE3
   - INS-260330-206B
   - INS-260405-8412
+  - INS-260405-B8BE
 stance: 'In transcendental consciousness, thinking dissolves but ''I am'' remains'
 evidence:
   - id: INS-260323-0961

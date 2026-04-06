@@ -52,12 +52,11 @@ stance: >-
   support, shared problem-solving, and inter-batch commerce — that serial
   one-at-a-time investments cannot replicate.
 related:
+  - INS-260403-7037
+  - INS-260403-3852
   - INS-260403-2759
-  - INS-260403-ABBB
-  - INS-260330-3E6B
-  - INS-260403-5B46
-  - INS-260327-EAB0
-  - INS-260403-DD41
+  - INS-260404-63F0
+  - INS-260404-688B
   - INS-260403-FED1
 evidence:
   - id: INS-260327-EA4E

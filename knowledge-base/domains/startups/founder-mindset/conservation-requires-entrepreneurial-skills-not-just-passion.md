@@ -50,9 +50,10 @@ stance: >-
 related:
   - INS-260322-F868
   - INS-260403-87CF
+  - INS-260404-3687
+  - INS-260403-2318
   - INS-260403-1287
-  - INS-260327-1393
-  - PRI-260403-26B9
+  - INS-260404-6D4D
   - INS-260330-8998
 ---
 Protecting 50,000+ acres of threatened Amazon habitat required Rosolie to develop skills far beyond fieldwork: building an organization, managing donors, creating media content, navigating international politics, and competing for funding against better-resourced organizations.

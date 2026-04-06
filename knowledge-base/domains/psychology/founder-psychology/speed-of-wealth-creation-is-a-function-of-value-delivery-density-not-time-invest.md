@@ -51,11 +51,11 @@ stance: >-
   between value delivered and price charged, not that something is wrong
 related:
   - INS-260321-4280
+  - INS-260405-7838
   - INS-260403-EA2D
+  - INS-260403-D880
   - INS-260328-D1B2
-  - INS-260402-426C
-  - INS-260321-C4CD
-  - INS-260327-6E93
+  - INS-260405-EB05
 evidence:
   - id: INS-260328-D1B2
     type: TRANSFERS_TO

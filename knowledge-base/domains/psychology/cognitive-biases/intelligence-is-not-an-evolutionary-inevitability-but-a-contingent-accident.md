@@ -53,15 +53,16 @@ stance: >-
   than an inevitable outcome of evolution — challenging assumptions about AI
   convergence and technological determinism.
 related:
-  - INS-260325-4E20
   - INS-260323-7D90
   - INS-260325-CB41
   - INS-260325-DFA5
   - INS-260330-DC5E
+  - INS-260325-E19E
   - INS-260323-0961
   - INS-260330-C418
   - INS-260330-A516
   - INS-260330-FEDD
+  - INS-260330-F056
 evidence:
   - id: INS-260323-7D90
     type: EXTENDS

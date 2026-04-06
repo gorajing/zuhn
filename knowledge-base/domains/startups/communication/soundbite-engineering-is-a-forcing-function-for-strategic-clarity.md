@@ -47,7 +47,6 @@ stance: >-
   your communication skills are weak.
 related:
   - INS-260327-8C1C
-  - INS-260327-1E44
   - INS-260403-EF30
   - INS-260403-3058
   - INS-260403-BFD1

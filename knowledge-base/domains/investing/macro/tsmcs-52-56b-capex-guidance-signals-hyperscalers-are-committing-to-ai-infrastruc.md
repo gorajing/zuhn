@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: TSMC Record Earnings and U.S. Expansion
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-169'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     TSMC's record $52-56B capex guidance reflects hyperscalers reserving
@@ -58,5 +48,11 @@ stance: >-
   historical norms — is evidence that hyperscaler demand commitments are
   long-dated and binding, not speculative, making semiconductor infrastructure a
   lower-risk capital allocation than it appears.
+related:
+  - PRI-260321-05B5
+  - PRI-260323-68F0
+  - INS-260321-CBD2
+  - INS-260405-7576
+  - PRI-260405-F20C
 ---
 TSMC historically calibrates capex tightly to confirmed demand — making its $52-56B 2026 capex guidance (combined with 30% revenue growth guidance) a strong signal that customer commitments from hyperscalers like Apple, Nvidia, and AMD are unusually firm and long-dated. High Performance Computing already represents 55% of net revenue, and North American customers account for 74% of total revenue. The implication is that the AI infrastructure buildout is not being driven by speculative capacity additions but by binding reservation agreements that make TSMC's demand visibility unusually high. For investors evaluating semiconductor exposure, this changes the risk profile: the primary risk is execution and geopolitics, not demand cyclicality.

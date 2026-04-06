@@ -51,22 +51,22 @@ stance: >-
   confusion precedes sudden comprehension and this pattern should be designed
   for rather than eliminated
 related:
-  - INS-260329-5F37
   - INS-260329-7EFD
   - INS-260329-B2F4
-  - INS-260329-1741
   - INS-260329-7BAF
   - INS-260326-7995
+  - PRI-260405-6A4E
+  - INS-260402-9676
 evidence:
   - id: INS-260326-7995
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7BAF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-B2F4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7EFD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FC75
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Severance explicitly describes his own learning trajectory: 'it went from me confused, confused, confused, confused, confused, holy mackerel, this is awesome.' He then tells students to expect this same pattern and asks them to 'suspend disbelief' for six or seven chapters. This maps to a well-documented phenomenon in skill acquisition — the plateau-breakthrough cycle — but Severance's contribution is making the pattern itself part of the curriculum. By naming the experience before students encounter it, he inoculates against premature quitting. This applies directly to any complex skill domain including startups: the period where nothing makes sense isn't a signal to pivot, it's often the compression phase before insight crystallizes. The pedagogical technique of pre-announcing the confusion curve is underused in founder education and AI tool onboarding.

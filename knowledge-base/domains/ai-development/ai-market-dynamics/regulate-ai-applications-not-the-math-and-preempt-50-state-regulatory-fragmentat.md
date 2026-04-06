@@ -53,7 +53,6 @@ related:
   - INS-260328-92BC
   - INS-260403-1F40
   - INS-260404-CC9A
-  - INS-260330-D74A
 stance: >-
   a16z's AI policy framework: don't regulate mathematical models themselves,
   regulate their applications

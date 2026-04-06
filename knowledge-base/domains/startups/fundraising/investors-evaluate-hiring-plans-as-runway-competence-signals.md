@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: Headcount Planning Template to Control Startup Burn
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/headcount-planning-module-excel-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Investors want to see how roles map to runway with taxes, benefits, and
@@ -57,6 +47,12 @@ resolutions:
 stance: >-
   VCs use the granularity of a founder's headcount model as a proxy for overall
   financial discipline and operational readiness
+related:
+  - INS-260403-1ECB
+  - INS-260403-BF1F
+  - INS-260403-8C2D
+  - INS-260405-FAE3
+  - INS-260405-68DC
 ---
 The article surfaces a non-obvious fundraising dynamic: VCs don't just evaluate whether you're hiring the right roles — they evaluate whether you understand the financial consequences of those hires. Saying 'we're hiring 10 engineers' without modeling how timing, taxes, benefits, and raises affect runway tells investors you're guessing, and 'VCs do not back guesses.'
 

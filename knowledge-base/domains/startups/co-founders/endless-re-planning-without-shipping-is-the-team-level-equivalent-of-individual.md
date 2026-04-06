@@ -45,10 +45,10 @@ resolutions:
     launched, the problem was never the plan.
 related:
   - INS-260329-6D8B
+  - INS-260403-55E6
   - INS-260322-AAEA
   - INS-260330-DC3B
   - PRI-260405-91AD
-  - PRI-260328-0AB1
 stance: >-
   Teams that default to 'more meetings and re-strategizing' instead of shipping
   are using planning as emotional avoidance of the market test they fear.

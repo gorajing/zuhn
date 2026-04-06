@@ -60,13 +60,12 @@ stance: >-
   has achieved frontier model engineering capability for the first time.
 related:
   - INS-260320-901C
-  - INS-260322-5790
   - INS-260327-40E3
   - PRI-260328-A82C
+  - PRI-260405-B144
+  - INS-260322-5790
   - INS-260405-82F3
   - INS-260403-5B46
-  - INS-260327-E1EB
-  - INS-260404-6B73
 evidence:
   - id: INS-260322-5790
     type: SUPPORTS

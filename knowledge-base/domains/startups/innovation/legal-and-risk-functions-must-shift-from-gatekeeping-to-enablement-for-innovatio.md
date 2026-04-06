@@ -54,7 +54,6 @@ related:
   - INS-260403-99D1
   - PRI-260403-7E5E
   - INS-260405-F9E4
-  - INS-260405-5617
 ---
 Legal and compliance functions are among the most potent antibodies against corporate innovation. The traditional risk officer says no to anything that could damage the brand or create liability, which effectively kills most meaningful experiments. Osterwalder's Chief Risk Officer inverts this: the CRO's job is to enable teams by helping them design experiments that test bold hypotheses without putting the company at material risk.
 

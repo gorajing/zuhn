@@ -17,25 +17,15 @@ tags:
 sources:
   - type: blog
     title: 80+ Non-Dilutive Funding Sources for Startups (2026 Database)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/non-dilutive-funding-sources-startups-database
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Government grants approve 15–20% of applicants and award $50K–$500K with no
@@ -61,6 +51,14 @@ stance: >-
   SBIR and similar government grant programs approve 15–20% of Phase I
   applicants, making them far more accessible than most founders believe, and
   the $50K–$500K awards require zero repayment and zero dilution.
+related:
+  - INS-260330-D74A
+  - INS-260403-EDEF
+  - INS-260328-372B
+  - INS-260328-D866
+  - PRI-260405-E256
+  - INS-260403-296C
+  - INS-260405-EAF3
 ---
 The perception that government grants are impractical for startups—too slow, too bureaucratic, near-zero odds—is largely wrong for Phase I programs. Approval rates in the 15–20% range are competitive but not prohibitive; by comparison, top-tier VC funds accept far less than 1% of companies they see. The difference is that founders don't apply to government grants because they don't perceive them as a real path.
 

@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: SEIU Delenda Est
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/seiu-delenda-est'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     SEIU built a repeatable playbook: propose destructive regulation, extract
@@ -57,6 +47,14 @@ stance: >-
   Interest groups can build sustainable revenue streams by systematically
   identifying industries vulnerable to popular-sounding but destructive
   regulation, then selling protection.
+related:
+  - INS-260330-4980
+  - INS-260403-D5DE
+  - INS-260403-5681
+  - PRI-260328-37D8
+  - PRI-260328-A1AA
+  - INS-260330-57BB
+  - INS-260403-5710
 ---
 SEIU's strategy follows a clear pattern: identify an industry (hospitals, then dialysis, then tech), propose legislation that sounds progressive but is designed to be ruinous, then either extract concessions for withdrawal or win the vote and capture the earmarked revenue. The union leader explicitly described this as a deliberate investment strategy with measurable ROI.
 

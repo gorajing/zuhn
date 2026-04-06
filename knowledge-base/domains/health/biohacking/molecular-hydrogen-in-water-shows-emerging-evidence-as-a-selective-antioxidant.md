@@ -48,14 +48,14 @@ stance: >-
 related:
   - INS-260330-B061
   - INS-260330-8BA6
-  - INS-260330-9231
   - INS-260330-713C
   - INS-260330-57E6
+  - INS-260330-3DC8
 evidence:
   - id: INS-260330-8BA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-D0A5
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Unlike broad-spectrum antioxidants (vitamin C, E) which can interfere with beneficial reactive oxygen species signaling, molecular hydrogen appears to selectively neutralize the most harmful radicals (hydroxyl radical) while leaving physiologically important ROS intact. This selectivity makes it potentially more therapeutic than conventional antioxidants.
 

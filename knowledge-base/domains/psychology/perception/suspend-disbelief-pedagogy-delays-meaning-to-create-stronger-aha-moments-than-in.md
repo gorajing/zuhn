@@ -50,11 +50,11 @@ stance: >-
   critical mass is reached produces deeper understanding than explaining utility
   at each step.
 related:
+  - INS-260329-153F
   - INS-260329-4DBC
-  - INS-260330-8304
-  - PRI-260405-71C5
-  - INS-260323-FEDF
-  - INS-260330-9DC9
+  - INS-260329-DACC
+  - INS-260329-70D5
+  - INS-260403-D51A
   - INS-260404-C8FA
 evidence:
   - id: INS-260329-F211

@@ -1,22 +1,32 @@
 # Tag: disruption
 
 - `INS-260321-807B` AI native marketing agencies go end-to-end with AI, bypassing tools like Adobe entirely, dramatically improving margins and delivering ads within days.
-- `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
+- `INS-260403-8874` AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
+- `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
+- `INS-260405-54B7` Tesla's January 2026 unsupervised robotaxi launch in Austin caused Uber and Lyft to fall 1-2% on the news, confirming that market participants now price AV as a live platform threat, not a future one.
+- `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
 - `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
 - `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
 - `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
+- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
+- `INS-260402-EC9F` Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260327-203C` China, the world's most advanced civilization for centuries, was humiliated by Western powers because it stopped innovating while Europe underwent the Industrial Revolution.
 - `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
-- `INS-260402-EC9F` Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260403-CA57` Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260405-1894` Invincible companies reinvent their business model categories, not just their execution.
 - `INS-260327-6976` Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
+- `INS-260405-FE5C` Print media lost classifieds first, then print advertising, then newsstand revenue — each loss made the next harder to absorb, until collapse arrived all at once.
+- `INS-260405-BAB0` The internet killed the solid middle-class journalist salary while top writers still earn premium rates, collapsing the ladder rather than flattening the field.
+- `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
+- `INS-260405-CF38` Netflix's streaming shift wasn't just about convenience—it structurally expanded the addressable market by removing physical distribution constraints.
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
+- `INS-260404-EF67` Big Tech's structural incentives and organizational design make it the wrong founder for many innovation categories.
+- `INS-260327-D570` The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
 - `INS-260324-9E37` Chuck-E-Cheese pivoted from pizza to arcade games in the 90s, nearly tripling margins because games are self-service with zero variable costs — then home consoles (PS2, Wii, DS) killed foot traffic anyway.
 - `INS-260404-2A8B` Companies from unrelated industries pose the greatest competitive threat because they compete with entirely different business model structures.
 - `INS-260322-9DDD` a16z's platform model worked because its founders had been VC customers (entrepreneurs), giving them a perspective that career VCs structurally couldn't have.
@@ -27,6 +37,7 @@
 - `INS-260403-C1F5` Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
 - `INS-260405-6524` Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
+- `INS-260405-63C8` BlackBerry's collapse was not a product failure — it was a perceptual failure about which game they were playing.
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
 - `INS-260403-1D43` Incumbent game studios will use AI to cut costs and add depth to existing formats, but category-defining breakthroughs require AI-native thinking from new entrants.
@@ -38,32 +49,39 @@
 - `INS-260405-D6E6` Sears, Toys-R-Us, and Payless didn't die because of Amazon — they died because they stopped adapting, and Amazon is a conveniently blameable scapegoat.
 - `INS-260403-3673` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect while Ross, Aldi, Dollar General, and Costco thrived in the same period — the common factor is adaptation, not channel.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
+- `INS-260405-246B` Startups win by targeting the moves that incumbents are organizationally or economically unable to make.
+- `INS-260403-2318` Large companies protect profitable lines, creating structural openings for startups with lower costs and fresh approaches.
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260405-7B7C` Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
-- `INS-260405-CF38` Netflix's streaming shift wasn't just about convenience—it structurally expanded the addressable market by removing physical distribution constraints.
+- `INS-260403-C0E6` Yahoo at $125B with 90% search market share was psychologically incapable of treating two Stanford PhD students as an existential threat.
 - `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
+- `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
+- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
+- `INS-260403-9B24` A 10x improvement target forces you to rethink the whole system, while 10% targets trap you in incremental tweaks.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
+- `INS-260405-AD58` Every agricultural revolution solved a constraint and created a dependency — today's precision ag wave will be no different.
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
 - `INS-260405-3066` Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
-- `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
-- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.
 - `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
-- `INS-260404-B1BC` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
+- `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260403-E556` Shifting from exploitation (efficiency gains) to exploration (transformative ideas) is the critical strategic rebalancing for sustained innovation.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260404-8CEE` Sears, Toys-R-Us, and RadioShack died from strategic failures, not from Amazon's existence — Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260330-8A28` The Chinese dynastic cycle — founding vigor, prosperity, corruption, collapse — is a recurring pattern in companies and industries.
+- `INS-260330-48F2` RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
+- `INS-260403-6CA8` Sears, Toys-R-Us, and RadioShack died not because of Amazon but because they failed to adapt, while Ross, Aldi, Dollar General, and Costco thrived in the same environment.
 - `INS-260403-B133` The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
 - `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
 - `INS-260403-FED6` The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260404-96E6` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
 - `INS-260404-AD52` Sears, Toys-R-Us, and J.C. Penney died not because of Amazon directly but because they shared Amazon's basic model while executing it worse.
+- `INS-260403-3DA1` Unglamorous industries like logistics and waste management are often ripe for disruption precisely because talented founders ignore them.

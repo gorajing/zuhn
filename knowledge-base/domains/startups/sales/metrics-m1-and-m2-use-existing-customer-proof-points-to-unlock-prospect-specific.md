@@ -58,13 +58,14 @@ stance: >-
   similar customers (M1) to build trust before uncovering deal-specific metrics
   (M2), rather than jumping straight to discovery.
 related:
-  - INS-260327-EBDF
   - INS-260327-D7AA
+  - INS-260402-1146
   - INS-260327-679A
+  - INS-260403-7B41
+  - INS-260404-124F
   - INS-260330-1A63
-  - INS-260403-AFCD
-  - INS-260327-0595
-  - INS-260327-7349
+  - INS-260403-087F
+  - INS-260403-4610
 ---
 The Sales Medic Group breaks MEDDIC metrics into two tiers: M1 (proof-point metrics from existing customers) and M2 (prospect-specific metrics uncovered through discovery). The critical insight is that M1 unlocks M2 — you cannot do effective discovery if the prospect doesn't trust you yet.
 

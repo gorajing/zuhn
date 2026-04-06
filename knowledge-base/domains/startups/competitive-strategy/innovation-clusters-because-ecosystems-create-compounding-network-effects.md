@@ -50,7 +50,6 @@ stance: >-
   talent base, AND early-adopter customers all in one place — creating a triple
   network effect that's nearly impossible to bootstrap from scratch.
 related:
-  - INS-260327-B302
   - INS-260328-6A18
   - INS-260330-DC14
   - INS-260403-D198
@@ -60,6 +59,7 @@ related:
   - INS-260404-E651
   - INS-260330-8FC5
   - INS-260403-20BF
+  - INS-260403-9DC6
 evidence:
   - id: INS-260330-8FC5
     type: SUPPORTS

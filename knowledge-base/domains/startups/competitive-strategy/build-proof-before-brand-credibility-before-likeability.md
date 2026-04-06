@@ -48,11 +48,11 @@ stance: >-
   uncopyable competitive advantages, while those who lead with brand-building
   create only copyable promises
 related:
+  - INS-260402-1146
   - INS-260327-D7AA
   - INS-260327-C083
   - INS-260323-D621
-  - INS-260405-6BC4
-  - INS-260330-90C3
+  - INS-260403-4610
 evidence:
   - id: INS-260330-90C3
     type: CHALLENGES

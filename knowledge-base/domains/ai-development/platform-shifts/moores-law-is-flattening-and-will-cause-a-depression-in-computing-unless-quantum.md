@@ -50,10 +50,10 @@ stance: >-
   where transistors are only 5 atoms wide and electrons tunnel through, causing
   short circuits that make further miniaturization impossible.
 related:
-  - INS-260325-3F9B
   - INS-260323-B3A3
   - INS-260325-3D31
   - PRI-260328-D2FB
+  - INS-260404-FC20
   - INS-260325-F21D
 ---
 Michio Kaku explains that Moore's Law — computer power doubling every 18 months — is approaching a hard physical wall. Current transistors can be as small as 20 atoms across. At 5 atoms, quantum tunneling causes electrons to hop across, creating short circuits. The exponential growth curve is already flattening as predicted by physicists decades ago.

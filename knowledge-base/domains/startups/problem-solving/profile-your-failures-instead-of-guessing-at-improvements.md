@@ -52,25 +52,24 @@ related:
   - INS-260320-DDFE
   - INS-260326-BF32
   - INS-260329-EA2B
-  - INS-260330-5A13
   - INS-260330-B4F1
   - INS-260330-ABB1
-  - INS-260330-201F
   - INS-260330-AB3E
-  - INS-260402-4F0E
+  - INS-260330-5A13
+  - INS-260329-64B8
 evidence:
   - id: INS-260321-D370
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-DDFE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-EA2B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260326-BF32
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-FFCB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B4F1
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Graham explicitly draws the analogy between code profiling and filter improvement: 'Don't try to guess where your code is slow, because you'll guess wrong. Look at where your code is slow, and fix that.' Applied to spam filtering, this meant ignoring theoretically interesting problems (like spammers misspelling words) in favor of examining the actual spams that got through.
 

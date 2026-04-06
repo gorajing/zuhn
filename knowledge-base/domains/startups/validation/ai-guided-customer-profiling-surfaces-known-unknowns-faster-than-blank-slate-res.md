@@ -1,5 +1,5 @@
 ---
-id: INS-260403-10D8
+id: INS-260403-3F12
 domain: startups
 topic: validation
 title: >-
@@ -22,7 +22,8 @@ date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI coaches that ask structured questions help teams articulate what they
@@ -46,12 +47,13 @@ stance: >-
   identifying gaps produces better customer profiles than starting from a blank
   page
 related:
-  - INS-260328-2854
-  - INS-260330-E77D
-  - INS-260330-E68E
-  - INS-260403-9A4C
-  - INS-260403-78B7
-  - INS-260328-57CF
+  - INS-260325-1345
+  - INS-260322-9172
+  - INS-260328-41C9
+  - INS-260330-C13A
+  - INS-260403-08E6
+  - INS-260330-568F
+  - INS-260404-DD95
 evidence:
   - id: INS-260330-E77D
     type: CONTRADICTS

@@ -49,11 +49,10 @@ stance: >-
   inconsistently practiced values actively damage organizational trust
 related:
   - INS-260329-9A5A
-  - INS-260330-067C
   - INS-260404-F834
+  - INS-260404-86DE
   - INS-260405-339F
   - PRI-260323-9D46
-  - INS-260404-CDF0
 ---
 Gary Ridge's formula makes a mathematical claim: consistency is a multiplier, not an additive factor. This means that even strong values paired with correct behavior produce near-zero cultural impact if practiced inconsistently. Worse, inconsistency actively corrodes trust because employees learn to discount stated values as performative.
 

@@ -43,7 +43,6 @@ resolutions:
     stretch experiences where you don't have a safety net — not plan B, but the
     confidence that you can figure it out.
 related:
-  - INS-260323-784B
   - INS-260323-DA91
   - INS-260325-13B9
   - INS-260325-EC93
@@ -52,7 +51,8 @@ related:
   - PRI-260403-88F5
   - INS-260323-28FB
   - INS-260323-4082
-  - INS-260327-3C96
+  - INS-260327-78DA
+  - INS-260328-70D3
 stance: >-
   Early hardship — while not required for success — instills an unshakeable
   belief that solutions exist and are within your control.

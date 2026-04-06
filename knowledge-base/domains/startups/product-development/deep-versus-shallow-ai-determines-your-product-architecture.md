@@ -47,11 +47,10 @@ stance: >-
   assisting each step), and this choice fundamentally determines product
   architecture, cost structure, and reliability.
 related:
-  - INS-260321-A56C
   - INS-260325-05EC
   - PRI-260321-AD44
-  - INS-260327-1563
   - INS-260329-FEBA
+  - INS-260321-A56C
   - INS-260321-7D7C
 evidence:
   - id: INS-260321-7D7C

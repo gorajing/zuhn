@@ -50,11 +50,11 @@ stance: >-
   redesign.
 related:
   - INS-260323-01F9
-  - INS-260325-8A61
   - INS-260322-37EE
   - PRI-260328-BEDD
   - INS-260321-2D72
-  - INS-260403-88AF
+  - INS-260403-FF45
+  - INS-260402-24B0
 evidence:
   - id: INS-260322-37EE
     type: EXTENDS

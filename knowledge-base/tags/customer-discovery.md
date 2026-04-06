@@ -7,19 +7,22 @@
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
 - `INS-260405-AC3E` The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
 - `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
-- `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260322-185B` You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
 - `INS-260327-2661` The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
 - `INS-260322-A9DE` Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
+- `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
 - `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
+- `INS-260403-21BD` Palantir builds what clients ought to want rather than what they explicitly ask for, accepting initial friction for long-term loyalty.
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260405-A2A2` Strategyzer's Value Proposition Canvas makes explicit what most product teams leave implicit: the specific pains a product relieves and gains it creates, mapped against real customer jobs.
 - `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
+- `INS-260403-902F` AI can mine forums, Reddit threads, and product reviews at scale to uncover unmet needs that manual research would miss.
 - `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260404-F8B7` When compliance prevents direct customer conversations, innovation teams collect lower-quality secondhand evidence that leads to worse strategic decisions.
+- `INS-260403-96D7` Most founder-customer conversations generate false positives because the questions are designed to confirm, not challenge, existing assumptions.
 - `INS-260403-08E6` Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - `INS-260403-C737` Always follow customer interviews with cheap experiments that observe actual behavior, because what people say and what they do diverge systematically.
 - `INS-260403-113D` Separate customer observation from solution design by temporarily forgetting what you offer.
@@ -28,10 +31,16 @@
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260403-6714` Asking 'why' repeatedly during interviews uncovers the real motivations behind customer behavior that surface answers conceal.
 - `INS-260403-E816` Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.
+- `INS-260403-5683` Needing to educate customers about a problem they don't feel is a reliable signal you're solving the wrong problem.
+- `INS-260403-CD74` Level 1 PMF requires finding just 3-5 customers with a problem worth solving, engaging deeply, delivering a solution, and validating it — not broad market traction.
 - `INS-260330-843E` Non-users reveal the barriers preventing market expansion — problems that existing user feedback will never surface.
 - `INS-260405-CA45` You cannot delegate the learning that comes from direct customer interaction — outsourcing validation transfers the insight to the vendor, not back to you.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
+- `INS-260403-C1C4` People reveal true pain in unfiltered forums but give polite, aspirational answers in surveys and interviews.
+- `INS-260403-D4F0` Verbal agreement from potential users is not evidence of demand; only observed behavior counts.
+- `INS-260403-42B8` Spend 80% of PMF effort on steps 1-6 (customer, job, problem, alternatives, flaws, consequences) before mentioning your product in steps 7-9.
 - `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
+- `INS-260405-C8B2` Urgency and full-price payment are the only PMF signals that actually predict survival.
 - `INS-260323-1B87` Most founders talk to 3-5 customers per week and think that's enough; Kim insists on 3-5 per day with 24-hour follow-up cycles during the PMF search phase.
 - `INS-260403-260B` Validate that the problem exists and matters before testing whether your solution addresses it.
 - `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.

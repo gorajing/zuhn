@@ -1,5 +1,6 @@
 # Tag: gene-therapy
 
+- `INS-260404-07C3` Google DeepMind's AlphaGenome can analyze up to 1 million DNA base pairs simultaneously, focusing on the regulatory regions that control gene expression.
 - `INS-260323-198E` Casgevy, the first FDA-approved CRISPR therapy, effectively cures sickle cell disease in a single treatment, but requires hospitalization and bone marrow transplant, making it expensive and inaccessible globally.
 - `INS-260325-9F5F` We know how to design genetic fixes for thousands of diseases, but natural AAV capsids deliver only 0.1% of payload to brain neurons and dump most into the liver — solving delivery is the real challenge.
 - `INS-260325-C394` Pulsed activation of four Yamanaka factors can reverse biological aging in mouse cells without destroying cell identity — a potential breakthrough that Altos Labs is pursuing with $3 billion.

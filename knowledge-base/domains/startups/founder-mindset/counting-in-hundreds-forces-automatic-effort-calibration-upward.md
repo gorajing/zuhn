@@ -55,25 +55,23 @@ stance: >-
 related:
   - INS-260323-7CA7
   - INS-260323-95BC
-  - INS-260323-E3FD
+  - INS-260330-ECA9
   - INS-260404-8A18
   - INS-260321-6437
   - INS-260403-A06E
-  - INS-260330-ECA9
-  - INS-260330-F31A
 evidence:
   - id: INS-260328-D1B2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-30AB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-ECA9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-7CA7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-6437
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-A06E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Hormozi describes his own evolution from thinking a day of work was impressive, to a week, to a month, to sustaining focus on a single project for years. His shorthand for this shift: start counting in hundreds. Hundreds of minutes, hundreds of hours, hundreds of days toward a specific goal. The mental frame of 'hundreds' automatically prevents premature satisfaction and forces a volume of effort that matches what ambitious outcomes actually require.
 

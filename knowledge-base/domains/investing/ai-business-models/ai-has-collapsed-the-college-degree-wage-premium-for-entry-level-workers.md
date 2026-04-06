@@ -44,11 +44,11 @@ stance: >-
   non-graduates, signaling that AI has eroded the credential premium that
   justified higher education investment.
 related:
-  - INS-260325-45BC
+  - INS-260403-3223
   - INS-260329-D8C7
   - PRI-260328-D68F
   - INS-260327-5297
-  - INS-260329-191D
+  - INS-260325-45BC
 evidence:
   - id: INS-260325-45BC
     type: EXTENDS

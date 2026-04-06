@@ -51,18 +51,18 @@ stance: >-
   advanced topics are more likely to reach advanced material than those
   following a multi-resource learning path
 related:
-  - INS-260329-26AC
-  - INS-260329-0068
-  - INS-260329-5AC5
-  - INS-260330-0102
   - INS-260329-90C3
+  - INS-260329-26AC
+  - PRI-260405-71C5
+  - INS-260330-0102
+  - INS-260329-32DB
 evidence:
   - id: INS-260329-26AC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0102
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial spans from 'installing a compiler' to 'pointers and file I/O' in one continuous session. This design exploits completion bias — once learners have invested time in a resource, sunk-cost psychology and progress-bar motivation push them to finish. A learner who completes the first hour of a 3.75-hour tutorial is psychologically primed to continue, whereas the same learner facing 'Part 1 of 10' in a playlist might stop after part 3.
 

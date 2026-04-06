@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260325-EBC3
   - INS-260402-A999
+  - INS-260403-FAA2
   - INS-260402-CF0A
   - INS-260403-420A
-  - PRI-260328-26AA
 evidence:
   - id: INS-260325-EBC3
     type: SUPPORTS

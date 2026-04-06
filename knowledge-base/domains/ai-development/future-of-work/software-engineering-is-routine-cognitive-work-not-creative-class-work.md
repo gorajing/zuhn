@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: The Fall of the Nerds
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/the-fall-of-the-nerds'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Software engineering's vulnerability to AI reveals it was always more
@@ -58,6 +46,17 @@ stance: >-
   Software engineering was always more routine cognitive labor than creative
   work, making it especially vulnerable to AI automation despite its high-status
   cultural positioning.
+related:
+  - INS-260327-7157
+  - INS-260330-523E
+  - INS-260330-A1D2
+  - INS-260330-43F7
+  - INS-260330-5DA6
+  - INS-260330-CA43
+  - INS-260402-086D
+  - INS-260404-D6F7
+  - INS-260405-880C
+  - INS-260323-C10D
 ---
 Noah Smith argues that software engineering, despite its high pay and cultural prestige, fits the 'routine cognitive' labor category far better than the 'creative class' category. The evidence is that AI coding tools now allow complete novices to produce functional applications in hours by describing what they want in plain English — something impossible if the work were truly creative rather than procedural.
 

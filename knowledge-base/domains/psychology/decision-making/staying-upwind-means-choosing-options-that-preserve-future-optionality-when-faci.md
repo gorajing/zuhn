@@ -46,12 +46,12 @@ stance: >-
   Under career uncertainty, the dominant strategy is to choose paths that make
   future pivots easier rather than paths that maximize immediate expected value.
 related:
-  - INS-260323-ACD9
   - INS-260329-D062
   - INS-260402-40D7
-  - INS-260402-CCC3
-  - INS-260402-4AB4
-  - INS-260405-8584
+  - INS-260329-EE04
+  - INS-260325-55D8
+  - INS-260403-F4C9
+  - INS-260403-7B93
 evidence:
   - id: INS-260329-D062
     type: CONTRADICTS

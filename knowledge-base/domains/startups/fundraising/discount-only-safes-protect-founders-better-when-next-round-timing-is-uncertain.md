@@ -19,24 +19,14 @@ sources:
     title: >-
       SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table
       Template)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/safe-note-dilution-how-to-calculate'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Discount-only SAFEs limit investor upside to the discount percentage, while
@@ -61,6 +51,17 @@ stance: >-
   When the timeline to the next priced round is uncertain, a discount-only SAFE
   structure is more founder-friendly than a valuation cap because it prevents
   outsized dilution if the company's valuation grows significantly.
+related:
+  - INS-260323-2FF9
+  - INS-260329-D38D
+  - INS-260330-8FEC
+  - INS-260330-AF2B
+  - INS-260403-D500
+  - INS-260403-BAD7
+  - INS-260405-AB6B
+  - INS-260323-8AB8
+  - INS-260405-FFCE
+  - INS-260403-36DB
 ---
 The choice between discount and valuation cap in a SAFE has asymmetric consequences depending on how much the company grows before the next priced round. A 20% discount means the SAFE investor converts at 80% of the round price—a bounded, predictable dilution. A valuation cap, however, locks in a maximum conversion price. If the company raises at 2-5x the cap, the investor gets shares at a fraction of what new investors pay.
 

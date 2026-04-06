@@ -51,11 +51,13 @@ stance: >-
   destabilize the organization and prioritize personal brand over company
   outcomes.
 related:
+  - INS-260405-03BB
   - PRI-260328-604D
   - INS-260403-7563
   - INS-260330-10CF
   - INS-260330-E695
   - INS-260330-636E
+  - INS-260403-9746
 evidence:
   - id: INS-260330-90C3
     type: TRANSFERS_TO

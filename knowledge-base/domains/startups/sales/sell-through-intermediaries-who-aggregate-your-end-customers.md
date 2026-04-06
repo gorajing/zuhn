@@ -44,16 +44,16 @@ stance: >-
   Selling to agencies or distributors who each control dozens of end users
   creates exponential leverage that direct-to-SMB sales cannot match
 related:
-  - INS-260325-FADB
   - INS-260324-988E
   - INS-260323-BF81
   - INS-260323-6414
   - INS-260327-DD5C
   - INS-260327-999C
-  - INS-260327-D7AA
-  - INS-260327-088E
-  - INS-260327-4434
-  - INS-260327-442D
+  - INS-260327-C900
+  - INS-260327-5D62
+  - INS-260327-4212
+  - INS-260327-978B
+  - INS-260330-C9C6
 evidence:
   - id: INS-260327-5D62
     type: TRANSFERS_TO

@@ -1,24 +1,44 @@
 # Topic: adoption
 
-> 20 insights
+> 40 insights
 
+- `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
 - `INS-260322-3D21` [high] AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
 - `INS-260322-3159` [high] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
 - `INS-260322-750D` [high] AI voice agents in loan servicing and collections can speak 50 languages, maintain perfect UDAP compliance, and deliver better customer experiences — reorienting fintech TAM from IT budgets to labor costs.
+- `INS-260403-00A4` [high] AI deployment patterns bifurcate along economic lines — rich countries augment professionals, developing countries augment students.
+- `INS-260322-F891` [high] AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
+- `INS-260405-62F8` [high] Tesla's FSD data access to Lemonade produced a ~50% premium cut, showing that AV adoption ripples through adjacent industries before consumer uptake is even widespread.
 - `INS-260322-0C28` [high] Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
+- `INS-260329-14AE` [high] ChatGPT reached 1M users in 5 days versus Facebook's 2 years and Instagram's 2 years, signaling unprecedented adoption velocity.
 - `INS-260322-3263` [high] ChatGPT has 900M weekly active users but only 10-15% use it daily — 5x more people know how to use AI than can think of something to do with it, revealing a product-market fit gap not a technology gap.
 - `INS-260323-9492` [high] Companies adopt AI because competitors are adopting it, not because ROI is proven — employees are measured on chatbot usage, not actual productivity.
+- `INS-260403-8EF3` [high] Creator AI tool usage surged from 33% to 92% in 18 months, though 90% feel they're not using AI to its full potential.
+- `INS-260404-3714` [high] Early AI adoption creates compounding advantages that late movers struggle to close.
+- `INS-260403-1106` [high] ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
 - `INS-260322-7B61` [high] Just as the internet ad industry needed companies like DoubleClick, Comscore, and Omniture before Google/Facebook could scale revenue, enterprise AI needs measurement infrastructure before the $700B spend can be justified.
 - `INS-260322-A36C` [high] When a measure becomes a target, it stops being accurate — AI productivity must be measured through passive behavioral data (who actually uses the tools) married with outcomes, not self-reported surveys.
 - `INS-260322-3083` [high] Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
+- `INS-260403-EE02` [high] Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
 - `INS-260323-282F` [high] Microsoft — the apex predator of enterprise software with 440M Office 365 users — has only 8M active paying AI Copilot users, generating roughly $2.9B/year against $200B+ in AI capex.
+- `INS-260403-BBCF` [high] McKinsey's 2025 State of AI shows the gap between AI leaders and laggards is driven by operational redesign willingness, not technology access.
+- `INS-260405-9285` [high] AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
+- `INS-260405-CD42` [high] Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
 - `INS-260322-55D8` [high] ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
+- `INS-260403-D540` [high] AI capability moves at research speed while economic adoption moves at institutional speed, and the gap between them is where fortunes are made.
 - `INS-260322-FD23` [high] Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
+- `INS-260403-2A0F` [high] Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
 - `INS-260322-0812` [high] The most viral consumer AI moments of 2025 were all image/video — Ghibli, Nano Banana, VO3, Sora 2 — making multimodal generation the primary driver of new user acquisition.
+- `INS-260403-E23C` [medium] An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
 - `INS-260329-C4F5` [medium] Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
+- `INS-260403-643A` [medium] AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
 - `INS-260322-7DD5` [medium] 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260403-C355` [medium] High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
+- `INS-260405-4D81` [medium] Google committing $100B+ to AI spend means the infrastructure layer is effectively closed to new entrants without sovereign or hyperscaler backing.
 - `INS-260322-4757` [medium] Instead of measuring lines of code or contracts drafted, measure whether departments using AI tools become more responsive to other departments — this captures real productivity without creating Goodhart's Law gaming.
 - `INS-260322-B09B` [medium] Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
 - `INS-260405-CA27` [medium] Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
+- `INS-260403-C10D` [medium] The biggest AI risk is confidence outrunning understanding, not the technology itself.
+- `INS-260405-7838` [medium] In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
 - `INS-260329-E193` [medium] Wix buying Base 44 for $80M suggests AI app builders will become features of existing platforms rather than standalone products.
+- `INS-260405-6CED` [low] AI's growing influence on strategy warrants formal inclusion in governance structures, not just operational workflows.

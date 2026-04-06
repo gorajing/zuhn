@@ -40,11 +40,11 @@ stance: >-
   market on price while bearing the compliance costs that the illegal market
   avoids.
 related:
+  - INS-260403-C4B3
   - INS-260329-903B
   - INS-260327-2BAD
   - INS-260330-1293
-  - INS-260330-84BD
-  - INS-260330-F527
+  - INS-260405-8F5D
 evidence:
   - id: INS-260330-1293
     type: EXTENDS

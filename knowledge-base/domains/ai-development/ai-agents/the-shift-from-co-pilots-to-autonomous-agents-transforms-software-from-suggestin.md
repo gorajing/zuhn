@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Where VCs Are Betting on AI in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vcs-betting-on-ai-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The market has moved from AI-enhanced SaaS that helps humans to AI-native
@@ -62,6 +52,17 @@ stance: >-
   AI products that only assist or recommend without closing the loop from input
   to execution will be treated as features rather than investable companies in
   the agent era.
+related:
+  - INS-260321-807B
+  - INS-260321-015B
+  - PRI-260328-3094
+  - INS-260402-543E
+  - INS-260402-8170
+  - INS-260403-101D
+  - INS-260404-BD96
+  - PRI-260328-9F8C
+  - PRI-260328-8317
+  - INS-260403-3760
 ---
 A seismic shift has occurred inside software: the transition from co-pilots (suggestion and speed) to agents (autonomous outcomes). In the old model, AI features sat on top of existing workflows — autocomplete, summarize, recommend. In the new model, agents own the workflow itself: they read the brief, execute the task, and report completion. A legal co-pilot drafts a clause; a legal agent files the document.
 

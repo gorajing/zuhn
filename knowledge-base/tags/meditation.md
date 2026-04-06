@@ -26,4 +26,5 @@
 - `INS-260330-95A5` Choose the meditation type (internal vs. external focus) that opposes your current default state to maximize brain circuit change.
 - `INS-260405-18F3` Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
 - `INS-260405-DC8D` Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
+- `INS-260403-6EED` Fire kasina meditation reliably produces spinning lights, color shifts, and vivid hallucinations — the same effects reported at Fatima and Dhammakaya — suggesting a shared underlying mechanism.
 - `INS-260330-FE21` Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.

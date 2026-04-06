@@ -43,10 +43,10 @@ stance: >-
   predictably across every technology generation.
 related:
   - INS-260403-A99F
+  - INS-260403-8DCB
   - PRI-260328-BF1E
   - INS-260403-EFAF
   - INS-260403-3C2C
-  - INS-260327-7265
 evidence:
   - id: INS-260327-7265
     type: SUPPORTS

@@ -49,15 +49,14 @@ related:
   - INS-260327-73BE
   - INS-260329-BE72
   - INS-260402-5ACE
-  - INS-260329-C955
   - INS-260329-C401
-  - INS-260329-5D8A
+  - INS-260327-89AE
 evidence:
   - id: INS-260327-73BE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-5B7B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-C401
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Philip Rathle (Neo4j CTO, grew company from <$1M to $150M ARR) explains why graph databases are eating enterprise AI infrastructure. The world shows up as networks, hierarchies, and paths — not rows and columns. Graph databases provide: 600% marketing uplift through relationship-aware recommendations, enterprise AI accountability (if the AI builder is responsible for outcomes, graph guardrails constrain errors), and knowledge graphs that give LLMs structured context instead of raw text. Most Fortune 100 companies now use Neo4j. The key insight for AI builders: enterprise customers won't deploy AI without accountability, and graphs provide the structural framework that makes AI outputs traceable and auditable.

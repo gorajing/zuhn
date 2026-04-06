@@ -43,8 +43,6 @@ stance: >-
   Preserving intellectual innocence is strategically valuable because premature
   cynicism forecloses learning capacity that cannot be easily reopened
 related:
-  - INS-260329-A9B7
-  - INS-260329-6004
   - INS-260330-6F2F
   - INS-260330-3851
   - INS-260403-C135
@@ -53,6 +51,7 @@ related:
   - INS-260404-89C3
   - INS-260325-1EAC
   - INS-260402-F772
+  - INS-260405-CD42
 evidence:
   - id: INS-260320-5F14
     type: SUPPORTS

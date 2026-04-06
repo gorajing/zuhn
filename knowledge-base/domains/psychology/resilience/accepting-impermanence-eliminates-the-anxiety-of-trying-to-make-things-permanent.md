@@ -50,13 +50,14 @@ stance: >-
   from impermanence itself, and accepting that everything changes eliminates the
   futile anxiety of preservation.
 related:
-  - INS-260322-DAF2
   - INS-260327-A0D7
   - PRI-260328-6189
   - INS-260403-57F6
   - INS-260323-543C
   - INS-260327-7427
   - PRI-260325-2C13
+  - INS-260402-82F6
+  - INS-260403-8679
 evidence:
   - id: INS-260322-DAF2
     type: TRANSFERS_TO

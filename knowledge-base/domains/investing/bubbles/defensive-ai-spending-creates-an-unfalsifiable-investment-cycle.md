@@ -16,25 +16,15 @@ tags:
 sources:
   - type: blog
     title: 'Why the Real AI Risk Isn’t Superintelligence: A Final Look'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/what-if-the-real-ai-risk-isnt-superintelligence
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Companies invest in AI infrastructure defensively, then can't admit it isn't
@@ -59,6 +49,13 @@ stance: >-
   AI capital allocation is driven primarily by fear of missing out rather than
   evidence of returns, creating a self-reinforcing cycle where sunk costs
   prevent honest evaluation of results
+related:
+  - INS-260322-F868
+  - INS-260405-4D81
+  - INS-260403-3099
+  - INS-260403-B0E3
+  - INS-260403-75C3
+  - INS-260404-EC16
 ---
 The current AI investment pattern follows a distinctive 'defensive spending' logic: organizations pour capital into infrastructure, talent, and compute not because they've validated returns, but because they fear being left behind if the technology does deliver. This creates a perverse dynamic where the act of investing becomes its own justification.
 

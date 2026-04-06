@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'SpaceX-xAI Merger: The $1.25T Company'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-172'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Project Vault pairs $12B in reserves with bilateral agreements across 11
@@ -60,6 +50,12 @@ stance: >-
   Unilateral strategic mineral reserves are insufficient; the US must build
   bilateral mineral frameworks with allied nations to meaningfully counter
   China's 90% processing dominance.
+related:
+  - INS-260403-8C41
+  - PRI-260323-9295
+  - INS-260330-516E
+  - INS-260405-7698
+  - INS-260404-F631
 ---
 Project Vault's $12B strategic mineral reserve goes beyond simple stockpiling by combining EXIM Bank loans with private capital and signing bilateral critical minerals frameworks with 11 countries simultaneously. This acknowledges that China's 90% dominance in mineral processing cannot be countered by any single nation's reserves alone.
 

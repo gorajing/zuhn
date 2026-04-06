@@ -41,13 +41,14 @@ stance: >-
   platform algorithms rather than audience satisfaction, producing content that
   looks similar because it is all optimized for the same engagement signals.
 related:
-  - INS-260322-B392
   - INS-260323-7EDF
   - INS-260322-ABA0
   - INS-260322-5E5D
+  - INS-260402-8D38
   - PRI-260405-AF79
+  - INS-260403-3BB2
   - PRI-260328-0C15
-  - INS-260403-66AE
+  - INS-260403-6EC2
 evidence:
   - id: INS-260322-B392
     type: EXTENDS

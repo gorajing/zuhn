@@ -48,12 +48,13 @@ resolutions:
     the position.
 related:
   - PRI-260403-E097
+  - INS-260403-6BDC
+  - INS-260403-7881
   - PRI-260405-5912
   - INS-260403-87AC
-  - INS-260403-EC8A
-  - INS-260402-FFB2
   - INS-260327-0D0B
-  - INS-260403-3518
+  - INS-260403-2369
+  - INS-260403-7795
 stance: >-
   Every dollar of profit not reinvested into growth is a dollar a competitor
   could use to catch up

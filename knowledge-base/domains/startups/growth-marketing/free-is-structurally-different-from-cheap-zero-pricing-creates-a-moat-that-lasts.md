@@ -52,10 +52,8 @@ related:
   - INS-260322-98D2
   - INS-260329-1A3B
   - INS-260330-8B52
+  - INS-260405-5C3F
   - INS-260330-999F
-  - INS-260323-1494
-  - INS-260330-B8C5
-  - INS-260404-D149
 stance: >-
   Robinhood's zero-commission bet gave them 3-4 years before incumbents could
   respond because free is a categorically different value proposition tha...

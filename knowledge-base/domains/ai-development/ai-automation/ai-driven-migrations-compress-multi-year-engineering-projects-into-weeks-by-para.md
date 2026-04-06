@@ -19,26 +19,14 @@ sources:
     title: >-
       A free year of Devin: the world’s most advanced autonomous AI software
       engineer
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-free-year-of-devin-the-worlds-first'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Nubank used Devin to migrate a 6-million-line ETL monolith in weeks instead
@@ -61,6 +49,12 @@ resolutions:
 stance: >-
   Autonomous AI agents can reduce 18-month, 1000-engineer migration projects to
   weeks because migration work is highly parallelizable and pattern-repetitive
+related:
+  - INS-260327-9192
+  - INS-260321-0CCD
+  - INS-260325-ADF5
+  - PRI-260328-5CDE
+  - INS-260330-63BA
 ---
 Nubank's migration of a 6-million-line ETL monolith — estimated at 18 months and 1,000 engineers — was completed in weeks using Devin. This compression ratio (roughly 50-100x in engineer-time) suggests migrations are uniquely suited to AI automation because they involve applying consistent transformation patterns across large codebases with clear before/after specifications.
 

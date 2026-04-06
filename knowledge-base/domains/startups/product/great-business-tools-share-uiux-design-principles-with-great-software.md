@@ -43,7 +43,6 @@ stance: >-
   Conceptual business frameworks succeed or fail based on their visual design
   and user experience, not just their intellectual rigor
 related:
-  - INS-260325-5CA5
   - INS-260403-DB22
   - INS-260328-91A1
   - INS-260328-9C16

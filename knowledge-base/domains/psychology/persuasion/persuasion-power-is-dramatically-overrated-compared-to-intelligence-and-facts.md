@@ -52,16 +52,12 @@ stance: >-
   most charismatic manipulators (SBF, Holmes) eventually face reality-based
   consequences.
 related:
-  - INS-260328-A46F
-  - INS-260329-F20E
-  - INS-260329-2A5A
   - INS-260330-ECD8
+  - INS-260403-9A5D
+  - INS-260404-2A95
   - INS-260403-2AF0
   - INS-260321-2D72
   - INS-260403-E688
-  - INS-260329-16F0
-  - INS-260327-89AE
-  - INS-260403-07C6
 evidence:
   - id: INS-260327-89AE
     type: TRANSFERS_TO

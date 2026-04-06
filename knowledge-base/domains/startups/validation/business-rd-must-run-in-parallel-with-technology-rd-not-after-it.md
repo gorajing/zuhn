@@ -46,12 +46,11 @@ stance: >-
   viability testing) is orders of magnitude cheaper than product R&D.
 related:
   - INS-260330-178D
-  - INS-260330-F125
   - INS-260402-237D
   - INS-260403-B6A0
   - INS-260327-3A71
+  - INS-260403-5CAD
   - INS-260403-754F
-  - INS-260327-B12E
 ---
 The traditional sequence—build the technology, then figure out how to sell it—is the most expensive possible approach to product development. World-class teams run technology R&D and business R&D (customer desirability, business viability) in parallel, iterating fast between capabilities and customer validation.
 

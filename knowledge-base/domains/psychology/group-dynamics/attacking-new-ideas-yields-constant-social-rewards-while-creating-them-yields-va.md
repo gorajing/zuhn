@@ -50,13 +50,13 @@ stance: >-
   criticism earns consistent social status regardless of target quality, while
   creation only pays off probabilistically.
 related:
-  - INS-260325-0147
   - INS-260330-8D2C
   - INS-260330-3260
   - INS-260403-74E5
+  - INS-260404-86DE
   - PRI-260323-27D6
-  - INS-260402-8ACF
-  - INS-260403-FE91
+  - INS-260405-4EAA
+  - INS-260404-31C3
 evidence:
   - id: INS-260403-74E5
     type: TRANSFERS_TO

@@ -49,14 +49,11 @@ stance: >-
   potential.
 related:
   - INS-260327-4739
-  - INS-260330-DC8B
-  - INS-260402-9D7B
   - INS-260403-449A
   - INS-260330-CC7D
   - INS-260327-E7B8
   - INS-260403-2B63
   - PRI-260322-CF2B
-  - INS-260403-8A8B
 evidence:
   - id: INS-260403-8A8B
     type: TRANSFERS_TO

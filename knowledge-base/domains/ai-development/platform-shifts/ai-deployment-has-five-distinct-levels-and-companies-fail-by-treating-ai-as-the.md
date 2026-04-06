@@ -50,13 +50,13 @@ stance: >-
   the AI deployment spectrum.
 related:
   - INS-260329-16F0
-  - INS-260329-C4F5
   - INS-260330-1089
-  - INS-260402-FFB2
   - INS-260403-3F10
+  - INS-260402-FFB2
   - PRI-260328-7E58
   - PRI-260324-5F05
   - INS-260404-462B
+  - INS-260405-28DF
 evidence:
   - id: INS-260329-16F0
     type: SUPPORTS

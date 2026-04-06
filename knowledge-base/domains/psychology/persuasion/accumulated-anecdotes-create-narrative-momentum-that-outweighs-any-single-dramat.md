@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why are federal agents gunning down Americans in the streets?
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/why-are-federal-agents-gunning-down'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Steady accumulation of documented incidents shifts opinion more than any
@@ -62,6 +50,14 @@ stance: >-
   A steady stream of documented incidents shifts public opinion more powerfully
   than any single shocking event, because accumulation builds an irrefutable
   pattern that resists counter-narrative.
+related:
+  - INS-260323-B811
+  - INS-260323-5737
+  - INS-260330-2B33
+  - INS-260330-2030
+  - PRI-260325-F21B
+  - INS-260325-CC47
+  - PRI-260323-36A6
 ---
 ICE's net approval dropped from +16 to -14 not because of the Renee Good shooting alone, but because of months of accumulated video evidence showing a consistent pattern of aggression. The poll showing the opinion shift was conducted the same day as the shooting — too early for that single event to have caused the shift. The erosion was driven by the relentless stream of documented incidents.
 

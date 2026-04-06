@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "World’s Best Founders \U0001F50D, Changing VC Landscape \U0001F4BC, Venture Trends \U0001F310"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/worlds-best-founders-changing-vc'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Biotech and health tech VC funds are raising at dramatically larger scales
@@ -57,6 +47,14 @@ stance: >-
   Biotech and health-focused venture funds are raising capital at scales that
   dwarf typical software-focused funds, signaling a structural shift in where
   VCs see the highest risk-adjusted returns.
+related:
+  - INS-260321-4B38
+  - INS-260327-5661
+  - INS-260404-48D1
+  - INS-260404-E55F
+  - INS-260404-F01F
+  - INS-260405-6FE3
+  - INS-260403-118B
 ---
 The fund raise data reveals a striking pattern: ARCH Venture Partners closed over $3B for biotech alone, while Sabadell Asabys raised €180M specifically for health tech. These dwarf the $250M Boldstart raised for B2B software. This capital concentration reflects the capital-intensive nature of biotech but also signals VC conviction that biotech offers asymmetric return potential in the current cycle.
 

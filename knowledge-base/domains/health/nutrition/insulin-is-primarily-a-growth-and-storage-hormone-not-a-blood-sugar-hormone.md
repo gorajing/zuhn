@@ -54,8 +54,8 @@ stance: >-
   even with normal blood glucose, meaning the disease is insulinemia, not
   glycemia.
 related:
-  - INS-260327-FC60
   - INS-260325-81BD
+  - INS-260327-FC60
   - PRI-260325-9258
   - INS-260325-A03D
   - PRI-260328-7AF5

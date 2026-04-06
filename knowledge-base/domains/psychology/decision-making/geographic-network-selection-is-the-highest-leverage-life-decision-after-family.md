@@ -55,7 +55,6 @@ stance: >-
   ideas available to you.
 related:
   - INS-260330-ACCD
-  - INS-260330-73C1
   - INS-260330-BBE7
   - INS-260403-5BFB
   - INS-260404-E651

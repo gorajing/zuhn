@@ -49,9 +49,9 @@ stance: >-
   with revenue enhancement.
 related:
   - INS-260403-1A5A
+  - INS-260405-4B5D
   - PRI-260328-BEDD
+  - INS-260405-3098
   - INS-260329-ADCD
-  - INS-260322-FCFC
-  - INS-260320-8688
 ---
 NFX's framework combines two vectors to identify where AI workers dominate: cost-cutting (automating repetitive, high-volume tasks where humans are expensive, slow to onboard, or hard to retain) and value-adding (personalization, 24/7 availability, consistency). The 100x threshold accounts for switching costs, reliability risk, and the organizational inertia of replacing a human role. Markets that only clear on one vector are vulnerable — an AI that's cheap but adds no incremental value faces commoditization; one that's valuable but expensive gets displaced by the next model. Founders should stress-test their opportunity against both dimensions and be specific: which tasks are being automated, what is the fully-loaded cost of the human doing them today, and what measurable revenue uplift does AI deliver?

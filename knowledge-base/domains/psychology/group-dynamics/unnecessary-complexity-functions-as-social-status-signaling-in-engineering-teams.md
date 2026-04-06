@@ -55,10 +55,10 @@ stance: >-
   complexity-as-waste
 related:
   - PRI-260328-5D9E
+  - INS-260325-BF84
+  - INS-260330-D3F5
   - PRI-260323-F193
   - INS-260323-6134
-  - PRI-260328-8516
-  - INS-260330-09DE
 evidence:
   - id: INS-260323-6134
     type: CONTRADICTS

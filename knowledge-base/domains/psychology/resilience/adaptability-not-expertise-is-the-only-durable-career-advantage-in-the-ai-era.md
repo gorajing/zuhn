@@ -47,7 +47,6 @@ stance: >-
   the only career-proof skill is adaptability—the ability to face novel
   situations and synthesize solutions from unfamiliar inputs.
 related:
-  - INS-260320-B99F
   - INS-260327-31BD
   - INS-260323-F2C3
   - INS-260329-F21F
@@ -55,6 +54,7 @@ related:
   - INS-260327-B410
   - INS-260403-0907
   - INS-260402-9093
+  - INS-260403-497B
 evidence:
   - id: INS-260320-B99F
     type: EXTENDS

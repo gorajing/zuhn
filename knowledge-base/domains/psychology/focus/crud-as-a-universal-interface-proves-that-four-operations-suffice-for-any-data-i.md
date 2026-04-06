@@ -50,25 +50,23 @@ stance: >-
   operations suggests that complex systems are best understood by reducing them
   to a minimal set of primitive operations.
 related:
-  - PRI-260328-8516
-  - INS-260329-36D9
-  - INS-260329-8181
   - INS-260329-FAE2
-  - INS-260329-8F86
-  - INS-260329-CC79
-  - INS-260402-F479
   - INS-260329-E4F6
   - INS-260329-057F
   - INS-260330-083D
+  - PRI-260328-8516
+  - INS-260329-CC79
+  - PRI-260403-ABDE
+  - INS-260325-2F12
 evidence:
   - id: INS-260329-057F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-8181
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FAE2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial presents CRUD (Create, Read, Update, Delete) as the four fundamental database operations, and every SQL command maps to one of them. This isn't just a database concept — it's an example of finding the minimal operation set that spans an entire domain.
 

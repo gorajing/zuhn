@@ -56,6 +56,7 @@ related:
   - INS-260403-07C3
   - INS-260404-FDEA
   - INS-260404-78EB
+  - INS-260403-6EC2
 ---
 In photosynthesis, the first protein complex in the light-dependent reactions is called Photosystem II, while the second is Photosystem I — because they were named in order of discovery, not function. This creates a stumbling block for every single person learning the material, multiplied across billions of students over decades.
 

@@ -55,24 +55,22 @@ related:
   - INS-260330-ACDA
   - INS-260403-8F6E
   - INS-260330-EF74
-  - INS-260404-5532
-  - INS-260330-77A2
-  - INS-260403-6412
+  - INS-260404-70DE
 evidence:
   - id: INS-260330-2CE3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-ACDA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-EF74
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-7D3C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-8F6E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-BF47
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-6412
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Linux captures roughly 4% of desktop PCs but runs the vast majority of servers, cloud instances, and containers where production code actually executes. This creates an asymmetry: developers may write code on macOS or Windows, but their code lives and dies on Linux. Any developer who can't SSH into a Linux terminal and debug a production issue is, as the video bluntly puts it, screwed.
 

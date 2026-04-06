@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The Must-Read Tech, VC, SaaS, AI, and Startup Reports of 2024 \U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-must-read-tech-vc-saas-ai-and'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Usage-based pricing is displacing seat-based licensing as the dominant SaaS
@@ -59,6 +49,16 @@ stance: >-
   Usage-based pricing will overtake seat-based licensing as the default SaaS
   business model because it aligns vendor revenue with customer value
   realization.
+related:
+  - INS-260322-8299
+  - INS-260403-4E16
+  - INS-260403-E71A
+  - INS-260404-1755
+  - INS-260403-1E4A
+  - INS-260403-75E3
+  - INS-260403-586C
+  - INS-260404-6751
+  - INS-260403-C734
 ---
 ChartMogul's revenue and retention analysis and Vendr's SaaS Trends Report both highlight usage-based pricing as a rising dominant trend. The shift is driven by buyer sophistication — enterprises increasingly refuse to pay per-seat when actual usage varies wildly across their organization. AI-powered SaaS products accelerate this because their value delivery is inherently consumption-based (API calls, tokens processed, automations run) rather than headcount-based.
 

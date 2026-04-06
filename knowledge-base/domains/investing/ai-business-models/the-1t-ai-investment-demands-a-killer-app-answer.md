@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: The Current State of AI'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-the-current-state-of-ai'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The trillion-dollar AI investment thesis is contingent on finding a killer
@@ -56,6 +46,12 @@ stance: >-
   Over a trillion dollars invested in AI infrastructure will only generate
   returns if a genuinely new category of killer application emerges, and that
   question remains unsolved.
+related:
+  - INS-260403-EBC3
+  - INS-260325-90C6
+  - INS-260403-EAC6
+  - INS-260323-9770
+  - INS-260403-0372
 ---
 Chamath frames the central unresolved question of the AI era as follows: over $1 trillion has been invested in AI over the past decade, yet we are still searching for the application that justifies that capital. The GenAI hype cycle produced useful tools but no category-defining product analogous to the smartphone or the internet browser.
 

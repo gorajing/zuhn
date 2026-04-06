@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Neuralink's 21 Telepathy Trials in 2 Years
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-171'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Figure AI's System 0/1/2 architecture separates reflexive balance,
@@ -57,6 +47,13 @@ stance: >-
   Effective AI systems for physical tasks require explicit separation of
   reflexive, sensorimotor, and reasoning layers rather than a single end-to-end
   model
+related:
+  - INS-260330-8045
+  - INS-260330-2601
+  - INS-260330-0C10
+  - INS-260404-DDC8
+  - INS-260403-B16E
+  - INS-260403-9BBA
 ---
 Figure AI's three-layer architecture (System 0 for balance/reflexes, System 1 for sensor-to-actuator mapping, System 2 for language and scene reasoning) mirrors neuroscience models of human motor control — the cerebellum handles balance, the motor cortex handles coordinated movement, and the prefrontal cortex handles planning.
 

@@ -49,8 +49,8 @@ related:
   - INS-260325-F21D
   - PRI-260323-1187
   - INS-260326-E7BE
+  - INS-260405-1F0B
   - INS-260325-0E70
-  - INS-260330-6D5C
 stance: The brain is not recording reality
 evidence:
   - id: INS-260326-E7BE

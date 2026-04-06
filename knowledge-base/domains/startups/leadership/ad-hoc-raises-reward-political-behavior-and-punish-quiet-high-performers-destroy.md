@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260330-175F
   - INS-260327-005D
+  - INS-260403-3F2C
+  - INS-260403-6F75
   - INS-260328-E410
-  - INS-260327-47BA
-  - INS-260323-5CBE
 evidence:
   - id: INS-260323-5CBE
     type: TRANSFERS_TO

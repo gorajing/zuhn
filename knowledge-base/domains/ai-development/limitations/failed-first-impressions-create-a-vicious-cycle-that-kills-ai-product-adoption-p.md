@@ -51,10 +51,11 @@ stance: >-
   try again, creating a death spiral where low usage prevents the feedback
   needed to improve the product.
 related:
+  - INS-260404-6398
   - INS-260321-1A0B
   - INS-260329-1D08
+  - INS-260403-A9CC
   - INS-260323-5F8A
-  - INS-260327-B302
   - INS-260403-CB33
 evidence:
   - id: INS-260329-1D08

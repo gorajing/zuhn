@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: The Media Landscape - Sense-Making 2.0'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-the-media-landscape-sense'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Better inputs compound into better judgment — information diet is a leverage
@@ -61,6 +51,16 @@ stance: >-
   The quality of the information sources you consume over years is more
   determinative of your long-run judgment than your raw intelligence or
   analytical process.
+related:
+  - INS-260326-4F90
+  - INS-260326-C657
+  - INS-260330-4E10
+  - INS-260330-E403
+  - INS-260403-6EC8
+  - INS-260403-E554
+  - INS-260330-6F36
+  - INS-260403-910E
+  - INS-260403-14B3
 ---
 Most people treat decision-making as a discrete cognitive act: gather information, weigh options, choose. But the quality of that in-the-moment reasoning depends heavily on the background model of the world built up over years of information consumption. Someone who has consistently consumed high-signal, accurate, diverse sources has a richer prior to reason from than someone with a narrower or lower-quality diet — even if they're equally intelligent in the moment.
 

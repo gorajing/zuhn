@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: You are no longer the smartest type of thing on Earth
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/you-are-no-longer-the-smartest-type'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Current AI capabilities represent a fraction of what near-future compute
@@ -56,6 +44,17 @@ resolutions:
 stance: >-
   The massive upcoming increase in AI compute investment will widen the
   intelligence gap between AI and humans far beyond current levels.
+related:
+  - INS-260323-8637
+  - INS-260322-E734
+  - INS-260327-1D37
+  - INS-260327-E0B0
+  - INS-260329-ED44
+  - INS-260330-5043
+  - INS-260403-D540
+  - INS-260403-C584
+  - PRI-260328-A82C
+  - INS-260403-4803
 ---
 Smith points out that the compute resources producing today's AI breakthroughs are dwarfed by what's being deployed in 2026 and beyond, with each year's investment far exceeding the last. Combined with AI systems themselves searching for algorithmic improvements, this creates a compounding effect: more compute enables better algorithms which make better use of even more compute.
 

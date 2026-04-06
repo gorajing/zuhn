@@ -1,5 +1,5 @@
 ---
-id: INS-260404-B1BC
+id: INS-260404-1137
 domain: startups
 topic: scaling
 title: Organizational ambidexterity is the meta-capability for sustained growth
@@ -46,11 +46,13 @@ stance: >-
   new ones is not a nice-to-have but the defining capability that separates
   companies that survive disruption from those that don't
 related:
-  - INS-260325-C7FA
-  - INS-260330-9A46
-  - INS-260327-9377
-  - INS-260329-ACE6
-  - INS-260404-A183
+  - INS-260403-F0DF
+  - INS-260404-C92A
+  - INS-260403-E3C4
+  - PRI-260328-43F1
+  - INS-260403-7227
+  - INS-260403-1358
+  - INS-260405-0271
 evidence:
   - id: INS-260325-C7FA
     type: EXTENDS

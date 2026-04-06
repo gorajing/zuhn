@@ -49,15 +49,15 @@ stance: >-
   asymmetry in excitement is the clearest signal you're a founder.
 related:
   - INS-260327-1064
-  - INS-260327-80A8
-  - INS-260327-A75B
   - INS-260402-E140
+  - INS-260403-ADF9
   - INS-260403-78B7
   - INS-260402-27A1
   - INS-260404-8890
-  - PRI-260405-E256
   - INS-260329-0014
-  - INS-260330-5EB6
+  - INS-260402-ED85
+  - INS-260403-12FD
+  - INS-260403-E300
 evidence:
   - id: INS-260329-0014
     type: SUPPORTS

@@ -49,14 +49,13 @@ stance: >-
   exposes the exponent directly.
 related:
   - INS-260323-D6C7
-  - INS-260327-484F
   - INS-260330-8FE7
   - INS-260330-9935
   - INS-260330-F493
   - PRI-260403-CD44
   - PRI-260403-50EF
   - INS-260330-8817
-  - INS-260403-225B
+  - INS-260402-D7DE
 evidence:
   - id: INS-260330-F493
     type: EXTENDS

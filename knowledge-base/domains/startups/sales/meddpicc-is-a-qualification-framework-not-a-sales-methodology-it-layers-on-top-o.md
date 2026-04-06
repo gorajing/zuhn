@@ -65,9 +65,9 @@ related:
   - INS-260329-2B60
   - PRI-260405-91AD
   - INS-260327-B18F
-  - INS-260329-3D14
   - INS-260403-8448
   - INS-260403-11CC
+  - INS-260403-2041
 ---
 Andy Whyte clarifies the most common misconception about MEDDIC: it is not a competing methodology to Sandler, Challenger Sale, or others. At its core, MEDDIC is a qualification framework that answers two questions — 'should I be in this deal?' and 'if so, what must I do to win?' This distinction matters because organizations often resist adopting MEDDIC thinking it conflicts with their existing methodology, when in reality it enhances any approach.
 

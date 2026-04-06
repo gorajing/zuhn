@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260325-AEF5
   - PRI-260328-39FA
+  - INS-260330-C4D8
   - PRI-260328-27F7
-  - INS-260329-D062
-  - INS-260330-5609
+  - INS-260403-E09C
 evidence:
   - id: INS-260330-C4D8
     type: TRANSFERS_TO

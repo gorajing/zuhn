@@ -47,11 +47,11 @@ stance: >-
   developing markets, creating a repeatable geographic arbitrage strategy
 related:
   - INS-260323-4945
-  - INS-260323-1720
   - INS-260325-415A
   - INS-260328-8FC9
   - PRI-260328-D292
   - INS-260330-9346
+  - INS-260404-9DBB
   - PRI-260328-BF67
 evidence:
   - id: INS-260323-4945

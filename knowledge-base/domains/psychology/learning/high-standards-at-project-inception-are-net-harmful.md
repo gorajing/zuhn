@@ -47,11 +47,11 @@ stance: >-
   not quality.
 related:
   - INS-260323-1C32
-  - INS-260329-1FEE
-  - PRI-260328-2014
-  - INS-260405-020E
-  - INS-260403-25EE
-  - INS-260403-AA8F
+  - INS-260404-21AA
+  - INS-260404-9C4C
+  - INS-260404-CD3E
+  - INS-260403-FE41
+  - INS-260405-7BA5
 evidence:
   - id: INS-260323-1C32
     type: SUPPORTS

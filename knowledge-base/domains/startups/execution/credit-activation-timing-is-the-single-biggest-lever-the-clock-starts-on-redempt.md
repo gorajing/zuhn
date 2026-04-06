@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'AI Startup Credits Guide 2025: Extend Runway Smarter'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-startup-credits-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Credits expire 6-12 months from activation, not application — triggering
@@ -60,6 +50,17 @@ stance: >-
   Poor activation timing is the number one way founders waste six figures of
   free capital, making just-in-time activation the most important operational
   discipline
+related:
+  - INS-260320-00C2
+  - INS-260325-6F89
+  - INS-260320-C56D
+  - INS-260329-8B33
+  - INS-260330-5E47
+  - INS-260403-458A
+  - INS-260403-1B15
+  - INS-260405-844D
+  - INS-260323-19A8
+  - INS-260403-6E68
 ---
 Most credit programs start their expiration clock the moment you activate, not when you apply or get approved. This means founders who activate during the prototype phase burn through free months before their real workloads begin. The playbook is to get approvals in place early (many programs take weeks to process and require partner referrals) but trigger activation only at launch, first user onboarding, or pilot stage.
 

@@ -56,12 +56,11 @@ stance: >-
   creatine's cognitive benefits potentially more valuable than its well-known
   muscle-building effects.
 related:
-  - INS-260325-CDEA
   - PRI-260325-663A
+  - INS-260403-9757
   - INS-260330-E647
   - INS-260326-16A8
   - INS-260330-45D9
-  - INS-260327-DF8B
 evidence:
   - id: INS-260325-CDEA
     type: REFINES

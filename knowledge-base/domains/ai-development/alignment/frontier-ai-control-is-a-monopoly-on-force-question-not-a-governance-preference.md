@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'If AI is a weapon, why don''t we regulate it like one?'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/if-ai-is-a-weapon-why-dont-we-regulate'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Private control of frontier AI is incompatible with the nation-state's
@@ -61,6 +49,12 @@ stance: >-
   No nation-state can tolerate private companies retaining unilateral control
   over frontier AI because it directly challenges the state's monopoly on the
   use of force.
+related:
+  - INS-260328-5431
+  - INS-260404-6B73
+  - INS-260330-6B7F
+  - PRI-260328-0123
+  - PRI-260328-37D8
 ---
 Ben Thompson's argument crystallizes a structural truth: if AI becomes as powerful as nuclear weapons (as its own creators claim), then private companies controlling it is equivalent to private nuclear arsenals. The nation-state's most fundamental function is maintaining a monopoly on the use of force — without it, laws cannot be enforced, public safety cannot be ensured, and democratic will cannot be executed.
 

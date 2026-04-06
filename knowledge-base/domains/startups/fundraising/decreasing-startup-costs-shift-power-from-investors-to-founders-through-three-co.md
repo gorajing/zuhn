@@ -48,16 +48,16 @@ stance: >-
   founders start companies, founders negotiate better terms, and companies grow
   faster to higher valuations.
 related:
-  - INS-260322-8F80
-  - INS-260326-870E
-  - INS-260327-1393
-  - PRI-260328-0C86
   - INS-260328-372B
   - INS-260330-3138
   - INS-260403-5BFB
   - INS-260403-1904
   - INS-260404-9BC6
-  - INS-260403-99B1
+  - INS-260403-6F8B
+  - INS-260403-0A20
+  - INS-260403-6694
+  - INS-260326-870E
+  - INS-260403-CE7C
 evidence:
   - id: INS-260330-3138
     type: CHALLENGES

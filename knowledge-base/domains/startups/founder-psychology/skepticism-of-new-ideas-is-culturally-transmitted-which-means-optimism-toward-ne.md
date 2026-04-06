@@ -19,26 +19,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Dismissing new ideas is not human nature — it's a cultural habit that formed
@@ -70,6 +58,14 @@ stance: >-
   The dismissal of new ideas is not deeply hardwired — it is a social custom
   that evolved in the absence of selection pressure for innovation, and can be
   unlearned as quickly as Silicon Valley's optimistic norms were learned.
+related:
+  - INS-260402-FE91
+  - INS-260403-74E5
+  - INS-260403-A4CF
+  - INS-260403-B6D9
+  - INS-260405-4EAA
+  - INS-260404-A1BA
+  - INS-260404-86DE
 ---
 Graham argues that humans have little experience with early versions of ambitious projects as a species. Innovation was historically too slow to generate social norms for evaluating it. So we defaulted to judging new things by the standards for finished things — a poor fit. The skepticism isn't moral or deeply psychological; it's a missing custom.
 

@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'If AI is a weapon, why don''t we regulate it like one?'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/if-ai-is-a-weapon-why-dont-we-regulate'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The power structure emerging from AI development converges to either state
@@ -65,6 +53,14 @@ stance: >-
   There is no stable equilibrium where private AI companies maintain independent
   control over superintelligence-level capabilities alongside sovereign
   nation-states.
+related:
+  - INS-260323-B40C
+  - INS-260323-0683
+  - PRI-260322-9E36
+  - PRI-260321-0A4D
+  - INS-260404-6077
+  - INS-260327-4313
+  - INS-260403-6546
 ---
 If frontier AI companies succeed in building superintelligence, the power dynamic becomes zero-sum. Either the state controls the technology and the companies serve at the state's pleasure, or the companies possess power that eclipses the state, effectively making their CEOs 'god-warlords' regardless of whether they claim the title. Smith's framing of Dario Amodei as a potential 'Emperor of Earth' sounds hyperbolic but follows directly from the premises that AI companies themselves espouse about their technology's trajectory.
 

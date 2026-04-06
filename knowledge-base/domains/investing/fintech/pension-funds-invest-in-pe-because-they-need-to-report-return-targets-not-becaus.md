@@ -50,13 +50,11 @@ stance: >-
   smoother, higher returns than public markets, satisfying board reporting
   requirements.
 related:
-  - INS-260323-D288
   - PRI-260328-8993
-  - INS-260327-7F54
-  - INS-260330-855A
-  - INS-260405-3403
-  - INS-260327-B357
-  - INS-260330-77D1
+  - INS-260403-FA65
+  - INS-260404-81AB
+  - INS-260405-EFC1
+  - INS-260403-49EC
   - INS-260330-7199
 evidence:
   - id: INS-260330-855A

@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: The Creator Economy 2025
-    author:
-      - '@type': Person
-        name: Ollie Forsyth
-        url: 'https://substack.com/@neweconomies'
-        description: >-
-          ex Antler VC. Building NEW ECONOMIES - your go to newsletter on the
-          latest trends in tech. 
-        identifier: 'user:119664304'
-        sameAs:
-          - 'https://twitter.com/ollieforsyth'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
+    author: Ollie Forsyth
     url: 'https://www.thevccorner.com/p/the-creator-economy-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The creator economy startup field is shrinking but surviving companies are
@@ -58,6 +44,16 @@ resolutions:
 stance: >-
   Startup shakeouts that eliminate overcapitalized companies create better
   conditions for remaining players than continued proliferation would
+related:
+  - INS-260322-3E59
+  - INS-260327-DD1D
+  - INS-260403-160A
+  - INS-260403-87CF
+  - INS-260403-A4FC
+  - INS-260403-86C7
+  - INS-260403-E407
+  - INS-260403-0CB8
+  - INS-260403-C949
 ---
 After years of explosive growth that peaked with 11 unicorns in 2021, the creator economy startup landscape has contracted significantly. Fewer new startups are launching for creators, largely because the previous wave raised too much capital too quickly and couldn't sustain growth.
 

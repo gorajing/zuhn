@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Best GitHub Repos for AI Builders in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/best-github-repos-ai-2025'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In a field flooded with tutorials, a handful of rigorously maintained
@@ -64,6 +54,12 @@ stance: >-
   extremely poor, meaning careful curation of a small number of authoritative
   repositories yields disproportionate learning returns compared to broad
   exploration.
+related:
+  - INS-260329-9DEE
+  - INS-260405-880C
+  - INS-260329-E6AF
+  - INS-260320-D4BD
+  - INS-260320-F78E
 ---
 The AI tooling ecosystem has exploded, but most public repositories are thin wrappers, weekend projects, or tutorials that never go beyond a single notebook. For engineers trying to build production systems, this creates a navigation problem: the volume of resources makes it harder, not easier, to find what's worth studying.
 

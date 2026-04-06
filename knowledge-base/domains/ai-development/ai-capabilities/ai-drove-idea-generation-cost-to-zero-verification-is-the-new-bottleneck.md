@@ -41,11 +41,10 @@ resolutions:
 related:
   - PRI-260321-14D8
   - INS-260403-2AF0
+  - INS-260403-D6C2
   - INS-260323-1494
   - INS-260327-8358
   - INS-260323-0603
-  - INS-260320-8FFC
-  - INS-260404-B7E4
 stance: >-
   AI made idea generation almost free, just as the internet made communication
   almost free

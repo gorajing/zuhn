@@ -68,10 +68,12 @@ stance: >-
   dimensions for every stakeholder in the deal.
 related:
   - PRI-260328-21AD
+  - INS-260403-35A6
   - INS-260327-C6DC
   - INS-260321-8D2B
   - INS-260402-E148
-  - INS-260330-7220
+  - INS-260403-541C
+  - INS-260404-29EC
 ---
 Whyte breaks decision criteria into three clear dimensions. Technical criteria: can the solution do what the customer needs technically? This extends beyond features to infrastructure, security, interface, and integration requirements. Economic criteria: does the business case stack up? Is the ROI sufficient? But critically, it's not just about money — it's about resources. Does implementing your solution require so much effort that even a great ROI isn't worth the organizational cost? Does the business case place you at the top of their priorities list? Relationship criteria: does the customer want to work with you? Are you a good partner? How strong is your roadmap, your industry presence, your partner ecosystem?
 

@@ -43,13 +43,11 @@ stance: >-
   their specific network, skills, and experience rather than the objectively
   'biggest' opportunity.
 related:
-  - INS-260327-F95F
+  - INS-260403-7513
   - INS-260403-5018
   - INS-260403-816B
   - INS-260327-D982
   - INS-260327-D5CC
-  - INS-260403-573F
-  - INS-260329-11AB
 evidence:
   - id: INS-260327-F95F
     type: SUPPORTS

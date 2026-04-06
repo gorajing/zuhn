@@ -52,10 +52,11 @@ stance: >-
   reset what feels normal, making otherwise intimidating leaps seem routine
 related:
   - INS-260327-9BFD
-  - INS-260403-D1D4
+  - INS-260404-4D13
+  - INS-260404-9C4C
   - INS-260323-09E4
   - INS-260402-FE91
-  - INS-260403-E365
+  - INS-260404-F212
 evidence:
   - id: INS-260403-D1D4
     type: EXTENDS

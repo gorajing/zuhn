@@ -1,21 +1,26 @@
 # Topic: founder-psychology
 
-> 52 insights
+> 73 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260329-11AB` [high] The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
 - `INS-260402-F5E0` [high] Break vague reluctance into specific fears to discover most are unfounded.
 - `INS-260328-7CA9` [high] Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
+- `INS-260405-CF31` [high] Academic research by Freeman et al. finds that entrepreneurs and their families have disproportionately high prevalence of psychiatric conditions, suggesting founder mental health is a systemic issue, not individual weakness.
 - `INS-260325-CEE1` [high] Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260323-CEA8` [high] Nicky Ryan admits fear of losing has made him less active as a competitor because his financial stability, brand, and identity are all tied to competitive results.
+- `INS-260323-4574` [high] Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
 - `INS-260330-5EB6` [high] Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
+- `INS-260403-35EE` [high] VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
 - `INS-260330-9933` [high] Brian Acton left $850M on the table to escape Facebook's monetization of WhatsApp, then funded Signal to rebuild what WhatsApp was supposed to be — illustrating that values misalignment in acquisitions always surfaces.
 - `INS-260323-81F5` [high] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` [high] Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
+- `INS-260402-4B96` [high] Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260330-206B` [high] Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
 - `INS-260323-F9AC` [high] Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260328-8DF8` [high] People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
+- `INS-260403-86C7` [high] With 72% of startup founders experiencing mental health issues and productivity declining sharply after 50 hours/week, lean teams face a sustainability ceiling that AI automation only partially addresses.
 - `INS-260323-8B89` [high] Negative role models teach what kind of human not to be and what actions not to take — this via-negativa learning can be as formative as positive mentorship.
 - `INS-260403-E365` [high] Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 - `INS-260403-D833` [high] Fighting forces your brain into trick-finding mode instead of big-idea mode, making meanness a direct cognitive handicap for founders.
@@ -24,11 +29,18 @@
 - `INS-260404-FD24` [high] The cartoon archetype of the ruthless businessman is mathematically wrong for startups where growth comes from word-of-mouth.
 - `INS-260323-979C` [high] Your passion can start a business, but continuing to run it on personal emotion instead of facts, metrics, and processes is the most common path to failure.
 - `INS-260402-8C0E` [high] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
+- `INS-260325-0C4A` [high] Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
+- `INS-260325-55D8` [high] Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
+- `INS-260403-5762` [high] PMF is unrecognizable in real-time because founders are too deep in operational chaos to see the macro signal.
+- `INS-260405-BA7F` [high] The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
+- `INS-260403-0992` [high] The ratio of effort invested to progress generated is the clearest signal for whether a startup should continue or shut down.
 - `INS-260323-5F8A` [high] Investors who back founders with 3-4 failures are buying battle-tested pattern recognition that lucky first-timers never develop.
 - `INS-260323-5986` [high] In fast-growing companies you cannot learn organically fast enough — systematically interview people who are one or two stages ahead to discover the pattern of what you need 12-24 months from now.
 - `INS-260323-FFAC` [high] Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
 - `INS-260326-20C8` [high] The same mechanism that makes founders avoid hard truths is what makes people avoid emotional intimacy — self-protection destroys what it claims to protect.
 - `INS-260323-95FE` [high] Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
+- `INS-260403-D417` [high] Surrounding yourself with people who can distinguish ugly ducklings from bad ideas is critical for ambitious work.
+- `INS-260404-4D13` [high] Surrounding yourself with people working on similarly ambitious projects creates a local counter-current against the social headwind of skepticism.
 - `INS-260403-7252` [high] Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
 - `INS-260323-A183` [high] Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
 - `INS-260323-5B9F` [high] Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd rather make YouTube content — that self-awareness is the kill signal most founders ignore for months.
@@ -40,17 +52,26 @@
 - `INS-260329-B0F4` [high] The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260330-9BF5` [medium] Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests.
 - `INS-260323-4AF5` [medium] Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.
+- `INS-260403-4AF3` [medium] Research on 25 young billion-dollar founders reveals that hardship and neurodivergence appear where traditional filters would screen them out.
 - `INS-260323-8B22` [medium] Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260323-E2ED` [medium] When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260328-9574` [medium] People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
+- `INS-260403-8C71` [medium] Founders converge on the same small set of books, leaving valuable non-canonical knowledge undiscovered.
+- `INS-260404-CC66` [medium] Founders avoiding vacations face diminishing returns as burnout degrades the decision-making quality that matters most.
 - `INS-260403-0CCB` [medium] Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.
 - `INS-260405-AEA0` [medium] Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
+- `INS-260403-4075` [medium] Grinding 18-hour days degrades the judgment quality that actually determines startup outcomes, making hustle culture self-defeating.
 - `INS-260405-F5D8` [medium] Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
 - `INS-260403-9F9F` [medium] People who want to get rich by changing the world work harder and build better products than those optimizing purely for money.
 - `INS-260403-3E9A` [medium] Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.
+- `INS-260403-F0D4` [medium] Replace 10-year visions with 90-day micro-ambitions that stack and reveal new ceilings you couldn't previously see.
+- `INS-260405-03BB` [medium] Adam Neumann's bid to buy WeWork back — five years after his ousting — exemplifies how founder identity becomes entangled with company narrative to the point of overriding rational capital allocation.
 - `INS-260325-5B08` [medium] Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
 - `INS-260325-788E` [medium] The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
+- `INS-260405-F06C` [medium] Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
+- `INS-260405-AD04` [medium] The 'sadness of a successful exit' is a predictable psychological outcome when founders build identity around a company rather than around themselves as builders.
 - `INS-260328-33E8` [medium] When most of your peers made money from sports betting and crypto, advice about building for years doesn't land.
 - `INS-260405-2CDB` [medium] The urge to perfect before testing is driven by fear of invalidation, not by logic.
 - `INS-260404-108C` [medium] Across money, time, and likely other resources, the biggest losses come not from obvious indulgence but from activities that mimic virtue while destroying value.
+- `INS-260405-93AE` [medium] Data on unicorn founders contradicts the cult of youth that dominates startup culture.
 - `INS-260404-7071` [medium] Young founders benefit from two offsetting mistakes: underestimating obstacles and underestimating their own capacity to grow.

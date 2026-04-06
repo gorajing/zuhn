@@ -1,10 +1,11 @@
 # Tag: physics
 
+- `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
 - `INS-260325-CC49` The physical impossibility of infinite precision may be what prevents mathematical paradoxes from breaking reality.
 - `INS-260323-7BA4` Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260330-8AE8` At near-light-speed, Earth would be genuinely flattened by Lorentz contraction — not an illusion but a real physical consequence of the observer's reference frame.
-- `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260323-2FC3` The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
+- `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
 - `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
@@ -18,6 +19,8 @@
 - `INS-260323-089E` The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
 - `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260330-D0F8` Exit velocity depends on the speed differential and coupling efficiency between bat and ball, not just bat speed.
+- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260330-FF94` Accurate scale models require identifying the dominant physical ratio, not matching every parameter.
 - `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
 - `INS-260404-E0FD` Spinning objects feel lighter because gravity's torque is redirected into precession, not because weight actually decreases.
 - `INS-260330-5265` Our everyday experience with catching baseballs at 90 mph provides zero useful intuition for what happens at 1000 mph because energy scales with velocity squared.
@@ -31,3 +34,4 @@
 - `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
 - `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260405-D3B5` The Magnus effect is negligible at low speeds but at 126m of freefall it curves a basketball dozens of meters sideways — the same physics, radically different outcomes.
+- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.

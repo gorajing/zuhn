@@ -48,13 +48,13 @@ stance: >-
   skepticism
 related:
   - INS-260325-03D5
-  - INS-260325-C523
   - INS-260329-4F3F
   - INS-260330-4267
   - INS-260325-898A
   - INS-260402-9676
   - PRI-260325-EEE9
   - INS-260323-085A
+  - INS-260403-A3E4
 evidence:
   - id: INS-260330-4267
     type: CHALLENGES

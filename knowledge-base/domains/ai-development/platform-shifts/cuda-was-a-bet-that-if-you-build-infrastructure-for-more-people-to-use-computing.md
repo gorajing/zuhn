@@ -50,8 +50,9 @@ related:
   - INS-260325-2FC1
   - INS-260325-5B7F
   - INS-260327-CFD5
+  - INS-260405-7383
   - INS-260405-131B
-  - PRI-260328-5D9E
+  - INS-260327-26BF
 stance: >-
   NVIDIA created CUDA to let any programmer use GPU parallel processing via
   familiar languages

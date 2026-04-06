@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: Is India the Next Economic Giant?'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-is-india-the-next-economic'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Democratic governance alignment between India and the US reduces political
@@ -62,6 +52,16 @@ stance: >-
   India's democratic alignment with the US creates structural advantages for
   American entrepreneurs building in India that no amount of market size in
   authoritarian economies can replicate.
+related:
+  - INS-260330-1293
+  - INS-260403-BE18
+  - INS-260403-FFFE
+  - INS-260403-CFBD
+  - INS-260403-EC66
+  - PRI-260322-9E36
+  - INS-260403-C200
+  - INS-260402-4C4C
+  - INS-260403-2ED2
 ---
 Chamath explicitly contrasts India's democratic ideals aligning with the US against China's political opacity as a key differentiator for investment confidence. This goes beyond simple political risk — democratic alignment creates favorable conditions across multiple layers: rule of law predictability, intellectual property protection norms, regulatory frameworks that American entrepreneurs can navigate, and cultural values around entrepreneurship and innovation.
 

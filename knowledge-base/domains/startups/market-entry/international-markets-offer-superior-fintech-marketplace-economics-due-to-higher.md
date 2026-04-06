@@ -55,7 +55,8 @@ related:
   - INS-260403-4F0D
   - PRI-260403-C337
   - INS-260403-BE7C
-  - PRI-260328-0E23
+  - INS-260404-EC16
+  - INS-260403-BCCB
 evidence:
   - id: INS-260322-BC97
     type: EXTENDS

@@ -1,26 +1,69 @@
 # Tag: china
 
+- `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
+- `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
+- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
 - `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
+- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
+- `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
+- `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
+- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
+- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
+- `INS-260403-583B` China's threats against Japan over Taiwan defense declarations backfired by unifying Japanese society and pushing South Korea into closer partnership with Japan.
+- `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
+- `INS-260405-59AB` Autocrats tend to become more paranoid and destructive over time, turning concentrated power into a systemic liability.
+- `INS-260403-8C41` Historical precedent shows reserve currency transitions happen through gold accumulation during crises, and China is quietly stockpiling gold at rates 10x its official reports.
 - `INS-260325-854D` China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
+- `INS-260403-42E4` China is historically unique as a US competitor — no prior adversary ever matched 60% of US GDP, yet China now contests American technological edge across multiple domains.
+- `INS-260403-C621` China's expanding rare earth export controls create chokepoint leverage over every major technology supply chain.
+- `INS-260403-F2A2` China's state-engineered AI strategy—targeting 90% penetration by 2030—follows the same playbook as its EV and robotics mobilizations.
 - `INS-260323-E214` The biggest misconception about China's economy is that it is centrally commanded — in reality, local mayors and provincial governors drive reform and innovation in a fiercely competitive decentralized system.
+- `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'
+- `INS-260403-BD30` China's renewables push is driven by coal requiring scarce water and 80% of oil imports passing through the 2-mile-wide Malacca Strait — survival needs that won't change with political winds.
+- `INS-260403-2F24` China's distant water fishing fleet doubles as a paramilitary force that asserts territorial claims under civilian cover.
+- `INS-260405-F20C` Beijing designates industry priorities top-down but lets 300+ prefectural governments compete bottom-up to back local firms with subsidies and credit.
+- `INS-260330-BBCF` Since China's 2001 WTO entry, manufacturing value-added flipped from US at 2x China to China at 2x US — a structural shift in hard power.
+- `INS-260403-0789` China installed more solar in one year (278GW) than the US has installed all-time (177GW), creating a structural energy advantage for AI compute.
+- `INS-260404-57D0` China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
+- `INS-260403-5440` The Netherlands seized Chinese-owned chipmaker Nexperia using a 1952 Cold War-era law, signaling dormant statutes are now live weapons in tech geopolitics.
+- `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
+- `INS-260404-5A02` Chamath's decision to skip China's boom entirely due to cultural unfamiliarity — while engaging with India — illustrates how cultural accessibility shapes capital allocation more than pure economic fundamentals.
 - `INS-260323-11FF` Chinese deference to authority is a thousands-year-old implicit contract — stability, security, and prosperity in exchange for some deference — not the blind submission Western observers assume.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
 - `INS-260330-6C3D` A country's population age structure today reveals its economic reality 20-30 years from now with surprising accuracy.
 - `INS-260323-748A` State-sponsored espionage concentrates on technologies where incumbents hold multi-decade monopolies, particularly jet engines and aerospace — the harder something is to replicate independently, the higher its espionage value.
+- `INS-260405-8F5D` Granting a rival access to your market can fund their industrial buildup rather than moderate their regime — the WTO-China case is the canonical example.
+- `INS-260323-DA6F` China's growth has historically been reform-driven: every major reform produced a decade of strong growth, and the current slowdown correlates directly with the slowing pace of reform over the past 15 years.
+- `INS-260403-A1FA` Export controls slow adversary progress during a critical window rather than permanently preventing capability development.
 - `INS-260323-A3DB` Saudi Arabia and Gulf states are accelerating their pivot toward China because the US repeatedly failed to protect oil infrastructure (Aramco 2019, current Iran strikes on Qatar/Saudi/UAE) while prioritizing Israel — creating a structural shift in Middle East security alignment.
 - `INS-260323-59FE` Becoming a hegemonic power requires other nations to voluntarily follow — China lacks this despite economic scale because it demands compliance without offering public goods or making sacrifices.
 - `INS-260321-A3A1` IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics highway routing goods from India through UAE, Saudi Arabia, and Israel to Europe — designed to completely bypass China's Belt and Road Initiative.
 - `INS-260330-0FCE` Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
+- `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
+- `INS-260405-5341` How third parties hedge their bets under rival pressure is a sharper signal of great-power military credibility than direct confrontations.
+- `INS-260404-4BC4` Stacking AI disruption with geopolitical chaos creates compound uncertainty that no single-variable model can price.
 - `INS-260325-B115` Chinese citizens tolerate authoritarian governance partly because they have watched their physical world transform — highways from zero, 1,000 parks in Shanghai, cleaner air — while Americans in static cities lose optimism.
 - `INS-260403-A87D` The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
 - `INS-260321-D183` If US wins the cold war: S&P returns 8-10% annually. If China wins: China gives the US a soft landing (they need US consumption market), S&P returns ~5% annually. Either way, S&P has the highest expected value.
+- `INS-260404-95CA` Project Vault pairs $12B in reserves with bilateral agreements across 11 countries, recognizing that mineral security requires allied coordination, not just stockpiling.
+- `INS-260405-E027` China's national champions are subsidized at cost, dump product to shape spot prices, and receive loans and grants that make them structurally unbeatable by tariffs alone.
 - `INS-260321-3808` When Japan's GDP reached ~70% of US GDP, the US forced the Plaza Accord and Japan stagnated for 35 years. When China's GDP reached ~70% of US GDP, the US initiated the trade/tech war. The pattern: hegemons don't let vassals surpass them.
 - `INS-260321-9E91` The US has wanted to pivot to Asia since the 2000s but keeps getting stuck in the Middle East. IMEC's purpose is to bind Middle Eastern nations economically so they manage their own region, freeing the US to focus on China.
+- `INS-260405-5856` When hundreds of local governments simultaneously subsidize competing firms in the same industry, the winning national champion emerges alongside massive excess capacity.
 - `INS-260321-5655` Venezuela, Iran, Greenland — every major US foreign policy move is about creating oil and resource chokepoints against China, not the surface-level reasons given publicly.
-- `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
+- `INS-260404-25F5` US power generation grew only 1.3x since 2000 while China expanded 7x to ~10,000 TWh, creating a physical infrastructure gap that limits AI deployment capacity.
+- `INS-260403-1B00` Xi has purged his entire military leadership including his closest ally and China's last combat-experienced general, suggesting internal crisis rather than war preparation.
+- `INS-260403-7285` Xi entering a 'lion in winter' paranoia phase may reduce Taiwan invasion risk but make China's domestic policy more erratic.
+- `INS-260403-1F97` Russian crude sellers are again requesting yuan payment from Indian refiners, driven by sanctions pressure rather than ideological de-dollarization.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
+- `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
 - `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
+- `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
+- `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
+- `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.

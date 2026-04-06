@@ -46,12 +46,10 @@ related:
   - INS-260320-76E7
   - PRI-260403-FBA8
   - INS-260320-F78E
+  - INS-260404-D6F7
+  - INS-260403-10CE
   - PRI-260323-50FE
-  - PRI-260328-9F8C
-  - PRI-260405-2DE5
-  - INS-260325-E895
   - INS-260329-D913
-  - INS-260330-BE23
   - INS-260403-C4BE
 stance: AI doesn't just automate procedures — it automates judgment calls
 evidence:

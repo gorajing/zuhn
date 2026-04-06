@@ -47,11 +47,12 @@ stance: >-
   from reaching internal organs, making preparation the critical variable in
   impact survival.
 related:
-  - INS-260323-BEE6
   - INS-260404-CC79
   - INS-260325-3306
   - INS-260330-713C
   - INS-260323-099F
+  - INS-260323-BEE6
+  - INS-260330-9A83
 evidence:
   - id: INS-260323-BEE6
     type: TRANSFERS_TO

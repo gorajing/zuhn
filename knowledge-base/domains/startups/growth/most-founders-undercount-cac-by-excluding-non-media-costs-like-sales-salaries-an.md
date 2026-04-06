@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/cltv-vs-cac-ratio-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     True CAC must include sales salaries, tools, agencies, and content
@@ -58,6 +48,12 @@ stance: >-
   The majority of early-stage startups materially underestimate their true CAC
   by counting only ad spend rather than fully loaded acquisition costs including
   salaries, tools, and agencies.
+related:
+  - INS-260322-7B61
+  - INS-260327-58AC
+  - INS-260403-096C
+  - INS-260330-6611
+  - INS-260327-77FA
 ---
 A common trap in early-stage startups is calculating CAC using only paid media spend, which dramatically understates the real cost of acquiring customers. A complete CAC calculation includes paid media, content production and SEO costs, marketing tools and CRM platforms, sales team salaries and commissions, outsourced agencies, and even onboarding tools for PLG motions.
 

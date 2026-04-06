@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Giving AI Agents Purchasing Power
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/gemini-3-deep-think-a-new-era-of'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     IsoDDE moves beyond AlphaFold's static structure prediction to simulate
@@ -67,6 +57,12 @@ stance: >-
   The more valuable frontier in AI-assisted drug discovery is not predicting
   known protein structures but engineering novel drug candidates that interact
   with cryptic, transient binding sites.
+related:
+  - INS-260330-8BA6
+  - INS-260402-89DE
+  - INS-260403-219F
+  - INS-260323-F7DB
+  - INS-260330-5609
 ---
 AlphaFold won a Nobel Prize for predicting the 3D structure of proteins — a massive scientific achievement. But static structure prediction has a ceiling: proteins are dynamic, and many of the most important drug targets (like KRAS in cancer) only expose binding sites briefly as they flex and move. Earlier models saw a smooth surface; those transient pockets were invisible, which is why aggressive cancers and neurodegenerative diseases were labeled undruggable.
 

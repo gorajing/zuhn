@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "The VC Corner \U0001F4F0 #9"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-vc-corner-9'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The 'sadness of a successful exit' is a predictable psychological outcome
@@ -62,6 +52,17 @@ stance: >-
   Founders who build their identity around their company rather than their craft
   will experience psychological loss at exit, even when the outcome is
   financially successful
+related:
+  - INS-260327-A75B
+  - INS-260327-0061
+  - INS-260327-46F6
+  - INS-260403-9FEA
+  - INS-260403-53A0
+  - PRI-260403-5C44
+  - INS-260327-200C
+  - PRI-260328-E53E
+  - INS-260403-F4E7
+  - INS-260403-EEE6
 ---
 Jason Cohen's essay on startup identity highlights a structural trap: founders who pour years into a company often fuse their sense of self with the company's existence. When an exit occurs — even a wildly successful one — this triggers a form of identity grief. The company that defined them is now controlled by someone else, and the daily rituals, team, and mission that gave life structure are gone.
 

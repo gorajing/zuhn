@@ -17,27 +17,14 @@ tags:
 sources:
   - type: blog
     title: A PM’s guide to influence
-    author:
-      - '@type': Person
-        name: Jules Walter
-        url: 'https://substack.com/@juleswalter'
-        description: >-
-          Product Leader on Google Gemini. Previously at YouTube and Slack.
-          Co-Founder and Board Member at CodePath.org and Black Product Managers
-          Network.
-        identifier: 'user:1991078'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!LA7Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c76bd7-966b-4e7f-bba3-a22fff9a98b9_500x500.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!LA7Z!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c76bd7-966b-4e7f-bba3-a22fff9a98b9_500x500.jpeg
+    author: Jules Walter
     url: 'https://www.lennysnewsletter.com/p/a-pms-guide-to-influence'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Keep a running notes document tracking exec questions and feedback to
@@ -60,6 +47,12 @@ stance: >-
   Systematically documenting the questions executives ask and the feedback they
   give across meetings creates a durable predictive model that dramatically
   improves influence effectiveness.
+related:
+  - INS-260403-1984
+  - INS-260329-DFD1
+  - INS-260322-24FB
+  - INS-260403-EA31
+  - INS-260322-4757
 ---
 Walter describes maintaining a personal notes document where he records the specific questions executives ask and the feedback they give across various meetings and forums. Over time, this document becomes a predictive model of each executive's decision-making patterns, concerns, and priorities.
 

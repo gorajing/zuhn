@@ -47,10 +47,10 @@ stance: >-
   incumbents locked into fixed on-premise infrastructure investments
 related:
   - INS-260330-F5A1
+  - INS-260405-3240
   - INS-260325-5B7F
+  - INS-260404-00DE
   - INS-260403-5BBE
-  - INS-260329-ADCD
-  - INS-260403-7BA1
 evidence:
   - id: INS-260330-F5A1
     type: TRANSFERS_TO

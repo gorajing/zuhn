@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The End of the VC Market\U0001F4C9, How to Start Your Own VC Fund\U0001F4A1, The Future of Work \U0001F4BB"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-end-of-the-vc-market-how-to-start'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Optimizing your startup's invest-ability profile before pitching reduces
@@ -57,6 +47,17 @@ stance: >-
   Systematically reducing investor objections through pre-optimization of
   fund-ability signals compresses fundraising timelines more effectively than
   iterating on pitch decks.
+related:
+  - INS-260328-9415
+  - INS-260403-B90F
+  - INS-260402-2300
+  - INS-260403-D0BA
+  - INS-260403-943E
+  - PRI-260403-26B9
+  - PRI-260405-E9C5
+  - INS-260405-94A1
+  - INS-260403-7E27
+  - INS-260403-53C0
 ---
 The traditional fundraising loop—prepare materials, pitch, receive generic objections, adjust, repeat—is fundamentally reactive. Acopia Ventures' approach flips this by using insider VC knowledge to pre-optimize startups for invest-ability before they ever pitch, reportedly reducing investor objections by 70%+ and compressing timelines to under 2.5 months.
 

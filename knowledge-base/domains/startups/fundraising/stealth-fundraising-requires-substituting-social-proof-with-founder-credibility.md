@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "The Secrets of Stealth Startups \U0001F512\U0001F910"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-secrets-of-stealth-startups'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Without public traction metrics or media validation, stealth fundraising
@@ -58,6 +48,14 @@ stance: >-
   Stealth startups that succeed at fundraising do so primarily through founder
   reputation and warm networks rather than through compelling stealth pitches to
   cold investors
+related:
+  - INS-260403-1CC6
+  - INS-260404-7ED7
+  - INS-260403-5953
+  - INS-260403-1984
+  - INS-260321-3521
+  - INS-260403-A9C9
+  - INS-260403-9067
 ---
 The article notes that convincing investors to back stealth ventures 'requires strong networks and compelling storytelling' since these companies can't rely on media attention. This fundamentally changes the fundraising dynamic — the evaluation shifts from traction-based to trust-based.
 

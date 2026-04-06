@@ -51,11 +51,11 @@ stance: >-
   ecosystem will outperform pure store-of-value assets because usage and value
   creation reinforce each other.
 related:
-  - INS-260323-9A29
-  - INS-260330-DCFB
-  - INS-260330-C870
-  - INS-260325-A54F
-  - INS-260330-20FD
+  - INS-260404-688B
+  - INS-260330-696D
+  - INS-260404-0153
+  - INS-260405-6EE5
+  - INS-260403-5611
 evidence:
   - id: INS-260329-388E
     type: TRANSFERS_TO

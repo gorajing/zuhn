@@ -43,10 +43,10 @@ resolutions:
     real relationships rewards consistent cooperation.
 related:
   - INS-260325-7974
+  - INS-260404-34DB
   - INS-260403-6340
   - INS-260330-C8D7
-  - INS-260323-9AA5
-  - INS-260323-7212
+  - INS-260405-4EAA
   - INS-260326-7F56
 stance: >-
   What is rational for one person can be irrational for the group — rational

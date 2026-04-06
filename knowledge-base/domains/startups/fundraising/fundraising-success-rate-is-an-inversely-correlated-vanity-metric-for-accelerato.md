@@ -46,11 +46,11 @@ stance: >-
   High Demo Day fundraising rates signal an accelerator is being too
   conservative in admissions, not that it is performing well.
 related:
+  - INS-260403-1E5F
+  - INS-260403-4E51
+  - INS-260403-713B
   - INS-260404-2250
-  - INS-260322-0C91
-  - INS-260328-372B
-  - PRI-260403-26B9
-  - INS-260328-3F19
+  - INS-260404-EFA0
 evidence:
   - id: INS-260404-2250
     type: SUPPORTS

@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: A Conversation with One of My 8090 Co-Founders
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/a-conversation-with-one-of-my-8090'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Biological neurons operate in milliseconds on minimal power; H100 GPUs
@@ -68,6 +58,17 @@ stance: >-
   engineering trade-offs—brains are energy-efficient but slow; silicon is
   blindingly fast but energetically expensive, and neither will simply converge
   to the other.
+related:
+  - INS-260325-40DC
+  - INS-260325-1D95
+  - INS-260325-CDEA
+  - INS-260325-2999
+  - INS-260327-CB82
+  - INS-260329-FCD3
+  - INS-260330-4C5A
+  - INS-260330-CA62
+  - INS-260330-3E3C
+  - INS-260403-7342
 ---
 Biological brains run at millisecond timescales but are extraordinarily power-efficient—the human brain runs on roughly 20 watts. Artificial systems like H100 GPU clusters can process information billions of times faster, but at the cost of megawatts of energy consumption at scale. These aren't two points on a single performance curve but two distinct architectural philosophies.
 

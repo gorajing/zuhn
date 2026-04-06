@@ -17,44 +17,20 @@ sources:
     title: >-
       An operator’s guide to product strategy | Chandra Janakiraman (CPO at
       VRChat, ex-Meta, Headspace, Zynga)
-    author:
-      '@type': Organization
-      name: Lenny's Newsletter
-      url: 'https://www.lennysnewsletter.com'
-      description: >-
-        Deeply researched product, growth, and career advice—newsletter,
-        podcast, community, and living library
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 1000000
-      identifier: 'pub:10845'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      sameAs:
-        - 'https://twitter.com/lennysan'
+    author: >-
+      {"@type":"Organization","name":"Lenny's
+      Newsletter","url":"https://www.lennysnewsletter.com","description":"Deeply
+      researched product, growth, and career advice—newsletter, podcast,
+      community, and living
+      library","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":1000000},"identifier":"pub:10845","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"sameAs":["https://twitter.com/lennysan"]}
     url: >-
       https://www.lennysnewsletter.com/p/an-operators-guide-to-product-strategy-chandra-janakiraman
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Strategic pillars should be scored across four dimensions: expected impact,
@@ -79,6 +55,13 @@ stance: >-
   Evaluating strategic pillars on expected impact alone leads to overconfidence
   — teams must also assess certainty of impact, clarity of levers, and
   uniqueness of levers to avoid picking strategies they cannot actually execute.
+related:
+  - INS-260404-F017
+  - INS-260404-E5EB
+  - INS-260403-280B
+  - INS-260327-DC0B
+  - INS-260327-6AA0
+  - INS-260327-643C
 ---
 Most strategy evaluation devolves into 'which area has the biggest potential impact?' — a single-axis comparison that ignores execution risk. Chandra's four-dimension framework adds three critical reality checks: How confident are we in the impact estimate? Do we know specifically what actions would drive results? Are those actions something we're uniquely positioned to do?
 

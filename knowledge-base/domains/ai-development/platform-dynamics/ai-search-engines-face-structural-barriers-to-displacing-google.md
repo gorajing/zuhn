@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "EU and US to work together on AI guidelines\U0001F916, YC's Secret SAFE\U0001F4DC, Climate Risk Landscape\U0001F30D"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/eu-and-us-to-work-together-on-ai'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Despite AI advances, Google's structural advantages in data, distribution,
@@ -54,5 +44,16 @@ stance: >-
   AI-powered search engines cannot kill Google because Google's data moat,
   distribution lock-in, and advertising ecosystem create compounding structural
   advantages
+related:
+  - INS-260325-9C89
+  - INS-260322-D7B1
+  - INS-260329-8D70
+  - INS-260329-01F2
+  - INS-260403-B5C0
+  - INS-260403-A0B0
+  - INS-260405-C17A
+  - INS-260405-DA33
+  - INS-260405-0810
+  - PRI-260328-1D90
 ---
 The Verge's analysis that AI search engines 'really can't kill Google' points to a deeper principle about platform displacement. Google's moat isn't just search quality—it's the compounding flywheel of default browser placement, advertiser ecosystem lock-in, decades of behavioral data, and integration across Android, Chrome, and Gmail. AI search challengers like Perplexity may capture niche use cases, but displacing the full search ecosystem requires simultaneously defeating distribution advantages, advertiser network effects, and user habits. This mirrors historical patterns where seemingly superior technologies failed to displace entrenched platforms because the incumbent's advantage was systemic rather than feature-based.

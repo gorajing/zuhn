@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The VC Math Problem\U0001F4CA, Inside a16z’s Speedrun\U0001F4B8, The 5% Rule for AGI\U0001F9E0"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-vc-math-problem-inside-a16zs'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Roll-up models applying acquisitions and AI to the $6T+ services market may
@@ -60,6 +50,16 @@ stance: >-
   The $6T+ services market is more ripe for technology-driven consolidation
   through acquisitions and applied AI than building new SaaS products,
   potentially creating larger outcomes than the SaaS wave.
+related:
+  - INS-260322-90E7
+  - INS-260329-196A
+  - INS-260330-809A
+  - INS-260403-9106
+  - INS-260403-0FEC
+  - INS-260405-77C9
+  - INS-260403-2D9B
+  - INS-260404-A53F
+  - INS-260403-27AC
 ---
 General Catalyst's thesis that roll-ups could be bigger than SaaS challenges the prevailing startup orthodoxy of building software products. The argument centers on a $6T+ services market (legal, IT, customer service, property management) that is fragmented, inefficient, and now vulnerable to consolidation through a combination of acquisitions and applied AI.
 

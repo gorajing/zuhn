@@ -52,7 +52,6 @@ stance: >-
 related:
   - INS-260325-CB41
   - INS-260323-3C7F
-  - INS-260327-7DBF
   - INS-260327-A00A
   - INS-260329-BFBF
   - INS-260330-125E
@@ -60,6 +59,7 @@ related:
   - INS-260330-D0B4
   - INS-260330-12D5
   - INS-260403-D2A5
+  - INS-260403-53D9
 evidence:
   - id: INS-260327-A00A
     type: TRANSFERS_TO

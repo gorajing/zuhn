@@ -39,10 +39,10 @@ stance: >-
   iron, B12), collagen-rich foods (hydroxyproline, glycine), and zinc-rich
   animal foods that plant sources cannot match
 related:
+  - INS-260327-77B7
   - INS-260327-ED21
   - INS-260327-D6E0
   - INS-260327-1270
-  - INS-260327-77B7
   - PRI-260328-D9D0
 ---
 Hair growth requires specific nutrients concentrated in organ meats (copper, iron, B12), collagen-rich foods (hydroxyproline, glycine), and zinc-rich animal foods that plant sources cannot match

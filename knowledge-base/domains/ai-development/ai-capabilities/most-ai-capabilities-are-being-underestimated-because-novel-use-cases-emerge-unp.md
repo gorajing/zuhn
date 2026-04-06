@@ -48,11 +48,11 @@ stance: >-
   impactful use cases emerge from unexpected combinations of technology by users
   solving problems that model creators never anticipated.
 related:
+  - INS-260405-839E
+  - INS-260405-474C
   - INS-260327-B17E
   - INS-260323-7D3C
   - INS-260323-8AA1
-  - PRI-260403-53D6
-  - INS-260329-793D
   - INS-260327-8FD4
 evidence:
   - id: INS-260327-B17E

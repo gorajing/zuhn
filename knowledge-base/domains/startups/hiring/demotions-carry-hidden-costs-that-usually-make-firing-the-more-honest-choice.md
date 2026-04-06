@@ -46,10 +46,10 @@ stance: >-
   authority erosion, and cultural confusion that typically outweighs the
   perceived kindness of keeping them
 related:
-  - INS-260326-0C14
   - INS-260330-A9CB
+  - INS-260403-2ED2
   - PRI-260328-37D8
+  - INS-260403-272C
   - PRI-260328-BEAB
-  - PRI-260324-5F05
 ---
 The CEO instinct to demote rather than fire a hardworking but underqualified executive feels like a win-win — they keep a loyal employee, avoid a hard conversation, and signal that effort matters. But viewed through the company's eyes, it creates cascading problems: engineers making 0.1% see a demoted non-performer keeping 1.5% equity; the demoted person loses respect from reports who knew their previous title; and the cultural message becomes that effort without results earns protection. Taking back the equity to fix the fairness problem would make the person unproductive. The decision framework should account for: equity differential, authority dynamics post-demotion, and whether the person was an external hire (with above-market comp) vs an internal promotion.

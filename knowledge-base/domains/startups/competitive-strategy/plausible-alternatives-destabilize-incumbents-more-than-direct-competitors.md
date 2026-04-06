@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Why Nvidia Paid $20B for a Small Startup
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/nvidia-groq-deal-venture-capital'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Plausible alternatives erode incumbent control more effectively than head-on
@@ -58,6 +48,14 @@ stance: >-
   declaring competitive intent are more strategically threatening than direct
   competitors because they spread quietly and give buyers room to rethink
   commitments.
+related:
+  - INS-260330-0C96
+  - INS-260405-DEF2
+  - INS-260403-C8FB
+  - PRI-260405-6216
+  - INS-260330-376E
+  - INS-260330-6050
+  - INS-260327-C6DC
 ---
 Direct competitors declare intent and invite immediate response from incumbents. Plausible alternatives, by contrast, spread behind the scenes — giving buyers room to test, wait, and rethink commitments without forcing a confrontation. This is especially potent in infrastructure markets where architectural choices lock in years of cost and performance tradeoffs.
 

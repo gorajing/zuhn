@@ -2,6 +2,7 @@
 
 - `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260330-8DCE` Vet co-founders through 20+ hours of deep conversation including explicit divorce scenarios, not just friendship duration.
+- `INS-260404-B0DC` Sustained high-volume free value delivery builds trust capital that later converts into business opportunities at rates impossible through cold outreach.
 - `INS-260330-8D27` Long-form conversation formats (2-5 hours) produce qualitatively different insights because duration itself relaxes subjects into revealing authentic complexity.
 - `INS-260327-BE1F` Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.
 - `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.

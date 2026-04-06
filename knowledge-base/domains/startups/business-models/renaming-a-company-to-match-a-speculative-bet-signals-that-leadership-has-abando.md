@@ -40,11 +40,11 @@ stance: >-
   signals that leadership has psychologically departed the core business before
   the new business has proven viable.
 related:
+  - INS-260405-AD04
   - INS-260330-1089
   - PRI-260328-BEAB
+  - INS-260405-3554
   - INS-260327-F544
-  - PRI-260403-2E59
-  - INS-260405-9FD9
   - INS-260330-BC6F
   - INS-260404-E4B8
 evidence:

@@ -48,11 +48,11 @@ resolutions:
     structured execution, and verifiable outputs will see the most dramatic
     agent-driven compression.
 related:
+  - INS-260405-3E4E
+  - INS-260403-8E58
   - INS-260330-D5CD
   - INS-260327-E0B0
-  - INS-260329-C56D
-  - INS-260330-FC4D
-  - INS-260329-9A7F
+  - INS-260405-A309
 stance: A Bali-based cybersecurity consultant now works 30 minutes per day
 evidence:
   - id: INS-260329-C56D

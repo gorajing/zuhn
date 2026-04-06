@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260329-85E9
   - INS-260329-4842
+  - INS-260403-C907
   - PRI-260403-9E80
   - INS-260329-BC11
   - PRI-260321-558C
-  - INS-260330-3B0B
 evidence:
   - id: INS-260329-85E9
     type: TRANSFERS_TO

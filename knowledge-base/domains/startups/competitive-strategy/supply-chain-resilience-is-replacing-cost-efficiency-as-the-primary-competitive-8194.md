@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: How Trump’s 2025 Tariffs Could Reshape Startups
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-trumps-2025-tariffs-impact-startups'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Tariffs up to 34% on China/Taiwan/Korea imports are forcing hardware
@@ -63,6 +53,17 @@ stance: >-
   Startups that proactively diversify supply chains away from single-country
   dependencies will gain durable competitive advantages over those optimizing
   purely for cost.
+related:
+  - INS-260322-642F
+  - INS-260402-C030
+  - INS-260403-D704
+  - INS-260404-183A
+  - INS-260403-CACB
+  - INS-260404-8BC7
+  - INS-260403-20ED
+  - INS-260405-1CC3
+  - INS-260403-8806
+  - INS-260403-2FB2
 ---
 The traditional startup playbook of optimizing supply chains purely for speed and cost—typically centering on Shenzhen manufacturing—is breaking down under tariff pressure. Startups building electronics, robotics, IoT, medtech, and mobility products face cascading cost increases from components through assembly, packaging, and shipping. Companies are scrambling to nearshore to Vietnam, Mexico, or Eastern Europe, with diversification timelines ranging from 3-6 months for contract manufacturers to 6-12 months for custom tooling.
 

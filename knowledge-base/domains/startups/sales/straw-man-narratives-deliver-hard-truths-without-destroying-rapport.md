@@ -47,11 +47,11 @@ stance: >-
   earlier conversations, authority figures) is more effective than direct
   confrontation because it separates the message from the messenger.
 related:
+  - INS-260403-2647
   - INS-260329-F063
   - INS-260403-53AA
+  - INS-260403-4314
   - INS-260403-C37D
-  - PRI-260403-0ABD
-  - INS-260404-5BBF
 evidence:
   - id: INS-260329-F063
     type: EXTENDS

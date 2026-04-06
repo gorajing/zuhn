@@ -52,13 +52,14 @@ stance: >-
   favors minds that practice imagined rediscovery of existing inventions —
   preparation creates the conditions for lucky breakthroughs.
 related:
-  - INS-260325-9C1E
   - INS-260323-2394
-  - INS-260325-568A
   - INS-260323-A0CE
+  - INS-260325-9C1E
+  - INS-260325-568A
   - INS-260330-125E
   - PRI-260328-9EC9
   - INS-260330-F2EB
+  - INS-260327-98DE
 evidence:
   - id: INS-260325-9C1E
     type: TRANSFERS_TO

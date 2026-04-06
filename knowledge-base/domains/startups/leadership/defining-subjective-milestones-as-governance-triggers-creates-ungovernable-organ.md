@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Quick Essay: A Short History of OpenAI '
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/a-short-history-of-openai'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     OpenAI's charter gave the board power to determine when AGI was achieved — a
@@ -60,6 +50,12 @@ stance: >-
   Embedding subjective milestone definitions like AGI into corporate governance
   documents creates power vacuums that guarantee conflict when the milestone
   approaches.
+related:
+  - INS-260327-2958
+  - INS-260328-896B
+  - INS-260330-85C2
+  - INS-260405-4803
+  - INS-260403-B374
 ---
 OpenAI's structure gave the nonprofit board responsibility for determining when the company achieved AGI, defined as 'a highly autonomous system that outperforms humans at most economically valuable work.' This is inherently subjective and carries enormous financial stakes: the AGI determination could theoretically exclude certain technologies from Microsoft's commercial license.
 

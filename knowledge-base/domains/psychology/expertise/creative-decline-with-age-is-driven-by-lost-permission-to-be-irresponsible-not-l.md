@@ -46,10 +46,9 @@ stance: >-
   their cognitive abilities have declined.
 related:
   - INS-260329-3924
-  - INS-260330-F37B
   - INS-260403-21AF
   - INS-260330-8AC8
+  - INS-260330-F37B
   - PRI-260403-3906
-  - INS-260403-5CD6
 ---
 Graham offers a reframe on age-related creative decline: it's not primarily about losing cognitive edge, but about losing the social permission to pursue apparently random, irresponsible side projects. When you're young and nobody cares what you do, you can freely follow bus-ticket-collector obsessions into unpromising territory. Once established, the same behavior reads as evidence of decline rather than exploration. The solution — 'remain irresponsible' — is simple but socially costly. This has practical implications for anyone in mid-career: deliberately carving out time for projects that look pointless to outsiders may be the most important thing you can do to maintain creative output.

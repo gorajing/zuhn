@@ -47,7 +47,6 @@ stance: >-
   structural limits.
 related:
   - INS-260324-4ACD
-  - INS-260327-8D5D
   - INS-260327-DFF1
   - INS-260327-1555
   - PRI-260328-6136
@@ -56,6 +55,7 @@ related:
   - INS-260327-B064
   - INS-260327-0D3C
   - INS-260327-99E5
+  - INS-260330-4416
 evidence:
   - id: INS-260327-DFF1
     type: CHALLENGES

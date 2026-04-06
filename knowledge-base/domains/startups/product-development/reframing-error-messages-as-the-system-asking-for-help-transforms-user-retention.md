@@ -49,22 +49,22 @@ stance: >-
 related:
   - INS-260327-C9A7
   - INS-260329-A6FB
-  - INS-260402-4F0E
-  - INS-260329-F635
-  - INS-260329-DABC
   - INS-260330-16CD
+  - INS-260329-DABC
+  - INS-260403-12FD
+  - INS-260325-EE14
 evidence:
   - id: INS-260325-EE14
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F635
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-DABC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-A6FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-FFCB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-C9A7
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Dr. Chuck reframes Python syntax errors from 'the computer hates you' to 'Python's admission that it doesn't understand what you're trying to say — please help me.' This single reframe transforms the emotional valence of errors from shame-inducing to collaboration-inviting. The technique works because humans anthropomorphize systems — when a system appears to reject you, the instinctive response is to disengage. When it appears to ask for help, the instinctive response is to assist. This principle applies directly to product onboarding: error messages, validation failures, and setup problems should be written as the product's confusion ('I couldn't find that file — could you check the path?') rather than the user's failure ('Invalid file path'). Products that implement this reframe see measurably lower churn during the critical first-use window.

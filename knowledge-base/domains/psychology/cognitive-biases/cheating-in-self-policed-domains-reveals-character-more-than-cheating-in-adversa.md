@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260327-4C73
   - INS-260329-8CA3
+  - INS-260402-67B4
   - INS-260325-64FD
   - INS-260327-439A
-  - INS-260402-A2F1
 ---
 Different domains have radically different enforcement norms. Soccer tolerates flopping, hockey tolerates fighting — these are adversarial contexts where pushing boundaries is expected. Golf, by contrast, is a religion of personal integrity where players self-report scores and can be disqualified for failing to sign a scorecard. When someone cheats in a self-policed domain, it reveals something fundamentally different about their psychology than cheating where everyone pushes boundaries. The diagnostic power comes from the absence of external pressure to cheat — the violation is purely self-generated.
 

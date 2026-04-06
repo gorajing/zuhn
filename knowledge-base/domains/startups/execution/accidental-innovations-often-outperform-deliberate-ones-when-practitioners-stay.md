@@ -48,11 +48,11 @@ stance: >-
   The most transformative startup innovations emerge from pragmatic constraints
   rather than strategic planning
 related:
+  - INS-260403-3122
   - INS-260330-B390
+  - INS-260404-AFE6
+  - INS-260405-2F43
   - INS-260327-8D5D
-  - INS-260403-E185
-  - INS-260403-5B46
-  - INS-260403-298E
 evidence:
   - id: INS-260403-E185
     type: CHALLENGES

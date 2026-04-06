@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Forbes’ 25 Next Unicorns\U0001F984, Women Now Hold 20% of Top VC Roles\U0001F469‍\U0001F4BC, The Case for Optimism\U0001F31F"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-case-for-optimism-women-now-hold'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Carta data shows longer gaps between rounds, record seed valuations, and
@@ -58,6 +48,17 @@ stance: >-
   The current venture market is undergoing a structural reshuffling — not a
   recovery — where capital efficiency and lean operations will permanently
   replace growth-at-all-costs as the dominant fundraising strategy.
+related:
+  - INS-260321-E8CB
+  - INS-260323-422B
+  - INS-260403-1034
+  - INS-260403-7219
+  - INS-260403-3D75
+  - INS-260403-6740
+  - INS-260403-7DC7
+  - INS-260403-70B9
+  - INS-260403-1D7D
+  - INS-260403-9DEC
 ---
 Multiple data sources converge on the same signal: Carta reports longer gaps between funding rounds, record-high seed valuations paired with smaller teams, and investors pushing leaner cap tables. PitchBook's Q4 2024 report shows the tentative rebound slipping, with tariffs and weaker exits compounding the pressure.
 

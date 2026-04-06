@@ -48,12 +48,14 @@ stance: >-
   structured self-assessment
 related:
   - INS-260322-D1AB
-  - INS-260327-1787
   - PRI-260323-9D46
   - INS-260403-4935
+  - INS-260403-F943
   - INS-260325-FDA9
-  - INS-260329-33D4
+  - INS-260327-1787
   - INS-260403-EA2C
+  - INS-260322-F891
+  - INS-260405-5E18
 evidence:
   - id: INS-260322-F891
     type: TRANSFERS_TO

@@ -47,10 +47,10 @@ stance: >-
   metaphor shapes which cognitive capacities we value and which we dismiss.
 related:
   - INS-260325-9C1E
+  - INS-260403-841F
   - INS-260327-E41B
   - INS-260330-189F
   - PRI-260328-D292
-  - INS-260325-2832
   - INS-260330-5F36
 evidence:
   - id: INS-260330-5F36

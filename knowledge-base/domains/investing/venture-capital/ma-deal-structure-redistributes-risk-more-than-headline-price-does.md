@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'The Anatomy of an M&A Deal: Structure, Dilution, EPS'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/deal-structuring-model-template-excel'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Deal structure (cash/stock/debt/earn-out mix) determines who carries
@@ -60,6 +50,16 @@ stance: >-
   different outcomes for founders depending on whether payment is cash, stock,
   debt, or earn-out — making structure the primary determinant of deal quality,
   not price.
+related:
+  - INS-260403-3D38
+  - INS-260403-9D7C
+  - INS-260403-53AF
+  - INS-260329-27DF
+  - INS-260405-863C
+  - INS-260405-7698
+  - INS-260403-6EC8
+  - INS-260403-BF8C
+  - INS-260403-2F60
 ---
 Most M&A conversations anchor on price because it's the cleanest number on the page. But the payment mechanism — cash vs. stock vs. debt vs. earn-outs — is what actually determines who bears downside risk, who retains control, and who has leverage after closing. Cash-heavy deals protect the seller from acquirer stock risk but increase the acquirer's leverage ratio. Stock-heavy deals preserve the acquirer's balance sheet but dilute existing shareholders and tie the seller's outcome to the acquirer's future performance. Two deals at the same $100M valuation can leave a founder in completely different positions depending on this mix.
 

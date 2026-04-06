@@ -52,11 +52,11 @@ stance: >-
   disruptive the fix becomes.
 related:
   - INS-260330-3EDA
+  - INS-260405-75AC
   - INS-260330-1C61
   - INS-260330-8134
   - INS-260330-615D
   - PRI-260405-64B2
-  - INS-260402-26B0
 evidence:
   - id: INS-260330-1C61
     type: TRANSFERS_TO

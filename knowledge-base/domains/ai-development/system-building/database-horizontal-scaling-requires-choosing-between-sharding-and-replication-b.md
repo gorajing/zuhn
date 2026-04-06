@@ -56,14 +56,12 @@ stance: >-
   fundamentally different performance needs and should be chosen based on
   whether the workload is write-heavy or read-heavy
 related:
-  - INS-260320-4773
   - INS-260329-818A
   - INS-260329-CF48
   - INS-260329-148D
   - INS-260329-5F96
-  - INS-260329-057F
-  - INS-260405-AD55
-  - INS-260329-4696
+  - INS-260405-A4DB
+  - INS-260402-C301
   - INS-260330-73F3
 evidence:
   - id: INS-260329-818A

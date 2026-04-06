@@ -50,8 +50,9 @@ related:
   - PRI-260323-ADA4
   - INS-260327-DECA
   - INS-260325-5CB1
+  - INS-260404-CC8B
+  - PRI-260405-B144
   - INS-260323-257D
-  - PRI-260321-5BF1
 stance: >-
   Energy is the current AI infrastructure bottleneck (driving renewed interest
   in nuclear), but once solved, cooling becomes the next constraint

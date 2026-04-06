@@ -40,10 +40,10 @@ stance: >-
   hormone production
 related:
   - INS-260327-5B5C
+  - INS-260404-C606
   - INS-260325-1550
   - INS-260327-5943
   - INS-260327-7000
-  - INS-260325-085E
   - INS-260330-4B4F
 evidence:
   - id: INS-260330-4B4F

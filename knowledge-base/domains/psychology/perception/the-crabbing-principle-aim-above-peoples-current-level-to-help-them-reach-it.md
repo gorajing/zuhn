@@ -51,11 +51,11 @@ stance: >-
   higher than their current reality — is what promotes them to what they are
   actually capable of becoming.
 related:
+  - INS-260405-36AF
+  - INS-260405-7196
   - INS-260325-0873
   - INS-260330-C367
-  - INS-260330-4711
-  - INS-260320-B99F
-  - INS-260323-9146
+  - INS-260403-1ECB
 evidence:
   - id: INS-260320-B99F
     type: TRANSFERS_TO

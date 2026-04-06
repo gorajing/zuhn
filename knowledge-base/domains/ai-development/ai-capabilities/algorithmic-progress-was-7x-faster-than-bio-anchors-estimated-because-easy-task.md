@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: What Happened With Bio Anchors?
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/what-happened-with-bio-anchors'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Bio Anchors estimated 30% yearly algorithmic progress from easy-task
@@ -62,6 +52,17 @@ stance: >-
   Measuring algorithmic progress on solved benchmarks like ImageNet
   systematically underestimates the rate of progress on frontier tasks where
   more room for improvement exists.
+related:
+  - INS-260323-3F39
+  - INS-260323-6C84
+  - INS-260327-40DA
+  - INS-260328-5431
+  - INS-260330-4267
+  - INS-260330-77E2
+  - INS-260404-83C6
+  - INS-260405-82F3
+  - INS-260403-F0DC
+  - INS-260321-6437
 ---
 Ajeya Cotra's Bio Anchors report based its algorithmic progress estimate primarily on Hernandez & Brown 2020, which measured how much cheaper it became to match AlexNet's 2012 performance. But later research showed that apparent algorithmic progress speed varies by an order of magnitude depending on task difficulty — easy tasks where low-hanging fruit is already picked show slower progress than hard frontier tasks with room to improve.
 

@@ -47,13 +47,12 @@ stance: >-
   are inherently fragile because a single failure triggers total collapse rather
   than adaptation.
 related:
-  - INS-260323-7185
   - INS-260330-E474
+  - INS-260323-DF0F
   - INS-260330-6AED
   - INS-260325-3C17
-  - INS-260327-32BA
-  - INS-260327-64A5
-  - PRI-260323-B798
+  - INS-260327-8B9A
+  - INS-260325-793A
 evidence:
   - id: INS-260330-6AED
     type: TRANSFERS_TO

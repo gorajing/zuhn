@@ -46,10 +46,10 @@ resolutions:
     and 'weaponry' for future ventures.
 related:
   - PRI-260405-E256
+  - INS-260329-5FB5
   - PRI-260323-1B96
   - INS-260327-643E
   - INS-260323-19A8
-  - INS-260402-D739
   - INS-260329-ECB5
   - INS-260330-30CE
 stance: >-

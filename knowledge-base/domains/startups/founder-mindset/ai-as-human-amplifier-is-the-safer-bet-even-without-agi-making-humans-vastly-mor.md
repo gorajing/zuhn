@@ -45,9 +45,9 @@ resolutions:
 related:
   - INS-260325-2832
   - INS-260325-7B58
+  - INS-260403-6EE7
   - PRI-260324-1134
   - INS-260325-8729
-  - INS-260325-537A
   - INS-260327-C4AD
 stance: >-
   Even if AGI never arrives, AI as an extension of human will and amplifier of

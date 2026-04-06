@@ -19,24 +19,14 @@ sources:
     title: >-
       Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of
       Software
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/is-saas-dying-for-good-a-look-at'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The AI vs SaaS narrative mirrors the SaaS vs on-premise transition —
@@ -62,6 +52,12 @@ stance: >-
   AI will not replace SaaS but will subsume it into a hybrid model, just as
   cloud-based SaaS absorbed on-premise software rather than eliminating it
   entirely.
+related:
+  - INS-260325-F451
+  - INS-260403-B198
+  - INS-260403-BAE1
+  - INS-260403-4314
+  - INS-260322-5678
 ---
 When cloud-based SaaS emerged, many predicted the death of on-premise software. What actually happened was more nuanced: on-premise didn't vanish, it adapted. Companies like Microsoft transitioned from boxed software to cloud subscriptions. The same pattern is playing out with AI and SaaS. Salesforce embedded Einstein AI, Microsoft added Copilot to 365, and Notion integrated AI features — they're absorbing the threat rather than being replaced by it.
 

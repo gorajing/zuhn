@@ -47,11 +47,11 @@ stance: >-
   and the importance of the topic, because big new ideas about important topics
   are rare
 related:
+  - INS-260404-1299
   - INS-260404-5AC1
   - INS-260403-21A5
+  - INS-260327-98DE
   - INS-260403-280B
-  - INS-260323-2FC3
-  - INS-260402-4605
 evidence:
   - id: INS-260404-5AC1
     type: SUPPORTS

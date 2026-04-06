@@ -50,16 +50,16 @@ stance: >-
   harms the pitch because speculative guesses about monetization crowd out
   discussion of the problem and product where founders have genuine expertise.
 related:
-  - INS-260322-9DDD
   - INS-260322-EF20
   - INS-260328-070D
   - INS-260403-F6F9
   - INS-260403-C8B9
   - INS-260403-97F5
   - INS-260404-FF0B
-  - INS-260404-D4A0
   - PRI-260405-2A11
   - INS-260405-092A
+  - INS-260405-C22F
+  - INS-260404-BD46
 ---
 Graham makes a stronger claim than 'don't waste time on business models' — he argues the discussion is actively negative-value. A VC who spoke at YC described investing in experienced founders whose business model was wrong and would probably change three times. If seasoned repeat founders with millions in funding have bad business models, early-stage founders' models are certainly wrong too.
 

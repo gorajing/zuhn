@@ -49,7 +49,6 @@ stance: >-
   instead take time to evaluate all perspectives make dramatically better
   decisions than those who act on first instinct.
 related:
-  - INS-260323-1452
   - INS-260320-DDD9
   - INS-260321-99C0
   - INS-260325-788E
@@ -59,6 +58,7 @@ related:
   - INS-260327-E833
   - INS-260328-A4EB
   - INS-260329-4531
+  - INS-260329-57B3
 evidence:
   - id: INS-260323-1452
     type: SUPPORTS

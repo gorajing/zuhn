@@ -46,11 +46,11 @@ stance: >-
   The fastest path to a first million is fewer customers paying significantly
   more, not mass-market low-ticket sales
 related:
+  - INS-260403-CD74
   - INS-260322-D5EB
   - INS-260330-C391
   - INS-260329-7B15
-  - INS-260327-0E57
-  - INS-260330-F0F2
+  - INS-260403-F23A
 evidence:
   - id: INS-260329-7B15
     type: TRANSFERS_TO

@@ -51,21 +51,20 @@ stance: >-
   mechanism for democratizing access to asset classes previously gated by
   capital requirements.
 related:
+  - INS-260404-F45E
   - INS-260329-59FF
   - INS-260329-B424
-  - PRI-260328-EAC4
-  - PRI-260328-2C4C
-  - INS-260403-498A
-  - INS-260403-BA4B
+  - INS-260403-BED6
+  - INS-260403-9D7C
 evidence:
   - id: INS-260329-59FF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-A3F2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-20A7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-BA4B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The core innovation of Real Estate 3.0 is reducing the minimum viable ownership unit — from an entire home ($300K+) to a $5 share of a property. This pattern (exemplified by Landa, Pacaso, and similar platforms) mirrors what Robinhood did for equities: the asset class itself doesn't change, but the access mechanism transforms when you reduce the minimum investment by orders of magnitude.
 

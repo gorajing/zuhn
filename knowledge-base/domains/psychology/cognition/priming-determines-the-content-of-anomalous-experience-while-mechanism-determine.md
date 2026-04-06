@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: A Buddhist Sun Miracle?
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/a-buddhist-sun-miracle'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Both Fatima and Dhammakaya crowds saw spinning colored suns, but Catholics
@@ -68,6 +58,13 @@ stance: >-
   The structural features of anomalous perceptual experiences are determined by
   the underlying mechanism, while the specific content is determined by cultural
   and cognitive priming.
+related:
+  - INS-260330-51AE
+  - INS-260403-E6A8
+  - INS-260403-7E1F
+  - INS-260403-C228
+  - INS-260403-0218
+  - INS-260403-014D
 ---
 At Fatima, Catholics saw the Virgin Mary. At Dhammakaya, Buddhists saw monk Luang Pu Sodh with a crystal sphere in his belly — an image directly from their meditation practice of visualizing a Buddha with a crystal ball at the heart center. Both groups saw the same structural phenomenon: sun spinning, colors shifting, light becoming non-blinding.
 

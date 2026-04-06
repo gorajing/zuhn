@@ -47,16 +47,14 @@ stance: >-
   of working around flaws is lower than the cost of replacing them, even when
   the flaws are severe
 related:
-  - INS-260323-7A11
   - INS-260330-23CD
   - INS-260330-53A9
   - INS-260402-5242
-  - INS-260402-1FE9
-  - INS-260403-30E5
   - INS-260404-CC7C
   - INS-260404-2695
   - INS-260330-22C0
   - INS-260330-54ED
+  - INS-260405-DAC9
 evidence:
   - id: INS-260402-1FE9
     type: CHALLENGES

@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Zero-sum economics keeps failing
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/zero-sum-economics-keeps-failing'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Extractive strategies that replace cooperative arrangements reliably destroy
@@ -62,6 +50,13 @@ stance: >-
   Switching from cooperative to extractive relationships with partners, markets,
   or territories reliably destroys net value even when it appears to create
   short-term gains.
+related:
+  - INS-260323-176B
+  - INS-260403-213C
+  - PRI-260324-2A76
+  - INS-260403-E681
+  - INS-260402-3134
+  - PRI-260323-0F93
 ---
 The US relationship with Greenland was positive-sum and cooperative — the US already had access to its natural resources and shipping routes. Conquering it would earn enmity from Europeans and Greenlanders while adding no real economic value. The Iraq War similarly failed to produce significant economic benefits from seized oil fields. Venezuela's oil remains uninvestable due to political chaos regardless of regime change.
 

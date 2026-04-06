@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: A playbook for fundraising
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-playbook-for-fundraising'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Start thinking about fundraising 12 months before you need it, maintain 8+
@@ -65,6 +53,12 @@ stance: >-
   Founders who start fundraising preparation 12 months in advance gain
   structural advantages that cannot be replicated by founders who start when
   they need money
+related:
+  - INS-260403-7318
+  - INS-260405-1982
+  - INS-260404-E9F2
+  - INS-260404-9696
+  - INS-260403-A538
 ---
 VCs don't invest because you're running out of money — they invest because they believe their equity stake will be worth significantly more. Yet many founders only start fundraising reactively when runway gets short, which creates a doom loop: desperation signals weakness, weak positioning yields worse terms or no terms, and the time pressure prevents running a proper synchronized process. The recommended timeline is 12 months of advance planning, 4 weeks of material preparation, and 8-16 weeks of active fundraising from first meeting to term sheet.
 

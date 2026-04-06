@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why the VC Secondary Market Is Booming in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-secondary-market'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In a world where exit timelines exceed a decade, founders using structured
@@ -62,6 +52,16 @@ stance: >-
   Founders who proactively structure secondary liquidity for employees and early
   investors will retain talent better and maintain cleaner cap tables than those
   who treat secondaries as a last resort.
+related:
+  - INS-260404-36F3
+  - INS-260405-BD2E
+  - INS-260403-6F9C
+  - INS-260403-E294
+  - INS-260403-F0D4
+  - INS-260403-6D4F
+  - INS-260330-D8D1
+  - INS-260403-53A4
+  - INS-260403-A8BA
 ---
 With startups staying private far longer than the traditional 7-10 year window, employee equity has become increasingly illiquid. This creates a talent retention crisis—employees holding paper wealth can't pay mortgages with stock options. Founders who proactively offer structured secondary liquidity events (tender offers, direct secondaries) can partially cash out early employees, clean up cap tables by consolidating scattered angel positions, and extend private growth periods without the pressure to rush to IPO.
 

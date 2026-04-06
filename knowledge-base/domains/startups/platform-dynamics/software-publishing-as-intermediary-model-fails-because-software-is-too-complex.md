@@ -50,10 +50,10 @@ stance: >-
   pace with.
 related:
   - INS-260404-420F
+  - INS-260403-C907
   - INS-260329-BC11
   - INS-260403-096C
-  - INS-260321-3312
-  - INS-260322-B392
+  - INS-260403-2913
 evidence:
   - id: INS-260322-B392
     type: CHALLENGES

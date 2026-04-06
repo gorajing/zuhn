@@ -1,5 +1,7 @@
 # Tag: subscriptions
 
+- `INS-260404-02C8` OpenAI's $3.4B in ChatGPT subscription revenue demonstrates massive consumer demand for AI tools.
+- `INS-260404-DF95` Payment friction acts as a quality filter that ad-supported models lack, because people won't pay for content they only rage-engage with.
 - `INS-260330-9137` Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
 - `INS-260324-C496` BuzzFeed ($1.7B valuation to penny stock) and VICE (bankruptcy) prove that millions of views and hit shows are worth almost nothing without subscription revenue.
 - `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.

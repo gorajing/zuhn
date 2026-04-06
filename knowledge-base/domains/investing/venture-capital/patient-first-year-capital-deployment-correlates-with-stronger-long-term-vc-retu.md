@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "AI Agents\U0001F916, Rise of “Venture Banks” \U0001F3E6, US Venture Capital Outlook \U0001F4C5 "
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-agents-rise-of-venture-banks-us'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     PitchBook data suggests that slower, more deliberate first-year deployment
@@ -55,6 +45,12 @@ resolutions:
 stance: >-
   VCs who deploy capital slowly and deliberately in their first year generate
   better horizon IRR than those who deploy quickly.
+related:
+  - INS-260403-CF1D
+  - INS-260323-A075
+  - INS-260404-EC32
+  - INS-260330-7C05
+  - INS-260329-9115
 ---
 PitchBook's analysis of VC horizon IRR by first-year deployment speed challenges the common pressure on fund managers to deploy capital quickly. The data suggests that patience — taking time to find the right deals rather than rushing to put money to work — produces better long-term returns.
 

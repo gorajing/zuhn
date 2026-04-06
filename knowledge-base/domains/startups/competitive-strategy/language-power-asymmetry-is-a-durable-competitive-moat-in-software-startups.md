@@ -47,11 +47,11 @@ stance: >-
   development speed advantages that incumbent competitors using
   industry-standard languages cannot close.
 related:
+  - INS-260403-A2E9
   - INS-260403-F100
   - PRI-260328-5CDE
   - INS-260403-F9F0
   - INS-260327-A61B
-  - PRI-260405-BF5B
   - INS-260404-4130
 evidence:
   - id: INS-260321-9906

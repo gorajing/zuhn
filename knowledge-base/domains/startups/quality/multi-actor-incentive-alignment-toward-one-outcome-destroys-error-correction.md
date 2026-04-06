@@ -47,12 +47,12 @@ stance: >-
   the system loses its ability to catch errors, regardless of how many
   checkpoints exist.
 related:
-  - INS-260322-888D
   - INS-260404-DA41
   - PRI-260405-ADEA
+  - INS-260404-2135
   - INS-260330-14CA
-  - INS-260402-8A7A
-  - INS-260325-0409
+  - INS-260403-20C3
+  - INS-260403-D7EF
 evidence:
   - id: INS-260322-888D
     type: CHALLENGES

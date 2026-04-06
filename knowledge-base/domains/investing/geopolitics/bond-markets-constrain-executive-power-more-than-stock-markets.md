@@ -16,26 +16,14 @@ tags:
 sources:
   - type: blog
     title: What happens if the world pulls its money out of America?
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/what-happens-if-the-world-pulls-its'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Presidents fear bond market signals more than stock drops because rising
@@ -57,6 +45,13 @@ stance: >-
   Capital flight visible in bond markets is a more effective check on
   presidential behavior than stock market declines because it threatens
   government borrowing capacity
+related:
+  - INS-260403-988C
+  - INS-260327-E72F
+  - INS-260403-6BDC
+  - INS-260321-347D
+  - INS-260402-36DE
+  - PRI-260321-2DF0
 ---
 Stock market declines are painful but self-contained — they destroy private wealth without directly constraining government operations. Bond market dysfunction is fundamentally different: rising yields increase the cost of financing government debt, potentially triggering a fiscal spiral where higher interest payments require more borrowing at even higher rates.
 

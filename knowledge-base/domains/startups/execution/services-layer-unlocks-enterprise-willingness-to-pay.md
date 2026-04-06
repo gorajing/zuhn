@@ -41,12 +41,11 @@ stance: >-
   dramatically increase enterprise adoption and willingness to pay, even though
   pure software founders view services as unsexy.
 related:
+  - INS-260403-36EC
+  - INS-260403-AFBC
+  - INS-260403-DED4
+  - INS-260404-F22C
   - INS-260327-85E2
-  - INS-260322-EDA4
-  - INS-260330-0F23
-  - PRI-260321-7307
-  - PRI-260328-8317
-  - INS-260403-83C7
 evidence:
   - id: INS-260330-0F23
     type: TRANSFERS_TO

@@ -54,14 +54,14 @@ stance: >-
   random data produces slow linear improvement
 related:
   - INS-260329-5D8A
+  - INS-260403-1F1B
+  - PRI-260405-FB37
   - INS-260326-0AB4
   - INS-260404-CE26
-  - INS-260329-5901
-  - INS-260329-3D3E
-  - INS-260323-584D
+  - INS-260403-B73D
 evidence:
   - id: INS-260329-E208
-    relationship: RELATED
+    type: SUPPORTS
 ---
 A key experiment showed that deep networks with millions of parameters can achieve perfect training accuracy on randomly-labeled data — pure memorization with no generalizable structure. However, the accuracy curve for random data descends slowly and almost linearly, while structured data produces a sharp initial drop to high accuracy.
 

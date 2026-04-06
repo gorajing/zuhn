@@ -45,8 +45,8 @@ stance: >-
 related:
   - INS-260403-1217
   - INS-260404-7071
+  - INS-260403-91A1
   - INS-260329-4EF5
   - INS-260403-5B46
-  - INS-260329-6BE8
 ---
 Hormozi's most candid lesson from Prestige Labs was that he probably shouldn't have done it. While it was a good business on its own, Gym Launch stopped growing the year he launched Prestige Labs because he became CEO of two companies rather than one. He explicitly states that allocating more time to making Gym Launch better would have made Gym Launch bigger, implying the total outcome would have been superior. This is a powerful counter-narrative to the serial entrepreneur mythos: the visible success of a second venture masks the invisible opportunity cost of the first venture's unrealized growth. For founders considering a second venture, the question isn't whether the new idea is viable but whether it's more valuable than the marginal improvement you'd achieve by staying focused.

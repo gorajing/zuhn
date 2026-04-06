@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why America's extremes will both fail
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/why-americas-extremes-will-both-fail'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Moderate disengagement from online politics creates a selection effect that
@@ -65,6 +53,12 @@ stance: >-
   population becomes more extreme, which drives more moderates out in a
   self-reinforcing spiral that makes online discourse unrepresentative of the
   actual population.
+related:
+  - INS-260403-500F
+  - INS-260403-56D7
+  - INS-260327-E75F
+  - INS-260327-9D51
+  - INS-260403-DB0A
 ---
 Research from Törnberg (2025) using ANES data shows that the most affectively polarized users are the most active posters across all platforms, while casual users increasingly disengage. This creates a structural selection effect: as moderates leave, online spaces become more extreme, which drives away more moderates.
 

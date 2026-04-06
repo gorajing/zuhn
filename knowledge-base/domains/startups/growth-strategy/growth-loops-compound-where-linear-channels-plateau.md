@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: 4 Stages of Go-To-Market Strategy
-    author:
-      - '@type': Person
-        name: Maja Voje
-        url: 'https://substack.com/@majavoje'
-        description: >-
-          Maja Voje helps companies build and execute winning go-to-market
-          strategies. She is a best-selling author of Go-To-Market Strategist.
-          In her 15 years of experience, she advised Google, Bayer, Heineken,
-          and helped startups scale to millions in ARR.
-        identifier: 'user:9381265'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Ulqs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136595de-9618-473c-b2d9-3346b8518bdf_3000x3000.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Ulqs!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136595de-9618-473c-b2d9-3346b8518bdf_3000x3000.jpeg
+    author: Maja Voje
     url: 'https://www.thevccorner.com/p/4-stages-of-go-to-market-strategy'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Exponential growth comes from stacking multiple self-reinforcing growth
@@ -64,6 +50,17 @@ stance: >-
   Companies that engineer multiple interlocking growth loops (usage-based,
   collaboration, user-generated, referral) achieve exponential scaling that no
   amount of linear channel optimization can match.
+related:
+  - INS-260323-1F27
+  - INS-260320-9935
+  - INS-260327-7C6B
+  - PRI-260328-C918
+  - PRI-260328-49CB
+  - INS-260329-AF18
+  - INS-260329-776B
+  - INS-260330-A029
+  - INS-260330-323E
+  - INS-260330-8FE7
 ---
 Linear acquisition channels like paid ads, outbound, and content marketing hit diminishing returns because each new customer requires roughly the same marginal effort. Growth loops break this constraint by making each user's activity recruit additional users automatically.
 

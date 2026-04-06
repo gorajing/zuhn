@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Venture Funds Ranked\U0001F984, Why Retention Is So Hard\U0001F4C9, Europe Gets Its Own TBPN\U0001F399️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/venture-funds-ranked-why-retention'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Andrew Chen's data shows churn is almost impossible to fix retroactively,
@@ -57,6 +47,15 @@ stance: >-
   Fixing churn after launch is almost impossible; products that lack strong
   retention from day one will never reach product-market fit regardless of later
   optimization efforts
+related:
+  - INS-260403-E69C
+  - INS-260403-2A8B
+  - INS-260403-64AE
+  - INS-260403-DDC9
+  - INS-260403-544B
+  - INS-260403-C837
+  - INS-260403-53B0
+  - INS-260405-7ACC
 ---
 Andrew Chen's analysis reveals that churn patterns are extremely resistant to improvement once established. Revenue retention can expand even as usage falls, masking underlying engagement problems. For AI apps in particular, retention must be strong from day one to reach product-market fit — teams cannot rely on iterating their way to better retention after launch.
 

@@ -47,13 +47,12 @@ stance: >-
   medication or multitasking
 related:
   - INS-260322-BEA3
-  - INS-260323-334D
-  - INS-260327-B539
   - PRI-260405-E628
   - INS-260322-71E4
   - INS-260329-0935
   - PRI-260328-902C
   - PRI-260323-57AC
+  - INS-260403-92B5
 evidence:
   - id: INS-260327-B539
     type: TRANSFERS_TO

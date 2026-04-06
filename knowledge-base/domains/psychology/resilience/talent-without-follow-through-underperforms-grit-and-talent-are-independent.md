@@ -49,15 +49,15 @@ stance: >-
   talented people fail because they lack the sustained commitment to convert
   ability into achievement.
 related:
-  - INS-260323-3A54
   - INS-260326-6870
   - PRI-260327-5635
   - INS-260403-1202
+  - INS-260404-91B8
   - INS-260403-A868
-  - INS-260402-70FD
   - INS-260327-BEEE
   - INS-260327-A00A
   - INS-260328-F782
+  - INS-260403-36E6
 evidence:
   - id: INS-260327-A00A
     type: EXTENDS

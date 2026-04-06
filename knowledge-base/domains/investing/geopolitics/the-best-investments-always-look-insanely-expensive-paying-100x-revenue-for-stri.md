@@ -47,11 +47,11 @@ resolutions:
     too, investing at high valuations in companies that don't have the same
     characteristics. The pattern is real but not universally applicable.
 related:
+  - INS-260330-007E
   - INS-260327-94F5
   - INS-260330-1002
   - INS-260327-4440
   - INS-260330-10CF
-  - INS-260403-8D8D
   - INS-260323-2040
   - INS-260323-7AF7
 stance: >-

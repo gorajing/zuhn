@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260322-8F80
   - INS-260327-E9F3
+  - INS-260402-A3DB
+  - INS-260403-E541
   - INS-260402-5974
-  - INS-260322-AAEA
-  - INS-260403-1CC5
 evidence:
   - id: INS-260403-1CC5
     type: EXTENDS

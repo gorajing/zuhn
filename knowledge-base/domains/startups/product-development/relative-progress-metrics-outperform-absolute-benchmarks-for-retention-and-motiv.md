@@ -52,11 +52,11 @@ stance: >-
   Measuring learners and users against their own starting point rather than peer
   benchmarks produces higher engagement and lower churn.
 related:
+  - INS-260329-C5C6
   - INS-260403-62AF
   - INS-260329-438D
+  - INS-260405-7196
   - INS-260404-462B
-  - INS-260327-E833
-  - INS-260330-6F2F
 evidence:
   - id: INS-260329-C5C6
     type: TRANSFERS_TO

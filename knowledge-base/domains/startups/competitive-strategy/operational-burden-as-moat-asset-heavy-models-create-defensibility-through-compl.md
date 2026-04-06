@@ -52,14 +52,15 @@ stance: >-
   creates durable competitive advantages because the complexity deters new
   entrants, even though it's painful to build.
 related:
-  - INS-260321-1A03
   - PRI-260323-F193
-  - INS-260327-643C
   - INS-260403-D62F
+  - INS-260403-2F40
   - PRI-260324-5F05
   - INS-260403-E86E
-  - PRI-260328-A589
-  - INS-260403-204E
+  - INS-260403-2C15
+  - INS-260403-9A5D
+  - INS-260404-277E
+  - INS-260404-3BAB
 evidence:
   - id: INS-260321-1A03
     type: CONTRADICTS

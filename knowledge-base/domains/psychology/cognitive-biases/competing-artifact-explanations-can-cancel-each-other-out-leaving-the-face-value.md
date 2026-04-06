@@ -19,24 +19,14 @@ sources:
     title: >-
       Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved
       Medical Care
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/record-low-crime-rates-are-real-not'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Stacking multiple artifact explanations to dismiss a finding often requires
@@ -62,6 +52,12 @@ stance: >-
   When dismissing a finding requires two separate artifacts that must
   coincidentally change at exactly the right rates to produce the observed data,
   the face-value interpretation becomes more parsimonious.
+related:
+  - INS-260325-2AA0
+  - INS-260327-AEFA
+  - INS-260404-E783
+  - INS-260330-0AE2
+  - INS-260330-984C
 ---
 A common pattern in motivated reasoning is stacking artifact explanations: 'the murder rate looks low because of medical care improvements, AND other crimes look low because of reporting bias.' But this compound explanation requires two independent factors to change at precisely the right rates to produce the observed uniform decline across all crime categories.
 

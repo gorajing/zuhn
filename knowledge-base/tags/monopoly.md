@@ -2,9 +2,11 @@
 
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260330-0871` Facebook's $1B Instagram acquisition — mocked as absurd for an 18-month-old app with zero revenue — generated $24B/year by 2019 and eliminated its top competitor.
+- `INS-260403-B6C6` UnitedHealth and Epic solved data fragmentation by owning more of the system, but the Change Healthcare breach showed this creates catastrophic concentration risk.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260327-7C67` For an alarming number of major companies, becoming a monopoly isn't just profit maximization - it's the only way they can make a profit at all.
 - `INS-260323-07BE` Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.
+- `INS-260330-D63C` At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
 - `INS-260330-1FED` Rockefeller secured 50-75% railroad discounts by negotiating when railroads were desperate, then used the cost advantage to bankrupt competitors through sustained price wars.
 - `INS-260330-F527` Monopolists describe their market as the union of many markets to appear competitive, while competitors describe theirs as the intersection of niches to appear unique — making the real difference invisible.
 - `INS-260323-E551` Tudor maintained his ice monopoly by systematically undercutting copycat businesses on price until they gave up or went bankrupt.
@@ -12,6 +14,7 @@
 - `INS-260403-FE00` Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-568A` Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
+- `INS-260330-A0AE` Creating enormous value (X) guarantees nothing about capturing it (Y%) — airlines created $195B in revenue but cumulative profits ≈ zero over 100 years, while Google captured far more from a smaller market.
 - `INS-260330-0525` Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260330-9DCD` Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.

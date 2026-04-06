@@ -51,7 +51,6 @@ stance: >-
   the barriers to market expansion rather than incremental feature requests
 related:
   - INS-260329-8BD3
-  - INS-260330-E403
   - INS-260330-139D
   - INS-260330-D1C8
   - INS-260330-843E
@@ -59,6 +58,7 @@ related:
   - INS-260330-21CC
   - INS-260402-426C
   - INS-260402-1436
+  - INS-260403-58CF
 evidence:
   - id: INS-260330-E403
     type: SUPPORTS

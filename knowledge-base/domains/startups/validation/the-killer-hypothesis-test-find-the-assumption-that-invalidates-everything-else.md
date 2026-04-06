@@ -49,15 +49,15 @@ stance: >-
   other hypotheses irrelevant, not the easiest or most obvious one
 related:
   - INS-260327-679A
-  - INS-260328-0932
-  - INS-260329-4A09
   - INS-260330-56AA
   - INS-260403-2824
   - INS-260403-4F1B
-  - INS-260403-8D2C
   - INS-260403-0803
   - INS-260403-63E2
   - INS-260404-BD46
+  - INS-260404-6DA9
+  - INS-260403-B1F2
+  - INS-260403-7FB2
 evidence:
   - id: INS-260328-0932
     type: SUPPORTS

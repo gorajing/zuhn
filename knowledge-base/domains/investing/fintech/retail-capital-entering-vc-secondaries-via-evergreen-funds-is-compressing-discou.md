@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why the VC Secondary Market Is Booming in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-secondary-market'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Evergreen funds buying VC secondaries pay closer to NAV than institutional
@@ -59,6 +49,13 @@ stance: >-
   Evergreen fund structures will permanently narrow secondary market discounts
   by introducing a class of buyers motivated by access rather than bargain
   pricing.
+related:
+  - INS-260403-087F
+  - PRI-260323-6A93
+  - PRI-260405-E9C5
+  - INS-260403-2668
+  - INS-260403-8EE8
+  - INS-260404-2250
 ---
 Unlike traditional secondary buyers who demand steep discounts (40-60% of NAV in 2024 for venture portfolios), evergreen funds are willing to pay 85-90% of NAV for top-tier venture assets. Their incentive structure is different—they need steady portfolio turnover to meet quarterly redemption cycles, so they optimize for access rather than bargain hunting. Platforms like Hamilton Lane and StepStone are scaling this model with relatively low minimums for accredited investors.
 

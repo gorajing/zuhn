@@ -55,26 +55,27 @@ stance: >-
 related:
   - INS-260327-D888
   - INS-260329-B4E7
-  - INS-260329-30D7
-  - INS-260329-9074
-  - INS-260403-D966
-  - INS-260329-03B5
-  - INS-260327-C15B
-  - INS-260330-EFFC
   - INS-260330-B8CC
+  - INS-260403-D966
+  - INS-260403-287B
+  - INS-260403-A2E9
+  - INS-260404-D6F7
+  - INS-260403-19C9
+  - INS-260402-97AF
+  - INS-260403-2774
 evidence:
   - id: INS-260330-8F07
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-C15B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-30D7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-B4E7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9074
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-03B5
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The 'chainsaw PR flex' describes finding new projects from young developers, forking them, removing every possible line while keeping tests passing, then submitting a vague PR about 'best practices.' The video notes the result: 'the project will soon be abandoned because no programmer can face that amount of flexing.'
 

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Inside OpenAI\U0001F9E0, Karpathy’s YC Talk\U0001F3A5, How AI Companies Actually Build Moats \U0001F3F0"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/inside-openai-karpathys-yc-talk-how'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     68% of large enterprises are already deploying AI agents, collapsing a
@@ -54,6 +44,14 @@ stance: >-
   Enterprise AI agent adoption is already mainstream at 68% of large
   enterprises, invalidating the widespread prediction that meaningful agent
   deployment was a 2030 phenomenon.
+related:
+  - INS-260325-BC2A
+  - INS-260325-F981
+  - INS-260327-004B
+  - INS-260405-5222
+  - INS-260405-0327
+  - INS-260321-4E98
+  - INS-260403-2115
 ---
 VentureBeat reports that 68% of large enterprises are already deploying AI agents, a figure that dramatically outpaces earlier consensus timelines placing meaningful agent adoption around 2030. The shift from hype to workflow automation happened faster than industry observers expected.
 

@@ -57,7 +57,6 @@ related:
   - INS-260330-70BF
   - INS-260327-CEA6
   - INS-260329-59D2
-  - INS-260330-09E3
   - INS-260403-79E0
 stance: >-
   Cuban identifies curiosity, agility, and the ability to sell as the three

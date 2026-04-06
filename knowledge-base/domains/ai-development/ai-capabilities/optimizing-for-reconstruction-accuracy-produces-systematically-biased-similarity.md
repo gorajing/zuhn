@@ -48,10 +48,10 @@ stance: >-
   you care most about finding are the ones most distorted by standard
   compression
 related:
-  - INS-260325-6150
   - INS-260325-0409
-  - INS-260325-E652
   - INS-260326-E1A8
-  - INS-260327-DE27
+  - INS-260325-6150
+  - INS-260403-A3E4
+  - INS-260325-E652
 ---
 TurboQuant reveals a subtle but critical insight: quantizers optimized for reconstruction fidelity (MSE) produce biased inner product estimates. At 1 bit per coordinate, the bias is a multiplicative factor of 2/pi -- meaning the most similar vectors (highest inner products) are the most distorted. This is exactly backwards for search: the vectors you most want to find are the ones most misranked. TurboQuant fixes this with a two-stage approach: (b-1)-bit MSE quantizer plus 1-bit QJL (Quantized Johnson-Lindenstrauss) on the residual, which provably produces unbiased inner product estimates. The deeper lesson: optimizing for one metric in a complex system can systematically degrade another metric you also need. This bias diminishes at higher bit-widths but is devastating at extreme compression ratios (1-2 bits) where efficiency gains matter most.

@@ -46,19 +46,19 @@ stance: >-
   Equal or near-equal founder equity splits are a necessary condition for
   reaching top-tier startup outcomes, not merely a nice-to-have.
 related:
-  - INS-260330-808B
+  - INS-260330-C7FF
   - INS-260330-855A
-  - INS-260330-0B55
   - INS-260330-3E6F
-  - INS-260330-F4C0
   - INS-260405-4423
+  - INS-260330-808B
+  - INS-260403-5018
 evidence:
   - id: INS-260330-C745
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3E6F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-808B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-4423
     type: SUPPORTS
     classified_at: '2026-04-06'

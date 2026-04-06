@@ -10,6 +10,7 @@
 - `INS-260327-8ED1` In-N-Out uses seed oils for cooking despite marketing a fresh quality image
 - `INS-260327-44CC` Most commercial beverages contain harmful additives: sodas have HFCS, energy drinks have artificial ingredients, pasteurized juices have added sugars, and tap water contains fluoride and chlorine byproducts.
 - `INS-260327-B332` Most commercial olive oils are adulterated with cheaper seed oils or oxidized from improper handling; independent testing reveals widespread fraud in the olive oil industry.
+- `INS-260327-D21C` Non-alcoholic fatty liver disease silently affects 25 percent of adults driven by fructose and seed oil consumption
 - `INS-260327-8985` Premium fast casual restaurants like Shake Shack still use seed oils despite quality positioning
 - `INS-260327-B87B` Restaurant meals contain extreme hidden seed oil loads often exceeding daily safe limits
 - `INS-260327-FA0B` Humans evolved consuming ~2% calories from linoleic acid but now consume 10-15%, a mismatch that contributes to cardiovascular and metabolic disease.

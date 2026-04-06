@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'The SaaS Reset: Why the 10x ARR Club Is Now a Ghost Town'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/great-saas-reset-10x-arr-club'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Horizontal tools with light integration face multiple compression as AI
@@ -61,6 +51,12 @@ stance: >-
   The valuation gap between horizontal SaaS tools and deeply embedded workflow
   platforms will continue widening because AI features are easily copied on
   commodity tools but deepen lock-in on infrastructure platforms.
+related:
+  - INS-260403-EDFB
+  - PRI-260324-36BF
+  - INS-260404-CCB1
+  - INS-260403-F112
+  - INS-260329-BB8F
 ---
 Two distinct cohorts are emerging in SaaS. The first consists of horizontal tools with moderate differentiation and limited workflow lock-in — they rely on marketing-led acquisition, serve broad use cases, and integrate lightly. Their AI features are easily copied across competitors within quarters, and net retention trends toward or below 110%.
 

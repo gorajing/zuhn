@@ -54,11 +54,11 @@ stance: >-
   number itself -- presenting price as a foregone conclusion (like a Starbucks
   cashier) prevents the hesitation that triggers objections.
 related:
+  - INS-260403-03CC
   - INS-260327-C79D
+  - INS-260403-00D7
   - INS-260403-4960
   - INS-260404-A526
-  - INS-260405-39A6
-  - INS-260329-9F8D
 evidence:
   - id: INS-260327-C79D
     type: EXTENDS

@@ -60,6 +60,7 @@ related:
   - INS-260329-4092
   - INS-260329-8015
   - PRI-260323-7B35
+  - INS-260403-2CFE
 ---
 The course dedicates an entire section to interpreting derivatives in context: when f(x) is distance, f'(x) is velocity; when f(x) is cost, f'(x) is marginal cost; when f(x) is temperature, f'(x) is the rate of cooling. The mathematical operation is identical in every case — take the limit of the difference quotient — but the meaning changes completely based on what f(x) represents. A bike ride, a cup of coffee cooling, and a production cost function all use the same calculus but require different interpretive frames.
 

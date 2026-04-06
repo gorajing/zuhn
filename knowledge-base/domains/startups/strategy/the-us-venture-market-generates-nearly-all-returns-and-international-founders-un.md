@@ -44,17 +44,19 @@ stance: >-
   founders outside the US systematically underestimate how much harder it is to
   build a billion-dollar company elsewhere.
 related:
-  - INS-260403-04FF
   - INS-260328-F752
-  - INS-260321-3521
-  - INS-260404-5483
-  - INS-260404-70AE
+  - INS-260405-EFC1
+  - INS-260403-B9B8
+  - INS-260403-5056
+  - INS-260405-2703
+  - INS-260403-04FF
+  - INS-260403-49EC
 evidence:
   - id: INS-260402-180C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-195E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-CECB
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Michael recounts a YC LP telling him that historically 97% of venture returns are generated in the US market. His instinct was to discard the opinion because it did not align with his thesis. Years later, he recognizes his own privilege blindness: living in the largest market made him assume it was equally easy to build billion-dollar companies elsewhere. It is not. The counterexample is India — companies like Groww and Razorpay became decacorns — but the broader pattern holds. Ironically, YC's naive willingness to fund international companies (because they did not get the memo that they should not) produced some of their best outcomes.

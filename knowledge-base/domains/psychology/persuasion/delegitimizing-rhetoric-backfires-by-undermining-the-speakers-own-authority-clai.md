@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: What a liberal immigration enforcement policy might look like
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/what-a-liberal-immigration-enforcement'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Rhetoric that questions whether a system is legitimate makes it impossible
@@ -62,6 +50,12 @@ resolutions:
 stance: >-
   Arguments that deny the legitimacy of the system you are trying to lead
   destroy your credibility as a potential leader of that system
+related:
+  - INS-260323-3F30
+  - INS-260329-78AE
+  - INS-260329-4D5E
+  - INS-260327-3136
+  - INS-260330-F258
 ---
 Smith identifies a critical rhetorical trap: when progressives use 'stolen land' framing to counter anti-immigrant sentiment, they inadvertently undermine the premise that America is a legitimate democratic nation whose citizens have the right to make collective decisions — including about immigration. This makes it logically impossible for them to then argue that they should be elected to lead that nation's immigration policy.
 

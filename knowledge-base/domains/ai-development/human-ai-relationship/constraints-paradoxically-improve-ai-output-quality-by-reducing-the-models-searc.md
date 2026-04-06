@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: The Ultimate Guide to Writing Powerful AI Prompts
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/guide-writing-powerful-ai-prompts'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Tighter constraints on AI prompts force more creative and precise outputs by
@@ -60,6 +50,17 @@ stance: >-
   Adding more constraints to AI prompts does not limit creativity but instead
   produces higher-quality, more focused outputs by eliminating the model's
   tendency toward generic, safe responses.
+related:
+  - INS-260325-F48E
+  - INS-260321-A5D4
+  - PRI-260321-037A
+  - INS-260403-951B
+  - INS-260404-2AA1
+  - INS-260320-E872
+  - INS-260403-7D7A
+  - INS-260403-31E4
+  - INS-260403-F664
+  - INS-260403-F0AA
 ---
 Intuitively, adding constraints — word limits, tone requirements, vocabulary restrictions, audience specifications — feels like it should reduce the quality of AI output by limiting what the model can do. In practice, the opposite is true. Without constraints, models default to neutral, balanced, generic content because that's the safest response across the widest range of possible intents.
 

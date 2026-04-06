@@ -49,13 +49,13 @@ related:
   - INS-260321-E5C5
   - INS-260329-75B6
   - INS-260329-5B18
-  - INS-260330-4DBE
   - INS-260403-BFD1
   - INS-260403-F7DD
   - INS-260404-24FB
   - INS-260403-F171
   - INS-260404-3C46
   - INS-260404-C2BC
+  - INS-260404-8D37
 ---
 Professional investors hear so many pitches that they all blur together. The first filter isn't quality judgment — it's simply which ones they remember at all. A descriptive phrase that sticks ('the x of y' pattern) ensures you survive this cut. Viaweb used 'the Microsoft Word of ecommerce' — immediately graspable, memorable, and positioning.
 

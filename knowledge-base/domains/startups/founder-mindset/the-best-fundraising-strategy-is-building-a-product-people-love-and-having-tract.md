@@ -46,11 +46,12 @@ stance: >-
   begging to give money — the best fundraising hack is spending less time
   fundraising and more time building what users actually want.
 related:
+  - INS-260403-A9C9
   - PRI-260403-26B9
   - INS-260328-D220
+  - INS-260403-D730
   - INS-260403-1287
-  - INS-260404-2250
-  - INS-260327-7E3D
+  - INS-260403-2054
 evidence:
   - id: INS-260404-2250
     type: SUPPORTS

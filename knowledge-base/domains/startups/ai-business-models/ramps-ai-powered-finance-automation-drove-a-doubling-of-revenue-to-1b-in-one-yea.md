@@ -21,24 +21,14 @@ sources:
     title: >-
       WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B
       Valuation
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-162'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Ramp reached $1B revenue with 153% YoY growth by using AI to automate 26
@@ -66,6 +56,17 @@ stance: >-
   AI that automates routine financial decisions creates a compounding value loop
   where customers save money while the platform captures expanding wallet share
   across the full finance stack
+related:
+  - INS-260320-901C
+  - INS-260323-5341
+  - INS-260327-EEBD
+  - INS-260329-2D77
+  - INS-260405-0F47
+  - INS-260404-9FBC
+  - INS-260324-DB86
+  - INS-260403-92CC
+  - INS-260327-DD5C
+  - INS-260403-7825
 ---
 Ramp raised $300M at a $32B valuation after doubling revenue to over $1B in a single year — a 153% YoY growth rate that is 10x faster than the median public SaaS business. The growth engine is their AI system that has made over 26 million autonomous decisions across $10 billion in spend, creating what they call 'thinking money' that audits itself with intelligence, memory, and reason.
 

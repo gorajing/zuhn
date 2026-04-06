@@ -45,11 +45,9 @@ resolutions:
 related:
   - INS-260328-60C7
   - INS-260403-2A50
+  - INS-260404-F631
+  - INS-260403-3AF9
   - INS-260330-4150
-  - INS-260327-4313
-  - PRI-260328-A589
-  - INS-260323-B40C
-  - INS-260330-825F
   - INS-260403-EB0B
 stance: >-
   National power is fundamentally a function of population size and wealth —

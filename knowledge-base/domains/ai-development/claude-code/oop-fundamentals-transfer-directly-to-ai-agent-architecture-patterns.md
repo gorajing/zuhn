@@ -49,15 +49,17 @@ related:
   - INS-260329-1610
   - INS-260329-C7BF
   - INS-260329-0EAC
-  - INS-260329-0432
+  - INS-260329-41BC
   - INS-260330-CE2F
-  - INS-260329-DBFE
   - INS-260329-DEA1
+  - INS-260405-F26B
+  - INS-260329-E280
+  - INS-260329-0432
 evidence:
   - id: INS-260330-CE2F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-41BC
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial culminates in teaching classes and inheritance — the same patterns that underpin modern AI agent frameworks. An AI agent is essentially an object with state (conversation history, tool results), methods (generate, stream, tool-call), and inheritance hierarchies (base Agent → DurableAgent → specialized agents).
 

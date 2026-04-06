@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "YC Review\U0001F4AA, What VC ‘Value-Add’ Really Looks Like\U0001F9ED, Private Markets Outlook\U0001F4C8"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/yc-review-what-vc-value-add-really'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VC fundraising is lagging prior cycles despite headline interest, with
@@ -59,6 +49,15 @@ stance: >-
   New VC fund formation and capital closes are lagging prior cycles, and only
   managers with differentiated deal access or clear exit pathways will
   successfully raise in the current environment.
+related:
+  - INS-260328-9415
+  - INS-260405-397C
+  - INS-260404-15B8
+  - INS-260405-F01C
+  - INS-260403-53C0
+  - INS-260328-D220
+  - INS-260405-1982
+  - INS-260403-882A
 ---
 Despite intense interest in cutting-edge sectors like AI, new VC vehicle formation and capital closes are falling behind prior cycle benchmarks. Managers without differentiated access to deal flow or demonstrable exit pathways face extended fundraising timelines and increasingly punitive terms from LPs.
 

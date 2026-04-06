@@ -46,11 +46,12 @@ resolutions:
     understanding is where most misinformation lives — not in outright falsehood
     but in strategic framing through omission.
 related:
-  - INS-260323-9E67
   - INS-260323-A48E
   - PRI-260323-36A6
+  - INS-260404-36F1
   - PRI-260323-A5E8
-  - INS-260330-795D
+  - INS-260323-9E67
+  - INS-260403-3DB9
 stance: >-
   El-Kurd shows that media coverage of geopolitical conflicts misleads not
   through fabrication but through systematic omission of essential context.

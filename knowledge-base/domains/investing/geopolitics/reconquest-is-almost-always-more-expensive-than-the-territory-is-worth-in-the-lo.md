@@ -53,9 +53,9 @@ related:
   - INS-260327-F3F0
   - INS-260327-0758
   - INS-260327-32BA
+  - INS-260327-8B9A
   - INS-260327-7D63
   - INS-260327-236D
-  - PRI-260328-FA83
 ---
 Justinian's dream of restoring the Roman Empire drove decades of warfare in Italy, North Africa, and Spain. Belisarius conquered them, but holding them proved ruinous: constant rebellions, Gothic resistance, and administrative costs consumed more revenue than the territories generated. Italy was devastated by 20+ years of warfare and became a liability rather than an asset. The reconquest weakened Byzantium so much that it couldn't defend its eastern frontier against the Persians and later the Arabs.
 

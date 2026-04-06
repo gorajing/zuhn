@@ -49,12 +49,12 @@ stance: >-
   Friction that filters out low-value customers and selects for high-value ones
   is a competitive advantage disguised as a barrier to growth.
 related:
-  - INS-260327-176D
   - INS-260403-9104
   - INS-260404-AC1B
-  - INS-260404-E65A
-  - INS-260405-631B
-  - INS-260404-94BB
+  - INS-260403-0CF7
+  - INS-260403-137D
+  - INS-260403-747B
+  - INS-260404-B2FB
 evidence:
   - id: INS-260403-747B
     type: REFINES

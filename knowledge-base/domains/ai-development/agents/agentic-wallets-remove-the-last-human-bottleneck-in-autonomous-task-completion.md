@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: Giving AI Agents Purchasing Power
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/gemini-3-deep-think-a-new-era-of'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and
@@ -60,6 +50,12 @@ resolutions:
 stance: >-
   The inability to transact financially was the primary constraint preventing AI
   agents from closing end-to-end loops, and that constraint is now removed.
+related:
+  - INS-260403-0350
+  - INS-260405-9EE4
+  - INS-260320-9D89
+  - INS-260403-4120
+  - INS-260405-A992
 ---
 Every autonomous agent workflow eventually hits a wall where a transaction is required — paying for compute, API calls, or moving funds. Until now, that required human approval, breaking the autonomy loop. Coinbase's Agentic Wallets, built on the x402 machine-to-machine payment protocol, close this gap by giving agents their own on-chain identity and spending authority.
 

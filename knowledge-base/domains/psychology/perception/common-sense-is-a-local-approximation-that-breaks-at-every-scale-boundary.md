@@ -50,10 +50,10 @@ related:
   - INS-260330-59CE
   - INS-260405-809E
   - PRI-260325-45A2
-  - INS-260329-D357
+  - INS-260323-3E21
 evidence:
   - id: INS-260329-3D3E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-809E
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

@@ -17,39 +17,15 @@ sources:
     title: >-
       Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank
       Lessons for Founders
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Guillermo Flor
-        url: 'https://substack.com/@guillermoflor'
-        description: >-
-          I'm Guillermo, a former startup founder now venture capital investor.
-          I write weekly about startups path to Product Market Fit, growth and
-          fundraising 
-        identifier: 'user:48117658'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
+    author: 'Ruben Dominguez, Guillermo Flor'
     url: >-
       https://www.thevccorner.com/p/robert-herjavec-ai-startups-shark-tank-founder-lessons
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI lowers the cost of copying products, so brand and narrative become the
@@ -70,6 +46,17 @@ resolutions:
 stance: >-
   As AI makes it trivially easy to replicate products, storytelling and brand
   become the primary competitive differentiators
+related:
+  - INS-260320-080B
+  - INS-260327-3DE7
+  - INS-260329-409F
+  - INS-260330-A561
+  - INS-260403-0CA9
+  - INS-260403-43B9
+  - INS-260403-16D7
+  - INS-260404-AB0F
+  - INS-260404-8A87
+  - INS-260322-F891
 ---
 Herjavec argues that AI is simplifying every business process, which means competitors can clone your product faster than ever. In this environment, the things that can't be copied — brand identity, storytelling ability, and accumulated media credibility — become disproportionately valuable as competitive moats.
 

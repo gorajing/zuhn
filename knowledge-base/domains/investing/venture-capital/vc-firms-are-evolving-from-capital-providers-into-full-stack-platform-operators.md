@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'VC 3.0: How AI Is Changing Startup Funding Forever'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-3-ai-startup-funding'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Top VC firms like a16z and Index Ventures now function as full-stack
@@ -61,6 +51,13 @@ stance: >-
   The most competitive venture firms now operate as technology platforms
   offering proprietary tools, AI talent networks, and product infrastructure —
   making the capital itself a secondary differentiator.
+related:
+  - INS-260322-03DD
+  - INS-260322-9DDD
+  - INS-260403-7068
+  - INS-260404-DFE8
+  - INS-260403-66EF
+  - INS-260403-B301
 ---
 The line between investor and operator continues to blur in VC 3.0. Firms like Andreessen Horowitz, Index Ventures, and Bessemer are deploying proprietary tools, building internal data platforms, and acting as co-builders with portfolio companies. This represents a structural shift where value comes from infrastructure, insight, and speed rather than boardroom advice and network introductions.
 

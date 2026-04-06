@@ -50,7 +50,6 @@ stance: >-
   vulnerability.
 related:
   - INS-260327-98B1
-  - INS-260327-0C65
   - INS-260327-1107
   - INS-260327-7D63
   - INS-260327-191B

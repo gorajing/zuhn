@@ -52,11 +52,11 @@ stance: >-
   Proactively disclosing a genuine weakness before stating a benefit makes the
   benefit dramatically more believable than presenting the benefit alone
 related:
-  - INS-260329-348D
-  - INS-260329-7B56
+  - INS-260403-5E03
   - INS-260403-C37D
-  - INS-260405-8BEA
-  - INS-260330-D066
+  - INS-260329-7B56
+  - INS-260329-348D
+  - INS-260403-E4C6
   - INS-260329-8BFC
 evidence:
   - id: INS-260330-D066

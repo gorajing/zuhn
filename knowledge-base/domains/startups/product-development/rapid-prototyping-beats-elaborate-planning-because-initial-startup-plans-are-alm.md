@@ -46,16 +46,16 @@ stance: >-
   planning, because startup assumptions are nearly always wrong in some critical
   way.
 related:
-  - INS-260323-1C32
   - INS-260320-93E1
   - INS-260320-C65B
-  - INS-260322-2155
-  - INS-260322-58B7
   - INS-260327-3C19
   - INS-260327-2387
   - INS-260327-B17E
   - INS-260329-4DBC
   - PRI-260405-0AC6
+  - INS-260403-D970
+  - INS-260403-7333
+  - INS-260403-A7D0
 evidence:
   - id: INS-260323-1C32
     type: SUPPORTS

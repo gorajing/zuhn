@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Startup FP&A Model: Build a Real Operating Plan'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Plan headcount costs using fully loaded compensation (base + tax + benefits)
@@ -60,6 +50,12 @@ stance: >-
   underestimate true hiring costs by 20-40% because payroll tax, benefits
   burden, and ramp-to-productivity timing create a significant gap between
   sticker price and actual cash impact.
+related:
+  - INS-260403-37F4
+  - INS-260403-09E8
+  - INS-260403-7692
+  - INS-260403-193E
+  - INS-260327-2430
 ---
 When founders budget for a new hire, they typically anchor on the base salary—say $150K for a senior engineer. But the actual cash cost includes payroll tax, health insurance, equipment, and other benefits that add 20-40% on top. A $150K hire might cost $190-210K fully loaded. When you multiply this error across a 10-person hiring plan, you're off by $400K-600K annually—enough to miscalculate runway by months.
 

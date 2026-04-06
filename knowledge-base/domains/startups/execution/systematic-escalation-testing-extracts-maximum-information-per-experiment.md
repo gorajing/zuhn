@@ -50,22 +50,22 @@ stance: >-
   Testing against progressively harder conditions in sequence reveals failure
   modes and thresholds that a single ambitious test would miss entirely
 related:
-  - INS-260403-8D87
   - INS-260403-0803
   - INS-260329-4D24
   - INS-260323-1811
   - INS-260329-D8F2
+  - INS-260403-77F4
 evidence:
   - id: INS-260320-10CC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-1811
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D8F2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3D3E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-C689
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-8D87
     type: SUPPORTS
     classified_at: '2026-04-06'

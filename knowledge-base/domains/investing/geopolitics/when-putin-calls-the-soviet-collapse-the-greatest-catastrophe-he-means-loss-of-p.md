@@ -48,9 +48,10 @@ resolutions:
 related:
   - INS-260323-7185
   - PRI-260323-B798
+  - INS-260403-B280
   - PRI-260328-BEAB
+  - INS-260327-F7FE
   - INS-260330-814E
-  - INS-260330-72BD
 stance: >-
   Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost
   millions) reveals his value hierarchy: loss of great power status an...

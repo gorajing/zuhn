@@ -17,24 +17,14 @@ sources:
     title: >-
       Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary
       Policy 
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/the-federal-reserve-and-critical'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     With rates near zero in 2021, the U.S. could have refinanced its national
@@ -59,6 +49,13 @@ stance: >-
   The failure to lock in near-zero interest rates on national debt in 2021 will
   compound into one of the most expensive fiscal policy mistakes in modern
   American history.
+related:
+  - INS-260327-226A
+  - INS-260329-191D
+  - INS-260329-F443
+  - INS-260330-4416
+  - INS-260402-D7C7
+  - INS-260403-C460
 ---
 In 2021, the Federal Funds Rate sat near zero — a historically anomalous window where the U.S. Treasury could have issued long-duration bonds to lock in generationally cheap financing on the national debt. Instead, the Treasury continued issuing shorter-duration instruments. When inflation forced the Fed into its most aggressive hiking cycle in decades (0% to 5%+ by 2023), the cost of servicing and rolling over that debt exploded.
 

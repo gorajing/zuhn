@@ -55,22 +55,22 @@ stance: >-
   difficult, proving that standards alone don't guarantee good developer
   experience.
 related:
-  - INS-260329-8A13
   - INS-260402-2D95
   - INS-260330-AB62
   - INS-260327-FDF4
+  - PRI-260405-2A95
   - INS-260329-6A60
 evidence:
   - id: INS-260327-FDF4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-AB62
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D0B3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6A60
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2D95
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Web components are a W3C browser standard allowing custom reusable HTML elements that work across any framework. In theory, this solves the framework fragmentation problem. In practice, the API (customElements.define, shadow DOM, lifecycle callbacks) is so cumbersome that Google sponsors Lit and the Ionic team built Stencil specifically to abstract it away.
 

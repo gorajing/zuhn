@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: How Venture Capital Became a Consensus Machine
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/venture-capital-vs-consensus-capital'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The product needs a strange, unfair edge, but the story must be legible
@@ -64,6 +54,15 @@ stance: >-
   The modern fundraising paradox requires founders to simultaneously possess a
   genuinely differentiated product and a pitch narrative that pattern-matches to
   what investors already believe winners look like.
+related:
+  - INS-260323-D288
+  - INS-260327-CFE5
+  - INS-260329-086B
+  - INS-260403-E8E3
+  - INS-260405-F9EC
+  - INS-260327-D7AA
+  - INS-260403-53AA
+  - INS-260405-443C
 ---
 Most VCs don't invest in ideas—they invest in narratives that sound like other winners. This creates a paradox where founders need genuine product differentiation (something new, strange, unfair) but must translate that vision into the language of consensus to survive the fundraising gauntlet of partners, investment committees, and LP reporting.
 

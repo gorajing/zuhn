@@ -54,6 +54,7 @@ related:
   - INS-260325-4601
   - PRI-260328-92EF
   - INS-260327-1AEC
+  - INS-260403-687E
 ---
 Testosterone follows a circadian rhythm, peaking in the morning. The pituitary sends FSH and LH signals to the testicles -- sleep disruption directly impairs this signaling cascade. Seven to eight hours at consistent times is non-negotiable.
 

@@ -48,7 +48,6 @@ stance: >-
 related:
   - INS-260322-A14D
   - INS-260326-CA66
-  - INS-260325-73C0
   - INS-260327-99CE
   - INS-260330-D801
   - INS-260403-462F
@@ -56,6 +55,7 @@ related:
   - INS-260403-F590
   - INS-260403-98F3
   - INS-260405-1894
+  - INS-260403-C8B9
 evidence:
   - id: INS-260322-A14D
     type: TRANSFERS_TO

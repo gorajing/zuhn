@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Everything You Knew About VC Math Is Wrong
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/venture-capital-fund-math-explained'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The same three outlier exits produce 5x, 2.5x, or 1.25x fund returns
@@ -60,6 +50,13 @@ resolutions:
 stance: >-
   Ownership percentage at entry matters more than picking the right companies —
   even catching a unicorn won't save a fund that overpaid for its position.
+related:
+  - INS-260403-BB6B
+  - INS-260403-C377
+  - PRI-260405-ED62
+  - INS-260403-49EC
+  - INS-260403-2330
+  - INS-260403-82B5
 ---
 The article demonstrates with concrete math that identical exit outcomes produce radically different fund multiples based on entry valuation. A GP entering at $10M post-money gets ~10% ownership (diluted to ~5%), producing a ~5x gross multiple from three strong exits. The same exits at $40M post-money entry yield only ~1.25x — a fund-killing outcome from the same deal quality. This destroys the common narrative that deal flow and company selection are the primary drivers of fund performance.
 

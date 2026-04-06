@@ -50,10 +50,10 @@ stance: >-
   engagement-optimized platforms rather than a fixable bug.
 related:
   - INS-260321-38EC
+  - INS-260403-9A44
   - PRI-260323-DAB9
   - PRI-260328-0C15
   - INS-260330-1F7E
-  - INS-260327-9D51
   - INS-260404-F6ED
 evidence:
   - id: INS-260330-1F7E

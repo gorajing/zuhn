@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Deep Dives
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dives'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     US electricity generation has flatlined at ~4,000-4,200 TWh since 2000 after
@@ -60,6 +50,12 @@ stance: >-
   America's electric grid is its most critical infrastructure bottleneck —
   generation grew only 1.3x in 25 years after growing 10x every 30 years for a
   century, and this will throttle AI scaling and economic expansion.
+related:
+  - INS-260325-5CB1
+  - INS-260403-7157
+  - INS-260404-25F5
+  - INS-260404-7A75
+  - PRI-260323-ADA4
 ---
 From 1900 to 2000, US grid power capacity grew 10x every 30 years. Since 2000, it has grown only 1.3x, flatlined at approximately 4,000-4,200 TWh. This dramatic deceleration coincides with surging demand from AI data centers, EV charging, and re-industrialization.
 

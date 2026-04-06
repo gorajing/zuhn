@@ -42,13 +42,14 @@ resolutions:
     sometimes explicit, constrained APIs are safer than flexible natural
     language. The tradeoff is expressivity vs predictability.
 related:
-  - INS-260321-A56C
   - INS-260323-7A50
   - INS-260329-EDA2
   - INS-260402-9676
   - INS-260403-9BBA
   - INS-260327-5F10
   - INS-260403-EF20
+  - INS-260327-9EFE
+  - INS-260405-1F6B
 stance: >-
   Natural language interfaces change who can program a robot, not just what it
   can do

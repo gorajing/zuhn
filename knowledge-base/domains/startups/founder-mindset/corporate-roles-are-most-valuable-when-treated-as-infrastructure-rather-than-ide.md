@@ -19,26 +19,14 @@ sources:
     title: >-
       The Death of the Corporate Job: Why Work Feels Pointless and What Comes
       Next
-    author:
-      - '@type': Person
-        name: Alex McCann
-        url: 'https://substack.com/@alexmccannn'
-        description: >-
-          On a mission to re-think traditional careers advice and help people
-          find meaningful work.
-        identifier: 'user:327442941'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!x9KN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a18ed94-309d-41f4-b2e1-0fdce0b769d7_389x389.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!x9KN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a18ed94-309d-41f4-b2e1-0fdce0b769d7_389x389.jpeg
+    author: Alex McCann
     url: 'https://www.thevccorner.com/p/death-of-the-corporate-job'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Reframing a corporate job from calling to platform unlocks its actual
@@ -63,6 +51,12 @@ stance: >-
   The optimal relationship with corporate employment is parasitic extraction of
   resources (salary, tools, stability) to fund parallel value creation, not
   psychological investment in the role itself
+related:
+  - INS-260322-EDA4
+  - INS-260404-3D17
+  - INS-260403-DC4A
+  - INS-260327-FCCF
+  - INS-260403-DF37
 ---
 The essay identifies a emerging pattern where workers maintain corporate personas while building parallel systems of actual value — developers shipping products in the afternoon, marketers running agencies from corporate desks, consultants automating deliverables to free time for side projects. The critical psychological shift is from identity ('I am a Growth Hacker') to utility ('this role funds my real work').
 

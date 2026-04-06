@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: China’s Global Strategy and Power Balance'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-chinas-global-strategy'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Britain's relative manufacturing share predicted its WWI dependency on
@@ -62,6 +52,12 @@ resolutions:
 stance: >-
   Control of industrial production capacity — not military spending or GDP alone
   — is the most predictive metric of which power will dominate the next era.
+related:
+  - INS-260404-4F1B
+  - INS-260323-9FCA
+  - INS-260403-6988
+  - INS-260405-B6CB
+  - INS-260403-1462
 ---
 The historical pattern is clear: manufacturing share predicts military and geopolitical outcomes, often with a 20-30 year lag. Britain's manufacturing dominance in 1870 (31.8%) gave way to US dominance by 1913 (32%), and the US industrial capacity proved decisive in both WWIs. Manufacturing capacity converts directly into warships, munitions, and logistics — it is the physical substrate of sustained military power.
 

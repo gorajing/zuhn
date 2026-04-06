@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Why does America feel worse than other countries? Crime.
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/why-does-america-feel-worse-than'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Many of America's most-discussed problems — sprawl, bad transit, housing
@@ -60,6 +48,12 @@ stance: >-
   America's poor transit, car-dependent sprawl, NIMBYism, and housing shortages
   are largely downstream effects of persistently high crime rates rather than
   independent policy failures.
+related:
+  - INS-260403-8C12
+  - INS-260403-36A6
+  - INS-260327-2B44
+  - INS-260404-7604
+  - PRI-260328-EAC4
 ---
 The article builds a causal chain: high crime → people flee cities for suburbs → resistance to transit stations (criminals ride trains) → NIMBYism blocks dense housing (crime fears) → car-dependent sprawl → lack of walkable urbanism. Each of these is typically analyzed as a separate policy failure, but they share a common root cause. When BART installed fare gates, crime dropped 54% — demonstrating that the transit-crime link is real, not imagined.
 

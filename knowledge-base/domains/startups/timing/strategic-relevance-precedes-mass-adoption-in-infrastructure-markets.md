@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Why Nvidia Paid $20B for a Small Startup
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/nvidia-groq-deal-venture-capital'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Groq's value was not in customer count but in forcing the assumption that
@@ -58,6 +48,14 @@ stance: >-
   In infrastructure markets, a startup becomes strategically valuable not when
   it achieves mass adoption but when it forces powerful buyers to revisit
   foundational assumptions about what is possible or necessary.
+related:
+  - INS-260404-8D91
+  - INS-260323-7424
+  - PRI-260403-5DEA
+  - INS-260403-754F
+  - INS-260404-B31C
+  - INS-260402-BCEC
+  - INS-260330-38E1
 ---
 Founders often equate progress with adoption metrics — user counts, revenue growth, market share. In infrastructure markets, however, strategic relevance operates on a different axis. What matters early is not how many customers you have, but which assumptions you force powerful buyers to revisit. If your product changes how incumbents think about what is possible or necessary, you capture leverage long before you need to care about scale.
 

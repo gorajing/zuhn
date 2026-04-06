@@ -48,10 +48,10 @@ resolutions:
     Keep students motivated through the joy of playing actual music, and let
     theory emerge as a tool to explain what they're already doing.
 related:
-  - INS-260320-F78E
   - INS-260322-F781
   - INS-260323-0982
   - INS-260403-49E7
+  - INS-260320-F78E
   - PRI-260323-847E
   - PRI-260403-0509
 stance: >-
@@ -59,11 +59,11 @@ stance: >-
   theory
 evidence:
   - id: INS-260320-F78E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-8830
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-49E7
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Rick Beato's recommended learning path for guitar: start with open chords in first position, learn to strum basic patterns, and immediately apply these to songs you love. Theory (scales, intervals, chord construction) should come later, after the student has fallen in love with playing.
 

@@ -41,14 +41,13 @@ resolutions:
     in specific domains — the bubble is in the gap between actual utility and
     projected valuations.
 related:
-  - INS-260321-2241
   - INS-260403-EAC6
+  - INS-260403-3C68
   - INS-260325-4846
   - PRI-260328-82BE
-  - PRI-260321-7307
-  - INS-260321-1A0B
+  - INS-260403-A46C
   - INS-260324-9586
-  - INS-260403-CB33
+  - INS-260403-E4C7
 stance: >-
   The microprocessor, PC, Wi-Fi, smartphones, and GPS all flourished through
   organic market demand — no one adopted them under threat of extinction

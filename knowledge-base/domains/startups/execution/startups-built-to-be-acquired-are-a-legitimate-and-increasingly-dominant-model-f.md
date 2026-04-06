@@ -50,14 +50,15 @@ stance: >-
   company is a rational specialization that produces better technology faster
   than in-house corporate R&D.
 related:
-  - INS-260330-9055
   - INS-260330-CCF0
   - INS-260403-B7FA
   - INS-260403-27AC
+  - INS-260404-EC32
+  - INS-260403-FCF7
   - INS-260323-AF7B
-  - INS-260403-8F6E
   - INS-260403-7227
   - INS-260403-FB4D
+  - INS-260403-8DA1
 evidence:
   - id: INS-260403-B7FA
     type: TRANSFERS_TO

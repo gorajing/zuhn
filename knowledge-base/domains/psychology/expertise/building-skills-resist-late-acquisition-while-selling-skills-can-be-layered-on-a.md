@@ -47,16 +47,14 @@ stance: >-
   cannot be effectively picked up later, while sales and communication skills
   remain acquirable at any stage.
 related:
-  - INS-260322-D6B8
   - INS-260323-1CA4
   - INS-260327-7846
   - INS-260329-9F81
   - INS-260329-7AAB
   - INS-260329-E76F
   - INS-260329-55DC
-  - INS-260329-4C4C
-  - INS-260330-4341
-  - INS-260403-0020
+  - INS-260403-B446
+  - INS-260403-772D
 evidence:
   - id: INS-260329-55DC
     type: REFINES

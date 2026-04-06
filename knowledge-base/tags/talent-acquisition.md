@@ -1,5 +1,6 @@
 # Tag: talent-acquisition
 
+- `INS-260403-4314` Grand AGI narratives attract top talent but become liabilities when they substitute for rigorous business thinking.
 - `INS-260403-79AD` Buying Web 2.0 startups would have cost Microsoft less than Facebook and restored their competitiveness, but their culture couldn't accept it.
 - `INS-260404-AE2E` Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
 - `INS-260330-E0A9` Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.

@@ -51,20 +51,20 @@ stance: >-
   innovation while suppressing political dissent, because imaginative thinking
   in technical domains inevitably produces politically inconvenient ideas.
 related:
-  - INS-260325-AC52
   - INS-260325-36F0
   - INS-260403-21AF
-  - INS-260402-F853
+  - INS-260403-474E
   - PRI-260324-3AAE
+  - INS-260323-C10D
 evidence:
   - id: INS-260402-A693
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-AC52
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-36F0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-C10D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Graham observes that imagination is indivisible: it's hard to have odd ideas about technology without also having odd ideas about politics, and many technical ideas have inherent political implications. This means authoritarian regimes face a fundamental contradiction — they want the economic output of innovation but cannot tolerate the intellectual freedom that produces it. The 'back pressure' from political suppression propagates into technical fields.
 

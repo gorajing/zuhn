@@ -53,10 +53,10 @@ stance: >-
   new priority matters.
 related:
   - INS-260325-C523
+  - INS-260403-8DA1
   - INS-260330-49A4
   - INS-260330-8A65
   - INS-260329-89E9
-  - INS-260405-7DD7
 evidence:
   - id: INS-260330-8A65
     type: CHALLENGES

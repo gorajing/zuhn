@@ -45,12 +45,13 @@ resolutions:
     creates contagion risk.
 related:
   - PRI-260321-2DF0
+  - INS-260405-6D3A
   - PRI-260328-0993
   - INS-260327-EF98
   - INS-260324-72E8
-  - INS-260325-FC0B
-  - INS-260321-C6C0
   - INS-260330-EF10
+  - INS-260405-25DD
+  - INS-260403-6024
 stance: >-
   Private credit defaults reached 9.2% (Fitch) while funds gated redemptions at
   5-14%, trapping investors

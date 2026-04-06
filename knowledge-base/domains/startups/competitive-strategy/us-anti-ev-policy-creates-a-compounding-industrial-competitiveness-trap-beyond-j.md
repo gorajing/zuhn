@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Maybe you should have bought an electric car
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/maybe-you-should-have-bought-an-electric'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     EV technology shares components with drones, robots, and electronics, so low
@@ -60,6 +48,16 @@ stance: >-
   Refusing to adopt EVs doesn't just cede the car market — it starves the shared
   technology base (batteries, motors, power electronics) that underpins drones,
   robots, and consumer electronics, creating cascading industrial decline.
+related:
+  - INS-260325-B882
+  - INS-260327-BEFF
+  - INS-260403-107E
+  - INS-260403-2B95
+  - INS-260403-2E12
+  - INS-260325-4846
+  - INS-260322-8147
+  - PRI-260328-7007
+  - INS-260404-FAAC
 ---
 Battery cells, power electronics, electric motors, and battery management systems are shared components across EVs, drones, robots, and consumer electronics. Manufacturing these at scale drives down costs and up quality through learning curves — the same dynamic that made Asian electronics dominant.
 

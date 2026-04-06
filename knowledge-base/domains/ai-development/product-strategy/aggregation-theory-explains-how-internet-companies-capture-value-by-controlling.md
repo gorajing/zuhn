@@ -48,10 +48,10 @@ stance: >-
   value chain as open-source models commoditize LLM providers
 related:
   - INS-260328-D826
+  - INS-260403-C200
   - PRI-260328-DF2D
+  - INS-260402-C98A
   - INS-260330-4F2A
-  - INS-260321-4E98
-  - INS-260329-88A4
 evidence:
   - id: INS-260330-4F2A
     type: EXTENDS

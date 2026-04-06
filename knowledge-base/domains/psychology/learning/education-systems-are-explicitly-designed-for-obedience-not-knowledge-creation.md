@@ -54,19 +54,22 @@ stance: >-
   and behavioral conformity, which is diametrically opposed to the creativity
   that makes humans uniquely powerful.
 related:
-  - PRI-260403-67FC
-  - PRI-260323-F92B
-  - INS-260402-F479
-  - PRI-260327-8D8C
+  - INS-260325-4CF9
   - INS-260330-8901
   - INS-260404-09EE
+  - INS-260403-9E51
+  - PRI-260403-67FC
+  - PRI-260323-F92B
+  - INS-260405-4EAA
+  - PRI-260405-0676
+  - PRI-260327-8D8C
 evidence:
   - id: INS-260322-C935
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-1A84
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-09EE
     type: SUPPORTS
     classified_at: '2026-04-06'

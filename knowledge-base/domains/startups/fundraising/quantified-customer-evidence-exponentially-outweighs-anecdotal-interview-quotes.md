@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Free Product-Market Fit Template for Founders
-    author:
-      - '@type': Person
-        name: Jeroen Coelen
-        url: 'https://substack.com/@doctormarketfit'
-        description: Mentored 1000+ founders. PhD on startups.
-        identifier: 'user:9872561'
-        sameAs:
-          - 'https://twitter.com/Coeluh'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!et58!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff19a9a5b-c2f4-4a05-afed-d5a0f83391e5_1728x1728.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!et58!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff19a9a5b-c2f4-4a05-afed-d5a0f83391e5_1728x1728.jpeg
+    author: Jeroen Coelen
     url: 'https://www.thevccorner.com/p/free-product-market-fit-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Replace anecdotal customer quotes with quantified patterns like '8/10
@@ -60,6 +48,12 @@ stance: >-
   Quantified customer evidence like '8 out of 10 customers mention this' is
   dramatically more convincing for PMF claims than individual interview quotes
   or market size statistics.
+related:
+  - INS-260329-E900
+  - INS-260404-36F1
+  - INS-260404-405A
+  - INS-260403-DD95
+  - INS-260403-53AA
 ---
 The framework draws a clear evidence hierarchy: quantified customer patterns beat individual interview quotes, which beat market statistics. Saying 'this market is growing 60% per year' is only mildly convincing of PMF because market growth doesn't prove your product fits. Saying 'heard in customer interview' is weaker than '8 out of 10 customers mention this.'
 

@@ -48,14 +48,13 @@ stance: >-
   developers will use it, so the right strategy is to maximize what developers
   can access rather than optimize for known use cases
 related:
-  - INS-260321-FD14
   - INS-260326-3D8D
   - INS-260327-6F26
   - INS-260330-9055
   - INS-260403-8F6E
   - INS-260403-2152
   - INS-260403-FCA6
-  - PRI-260328-FD47
+  - INS-260402-8C42
 evidence:
   - id: INS-260321-FD14
     type: CHALLENGES

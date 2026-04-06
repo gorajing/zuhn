@@ -48,8 +48,8 @@ related:
   - INS-260403-DD63
   - INS-260403-4874
   - INS-260327-10A2
+  - INS-260403-B53B
   - INS-260403-5D89
-  - INS-260330-AF2B
 stance: >-
   The Department of War is replacing cost-plus contracts with 1000-requirement
   RFPs with simple firm-fixed-price requirements

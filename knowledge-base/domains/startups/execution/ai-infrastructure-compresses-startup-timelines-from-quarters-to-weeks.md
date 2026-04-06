@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'VC 3.0: How AI Is Changing Startup Funding Forever'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-3-ai-startup-funding'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Founders can now go from idea to product to seed round in less than a
@@ -58,6 +48,15 @@ stance: >-
   Access to pretrained models and API infrastructure has compressed the
   idea-to-seed-round timeline to under one quarter, fundamentally changing what
   speed means in startup execution.
+related:
+  - INS-260320-922A
+  - INS-260323-5986
+  - INS-260403-36DD
+  - INS-260403-7483
+  - INS-260329-4DBC
+  - INS-260403-64F1
+  - PRI-260328-94D4
+  - PRI-260405-0AC6
 ---
 The availability of pretrained models, open-source frameworks, and API integrations has created a dramatic compression in startup timelines. MVPs that once took six months now take weeks. Product-market fit signals that took months to emerge now appear in days. This isn't just faster building — it's a fundamentally different tempo that changes the entire fundraising dynamic.
 

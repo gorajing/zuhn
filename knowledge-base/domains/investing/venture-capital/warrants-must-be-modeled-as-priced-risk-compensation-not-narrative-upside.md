@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: How to Model Mezzanine Financing End-to-End
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-to-model-mezzanine-financing'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Warrants attached to mezzanine deals are a mechanically calculated risk
@@ -62,6 +52,14 @@ stance: >-
   Treating equity warrants in mezzanine deals as casual upside rather than a
   precisely priced component of risk compensation is a common and costly mistake
   that obscures the true dilution cost to founders.
+related:
+  - INS-260329-27DF
+  - INS-260402-3D34
+  - INS-260403-3CD0
+  - INS-260403-8450
+  - INS-260329-6079
+  - INS-260403-6EBD
+  - INS-260403-11E3
 ---
 Mezzanine lenders attach warrants as an equity kicker to compensate for the higher risk of subordinated debt. The coverage percentage, strike price, and target ownership are all negotiable inputs that mechanically determine the number of warrant shares and their value across exit scenarios. When founders or advisors treat warrants as a minor sweetener or narrative promise of alignment, they fail to calculate the actual dilution and its sensitivity to exit outcomes.
 

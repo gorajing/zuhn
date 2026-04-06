@@ -57,11 +57,11 @@ stance: >-
   dramatically outperform polished corporate-speak because recipients can
   instantly detect and delete anything that feels templated.
 related:
+  - INS-260403-93FA
   - INS-260323-87F3
   - INS-260327-6C54
   - INS-260404-616F
   - INS-260404-875B
-  - INS-260327-8D7E
 evidence:
   - id: INS-260327-8D7E
     type: TRANSFERS_TO

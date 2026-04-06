@@ -1,12 +1,16 @@
 # Topic: limitations
 
-> 34 insights
+> 45 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
 - `INS-260323-F2C3` [high] AI's strongest achievements (AlphaGo, AlphaFold) are in domains with verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate real occupations.
+- `INS-260402-31D8` [high] The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
+- `INS-260323-BA00` [high] The biological stack starts with reproduction at the cellular level; the silicon stack has no reproduction capability at all — making AI systems fundamentally fragile in ways biology is not.
 - `INS-260325-D680` [high] Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
+- `INS-260326-6D76` [high] Most complex systems are computationally irreducible — you cannot predict their behavior without running the full computation.
 - `INS-260325-1080` [high] The diagonal argument doesn't just prove something can't be done — it builds the exact thing that breaks the attempt.
+- `INS-260403-BE4D` [high] Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
 - `INS-260330-EE25` [high] Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260330-C681` [high] AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
 - `INS-260403-304E` [high] RuBisCo was designed for low-oxygen atmospheres; when plants raised oxygen levels, it started failing silently half the time — a cautionary tale for AI model drift.
@@ -16,7 +20,10 @@
 - `INS-260327-9BA2` [high] LLMs manipulate language so well that people mistake fluency for intelligence, but they cannot invent or truly reason.
 - `INS-260323-B309` [high] LLMs match statistical patterns from human-generated text (wide, shallow), while formal computational systems like Wolfram Alpha build deep chains of logical inference from structured knowledge (narrow, deep).
 - `INS-260323-A5EC` [high] LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
+- `INS-260323-2D1D` [high] Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
+- `INS-260330-B076` [high] Nearly all life on Earth is fusion-powered — photons from solar fusion cascade through photosynthesis into every biological process, revealing how apparent diversity masks single-source dependency.
 - `INS-260403-F9C7` [high] Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
+- `INS-260404-0C67` [high] Quantum advantage comes from interference that amplifies correct answers and suppresses wrong ones, not from checking all possibilities simultaneously.
 - `INS-260323-7625` [high] While per-token costs have decreased, reasoning models burn dramatically more tokens per task, so actual inference costs per useful output have increased — the opposite of what AI CEOs claim.
 - `INS-260330-47E0` [high] From Russell's paradox to Gödel's theorem to the halting problem, self-reference is the single mechanism that breaks formal systems.
 - `INS-260325-ED75` [high] Conway's FRACTRAN — a generalization of 3x+1 — is Turing-complete and subject to the halting problem, raising the possibility that Collatz itself is undecidable.
@@ -28,11 +35,15 @@
 - `INS-260323-7403` [high] Viral AI doom/boom essays like Citrini Research move stock markets despite containing no concrete mechanism for how AI replaces jobs — they describe what happens after AI works, never how.
 - `INS-260323-7BA4` [high] Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260403-8302` [medium] Benchmark providers funded by AI companies they evaluate create structural conflicts of interest that erode trust in published scores.
+- `INS-260403-0A83` [medium] AI that replaces human learning effort may destroy the byproduct discoveries that grow humanity's total knowledge stock.
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
+- `INS-260403-B8AA` [medium] Neuroscience research suggests language modeling captures communication patterns but not the underlying cognitive processes that produce genuine reasoning.
 - `INS-260325-3D31` [medium] Transistors are approaching 5 atoms across, where electrons hop freely via quantum tunneling and short-circuit the chip -- this physical limit will flatten Moore's Law.
 - `INS-260323-FE69` [medium] Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.
 - `INS-260325-CC49` [medium] The physical impossibility of infinite precision may be what prevents mathematical paradoxes from breaking reality.
 - `INS-260325-A1B9` [medium] Digital encryption relies on the difficulty of factoring large numbers -- a task that takes digital computers centuries but quantum computers could do almost instantly.
+- `INS-260403-04AD` [medium] The 'stochastic parrot' framing relies on hallucinations seeming alien and incomprehensible, but reframing them as guessing reveals a familiar, goal-directed behavior.
+- `INS-260403-4803` [medium] LLM scaling has shifted from capability breakthroughs to incremental refinement of existing abilities.
 - `INS-260325-3F86` [medium] AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
 - `INS-260327-684D` [medium] Cronin's sadness about alien life: it's probably everywhere but our causal cones may never overlap, meaning we might need to create alien intelligence in the lab rather than discover it in space.
 - `INS-260330-2154` [medium] When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.

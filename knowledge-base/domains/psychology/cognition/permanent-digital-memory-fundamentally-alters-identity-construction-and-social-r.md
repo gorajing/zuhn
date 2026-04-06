@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: How technology has already changed the world in my lifetime
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/how-technology-has-already-changed'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When everything you say online is permanently stored, the ability to
@@ -63,6 +51,12 @@ stance: >-
   The shift from forgettable to permanently recorded lives constrains personal
   reinvention and forces lifelong reputational vigilance, creating a
   historically unprecedented social dynamic
+related:
+  - INS-260330-A075
+  - INS-260322-6042
+  - INS-260327-B64B
+  - PRI-260323-57AC
+  - INS-260322-71E4
 ---
 Before the internet, most things people said and did would be forgotten and misremembered within a fairly short time. This ephemerality was a feature, not a bug — it allowed people to evolve, craft new personas, and move beyond past baggage. The internet's permanent memory has eliminated this social affordance.
 

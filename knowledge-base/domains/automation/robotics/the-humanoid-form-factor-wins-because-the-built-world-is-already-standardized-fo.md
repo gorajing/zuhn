@@ -18,42 +18,19 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive on Humanoid Robots: The Case for a World Running Out of Workers'
-    author:
-      '@type': Organization
-      name: Chamath Palihapitiya
-      url: 'https://chamath.substack.com'
-      description: |-
-        I make bets on disruptive ideas, technology, and people.
-
-        Subscribe to learn with me.
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 100000
-      identifier: 'pub:975637'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
+    author: >-
+      {"@type":"Organization","name":"Chamath
+      Palihapitiya","url":"https://chamath.substack.com","description":"I make
+      bets on disruptive ideas, technology, and people.\n\nSubscribe to learn
+      with
+      me.","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":100000},"identifier":"pub:975637","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png"}}
     url: 'https://chamath.substack.com/p/humanoid-robots'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Doorways, staircases, and tools are built for human dimensions — a humanoid
@@ -79,6 +56,13 @@ resolutions:
 stance: >-
   Humanoid robots are strategically superior to task-specific robots because
   they can operate in existing infrastructure without requiring world redesign.
+related:
+  - INS-260330-AF2A
+  - INS-260405-E4FC
+  - INS-260405-ADCE
+  - INS-260405-F05B
+  - INS-260323-758B
+  - INS-260323-05B5
 ---
 Every factory, warehouse, and home on Earth was designed around human physical constraints: bipedal locomotion, two hands, a certain reach envelope, a standing height optimized for counters and controls. Task-specific robots — conveyor systems, robotic arms, automated forklifts — require expensive facility redesign to accommodate their fixed form factors. A humanoid robot sidesteps this entirely by matching the form factor that infrastructure already assumes.
 

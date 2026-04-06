@@ -44,11 +44,12 @@ resolutions:
     individually), and stress-test decision-making processes before crises force
     you to.
 related:
+  - INS-260404-88F9
+  - INS-260403-7089
   - PRI-260321-0A4D
   - PRI-260322-9E36
   - PRI-260323-DAB9
-  - INS-260325-EC85
-  - INS-260330-8D0C
+  - INS-260403-0EC5
 stance: >-
   As stakes increase, power struggles intensify — resilient governance
   structures must be built early, before the pressure peaks.

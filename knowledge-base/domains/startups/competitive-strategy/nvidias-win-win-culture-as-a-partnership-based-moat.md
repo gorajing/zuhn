@@ -50,14 +50,12 @@ stance: >-
   than capturing share from competitors, making partners invested in its
   success.
 related:
-  - INS-260327-D7AA
   - INS-260327-679A
   - INS-260322-CFB1
   - INS-260327-80A8
   - INS-260403-FCD7
   - INS-260325-A54F
   - INS-260330-067C
-  - INS-260330-B390
 evidence:
   - id: INS-260323-4E23
     type: TRANSFERS_TO

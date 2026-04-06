@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Superintelligence is already here, today'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/superintelligence-is-already-here'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Human specialization in sparse-data pattern recognition may represent a
@@ -63,6 +51,13 @@ stance: >-
   communicating them through language, and these capabilities may be near the
   mathematical ceiling — AI may never significantly exceed human-level judgment,
   intuition, or taste.
+related:
+  - INS-260325-FD14
+  - INS-260326-AE6C
+  - INS-260404-93CD
+  - INS-260330-C31B
+  - INS-260330-6BBD
+  - INS-260330-8A65
 ---
 Smith proposes that humans evolved to maximize leverage from their limited organic brains by specializing in exactly the cognitive tasks where compute and memory matter least: recognizing patterns in sparse data and communicating insights through language. If this specialization is near the theoretical maximum, it would explain why LLMs don't feel dramatically more 'intelligent' in conversation despite massive improvements in math and coding.
 

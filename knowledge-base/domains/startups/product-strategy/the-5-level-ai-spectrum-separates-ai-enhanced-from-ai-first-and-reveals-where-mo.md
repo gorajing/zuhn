@@ -56,11 +56,11 @@ stance: >-
   thinking
 related:
   - INS-260403-D62D
+  - INS-260403-7D5B
   - INS-260404-8A02
+  - INS-260326-291C
   - INS-260322-EF20
   - INS-260403-9CD9
-  - PRI-260405-E9C5
-  - INS-260327-B302
 ---
 NFX's AI spectrum categorizes companies from Level 1 (AI-Enhanced: using AI for workflow efficiency) through Level 5 (AI-First: impossible without generative AI). Levels 1-3 represent incremental applications—using AI to speed up existing processes, lock in PMF, or add intelligence layers on top of existing products. Levels 4-5 represent transformational applications—where AI is the product itself or where the entire company couldn't exist without AI.
 

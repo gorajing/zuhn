@@ -50,16 +50,16 @@ stance: >-
   chapters (31 for 4 hours) dramatically reduces abandonment compared to fewer
   large sections
 related:
-  - INS-260329-50C0
-  - INS-260329-A53C
   - INS-260329-3FF4
-  - INS-260329-5AC5
+  - INS-260329-A53C
+  - PRI-260405-71C5
   - INS-260329-70D5
+  - INS-260329-90C3
 evidence:
   - id: INS-260329-3FF4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial uses 31 chapters across 4 hours — averaging about 7-8 minutes per chapter. This is significantly more granular than most educational content, which typically uses 8-12 sections for equivalent length. The high granularity serves multiple cognitive purposes.
 

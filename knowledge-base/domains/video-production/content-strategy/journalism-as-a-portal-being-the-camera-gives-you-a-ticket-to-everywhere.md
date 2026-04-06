@@ -47,10 +47,10 @@ resolutions:
     constructing elaborate narratives.
 related:
   - PRI-260326-DB67
+  - INS-260403-8C7E
   - INS-260330-4DBE
   - INS-260325-DF66
   - INS-260403-DEF6
-  - INS-260323-4ADE
 stance: >-
   Everyone wants media coverage, which means holding a camera is a universal
   access pass

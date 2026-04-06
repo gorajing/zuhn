@@ -21,26 +21,14 @@ sources:
     title: >-
       An inside look at Figma’s unique GTM motion | Claire Butler (first GTM
       hire)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/an-inside-look-at-figmas-unique-bottom'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When users publicly identify as 'a Figma designer,' the product gains social
@@ -64,6 +52,12 @@ stance: >-
   Community programs that turn power users into public advocates compound over
   time because they fuse product adoption with professional identity, creating
   switching costs that are social rather than technical.
+related:
+  - INS-260327-415B
+  - INS-260329-5975
+  - INS-260330-059C
+  - INS-260329-CEC5
+  - INS-260403-5788
 ---
 Figma's designer advocate program worked because it made the product part of how designers presented themselves professionally — on Twitter, at meetups, in job listings. This is qualitatively different from a referral program: advocates were not incentivized to share, they shared because sharing affirmed their own professional identity and expertise.
 

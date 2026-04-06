@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: The Venture Capital Playbook
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-venture-capital-playbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs reject 90% of startups in the first 15 minutes based on market size,
@@ -55,6 +45,17 @@ resolutions:
 stance: >-
   90% of startups get rejected within the first 15 minutes of a VC meeting,
   making initial pitch preparation the highest-leverage fundraising activity.
+related:
+  - INS-260324-40AA
+  - INS-260327-0700
+  - INS-260330-568A
+  - INS-260402-421B
+  - INS-260403-82CC
+  - INS-260403-31C2
+  - INS-260403-EDEF
+  - INS-260330-66A0
+  - INS-260404-943E
+  - INS-260404-77CD
 ---
 Venture capitalists operate under extreme time pressure and use the first meeting as a rapid filter. The three things they assess in those opening minutes are market size and urgency, traction and revenue growth, and whether the founding team is uniquely positioned to win. Common instant-rejection triggers include claiming no competitors exist (signals weak market understanding), not knowing core metrics like CAC and LTV, and dodging hard questions.
 

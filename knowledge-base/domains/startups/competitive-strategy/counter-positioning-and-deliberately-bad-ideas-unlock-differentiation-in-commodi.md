@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260327-A763
   - INS-260403-AA8F
+  - INS-260404-6D51
   - PRI-260323-27D6
   - INS-260330-66A0
-  - INS-260403-AEB3
 ---
 Liquid Death founder Mike Cessario describes his innovation process: 'Our brains are wired to repeat things we've seen be successful. You have to trick your brain to come up with a bad idea to truly be in innovative territory.' This is the counter-positioning playbook — selling water in tallboy cans with death metal branding. The same logic applies to AI applications: if your branding and positioning feel safe and familiar, they're almost certainly not differentiated enough. However, NFX cautions that the brand playbook is fickle — you can do the same thing as the leader and still fail (Dasani in the UK), or go too far and become irrelevant (Bling H2O at $55/bottle). The key is finding the narrow band where weird becomes compelling rather than alienating.

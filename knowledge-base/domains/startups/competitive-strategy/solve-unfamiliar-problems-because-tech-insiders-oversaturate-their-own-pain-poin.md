@@ -51,13 +51,13 @@ related:
   - INS-260327-0F42
   - INS-260402-D739
   - INS-260403-816B
+  - INS-260403-7513
   - INS-260403-C610
   - PRI-260403-3906
-  - PRI-260405-72D4
   - PRI-260328-E9B5
   - INS-260328-6A18
   - INS-260328-A9D2
-  - INS-260330-8AC8
+  - INS-260402-9093
 ---
 Katz challenges Silicon Valley dogma: the popular belief that founders should solve their own problems creates a saturation of solutions for tech workers' problems while massive industries like insurance go untouched. Two outsiders with no insurance background built Commulate to 8-figure ARR.
 

@@ -1,11 +1,13 @@
 # Tag: business-strategy
 
 - `INS-260323-3A98` No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
-- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
+- `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
 - `INS-260327-3377` Credit card rewards create a psychological illusion of getting something for free that causes consumers to spend more ov
+- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
 - `INS-260327-07FC` Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-8E9D` Theme parks must continuously invest in new rides because each new attraction generates declining visitor impact over ti
 - `INS-260327-B715` Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs w
+- `INS-260327-0A6B` Diner businesses survive market cycles because they serve fundamental human needs (affordable food, community gathering,
 - `INS-260327-795D` Modern arcades survive by stacking revenue streams: games, food, drinks, prizes, party bookings, creating per-visit reve
 - `INS-260327-7681` Western Unions high fees are sustainable because its customers — immigrants sending remittances, unbanked populations — 
 - `INS-260327-D5F0` Ice cream and frozen food businesses face cost structures dominated by cold chain logistics, where maintaining temperatu
@@ -30,6 +32,7 @@
 - `INS-260327-9924` Starbucks premium experience depends on employee emotional engagement, but union demands for higher wages threaten the m
 - `INS-260327-A462` Companies that tried to disrupt walking with scooters and segways failed because they competed against an activity that 
 - `INS-260327-C1F6` AI investment follows the same pattern as the dot-com bubble: revolutionary technology generates massive investment, mos
+- `INS-260404-D4E6` The strongest companies combine 3-4 differentiation dimensions (price, quality, experience, supply) rather than competing on one axis.
 - `INS-260327-07C9` Platforms like Temu sell products below cost as a customer acquisition strategy subsidized by investor capital, creating
 - `INS-260327-0FD9` Viral food content creates demand spikes that overwhelm restaurant operations, produce long wait times, and disappoint c
 - `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.

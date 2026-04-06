@@ -46,12 +46,11 @@ stance: >-
   reached its technology diffusion point almost immediately, compressing the
   entire competitive cycle.
 related:
-  - INS-260402-5034
   - INS-260403-7B04
   - INS-260327-77C7
   - INS-260327-A458
   - INS-260403-93A5
-  - INS-260325-A08A
+  - INS-260403-CD51
 evidence:
   - id: INS-260403-7B04
     type: SUPPORTS

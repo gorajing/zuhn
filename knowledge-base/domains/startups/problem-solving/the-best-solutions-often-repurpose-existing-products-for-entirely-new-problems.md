@@ -52,7 +52,6 @@ related:
   - INS-260330-659D
   - INS-260330-2A6A
   - INS-260403-F075
-  - INS-260403-E8E3
 evidence:
   - id: INS-260330-2A6A
     type: CONTRADICTS

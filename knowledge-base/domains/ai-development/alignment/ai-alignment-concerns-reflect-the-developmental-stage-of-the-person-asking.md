@@ -52,8 +52,8 @@ related:
   - PRI-260403-88F5
   - INS-260329-19F9
   - INS-260403-3756
+  - INS-260403-1A05
   - INS-260323-7DBC
-  - INS-260329-116A
 stance: People at stage 3 (social self) worry about AI having wrong opinions
 evidence:
   - id: INS-260329-19F9

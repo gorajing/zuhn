@@ -51,11 +51,12 @@ stance: >-
   defense of dollar hegemony than a single government-issued central bank
   digital currency
 related:
-  - INS-260403-99DE
   - INS-260403-A87D
-  - PRI-260403-E097
-  - INS-260403-8BE9
-  - INS-260322-36E3
+  - INS-260405-39FA
+  - INS-260403-EA6D
+  - INS-260403-99DE
+  - INS-260403-B01D
+  - INS-260405-ABCF
 evidence:
   - id: INS-260403-8BE9
     type: EXTENDS

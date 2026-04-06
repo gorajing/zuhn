@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Where VCs Are Betting on AI in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vcs-betting-on-ai-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs have moved from measuring network effects and stickiness to prioritizing
@@ -62,6 +52,15 @@ stance: >-
   In AI venture investing, execution speed and the ability to ship faster than
   the category evolves matters more than traditional metrics like retention
   curves and network effects.
+related:
+  - INS-260403-4C61
+  - INS-260403-3C53
+  - INS-260403-7764
+  - INS-260403-1984
+  - INS-260403-7B41
+  - INS-260403-6F8B
+  - INS-260404-8A02
+  - INS-260403-64D0
 ---
 The traditional VC scorecard of revenue multiples, stickiness, and network effects no longer explains why some billion-dollar AI startups compound while others flame out. Adoption curves that once took a decade now compress into quarters — ChatGPT reached 90% enterprise penetration within two years. This velocity means even the best product-market fit has a short half-life: a team can hit $10M ARR in months, then watch usage crater when a new open-source model undercuts them.
 

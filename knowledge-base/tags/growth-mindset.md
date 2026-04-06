@@ -1,9 +1,13 @@
 # Tag: growth-mindset
 
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
+- `INS-260329-03B5` Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
 - `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
 - `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
+- `INS-260403-2CFE` You worry less about bad early work when you can see it improving, so focus on the derivative rather than the function.
+- `INS-260404-6DA9` When you treat a project as an experiment, every outcome—including failure—produces knowledge, which removes the psychological penalty of not succeeding.
 - `INS-260330-B5D6` Teaching people that both their skills AND their jobs are malleable building blocks produces a sustainable happiness boost that growth mindset about skills alone cannot achieve.
+- `INS-260403-6711` Six weeks of intensive math tutoring significantly reduced math anxiety in students, suggesting that competence-building through practice is the primary cure for academic anxiety.
 - `INS-260330-27A4` Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.
 - `INS-260329-D3D9` You must tolerate being bad at something long enough to become good at it — most people quit in the incompetence phase.
 - `INS-260330-CC7D` You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
@@ -15,11 +19,11 @@
 - `INS-260329-3E3A` The 'isms' you claim about yourself — I'm bad at X, I'm not a Y person — actively prevent you from becoming what you need to become.
 - `INS-260329-163B` Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.
 - `INS-260320-8688` Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
-- `INS-260404-7071` Young founders benefit from two offsetting mistakes: underestimating obstacles and underestimating their own capacity to grow.
 - `INS-260329-D1B0` Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
-- `INS-260330-697F` Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
 - `INS-260329-CBF3` The market rewards what is required, not what you tried — if your best isn't enough, the answer is to become better, not to feel good about falling short.
 - `INS-260326-8E6D` Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
+- `INS-260404-7071` Young founders benefit from two offsetting mistakes: underestimating obstacles and underestimating their own capacity to grow.
+- `INS-260330-697F` Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260323-3C7B` Prioritize curiosity and learning velocity over domain expertise when hiring, especially in fast-changing industries.
 - `INS-260323-8726` The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.

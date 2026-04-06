@@ -57,7 +57,6 @@ stance: >-
   judgment you fear neutralizes their control
 related:
   - INS-260327-B2CC
-  - INS-260329-EBCA
   - INS-260405-DB32
   - INS-260403-D463
   - INS-260325-64FD

@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 2025 Is the Best Year to Start a Startup—Here’s Why
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/start-a-startup-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Gen Z and younger millennials preferentially buy from founder-led,
@@ -59,6 +49,12 @@ stance: >-
   Younger consumers buy values before features, so founder-led brands with clear
   missions in sustainability, mental health, or financial inclusion build loyal
   communities that outperform feature-based competition on retention.
+related:
+  - INS-260327-FCC4
+  - INS-260403-F66B
+  - INS-260327-0053
+  - INS-260403-6DFC
+  - INS-260403-9CD9
 ---
 There's a measurable generational shift in purchasing behavior: younger consumers increasingly choose products based on the founder's story, the company's values, and its stated mission — not just features or price. This creates a structural opening for small, founder-led startups to compete with larger players by leading with authenticity and purpose.
 

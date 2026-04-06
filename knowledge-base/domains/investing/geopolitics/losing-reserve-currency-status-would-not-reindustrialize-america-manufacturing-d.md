@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: International financial anarchy
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/international-financial-anarchy'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Even fully eliminating the US trade deficit would only raise manufacturing
@@ -66,6 +54,16 @@ stance: >-
   only ~2.5 percentage points because manufacturing decline is driven by
   structural shifts toward services, not by currency overvaluation from reserve
   status.
+related:
+  - INS-260405-24F0
+  - INS-260405-F6E6
+  - INS-260405-8532
+  - INS-260403-33BF
+  - INS-260403-7779
+  - INS-260330-A029
+  - INS-260327-D1B7
+  - INS-260405-1CC3
+  - INS-260403-E9E0
 ---
 A popular narrative claims the dollar's reserve currency status causes trade deficits that hollowed out American manufacturing. Krugman's analysis shows this is mostly wrong on two levels. First, the reserve currency story only partially explains trade deficits. Second and more importantly, trade deficits account for only a small fraction of manufacturing's long-term decline as a share of the economy.
 

@@ -48,12 +48,14 @@ stance: >-
   rarely killed by competitors that you can almost discount the possibility
   entirely
 related:
-  - INS-260323-1494
   - INS-260330-01D5
   - INS-260330-D5BD
   - INS-260404-DAA7
+  - INS-260403-68B4
   - INS-260330-F527
-  - INS-260327-EE5E
+  - INS-260323-1494
+  - INS-260403-0D41
+  - INS-260404-1B01
 evidence:
   - id: INS-260330-01D5
     type: CHALLENGES

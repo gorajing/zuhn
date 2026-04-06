@@ -52,7 +52,6 @@ stance: >-
   around their deficiencies
 related:
   - INS-260323-E2DD
-  - INS-260323-F963
   - INS-260325-5E9B
   - INS-260325-D4F6
   - PRI-260323-0F93
@@ -61,6 +60,7 @@ related:
   - INS-260403-7C67
   - INS-260403-7A31
   - INS-260403-1AD3
+  - PRI-260405-F9BD
 evidence:
   - id: INS-260402-0DC9
     type: CONTRADICTS

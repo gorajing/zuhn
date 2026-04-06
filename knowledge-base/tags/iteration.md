@@ -4,12 +4,14 @@
 - `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
 - `INS-260323-C316` AI should be deployed in narrow, iterative layers rather than as a massive transformation project — the same lesson enterprises failed to learn from Salesforce rollouts.
 - `INS-260320-4993` Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
+- `INS-260403-31E4` Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
 - `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
-- `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
+- `INS-260403-E1CE` Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.
 - `INS-260405-DC20` Focus on how fast the work is improving, not where it currently stands.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - `INS-260404-9213` Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
+- `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
 - `INS-260404-420F` Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
@@ -26,35 +28,49 @@
 - `INS-260329-E333` Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
+- `INS-260403-ADF9` The most iconic startups found their winning product by observing what users actually did inside a failing product, not by executing their original plan.
+- `INS-260330-A3B7` Testing baseline → single unit → stacked units in sequence reveals the failure mode at each stage, which a single end-state test would obscure.
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
 - `INS-260405-0FC4` RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
 - `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
+- `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
+- `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
+- `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260404-8256` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
-- `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
-- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
-- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
+- `INS-260405-5E18` AI PMF is a continuous recalibration process, not a one-time validation milestone.
+- `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
+- `INS-260403-B448` An effective MVP delivers one complete, polished workflow rather than a broad but half-baked product, because user conviction requires depth over breadth.
+- `INS-260405-64FA` The AI era simultaneously lowers the cost of building and raises the bar for what satisfies users.
 - `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
 - `INS-260402-426C` Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
+- `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.
 - `INS-260403-219E` Games companies model the ideal product iteration cycle: launch fast, measure everything, optimize continuously, and never stop evolving.
 - `INS-260402-E36A` Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - `INS-260322-58B7` Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
+- `INS-260404-8A18` Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
 - `INS-260404-226F` Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
+- `INS-260403-8C63` Building a minimal prototype first and iterating on real feedback outperforms engineering a comprehensive system before launch.
 - `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260330-2B45` Ship a prototype fast and refine based on user reactions — the 'Hail Mary' strategy of planning extensively before building wastes millions.
+- `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
 - `INS-260323-C5D3` Before ZZT shipped, Sweeney invited neighbors of all ages to play it while forcing himself not to explain anything -- noting where they got stuck, felt bored, or enjoyed themselves -- then iteratively polished until the game worked without his guidance.
+- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
+- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260323-F310` LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
+- `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
+- `INS-260403-0C2E` China's pattern of dramatic action followed by rapid reversal — '30-year oversteering' — produces worse outcomes than incremental course correction.
+- `INS-260323-2559` Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
+- `INS-260403-49D1` AI prototyping success depends more on precise follow-up prompts describing exact changes than on the quality of the initial generation prompt.
 - `INS-260403-CF0E` Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
 - `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
 - `INS-260405-B32E` Fidelity is a function of evidence gathered, not how good the idea seems internally.
 - `INS-260403-B635` Having a few users who truly love your product matters infinitely more than having many indifferent users.
-- `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
-- `INS-260323-2559` Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.

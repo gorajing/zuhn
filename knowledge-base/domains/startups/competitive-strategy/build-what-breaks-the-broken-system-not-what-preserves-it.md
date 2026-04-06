@@ -44,24 +44,24 @@ stance: >-
   and break fundamentally broken systems like LeetCode interviews rather than
   working within them.
 related:
-  - INS-260403-924B
+  - INS-260330-464E
+  - INS-260402-AC3D
   - INS-260403-EE38
   - INS-260403-1325
-  - INS-260402-AC3D
+  - INS-260403-3D8C
+  - INS-260403-924B
   - PRI-260321-7307
-  - INS-260330-464E
-  - INS-260402-4F0E
 evidence:
   - id: INS-260323-AF7B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-AC3D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-FFCB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-464E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-1A0B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Roy Lee identified that LeetCode-style coding interviews are a broken system—candidates memorize 300-600 riddles that have nothing to do with actual engineering work. Instead of accepting this, he built a tool that exposed the absurdity by making the memorization game trivially easy to cheat.
 

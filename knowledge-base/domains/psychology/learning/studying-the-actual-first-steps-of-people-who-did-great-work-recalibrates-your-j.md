@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Immersing yourself in the early histories of great work trains you to
@@ -64,6 +52,12 @@ resolutions:
 stance: >-
   Deliberately studying the feeble beginnings of great work is a trainable skill
   that reduces both self-doubt and susceptibility to external skepticism
+related:
+  - INS-260403-D75D
+  - INS-260403-9B3A
+  - PRI-260328-0AB1
+  - INS-260327-7C69
+  - INS-260404-A1BA
 ---
 Graham's prescription for escaping the trap of judging early work too harshly is empirical: study enough cases of great work's origins and you build an internal reference class. When your own early output looks lame, you recognize it as a familiar phase rather than evidence of personal failure.
 

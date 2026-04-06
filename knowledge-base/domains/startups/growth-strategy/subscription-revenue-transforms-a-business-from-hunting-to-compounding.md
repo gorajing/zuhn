@@ -54,6 +54,7 @@ related:
   - INS-260403-92CC
   - INS-260329-C8C7
   - PRI-260328-43F1
+  - INS-260404-1CBC
 stance: Only build products with daily-use repeat purchase dynamics
 evidence:
   - id: INS-260322-3010

@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: You are no longer the smartest type of thing on Earth
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/you-are-no-longer-the-smartest-type'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The deeper significance of AI isn't economic disruption but humanity losing
@@ -61,6 +49,17 @@ stance: >-
   Humans transitioning from the smartest species on Earth to the second-smartest
   represents a more profound civilizational shift than any single economic
   disruption like job loss.
+related:
+  - INS-260323-B726
+  - INS-260323-9E75
+  - INS-260327-203C
+  - INS-260330-8B79
+  - INS-260330-E082
+  - INS-260330-814E
+  - INS-260330-6AED
+  - INS-260403-8EFF
+  - INS-260405-AF1E
+  - INS-260323-1345
 ---
 Smith's central thesis transcends the typical AI discourse about jobs and productivity. His 'sleeping next to a tiger' metaphor reframes the situation: we keep pets that are weaker and dumber than us because that's safe and controllable. For the first time, we're creating something that will be stronger (cognitively) than us, and we have no historical precedent for how a formerly-apex species navigates that transition.
 

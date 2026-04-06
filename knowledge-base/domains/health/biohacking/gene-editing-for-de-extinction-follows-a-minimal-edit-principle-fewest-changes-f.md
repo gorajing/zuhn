@@ -56,6 +56,7 @@ related:
   - INS-260323-133A
   - INS-260326-786D
   - INS-260330-A47B
+  - INS-260403-D443
 stance: >-
   Scientists pursuing de-extinction deliberately make the fewest genetic edits
   possible, because each change carries unpredictable risk

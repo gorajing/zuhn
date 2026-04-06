@@ -46,11 +46,12 @@ stance: >-
   features nobody is paying for exceeds the cost of stopping all non-revenue
   engineering
 related:
-  - INS-260327-3E23
   - INS-260330-23CD
   - INS-260320-DEAF
   - INS-260403-EFAF
-  - INS-260403-2CDA
+  - INS-260404-9D14
+  - INS-260327-3E23
+  - INS-260327-A234
 evidence:
   - id: INS-260327-3E23
     type: SUPPORTS

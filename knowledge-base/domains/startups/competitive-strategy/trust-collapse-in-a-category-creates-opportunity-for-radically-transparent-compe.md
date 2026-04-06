@@ -41,7 +41,6 @@ stance: >-
   manufacturing can capture disproportionate market share.
 related:
   - INS-260323-D288
-  - PRI-260320-5947
   - INS-260327-84E6
   - INS-260327-C05A
   - INS-260327-26CF
@@ -50,6 +49,7 @@ related:
   - INS-260327-B946
   - PRI-260328-7E58
   - INS-260403-22FE
+  - INS-260330-6088
 evidence:
   - id: INS-260323-D288
     type: SUPPORTS

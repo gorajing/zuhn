@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Let's save the human species!
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/lets-save-the-human-species'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     People confronting the fertility crisis deploy six distinct coping
@@ -64,6 +52,12 @@ stance: >-
   When people face slow-moving existential threats with no obvious solution,
   they generate unfalsifiable reassurance narratives that feel like analysis but
   actually prevent action.
+related:
+  - PRI-260403-88F5
+  - INS-260330-BC1B
+  - PRI-260405-9D7B
+  - INS-260330-7A80
+  - PRI-260325-697B
 ---
 Smith identifies six coping statements people use to dismiss fertility collapse: fewer people means more resources per person, AI will replace workers, it's really about racism/sexism, baby bonuses work, immigration solves it, and productivity growth will compensate. Each sounds plausible in isolation but fails under scrutiny. The pattern is recognizable across many slow-moving crises — the threat is real but distant enough that psychological coping can substitute for engagement indefinitely.
 

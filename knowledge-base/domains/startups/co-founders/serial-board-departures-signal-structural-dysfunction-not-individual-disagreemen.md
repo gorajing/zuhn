@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Quick Essay: A Short History of OpenAI '
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/a-short-history-of-openai'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     OpenAI lost Musk, Hurd, Hoffman, and Zilis from its board before the Altman
@@ -61,6 +51,12 @@ stance: >-
   When multiple board members depart a company over different stated reasons in
   succession, the root cause is almost always structural misalignment rather
   than a series of unrelated individual conflicts.
+related:
+  - INS-260323-79A5
+  - INS-260324-C882
+  - INS-260328-4ED2
+  - PRI-260328-BEAB
+  - INS-260327-77A0
 ---
 Before Altman's removal, OpenAI's board experienced a cascade of departures: Elon Musk left citing Tesla conflicts (but later revealed frustration with for-profit drift), Will Hurd cited a presidential bid, Reid Hoffman left over investment conflicts, and Shivon Zilis departed. Each departure had a plausible individual explanation, but the pattern reveals structural dysfunction — the hybrid structure created inherent conflicts of interest that made board service untenable for anyone with outside commitments.
 

@@ -42,10 +42,10 @@ stance: >-
 related:
   - INS-260327-85EB
   - INS-260329-C0F1
+  - INS-260404-70DE
   - INS-260330-F527
   - PRI-260328-1D90
   - INS-260327-82AA
-  - INS-260330-D1C8
   - INS-260403-5C83
 ---
 Analog products can sustain premium niche markets among enthusiasts but cannot recapture mass-market share because the convenience advantages of digital alternatives are too large for average consumers to sacrifice.

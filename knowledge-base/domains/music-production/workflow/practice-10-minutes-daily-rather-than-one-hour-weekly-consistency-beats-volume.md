@@ -47,11 +47,11 @@ resolutions:
     principle extends beyond music to any skill that requires consistent motor
     learning.
 related:
+  - INS-260323-01A1
   - INS-260327-2F75
   - INS-260322-144E
   - INS-260320-F78E
   - INS-260329-A9C0
-  - INS-260329-9A7F
 stance: >-
   For learning guitar (or any instrument), 10 minutes daily seven days a week
   beats one hour once a week

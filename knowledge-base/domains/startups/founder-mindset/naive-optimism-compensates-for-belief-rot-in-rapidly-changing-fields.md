@@ -45,13 +45,13 @@ stance: >-
 related:
   - INS-260327-E7A3
   - INS-260327-D2F3
-  - INS-260327-7B8E
   - INS-260402-841D
   - INS-260404-9376
   - PRI-260323-1B96
   - INS-260403-A60E
   - INS-260404-7071
   - INS-260403-B835
+  - INS-260403-98CD
 ---
 Established experts accumulate beliefs about what is and isn't possible, but in fast-moving fields these beliefs decay rapidly. A naive founder who plunges in saying 'how hard can it be?' occasionally solves problems that were genuinely insoluble until recently, precisely because they never internalized the old constraints.
 

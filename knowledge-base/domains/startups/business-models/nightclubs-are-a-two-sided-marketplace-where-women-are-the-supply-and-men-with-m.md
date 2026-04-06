@@ -44,10 +44,10 @@ resolutions:
     media.
 related:
   - INS-260324-2AD8
+  - INS-260404-A2AE
   - PRI-260324-C63E
   - INS-260329-B194
   - INS-260327-EEEE
-  - INS-260327-FCCF
 stance: >-
   Nightclubs make money from men buying $1,000 tables and $100 bottles to
   impress women

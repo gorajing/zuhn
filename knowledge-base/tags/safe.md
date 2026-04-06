@@ -1,3 +1,4 @@
-# Tag: safe
+# Tag: SAFE
 
-- `INS-260330-AF2B` A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round.
+- `INS-260405-D2E2` SAFEs let early founders avoid a premature valuation negotiation and delay dilution questions until the business has more proof.
+- `INS-260404-2A95` YC's SAFE contains provisions that many founders don't fully understand, creating hidden advantages for investors.

@@ -49,11 +49,11 @@ stance: >-
   outperform those motivated primarily by money or status because they refuse to
   stop working
 related:
-  - INS-260327-8AE7
   - INS-260403-9CD9
+  - INS-260403-6D4F
   - INS-260404-7325
   - INS-260402-9075
-  - INS-260404-F708
+  - INS-260327-8AE7
 ---
 Graham observes that every billionaire founder had multiple exit opportunities — acquisitions, hiring a CEO, retiring. The ones who became truly wealthy were the ones who kept working, driven not by financial incentive but by genuine fascination with their project. The Airbnb founders' breakfast cereal story wasn't a cute anecdote — it was definitive evidence of the kind of obsessive resourcefulness that predicts massive outcomes.
 

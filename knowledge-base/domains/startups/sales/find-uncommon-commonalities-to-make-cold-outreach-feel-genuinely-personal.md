@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260330-E263
   - INS-260327-C9A3
+  - INS-260403-4963
   - INS-260323-7263
   - INS-260329-CEC5
-  - INS-260329-CD64
 evidence:
   - id: INS-260323-7263
     type: REFINES

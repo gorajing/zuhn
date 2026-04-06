@@ -48,11 +48,11 @@ resolutions:
     evaluating any geopolitical narrative that claims credit for complex
     historical events.
 related:
+  - INS-260323-DF0F
   - INS-260325-3C17
   - PRI-260323-B798
   - INS-260323-B726
   - INS-260321-1A99
-  - INS-260330-4E55
 stance: >-
   Despite popular mythology, the US actively tried to keep the Soviet Union
   together through 1991

@@ -50,13 +50,12 @@ stance: >-
   unreliable strategic moats.
 related:
   - INS-260330-247C
-  - INS-260330-F79F
   - INS-260403-7219
+  - INS-260405-71E1
   - PRI-260328-33E5
   - INS-260403-B7C6
   - PRI-260405-6216
-  - PRI-260403-2024
-  - INS-260403-9E2D
+  - INS-260403-4093
 evidence:
   - id: INS-260330-F79F
     type: TRANSFERS_TO

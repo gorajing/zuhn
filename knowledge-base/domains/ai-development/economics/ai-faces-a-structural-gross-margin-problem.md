@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "The 49-Year Unicorn Backlog\U0001F984, AI has a gross margin problem\U0001F916, The Path to CFO\U0001F4DA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-49-year-unicorn-backlog-ai-has'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI's variable inference costs prevent it from achieving the gross margins
@@ -57,6 +47,13 @@ stance: >-
   AI companies cannot replicate traditional software's 70-80% gross margins
   because inference compute costs are variable and scale with usage,
   fundamentally breaking the unit economics model that made SaaS valuable.
+related:
+  - INS-260329-644B
+  - INS-260329-0D70
+  - INS-260325-BEAC
+  - INS-260403-91F7
+  - INS-260323-7625
+  - INS-260404-A0C2
 ---
 Traditional software has gross margins of 70-90% because the marginal cost of serving an additional user is near zero — you write the code once and distribute it infinitely. AI products break this model: every user query incurs real compute cost (GPU time, API calls), which scales with usage rather than amortizing away.
 

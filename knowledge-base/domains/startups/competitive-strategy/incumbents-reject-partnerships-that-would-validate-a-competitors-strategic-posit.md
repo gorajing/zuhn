@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The Story of the Biggest & Longest War in Tech: An $831B Fail \U0001F4A5"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-story-of-the-biggest-and-longest'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Yahoo rejected Google's $1M/year search deal and later a $3B acquisition
@@ -59,6 +49,16 @@ stance: >-
   Dominant companies systematically reject integration deals with startups
   because accepting the deal implicitly admits the startup controls a critical
   capability
+related:
+  - INS-260323-78A5
+  - INS-260328-23B4
+  - INS-260329-92E9
+  - INS-260330-178D
+  - INS-260330-8326
+  - INS-260403-912E
+  - INS-260403-C349
+  - INS-260404-9C69
+  - INS-260330-809A
 ---
 Yahoo had at least three chances to neutralize Google — a $1M/year licensing deal, a $3B acquisition, and a trial integration that doubled user engagement in one week. Each time, Yahoo walked away not because the economics were bad, but because the deal structure positioned Google as the essential technology provider. Accepting meant admitting Yahoo's core search capability was inferior.
 

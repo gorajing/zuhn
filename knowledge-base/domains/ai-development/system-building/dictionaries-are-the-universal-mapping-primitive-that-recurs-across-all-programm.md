@@ -53,10 +53,10 @@ stance: >-
   understand.
 related:
   - INS-260329-FAE2
+  - INS-260329-D868
   - INS-260329-4F8C
   - INS-260329-1277
   - INS-260329-94E6
-  - INS-260329-0F06
 evidence:
   - id: INS-260329-8F86
     type: EXTENDS

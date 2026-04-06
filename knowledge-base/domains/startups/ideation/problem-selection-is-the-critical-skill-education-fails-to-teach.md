@@ -1,5 +1,5 @@
 ---
-id: INS-260403-3442
+id: INS-260403-3511
 domain: startups
 topic: ideation
 title: Problem selection is the critical skill education fails to teach
@@ -46,11 +46,11 @@ stance: >-
   leaving founders fundamentally unprepared for the most important startup
   skill: choosing which problem to solve.
 related:
+  - INS-260403-3442
+  - INS-260403-7513
   - PRI-260405-E256
   - INS-260402-27A1
   - INS-260403-862E
-  - PRI-260328-E9B5
-  - INS-260328-D775
 ---
 Graham observes that most Summer Founders applicants defaulted to obvious ideas (social networks, multiplayer games) while ignoring valuable unsolved problems in plain sight (like micropayments for newspapers). He attributes this to 15-20 years of solving problems other people set for them—grading requires standardized problems, so schools never teach problem selection.
 

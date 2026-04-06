@@ -41,12 +41,12 @@ stance: >-
   The energy organizations spend on appearing productive actively reduces their
   real output — professionalism rituals are negative-sum
 related:
-  - INS-260327-390A
   - INS-260327-2B94
   - INS-260329-4293
   - INS-260403-4EBF
   - INS-260330-F6B1
   - INS-260403-3CD9
+  - INS-260403-8439
   - INS-260329-ADC4
 evidence:
   - id: INS-260403-3CD9

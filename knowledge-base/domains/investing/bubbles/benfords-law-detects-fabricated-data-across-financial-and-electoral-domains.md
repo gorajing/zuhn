@@ -48,12 +48,13 @@ stance: >-
   reliably follow Benford's law, and deviations signal human manipulation or
   fraud.
 related:
+  - INS-260403-5365
   - PRI-260328-6CDE
   - PRI-260403-50EF
+  - INS-260404-C147
   - INS-260323-8544
-  - INS-260330-18F3
-  - INS-260327-0595
   - INS-260327-A478
+  - INS-260330-6CB7
 evidence:
   - id: INS-260330-18F3
     type: TRANSFERS_TO

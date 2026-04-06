@@ -49,11 +49,11 @@ stance: >-
   within a generation, meaning the boundary between legitimate and illegitimate
   science is a moving target that rewards early explorers.
 related:
-  - INS-260323-4D14
   - INS-260325-4C09
   - INS-260325-5635
   - INS-260330-DFA4
   - PRI-260328-9FB6
+  - INS-260323-4D14
 evidence:
   - id: INS-260323-4D14
     type: SUPPORTS

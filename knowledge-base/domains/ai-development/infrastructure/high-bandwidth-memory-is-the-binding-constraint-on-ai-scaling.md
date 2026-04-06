@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: Micron''s $100B Megafab'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-168'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to
@@ -58,6 +48,14 @@ resolutions:
 stance: >-
   HBM supply, not GPU compute, will become the primary bottleneck limiting AI
   model scaling and inference throughput in the near term.
+related:
+  - INS-260321-4B99
+  - INS-260329-8CC0
+  - INS-260329-06F2
+  - INS-260405-4F2B
+  - INS-260327-0C4A
+  - INS-260323-FEDF
+  - PRI-260328-99F0
 ---
 As AI models scale to trillions of parameters, GPUs require high-bandwidth memory stacked vertically and placed in close physical proximity to process the data fast enough. Over 70% of Micron's revenue is DRAM, and their HBM segment is growing faster than standard DRAM. The supply constraint is structural: HBM manufacturing is more difficult, yields are lower, and only SK Hynix, Samsung, and Micron can produce it at scale.
 

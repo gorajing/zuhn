@@ -47,7 +47,6 @@ resolutions:
     essentially built on this therapeutic need, turning a psychological
     condition into a creative advantage.
 related:
-  - INS-260323-CD03
   - INS-260327-7F6A
   - PRI-260405-9D7B
   - INS-260403-7639

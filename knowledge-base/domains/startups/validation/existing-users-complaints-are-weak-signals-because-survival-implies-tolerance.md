@@ -50,10 +50,10 @@ stance: >-
   issues proves the issues are not deal-breakers
 related:
   - INS-260330-F268
+  - INS-260403-6C07
+  - INS-260403-5683
+  - INS-260405-ECCD
   - INS-260330-843E
-  - INS-260330-EF64
-  - INS-260325-040F
-  - INS-260327-B12E
 evidence:
   - id: INS-260325-040F
     type: SUPPORTS

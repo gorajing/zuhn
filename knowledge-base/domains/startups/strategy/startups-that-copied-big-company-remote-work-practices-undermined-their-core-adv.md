@@ -51,11 +51,11 @@ stance: >-
   of their key structural advantages.
 related:
   - INS-260325-3B2A
+  - INS-260403-C7E3
   - INS-260403-D198
   - INS-260326-967C
   - INS-260403-CCB7
   - PRI-260328-59DC
-  - INS-260403-C381
 evidence:
   - id: INS-260403-D198
     type: SUPPORTS

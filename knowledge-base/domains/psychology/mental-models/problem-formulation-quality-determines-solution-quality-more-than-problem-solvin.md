@@ -55,10 +55,10 @@ stance: >-
   formulation reveals structure that constrains the solution space.
 related:
   - INS-260330-C0B9
+  - INS-260403-5EE3
+  - INS-260405-7BA5
   - INS-260403-260B
   - INS-260405-020E
-  - INS-260403-EAF7
-  - INS-260323-4473
 evidence:
   - id: INS-260323-4473
     type: REFINES

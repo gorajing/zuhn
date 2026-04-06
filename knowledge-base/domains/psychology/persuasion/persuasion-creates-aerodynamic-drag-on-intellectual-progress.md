@@ -41,9 +41,8 @@ stance: >-
   The more an idea diverges from readers' current beliefs, the more energy goes
   to selling rather than developing it, creating a speed limit on discovery.
 related:
-  - INS-260325-0147
-  - INS-260327-CF53
   - INS-260402-FE91
+  - INS-260325-0147
   - INS-260404-B7E4
   - INS-260403-2B6E
   - PRI-260403-7D53

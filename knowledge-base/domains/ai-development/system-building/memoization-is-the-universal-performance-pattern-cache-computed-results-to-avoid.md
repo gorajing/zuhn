@@ -46,8 +46,6 @@ stance: >-
   pattern across all software domains
 related:
   - INS-260325-3F9B
-  - INS-260321-53E2
-  - INS-260329-393C
   - INS-260329-EF14
   - INS-260329-425B
   - INS-260329-6D6C
@@ -55,6 +53,8 @@ related:
   - INS-260325-FDA9
   - INS-260404-A183
   - PRI-260403-40D7
+  - INS-260403-D4EA
+  - INS-260404-92B8
 evidence:
   - id: INS-260329-393C
     type: SUPPORTS

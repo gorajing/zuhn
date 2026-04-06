@@ -61,25 +61,25 @@ related:
   - INS-260327-421F
   - PRI-260328-8317
   - INS-260403-B387
-  - INS-260403-0350
-  - INS-260403-857E
-  - INS-260330-86F9
-  - INS-260402-91B5
+  - INS-260402-C98A
+  - INS-260403-7D11
+  - INS-260403-EDFB
+  - INS-260403-BB5E
 evidence:
   - id: INS-260327-DBAD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-421F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-76B8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-91B5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B387
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-0350
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-8A1D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Bret Taylor identifies a paradigm shift from selling productivity tools to selling outcomes. Traditional SaaS companies like Salesforce and ServiceNow sell enhanced productivity to attorneys or customer service agents, creating a TAM limited by the number of workers and software budgets. Vertical AI agents sell the work itself: not a tool to help attorneys do antitrust review faster, but the antitrust review itself at a fraction of the labor cost.
 

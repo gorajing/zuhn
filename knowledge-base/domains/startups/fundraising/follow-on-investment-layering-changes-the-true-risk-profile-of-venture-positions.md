@@ -17,25 +17,15 @@ tags:
 sources:
   - type: blog
     title: 'Exit Scenario Modeling: IPO vs Acquisition vs Secondary'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/exit-scenario-model-ipo-secondary-acquisition
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Tracking total capital deployed across follow-on rounds rather than just the
@@ -65,6 +55,13 @@ stance: >-
   Modeling cumulative capital at risk across follow-on rounds reveals a
   fundamentally different risk profile than evaluating only the initial check
   size.
+related:
+  - INS-260330-2BB3
+  - INS-260403-C7AB
+  - INS-260405-36E6
+  - INS-260403-71E6
+  - INS-260403-3BBB
+  - PRI-260405-0099
 ---
 Investors and founders commonly evaluate returns against the initial investment amount, but most venture positions involve follow-on capital. A $500K seed check that becomes $2M total deployed across seed, Series A, and Series B pro-rata has a very different return profile than it appears when evaluated against just the initial check.
 

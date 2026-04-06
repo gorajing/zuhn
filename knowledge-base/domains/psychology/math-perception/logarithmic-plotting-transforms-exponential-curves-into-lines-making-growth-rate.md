@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260330-FF5B
   - INS-260330-9935
+  - INS-260330-2EC0
+  - INS-260330-4824
   - INS-260330-41A5
-  - INS-260330-1AB0
-  - INS-260330-8817
 evidence:
   - id: INS-260330-FED6
     type: REFINES

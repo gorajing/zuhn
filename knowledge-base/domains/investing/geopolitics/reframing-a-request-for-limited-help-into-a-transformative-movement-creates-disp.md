@@ -52,9 +52,9 @@ stance: >-
   reframing and amplifying the request to serve their own agenda, delivering far
   more than was asked while capturing the strategic benefits.
 related:
-  - INS-260327-4A64
   - INS-260327-A052
   - INS-260330-B384
+  - INS-260327-4A64
   - INS-260327-B3B3
   - PRI-260328-79DA
 evidence:

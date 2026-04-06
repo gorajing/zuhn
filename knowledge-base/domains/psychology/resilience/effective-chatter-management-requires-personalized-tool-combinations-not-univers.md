@@ -52,10 +52,10 @@ stance: >-
   experimentation across self-directed, social, and environmental strategies
 related:
   - INS-260403-CBB2
+  - INS-260403-699A
   - INS-260404-B7E4
   - INS-260323-0603
   - INS-260329-3D28
-  - INS-260403-6652
 evidence:
   - id: INS-260329-3D28
     type: EXTENDS

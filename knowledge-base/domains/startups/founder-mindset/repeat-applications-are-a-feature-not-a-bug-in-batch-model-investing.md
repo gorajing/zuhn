@@ -45,11 +45,11 @@ stance: >-
   Structured investment processes that reward repeat applicants with low
   friction produce better signal than one-shot evaluation.
 related:
+  - INS-260405-3061
   - INS-260327-4B5A
-  - INS-260403-1358
-  - INS-260330-A25A
-  - INS-260321-6437
-  - INS-260330-9DC9
+  - INS-260329-9115
+  - INS-260403-867B
+  - INS-260404-8A18
 evidence:
   - id: INS-260321-6437
     type: TRANSFERS_TO

@@ -52,8 +52,8 @@ related:
   - INS-260323-6908
   - INS-260329-22A8
   - INS-260403-58DA
+  - INS-260403-9774
   - INS-260327-415B
-  - INS-260322-B09B
   - INS-260327-DCF8
 stance: >-
   Meta's codec avatars encode facial expressions into a compact model rather

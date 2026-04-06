@@ -49,11 +49,11 @@ stance: >-
   Cyclical processes conceal their true overhead because the cost of
   regeneration is invisible to observers who only see net output
 related:
-  - INS-260327-0D3C
   - INS-260330-EBFD
   - INS-260330-8C52
   - INS-260403-5648
   - INS-260404-F69A
+  - INS-260330-6AB7
   - INS-260404-D1F6
   - INS-260403-07D2
   - INS-260404-1C01

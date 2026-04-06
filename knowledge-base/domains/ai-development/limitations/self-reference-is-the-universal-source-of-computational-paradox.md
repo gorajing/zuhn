@@ -45,13 +45,13 @@ stance: >-
   Self-reference, not complexity, is the root mechanism that makes systems
   undecidable
 related:
-  - INS-260325-9A0F
   - INS-260325-ED75
   - INS-260323-6944
   - INS-260330-1FE9
+  - INS-260330-FD28
   - INS-260323-3F30
   - INS-260325-BA76
-  - INS-260330-7A80
+  - INS-260329-F66E
 evidence:
   - id: INS-260325-D4F6
     type: SUPPORTS

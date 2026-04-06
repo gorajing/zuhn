@@ -48,11 +48,11 @@ stance: >-
   crowd' — a market with desperate, urgent demand — rather than creating demand
   through marketing excellence.
 related:
-  - INS-260403-2376
   - INS-260327-47BA
+  - INS-260402-7B04
+  - INS-260403-368B
+  - INS-260403-2376
   - INS-260322-A208
-  - INS-260403-97DB
-  - INS-260403-25A8
 evidence:
   - id: INS-260322-A208
     type: TRANSFERS_TO

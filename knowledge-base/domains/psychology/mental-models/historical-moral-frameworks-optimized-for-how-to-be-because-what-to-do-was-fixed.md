@@ -53,8 +53,9 @@ related:
   - INS-260327-764F
   - INS-260330-6D13
   - INS-260402-A2F1
+  - INS-260402-E7F7
   - INS-260325-C2BD
-  - INS-260327-E833
+  - INS-260402-B14F
 ---
 Graham resolves an apparent puzzle: if 'make good new things' is a timeless principle, why didn't Cicero or Confucius mention it? His answer is that classical moral philosophy was answering a different question — how to be, not what to do. The landowning political class that constituted the audience had foreordained work (manage estates, participate in politics, fight). They weren't choosing between physics and novels. Creation-oriented thinkers like Archimedes existed and were admired, but treated as prodigies rather than models.
 

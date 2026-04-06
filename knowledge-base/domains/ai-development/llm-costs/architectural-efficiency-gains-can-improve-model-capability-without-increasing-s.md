@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: Deepseek Breakthrough'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-167'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     DeepSeek's mHC demonstrates that structural improvements to information flow
@@ -58,6 +48,13 @@ resolutions:
 stance: >-
   Better internal information routing — not just more parameters or more compute
   — is a viable and underexplored path to capability gains in frontier models.
+related:
+  - INS-260323-8897
+  - INS-260404-573C
+  - INS-260327-BE4E
+  - PRI-260328-A82C
+  - INS-260403-976C
+  - INS-260405-16AB
 ---
 The dominant paradigm for improving AI models has been scaling — more parameters, more data, more compute. DeepSeek's mHC result challenges the assumption that capability is primarily a function of scale. By improving how information moves through existing layers rather than adding new ones, they achieve accuracy gains with negligible cost increase.
 

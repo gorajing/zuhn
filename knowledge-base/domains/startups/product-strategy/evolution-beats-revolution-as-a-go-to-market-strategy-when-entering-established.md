@@ -52,14 +52,16 @@ stance: >-
   generation outperform those that attempt to replace existing paradigms
   wholesale.
 related:
-  - INS-260327-29F0
   - INS-260327-C569
   - INS-260329-C26B
-  - INS-260329-CA4F
   - INS-260330-F9B4
   - INS-260330-7B1C
   - INS-260403-B4DC
   - PRI-260324-3AAE
+  - INS-260405-6CED
+  - INS-260403-AC02
+  - INS-260403-B26E
+  - INS-260403-8D5C
 evidence:
   - id: INS-260403-B4DC
     type: CHALLENGES

@@ -17,44 +17,20 @@ sources:
     title: >-
       A founder’s guide to crisis management | Uri Levine (Waze co-founder,
       serial entrepreneur)
-    author:
-      '@type': Organization
-      name: Lenny's Newsletter
-      url: 'https://www.lennysnewsletter.com'
-      description: >-
-        Deeply researched product, growth, and career advice—newsletter,
-        podcast, community, and living library
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 1000000
-      identifier: 'pub:10845'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      sameAs:
-        - 'https://twitter.com/lennysan'
+    author: >-
+      {"@type":"Organization","name":"Lenny's
+      Newsletter","url":"https://www.lennysnewsletter.com","description":"Deeply
+      researched product, growth, and career advice—newsletter, podcast,
+      community, and living
+      library","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":1000000},"identifier":"pub:10845","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"sameAs":["https://twitter.com/lennysan"]}
     url: >-
       https://www.lennysnewsletter.com/p/a-founders-guide-to-crisis-management-uri-levine
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sufficient runway isn't about comfort — it's about ensuring you spend crises
@@ -77,6 +53,12 @@ resolutions:
 stance: >-
   Maintaining 12-18 months of runway is primarily valuable as crisis preparation
   rather than as operating comfort
+related:
+  - INS-260403-2A30
+  - INS-260403-7318
+  - INS-260402-2300
+  - INS-260403-C5D8
+  - INS-260404-8394
 ---
 Levine reframes the standard advice about maintaining 12-18 months of runway: it's not about operational comfort or investor expectations, but about crisis preparedness. When runway drops below a critical threshold, the founder's time allocation shifts almost entirely to fundraising, which means they can't simultaneously execute a crisis recovery plan.
 

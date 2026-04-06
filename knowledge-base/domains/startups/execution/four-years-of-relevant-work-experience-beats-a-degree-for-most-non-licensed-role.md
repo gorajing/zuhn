@@ -56,11 +56,11 @@ stance: >-
   paths.
 related:
   - INS-260327-D1BB
+  - INS-260322-116B
   - INS-260327-2608
+  - INS-260403-3FAE
   - INS-260327-F544
   - INS-260330-25A8
-  - INS-260323-F2C3
-  - INS-260403-1202
 evidence:
   - id: INS-260322-116B
     type: SUPPORTS

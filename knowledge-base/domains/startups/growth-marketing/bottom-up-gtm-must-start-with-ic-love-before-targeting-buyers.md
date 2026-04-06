@@ -18,26 +18,14 @@ sources:
     title: >-
       An inside look at Figma’s unique GTM motion | Claire Butler (first GTM
       hire)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/an-inside-look-at-figmas-unique-bottom'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Win the hands-on users first; budget approval follows organic adoption, not
@@ -62,6 +50,12 @@ stance: >-
   Bottom-up go-to-market strategies fail when they target economic buyers before
   individual contributors have already fallen in love with the product
   independently.
+related:
+  - INS-260405-3315
+  - INS-260403-A9CC
+  - INS-260404-6398
+  - INS-260325-FDF5
+  - INS-260404-AFE6
 ---
 Figma's GTM motion deliberately sequenced love before purchase: designer ICs had to be genuinely delighted before any outreach to managers or procurement. This sequencing is not just ethical or feel-good — it is mechanically required because bottom-up deals close only when an internal champion can articulate personal value to their organization. Targeting buyers first without IC love produces a fragile sale that churns as soon as the champion leaves.
 

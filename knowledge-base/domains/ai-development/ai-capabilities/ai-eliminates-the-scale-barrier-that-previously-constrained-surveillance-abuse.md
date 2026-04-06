@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: '"All Lawful Use": Much More Than You Wanted To Know'
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/all-lawful-use-much-more-than-you'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Mass surveillance was legally possible but practically infeasible before AI;
@@ -57,6 +47,13 @@ stance: >-
   AI's primary danger in surveillance is not enabling new types of monitoring
   but removing the cost and scale limitations that made existing legal
   surveillance powers practically harmless.
+related:
+  - INS-260327-EDBA
+  - INS-260403-DDD5
+  - INS-260330-12FB
+  - INS-260322-25B4
+  - INS-260330-BA13
+  - INS-260404-667A
 ---
 Current law already permits the government to buy data from third parties and analyze it freely. The practical constraint was always economics: you cannot manually review every text message to identify dissidents. AI dissolves this constraint entirely. An AI could perform meaningful semantic search across all messages in a database, piecing together patterns to generate loyalty scores or identify dissenters without them ever mentioning their names in plaintext.
 

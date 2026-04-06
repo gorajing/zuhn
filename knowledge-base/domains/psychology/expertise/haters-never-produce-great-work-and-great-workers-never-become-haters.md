@@ -47,12 +47,11 @@ stance: >-
   and personal achievement — the psychological orientation that enables one
   prevents the other.
 related:
-  - INS-260403-15DA
+  - INS-260404-4985
   - INS-260323-F853
   - INS-260322-A928
   - INS-260330-593E
   - INS-260403-A8B1
-  - INS-260403-5D18
 evidence:
   - id: INS-260323-F853
     type: EXTENDS

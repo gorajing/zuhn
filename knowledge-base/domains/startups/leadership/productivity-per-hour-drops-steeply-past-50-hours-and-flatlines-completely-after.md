@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: '7-Day Workweeks in Startups: Growth or Burnout?'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/7-day-work-weeks-in-startups-growth-burnout'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Stanford research shows output per hour collapses past 50 hours, with zero
@@ -58,6 +48,12 @@ resolutions:
 stance: >-
   Working beyond 55 hours per week produces zero additional output, making 7-day
   startup workweeks a net-negative investment of human capital
+related:
+  - INS-260403-7943
+  - INS-260403-2F28
+  - INS-260403-EC8A
+  - INS-260403-F0EE
+  - INS-260405-95A6
 ---
 Stanford economist John Pencavel's research found that productivity per hour drops steeply once someone crosses about 50 hours a week, and after 55 hours the curve flattens so much that additional time produces essentially nothing. An employee working 70 hours gets no more done than someone working 55. This directly undermines the core premise of hustle culture — that more hours equals more output. For startup founders, this means the perceived velocity gain from demanding 60-70 hour weeks is largely illusory; the extra hours produce diminishing-to-zero returns while accumulating real costs in burnout, health risks, and impaired judgment.
 

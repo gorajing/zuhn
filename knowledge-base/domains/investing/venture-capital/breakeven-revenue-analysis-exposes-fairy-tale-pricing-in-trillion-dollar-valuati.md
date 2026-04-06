@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "LLMs Will Never Be Intelligent\U0001F9E0, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report \U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/llms-will-never-be-intelligent-anthropic'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Judging sky-high valuations by the revenue needed to justify them — given
@@ -62,6 +52,17 @@ stance: >-
   Damodaran's breakeven-revenue lens reveals that most trillion-dollar
   valuations require implausible market capture when individual company
   narratives are aggregated against total addressable demand
+related:
+  - INS-260327-CFE5
+  - INS-260327-7F54
+  - INS-260329-60CF
+  - INS-260329-577E
+  - INS-260402-9288
+  - INS-260403-4314
+  - INS-260403-9CC1
+  - INS-260404-A0C2
+  - INS-260403-6F8B
+  - INS-260403-A07A
 ---
 Aswath Damodaran proposes replacing multiple-based valuation shortcuts with a breakeven-revenue framework: for any given market cap, calculate the minimum revenue a company must generate to justify that price, given reasonable assumptions about margins, growth rates, and reinvestment needs. This approach forces investors to confront whether the implied revenue targets are physically achievable.
 

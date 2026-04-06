@@ -52,11 +52,11 @@ stance: >-
   self-deception but a legitimate strategy for bypassing premature quality
   standards that would otherwise prevent iteration.
 related:
-  - INS-260403-35E7
-  - INS-260405-020E
-  - PRI-260326-12C6
-  - INS-260403-0218
-  - INS-260330-C9A6
+  - INS-260404-AD21
+  - INS-260405-32BB
+  - INS-260405-F402
+  - INS-260404-D66A
+  - INS-260403-C428
 evidence:
   - id: INS-260403-35E7
     type: TRANSFERS_TO

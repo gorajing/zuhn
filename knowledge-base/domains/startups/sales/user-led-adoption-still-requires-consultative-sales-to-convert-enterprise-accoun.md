@@ -57,8 +57,8 @@ related:
   - INS-260330-24A5
   - INS-260330-760D
   - INS-260325-FDF5
+  - INS-260403-2115
   - INS-260322-FCFC
-  - PRI-260328-C581
 ---
 Levie corrects a common startup misconception: that building a great product with consumer DNA means you don't need salespeople. The reality is more nuanced. In the modern enterprise, users (not IT departments) bring technology into organizations through personal adoption on sales teams, marketing teams, and finance teams. This bottom-up, user-led adoption is the entry mechanism—and it requires genuinely great UX.
 

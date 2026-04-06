@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: The Media Landscape - Sense-Making 2.0'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-the-media-landscape-sense'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Local news collapsed because the internet made geographic information
@@ -60,6 +50,12 @@ stance: >-
   The structural collapse of local news is an inevitable consequence of digital
   distribution eliminating the geographic monopoly that made local advertising
   viable, not a failure of journalism quality.
+related:
+  - INS-260405-BAB0
+  - INS-260405-FE5C
+  - INS-260327-723A
+  - INS-260325-24D1
+  - INS-260327-6807
 ---
 Regional newspapers held a natural monopoly: they were the only cost-effective way to reach a local audience, which made them the default channel for local advertisers. The internet didn't just add competition — it eliminated the geographic scarcity that made the model work. Once the marginal cost of reaching an additional subscriber approached zero nationally, the local premium evaporated, and advertising spend migrated to platforms with vastly larger scale.
 

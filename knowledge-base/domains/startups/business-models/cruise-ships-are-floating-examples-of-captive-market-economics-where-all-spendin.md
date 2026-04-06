@@ -43,8 +43,8 @@ related:
   - PRI-260328-F497
   - INS-260329-ADCD
   - INS-260322-FCFC
+  - INS-260403-D5B0
   - INS-260327-B715
-  - PRI-260328-8284
 ---
 Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled environment, eliminating competitive alternatives.
 

@@ -51,11 +51,11 @@ stance: >-
   their goals.
 related:
   - INS-260323-C5D3
+  - INS-260403-74AC
   - INS-260329-812E
   - INS-260327-4D29
   - INS-260327-58ED
   - INS-260327-52CF
-  - INS-260329-8CA3
 evidence:
   - id: INS-260323-C5D3
     type: CHALLENGES

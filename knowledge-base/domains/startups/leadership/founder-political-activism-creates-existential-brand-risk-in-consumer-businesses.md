@@ -55,13 +55,13 @@ stance: >-
   say in those positions
 related:
   - INS-260323-07BE
-  - INS-260327-DBEB
-  - INS-260327-8D86
   - INS-260327-C05A
   - INS-260330-629E
+  - INS-260327-8D86
   - INS-260330-27E8
   - INS-260323-104E
   - INS-260330-0DFC
+  - INS-260403-B255
 evidence:
   - id: INS-260327-DBEB
     type: EXTENDS

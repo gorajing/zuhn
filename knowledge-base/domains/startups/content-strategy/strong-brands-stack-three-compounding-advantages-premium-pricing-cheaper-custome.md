@@ -55,12 +55,12 @@ stance: >-
   every commodity category.
 related:
   - INS-260323-2FF9
-  - INS-260322-2647
   - INS-260329-C0F1
+  - INS-260403-9482
   - PRI-260324-90E8
   - INS-260403-9106
   - INS-260403-AEAF
-  - INS-260330-809A
+  - INS-260404-D4E6
 evidence:
   - id: INS-260323-2FF9
     type: TRANSFERS_TO

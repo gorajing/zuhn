@@ -51,10 +51,10 @@ stance: >-
   just an education problem.
 related:
   - PRI-260325-697B
+  - INS-260403-3F12
   - INS-260325-0892
   - PRI-260328-0F0D
   - INS-260327-3B69
-  - INS-260326-6870
 ---
 Reeves argues that coaches play a vastly underrecognized role in male mental health. About a third of male K-12 teachers are also coaches, meaning they continue working with boys after the school bell rings. Coaches sit shoulder-to-shoulder on benches, work in groups, and naturally notice when a boy is struggling -- creating safe, non-threatening openings for conversation.
 

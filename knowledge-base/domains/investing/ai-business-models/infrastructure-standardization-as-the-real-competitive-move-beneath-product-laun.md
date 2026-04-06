@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Coinbase Launches a Multi-Asset Product Stack
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-166'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Coinbase's standardization of USDC as the core funding rail across all
@@ -62,6 +52,14 @@ stance: >-
   The most consequential competitive moves in fintech are infrastructure-level
   decisions like payment rail standardization, not consumer-facing product
   launches.
+related:
+  - INS-260323-3D7D
+  - INS-260402-3196
+  - INS-260405-4803
+  - INS-260403-05B8
+  - INS-260404-9E4E
+  - INS-260403-F7DD
+  - INS-260405-F20C
 ---
 While Coinbase's headline announcements focused on consumer-facing products (stock trading, prediction markets, AI advisor), the most consequential move is infrastructural: standardizing USDC as the unified settlement layer across all product verticals. This creates a self-reinforcing flywheel where each new product increases USDC transaction volume, which strengthens Coinbase's position as the primary on/off ramp between traditional and decentralized finance.
 

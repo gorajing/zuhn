@@ -47,16 +47,16 @@ stance: >-
   most important psychological prerequisite for constructive learning from
   failure.
 related:
-  - INS-260321-2482
   - INS-260325-B8D4
   - PRI-260328-0AB1
   - INS-260327-9F46
+  - INS-260404-6DA9
   - INS-260403-5C89
-  - INS-260403-4F1B
   - INS-260323-3737
   - INS-260329-EA2B
   - INS-260329-3FC9
-  - INS-260329-20F8
+  - INS-260402-476E
+  - INS-260403-4F1B
 evidence:
   - id: INS-260321-2482
     type: TRANSFERS_TO

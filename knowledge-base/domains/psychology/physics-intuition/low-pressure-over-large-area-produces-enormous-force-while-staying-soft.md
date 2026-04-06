@@ -46,11 +46,11 @@ stance: >-
   of area — 2 PSI over a square meter lifts 1000 kg while remaining safe to
   touch.
 related:
-  - INS-260330-0BC2
   - INS-260403-0C1D
   - INS-260404-5E8F
+  - INS-260330-8BA6
+  - INS-260330-0BC2
   - INS-260403-C5FB
-  - INS-260323-F310
 evidence:
   - id: INS-260323-F310
     type: TRANSFERS_TO

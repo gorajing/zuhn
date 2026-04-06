@@ -49,7 +49,6 @@ stance: >-
   A smaller force that controls where and how the engagement happens will defeat
   a larger force that is lured into unfavorable conditions.
 related:
-  - INS-260327-E1DD
   - INS-260327-7D63
   - INS-260327-AB3D
   - INS-260327-5452
@@ -57,8 +56,9 @@ related:
   - INS-260327-1107
   - INS-260327-FDD0
   - INS-260327-B950
-  - INS-260327-B65A
   - INS-260327-A592
+  - INS-260327-99DF
+  - INS-260403-4183
 ---
 The Greeks at Salamis faced a Persian fleet that outnumbered them roughly 3 to 1. In open water, the Persians would have enveloped and destroyed them. Themistocles' genius was forcing the battle into the narrow straits where the Persians couldn't deploy their full fleet — their ships became crowded, tangled, and couldn't maneuver. Superior numbers became a disadvantage as ships collided with each other.
 

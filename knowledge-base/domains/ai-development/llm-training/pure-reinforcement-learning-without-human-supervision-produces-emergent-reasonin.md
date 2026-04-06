@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: 'DeepSeek R1: The AI Disruption No One Saw Coming'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/deepseek-r1-the-ai-disruption-no'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     DeepSeek's R1-Zero model learned complex reasoning entirely through
@@ -63,6 +53,14 @@ stance: >-
   AI systems trained through pure reinforcement learning (like DeepSeek R1-Zero)
   can independently discover novel reasoning strategies, suggesting
   human-supervised training may actually constrain model creativity.
+related:
+  - INS-260325-2FC1
+  - INS-260327-E07C
+  - PRI-260328-8E01
+  - INS-260403-2138
+  - INS-260325-6FA7
+  - INS-260329-04FA
+  - INS-260322-32E3
 ---
 DeepSeek built two models: R1-Zero, trained with pure reinforcement learning and no human supervision, and R1, a refined version with additional human data. The remarkable finding is that R1-Zero independently learned to reason, verify its own work, and discover new problem-solving strategies — without any human-provided examples of reasoning.
 

@@ -45,11 +45,11 @@ stance: >-
   Publishing standard term sheets and letting founders name their own price will
   dramatically reduce friction and time waste in Series A fundraising.
 related:
+  - INS-260403-130A
   - INS-260328-4EA0
+  - INS-260405-FCA9
+  - INS-260405-D4FA
   - INS-260322-6C4B
-  - INS-260329-21AF
-  - INS-260322-5650
-  - PRI-260328-E921
-  - INS-260330-975D
+  - INS-260403-B6AB
 ---
 Standard Capital applies three YC innovations to Series A: (1) a public standard term sheet anyone can read before applying, eliminating the $250K legal bills and end-of-process surprises; (2) founders choose their own price — how much money they want for 10% of the company, just like setting a cap at YC demo day; (3) a quality-of-service commitment telling founders exactly when they'll get a firm yes or no. This mirrors how YC transformed seed funding — the SAFE document is public, applications take an hour, and there's a known decision date. The key insight is that early-stage valuations are fundamentally made-up numbers anyway, so the negotiation theater adds zero informational value.

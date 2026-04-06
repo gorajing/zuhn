@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "Amazon spends $2.75 billion on AI startup Anthropic\U0001F4B8, The Founders Guide to Optimizing Your Fundraise\U0001F4D8, The Pulse of SaaS☁️ & more!"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/amazon-spends-275-billion-on-ai-startup'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Accenture's generative AI revenue surpasses all VC-backed AI startups
@@ -56,6 +46,17 @@ stance: >-
   Established consulting firms like Accenture are monetizing generative AI
   faster and at greater scale than the VC-backed startups building the
   technology
+related:
+  - INS-260321-822B
+  - INS-260327-4434
+  - INS-260330-6411
+  - INS-260403-1085
+  - INS-260403-C1D2
+  - INS-260322-C472
+  - INS-260403-5056
+  - INS-260403-9FEB
+  - INS-260403-6694
+  - INS-260403-83A4
 ---
 Accenture's GenAI revenue exceeding all VC-backed startups combined reveals a classic technology adoption pattern: the companies closest to enterprise buyers capture revenue first, even when they didn't build the underlying technology. Consulting firms have existing client relationships, trust, and integration capabilities that let them monetize AI immediately through services.
 

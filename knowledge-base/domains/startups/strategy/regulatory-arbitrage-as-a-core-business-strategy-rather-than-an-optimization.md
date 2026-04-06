@@ -49,11 +49,11 @@ stance: >-
   The most profitable companies treat regulatory jurisdiction selection as a
   primary strategic lever, not an afterthought
 related:
-  - INS-260403-F4B9
   - INS-260402-C030
-  - INS-260327-B715
-  - INS-260403-616B
-  - INS-260404-2BAD
+  - INS-260403-F4B9
+  - INS-260403-FB4A
+  - INS-260403-4E9D
+  - INS-260403-2318
 ---
 Cruise ships can register in any country whose labor laws they prefer — most fly flags of convenience from Panama or Liberia. This isn't a minor tax optimization; it's a foundational business decision that makes the entire economic model viable. It enables hiring Barbadian maître d's and Latvian housekeepers at rates that would be illegal under American labor law, with work conditions (3-12 month contracts, mandatory quarters confinement off-duty) that no developed nation would permit.
 

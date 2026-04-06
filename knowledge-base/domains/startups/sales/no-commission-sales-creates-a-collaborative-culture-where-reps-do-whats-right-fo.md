@@ -69,11 +69,10 @@ stance: >-
   actively penalize.
 related:
   - INS-260329-1318
+  - INS-260403-4120
+  - INS-260404-F212
   - INS-260327-0833
-  - INS-260330-1F41
-  - INS-260327-58AC
-  - PRI-260328-BDC2
-  - INS-260330-DE65
+  - INS-260327-5690
 evidence:
   - id: INS-260327-5690
     type: EXTENDS

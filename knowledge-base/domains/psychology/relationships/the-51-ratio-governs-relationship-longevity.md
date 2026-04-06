@@ -51,7 +51,6 @@ related:
   - INS-260329-E0B0
   - INS-260329-776B
   - INS-260329-2865
-  - INS-260329-6B87
 stance: >-
   Satisfied couples maintain approximately five positive interactions for every
   negative one, where positives include micro-moments like acknowledgin...

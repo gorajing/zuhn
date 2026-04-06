@@ -53,10 +53,10 @@ stance: >-
   debt that surfaces at the worst possible moment — during major fundraising or
   acquisition due diligence.
 related:
-  - INS-260330-9933
   - INS-260330-A561
   - INS-260330-BC6F
   - INS-260330-7F62
+  - INS-260330-9933
   - INS-260327-7F73
   - PRI-260325-E2D3
 evidence:

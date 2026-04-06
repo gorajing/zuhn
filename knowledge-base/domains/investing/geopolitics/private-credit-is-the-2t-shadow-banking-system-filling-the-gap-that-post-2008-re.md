@@ -46,9 +46,11 @@ related:
   - INS-260322-C5BD
   - PRI-260321-2DF0
   - INS-260327-BB67
+  - INS-260403-F061
+  - INS-260403-08D8
   - PRI-260328-37D8
-  - PRI-260328-386C
-  - INS-260321-347D
+  - INS-260404-FFC4
+  - INS-260403-4093
 stance: >-
   Post-2008 regulations pushed risky lending from regulated banks to private
   credit

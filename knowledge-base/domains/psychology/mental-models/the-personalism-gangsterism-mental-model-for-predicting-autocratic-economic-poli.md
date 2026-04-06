@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Gangster affordability
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/gangster-affordability'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The gangsterism lens — treating governance as mafia-style personal power
@@ -60,6 +48,12 @@ stance: >-
   Framing personalist governance as 'gangsterism' — ad hoc power imposition
   prioritizing loyalty and revenge over institutions — accurately predicts the
   shape and targets of policy interventions.
+related:
+  - PRI-260322-9E36
+  - PRI-260325-262C
+  - PRI-260325-D34E
+  - INS-260330-1293
+  - INS-260322-25B4
 ---
 Noah Smith's Napoleon-Trump parallel reveals a useful mental model: personalist leaders operate like mafia bosses, where every policy decision runs through a filter of personal loyalty, revenge on enemies, and entrenchment of authority. This model predicted Fed targeting before it happened and explains the DOJ-as-weapon pattern.
 

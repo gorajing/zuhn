@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Shameless Guesses, Not Hallucinations'
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/shameless-guesses-not-hallucinations'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     During pretraining, guessing correctly is rewarded and guessing incorrectly
@@ -59,6 +49,17 @@ stance: >-
   AI hallucinations are not bizarre failure modes but optimal strategies under
   pretraining reward functions that reward correct guesses without punishing
   incorrect ones.
+related:
+  - INS-260325-ADF3
+  - INS-260323-9773
+  - INS-260325-3589
+  - INS-260327-7DBF
+  - INS-260329-6004
+  - INS-260403-06D5
+  - INS-260405-FE57
+  - PRI-260324-2C9F
+  - INS-260403-33E2
+  - INS-260402-613D
 ---
 In pretraining, an AI is rewarded for predicting the next token correctly and receives no explicit punishment for wrong predictions. Over trillions of tokens, even wildly improbable guesses occasionally land correctly and get reinforced. This makes 'always guess' the dominant strategy — it raises your expected score from 0 to some small positive number with no downside.
 

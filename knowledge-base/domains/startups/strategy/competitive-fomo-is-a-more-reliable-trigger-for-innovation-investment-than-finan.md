@@ -51,12 +51,11 @@ stance: >-
   financial models because C-suite loss aversion to falling behind rivals
   overrides analytical skepticism.
 related:
-  - INS-260327-E1EB
   - INS-260329-6D3B
-  - INS-260329-BF51
+  - PRI-260405-B144
   - PRI-260324-12CF
+  - INS-260327-E1EB
   - INS-260330-C825
-  - INS-260322-5790
 evidence:
   - id: INS-260327-E1EB
     type: CHALLENGES

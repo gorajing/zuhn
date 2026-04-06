@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Why Nvidia Paid $20B for a Small Startup
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/nvidia-groq-deal-venture-capital'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low
@@ -56,6 +46,17 @@ stance: >-
   The rarest venture outcomes come not from portfolio diversification but from
   narrow conviction held through years of thin external validation, which most
   fund structures and investment committees are designed to eliminate.
+related:
+  - INS-260330-06CD
+  - INS-260403-298E
+  - INS-260404-0711
+  - INS-260404-FF8D
+  - INS-260403-33E2
+  - INS-260405-5C3F
+  - INS-260403-52B7
+  - INS-260403-693C
+  - INS-260405-18AB
+  - INS-260403-C7AB
 ---
 Social Capital's 2017 seed investment in Groq — roughly $10M at a $30M valuation for ~33% ownership — was made years before AI inference became a mainstream thesis. There were no flashy usage charts or rapid adoption curves, just long stretches where external validation was thin. Inside a typical fund, this creates immense pressure to rebalance or reduce exposure.
 

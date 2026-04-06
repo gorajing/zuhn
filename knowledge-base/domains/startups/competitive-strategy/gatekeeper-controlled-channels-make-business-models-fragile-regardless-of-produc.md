@@ -49,6 +49,6 @@ related:
   - INS-260403-B635
   - INS-260329-CEC5
   - INS-260405-8BEA
-  - INS-260323-4DD9
+  - INS-260403-E4C6
 ---
 Channel gatekeepers—whether record labels blocking streaming services or Amazon controlling publishing distribution—create an asymmetric power dynamic where your entire revenue depends on someone else's willingness to let you through. This isn't a negotiation problem; it's a structural business model vulnerability. The gatekeeper's incentive is to extract maximum value from their position, and they will use that leverage when it becomes advantageous. Founders building businesses that depend on gatekeeper-controlled channels should either plan for the cost of buying access, design alternative direct channels from day one, or build enough leverage (user demand, regulatory pressure) to force the gate open. Ignoring this dependency is betting your company on someone else's goodwill.

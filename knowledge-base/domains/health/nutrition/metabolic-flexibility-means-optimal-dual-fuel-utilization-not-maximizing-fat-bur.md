@@ -56,17 +56,17 @@ stance: >-
   misunderstanding of human metabolism.
 related:
   - INS-260325-3E86
-  - INS-260327-C19C
   - PRI-260328-39FA
+  - INS-260403-E09C
   - INS-260330-6377
-  - INS-260405-4871
+  - INS-260327-0E57
 evidence:
   - id: INS-260325-3E86
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-0E57
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-F57E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The carbohydrate and fat energy systems are complementary like bicycle gears — turning one turns the other. Carbohydrates provide flexibility (rapid energy for sprints, cognitive demands), while fat provides unlimited capacity (sustained low-intensity energy). The body can never use fat as its sole fuel source (maximum ~70% fat at rest/sleep), but can reach 100% carbohydrate utilization at high intensity.
 

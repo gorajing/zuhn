@@ -51,18 +51,17 @@ stance: >-
   directly to real-world concepts
 related:
   - INS-260329-4F8C
-  - INS-260329-DBFE
   - INS-260329-4D03
   - INS-260329-1610
   - INS-260329-0F06
-  - INS-260330-02A7
+  - INS-260403-64F4
 evidence:
   - id: INS-260329-41BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-0F06
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-02A7
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial introduces classes by highlighting a genuine limitation: you can't represent a phone or a book with just a string or integer. A phone has a make, model, screen size, and carrier — it's a composite entity. Classes solve this by letting you define custom data types that bundle related attributes together.
 

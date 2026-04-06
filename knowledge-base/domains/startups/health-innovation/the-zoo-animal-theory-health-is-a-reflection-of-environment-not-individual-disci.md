@@ -49,31 +49,31 @@ resolutions:
     than individual optimization.
 related:
   - INS-260323-7D90
-  - INS-260325-6DD8
+  - INS-260326-0894
+  - INS-260327-390A
+  - INS-260330-0027
+  - INS-260403-AAA6
   - INS-260325-DFA5
   - INS-260405-FBD7
   - INS-260405-7E85
   - PRI-260403-C34A
   - INS-260325-E19E
-  - INS-260326-0894
-  - INS-260327-390A
-  - INS-260330-0027
 stance: >-
   Like zoo animals that develop diseases their wild counterparts never get,
   humans in modern environments develop chronic disease because the environ...
 evidence:
   - id: INS-260330-CA97
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-7D90
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8BA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260326-0894
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-A9E0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-DFA5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-7E85
     type: SUPPORTS
     classified_at: '2026-04-06'

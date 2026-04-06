@@ -44,7 +44,6 @@ stance: >-
   descriptive phrase ('the X of Y') is the primary mechanism that determines
   whether you're remembered at all
 related:
-  - INS-260322-7B71
   - INS-260330-2294
   - INS-260404-B87E
   - INS-260405-5BD3
@@ -52,6 +51,8 @@ related:
   - INS-260404-D242
   - INS-260404-96C6
   - INS-260403-2A1D
-  - INS-260403-19D8
+  - INS-260405-1BFA
+  - INS-260403-3D75
+  - INS-260405-C819
 ---
 After hearing enough pitches, investors experience a blur effect where presentations merge together. The first cut in their evaluation isn't quality — it's simply being remembered. Formulaic phrases like 'the Microsoft Word of ecommerce' exploit how memory works under cognitive load: they anchor your startup to an existing strong concept and create a compact, portable mental handle. This pattern generalizes beyond fundraising to any high-volume attention environment. The exercise of crafting such a phrase also serves as a focusing function — if you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused. The constraint of the soundbite reveals strategic clarity or its absence.

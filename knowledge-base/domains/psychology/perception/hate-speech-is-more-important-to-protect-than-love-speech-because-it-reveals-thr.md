@@ -43,8 +43,8 @@ resolutions:
     cannot identify who poses a genuine threat. For organizations and platforms:
     surfacing hostility is safer than hiding it.
 related:
-  - PRI-260323-287B
   - INS-260323-08E9
+  - PRI-260323-287B
   - INS-260323-DEF0
   - INS-260325-B09C
   - INS-260323-87F3

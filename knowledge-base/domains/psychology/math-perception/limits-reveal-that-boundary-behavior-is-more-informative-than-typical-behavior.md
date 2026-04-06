@@ -50,12 +50,12 @@ stance: >-
   discontinuities reveals more about its true nature than observing it at
   comfortable operating points.
 related:
-  - INS-260322-E734
   - INS-260323-FE33
   - INS-260329-356A
   - INS-260329-F8AF
   - INS-260403-C0FE
   - PRI-260328-99F0
+  - INS-260322-E734
   - INS-260329-6117
   - INS-260330-3737
 evidence:

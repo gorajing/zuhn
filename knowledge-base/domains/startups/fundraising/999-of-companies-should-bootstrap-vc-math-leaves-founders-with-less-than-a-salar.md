@@ -54,10 +54,10 @@ related:
   - INS-260327-9C00
   - PRI-260328-E921
   - INS-260327-E093
-  - INS-260329-8542
   - INS-260329-D159
   - INS-260330-44C7
-  - INS-260403-1D6E
+  - INS-260404-886C
+  - INS-260330-E170
 stance: >-
   Raising $20M and selling for $30M nets the founder less money over 10 years
   than a regular salary — bootstrap instead.

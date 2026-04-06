@@ -49,12 +49,11 @@ stance: >-
   destructuring) prevent more bugs than careful variable management because they
   eliminate the intermediate steps where naming errors occur.
 related:
-  - INS-260329-A171
+  - INS-260327-956D
+  - INS-260329-3763
   - INS-260330-43E3
   - INS-260329-393C
   - INS-260329-02B3
-  - INS-260328-B19D
-  - INS-260329-9BEF
 evidence:
   - id: INS-260327-956D
     type: TRANSFERS_TO

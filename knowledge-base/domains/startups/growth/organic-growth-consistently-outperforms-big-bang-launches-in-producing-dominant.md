@@ -47,12 +47,10 @@ stance: >-
   founders than VC-backed big-bang launches
 related:
   - INS-260325-4846
-  - INS-260324-8656
-  - INS-260327-B302
   - INS-260403-99B1
   - INS-260403-924B
+  - INS-260403-7D5B
   - INS-260403-8F6E
-  - INS-260403-C9DC
   - INS-260403-D2B1
   - INS-260403-E4AD
 evidence:

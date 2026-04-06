@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The Race for AI Supremacy is Over\U0001F3C1, State of VC and Its Impact on DPI\U0001F4C9, SaaS VC Trends☁️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-race-for-ai-supremacy-is-over'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Large-scale exits increasingly reward companies with defensible go-to-market
@@ -55,6 +45,12 @@ resolutions:
 stance: >-
   Go-to-market strategy matters more than product innovation for achieving
   outsized exits because defensibility compounds through distribution advantages
+related:
+  - INS-260403-8441
+  - INS-260403-3C81
+  - INS-260403-EEE6
+  - INS-260403-8A28
+  - INS-260403-185D
 ---
 Analysis of a $13B acquisition highlights that outsized exits are driven not just by product quality but by the defensibility of go-to-market strategy and revenue scaling mechanics. Companies that build compounding distribution advantages—through network effects, deep integrations, or high switching costs—create acquisition premiums that pure-technology plays cannot match.
 

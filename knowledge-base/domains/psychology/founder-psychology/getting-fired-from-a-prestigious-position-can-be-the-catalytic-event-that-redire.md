@@ -57,11 +57,11 @@ stance: >-
   more than staying would have, because it removes the comfortable constraints
   that prevent pursuit of ambitious ideas
 related:
+  - INS-260404-8ACB
   - INS-260330-8733
   - INS-260327-CFD5
+  - INS-260404-6DA9
   - PRI-260328-9EC9
-  - PRI-260328-E64D
-  - INS-260405-F9E4
 evidence:
   - id: INS-260330-8733
     type: SUPPORTS

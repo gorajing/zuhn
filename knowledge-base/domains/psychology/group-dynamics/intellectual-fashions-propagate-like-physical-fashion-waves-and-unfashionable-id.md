@@ -53,12 +53,12 @@ related:
   - INS-260402-FE91
 evidence:
   - id: INS-260327-165D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-1739
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260324-DC98
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-ABD9
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Graham draws a direct parallel between clothing fashion and intellectual fashion: you can literally watch ideas spread through groups of people like waves, starting with a few adopters and growing until half a population holds the same view. The key insight is not merely that intellectual fashions exist — most thoughtful people acknowledge this — but that actively tracking these waves is a practical tool for finding valuable ideas. If you can identify which ideas are currently fashionable in a field, you can deliberately look elsewhere, because unfashionable ideas are disproportionately likely to lead somewhere interesting. This is the mechanism behind why contrarian bets in investing, counterintuitive startup ideas, and unfashionable research topics produce outsized returns — the best place to find undiscovered ideas is where no one else is looking.

@@ -50,11 +50,10 @@ stance: >-
   vulnerable to fundamental algorithmic breakthroughs that work universally.
 related:
   - INS-260329-4109
+  - INS-260403-A3E4
+  - INS-260403-AC01
   - INS-260327-BE4E
   - INS-260403-2DB2
-  - PRI-260328-6CEC
-  - PRI-260328-9E3F
-  - INS-260329-FEA6
   - INS-260330-CCD4
   - INS-260330-3ADD
 evidence:

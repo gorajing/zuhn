@@ -63,8 +63,9 @@ related:
   - INS-260327-CC57
   - INS-260328-0B42
   - INS-260330-C391
+  - INS-260403-18F7
   - INS-260403-CCB7
-  - INS-260322-A892
+  - INS-260327-A234
 ---
 This 16-year enterprise AE veteran describes his daily reality: calls from 7:30am through 4:30pm, family duties until 7:30pm, coaching calls at 8pm, follow-up work until 10:30pm, weekends spent preparing for the following week. He chose the individual contributor path over management specifically because the autonomy to run his territory like his own business appeals to his entrepreneurial nature.
 

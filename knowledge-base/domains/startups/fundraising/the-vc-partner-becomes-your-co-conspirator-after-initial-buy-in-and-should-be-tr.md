@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: A playbook for fundraising
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-playbook-for-fundraising'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     After a VC partner buys in, shift from pitching mode to collaborative mode —
@@ -62,6 +50,12 @@ stance: >-
   Once a VC partner is personally invested in your deal, the optimal strategy
   shifts from selling to collaborative deal-closing where you help them sell
   internally to their partnership
+related:
+  - INS-260403-9867
+  - INS-260405-9F92
+  - INS-260330-EA2E
+  - INS-260322-8D47
+  - INS-260329-61CF
 ---
 Venture capital fundraising closely mimics enterprise sales. Once your 'inside sponsor' (the partner) has personally committed to championing your deal, the dynamic fundamentally changes. The partner has invested months of their reputation and time — they want the deal to close as much as you do. The best founders recognize this transition point and begin collaborating: tailoring the deck specifically for the partnership meeting audience, agreeing on exact term sheet timelines, and discussing acceptable terms upfront.
 

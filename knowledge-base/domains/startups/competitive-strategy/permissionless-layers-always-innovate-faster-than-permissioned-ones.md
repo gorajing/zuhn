@@ -48,12 +48,11 @@ stance: >-
   coordination and consensus to ship, not by the technical talent or resources
   available.
 related:
-  - INS-260328-A46F
   - PRI-260405-D6F5
   - INS-260403-7B04
+  - INS-260403-990E
   - INS-260403-AC5E
   - INS-260322-5678
-  - INS-260403-5427
   - INS-260404-226F
 evidence:
   - id: INS-260321-1749

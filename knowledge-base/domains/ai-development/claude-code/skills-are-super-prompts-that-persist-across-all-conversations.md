@@ -37,11 +37,13 @@ resolutions:
     workflows.
 related:
   - INS-260329-ACE6
+  - INS-260405-3E5F
   - INS-260330-1F41
+  - INS-260404-F0C3
   - INS-260325-11E9
   - INS-260329-8DC5
-  - INS-260403-0218
   - INS-260403-5CA6
+  - INS-260320-76D2
 stance: >-
   If you're copying the same instructions into multiple projects, that's a
   signal to create a Skill instead

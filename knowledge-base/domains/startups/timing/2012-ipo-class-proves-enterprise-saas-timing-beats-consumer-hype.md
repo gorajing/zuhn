@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs \U0001F4C8"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/top-companies-that-had-their-ipo'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep
@@ -59,6 +49,13 @@ stance: >-
   more durable long-term value than the headline-grabbing consumer IPO
   (Facebook), because they solved critical operational pain points with
   predictable subscription revenue.
+related:
+  - INS-260327-0004
+  - INS-260404-D7E0
+  - INS-260404-9004
+  - INS-260405-BDA0
+  - INS-260404-433E
+  - INS-260404-6751
 ---
 The 2012 IPO class is instructive because it contrasts two archetypes: Facebook's massive consumer IPO ($56.9B valuation) struggled initially with post-IPO trading glitches and stock decline, while enterprise SaaS companies like Workday ($9.3B) and ServiceNow ($4.1B) quietly built durable businesses. Both Workday and ServiceNow focused on product-market fit with enterprise clients before going public, ensuring their software addressed critical operational needs.
 

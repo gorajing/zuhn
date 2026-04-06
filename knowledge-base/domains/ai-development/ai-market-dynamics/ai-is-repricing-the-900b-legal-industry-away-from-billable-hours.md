@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Legal’s $900B AI Repricing⚖️, Team sizes are shrinking\U0001F4CA, a16z's AI x Commerce Thesis \U0001F6CD️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/legals-900b-ai-repricing-team-sizes'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI is enabling outcome-based legal services that bypass the traditional
@@ -53,6 +43,13 @@ resolutions:
 stance: >-
   AI-driven outcome-based legal services will displace the billable-hour model
   and unlock a $70B+ market for efficient legal delivery
+related:
+  - INS-260329-5257
+  - INS-260403-C734
+  - INS-260403-2609
+  - INS-260403-1E4A
+  - INS-260330-5D4F
+  - INS-260403-4093
 ---
 The legal industry's $900B market has been built on the billable-hour model for decades, but AI is fundamentally repricing how legal work gets delivered. By automating research, document review, and contract analysis, AI tools can offer faster, outcome-based services at scale rather than charging for time spent.
 

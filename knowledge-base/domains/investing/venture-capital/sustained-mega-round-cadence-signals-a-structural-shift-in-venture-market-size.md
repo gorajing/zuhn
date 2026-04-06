@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "AI is eating VC\U0001F525, The YC “Over-Concentration” Myth\U0001F4A1, State of Venture Q3’25\U0001F680"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-is-eating-vc-the-yc-over-concentration'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Venture funding exceeded $90B for four straight quarters in 2025, driven by
@@ -55,6 +45,13 @@ resolutions:
 stance: >-
   Four consecutive quarters above $90B in venture funding represents a permanent
   expansion of the venture market rather than a cyclical peak
+related:
+  - INS-260403-0BE9
+  - INS-260405-5F16
+  - INS-260404-F01F
+  - INS-260403-87C4
+  - INS-260405-776D
+  - INS-260405-DDC2
 ---
 Q3 2025 venture data shows funding surpassing $90B for the fourth consecutive quarter, fueled by mega-rounds to decacorns and AI startups. This sustained cadence — rather than a single spike — suggests the venture market may have structurally expanded rather than simply cycling through a peak.
 

@@ -49,12 +49,11 @@ stance: >-
   momentum from quick wins sustains the behavior change that matters more than
   interest savings.
 related:
-  - INS-260327-0519
   - INS-260329-C345
+  - INS-260403-3280
   - INS-260405-3403
   - INS-260403-34E0
   - INS-260329-EB4B
-  - INS-260325-0688
 evidence:
   - id: INS-260327-0519
     type: CHALLENGES

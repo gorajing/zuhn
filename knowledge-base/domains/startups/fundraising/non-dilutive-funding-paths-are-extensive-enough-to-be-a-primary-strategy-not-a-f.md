@@ -18,25 +18,15 @@ tags:
 sources:
   - type: blog
     title: 'Startup Fundraising Resources: Investor Lists 2026'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/startup-fundraising-resources-investor-lists-2026
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The breadth of non-dilutive funding options—80+ paths including grants, RBF,
@@ -62,6 +52,12 @@ stance: >-
   With 80+ grants, revenue-based financing, venture debt, and government
   programs available, treating non-dilutive capital as a secondary option
   represents a significant strategic blind spot.
+related:
+  - INS-260403-A3DA
+  - INS-260403-65AC
+  - INS-260403-3A2C
+  - INS-260405-1A59
+  - INS-260405-5BA9
 ---
 Most fundraising advice assumes equity rounds as the primary capital formation strategy, with non-dilutive sources treated as supplementary. But when you catalog the actual landscape—government grants, revenue-based financing, corporate credits, prizes, venture debt—the sheer volume suggests a different framing. For many startups, especially those with early revenue or operating in sectors with active grant programs, non-dilutive capital can fund significant runway without cap table dilution.
 

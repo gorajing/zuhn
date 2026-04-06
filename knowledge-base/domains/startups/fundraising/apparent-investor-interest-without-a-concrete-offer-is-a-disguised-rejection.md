@@ -45,15 +45,15 @@ stance: >-
   and founders should treat implied future interest as a polite decline.
 related:
   - INS-260328-4EA0
-  - INS-260329-FCC6
   - INS-260330-D644
   - INS-260330-A954
   - INS-260330-376E
-  - INS-260403-D99E
+  - INS-260403-F4E7
   - INS-260403-78B7
-  - PRI-260403-26B9
-  - INS-260402-9075
+  - INS-260403-A36C
   - INS-260403-6713
+  - INS-260403-BA6A
+  - INS-260405-D2E2
 evidence:
   - id: INS-260330-D644
     type: SUPPORTS

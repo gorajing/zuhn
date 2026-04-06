@@ -18,25 +18,15 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: How China Built Its Industrial Power'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: >-
       https://chamath.substack.com/p/deep-dive-chinas-industrial-might-and-domestic-policy
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When hundreds of local governments simultaneously subsidize competing firms
@@ -67,6 +57,12 @@ resolutions:
 stance: >-
   Any system that rewards many parallel competitors with subsidies will produce
   more supply than demand can absorb once the market consolidates around winners
+related:
+  - INS-260405-F20C
+  - INS-260405-E027
+  - INS-260403-5A4C
+  - INS-260327-D1B7
+  - INS-260403-6694
 ---
 China's tournament model creates national champions like BYD, but because dozens of regional firms were simultaneously scaled up with cheap credit and subsidies, the losing competitors don't simply disappear — their capacity persists, driving down prices and distorting global markets. This is the mechanism behind China's reputation for 'dumping': overcapacity is not a policy failure but a predictable structural output of tournament-style competition.
 

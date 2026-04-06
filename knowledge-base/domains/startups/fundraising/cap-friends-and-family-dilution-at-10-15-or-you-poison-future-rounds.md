@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Friends & Family Funding: The Startup Founder’s Guide'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/friends-and-family-funding-guide'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Excessive early dilution locks in low valuations that create down-round
@@ -57,6 +47,17 @@ stance: >-
   Giving away more than 15% equity in a friends-and-family round creates
   valuation anchoring problems that make subsequent institutional raises
   significantly harder.
+related:
+  - INS-260403-5B89
+  - INS-260404-A7BF
+  - INS-260404-B640
+  - INS-260404-0475
+  - INS-260403-1E34
+  - INS-260405-D2E2
+  - INS-260403-ACC5
+  - INS-260403-9F2A
+  - INS-260328-195E
+  - INS-260403-D11C
 ---
 When founders give away 20% for $100K, they anchor their valuation at $500K. If they haven't achieved significant traction by their next raise, they face a brutal dilemma: raise at a modest increase (giving VCs little upside incentive) or accept a down round (signaling failure). Either outcome damages fundraising momentum.
 

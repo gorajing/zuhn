@@ -46,14 +46,14 @@ stance: >-
 related:
   - INS-260403-6935
   - INS-260403-B7FA
-  - INS-260329-5AC5
   - INS-260329-153F
+  - INS-260404-FADE
   - INS-260322-30A0
 evidence:
   - id: INS-260322-30A0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B7FA
     type: SUPPORTS
     classified_at: '2026-04-06'

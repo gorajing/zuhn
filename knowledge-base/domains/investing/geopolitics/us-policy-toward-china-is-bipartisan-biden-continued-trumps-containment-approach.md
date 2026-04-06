@@ -44,11 +44,12 @@ resolutions:
     policy that reverses with each election cycle.
 related:
   - PRI-260324-3AAE
+  - INS-260405-1CC3
   - PRI-260323-9295
-  - PRI-260324-5F05
-  - INS-260327-10C9
-  - PRI-260321-0A4D
-  - INS-260324-C1B8
+  - INS-260403-44A6
+  - INS-260403-9E97
+  - INS-260404-2AD7
+  - INS-260403-9006
 stance: >-
   Despite appearing ideologically opposed, Biden barely cut any tariffs on China
   and maintained aggressive semiconductor export controls

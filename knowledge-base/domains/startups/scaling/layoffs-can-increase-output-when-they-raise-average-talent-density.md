@@ -48,13 +48,12 @@ stance: >-
   outperforms the original larger team, because mediocre performers have a
   contagious negative effect on team output.
 related:
-  - INS-260324-72E8
   - INS-260322-70DD
   - INS-260327-B45A
   - INS-260327-40D5
-  - INS-260328-4ED2
+  - INS-260324-72E8
+  - INS-260403-7D11
   - INS-260327-2627
-  - INS-260403-7CAA
   - INS-260330-488B
   - INS-260330-50A4
 evidence:

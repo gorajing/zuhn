@@ -56,7 +56,6 @@ stance: >-
   attempts to mislead.
 related:
   - INS-260327-A9E8
-  - INS-260329-95EA
   - INS-260330-F909
   - INS-260330-15AE
   - INS-260330-7D5F
@@ -65,6 +64,7 @@ related:
   - INS-260330-12DC
   - INS-260402-AD42
   - INS-260403-07C1
+  - INS-260404-36F1
 evidence:
   - id: INS-260329-95EA
     type: TRANSFERS_TO

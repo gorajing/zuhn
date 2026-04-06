@@ -47,9 +47,9 @@ related:
   - INS-260325-F20C
   - INS-260403-B387
   - PRI-260328-8317
+  - INS-260405-8532
   - INS-260322-EDA4
   - INS-260327-85E2
-  - INS-260405-0E77
 stance: >-
   The largest AI opportunity is not replacing existing software but replacing
   labor tasks where the cost-to-value equation was previously inverted.

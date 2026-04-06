@@ -50,10 +50,10 @@ stance: >-
   cross-unit dependencies and accountability.
 related:
   - INS-260330-CA88
+  - INS-260403-62A9
   - INS-260330-4ACF
+  - INS-260404-B6B1
   - INS-260330-FF9A
-  - INS-260405-CADE
-  - INS-260325-3A0E
 ---
 Geneva Hospital's COVID transformation required coordination between surgical units, patient flow, operations, and support staff. The Team Alignment Map process forced each unit to first identify their own objectives, then explicitly state what they committed to delivering for other units.
 

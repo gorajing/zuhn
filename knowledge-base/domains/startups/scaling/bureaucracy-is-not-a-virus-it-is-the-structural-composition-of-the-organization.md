@@ -51,10 +51,11 @@ stance: >-
   'busting bureaucracy' within them.
 related:
   - INS-260323-53BF
+  - INS-260403-6691
   - PRI-260328-5B61
+  - INS-260403-8439
   - INS-260327-BEB1
-  - PRI-260403-6DD6
-  - INS-260404-BFD0
+  - INS-260322-F6C3
 evidence:
   - id: INS-260330-09B5
     type: TRANSFERS_TO

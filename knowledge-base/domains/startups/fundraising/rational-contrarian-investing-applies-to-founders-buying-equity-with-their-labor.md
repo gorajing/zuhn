@@ -46,7 +46,6 @@ stance: >-
   Founders who start companies during downturns are making the same rational
   contrarian bet that smart investors make when buying assets in bad markets.
 related:
-  - INS-260323-500B
   - INS-260327-33E0
   - INS-260327-C79D
   - INS-260327-E4F1
@@ -54,7 +53,9 @@ related:
   - INS-260330-E853
   - INS-260330-97F6
   - INS-260330-6204
-  - INS-260403-4960
+  - INS-260403-F852
+  - INS-260403-C557
+  - INS-260404-CB41
 evidence:
   - id: INS-260327-33E0
     type: TRANSFERS_TO

@@ -1,36 +1,69 @@
 # Tag: product-market-fit
 
 - `INS-260322-55D8` ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
+- `INS-260405-0327` Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
+- `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
+- `INS-260405-55E0` AI hardware devices are flopping because the differentiated value in AI lives in software, not physical form factors.
 - `INS-260325-060A` Elena Verna argues AI companies must re-find PMF every 3 months because capability shifts make yesterday's differentiator today's baseline.
+- `INS-260405-4091` AI tooling lowers the cost of building but not the cost of building the wrong thing.
 - `INS-260325-5CA5` 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260403-99DE` Stablecoins pegged to USD represent over 90% of the $135B stablecoin market cap, making digital dollars the dominant crypto use case.
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
+- `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
 - `INS-260403-94AD` Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
 - `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
+- `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
+- `INS-260403-ADF9` The most iconic startups found their winning product by observing what users actually did inside a failing product, not by executing their original plan.
+- `INS-260404-8394` Categorize any crisis as either cash or PMF before acting, because the response strategies are fundamentally different.
 - `INS-260327-1996` Conrad says Rippling took two years to start working, but he had zero doubt it would — so his entire job was preventing the team from quitting before they got there.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
+- `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260329-FCC6` Sell to people who desperately need what you offer rather than trying to convince people they need it.
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
+- `INS-260403-5762` PMF is unrecognizable in real-time because founders are too deep in operational chaos to see the macro signal.
+- `INS-260403-D2F4` Second-time founders bake GTM strategy into week one of building, treating distribution as the product rather than an afterthought.
+- `INS-260403-DDC9` When customers churn reveals whether you have an activation problem or an evolution problem.
+- `INS-260405-BBA3` Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.
+- `INS-260402-5523` Successful growth loops are designed around behaviors users already exhibit naturally, not invented from scratch.
+- `INS-260404-B893` Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
+- `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
+- `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
 - `INS-260403-EDFC` Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
+- `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
 - `INS-260403-538C` Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 - `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
-- `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
-- `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
+- `INS-260403-570D` VCs model durability not just growth, and high churn turns a growth engine narrative into a leaky bucket story.
+- `INS-260404-433E` Successful 2012 IPOs invested years in product refinement and customer validation before going public.
+- `INS-260403-E2A7` Too much funding lets founders mistake capital for validation, scaling a hypothesis before it's proven.
 - `INS-260404-29F4` Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
 - `INS-260405-9E25` Investors' deepest fear is that you built something nobody wants — specific user stories and proxies for existing demand directly counter that fear.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
+- `INS-260403-EFAC` Demonstrating pain-product fit to investors yields dramatically higher close rates and better terms.
+- `INS-260403-36C6` Treat every hire as a last resort after exhausting automation, templatization, and temporary outsourcing.
+- `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
+- `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
+- `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
+- `INS-260405-5E18` AI PMF is a continuous recalibration process, not a one-time validation milestone.
+- `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
+- `INS-260405-C5B4` GOAT's $4B valuation traces back to authenticating sneakers, not selling them.
+- `INS-260405-867E` There is no single path to PMF — lessons from 20 founders reveal irreducible diversity in how it is found.
+- `INS-260403-4388` Andrew Chen's data shows churn is almost impossible to fix retroactively, making early retention the critical PMF signal.
 - `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
+- `INS-260403-3A44` Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.
+- `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
 - `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - `INS-260403-FCA6` Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
 - `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
+- `INS-260403-2D39` Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
+- `INS-260402-3CF1` Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260327-A8B6` Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
 - `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
@@ -44,24 +77,45 @@
 - `INS-260327-A815` A repeatable sales motion means a non-founder can sell and close — you know your ICP, your pitch, your lead sources, and deals move predictably through the funnel before you hire a sales leader.
 - `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
+- `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
+- `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
+- `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
+- `INS-260403-DC59` Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.
+- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
+- `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260323-D679` Fireship got 3,121 free signups from his massive YouTube audience but only 0.3% converted to paid — proving that free distribution masks product-market fit failure until the money conversation starts.
 - `INS-260330-E089` Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
+- `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
 - `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
+- `INS-260405-6D3A` Quirky raised $185M and went bankrupt because capital scaled an unvalidated assumption, not a proven market.
+- `INS-260404-B2AF` Companies entering Speedrun with prototypes and exiting with $2-2.5M ARR in record time demonstrate that intense time constraints accelerate product-market fit discovery.
 - `INS-260403-B87D` Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
+- `INS-260403-FFD2` Your PMF story must show two clear fits: Feature A solves the customer's core problem, and Feature B addresses the specific shortcomings of dominant alternatives.
+- `INS-260403-5683` Needing to educate customers about a problem they don't feel is a reliable signal you're solving the wrong problem.
 - `INS-260323-3436` Everyone recognizes desktop clutter as a problem, but nobody's in enough pain to adopt a tool to solve it — recognizable problems and painful problems are completely different categories.
 - `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
+- `INS-260403-F23A` The majority of founders stall at Level 2 PMF — they can find initial customers but cannot generate repeatable demand at scale.
+- `INS-260403-CD74` Level 1 PMF requires finding just 3-5 customers with a problem worth solving, engaging deeply, delivering a solution, and validating it — not broad market traction.
+- `INS-260403-0373` Validate that your product solves a mission-critical pain before investing in go-to-market execution.
+- `INS-260403-C837` If Day 1 retention stays under 10% and no cohort flattens across segments, stop A/B testing buttons and rethink the core value proposition.
 - `INS-260330-5A0A` Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
+- `INS-260405-736C` PMF is a four-rung ladder—customer-problem fit, problem-solution fit, business-model fit, then scale—and skipping rungs causes collapse.
+- `INS-260403-9B18` Create a distinct value logic for each customer segment and each stakeholder role — a combined narrative hides segment-specific gaps.
+- `INS-260403-42B8` Spend 80% of PMF effort on steps 1-6 (customer, job, problem, alternatives, flaws, consequences) before mentioning your product in steps 7-9.
+- `INS-260403-708E` PMF works like physical resonance — modest input creates massive output only when tuned to the system's natural frequency.
+- `INS-260403-93DA` PMF has four levels — nascent, developing, strong, extreme — each requiring different strategies and taking 4-6 years total to traverse.
 - `INS-260403-EA2D` Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 - `INS-260404-DAA7` Cross-border traction in a fragmented market is a stronger PMF signal than single-market density.
+- `INS-260403-E1E0` Product-market fit is proven by users staying and returning, not by how many you acquire or how much press you generate.
+- `INS-260403-6B37` Starting with a solution and searching for a problem leads to high acquisition costs, poor fit, and stagnant growth.
 - `INS-260403-C228` A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
+- `INS-260405-C8B2` Urgency and full-price payment are the only PMF signals that actually predict survival.
 - `INS-260328-372B` Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.
+- `INS-260403-E209` When stuck at any PMF level, reassess the four P's — persona, problem, promise, product — rather than reflexively iterating on product alone.
+- `INS-260403-F8B6` B2B PMF is a sequence of milestones from $0 to $1M ARR, not a single moment of arrival.
 - `INS-260404-B01F` Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 - `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 - `INS-260330-AB6F` Users enduring terrible UX to use your product is a stronger signal than engagement metrics from a polished product.
 - `INS-260330-5ED4` Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
 - `INS-260403-B635` Having a few users who truly love your product matters infinitely more than having many indifferent users.
-- `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
-- `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
-- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
-- `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.

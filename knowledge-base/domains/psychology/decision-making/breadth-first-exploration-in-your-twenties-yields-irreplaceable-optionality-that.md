@@ -51,18 +51,18 @@ stance: >-
   exploration possible only in early adulthood generates more long-term value
   than early commitment
 related:
-  - INS-260403-8013
+  - INS-260403-AC9F
   - INS-260330-CFBA
-  - INS-260404-C03F
   - INS-260403-D98E
-  - INS-260403-AF27
+  - PRI-260405-E9C5
+  - PRI-260328-04FA
 evidence:
   - id: INS-260330-CFBA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-F08D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8AC8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D98E
     type: SUPPORTS
     classified_at: '2026-04-06'

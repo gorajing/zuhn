@@ -50,11 +50,10 @@ resolutions:
     which scenario is unfolding.
 related:
   - INS-260327-3A81
+  - INS-260405-B204
   - INS-260323-FE69
   - PRI-260328-D401
   - INS-260327-E874
-  - PRI-260328-D68F
-  - INS-260327-A70C
   - INS-260327-F4CB
 stance: >-
   The total percentage of jobs automated matters less than whether displacement

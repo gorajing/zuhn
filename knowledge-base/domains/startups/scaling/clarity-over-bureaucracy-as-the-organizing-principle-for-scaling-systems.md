@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'The Free Founder OS: 58 Templates + 10,000 Investor List'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/free-founder-operating-system-10k-investors'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Startup operating systems should prioritize reducing decision friction over
@@ -55,6 +45,12 @@ stance: >-
   The best internal operating systems for startups optimize for decision-making
   clarity rather than process completeness, because bureaucratic overhead kills
   more startups than missing processes.
+related:
+  - INS-260405-3CC7
+  - INS-260329-EE04
+  - INS-260329-AB9A
+  - INS-260330-CCF0
+  - INS-260330-5A13
 ---
 When startups build internal systems for scaling (OKRs, hiring plans, handbooks, metrics tracking), there is a natural tendency to over-engineer toward completeness — trying to document every scenario and process. But the article's framing suggests the goal should be clarity, not coverage. Each template 'solves a specific, recurring problem rather than trying to cover every edge case.'
 

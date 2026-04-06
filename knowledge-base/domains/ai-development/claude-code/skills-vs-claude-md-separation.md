@@ -50,9 +50,9 @@ stance: >-
   specific project works' — keep them separate.
 evidence:
   - id: INS-260329-693E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D48B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 
 Maintain a clear separation of concerns between Skills and CLAUDE.md.

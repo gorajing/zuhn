@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/cltv-vs-cac-ratio-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Extremely high CLTV/CAC ratios can signal missed growth opportunities rather
@@ -55,6 +45,12 @@ stance: >-
   A very high CLTV to CAC ratio (5:1+) often indicates a startup is leaving
   growth on the table by under-spending on acquisition rather than having
   exceptional unit economics.
+related:
+  - INS-260329-49A4
+  - INS-260403-4E51
+  - PRI-260403-E097
+  - INS-260403-0992
+  - INS-260403-6740
 ---
 Most founders celebrate a high CLTV to CAC ratio, but ratios significantly above 3:1 — especially 5:1 or 7:1 — often reveal under-spending on customer acquisition. If every customer returns 5-7x their acquisition cost, the company likely has room to invest more aggressively in growth channels while still maintaining healthy economics.
 

@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Free Product-Market Fit Template for Founders
-    author:
-      - '@type': Person
-        name: Jeroen Coelen
-        url: 'https://substack.com/@doctormarketfit'
-        description: Mentored 1000+ founders. PhD on startups.
-        identifier: 'user:9872561'
-        sameAs:
-          - 'https://twitter.com/Coeluh'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!et58!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff19a9a5b-c2f4-4a05-afed-d5a0f83391e5_1728x1728.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!et58!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff19a9a5b-c2f4-4a05-afed-d5a0f83391e5_1728x1728.jpeg
+    author: Jeroen Coelen
     url: 'https://www.thevccorner.com/p/free-product-market-fit-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Create a distinct value logic for each customer segment and each stakeholder
@@ -57,6 +45,13 @@ resolutions:
 stance: >-
   A single unified PMF narrative across multiple customer segments masks fatal
   assumptions and prevents real validation.
+related:
+  - INS-260404-F017
+  - INS-260403-3A44
+  - INS-260330-1815
+  - INS-260403-7E7C
+  - PRI-260328-95E3
+  - INS-260403-0196
 ---
 Because the PM-Fit Logic framework is customer-centric, you cannot pile multiple segments into one analysis. Each beachhead segment needs its own 9-step value logic with segment-specific jobs, problems, alternatives, and consequences. For B2B products with multiple stakeholders (buyers vs. users), or two-sided platforms, each person in the chain needs a separate value logic.
 

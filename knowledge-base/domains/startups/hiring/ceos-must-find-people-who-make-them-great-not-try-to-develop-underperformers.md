@@ -17,26 +17,14 @@ sources:
     title: >-
       $46B of hard truths from Ben Horowitz: Why founders fail and why you need
       to run toward fear (a16z co-founder)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/46b-of-hard-truths-from-ben-horowitz'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     CEOs create leverage by finding exceptional people rather than spending
@@ -61,6 +49,17 @@ stance: >-
   A CEO's leverage comes from surrounding themselves with world-class talent who
   push the company forward, not from investing time trying to fix or develop low
   performers.
+related:
+  - INS-260327-BEEE
+  - INS-260329-7C84
+  - INS-260330-BCC2
+  - INS-260402-C4FF
+  - INS-260403-C6A6
+  - INS-260403-2369
+  - INS-260403-F732
+  - PRI-260403-7D1F
+  - INS-260403-7881
+  - INS-260405-945B
 ---
 Horowitz draws a sharp line between two CEO archetypes: those who try to coach everyone up, and those who relentlessly seek out people who are already exceptional. The latter consistently build better companies. This is counterintuitive because most leadership advice emphasizes developing your team, but at the CEO level, the highest-leverage activity is talent selection, not talent development.
 

@@ -42,11 +42,10 @@ resolutions:
     2025. Expansion is easy; making it dense is what's hard.
 related:
   - INS-260323-5341
+  - INS-260405-35DF
   - INS-260327-D0F4
   - INS-260330-95E8
   - INS-260324-DB86
-  - PRI-260328-0993
-  - INS-260405-8B05
 stance: >-
   Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to
   ophthalmology patients -- then revenue tripled annually.

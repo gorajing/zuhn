@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'How to Evaluate a Startup Exit: Signs, Metrics & Red Flags'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-exit-strategy-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Model how proceeds actually distribute across the cap table before
@@ -61,6 +51,13 @@ stance: >-
   A headline exit valuation is meaningless without modeling the waterfall —
   stacked liquidation preferences and diluted common pools routinely turn $200M
   exits into disappointments for founders and early investors.
+related:
+  - INS-260405-FFCE
+  - INS-260404-8321
+  - INS-260403-BED6
+  - PRI-260323-7B35
+  - INS-260403-F852
+  - INS-260405-7F03
 ---
 Exit waterfall analysis reveals the true economics hiding beneath a company's valuation. A $200M acquisition sounds impressive until you discover that multiple rounds of preferred shares with 2x liquidation preferences consume most of the proceeds, leaving founders and early common holders with scraps. Stacked SAFEs converting unpredictably, fragmented ownership across a dozen small investors, and missing ESOPs all compound the problem — they don't just reduce returns, they can scare off acquirers entirely.
 

@@ -15,41 +15,19 @@ tags:
 sources:
   - type: blog
     title: 8 AI Prompts That Replace a $25K/Year Financial Analyst
-    author:
-      '@type': Organization
-      name: The VC Corner
-      url: 'https://www.thevccorner.com'
-      description: >-
-        The VC Corner is where founders stay ahead: sharp news, fundraising
-        strategies, battle-tested playbooks, and the tools to grow.
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 100000
-      identifier: 'pub:2125183'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
+    author: >-
+      {"@type":"Organization","name":"The VC
+      Corner","url":"https://www.thevccorner.com","description":"The VC Corner
+      is where founders stay ahead: sharp news, fundraising strategies,
+      battle-tested playbooks, and the tools to
+      grow.","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":100000},"identifier":"pub:2125183","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"}}
     url: 'https://www.thevccorner.com/p/8-ai-prompts-that-replace-a-25kyear'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Curated prompt packages that encode professional workflows represent a
@@ -74,6 +52,12 @@ stance: >-
   Selling curated prompt collections as productized expertise is a real
   near-term business model, but one that erodes as AI models improve at
   generating their own analytical frameworks
+related:
+  - INS-260327-2101
+  - INS-260405-CA27
+  - INS-260403-EDA1
+  - PRI-260320-6847
+  - PRI-260328-517C
 ---
 The article itself is a prompt-as-product play — offering structured prompts behind a paywall that replicate expensive professional workflows. This model works because current LLMs produce significantly better output with carefully engineered prompts than with naive queries. The gap between 'ask Claude about a stock' and 'run this institutional-grade screening prompt' is real and valuable today.
 

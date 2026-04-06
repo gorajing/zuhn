@@ -44,10 +44,11 @@ stance: >-
   warming them up with context, complimenting good output, and describing bugs
   conversationally — rather than issuing direct commands.
 related:
-  - INS-260323-DC99
+  - INS-260403-643A
+  - INS-260329-2F63
   - INS-260330-C4F1
-  - PRI-260328-B4BD
-  - INS-260327-B12E
+  - INS-260405-C1E4
+  - INS-260323-DC99
   - INS-260329-8DC5
   - INS-260403-CCC3
 evidence:

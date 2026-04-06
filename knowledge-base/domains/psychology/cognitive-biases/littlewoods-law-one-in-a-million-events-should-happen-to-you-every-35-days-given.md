@@ -55,9 +55,10 @@ stance: >-
   suggests, making the absence of coincidences the truly unusual occurrence
 related:
   - INS-260323-95BC
-  - INS-260327-E9F3
-  - INS-260330-125E
-  - INS-260325-9F01
+  - INS-260327-6F94
+  - INS-260403-7E1F
+  - INS-260329-9C20
+  - INS-260405-A309
   - INS-260330-F60B
 evidence:
   - id: INS-260327-6F94

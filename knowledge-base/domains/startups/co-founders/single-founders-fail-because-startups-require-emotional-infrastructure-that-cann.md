@@ -50,7 +50,6 @@ stance: >-
   alone.
 related:
   - INS-260325-A52D
-  - INS-260326-D8B9
   - INS-260326-967C
   - INS-260403-3A49
   - INS-260403-7C88
@@ -59,6 +58,7 @@ related:
   - INS-260403-12FD
   - INS-260403-D51E
   - INS-260404-B715
+  - INS-260403-CAB4
 evidence:
   - id: INS-260404-B715
     type: EXTENDS

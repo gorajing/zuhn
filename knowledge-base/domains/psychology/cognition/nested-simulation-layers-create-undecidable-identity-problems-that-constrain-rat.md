@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Being John Rawls
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/being-john-rawls'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The story's nested drug-induced lives create a situation where characters
@@ -63,6 +53,12 @@ stance: >-
   When you cannot determine which layer of reality you inhabit, rational
   self-interest becomes incoherent and only principled behavior remains
   decision-theoretically sound.
+related:
+  - INS-260403-45E3
+  - INS-260403-F76E
+  - INS-260327-DC4C
+  - INS-260403-9861
+  - INS-260322-2A3A
 ---
 The story layers reality recursively: the banker may be an alcoholic dreaming he's a banker; the alcoholic visiting the Foundation is told he's 'too many levels deep'; the final diner scene exists outside all layers. This isn't just literary cleverness — it dramatizes a genuine decision-theoretic problem. When you cannot verify which layer of reality you inhabit, strategies that depend on knowing your true position (like 'I'm actually rich so I don't need to be generous') become unreliable.
 

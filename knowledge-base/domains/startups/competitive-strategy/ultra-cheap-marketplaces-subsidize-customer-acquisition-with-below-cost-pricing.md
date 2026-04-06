@@ -40,14 +40,11 @@ stance: >-
   strategy subsidized by investor capital, creating a market presence that will
   collapse when subsidies end.
 related:
-  - INS-260323-BD2B
   - INS-260329-4EF5
+  - INS-260403-AF3B
   - INS-260403-F4CC
   - INS-260403-7E7C
   - INS-260330-D644
-  - INS-260328-A666
-  - INS-260329-4B45
-  - INS-260330-809A
 evidence:
   - id: INS-260330-D644
     type: TRANSFERS_TO

@@ -43,10 +43,10 @@ resolutions:
     irreplaceable. The moat is serving the customers everyone else refuses.
 related:
   - INS-260330-ED77
+  - INS-260403-4E9D
   - INS-260330-B6AD
   - INS-260327-7681
   - INS-260322-88FC
-  - INS-260330-4830
 stance: 'Venmo, CashApp, and PayPal require bank accounts and only work domestically'
 evidence:
   - id: INS-260327-7681

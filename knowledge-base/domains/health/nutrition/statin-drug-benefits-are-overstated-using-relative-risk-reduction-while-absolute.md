@@ -39,12 +39,11 @@ stance: >-
   sounds impressive) while the absolute risk reduction is only 1-2% -- meaning
   100 people must take statins for years to prevent one event
 related:
-  - INS-260321-9AB5
   - PRI-260328-E3A7
   - INS-260327-E245
   - INS-260329-8CA0
-  - INS-260322-9095
-  - PRI-260328-1545
+  - INS-260403-BF45
+  - INS-260322-3A00
   - INS-260330-4B4F
 evidence:
   - id: INS-260321-9AB5

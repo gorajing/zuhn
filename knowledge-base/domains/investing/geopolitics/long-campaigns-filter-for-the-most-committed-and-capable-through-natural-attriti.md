@@ -51,12 +51,11 @@ stance: >-
   leaving a core group whose survival itself is evidence of exceptional
   capability and resolve.
 related:
-  - INS-260326-8189
   - INS-260327-1756
+  - INS-260327-FA38
   - INS-260327-8DAA
   - INS-260325-4C16
   - INS-260327-377A
-  - INS-260327-B038
 evidence:
   - id: INS-260326-8189
     type: EXTENDS

@@ -1,3 +1,22 @@
 # Tag: financial-modeling
 
+- `INS-260403-49E1` Consolidating VC return analysis into one tab eliminates formula breakage and creates a shared decision language.
+- `INS-260405-B361` Runway tools derive value from proactive scenario modeling before each hire or campaign, not retrospective tracking.
+- `INS-260403-2A30` A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
+- `INS-260403-1904` Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
+- `INS-260403-7FB2` Structure your revenue model so that wishful assumptions produce visibly broken outputs, forcing honest confrontation with reality.
+- `INS-260403-8C2D` Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
+- `INS-260403-2B50` Only a fully linked three-statement model (income, balance sheet, cash flow) reveals the true cash position of a startup.
+- `INS-260403-AFC6` True CAC must include sales salaries, tools, agencies, and content production — not just ad spend.
 - `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
+- `INS-260403-44E9` Build revenue projections from funnel conversion rates upward rather than starting from a target number and working backward.
+- `INS-260403-BA6A` Building a DCF model forces founders to speak the financial language investors use, shifting negotiations from opinion-based anchoring to assumption-based discussion.
+- `INS-260403-A3BD` A five-variable MRR model (new customers, ARPU, churn, current MRR, goal) provides 80% of the decision value of a full financial model.
+- `INS-260403-EB0F` Investors want to see how roles map to runway with taxes, benefits, and timing modeled — saying 'we're hiring 10 engineers' without that detail signals lack of financial control.
+- `INS-260403-6EBD` Mezzanine deal terms interact in non-obvious ways that only reveal their true cost over the life of the instrument.
+- `INS-260403-59B0` If suppliers demand Net 30 but customers pay Net 90, the 60-day gap creates a cash crunch that healthy revenue numbers can completely obscure.
+- `INS-260403-EAFC` Scenario models only work when assumptions cascade through the entire financial stack, not just the revenue line.
+- `INS-260403-A752` Small churn assumption errors cascade through interconnected financial models to produce dramatically different runway outcomes.
+- `INS-260403-12B4` Minor metric misestimates in churn and ARPU compound over 12 months into massive revenue shortfalls.
+- `INS-260405-278F` The widespread belief that early-stage VCs don't care about financials is wrong — they use them to probe founder thinking on unit economics and capital deployment.
+- `INS-260403-6CB4` Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.

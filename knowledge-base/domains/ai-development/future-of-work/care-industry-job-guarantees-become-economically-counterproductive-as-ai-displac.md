@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Democratic economic policy in the age of AI
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/democratic-economic-policy-in-the'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Using subsidized care industries as employment sinks for AI-displaced
@@ -65,6 +53,13 @@ stance: >-
   Promising displaced workers jobs in health care and education functions as
   expensive make-work rather than genuine economic reallocation when those
   sectors are themselves subsidized to absorb excess labor
+related:
+  - INS-260327-10E8
+  - PRI-260328-D68F
+  - INS-260405-10DF
+  - INS-260327-E874
+  - INS-260327-5690
+  - INS-260403-E9E0
 ---
 The traditional progressive response to automation anxiety is to point workers toward 'human-centered' industries — health care, education, child care — that seem resistant to AI. But when governments subsidize these sectors specifically to absorb displaced workers, a destructive dynamic emerges: subsidies drive up provider prices (Baumol's cost disease accelerated by policy), the care becomes more expensive even as it nominally becomes more accessible, and the workers themselves are arguably on disguised welfare.
 

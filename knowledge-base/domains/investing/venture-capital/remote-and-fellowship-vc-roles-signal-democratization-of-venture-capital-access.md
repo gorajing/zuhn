@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The End of the VC Market\U0001F4C9, How to Start Your Own VC Fund\U0001F4A1, The Future of Work \U0001F4BB"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-end-of-the-vc-market-how-to-start'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Remote VC roles, scout programs, and fellowships are dismantling the
@@ -58,6 +48,12 @@ stance: >-
   The proliferation of remote VC positions, scout programs, and fellowships is
   lowering geographic and experience barriers to entering venture capital,
   fundamentally changing who becomes a VC.
+related:
+  - INS-260402-180C
+  - INS-260404-7295
+  - INS-260403-8441
+  - INS-260405-2F43
+  - INS-260404-DFE8
 ---
 The job listings in this roundup include multiple remote VC positions (Topology Ventures, GetFresh Ventures, Serena, The Aligned Fund) alongside traditional hub-based roles and explicit fellowship programs (Forbion). This wasn't the norm even five years ago when VC recruiting happened almost exclusively through warm intros within SF/NYC/London networks.
 

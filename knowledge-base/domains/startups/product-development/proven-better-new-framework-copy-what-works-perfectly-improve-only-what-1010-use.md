@@ -50,11 +50,9 @@ related:
   - INS-260323-E1BE
   - PRI-260328-FBB3
   - INS-260327-3A71
+  - INS-260403-CD51
   - PRI-260328-0BE1
-  - INS-260330-059C
-  - INS-260327-A25E
   - INS-260330-B8CC
-  - INS-260404-AB0F
 stance: >-
   Pincus's product religion: start by copying every pixel of what's proven to
   work, only change what existing users unanimously confirm is better, th...

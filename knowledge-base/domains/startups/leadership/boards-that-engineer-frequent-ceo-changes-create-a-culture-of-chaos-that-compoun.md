@@ -53,9 +53,10 @@ stance: >-
 related:
   - INS-260324-C882
   - INS-260323-B0EA
-  - INS-260327-889F
   - PRI-260328-5E58
+  - INS-260327-889F
   - PRI-260328-E1CE
+  - INS-260403-47F1
 ---
 Twitter's board was the one constant across all four CEO tenures, and it was consistently destructive. The board blessed Ev's coup against Jack, then backed Jack's scheme to replace Ev with Dick, then allowed Dick to flounder before bringing Jack back. Each transition came with a complete strategic reset: Jack's SMS focus, Ev's product-driven growth, Dick's business-minded reactionary approach, Jack's second coming with ephemeral content.
 

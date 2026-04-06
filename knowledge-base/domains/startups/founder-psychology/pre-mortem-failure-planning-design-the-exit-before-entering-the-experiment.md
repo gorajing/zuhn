@@ -48,36 +48,36 @@ stance: >-
   than planning for upside.
 related:
   - INS-260323-ACD9
-  - INS-260325-0C4A
-  - INS-260329-D062
-  - INS-260403-3DF3
-  - INS-260403-B1F2
-  - INS-260329-8868
   - PRI-260320-A2C7
   - INS-260327-3049
-  - INS-260328-0932
+  - INS-260329-D062
   - INS-260329-6B87
+  - INS-260403-B008
+  - INS-260403-803A
+  - INS-260403-63E2
+  - INS-260405-670E
+  - INS-260325-0C4A
 evidence:
   - id: INS-260321-C3E6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-0932
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-CCC3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-03B5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-DF2C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E982
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-ACD9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-96BA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6B87
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-670E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The video argues that since failure is around every corner when trying anything interesting, the smart move is to plan for failure before it happens. Before starting a new job, product, hobby, or relationship, give thought to three things: what you will do if it does not work out, how to minimize the downside, and what feedback mechanisms will tell you whether things are going well.
 

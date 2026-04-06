@@ -46,16 +46,16 @@ resolutions:
     just humility — it preserves the credibility of your actual expertise and
     creates space for learning from those who genuinely know more.
 related:
-  - INS-260323-9E75
   - INS-260405-E06B
   - PRI-260405-F5A0
   - INS-260403-74E5
   - INS-260403-F8B5
   - INS-260330-63B8
-  - INS-260323-FCA7
   - INS-260326-2E56
-  - INS-260327-E75F
   - INS-260327-8DDE
+  - INS-260330-F6DB
+  - INS-260330-5B0C
+  - INS-260404-F834
 stance: >-
   Malice identifies a toxic cultural pattern: people feel compelled to have and
   share opinions on everything, even topics they know almost nothing ab...

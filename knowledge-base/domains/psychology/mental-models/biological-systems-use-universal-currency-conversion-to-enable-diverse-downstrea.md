@@ -52,21 +52,21 @@ stance: >-
   principle across biological, economic, and computational systems.
 related:
   - INS-260330-1298
-  - INS-260404-0214
-  - INS-260404-F908
   - INS-260405-6C1F
-  - INS-260404-F8E6
+  - INS-260403-5C74
+  - INS-260325-81BD
+  - INS-260403-EFE6
 evidence:
   - id: INS-260330-E8CF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-81BD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-C19C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-20FD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-DDB5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-F908
     type: REFINES
     classified_at: '2026-04-06'

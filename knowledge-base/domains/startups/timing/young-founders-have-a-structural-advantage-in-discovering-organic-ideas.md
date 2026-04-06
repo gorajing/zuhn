@@ -45,11 +45,12 @@ stance: >-
   anyone else.
 related:
   - INS-260327-4754
+  - INS-260403-CE70
   - INS-260327-D2F3
   - INS-260330-BEE7
   - INS-260403-B957
-  - INS-260403-816B
-  - INS-260404-8A02
+  - INS-260403-78AD
+  - INS-260404-67F8
 ---
 Graham argues that while young founders are worse at made-up ideas (which require experience to predict others' needs), they have a structural edge in organic ideas. Being at the forefront of technology adoption means they encounter new categories of brokenness first — the gap between what a new technology could do and what it currently does.
 

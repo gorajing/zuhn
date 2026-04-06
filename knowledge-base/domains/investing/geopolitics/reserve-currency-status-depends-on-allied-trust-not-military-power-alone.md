@@ -54,15 +54,16 @@ stance: >-
   nations' willingness to participate in the US-led financial order, which
   erodes when the US demonstrates purely transactional behavior toward allies.
 related:
+  - INS-260403-D00D
+  - INS-260403-8C41
   - INS-260403-3912
+  - INS-260403-B01D
   - INS-260403-A87D
-  - INS-260322-96F1
-  - INS-260327-9BE8
-  - INS-260329-9EFA
-  - INS-260403-3518
+  - INS-260403-62A9
+  - INS-260404-95CA
 evidence:
   - id: INS-260329-DFDD
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Goldberg makes the counterintuitive argument that the biggest threat to dollar reserve status isn't China's financial ambitions but rather the US alienating its own allies. He points out that 'China doesn't want the dollar to be the reserve currency' but 'Europeans and the Japanese go along with it because they're our allies and they're part of the international order we created.'
 

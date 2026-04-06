@@ -50,9 +50,9 @@ resolutions:
 related:
   - PRI-260323-400D
   - INS-260323-A430
+  - INS-260403-62E0
   - INS-260330-423B
   - INS-260327-A4E3
-  - INS-260402-70FD
 stance: >-
   African-Americans, Jewish Americans, gay Americans, and Soviet emigres are all
   overrepresented in comedy not from innate talent but from the outsid...

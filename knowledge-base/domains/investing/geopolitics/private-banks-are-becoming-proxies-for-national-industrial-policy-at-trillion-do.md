@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: '$1.5T Bet On America, Google''s AI Biology Breakthrough, And More.'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-157'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     JPMorgan's $1.5T commitment signals that private banks are assuming
@@ -62,6 +52,12 @@ stance: >-
   private-sector megabanks will fill the gap by aligning their balance sheets
   with national security priorities, effectively becoming state-adjacent capital
   allocators.
+related:
+  - INS-260330-516E
+  - INS-260405-4D81
+  - INS-260323-A3DB
+  - INS-260321-52EF
+  - INS-260323-8893
 ---
 JPMorgan Chase announced a $1.5 trillion decade-long financing plan targeting supply chain resilience, defense tech, energy independence, and frontier technologies like AI and quantum computing. This is not traditional lending — it is a bank deliberately shaping the industrial cycle by channeling its balance-sheet power toward public priorities.
 

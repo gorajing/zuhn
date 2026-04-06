@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Why does America feel worse than other countries? Crime.
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/why-does-america-feel-worse-than'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When crime policy becomes entangled with racial justice framing, pragmatic
@@ -61,6 +49,14 @@ stance: >-
   Progressive framing of crime enforcement as inherently racist transforms a
   solvable policy problem into a moral taboo, preventing the pragmatic
   approaches that peer nations routinely apply.
+related:
+  - INS-260322-888D
+  - INS-260322-25B4
+  - INS-260330-0F49
+  - INS-260330-F8B6
+  - INS-260403-EEAF
+  - INS-260403-D950
+  - INS-260402-A2F1
 ---
 The article documents how calls for public order are instantly met with accusations of racism and classism, even when evidence strongly supports policing's effectiveness at reducing crime. The ACLU opposes adding police despite solid evidence that more cops reduce crime. Progressive prosecutors reduce prosecutions. This is the sacred-value dynamic: once an issue is framed in moral-identity terms, empirical evidence about what works becomes irrelevant.
 

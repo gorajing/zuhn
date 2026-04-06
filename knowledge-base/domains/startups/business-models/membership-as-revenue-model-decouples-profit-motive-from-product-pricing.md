@@ -55,15 +55,14 @@ stance: >-
   transactional models cannot replicate
 related:
   - INS-260322-3259
-  - INS-260327-176D
   - INS-260403-3F5F
   - INS-260403-C1A5
   - INS-260404-B8AE
   - INS-260404-EAA7
-  - INS-260404-6751
   - INS-260405-48EC
   - INS-260405-8884
   - INS-260405-D4F4
+  - INS-260329-C409
 evidence:
   - id: INS-260329-C409
     type: CONTRADICTS

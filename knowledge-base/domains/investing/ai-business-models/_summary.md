@@ -1,24 +1,35 @@
 # Topic: ai-business-models
 
-> 41 insights
+> 69 insights
 
+- `INS-260403-13AF` [high] Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
 - `INS-260323-1477` [high] Companies like OpenAI are secretly integrating classical symbolic tools (code interpreters, Python) while telling investors they're just scaling neural networks.
+- `INS-260403-FCB6` [high] AI labs are using structured finance vehicles to fund massive GPU buildouts, turning compute hardware into securitized financial assets.
 - `INS-260322-D079` [high] All inputs to AI are falling in cost faster than Moore's law predicted for chips, creating hyperdeflation in per-unit intelligence costs that will drive enormous elastic demand growth.
 - `INS-260327-0762` [high] Senior executives and management consultants who championed AI adoption are discovering they're the most automatable roles - analytical thinking is more structured than manual labor.
+- `INS-260402-5FE1` [high] Most people keeping jobs with small raises while AI infrastructure owners become quadrillionaires is the likelier and more politically explosive outcome than mass unemployment.
 - `INS-260322-5790` [high] AI model input costs have declined 99%+ in two years (faster than Moore's law) while quality doubles every 7 months — meaning today's thin margins on AI apps will likely expand dramatically as long as model competition persists.
 - `INS-260327-9431` [high] For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
 - `INS-260322-6DFC` [high] Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
+- `INS-260403-1407` [high] Information processing equipment and software investment contributed ~2.1 percentage points to US GDP's 3.8% annualized growth in H1 2025.
+- `INS-260323-7B63` [high] AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
 - `INS-260327-6B02` [high] Data center buildouts provide tens of thousands of high-paying jobs and stock market gains drive consumer spending, making the AI economy self-sustaining regardless of whether AI delivers on its promises.
 - `INS-260327-16A1` [high] $400B+ in annual AI data center spending provides jobs and wealth effects that sustain the economy, while simultaneously building the automation infrastructure that threatens those same jobs.
 - `INS-260323-F753` [high] Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260323-750A` [high] Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
 - `INS-260329-3AE5` [high] AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260329-C754` [high] Cloud's on-demand/spot/reserved pricing tiers create an economic moat for startups that can optimize compute costs without upfront capital.
 - `INS-260327-3A81` [high] If AI fails we lose jobs from the economic collapse of wasted investment; if AI succeeds we lose jobs from automation - the economy has placed an irreversible bet on a technology whose success and failure both lead to displacement.
 - `INS-260327-A22D` [high] After weeks of dialing in AI agents on Claude, enterprises would rather pay more for tokens than invest in requalifying a different model.
 - `INS-260327-E1EB` [high] OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
 - `INS-260327-7265` [high] Every tech hype cycle is sustained by Fortune 500 executives who can't afford to be caught without a strategy -- no CEO wanted to admit they weren't 'data-driven' during big data, and now no CEO dares say they don't have an 'AI strategy.'
+- `INS-260404-183A` [high] Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.
+- `INS-260404-2F49` [high] Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
+- `INS-260404-4F1B` [high] Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
+- `INS-260403-CCED` [high] Microsoft and Meta both beat revenue expectations but saw stock declines because investors focused on escalating AI capex eating into margins, while Alphabet and Amazon were rewarded for combining growth with execution efficiency.
 - `INS-260327-CFE5` [high] A company can miss earnings targets and still surge 30% if it tells a compelling AI story, revealing that markets are pricing narrative not performance.
+- `INS-260403-A691` [high] Oracle's $300B OpenAI deal dwarfs OpenAI's $12.7B projected revenue, concentrating RPO risk in a single customer.
 - `INS-260327-505A` [high] Oracle gained more market cap in one day than all of McDonald's despite missing earnings targets, driven by AI promises, TikTok control, and deep political connections rather than product merit.
 - `INS-260323-8544` [high] In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
 - `INS-260325-FD14` [high] TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
@@ -30,16 +41,33 @@
 - `INS-260327-643C` [high] Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260326-6B98` [high] AI investing requires picking winners not sectors because the aggregate bet looks terrible while the best companies grow at rates that break all models.
 - `INS-260327-EA4E` [high] Facebook and Google built genuine data moats through organic adoption and network effects, but consumer startups that spent millions on paid acquisition to 'collect data' never achieved the same compounding advantage because their data was purchased, not earned.
+- `INS-260327-3B91` [high] The market has indiscriminately punished all software stocks, but moat-rich companies like Atlassian are being massively oversold while moat-poor ones like Monday may be fairly priced.
 - `INS-260327-33E0` [high] Bezos' $100B fund is the 'buy Walmart' play of the AI era — lower upside than building from zero but accessible to billionaires who have more money than time.
 - `INS-260322-C472` [high] For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260327-DBAD` [high] A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
 - `INS-260322-2D57` [medium] Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management.
 - `INS-260327-8773` [medium] When everyone agrees AI is a bubble, people try to ride it and exit before the pop rather than avoiding it entirely, which paradoxically makes the eventual correction more violent.
+- `INS-260403-7F67` [medium] AI's unpredictability beyond short time horizons may invalidate the long-duration assumptions that underpin traditional equity pricing.
+- `INS-260403-ABB7` [medium] AI companies operate at structurally lower margins than SaaS, requiring different growth levers to achieve comparable profitability.
 - `INS-260322-BBED` [medium] AI's economic impact and design space exceeds the internet era, meaning more companies will reach $1B+ and $10B+ valuations than in previous technology cycles.
+- `INS-260404-2F75` [medium] AI forces investors to rethink sector boundaries and valuation frameworks rather than just applying existing models to AI companies.
 - `INS-260322-90E7` [medium] AI roll-up strategies succeed when you buy one company with blue-chip clients as your entry point for national AI deployment, not when you serially acquire local businesses.
 - `INS-260327-40E3` [medium] Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
 - `INS-260329-4605` [medium] Builder-investors who deploy templatized operational playbooks into portfolio companies generate more predictable returns than bettor-investors who try to find mispriced assets.
 - `INS-260329-33C7` [medium] Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260322-B641` [medium] In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
+- `INS-260403-7C8F` [medium] When an entire asset class systematically underfunds higher-performing founders due to demographic pattern-matching, the resulting mispricing is a textbook arbitrage opportunity for contrarian investors.
+- `INS-260404-C6AB` [medium] Effective early-stage AI investing requires a structured framework at the $100-500M fund scale, as generalist AI exposure fails to differentiate.
+- `INS-260404-F62A` [medium] Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
+- `INS-260403-56BB` [medium] Microsoft relinquished veto powers and right-of-first-refusal in exchange for extended IP rights through 2032 including post-AGI models, signaling that guaranteed model access is worth more than governance control.
+- `INS-260404-D654` [medium] Tesla's $1T pay package only vests if the company hits $8.5T valuation through AI, robotics, and energy milestones — aligning Musk's payout with transformative value creation.
+- `INS-260403-88F2` [medium] OpenAI's conversion to a for-profit PBC at $500B valuation, with nonprofit retaining control and a $25B commitment, establishes a new governance playbook for AI companies balancing mission with scale.
 - `INS-260330-6411` [medium] ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
+- `INS-260403-36EC` [medium] SaaS business models that charge for access to human-engineered software are being repriced by markets as AI makes equivalent software trivially cheap to produce.
+- `INS-260403-3106` [medium] Only a handful of public SaaS companies still command premium revenue multiples, with survivors owning infrastructure layers and solving mission-critical problems.
+- `INS-260403-1337` [medium] Sequoia views AI as an industrial revolution built on cognition instead of machinery, predicting it will mint the largest fortunes in modern history.
 - `INS-260329-196A` [medium] Small business acquisitions offer cash-flow returns with negotiable terms that public markets cannot match.
+- `INS-260403-62D0` [medium] A sovereign wealth fund that owns broad market shares is politically harder to dismantle than corporate tax rates, which get cut with every administration change.
+- `INS-260405-5881` [medium] The trillion-dollar AI investment thesis is contingent on finding a killer app that doesn't yet exist.
+- `INS-260402-180C` [medium] Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
+- `INS-260330-F9CA` [medium] Facebook scrapped WhatsApp's $1/year fee because a user's behavioral data, contact graph, and cross-platform identity linkage is worth far more than $1 annually to an advertising network.

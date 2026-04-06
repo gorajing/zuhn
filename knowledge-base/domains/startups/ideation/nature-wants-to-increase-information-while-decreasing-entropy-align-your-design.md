@@ -46,11 +46,11 @@ resolutions:
     best systems become more valuable as they accumulate information.
 related:
   - INS-260323-8555
+  - INS-260405-DA33
   - INS-260330-7FAC
   - INS-260330-697F
+  - INS-260326-2D41
   - PRI-260405-9504
-  - PRI-260323-0654
-  - INS-260325-B234
 stance: >-
   Nature's fundamental drive is to increase information while decreasing entropy
   — this principle can guide product and system design.

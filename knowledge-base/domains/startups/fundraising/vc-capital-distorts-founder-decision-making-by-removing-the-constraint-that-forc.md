@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Megarounds make a comeback\U0001F4B0, The State of GenAI\U0001F916, Doing Diligence Well\U0001F575️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/megarounds-make-a-comeback-the-state'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Simply asking 'what would a bootstrapped company do?' cuts through VC-funded
@@ -60,6 +50,12 @@ stance: >-
   Raising venture capital makes founders worse at unit economics and
   prioritization because it removes the resource scarcity that generates
   disciplined thinking.
+related:
+  - INS-260323-8893
+  - INS-260404-AFE6
+  - INS-260405-8080
+  - INS-260322-0C91
+  - INS-260405-D098
 ---
 The framing from OnlyCFO — 'VC money makes you dumb' — captures a structural problem: when capital is abundant, founders lose the forcing function that makes hard choices obvious. Bootstrapped companies can't afford to run three experiments simultaneously, build features with no revenue path, or hire ahead of need. That constraint is a feature, not a bug — it aligns action with what actually matters.
 

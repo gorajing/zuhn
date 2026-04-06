@@ -53,6 +53,7 @@ related:
   - INS-260327-9E9D
   - INS-260330-C9CA
   - INS-260330-7981
+  - INS-260327-034A
 stance: >-
   Emerging research in metabolic psychiatry shows that conditions like
   depression, epilepsy, and even schizophrenia often have metabolic root causes

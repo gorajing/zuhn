@@ -41,9 +41,6 @@ stance: >-
   dramatically easier in the AI era because you can simply look at tasks people
   currently pay other humans to perform.
 related:
-  - INS-260324-988E
-  - INS-260321-4B38
-  - INS-260323-09E4
   - INS-260330-6C68
   - INS-260403-AEB3
   - INS-260327-E2BC
@@ -51,6 +48,9 @@ related:
   - INS-260403-C610
   - INS-260327-0F42
   - INS-260327-F9C3
+  - INS-260327-1B60
+  - INS-260328-6E7A
+  - INS-260328-9FC0
 evidence:
   - id: INS-260327-F9C3
     type: SUPPORTS

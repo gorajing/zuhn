@@ -55,9 +55,10 @@ stance: >-
 related:
   - INS-260320-10E8
   - INS-260327-C782
+  - INS-260330-051F
   - INS-260330-F41D
   - INS-260330-8BB4
-  - INS-260330-3170
+  - INS-260403-708E
 evidence:
   - id: INS-260320-10E8
     type: TRANSFERS_TO

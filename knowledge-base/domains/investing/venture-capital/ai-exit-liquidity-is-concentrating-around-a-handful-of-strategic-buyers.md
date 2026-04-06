@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: Why Nvidia Paid $20B for a Small Startup
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/nvidia-groq-deal-venture-capital'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Firms like Tiger Global and Insight Partners have had multiple portfolio
@@ -60,6 +50,17 @@ stance: >-
   the balance sheet and urgency to act, making venture outcomes increasingly
   dependent on alignment with specific buyer pressure points rather than broad
   market conditions.
+related:
+  - INS-260327-0E28
+  - INS-260403-5554
+  - INS-260405-77C9
+  - INS-260403-8441
+  - INS-260404-DBD1
+  - INS-260403-7045
+  - INS-260405-5514
+  - INS-260403-E294
+  - INS-260405-863C
+  - INS-260404-F589
 ---
 The Nvidia-Groq deal fits a broader pattern where Nvidia has become one of the most consistent sources of real liquidity in AI infrastructure. This isn't a wide-open exit market — outcomes increasingly cluster around a handful of strategic buyers. Firms like Tiger Global and Insight Partners have each had multiple portfolio companies acquired by Nvidia recently.
 

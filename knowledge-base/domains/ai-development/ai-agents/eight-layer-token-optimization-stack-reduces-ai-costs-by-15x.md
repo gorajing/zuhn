@@ -52,8 +52,9 @@ related:
   - PRI-260320-233B
   - PRI-260324-12CF
   - INS-260327-DFF1
-  - INS-260321-18D0
+  - PRI-260405-B144
   - INS-260329-27A7
+  - INS-260405-5E6B
 stance: An eight-layer optimization stack
 evidence:
   - id: INS-260327-DFF0

@@ -53,38 +53,36 @@ stance: >-
   Extracting energy in many small steps through sequential protein complexes is
   more efficient and safer than single-step energy conversion
 related:
-  - INS-260330-85D7
-  - INS-260330-0017
-  - INS-260330-4B45
-  - INS-260404-2A07
-  - INS-260404-1A3A
+  - INS-260330-F671
+  - INS-260330-4D0E
   - INS-260403-D2FD
+  - INS-260404-1A3A
   - INS-260404-CDD2
-  - INS-260404-596E
-  - INS-260404-64E2
+  - INS-260330-85D7
+  - INS-260330-2C71
 evidence:
   - id: INS-260330-85D7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F671
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4D0E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0017
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-498B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-2A07
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-1A3A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-CDD2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-A08A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D2FD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-596E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 When a photon excites an electron in PSII, that electron holds significant energy. If released all at once, most would dissipate as heat — useless to the organism. Instead, the electron passes through a chain of protein complexes (PSII → cytochrome complex → PSI), losing energy at each step in controlled amounts that drive useful work: pumping protons, generating ATP, producing NADPH.
 

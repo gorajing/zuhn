@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'America must embrace the Electric Age, or fall behind'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/america-must-embrace-the-electric'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Gas stations depend on a minimum customer base; as EV adoption grows,
@@ -60,6 +48,12 @@ stance: >-
   Once EV adoption crosses a threshold, gas station closures create a
   self-reinforcing loop that flips the entire market from combustion to electric
   faster than linear projections suggest.
+related:
+  - INS-260404-3714
+  - INS-260327-A458
+  - PRI-260328-A4AC
+  - INS-260330-DE2B
+  - INS-260405-62F8
 ---
 The EV transition follows network-effect dynamics that work in reverse for the incumbent technology. Gas stations require a minimum volume of customers to remain profitable. As EV adoption increases and gasoline demand drops, marginal stations close. Each closure makes owning a gas car slightly less convenient, pushing more buyers toward EVs, which causes more closures.
 

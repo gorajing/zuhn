@@ -46,12 +46,11 @@ stance: >-
   commitments, but most haven't tested whether board membership actually
   protects returns
 related:
-  - INS-260330-1FE2
   - INS-260321-7109
   - INS-260330-7220
   - INS-260403-AFCD
+  - INS-260403-B9B8
   - PRI-260328-6A8D
-  - INS-260321-D484
 evidence:
   - id: INS-260321-D484
     type: TRANSFERS_TO

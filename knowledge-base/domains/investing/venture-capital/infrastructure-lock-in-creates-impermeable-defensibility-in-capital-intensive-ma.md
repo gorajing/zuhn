@@ -52,12 +52,12 @@ stance: >-
   Once a launch company achieves reusability and captures market share, the
   capital intensity and technical complexity make displacement nearly impossible
 related:
-  - INS-260403-8E25
   - PRI-260328-4CC0
   - PRI-260328-43F1
+  - INS-260404-5AC8
   - INS-260330-6A47
   - PRI-260403-C337
-  - PRI-260328-0E23
+  - INS-260403-80A0
 evidence:
   - id: INS-260330-6A47
     type: SUPPORTS

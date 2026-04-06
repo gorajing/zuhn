@@ -40,10 +40,10 @@ stance: >-
   Founder niceness is a strategically rational choice in startups because the
   compounding math makes rapacity unnecessary
 related:
+  - INS-260403-227D
+  - INS-260403-4227
+  - INS-260403-7881
   - PRI-260403-26B9
   - PRI-260405-2A11
-  - PRI-260405-5912
-  - PRI-260403-5C44
-  - PRI-260405-6216
 ---
 Many founders worry that being soft-hearted is a competitive disadvantage, sometimes believing they need 'a dose of sociopath-ness.' Graham shows this fear is unfounded in startups specifically because startup growth typically comes from making something so great that people recommend it to friends. Rapacity doesn't help build great products — it probably hurts by degrading user experience and goodwill. The founders who refuse acquisition offers and treat their company as a creative project, rather than a money-extraction machine, tend to be the most successful. This reframes niceness from a liability into a feature of the startup growth model.

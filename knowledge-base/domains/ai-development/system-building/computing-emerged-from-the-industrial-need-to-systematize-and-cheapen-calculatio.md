@@ -51,30 +51,31 @@ stance: >-
   of the Industrial Revolution's relentless drive to divide labor, reduce costs,
   and systematize repetitive work.
 related:
-  - PRI-260328-5D9E
-  - INS-260402-F479
-  - INS-260321-33FC
-  - INS-260327-E63E
-  - PRI-260328-C528
   - INS-260325-2CC7
+  - INS-260321-33FC
   - INS-260327-500C
   - INS-260327-7157
+  - INS-260327-E63E
+  - PRI-260328-5D9E
   - INS-260330-FB9C
+  - PRI-260328-C528
+  - INS-260404-7325
+  - INS-260405-BE58
 evidence:
   - id: INS-260321-33FC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-E63E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-500C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-3049
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-7157
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-FB9C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The earliest computers were humans — groups of people performing divided calculation labor to produce nautical almanacs, survey nations, and track celestial objects. The first computation of Halley's Comet return (late 18th century) used divided labor: two people tracked Earth and Jupiter while a third tracked the comet. This division of labor is the same principle Adam Smith described for pin manufacturing.
 

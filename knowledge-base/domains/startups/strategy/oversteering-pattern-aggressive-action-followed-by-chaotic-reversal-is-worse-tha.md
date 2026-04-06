@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'No, China doesn''t plan 1000 years ahead'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/no-china-doesnt-plan-1000-years-ahead'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     China's pattern of dramatic action followed by rapid reversal — '30-year
@@ -62,6 +50,12 @@ stance: >-
   Organizations that make dramatic policy shifts and then rapidly reverse course
   when consequences emerge consistently underperform those that make smaller,
   iterative adjustments.
+related:
+  - PRI-260403-35FE
+  - INS-260403-C695
+  - PRI-260405-6A4E
+  - INS-260403-2183
+  - INS-260323-9B68
 ---
 Smith identifies a recurring pattern in Chinese governance: aggressive, dramatic action that ignores long-term consequences, followed by rapid reversal once those consequences become clear. The one-child policy went too far and lasted too long; now China frantically promotes three children. Real estate was used as an economic shock absorber for decades; now Xi crushes the sector, causing economic chaos. Industrial crackdowns swing between extremes.
 

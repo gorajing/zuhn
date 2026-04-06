@@ -47,10 +47,11 @@ stance: >-
   avoiding exposure to challenging ideas.
 related:
   - INS-260327-48A5
+  - INS-260403-FC2E
   - INS-260330-24E0
   - INS-260330-87A0
   - INS-260404-E5D9
-  - INS-260327-D7E6
+  - INS-260403-1FB1
 evidence:
   - id: INS-260330-24E0
     type: TRANSFERS_TO

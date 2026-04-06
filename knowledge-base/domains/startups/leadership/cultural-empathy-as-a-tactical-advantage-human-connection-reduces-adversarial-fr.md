@@ -54,10 +54,10 @@ resolutions:
 related:
   - INS-260325-11E4
   - PRI-260328-82A2
+  - INS-260403-958C
   - INS-260330-63FE
   - INS-260330-2EB0
   - INS-260327-8BFF
-  - INS-260330-750A
 stance: >-
   Hawaiian and Polynesian soldiers instinctively built relationships with Iraqi
   locals

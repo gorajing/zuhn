@@ -43,11 +43,11 @@ stance: >-
   existing revenue model is temporarily inflated by market irrationality.
 related:
   - INS-260321-F446
+  - INS-260403-C314
   - INS-260403-599B
+  - INS-260405-4AAD
+  - INS-260405-AA2E
   - PRI-260323-1F9C
-  - INS-260323-FFE8
-  - INS-260323-4D4E
-  - INS-260402-7DCC
 evidence:
   - id: INS-260323-4D4E
     type: CHALLENGES

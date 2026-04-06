@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Does anyone know why we're still doing tariffs?
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/does-anyone-know-why-were-still-doing'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Ever-shifting tariff regimes — imposing, exempting, reimposing under
@@ -64,6 +52,17 @@ stance: >-
   The unpredictability of which tariffs will be imposed, exempted, or reversed
   creates planning paralysis that damages business investment more than any
   specific tariff rate.
+related:
+  - INS-260322-C5BD
+  - INS-260324-2244
+  - INS-260327-2BAD
+  - INS-260330-247C
+  - INS-260330-AFAD
+  - INS-260330-A192
+  - INS-260330-1183
+  - INS-260330-2332
+  - INS-260403-D5DE
+  - INS-260403-D5B0
 ---
 The article describes a regime where tariffs are imposed under IEEPA, struck down by SCOTUS, reimposed under Section 122 (temporary, 5-month authority), with the expectation of renewal, legal challenges, and further authority-shopping. Meanwhile, specific products and countries receive ad hoc exemptions that can be granted or revoked. Manufacturing construction spending fell not just because of tariff costs but because no business can commit to a multi-year factory investment when the tariff landscape shifts monthly.
 

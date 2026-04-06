@@ -46,10 +46,10 @@ stance: >-
   our present actions.
 related:
   - INS-260327-FD99
+  - INS-260327-98DE
   - INS-260325-922D
   - PRI-260323-1CF9
-  - INS-260403-B6D9
-  - PRI-260328-BF67
+  - INS-260404-4E1A
 evidence:
   - id: INS-260327-98DE
     type: TRANSFERS_TO

@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: A product manager’s guide to web3
-    author:
-      - '@type': Person
-        name: Jason Shah
-        url: 'https://substack.com/@0xshah'
-        description: 'Web3 product leader (https://twitter.com/0xShah)'
-        identifier: 'user:20101102'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!4ex9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c48565c-a0f8-4e64-8177-7841409f326e_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!4ex9!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c48565c-a0f8-4e64-8177-7841409f326e_400x400.jpeg
+    author: Jason Shah
     url: 'https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Open-source code plus portable user data means web3 projects cannot rely on
@@ -62,6 +52,12 @@ stance: >-
   When code is open-source and user data is portable, the only sustainable
   competitive advantage is continuous community value creation, because
   intellectual property and switching costs both collapse to zero.
+related:
+  - INS-260405-1CAA
+  - INS-260404-21E6
+  - INS-260330-5747
+  - PRI-260405-2A95
+  - INS-260405-B76E
 ---
 Web3's open-source and composable nature creates a competitive environment fundamentally different from web2. Sushiswap's vampire attack on Uniswap demonstrated that any product can be forked instantly, and users can migrate with their data. This eliminates two of the most powerful web2 moats: proprietary technology and high switching costs.
 

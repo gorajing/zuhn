@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: 4 Stages of Go-To-Market Strategy
-    author:
-      - '@type': Person
-        name: Maja Voje
-        url: 'https://substack.com/@majavoje'
-        description: >-
-          Maja Voje helps companies build and execute winning go-to-market
-          strategies. She is a best-selling author of Go-To-Market Strategist.
-          In her 15 years of experience, she advised Google, Bayer, Heineken,
-          and helped startups scale to millions in ARR.
-        identifier: 'user:9381265'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Ulqs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136595de-9618-473c-b2d9-3346b8518bdf_3000x3000.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Ulqs!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136595de-9618-473c-b2d9-3346b8518bdf_3000x3000.jpeg
+    author: Maja Voje
     url: 'https://www.thevccorner.com/p/4-stages-of-go-to-market-strategy'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Undercutting competitors on price signals you have no differentiated value
@@ -64,6 +50,12 @@ resolutions:
 stance: >-
   Competing on slight price undercutting signals the absence of a real strategy
   and guarantees a race to the bottom that destroys margins for everyone.
+related:
+  - INS-260402-FFB2
+  - INS-260404-A520
+  - PRI-260403-2B12
+  - PRI-260405-6216
+  - INS-260405-28DF
 ---
 Price-based competition is listed as one of the biggest GTM mistakes because it reveals a fundamental strategic vacuum. If the only reason a customer would choose you is that you're slightly cheaper, you haven't identified a unique strength to play on or a competitor weakness to exploit. You've outsourced your positioning to their pricing decisions.
 

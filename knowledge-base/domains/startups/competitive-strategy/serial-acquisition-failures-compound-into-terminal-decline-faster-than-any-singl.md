@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The Story of the Biggest & Longest War in Tech: An $831B Fail \U0001F4A5"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-story-of-the-biggest-and-longest'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Yahoo's serial misses — Google ($3B), Facebook ($1.1B), Microsoft ($46B
@@ -61,6 +51,13 @@ stance: >-
   Missing one acquisition opportunity is survivable, but a pattern of missed
   acquisitions signals a systemic decision-making failure that accelerates
   organizational decline
+related:
+  - INS-260403-AAC8
+  - INS-260403-22BB
+  - INS-260330-8326
+  - INS-260403-CCED
+  - INS-260330-9933
+  - INS-260405-77C9
 ---
 Yahoo's decline wasn't caused by any single missed deal — it was the compounding effect of repeatedly making the same category of error. Passing on Google in 2002 was costly but survivable. But then passing on Facebook in 2006 (over a $100M gap), rejecting Microsoft's $46B buyout in 2008, and choosing Tumblr over Netflix in 2013 created a pattern where each miss narrowed Yahoo's strategic options while competitors grew exponentially.
 

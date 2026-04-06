@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Hidden VC Fund Secrets Every Founder Should Know
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/hidden-venture-capital-fund-structure-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Continuation funds reset carry and can change exit timing pressure; NAV
@@ -60,6 +50,13 @@ stance: >-
   When a VC uses NAV facilities (portfolio-backed loans) or moves your company
   into a continuation fund, the economic incentives around exit timing and
   governance materially change in ways that may not favor the founder.
+related:
+  - INS-260403-0BD4
+  - INS-260403-3C2D
+  - INS-260404-707C
+  - INS-260403-2330
+  - INS-260403-CF1D
+  - INS-260403-C377
 ---
 NAV facilities are loans secured by a fund's portfolio value, giving VCs with limited dry powder the ability to still write checks. While this creates flexibility, it also introduces leverage and opacity — founders should ask whether their VC uses NAV facilities, under what limits, and whether covenants could affect portfolio support.
 

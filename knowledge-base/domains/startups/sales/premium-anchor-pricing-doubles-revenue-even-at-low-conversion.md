@@ -47,10 +47,10 @@ stance: >-
   outsized profit at near-100% margin.
 related:
   - INS-260329-825D
+  - INS-260404-6D22
   - PRI-260328-6A8D
+  - INS-260404-7D4D
   - INS-260329-F6E1
-  - INS-260330-2CE3
-  - INS-260403-3F5F
 ---
 Hormozi demonstrates the math: if 100 buyers see a $100 base and a $1,000 premium, and 10% choose premium, the premium tier generates $10,000 in pure-margin revenue versus $3,600 profit from 90 base buyers at 40% margin. Three-quarters of total profit comes from the expensive tier despite representing only 10% of volume.
 

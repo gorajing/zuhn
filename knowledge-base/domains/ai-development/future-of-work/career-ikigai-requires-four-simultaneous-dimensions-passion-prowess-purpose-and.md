@@ -55,32 +55,32 @@ related:
   - INS-260322-3CFB
   - INS-260323-7BB8
   - INS-260327-DC0B
-  - INS-260329-5891
-  - INS-260327-4739
-  - INS-260323-DA91
   - INS-260327-BF43
+  - INS-260327-4739
   - INS-260403-79E0
+  - INS-260323-DA91
+  - INS-260403-497B
 evidence:
   - id: INS-260325-636B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-3CFB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-7BB8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FE15
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-4739
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-DA91
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-BF43
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-F6B2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B87D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-79E0
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The speaker's 25-year career arc demonstrates how optimizing for fewer than four dimensions creates predictable failure modes. Profit without passion (Accenture consulting) led to misery. Passion without prowess (early labs) felt hollow. Prowess without purpose (innovation director) triggered the Peter Principle. The breakthrough came only when all four aligned simultaneously.
 

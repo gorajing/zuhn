@@ -52,10 +52,11 @@ stance: >-
   than formal rules do.
 related:
   - INS-260327-3D0F
+  - INS-260403-311C
+  - INS-260403-56BB
   - INS-260330-E2F5
-  - INS-260325-8290
+  - INS-260403-A505
   - INS-260330-1B8A
-  - PRI-260325-262C
 evidence:
   - id: INS-260325-8290
     type: TRANSFERS_TO

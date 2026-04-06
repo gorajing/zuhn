@@ -52,9 +52,9 @@ resolutions:
 related:
   - PRI-260323-68F0
   - PRI-260321-05B5
-  - INS-260322-5790
-  - PRI-260323-8E89
-  - PRI-260324-36BF
+  - PRI-260405-B144
+  - INS-260403-71E6
+  - INS-260405-7576
 stance: AI labs are already profitable on current models
 evidence:
   - id: INS-260322-5790

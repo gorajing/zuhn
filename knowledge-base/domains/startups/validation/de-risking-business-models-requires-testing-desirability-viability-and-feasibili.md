@@ -49,11 +49,11 @@ stance: >-
   three distinct dimensions rather than relying on market intuition or a single
   proof point
 related:
+  - INS-260403-3A67
   - INS-260403-DF7F
+  - INS-260404-D3C7
   - INS-260403-B1F2
   - INS-260404-BD46
-  - INS-260403-699B
-  - PRI-260323-8EEA
 ---
 The innovation risk axis in Osterwalder's framework is grounded in evidence accumulation across desirability (do customers want this?), viability (can this generate sustainable profit?), and feasibility (can we build and deliver this?). Ideas with no evidence sit at the far left; those rigorously tested across all three dimensions move right.
 

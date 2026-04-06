@@ -42,11 +42,11 @@ resolutions:
     the end goal is something worth telling friends about. This is
     narrative-driven growth rather than content-driven growth.
 related:
+  - INS-260405-D216
   - INS-260329-764E
   - INS-260327-112B
   - PRI-260322-DC5E
   - INS-260403-DDEB
-  - PRI-260323-DAB9
 stance: >-
   Frame your content around a public if-then challenge ('If I get X followers,
   I'll do Y') to create narrative tension that keeps viewers coming back.

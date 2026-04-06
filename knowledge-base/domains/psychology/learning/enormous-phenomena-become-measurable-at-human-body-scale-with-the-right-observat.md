@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-BC8E
   - INS-260330-BBEE
+  - INS-260327-6F94
   - INS-260330-D63D
   - INS-260329-A9C0
-  - INS-260330-6EE2
 evidence:
   - id: INS-260330-D63D
     type: TRANSFERS_TO

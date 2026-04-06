@@ -45,10 +45,11 @@ resolutions:
     95% failure rate.
 related:
   - INS-260323-F62A
+  - INS-260403-3059
   - INS-260403-DF73
   - INS-260405-6BBC
   - INS-260325-8B36
-  - INS-260330-DB4B
+  - INS-260403-30FF
 stance: >-
   When executives mandate 'more AI everywhere,' it often signals abdication of
   decision-making rather than strategic vision.

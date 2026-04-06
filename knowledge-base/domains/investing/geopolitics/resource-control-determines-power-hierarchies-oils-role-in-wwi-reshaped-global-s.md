@@ -52,15 +52,15 @@ stance: >-
   framework that drove every subsequent major power's Middle East strategy.
 related:
   - INS-260323-E74E
-  - INS-260323-8239
-  - INS-260323-B40C
   - INS-260321-5655
   - INS-260327-A654
   - PRI-260323-A5E8
   - PRI-260321-5BF1
   - INS-260327-A75C
   - INS-260327-E1DD
-  - INS-260329-8DDF
+  - INS-260330-4150
+  - INS-260403-7089
+  - INS-260403-BD30
 evidence:
   - id: INS-260329-8DDF
     type: TRANSFERS_TO

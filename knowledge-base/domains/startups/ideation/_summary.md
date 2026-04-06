@@ -1,11 +1,13 @@
 # Topic: ideation
 
-> 76 insights
+> 88 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
 - `INS-260403-294D` [high] The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
+- `INS-260403-2A92` [high] ChatGPT's generalist capabilities are fragmenting into specialized vertical tools, repeating the Excel-to-SaaS evolution pattern.
 - `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
+- `INS-260403-B2A8` [high] Travis's career pattern — taxis, food delivery, physical AI — shows that categories dismissed as boring, weird, and hard consistently produce outsized returns because all three filters must be present simultaneously.
 - `INS-260321-3521` [high] Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260321-CCD9` [high] Basic image generation is being absorbed by foundation models, but creative tools that are aesthetically opinionated (Midjourney) or own non-commoditized modalities (Suno for music, 11 Labs for voice) maintain defensible positions.
 - `INS-260330-0346` [high] Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
@@ -15,24 +17,31 @@
 - `INS-260330-2B42` [high] Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
 - `INS-260402-0727` [high] Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260402-1414` [high] Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
+- `INS-260404-323D` [high] Productive idea evaluation requires inverting from 'why it won't work' to 'how it could work' — a trainable skill, not naive optimism.
 - `INS-260328-A9D2` [high] Dalton's core advice framework for pivots: every person has one perfect startup idea — the one where they have the most unfair advantages, best network, and deepest expertise.
 - `INS-260403-2C50` [high] The best deals for creative and entrepreneurial communities are in cities that were once rich and then became poor — solid infrastructure at bargain prices.
 - `INS-260327-D982` [high] The exercise of picking a startup idea should be reframed from 'find a good startup idea' to 'find a good idea for your team' — founder-market fit is the single most predictive evaluation criterion.
+- `INS-260403-872C` [high] Treating new projects as experiments means even failure produces knowledge, removing the psychological barrier to starting.
 - `INS-260403-699B` [high] Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
 - `INS-260403-B2EB` [high] YC funded Steve and Alexis despite rejecting their idea, then steered them to Reddit — proving founder quality matters more than initial pitch.
 - `INS-260330-66A0` [high] The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260330-FBC0` [high] Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260330-9E91` [high] Resource scarcity predictions assume fixed knowledge, but knowledge creation continuously converts worthless things into resources — europium was essential for color TV until LCD screens made it irrelevant.
+- `INS-260403-76E4` [high] Choosing media that allow fast iteration and low upfront commitment makes it psychologically easier to survive the ugly early phase of ambitious projects.
 - `INS-260402-237D` [high] Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260402-2CAF` [high] Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260403-816B` [high] The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - `INS-260322-185B` [high] You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
 - `INS-260329-FE15` [high] Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
+- `INS-260403-7513` [high] The best startup ideas come from solving problems you personally experience and deeply understand.
 - `INS-260327-2661` [high] The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
+- `INS-260404-9A25` [high] In power-law domains, switching from failure-listing to success-imagining produces better predictions weighted by outcome.
+- `INS-260404-9E63` [high] Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
 - `INS-260322-2155` [high] Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
-- `INS-260403-3442` [high] 20 years of schooling teaches problem-solving but never problem-choosing, which is the skill that determines startup success.
+- `INS-260403-3511` [high] 20 years of schooling teaches problem-solving but never problem-choosing, which is the skill that determines startup success.
 - `INS-260402-9093` [high] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260404-CF9F` [high] Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
+- `INS-260329-ABD9` [high] Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - `INS-260322-EF20` [high] Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260402-F08D` [high] Successful founders don't find overlooked ideas through deliberate search — their unusual perspective makes certain ideas obvious to them that are invisible to everyone else.
 - `INS-260404-70AE` [high] Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
@@ -63,15 +72,18 @@
 - `INS-260322-A9DE` [high] Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
 - `INS-260403-363C` [medium] Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260403-B378` [medium] Perfect weather, mountains, and proximity to San Francisco explain why Silicon Valley formed around Stanford specifically.
+- `INS-260403-2913` [medium] Blending proven models from different domains (e.g., e-commerce + subscriptions = Dollar Shave Club) is a repeatable ideation method.
 - `INS-260403-6857` [medium] Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
 - `INS-260403-DF37` [medium] Big company jobs are the career equivalent of junk food—cheap, branded, immediately satisfying, but intellectually corrosive over time.
 - `INS-260330-69C6` [medium] The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
+- `INS-260403-8BBB` [medium] People dismiss ambitious ideas partly because they unconsciously hope you'll fail, since your success would threaten their relative status.
 - `INS-260403-F7DA` [medium] Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 - `INS-260321-4B38` [medium] Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.
 - `INS-260403-06D5` [medium] In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 - `INS-260328-6F5B` [medium] YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.
 - `INS-260323-8897` [medium] Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.
 - `INS-260403-44ED` [medium] Projects conceived as charities but requiring company economics to operate are fertile ground for startup ideas precisely because they're overlooked.
+- `INS-260403-96F9` [medium] Like a brainless virus that outpaces scientists through sheer mutation speed, startups find PMF by running many cheap experiments faster than competitors can think.
 - `INS-260321-08AC` [medium] There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
 - `INS-260330-D8E4` [medium] Lane's most striking claim is that H2 + CO2 is thermodynamically less stable than living cells — life is downhill energetically, blocked only by kinetic barriers that the right catalyst can overcome.
 - `INS-260403-C9DC` [medium] The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.

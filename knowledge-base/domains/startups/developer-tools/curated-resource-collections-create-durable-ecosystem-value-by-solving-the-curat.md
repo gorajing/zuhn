@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Best GitHub Repos for AI Builders in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/best-github-repos-ai-2025'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Well-maintained curated lists in fast-moving technical fields attract
@@ -65,6 +55,13 @@ stance: >-
   In fields where new tools, papers, and frameworks appear daily, high-quality
   curated repositories become infrastructure—frequently referenced by large
   communities and conferring lasting authority on their maintainers.
+related:
+  - INS-260402-E148
+  - INS-260403-219F
+  - INS-260327-6E86
+  - INS-260404-D6F7
+  - INS-260330-DD63
+  - INS-260403-1432
 ---
 The 'awesome list' pattern on GitHub—curated collections of tools, papers, and frameworks around a topic—has proven remarkably durable despite the proliferation of AI-generated alternatives. The reason is structural: curation requires human judgment about quality and relevance, which is precisely what search engines and LLMs struggle to provide in fast-moving fields where the signal-to-noise ratio is poor.
 

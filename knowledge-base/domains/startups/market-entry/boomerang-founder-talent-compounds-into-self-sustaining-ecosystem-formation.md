@@ -45,7 +45,7 @@ related:
   - INS-260330-0346
   - INS-260327-E2BC
   - INS-260402-0727
-  - PRI-260328-E9B5
-  - INS-260403-5018
+  - INS-260404-9263
+  - INS-260403-4227
 ---
 The LatAm ecosystem illustrates a powerful talent pattern: founders leave for grad school or FAANG experience in the US, then return to build locally. This creates a three-layer talent stack — boomerang founders with global caliber, alumni spinning out of local unicorns (Nubank, Rappi, Mercado Libre creating 'mafias' similar to PayPal's), and remote workers trained by US companies. The compounding nature means each generation of successful companies produces the next wave of founders and operators. This pattern is generalizable: any emerging ecosystem can accelerate by creating return incentives for diaspora talent rather than competing to attract entirely new foreign talent.

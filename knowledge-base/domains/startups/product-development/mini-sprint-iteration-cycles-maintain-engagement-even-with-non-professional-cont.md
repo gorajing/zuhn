@@ -49,14 +49,15 @@ stance: >-
 related:
   - INS-260325-5B08
   - INS-260328-A46F
-  - INS-260329-9C20
   - INS-260403-3EEA
-  - INS-260329-5AC5
+  - INS-260329-9C20
+  - INS-260404-D147
+  - INS-260403-76E4
   - INS-260403-D4EA
-  - INS-260325-B868
+  - INS-260403-4120
 evidence:
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Osterwalder's comic book project kept children working 4-5 hours daily for a week without complaints by structuring the work as mini-sprints with frequent feedback. Each cycle — brainstorm, refine, prototype, critique — produced tangible artifacts that maintained momentum.
 

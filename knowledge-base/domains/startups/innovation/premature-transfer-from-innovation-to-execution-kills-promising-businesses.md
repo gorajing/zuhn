@@ -46,13 +46,13 @@ stance: >-
   sufficient traction creates an immune response from established business
   models that destroys the new initiative.
 related:
-  - INS-260402-0A49
   - INS-260403-C8FD
   - INS-260403-98F3
   - INS-260403-52DB
   - INS-260326-CA66
   - INS-260322-F6AA
   - INS-260403-CA57
+  - INS-260403-B255
 evidence:
   - id: INS-260326-CA66
     type: TRANSFERS_TO

@@ -54,10 +54,9 @@ resolutions:
 related:
   - PRI-260403-2376
   - PRI-260323-C49D
+  - INS-260403-10CE
   - INS-260327-4EDE
-  - PRI-260405-49C0
-  - PRI-260328-9F8C
-  - INS-260405-9409
+  - INS-260403-A2E9
 stance: >-
   The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading,
   writing, design, and judgment to AI without building underlying skills — ...

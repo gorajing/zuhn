@@ -16,25 +16,15 @@ tags:
 sources:
   - type: blog
     title: 'Reverse Imposter Syndrome: A Founder’s Visibility Gap'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Founder visibility isn't self-promotion — it's a leadership tool that
@@ -59,6 +49,13 @@ stance: >-
   In modern startup ecosystems, shaping external perception is a core leadership
   responsibility that directly enables team alignment, investor confidence, and
   market positioning.
+related:
+  - INS-260330-ACDA
+  - INS-260402-E148
+  - INS-260403-6BF7
+  - INS-260403-1984
+  - INS-260403-E4C6
+  - INS-260328-ACC3
 ---
 The article reframes founder visibility from a marketing or ego concern into a leadership function. When a founder's credibility doesn't travel externally, the internal environment warps: teams question strategy, hiring stalls, and board trust erodes — not from failure, but from persistent misrecognition.
 

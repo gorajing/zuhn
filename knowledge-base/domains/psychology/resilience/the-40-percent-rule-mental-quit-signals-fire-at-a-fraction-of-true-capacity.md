@@ -47,10 +47,10 @@ stance: >-
   When your brain signals exhaustion and tells you to stop, you have roughly 60%
   of your actual capacity remaining untapped.
 related:
+  - INS-260325-DC90
   - INS-260327-7FDA
   - INS-260330-1B74
   - PRI-260403-88F5
-  - INS-260325-DC90
   - INS-260329-1435
 evidence:
   - id: INS-260325-DC90

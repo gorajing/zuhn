@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: NVIDIA and the $1T AI Buildout for the Agent Era
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-176'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Jensen Huang described a future NVIDIA with 75,000 humans and 7.5 million AI
@@ -68,6 +58,13 @@ stance: >-
   announcements but internal deployment ratios: NVIDIA's stated vision of 100 AI
   agents per human employee indicates the scale at which agentic AI becomes
   operationally meaningful.
+related:
+  - INS-260327-E18C
+  - INS-260327-3918
+  - INS-260403-AC2D
+  - PRI-260328-8317
+  - INS-260403-7D11
+  - INS-260325-BC2A
 ---
 The 100:1 agent-to-employee ratio Jensen Huang outlined isn't just a forecast—it's a benchmark for what meaningful agent deployment looks like at enterprise scale. Most current deployments are experimental, with ratios closer to 1:1 or 5:1. The gap between where companies are and where NVIDIA envisions going is enormous.
 

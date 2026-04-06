@@ -52,13 +52,15 @@ stance: >-
   changes too fast for 12-month allocation.
 related:
   - INS-260320-2058
+  - INS-260404-488A
   - INS-260330-7220
   - INS-260327-DFF1
+  - INS-260404-00DE
   - INS-260325-17BF
-  - INS-260324-1216
-  - INS-260327-B6B7
   - INS-260403-8002
   - INS-260403-FED1
+  - INS-260403-F0BF
+  - INS-260403-B2ED
 evidence:
   - id: INS-260327-DFF1
     type: TRANSFERS_TO

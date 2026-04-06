@@ -45,12 +45,13 @@ stance: >-
   confidence in their product becomes the single biggest piece of evidence
   investors use to evaluate the startup.
 related:
-  - INS-260321-9A03
-  - INS-260323-4457
   - INS-260403-5EB4
   - INS-260405-76E4
   - INS-260405-0B17
   - INS-260405-8BEA
+  - INS-260323-4457
+  - INS-260403-8CDC
+  - INS-260403-F6EC
 evidence:
   - id: INS-260405-76E4
     type: TRANSFERS_TO

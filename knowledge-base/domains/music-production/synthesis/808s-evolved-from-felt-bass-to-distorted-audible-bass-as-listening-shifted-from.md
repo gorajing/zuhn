@@ -47,7 +47,7 @@ related:
   - INS-260329-EF96
   - PRI-260322-3DA5
   - PRI-260326-12C6
-  - INS-260320-232D
+  - INS-260403-708E
 stance: 808 bass was originally untuned and felt through car Alpine systems
 evidence:
   - id: INS-260330-1296

@@ -49,11 +49,11 @@ resolutions:
 related:
   - PRI-260324-2A76
   - PRI-260323-DC25
+  - INS-260403-E05D
+  - INS-260403-35E1
   - INS-260323-4C71
-  - PRI-260328-37D8
-  - PRI-260328-7E58
-  - INS-260330-4ACF
   - INS-260330-F759
+  - INS-260403-47E3
 stance: >-
   Covert contracts — where one party secretly resents an agreement and begins
   taking compensation through indirect sabotage — are the root mechanism ...

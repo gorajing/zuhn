@@ -50,7 +50,6 @@ stance: >-
   success than intelligence, talent, or socioeconomic background in every
   high-challenge context studied.
 related:
-  - INS-260325-1345
   - INS-260326-2259
   - INS-260403-A1DF
   - PRI-260327-5635

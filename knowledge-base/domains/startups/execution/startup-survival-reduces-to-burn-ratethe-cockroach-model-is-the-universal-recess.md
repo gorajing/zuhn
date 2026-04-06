@@ -48,7 +48,6 @@ stance: >-
   always running out of money.
 related:
   - INS-260327-470B
-  - INS-260327-4BC6
   - INS-260330-ABB1
   - INS-260403-57FF
   - INS-260403-25EE

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Barriers to Entry in VC\U0001F6A7, Rise of the AI Wrappers\U0001F916, Google's AI Future Report \U0001F52E"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/barriers-to-entry-in-vc-rise-of-the'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Breaking into VC requires overcoming structural barriers where deal flow,
@@ -54,6 +44,17 @@ resolutions:
 stance: >-
   New VC entrants face compounding disadvantages because deal flow, reputation,
   and LP relationships form a closed loop that established firms monopolize
+related:
+  - INS-260323-CF27
+  - INS-260329-0B55
+  - INS-260329-A6DB
+  - INS-260330-F759
+  - INS-260403-8402
+  - INS-260403-BA4B
+  - INS-260403-BCCB
+  - INS-260405-B22F
+  - INS-260404-A893
+  - INS-260330-6050
 ---
 Venture capital has unusually high barriers to entry compared to other investment classes. New investors face limited deal flow because the best founders prefer established firms with track records, while LPs prefer allocating to funds with proven returns. This creates a closed loop: without deal flow you can't build returns, without returns you can't attract LPs, and without LP capital you can't access deal flow.
 

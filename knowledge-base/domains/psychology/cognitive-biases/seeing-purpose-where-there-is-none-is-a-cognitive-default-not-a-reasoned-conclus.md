@@ -58,8 +58,8 @@ related:
   - INS-260325-CC47
   - INS-260403-E8DD
   - INS-260402-D0F3
+  - INS-260403-27A5
   - PRI-260405-49C0
-  - INS-260330-FCFA
 ---
 Graham's formulation — 'don't see purpose where there isn't' — implies that we do see purpose by default, which is the harder problem. The positive reframe 'see randomness' acknowledges this: it's not enough to avoid the error, you have to actively cultivate the competing perception.
 

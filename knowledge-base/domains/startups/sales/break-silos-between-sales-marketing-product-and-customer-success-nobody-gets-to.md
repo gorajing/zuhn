@@ -68,13 +68,12 @@ stance: >-
   hide during bad quarters, and product managers who don't talk to customers are
   all organizational cancers.
 related:
+  - INS-260403-DED8
   - INS-260330-6611
   - INS-260403-7E7C
   - PRI-260328-E921
   - INS-260327-B5C9
-  - PRI-260405-1A34
   - INS-260327-390A
-  - INS-260327-6F08
   - INS-260328-AB0C
 ---
 Sudheesh's strongest organizational opinion: the shift from selling products to renting services (SaaS) requires fundamentally restructuring every function. Sales leaders who refuse input from others on incentive design, marketing leaders who take credit during good quarters and go underground during bad ones, product managers who don't talk to customers — these silos are lethal.

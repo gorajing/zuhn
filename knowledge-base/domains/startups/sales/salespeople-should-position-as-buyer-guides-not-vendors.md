@@ -17,26 +17,14 @@ sources:
     title: >-
       A step-by-step guide to crafting a sales pitch that wins | April Dunford
       (author of Obviously Awesome and Sales Pitch)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-step-by-step-guide-to-crafting'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The most effective salespeople act as expert guides helping buyers make a
@@ -61,6 +49,15 @@ stance: >-
   Reframing the salesperson's role from advocate for their product to guide
   through the buyer's decision process produces better outcomes by aligning
   incentives with the buyer's interests.
+related:
+  - INS-260327-60A0
+  - INS-260328-B233
+  - INS-260329-55F7
+  - INS-260329-226C
+  - INS-260330-318B
+  - INS-260323-1CA4
+  - PRI-260405-91AD
+  - PRI-260403-0ABD
 ---
 Traditional sales thinking casts the salesperson as the hero pushing their product against competitors. Dunford's framework—aligned with research from The Challenger Sale—repositions the salesperson as the buyer's guide through a complex decision landscape. This shift is substantive, not cosmetic: it means helping buyers understand their options clearly, even when that involves acknowledging where competitors are strong.
 

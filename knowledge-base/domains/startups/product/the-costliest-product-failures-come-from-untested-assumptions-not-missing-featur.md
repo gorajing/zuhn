@@ -49,13 +49,11 @@ stance: >-
 related:
   - INS-260327-C9BA
   - INS-260327-B17E
-  - INS-260402-2632
   - PRI-260328-0BE1
   - INS-260403-1BCC
   - INS-260330-2B45
   - PRI-260405-D586
   - PRI-260323-8EEA
-  - INS-260403-C936
 ---
 When teams skip structured customer research, they accumulate assumption debt: beliefs about customer needs that feel right but haven't been tested. Each untested assumption compounds risk — features built on wrong assumptions don't just fail to add value, they consume resources that could have gone toward validated opportunities.
 

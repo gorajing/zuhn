@@ -17,35 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Governance in Gen AI\U0001F3DB️, The Power Law \U0001F4C8, Best VCs\U0001F3C6 "
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Luis Llorens
-        url: 'https://substack.com/@luisllorens'
-        description: "Engineer turned VC who invests in Pre-seed to Series A startups. Employee #10 at a unicorn and former pro-am padel player\U0001F3BE"
-        identifier: 'user:40378777'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!bXQe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec49c7d7-2cd7-41ae-88a2-7f9949791fac_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!bXQe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec49c7d7-2cd7-41ae-88a2-7f9949791fac_400x400.jpeg
+    author: 'Ruben Dominguez, Luis Llorens'
     url: 'https://www.thevccorner.com/p/governance-in-gen-ai-the-power-law'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VC illiquidity forces long-term holding periods that naturally align with
@@ -68,5 +47,12 @@ stance: >-
   The illiquidity of venture capital investments is a feature that enables
   patient capital deployment and higher returns, not merely a cost investors
   must tolerate.
+related:
+  - INS-260326-286F
+  - INS-260404-B640
+  - INS-260404-0475
+  - INS-260403-E294
+  - INS-260403-8834
+  - INS-260403-7F67
 ---
 Illiquidity is conventionally viewed as a disadvantage — investors cannot easily exit positions, creating risk. But in venture capital, this illiquidity serves a structural purpose: it prevents LPs and GPs from making short-term reactive decisions that would destroy value. Companies building transformative products need years of patient capital, and the locked-up structure of VC funds ensures this patience is enforced rather than optional. The illiquidity premium — the excess return investors earn for accepting inability to sell — is well-documented, but the argument goes further: illiquidity also filters the investor base to those with genuine long-term orientation, creating better alignment between capital providers and founders. This framing is particularly relevant as secondary markets grow; while secondaries add flexibility, they also risk eroding the very illiquidity advantage that makes venture returns possible.

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why Retention Breaks Startups and How to Fix It
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/why-startup-retention-matters'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     If Day 1 retention stays under 10% and no cohort flattens across segments,
@@ -60,6 +50,15 @@ stance: >-
   When no cohort flattens regardless of onboarding tweaks, segmentation, or UX
   optimization, the problem is core product value and only a pivot — not
   iteration — can fix it
+related:
+  - INS-260403-2A8B
+  - INS-260403-E930
+  - INS-260403-1D7D
+  - INS-260403-21DB
+  - INS-260403-4388
+  - INS-260403-B8ED
+  - INS-260329-8BD3
+  - INS-260403-53B0
 ---
 Many teams fall into what the article calls the 'A/B test death spiral' — endlessly tweaking buttons, headlines, and email timings while ignoring that users simply don't want what's being offered. The diagnostic signals are clear: Day 1 retention below 10% in daily-use categories, Day 7 below 5% after multiple experiments, and zero cohorts that flatten across any segment, device, or geography.
 

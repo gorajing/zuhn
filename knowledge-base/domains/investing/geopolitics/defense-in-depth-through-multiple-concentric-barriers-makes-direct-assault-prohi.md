@@ -50,11 +50,11 @@ stance: >-
   an attacker create cumulative costs that make frontal assault economically
   irrational.
 related:
+  - INS-260327-FA38
   - INS-260327-2475
   - INS-260327-19D2
   - INS-260327-CF72
-  - INS-260327-191B
-  - INS-260327-99DF
+  - INS-260405-71E1
 ---
 A well-designed castle had multiple independent defensive layers: a moat, an outer wall, a killing ground, an inner wall (higher than the outer), a gatehouse with murder holes, and a final keep. Each layer independently slowed attackers and inflicted casualties. Even if one layer was breached, the defenders fell back to the next. The total cost of storming all layers was almost always higher than the castle's strategic value.
 

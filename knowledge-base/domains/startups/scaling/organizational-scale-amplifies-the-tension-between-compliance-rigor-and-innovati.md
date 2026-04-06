@@ -52,8 +52,8 @@ related:
   - INS-260404-F8B7
   - INS-260403-5427
   - INS-260403-B2EA
+  - INS-260403-C4B3
   - PRI-260328-0123
-  - PRI-260323-00C6
 ---
 There's a scaling law at work in corporate innovation: as organizations grow, the stakes of any public misstep increase (reputation, brand, market cap), which drives more robust compliance processes. But innovation requires speed, direct market contact, and tolerance for small failures — all of which compliance processes are designed to prevent.
 

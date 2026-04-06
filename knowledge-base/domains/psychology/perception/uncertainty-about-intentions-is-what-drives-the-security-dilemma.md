@@ -45,8 +45,8 @@ resolutions:
     contingency preparation. The best leaders are those who maintain optionality
     while avoiding unnecessary provocation.
 related:
-  - INS-260323-B1F5
   - PRI-260323-9928
+  - INS-260323-B1F5
   - INS-260330-5C69
   - INS-260404-7EFA
   - INS-260323-9E67

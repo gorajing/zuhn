@@ -56,13 +56,11 @@ resolutions:
     is moving from environment-level interventions to body-level interventions —
     more precise, more effective, more portable.
 related:
-  - INS-260322-02A6
+  - INS-260322-3A00
+  - INS-260404-1E65
+  - INS-260404-F22C
   - INS-260327-3A71
   - PRI-260325-663A
-  - INS-260327-FCCF
-  - INS-260403-C5D8
-  - INS-260403-924B
-  - INS-260405-8B05
 stance: >-
   Current health tech can read biology (wearables, CGMs, blood tests) but cannot
   write to it

@@ -55,12 +55,14 @@ stance: >-
   increasing complexity rather than learning each concept once thoroughly before
   moving on.
 related:
+  - INS-260329-32DB
   - PRI-260405-71C5
   - PRI-260328-49CB
-  - INS-260330-189F
-  - INS-260329-26AC
-  - INS-260330-9033
+  - INS-260329-9AE9
+  - INS-260329-04FA
   - INS-260330-B4B9
+  - INS-260329-975C
+  - INS-260329-A53C
 evidence:
   - id: INS-260329-26AC
     type: CHALLENGES

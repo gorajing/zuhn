@@ -50,11 +50,11 @@ stance: >-
   The century-long shift from charismatic dealmakers to competent technicians as
   the dominant power holders will continue accelerating
 related:
+  - INS-260403-22C2
+  - INS-260403-952F
   - INS-260403-D531
   - INS-260404-1A18
   - INS-260403-147C
-  - INS-260405-9FD9
-  - PRI-260327-117F
 evidence:
   - id: INS-260328-0DFE
     type: SUPPORTS

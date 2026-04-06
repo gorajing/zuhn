@@ -53,6 +53,7 @@ related:
   - INS-260402-27A1
   - INS-260323-19A8
   - PRI-260328-604D
+  - INS-260403-7692
 ---
 Hormozi describes surviving nine failed businesses and seven failed partnerships, attributing his ability to keep trying to having near-zero personal expenses. When he was earning $2,000/month he split a bedroom with a roommate; when earning $1M/month his rent was $1,200. This created a personal risk floor so low that business failures never threatened his survival.
 

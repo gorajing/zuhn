@@ -53,16 +53,16 @@ stance: >-
   Deliberately showing common errors and debugging them teaches deeper
   understanding than only demonstrating correct solutions.
 related:
-  - INS-260329-FC75
   - INS-260329-9010
   - INS-260329-F892
+  - INS-260403-5683
   - PRI-260325-A95E
-  - INS-260327-4C73
-  - INS-260329-3441
+  - INS-260329-7BAF
   - INS-260329-A6FB
-  - INS-260329-DAD1
   - INS-260329-5A24
   - INS-260403-A6B1
+  - INS-260405-18F3
+  - INS-260329-7F3D
 evidence:
   - id: INS-260329-F635
     type: EXTENDS

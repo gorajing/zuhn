@@ -57,11 +57,11 @@ stance: >-
   capital, and skilled workers, creating a virtuous cycle of innovation and
   investment.
 related:
+  - INS-260403-7881
+  - INS-260403-4227
   - INS-260329-D37E
   - INS-260329-6BE8
   - INS-260329-5514
-  - INS-260403-830F
-  - INS-260403-160A
   - INS-260403-D522
 evidence:
   - id: INS-260329-0014

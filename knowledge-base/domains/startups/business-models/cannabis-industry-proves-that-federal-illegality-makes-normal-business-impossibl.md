@@ -42,11 +42,12 @@ resolutions:
     debt. The pattern: VC-backed giants hemorrhage cash while local self-funded
     dispensaries survive because profit is their mandate, not a future goal.
 related:
+  - INS-260403-5710
   - PRI-260328-37D8
   - INS-260327-2BAD
   - INS-260330-F23F
   - INS-260324-C1B8
-  - INS-260330-B6AD
+  - INS-260405-32D8
 stance: >-
   Cannabis remains federally Schedule I, blocking companies from banking, tax
   deductions, and interstate commerce

@@ -47,14 +47,13 @@ stance: >-
   near-zero value — transformative advice pushes founders toward actions they'd
   naturally resist.
 related:
-  - INS-260321-0CCD
   - INS-260325-ADF5
   - INS-260323-FCC1
   - INS-260330-56B2
   - INS-260405-FAE3
+  - INS-260405-68DC
   - INS-260403-0372
   - INS-260328-8B2C
-  - INS-260328-3A00
 evidence:
   - id: INS-260321-0CCD
     type: CHALLENGES

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Megarounds make a comeback\U0001F4B0, The State of GenAI\U0001F916, Doing Diligence Well\U0001F575️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/megarounds-make-a-comeback-the-state'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The majority of French VC funds marketed to retail investors fail to deliver
@@ -62,6 +52,14 @@ stance: >-
   Retail investor access to VC through dedicated funds is a value-destruction
   mechanism for most participants because the best deals don't need retail
   capital.
+related:
+  - INS-260327-17BE
+  - INS-260325-51E6
+  - INS-260404-92AA
+  - INS-260328-988F
+  - INS-260403-49EC
+  - INS-260404-8CAE
+  - INS-260328-195E
 ---
 Citywire's finding that most French retail-accessible VC funds fail to deliver reinforces a structural principle: the best VC opportunities are allocated to institutional LPs and high-net-worth networks before retail access vehicles are even formed. By the time a fund is structured for retail distribution, the top-tier deal flow has typically been secured through GP relationships that retail funds can't access.
 

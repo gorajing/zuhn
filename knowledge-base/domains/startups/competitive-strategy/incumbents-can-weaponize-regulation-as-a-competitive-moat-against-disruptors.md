@@ -50,11 +50,12 @@ stance: >-
   Established companies threatened by innovative competitors will use regulatory
   lobbying to impose artificial costs rather than competing on product quality
 related:
+  - INS-260403-20ED
+  - INS-260403-CCCC
   - INS-260330-1183
+  - INS-260403-5710
   - INS-260330-D460
-  - INS-260327-1F4A
-  - INS-260323-EA65
-  - INS-260330-F23F
+  - INS-260404-667A
 evidence:
   - id: INS-260327-1F4A
     type: SUPPORTS

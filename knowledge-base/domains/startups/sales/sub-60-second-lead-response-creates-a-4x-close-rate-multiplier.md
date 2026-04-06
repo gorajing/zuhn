@@ -53,10 +53,11 @@ stance: >-
   more impactful than any improvement to the actual sales conversation itself.
 related:
   - INS-260330-0AA7
+  - INS-260404-0C67
   - PRI-260403-57EC
   - INS-260403-147C
   - INS-260403-82CC
-  - INS-260327-1B7C
+  - INS-260404-B407
 ---
 Harvard Business Review research and Hormozi's own data from Allen (4,000+ appointments/day) show that responding to a lead within 60 seconds creates a 391% increase in conversion likelihood. Beyond 5 minutes, close rates drop by 80%. Half of all prospects simply buy from the first business that responds, regardless of quality.
 

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'The Only Peter Thiel Pitch Deck: Lessons for Founders'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/peter-thiel-pitch-deck-founders-fund'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The deck opens the door; the meeting closes it—optimize for curiosity, not
@@ -55,6 +45,12 @@ stance: >-
   Founders who try to answer every question in their deck reduce the chance of
   getting a meeting, because a deck that creates curiosity through logic is more
   effective than one that attempts completeness.
+related:
+  - PRI-260327-3BD9
+  - INS-260403-55E6
+  - INS-260404-6BBB
+  - INS-260404-6970
+  - INS-260405-7E50
 ---
 Many founders treat a pitch deck like a business plan summary, trying to answer every possible investor question upfront. This misunderstands the deck's function in the fundraising process. The deck is a filtering and invitation tool—its job is to make investors want to learn more, not to pre-empt all due diligence.
 

@@ -43,11 +43,11 @@ stance: >-
   to do — doing hard things you enjoy provides zero willpower benefit
 related:
   - INS-260325-9B9A
-  - INS-260325-1D95
-  - INS-260323-5D6D
   - PRI-260328-1654
   - INS-260404-9A69
   - INS-260330-85E1
+  - INS-260325-1D95
+  - INS-260323-5D6D
   - INS-260330-D27C
   - INS-260403-4EBF
 evidence:

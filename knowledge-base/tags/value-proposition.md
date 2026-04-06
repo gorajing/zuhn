@@ -1,29 +1,34 @@
 # Tag: value-proposition
 
+- `INS-260405-A742` You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
 - `INS-260327-470B` Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-1A5A` Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
 - `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260403-57E7` Blockchain's real contribution to gaming is making virtual goods truly portable and user-owned, not turning games into income sources.
 - `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
-- `INS-260405-A742` You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
+- `INS-260403-368B` Positioning against a worse alternative instead of for a positive vision erodes your own offering because it eliminates pressure to improve.
 - `INS-260327-6E93` Crosby's customers (Cursor, Clay) care about how fast contracts close, not how cheap the review is, because their growth rate makes delay the real cost.
 - `INS-260404-397F` Apple Pay's moat comes from simultaneously delivering seamless UX to consumers, mobile customer access to merchants, business continuity to networks, and fraud reduction to banks — all of which must be matched together.
 - `INS-260403-7E95` Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
+- `INS-260402-7623` Earnings estimates outperform all other supply-side value propositions by an order of magnitude.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260403-AEAF` The same attributes that built a brand's dominance can become its biggest handicap when customer values shift.
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
 - `INS-260405-787F` Apple Pay succeeded not by adding a new payment method but by eliminating the friction and exposure of existing ones.
 - `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
+- `INS-260405-4AAD` Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260328-F3C4` If someone doesn't want the burrito, cutting the price just makes them wonder what's wrong with it.
 - `INS-260403-7E7C` Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
+- `INS-260403-2814` Build a visual pain statement that communicates the prospect's challenge before describing your solution.
 - `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260403-B87D` Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - `INS-260403-113D` Separate customer observation from solution design by temporarily forgetting what you offer.
 - `INS-260403-E816` Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - `INS-260403-1E4A` Use one Value Proposition Canvas per customer segment — never combine payers, users, and other segments.
+- `INS-260404-0EB2` PMF locks three variables — value prop, segment, and pricing — so capital can be spent on scaling rather than iteration.
 - `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.

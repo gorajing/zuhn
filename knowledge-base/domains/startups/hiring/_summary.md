@@ -1,10 +1,13 @@
 # Topic: hiring
 
-> 38 insights
+> 64 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-7E58` [high] In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
+- `INS-260403-3FAE` [high] Despite record CS graduates and tech layoffs, companies chase rare AI prodigies at $500K+ while mid-career non-AI engineers get sidelined.
+- `INS-260403-09E8` [high] The real cost of a hire includes payroll tax, benefits, dental, vision, bonuses, and annual raises — often 20-40% above base salary.
+- `INS-260404-91D5` [high] CEOs create leverage by finding exceptional people rather than spending energy trying to make mediocre performers great.
 - `INS-260403-E497` [high] Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 - `INS-260403-7F6F` [high] Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
 - `INS-260330-E4D9` [high] Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved.
@@ -12,31 +15,54 @@
 - `INS-260403-1DC9` [high] Corporate recruiters optimize for personal career safety (nobody gets fired for hiring Stanford) rather than actual candidate quality.
 - `INS-260404-AE2E` [high] Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
 - `INS-260403-5018` [high] Choose the startup with the most determined founders over the smartest ones, treating your time as equity investment.
+- `INS-260403-9BD7` [high] Hire for being literally the best in the world at one thing that matters, not for lacking weaknesses.
 - `INS-260404-DBD2` [high] You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
+- `INS-260403-BE24` [high] Extreme hour requirements screen out experienced and diverse candidates, leaving a narrow, less resilient talent pool.
 - `INS-260330-B8CC` [high] FAANG worship creates a developer caste system that misallocates industry talent.
 - `INS-260403-6340` [high] Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
 - `INS-260330-687B` [high] Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260330-965B` [high] Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
+- `INS-260403-FA12` [high] Early hires define company culture and execution speed more decisively than any strategic or product decision.
 - `INS-260330-63BA` [high] Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
+- `INS-260403-AC29` [high] List your weaknesses and hire exclusively from that list for your first three roles.
 - `INS-260330-1C90` [high] Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - `INS-260330-C7FF` [high] The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260402-AA3F` [high] Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly.
 - `INS-260403-A136` [high] Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
+- `INS-260403-7692` [high] People costs are 60-80% of early-stage burn, making headcount planning the single most important financial lever founders have.
+- `INS-260403-36C6` [high] Treat every hire as a last resort after exhausting automation, templatization, and temporary outsourcing.
 - `INS-260402-9B06` [high] Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260403-D51E` [high] Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 - `INS-260403-C977` [high] Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
 - `INS-260330-B384` [high] Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
+- `INS-260404-F2F5` [high] Offshore hiring compliance follows a natural escalation from contractors to EOR to entity setup, with country-specific headcount triggers at each transition.
 - `INS-260403-5F3E` [high] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - `INS-260403-22DF` [high] The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260330-9F1F` [high] Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
+- `INS-260403-F4BB` [high] Sequoia asks every VP-level hire to name five respected peers, building a decade-long talent map that functions like PageRank for people.
+- `INS-260403-309F` [high] Improvised hiring at early stage creates compounding delays that manifest months after the bad hire.
 - `INS-260404-FE95` [high] Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
 - `INS-260403-D966` [high] Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - `INS-260402-33CA` [high] Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - `INS-260330-E126` [high] Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
+- `INS-260403-88F8` [high] Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
 - `INS-260330-BCC2` [high] Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
+- `INS-260404-D60F` [high] Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.
+- `INS-260403-A851` [high] The spectrum from full codebase access (Linear, Gumroad) to synthetic take-home projects (PostHog, Automattic at scale) reflects a deliberate trade-off between signal depth and process scalability.
+- `INS-260403-6844` [high] Candidates who invest days or weeks in a work trial are simultaneously demonstrating their interest level, and the trial gives them enough visibility into company internals to make an informed decision themselves.
+- `INS-260403-E9F5` [high] Work trials give hiring managers direct observation of actual work output, eliminating the performance-vs-productivity gap that plagues traditional interviews.
+- `INS-260403-5788` [medium] Before joining a company as a designer, ask founders for their personal story about why they believe in design — if they don't have one, design will always be an afterthought.
+- `INS-260403-BACA` [medium] AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
 - `INS-260403-79AD` [medium] Buying Web 2.0 startups would have cost Microsoft less than Facebook and restored their competitiveness, but their culture couldn't accept it.
 - `INS-260403-D531` [medium] College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
+- `INS-260403-C283` [medium] Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
 - `INS-260330-D52B` [medium] Mass learn-to-code campaigns flood the junior market while senior scarcity persists, compressing entry wages without solving the actual talent shortage.
+- `INS-260403-10CE` [medium] As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
+- `INS-260405-B967` [medium] Headcount growth should be tied to revenue milestones, not fundraising events or growth ambition.
 - `INS-260404-886C` [medium] Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.
+- `INS-260404-56C1` [medium] Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
+- `INS-260404-9626` [medium] Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.
 - `INS-260405-C8BC` [medium] Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
+- `INS-260403-A8A3` [medium] Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
 - `INS-260403-6935` [medium] Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance.
+- `INS-260403-680C` [medium] Mike Dauber argues most VC firms hire associates wrong by treating them as disposable leverage instead of future partners, destroying their talent pipeline.

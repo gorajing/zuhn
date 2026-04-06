@@ -19,24 +19,14 @@ sources:
     title: >-
       The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel
       Template
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/what-top-vcs-check-in-due-diligence'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Thinking like an investor before diligence begins compresses fundraising
@@ -61,6 +51,17 @@ stance: >-
   Founders who proactively structure their data rooms to mirror investor
   diligence frameworks gain a measurable closing speed advantage over those who
   react to ad hoc requests.
+related:
+  - INS-260328-9415
+  - INS-260330-404B
+  - INS-260403-7C47
+  - INS-260403-AAAC
+  - INS-260403-21B2
+  - INS-260405-83F0
+  - INS-260403-943E
+  - INS-260405-1982
+  - INS-260404-5EB8
+  - INS-260402-3F8D
 ---
 The article reveals a powerful asymmetry: most founders wait for investor requests, then scramble to locate documents scattered across drives and inboxes. Founders who instead adopt the investor's diligence framework—pre-populating answers to key questions across team, technology, regulatory, GTM, competition, market, financials, exit potential, and legal/cap table—walk into diligence looking sharp and close with fewer surprises.
 

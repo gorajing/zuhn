@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: SaaS Financial Model Guide (+ Free Excel Template)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/saas-financial-model-excel-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Fragmented financial tracking across multiple tools creates version control
@@ -60,6 +50,12 @@ stance: >-
   Founders who track MRR in Stripe, burn in Notion, and headcount in Google
   Sheets develop confident-sounding narratives that systematically diverge from
   reality because assumptions across tools are never reconciled.
+related:
+  - INS-260323-D288
+  - INS-260403-D089
+  - INS-260403-A752
+  - INS-260403-BF83
+  - INS-260403-5F1C
 ---
 The article identifies a specific failure mode: founders tracking revenue in Stripe, cash burn in Notion, and headcount planning in Google Sheets. Each tool tells a coherent local story, but the assumptions never reconcile across tools. Churn rates in the revenue tracker don't match the churn baked into the hiring plan. Marketing spend in the budget doesn't align with the CAC calculations in the metrics deck.
 

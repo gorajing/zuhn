@@ -45,24 +45,24 @@ resolutions:
     mechanics isn't fundamental — it's what emerges when quantum interference
     patterns converge on a single visible path.
 related:
+  - INS-260329-4E70
   - INS-260402-2FDF
+  - INS-260403-D7C4
+  - PRI-260405-129E
   - PRI-260323-0F93
   - INS-260325-75A3
-  - INS-260325-436A
-  - INS-260330-56D6
-  - INS-260329-4E70
 stance: >-
   Objects appear to follow single trajectories not because they do, but because
   the crazy paths cancel each other out
 evidence:
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-436A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8B93
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-4E70
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Feynman's path integral formulation reveals that every particle — photons, electrons, even baseballs — simultaneously explores every possible path between two points, including paths that loop around the moon or go backward in time. Each path contributes equally in amplitude.
 

@@ -41,13 +41,14 @@ stance: >-
   iteration is cheap and reversible, like software and film.
 related:
   - INS-260320-6CCE
-  - INS-260329-393C
   - INS-260330-F5A1
+  - INS-260404-D147
+  - INS-260403-76E4
   - PRI-260405-64B2
   - INS-260403-E3C4
-  - INS-260403-AC03
-  - INS-260403-6342
+  - INS-260329-7B1D
   - INS-260403-FF4E
+  - INS-260404-8A18
 evidence:
   - id: INS-260320-6CCE
     type: TRANSFERS_TO

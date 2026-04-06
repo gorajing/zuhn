@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Slight overconfidence armors you against the dual headwinds of external
@@ -63,6 +51,12 @@ stance: >-
   A small positive bias in self-assessment is net advantageous because it
   compensates for the compounding drag of others' skepticism and your own harsh
   self-judgment.
+related:
+  - INS-260403-B7E3
+  - INS-260405-80B0
+  - INS-260403-1A05
+  - INS-260405-2E0A
+  - INS-260327-F014
 ---
 Conventional wisdom says accurate self-assessment is optimal, but Graham observes that the most successful people across many fields are slightly overconfident. The mechanism is compensatory: early-stage work systematically looks worse than it is, and both external critics and your own inner judge amplify that distortion. A small positive bias in self-belief offsets these compounding negative errors, producing a net-accurate expected-value estimate even though the individual components are wrong.
 

@@ -53,11 +53,11 @@ stance: >-
   devolved into looting represents a categorical error that feels like balanced
   thinking but destroys the ability to assess proportional threats.
 related:
+  - INS-260403-25F3
+  - INS-260403-BA53
+  - INS-260404-6077
+  - INS-260403-9DB6
   - INS-260330-365B
-  - PRI-260328-E1CE
-  - INS-260327-7A27
-  - INS-260330-AF47
-  - INS-260330-3570
 evidence:
   - id: INS-260327-7A27
     type: CHALLENGES

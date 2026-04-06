@@ -40,8 +40,8 @@ related:
   - INS-260330-F183
   - PRI-260328-9E3F
   - INS-260327-40DA
+  - INS-260404-CC8B
   - PRI-260405-FB37
-  - INS-260323-085A
 stance: 'Tao''s papers now have more code, more plots, deeper literature searches'
 evidence:
   - id: INS-260329-2FEB

@@ -49,11 +49,10 @@ stance: >-
   fundamentally changing the economics of product-market fit discovery.
 related:
   - INS-260323-4457
+  - INS-260403-FFBD
   - INS-260326-80B1
+  - INS-260404-B2AF
   - PRI-260405-0AC6
-  - PRI-260320-A2C7
-  - INS-260403-36DD
-  - INS-260329-F0DD
   - INS-260403-4CE7
   - INS-260403-F4F6
 evidence:

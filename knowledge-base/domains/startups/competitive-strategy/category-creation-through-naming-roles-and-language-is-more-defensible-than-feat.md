@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: OpenAI’s Product Lead on Winning AI Through Distribution
-    author:
-      - '@type': Person
-        name: Miqdad Jaffer
-        url: 'https://substack.com/@miqdadjaffer'
-        description: Product Lead @ OpenAI | EIR @ Product Faculty
-        identifier: 'user:277704439'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
+    author: Miqdad Jaffer
     url: 'https://www.thevccorner.com/p/openai-ai-distribution-strategy'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Defining the vocabulary of your market (roles, categories, workflows)
@@ -64,6 +54,12 @@ stance: >-
   workflow names, category labels — creates distribution moats that outlast any
   feature advantage because competitors cannot copy terminology that has already
   been culturally adopted.
+related:
+  - INS-260322-5A72
+  - INS-260403-21C4
+  - PRI-260328-82BE
+  - INS-260404-3212
+  - INS-260327-5688
 ---
 Clay invented the 'GTM Engineer' role and wrote the handbook for it, making Clay the default operating system for anyone hired into that position. Lovable coined 'vibe coding' and turned it into a cultural meme that reframed app building as accessible and creative. In both cases, the language spread independently of the product and became self-reinforcing — every job posting mentioning 'GTM Engineer' is implicit distribution for Clay.
 

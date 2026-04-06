@@ -54,7 +54,6 @@ stance: >-
   organizational tool is forcing all disciplines into shared daily trade-off
   sessions even when it feels tediously redundant
 related:
-  - INS-260320-2058
   - INS-260329-74F9
   - INS-260330-E99F
   - INS-260322-D57C

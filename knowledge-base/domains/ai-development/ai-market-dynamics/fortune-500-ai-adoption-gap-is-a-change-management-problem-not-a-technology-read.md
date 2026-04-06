@@ -58,8 +58,6 @@ related:
   - INS-260327-969D
   - PRI-260328-5CDE
   - PRI-260328-C581
-  - INS-260327-7265
-  - INS-260327-F417
 stance: >-
   Fortune 500 CEOs universally say they want to become AI companies, but actual
   deployment lags because change management across large organizations ...

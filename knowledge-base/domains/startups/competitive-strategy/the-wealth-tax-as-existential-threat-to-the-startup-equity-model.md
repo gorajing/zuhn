@@ -1,5 +1,5 @@
 ---
-id: INS-260403-83E2
+id: INS-260403-4B31
 domain: startups
 topic: competitive-strategy
 title: The wealth tax as existential threat to the startup equity model
@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: SEIU Delenda Est
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/seiu-delenda-est'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     California's proposed billionaire tax on unrealized gains could force
@@ -65,6 +55,15 @@ evidence:
   - id: INS-260403-5CD6
     type: CHALLENGES
     classified_at: '2026-04-06'
+related:
+  - INS-260327-AB46
+  - INS-260327-714F
+  - INS-260327-4E10
+  - INS-260327-8AE7
+  - INS-260330-9DCD
+  - INS-260330-6204
+  - INS-260403-D870
+  - INS-260404-22CB
 ---
 The proposed California wealth tax includes unrealized gains and values company stakes by voting rights rather than ownership percentage. This means a typical founder who maintains board control despite dilution could be taxed on more wealth than they actually own. Since startup founders routinely hold billions in paper wealth for years before any liquidity event, this would force premature equity sales or restructuring.
 

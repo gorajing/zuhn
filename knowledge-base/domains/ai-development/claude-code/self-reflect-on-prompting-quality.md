@@ -18,12 +18,11 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
-  - PRI-260320-8205
   - PRI-260320-6847
+  - PRI-260320-8205
+  - INS-260404-056D
   - INS-260330-4AD5
   - INS-260322-5790
-  - INS-260403-4A4A
-  - INS-260328-4717
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
@@ -46,9 +45,9 @@ resolutions:
 stance: Prompt quality should be examined before blaming the model for poor output
 evidence:
   - id: INS-260322-5790
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D7C4
-    relationship: RELATED
+    type: SUPPORTS
 ---
 
 When Claude's output quality drops, the instinct is to blame the model.

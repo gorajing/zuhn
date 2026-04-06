@@ -43,13 +43,11 @@ resolutions:
     scale: the 'how' (process, tooling, decision structure) is more important
     than the 'what' (strategy, direction) when driving transformation.
 related:
-  - INS-260321-A56C
   - INS-260325-ADF5
   - INS-260330-30AB
   - INS-260329-FEBA
+  - INS-260321-A56C
   - INS-260402-543E
-  - INS-260329-96EC
-  - INS-260329-D3F6
 stance: >-
   When transforming a large organization, changing processes and tools (the
   'how') unlocks speed more effectively than simply demanding faster output.

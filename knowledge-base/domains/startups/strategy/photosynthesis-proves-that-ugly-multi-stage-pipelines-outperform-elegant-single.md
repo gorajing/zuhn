@@ -53,45 +53,45 @@ stance: >-
   direct-conversion approaches because each stage can be independently optimized
   and buffered
 related:
-  - INS-260327-1C1B
-  - INS-260330-5C36
+  - INS-260330-C456
   - INS-260330-4D0E
-  - INS-260404-0214
-  - INS-260404-F908
-  - INS-260403-6F40
-  - INS-260404-2A07
-  - INS-260404-DDB5
-  - INS-260330-498B
-  - INS-260403-6129
+  - INS-260403-2DC0
+  - INS-260404-040D
+  - INS-260404-3500
+  - PRI-260405-CE75
+  - INS-260327-1C1B
+  - INS-260330-3082
+  - INS-260330-5C36
+  - INS-260330-1298
 evidence:
   - id: INS-260330-30FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1084
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E8CF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C456
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-1C1B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3082
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5C36
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F671
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4D0E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1298
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-09F8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-2A07
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-DDB5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-CDD2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-6F40
     type: SUPPORTS
     classified_at: '2026-04-06'

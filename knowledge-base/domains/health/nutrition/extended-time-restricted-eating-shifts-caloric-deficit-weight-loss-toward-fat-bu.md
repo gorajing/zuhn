@@ -61,6 +61,7 @@ related:
   - INS-260330-1078
   - INS-260330-45D9
   - INS-260330-6270
+  - INS-260330-C4D8
 ---
 When time-restricted eating (8-10 hour window) is maintained for 60+ days, two metabolic shifts occur that bias weight loss toward fat: hepatic lipase (LAPC) — a liver enzyme that metabolizes fat for energy — increases, while CIDEC — a lipid droplet-associated lipolysis inhibitor — decreases. This is effectively removing the brake and pressing the accelerator on fat burning simultaneously.
 

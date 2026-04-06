@@ -47,14 +47,12 @@ stance: >-
   the more anxiety interferes with the natural competence that would produce it,
   creating a self-defeating cycle.
 related:
-  - INS-260327-CA72
   - INS-260327-B0F2
   - INS-260330-207D
   - PRI-260405-2DE5
   - INS-260403-B7E3
   - INS-260327-7581
   - INS-260327-F397
-  - INS-260328-9574
   - INS-260330-1C50
 evidence:
   - id: INS-260326-CA8C

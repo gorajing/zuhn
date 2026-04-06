@@ -50,71 +50,71 @@ stance: >-
   creates a motivation loop that pulls the learner through increasing
   complexity.
 related:
-  - INS-260329-9CED
   - INS-260329-48FD
   - INS-260329-FEC5
   - INS-260329-BE50
-  - INS-260329-B6A6
-  - INS-260329-27A3
-  - INS-260329-CD38
-  - INS-260329-F211
   - INS-260329-656B
-  - INS-260329-E914
+  - INS-260329-820D
+  - INS-260329-E402
+  - INS-260329-8830
+  - INS-260329-C3DF
+  - INS-260329-613F
+  - INS-260330-2DB0
 evidence:
   - id: INS-260329-F211
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D75D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FEC5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9CED
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-48FD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-0068
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-D400
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0F71
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-656B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FA1C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-613F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-45FF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-C3DF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-493A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E914
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-32DB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-153F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-8830
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E402
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2DB0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-075F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-72D5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-27A3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B7FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-7080
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D56B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 This 48-million-view tutorial demonstrates a pedagogical pattern: introduce a concept (variables), immediately build something with it (madlibs game), then layer the next concept on top. Each section follows the pattern of: explain → demonstrate → build a mini-project → extend. This creates what cognitive scientists call 'desirable difficulty' — the learner encounters each concept in a context where they need it to accomplish something they care about.
 

@@ -58,7 +58,7 @@ related:
   - INS-260403-7C88
   - INS-260403-C381
   - INS-260329-4DBC
-  - INS-260403-C9DC
+  - INS-260403-7513
 ---
 Different idea spaces have wildly different hit rates. Over the past decade, fintech infrastructure and vertical enterprise SaaS produced billion-dollar companies at astonishingly high rates, while consumer hardware and social networks had orders-of-magnitude lower success rates. The Fivetran example shows why this matters: by shopping for ideas within the data analysis space, they put themselves in position to 'bump into' a good idea even after two failed attempts.
 

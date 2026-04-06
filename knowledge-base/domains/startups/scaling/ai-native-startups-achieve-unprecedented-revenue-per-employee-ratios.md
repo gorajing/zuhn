@@ -17,24 +17,14 @@ sources:
     title: >-
       The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating
       Giants
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-billion-dollar-startup-formula'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Companies like Cursor (20 people, $100M ARR in 21 months) and Midjourney (10
@@ -63,6 +53,13 @@ stance: >-
   AI tooling has fundamentally shifted the minimum viable team size for
   billion-dollar outcomes, making sub-20 person companies capable of $100M+ ARR
   within two years.
+related:
+  - INS-260320-A1D3
+  - INS-260330-F08F
+  - INS-260403-B73A
+  - INS-260403-CEB7
+  - INS-260405-35DF
+  - INS-260405-3098
 ---
 The data from Ben Lang's tracking of tiny teams in tech reveals a pattern: AI-native startups are reaching revenue milestones in months that previously took years with much larger teams. Cursor hit $100M ARR in 21 months with 20 people, Bolt reached $20M ARR in 2 months with 15 people, and Midjourney hit $200M ARR in 2 years with just 10 employees.
 

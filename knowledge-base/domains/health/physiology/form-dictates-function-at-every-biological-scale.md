@@ -53,17 +53,17 @@ related:
   - INS-260330-713C
   - PRI-260328-E3A7
   - INS-260327-12B5
-  - INS-260403-172E
   - INS-260330-42DE
+  - INS-260325-BBF1
 evidence:
   - id: INS-260327-12B5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-42DE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-BBF1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-972B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The principle of complementarity of structure and function states that a biological structure's form determines its capabilities. Heart valves are shaped to prevent backflow. Bones are rigid to provide structural support. Red blood cells are tiny and disc-shaped for efficient oxygen transport through capillaries. This principle holds at every level of organization — from molecular shape determining enzyme binding, to tissue architecture determining organ function.
 

@@ -50,11 +50,11 @@ stance: >-
   detection would jeopardize lucrative fee arrangements — compliance failure is
   a feature, not a bug.
 related:
+  - INS-260403-F524
   - INS-260403-3F5F
+  - INS-260404-8CAE
+  - INS-260403-52FF
   - INS-260330-404B
-  - INS-260404-2250
-  - INS-260327-17BE
-  - PRI-260328-8993
 evidence:
   - id: INS-260327-17BE
     type: SUPPORTS

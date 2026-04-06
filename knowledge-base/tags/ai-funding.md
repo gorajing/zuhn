@@ -1,3 +1,3 @@
-# Tag: ai-funding
+# Tag: AI-funding
 
-- `INS-260405-54E2` Roughly two-thirds of venture dollars go to AI, and two-thirds of AI venture dollars go to the Bay Area — a compounding concentration effect.
+- `INS-260403-87C4` Startups raised 5x more than VC fund commitments in 2025, with non-traditional investors and HNWIs filling the gap.

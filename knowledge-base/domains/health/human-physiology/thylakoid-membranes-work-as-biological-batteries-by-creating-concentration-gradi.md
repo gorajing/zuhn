@@ -49,35 +49,32 @@ stance: >-
   Biological energy production fundamentally relies on creating and exploiting
   chemical imbalances across membranes, not direct energy transfer
 related:
-  - INS-260404-BDE5
-  - INS-260403-37C4
-  - INS-260404-91A0
-  - INS-260404-6876
-  - INS-260404-47BC
+  - INS-260403-B6E6
+  - INS-260405-64C5
+  - INS-260404-F7C5
+  - INS-260330-100F
+  - INS-260330-F2B6
   - INS-260330-2E41
-  - INS-260403-172E
-  - INS-260403-791A
-  - INS-260403-F249
-  - INS-260403-DE05
+  - INS-260330-9FAA
 evidence:
   - id: INS-260330-666E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3037
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2E41
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-E374
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-464D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-791A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6876
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-972B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-F249
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-59B6
     type: TRANSFERS_TO
     classified_at: '2026-04-05'

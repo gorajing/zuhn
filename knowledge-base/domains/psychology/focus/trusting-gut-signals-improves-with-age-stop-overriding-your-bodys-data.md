@@ -48,10 +48,10 @@ resolutions:
     data rather than noise to be analyzed away.
 related:
   - INS-260327-5B13
+  - INS-260403-E554
   - INS-260327-2DF7
   - PRI-260325-2800
   - INS-260325-268F
-  - INS-260325-E8BC
 stance: >-
   The best thing about getting older is learning to trust the body's signals
   instead of using the analytical forebrain to override them

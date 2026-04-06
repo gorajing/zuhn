@@ -55,11 +55,11 @@ stance: >-
   creates the illusion of progress while wasting the most constrained resource
   in early-stage sales -- founder time.
 related:
+  - INS-260403-DED8
   - PRI-260403-0ABD
   - PRI-260403-26B9
   - INS-260330-D644
   - INS-260323-1B42
-  - PRI-260405-2A11
 evidence:
   - id: INS-260323-1B42
     type: TRANSFERS_TO

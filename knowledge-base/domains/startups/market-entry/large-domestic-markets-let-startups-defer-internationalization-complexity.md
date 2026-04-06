@@ -49,12 +49,13 @@ stance: >-
   solving internationalization, while small-country startups must handle
   multi-language complexity from day one.
 related:
-  - INS-260330-81A7
+  - INS-260403-8194
+  - INS-260403-56FC
   - PRI-260328-1D90
+  - INS-260403-C7E3
   - INS-260403-0550
-  - INS-260322-CFB1
-  - INS-260403-BA5D
   - INS-260403-22E9
+  - INS-260403-4E9D
 evidence:
   - id: INS-260330-81A7
     type: SUPPORTS

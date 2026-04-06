@@ -47,23 +47,25 @@ stance: >-
   that causes people to underinvest in their highest-returning activities.
 related:
   - INS-260329-6BFC
-  - INS-260329-E2D0
+  - INS-260329-A011
   - INS-260330-0102
   - INS-260329-D4BC
-  - INS-260404-FF84
+  - INS-260403-A485
+  - INS-260322-FD23
+  - INS-260403-86DF
 evidence:
   - id: INS-260322-FD23
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6BFC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E2D0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0102
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D4BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-43E5
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Hormozi argues that passive vs active income is a spectrum, not a binary. Everyone trades time for money — the only question is your return per hour. The practical mistake most people make is diverting money from high-return active work into speculative passive investments. Instead, calculate your actual dollars-per-hour (annual income / 2000 for work hours, or / 8000 for all waking hours), then aggressively allocate more time to anything that exceeds that rate.
 

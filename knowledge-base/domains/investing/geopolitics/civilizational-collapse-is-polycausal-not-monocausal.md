@@ -43,27 +43,27 @@ stance: >-
   Complex system failures are almost never caused by a single factor but by
   multiple stressors arriving in rapid succession before recovery can occur.
 related:
-  - INS-260325-6AD5
-  - INS-260323-DF0F
-  - INS-260325-3C17
-  - INS-260330-CCE7
-  - INS-260330-43EB
   - INS-260325-F5CA
+  - INS-260325-3C17
+  - INS-260325-6AD5
   - INS-260330-E585
+  - INS-260330-43EB
   - INS-260330-3994
   - INS-260330-4E55
   - INS-260330-6AED
+  - INS-260403-B378
+  - INS-260403-0E11
 evidence:
   - id: INS-260330-43EB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-6EFB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E585
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4E55
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6BAF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-440E
     type: SUPPORTS
     classified_at: '2026-04-06'

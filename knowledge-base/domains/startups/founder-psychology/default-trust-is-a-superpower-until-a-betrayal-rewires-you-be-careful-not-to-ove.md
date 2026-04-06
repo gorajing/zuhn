@@ -48,8 +48,8 @@ related:
   - INS-260322-627E
   - INS-260327-5E93
   - INS-260327-7349
-  - INS-260327-7F32
-  - INS-260330-1FA8
+  - INS-260403-9A8A
+  - INS-260403-7285
 stance: >-
   Altman's default-trust philosophy served him well until the board coup — the
   danger is overcorrecting from trusting to paranoid.

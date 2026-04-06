@@ -53,15 +53,13 @@ stance: >-
   operations — building their own agents.
 related:
   - INS-260321-0CCD
+  - INS-260403-5D1F
   - INS-260328-FFC3
   - PRI-260328-3094
   - INS-260323-F15D
-  - PRI-260328-8317
-  - INS-260323-BF81
+  - INS-260404-6DAD
   - INS-260327-0833
-  - INS-260327-ACB3
-  - INS-260403-101D
-  - INS-260405-FAE3
+  - INS-260404-B18A
 evidence:
   - id: INS-260328-FFC3
     type: EXTENDS

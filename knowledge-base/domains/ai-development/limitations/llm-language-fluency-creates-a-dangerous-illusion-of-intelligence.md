@@ -51,16 +51,16 @@ stance: >-
   fundamentally sophisticated pattern-completion engines incapable of true
   reasoning or invention.
 related:
-  - INS-260321-F864
   - INS-260323-539C
   - INS-260323-8E4D
   - PRI-260405-2DE5
+  - INS-260330-2666
   - PRI-260403-52DF
   - PRI-260405-262B
   - INS-260329-72AC
-  - INS-260329-FCD3
   - INS-260329-882A
-  - INS-260330-A1AF
+  - INS-260402-3095
+  - INS-260403-B8AA
 evidence:
   - id: INS-260323-A19F
     type: TRANSFERS_TO

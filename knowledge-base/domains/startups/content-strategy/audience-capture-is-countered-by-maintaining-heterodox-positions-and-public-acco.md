@@ -55,13 +55,12 @@ stance: >-
   your audience's expectations
 related:
   - INS-260323-3614
-  - INS-260321-FB3F
   - INS-260322-E06A
   - INS-260327-A048
   - INS-260330-748E
   - INS-260322-F65F
+  - INS-260403-8C7E
   - INS-260330-795D
-  - INS-260330-3570
   - INS-260330-E3ED
 evidence:
   - id: INS-260322-F65F

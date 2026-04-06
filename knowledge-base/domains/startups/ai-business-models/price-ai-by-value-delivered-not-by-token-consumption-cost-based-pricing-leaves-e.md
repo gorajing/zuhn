@@ -50,15 +50,12 @@ resolutions:
     companies pricing by cost will see their revenue shrink while companies
     pricing by value will see their margins expand.
 related:
-  - INS-260325-206C
   - INS-260325-4FF3
+  - INS-260403-401F
   - INS-260403-5D89
   - INS-260403-97F8
-  - INS-260403-1E4A
-  - INS-260327-C15B
-  - INS-260329-8F7C
+  - INS-260403-501D
   - INS-260330-8639
-  - INS-260403-4E16
 stance: >-
   AI application companies should price by business value delivered or
   productivity uplift, not by token consumption

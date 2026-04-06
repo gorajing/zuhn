@@ -46,12 +46,13 @@ resolutions:
     supply-side economics drive distribution strategy.
 related:
   - INS-260322-D69E
+  - INS-260321-52EF
   - INS-260323-5106
   - INS-260404-60F4
   - PRI-260328-82BE
   - INS-260404-96E6
-  - INS-260403-D8A2
   - INS-260327-F7C0
+  - INS-260325-A1BC
 stance: >-
   Krispy Kreme expanded into supermarkets, gas stations, and airports to fill
   production capacity

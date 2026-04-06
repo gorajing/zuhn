@@ -39,12 +39,11 @@ stance: >-
   The true cost-benefit of any purchase is the value you will actually extract
   from using it, not the spread between retail price and what you paid
 related:
-  - INS-260329-A011
-  - INS-260330-0317
+  - INS-260405-FFCE
+  - INS-260403-8450
+  - INS-260403-6EBD
   - INS-260330-809A
   - INS-260328-23B4
-  - INS-260327-5DD2
-  - PRI-260327-942E
 evidence:
   - id: INS-260330-0317
     type: CHALLENGES

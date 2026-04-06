@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "AI In a Bubble?\U0001FAE7, Moats Revisited\U0001F6E1️, AI makes the old VC playbook obsolete⚡"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-in-a-bubble-moats-revisited-ai'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Hyperliquid's 11-person team generating massive revenue demonstrates that
@@ -60,6 +50,17 @@ stance: >-
   Fully automated AI-native companies with sub-15 person teams can generate
   revenue-per-employee ratios that fundamentally break traditional scaling
   assumptions about headcount requirements.
+related:
+  - INS-260325-FADB
+  - INS-260327-B561
+  - INS-260328-0DFE
+  - INS-260329-82B1
+  - INS-260330-956E
+  - INS-260405-5E6B
+  - INS-260403-7DF4
+  - INS-260403-3664
+  - INS-260403-13AF
+  - INS-260405-B88A
 ---
 Hyperliquid operates a fully automated on-chain central limit order book with just 11 people, delivering exchange performance comparable to centralized platforms while generating extraordinary revenue per employee. This isn't just efficiency—it represents a structural shift where code and autonomous systems replace the operating workforce entirely.
 

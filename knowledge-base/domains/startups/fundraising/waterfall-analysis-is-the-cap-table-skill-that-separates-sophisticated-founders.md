@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Cap Table Mastery: How to Manage Startup Equity from Seed to Series C'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/cap-table-mastery-how-to-manage-startup'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Exit waterfall modeling reveals how deal terms actually distribute value at
@@ -62,6 +52,13 @@ stance: >-
   Founders who cannot model exit waterfalls across multiple scenarios
   systematically accept worse deal terms because they cannot see how liquidation
   preferences and participation rights redistribute value
+related:
+  - INS-260403-EA28
+  - INS-260403-3C2D
+  - INS-260403-C8F0
+  - PRI-260405-BFAC
+  - INS-260403-1E34
+  - INS-260323-8AB8
 ---
 A waterfall analysis calculates how proceeds from a liquidity event flow to each shareholder class based on liquidation preferences, participation rights, and seniority stacking. VCs run these models routinely, but most founders don't—which creates a dangerous information asymmetry at the negotiating table.
 

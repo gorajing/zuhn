@@ -44,13 +44,13 @@ stance: >-
   knowledgeable about things they don't understand.
 related:
   - INS-260322-2D2F
-  - INS-260323-92AD
   - INS-260327-0595
   - INS-260329-DC86
   - INS-260329-78AE
   - INS-260330-990F
   - INS-260403-5C1D
   - INS-260405-371F
+  - INS-260403-9F64
   - INS-260403-4960
   - INS-260403-7563
 evidence:

@@ -54,20 +54,19 @@ stance: >-
   compounds for decades and no policy can reverse it fast enough to prevent
   economic contraction.
 related:
-  - INS-260327-4FD9
-  - INS-260330-0539
   - INS-260330-777A
   - INS-260330-DA38
   - INS-260330-6C3D
+  - INS-260327-4FD9
+  - INS-260403-A726
   - INS-260323-DA6F
   - INS-260327-F93A
-  - INS-260325-A46E
   - INS-260403-535C
 evidence:
   - id: INS-260330-777A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-4300
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-535C
     type: EXTENDS
     classified_at: '2026-04-06'

@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260329-ADCD
   - PRI-260328-C918
+  - INS-260404-19B0
+  - INS-260403-16EA
   - INS-260404-1755
-  - INS-260322-D57C
-  - INS-260329-CBF6
 evidence:
   - id: INS-260329-ADCD
     type: TRANSFERS_TO

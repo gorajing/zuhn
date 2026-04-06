@@ -50,12 +50,13 @@ stance: >-
   business models illegal or socially unacceptable overnight, and companies that
   don't monitor these forces face existential rather than incremental risk.
 related:
-  - INS-260327-2BAD
   - INS-260403-BE7C
   - INS-260403-C0FE
   - PRI-260405-6216
   - INS-260322-FCFC
   - INS-260322-F6AA
+  - INS-260403-5616
+  - INS-260405-E155
 ---
 Nike's experience with NGO activism over Vietnam operations and the potential impact of privacy laws on data-dependent business models illustrate a pattern: social and legal forces don't just create friction — they can make entire business model architectures illegal or socially toxic. Anti-spam laws didn't just make spam marketing harder; they aimed to eliminate the business model entirely. Privacy regulations don't just add compliance costs; they can invalidate business models built on uninformed data collection.
 

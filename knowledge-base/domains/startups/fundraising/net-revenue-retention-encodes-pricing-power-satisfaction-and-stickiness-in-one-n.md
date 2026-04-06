@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/saas-company-valuation-formula-2026'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     NRR tells buyers whether existing customers are expanding or contracting,
@@ -58,6 +48,16 @@ resolutions:
 stance: >-
   NRR is the single most information-dense quality signal for SaaS businesses
   because it captures multiple business health dimensions simultaneously
+related:
+  - INS-260327-A814
+  - INS-260404-D1E2
+  - INS-260403-2385
+  - INS-260405-BBA3
+  - INS-260403-C734
+  - INS-260403-1E4A
+  - INS-260405-790A
+  - INS-260403-91A1
+  - INS-260403-A2A2
 ---
 Net Revenue Retention is uniquely valuable as a valuation input because it simultaneously communicates pricing power, customer satisfaction, and product stickiness — information that growth rate alone cannot convey. A company growing 50% through new customer acquisition with 85% NRR tells a fundamentally different story than one growing 50% with 115% NRR.
 

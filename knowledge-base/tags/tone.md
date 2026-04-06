@@ -1,3 +1,3 @@
 # Tag: tone
 
-- `INS-260329-4A96` Instead of training salespeople on tonal techniques, build their genuine conviction in the product — correct tone follows automatically.
+- `INS-260403-11F8` Musk's bluntness and Nadella's warmth both scale, but they attract and retain fundamentally different people.

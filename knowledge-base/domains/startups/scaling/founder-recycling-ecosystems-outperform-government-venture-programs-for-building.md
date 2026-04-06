@@ -20,24 +20,14 @@ tags:
 sources:
   - type: blog
     title: "Anthropic VS Pentagon⚔️, State of Pre-Seed\U0001F4CA, Perplexity's new AI Command Center\U0001F5A5️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/anthropic-vs-pentagon-state-of-pre'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sweden's unicorn density came from founder alumni reinvesting exits into new
@@ -62,6 +52,16 @@ stance: >-
   Sweden's unicorn concentration was driven primarily by alumni networks from
   Spotify, Klarna, and Skype reinvesting exits into new startups, with tax
   incentives and cultural flywheels mattering more than any public venture fund.
+related:
+  - INS-260402-8E29
+  - INS-260404-BEBB
+  - INS-260404-ADEE
+  - INS-260403-4B31
+  - INS-260405-93AE
+  - INS-260403-5896
+  - INS-260404-238B
+  - INS-260404-C9D0
+  - INS-260403-4365
 ---
 Research on Sweden's outsized unicorn production reveals that the ecosystem's engine is founder recycling — alumni from Spotify, Klarna, and Skype taking their exits, knowledge, and networks and reinvesting them into the next generation of startups. This creates a compounding flywheel: each successful exit produces multiple experienced founders and angel investors who de-risk the next cohort.
 

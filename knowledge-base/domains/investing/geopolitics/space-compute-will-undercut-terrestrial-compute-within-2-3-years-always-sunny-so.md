@@ -48,13 +48,16 @@ resolutions:
     terawatt becomes feasible. This directly challenges the 'energy is the AI
     bottleneck' thesis — it's only the bottleneck if you stay on Earth.
 related:
-  - INS-260325-2906
   - INS-260322-B8E6
   - INS-260323-5955
   - INS-260328-8445
+  - INS-260405-D638
   - INS-260403-CAE5
-  - INS-260330-2064
+  - INS-260404-7A75
   - INS-260330-BC8E
+  - INS-260330-2064
+  - INS-260403-0789
+  - INS-260404-EE07
 stance: >-
   Musk argues space-based AI will cost less than terrestrial AI within 2-3 years
   because space solar is 5x more efficient (no atmosphere, no day/nigh...

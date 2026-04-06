@@ -55,7 +55,6 @@ stance: >-
   content of visions or mystical experiences.
 related:
   - INS-260325-3306
-  - INS-260327-DF8B
   - INS-260330-F41D
   - INS-260330-D5DD
   - PRI-260405-CCCE
@@ -63,7 +62,7 @@ related:
   - INS-260403-2BAD
   - PRI-260403-9D15
   - INS-260330-415C
-  - INS-260330-0C10
+  - INS-260404-97AA
 evidence:
   - id: INS-260330-6C6B
     type: EXTENDS

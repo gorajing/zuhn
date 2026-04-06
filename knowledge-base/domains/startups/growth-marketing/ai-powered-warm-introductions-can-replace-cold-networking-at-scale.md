@@ -48,10 +48,10 @@ stance: >-
   eliminating the 'who you know' advantage of privileged networks.
 related:
   - INS-260322-5D22
+  - INS-260405-A992
   - INS-260327-112B
+  - INS-260403-FCF7
   - INS-260327-94FE
-  - INS-260322-96D1
-  - INS-260404-087C
 evidence:
   - id: INS-260322-96D1
     type: EXTENDS

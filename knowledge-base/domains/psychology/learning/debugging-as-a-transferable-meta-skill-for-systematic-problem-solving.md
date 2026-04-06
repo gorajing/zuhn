@@ -51,20 +51,19 @@ stance: >-
 related:
   - INS-260321-AD95
   - INS-260329-19EA
-  - INS-260329-7C59
-  - INS-260329-9311
-  - INS-260329-FEF4
+  - PRI-260405-6867
+  - INS-260403-643A
   - INS-260329-D48B
-  - INS-260330-FA9D
+  - INS-260329-03B5
 evidence:
   - id: INS-260321-AD95
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-19EA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FEF4
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The lecture covers debugging as a core programming skill: systematically identifying where code breaks, isolating the problem, and fixing it step by step. But this workflow maps directly onto troubleshooting in medicine (differential diagnosis), engineering (root cause analysis), and business (5 Whys). The structure is identical: observe symptoms, form hypotheses, test systematically, verify the fix.
 

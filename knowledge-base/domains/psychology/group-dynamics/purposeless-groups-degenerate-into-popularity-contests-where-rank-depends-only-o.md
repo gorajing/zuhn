@@ -51,17 +51,17 @@ related:
   - INS-260330-EFF3
   - INS-260403-D06F
   - INS-260403-B4DC
-  - INS-260330-4B16
+  - INS-260404-34DB
   - INS-260404-4FDB
 evidence:
   - id: INS-260330-A812
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8048
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-F128
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-CEE1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-4FDB
     type: SUPPORTS
     classified_at: '2026-04-06'

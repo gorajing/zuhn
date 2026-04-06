@@ -48,15 +48,15 @@ stance: >-
   than the years typical for previous technology waves, driven by bottom-up
   pressure and rapidly maturing security solutions.
 related:
+  - INS-260403-AC2D
+  - INS-260403-2115
   - INS-260327-E18C
+  - INS-260404-8E0D
   - INS-260321-8414
-  - INS-260321-4E98
-  - INS-260403-AC5E
-  - INS-260327-76B2
   - INS-260323-1643
-  - INS-260327-1D37
   - INS-260327-F50E
-  - INS-260327-D65E
+  - INS-260327-76B2
+  - INS-260403-AC5E
   - INS-260403-C355
 evidence:
   - id: INS-260321-4E98

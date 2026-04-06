@@ -48,14 +48,14 @@ stance: >-
   externally — you have roughly 24 hours to start integrating it into your
   product, making traditional planning cycles nearly useless.
 related:
-  - INS-260321-167A
-  - INS-260323-5986
   - INS-260403-B2EA
   - PRI-260405-64B2
+  - INS-260403-9421
   - INS-260322-1D52
   - INS-260328-9415
-  - INS-260322-AAEA
   - INS-260403-566D
+  - INS-260403-05CE
+  - INS-260404-E4F1
 evidence:
   - id: INS-260322-1D52
     type: SUPPORTS

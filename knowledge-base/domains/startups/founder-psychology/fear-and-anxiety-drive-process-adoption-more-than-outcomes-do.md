@@ -45,12 +45,12 @@ stance: >-
   improve outcomes, and this emotional comfort can be mistaken for
   effectiveness.
 related:
+  - INS-260405-D20A
   - INS-260327-E7B8
+  - INS-260405-ECCD
   - PRI-260403-88F5
   - INS-260322-C6CE
-  - INS-260321-A56C
-  - INS-260327-3A15
-  - INS-260330-B784
+  - INS-260403-E09E
 evidence:
   - id: INS-260327-E7B8
     type: TRANSFERS_TO

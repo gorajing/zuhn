@@ -45,7 +45,6 @@ stance: >-
   that spend 12 weeks perfecting a single model
 related:
   - INS-260322-AABB
-  - INS-260403-D4EA
   - INS-260403-8CDD
   - INS-260403-E25F
   - INS-260403-219E

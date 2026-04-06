@@ -46,14 +46,12 @@ stance: >-
   platform something developers personally want to use, because developers write
   first for their own machines.
 related:
-  - INS-260329-E193
-  - INS-260330-3A3E
   - INS-260330-F125
   - INS-260403-8F6E
   - INS-260405-D23E
+  - INS-260402-8C42
   - INS-260327-D0F3
   - INS-260330-E263
-  - PRI-260328-FD47
 evidence:
   - id: INS-260329-E193
     type: SUPPORTS

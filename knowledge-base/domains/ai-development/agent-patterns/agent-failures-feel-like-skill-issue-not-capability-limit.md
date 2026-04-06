@@ -36,15 +36,15 @@ resolutions:
     it also creates psychosis because the improvement space feels infinite.
 related:
   - INS-260320-9D89
+  - INS-260403-0DE8
+  - INS-260405-2DCC
   - INS-260327-9F46
   - INS-260325-2DCD
-  - INS-260325-252D
-  - INS-260325-5023
   - INS-260321-D370
+  - INS-260325-252D
   - INS-260322-D0F6
   - INS-260321-E2FC
   - INS-260329-20F8
-  - INS-260330-D7CC
 stance: >-
   When agents fail, the instinct now is 'I gave bad instructions' not 'the AI
   can't do this'

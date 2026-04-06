@@ -44,8 +44,8 @@ stance: >-
   customer insight gathering more than budget or headcount constraints do.
 related:
   - INS-260321-7D76
-  - INS-260327-DECA
   - INS-260329-C0A7
+  - INS-260327-DECA
   - PRI-260328-0C51
   - PRI-260321-14D8
   - INS-260405-A1E6

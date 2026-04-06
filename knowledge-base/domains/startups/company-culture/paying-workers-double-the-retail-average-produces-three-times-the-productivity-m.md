@@ -54,13 +54,12 @@ stance: >-
   Above-market compensation in labor-intensive businesses is often ROI-positive
   when measured against productivity, turnover, and customer experience outcomes
 related:
-  - INS-260330-7E58
   - INS-260403-8A80
   - INS-260403-3062
   - INS-260404-C13E
   - INS-260405-C8BC
+  - INS-260404-8A1D
   - INS-260405-202B
-  - INS-260405-AC40
 ---
 Costco's 245,000 workers earn an average of $21/hour, with better health insurance and retirement benefits than the retail industry standard. In exchange, the company reports employees are three times more productive than the average retail worker. Low turnover reduces hiring and training costs, high engagement reduces theft and errors, and better customer service drives membership renewals.
 

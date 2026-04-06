@@ -41,15 +41,15 @@ stance: >-
   often mediocre eating experiences.
 related:
   - INS-260322-0812
+  - INS-260327-165D
   - INS-260327-C9A3
   - INS-260327-555D
   - INS-260327-EEEE
   - INS-260327-9CB1
   - INS-260327-415B
   - INS-260327-4445
-  - INS-260327-165D
+  - INS-260403-C907
   - PRI-260328-0C15
-  - INS-260329-FB3F
 evidence:
   - id: INS-260322-0812
     type: TRANSFERS_TO

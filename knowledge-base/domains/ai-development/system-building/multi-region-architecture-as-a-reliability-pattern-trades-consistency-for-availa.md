@@ -58,10 +58,10 @@ stance: >-
   that most teams underestimate
 related:
   - INS-260329-572E
+  - INS-260403-C4EE
+  - INS-260403-361D
+  - INS-260402-C301
   - INS-260329-8CC0
-  - INS-260403-8011
-  - INS-260327-47E9
-  - INS-260330-8F91
 evidence:
   - id: INS-260329-572E
     type: SUPPORTS

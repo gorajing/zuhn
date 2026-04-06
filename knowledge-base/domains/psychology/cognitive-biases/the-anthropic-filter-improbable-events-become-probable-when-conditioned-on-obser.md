@@ -48,26 +48,26 @@ resolutions:
     whether the act of asking the question requires that outcome to have
     occurred. The improbability may be the filter, not the mystery.
 related:
-  - INS-260325-0A81
-  - PRI-260328-9FB6
-  - INS-260327-0692
-  - PRI-260328-36C3
-  - INS-260327-684D
   - INS-260325-436A
+  - INS-260327-0692
   - INS-260330-8625
   - INS-260330-F60B
+  - PRI-260328-9FB6
+  - PRI-260328-36C3
+  - INS-260327-684D
+  - INS-260325-82E8
 stance: >-
   If the Moon is necessary for complex life, then its improbable formation
   should be expected
 evidence:
   - id: INS-260327-0692
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-684D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-82E8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-436A
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The video ends with a powerful reframe: if our big weird Moon helped shield Earth's atmosphere, stabilize its axial tilt, and create tidal wet-dry cycles that facilitated the chemistry of first life, then we should expect to find ourselves orbiting a planet with an improbably large Moon. We are not sampling random Earth-Moon systems — we are sampling the subset that produced observers.
 

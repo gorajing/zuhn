@@ -17,26 +17,14 @@ sources:
     title: >-
       A step-by-step guide to crafting a sales pitch that wins | April Dunford
       (author of Obviously Awesome and Sales Pitch)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-step-by-step-guide-to-crafting'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Generic differentiation claims ('we're easier to use') backfire; specific,
@@ -60,6 +48,13 @@ stance: >-
   Vague claims of differentiation are worse than no differentiation claims
   because they erode credibility, while specific, provable differences convert
   skeptical buyers.
+related:
+  - INS-260329-4A69
+  - INS-260403-917B
+  - INS-260327-C6DC
+  - PRI-260328-1D0B
+  - INS-260403-508D
+  - INS-260329-226C
 ---
 Most companies claim to be 'easy to use,' 'faster,' or 'more reliable' without evidence. Dunford argues these generic claims actively hurt pitches—they signal that the seller doesn't understand what actually matters to the buyer, and they invite the obvious counter ('everyone says that'). Differentiated value must be specific enough that it can be falsified, and proven enough that it can be verified.
 

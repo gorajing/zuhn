@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Startup Valuation Methods: 8 Approaches Investors Use'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/8-startup-valuation-methods'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Combine 2-3 valuation methods to present a defensible range rather than a
@@ -58,6 +48,12 @@ stance: >-
   better outcomes than those who anchor to a single number, because the range
   demonstrates analytical rigor and reduces investor ability to cherry-pick the
   lowest estimate.
+related:
+  - INS-260404-25FF
+  - INS-260404-DFE5
+  - INS-260403-7C02
+  - INS-260404-0EB2
+  - INS-260402-CCC3
 ---
 Investors use different valuation methods depending on stage and context, and no single method captures the full picture. A pre-seed founder might blend Berkus (progress-based), Scorecard (market-relative), and Risk Factor Summation (risk-adjusted) to triangulate a range. A Series A company might use Comparable Transactions, light DCF, and the VC Method.
 

@@ -1,3 +1,3 @@
 # Tag: information-retrieval
 
-- `INS-260325-E1FA` LangChain's Harrison Chase: context engineering (assembling the right info at the right time) matters more than prompt engineering for agents.
+- `INS-260403-BE4D` Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.

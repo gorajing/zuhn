@@ -48,26 +48,28 @@ resolutions:
     and the foundation for practical factor investing through firms like
     Dimensional Fund Advisors and Avantis.
 related:
-  - INS-260323-C370
   - INS-260323-D6C7
   - INS-260330-2413
-  - INS-260403-92EB
-  - INS-260330-548B
   - INS-260403-7219
+  - PRI-260405-B144
+  - INS-260323-C370
+  - INS-260403-B98A
+  - INS-260403-6ACB
+  - INS-260403-11E3
 stance: >-
   The 1993 Fama-French paper proved that adding size (SMB) and value (HML)
   factors to market beta jumps explanatory power from ~60% to ~90% of return...
 evidence:
   - id: INS-260330-2413
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D5BD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-422B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-92EB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7219
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Before 1993, CAPM's single market beta explained about 60-80% of return differences between diversified portfolios. Fama and French's three-factor model (market + size + value) achieved R-squared values of 0.83-0.97 across 25 test portfolios, averaging ~0.93. Key findings: (1) All test portfolios had market betas near 1, proving that return variation must come from factors beyond market risk alone, (2) Near-zero alphas on almost all portfolios — meaning the model captured nearly everything, (3) Small-cap growth stocks were the one exception with unexplained low returns.
 

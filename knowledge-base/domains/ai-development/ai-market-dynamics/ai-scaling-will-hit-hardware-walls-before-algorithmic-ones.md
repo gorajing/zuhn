@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'SpaceX-xAI Merger: The $1.25T Company'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-172'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Musk's orbital compute thesis rests on the claim that electricity and
@@ -60,6 +50,13 @@ stance: >-
   The primary constraint on AI scaling is shifting from algorithmic improvements
   to physical infrastructure — energy, cooling, and compute hardware — making
   hardware capabilities the new bottleneck.
+related:
+  - INS-260321-9824
+  - INS-260322-2D57
+  - INS-260323-257D
+  - INS-260325-5CB1
+  - INS-260404-9DBB
+  - INS-260405-D638
 ---
 Musk's argument for orbital data centers stems from a broader claim: AI is transitioning from a software-constrained to a hardware-constrained field. Terrestrial grids face physical limits on the electricity and cooling infrastructure needed for continued model scaling. His prediction that space-based compute (leveraging constant solar power and vacuum cooling) will be the lowest-cost compute within 3 years is aggressive but directionally important.
 

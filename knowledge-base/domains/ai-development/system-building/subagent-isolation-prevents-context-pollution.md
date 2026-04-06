@@ -17,10 +17,10 @@ sources:
     author: Jin Choi + Claude
 related:
   - PRI-260328-A65A
-  - INS-260329-7A39
+  - INS-260403-D51A
   - INS-260327-F625
   - INS-260320-9D89
-  - INS-260327-7F56
+  - INS-260403-C501
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
@@ -51,7 +51,7 @@ stance: >-
   with accumulated confusion
 evidence:
   - id: INS-260329-7B1D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 
 Each implementation task was dispatched to a fresh subagent with exactly

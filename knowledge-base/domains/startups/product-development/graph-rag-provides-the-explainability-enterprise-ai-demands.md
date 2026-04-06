@@ -43,11 +43,11 @@ stance: >-
   graph-based RAG (retrieval augmented generation) provides the explainable
   reasoning layer that pure LLMs cannot.
 related:
+  - INS-260325-E23D
   - INS-260329-E6AF
   - INS-260402-5ACE
+  - INS-260403-11F9
   - INS-260329-2DF2
-  - INS-260403-4D80
-  - INS-260327-91E7
 evidence:
   - id: INS-260325-E23D
     type: SUPPORTS

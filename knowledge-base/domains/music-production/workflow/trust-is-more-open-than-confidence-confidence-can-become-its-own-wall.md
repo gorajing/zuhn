@@ -48,27 +48,26 @@ resolutions:
     composure.
 related:
   - INS-260321-9A03
+  - INS-260325-5A93
   - INS-260327-CD49
   - PRI-260327-5635
-  - INS-260403-C5C0
-  - INS-260325-5A93
-  - INS-260327-7349
+  - INS-260330-FB5A
 stance: >-
   Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a
   fixed belief in your identity ('I am this thing'), while trust is simply ...
 evidence:
   - id: INS-260321-9A03
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-CD49
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-5A93
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-FB5A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-7349
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-12E6
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Wilkenfeld makes a subtle but important distinction: confidence carries an identity attachment ('I'm a badass'), which can become as much of a brick wall as fear. She's shared stages with very confident musicians whose confidence was actually a barrier to genuine connection and chemistry. Trust, by contrast, is simply knowing you can get up there and handle whatever comes -- it's open-ended rather than identity-locked.
 

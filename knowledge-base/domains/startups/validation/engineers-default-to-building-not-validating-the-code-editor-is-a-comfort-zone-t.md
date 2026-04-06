@@ -45,10 +45,10 @@ resolutions:
 related:
   - INS-260320-D4BD
   - INS-260329-500E
+  - INS-260403-A2E9
   - PRI-260321-14D8
   - INS-260327-2387
-  - PRI-260328-B4BD
-  - INS-260323-4457
+  - INS-260403-D6C2
   - INS-260330-F125
 stance: >-
   Software engineers gravitate toward writing code because it feels like

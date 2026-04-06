@@ -1,3 +1,4 @@
 # Tag: economic-policy
 
-- `INS-260403-214B` Reducing potential rewards proportionally reduces willingness to take the risks inherent in starting companies.
+- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260403-FAA2` Zero-sum economic thinking fails because economies generate wealth through production, not by dividing a fixed pool of resources.

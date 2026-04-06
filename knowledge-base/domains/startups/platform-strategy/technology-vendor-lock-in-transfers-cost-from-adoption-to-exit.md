@@ -57,11 +57,11 @@ stance: >-
   generating perpetual rent extraction.
 related:
   - INS-260325-A54F
-  - INS-260330-C870
-  - INS-260403-DC6E
   - INS-260404-D6EC
   - INS-260404-1A9D
+  - INS-260330-C870
   - INS-260330-DCFB
+  - INS-260403-80B1
 evidence:
   - id: INS-260325-A54F
     type: SUPPORTS

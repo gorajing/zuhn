@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Seek peers working on their own ambitious projects rather than generic
@@ -60,6 +48,15 @@ stance: >-
   The right support network for ambitious projects isn't people who are always
   encouraging—it's people working on similarly ambitious projects who can
   distinguish genuine promise from mediocrity.
+related:
+  - INS-260404-E716
+  - INS-260403-5216
+  - INS-260405-7460
+  - INS-260404-64F1
+  - INS-260403-1228
+  - INS-260405-ED6F
+  - INS-260403-D417
+  - INS-260404-FA5B
 ---
 Surrounding yourself with unconditionally supportive people sounds helpful but quickly becomes useless—you learn to discount blanket encouragement. What you actually need are colleagues who can see the promise in rough early work because they understand the trajectory from personal experience. These people naturally cluster in university departments, research labs, and startup hubs.
 

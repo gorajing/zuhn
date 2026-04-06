@@ -45,14 +45,15 @@ stance: >-
   scales with volume, while traditional publishing through gatekeepers trades
   long-term leverage for short-term credibility.
 related:
-  - PRI-260322-DCDB
-  - INS-260403-DEF6
+  - INS-260403-C907
+  - INS-260403-4D04
+  - INS-260405-B22F
+  - INS-260403-45DB
+  - INS-260403-7BAA
   - INS-260329-C092
-  - INS-260327-723A
-  - INS-260324-5481
-  - INS-260403-7878
   - INS-260403-C1E9
   - INS-260403-D20A
+  - INS-260405-3F0F
 evidence:
   - id: INS-260321-86E7
     type: SUPPORTS

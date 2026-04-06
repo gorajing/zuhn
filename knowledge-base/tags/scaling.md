@@ -3,63 +3,87 @@
 - `INS-260330-7E4F` Running multiple AI agents in parallel requires cloud development environments because local machines hit physical limits at 3-4 concurrent worktrees.
 - `INS-260325-F981` Month-long agents will need entirely new inference systems — current serving stacks cannot handle persistent execution.
 - `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
+- `INS-260403-2138` DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
+- `INS-260403-46DD` Mass surveillance was legally possible but practically infeasible before AI; AI removes the cost/scale constraint that served as the real protection.
 - `INS-260321-BFA3` AI solved 50 Erdős problems which looks amazing, but systematic studies show a 1-2% success rate per problem — scale and selection bias make it look like magic when you only see the wins.
+- `INS-260403-1EFF` Bio Anchors estimated 30% yearly algorithmic progress from easy-task benchmarks, but frontier AI saw 200% yearly gains because harder tasks have more room for improvement.
 - `INS-260323-D56E` Yudkowsky publicly acknowledges that GPT-4 exceeded what he thought stacking transformer layers could achieve, which means he can't predict what GPT-5 will do.
 - `INS-260322-474A` AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
 - `INS-260325-9C89` AlphaProof's TTRL adds 15 percentage points to solve rates beyond tree search scaling, enabling solutions to problems that exhaustive search at any budget cannot crack.
-- `INS-260403-2138` DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
 - `INS-260327-CFDC` Robots performing economically useful tasks in the real world will produce training data as a byproduct, creating a data flywheel unavailable from internet scraping.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
+- `INS-260402-C98A` Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.
 - `INS-260327-C962` Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260325-4846` Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
-- `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
+- `INS-260404-E077` Neuralink's target of 10K implants/year by 2030 at $40-50K each means BCIs won't meaningfully close the human-AI gap at population scale for years.
+- `INS-260405-A4DB` AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
+- `INS-260405-DA33` DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
 - `INS-260323-4E12` The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
+- `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260328-6C9A` In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
 - `INS-260320-47FA` MASTER_INDEX to domain overview to topic summary to individual insight — answering "what do I know about X?" requires reading roughly 4 files regardless of total insight count.
 - `INS-260329-8CC0` Sharding splits data across servers for write scalability while replication copies data across servers for read scalability — the workload pattern determines which to use.
 - `INS-260329-3EB6` AWS Lambda's auto-scaling model means you never under-provision, but the operational discipline shifts from capacity planning to cost monitoring and function optimization.
+- `INS-260404-EC33` Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
+- `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
 - `INS-260320-8688` Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
 - `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
 - `INS-260404-1755` ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
 - `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
+- `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
+- `INS-260403-2496` Yahoo's hand-curated web directory drowned as the internet scaled, while Google's PageRank handled exponential growth effortlessly.
 - `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
-- `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
+- `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
+- `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260330-A44F` Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
+- `INS-260329-24CE` Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
 - `INS-260323-CB34` Founders who try to be every team member stifle company growth and drain energy from the entire organization.
-- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
-- `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
-- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
-- `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
-- `INS-260330-D0AB` Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
 - `INS-260330-F800` Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
-- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
+- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260405-BBA3` Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.
+- `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
+- `INS-260403-1432` Casting a wide net with post-hoc quality sorting achieves better geographic coverage than pre-filtering volunteers.
+- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
+- `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
+- `INS-260330-D0AB` Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
+- `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
 - `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
+- `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
-- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
-- `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260329-CBF6` Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
+- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260403-5F1C` The transition from spreadsheet to dedicated equity platform should happen at the first priced round, not when errors become visible.
+- `INS-260403-5E86` IPO preparation should begin 2-3 years before the target date as an operational transformation, not a financial sprint.
+- `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.
+- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
+- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
+- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
+- `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
+- `INS-260403-A8A3` Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
+- `INS-260403-A851` The spectrum from full codebase access (Linear, Gumroad) to synthetic take-home projects (PostHog, Automattic at scale) reflects a deliberate trade-off between signal depth and process scalability.
 - `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
-- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260403-CF44` Dario spends 30-40% of his time on culture because at exponential speed, organizational decoherence is the binding constraint on execution.
 - `INS-260403-8B5A` Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
+- `INS-260405-B4D2` Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.
 - `INS-260330-EF51` The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
 - `INS-260330-85B8` Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
@@ -69,27 +93,35 @@
 - `INS-260323-C90C` True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.
 - `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
+- `INS-260405-443C` Sales hires amplify product-led momentum but cannot substitute for it.
 - `INS-260403-8A80` Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
+- `INS-260403-E3E0` Companies like Cursor (20 people, $100M ARR in 21 months) and Midjourney (10 people, $200M ARR in 2 years) prove that AI amplifies small team output by orders of magnitude.
+- `INS-260404-0B8E` Waymo's tripling to 15M annual rides with 90% fewer serious injuries demonstrates autonomous driving is now a proven infrastructure service, not a research project.
 - `INS-260330-2F74` RuBisCo is terrible at its job but there are 40 billion tons of it on Earth — brute-force quantity as the scaling strategy when unit quality can't improve.
+- `INS-260330-8BF6` Plants produce 40 billion tons of a bad enzyme rather than evolving a better one — volume compensates for quality at sufficient scale.
 - `INS-260322-7F88` At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
 - `INS-260330-B437` Facebook's community translation platform covered 104 languages (70 community-translated) and prepared them for explosive Hindi growth — which quadrupled in one year — while competitors who manually translated for 2007's top languages fell behind.
 - `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-2D53` China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
+- `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
 - `INS-260330-3585` Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-EB1B` Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.
 - `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
 - `INS-260329-2612` Consistent hashing maps both nodes and data onto a ring, so adding or removing a node only redistributes a fraction of data rather than reshuffling everything.
 - `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
+- `INS-260403-20F9` Alphabet's restructure elevated Page above operational noise while preserving his control over capital allocation and strategic direction.
 - `INS-260403-3A7A` Inconsistent cross-department innovation collaboration signals the need to formalize innovation processes with dedicated tooling.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260403-7227` Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 - `INS-260330-0E4B` At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
+- `INS-260330-2E1E` The Assyrians extended their empire beyond their road network, making administration impossible and contributing to collapse.
 - `INS-260330-72BD` The Mongol Empire splintered into four separate khanates after Genghis Khan's death because conquest outpaced institutional development.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
 - `INS-260327-0D0B` Plan for your company to break at every headcount doubling—the breakage is a feature, not a bug.
+- `INS-260403-193E` Fixed costs like headcount and infrastructure jump in steps, not linearly—controlling when those steps happen is a key founder lever for preserving cash.
 - `INS-260330-488B` Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
 - `INS-260330-50A4` Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
 - `INS-260330-E99F` Force daily cross-functional calls where every discipline presents constraints together, because trade-offs in one area systematically affect others in ways that organic communication misses.
@@ -98,31 +130,42 @@
 - `INS-260329-422F` Scaling out trades a simple resource ceiling for the unbounded complexity of coordination, consistency, and partition management.
 - `INS-260330-240A` Bacteria explored far more genetic sequence space than eukaryotes over 4 billion years yet never became complex — proving that more iteration on the same architecture cannot overcome structural energy constraints.
 - `INS-260324-FF33` Krispy Kreme expanded into supermarkets, gas stations, and airports to fill production capacity — but ubiquity killed the novelty that made people line up in the first place.
+- `INS-260403-272C` A leader who outworks the entire organization removes the moral ground on which resistance to high standards usually stands.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260404-D1F6` The Calvin Cycle produces 6 G3P molecules but only 1 exits — 83% is reinvested to keep the cycle running.
 - `INS-260329-9A8B` Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
+- `INS-260403-80A0` Keep a tight permanent core and flex capacity through a modular outer ring of contractors, agencies, and AI.
 - `INS-260330-C658` Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
+- `INS-260402-8A58` Companies must proactively rewire communication, management, and leadership structures at predictable headcount thresholds rather than waiting for dysfunction to force change.
 - `INS-260403-46BD` Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
 - `INS-260327-DAE5` Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
 - `INS-260330-8C52` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260403-AEBD` Restructuring resource assignments can create room for growth without acquiring new resources.
 - `INS-260330-4830` When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
+- `INS-260403-16EA` True scalability means growing revenue exponentially while costs grow linearly, best demonstrated through LTV/CAC ratios and declining marginal costs.
 - `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
+- `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
+- `INS-260403-BF1F` Plugging real metrics into an MRR model before hiring prevents premature scaling that burns runway.
 - `INS-260403-7B60` Palo Alto's rising costs pushed the active startup center toward Mountain View, a pattern that repeats in every tech hub.
 - `INS-260404-1F1B` Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
+- `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260403-4935` If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
 - `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
+- `INS-260403-185D` The shift from founder hustle to systematic operations is the make-or-break transition for scaling startups.
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
+- `INS-260403-D8DB` Burn multiple (spend per ARR dollar), efficiency score (ARR per burn dollar), and hype factor (capital raised vs ARR) together reveal whether growth is real.
+- `INS-260403-E09C` Design for geographic flexibility by treating location as a variable you iterate on as the company evolves.
 - `INS-260403-DB38` Large orgs divide into small groups via hierarchy, but each person's freedom shrinks proportionally to total org size because each group must act as one virtual person to the layer above.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
+- `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
-- `INS-260330-22D6` Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
 - `INS-260403-5B4E` Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
 - `INS-260403-DB16` Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
 - `INS-260404-B1AB` RuBisCo is terrible at its job but 40 billion tons of it run the biosphere because early life scaled quantity over quality.
 - `INS-260404-9229` When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
+- `INS-260330-22D6` Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.

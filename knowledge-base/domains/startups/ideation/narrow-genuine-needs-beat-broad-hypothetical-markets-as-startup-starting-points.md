@@ -44,10 +44,10 @@ stance: >-
   starting point than a broad but hypothetical market opportunity
 related:
   - INS-260327-3A71
+  - INS-260403-13E6
   - INS-260403-22D3
   - INS-260327-63B5
   - INS-260323-FCC1
-  - INS-260325-21D1
 evidence:
   - id: INS-260327-63B5
     type: CHALLENGES

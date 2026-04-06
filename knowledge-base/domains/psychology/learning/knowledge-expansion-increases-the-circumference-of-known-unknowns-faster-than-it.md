@@ -54,7 +54,6 @@ stance: >-
   resolves, meaning the frontier of acknowledged ignorance grows faster than the
   frontier of knowledge.
 related:
-  - INS-260329-1E81
   - INS-260330-3819
   - INS-260330-BEAD
   - INS-260403-C135

@@ -16,28 +16,14 @@ tags:
 sources:
   - type: blog
     title: The Creator Economy 2025
-    author:
-      - '@type': Person
-        name: Ollie Forsyth
-        url: 'https://substack.com/@neweconomies'
-        description: >-
-          ex Antler VC. Building NEW ECONOMIES - your go to newsletter on the
-          latest trends in tech. 
-        identifier: 'user:119664304'
-        sameAs:
-          - 'https://twitter.com/ollieforsyth'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
+    author: Ollie Forsyth
     url: 'https://www.thevccorner.com/p/the-creator-economy-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     46% of new creator economy unicorns since 2020 are AI-based platforms, and
@@ -62,6 +48,17 @@ resolutions:
 stance: >-
   AI capabilities have become the primary differentiator for achieving outsized
   scale in creator-serving startups, displacing community and marketplace models
+related:
+  - INS-260404-0153
+  - INS-260404-BEBB
+  - INS-260403-5056
+  - INS-260405-6342
+  - INS-260404-6D4D
+  - INS-260403-713B
+  - INS-260404-E55F
+  - INS-260404-ADEE
+  - INS-260403-1F6B
+  - INS-260404-6243
 ---
 Of the 13 new creator economy unicorns since 2020, 46% are AI-based platforms including ElevenLabs, Runway, Jasper, and the broader AI companies like Anthropic and OpenAI that serve creators among other users. This represents a dramatic shift from the previous unicorn class which was dominated by marketplace and community platforms.
 

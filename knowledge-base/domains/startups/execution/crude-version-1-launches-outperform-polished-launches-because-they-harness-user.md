@@ -45,11 +45,11 @@ stance: >-
   than extended development because real user feedback is more powerful than the
   creator's imagination alone
 related:
+  - INS-260405-5649
   - INS-260325-75A3
   - INS-260403-532D
   - INS-260327-2387
   - INS-260330-1DDE
-  - INS-260405-9DB6
 evidence:
   - id: INS-260330-1DDE
     type: CHALLENGES

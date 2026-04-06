@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Sequoia’s $10 Trillion AI Revolution\U0001F4B0, The Great Startup Concentration\U0001F4CA, The AI Hustle⏰"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/sequoias-10-trillion-ai-revolution'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Companies are quietly replacing departing employees with AI agents that
@@ -55,6 +45,17 @@ stance: >-
   Companies will increasingly replace departing employees with AI agents rather
   than new hires, making workforce reduction invisible and politically
   frictionless.
+related:
+  - INS-260327-40D5
+  - INS-260330-B3D9
+  - INS-260330-7E58
+  - INS-260405-5222
+  - INS-260327-5690
+  - INS-260405-9EE4
+  - PRI-260328-8317
+  - INS-260404-6BD6
+  - INS-260402-5FE1
+  - INS-260405-093F
 ---
 Rather than conducting visible layoffs, companies are adopting a stealth workforce reduction strategy: when employees leave through normal attrition, their roles are backfilled by AI agents instead of new hires. SaaStr reports these AI replacements deliver 70-80% of human output at dramatically lower cost.
 

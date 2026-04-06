@@ -45,12 +45,12 @@ stance: >-
   at significantly better terms than those relying solely on preclinical data.
 related:
   - INS-260321-9AB5
-  - INS-260327-5B47
   - INS-260330-BC21
+  - INS-260322-3A00
+  - INS-260403-CDC9
   - INS-260403-4E71
   - INS-260327-C5D0
-  - INS-260322-D58A
-  - INS-260405-0F47
+  - INS-260404-4146
 evidence:
   - id: INS-260322-D58A
     type: SUPPORTS

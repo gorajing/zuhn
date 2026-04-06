@@ -49,13 +49,12 @@ stance: >-
   competitors gain compound advantages over those that rely solely on native
   capabilities.
 related:
-  - INS-260323-AE9C
   - INS-260323-E797
   - INS-260327-8BFF
   - INS-260330-98EA
   - PRI-260328-43D8
   - INS-260330-4C67
-  - INS-260329-58E7
+  - INS-260327-FA38
 evidence:
   - id: INS-260327-FA38
     type: EXTENDS

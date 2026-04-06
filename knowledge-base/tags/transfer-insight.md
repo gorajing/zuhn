@@ -5,3 +5,4 @@
 - `INS-260326-BF32` Evolution optimized for stability under disruption, not peak performance — pushing one parameter to its optimum can crash the stability system that keeps everything else running.
 - `INS-260326-9E23` Before reaching for psychological explanations of cognitive or emotional symptoms, test the cheap physiological fix first.
 - `INS-260326-4F90` Better inputs beat better reasoning — most self-improvement focuses on the wrong variable.
+- `INS-260326-291C` AI should amplify founder cognition, not replace it — delegating the hard thinking prevents developing the judgment that separates successful founders from feature-shippers.

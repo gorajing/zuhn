@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 10 Questions to Expect During a First Call With a VC
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/10-questions-to-expect-during-a-first'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Bottom-up market sizing using specific customer counts and realistic pricing
@@ -60,6 +50,14 @@ stance: >-
   Founders who size markets bottom-up from specific customer segments and
   realistic pricing demonstrate stronger strategic thinking than those citing
   large top-down industry figures
+related:
+  - INS-260327-5DD2
+  - INS-260329-8602
+  - INS-260405-39A6
+  - INS-260403-EA2D
+  - INS-260405-7CF9
+  - INS-260403-53AA
+  - INS-260323-8AB8
 ---
 When VCs ask about market size, saying 'it's a $50B industry' is a red flag, not an answer. Top-down sizing demonstrates nothing except the ability to Google an industry report. Bottom-up sizing—counting specific potential customers in your initial wedge, multiplying by realistic annual contract values, and mapping expansion paths—shows you understand your actual addressable opportunity.
 

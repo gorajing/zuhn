@@ -20,7 +20,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Consensus-driven investment processes guarantee that the most outlier ideas
@@ -46,15 +46,12 @@ stance: >-
   breakthrough ideas are filtered out, making consensus-driven VC firms
   structurally unable to find the next Google.
 related:
-  - INS-260323-A430
-  - INS-260329-11AB
-  - INS-260329-4D06
-  - INS-260330-B5D6
-  - INS-260330-2F52
-  - PRI-260405-BF5B
-  - INS-260403-EA34
-  - INS-260323-197A
-  - INS-260320-DDD9
+  - INS-260323-BA17
+  - PRI-260405-ED62
+  - INS-260325-0688
+  - INS-260330-06CD
+  - INS-260404-AC7C
+  - INS-260404-0782
 evidence:
   - id: INS-260323-A430
     type: TRANSFERS_TO

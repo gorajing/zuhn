@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: NVIDIA and the $1T AI Buildout for the Agent Era
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-176'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains,
@@ -67,6 +57,17 @@ stance: >-
   The next generation of AI hardware will be optimized primarily for inference
   throughput and latency, not model training, reflecting where commercial value
   actually accrues in the agent era.
+related:
+  - INS-260325-E62D
+  - INS-260323-F0A2
+  - INS-260323-8AEC
+  - INS-260323-4E12
+  - INS-260325-BEAC
+  - INS-260321-C4CD
+  - INS-260327-1563
+  - INS-260327-BE4E
+  - INS-260327-991D
+  - INS-260329-3489
 ---
 Jensen Huang's GTC 2026 keynote explicitly framed NVIDIA's roadmap around the 'inference inflection'—the moment when running models at scale eclipses training them as the primary compute demand. The Vera Rubin architecture integrates seven specialized chips into a unified rack, delivering 10x inference efficiency and 4x training performance over Blackwell, while the Groq 3 LPX rack is purpose-built for latency-sensitive inference alongside it.
 

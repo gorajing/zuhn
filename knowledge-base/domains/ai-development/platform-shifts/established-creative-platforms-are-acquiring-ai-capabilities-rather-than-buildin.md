@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "AI Bubble\U0001F4C9, Canva acquires Leonardo AI\U0001F3A8, How to Write Cold Emails✉️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-bubble-canva-acquires-leonardo'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are
@@ -58,6 +48,17 @@ stance: >-
   Acqui-hiring AI model companies is a faster and more defensible path to
   AI-native product capability than internal R&D for non-AI-native platforms
   like Canva.
+related:
+  - INS-260329-E193
+  - INS-260329-1028
+  - INS-260330-F22A
+  - INS-260330-0317
+  - INS-260330-0871
+  - INS-260330-8326
+  - INS-260330-809A
+  - INS-260404-7E24
+  - INS-260403-1115
+  - INS-260403-8A28
 ---
 Canva acquiring Leonardo AI — a leading image generation model company — signals a broader strategic pattern: established design and creative platforms are choosing acquisition over internal R&D to rapidly integrate generative AI capabilities. Building competitive foundation models requires massive compute, data, and talent that incumbents cannot assemble in time to stay relevant.
 

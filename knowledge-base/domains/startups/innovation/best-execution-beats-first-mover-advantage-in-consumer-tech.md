@@ -44,7 +44,6 @@ stance: >-
   Being the best implementer of existing technologies consistently outperforms
   being the first inventor in consumer markets
 related:
-  - INS-260322-888D
   - INS-260327-38D8
   - INS-260323-1B0B
   - INS-260327-8C1C

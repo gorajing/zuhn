@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: The Current State of AI'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-the-current-state-of-ai'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Returning to first principles in noisy domains is how you separate genuine
@@ -63,6 +53,12 @@ stance: >-
   In fast-moving technical domains, deliberately returning to foundational first
   principles reveals which breakthroughs are genuinely game-changing versus
   which are noise amplified by media cycles.
+related:
+  - PRI-260323-0654
+  - PRI-260323-CE34
+  - PRI-260323-27D6
+  - PRI-260328-1D0B
+  - INS-260323-DA1E
 ---
 Chamath describes his practice at 8090 of periodically revisiting first principles as a way to reveal insights obscured by the daily churn of AI headlines and purported breakthroughs. When everything is framed as revolutionary, the useful discrimination is which things are actually structurally significant versus attention-grabbing.
 

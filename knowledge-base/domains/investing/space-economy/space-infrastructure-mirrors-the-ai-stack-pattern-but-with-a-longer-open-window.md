@@ -50,11 +50,11 @@ stance: >-
   each layer remains open because AI hype has diverted capital and attention
   away from space.
 related:
+  - INS-260404-2CA6
   - INS-260403-3615
+  - INS-260404-FA1E
+  - INS-260404-8076
   - INS-260403-C032
-  - INS-260403-7B04
-  - PRI-260405-A11F
-  - INS-260322-BBED
 evidence:
   - id: INS-260403-3615
     type: SUPPORTS

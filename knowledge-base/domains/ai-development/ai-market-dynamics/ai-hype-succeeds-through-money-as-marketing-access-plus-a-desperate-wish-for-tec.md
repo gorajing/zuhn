@@ -51,10 +51,11 @@ resolutions:
 related:
   - PRI-260323-1F9C
   - INS-260327-E41B
+  - INS-260405-4AAD
   - PRI-260328-D292
   - INS-260330-38C9
-  - INS-260330-697F
   - INS-260328-7241
+  - INS-260405-86A1
 stance: >-
   The AI marketing machine works because massive capital buys corridor-of-power
   access, and people desperately want to believe technology can solve c...

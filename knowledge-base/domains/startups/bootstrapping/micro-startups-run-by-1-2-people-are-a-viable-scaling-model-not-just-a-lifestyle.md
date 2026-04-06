@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 2025 Is the Best Year to Start a Startup—Here’s Why
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/start-a-startup-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     One or two founders can now handle the workload that previously required a
@@ -60,6 +50,15 @@ stance: >-
   AI assistants, no-code tools, and freelance marketplaces have compressed the
   minimum viable team size so dramatically that solopreneurs and micro-teams can
   build profitable companies that previously required teams of five or more.
+related:
+  - PRI-260320-5D78
+  - INS-260403-78AD
+  - INS-260404-2523
+  - INS-260402-8813
+  - INS-260403-4D1E
+  - INS-260326-967C
+  - INS-260405-EAF3
+  - INS-260403-1C28
 ---
 The convergence of three trends — AI coding assistants like GitHub Copilot, no-code platforms like Bubble and Webflow, and global freelance talent marketplaces — has created a new category of viable business: the micro-startup. These are companies run by one or two people with strong margins, clear niches, and no external pressure to raise or scale prematurely.
 

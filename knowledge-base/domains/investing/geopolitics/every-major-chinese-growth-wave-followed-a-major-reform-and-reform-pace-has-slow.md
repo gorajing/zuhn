@@ -50,25 +50,25 @@ resolutions:
     that any return to aggressive reform would trigger another strong growth
     cycle.
 related:
-  - PRI-260328-C918
-  - INS-260325-A46E
-  - INS-260330-D808
-  - INS-260327-F93A
-  - INS-260325-7FE6
   - INS-260323-5A96
+  - INS-260405-2230
+  - PRI-260328-C918
+  - INS-260405-110D
+  - INS-260330-D808
+  - INS-260403-EB97
   - INS-260330-C477
-  - INS-260405-DC20
+  - INS-260327-F93A
 stance: >-
   China's growth has historically been reform-driven: every major reform
   produced a decade of strong growth, and the current slowdown correlates
   dire...
 evidence:
   - id: INS-260325-4300
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D808
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-5A96
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-DC20
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

@@ -43,21 +43,21 @@ resolutions:
     token counts, parameter numbers, or any technical concept involving
     magnitude that exceeds human intuition.
 related:
-  - INS-260403-EA82
+  - INS-260404-59D1
   - PRI-260323-DAB9
   - INS-260330-649B
-  - INS-260330-A5C4
-  - INS-260404-59D1
+  - INS-260330-849D
+  - INS-260323-72EB
 stance: Smifter's video uses a ladder of progressively larger scale comparisons
 evidence:
   - id: INS-260329-D8BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-649B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-A5C4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-849D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-EA82
     type: SUPPORTS
     classified_at: '2026-04-06'

@@ -1,5 +1,6 @@
 # Tag: cognitive-dissonance
 
+- `INS-260403-D4B3` Corporate institutions persist structurally long after collective belief in their purpose has evaporated, mirroring how religious attendance outlasted religious conviction.
 - `INS-260403-E8DD` The High Place Phenomenon shows that when survival instincts fire without a matching threat, the brain invents an intention to explain the mismatch.
 - `INS-260330-D26B` People can retroactively neutralize their own clear-eyed crisis assessments through motivated reasoning, without any new information.
 - `INS-260330-A15F` Bad decisions trigger escalating rationalization rather than course-correction, especially when peer groups reward continued commitment.

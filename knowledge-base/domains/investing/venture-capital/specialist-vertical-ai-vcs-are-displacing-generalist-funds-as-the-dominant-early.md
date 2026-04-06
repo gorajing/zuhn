@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-to-win-as-a-solopreneur-software'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Niche-focused VCs with deep domain expertise are outcompeting generalist
@@ -61,6 +51,16 @@ stance: >-
   Generalist VC is losing ground to niche-focused funds because vertical AI
   domains require deep expertise that generalist partners cannot credibly
   provide to portfolio companies.
+related:
+  - INS-260403-028F
+  - INS-260403-04FF
+  - INS-260404-016F
+  - INS-260403-FF65
+  - INS-260404-2D82
+  - INS-260404-77E7
+  - INS-260405-7ABE
+  - INS-260404-D8D8
+  - PRI-260405-E9C5
 ---
 The VC industry is undergoing a structural shift from generalist mega-funds toward specialist vehicles focused on specific verticals like AI-powered healthcare, climate tech, or defense. This is driven by the reality that vertical AI companies need investors who understand regulatory landscapes, customer acquisition in specialized markets, and domain-specific technical nuances.
 

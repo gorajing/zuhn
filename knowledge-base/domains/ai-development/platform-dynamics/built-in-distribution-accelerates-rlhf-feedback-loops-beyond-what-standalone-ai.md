@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/large-language-models-how-to-train'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Pre-existing user bases of hundreds of millions create a flywheel where more
@@ -57,6 +47,15 @@ resolutions:
 stance: >-
   AI companies with existing large user bases can improve models faster through
   human feedback volume than companies that must acquire users from scratch
+related:
+  - INS-260327-C962
+  - INS-260402-1F41
+  - INS-260403-6CE6
+  - INS-260404-226F
+  - INS-260330-4AD5
+  - PRI-260328-7007
+  - INS-260330-EF64
+  - INS-260330-843E
 ---
 xAI's integration with X's 500M+ monthly active users gives it a structural advantage in reinforcement learning from human feedback. More users means more preference signals, which means faster reward model improvement, which means better responses, which attracts more users — a classic flywheel.
 

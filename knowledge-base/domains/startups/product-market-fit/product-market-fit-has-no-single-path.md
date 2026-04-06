@@ -14,24 +14,14 @@ tags:
 sources:
   - type: blog
     title: "Bill Gates's €1bn Climate fund\U0001F50B, Paths to Product-Market Fit\U0001F3AF, State of AI investing\U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/bill-gatess-1bn-climate-fund-paths'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     There is no single path to PMF — lessons from 20 founders reveal irreducible
@@ -53,6 +43,12 @@ stance: >-
   Founders should abandon the search for a universal PMF formula because the 20
   documented paths to PMF share no common playbook, only the discipline of
   relentless customer feedback.
+related:
+  - INS-260402-2A1D
+  - INS-260402-F08D
+  - INS-260330-5A0A
+  - INS-260327-F9C3
+  - PRI-260328-B11D
 ---
 First Round Capital's analysis of 20 different routes to product-market fit makes clear that PMF is not a convergent process. Founders who model their approach on a single success story are likely borrowing the wrong map. What does recur across paths is a willingness to iterate rapidly on direct customer feedback, not a specific sequence of product moves.
 

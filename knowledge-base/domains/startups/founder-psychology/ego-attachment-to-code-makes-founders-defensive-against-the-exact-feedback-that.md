@@ -44,7 +44,6 @@ resolutions:
     not judgment about you. The best builders must develop the ability to
     destroy their own work cheerfully when the data demands it.
 related:
-  - INS-260325-2DCD
   - INS-260322-F6B5
   - INS-260323-8555
   - PRI-260328-604D
@@ -52,7 +51,6 @@ related:
   - INS-260323-4C43
   - PRI-260328-3169
   - INS-260327-8254
-  - INS-260403-C3DF
 stance: >-
   When a founder's self-worth becomes entangled with their codebase, negative
   user feedback triggers emotional defensiveness instead of productive it...

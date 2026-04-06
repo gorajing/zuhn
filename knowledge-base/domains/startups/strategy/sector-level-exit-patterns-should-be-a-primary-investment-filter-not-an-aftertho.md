@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'How to Evaluate a Startup Exit: Signs, Metrics & Red Flags'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-exit-strategy-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Screen for sector exit precedent before investing — if the only exits in a
@@ -62,6 +52,15 @@ stance: >-
   Historical exit data by sector is the most underused predictive signal in
   venture — if similar companies in a space aren't exiting, betting that yours
   will be different requires extraordinary evidence.
+related:
+  - INS-260330-EF10
+  - INS-260404-F017
+  - INS-260403-53A4
+  - INS-260403-32E9
+  - INS-260403-F4E7
+  - INS-260404-77CD
+  - INS-260404-1A3F
+  - INS-260403-8441
 ---
 SaaS, fintech, and healthtech have established buyer ecosystems with consistent M&A activity at every stage from sub-$50M acquihires to public listings. Climate tech, mobility, and frontier hardware tend toward longer holding periods (10-15 years), sporadic M&A, and exits tied to policy cycles. Neither category is inherently better or worse, but the expected timeline must be priced into the investment thesis from day one — a portfolio concentrated in long-horizon sectors with a fund lifecycle expecting 7-year returns creates structural tension.
 

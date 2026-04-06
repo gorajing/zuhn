@@ -1,5 +1,5 @@
 ---
-id: INS-260403-BF45
+id: INS-260403-4963
 domain: startups
 topic: leadership
 title: >-
@@ -19,38 +19,14 @@ sources:
     title: >-
       Barbara Corcoran Shark Tank Interview: 10-Minute Masterclass on Building,
       Storytelling, and Investing
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Guillermo Flor
-        url: 'https://substack.com/@guillermoflor'
-        description: >-
-          I'm Guillermo, a former startup founder now venture capital investor.
-          I write weekly about startups path to Product Market Fit, growth and
-          fundraising 
-        identifier: 'user:48117658'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
+    author: 'Ruben Dominguez, Guillermo Flor'
     url: 'https://www.thevccorner.com/p/shark-tank-exclusive-barbara-corcoran'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Plan quarterly meetups centered on one unforgettable shared activity,
@@ -75,6 +51,12 @@ resolutions:
 stance: >-
   Quarterly in-person gatherings with memorable shared activities build stronger
   team cohesion than any amount of Slack channels or virtual meetings
+related:
+  - INS-260327-A903
+  - INS-260403-6428
+  - INS-260330-D272
+  - INS-260403-CF44
+  - INS-260323-D783
 ---
 Corcoran's observation that 'Slack doesn't build culture, shared memory does' captures why so many remote teams feel disconnected despite heavy tool adoption. Digital communication handles information transfer well but fails at creating the emotional bonds that make people sacrifice for each other and stay through hard times. A story from a dinner lasts longer than any company memo.
 

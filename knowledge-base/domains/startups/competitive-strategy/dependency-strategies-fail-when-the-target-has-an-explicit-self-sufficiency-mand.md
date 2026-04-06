@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: America's chip export controls are working
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/americas-chip-export-controls-are'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     You cannot create strategic dependency on an actor who has explicitly
@@ -60,6 +48,12 @@ resolutions:
 stance: >-
   Selling products to a competitor to create dependency backfires when that
   competitor has a state-level mandate for technological self-sufficiency
+related:
+  - INS-260403-2D89
+  - INS-260330-FF09
+  - INS-260404-34DB
+  - INS-260403-0AF6
+  - INS-260325-E0D5
 ---
 Proponents of selling H200s to China argued it would keep Chinese companies dependent on American chip designs and Taiwanese manufacturing. But Xi Jinping has made technological self-sufficiency an explicit national mandate. Chinese companies buy both Huawei and Nvidia chips simultaneously — they don't substitute one for the other, they stack capabilities. The 'dependency' argument publicly telegraphs the strategy, making it trivially easy for a rational adversary to counter.
 

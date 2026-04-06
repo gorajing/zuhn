@@ -48,11 +48,10 @@ stance: >-
   dynamics that no participant fully understands or can predict.
 related:
   - INS-260323-6258
-  - INS-260323-422B
   - PRI-260328-0993
+  - INS-260403-2151
+  - INS-260323-422B
   - INS-260325-FC0B
-  - INS-260327-CBBB
-  - INS-260330-3994
 evidence:
   - id: INS-260323-422B
     type: SUPPORTS

@@ -50,29 +50,29 @@ stance: >-
   declining empire inherit the empire's reach and organizational capability at
   minimal cost.
 related:
-  - INS-260327-4DE7
-  - PRI-260328-79DA
-  - INS-260330-2E1E
-  - PRI-260328-7EA5
-  - INS-260330-44BC
-  - INS-260327-8912
   - INS-260327-38B8
   - INS-260327-4DE8
+  - PRI-260328-7EA5
+  - PRI-260328-79DA
   - INS-260330-2D53
   - INS-260330-2737
+  - INS-260330-6BAF
+  - INS-260330-2E1E
+  - INS-260327-8912
+  - INS-260327-F7FE
 evidence:
   - id: INS-260327-4DE7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2E1E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-44BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2D53
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2737
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6BAF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Christianity's spread was inseparable from Roman infrastructure: it traveled along Roman roads, organized around Roman cities, adopted Roman administrative geography (bishoprics matching Roman provinces), and eventually became the Roman state religion. When Rome collapsed, the Church inherited the entire administrative infrastructure, becoming the only institution with continent-wide reach.
 

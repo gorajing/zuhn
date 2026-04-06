@@ -47,14 +47,12 @@ stance: >-
   startup itself but the opinions of other investors, making fundraising
   inherently a momentum game rather than a merit evaluation.
 related:
-  - INS-260329-94CF
   - INS-260330-4605
   - INS-260402-4BC7
-  - INS-260403-D522
   - INS-260403-4960
   - INS-260405-54E2
   - INS-260325-5A72
-  - INS-260404-4682
+  - INS-260403-3DCB
 evidence:
   - id: INS-260329-94CF
     type: CHALLENGES

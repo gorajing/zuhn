@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #79: The revenge of macroeconomics'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-79-the-revenge-of-macroeconomics'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Research by Känzig and Raghavan shows shipping disruptions produce a clean,
@@ -64,6 +52,16 @@ stance: >-
   measurable economic pattern — commodity price spikes followed by inflation
   increases and industrial production declines — though US net oil exporter
   status now partially buffers the impact.
+related:
+  - INS-260327-BF95
+  - INS-260403-34A6
+  - INS-260405-6E60
+  - INS-260403-E936
+  - INS-260404-8BC7
+  - INS-260403-EB8F
+  - PRI-260405-8E48
+  - INS-260403-2151
+  - PRI-260328-0993
 ---
 Diego Känzig and Ramya Raghavan's research on global shipping disruptions establishes one of the rare areas where macroeconomists can make reliable predictions. Historical incidents show a consistent pattern: commodity prices spike (especially oil), inflation rises as input costs flow through, and industrial production contracts. This is a clean natural experiment because chokepoint closures are discrete, observable events.
 

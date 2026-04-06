@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: A Conversation with One of My 8090 Co-Founders
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/a-conversation-with-one-of-my-8090'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Each biological neuron runs its own learning mechanisms and maintains state;
@@ -65,6 +55,14 @@ stance: >-
   count comparisons are misleading—a biological neuron is itself a sophisticated
   processor, while an artificial one is a linear operation plus activation
   function.
+related:
+  - INS-260323-9774
+  - INS-260330-189F
+  - INS-260330-3E3C
+  - INS-260405-5649
+  - INS-260330-6D5C
+  - INS-260330-FB66
+  - INS-260404-D122
 ---
 When comparing brains to artificial neural networks, the 100 trillion synapse figure obscures more than it reveals. Each biological neuron is itself a complex computational unit with its own internal learning dynamics, state, and signal processing—effectively a miniature computer. Artificial neurons, by contrast, are reduced to elementary math: multiply inputs by weights, add a bias, apply a nonlinearity.
 

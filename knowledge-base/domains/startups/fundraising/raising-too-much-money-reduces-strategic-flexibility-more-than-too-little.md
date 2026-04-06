@@ -47,13 +47,14 @@ stance: >-
   employees, overhead, and investor pressure that make pivoting nearly
   impossible.
 related:
+  - INS-260403-1E5F
   - PRI-260403-26B9
   - INS-260403-5F03
   - INS-260402-EEDB
   - INS-260403-A57D
-  - PRI-260405-E9C5
   - INS-260403-F8A2
-  - INS-260404-64EC
+  - INS-260403-CC5D
+  - INS-260405-863C
 evidence:
   - id: INS-260322-C472
     type: CHALLENGES

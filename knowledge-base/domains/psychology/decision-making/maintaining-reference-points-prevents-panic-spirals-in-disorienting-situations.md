@@ -52,16 +52,16 @@ stance: >-
 related:
   - INS-260330-47E0
   - INS-260330-1E12
-  - INS-260330-B599
-  - INS-260329-7677
   - INS-260330-4A16
+  - PRI-260403-9D15
+  - PRI-260323-0F93
 evidence:
   - id: INS-260330-47E0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-BAB7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4A16
-    relationship: RELATED
+    type: SUPPORTS
 ---
 In the helicopter egress training, Marines who unbuckled and left their seats immediately lost all spatial orientation — described as 'a loose sock in the dryer.' The seat, despite being attached to a sinking inverted helicopter, served as the critical reference frame. From the seat, you know your position relative to exits. Without it, chairs hang from ceilings and bubbles go the wrong direction.
 

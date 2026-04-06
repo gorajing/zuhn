@@ -17,39 +17,14 @@ tags:
 sources:
   - type: blog
     title: Multi-Product In Pictures
-    author:
-      - '@type': Person
-        name: Akash Bajwa
-        url: 'https://substack.com/@akashbajwa'
-        description: >-
-          Principal @ Earlybird Venture Capital, investing across Europe from
-          inception onwards.
-        identifier: 'user:2161762'
-        sameAs:
-          - 'https://twitter.com/AkashBajwa96'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!KaV6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eb477d8-7e9a-4f10-869c-5c8a50463678_768x768.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!KaV6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eb477d8-7e9a-4f10-869c-5c8a50463678_768x768.jpeg
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: 'Akash Bajwa, Ruben Dominguez'
     url: 'https://www.thevccorner.com/p/multi-product-in-pictures'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Mission-critical products like Datadog must earn the right to expand by
@@ -73,6 +48,17 @@ resolutions:
 stance: >-
   The closer software is to mission-critical infrastructure, the longer a
   company must invest incremental R&D into the core product before expanding
+related:
+  - INS-260327-484F
+  - INS-260403-68C8
+  - INS-260403-E748
+  - INS-260404-2F49
+  - PRI-260328-94D4
+  - PRI-260328-43F1
+  - INS-260330-697F
+  - INS-260321-33FC
+  - PRI-260328-C918
+  - INS-260403-80A0
 ---
 Datadog exemplifies the 'go slow to go fast' principle: because their observability product is mission-critical infrastructure, premature R&D allocation to new products would have been catastrophic. The opportunity cost of degrading a mission-critical core product exceeds the upside of early expansion. Datadog's earliest website showed modest ambitions, but by 2017 their multi-product engine was running.
 

@@ -55,26 +55,26 @@ stance: >-
   water-splitting, making virtually all complex life dependent on a single
   biochemical reaction in PSII
 related:
-  - INS-260327-D070
   - INS-260330-AB3C
-  - INS-260330-956F
-  - INS-260330-BA7F
+  - INS-260330-B27A
   - INS-260330-8544
-  - INS-260330-57E6
   - PRI-260403-181B
   - INS-260404-AC1D
-  - INS-260403-B4F1
+  - INS-260330-57E6
+  - INS-260330-BA7F
+  - INS-260404-0FEB
+  - INS-260327-D070
 evidence:
   - id: INS-260330-B27A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-09F8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8544
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F5CF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B4F1
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The light-dependent reactions of photosynthesis work by exciting electrons with photons and then running those electrons through a transport chain that extracts energy at each step. When PSII loses an electron, it replaces it by splitting water (H2O) — stealing water's electron and releasing hydrogen ions and oxygen as byproducts.
 

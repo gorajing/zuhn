@@ -57,35 +57,35 @@ stance: >-
   durable skill than teaching concepts in isolation then asking learners to
   combine them.
 related:
-  - INS-260329-04FA
-  - INS-260329-5C25
+  - INS-260329-48FD
   - INS-260329-90C3
-  - INS-260329-B6A6
-  - INS-260329-9EE4
-  - INS-260329-CD38
-  - INS-260329-F211
-  - INS-260329-5AC5
-  - INS-260329-9A58
-  - INS-260329-D75D
+  - INS-260329-656B
+  - INS-260329-E6AF
+  - INS-260329-70F2
+  - INS-260329-820D
+  - INS-260329-E402
+  - INS-260329-294C
+  - INS-260329-8830
+  - INS-260330-AE16
 evidence:
   - id: INS-260329-9EE4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-2FEB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-AE16
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-5C25
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F211
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D75D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9A58
-    relationship: RELATED
+    type: SUPPORTS
 ---
 This 48M-view Python tutorial structures its entire 4.5 hours around progressively complex projects rather than isolated concept lectures. Variables are introduced through a mad-libs project, control flow through a guessing game, data structures through a translator, and OOP through a quiz system. Each project naturally requires the learner to combine newly introduced concepts with previously learned ones.
 

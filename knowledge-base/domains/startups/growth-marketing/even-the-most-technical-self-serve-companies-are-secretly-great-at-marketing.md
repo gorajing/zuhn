@@ -46,8 +46,7 @@ stance: >-
   Companies perceived as purely product-driven (like Google and Stripe) are
   actually among the best marketing and sales organizations in the world.
 related:
-  - INS-260320-F751
-  - INS-260327-415B
+  - INS-260403-1C31
   - INS-260327-F405
   - INS-260330-6611
   - INS-260403-D49B
@@ -55,6 +54,7 @@ related:
   - INS-260329-788F
   - INS-260403-A8F3
   - INS-260404-D68E
+  - INS-260403-93BB
 evidence:
   - id: INS-260323-5C6F
     type: CHALLENGES

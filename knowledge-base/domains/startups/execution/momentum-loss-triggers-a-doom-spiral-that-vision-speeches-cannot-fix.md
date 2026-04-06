@@ -46,10 +46,11 @@ stance: >-
   wins — motivational speeches about vision actively make things worse.
 related:
   - INS-260323-DEF0
+  - INS-260403-BA53
   - PRI-260323-DC25
   - PRI-260323-27D6
+  - INS-260403-AE5B
   - INS-260404-B7E4
-  - INS-260323-87F3
 evidence:
   - id: INS-260323-DEF0
     type: TRANSFERS_TO

@@ -52,18 +52,18 @@ stance: >-
 related:
   - PRI-260328-C528
   - INS-260330-C418
-  - INS-260330-413D
   - INS-260327-0875
   - INS-260405-C342
+  - INS-260330-1DDE
 evidence:
   - id: INS-260330-C418
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-413D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C607
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-C342
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Biological manufacturing operates under constraints that would be considered impossible in engineering: room temperature, locally available materials (food, water, air), zero waste, and self-repair. Yet biology produces structures of greater complexity than anything humans have built.
 

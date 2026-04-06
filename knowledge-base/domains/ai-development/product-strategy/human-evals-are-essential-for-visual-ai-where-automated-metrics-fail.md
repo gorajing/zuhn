@@ -49,32 +49,32 @@ stance: >-
   quality, face consistency, and emotional impact are inherently subjective and
   can only be judged by the people who know the subject.
 related:
-  - INS-260323-5609
-  - INS-260404-6388
-  - INS-260403-DC64
-  - INS-260404-E6EA
-  - INS-260403-4363
-  - PRI-260403-E023
+  - INS-260327-671E
   - INS-260403-1B0D
+  - INS-260403-4363
+  - PRI-260405-ADEA
+  - PRI-260405-4B06
+  - PRI-260403-E023
+  - INS-260322-AB55
 evidence:
   - id: INS-260330-725C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-AB55
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5B0C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-671E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-5017
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-DC64
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-37D9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-4363
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-1B0D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Nano Banana team discovered that character consistency evaluation is fundamentally personal: you can only judge whether an AI-generated version of someone looks right if you actually know that person's face. They built eval sets using team members' and executives' own faces because strangers would accept approximations that the subject would immediately reject.
 

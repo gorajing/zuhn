@@ -47,19 +47,18 @@ stance: >-
   investment performance, with high-cost portfolios generating 20% less value
   over 25-30 years.
 related:
-  - INS-260325-039E
-  - PRI-260328-BD9B
-  - INS-260330-9470
-  - INS-260329-CC75
-  - INS-260327-7435
-  - INS-260323-0DC4
-  - INS-260329-191D
   - INS-260329-F443
+  - INS-260325-039E
+  - INS-260403-21E1
+  - PRI-260328-BD9B
+  - PRI-260405-B144
+  - PRI-260405-0099
+  - INS-260327-7435
 evidence:
   - id: INS-260330-8A87
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CC75
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The math on investment fees is stark: over 25-30 years, a high-cost portfolio produces roughly 20% less value than an identical low-cost portfolio. The 'Vanguard effect' — the competitive fee pressure created by Vanguard's low-cost funds — saved investors approximately $1 trillion by 2016 and another trillion in the decade since.
 

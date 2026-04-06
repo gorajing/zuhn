@@ -53,20 +53,20 @@ stance: >-
   visible when stress reveals the accumulated errors that normal conditions
   mask.
 related:
-  - INS-260330-0BCC
   - INS-260403-F75F
+  - PRI-260405-8E48
+  - INS-260405-F8AE
   - PRI-260323-1CF9
   - INS-260325-9A0F
-  - PRI-260323-9D46
 evidence:
   - id: INS-260325-9A0F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-5E40
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-790F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3AF7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-F75F
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: NVIDIA and the $1T AI Buildout for the Agent Era
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-176'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The SEC issued an interpretive release separating crypto into five
@@ -67,6 +57,12 @@ stance: >-
   By formally classifying most crypto assets as non-securities, the SEC has
   removed the primary legal uncertainty that blocked institutional adoption,
   making a broad capital inflow to crypto structurally more likely.
+related:
+  - INS-260402-31D8
+  - INS-260404-78E0
+  - INS-260327-368D
+  - INS-260403-FF74
+  - INS-260330-BA13
 ---
 The March 2026 SEC/CFTC joint interpretive release represents a structural shift in US crypto regulation. By introducing a formal taxonomy (digital commodities, collectibles, tools, stablecoins = not securities; digital securities = securities), the SEC eliminated the ambiguity that forced companies to either avoid the US market or operate under constant enforcement risk.
 

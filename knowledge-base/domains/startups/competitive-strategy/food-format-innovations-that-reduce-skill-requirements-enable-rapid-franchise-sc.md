@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260324-C2B9
   - INS-260329-7E0A
+  - INS-260323-4574
   - PRI-260324-D701
   - INS-260330-7DB7
-  - INS-260330-E615
 evidence:
   - id: INS-260329-7E0A
     type: TRANSFERS_TO

@@ -51,11 +51,11 @@ stance: >-
   you from the center is more likely to be correct because human-centered
   explanations are systematically over-represented due to cognitive bias.
 related:
+  - INS-260402-67B4
   - INS-260403-C7D8
   - INS-260330-0F04
   - INS-260325-BE19
   - INS-260326-7F56
-  - INS-260404-94EB
 ---
 Graham offers a practical decision rule derived from intellectual history: when choosing between competing explanations, prefer the one that doesn't revolve around you. This is the everyday version of Copernicus — a default correction for the systematic anthropocentric bias wired into human cognition.
 

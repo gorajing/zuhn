@@ -54,8 +54,8 @@ related:
   - INS-260330-BBEE
   - INS-260327-C150
   - INS-260330-14B1
+  - INS-260403-47FC
   - INS-260330-54A3
-  - INS-260330-1953
 evidence:
   - id: INS-260330-54A3
     type: REFINES

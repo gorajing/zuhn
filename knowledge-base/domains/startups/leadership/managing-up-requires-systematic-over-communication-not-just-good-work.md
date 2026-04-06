@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'This Week #0: Advice on growth, product, and leadership'
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/advice-on-growth-product-and-leadership'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Structured weekly updates to your manager reduce expectation misalignment
@@ -58,6 +46,13 @@ stance: >-
   Proactive upward communication through structured updates is more
   career-impactful than raw performance alone because managers evaluate against
   expectations they form from communication gaps.
+related:
+  - INS-260321-31B3
+  - INS-260327-F55C
+  - INS-260327-99CE
+  - INS-260403-4102
+  - INS-260403-76F5
+  - INS-260327-9483
 ---
 Managing up is often dismissed as politics, but it's actually expectation management. The core insight is that your manager judges you against their expectations — expectations formed largely from what you communicate, not what you do. A weekly 'State of Me' email with (1) asks, (2) priorities, (3) things on your mind creates a feedback loop that aligns perception with reality.
 

@@ -17,27 +17,15 @@ sources:
     title: >-
       AI prompt engineering in 2025: What works and what doesn’t | Sander
       Schulhoff (Learn Prompting, HackAPrompt)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: >-
       https://www.lennysnewsletter.com/p/ai-prompt-engineering-in-2025-sander-schulhoff
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Few-shot prompting can take accuracy from 0% to 90%, while role prompting
@@ -63,6 +51,12 @@ stance: >-
   Providing concrete input-output examples (few-shot prompting) is dramatically
   more effective than role assignment for improving LLM accuracy, with role
   prompting only useful for tone and style.
+related:
+  - INS-260321-82FE
+  - INS-260403-31E4
+  - PRI-260321-037A
+  - PRI-260320-8205
+  - INS-260403-49D1
 ---
 Research across 1,500+ academic papers shows that few-shot prompting — providing the model with example input-output pairs — remains one of the highest-leverage techniques available. Schulhoff cites a medical-coding use case that went from complete failure to near-perfect output by simply adding a few examples. This works because examples ground the model in concrete patterns rather than abstract instructions.
 

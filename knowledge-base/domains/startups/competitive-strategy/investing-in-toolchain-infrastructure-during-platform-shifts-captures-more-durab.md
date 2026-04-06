@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: How Elad Gil Built a One-Person Multi-Billion Venture Machine
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/elad-gil-solo-super-angel-solo-gp'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     During platform shifts, betting on the toolchain that builders need captures
@@ -62,6 +52,17 @@ stance: >-
   When new platforms emerge, the most resilient value accumulates in
   infrastructure and tooling layers rather than in the applications built on
   top, because middle layers become harder to replace as ecosystems mature.
+related:
+  - PRI-260328-A1AA
+  - INS-260329-BB8F
+  - INS-260403-4717
+  - INS-260403-FCA6
+  - PRI-260405-D6F5
+  - INS-260405-D23E
+  - INS-260404-FC9E
+  - INS-260405-4091
+  - INS-260403-5384
+  - INS-260403-5CAD
 ---
 Gil's career demonstrates a consistent thesis: when new platforms create new generations of developers, the leverage sits in the toolchain. His first expression was Mixer Labs (geo APIs for early smartphone developers), and the same logic later led to investments in Figma and GitLab. In the AI era, he applies the same lens — while AI-native applications can succeed through distribution, the most resilient value accumulates in infrastructure, observability tools, and the 'middle layers' that sit in the critical path of deployment.
 

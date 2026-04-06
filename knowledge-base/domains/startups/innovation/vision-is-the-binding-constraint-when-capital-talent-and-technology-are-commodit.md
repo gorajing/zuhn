@@ -44,11 +44,11 @@ stance: >-
   the primary competitive moat is a founder's conviction about what should exist
   before others can see it.
 related:
+  - INS-260403-F554
   - INS-260330-F08F
   - INS-260404-5882
+  - INS-260327-0C4A
   - INS-260330-CCF0
-  - INS-260327-6061
-  - INS-260320-A1D3
 evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO

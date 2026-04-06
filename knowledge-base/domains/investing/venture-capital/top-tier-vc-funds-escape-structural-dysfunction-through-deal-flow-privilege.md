@@ -48,11 +48,11 @@ stance: >-
   their reputation gives them first pick of the best deals, removing the
   competitive pressure that corrupts lesser funds.
 related:
-  - INS-260329-27DF
   - INS-260330-870B
+  - INS-260329-27DF
+  - INS-260403-9A8A
   - INS-260403-4960
-  - INS-260403-DE45
-  - INS-260330-990F
+  - INS-260403-3122
 evidence:
   - id: INS-260329-27DF
     type: SUPPORTS

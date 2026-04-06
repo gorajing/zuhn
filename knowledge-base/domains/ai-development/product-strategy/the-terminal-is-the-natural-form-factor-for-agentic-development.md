@@ -47,9 +47,10 @@ stance: >-
   will converge with IDEs into a new unified workbench built for prompting and
   agent orchestration.
 related:
-  - INS-260327-DC4C
   - INS-260327-5EEA
+  - INS-260327-DC4C
   - INS-260327-13B3
+  - INS-260403-2115
   - PRI-260328-8317
   - INS-260322-EAB6
 ---

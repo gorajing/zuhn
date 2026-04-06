@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The VC Corner \U0001F4F0 #12"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-vc-corner-12'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Onfido's acquisition delivered a reported 320x return to its first backer,
@@ -58,6 +48,13 @@ resolutions:
 stance: >-
   Acquisition exits — not only IPOs — can generate elite venture returns, and
   early-stage conviction matters more than exit mechanism.
+related:
+  - INS-260327-7F54
+  - INS-260330-FC9F
+  - INS-260405-C5E5
+  - INS-260403-5056
+  - INS-260403-8A28
+  - INS-260404-51A2
 ---
 UK fintech Onfido — an identity verification company — was in acquisition talks in early 2024, with its first backer reportedly set to make a 320x return. This is notable because it challenges the implicit assumption that venture-scale returns require IPO exits. M&A can produce just as extreme multiples when entry valuation is low enough and the company occupies a durable position in infrastructure.
 

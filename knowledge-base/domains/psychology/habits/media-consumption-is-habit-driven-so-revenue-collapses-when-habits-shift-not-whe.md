@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: A Conversation with JCal about the Evolution of Media
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/a-conversation-with-jcal-about-the'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     People grabbed newspapers and magazines at newsstands out of commuting habit
@@ -65,6 +55,12 @@ stance: >-
   Media businesses die from habit disruption before they die from quality
   problems, meaning the threat vector for any attention-based business is the
   daily ritual, not the product itself.
+related:
+  - INS-260327-4669
+  - INS-260405-FE5C
+  - INS-260405-1661
+  - INS-260403-E4C7
+  - INS-260324-9586
 ---
 JCal's framing is pointed: 'Media is all about habits.' Commuters formed routines around buying a newspaper or two magazines before boarding the train. This habit was the engine — not the quality of the articles. When smartphones arrived, the commute ritual changed, and the habit-slot that newspapers had occupied was filled by the phone. Revenue from newsstand sales collapsed not because journalism got worse, but because the behavioral trigger (commute → grab something to read) was replaced.
 

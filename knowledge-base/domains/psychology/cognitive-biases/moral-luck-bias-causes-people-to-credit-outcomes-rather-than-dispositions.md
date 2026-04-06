@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Being John Rawls
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/being-john-rawls'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     We reward people for the luck of being in a position to help us rather than
@@ -58,6 +48,14 @@ resolutions:
 stance: >-
   People systematically over-weight whether someone actually helped them versus
   whether they would have helped, creating unjust asymmetries in moral judgment.
+related:
+  - INS-260329-D913
+  - INS-260329-FCC6
+  - INS-260403-22ED
+  - INS-260404-E6E0
+  - INS-260329-CBF3
+  - INS-260323-F853
+  - INS-260403-66CA
 ---
 The banker's objection to the Visionary's charity model crystallizes a pervasive cognitive bias: he distinguishes between people who actually helped him (none) and people who would counterfactually help him (many), treating only the former as deserving reciprocity. The Visionary's counterargument — that we judge attempted murderers the same as successful ones — exposes the inconsistency. We already accept that intent matters independent of outcome in criminal law, but refuse to apply the same logic to gratitude and reciprocity.
 

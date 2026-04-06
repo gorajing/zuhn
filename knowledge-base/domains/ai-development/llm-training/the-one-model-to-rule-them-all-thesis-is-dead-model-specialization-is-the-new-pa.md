@@ -48,36 +48,35 @@ resolutions:
     recognizing that a rising tide benefits the platform.
 related:
   - INS-260321-3967
-  - INS-260404-8D69
-  - INS-260403-7E18
-  - INS-260404-8326
-  - INS-260404-0A17
   - INS-260327-FD99
   - INS-260403-1000
+  - INS-260403-7E18
+  - INS-260404-0A17
+  - INS-260322-54F3
 stance: >-
   Even within OpenAI, the original belief was one AGI model that subsumes
   everything
 evidence:
   - id: INS-260322-54F3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-FD99
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-0B69
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-B7CB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-02A7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-DAB4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7E18
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-8326
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-0A17
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-1000
-    relationship: RELATED
+    type: SUPPORTS
 ---
 As recently as 2022-2023, the prevailing belief inside OpenAI was that there would be one model that 'rules them all' — which is why a fine-tuning API seemed unnecessary. This view has completely reversed.
 

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: How to Build AI Product Strategy (By OpenAI’s Product Lead)
-    author:
-      - '@type': Person
-        name: Miqdad Jaffer
-        url: 'https://substack.com/@miqdadjaffer'
-        description: Product Lead @ OpenAI | EIR @ Product Faculty
-        identifier: 'user:277704439'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
+    author: Miqdad Jaffer
     url: 'https://www.thevccorner.com/p/ai-product-strategy-openai-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI companies need usage-based pricing that kicks in fast because generous
@@ -57,6 +47,13 @@ resolutions:
 stance: >-
   AI startups must design pricing that converts free users to paid tiers
   aggressively and scales costs with revenue, or free tiers will bankrupt them.
+related:
+  - INS-260322-E20E
+  - INS-260330-999F
+  - INS-260405-EE74
+  - INS-260329-C754
+  - INS-260322-B450
+  - INS-260329-F6E1
 ---
 The SaaS freemium playbook—offer a generous free tier to drive adoption, then convert later—is dangerous in AI because every free user actively burns compute budget. Midjourney cut off free generations because the math simply broke. ChatGPT Plus launched at $20/month not primarily as a monetization play but as cost containment. The pattern is clear: free tiers must be minimal bait, and paid tiers must activate quickly with usage-based pricing that scales with costs.
 

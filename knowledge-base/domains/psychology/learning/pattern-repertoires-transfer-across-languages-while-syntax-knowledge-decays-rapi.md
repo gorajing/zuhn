@@ -53,22 +53,23 @@ stance: >-
   almost completely when unused while pattern recognition persists.
 related:
   - INS-260329-CF48
-  - INS-260330-2666
-  - INS-260405-F6A6
-  - INS-260329-ACE6
-  - INS-260329-7C59
   - INS-260402-2D95
+  - INS-260405-F6A6
+  - INS-260329-BAB7
+  - INS-260330-2666
+  - INS-260329-ACE6
+  - INS-260329-7B1D
 evidence:
   - id: INS-260402-2D95
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CF48
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-CACA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-ACE6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-F6A6
     type: SUPPORTS
     classified_at: '2026-04-06'

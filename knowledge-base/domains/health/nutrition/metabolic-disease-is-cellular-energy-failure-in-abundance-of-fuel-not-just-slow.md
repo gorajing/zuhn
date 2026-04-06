@@ -53,6 +53,8 @@ related:
   - INS-260330-7B09
   - INS-260330-0FA7
   - INS-260325-3F7A
+  - INS-260404-C606
+  - INS-260330-5670
 evidence:
   - id: INS-260330-5670
     type: TRANSFERS_TO

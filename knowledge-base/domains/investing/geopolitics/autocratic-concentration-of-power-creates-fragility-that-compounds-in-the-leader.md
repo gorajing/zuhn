@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: China is quietly looking weaker
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/china-is-quietly-looking-weaker'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Autocrats tend to become more paranoid and destructive over time, turning
@@ -70,6 +58,17 @@ stance: >-
   Authoritarian systems where power is concentrated in a single leader become
   increasingly vulnerable as that leader ages into a paranoid, trust-minimizing
   phase — a structural weakness democracies do not share.
+related:
+  - INS-260325-A36F
+  - INS-260325-A9E0
+  - PRI-260321-2DF0
+  - PRI-260328-3169
+  - INS-260327-74CF
+  - INS-260404-6077
+  - INS-260323-E492
+  - INS-260403-7285
+  - INS-260403-0EC5
+  - INS-260403-CCA3
 ---
 Smith identifies Xi Jinping's shift into what he calls a 'Death of Stalin' phase — earlier than expected — as a key risk factor for China. The reference is to the historical pattern where authoritarian leaders who have successfully consolidated power begin to turn inward: purging competent subordinates, substituting loyalty tests for merit, and making increasingly erratic decisions from a position of insulation from real feedback.
 

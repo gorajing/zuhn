@@ -48,10 +48,10 @@ stance: >-
   the quality of instruction for expanding access to difficult subjects
 related:
   - INS-260329-8986
+  - INS-260403-296C
+  - INS-260402-613D
   - INS-260329-58E7
   - INS-260323-92AD
-  - INS-260330-2B42
-  - INS-260329-E6DB
 evidence:
   - id: INS-260329-58E7
     type: TRANSFERS_TO

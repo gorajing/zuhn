@@ -53,13 +53,12 @@ stance: >-
   product develop conviction that is qualitatively different from
   market-research-based conviction and far more durable under pressure.
 related:
-  - INS-260323-3F11
   - INS-260327-418E
   - INS-260328-D866
   - INS-260403-39F6
   - INS-260330-BEE7
-  - INS-260403-9CD9
-  - INS-260403-C9DC
+  - INS-260403-DC59
+  - INS-260403-6D4F
 evidence:
   - id: INS-260323-3F11
     type: SUPPORTS

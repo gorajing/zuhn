@@ -60,6 +60,7 @@ related:
   - PRI-260328-8F94
   - INS-260403-F5EE
   - PRI-260328-37D8
+  - INS-260403-4183
 ---
 NATO's Operation Ocean Shield reduced piracy significantly, but created a textbook free-rider problem: companies and countries that didn't contribute to patrols benefited equally from safer waters. Similarly, if all companies collectively refused ransoms, piracy would collapse — but each individual company's rational choice is always to pay, because the cost of losing crew and cargo exceeds the ransom. This is a pure Prisoner's Dilemma at scale.
 

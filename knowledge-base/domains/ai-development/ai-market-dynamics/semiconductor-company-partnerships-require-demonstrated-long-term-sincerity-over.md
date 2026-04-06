@@ -52,11 +52,11 @@ stance: >-
   evaluation.
 related:
   - PRI-260328-0C86
+  - INS-260403-165F
   - INS-260327-D7AA
   - INS-260330-8CD4
-  - INS-260324-8656
-  - INS-260327-969D
-  - INS-260327-DC65
+  - INS-260402-9EBD
+  - INS-260402-F833
 evidence:
   - id: INS-260324-8656
     type: CONTRADICTS

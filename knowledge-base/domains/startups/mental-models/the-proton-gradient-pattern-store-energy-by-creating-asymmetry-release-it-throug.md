@@ -55,32 +55,31 @@ stance: >-
   through deliberate asymmetry and then channeling release through a single
   constrained pathway
 related:
-  - INS-260330-7FF3
-  - INS-260330-3BB5
+  - PRI-260403-70D0
+  - INS-260403-B6E6
+  - INS-260405-64C5
+  - INS-260404-F7C5
   - INS-260330-1677
-  - INS-260403-37C4
-  - INS-260404-59B6
-  - INS-260404-95E9
-  - INS-260403-791A
-  - INS-260404-73DA
-  - INS-260404-1E11
+  - INS-260330-9FAA
+  - INS-260330-972B
+  - INS-260405-6C1F
 evidence:
   - id: INS-260330-1677
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9FAA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-49E9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3037
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-666E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8BA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-791A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-59B6
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The light-dependent reactions work by pumping hydrogen ions into the thylakoid space, creating an ever-increasing concentration gradient. The protons 'naturally want to get away from each other' and the only exit is through ATP synthase, which harnesses that pressure to produce ATP. The energy isn't in any single proton — it's in the asymmetry between the two sides of the membrane.
 

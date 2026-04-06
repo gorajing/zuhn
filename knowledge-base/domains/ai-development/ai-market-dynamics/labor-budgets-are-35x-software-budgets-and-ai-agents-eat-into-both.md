@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'AI Agents Are Coming: The Agentic Revolution Explained'
-    author:
-      - '@type': Person
-        name: Ivan Landabaso
-        url: 'https://substack.com/@startupriders'
-        description: 'I study how top 1% startups grow. VC, ex-Meta, surfing, bjj.'
-        identifier: 'user:12479575'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Y72A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ff621d2-4d64-4ca2-af4c-1c44c93e7b68_1024x1024.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Y72A!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ff621d2-4d64-4ca2-af4c-1c44c93e7b68_1024x1024.jpeg
+    author: Ivan Landabaso
     url: 'https://www.thevccorner.com/p/agentic-revolution-ai-agents'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI agents expand addressable market beyond software budgets into the
@@ -56,6 +46,12 @@ stance: >-
   AI agents represent a uniquely large market opportunity because they can
   replace both software spend and labor spend simultaneously, unlike previous
   software waves that only addressed the smaller software budget.
+related:
+  - PRI-260328-8317
+  - INS-260403-101D
+  - INS-260405-E8A1
+  - INS-260404-6BD6
+  - INS-260327-5690
 ---
 Traditional SaaS products compete for a share of enterprise software budgets. AI agents break this constraint by also competing for labor budgets, which are roughly 35x larger than software budgets. This means the total addressable market for agent-based companies is fundamentally larger than for any previous software category.
 

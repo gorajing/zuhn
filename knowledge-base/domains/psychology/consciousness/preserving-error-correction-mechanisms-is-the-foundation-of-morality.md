@@ -54,7 +54,6 @@ stance: >-
   catastrophic.
 related:
   - INS-260325-9A0F
-  - INS-260326-73F4
   - INS-260327-561F
   - INS-260327-399D
   - PRI-260405-0676
@@ -63,6 +62,7 @@ related:
   - INS-260326-7ADF
   - INS-260330-790F
   - INS-260330-6D13
+  - INS-260330-ED37
 evidence:
   - id: INS-260326-7ADF
     type: SUPPORTS

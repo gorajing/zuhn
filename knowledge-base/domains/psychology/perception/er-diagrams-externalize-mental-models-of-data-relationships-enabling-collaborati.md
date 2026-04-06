@@ -53,7 +53,6 @@ stance: >-
   assumptions about data relationships visible and debatable before
   implementation.
 related:
-  - INS-260329-6A26
   - INS-260329-18C9
   - INS-260329-7673
   - INS-260329-83AA
@@ -61,6 +60,8 @@ related:
   - INS-260329-2DF2
   - INS-260329-8233
   - INS-260329-E43B
+  - INS-260325-E23D
+  - INS-260329-1075
 evidence:
   - id: INS-260325-E23D
     type: EXTENDS

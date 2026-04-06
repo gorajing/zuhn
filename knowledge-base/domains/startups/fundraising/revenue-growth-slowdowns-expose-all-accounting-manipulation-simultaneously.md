@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: "How to Trick Investors & VCs \U0001F92B\U0001F4B0"
-    author:
-      - '@type': Person
-        name: OnlyCFO
-        url: 'https://substack.com/@onlycfo'
-        description: 'Finance, tech, and startups'
-        identifier: 'user:114529177'
-        sameAs:
-          - 'https://twitter.com/OnlyCFO'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!i1Yq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85f91b83-2953-4631-9406-3534fba36bd4_546x442.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!i1Yq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85f91b83-2953-4631-9406-3534fba36bd4_546x442.jpeg
+    author: OnlyCFO
     url: 'https://www.thevccorner.com/p/how-to-trick-investors-and-vcs'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Revenue growth deceleration simultaneously exposes capitalized commissions,
@@ -62,6 +50,16 @@ stance: >-
   capitalized commission tricks, inflated efficiency metrics, and other
   accounting shenanigans — meaning fast-growing companies can hide problems for
   years until growth decelerates.
+related:
+  - INS-260405-25DD
+  - INS-260323-DA6F
+  - INS-260403-807A
+  - PRI-260328-C918
+  - PRI-260328-0993
+  - PRI-260403-E097
+  - INS-260327-EF98
+  - INS-260403-1C09
+  - INS-260403-ABAD
 ---
 When companies grow fast, capitalized commissions and deferred R&D expenses create an ever-widening gap between true costs and reported GAAP expenses. New commissions on growing revenue get pushed to future periods, making current CAC and efficiency metrics look artificially good. But when growth slows, the pipeline reverses — old capitalized expenses keep flowing through while new capitalization shrinks, causing a sudden and dramatic deterioration in reported metrics.
 

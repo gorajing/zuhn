@@ -45,10 +45,10 @@ stance: >-
   marketing campaign could.
 related:
   - INS-260330-629E
+  - INS-260403-6F75
   - INS-260403-99B1
-  - INS-260403-538C
-  - INS-260329-776B
-  - INS-260327-4F94
+  - INS-260405-B967
+  - INS-260403-7881
 evidence:
   - id: INS-260327-CE05
     type: CHALLENGES

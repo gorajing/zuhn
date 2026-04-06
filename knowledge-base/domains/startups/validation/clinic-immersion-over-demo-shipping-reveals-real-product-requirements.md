@@ -41,11 +41,11 @@ stance: >-
   dramatically better healthcare AI products than iterating on demos in
   production.
 related:
+  - INS-260403-1E05
+  - INS-260329-03B5
   - INS-260403-36DD
   - INS-260327-0700
   - INS-260403-CAAB
-  - INS-260321-2F09
-  - INS-260329-8986
 evidence:
   - id: INS-260329-8986
     type: CHALLENGES

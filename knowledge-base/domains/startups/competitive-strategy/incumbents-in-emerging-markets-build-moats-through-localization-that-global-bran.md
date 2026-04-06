@@ -49,11 +49,12 @@ stance: >-
   localization advantages that collectively create an insurmountable barrier for
   global entrants who optimize for their home market
 related:
+  - INS-260322-750D
   - PRI-260328-1D90
   - INS-260404-397F
+  - INS-260330-007E
   - INS-260330-C95F
   - INS-260330-7D6D
-  - INS-260322-750D
 evidence:
   - id: INS-260322-750D
     type: CHALLENGES

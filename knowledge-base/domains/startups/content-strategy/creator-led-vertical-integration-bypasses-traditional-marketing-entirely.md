@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 2024 Annual Letter
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/2024-annual-letter'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     MrBeast's $500M+ revenue empire proves a single creator can bypass
@@ -62,6 +52,14 @@ stance: >-
   multiple industries — from CPG to food service — and generate hundreds of
   millions in revenue by using content as both entertainment and marketing,
   making the creator economy the new foundational layer of demand generation.
+related:
+  - INS-260327-2B62
+  - INS-260327-CA1C
+  - INS-260327-E07A
+  - INS-260330-27E8
+  - INS-260403-B610
+  - PRI-260405-675B
+  - INS-260403-9746
 ---
 MrBeast (Jimmy Donaldson) became the most-subscribed YouTuber in history with 550M+ combined subscribers and 80B+ lifetime views in 2024, then converted that attention into a vertically-integrated business pushing toward $500M in annual revenue. His snack brand Feastables hit $250M in sales by embedding product promotion directly into viral content, eliminating the need for traditional marketing channels entirely.
 

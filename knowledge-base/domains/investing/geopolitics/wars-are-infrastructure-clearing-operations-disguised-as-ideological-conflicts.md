@@ -44,14 +44,14 @@ resolutions:
 related:
   - INS-260321-A3A1
   - INS-260323-E74E
-  - INS-260323-E204
   - PRI-260323-A5E8
   - INS-260330-FAB8
   - INS-260327-A75C
   - INS-260321-5655
   - INS-260327-F3F0
-  - INS-260324-0A26
   - INS-260330-2B5F
+  - INS-260330-A2D4
+  - INS-260330-0FCE
 stance: >-
   The Iran operation isn't about religion or revenge — it's about clearing the
   physical obstacle blocking a logistics highway

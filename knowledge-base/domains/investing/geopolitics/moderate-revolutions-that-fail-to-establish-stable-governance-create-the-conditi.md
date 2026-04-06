@@ -50,7 +50,6 @@ stance: >-
   functioning new institutions quickly enough, extremist factions exploit the
   resulting chaos to seize power.
 related:
-  - INS-260327-94CC
   - PRI-260328-E1CE
   - INS-260327-ABE5
   - INS-260327-7A27

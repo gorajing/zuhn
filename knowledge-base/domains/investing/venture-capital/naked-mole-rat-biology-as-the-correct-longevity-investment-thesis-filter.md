@@ -47,11 +47,11 @@ stance: >-
   The most valuable longevity investments target constant mortality rate
   (negligible senescence) rather than marginal lifespan extension
 related:
-  - INS-260330-2BB3
   - INS-260403-1CB1
+  - INS-260330-78B1
   - INS-260326-6B98
-  - PRI-260403-50EF
-  - INS-260325-5A72
+  - INS-260330-2BB3
+  - INS-260403-1B96
 evidence:
   - id: INS-260330-2BB3
     type: TRANSFERS_TO

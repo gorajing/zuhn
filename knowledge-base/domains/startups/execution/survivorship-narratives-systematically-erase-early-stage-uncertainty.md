@@ -47,11 +47,13 @@ stance: >-
   close those companies came to failing in their first months.
 related:
   - INS-260329-1CB0
+  - INS-260403-6D4F
+  - INS-260403-A36C
   - PRI-260328-B11D
-  - PRI-260328-604D
-  - INS-260402-E140
-  - INS-260403-FAFA
-  - INS-260403-E300
+  - INS-260403-FF7E
+  - INS-260405-57C5
+  - INS-260403-1B96
+  - INS-260403-1BEF
 evidence:
   - id: INS-260403-E300
     type: SUPPORTS

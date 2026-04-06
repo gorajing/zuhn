@@ -50,16 +50,15 @@ stance: >-
   barrier to entry into a psychological commitment device that increases
   spending and loyalty beyond what free-entry models achieve.
 related:
-  - INS-260325-206C
-  - INS-260403-9104
-  - INS-260403-08FE
   - INS-260403-3F91
   - INS-260403-CE5F
   - INS-260404-ED19
   - INS-260404-3156
+  - INS-260403-9104
   - INS-260405-F1FD
   - INS-260404-13F1
-  - INS-260404-5587
+  - PRI-260405-548B
+  - INS-260403-6032
 evidence:
   - id: INS-260403-9104
     type: EXTENDS

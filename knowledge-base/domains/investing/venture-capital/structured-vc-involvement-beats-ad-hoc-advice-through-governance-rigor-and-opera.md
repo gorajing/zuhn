@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "YC Review\U0001F4AA, What VC ‘Value-Add’ Really Looks Like\U0001F9ED, Private Markets Outlook\U0001F4C8"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/yc-review-what-vc-value-add-really'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VC value-add is maximized through structured involvement like governance
@@ -58,6 +48,12 @@ stance: >-
   VCs create the most value for portfolio companies through consistent
   governance structures and operating cadences, not through sporadic strategic
   advice or introductions.
+related:
+  - INS-260403-0350
+  - INS-260327-5CB6
+  - INS-260330-4E10
+  - INS-260405-6CED
+  - INS-260403-A7D6
 ---
 The article argues that founders benefit most from VCs who provide structured involvement: governance rigor, operating cadence, and early professionalization. The key phrase is 'rhythm beats rhetoric' — consistent updates and clear decision triggers align execution far more effectively than occasional strategic conversations or warm introductions.
 

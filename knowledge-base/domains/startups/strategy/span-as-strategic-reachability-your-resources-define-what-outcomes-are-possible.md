@@ -51,11 +51,11 @@ stance: >-
   independent capabilities, not by the count of its resources
 related:
   - INS-260329-A57B
+  - INS-260405-B738
+  - INS-260405-45E0
   - INS-260404-8A02
   - INS-260403-4C61
   - INS-260403-924B
-  - INS-260321-E654
-  - INS-260327-80A8
 evidence:
   - id: INS-260403-4C61
     type: CHALLENGES

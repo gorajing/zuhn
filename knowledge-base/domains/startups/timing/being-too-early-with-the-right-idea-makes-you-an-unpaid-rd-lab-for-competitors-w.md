@@ -48,14 +48,14 @@ resolutions:
 related:
   - INS-260320-703F
   - INS-260321-E4EB
-  - INS-260322-0247
-  - INS-260322-F868
+  - INS-260405-94A0
   - PRI-260405-675B
   - PRI-260328-FD47
   - PRI-260328-6CEC
-  - PRI-260328-BDC2
   - INS-260329-1A3B
   - INS-260330-923F
+  - INS-260404-B0DC
+  - INS-260403-E662
 stance: >-
   Having a brilliant idea without an addressable market or distribution
   infrastructure turns you into free R&D for better-timed competitors.

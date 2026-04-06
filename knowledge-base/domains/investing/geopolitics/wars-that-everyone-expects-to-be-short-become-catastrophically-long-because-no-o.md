@@ -52,12 +52,11 @@ stance: >-
   and when the conflict doesn't end quickly, this unpreparedness multiplies the
   damage.
 related:
-  - INS-260327-088D
   - INS-260327-32BA
   - INS-260330-5C69
   - INS-260327-A072
   - PRI-260328-FA83
-  - INS-260327-70A4
+  - INS-260327-FA38
 evidence:
   - id: INS-260327-088D
     type: CHALLENGES

@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: The Media Landscape - Sense-Making 2.0'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-the-media-landscape-sense'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Expertise plus authenticity is outcompeting institutional authority as the
@@ -59,6 +49,14 @@ stance: >-
   Individual creators who combine domain expertise with authentic voice will
   displace institutional media as the primary sense-making layer for most
   people.
+related:
+  - INS-260325-24D1
+  - INS-260321-4280
+  - INS-260402-2D7B
+  - INS-260403-E332
+  - INS-260403-22FE
+  - INS-260330-990F
+  - PRI-260321-5857
 ---
 Traditional media derived credibility from institutional affiliation — the masthead, the network, the editorial board. The new media ecosystem inverts this: audiences now trust individuals who demonstrate genuine expertise and are willing to be wrong in public, over organizations that speak with anonymous authority. Sense-makers like podcast hosts and Substack writers build reputations through accumulated correct calls and transparent reasoning, not credentials.
 

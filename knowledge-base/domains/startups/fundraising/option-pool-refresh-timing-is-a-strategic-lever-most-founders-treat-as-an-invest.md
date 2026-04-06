@@ -1,5 +1,5 @@
 ---
-id: INS-260403-F4D3
+id: INS-260403-7190
 domain: startups
 topic: fundraising
 title: >-
@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Cap Table Mastery: How to Manage Startup Equity from Seed to Series C'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/cap-table-mastery-how-to-manage-startup'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Whether the option pool expands before or after new investment hits the cap
@@ -61,6 +51,13 @@ stance: >-
   The pre-money vs post-money placement of option pool expansion is one of the
   most consequential and least understood negotiation points in venture
   financing
+related:
+  - INS-260330-AF2B
+  - INS-260403-402F
+  - INS-260403-49FC
+  - INS-260403-ACC5
+  - INS-260402-3D34
+  - INS-260403-130A
 ---
 At each funding round, investors typically request an option pool refresh to ensure the company can attract talent through the next growth phase. The standard ask is 15-20% of fully diluted shares. What many founders miss is that this pool expansion is usually carved out pre-money, meaning existing shareholders (primarily founders) absorb the dilution rather than sharing it with new investors.
 

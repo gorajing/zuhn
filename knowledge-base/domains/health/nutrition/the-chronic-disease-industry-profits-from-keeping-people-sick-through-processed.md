@@ -51,12 +51,11 @@ stance: >-
   engineered processed foods create chronic disease that pharma then treats
   symptomatically without curing
 related:
-  - INS-260327-5B47
   - INS-260327-3014
   - PRI-260328-1545
   - INS-260325-040F
   - INS-260403-219E
-  - PRI-260328-7E58
+  - INS-260322-3A00
 evidence:
   - id: INS-260325-040F
     type: TRANSFERS_TO

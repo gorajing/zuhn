@@ -19,24 +19,14 @@ sources:
     title: >-
       The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating
       Giants
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-billion-dollar-startup-formula'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     With 72% of startup founders experiencing mental health issues and
@@ -67,6 +57,17 @@ stance: >-
   The burnout epidemic in lean startups (72% of founders reporting mental health
   issues, 50-60 hour average weeks) is a structural feature of small teams that
   AI tools alone cannot solve.
+related:
+  - INS-260330-7D83
+  - INS-260330-883E
+  - INS-260330-5E47
+  - INS-260403-4E23
+  - INS-260403-294D
+  - INS-260403-9FEA
+  - INS-260405-CF31
+  - INS-260403-4075
+  - PRI-260403-5C44
+  - INS-260403-8FC1
 ---
 Startup Snapshot's finding that 72% of founders experience mental health issues, combined with Stanford research showing productivity drops after 50 hours/week (while startup employees average 50-60 hours), reveals a fundamental tension in the lean team model. Small teams mean each person juggles multiple roles, creating chronic overwork that degrades the very creativity and decision-making quality that makes small teams effective.
 

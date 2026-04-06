@@ -51,11 +51,11 @@ stance: >-
   as insufficiently prestigious because ambition meant climbing institutional
   hierarchies not building new ones
 related:
+  - INS-260403-3A72
   - INS-260405-9FD9
   - INS-260323-78A5
-  - INS-260403-C9C2
-  - INS-260323-F62A
-  - INS-260327-D0F4
+  - INS-260403-C349
+  - INS-260404-943E
 evidence:
   - id: INS-260323-F62A
     type: CHALLENGES

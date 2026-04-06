@@ -50,15 +50,14 @@ stance: >-
   matters more than individual genius for producing great work
 related:
   - INS-260322-2B2D
-  - INS-260323-A494
-  - INS-260326-2259
   - INS-260327-0692
-  - INS-260330-C8D7
   - INS-260330-E660
   - INS-260330-737B
   - INS-260403-A868
+  - INS-260404-91B8
   - INS-260404-8256
   - PRI-260403-C34A
+  - INS-260403-4942
 evidence:
   - id: INS-260320-8632
     type: CHALLENGES

@@ -1,5 +1,6 @@
 # Tag: symmetry
 
+- `INS-260404-F366` Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
 - `INS-260330-6A65` Perfect cancellation of opposing effects — like width-stretching and height-squishing in sphere-to-cylinder projection — is a fingerprint of deeper structural relationships.
 - `INS-260325-4CA1` When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
 - `INS-260325-28AD` Decompose problems along their natural symmetries and math rewards you with simpler subproblems.

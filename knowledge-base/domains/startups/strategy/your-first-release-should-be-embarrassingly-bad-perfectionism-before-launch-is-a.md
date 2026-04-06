@@ -44,11 +44,11 @@ resolutions:
     less costly than the embarrassment of spending two years building something
     nobody wants.
 related:
+  - INS-260404-88D8
   - INS-260323-8AA1
   - INS-260403-AFBB
   - PRI-260323-AEE6
   - PRI-260405-64B2
-  - INS-260322-760A
   - INS-260327-FFA7
   - INS-260329-200A
   - INS-260403-0CA8

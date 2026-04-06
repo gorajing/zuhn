@@ -1,5 +1,6 @@
 # Tag: growth-rate
 
+- `INS-260404-9FBC` Ramp's 153% YoY growth at $1B revenue is 10x the median public SaaS growth rate, suggesting AI-native business models resist typical growth deceleration.
 - `INS-260323-6D41` In evolutionary simulations, winning replicators consistently had the highest replication rate and lowest death rate -- speed of copying is the dominant competitive advantage.
 - `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260404-9BC6` In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.

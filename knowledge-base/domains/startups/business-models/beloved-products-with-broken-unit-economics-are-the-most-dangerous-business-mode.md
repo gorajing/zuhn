@@ -43,10 +43,10 @@ stance: >-
   more dangerous than a bad product because the positive signal masks a fatal
   structural flaw.
 related:
+  - INS-260405-13C5
   - PRI-260328-BEDD
+  - INS-260405-3098
   - INS-260404-1C01
   - INS-260405-B4D4
-  - PRI-260325-A95E
-  - PRI-260324-3081
 ---
 The most insidious business model failure is one where every customer signal says 'keep going' while the financials say 'stop.' When production costs exceed willingness to pay, founders get caught shipping product improvements instead of rethinking the value proposition. The emotional validation from happy customers becomes a cognitive trap—it feels like success while the burn rate accelerates. This is why business model validation must include cost structure analysis alongside customer demand testing. A product that delights at a loss is a hobby, not a business, and the positive user feedback makes it harder to pivot than a product that clearly isn't working.

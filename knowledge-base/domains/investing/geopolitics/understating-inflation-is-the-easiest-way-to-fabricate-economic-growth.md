@@ -16,26 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #75: Checking in on the Bad Guys'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-75-checking-in-on-the-bad'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Russia's apparent post-2022 economic resilience likely reflects understated
@@ -61,6 +49,17 @@ stance: >-
   Countries can systematically overstate GDP growth by underreporting inflation,
   and independent inflation monitoring is essential for accurate assessment of
   authoritarian economies
+related:
+  - INS-260327-D4D8
+  - INS-260330-3994
+  - INS-260330-39C6
+  - INS-260404-8BC7
+  - INS-260403-2F55
+  - INS-260403-EC09
+  - PRI-260328-6136
+  - INS-260327-EF98
+  - PRI-260328-6CDE
+  - PRI-260328-0993
 ---
 Russia's official statistics showed 7.1% GDP growth and 24.8% real income growth from 2021-2024, fueling narratives about sanctions ineffectiveness and Russian economic resilience. However, a PeaceRep report using alternative inflation estimates (independent agency ROMIR measured 33% inflation in 2022 vs the official 11%) found GDP actually fell 1.5% and real household incomes declined 5.3% over the same period.
 

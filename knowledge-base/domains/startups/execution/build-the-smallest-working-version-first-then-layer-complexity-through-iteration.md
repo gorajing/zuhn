@@ -47,10 +47,10 @@ stance: >-
 related:
   - INS-260320-C8CC
   - INS-260320-4773
+  - INS-260403-5BD6
   - INS-260320-4993
   - INS-260329-26BB
   - INS-260327-63B5
-  - INS-260329-22A8
 evidence:
   - id: INS-260320-4993
     type: SUPPORTS

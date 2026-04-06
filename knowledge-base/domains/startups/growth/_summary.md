@@ -1,56 +1,110 @@
 # Topic: growth
 
-> 52 insights
+> 106 insights
 
 - `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
+- `INS-260403-BFF3` [high] Find the one early action your retained users share — like Calm's Day 1 reminder or Facebook's 7 friends — and rebuild onboarding around it.
+- `INS-260404-3771` [high] Find what sticky users do differently, then make every new user do that thing.
 - `INS-260402-5EDC` [high] Affordability barriers don't suppress demand — they redirect it into entirely new market categories that serve the same underlying need through novel structures.
+- `INS-260403-2A8B` [high] Aggregate churn rates mask divergent cohort performance, hiding both critical problems and meaningful improvements.
+- `INS-260330-4553` [high] When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
+- `INS-260404-1CBC` [high] Annual pre-pay creates a virtuous cycle where customer payments directly fund new customer acquisition, effectively creating an infinite marketing budget.
 - `INS-260330-3084` [high] Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
 - `INS-260402-910C` [high] Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
 - `INS-260403-C161` [high] Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
+- `INS-260403-6D8C` [high] Cohort-level CAC payback reveals which acquisition channels and time periods produce self-funding growth versus cash-burning growth.
+- `INS-260403-F85C` [high] A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
+- `INS-260403-1817` [high] Each churned customer destroys not just current revenue but years of future compounding profit.
+- `INS-260403-64AE` [high] Win-back campaigns get under 10% reactivation; preventing churn through friction removal and early value delivery is far more effective.
+- `INS-260403-544B` [high] High acquisition numbers create a false sense of growth health while churn quietly erodes the MRR base each month.
+- `INS-260403-A93A` [high] Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.
 - `INS-260404-7C79` [high] Halving revenue on a 5%-weekly growth curve only puts you 15 weeks behind, regardless of how long you run.
 - `INS-260402-2632` [high] Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - `INS-260330-AE70` [high] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
+- `INS-260402-B743` [high] Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
+- `INS-260403-D2F4` [high] Second-time founders bake GTM strategy into week one of building, treating distribution as the product rather than an afterthought.
+- `INS-260404-70DE` [high] Prediction markets reached mainstream scale by distributing through platforms with 100M+ existing accounts rather than acquiring users directly.
+- `INS-260403-DDC9` [high] When customers churn reveals whether you have an activation problem or an evolution problem.
+- `INS-260403-58CF` [high] Early users come from consistent presence in user communities, not from one-time launch spikes.
+- `INS-260402-7623` [high] Earnings estimates outperform all other supply-side value propositions by an order of magnitude.
 - `INS-260330-DE80` [high] Apple pivoted its growth narrative from iPhone unit sales to ecosystem ARPU (services, accessories, subscriptions) once smartphone saturation made unit growth impossible.
 - `INS-260330-323E` [high] Test one growth channel at a time with full dedication for a week; only move on when you have a clear signal it works or doesn't.
+- `INS-260403-1B8C` [high] Expansion revenue from deeper workflow adoption is durable, but expansion used to mask failing customer acquisition is a delayed detonation that shows up in cohort performance.
 - `INS-260403-D49B` [high] Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
+- `INS-260405-3315` [high] Freemium works because it routes adoption through the user, not through procurement.
+- `INS-260403-448C` [high] CLTV should be calculated as (ARPU × Gross Margin) / Churn Rate, not raw revenue divided by churn.
 - `INS-260330-7C05` [high] Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
+- `INS-260402-5523` [high] Successful growth loops are designed around behaviors users already exhibit naturally, not invented from scratch.
 - `INS-260402-7FF5` [high] Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260404-9BC6` [high] In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
 - `INS-260330-A949` [high] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
+- `INS-260404-B893` [high] Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
 - `INS-260403-5648` [high] The Calvin Cycle produces 6 G3P molecules but must feed 5 back to regenerate the cycle — only 1/6 of output is 'profit,' the rest is reinvestment.
+- `INS-260403-441E` [high] SF's housing restrictions forced out middle-class residents, creating a demographic hollowing that worsened the political conditions causing the restrictions.
 - `INS-260403-1DE4` [high] Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260330-410A` [high] Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260403-EAC6` [high] Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-D968` [high] The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
 - `INS-260402-D9AC` [high] Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
+- `INS-260404-EF1D` [high] Marketplaces must build supply density in narrow geographies or verticals before scaling demand.
+- `INS-260402-8F67` [high] Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.
+- `INS-260402-BEB6` [high] A growth loop that completes in 30 minutes compounds far faster than one taking 30 days, making cycle time the primary optimization target.
+- `INS-260403-AFC6` [high] True CAC must include sales salaries, tools, agencies, and content production — not just ad spend.
+- `INS-260403-7D5B` [high] Analysis of the most successful consumer startups shows most achieved initial scale through just one of three growth lanes.
+- `INS-260403-91A1` [high] Growing revenue from existing customers through upsells and expansion is more efficient than acquiring new ones.
+- `INS-260403-53B0` [high] Net retention above 100% means upsell revenue from existing customers exceeds churn losses, creating compounding growth independent of new acquisition.
 - `INS-260330-0371` [high] Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
+- `INS-260403-22BB` [high] A misselected North Star Metric causes teams to optimize the wrong behavior, producing impressive acquisition numbers that never translate to revenue.
 - `INS-260330-072D` [high] One person saying 'don't use them' destroys more growth than ten champions create, so always make it right even when it's expensive.
 - `INS-260330-49A4` [high] At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
 - `INS-260330-CBEF` [high] At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260330-697F` [high] Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
 - `INS-260330-59DC` [high] The users who drive growth metrics are the ones on the edge of churning or reactivating, not your most engaged users.
 - `INS-260330-1266` [high] Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
+- `INS-260403-5447` [high] Platform recommendation features can massively accelerate growth but function as an amplifier of existing quality, not a substitute for it.
+- `INS-260403-05CE` [high] The stealth-to-public transition demands a structured launch blueprint: working backwards from a date, building amplifier networks, scheduling publishing waves, and shipping a follow-up within 30 days.
 - `INS-260330-33FF` [high] Preferential attachment (rich-get-richer dynamics) is a mathematical inevitability that explains why small early leads in views, users, or market share compound into dominant positions.
 - `INS-260330-C0E2` [high] Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
+- `INS-260403-6341` [high] Products where usage inherently creates exposure to new users achieve the most efficient growth.
+- `INS-260402-491D` [high] Referral programs simultaneously maximize supply volume and quality because successful hosts self-select high-quality recruits.
 - `INS-260330-D0AB` [high] Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
+- `INS-260402-575D` [high] Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.
+- `INS-260330-78B1` [high] Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
+- `INS-260402-3D00` [high] Making the platform useful to hosts even without buyers solves the marketplace cold-start problem.
 - `INS-260330-608C` [high] A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
+- `INS-260403-9863` [high] A 1% monthly churn reduction compounds dramatically over 24 months, making it the highest-leverage growth investment.
 - `INS-260330-8817` [high] Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
+- `INS-260403-13E6` [high] Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
 - `INS-260402-318B` [high] Superlinear returns arise from exponential compounding, winner-take-all thresholds, or their combination.
 - `INS-260330-8048` [high] Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
+- `INS-260403-29AC` [high] First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
 - `INS-260403-99B1` [high] Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260403-458A` [high] Time to $1B revenue compressed from 45 years (IBM) to 7-8 years for modern companies, creating a double effect on founder wealth.
 - `INS-260402-1436` [high] Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
 - `INS-260330-2347` [high] When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
+- `INS-260403-3A72` [high] ZIRP-era companies like Uber and Snapchat have never achieved sustained profitability, while high-rate-era companies like Microsoft and Google were profitable at IPO.
 - `INS-260403-8779` [medium] Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
 - `INS-260330-D99D` [medium] McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260404-5882` [medium] Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
 - `INS-260403-D522` [medium] The most dynamic economic sector attracts the most ambitious people, causing it to expand fractally and set standards for the broader economy.
 - `INS-260403-D2A9` [medium] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
+- `INS-260405-BBA3` [medium] Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.
+- `INS-260405-E7EF` [medium] The self-serve free trial model is losing efficacy in B2B SaaS as buyers expect more guided, outcome-focused evaluation experiences.
+- `INS-260404-F8AF` [medium] Dedicate 20-25% of growth resources to exploring new channels because current tactics will hit diminishing returns within 18 months.
 - `INS-260330-D711` [medium] The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
+- `INS-260402-D7DE` [medium] Five interconnected metrics — K-factor, cycle time, drop-off rate, loop retention, and reinvestment rate — form the diagnostic system for growth loop health.
+- `INS-260403-1432` [medium] Casting a wide net with post-hoc quality sorting achieves better geographic coverage than pre-filtering volunteers.
+- `INS-260403-C445` [medium] Gen Z and younger millennials preferentially buy from founder-led, mission-driven brands over feature-equivalent faceless alternatives.
+- `INS-260403-B301` [medium] a16z's modelbuster companies achieve extraordinary growth by redefining markets rather than competing within existing ones.
+- `INS-260404-8292` [medium] Building reliable pipeline requires coordinating multiple demand-generation channels that reinforce each other rather than relying on one dominant channel.
+- `INS-260404-C6EB` [medium] Lenny's Newsletter bundles 15+ premium tools worth $10,000+ into a $350/year subscription, creating multi-product lock-in.
 - `INS-260403-0435` [medium] Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260403-1AD3` [medium] Startup ecosystems need a critical mass threshold before they become self-reinforcing through network effects.
+- `INS-260403-1115` [medium] Roll-up models applying acquisitions and AI to the $6T+ services market may produce larger outcomes than building new SaaS companies.
 - `INS-260402-C49E` [medium] Graham quantifies from running a forum that users were about 3x more likely to upvote content that outraged them, suggesting outrage amplification is structural to engagement-sorted platforms.
 - `INS-260330-7D6D` [medium] Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
+- `INS-260405-5755` [medium] 35 companies have now cracked $1B ARR, suggesting billion-dollar revenue follows replicable patterns worth studying.
 - `INS-260403-07D2` [medium] The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
+- `INS-260403-014D` [medium] Founders who empower aligned influencers to grow their own visibility create reinforcing distribution loops that compound over time.
 - `INS-260330-4AE7` [medium] Use a 3-4 week growth flatline as a concrete pivot trigger, provided you've been executing with full effort.

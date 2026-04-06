@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: China''s minerals, AI financing, Nobel winners, robotics...'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-58c'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Information processing equipment and software investment contributed ~2.1
@@ -57,6 +47,12 @@ stance: >-
   AI-related capital expenditure has become a structurally significant component
   of US GDP growth, not just a tech sector phenomenon, contributing over 2
   percentage points of the 3.8% annualized growth in early 2025.
+related:
+  - INS-260405-2230
+  - INS-260405-B204
+  - INS-260405-FCA9
+  - INS-260403-DAFA
+  - INS-260405-DDC2
 ---
 BEA data shows information processing equipment contributed ~1.11 percentage points and software ~0.99 points to real GDP growth in H1 2025, together explaining over half of the 3.8% annualized growth print while other components were mixed. This means AI-driven infrastructure spending is no longer a niche tech story — it's a macroeconomic force propping up headline GDP numbers.
 

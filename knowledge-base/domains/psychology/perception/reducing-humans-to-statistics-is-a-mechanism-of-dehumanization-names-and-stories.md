@@ -50,14 +50,14 @@ resolutions:
 related:
   - INS-260323-2874
   - PRI-260325-F21B
+  - INS-260403-9DB6
   - PRI-260324-8EE6
   - PRI-260328-82A2
-  - PRI-260325-697B
   - INS-260323-5737
-  - INS-260330-2B33
   - INS-260330-2294
   - INS-260330-0764
-  - INS-260405-2B3F
+  - INS-260403-FF7C
+  - INS-260403-7848
 stance: >-
   When casualties become 'averaging 10,000 a month' instead of named individuals
   with stories, moral weight evaporates

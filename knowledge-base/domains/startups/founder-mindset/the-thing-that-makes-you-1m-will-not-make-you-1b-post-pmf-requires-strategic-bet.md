@@ -44,10 +44,10 @@ related:
   - INS-260329-C26B
   - PRI-260327-117F
   - INS-260322-F128
+  - INS-260405-95CB
   - INS-260403-6890
-  - PRI-260403-2E59
   - INS-260328-0B42
-  - INS-260329-D159
+  - INS-260403-F2BF
 stance: >-
   Pre-PMF advice (just ship, talk to users, no strategy) becomes actively
   harmful post-PMF

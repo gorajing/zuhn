@@ -55,22 +55,21 @@ related:
   - INS-260327-9DB0
   - PRI-260328-36C3
   - INS-260325-75A3
-  - INS-260402-F479
   - INS-260327-4A10
   - INS-260330-240A
 evidence:
   - id: INS-260325-4E20
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-75A3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-4A10
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-65CD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-240A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Assembly Theory's key insight is that complexity is a historical property, not a structural one. Two objects can look similar but have very different assembly indices if one required more steps to construct. A randomly arranged pile of blocks might look complex but has low assembly index (few steps needed). A precisely arranged circuit might look simple but has high assembly index.
 

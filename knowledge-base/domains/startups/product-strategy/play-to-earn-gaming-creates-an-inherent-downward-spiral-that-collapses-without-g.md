@@ -52,15 +52,15 @@ stance: >-
   death spiral as growth slows, because non-earning users have no reason to stay
   and their departure makes earning harder for everyone else.
 related:
-  - INS-260322-36E3
   - INS-260330-97F6
   - INS-260402-6D5E
   - PRI-260328-0993
+  - INS-260403-7943
+  - INS-260405-863C
   - PRI-260328-7E58
   - PRI-260403-E097
-  - INS-260324-DB86
-  - PRI-260405-5912
   - INS-260403-98F3
+  - INS-260403-2833
 ---
 Axie Infinity demonstrated this pattern clearly: at peak, players earned up to $1,000/month and the game became a job in the Philippines, with 40%+ of users there. But as new user growth inevitably slowed, demand for in-game NFTs (averaging $787 each) couldn't be sustained. The decline started before the $620M hack, not because of it.
 

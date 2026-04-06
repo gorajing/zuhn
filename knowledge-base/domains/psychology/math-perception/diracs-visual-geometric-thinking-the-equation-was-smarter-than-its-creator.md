@@ -51,8 +51,7 @@ related:
   - INS-260323-3F56
   - INS-260323-7345
   - INS-260323-738D
-  - PRI-260323-CE34
-  - INS-260323-1302
+  - INS-260325-D037
   - INS-260403-17E1
 stance: >-
   Dirac's equation predicting antimatter came from his unusual visual-geometric

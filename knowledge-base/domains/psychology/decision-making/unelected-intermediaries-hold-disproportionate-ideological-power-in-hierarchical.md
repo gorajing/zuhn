@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why America's extremes will both fail
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/why-americas-extremes-will-both-fail'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Congressional staffers in their late 20s effectively set ideological
@@ -67,6 +55,12 @@ stance: >-
   relationships, the younger specialists who handle day-to-day operations become
   the actual ideological drivers, often pulling the organization toward
   positions its leadership never endorsed.
+related:
+  - INS-260403-48CC
+  - INS-260403-952F
+  - INS-260327-2A73
+  - INS-260322-2FAD
+  - INS-260403-0EC5
 ---
 Smith highlights a critical principal-agent problem in American politics: politicians spend their time fundraising, giving speeches, and pressing the flesh, while staffers in their late 20s write legislation, advise on policy, and handle communications. These staffers are unelected, more online, and more ideologically extreme than both their bosses and the voters who elected them. The Trump racist video incident illustrates this perfectly — a staffer posted content that forced the President into defending a position he didn't choose.
 

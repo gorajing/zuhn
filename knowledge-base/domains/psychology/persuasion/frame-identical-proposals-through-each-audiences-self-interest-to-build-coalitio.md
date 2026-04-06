@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Last Rights
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/last-rights'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The article pitches the same amendment separately to Democrats
@@ -61,6 +51,12 @@ resolutions:
 stance: >-
   The same policy change can gain bipartisan support by presenting
   faction-specific benefit narratives rather than universal arguments.
+related:
+  - INS-260330-95F3
+  - INS-260403-C8FB
+  - INS-260405-42D3
+  - INS-260403-BA4B
+  - INS-260404-2A95
 ---
 Rather than making one universal argument for the Congressional Apportionment Amendment, the author crafts distinct pitches for each political faction, each grounded in that faction's self-interest. Democrats hear about losing the 2030 gerrymandering battle. Republicans hear about Trump designing a new Capitol Building. Libertarians hear about finally winning a seat in New Hampshire. State legislators hear about personal promotion to Congress.
 

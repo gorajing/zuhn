@@ -43,11 +43,11 @@ stance: >-
   Experts have a higher proportion of unconscious knowledge than beginners,
   making writing even more valuable for them
 related:
+  - INS-260404-D45D
   - PRI-260405-BF5B
   - INS-260327-24D2
   - INS-260404-32C5
-  - INS-260402-3639
-  - INS-260403-7878
+  - PRI-260405-9A14
 evidence:
   - id: INS-260403-7878
     type: EXTENDS

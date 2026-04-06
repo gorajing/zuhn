@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #77: The Fix-Everything Button'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-77-the-fix-everything-button'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     China's share of US imports fell from over one-fifth to less than
@@ -62,5 +50,12 @@ stance: >-
   specifically while failing to shrink America's aggregate trade deficit, making
   them effective for geopolitical risk reduction but not for their stated
   economic goal
+related:
+  - INS-260327-7605
+  - INS-260405-F6E6
+  - INS-260403-CCCC
+  - INS-260403-6988
+  - INS-260403-20ED
+  - INS-260403-42BA
 ---
 Trump's tariffs on China — far higher than rates on other countries — have achieved a dramatic reduction in bilateral trade dependence, with China's share of US imports plummeting. DiPippo's analysis shows that roughly 82% of China's lost US exports found alternative markets rather than being transshipped back to America, with only an upper bound of 23% potentially reaching the US indirectly. However, the overall US trade deficit has not meaningfully shrunk — November data showed imports soaring and exports falling. The divergence matters: if you evaluate tariffs by their stated goal (eliminating trade deficits), they're failing. If you evaluate them as geopolitical risk mitigation (reducing dependence on a strategic competitor), they're working. This distinction between a policy's intended and actual effects is crucial for investors and strategists assessing trade policy.

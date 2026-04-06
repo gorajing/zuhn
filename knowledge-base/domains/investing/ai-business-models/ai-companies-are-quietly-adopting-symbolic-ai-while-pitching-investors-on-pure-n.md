@@ -50,11 +50,11 @@ resolutions:
     innovation is hybrid neuro-symbolic architecture, which requires
     fundamentally different investment than pure GPU scaling.
 related:
+  - INS-260404-21E6
   - INS-260330-6BBD
   - INS-260327-7F64
   - PRI-260323-6A93
   - PRI-260328-D893
-  - INS-260329-2DF2
 stance: >-
   Companies like OpenAI are secretly integrating classical symbolic tools (code
   interpreters, Python) while telling investors they're just scaling ne...

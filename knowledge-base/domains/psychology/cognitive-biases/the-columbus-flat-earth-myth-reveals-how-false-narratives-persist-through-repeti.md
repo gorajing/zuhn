@@ -57,6 +57,7 @@ related:
   - INS-260330-10CF
   - INS-260330-9A46
   - INS-260330-FB50
+  - INS-260330-CBFD
 evidence:
   - id: INS-260330-6EF1
     type: CONTRADICTS

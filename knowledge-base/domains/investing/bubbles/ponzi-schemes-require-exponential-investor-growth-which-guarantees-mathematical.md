@@ -43,25 +43,25 @@ stance: >-
   Any investment requiring constant new capital inflows to pay existing returns
   is structurally doomed to collapse regardless of the operator's skill.
 related:
+  - INS-260403-227D
   - INS-260403-9775
-  - INS-260403-B9A9
+  - INS-260403-82B5
   - INS-260330-478B
   - INS-260402-318B
-  - INS-260403-2B1D
 evidence:
   - id: INS-260330-478B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-195E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-22D6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9B90
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-318B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B9A9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-2B1D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Charles Ponzi promised 50% returns in 45 days or 100% in 90 days. The scheme worked temporarily because early investors were paid with new investor money, creating apparent legitimacy. At peak, Ponzi collected $250,000/day. But Clarence Barron's investigation revealed Ponzi would have needed 160 million IRCs when only 27,000 existed worldwide. The math is always the fatal flaw: geometric growth in payouts requires geometric growth in new capital, which is physically impossible to sustain. This principle applies to any investment where returns depend on recruiting new participants rather than generating genuine economic value.

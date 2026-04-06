@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "\U0001F511 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/key-startup-metrics-vcs'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Metrics that don't connect to revenue, retention, or scalability harm
@@ -58,6 +48,12 @@ stance: >-
   Presenting vanity metrics like total signups, social media followers, or raw
   download counts in a VC pitch signals analytical immaturity and erodes
   investor trust rather than building it.
+related:
+  - INS-260405-7CF9
+  - INS-260321-3521
+  - INS-260403-6F75
+  - INS-260404-ED0F
+  - INS-260403-6F8B
 ---
 Founders often default to the largest numbers available — total registered users, app downloads, social media reach, or top-line revenue growth — because they look impressive on a slide. But experienced VCs immediately see through these because they obscure the health indicators that actually matter. A million signups with 5% DAU/MAU reveals a retention crisis. Impressive revenue growth paired with a burn rate that outpaces it signals unsustainable unit economics.
 

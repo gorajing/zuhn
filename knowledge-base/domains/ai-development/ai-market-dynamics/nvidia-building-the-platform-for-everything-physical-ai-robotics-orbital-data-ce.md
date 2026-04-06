@@ -47,10 +47,13 @@ resolutions:
 related:
   - INS-260327-BEFF
   - INS-260327-9C56
+  - INS-260403-6FEB
   - INS-260323-758B
   - PRI-260328-7007
   - INS-260327-1652
   - INS-260403-20BF
+  - INS-260404-E544
+  - INS-260404-0B8E
 stance: NVIDIA is positioning as infrastructure for all AI
 evidence:
   - id: INS-260403-20BF

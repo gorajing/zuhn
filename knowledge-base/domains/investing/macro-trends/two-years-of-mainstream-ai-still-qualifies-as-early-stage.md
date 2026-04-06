@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: The Current State of AI'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-the-current-state-of-ai'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Chamath argues AI is still early-stage even after two years of mainstream
@@ -57,6 +47,13 @@ stance: >-
   Despite two years of mass consumer adoption since ChatGPT and over a trillion
   dollars invested, AI remains in its early stages by the standard of how
   transformative technologies historically unfold.
+related:
+  - INS-260403-07C6
+  - INS-260404-6398
+  - INS-260404-51A2
+  - INS-260329-14AE
+  - INS-260405-DDC2
+  - INS-260402-EA72
 ---
 Most investors and analysts treat ChatGPT's 2022 release as the starting gun for the AI era and expect mature market structure to emerge on a 3-5 year timeline. Chamath's view — that we're still in early stages as of early 2025 — implies a much longer runway before competitive dynamics, application winners, and return profiles become legible.
 

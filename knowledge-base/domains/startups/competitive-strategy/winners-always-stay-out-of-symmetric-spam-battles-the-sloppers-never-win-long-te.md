@@ -50,11 +50,11 @@ stance: >-
   graph' — looking like winners in the first 10% of the race before total
   collapse.
 related:
+  - INS-260403-BEB3
   - INS-260330-7ED0
   - INS-260329-C893
   - PRI-260328-0993
-  - INS-260321-3808
-  - INS-260324-72E8
+  - INS-260403-E294
 evidence:
   - id: INS-260330-7ED0
     type: CHALLENGES

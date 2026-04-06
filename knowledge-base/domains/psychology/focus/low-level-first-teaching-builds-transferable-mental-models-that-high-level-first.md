@@ -52,12 +52,15 @@ stance: >-
   languages, even though it's harder and slower initially.
 related:
   - INS-260322-B693
+  - INS-260329-9CED
+  - INS-260329-04FA
+  - INS-260329-70D5
+  - INS-260403-841F
   - PRI-260405-49C0
-  - INS-260330-C4F1
-  - INS-260322-DAA1
-  - INS-260330-E47D
-  - INS-260329-EDA2
-  - INS-260403-3831
+  - INS-260327-79E8
+  - INS-260323-47D8
+  - INS-260329-3177
+  - INS-260329-DACC
 evidence:
   - id: INS-260322-B693
     type: CONTRADICTS

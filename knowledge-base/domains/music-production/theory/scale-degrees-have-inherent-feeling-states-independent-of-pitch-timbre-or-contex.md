@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260322-3DE2
   - INS-260322-4B37
+  - INS-260322-9436
   - INS-260323-1930
   - INS-260322-4090
-  - INS-260330-5391
 stance: Each of the 12 scale degrees produces a unique subjective feeling state
 evidence:
   - id: INS-260322-4090

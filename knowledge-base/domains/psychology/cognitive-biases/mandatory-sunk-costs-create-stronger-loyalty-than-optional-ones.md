@@ -54,6 +54,7 @@ related:
   - INS-260404-13F1
   - PRI-260405-548B
   - INS-260403-9104
+  - INS-260323-9D6E
 ---
 Both Costco and Amazon Prime use upfront fees to trigger sunk-cost thinking — once you've paid, you feel compelled to shop there to 'get your money's worth.' But there's a critical difference in how each deploys this mechanism. Amazon Prime is optional, meaning users self-select based on rational calculation of whether the fee pays for itself. This creates loyalty but doesn't fundamentally alter behavior for non-subscribers.
 

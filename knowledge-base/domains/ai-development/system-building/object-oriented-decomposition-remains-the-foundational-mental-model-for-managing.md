@@ -48,16 +48,16 @@ stance: >-
   OOP decomposition is still the most accessible mental model for beginners
   learning to organize complex systems.
 related:
-  - INS-260329-DBFE
+  - INS-260329-C33B
   - INS-260330-CE2F
   - INS-260329-04FA
-  - INS-260329-FEF4
-  - INS-260329-C33B
+  - INS-260329-1610
+  - INS-260329-4D03
 evidence:
   - id: INS-260329-41BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-CE2F
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial builds to OOP as the capstone — classes, constructors, getters/setters, inheritance — framing it as the natural answer to 'how do I organize code that's getting too big.' This pedagogical choice reflects a deeper truth: OOP maps well to human intuition about categories and hierarchies (a Dog is-a Animal, a Car has-an Engine).
 

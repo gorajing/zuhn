@@ -49,11 +49,11 @@ stance: >-
   Creating separate governance structures for subgroups within a population
   prevents them from unifying against the governing authority.
 related:
-  - INS-260330-BBDA
   - INS-260327-ABE5
+  - INS-260403-583B
+  - INS-260330-BBDA
   - INS-260321-10FF
-  - INS-260330-1293
-  - INS-260324-1C84
+  - INS-260403-CFBD
 evidence:
   - id: INS-260324-1C84
     type: SUPPORTS

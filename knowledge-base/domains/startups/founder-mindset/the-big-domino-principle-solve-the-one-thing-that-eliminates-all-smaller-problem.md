@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260329-F4CD
   - INS-260402-CCC3
+  - INS-260403-AC01
   - INS-260329-4092
   - INS-260330-A660
-  - INS-260402-4AB4
 evidence:
   - id: INS-260402-CCC3
     type: EXTENDS

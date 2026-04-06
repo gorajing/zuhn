@@ -50,11 +50,11 @@ stance: >-
   evidence that abiogenesis is a relatively easy process under the right
   conditions, implying simple life could be widespread.
 related:
+  - INS-260325-E19E
   - INS-260325-E7D4
   - INS-260325-DFA5
+  - INS-260327-F608
   - INS-260330-240A
-  - INS-260330-4634
-  - INS-260330-3FF4
 evidence:
   - id: INS-260327-F608
     type: TRANSFERS_TO

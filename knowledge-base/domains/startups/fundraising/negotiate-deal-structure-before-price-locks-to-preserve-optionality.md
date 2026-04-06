@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'The Anatomy of an M&A Deal: Structure, Dilution, EPS'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/deal-structuring-model-template-excel'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Once headline price is agreed in M&A, structural negotiation leverage
@@ -59,6 +49,13 @@ stance: >-
   Founders who negotiate M&A price first and structure second systematically
   lose leverage because by the time structure becomes the focus, most terms are
   already agreed and options have narrowed.
+related:
+  - INS-260329-21AF
+  - INS-260404-5E82
+  - INS-260403-8450
+  - INS-260404-A893
+  - INS-260403-F852
+  - INS-260329-3D14
 ---
 The natural instinct in acquisition talks is to agree on price first because it feels like the biggest decision. But this sequencing is a trap. Once price is set, the remaining negotiation space narrows dramatically — the acquirer can argue that any structural request (more cash, fewer earn-out conditions, shorter vesting) effectively changes the agreed price. Founders find themselves locked into unfavorable structures because they anchored too early.
 

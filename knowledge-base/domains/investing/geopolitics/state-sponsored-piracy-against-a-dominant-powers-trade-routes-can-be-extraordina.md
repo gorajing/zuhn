@@ -49,10 +49,10 @@ stance: >-
   power yields outsized returns because the dominant power cannot defend every
   point simultaneously.
 related:
-  - INS-260325-DDEE
   - INS-260327-EDBA
   - INS-260327-7C1A
   - INS-260327-B950
+  - INS-260325-DDEE
   - PRI-260328-43D8
   - INS-260327-CE65
   - INS-260330-B559

@@ -1,5 +1,5 @@
 ---
-id: INS-260404-89DA
+id: INS-260404-D147
 domain: startups
 topic: founder-mindset
 title: >-
@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Starting in low-commitment, fast-iteration media (sketches, hacks,
@@ -63,6 +51,17 @@ stance: >-
   Choosing media that minimize the gap between early and final work dramatically
   increases the number of ambitious projects that survive their fragile initial
   phase.
+related:
+  - INS-260323-1C32
+  - INS-260322-A61A
+  - INS-260330-B784
+  - INS-260403-D4EA
+  - INS-260404-DDFB
+  - INS-260403-76E4
+  - INS-260403-1A6B
+  - INS-260405-D925
+  - INS-260403-649C
+  - INS-260404-8A18
 ---
 Graham identifies a critical interaction between medium choice and project survival: when there's a vast gulf between what early work looks like and what finished work looks like (carving stone vs. sketching in a notebook), the psychological cost of the ugly-duckling phase is much higher. Digital media's advantage isn't primarily the software — it's that you can start something new with little upfront commitment.
 

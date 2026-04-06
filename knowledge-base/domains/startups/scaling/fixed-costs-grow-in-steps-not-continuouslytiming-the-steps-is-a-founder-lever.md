@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Financial Modeling Examples for Founders: A Startup Guide with Templates'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-startup-founders-guide-to-financial'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Fixed costs like headcount and infrastructure jump in steps, not
@@ -62,6 +52,13 @@ stance: >-
   Fixed costs increase in discrete steps rather than continuously, and founders
   who time these step-increases to match revenue milestones preserve runway
   significantly longer than those who hire or invest ahead of demand.
+related:
+  - INS-260403-7692
+  - INS-260403-4904
+  - INS-260403-696C
+  - INS-260320-8688
+  - INS-260403-CF7C
+  - INS-260403-EA01
 ---
 Variable costs scale smoothly with revenue, but fixed costs—salaries, office space, compliance certifications—increase in lumps. You don't need half an engineer; you either hire one or you don't. This step-function nature means there are windows where your fixed cost base can support more revenue than you're currently generating, and moments where one additional hire tips you into a significantly higher burn rate.
 

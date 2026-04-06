@@ -48,10 +48,10 @@ stance: >-
   investor protection mechanism
 related:
   - INS-260330-64E1
+  - INS-260403-0F15
+  - INS-260404-2A95
+  - INS-260405-9C70
   - INS-260326-967C
-  - INS-260403-0821
-  - INS-260323-4C43
-  - INS-260323-92AD
 ---
 Vesting is typically presented as an investor demand—VCs don't want to invest millions in a company founders could walk away from. But Graham reveals a more nuanced picture: vesting is also a mechanism founders impose on themselves to protect against co-founder departure. Without vesting, a founder who leaves after six months retains their full equity stake despite no longer contributing, creating massive resentment and misaligned incentives.
 

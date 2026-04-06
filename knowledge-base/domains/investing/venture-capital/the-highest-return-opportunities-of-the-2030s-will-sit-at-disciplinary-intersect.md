@@ -21,25 +21,15 @@ sources:
     title: >-
       Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor
       Should Understand in 2026
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/elon-musk-wtf-interview-10-big-ideas-for-founders-investors
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the
@@ -68,6 +58,12 @@ stance: >-
   Investors who map opportunities at the collision points between AI, energy,
   biology, robotics, and space infrastructure will outperform those who invest
   within established category boundaries.
+related:
+  - INS-260323-4D14
+  - INS-260322-54F3
+  - INS-260404-9899
+  - INS-260404-8076
+  - PRI-260405-A11F
 ---
 Musk's companies are often misread as competing within existing categories — rockets, cars, chatbots. His actual thesis is that each is a module in an integrated system: solar energy + robotics + AI + global connectivity + space infrastructure. The value isn't in any single vertical; it's in the compounding surface area where they intersect.
 

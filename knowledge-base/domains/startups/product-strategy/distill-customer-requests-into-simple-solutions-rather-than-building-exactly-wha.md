@@ -53,15 +53,15 @@ stance: >-
   build feature-for-feature what customers demand
 related:
   - INS-260323-5CBE
-  - INS-260323-3436
   - PRI-260320-D2E1
   - INS-260327-B12E
   - INS-260327-89C7
-  - INS-260327-0746
   - INS-260328-D2EC
   - INS-260329-F2BB
   - INS-260330-8890
   - INS-260330-2C79
+  - INS-260403-5683
+  - INS-260330-2306
 evidence:
   - id: INS-260323-5CBE
     type: EXTENDS

@@ -20,25 +20,15 @@ sources:
     title: >-
       Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor
       Should Understand in 2026
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/elon-musk-wtf-interview-10-big-ideas-for-founders-investors
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know
@@ -69,6 +59,12 @@ resolutions:
 stance: >-
   Expanding the scope of human consciousness and intelligence is more valuable
   than accumulating answers to the questions we already know how to ask.
+related:
+  - PRI-260403-F981
+  - INS-260403-FFF0
+  - PRI-260327-3BD9
+  - INS-260321-BFA3
+  - INS-260403-E209
 ---
 Musk's reference to Hitchhiker's Guide captures something real about the structure of scientific and philosophical progress: the breakthroughs tend to come from someone asking a question no one thought to ask, not from someone solving a known problem more efficiently. Newtonian physics didn't fail because no one could solve the equations — it failed because no one had asked the right question about light. The question preceded the answer by decades.
 

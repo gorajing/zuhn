@@ -55,21 +55,20 @@ related:
   - INS-260323-78A5
   - INS-260327-D480
   - INS-260330-3E6F
-  - INS-260330-0B55
+  - INS-260404-C147
+  - INS-260403-5056
   - INS-260330-C745
-  - INS-260327-3B91
-  - INS-260330-AF2B
 evidence:
   - id: INS-260323-78A5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-D480
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3E6F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C745
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-AF2B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The dissolution of Standard Oil in 1911 was intended as punishment, but it became the most profitable event in Rockefeller's career. He owned ~25% of Standard Oil when it was split into 34 independent companies and received proportional stock in each. When these companies began public trading, investors valued them collectively at nearly 3x what Standard Oil had been worth as a single entity.
 

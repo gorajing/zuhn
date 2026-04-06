@@ -43,14 +43,16 @@ resolutions:
     decide which ideas make sense to them. Censorship on campus is destructive
     to the entire educational enterprise.
 related:
+  - INS-260404-36B9
   - INS-260403-B1F2
   - INS-260403-1BCC
   - PRI-260323-2FEE
   - INS-260402-D0F3
-  - INS-260405-B673
   - INS-260322-AB55
   - INS-260403-62B2
   - INS-260404-A2F0
+  - INS-260405-B673
+  - INS-260403-63F1
 stance: >-
   Just as scientists never refuse to run an experiment because the result might
   be unpleasant, the marketplace of ideas must entertain all hypotheses

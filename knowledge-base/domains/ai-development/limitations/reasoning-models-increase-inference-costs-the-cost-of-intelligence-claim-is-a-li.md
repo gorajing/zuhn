@@ -48,15 +48,16 @@ resolutions:
     per-token cost curves to project profitability is using the wrong
     denominator.
 related:
+  - INS-260405-A22F
   - PRI-260328-D893
   - INS-260405-6A94
   - INS-260325-BEAC
-  - INS-260322-D079
-  - INS-260327-991D
+  - INS-260403-91F7
   - INS-260320-9FD5
   - INS-260325-206C
   - INS-260325-4FF3
   - INS-260329-0D70
+  - INS-260405-3240
 stance: >-
   While per-token costs have decreased, reasoning models burn dramatically more
   tokens per task, so actual inference costs per useful output have inc...

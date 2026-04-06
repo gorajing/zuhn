@@ -46,7 +46,6 @@ stance: >-
   Even the best strategy fails when execution depends on subordinates who lack
   either the competence or the initiative to act without direct oversight.
 related:
-  - INS-260323-822B
   - INS-260323-3982
   - INS-260327-F484
   - INS-260327-C7BF
@@ -56,6 +55,7 @@ related:
   - INS-260404-96E6
   - INS-260327-157B
   - INS-260327-5E93
+  - INS-260329-E6DB
 evidence:
   - id: INS-260323-3982
     type: CHALLENGES

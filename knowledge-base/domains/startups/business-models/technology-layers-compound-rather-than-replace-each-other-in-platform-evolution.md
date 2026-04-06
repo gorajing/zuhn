@@ -50,10 +50,10 @@ stance: >-
   eras replace old ones.
 related:
   - INS-260403-4690
+  - INS-260405-A596
+  - INS-260405-9492
   - INS-260403-990C
   - PRI-260328-D292
-  - INS-260403-7C71
-  - INS-260403-426A
 evidence:
   - id: INS-260329-D0B3
     type: TRANSFERS_TO

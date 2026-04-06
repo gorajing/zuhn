@@ -40,12 +40,12 @@ stance: >-
   possessions creates psychological permission and physical space for new
   purchases.
 related:
-  - INS-260327-48D6
   - PRI-260328-909D
+  - INS-260327-D129
   - PRI-260328-935B
   - INS-260325-F500
   - INS-260327-86FE
-  - PRI-260328-6189
+  - INS-260327-2915
 ---
 The decluttering movement does not reduce consumption because removing old possessions creates psychological permission and physical space for new purchases.
 

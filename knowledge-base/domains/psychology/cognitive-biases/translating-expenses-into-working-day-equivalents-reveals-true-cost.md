@@ -51,8 +51,8 @@ related:
   - INS-260327-875C
   - INS-260329-BBF9
   - INS-260329-A011
+  - INS-260330-EBF6
   - INS-260327-1B60
-  - PRI-260328-FD90
 ---
 Dollar amounts are abstract — humans are notoriously bad at feeling the difference between spending $50 and $500 because money is fungible and psychological. Hormozi's tactic of converting expenses into working days (accounting for taxes, so your real hourly rate) creates an immediate emotional response because time is the one resource everyone viscerally understands is finite.
 

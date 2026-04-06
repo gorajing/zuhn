@@ -49,7 +49,6 @@ stance: >-
   manufacturing, energy, transportation, and construction still use
   fundamentally 1960s-era technology.
 related:
-  - INS-260325-1B3E
   - INS-260325-2B76
   - INS-260325-F9CF
   - INS-260325-B14B
@@ -58,6 +57,8 @@ related:
   - INS-260330-F183
   - PRI-260328-BF67
   - INS-260325-7FE6
+  - INS-260322-415E
+  - INS-260405-AD58
 evidence:
   - id: INS-260325-1B3E
     type: CHALLENGES

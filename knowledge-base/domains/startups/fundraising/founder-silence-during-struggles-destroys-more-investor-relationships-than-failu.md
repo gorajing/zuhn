@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Friends & Family Funding: The Startup Founder’s Guide'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/friends-and-family-funding-guide'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Stopping investor updates during difficult periods feels protective but is
@@ -61,6 +51,12 @@ stance: >-
   Founders who go quiet when things get tough damage trust and reputation far
   more than founders who transparently communicate bad news to their early
   investors.
+related:
+  - INS-260403-0E87
+  - INS-260403-4960
+  - INS-260321-9A03
+  - INS-260402-EA72
+  - INS-260403-4102
 ---
 The instinct to go dark when things aren't working is universal among founders—they want to wait until they have better news. But for friends-and-family investors who have a personal relationship with the founder, silence is uniquely painful. It triggers feelings of betrayal that go beyond financial loss because the investment was built on personal trust, not spreadsheet analysis.
 

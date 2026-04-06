@@ -20,26 +20,14 @@ sources:
       A year free of PostHog ($16,500 value): The all-in-one analytics,
       experimentation, feature flag, surveys, session replay, error tracking,
       data warehouse, LLM analytics platform
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-year-free-of-posthog-16500-value'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     PostHog's genuinely useful company blog—covering topics like CEO
@@ -61,5 +49,12 @@ resolutions:
 stance: >-
   A company blog that prioritizes genuine usefulness over promotional content
   builds more durable brand equity than conventional marketing spend.
+related:
+  - INS-260404-C7B2
+  - INS-260403-FC45
+  - INS-260403-BC04
+  - INS-260403-99B1
+  - INS-260327-80A8
+  - INS-260404-24FB
 ---
 PostHog's blog covers topics like 'I've consistently underestimated how important communication is as a CEO,' 'How we got our first 1,000 users,' and 'Job interview questions engineers should ask.' These are useful to their target audience regardless of whether they ever buy PostHog. This approach works because it attracts exactly the right audience (technical founders, PMs, engineers), builds trust before any sales interaction, and positions the company as a peer-to-peer resource rather than a vendor. The signal-to-noise ratio is what matters—most company blogs are promotional noise. The ones that survive editorial scrutiny from skeptical readers become genuine distribution assets. The compounding effect is that quality content attracts the kinds of people who then share it with others like them.

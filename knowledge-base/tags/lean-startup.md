@@ -1,18 +1,23 @@
 # Tag: lean-startup
 
+- `INS-260403-F0AA` Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
 - `INS-260321-E5C5` The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - `INS-260403-4050` Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
 - `INS-260404-CF81` Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.
+- `INS-260403-7DC7` Cost-to-Duplicate valuation rewards spending over efficiency, creating a paradox where lean teams must argue beyond cost to get fair valuations.
+- `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260403-62B2` BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260405-9DF5` Early testing is habit-forming — the first win creates momentum that refinement-first teams never build.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-C92A` Large companies must run parallel cultures — one for executing known business models and one for exploring new ones through rapid experimentation.
 - `INS-260403-31C2` Enterprise lean startup adoption scales faster through peer practitioner networks than top-down mandates.
 - `INS-260403-4CD0` Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
-- `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
+- `INS-260403-FFBD` When functional prototypes cost minutes instead of weeks, the constraint on product discovery shifts from engineering bandwidth to hypothesis quality.
+- `INS-260404-9D14` AI commoditizes code production, making attention — not engineering velocity — the scarce resource for startups.
 - `INS-260322-58B7` Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
+- `INS-260403-8C63` Building a minimal prototype first and iterating on real feedback outperforms engineering a comprehensive system before launch.
 - `INS-260329-F7F4` When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
@@ -23,6 +28,8 @@
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260403-CF0E` Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
+- `INS-260404-D3C7` The OpenAI GPT store lets founders validate AI product concepts with minimal investment before building standalone products.
+- `INS-260403-63F1` Design experiments around specific hypotheses rather than shipping functional products to learn.
 - `INS-260330-5D4F` Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260405-B32E` Fidelity is a function of evidence gathered, not how good the idea seems internally.

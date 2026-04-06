@@ -15,25 +15,15 @@ tags:
 sources:
   - type: blog
     title: 'Startup Fundraising Resources: Investor Lists 2026'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/startup-fundraising-resources-investor-lists-2026
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Over 300 venture firms accept cold pitches directly, undermining the
@@ -57,6 +47,12 @@ stance: >-
   The existence of 300+ VC firms and angel syndicates that explicitly accept
   cold pitches proves warm introductions are overrated as a gating requirement
   for fundraising.
+related:
+  - INS-260404-F26B
+  - INS-260403-62D1
+  - INS-260403-C95C
+  - INS-260404-E9F2
+  - INS-260403-E6DE
 ---
 Silicon Valley fundraising lore treats warm introductions as table stakes—the implicit message being that if you can't get an intro, you're not fundable. This resource challenges that narrative by documenting hundreds of firms with open inbound channels. The implication is not that warm intros don't help (they do, by providing social proof), but that their absence is not the blocker founders believe it to be.
 

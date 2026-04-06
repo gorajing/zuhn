@@ -6,4 +6,5 @@
 - `INS-260325-CA88` Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
+- `INS-260403-EDEF` Great startups get rejected constantly due to fund timing, thesis misalignment, or internal partner dynamics—not startup quality.
 - `INS-260328-41C9` Interviewers use rejection questions to filter for coachability and growth mindset — the answer reveals whether a candidate will burn out or improve under pressure.

@@ -51,8 +51,9 @@ related:
   - INS-260322-55D8
   - INS-260322-B450
   - INS-260329-2D77
+  - INS-260403-B610
   - PRI-260405-F20C
-  - INS-260328-3A00
+  - INS-260403-4D1E
 stance: >-
   Microsoft — the apex predator of enterprise software with 440M Office 365
   users — has only 8M active paying AI Copilot users, generating roughly $2...

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "The Story of the Biggest & Longest War in Tech: An $831B Fail \U0001F4A5"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-story-of-the-biggest-and-longest'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Yahoo at $125B with 90% search market share was psychologically incapable of
@@ -57,6 +47,12 @@ resolutions:
 stance: >-
   The moment a company reaches market dominance is precisely when it becomes
   least capable of recognizing existential threats from new paradigms
+related:
+  - INS-260327-473D
+  - PRI-260325-697B
+  - INS-260323-810D
+  - INS-260330-E089
+  - INS-260325-803C
 ---
 In 1997, Yahoo held 90% of internet searches and was worth $125B. From that vantage point, two graduate students in a garage with an algorithm were literally invisible as a competitive threat. Yahoo's leadership believed users came for the 'Yahoo experience' — news, chat, email — not for search quality. This framing made Google's superiority in search seem irrelevant rather than existential.
 

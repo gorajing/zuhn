@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: The Creator Economy 2025
-    author:
-      - '@type': Person
-        name: Ollie Forsyth
-        url: 'https://substack.com/@neweconomies'
-        description: >-
-          ex Antler VC. Building NEW ECONOMIES - your go to newsletter on the
-          latest trends in tech. 
-        identifier: 'user:119664304'
-        sameAs:
-          - 'https://twitter.com/ollieforsyth'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
+    author: Ollie Forsyth
     url: 'https://www.thevccorner.com/p/the-creator-economy-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Creator AI tool usage surged from 33% to 92% in 18 months, though 90% feel
@@ -58,6 +44,16 @@ resolutions:
 stance: >-
   AI tool adoption among creators has reached near-universal levels faster than
   any previous technology wave in the creator economy
+related:
+  - INS-260322-E8BA
+  - INS-260403-101D
+  - INS-260403-E23C
+  - INS-260325-EE14
+  - INS-260403-4819
+  - INS-260403-19C9
+  - INS-260404-02C8
+  - INS-260405-4B31
+  - INS-260405-2287
 ---
 YouTube's data reveals that creator adoption of generative AI tools has gone from a minority activity to near-universal in just 18 months. This adoption curve is remarkably steep compared to previous technology shifts in the creator space (e.g., mobile-first content, short-form video).
 

@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Great projects universally pass through a phase where they look
@@ -57,6 +45,15 @@ resolutions:
 stance: >-
   The primary bottleneck to great work is not ability but emotional tolerance
   for producing low-quality early output
+related:
+  - INS-260329-D3D9
+  - INS-260329-1FEE
+  - INS-260403-FE41
+  - INS-260404-56F8
+  - INS-260404-F18F
+  - INS-260403-8930
+  - INS-260405-7A7C
+  - INS-260404-056D
 ---
 Paul Graham identifies the fear of making something lame as the single biggest barrier to doing great work. Every ambitious project goes through an early stage where it doesn't seem impressive even to its creator. The key insight is that most people never even reach the embarrassing stage — they're too frightened to start. Those who do start often quit at this exact point, mistaking an inevitable phase for evidence of failure.
 

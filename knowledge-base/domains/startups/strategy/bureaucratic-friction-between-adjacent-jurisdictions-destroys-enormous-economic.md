@@ -52,11 +52,11 @@ stance: >-
   more in lost opportunity than the protections those regulations provide,
   especially for knowledge workers and professional services.
 related:
-  - INS-260324-E785
   - INS-260327-5580
+  - INS-260403-5710
+  - INS-260324-E785
   - INS-260330-7220
   - INS-260330-035C
-  - INS-260327-10E8
 evidence:
   - id: INS-260327-10E8
     type: SUPPORTS

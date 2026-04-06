@@ -44,7 +44,6 @@ stance: >-
   which products belong to the parent company.
 related:
   - INS-260322-2647
-  - INS-260327-3DE7
   - INS-260327-0E28
   - INS-260327-9EE4
   - INS-260327-A9E8

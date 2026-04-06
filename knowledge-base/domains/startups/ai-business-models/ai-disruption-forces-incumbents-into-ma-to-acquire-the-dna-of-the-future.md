@@ -47,15 +47,15 @@ resolutions:
     difficult to bridge through organic development alone.
 related:
   - INS-260402-E2AF
+  - INS-260405-8080
+  - INS-260403-2318
   - INS-260402-CCF4
   - INS-260403-5441
-  - INS-260403-ABBB
-  - PRI-260328-5E58
   - INS-260323-CB34
   - INS-260327-A927
   - INS-260327-EFA6
-  - INS-260327-ACB3
   - INS-260327-473D
+  - PRI-260328-5E58
 stance: >-
   AI threatens every incumbent company simultaneously, driving a wave of M&A as
   corporations acquire startups to reconstruct how they work rather tha...

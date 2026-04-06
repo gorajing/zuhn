@@ -51,14 +51,13 @@ stance: >-
   dramatically worse outcomes than a steady 15% return, making loss avoidance
   the primary driver of long-term wealth.
 related:
-  - INS-260323-1B42
-  - INS-260329-F07A
-  - INS-260329-D38D
   - INS-260329-33C7
-  - INS-260329-E6C3
   - PRI-260405-0099
   - INS-260402-318B
+  - INS-260323-1B42
   - INS-260325-0688
+  - INS-260404-A2CA
+  - INS-260403-B9B8
 evidence:
   - id: INS-260329-6FAC
     type: SUPPORTS

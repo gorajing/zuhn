@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'The Founder Operating System: Best Startup Resources 2026'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/founder-operating-system-startup-resources'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Verbal agreement from potential users is not evidence of demand; only
@@ -56,6 +46,13 @@ resolutions:
 stance: >-
   What people say they will do and what they actually do are almost never the
   same, making verbal validation systematically unreliable for startup ideas.
+related:
+  - INS-260323-8271
+  - INS-260403-CBC7
+  - INS-260403-C7D8
+  - PRI-260323-8EEA
+  - INS-260403-1BCC
+  - INS-260404-B01F
 ---
 Founders routinely mistake polite encouragement for validation. Someone nodding along and saying 'that's interesting' creates a false sense of progress that can sustain months of misguided building. The Mom Test framework exists specifically to counter this: ask questions that reveal truth rather than comfort.
 

@@ -55,10 +55,10 @@ stance: >-
   first attempt.
 related:
   - PRI-260405-FB37
+  - INS-260330-CBFD
   - PRI-260323-8E89
   - INS-260325-76BD
   - INS-260330-4FA3
-  - PRI-260328-06F1
 evidence:
   - id: INS-260325-76BD
     type: EXTENDS

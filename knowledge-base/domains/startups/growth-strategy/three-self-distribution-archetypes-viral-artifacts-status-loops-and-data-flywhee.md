@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: OpenAI’s Product Lead on Winning AI Through Distribution
-    author:
-      - '@type': Person
-        name: Miqdad Jaffer
-        url: 'https://substack.com/@miqdadjaffer'
-        description: Product Lead @ OpenAI | EIR @ Product Faculty
-        identifier: 'user:277704439'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
+    author: Miqdad Jaffer
     url: 'https://www.thevccorner.com/p/openai-ai-distribution-strategy'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Self-distributing AI features fall into three archetypes: outputs that
@@ -68,6 +58,17 @@ stance: >-
   self-distribution types (viral artifacts, status loops, or data flywheels)
   because organic growth in AI requires outputs that travel, users who signal,
   or systems that improve with usage.
+related:
+  - INS-260321-C4CD
+  - INS-260327-38D8
+  - INS-260327-9CB1
+  - INS-260329-FB3F
+  - INS-260329-E4F6
+  - INS-260329-148D
+  - INS-260329-057F
+  - INS-260329-8CC0
+  - INS-260330-82B2
+  - INS-260330-20F7
 ---
 Viral artifacts are outputs that spread awareness without additional effort — every MidJourney image shared on Discord or ElevenLabs voice clip posted on TikTok is simultaneously content and marketing. The tactic is to build watermarking, share buttons, and attribution into outputs by default so every use generates discovery.
 

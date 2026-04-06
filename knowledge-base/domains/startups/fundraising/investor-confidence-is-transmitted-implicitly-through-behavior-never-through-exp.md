@@ -52,20 +52,20 @@ stance: >-
   substance is the single biggest persuasion lever in early-stage pitches.
 related:
   - INS-260327-5688
+  - INS-260327-B2CC
   - INS-260327-F405
   - INS-260327-B0F2
   - INS-260327-D832
-  - INS-260403-6178
-  - INS-260403-2F22
-  - INS-260403-5C8E
-  - INS-260403-F657
-  - INS-260403-C5C0
-  - INS-260403-48BF
+  - INS-260329-95EA
+  - INS-260330-1C50
+  - INS-260403-9689
+  - INS-260403-97DB
+  - INS-260403-22FE
 evidence:
   - id: INS-260404-C1FF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B505
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-B0F2
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

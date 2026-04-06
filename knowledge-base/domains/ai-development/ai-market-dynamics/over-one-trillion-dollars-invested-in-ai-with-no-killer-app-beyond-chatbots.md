@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 2024 Annual Letter
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/2024-annual-letter'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Despite massive AI investment, hallucinations and unpredictable behavior
@@ -60,6 +50,14 @@ stance: >-
   despite over $1 trillion in cumulative investment reveals that building
   production-grade AI apps with enterprise-level reliability remains an unsolved
   infrastructure problem, not merely an application creativity problem.
+related:
+  - INS-260327-7214
+  - INS-260330-52C3
+  - INS-260403-F9C7
+  - PRI-260323-1CF9
+  - INS-260321-B7CB
+  - INS-260323-9773
+  - INS-260321-8414
 ---
 Venture investment in AI reached $150 billion in 2024 alone, with cumulative global investment exceeding $1 trillion over 15 years. Yet the only successful consumer product category remains AI chatbots. The gap between prototyping and production is the core bottleneck — while building an AI demo is easier than ever, achieving the 99.9%+ reliability enterprises demand in regulated sectors like healthcare and banking remains unsolved.
 

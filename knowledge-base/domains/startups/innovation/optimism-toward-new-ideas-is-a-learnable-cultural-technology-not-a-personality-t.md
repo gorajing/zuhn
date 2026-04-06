@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Accelerating Growth at Scale \U0001F525 Phase 2 of Kickstarting and Scaling a Marketplace Business"
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/accelerating-growth-at-scale-phase'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Silicon Valley's supportive stance toward strange-sounding ideas from
@@ -63,6 +51,17 @@ stance: >-
   Cultures that systematically practice optimism toward early-stage ideas
   outperform skeptical cultures, and this optimism can be deliberately
   cultivated
+related:
+  - INS-260323-FE33
+  - INS-260325-95EB
+  - INS-260321-1A84
+  - INS-260330-9863
+  - INS-260403-6428
+  - INS-260403-0479
+  - INS-260403-2B1D
+  - INS-260403-49CC
+  - INS-260405-4EAA
+  - INS-260404-86DE
 ---
 Graham draws a sharp distinction between Silicon Valley's optimism and naivety. Skeptics cite impostors like Theranos, but Silicon Valley investors actually weren't fooled by Theranos — journalists were. When measured by revenue outcomes, the optimistic evaluation framework outperforms the default dismissive one.
 

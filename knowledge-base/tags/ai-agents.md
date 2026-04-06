@@ -1,18 +1,60 @@
 # Tag: ai-agents
 
+- `INS-260405-9285` AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
+- `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260327-368D` Just as security changed fundamentally when economic activity moved from physical to digital, it must change again as it moves from digital to autonomous AI interactions.
+- `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
+- `INS-260404-8E0D` Successful AI agent adoption starts with well-scoped engineering tasks then expands into QA, analytics, documentation, and CX.
+- `INS-260403-96BC` Employers are accountable for AI agent actions, and current policy gaps create growing exposure as agents execute real decisions.
+- `INS-260403-D56A` Anthropic's 2026 report shows the biggest agent gains go to teams that rebuild work around agents rather than layering AI on top of old systems.
+- `INS-260403-8311` AI agents that book flights, send emails, and interact with real systems multiply prompt injection risks far beyond what chatbot-era defenses can handle.
+- `INS-260404-9E11` The AI agents space has grown complex enough to warrant landscape analysis, signaling maturation from hype to market formation.
+- `INS-260403-4A16` AI agents that can autonomously execute multi-step tasks in the physical world cross the line from information hazard to actual weapon.
 - `INS-260405-1282` The ceiling for AI service replacement is set not by task automation but by whether the agent can handle the disorder, ambiguity, and emotional texture of complex human interactions.
 - `INS-260322-76B5` A Bali-based cybersecurity consultant now works 30 minutes per day — reviewing agent-completed security tests and reports that previously took one person two weeks per test — while generating ~150M won monthly.
+- `INS-260404-BD96` The transition from AI as information provider to AI as autonomous workflow executor represents the next major frontier in generative AI value creation.
+- `INS-260405-8649` Sophisticated hedging requires sculpting portfolios against hundreds of scenario-specific risks—currently impractical, but trivial once AI agents handle the intellectual labor
+- `INS-260403-4819` Cursor and Replit have crossed $500M+ ARR in under four years, setting a new speed record for developer tool commercialization.
+- `INS-260403-F6F6` AI agents can conceive ambitious projects but consistently fail to sustain them beyond a single session due to time-horizon constraints that are rapidly improving.
+- `INS-260405-2E46` AI's emotional resonance — not raw capability — is the underpriced moat.
+- `INS-260404-177F` Companies adopting AI engineers like Devin measure success by merged PRs and contributor rankings rather than benchmark scores.
+- `INS-260405-88A4` Shield AI's Hivemind is valuable because it operates when networks fail, not just when they work—the degraded-environment use case is the one no commercial AI product solves.
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
+- `INS-260403-C734` Multiple AI customer service startups hitting $100M+ ARR with outcome-based pricing indicates a fundamental shift from per-seat SaaS to pay-per-resolution models.
+- `INS-260403-AC2D` 68% of large enterprises are already deploying AI agents, collapsing a timeline most predicted would take until 2030.
+- `INS-260404-292E` Investing autonomy progresses through five levels: human judgment, rule-based execution, system orchestration, ML adaptation, and fully autonomous agents.
 - `INS-260403-4D80` Guided AI agents embed industry-specific guardrails and workflow sequences that generalized agents lack, turning AI from a tool into a collaborator.
 - `INS-260322-22B3` An individual's philosophy, experiences, and accumulated wisdom become the essential 'data' that makes AI agents useful — without rich human input to personalize around, even the most powerful agent is an empty shell.
+- `INS-260405-5222` Jensen Huang described a future NVIDIA with 75,000 humans and 7.5 million AI agents—a 100:1 agent-to-employee ratio that defines what 'agent-era enterprise' actually means.
 - `INS-260330-52C3` LLMs' real production value is covering the long tail of unexpected inputs that killed previous-generation AI systems, even at the cost of occasional hallucination.
 - `INS-260322-B6DE` Every AI employee should map to one of seven business operations stages: outreach, discovery, proposal, sales, onboarding, retention, and competitive intelligence.
+- `INS-260403-420F` YC's Spring 2025 batch is nearly 50% AI agent startups, reflecting both massive opportunity and intense incoming competition.
+- `INS-260403-BDCB` Regulated industries are the hardest to enter with AI agents but offer the strongest moats once accuracy and compliance thresholds are met.
 - `INS-260322-3010` Upload bank and credit card statements to an AI agent to identify SaaS subscriptions that can be replaced with custom AI-built modules — one audit revealed $1000/month in replaceable subscriptions.
+- `INS-260403-225F` Humanity consistently fails to regulate powerful technologies preemptively, and AI agents will likely follow this pattern with potentially civilization-scale consequences.
+- `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
+- `INS-260322-E4D8` AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
+- `INS-260403-E78C` Claude Sonnet completing multi-page workflows at 94% accuracy for $0.30 creates a 100x cost gap that makes human contractors economically irrational for routine tasks.
+- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
+- `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
+- `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
+- `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
+- `INS-260403-08D7` Top developers now orchestrate multiple AI agents in parallel, elevating strategic direction over line-by-line coding.
+- `INS-260403-4120` Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.
+- `INS-260404-D646` Agentic AI is eating software by turning autonomous multi-step execution into a new platform layer, not just a feature bolted onto existing products.
+- `INS-260403-E93A` History suggests the application layer on top of AI infrastructure will capture more enterprise value than the infrastructure itself.
+- `INS-260403-05EB` Gartner's prediction that 90% of B2B purchases will flow through AI agents means product quality replaces marketing spend as the primary growth lever.
 - `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
+- `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
+- `INS-260403-3852` Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
+- `INS-260403-75E3` Per-seat pricing creates an inverse relationship between AI product effectiveness and revenue.
 - `INS-260327-EE5E` Twitter makes AI agent competition feel intense, but the market is so huge companies rarely encounter actual competitors.
+- `INS-260405-487E` AI communication agents are commoditizing — companies without them will have operational disadvantages, not just missed opportunities.
 - `INS-260325-73C0` Bret Taylor: AI breaks per-seat SaaS — the new model charges for outcomes (tasks completed, problems solved), not users provisioned.
+- `INS-260403-5C9D` SaaS survival depends on building agentic capabilities atop existing data moats before AI overlays capture the user relationship.
 - `INS-260325-DFC7` FlashIntel CEO Yi Shi: find industries where standards are not set, apply tech first — tokens are the new currency in the AI era.
+- `INS-260403-BACA` AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
 - `INS-260403-0350` For SMBs, AI agents are pure value-add filling gaps they couldn't afford to fill; for enterprises, agents must replace entrenched processes, creating friction.
+- `INS-260405-54A9` Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
 - `INS-260403-F745` The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.

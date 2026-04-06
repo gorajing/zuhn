@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Anthropic VS Pentagon⚔️, State of Pre-Seed\U0001F4CA, Perplexity's new AI Command Center\U0001F5A5️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/anthropic-vs-pentagon-state-of-pre'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Carta data shows $10.4B raised across 50K+ SAFEs in 2025 with median caps of
@@ -58,6 +48,13 @@ stance: >-
   The pre-seed market is bifurcating into a smaller number of funded companies
   at higher valuations rather than spreading capital broadly, making the gap
   between funded and unfunded startups wider than ever.
+related:
+  - INS-260403-7410
+  - INS-260404-F54F
+  - INS-260404-50AC
+  - INS-260405-FCA9
+  - INS-260403-0BE9
+  - INS-260403-1E5F
 ---
 Carta's 2025 data reveals a structural shift in pre-seed funding: while total capital deployed remains substantial at $10.4B, it is concentrating into fewer rounds rather than spreading across more startups. Median SAFE caps have settled at $10M-$15M, establishing a new baseline that would have seemed aggressive just a few years ago.
 

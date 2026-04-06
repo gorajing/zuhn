@@ -41,8 +41,8 @@ related:
   - INS-260327-38BC
   - INS-260330-5ED4
   - INS-260327-0746
+  - INS-260403-415E
   - INS-260322-5650
-  - INS-260325-040F
 ---
 Businesses whose customer retention depends on continuous novelty face unsustainable product development costs and eventual creative exhaustion.
 

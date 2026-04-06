@@ -54,11 +54,11 @@ stance: >-
   diversions — that consumers absorb without awareness, making the true economic
   cost of failed states far higher than direct damage estimates suggest.
 related:
+  - INS-260404-EE07
+  - INS-260323-FEAB
   - INS-260322-F868
   - INS-260327-DFF1
-  - INS-260404-AC1B
-  - INS-260405-631B
-  - INS-260330-247C
+  - INS-260403-747B
 evidence:
   - id: INS-260322-F868
     type: TRANSFERS_TO

@@ -45,13 +45,13 @@ stance: >-
   to themselves — whether they want practical answers or emotional processing.
 related:
   - INS-260323-7BB8
+  - INS-260403-A36C
   - INS-260403-805E
   - INS-260404-4127
   - INS-260403-7C88
   - INS-260404-8890
-  - INS-260327-2A73
   - INS-260328-0345
-  - INS-260329-93AE
+  - INS-260403-05F2
 evidence:
   - id: INS-260329-93AE
     type: SUPPORTS

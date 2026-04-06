@@ -53,14 +53,11 @@ stance: >-
   science, not blanket anti-establishment contrarianism that treats all expert
   consensus as suspect.
 related:
-  - INS-260323-E520
   - PRI-260323-A33E
   - INS-260327-70DF
   - INS-260330-CC51
   - INS-260330-0E86
   - PRI-260323-DA09
-  - INS-260402-F957
-  - INS-260403-268F
   - INS-260404-A2F0
 evidence:
   - id: INS-260323-E520

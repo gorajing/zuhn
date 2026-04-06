@@ -51,16 +51,16 @@ stance: >-
   a familiar object (if the sphere were the Earth, the imperfection would be 14
   meters) makes extraordinary precision viscerally comprehensible.
 related:
-  - INS-260330-649B
   - INS-260330-6EF1
+  - INS-260330-649B
   - INS-260330-4FA3
-  - INS-260330-3504
-  - INS-260329-8407
+  - INS-260330-14B1
+  - INS-260323-72EB
 evidence:
   - id: INS-260329-D8BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6EF1
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The video's most memorable moment comes from a simple reframe: rather than stating the sphere's deviation in nanometers (which means nothing to most people), the scientist says 'if this were the Earth, the highest mountain to the lowest valley would be about 14 meters apart.' This single analogy conveys both the scale of the achievement and makes the audience feel genuine awe.
 

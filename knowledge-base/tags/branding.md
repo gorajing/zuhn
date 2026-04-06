@@ -4,8 +4,10 @@
 - `INS-260329-895D` Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
+- `INS-260403-E4B3` AI lowers the cost of copying products, so brand and narrative become the hardest-to-replicate assets.
 - `INS-260330-F534` New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
 - `INS-260329-B77F` Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
+- `INS-260402-9DBC` Defining the vocabulary of your market (roles, categories, workflows) anchors your brand in every conversation about that space in ways features never can.
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.

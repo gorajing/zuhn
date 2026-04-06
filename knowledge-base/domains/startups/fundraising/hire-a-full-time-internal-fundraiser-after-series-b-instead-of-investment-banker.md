@@ -47,12 +47,10 @@ stance: >-
   understand the company narrative.
 related:
   - INS-260330-404B
+  - INS-260405-EB05
   - INS-260322-A31D
+  - INS-260404-57B8
   - INS-260404-2250
-  - PRI-260403-26B9
-  - INS-260330-08FA
-  - INS-260330-1FE2
-  - INS-260403-37F4
 evidence:
   - id: INS-260330-77D1
     type: CONTRADICTS

@@ -52,11 +52,11 @@ stance: >-
   invalidates the capital-moat thesis that justified trillion-dollar hardware
   valuations
 related:
-  - INS-260327-24F4
   - INS-260327-D522
   - INS-260404-83C6
-  - INS-260327-422B
-  - INS-260405-82F3
+  - INS-260403-10C8
+  - INS-260403-2475
+  - INS-260327-24F4
 evidence:
   - id: INS-260327-422B
     type: SUPPORTS

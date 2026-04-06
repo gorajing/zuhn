@@ -49,11 +49,11 @@ stance: >-
   be replicated by even the most sophisticated prompts given to a foundation
   model.
 related:
+  - INS-260403-1F1B
+  - INS-260403-11F9
   - INS-260330-0102
-  - INS-260322-71E4
-  - PRI-260403-67FC
-  - PRI-260323-7BFA
-  - INS-260327-DF8B
+  - INS-260403-EF2C
+  - INS-260403-B73D
 evidence:
   - id: INS-260330-0102
     type: SUPPORTS

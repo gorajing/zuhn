@@ -1,47 +1,190 @@
 # Tag: venture-capital
 
+- `INS-260405-6FE3` Bay Area AI companies raised $27B in 2023 (up from $14B in 2022), representing 29% of all global AI funding — concentration is increasing, not decreasing.
+- `INS-260405-4053` $300M flowed into longevity tech in one quarter, backed by Bezos and Altman, even as the underlying science remains early-stage.
+- `INS-260403-A07A` Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
+- `INS-260403-E419` Harvard research found investors ask men promotion-oriented questions about scaling and growth while asking women prevention-oriented questions about risks and challenges, directly shaping funding outcomes.
+- `INS-260403-7C8F` When an entire asset class systematically underfunds higher-performing founders due to demographic pattern-matching, the resulting mispricing is a textbook arbitrage opportunity for contrarian investors.
 - `INS-260327-4434` Facebook, Google, Netflix, and Amazon genuinely made billions with data, creating the proof point that thousands of startups cited to justify their own data-driven narratives -- but none of those startups (Groupon, Yelp, Blue Apron, Stitch Fix, etc.) replicated the success, and the same pattern is now repeating with AI.
+- `INS-260405-5881` The trillion-dollar AI investment thesis is contingent on finding a killer app that doesn't yet exist.
+- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
+- `INS-260403-52FF` Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while $100M+ funds only reach ~1.67x, and 73% of top-performing funds are Fund I or II.
+- `INS-260403-5835` Like the dot-com era, the AI bubble contains both genuine excess and the seeds of the next generation of dominant companies.
+- `INS-260405-B4D0` AI investment enthusiasm has materially exceeded demonstrated revenue, reproducing the pattern of prior tech bubbles.
 - `INS-260403-358D` VC money flowing into startups that spend it on ads at incumbent platforms creates a self-reinforcing bubble.
 - `INS-260403-3C81` The post-2000 tech market didn't re-bubble because acquisition-based exits are structurally less prone to irrational exuberance than IPO-based exits.
 - `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
 - `INS-260324-72E8` After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
 - `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
-- `INS-260403-D98E` Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
-- `INS-260403-4DFB` In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
-- `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
-- `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
-- `INS-260403-E1E4` Infrastructure windows are spotted through network proximity to technical founders, not through market analysis or public data.
-- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
-- `INS-260403-7C47` As you move earlier in the funding spectrum, help matters exponentially more than money.
-- `INS-260403-AA09` Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
-- `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
-- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
-- `INS-260322-3646` In VC, waiting 10-15 years for portfolio outputs to evaluate GP performance is dangerously slow — judge by deal-sourcing quality, win rate, and investment quality at the time of decision.
-- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
+- `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
+- `INS-260403-9A94` VC secondaries have evolved from emergency liquidity hacks into planned, core fund infrastructure hitting $152B in 2024.
+- `INS-260405-9C70` Bootstrapping and VC-backing are different contracts with different incentives — the right one depends on what the founder actually wants to build and own.
 - `INS-260321-1992` Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
 - `INS-260403-3B67` The builder + seller co-founder combination is the most common successful startup pattern and what VCs actively look for.
+- `INS-260403-A331` Event hosting is becoming a systematic deal sourcing engine that shapes VC conviction before pitch decks exist.
+- `INS-260403-6B24` High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
+- `INS-260405-0CAB` 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
+- `INS-260403-D98E` Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
+- `INS-260404-29AF` AI automation is making VC and PE strategies converge as both compete on AI-driven operational efficiency.
+- `INS-260403-968A` AI startups now command $192.7B and 62.7% of US VC funding while total startup count has dropped from 4,430 in 2022 to 823.
+- `INS-260403-C5BD` AI automation compresses startup scaling timelines so dramatically that traditional VC growth benchmarks and pricing heuristics no longer predict winner outcomes.
+- `INS-260403-3BFA` AI absorbing 60%+ of global VC funding means LPs are overexposed to the same thesis, firms, and companies regardless of which fund they back.
+- `INS-260403-8EE8` AI startups captured 64% of U.S. deal value in H1 while traditional VC funds struggle to close, creating a two-tier market.
+- `INS-260403-F387` AI dominates VC funding at 40% of total capital while non-AI startups face a funding freeze, and SVB flags rising 'zombiecorns' with shaky growth.
+- `INS-260405-FAE3` VC firms are cutting headcount by ~50% as AI absorbs sourcing, diligence, and operations work.
+- `INS-260405-2F43` AI is the fastest growing venture investment category in 2024, reshaping capital allocation across the market.
+- `INS-260403-8EBD` Venture capitalists are funding AI that could automate their own deal analysis and market forecasting capabilities.
+- `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.
+- `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
+- `INS-260405-638B` Neural networks with no sleep schedule and superior pattern recognition are coming for the VC analyst layer first.
+- `INS-260405-DDC2` Global VC funding settled near $20B/month in early 2024 but AI's share kept growing, compressing available capital for other sectors.
+- `INS-260403-5056` Carta's analysis of 60,000+ startups reveals AI capturing 44% of US capital at record valuations while initial equity grants fell 50% since 2022.
+- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
+- `INS-260404-C28B` Anti-woke VC funds are emerging as an explicit political counter-positioning in venture capital.
+- `INS-260404-0711` Chamath's 2016 India bets around UPI were thesis-correct but timing-wrong, producing losses despite the ecosystem later validating every part of the investment thesis.
+- `INS-260403-4DFB` In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
+- `INS-260405-3E92` MANG (Microsoft, Amazon, Alphabet, Nvidia) raised $25B+ in 2023 deals — roughly 8% of all North American venture capital — signaling Big Tech's structural entry into VC.
+- `INS-260405-B22F` VC is a credentials-gated industry where unconventional entrants must manufacture access through deal sourcing, publishing, or operator relationships rather than waiting for invitation.
+- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
+- `INS-260403-B8A3` As companies remain private longer and Gen Z/Millennial investors demand private market access, equity tokenization fills a structural gap that traditional finance cannot address.
+- `INS-260403-2E2C` Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low single-digit billions, illustrating that outsized returns require tolerating long periods where being right feels indistinguishable from being wrong.
+- `INS-260403-AAAC` Continuation funds address the growing mismatch between VC fund timelines and the longer paths to liquidity, especially in European venture.
+- `INS-260404-9899` Deeptech VC returns come from category-defining IP and strategic acquisitions, requiring decade-scale investment horizons.
+- `INS-260404-8321` When capital is abundant, VCs who offer distribution and media reach win competitive allocations over those who only offer money.
+- `INS-260403-867B` Structured, repeatable diligence processes outperform deeper but disorganized investigation.
+- `INS-260405-5F16` 42 rounds over $100M closed in Europe in Q1 2024, the most since Q2 2022, with climate tech capturing the largest checks.
+- `INS-260405-ED7E` 41% of European scaleup funding comes from American investors, meaning Europe builds great companies but exports most of the upside.
+- `INS-260405-ABB4` The 2023 peak in female founder VC funding share was driven by a small number of massive AI deals, not structural improvement in access across the board.
+- `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
+- `INS-260405-931E` Raising a first fund requires deliberate preparation around LP targeting, fund thesis, and term structure — not just a network and deal flow history.
+- `INS-260403-1B46` First-time VC funds raised just $1.1B in 2025, down nearly 80% from 2021, threatening the pipeline of new investment perspectives.
+- `INS-260404-250E` Most foodtech VC has gone to consumer/delivery; deeptech is where outsized returns remain.
+- `INS-260405-776D` Five VC funds in Q1 2026 raised more capital ($35B+) than all US VC raised in the entirety of 2025.
+- `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
+- `INS-260405-FBDF` In 2023 governments were the biggest source of VC funds by a significant margin, reshaping who ultimately controls startup capital allocation.
+- `INS-260405-5C3F` Thrasio ($3.4B raised, bankrupt) and Hopin ($7.75B valued, liquidated) illustrate that pandemic-era business model bets often had no durable moat.
+- `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
+- `INS-260405-BD2E` 65% of junior VCs leave the industry within 10 years and only 23% reach partner level, reflecting a career structure built on distribution not diligence.
+- `INS-260403-3562` Larger venture funds require exponentially larger exits to deliver target returns, creating a structural disadvantage.
+- `INS-260403-F305` LP cash returns lag badly despite improved deal activity, forcing heavier reliance on secondaries to unlock trapped capital.
+- `INS-260405-A6E1` The data is showing mega funds beating middle-market funds, inverting a long-held VC narrative.
+- `INS-260403-FA65` VC returns are polarizing, squeezing funds that are neither small/disciplined nor elite/access-driven.
+- `INS-260403-E1E4` Infrastructure windows are spotted through network proximity to technical founders, not through market analysis or public data.
+- `INS-260405-2703` Niche markets look small on paper but often yield outsized returns when a startup owns the vertical completely.
+- `INS-260403-EA28` A founder's ownership percentage says nothing about their actual exit payout — only waterfall analysis that accounts for liquidation preference stacking reveals real economics.
+- `INS-260405-EB05` Investing at a $16M post-money and watching the company raise at $250M post-money looks like 15.6x on paper but nets only 5.5x after accounting for dilution from subsequent rounds.
+- `INS-260403-52B7` Jake Paul's VC portfolio (Ramp, Anduril, Cognition) shows that timing, access, and distribution often outweigh traditional VC pedigree in generating outsized returns.
+- `INS-260405-18AB` The math behind how many bets to make and how much to reserve matters as much as picking winners.
+- `INS-260405-C56F` In a power law return distribution, most investment decisions barely matter—what matters is maximizing ownership in the eventual outliers.
+- `INS-260404-81AB` Venture fund returns follow a power law where a small number of investments generate the majority of returns, making portfolio strategy fundamentally different from other asset classes.
+- `INS-260405-D959` In VC, the few massive winners determine fund performance, so diversification is a trap.
+- `INS-260405-3A6E` The power law of VC returns means outlier investments drive total fund performance, so strategy must be built around identifying and doubling down on them.
+- `INS-260405-4D4D` Henry Ward spent $150M over nearly a decade at Carta trying to solve startup liquidity via a private secondary marketplace and concluded the problem is structurally intractable.
+- `INS-260403-D986` $14.6B of Q2 2024's $55.6B venture total went to just two companies (CoreWeave and xAI), masking a weaker broad market.
+- `INS-260404-F493` Remote VC roles, scout programs, and fellowships are dismantling the traditional geographic and network barriers to entering venture capital.
+- `INS-260405-62B2` Reserves and recycling determine whether a fund can stay meaningfully invested in its winners as they scale.
+- `INS-260405-7698` How a VC manages reserves and reinvests distributions often matters as much as which deals they pick in the first place.
+- `INS-260405-0D9F` Doing diligence well means returning to fundamental analysis — market size, unit economics, team quality — rather than momentum-chasing.
+- `INS-260404-DBD1` Experienced VC partners are increasingly leaving big firms to launch specialized niche funds.
+- `INS-260404-3A2E` Solo GPs are launching independently because their personal brand and network, not the firm name, drives deal flow.
+- `INS-260404-77E7` Specialist VC funds outperform generalist funds by 47%, suggesting deep expertise is the new source of alpha in venture.
+- `INS-260405-7ABE` A narrow focus gives emerging VC managers a sourcing and conviction edge that broad generalist funds cannot easily replicate.
+- `INS-260403-E407` Funding, talent, and attention are clustering around fewer startups, with AI and Bay Area companies dominating capital flows.
+- `INS-260404-1ADA` Breaking into VC requires overcoming structural barriers where deal flow, reputation, and LP access form self-reinforcing loops favoring incumbents.
+- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.
+- `INS-260403-8806` VCs are adding tariff and geopolitical supply chain exposure to their standard due diligence frameworks, creating valuation pressure on exposed startups.
+- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
+- `INS-260403-7C47` As you move earlier in the funding spectrum, help matters exponentially more than money.
+- `INS-260405-7F42` Whether to back the jockey or the horse depends primarily on stage — founders matter most early, market matters most later.
+- `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
+- `INS-260404-7679` The Yale Model that drove institutional money into venture capital for decades is losing its dominance, threatening the fundraising assumptions of traditional VC firms.
+- `INS-260403-AA09` Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
+- `INS-260405-5020` Top VC backing of defense tech functions as a legitimacy signal that unlocks talent and downstream capital.
+- `INS-260404-A032` Tariff and trade policy uncertainty causes VCs to pause deployment regardless of startup merit.
+- `INS-260405-B126` General Catalyst and a16z alone captured 44% of all US VC fundraising in 2024, indicating a winner-take-most dynamic among funds.
+- `INS-260403-CE07` October 2025's unicorn cohort added $44.5B in value, signaling a selective recovery that rewards rational growth over boom-era exuberance.
+- `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
+- `INS-260403-4AB2` A16Z reports 60% surge in AI-first startup funding while early-stage SaaS investment declines as investors chase automation leverage.
+- `INS-260405-CD10` In April 2025, only a16z and Khosla closed 10+ deals, revealing a highly bifurcated VC market.
+- `INS-260405-BCF4` When LPs stop receiving distributions, they stop writing new fund commitments — shrinking the supply of venture capital with a 12-24 month lag.
+- `INS-260403-37FC` Top VC firms like a16z and Index Ventures now function as full-stack platforms offering model access, talent networks, and product feedback loops beyond just capital.
+- `INS-260404-88F9` VCs struggle to raise while simultaneously planning to deploy more capital, creating structural tension.
+- `INS-260404-0475` Venture capital's illiquidity forces long-term holding periods that capture value creation liquid markets cannot access.
+- `INS-260404-5684` The VC landscape is bifurcating into very large and very small funds, squeezing mid-size generalists.
+- `INS-260404-8CAE` Too much capital chasing too few quality deals is eroding VC returns and threatening the traditional fund model.
+- `INS-260405-110D` VCs are now prioritizing path-to-profitability over top-line growth, reversing a decade-long trend.
+- `INS-260404-3821` VC fund formation is splitting into massive scale plays and laser-focused thematic bets, leaving generalist mid-tier funds stranded.
+- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
+- `INS-260403-6EC8` VCs face structural information disadvantages vs public market investors because private companies control what gets reported and many VCs lack accounting expertise.
+- `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
+- `INS-260404-A893` VC deal flow is structurally shifting toward the Middle East and Southeast Asia as new innovation hubs.
+- `INS-260404-80F3` VC's outsized return potential can absorb currency depreciation that makes public EM indices unattractive.
+- `INS-260405-83F0` VC funding cycles and business growth timelines rarely align — this is a known structural property that founders and investors must plan around.
+- `INS-260403-8441` Slowing exits are pushing venture firms to adopt private equity tactics like acquisitions and AI-driven growth optimization.
+- `INS-260322-3646` In VC, waiting 10-15 years for portfolio outputs to evaluate GP performance is dangerously slow — judge by deal-sourcing quality, win rate, and investment quality at the time of decision.
+- `INS-260405-6EE5` Gulf investors are becoming structurally active in European pre-seed and early-stage deals, diversifying the European funding ecosystem beyond traditional US and local capital.
+- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260329-D37E` The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
+- `INS-260403-B3E8` A16z is hiring dedicated ecosystem leadership to turn its relationship network into compounding infrastructure rather than treating connections as ad hoc deal flow.
 - `INS-260403-37FD` Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
 - `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
+- `INS-260405-0375` At current exit velocity, the entire U.S. unicorn backlog would take 49 years to clear.
 - `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
+- `INS-260404-620D` AI-native positioning dominates successful seed-stage pitch decks in 2024, appearing in the majority of funded companies across the sample.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260403-1E5F` Bridge rounds now comprise 16.6% of all VC cash raised, indicating a structural funding environment shift rather than isolated startup struggles.
+- `INS-260403-21E1` A fund recycling modest early proceeds can lift net returns from 2.1x to 2.4x+ without any change in underlying portfolio performance, purely by reducing fee drag.
+- `INS-260403-7881` Free money dilutes talent, inflates competition, and rewards unsustainable growth models over durable businesses.
 - `INS-260403-696C` Falling startup costs make large VC checks unnecessary, eroding the traditional fund model.
+- `INS-260404-EFA0` 80% of startups in a curated fundraising list are pre-seed or seed, with only 13% at Series A/B.
+- `INS-260403-DA33` The same three outlier exits produce 5x, 2.5x, or 1.25x fund returns depending entirely on whether the GP entered at $10M, $20M, or $40M post-money valuations.
 - `INS-260403-1287` Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
 - `INS-260403-20A7` The single heuristic for predicting fundraising evolution is to ask what founders dislike and expect it to disappear.
+- `INS-260405-75E6` A $800M fund claiming to do seed is almost always lying — their economics require them to write checks that are too large for early-stage.
+- `INS-260405-C1DF` A VC who loves your company but raised their fund 4+ years ago almost certainly cannot invest.
+- `INS-260405-BDA0` The 2012 Seedpocalypse became a Series A crunch, then hit Series B two years after that — excess at one stage always creates shortage at the next.
+- `INS-260404-4146` VC deal activity is increasingly distributed across global markets beyond Silicon Valley.
 - `INS-260403-028F` Startup investors need domain expertise and skin in the game—two things structurally absent from government bureaucracies.
 - `INS-260330-070A` VCs who avoid flawed companies systematically miss the biggest winners because extreme outliers always have glaring weaknesses alongside their extraordinary strengths.
+- `INS-260403-E2DE` VCs disproportionately fund startups in large markets because only massive TAMs can deliver the 10x+ returns their fund model requires.
+- `INS-260403-EC66` VCs choosing political sides in the Musk-Trump feud introduces political alignment as a hidden variable in fundraising.
+- `INS-260403-B2ED` Systematic year-round LP relationship maintenance compresses fundraise timelines from months to days.
+- `INS-260403-9DEC` Sapphire Ventures' modeling shows concentrated reserves lift net returns from 4.0x to 5.0x, while broad pro-rata follow-ons sink them to 3.3x — and missing the breakout drops returns to 2.5x.
+- `INS-260403-2330` Seed investors are pivoting to earlier exits as LPs demand faster returns on smaller funds.
+- `INS-260404-488A` Seed funding has evolved into a fundamentally different game than a decade ago, requiring new frameworks for both founders and investors.
 - `INS-260328-3A00` YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
+- `INS-260402-A629` Eliminating investment committees lets a solo GP write 9-figure checks in days, trading key-person risk for speed and conviction alignment.
+- `INS-260404-D8D8` Sector-specialist VCs win deals by offering founders industry access and expertise that generalist capital cannot match.
+- `INS-260403-8421` Startups now go from Seed to Series C in under 24 months, making real-time cap table tracking and pre-planned reserves essential for follow-on participation.
+- `INS-260405-278F` The widespread belief that early-stage VCs don't care about financials is wrong — they use them to probe founder thinking on unit economics and capital deployment.
 - `INS-260328-195E` There are no successful value investors in startups -- trying to find the lowest-valuation, highest-revenue deals is a proven losing strategy because early-stage investing is fundamentally an art.
+- `INS-260403-4ADC` Not exercising pro-rata rights in breakout companies costs VCs far more than their failed bets.
+- `INS-260403-EEE6` VCs work backward from target exits and desired returns, so founders should focus on making the exit case credible.
 - `INS-260403-7708` A firm like Sequoia taking 30% needs to improve outcomes by 43%—their brand signal alone may exceed that.
+- `INS-260403-49EC` 65% of VC investments fail to return capital, fewer than 4% deliver 10x+, and in top funds the #1 exit often contributes over half the total value.
 - `INS-260403-9C63` VC pathologies trace back to fund economics that demand huge deal sizes, not to the personal failings of individual investors.
+- `INS-260403-D848` Large VC checks create bad habits — over-hiring, inflated budgets, and scaling before product-market fit — that kill more startups than underfunding does.
+- `INS-260403-6DED` Different fundraising stages require founders to optimize entirely different metric sets.
 - `INS-260330-7220` The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
+- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
+- `INS-260403-2936` Strong teams with clear pitches can raise from anywhere because VCs now allocate by sector and quality, not geography.
+- `INS-260404-86D3` Health tech funding remains robust across stages (Series B through growth) and geographies, suggesting structural rather than cyclical demand.
+- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
 - `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-FA89` Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
-- `INS-260405-54E2` Roughly two-thirds of venture dollars go to AI, and two-thirds of AI venture dollars go to the Bay Area — a compounding concentration effect.
-- `INS-260405-AA3C` A VC's internal portfolio study is a mirror of their own biases, not a market study.
+- `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
+- `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
+- `INS-260405-6342` Pitchbook data from Q1 2024 shows the US has more startups than VCs can realistically fund, meaning competition for capital has intensified beyond what deal quality alone explains.
+- `INS-260404-6FFF` Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
+- `INS-260403-16EA` True scalability means growing revenue exponentially while costs grow linearly, best demonstrated through LTV/CAC ratios and declining marginal costs.
 - `INS-260328-A417` PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
+- `INS-260403-D5DC` Choose your startup location based on what fuels your business, not who funds it.
+- `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
+- `INS-260405-54E2` Roughly two-thirds of venture dollars go to AI, and two-thirds of AI venture dollars go to the Bay Area — a compounding concentration effect.
+- `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
+- `INS-260405-AA3C` A VC's internal portfolio study is a mirror of their own biases, not a market study.

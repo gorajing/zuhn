@@ -58,23 +58,23 @@ stance: >-
   meaning basic programming education becomes more valuable in the AI era, not
   less.
 related:
-  - INS-260329-04FA
   - INS-260329-B408
-  - INS-260329-F51D
   - INS-260330-C4F1
-  - PRI-260403-52DF
-  - INS-260403-3517
+  - INS-260403-7DF4
+  - INS-260329-04FA
+  - INS-260329-F51D
+  - INS-260403-EF2C
 evidence:
   - id: INS-260329-F51D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C4F1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-493A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-DF31
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-3517
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The course's 24-chapter arc traces a deliberate path: variables → files → lists → dictionaries → tuples → databases → web APIs → data visualization. This isn't just a Python curriculum — it's a progression through increasingly powerful data abstractions. A student who completes this course doesn't just know Python syntax; they think in terms of structured data, transformation pipelines, and programmatic access to information.
 

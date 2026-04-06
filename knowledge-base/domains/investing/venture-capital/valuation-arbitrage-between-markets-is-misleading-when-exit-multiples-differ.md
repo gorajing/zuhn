@@ -51,11 +51,13 @@ stance: >-
   multiples — a 20% discount to US valuations may not be cheap if exit
   valuations scale differently.
 related:
+  - INS-260404-25FF
+  - INS-260403-B98A
   - INS-260330-F527
-  - PRI-260328-21AD
-  - INS-260403-5B89
-  - INS-260327-1B7C
-  - INS-260329-6079
+  - INS-260403-248E
+  - INS-260403-E503
+  - INS-260403-53AF
+  - INS-260327-575D
 evidence:
   - id: INS-260330-F527
     type: SUPPORTS

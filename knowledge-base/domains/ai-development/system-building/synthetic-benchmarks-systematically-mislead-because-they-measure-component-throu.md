@@ -53,10 +53,10 @@ stance: >-
   performance.
 related:
   - INS-260326-7F79
+  - INS-260403-5F69
   - PRI-260403-7585
   - INS-260327-33FA
   - PRI-260405-ADEA
-  - PRI-260324-36BF
 evidence:
   - id: INS-260330-201F
     type: SUPPORTS

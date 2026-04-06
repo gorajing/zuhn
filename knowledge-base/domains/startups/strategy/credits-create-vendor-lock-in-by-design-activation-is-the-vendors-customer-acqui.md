@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'AI Startup Credits Guide 2025: Extend Runway Smarter'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-startup-credits-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Vendors offer credits to lock in early-stage companies before switching
@@ -60,6 +50,12 @@ stance: >-
   Startup credit programs are primarily vendor customer acquisition funnels
   disguised as generosity, and founders who understand this dynamic gain
   negotiating leverage
+related:
+  - INS-260403-6E68
+  - INS-260320-8688
+  - INS-260403-914F
+  - INS-260403-3A2C
+  - INS-260403-1217
 ---
 Every major cloud and SaaS provider fights to lock in founders early because switching costs compound over time. This isn't charity — it's customer acquisition at scale. AWS, GCP, and Azure all know that a startup trained on their platform during the credit period is unlikely to migrate once real workloads are running. Algolia is explicitly noted as being 'sticky' with painful migration paths.
 

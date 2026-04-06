@@ -22,7 +22,7 @@ related:
   - INS-260329-67CB
   - INS-260321-E9B7
   - INS-260329-9745
-  - INS-260329-939E
+  - INS-260403-CD51
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
@@ -47,7 +47,7 @@ stance: >-
   workflows
 evidence:
   - id: INS-260329-7B1D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 
 BetterTouchTool enables custom double-tap hotkeys that dramatically

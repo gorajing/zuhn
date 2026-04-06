@@ -51,10 +51,10 @@ stance: >-
   predictive for space economics.
 related:
   - INS-260403-7BA1
+  - INS-260403-EC09
   - INS-260325-3C17
   - PRI-260324-7ED9
   - INS-260403-D543
-  - INS-260403-BE7C
 evidence:
   - id: INS-260403-7BA1
     type: SUPPORTS

@@ -46,7 +46,6 @@ stance: >-
   Companies that innovate across all nine building blocks of their business
   model outperform those who only innovate on product features
 related:
-  - INS-260322-83D4
   - INS-260322-FCFC
   - INS-260322-BFDE
   - INS-260327-2C46
@@ -55,7 +54,8 @@ related:
   - INS-260403-5DD7
   - INS-260403-7E7C
   - INS-260403-8008
-  - INS-260403-43B9
+  - INS-260403-0414
+  - INS-260404-A375
 evidence:
   - id: INS-260327-7C69
     type: SUPPORTS

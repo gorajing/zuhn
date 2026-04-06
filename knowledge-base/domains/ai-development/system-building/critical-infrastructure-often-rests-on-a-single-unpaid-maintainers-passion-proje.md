@@ -45,29 +45,29 @@ resolutions:
     (Linus's Law failed here) but structural investment in dependency auditing
     and maintainer support.
 related:
-  - INS-260403-1110
-  - INS-260404-8947
   - PRI-260403-C34A
   - INS-260404-20F3
   - INS-260330-5E47
+  - INS-260323-A8B5
+  - INS-260330-22C0
 stance: >-
   The XZ backdoor nearly succeeded because the entire Linux ecosystem depended
   on a compression tool maintained by one burned-out volunteer for 20 ye...
 evidence:
   - id: INS-260330-5E47
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-50B3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9A60
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-22C0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D4CC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-8947
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-20F3
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Lasse Collin maintained XZ Utils for nearly 20 years without pay. The tool became a dependency of OpenSSH, which secures virtually every Linux server on the internet — including Pentagon systems, nuclear submarines, and all 500 top supercomputers. When Lasse burned out due to mental health issues, the attacker Jia Tan offered to 'help,' eventually gaining full maintainer access.
 

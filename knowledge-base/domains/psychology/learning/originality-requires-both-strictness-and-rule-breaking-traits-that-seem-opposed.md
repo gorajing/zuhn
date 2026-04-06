@@ -52,15 +52,16 @@ stance: >-
   than others about truth while being more willing to break established rules
   and conventions
 related:
-  - INS-260321-4280
   - INS-260330-0AE2
   - INS-260330-A01C
   - INS-260330-39E4
   - INS-260330-0E86
   - PRI-260323-A33E
+  - INS-260405-585D
   - PRI-260405-262B
   - INS-260402-0F45
   - INS-260405-4693
+  - INS-260403-6C38
 evidence:
   - id: INS-260321-4280
     type: CHALLENGES

@@ -18,24 +18,14 @@ sources:
     title: >-
       How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide +
       YC’s Proven Framework)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-to-find-and-validate-profitable'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Blending proven models from different domains (e.g., e-commerce +
@@ -59,6 +49,14 @@ stance: >-
   Systematically combining successful business models from different industries
   produces viable startup ideas more reliably than pure creative brainstorming,
   because the components are already market-validated.
+related:
+  - INS-260403-C1E9
+  - INS-260404-6751
+  - INS-260404-E4C9
+  - INS-260404-FF0B
+  - INS-260404-420F
+  - INS-260404-BD46
+  - INS-260403-16D7
 ---
 Dollar Shave Club combined e-commerce with subscription models. Airbnb blended home rentals with trust-based marketplace mechanics. These weren't random inventions—they were deliberate recombinations of business models that already worked in other contexts. The power of this approach is that each component has already been market-validated independently, reducing the risk compared to building something entirely novel.
 

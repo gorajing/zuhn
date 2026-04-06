@@ -50,28 +50,28 @@ related:
   - INS-260327-8B34
   - INS-260327-8912
   - INS-260327-5140
-  - INS-260327-D25D
   - INS-260327-C68B
   - INS-260327-15E1
   - INS-260330-B490
   - INS-260330-E585
-  - INS-260330-CCE7
+  - INS-260327-D25D
+  - INS-260403-0DE8
   - INS-260327-8B9A
 evidence:
   - id: INS-260327-D25D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-8912
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-C68B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B490
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-15E1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6AED
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-5140
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-8B9A
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

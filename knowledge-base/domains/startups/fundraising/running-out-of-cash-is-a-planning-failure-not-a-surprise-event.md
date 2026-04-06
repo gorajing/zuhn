@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Startup FP&A Model: Build a Real Operating Plan'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Cash crises are predictable and preventable with forward-looking financial
@@ -56,6 +46,16 @@ stance: >-
   Startups that run out of cash almost always had months of warning signs that a
   properly structured FP&A model would have surfaced, making runway death a
   planning discipline problem rather than a market problem.
+related:
+  - INS-260326-6D53
+  - INS-260327-1D23
+  - INS-260329-8B1C
+  - INS-260330-3C70
+  - INS-260404-8394
+  - INS-260404-B6B1
+  - PRI-260325-D34E
+  - INS-260327-DD1D
+  - INS-260403-EAFC
 ---
 Most founders track only revenue and bank balance, which creates a false sense of control. The gap between bookkeeping (where money went) and FP&A (what you can afford next) is where startups die. When a founder signs off on a growth hire without modeling that cash collections are delayed, or when deferred revenue is ignored and runway is overestimated by six figures, the failure mode is always the same: the financial view was off by months.
 

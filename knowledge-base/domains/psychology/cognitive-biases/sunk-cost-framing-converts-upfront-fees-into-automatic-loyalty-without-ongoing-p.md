@@ -51,12 +51,12 @@ stance: >-
   purchasing behavior more reliably than discounts or rewards programs
 related:
   - INS-260325-B8CB
-  - INS-260327-1403
   - INS-260403-CE5F
   - INS-260404-ED19
   - PRI-260405-548B
   - INS-260404-94BB
   - INS-260404-A938
+  - INS-260327-F26E
 evidence:
   - id: INS-260325-B8CB
     type: SUPPORTS

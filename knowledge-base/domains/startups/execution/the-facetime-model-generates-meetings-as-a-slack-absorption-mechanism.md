@@ -45,13 +45,14 @@ stance: >-
   unproductive time that meetings expand to fill, making them an organizational
   opiate rather than a collaboration tool.
 related:
+  - INS-260322-FD23
   - INS-260403-614D
   - INS-260403-1CC5
   - INS-260322-A36C
   - INS-260404-312D
-  - INS-260322-FD23
   - INS-260403-4328
   - INS-260405-9409
+  - INS-260403-6691
 evidence:
   - id: INS-260322-A36C
     type: TRANSFERS_TO

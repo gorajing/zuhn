@@ -46,10 +46,10 @@ stance: >-
   durable understanding than explaining the physics first
 related:
   - INS-260329-BCCB
+  - INS-260323-527B
   - PRI-260323-DAB9
   - INS-260329-18BB
   - INS-260320-630D
-  - INS-260329-69F0
 evidence:
   - id: INS-260323-527B
     type: REFINES

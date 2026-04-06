@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Running a Fundraising Process \U0001F4B8"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/running-a-fundraising-process-374'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Treat fundraising as a sprint with a hard end date to minimize distraction
@@ -60,6 +50,15 @@ stance: >-
   Founders who treat fundraising as an open-ended background activity rather
   than a focused sprint with a defined end date systematically underperform
   those who compress it
+related:
+  - INS-260327-E3ED
+  - INS-260328-9415
+  - INS-260403-21B2
+  - INS-260402-2300
+  - INS-260403-53C0
+  - PRI-260403-26B9
+  - INS-260402-3D61
+  - INS-260403-A9C9
 ---
 The article frames fundraising explicitly as a distraction from daily operations — only 1% of small businesses are VC-backed, and the process pulls founders away from the work that actually builds the company. The prescription is a tight process: prepare everything upfront (deck, VDR, parameters), then run all investor conversations in parallel rather than sequentially, and aim to close within a defined window.
 

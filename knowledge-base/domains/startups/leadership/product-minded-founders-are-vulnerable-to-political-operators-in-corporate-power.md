@@ -53,14 +53,13 @@ stance: >-
   of their actual performance.
 related:
   - INS-260327-6853
+  - INS-260403-952F
   - INS-260330-8686
   - INS-260327-5CB0
+  - INS-260403-397B
   - INS-260404-96E6
-  - INS-260327-3528
-  - INS-260327-3D0F
   - INS-260327-A675
   - INS-260327-F389
-  - INS-260330-4A1F
   - INS-260330-CC9E
 evidence:
   - id: INS-260327-5CB0

@@ -53,7 +53,6 @@ stance: >-
   central culture's systems often deploy those systems with greater
   intentionality and effectiveness than native insiders.
 related:
-  - INS-260323-97A1
   - INS-260323-E77E
   - INS-260323-AE9C
   - INS-260327-2520
@@ -63,6 +62,7 @@ related:
   - INS-260330-750A
   - INS-260330-4C67
   - INS-260327-B3A7
+  - INS-260329-58E7
 evidence:
   - id: INS-260323-97A1
     type: CHALLENGES

@@ -19,7 +19,6 @@ sources:
     author: Brett Bauman & Zack Hargett (Sub Club podcast)
     url: 'https://youtu.be/Wg70HlO-5gY'
 related:
-  - INS-260323-D6F2
   - INS-260327-735A
   - INS-260330-E695
   - PRI-260405-675B

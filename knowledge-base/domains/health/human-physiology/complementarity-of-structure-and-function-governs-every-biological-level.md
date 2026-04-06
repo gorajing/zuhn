@@ -46,7 +46,6 @@ stance: >-
   specific form — from cell shape to organ architecture — making function
   predictable from structure alone.
 related:
-  - INS-260329-388E
   - INS-260330-0ED2
   - INS-260403-F8A2
   - INS-260330-42DE

@@ -45,11 +45,11 @@ stance: >-
   makes follow-on rounds categorically harder than seed rounds, not just
   incrementally harder
 related:
+  - INS-260404-B016
+  - INS-260403-3BBB
   - INS-260330-579B
+  - INS-260403-2F40
   - INS-260327-9F46
-  - PRI-260403-57EC
-  - INS-260405-8808
-  - INS-260403-215E
 evidence:
   - id: INS-260405-8808
     type: TRANSFERS_TO

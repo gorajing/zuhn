@@ -50,10 +50,10 @@ stance: >-
   efficiency gains.
 related:
   - INS-260328-FFC3
+  - INS-260403-39CF
   - INS-260405-FAE3
+  - INS-260405-68DC
   - INS-260403-EFAF
-  - INS-260330-63BA
-  - INS-260325-FADB
 evidence:
   - id: INS-260405-FAE3
     type: TRANSFERS_TO

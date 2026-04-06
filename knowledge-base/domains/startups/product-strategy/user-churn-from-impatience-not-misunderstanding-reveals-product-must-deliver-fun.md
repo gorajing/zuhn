@@ -50,11 +50,11 @@ stance: >-
   always insufficient core functionality — not positioning, messaging, or
   feature breadth.
 related:
-  - INS-260329-8BD3
-  - INS-260329-CCC4
-  - INS-260330-21CC
-  - INS-260322-B641
-  - PRI-260328-1D90
+  - INS-260403-4388
+  - INS-260403-501D
+  - INS-260403-53B0
+  - INS-260403-1817
+  - INS-260403-64AE
 evidence:
   - id: INS-260322-B641
     type: CHALLENGES

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Political Backflow From Europe
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/political-backflow-from-europe'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The same ethnic group can have radically different outcomes depending on the
@@ -59,6 +49,12 @@ resolutions:
 stance: >-
   The legal and geographic pathways through which immigrants arrive predict
   their outcomes far better than their country of origin or cultural background.
+related:
+  - INS-260403-0550
+  - INS-260405-339F
+  - INS-260330-C8D7
+  - INS-260323-8F70
+  - INS-260325-82E8
 ---
 Alexander's data shows that US Afghan immigrants (largely translators and guides for US forces) are incarcerated at 1/10th the native rate, while Chinese and Venezuelan immigrants (largely well-off people fleeing communism) are at 1/20th and 1/4th respectively. Meanwhile, the same nationalities might show very different rates in European countries with different selection mechanisms.
 

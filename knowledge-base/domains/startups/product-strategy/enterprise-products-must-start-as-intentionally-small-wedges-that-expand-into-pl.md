@@ -51,12 +51,11 @@ stance: >-
   solutions creates stronger enterprise positions than attempting comprehensive
   solutions from day one.
 related:
-  - INS-260327-EEBD
-  - INS-260327-540D
   - INS-260330-7168
+  - INS-260327-540D
   - INS-260403-71A6
+  - INS-260403-6C07
   - INS-260403-3F10
-  - PRI-260328-43F1
 evidence:
   - id: INS-260327-EEBD
     type: TRANSFERS_TO

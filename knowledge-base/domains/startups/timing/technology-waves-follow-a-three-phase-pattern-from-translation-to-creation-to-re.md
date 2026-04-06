@@ -48,11 +48,11 @@ stance: >-
   (rejecting existing rules entirely), and founders who recognize which phase
   they are in build larger companies.
 related:
+  - INS-260405-2DCC
   - PRI-260322-CF2B
   - INS-260403-A60E
   - PRI-260323-1187
-  - INS-260330-84C6
-  - INS-260330-7A80
+  - INS-260404-1D05
 evidence:
   - id: INS-260330-84C6
     type: TRANSFERS_TO

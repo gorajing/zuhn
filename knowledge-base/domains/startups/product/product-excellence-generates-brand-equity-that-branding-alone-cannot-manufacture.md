@@ -17,37 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'From Zero to IPO: Building eDreams Before the Playbooks'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Mauricio Prieto
-        url: 'https://substack.com/@mprieto'
-        description: Founders • Entrepreneurs • Startups • Investors
-        identifier: 'user:55469'
-        sameAs:
-          - 'https://twitter.com/mauprieto'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mzzc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb623541-3c92-4023-869e-23a40d1a01f9_96x96.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mzzc!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb623541-3c92-4023-869e-23a40d1a01f9_96x96.jpeg
+    author: 'Ruben Dominguez, Mauricio Prieto'
     url: 'https://www.thevccorner.com/p/from-zero-to-ipo-building-edreams-1ac'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Obsessing over product quality and customer service can substitute for early
@@ -70,6 +47,14 @@ stance: >-
   A reliably excellent product creates stronger brand trust than deliberate
   brand-building campaigns, because customers evangelize experiences not
   narratives
+related:
+  - INS-260322-2647
+  - INS-260323-8392
+  - INS-260327-EF89
+  - INS-260402-7B69
+  - INS-260403-5EB4
+  - INS-260405-76E4
+  - INS-260403-05EB
 ---
 eDreams deliberately under-invested in brand building and instead poured resources into product reliability and customer service. The result was organic word-of-mouth that built trust more durably than marketing campaigns could have. This suggests a hierarchy: great branding cannot rescue a mediocre product, but great product execution creates its own brand gravity.
 

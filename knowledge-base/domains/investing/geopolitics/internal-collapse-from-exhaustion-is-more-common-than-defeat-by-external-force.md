@@ -49,27 +49,27 @@ stance: >-
   breakdown — exhaustion, demoralization, revolution — rather than being
   militarily defeated by an external enemy.
 related:
-  - INS-260323-DF0F
   - INS-260326-8189
   - INS-260327-7315
   - INS-260327-23FA
   - INS-260327-AA3B
-  - INS-260327-8B9A
   - INS-260327-0C65
   - INS-260327-B038
   - INS-260327-8DAA
   - INS-260327-ABE5
+  - INS-260327-E751
+  - INS-260327-1A9C
 evidence:
   - id: INS-260326-8189
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3274
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B384
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F158
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-440E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Russian Revolution of 1917 wasn't caused by military defeat — Russian armies were still fighting. It was caused by internal exhaustion: bread shortages, millions of casualties with no end in sight, a incompetent government, and a war-weary population that lost faith in both the war and the regime. The French army mutinies of 1917 showed the same pattern — soldiers didn't defect to the enemy, they simply refused to attack.
 

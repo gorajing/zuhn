@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'The Story of Replit: From Internet Cafes to AI Sovereignty'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-story-of-replit-most-people-still'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Replit's decade of integrating editor, database, and hosting into one
@@ -59,6 +49,13 @@ stance: >-
   Integrating the entire development pipeline (editor, database, hosting,
   deployment) into a single container creates irreplaceable infrastructure for
   AI agents that fragmented toolchains cannot replicate
+related:
+  - INS-260325-2DCD
+  - INS-260403-83F3
+  - PRI-260328-D5EB
+  - INS-260325-D540
+  - INS-260325-031F
+  - INS-260403-D090
 ---
 While competitors built powerful but fragmented developer tools (the 'skyscraper' approach), Replit built an integrated 'motorcycle' — editor, database, and hosting within a single container. This seemed like a simplification tradeoff at the time, but it became the critical enabler for AI agents.
 

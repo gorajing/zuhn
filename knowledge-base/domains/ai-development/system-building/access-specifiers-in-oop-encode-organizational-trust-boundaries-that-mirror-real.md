@@ -50,10 +50,10 @@ stance: >-
   problems at every scale.
 related:
   - INS-260329-BD83
+  - INS-260402-31D8
+  - INS-260403-2FAE
   - PRI-260327-0D6E
   - INS-260330-CAD2
-  - INS-260327-24D2
-  - INS-260329-8DDF
 evidence:
   - id: INS-260330-CAD2
     type: TRANSFERS_TO

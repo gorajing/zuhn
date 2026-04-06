@@ -49,15 +49,12 @@ stance: >-
   disengage — they develop lasting hostility toward the subject matter that
   persists long after leaving the environment
 related:
-  - INS-260325-1EB3
   - INS-260322-4B63
   - INS-260327-AAFA
   - INS-260330-D61A
-  - INS-260330-82B5
   - INS-260403-2B63
   - INS-260402-8223
   - INS-260403-0C33
-  - INS-260403-F657
 evidence:
   - id: INS-260325-803C
     type: TRANSFERS_TO

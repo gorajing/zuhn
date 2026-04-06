@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "State of Pre-Seed\U0001F331, Gulf money is flooding into European startups\U0001F30F, Looking for AI use-cases\U0001F9D0"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/state-of-pre-seed-gulf-money-is-flooding'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Benedict Evans' Q1 2024 framing captures a market where most enterprises are
@@ -57,5 +47,12 @@ stance: >-
   As of early 2024, most companies are still searching for AI applications that
   justify the hype rather than executing on proven playbooks, indicating the
   market is earlier than narratives suggest.
+related:
+  - INS-260403-AC2D
+  - INS-260405-2F43
+  - INS-260405-6342
+  - INS-260404-D5B5
+  - INS-260325-BC2A
+  - INS-260404-15B8
 ---
 The Benedict Evans piece titled 'Looking for AI use-cases' reflects a broadly shared 2024 observation: despite intense AI investment and capability progress, most companies haven't identified which specific workflows justify AI transformation. This is different from 'AI doesn't work' — it's more that the mapping from capability to valuable application is still being discovered, and incumbents are running many experiments without conviction. For AI founders, this is a double-edged signal: the window to define use-case categories is still open, which is opportunity, but it also means buyers are cautious and slow. For investors, it suggests that companies claiming to have 'cracked' enterprise AI deployment may be overstating their traction relative to the broader market state.

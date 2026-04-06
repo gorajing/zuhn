@@ -50,12 +50,12 @@ stance: >-
   compensation and status yields disproportionate life-quality returns because
   most people never make it an explicit optimization target
 related:
-  - INS-260321-988C
   - PRI-260324-12CF
   - PRI-260328-0BE1
   - INS-260327-C673
+  - INS-260403-955F
   - INS-260330-697F
-  - INS-260403-DC6C
+  - INS-260329-EC33
 evidence:
   - id: INS-260321-988C
     type: TRANSFERS_TO

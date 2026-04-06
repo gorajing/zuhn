@@ -54,7 +54,7 @@ related:
   - INS-260325-502D
   - INS-260403-B734
   - INS-260325-9C2F
-  - INS-260323-636C
+  - INS-260403-5616
 stance: >-
   AI labs fight viciously against each other for dominance but frame the global
   AI race as positive-sum

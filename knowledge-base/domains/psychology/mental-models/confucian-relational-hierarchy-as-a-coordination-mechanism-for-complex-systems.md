@@ -51,13 +51,12 @@ stance: >-
   more stable social coordination than egalitarian or purely contractual
   arrangements.
 related:
-  - INS-260323-11FF
-  - INS-260322-EE1B
   - INS-260327-C69F
   - INS-260329-3383
   - INS-260330-D968
   - INS-260330-1647
   - INS-260330-4045
+  - INS-260403-62A9
   - INS-260405-B59F
   - INS-260330-4181
   - INS-260330-4ACF

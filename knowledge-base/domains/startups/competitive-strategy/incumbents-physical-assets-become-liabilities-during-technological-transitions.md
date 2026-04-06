@@ -52,7 +52,6 @@ stance: >-
   field, because sunk costs and organizational inertia prevent rapid pivoting.
 related:
   - INS-260324-E7A2
-  - INS-260327-8B34
   - INS-260404-397F
   - INS-260405-CF38
   - INS-260327-F2DF

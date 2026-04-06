@@ -18,25 +18,15 @@ tags:
 sources:
   - type: blog
     title: 80+ Non-Dilutive Funding Sources for Startups (2026 Database)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/non-dilutive-funding-sources-startups-database
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     RBF hit $5.8B in 2024 and is growing ~70% per year, making it an
@@ -61,6 +51,17 @@ stance: >-
   The global revenue-based financing market hit $5.8B in 2024 and is growing at
   ~70% annually, signaling that RBF is becoming a mainstream capital option for
   recurring-revenue businesses rather than a niche instrument.
+related:
+  - INS-260328-0C4C
+  - INS-260403-1407
+  - INS-260405-2F43
+  - INS-260403-CE07
+  - INS-260403-1874
+  - INS-260403-5F8B
+  - INS-260403-8421
+  - INS-260404-C30F
+  - INS-260404-6BCA
+  - INS-260403-4365
 ---
 Revenue-based financing—where repayment is structured as a percentage of monthly revenue rather than fixed debt service—has historically been niche, but the market data now shows it entering mainstream adoption. $5.8B in 2024 with ~70% annual growth suggests it is tracking toward $10B+ by 2026. Simultaneously, venture debt reached $27.8B in 2025, indicating the broader non-dilutive capital market is maturing.
 

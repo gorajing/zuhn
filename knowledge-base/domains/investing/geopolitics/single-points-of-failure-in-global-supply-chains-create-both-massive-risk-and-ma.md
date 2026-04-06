@@ -59,6 +59,7 @@ related:
   - INS-260323-9B49
   - INS-260323-2F50
   - INS-260330-A418
+  - INS-260404-57D0
 stance: ASML is the sole manufacturer of EUV lithography machines worldwide
 evidence:
   - id: INS-260325-14DC

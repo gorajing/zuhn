@@ -51,8 +51,9 @@ related:
   - INS-260323-5B36
   - INS-260323-04D4
   - PRI-260323-36A6
+  - INS-260403-8C7E
   - INS-260330-5BC4
-  - INS-260403-500F
+  - INS-260404-DBA8
 stance: >-
   American media shows Americans something fundamentally different from what the
   rest of the world sees

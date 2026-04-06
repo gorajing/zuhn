@@ -53,17 +53,17 @@ stance: >-
   counterproductive for non-trivial applications.
 related:
   - INS-260330-AB62
+  - INS-260403-2475
   - PRI-260328-8516
-  - INS-260402-F853
   - PRI-260328-37D8
   - INS-260403-6857
 evidence:
   - id: INS-260330-DE16
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-AB62
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-A693
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The video demonstrates that even a simple to-do app in vanilla JS requires manually querying DOM elements, imperatively creating and appending nodes, and managing the disconnect between application state and UI. The HTML markup gives no indication of bound events or data flow. As Fireship puts it: 'what you'll end up doing is building your own shitty JavaScript framework.'
 

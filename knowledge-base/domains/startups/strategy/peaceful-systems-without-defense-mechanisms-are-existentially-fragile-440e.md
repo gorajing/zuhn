@@ -50,26 +50,25 @@ stance: >-
   environment turns hostile.
 related:
   - INS-260323-75A8
-  - INS-260323-DF0F
   - INS-260330-3994
-  - INS-260330-CCE7
-  - INS-260330-E17D
+  - INS-260325-793A
+  - INS-260323-DF0F
   - INS-260327-8B9A
   - INS-260327-E7AC
-  - INS-260325-793A
+  - PRI-260328-43D8
 evidence:
   - id: INS-260323-75A8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6AED
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-DF0F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3994
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-8B9A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-E7AC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-793A
     type: SUPPORTS
     classified_at: '2026-04-06'

@@ -49,7 +49,7 @@ related:
   - INS-260329-8CA3
   - INS-260325-36EA
   - INS-260330-DE89
-  - INS-260323-2038
+  - INS-260403-E4C6
   - INS-260327-4D29
 ---
 The common understanding of humility -- bowing your head, deflecting praise, downplaying abilities -- is actually closer to coquetry or humblebragging than genuine virtue. True humility is a metacognitive capacity: when someone challenges what you believe you know well, can you genuinely consider they might be right? The hardest test comes when someone junior or less experienced surpasses you -- responding with curiosity rather than dismissal ('they took a shortcut' or 'it won't last') is the real marker of humility.

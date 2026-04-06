@@ -48,12 +48,13 @@ resolutions:
     contradicting the purely passion-driven one.
 related:
   - INS-260323-846D
+  - INS-260403-E554
   - INS-260327-A8D9
   - INS-260405-DB32
   - PRI-260324-E8C6
   - INS-260323-DEEA
-  - PRI-260323-2C5C
   - INS-260328-A4EB
+  - INS-260404-C209
 stance: >-
   Make life-altering decisions with your heart and gut, then never revisit them
   — execute with pure discipline and data from that point forward.

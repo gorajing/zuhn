@@ -47,26 +47,25 @@ resolutions:
     bootstrapped, Instagram was lean, Midjourney is fully bootstrapped) survive
     cycles regardless.
 related:
-  - INS-260330-9346
   - INS-260325-8062
+  - INS-260330-9346
   - INS-260330-DFA4
   - INS-260325-F306
   - PRI-260328-D292
-  - INS-260330-2355
 stance: >-
   Very new, very big, very exciting world-changing technologies
   deterministically lead to bubbles
 evidence:
   - id: INS-260330-9346
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-8062
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-DFA4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-F306
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4B55
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Every major platform shift has produced bubble dynamics: everything goes up at once, everyone looks like a genius, leverage and circular revenue build up until the ratchet effect kicks in on the way down. Hyperscalers justify massive investment by arguing the downside of not investing exceeds the downside of overinvesting — but as Evans notes, Zuckerberg's claim that surplus capacity can be resold falls apart because if one company has overcapacity, everyone does simultaneously.
 

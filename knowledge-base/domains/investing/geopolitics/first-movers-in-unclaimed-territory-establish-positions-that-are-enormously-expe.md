@@ -51,25 +51,25 @@ stance: >-
   fortification, local alliances, and institutional legitimacy that make
   displacement disproportionately costly.
 related:
-  - INS-260330-FEB0
   - INS-260327-1A9C
-  - PRI-260328-43D8
-  - INS-260327-2964
-  - INS-260327-1756
   - INS-260327-0C9F
   - INS-260327-485B
   - INS-260327-3B25
+  - INS-260330-FEB0
   - INS-260330-750A
   - INS-260403-D467
+  - PRI-260328-43D8
+  - INS-260327-2964
+  - INS-260327-1756
 evidence:
   - id: INS-260330-FEB0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-750A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-440E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D467
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Crusader States were remarkably small — thin coastal strips surrounded by hostile territory. Yet they survived from 1099 to 1291 (nearly 200 years) because the first movers built formidable castles at every strategic point, established alliances with local factions, and created institutional legitimacy through the Church. Displacing them required generations of Muslim unification and enormously costly siege campaigns.
 

@@ -41,13 +41,13 @@ resolutions:
 related:
   - INS-260325-2C31
   - INS-260403-A4CF
+  - INS-260403-267B
   - INS-260403-A1DF
   - INS-260405-CCB4
-  - INS-260327-9BA2
   - INS-260329-FCD3
   - INS-260330-1118
-  - INS-260330-FBC0
   - INS-260330-DBE6
+  - INS-260404-393A
 stance: >-
   AI has artificial cleverness (trial and error at scale) but not artificial
   intelligence (building cumulatively from partial progress, adapting stra...

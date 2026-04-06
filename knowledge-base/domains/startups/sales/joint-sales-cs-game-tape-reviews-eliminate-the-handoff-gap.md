@@ -61,6 +61,7 @@ related:
   - PRI-260405-91AD
   - INS-260330-7D07
   - INS-260327-1573
+  - INS-260404-45BB
 ---
 Most sales reps have never seen an onboarding call despite selling for years. They have no idea what happens after they submit the deal. Meanwhile, CS teams resent sales for overpromising. This creates a toxic divide that hurts both retention and sales conviction.
 

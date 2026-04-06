@@ -59,19 +59,19 @@ stance: >-
   The same system that creates your competitive advantage can produce the
   environmental shift that undermines your core mechanism
 related:
-  - INS-260330-48F2
-  - INS-260330-4441
-  - INS-260403-6628
-  - INS-260330-72E1
-  - INS-260330-E497
   - INS-260403-53C9
+  - INS-260403-6628
+  - INS-260405-02EE
+  - INS-260330-4441
+  - INS-260404-B7B6
+  - INS-260330-48F2
 evidence:
   - id: INS-260330-EACA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4441
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F5CF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-53C9
     type: SUPPORTS
     classified_at: '2026-04-06'

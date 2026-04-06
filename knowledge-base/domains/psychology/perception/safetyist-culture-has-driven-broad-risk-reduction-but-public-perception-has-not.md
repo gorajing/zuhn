@@ -19,24 +19,14 @@ sources:
     title: >-
       Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved
       Medical Care
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/record-low-crime-rates-are-real-not'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Systematic risk reduction across many domains has succeeded, but public
@@ -63,6 +53,13 @@ stance: >-
   Crime, car fatalities, childhood injuries, and hospital errors are all near
   historic lows, yet public perception of danger has not decreased
   proportionally.
+related:
+  - INS-260327-D37F
+  - INS-260403-1879
+  - INS-260403-3C68
+  - INS-260323-BC61
+  - INS-260403-4D04
+  - PRI-260328-E3A7
 ---
 The US has achieved historic lows in crime, car accident fatalities, childhood injuries, and hospital errors through systematic safety interventions — airbags, playground standards, malpractice liability, and policing reforms. Yet public intuition about danger levels has not updated proportionally. This perception gap is driven by availability heuristic (vivid crime coverage is more memorable than statistical trends), negativity bias (threat information is weighted more heavily), and media incentive structures (fear drives engagement).
 

@@ -50,10 +50,10 @@ stance: >-
   returning to managed employment feel intolerable
 related:
   - INS-260403-DF37
+  - INS-260403-8930
   - INS-260405-56CB
   - INS-260403-449A
   - PRI-260323-50FE
-  - INS-260405-7529
 evidence:
   - id: INS-260403-DF37
     type: SUPPORTS

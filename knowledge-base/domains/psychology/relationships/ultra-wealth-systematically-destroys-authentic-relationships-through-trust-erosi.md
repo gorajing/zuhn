@@ -53,9 +53,9 @@ stance: >-
   impossible to form or verify.
 related:
   - INS-260327-4A5D
-  - INS-260330-B906
   - INS-260330-4746
   - INS-260403-9CD9
+  - INS-260330-B906
   - PRI-260328-26AA
 evidence:
   - id: INS-260323-9A29

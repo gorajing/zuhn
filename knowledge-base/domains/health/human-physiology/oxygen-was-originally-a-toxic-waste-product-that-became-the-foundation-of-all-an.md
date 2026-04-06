@@ -50,23 +50,22 @@ stance: >-
   The most transformative innovations in biological history were unintended
   byproducts of processes optimized for something else entirely
 related:
-  - INS-260327-D070
-  - INS-260330-956F
-  - INS-260330-BA7F
-  - INS-260330-B061
   - PRI-260403-181B
-  - INS-260330-9231
   - INS-260404-AC1D
-  - INS-260403-227B
+  - INS-260330-B061
+  - INS-260330-BA7F
+  - INS-260404-E9F3
+  - INS-260327-D070
+  - INS-260330-696D
 evidence:
   - id: INS-260325-0895
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-D0A5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-656A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-227B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 In Photosystem II, when chlorophyll loses an electron to the transport chain, it 'freaks out' and rips apart water molecules to steal replacement electrons. The oxygen released is purely a byproduct — the plant has no use for it and expels it through stomata. Yet this 'useless byproduct' accumulated over billions of years to create Earth's oxygen-rich atmosphere, enabling aerobic respiration and all animal life.
 

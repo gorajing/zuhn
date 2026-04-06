@@ -54,11 +54,11 @@ stance: >-
   step-function expansion in addressable market that persists after the forcing
   event ends.
 related:
-  - INS-260330-30CE
   - INS-260330-2C57
   - INS-260330-318C
-  - INS-260321-1A0B
-  - INS-260324-29D8
+  - INS-260330-30CE
+  - INS-260404-6398
+  - INS-260404-3714
 evidence:
   - id: INS-260330-30CE
     type: EXTENDS

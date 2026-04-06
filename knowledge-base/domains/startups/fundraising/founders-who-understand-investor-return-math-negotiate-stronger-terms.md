@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'IRR vs Return Multiple: VC Math + Excel Template'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/irr-vs-return-multiple-the-vc-math'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Showing investors exactly why your ask works mathematically — not hoping
@@ -53,5 +43,15 @@ resolutions:
 stance: >-
   Founders who can demonstrate their valuation clears LP hurdle rates on a
   time-adjusted basis have a structural advantage in fundraising negotiations
+related:
+  - INS-260320-703F
+  - INS-260327-6D57
+  - INS-260403-F447
+  - INS-260403-4960
+  - INS-260403-E419
+  - INS-260404-28A1
+  - INS-260403-EA2D
+  - INS-260403-C1FB
+  - INS-260405-5B4D
 ---
 Most founders set valuations based on comparable deals or revenue multiples without checking whether the implied return math actually works for their investors. If your ask requires a 5x multiple for investors to hit their IRR target, but your market or business model makes that improbable, you'll lose credibility the moment a sophisticated investor runs the numbers. The inverse is also powerful: if you can walk into a pitch and show that your valuation, combined with realistic exit timelines, clears the fund's hurdle rate, you're speaking LP language fluently. This transforms negotiations from subjective storytelling into fact-driven discussions where both sides can evaluate the same math.

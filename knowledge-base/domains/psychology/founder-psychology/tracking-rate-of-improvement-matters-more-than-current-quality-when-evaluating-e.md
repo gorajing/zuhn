@@ -52,10 +52,11 @@ stance: >-
   current quality level.
 related:
   - INS-260403-225B
+  - INS-260405-7196
+  - INS-260405-0CE7
   - INS-260328-0B99
-  - INS-260328-B57E
-  - INS-260327-40DA
-  - INS-260405-020E
+  - INS-260403-2CFE
+  - INS-260403-2183
 evidence:
   - id: INS-260328-0B99
     type: CHALLENGES

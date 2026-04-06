@@ -46,10 +46,10 @@ stance: >-
   from the outside.
 related:
   - INS-260329-F21F
+  - INS-260403-5EEA
   - INS-260325-95EB
   - INS-260322-C6CE
-  - INS-260327-D7E6
-  - INS-260405-D66B
+  - INS-260403-AC29
   - INS-260405-D3D7
 evidence:
   - id: INS-260405-D3D7

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'AI Agents Are Coming: The Agentic Revolution Explained'
-    author:
-      - '@type': Person
-        name: Ivan Landabaso
-        url: 'https://substack.com/@startupriders'
-        description: 'I study how top 1% startups grow. VC, ex-Meta, surfing, bjj.'
-        identifier: 'user:12479575'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Y72A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ff621d2-4d64-4ca2-af4c-1c44c93e7b68_1024x1024.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Y72A!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ff621d2-4d64-4ca2-af4c-1c44c93e7b68_1024x1024.jpeg
+    author: Ivan Landabaso
     url: 'https://www.thevccorner.com/p/agentic-revolution-ai-agents'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Regulated industries are the hardest to enter with AI agents but offer the
@@ -58,6 +48,12 @@ stance: >-
   AI agent startups targeting regulated industries like healthcare and finance
   will have slower adoption curves but stronger defensibility because compliance
   requirements create natural barriers to entry.
+related:
+  - INS-260327-EE5E
+  - INS-260403-0350
+  - INS-260327-94FE
+  - INS-260404-CCB1
+  - INS-260403-8256
 ---
 The article outlines a three-wave adoption model: Wave 1 covers text-based agents in marketing and customer service, Wave 2 expands to multi-modal agents in architecture and education, and Wave 3 reaches regulated sectors like healthcare and finance. The key insight is that Wave 3's slow adoption is precisely what creates defensibility—building trust through advisory boards, compliance credibility, and accuracy safeguards takes years that competitors must also invest.
 

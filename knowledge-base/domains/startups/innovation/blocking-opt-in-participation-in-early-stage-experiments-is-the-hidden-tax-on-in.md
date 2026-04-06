@@ -63,8 +63,8 @@ related:
   - PRI-260323-FA42
   - PRI-260323-F37F
   - INS-260403-FF74
+  - INS-260403-DED4
   - INS-260403-1BCC
-  - INS-260403-343D
 evidence:
   - id: INS-260403-FF74
     type: EXTENDS

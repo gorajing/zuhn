@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: OpenAI’s Product Lead on Winning AI Through Distribution
-    author:
-      - '@type': Person
-        name: Miqdad Jaffer
-        url: 'https://substack.com/@miqdadjaffer'
-        description: Product Lead @ OpenAI | EIR @ Product Faculty
-        identifier: 'user:277704439'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
+    author: Miqdad Jaffer
     url: 'https://www.thevccorner.com/p/openai-ai-distribution-strategy'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In hierarchical markets, winning one apex customer (e.g., a top law firm)
@@ -65,6 +55,14 @@ stance: >-
   landing a single prestigious customer creates more distribution leverage than
   thousands of small accounts because adoption flows downstream from perceived
   authority.
+related:
+  - INS-260322-5745
+  - INS-260330-09E3
+  - INS-260403-C9C2
+  - INS-260403-C622
+  - PRI-260328-A4AC
+  - PRI-260328-43F1
+  - PRI-260322-8FD4
 ---
 Harvey went straight to Allen & Overy, one of the world's largest law firms, and co-built ContractMatrix rather than trying to acquire thousands of small legal practices. That single partnership gave Harvey instant credibility in a market where adoption flows downstream — when smaller firms see an apex player using a tool, they adopt it for prestige as much as utility.
 

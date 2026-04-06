@@ -45,21 +45,21 @@ resolutions:
 related:
   - INS-260322-35FA
   - INS-260329-FCF2
-  - INS-260404-7BEE
-  - INS-260404-DFE8
   - PRI-260322-3DA5
+  - INS-260330-550F
+  - PRI-260320-A2C7
 stance: >-
   Getting volume levels right first makes every subsequent mixing decision (EQ,
   compression, spatial) easier and more effective.
 evidence:
   - id: INS-260329-FCF2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-550F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-F57E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-4871
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-DFE8
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

@@ -40,15 +40,15 @@ resolutions:
     human's job is redesigned around it.
 related:
   - INS-260320-5A6F
-  - INS-260321-A5D4
   - INS-260321-E2FC
+  - INS-260403-10CE
   - INS-260329-6DED
-  - INS-260405-1282
-  - INS-260321-9906
+  - INS-260404-19B0
+  - INS-260404-29AF
+  - INS-260404-6BD6
   - INS-260323-F15D
   - INS-260327-C99D
-  - INS-260320-E683
-  - INS-260321-988C
+  - INS-260329-C4F5
 stance: >-
   Generative AI can help with more tasks than past automation (more flexible)
   but takes over fewer tasks completely (less robust)

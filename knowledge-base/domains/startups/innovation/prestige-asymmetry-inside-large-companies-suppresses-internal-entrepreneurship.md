@@ -53,15 +53,15 @@ stance: >-
   barrier to innovation that cannot be solved by process alone.
 related:
   - INS-260325-C29B
-  - INS-260322-8F3F
   - INS-260327-C464
   - INS-260327-A59A
   - INS-260327-432E
-  - INS-260327-46F6
   - INS-260328-0DFE
   - INS-260330-F800
   - INS-260402-96E2
-  - INS-260403-6279
+  - INS-260403-9FE2
+  - INS-260403-47BF
+  - INS-260403-E4AD
 evidence:
   - id: INS-260328-0DFE
     type: CHALLENGES

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "“Claude Mythos”\U0001F9E0, SaaS Funeral\U0001F480, From Execution to Judgment\U0001F3AF"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When AI commoditizes execution, the quality of what you decide to build
@@ -54,6 +44,15 @@ resolutions:
 stance: >-
   As AI makes production cheap and fast, strategic decision quality becomes the
   primary bottleneck determining outcomes, not execution capability.
+related:
+  - INS-260329-50D5
+  - INS-260330-F125
+  - INS-260403-A101
+  - INS-260405-0271
+  - INS-260405-7838
+  - PRI-260321-14D8
+  - INS-260404-9D14
+  - INS-260403-50F6
 ---
 AI systems amplify whatever strategic direction they're pointed at — good judgment gets amplified into outsized results, while poor judgment accelerates failure. This inverts the traditional startup advantage where scrappy execution could compensate for mediocre strategy.
 

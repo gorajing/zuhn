@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "The Billion-Dollar Revenue Club\U0001F4B0, Product Metrics That Matter\U0001F3AF, Time-to-Value in AI Age⏱️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-billion-dollar-revenue-club-product'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Product KPIs need to be designed for four audiences at once: product team,
@@ -59,6 +49,14 @@ stance: >-
   A single product metric system that works for the product team but not for
   executives, stakeholders, and customers is operationally broken and will fail
   to align the organization.
+related:
+  - INS-260327-EC45
+  - INS-260330-38B9
+  - INS-260403-CD74
+  - INS-260402-142F
+  - INS-260329-13D2
+  - INS-260323-FF23
+  - INS-260323-4DD9
 ---
 Most product teams design KPIs for themselves — they optimize for granular, actionable, leading indicators that help them make daily decisions. The problem is these metrics are opaque to executives (who need aggregate business health signals), stakeholders (who need progress-toward-goals signals), and customers (who need to see value delivered).
 

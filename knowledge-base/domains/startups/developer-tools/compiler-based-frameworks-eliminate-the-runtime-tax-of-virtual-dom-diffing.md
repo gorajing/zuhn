@@ -50,11 +50,11 @@ stance: >-
   fundamentally better performance ceilings than virtual DOM frameworks (React,
   Vue) by shifting work from runtime to build time.
 related:
+  - INS-260323-AF96
   - INS-260330-9D44
+  - INS-260329-2F63
   - INS-260329-1ACD
   - PRI-260403-9E80
-  - INS-260329-9745
-  - INS-260329-E015
 evidence:
   - id: INS-260329-B170
     type: EXTENDS

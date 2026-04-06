@@ -48,6 +48,7 @@ related:
   - INS-260327-9C00
   - INS-260322-5831
   - INS-260327-6725
+  - INS-260405-F378
 stance: >-
   You must be either the tech/product founder or the business/revenue founder,
   then find a complementary co-founder for the other role.

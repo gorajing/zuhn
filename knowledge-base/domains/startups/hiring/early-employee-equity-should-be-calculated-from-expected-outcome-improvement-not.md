@@ -47,14 +47,15 @@ stance: >-
   Stock grants derived from how much a hire improves expected company value
   produce fairer outcomes than industry benchmark tables.
 related:
-  - INS-260327-D480
   - INS-260327-9924
   - INS-260329-5514
   - INS-260330-CBF3
   - INS-260330-855A
   - INS-260330-C7FF
-  - INS-260403-3062
+  - INS-260404-2AFE
   - INS-260403-37F4
+  - INS-260403-A3B2
+  - INS-260403-09E8
 ---
 The same 1/(1-n) formula applies in reverse for employee grants: if a hire improves average company outcome by factor i, they're worth n = (i-1)/i in equity. A hire who improves outcomes by 20% is worth up to 16.7% equity at breakeven. After subtracting salary costs (multiply annual salary+overhead by 1.5 to convert to stock equivalent) and a profit margin, you arrive at the actual offer.
 

@@ -54,41 +54,41 @@ stance: >-
   subscription fees, making free products with data extraction more profitable
   than paid products
 related:
+  - INS-260323-F68A
   - INS-260324-6C5F
   - INS-260327-2B62
   - INS-260330-D824
-  - INS-260405-631B
-  - INS-260403-C40D
-  - INS-260403-08FE
-  - INS-260330-0317
-  - INS-260330-EBF6
+  - INS-260404-35B6
   - INS-260404-8750
   - INS-260405-A164
+  - INS-260405-631B
+  - INS-260403-08FE
+  - INS-260323-FEAB
 evidence:
   - id: INS-260323-F68A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260324-6C5F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-1435
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-2B62
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D824
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-EBF6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0317
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-631B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-E65A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-08FE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-8750
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-A164
-    relationship: RELATED
+    type: SUPPORTS
 ---
 When Facebook eliminated WhatsApp's $1/year subscription, the logic was straightforward: a user's data — phone numbers bridging offline/online identity, behavioral patterns, contact lists, purchase signals — generates far more than $1/year when combined with Facebook's advertising infrastructure. The phone number specifically was described as 'the missing link' connecting WhatsApp users to their Facebook profiles.
 

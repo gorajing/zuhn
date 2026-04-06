@@ -44,12 +44,11 @@ stance: >-
   Small teams that build domain-specific abstractions before writing application
   logic outperform larger teams using top-down decomposition
 related:
-  - INS-260330-80AF
   - INS-260330-62D6
   - INS-260402-E470
   - INS-260330-F08F
   - INS-260403-876D
-  - INS-260325-502D
+  - INS-260403-AE5B
 evidence:
   - id: INS-260330-80AF
     type: TRANSFERS_TO

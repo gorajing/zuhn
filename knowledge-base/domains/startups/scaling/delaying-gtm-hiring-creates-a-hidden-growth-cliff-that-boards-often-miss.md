@@ -16,26 +16,14 @@ tags:
 sources:
   - type: blog
     title: "How to Trick Investors & VCs \U0001F92B\U0001F4B0"
-    author:
-      - '@type': Person
-        name: OnlyCFO
-        url: 'https://substack.com/@onlycfo'
-        description: 'Finance, tech, and startups'
-        identifier: 'user:114529177'
-        sameAs:
-          - 'https://twitter.com/OnlyCFO'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!i1Yq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85f91b83-2953-4631-9406-3534fba36bd4_546x442.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!i1Yq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85f91b83-2953-4631-9406-3534fba36bd4_546x442.jpeg
+    author: OnlyCFO
     url: 'https://www.thevccorner.com/p/how-to-trick-investors-and-vcs'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Cutting back-half GTM hiring makes current efficiency metrics look great
@@ -63,6 +51,13 @@ stance: >-
   metrics by simply not hiring GTM staff in the second half of the year,
   creating an invisible but severe growth cliff 6-12 months later because sales
   reps take months to ramp.
+related:
+  - INS-260330-EF51
+  - INS-260403-8C2D
+  - PRI-260405-608A
+  - INS-260327-2430
+  - INS-260403-BF1F
+  - INS-260403-7D11
 ---
 Sales reps and GTM team members typically take up to 6 months to become fully productive. Companies hire them in H2 to drive the following year's growth — these hires are a cost in the current year with zero revenue contribution until months later. Under pressure to show efficiency (especially with metrics like burn multiple), a company can simply freeze H2 GTM hiring. The immediate effect is dramatically better efficiency metrics. The delayed effect is growth potentially collapsing from 75% to 20%.
 

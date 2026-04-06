@@ -43,9 +43,9 @@ stance: >-
 related:
   - INS-260330-3B6C
   - INS-260330-CCA2
+  - INS-260323-9955
   - INS-260330-DEF7
   - INS-260330-BF2A
-  - INS-260330-E059
   - INS-260330-5A2A
 evidence:
   - id: INS-260330-CCA2

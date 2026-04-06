@@ -49,12 +49,12 @@ stance: >-
   fastest path to programming competence because it eliminates the complexity of
   edge cases, UX, and multi-user concerns.
 related:
+  - INS-260405-839E
   - INS-260403-AC03
   - INS-260329-023F
   - INS-260403-5593
   - INS-260330-A3AF
-  - INS-260327-A653
-  - INS-260330-8890
+  - INS-260404-7C1F
 evidence:
   - id: INS-260330-A3AF
     type: TRANSFERS_TO

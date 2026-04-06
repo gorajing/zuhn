@@ -17,39 +17,15 @@ sources:
     title: >-
       Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank
       Lessons for Founders
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Guillermo Flor
-        url: 'https://substack.com/@guillermoflor'
-        description: >-
-          I'm Guillermo, a former startup founder now venture capital investor.
-          I write weekly about startups path to Product Market Fit, growth and
-          fundraising 
-        identifier: 'user:48117658'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
+    author: 'Ruben Dominguez, Guillermo Flor'
     url: >-
       https://www.thevccorner.com/p/robert-herjavec-ai-startups-shark-tank-founder-lessons
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Digital content creates awareness, but traditional media like TV and books
@@ -73,6 +49,17 @@ resolutions:
 stance: >-
   Books, television, and mainstream press create a layer of credibility that
   digital content alone cannot replicate
+related:
+  - INS-260325-24D1
+  - INS-260325-622D
+  - INS-260321-2564
+  - INS-260322-7B71
+  - INS-260327-E6B0
+  - INS-260329-BC11
+  - INS-260330-4FB9
+  - INS-260403-DEF6
+  - INS-260325-803C
+  - INS-260404-D45D
 ---
 Herjavec distinguishes between two types of media leverage: digital content (social media, newsletters, podcasts) which creates awareness and reach, versus traditional media (books, television, mainstream press) which creates credibility and authority. His own experience with Shark Tank illustrates how TV exposure created a credibility multiplier that no amount of blog posts could replicate.
 

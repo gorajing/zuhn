@@ -47,8 +47,8 @@ related:
   - INS-260330-BC21
   - INS-260327-176D
   - INS-260329-CC75
-  - PRI-260325-E2D3
-  - INS-260403-8448
+  - INS-260404-8CA8
+  - INS-260403-02B8
 ---
 Arlene Jones, Director of Pharmacy, described presenting an AI product that would save $3 million annually to her hospital's financial committee three times before gaining approval. The committee kept asking 'why not more?' and demanding additional proof of concept despite clear value.
 

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Next-Token Predictor Is An AI''s Job, Not Its Species'
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Neuroscience's predictive coding theory reveals humans and AIs share the
@@ -60,6 +50,12 @@ stance: >-
   Predictive coding theory shows human cognition is fundamentally organized
   around predicting the next sensory input, making the human-AI prediction
   parallel structurally deep rather than merely metaphorical.
+related:
+  - INS-260404-D711
+  - INS-260323-F0A2
+  - INS-260403-141E
+  - INS-260330-2F13
+  - INS-260323-B309
 ---
 Predictive coding is increasingly recognized as a key organizing principle of the brain. The brain constantly generates predictions about incoming sensory data, then updates synaptic weights based on prediction errors. This is structurally analogous to next-token prediction in AI: both systems learn by trying to predict the next input and adjusting internal parameters to minimize prediction error.
 

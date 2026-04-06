@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Where VCs Are Betting on AI in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vcs-betting-on-ai-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Redpoint's framework demands a narrow high-urgency use case with real user
@@ -61,6 +51,13 @@ stance: >-
   Starting with a narrow, high-urgency wedge that users love and then expanding
   aggressively into adjacencies is the most reliable pattern for building
   venture-scale AI companies.
+related:
+  - INS-260324-A046
+  - INS-260404-F0E9
+  - INS-260402-C98A
+  - INS-260404-4BF9
+  - INS-260327-F405
+  - INS-260403-B448
 ---
 Jacob Effron's Redpoint framework distills AI startup evaluation into three filters: Is there an effective wedge (a narrow, high-urgency use case that end-users love)? How much can the company expand from that wedge into large adjacencies? And will quality matter in this market — because if 'good-enough for cheap' wins, race-to-the-bottom risk kills margins.
 

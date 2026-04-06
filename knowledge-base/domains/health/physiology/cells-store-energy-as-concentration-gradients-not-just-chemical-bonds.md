@@ -48,30 +48,33 @@ stance: >-
   Proton gradients across membranes function as rechargeable batteries and
   represent a fundamental energy storage mechanism distinct from chemical bond
   energy.
-related:
-  - INS-260330-7E39
-  - INS-260404-AC2C
-  - INS-260403-37C4
-  - INS-260404-6876
-  - INS-260330-666E
-  - INS-260330-BC3E
 evidence:
   - id: INS-260330-8C6A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-972B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-666E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-49E9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3037
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2E41
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-E374
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6876
-    relationship: RELATED
+    type: SUPPORTS
+related:
+  - PRI-260403-70D0
+  - INS-260403-B6E6
+  - INS-260405-64C5
+  - INS-260404-F7C5
+  - INS-260330-100F
+  - INS-260330-F2B6
+  - INS-260330-1677
+  - INS-260330-2E41
+  - INS-260330-972B
 ---
 Photosynthesis stores intermediate energy by pumping protons across the thylakoid membrane, creating a concentration gradient. When protons flow back through ATP synthase to equalize, the enzyme harvests that flow to produce ATP. This is essentially a rechargeable battery: energy in (electron transport) charges it, energy out (proton flow) discharges it.
 

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'AI Agents Are Coming: The Agentic Revolution Explained'
-    author:
-      - '@type': Person
-        name: Ivan Landabaso
-        url: 'https://substack.com/@startupriders'
-        description: 'I study how top 1% startups grow. VC, ex-Meta, surfing, bjj.'
-        identifier: 'user:12479575'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Y72A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ff621d2-4d64-4ca2-af4c-1c44c93e7b68_1024x1024.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Y72A!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ff621d2-4d64-4ca2-af4c-1c44c93e7b68_1024x1024.jpeg
+    author: Ivan Landabaso
     url: 'https://www.thevccorner.com/p/agentic-revolution-ai-agents'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Like the dot-com era, the AI bubble contains both genuine excess and the
@@ -57,6 +47,15 @@ stance: >-
   The AI investment bubble shares structural similarities with the dot-com
   bubble, where many of the highest-value companies in existence today were
   founded during the period of apparent excess.
+related:
+  - INS-260324-72E8
+  - INS-260327-130C
+  - INS-260327-A8DF
+  - INS-260327-C1F6
+  - INS-260330-09AD
+  - INS-260403-358D
+  - INS-260405-B4D0
+  - INS-260405-7576
 ---
 Brett Taylor draws a specific parallel between AI valuations and the dot-com bubble, noting that today's top market cap companies—Amazon, Google, PayPal, eBay, Salesforce—were all founded during the dot-com era. The current AI landscape shows similar signs of excess: companies like Poolside, Magic, Adept, and Character.AI have combined valuations exceeding $17B on combined revenue under $100M.
 

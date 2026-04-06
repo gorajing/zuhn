@@ -45,10 +45,10 @@ resolutions:
     will be paralyzed by the absence of a model to follow.
 related:
   - INS-260327-767B
+  - INS-260404-EEA7
   - INS-260329-444F
   - PRI-260328-0C51
-  - INS-260328-7942
-  - INS-260403-D645
+  - INS-260403-E681
 stance: >-
   AI application to specific industries has no proven playbook anywhere in the
   world, making benchmarking-based strategy obsolete.

@@ -54,11 +54,14 @@ resolutions:
 related:
   - INS-260323-3239
   - PRI-260323-1B96
+  - INS-260403-5301
+  - INS-260403-E1E0
   - INS-260403-93E7
-  - INS-260327-D982
-  - INS-260330-A86C
   - INS-260330-B0EB
+  - INS-260330-A86C
   - INS-260403-C228
+  - INS-260404-4BF9
+  - INS-260403-DC59
 stance: 'Before chasing product-market fit, verify you have founder-market fit'
 ---
 After 8 pivots, the Pensive founder realized his failures shared a pattern: he was chasing 'front market fit' (is there demand?) without establishing 'founder-market fit' (am I the right person to solve this for the long haul?). Voice cloning and food logistics had market demand but no personal resonance.

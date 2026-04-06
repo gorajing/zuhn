@@ -52,14 +52,16 @@ stance: >-
   generate better outcomes than passive capital providers, because they can
   restructure management and enforce strategic alignment.
 related:
-  - INS-260323-E551
   - INS-260327-3788
   - INS-260328-4ED2
   - INS-260330-8733
   - INS-260330-9BF5
   - INS-260402-3D61
+  - INS-260403-20F9
   - INS-260330-3084
   - INS-260330-85C2
+  - INS-260330-B1A3
+  - INS-260403-47F1
 evidence:
   - id: INS-260330-B1A3
     type: CHALLENGES

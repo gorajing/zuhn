@@ -47,14 +47,12 @@ resolutions:
 related:
   - INS-260321-807B
   - INS-260322-D57C
+  - INS-260404-19B0
   - PRI-260328-DD90
   - INS-260404-D1E2
-  - INS-260325-FDF5
-  - INS-260329-5B7B
   - INS-260330-956E
   - INS-260330-E670
-  - INS-260404-BA3D
-  - INS-260404-1755
+  - INS-260403-5CD7
 stance: >-
   True AI-native companies embed AI directly into the product so it works with
   the customer without human involvement, scaling with compute instead o...

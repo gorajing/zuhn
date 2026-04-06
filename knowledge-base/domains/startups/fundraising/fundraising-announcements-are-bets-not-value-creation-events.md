@@ -48,12 +48,12 @@ stance: >-
   than 50% likelihood of paying off, not a value-creating milestone comparable
   to a strong earnings quarter.
 related:
-  - INS-260323-8893
-  - INS-260328-7CA9
   - INS-260321-3521
+  - INS-260323-8893
   - PRI-260403-26B9
-  - INS-260322-A02C
-  - INS-260403-AA6A
+  - INS-260403-1E5F
+  - INS-260328-7CA9
+  - INS-260404-B016
 ---
 Founders confuse fundraising events with value-creating moments. When a public company has a strong quarter and its stock rises, that is literal value creation -- everyone's shares are worth more and could be sold immediately. A fundraising announcement is the opposite: it's an illiquid bet with probably less than 50% chance of success, all the way down to seed rounds with even lower odds.
 

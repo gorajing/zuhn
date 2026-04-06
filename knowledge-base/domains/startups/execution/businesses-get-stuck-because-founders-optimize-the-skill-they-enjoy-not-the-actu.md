@@ -48,11 +48,11 @@ stance: >-
   identifying the true constraint, which is usually in an area they find
   uncomfortable.
 related:
+  - INS-260403-8B26
   - INS-260323-E15F
   - PRI-260328-B11D
   - INS-260323-B4D2
   - INS-260403-7F89
-  - INS-260330-DDF0
 evidence:
   - id: INS-260323-B4D2
     type: CHALLENGES

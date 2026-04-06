@@ -46,10 +46,11 @@ related:
   - INS-260324-A9DF
   - INS-260330-DC0D
   - INS-260327-EAB9
-  - INS-260330-95E8
+  - INS-260403-CCED
   - INS-260327-6853
-  - INS-260327-8D5D
-  - INS-260328-896B
+  - INS-260330-95E8
+  - INS-260404-C189
+  - INS-260403-F0BF
 stance: >-
   Burger King fell from clear #2 to irrelevant because PE ownership
   oversimplified the business into quarterly numbers, while Wendy's with fewer

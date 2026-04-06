@@ -52,8 +52,8 @@ related:
   - PRI-260328-4FA6
   - INS-260403-AEBD
   - INS-260329-903B
+  - INS-260403-18F7
   - INS-260404-F8B7
-  - INS-260323-9C11
 stance: >-
   Enterprise resource planning requires SOC-2 compliance, multi-currency
   handling, legal review, and ongoing maintenance

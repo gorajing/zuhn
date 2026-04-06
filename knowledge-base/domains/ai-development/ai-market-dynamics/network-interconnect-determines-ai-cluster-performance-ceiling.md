@@ -50,40 +50,40 @@ stance: >-
   more than raw GPU compute for overall AI system performance.
 related:
   - INS-260322-EE1B
-  - INS-260405-4871
-  - INS-260329-4F04
+  - INS-260330-60A5
+  - INS-260403-E7E1
+  - INS-260403-B05A
   - INS-260403-D36D
+  - INS-260403-8BA2
+  - INS-260405-A4DB
   - PRI-260403-E023
   - INS-260328-60C7
-  - INS-260329-EC78
-  - INS-260330-60A5
-  - INS-260330-956E
-  - INS-260403-E7E1
+  - INS-260403-C907
 evidence:
   - id: INS-260322-EE1B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-475F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-A1D3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-956E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-19B3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3FA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-EC78
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-60A5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0E4B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-F57E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D36D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-E7E1
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Michael Kagan explains that at 100,000+ GPU clusters, the probability of everything working perfectly is zero -- something is always broken. The critical differentiator is network latency distribution: a narrow, consistent latency allows splitting jobs across thousands of GPUs, while high jitter forces you to limit parallelism to perhaps 10 GPUs. This is why Mellanox's acquisition was transformative for Nvidia -- it enabled scaling from single-node to datacenter-scale computing as a single unit.
 

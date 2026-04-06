@@ -54,20 +54,20 @@ stance: >-
 related:
   - INS-260322-0D87
   - INS-260325-001B
-  - INS-260403-449D
-  - INS-260323-D400
-  - INS-260404-CE26
-  - PRI-260328-0F0D
   - INS-260330-E5F9
+  - INS-260404-8EFB
+  - INS-260403-449D
+  - INS-260403-9774
+  - INS-260323-D400
 evidence:
   - id: INS-260330-E5F9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F969
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-D400
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-449D
     type: SUPPORTS
     classified_at: '2026-04-06'

@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     You need colleagues who can actually evaluate early work's potential, not
@@ -63,6 +51,12 @@ stance: >-
   Surrounding yourself with indiscriminately encouraging people is
   counterproductive—you need peers working on similar ambitious projects who can
   see genuine potential
+related:
+  - INS-260404-8031
+  - INS-260403-5216
+  - INS-260403-1228
+  - INS-260404-4985
+  - INS-260326-7B2A
 ---
 Graham makes a crucial distinction in what 'supportive environment' actually means for ambitious work. Simply collecting encouraging people fails because you quickly learn to discount unconditional praise—it carries no information. What you actually need are people who can distinguish genuine potential from genuine mediocrity in early-stage work. The best candidates are people working on similarly ambitious projects of their own, because they've developed calibrated judgment about what rough-but-promising looks like.
 

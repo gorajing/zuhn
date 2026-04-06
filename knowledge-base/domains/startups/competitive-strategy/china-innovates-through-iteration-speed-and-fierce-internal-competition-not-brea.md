@@ -56,11 +56,11 @@ stance: >-
   breakthroughs, and this manufacturing-driven innovation model is
   underestimated by Silicon Valley.
 related:
-  - INS-260321-31B3
   - PRI-260328-4CC0
   - PRI-260328-94D4
   - INS-260323-4457
   - INS-260322-5790
+  - INS-260321-31B3
 evidence:
   - id: INS-260322-5790
     type: SUPPORTS

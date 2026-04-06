@@ -52,16 +52,16 @@ stance: >-
 related:
   - INS-260330-6411
   - INS-260330-40DA
-  - INS-260330-2B8F
-  - INS-260404-0214
-  - INS-260330-8E45
+  - INS-260329-9D26
+  - INS-260402-C2BA
+  - INS-260330-57E6
 evidence:
   - id: INS-260329-9D26
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6411
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-DDB5
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Pre-agriculture, it took roughly 1,000 calories of work to produce 1,000 calories of food — a break-even existence where everyone had to forage. Agriculture broke this ratio, generating surplus that could support tradespeople. Those specialists then built better farming tools, further increasing surplus, enabling more specialization. This is the original compounding flywheel.
 

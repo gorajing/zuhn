@@ -47,7 +47,6 @@ related:
   - INS-260327-DECA
   - INS-260403-7F89
   - INS-260403-0902
-  - INS-260330-4C5A
   - INS-260330-BE23
 stance: >-
   A common mistake is automating wherever it's easiest rather than wherever the

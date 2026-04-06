@@ -54,15 +54,14 @@ stance: >-
   hypothesis, because the emotional reward of confirmation suppresses the rigor
   needed to falsify
 related:
-  - INS-260326-E0CB
   - INS-260327-AEFA
-  - INS-260329-4A69
   - INS-260404-F227
   - INS-260330-8E8A
   - INS-260330-FB5A
   - INS-260402-89DE
   - INS-260402-A94F
   - INS-260402-F5E0
+  - INS-260403-37B1
 evidence:
   - id: INS-260326-E0CB
     type: CHALLENGES

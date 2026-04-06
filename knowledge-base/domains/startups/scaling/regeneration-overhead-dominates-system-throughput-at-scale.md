@@ -52,12 +52,12 @@ stance: >-
   the system is the true constraint on net productivity, not gross output
 related:
   - INS-260330-8C52
-  - INS-260330-4D0E
   - INS-260330-E068
   - INS-260403-5648
   - INS-260403-07D2
   - INS-260404-1C01
   - INS-260404-D1F6
+  - INS-260330-6AB7
   - INS-260405-0591
   - INS-260405-A103
 evidence:

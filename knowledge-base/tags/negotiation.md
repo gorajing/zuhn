@@ -1,20 +1,25 @@
 # Tag: negotiation
 
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
+- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
+- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
+- `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
+- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
+- `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
+- `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
+- `INS-260404-98EE` Narratives dominate negotiations only until one side introduces a formal model—then the conversation shifts irreversibly to quantitative terms.
+- `INS-260403-B887` Present proposals in terms of what the audience already cares about, not what you care about.
+- `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
+- `INS-260403-7795` The breakeven multiple — how much value you must create in a given timeframe to hit your target IRR — turns abstract return goals into concrete deal criteria.
 - `INS-260327-E052` Napoleon assumed Alexander would sue for peace after Moscow fell — but the Russian Tsar had resolve Napoleon couldn't model from his own experience.
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
 - `INS-260323-4473` In business you solve a problem and move on; in political deal-making, the conclusion of one problem set is the beginning of an entirely new paradigm that must sustain itself.
 - `INS-260327-4419` Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
 - `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
 - `INS-260323-3CD0` When Trump recognized Jerusalem as Israel's capital — something everyone said would 'end the world' — the sun rose the next morning, proving the barrier was artificial and opening space for the Abraham Accords.
-- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
-- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
-- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
-- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
-- `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
-- `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
-- `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
+- `INS-260404-36D7` Costco stocks only 4,000 SKUs versus Walmart's 140,000, which makes suppliers compete fiercely for limited shelf space and accept lower margins.
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
@@ -23,10 +28,25 @@
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260330-6900` Tell investors you're too busy building to meet for 2-3 weeks, then schedule all meetings in one concentrated week to create competition and signal confidence.
 - `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
+- `INS-260403-B98A` Discount-only SAFEs limit investor upside to the discount percentage, while valuation caps can give investors disproportionate returns if the company grows fast before conversion.
+- `INS-260403-DA8F` The projected exit value — typically revenue times a comparable company multiple — is the single most influential input in VC Method valuation, making comp selection the key negotiation lever.
+- `INS-260405-3238` Define your funding amount, security type, and valuation floor before any investor conversation begins.
+- `INS-260403-03CC` Showing investors exactly why your ask works mathematically — not hoping they 'get it' — builds credibility and strengthens your negotiating position.
 - `INS-260330-376E` Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
+- `INS-260403-BF8C` Once headline price is agreed in M&A, structural negotiation leverage evaporates — so structure should be modeled and discussed before price anchoring.
+- `INS-260403-7190` Whether the option pool expands before or after new investment hits the cap table determines who actually bears the dilution cost.
 - `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
+- `INS-260403-20F7` The Scorecard Method anchors to regional averages, creating opportunities to strategically choose which market benchmarks to reference.
+- `INS-260404-28A1` Knowing the VC Method lets founders anticipate the exact math investors will use, turning valuation from storytelling into a structured negotiation.
+- `INS-260403-888C` Asking VCs substantive evaluative questions—especially requesting introductions to portfolio founders—signals confidence and transforms the dynamic from pitch to partnership discussion.
+- `INS-260403-130A` Liquidation preferences, board control, and dilution terms in a term sheet can matter more than the valuation number itself.
+- `INS-260403-C8F0` Term sheets encode power dynamics—option pools, liquidation preferences, and control terms shape outcomes more than valuation.
 - `INS-260322-6C4B` The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
 - `INS-260323-4C43` Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
+- `INS-260403-49FC` VCs request option pool expansion pre-money to dilute founders instead of themselves, costing 5-10% ownership in a single line item.
+- `INS-260402-A22C` After a VC partner buys in, shift from pitching mode to collaborative mode — help them tailor the pitch for their partnership meeting.
+- `INS-260403-0CBA` Combine 2-3 valuation methods to present a defensible range rather than a single number.
+- `INS-260403-11E3` Exit waterfall modeling reveals how deal terms actually distribute value at different exit sizes, exposing whether employee equity retains meaningful upside.
 - `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
 - `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
 - `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
@@ -35,4 +55,6 @@
 - `INS-260329-2A5A` Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
 - `INS-260329-3D14` Treating negotiation as mutual value discovery rather than extraction creates better deals and preserves relationships.
 - `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
+- `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
+- `INS-260403-4F68` Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260330-4ACF` Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.

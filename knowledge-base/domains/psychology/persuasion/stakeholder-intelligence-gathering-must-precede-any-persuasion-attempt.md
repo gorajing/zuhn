@@ -15,27 +15,14 @@ tags:
 sources:
   - type: blog
     title: A PM’s guide to influence
-    author:
-      - '@type': Person
-        name: Jules Walter
-        url: 'https://substack.com/@juleswalter'
-        description: >-
-          Product Leader on Google Gemini. Previously at YouTube and Slack.
-          Co-Founder and Board Member at CodePath.org and Black Product Managers
-          Network.
-        identifier: 'user:1991078'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!LA7Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c76bd7-966b-4e7f-bba3-a22fff9a98b9_500x500.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!LA7Z!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c76bd7-966b-4e7f-bba3-a22fff9a98b9_500x500.jpeg
+    author: Jules Walter
     url: 'https://www.lennysnewsletter.com/p/a-pms-guide-to-influence'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Systematically research each stakeholder's incentives, decision process, and
@@ -59,6 +46,12 @@ stance: >-
   Investing time in mapping a stakeholder's goals, decision process, and fears
   before making your ask produces better outcomes than leading with the strength
   of your argument.
+related:
+  - INS-260403-9120
+  - INS-260330-6F36
+  - INS-260403-1BCC
+  - INS-260403-11CC
+  - INS-260327-6AA0
 ---
 Most people default to presenting their strongest arguments when trying to influence others. Jules Walter's approach inverts this: before any persuasion attempt, he conducts structured intelligence gathering through one-on-ones, asking about the stakeholder's goals, OKRs, prioritization process, key decision-makers, and anticipated objections.
 

@@ -18,25 +18,15 @@ tags:
 sources:
   - type: blog
     title: 'Reverse Imposter Syndrome: A Founder’s Visibility Gap'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In fundraising, perceived competence routinely outranks actual performance
@@ -60,6 +50,17 @@ stance: >-
   Founders with half the traction but superior signal design consistently raise
   larger rounds than invisible high-performers, because investor
   pattern-matching rewards perceived credibility over actual competence.
+related:
+  - INS-260323-960A
+  - INS-260327-7E3D
+  - INS-260328-7CA9
+  - INS-260403-147C
+  - INS-260403-DE45
+  - INS-260403-3346
+  - INS-260404-312D
+  - INS-260404-30B2
+  - INS-260404-FE95
+  - INS-260404-2250
 ---
 The article points to a well-documented but under-discussed dynamic: investors pattern-match on legible signals rather than underlying substance. When a founder with half your traction raises twice the round, it's not necessarily because they're ahead — it's because their signal made it through the investor's filtering system.
 

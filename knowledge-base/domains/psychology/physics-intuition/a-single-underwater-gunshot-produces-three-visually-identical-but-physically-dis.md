@@ -54,12 +54,12 @@ stance: >-
   phenomena.
 related:
   - INS-260330-A7C6
-  - INS-260330-1222
   - INS-260330-CAB3
   - INS-260330-1953
   - INS-260330-24B6
   - INS-260330-12F9
   - INS-260330-966E
+  - INS-260330-6C17
 evidence:
   - id: INS-260330-A7C6
     type: EXTENDS

@@ -51,10 +51,11 @@ related:
   - INS-260323-B029
   - PRI-260405-FB37
   - PRI-260403-EA13
+  - INS-260403-4803
   - PRI-260328-B4BD
   - INS-260404-DBD2
-  - PRI-260405-2DE5
   - INS-260403-1B53
+  - INS-260403-A851
 stance: >-
   AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad
   at distributed systems -- making the 'superhuman coder' milestone unr...

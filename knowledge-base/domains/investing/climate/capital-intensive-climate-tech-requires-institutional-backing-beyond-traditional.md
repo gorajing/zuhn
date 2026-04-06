@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Bill Gates's €1bn Climate fund\U0001F50B, Paths to Product-Market Fit\U0001F3AF, State of AI investing\U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/bill-gatess-1bn-climate-fund-paths'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Capital-intensive climate tech cannot scale on VC returns alone — it
@@ -60,6 +50,12 @@ stance: >-
   government-backed funds, blended finance) that traditional VC cannot provide,
   and waiting for VC alone will cause underinvestment in the highest-impact
   solutions.
+related:
+  - INS-260404-8076
+  - INS-260404-FA1E
+  - INS-260323-4945
+  - INS-260402-E144
+  - INS-260403-06FA
 ---
 Bill Gates's commentary on Germany's €1bn climate fund reflects a broader structural truth: the most impactful climate technologies (grid-scale storage, industrial decarbonization, nuclear, carbon capture) have capital requirements and return timelines that are mismatched with the typical 10-year VC fund model. Breakthrough Energy Ventures and similar patient capital vehicles exist precisely because standard VC structures create systematic underinvestment in these categories.
 

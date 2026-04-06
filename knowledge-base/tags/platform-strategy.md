@@ -1,8 +1,13 @@
 # Tag: platform-strategy
 
+- `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
+- `INS-260405-77C9` Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.
 - `INS-260323-6230` NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
+- `INS-260404-E4C3` AI features embedded in existing vertical workflows achieve faster adoption than standalone AI products because they eliminate the adoption barrier of a new tool.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260404-2F49` Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
+- `INS-260404-78E0` Coinbase's simultaneous launch of stocks, prediction markets, futures, and DeFi trading signals a shift from crypto brokerage to full financial platform.
 - `INS-260322-EDA4` New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - `INS-260322-AABB` The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
@@ -11,6 +16,7 @@
 - `INS-260327-9DA6` Twitter's decision to restrict its API and push users away from third-party clients (which served 20-30% of users) became one of the company's most costly strategic mistakes.
 - `INS-260327-8682` Intuit's expansion playbook: after accounting (the anchor), the next problem was invoicing and getting paid (right next to accounting), then payroll, then credit — each one right next to the last.
 - `INS-260403-8F6E` Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.
+- `INS-260403-FCEA` Generic VC platform services fail; domain-specific research and talent networks in verticals where your portfolio clusters create real competitive advantage.
 - `INS-260404-20F3` Building on top of a fragmented tool stack turns ecosystem expansion into a tailwind rather than competitive threat.
 - `INS-260330-8481` TikTok is not ByteDance's endgame — it's a distribution channel for expansion into e-commerce, gaming, streaming, enterprise software, education, fintech, and cloud services.
 - `INS-260323-0539` Cursor forked VS Code rather than building an extension because plugin APIs limit what you can build — when AI changes how software is built, you need full control of the editing surface.
@@ -18,16 +24,23 @@
 - `INS-260327-EAB0` Nvidia's 'win-win' culture positions its success as customer success rather than competitor failure, creating ecosystem lock-in through expansion rather than extraction.
 - `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - `INS-260330-A25A` Layer 2 and application layers innovate faster than Layer 1 because they don't require community-wide consensus to ship changes.
+- `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260330-856B` Tools must be embedded in existing popular systems to gain adoption — standalone merit is insufficient.
 - `INS-260327-F0B2` Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.
 - `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
+- `INS-260404-DFA5` The best deeptech startups blend physical science with software platforms rather than choosing one modality.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260404-D6EC` ARM's 1,000+ partner ecosystem creates switching costs that no single competitor can overcome, even with superior technology.
 - `INS-260403-64A5` Track what tools elite developers adopt personally to predict which platforms will win mainstream adoption 5-10 years later.
 - `INS-260404-B5EB` Apple 'mobilized' the payments ecosystem by letting all existing players continue business as usual while adding a mobile layer, rather than forcing ecosystem rewiring.
 - `INS-260403-0020` Platform companies should monetize secondary assets via licensing while self-developing their lead candidate.
 - `INS-260405-D23E` Platform builders should maximize developer access rather than try to anticipate use cases, because versatility produces emergent applications the platform creator never imagined.
+- `INS-260405-B76E` Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
+- `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
+- `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
+- `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
 - `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
 - `INS-260323-6043` Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
+- `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.

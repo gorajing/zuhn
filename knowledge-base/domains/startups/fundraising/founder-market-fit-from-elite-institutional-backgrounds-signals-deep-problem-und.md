@@ -54,10 +54,10 @@ stance: >-
   they understand the problem at a level outsiders cannot replicate.
 related:
   - INS-260330-D7CC
+  - INS-260405-BC10
   - INS-260403-C732
-  - INS-260403-CEC0
-  - PRI-260405-E9C5
-  - INS-260403-EE10
+  - INS-260404-7679
+  - INS-260403-B0E3
 evidence:
   - id: INS-260330-D7CC
     type: CHALLENGES

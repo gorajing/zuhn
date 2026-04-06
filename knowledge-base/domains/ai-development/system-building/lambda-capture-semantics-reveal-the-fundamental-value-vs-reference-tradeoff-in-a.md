@@ -49,14 +49,14 @@ stance: >-
   than any other architectural decision.
 related:
   - INS-260329-BAB7
-  - INS-260329-7677
-  - INS-260330-228D
   - INS-260330-47E0
-  - INS-260330-B599
+  - INS-260404-21E6
+  - INS-260403-A851
+  - PRI-260405-2A95
 evidence:
   - id: INS-260330-A0AE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C9A6
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The course demonstrates how lambda capture by value creates an independent copy (changes outside don't affect the lambda, and vice versa), while capture by reference creates shared state where mutations propagate in both directions. This isn't just a language feature — it's the fundamental tradeoff at every system boundary. Microservices passing serialized messages are capturing by value; shared databases are capturing by reference. Event-driven architectures with immutable events are value semantics; real-time collaborative editing with shared state is reference semantics. Understanding this tradeoff at the language level — where you can literally print memory addresses to prove whether you have a copy or a reference — builds the intuition needed to make architectural decisions about data flow, coupling, and failure isolation in distributed systems.

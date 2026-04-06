@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Ambitious projects universally look unimpressive early on, so premature
@@ -56,6 +44,17 @@ resolutions:
 stance: >-
   The early stages of great work are nearly indistinguishable from mediocre
   work, and most people quit precisely because they cannot tell the difference.
+related:
+  - INS-260330-BCC2
+  - INS-260402-9D7B
+  - INS-260402-E36A
+  - INS-260403-472E
+  - INS-260403-F657
+  - INS-260404-F965
+  - INS-260405-020E
+  - INS-260404-4666
+  - INS-260405-7A7C
+  - INS-260405-7BA5
 ---
 Paul Graham observes that the biggest filter separating people who do great work from those who don't is not ability but willingness to push through an ugly early phase. Every ambitious project—startups, research, art—goes through a stage where the output looks embarrassing even to its creator. Most people never start, and most who start quit here.
 

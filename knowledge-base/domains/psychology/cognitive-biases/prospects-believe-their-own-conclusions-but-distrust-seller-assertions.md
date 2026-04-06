@@ -48,12 +48,13 @@ stance: >-
   guided self-discovery more effective than persuasive argumentation.
 related:
   - INS-260329-226C
+  - INS-260405-390B
   - INS-260329-F2BB
   - PRI-260405-91AD
   - INS-260328-B233
-  - INS-260404-1289
   - INS-260330-318B
   - INS-260405-370B
+  - INS-260405-C5F9
 evidence:
   - id: INS-260329-226C
     type: SUPPORTS

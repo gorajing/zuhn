@@ -52,11 +52,11 @@ stance: >-
   confusion than the effort required to rename them, yet renaming almost never
   happens
 related:
-  - INS-260403-07C3
   - INS-260404-78EB
+  - INS-260403-07C3
   - INS-260404-FDEA
   - INS-260327-46F6
-  - INS-260327-C150
+  - INS-260329-9115
 evidence:
   - id: INS-260327-C150
     type: TRANSFERS_TO

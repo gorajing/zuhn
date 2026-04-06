@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Has Venture Capital Become “Return-Free Risk”? '
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/venture-capital-return-free-risk'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The mismatch between 10-year fund lives and 7-10 year paths to exit creates
@@ -56,6 +46,17 @@ stance: >-
   Companies staying private 4-5 years longer than historical norms creates a
   permanent liquidity crisis that no amount of patience can resolve within
   traditional fund structures.
+related:
+  - INS-260330-44C7
+  - INS-260403-988C
+  - INS-260404-92AA
+  - INS-260403-02B8
+  - INS-260404-3FBC
+  - INS-260403-8834
+  - INS-260403-AAAC
+  - INS-260403-53A4
+  - INS-260403-53A0
+  - INS-260403-F0D4
 ---
 The venture capital liquidity crisis extends beyond cyclical exit windows. Companies that might have gone public in 18 months now sit in limbo for 4-5 years, while $5B+ private companies choose to stay private longer than ever. This creates a vicious feedback loop: weak DPI causes LPs to slow re-ups, which squeezes GPs into extending fund lives or chasing follow-on rounds to prop up paper markups.
 

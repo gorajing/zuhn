@@ -49,7 +49,6 @@ related:
   - INS-260325-BE3A
   - PRI-260328-D2FB
   - INS-260329-8C14
-  - INS-260330-083D
 stance: Quantum computers don't break encryption by trying all keys
 evidence:
   - id: INS-260330-083D

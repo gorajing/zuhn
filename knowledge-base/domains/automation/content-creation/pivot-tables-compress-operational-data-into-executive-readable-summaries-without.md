@@ -53,10 +53,11 @@ stance: >-
   intelligence in seconds
 related:
   - INS-260329-83AA
+  - INS-260322-F46F
   - INS-260329-67CB
-  - INS-260329-7673
-  - INS-260325-2FC1
-  - INS-260323-C90C
+  - INS-260329-920D
+  - INS-260327-956D
+  - INS-260403-49E1
 evidence:
   - id: INS-260329-83AA
     type: TRANSFERS_TO

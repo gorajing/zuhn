@@ -46,16 +46,16 @@ stance: >-
   Presenting intuitive geometric reasoning before formal calculus definitions
   produces deeper understanding than the traditional definitions-first approach
 related:
-  - INS-260323-813B
-  - INS-260322-3DE2
-  - INS-260323-3E21
-  - INS-260329-FC75
-  - INS-260329-F969
   - INS-260329-48FD
-  - INS-260329-40B6
   - INS-260329-2DF2
   - INS-260329-937E
   - INS-260330-2DB0
+  - INS-260329-9CED
+  - INS-260323-3E21
+  - INS-260329-74E5
+  - INS-260330-C8ED
+  - INS-260329-DACC
+  - INS-260329-71AB
 evidence:
   - id: INS-260329-DACC
     type: TRANSFERS_TO

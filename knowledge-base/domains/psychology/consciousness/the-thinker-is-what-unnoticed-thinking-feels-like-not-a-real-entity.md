@@ -45,12 +45,11 @@ stance: >-
   state of thinking without metacognitive awareness — it dissolves upon close
   inspection.
 related:
-  - INS-260323-043E
   - INS-260330-363D
   - INS-260330-DE69
+  - PRI-260405-9A14
   - INS-260402-A693
   - INS-260405-678B
-  - INS-260330-3C2F
   - INS-260330-AEE3
   - INS-260330-4D81
   - INS-260403-1046

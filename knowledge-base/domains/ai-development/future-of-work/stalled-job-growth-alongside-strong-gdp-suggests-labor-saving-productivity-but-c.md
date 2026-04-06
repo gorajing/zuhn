@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Something feels weird about this economy
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/something-feels-weird-about-this'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Slow job growth plus fast productivity growth looks like automation
@@ -63,6 +51,13 @@ stance: >-
   The combination of high productivity growth and low job growth is the
   historical signature of labor displacement, but the current episode may
   reflect capital deepening rather than automation of existing roles.
+related:
+  - INS-260322-59B9
+  - INS-260403-5DAD
+  - INS-260403-F0EE
+  - INS-260403-C5BD
+  - INS-260405-95A6
+  - INS-260403-1407
 ---
 Classical economic theory predicts that productivity gains from automation suppress labor demand — you produce the same output with fewer workers. The current U.S. data superficially fits this pattern: GDP growth is healthy, prime-age employment rates are still elevated from prior peaks, but job creation has essentially stalled. Many commentators are concluding AI is beginning to eliminate jobs.
 

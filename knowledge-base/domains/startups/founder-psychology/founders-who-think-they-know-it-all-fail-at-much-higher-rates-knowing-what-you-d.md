@@ -48,7 +48,6 @@ resolutions:
     succeed are those who accurately map their own incompetence zones and fill
     them with people who know better.
 related:
-  - INS-260323-B07C
   - INS-260322-144E
   - INS-260323-C4E2
   - INS-260403-0821

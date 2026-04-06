@@ -17,25 +17,15 @@ tags:
 sources:
   - type: blog
     title: 'Exit Scenario Modeling: IPO vs Acquisition vs Secondary'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/exit-scenario-model-ipo-secondary-acquisition
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sensitivity tables showing how returns change with exit timing delays reveal
@@ -64,6 +54,17 @@ resolutions:
 stance: >-
   Most venture return projections are fragile to timing delays — a two-year
   extension on exit timeline can cut IRR by 30-50% even at the same valuation.
+related:
+  - INS-260322-3646
+  - INS-260403-8C56
+  - INS-260403-F305
+  - INS-260403-2330
+  - INS-260403-8FD7
+  - INS-260403-F4AC
+  - INS-260403-248E
+  - INS-260403-6F9C
+  - INS-260403-8834
+  - INS-260403-001C
 ---
 Venture capital returns are typically quoted as MOIC (multiple on invested capital), which is time-agnostic. A 5x return sounds impressive whether it takes 3 years or 10. But IRR — which accounts for the time value of money — tells a very different story. A 5x in 3 years is roughly 71% IRR; the same 5x in 10 years is only 17% IRR.
 

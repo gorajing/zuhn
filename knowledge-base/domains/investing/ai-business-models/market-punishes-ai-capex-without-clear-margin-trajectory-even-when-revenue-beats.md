@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-159'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Microsoft and Meta both beat revenue expectations but saw stock declines
@@ -62,6 +52,17 @@ stance: >-
   insufficient—markets require visible margin improvement alongside capex
   escalation, punishing even strong performers who cannot demonstrate capital
   efficiency
+related:
+  - INS-260324-1216
+  - INS-260324-A9DF
+  - PRI-260323-68F0
+  - PRI-260321-05B5
+  - INS-260327-505A
+  - INS-260330-9DE6
+  - INS-260403-CF98
+  - INS-260403-8EE8
+  - INS-260321-CBD2
+  - INS-260403-5056
 ---
 The Q3 2025 earnings pattern reveals a maturing investor framework for evaluating AI bets. Microsoft dropped ~3% despite beating Azure growth expectations because management admitted being 'short on capacity'—implying missed near-term revenue and continued capex pressure. Meta's stock plunged ~11% as $97B in planned capex (nearly double prior year) overshadowed record $51B quarterly revenue.
 

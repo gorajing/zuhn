@@ -51,15 +51,12 @@ stance: >-
   Startups with one extraordinary strength and serious flaws outperform
   well-rounded companies that merely check every box
 related:
-  - INS-260329-EF89
   - INS-260330-A484
+  - INS-260403-970B
+  - INS-260403-F6D2
   - INS-260330-06CD
   - INS-260325-8B36
-  - PRI-260405-ED62
-  - INS-260326-6B98
   - INS-260402-7DCC
-  - INS-260403-BB6B
-  - INS-260403-7E95
 evidence:
   - id: INS-260330-06CD
     type: SUPPORTS

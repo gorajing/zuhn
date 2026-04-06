@@ -58,12 +58,11 @@ stance: >-
   machine-to-machine micropayments
 related:
   - INS-260327-F0B2
-  - INS-260329-55D8
   - INS-260330-0F23
   - PRI-260328-8317
   - INS-260403-0350
   - INS-260321-4E98
-  - INS-260327-BB71
+  - INS-260405-E8A1
 evidence:
   - id: INS-260327-F0B2
     type: CHALLENGES

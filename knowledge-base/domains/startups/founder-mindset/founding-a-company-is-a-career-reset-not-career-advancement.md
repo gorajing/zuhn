@@ -41,7 +41,6 @@ stance: >-
   completely — founders should understand they are trading their accumulated
   career capital for a fresh start.
 related:
-  - INS-260323-DA85
   - INS-260320-C56D
   - INS-260327-A59A
   - INS-260329-4A09
@@ -51,6 +50,7 @@ related:
   - INS-260325-6F89
   - INS-260327-46F6
   - INS-260328-00E8
+  - INS-260329-62C1
 evidence:
   - id: INS-260323-DA85
     type: TRANSFERS_TO

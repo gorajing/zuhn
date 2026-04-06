@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Next-Token Predictor Is An AI''s Job, Not Its Species'
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Next-token prediction shapes AI systems the way evolution shapes humans —
@@ -61,6 +51,17 @@ stance: >-
   Calling AI a 'next-token predictor' confuses the optimization objective with
   the system's resulting capabilities, just as calling humans 'reproduction
   machines' confuses evolution's objective with human cognition.
+related:
+  - INS-260323-A5EC
+  - INS-260321-1F9F
+  - INS-260321-8567
+  - INS-260327-DF8B
+  - INS-260330-0C0C
+  - INS-260323-8D12
+  - INS-260326-0AB4
+  - INS-260403-0218
+  - PRI-260403-EA13
+  - INS-260404-023C
 ---
 Scott Alexander identifies a core confusion in the 'stochastic parrot' critique: it conflates the optimization objective (next-token prediction) with the system's internal operations. AI systems are trained via next-token prediction, but their internal representations involve complex world models, not literal token probability lookups. The parallel to humans is instructive — evolution optimized for survival and reproduction, but a monk taking a vow of celibacy isn't 'failing at reproduction'; he's using brain circuits far out of distribution from their original purpose.
 

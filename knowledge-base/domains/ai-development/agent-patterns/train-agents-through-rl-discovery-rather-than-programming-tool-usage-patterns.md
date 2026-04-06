@@ -49,24 +49,22 @@ stance: >-
   flexible agents than hand-coding specific tool usage patterns.
 related:
   - INS-260322-68FE
-  - INS-260323-DA4A
-  - INS-260322-17B3
   - INS-260325-175B
   - INS-260327-C962
-  - INS-260404-CE26
-  - INS-260329-B2F4
   - INS-260329-BCB7
-  - INS-260329-979B
-  - INS-260329-5901
+  - INS-260329-B2F4
+  - INS-260404-CE26
+  - INS-260329-F969
+  - INS-260403-9774
 evidence:
   - id: INS-260325-175B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-BCB7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-70D5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E208
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Rather than programming rules for when the agent should use each tool, the OpenAI team let the model discover optimal strategies through reinforcement learning across thousands of virtual machines. The model learned when text browsing is more efficient versus when visual browsing is necessary (e.g., for search filters, seeing product images, or accessing paywalled content).
 

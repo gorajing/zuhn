@@ -55,52 +55,54 @@ stance: >-
   that can be converted into multiple end products is more robust than
   optimizing for a single output
 related:
-  - INS-260404-F908
-  - INS-260404-8E0B
+  - INS-260330-2BF4
+  - INS-260330-5DFF
+  - INS-260403-2DC0
+  - INS-260404-6AD7
   - INS-260403-5C74
   - INS-260404-FF39
-  - INS-260330-41F6
-  - INS-260404-52FC
-  - INS-260404-6AD7
+  - INS-260404-EFA8
+  - PRI-260405-CE75
+  - INS-260330-2BA7
 evidence:
   - id: INS-260325-0892
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7A7F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260326-2582
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-293E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1298
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2BF4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5DFF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E8CF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C607
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2C71
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1084
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F2B6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-19C3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-F908
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-8E0B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-5C74
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-FF39
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-52FC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6AD7
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Calvin Cycle's ultimate product isn't glucose — it's G3P (Glyceraldehyde 3-Phosphate), a high-energy 3-carbon compound that plants can convert into glucose for short-term energy, cellulose for structure, or starch for long-term storage. The system doesn't optimize for one output; it optimizes for a flexible intermediate.
 

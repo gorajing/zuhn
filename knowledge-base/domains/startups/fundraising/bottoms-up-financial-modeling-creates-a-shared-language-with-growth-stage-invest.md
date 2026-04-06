@@ -19,24 +19,14 @@ sources:
     title: >-
       DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup
       Guide
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-dcf-valuation-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Building a DCF model forces founders to speak the financial language
@@ -61,6 +51,14 @@ resolutions:
 stance: >-
   Founders who build DCF models gain negotiating leverage because they can have
   data-driven valuation conversations rather than anchoring debates
+related:
+  - INS-260330-A954
+  - INS-260403-9120
+  - INS-260404-98EE
+  - INS-260403-047B
+  - INS-260404-28A1
+  - INS-260403-F4E7
+  - INS-260403-25A8
 ---
 Growth investors evaluate companies through a financial lens that maps directly to DCF inputs: revenue growth rates, margin expansion trajectories, capital efficiency, and risk-adjusted returns. When founders present valuations without this framework, negotiations devolve into anchoring battles where each side asserts a number without shared analytical foundation.
 

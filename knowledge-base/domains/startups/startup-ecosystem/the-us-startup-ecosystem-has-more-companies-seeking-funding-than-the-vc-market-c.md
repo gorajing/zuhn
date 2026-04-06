@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "State of Pre-Seed\U0001F331, Gulf money is flooding into European startups\U0001F30F, Looking for AI use-cases\U0001F9D0"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/state-of-pre-seed-gulf-money-is-flooding'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Pitchbook data from Q1 2024 shows the US has more startups than VCs can
@@ -56,5 +46,16 @@ resolutions:
 stance: >-
   US startup formation has outpaced VC capacity, creating a structural funding
   gap that will leave many viable companies unfunded regardless of quality.
+related:
+  - INS-260403-2C50
+  - INS-260403-4C61
+  - INS-260403-25EE
+  - INS-260403-420F
+  - INS-260405-0327
+  - INS-260403-8832
+  - INS-260403-3CD0
+  - INS-260404-C3F1
+  - INS-260403-8EE8
+  - INS-260405-2F43
 ---
 The Pitchbook finding that the US has more startups than VCs can support reframes how founders should think about fundraising rejections. In an oversupplied market, rejection rate is structurally elevated — VCs must decline the majority of fundable companies simply due to capacity constraints, not just quality filters. This has several implications: (1) founders should treat fundraising as a numbers game more than a quality signal; (2) alternative capital sources (Gulf, corporate venture, revenue-based financing) become more strategically important; (3) the pre-seed market Carta documented in Q1 2024 reflects genuine scarcity dynamics. The supply/demand imbalance also means that investors with differentiated deal flow or sector access gain outsized advantages.

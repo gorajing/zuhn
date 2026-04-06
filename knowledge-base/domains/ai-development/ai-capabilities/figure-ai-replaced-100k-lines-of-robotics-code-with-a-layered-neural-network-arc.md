@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Neuralink's 21 Telepathy Trials in 2 Years
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-171'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Figure AI's Helix 02 replaces over 100,000 lines of C++ with a three-layer
@@ -59,6 +49,12 @@ resolutions:
 stance: >-
   Monolithic neural network control systems will outperform hand-coded robotics
   stacks for general-purpose humanoid robots
+related:
+  - INS-260330-189F
+  - INS-260404-E91F
+  - INS-260403-219F
+  - INS-260327-35C7
+  - INS-260405-E4FC
 ---
 Figure AI's Helix 02 architecture demonstrates the power of end-to-end neural control over traditional hand-coded robotics. Their System 0 (trained on 1,000+ hours of human motion for balance), System 1 (sensor-to-actuator control), and System 2 (semantic reasoning) layers replace a massive C++ codebase with a unified visuomotor neural network.
 

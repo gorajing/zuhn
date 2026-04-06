@@ -45,11 +45,13 @@ stance: >-
   and progress than the decades of stability that precede it.
 related:
   - INS-260325-8290
-  - INS-260325-3C17
   - INS-260325-7FE6
+  - INS-260325-3C17
+  - INS-260405-5EB2
   - PRI-260325-6400
-  - INS-260325-79BD
   - INS-260403-7C71
+  - INS-260403-6E7C
+  - INS-260403-98CD
 evidence:
   - id: INS-260325-8290
     type: EXTENDS

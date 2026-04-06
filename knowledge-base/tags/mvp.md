@@ -2,27 +2,39 @@
 
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260321-E5C5` The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
+- `INS-260403-E662` A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
+- `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.
 - `INS-260329-917B` Starting with login plus one primary feature, verifying it works, then adding secondary features through follow-up prompts avoids the compounding errors of complex multi-feature requests.
 - `INS-260403-558D` Release crude, iterate fast — nature's imagination outperforms your own.
 - `INS-260403-EFAF` Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 - `INS-260403-FF4E` Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
 - `INS-260326-C305` YC's number one pre-launch advice is simply 'launch' — if your MVP takes more than two months, you're iterating in a vacuum.
 - `INS-260403-D1D0` Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
+- `INS-260404-D688` Calling early work a sketch or hack lowers the psychological bar enough to actually start and iterate.
 - `INS-260327-A98E` Nothing is going to be perfect if you do not ship the product — get it to market and iterate based on feedback.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
 - `INS-260322-750A` Browse top-grossing apps, find categories with identical competitors, then build the same concept with a differentiated angle for an underserved segment.
 - `INS-260403-2FC3` YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
+- `INS-260402-BEB6` A growth loop that completes in 30 minutes compounds far faster than one taking 30 days, making cycle time the primary optimization target.
 - `INS-260404-8256` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
+- `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
+- `INS-260405-28DF` Viability is table stakes; competitive differentiation must be designed in from day one.
+- `INS-260403-B448` An effective MVP delivers one complete, polished workflow rather than a broad but half-baked product, because user conviction requires depth over breadth.
 - `INS-260322-58B7` Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
 - `INS-260402-E85D` The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously.
+- `INS-260403-8C63` Building a minimal prototype first and iterating on real feedback outperforms engineering a comprehensive system before launch.
+- `INS-260403-C752` Even early adopters now expect a baseline of design quality, so MVPs that look half-baked get abandoned before they can generate useful feedback.
 - `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
+- `INS-260404-7B37` Aligning MVP features tightly with ICP needs creates a repeatable sales process that non-founders can execute.
+- `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
 - `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260330-56AA` LA validated shade balls with three $5 kiddie pools before spending $34M on 96 million balls — the cheapest test that could falsify the hypothesis.
+- `INS-260404-D3C7` The OpenAI GPT store lets founders validate AI product concepts with minimal investment before building standalone products.
 - `INS-260330-E6B7` DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.
 - `INS-260330-5D4F` Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
 - `INS-260405-B32E` Fidelity is a function of evidence gathered, not how good the idea seems internally.

@@ -51,11 +51,11 @@ stance: >-
   sudden nonlinear comprehension breakthrough, and knowing this pattern in
   advance prevents premature abandonment.
 related:
+  - INS-260329-E40B
   - INS-260403-E2FB
+  - INS-260329-DACC
   - INS-260325-0713
   - INS-260403-0070
-  - INS-260330-8304
-  - INS-260403-C135
 evidence:
   - id: INS-260329-DACC
     type: SUPPORTS

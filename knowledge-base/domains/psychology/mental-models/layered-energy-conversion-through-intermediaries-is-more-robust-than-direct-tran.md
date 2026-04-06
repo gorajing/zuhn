@@ -51,15 +51,16 @@ stance: >-
   Complex systems reliably convert resources by chaining multiple small lossy
   steps rather than attempting a single efficient leap.
 related:
-  - INS-260330-1084
-  - INS-260330-BC56
-  - INS-260330-4D0E
   - INS-260403-2DC0
   - INS-260403-FC01
-  - INS-260403-B6E6
   - INS-260404-040D
-  - INS-260405-AE0D
+  - INS-260330-2C71
+  - INS-260405-64C5
+  - INS-260330-BC56
+  - INS-260330-09F8
   - INS-260405-8E85
+  - INS-260330-1298
+  - INS-260330-07B1
 evidence:
   - id: INS-260405-8E85
     type: SUPPORTS

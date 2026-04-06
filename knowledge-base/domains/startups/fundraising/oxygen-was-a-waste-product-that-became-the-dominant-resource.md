@@ -1,5 +1,5 @@
 ---
-id: INS-260403-C0D4
+id: INS-260403-0F89
 domain: startups
 topic: fundraising
 title: Oxygen was a waste product that became the dominant resource
@@ -47,11 +47,11 @@ stance: >-
   Oxygen was a toxic waste product before it became the foundation of complex
   life — today's byproducts may be tomorrow's core value proposition
 related:
+  - INS-260403-C0D4
   - INS-260405-FBD7
   - INS-260405-C342
   - INS-260404-8050
   - INS-260404-FF39
-  - INS-260404-1F1B
 evidence:
   - id: INS-260330-E786
     type: SUPPORTS

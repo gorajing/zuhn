@@ -50,11 +50,11 @@ stance: >-
   corrected once direct examination was permitted.
 related:
   - INS-260325-BBF1
+  - INS-260403-EE2C
   - PRI-260325-1640
   - INS-260326-A7CB
   - INS-260403-DFBC
   - PRI-260323-F37F
-  - PRI-260328-22EC
 evidence:
   - id: INS-260325-BBF1
     type: SUPPORTS

@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: What if AI succeeds but OpenAI fails?
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/what-if-ai-succeeds-but-openai-fails'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Treating AGI arrival as an instant winner-take-all event is faith-based
@@ -62,6 +50,12 @@ stance: >-
   The belief that reaching AGI first will instantly render all competition
   irrelevant is an eschatological faith claim, not a defensible business model,
   and companies banking on it are strategically vulnerable.
+related:
+  - INS-260403-82CC
+  - INS-260323-7D01
+  - INS-260403-2385
+  - INS-260330-DB4B
+  - INS-260329-A80B
 ---
 Smith identifies a specific and dangerous belief among some OpenAI insiders: that being first to AGI — even by a single day — would make all business fundamentals irrelevant because the resulting superintelligence would either destroy competitors or tell OpenAI how to win permanently. He labels this 'Pascal's Wager' because it requires believing in a very narrow eschatology about sudden capability jumps, autonomous action, and winner-take-all outcomes.
 

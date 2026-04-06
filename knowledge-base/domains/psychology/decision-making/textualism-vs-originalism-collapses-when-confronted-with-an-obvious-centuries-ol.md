@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Last Rights
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/last-rights'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A typo in the Congressional Apportionment Amendment — 'more than' instead of
@@ -62,6 +52,12 @@ stance: >-
   Legal interpretation frameworks that claim universal applicability break down
   at edge cases where literal text contradicts unambiguous intent, forcing
   adherents to choose one framework and abandon the other.
+related:
+  - INS-260325-EF66
+  - INS-260403-49FF
+  - INS-260330-3570
+  - INS-260330-14CA
+  - INS-260327-F014
 ---
 The third clause of the Congressional Apportionment Amendment contains what has been acknowledged for 200+ years as a typo: 'more than' where 'less than' was clearly intended. This makes the clause mathematically impossible to satisfy at certain population ranges and inverts its meaning at current population levels. If ratified, it would create the cleanest possible test case for the Supreme Court: does the law mean what it literally says, or what everyone agrees it was meant to say?
 

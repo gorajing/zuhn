@@ -1,21 +1,35 @@
 # Tag: competitive-strategy
 
+- `INS-260405-B7C7` Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.
+- `INS-260403-3B8D` Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
+- `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
+- `INS-260403-EDFB` Generic AI tools are commoditized, but deep vertical AI products for specific industries and workflows still have massive untapped opportunity.
+- `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
 - `INS-260329-5B18` Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
+- `INS-260405-487E` AI communication agents are commoditizing — companies without them will have operational disadvantages, not just missed opportunities.
+- `INS-260403-3C66` AI startups need at least one of three moats — domain expertise, differentiated distribution, or new interaction models — to survive platform competition.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
+- `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
 - `INS-260327-2C46` CSV embeds social impact into core business strategy, unlocking the full budget rather than a CSR sidebar.
 - `INS-260322-CFB1` AI-native startups win most reliably at greenfield moments — new company creation or inflection points where customers must switch systems anyway — rather than trying to displace incumbent software.
+- `INS-260403-C8FB` Disapproval of the incumbent doesn't transfer to the challenger without a concrete alternative plan.
 - `INS-260330-59FD` Airbnb declined to acquire their Rocket Internet clone despite the clone having 10x their funding and 10x their headcount, because the clone's mercenary culture would poison Airbnb's missionary DNA.
 - `INS-260330-63FE` At Stalingrad, Russians 'hugged' German front lines so Luftwaffe air strikes would kill both sides equally — neutralizing Germany's air superiority through proximity.
 - `INS-260329-9D87` Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.
 - `INS-260403-9BEF` Incumbents resist portable digital ownership because lock-in benefits them, creating an opening for startups to differentiate by giving users true ownership of virtual goods.
+- `INS-260404-7ED7` The distinction between full and partial stealth reveals that most startups benefit from selective disclosure rather than complete secrecy.
 - `INS-260330-F22A` Tencent shifted from copying and crushing competitors to investing in them and leveraging its platform to help them grow, converting potential enemies into equity-generating partners.
 - `INS-260330-9055` General-purpose editors win breadth but specialized IDEs win depth for committed platform developers.
+- `INS-260404-36D7` Costco stocks only 4,000 SKUs versus Walmart's 140,000, which makes suppliers compete fiercely for limited shelf space and accept lower margins.
 - `INS-260330-3274` Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
 - `INS-260405-D6E6` Sears, Toys-R-Us, and Payless didn't die because of Amazon — they died because they stopped adapting, and Amazon is a conveniently blameable scapegoat.
 - `INS-260330-570F` Germany and Japan's drive for resource autarky revealed strategic weakness and led to fatal overextension.
+- `INS-260403-2318` Large companies protect profitable lines, creating structural openings for startups with lower costs and fresh approaches.
+- `INS-260404-CD1A` Stealth startups sacrifice the most important startup input — user feedback — to protect against a threat that may never materialize.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
 - `INS-260321-C513` Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
+- `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260322-F128` The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
 - `INS-260322-5745` When an industry treats marketing as beneath it, the first firm to market aggressively gains a permanent structural advantage.
@@ -29,4 +43,5 @@
 - `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 - `INS-260330-EB1B` Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.
 - `INS-260403-7DEC` Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
+- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260330-24E0` When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.

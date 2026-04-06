@@ -46,11 +46,11 @@ stance: >-
   relates to all technology
 related:
   - INS-260323-042C
-  - INS-260327-D8D1
   - INS-260404-5AC1
+  - INS-260405-17D4
   - INS-260330-48C6
   - INS-260330-059C
-  - PRI-260328-FD47
+  - INS-260404-BD96
 evidence:
   - id: INS-260323-042C
     type: CHALLENGES

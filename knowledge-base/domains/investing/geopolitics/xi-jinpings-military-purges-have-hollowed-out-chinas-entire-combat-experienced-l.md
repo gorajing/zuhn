@@ -19,26 +19,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #76: Great Powers acting stupid'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-76-great-powers-acting-stupid'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Xi has purged his entire military leadership including his closest ally and
@@ -66,6 +54,13 @@ stance: >-
   instability that undermines rather than enables Taiwan invasion readiness,
   because no rational war planner would fire every general with combat
   experience
+related:
+  - INS-260327-60C6
+  - INS-260330-E0A9
+  - INS-260330-4AAD
+  - INS-260327-D6E5
+  - INS-260327-8B9A
+  - INS-260403-20F9
 ---
 Xi Jinping's purge of General Zhang Youxia—his personal friend, the most senior uniformed officer, and one of China's few commanders with actual combat experience from the 1979 Vietnam war—marks the most sweeping military purge since Mao's death. The popular theory that purges signal Taiwan invasion preparation fails logical scrutiny: you don't fire every combat-experienced general before starting a war, and newly appointed replacements who just watched their predecessors destroyed would be unreliable war leaders.
 

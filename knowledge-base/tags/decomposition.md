@@ -9,8 +9,10 @@
 - `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
 - `INS-260325-28AD` Decompose problems along their natural symmetries and math rewards you with simpler subproblems.
 - `INS-260330-D475` Math rewards you when your decomposition respects the symmetry of the problem — concentric rings for a circle, not random slices.
+- `INS-260404-7604` Complex problems almost always have both 'chosen cost' and 'pure dysfunction' causes, and separating them improves analysis.
 - `INS-260330-24B6` A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.
 - `INS-260330-5DFF` In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure.
+- `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260325-1519` The Banach-Tarski proof works by naming every point on a sphere after the rotation sequence that reaches it, then showing that rotating one directional subset 'cancels' its prefix and regenerates the others.
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
 - `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.

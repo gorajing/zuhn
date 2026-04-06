@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: 25 proven tactics to accelerate AI adoption at your company
-    author:
-      - '@type': Person
-        name: Peter Yang
-        url: 'https://substack.com/@petergyang'
-        description: >-
-          Extremely practical AI tutorials and interviews for busy people | Join
-          135K+ readers at creatoreconomy.so | Product at Roblox
-        identifier: 'user:6052627'
-        sameAs:
-          - 'https://twitter.com/petergyang'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!827n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2dbd75e-1c5a-48ab-94ef-b24caea63cdf_1024x1024.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!827n!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2dbd75e-1c5a-48ab-94ef-b24caea63cdf_1024x1024.png
+    author: Peter Yang
     url: 'https://www.lennysnewsletter.com/p/25-proven-tactics-to-accelerate-ai'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Screen-sharing AI workflows in meetings and Slack creates viral adoption
@@ -59,6 +45,14 @@ resolutions:
 stance: >-
   Watching a colleague save time with AI in real-time is a more powerful
   behavioral trigger than any top-down mandate or training program
+related:
+  - INS-260329-0EAC
+  - INS-260330-ACDA
+  - INS-260405-543B
+  - INS-260330-24A5
+  - INS-260403-449D
+  - INS-260402-C301
+  - INS-260328-2BCF
 ---
 Multiple companies in the study converged on the same discovery: peer demonstration beats formal training programs. At Roblox, Peter Yang shares AI workflows in Slack and screen-shares AI output during meetings to solve problems in real time. Whoop's Head of Product responds to PMs bringing problems with 'Want me to show you how I solve this with AI?' and demonstrates live.
 

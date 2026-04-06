@@ -51,8 +51,9 @@ related:
   - INS-260323-0827
   - INS-260323-71B3
   - INS-260330-FE21
-  - INS-260403-2DEE
+  - INS-260403-2814
   - INS-260330-FE14
+  - INS-260403-2DEE
 stance: >-
   GSP uses his jab to plant a seed of pain in the opponent's memory, creating a
   flinch response that opens the path for a completely different attack...

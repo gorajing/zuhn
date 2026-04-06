@@ -1,5 +1,5 @@
 ---
-id: INS-260403-3CD0
+id: INS-260403-5F1C
 domain: startups
 topic: fundraising
 title: Cap table complexity follows a staircase pattern that demands tool graduation
@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Cap Table Mastery: How to Manage Startup Equity from Seed to Series C'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/cap-table-mastery-how-to-manage-startup'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The transition from spreadsheet to dedicated equity platform should happen
@@ -62,6 +52,13 @@ evidence:
   - id: INS-260403-D33B
     type: SUPPORTS
     classified_at: '2026-04-05'
+related:
+  - INS-260403-E4DD
+  - INS-260325-5455
+  - INS-260404-78E0
+  - PRI-260328-6A8D
+  - INS-260403-6CB4
+  - INS-260322-642F
 ---
 Cap tables start simple—founders and maybe a few SAFEs—but complexity increases in discrete jumps at each funding milestone. The seed-to-Series A transition introduces preferred stock classes, expanded option pools, and SAFE conversions simultaneously. By Series B, you have multiple preferred classes with distinct liquidation preferences, participation rights, and governance terms that spreadsheets simply cannot track reliably.
 

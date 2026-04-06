@@ -51,12 +51,11 @@ stance: >-
   persuasive to early-stage investors than TAM/SAM/SOM slides because they serve
   as a 'proxy for demand' that market numbers cannot provide
 related:
-  - INS-260324-CBD3
   - INS-260404-61DA
   - INS-260403-DC32
   - INS-260404-B31C
+  - INS-260403-8EF3
   - INS-260323-BF81
-  - INS-260403-EA2D
 evidence:
   - id: INS-260404-132E
     type: TRANSFERS_TO

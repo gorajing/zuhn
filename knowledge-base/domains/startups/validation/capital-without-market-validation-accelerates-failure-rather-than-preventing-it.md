@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Learning from Failure\U0001F6D1"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/learning-from-failure'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Quirky raised $185M and went bankrupt because capital scaled an unvalidated
@@ -65,6 +55,17 @@ stance: >-
   Raising significant funding before validating real market demand doesn't buy
   more runway — it buys more rope to hang yourself with when demand assumptions
   turn out to be wrong.
+related:
+  - INS-260323-6258
+  - INS-260321-347D
+  - PRI-260323-977A
+  - PRI-260324-3081
+  - INS-260327-D522
+  - INS-260327-E4F1
+  - INS-260330-22D6
+  - INS-260403-7CAF
+  - INS-260403-EA15
+  - INS-260404-92AA
 ---
 Quirky's failure is a clean case study in how capital amplifies existing errors rather than correcting them. They raised over $185M and used it to manufacture and stock products that had never been meaningfully validated against real purchase intent. The result was overstocked warehouses and a bankruptcy filing — a failure mode that would have been cheaper to discover at the survey or pilot stage.
 

@@ -45,10 +45,10 @@ stance: >-
   are developing delivery skill and subject matter simultaneously.
 related:
   - INS-260320-9935
+  - INS-260403-45DB
   - INS-260403-C55B
   - INS-260329-0F10
   - INS-260329-127F
-  - INS-260403-EA34
 evidence:
   - id: INS-260320-9935
     type: CHALLENGES

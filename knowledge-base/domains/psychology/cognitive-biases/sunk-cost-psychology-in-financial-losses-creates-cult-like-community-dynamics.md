@@ -54,11 +54,11 @@ stance: >-
   transforms investor communities into cult-like structures that actively
   suppress criticism and attack external investigators
 related:
-  - INS-260325-FC0B
   - INS-260323-78A5
   - INS-260330-1002
   - PRI-260403-26B9
   - PRI-260328-604D
+  - INS-260403-EA15
   - INS-260330-A14D
   - INS-260330-59FD
 evidence:

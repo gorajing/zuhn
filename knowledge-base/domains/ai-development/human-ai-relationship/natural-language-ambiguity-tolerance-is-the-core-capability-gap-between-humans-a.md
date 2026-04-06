@@ -51,23 +51,23 @@ related:
   - INS-260323-DB7B
   - INS-260326-7995
   - PRI-260328-4144
-  - INS-260329-5F37
   - INS-260329-500E
-  - INS-260329-E40B
-  - INS-260329-7C59
-  - INS-260402-9676
-  - INS-260329-04FA
+  - INS-260329-DABC
   - INS-260329-3FC9
+  - INS-260329-02B3
+  - INS-260329-7914
+  - INS-260330-1FE9
+  - INS-260330-3BBC
 evidence:
   - id: INS-260329-FC75
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E40B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-9676
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3BBC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F51D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Severance uses the Macarena example where a typographical error ('ham' instead of 'hand') is instantly corrected by humans but would crash a computer. He frames this as the fundamental reason programming is hard: 'It is much easier for us to learn to speak their language than it is for them to learn to speak our language.' This asymmetry — human tolerance of ambiguity versus machine literalism — is the exact problem that LLMs are now partially solving. The 40-50 years Severance references (teaching machines to understand human language) have culminated in the current LLM era. Understanding this historical context reframes AI progress: LLMs haven't made machines intelligent, they've made machines more tolerant of the ambiguity that was always the core friction point between humans and computers.

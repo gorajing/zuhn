@@ -17,29 +17,14 @@ tags:
 sources:
   - type: blog
     title: A guide to AI prototyping for product managers
-    author:
-      - '@type': Person
-        name: Colin Matthews
-        url: 'https://substack.com/@colinmatthews'
-        description: >-
-          I'm excited to help you learn more about how software gets built! I
-          had my first SaaS product acquired in 2021 and have worked in
-          healthtech for 6+ years.
-
-          PM @ Datavant, 5000+ students
-        identifier: 'user:176430401'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!vdga!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16b7f99-8773-4997-b655-6570a1747ad5_960x960.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!vdga!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16b7f99-8773-4997-b655-6570a1747ad5_960x960.jpeg
+    author: Colin Matthews
     url: 'https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI prototyping tools compete on hosting architecture (browser-side vs. real
@@ -64,6 +49,13 @@ stance: >-
   The competitive moat among AI prototyping platforms is backend infrastructure
   capability, not the quality of code generation, because all use similar
   underlying LLMs.
+related:
+  - INS-260330-77A2
+  - INS-260403-699A
+  - INS-260403-D6C2
+  - INS-260328-9C16
+  - INS-260403-F148
+  - INS-260403-8793
 ---
 The article's tool comparison reveals that v0, Bolt, Replit, and Lovable all generate roughly similar code from the same prompts—the CRM examples look comparable. The real differentiators are infrastructure: v0 deploys to real Vercel hosting, Bolt runs servers in-browser (limiting persistent data and auth), Replit provides full Python backend with database, and Lovable integrates with Supabase for auth/data. Code generation quality is table stakes.
 

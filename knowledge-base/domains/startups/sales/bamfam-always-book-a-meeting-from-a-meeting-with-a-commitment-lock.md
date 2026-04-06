@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260327-FC21
   - INS-260327-E9F3
+  - INS-260403-76F5
   - INS-260329-7A3C
   - INS-260327-1599
-  - INS-260329-C996
 ---
 BAMFAM is a deceptively simple discipline that separates professionals from amateurs. The process: at the end of every call, schedule the next one. Don't say 'I'll send you some times' -- say 'I've got Tuesday at 8am, I just sent the calendar invite to your inbox, can you add it to your calendar right now?'
 

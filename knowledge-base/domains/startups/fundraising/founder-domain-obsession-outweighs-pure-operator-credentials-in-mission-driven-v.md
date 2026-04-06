@@ -55,10 +55,10 @@ stance: >-
   require
 related:
   - INS-260322-EDC2
+  - INS-260404-EA1D
   - PRI-260328-C581
-  - PRI-260328-1D90
-  - INS-260327-CA1C
-  - INS-260327-A458
+  - INS-260405-FE74
+  - INS-260403-EDFB
 evidence:
   - id: INS-260322-EDC2
     type: SUPPORTS

@@ -47,7 +47,6 @@ stance: >-
   creates more suffering than the circumstances themselves, because
   control-seeking produces anxiety, rigidity, and fragility.
 related:
-  - INS-260325-E0D5
   - INS-260327-F397
   - INS-260330-206F
   - INS-260327-439A

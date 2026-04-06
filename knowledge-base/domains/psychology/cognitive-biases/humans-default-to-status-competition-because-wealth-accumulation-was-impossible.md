@@ -51,12 +51,11 @@ stance: >-
   because for most of human history, status was the only reliable survival
   strategy.
 related:
-  - INS-260330-66EF
+  - INS-260325-6262
   - PRI-260328-BD81
   - INS-260330-C418
   - INS-260327-A00A
   - INS-260323-8239
-  - INS-260330-DA4A
 evidence:
   - id: INS-260327-A00A
     type: SUPPORTS

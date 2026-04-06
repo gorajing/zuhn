@@ -39,11 +39,11 @@ stance: >-
   online that contradicts official pharmaceutical-influenced guidelines,
   threatening health freedom of speech and independent health education
 related:
+  - INS-260322-3A00
   - INS-260327-26CF
+  - INS-260403-9012
   - INS-260325-36F0
   - INS-260327-EEEE
-  - INS-260325-FD0F
-  - PRI-260328-0123
 evidence:
   - id: INS-260322-3A00
     type: CHALLENGES

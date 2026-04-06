@@ -48,17 +48,16 @@ stance: >-
   a model at 1,000 tokens/second enables agents while the same model at 60
   tokens/second suits chat interfaces.
 related:
-  - PRI-260328-C581
-  - INS-260404-7BEE
   - INS-260327-F417
-  - PRI-260328-4CC0
-  - PRI-260328-1D90
-  - INS-260329-148D
+  - INS-260403-7868
+  - PRI-260328-C581
+  - INS-260403-B53B
+  - INS-260405-54A9
 evidence:
   - id: INS-260329-9BC0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-F57E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Ron from Open Router pointed out an underappreciated dynamic: one model on their platform can be found from many providers, each with dramatically different performance characteristics. The same model running at 1,000 tokens per second versus 60 tokens per second enables fundamentally different use cases — the fast version powers real-time agents while the slower version suits conversational chat interfaces.
 

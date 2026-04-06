@@ -51,13 +51,13 @@ stance: >-
   multiplier while income gets halved by taxes and expenses.
 related:
   - INS-260327-FF64
-  - INS-260327-7F54
-  - INS-260327-714F
   - INS-260327-B47E
   - INS-260327-8AE7
   - INS-260327-19E5
   - INS-260329-5514
+  - INS-260403-D880
   - INS-260402-9288
+  - INS-260403-3F2C
   - INS-260404-C13E
 evidence:
   - id: INS-260330-8FEC

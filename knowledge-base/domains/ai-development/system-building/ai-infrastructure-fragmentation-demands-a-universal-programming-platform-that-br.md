@@ -45,20 +45,20 @@ resolutions:
     fragments into many competing platforms, the unifying layer above those
     platforms becomes the most strategic position.
 related:
-  - INS-260330-8913
+  - INS-260403-868C
   - PRI-260403-40D7
   - PRI-260328-06F1
   - PRI-260324-DE71
   - PRI-260323-1CF9
-  - INS-260403-868C
+  - INS-260329-E839
 stance: >-
   The explosion of AI accelerators (GPUs, TPUs, NPUs) creates an impossible
   maintenance burden that only a universal abstraction layer can solve.
 evidence:
   - id: INS-260330-D0E2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-868C
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Chris Lattner argues that the AI hardware landscape is diverging wildly — every major company ships its own accelerator — while AI frameworks like PyTorch and TensorFlow were designed before LLMs existed. The result is a combinatorial nightmare where every model needs optimization for every chip. Mojo and Modular's thesis is that you need a single programming language and compiler stack that abstracts across all hardware, letting researchers focus on models rather than porting code. This mirrors the pattern where LLVM unified compiler backends — the same approach now applied to AI compute.
 

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Sequoia’s $10 Trillion AI Revolution\U0001F4B0, The Great Startup Concentration\U0001F4CA, The AI Hustle⏰"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/sequoias-10-trillion-ai-revolution'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sequoia views AI as an industrial revolution built on cognition instead of
@@ -58,6 +48,13 @@ resolutions:
 stance: >-
   AI represents a paradigm shift comparable to the industrial revolution, and
   the firms that treat it as such will capture generational wealth.
+related:
+  - INS-260323-8637
+  - INS-260322-8147
+  - INS-260330-8950
+  - PRI-260328-D292
+  - INS-260325-9C1E
+  - INS-260403-B280
 ---
 Sequoia Capital is positioning AI not as a technology cycle but as a civilizational inflection point — an industrial revolution built on cognition rather than physical machinery. The firm is backing this thesis with nearly $1 billion in new venture and seed funds specifically targeting next-generation AI startups.
 

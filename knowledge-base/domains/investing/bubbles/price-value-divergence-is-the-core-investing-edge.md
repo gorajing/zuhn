@@ -45,12 +45,11 @@ resolutions:
     volatility, which he says is developed through experience rather than born
     with.
 related:
+  - INS-260405-7838
+  - INS-260404-4758
   - PRI-260328-BD9B
-  - INS-260327-C79D
-  - INS-260325-B234
-  - PRI-260320-5947
-  - INS-260403-3D38
-  - INS-260404-3275
+  - INS-260403-B228
+  - INS-260327-E72F
 stance: >-
   The stock market is a voting machine short-term but a weighing machine
   long-term — the edge comes from knowing the difference between price and

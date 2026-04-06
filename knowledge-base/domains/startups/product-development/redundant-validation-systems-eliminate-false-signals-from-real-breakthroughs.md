@@ -42,24 +42,24 @@ resolutions:
     new market all serve as 'second detectors' that filter noise from genuine
     signal.
 related:
+  - INS-260404-EDEC
   - INS-260323-9770
-  - INS-260329-8407
   - INS-260325-415A
   - INS-260325-FDA9
   - INS-260404-C497
-  - INS-260404-EDEC
+  - INS-260323-AEA7
 stance: >-
   LIGO built two identical detectors 3,000 km apart so that any signal had to
   appear in both to count as real.
 evidence:
   - id: INS-260329-D8BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-FDA9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-415A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-AEA7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-C497
     type: SUPPORTS
     classified_at: '2026-04-06'

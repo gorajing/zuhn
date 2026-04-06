@@ -51,8 +51,8 @@ stance: >-
   their product in comprehensive services that address the customer's
   higher-order job-to-be-done.
 related:
-  - INS-260327-624F
   - INS-260329-C0F1
+  - INS-260404-2FD0
   - INS-260404-D1E2
   - PRI-260328-8317
   - INS-260327-B116

@@ -56,10 +56,10 @@ stance: >-
   equivalent improvements to closing technique.
 related:
   - PRI-260327-7A68
+  - INS-260403-4E51
   - INS-260329-CBF6
   - PRI-260328-6A8D
   - INS-260329-CB2C
-  - INS-260329-F6E1
 ---
 Most sales organizations obsess over closing technique while ignoring that a massive percentage of booked meetings never happen. Hormozi argues that a 20% increase in show-up rates and a 20% increase in close rates are mathematically equivalent in revenue impact -- but show-up rates are far easier to improve.
 

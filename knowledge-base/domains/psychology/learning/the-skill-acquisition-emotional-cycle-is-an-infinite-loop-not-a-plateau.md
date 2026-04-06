@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260321-8382
   - INS-260323-649B
-  - INS-260323-1C32
   - INS-260321-80A9
   - INS-260323-9867
   - INS-260322-C6CE
@@ -62,6 +61,7 @@ related:
   - INS-260327-680A
   - INS-260329-A077
   - INS-260329-D3D9
+  - INS-260329-F21F
 evidence:
   - id: INS-260321-8382
     type: EXTENDS

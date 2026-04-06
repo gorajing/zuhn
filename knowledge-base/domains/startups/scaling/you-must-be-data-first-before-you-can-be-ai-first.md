@@ -44,39 +44,38 @@ resolutions:
     computing boom 25 years ago that created the last wave of billionaires.
 related:
   - INS-260323-216A
+  - INS-260320-CDE4
+  - INS-260329-5B7B
+  - INS-260403-2138
+  - INS-260403-A2BA
   - INS-260320-0F7C
   - INS-260321-801C
-  - INS-260320-CDE4
   - INS-260329-FAE2
-  - INS-260329-8F86
-  - INS-260327-956D
-  - INS-260329-5B7B
-  - INS-260329-AB61
-  - INS-260329-C955
+  - INS-260403-1F1B
 stance: >-
   AI works with data -- if you don't have complete data architecture in place,
   there's nothing for AI to operate on.
 evidence:
   - id: INS-260323-216A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FAE2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-0F7C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-801C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D868
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-5B7B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-CDE4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-5034
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-8F86
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-2138
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Every entrepreneur says they want to be AI-first, but most are just using ChatGPT for emails. The prerequisite is being data-first: having complete data on all elements of your business with proper architecture in place. Only then can you add AI layers with reinforcement training to actually automate work.
 

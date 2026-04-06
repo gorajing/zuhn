@@ -55,23 +55,23 @@ stance: >-
   equations, not by intuition.
 related:
   - INS-260329-B8B6
-  - INS-260329-7510
+  - INS-260329-02C5
   - INS-260330-B50A
-  - INS-260403-3F05
+  - PRI-260405-C27E
   - INS-260329-196E
 evidence:
   - id: INS-260329-B8B6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7510
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B50A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-196E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-02C5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-1FCE
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Related rates problems in calculus teach a fundamental systems insight: when multiple variables are connected through an equation (a constraint), changing one variable forces changes in all others. The chain rule computes exactly how fast each variable changes relative to the others. A classic example — filling a conical tank — shows that the water level rises faster as the cone narrows, even though the inflow rate is constant. The geometry of the constraint reshapes the propagation of change.
 

@@ -41,11 +41,11 @@ resolutions:
     minimum viable action: change 'no' to 'maybe' and invest 5 hours in any
     emerging platform before forming an opinion.
 related:
+  - INS-260403-76B7
   - INS-260327-06A6
+  - INS-260403-2054
   - PRI-260328-6A8D
   - INS-260330-323E
-  - INS-260322-5678
-  - PRI-260328-0993
 stance: >-
   Businesses that become one-dimensional on currently-working channels almost
   always see revenue halve rather than double, because platform shifts ar...

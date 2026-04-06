@@ -52,7 +52,6 @@ stance: >-
   position and identifying what evidence would change your mind — produces
   better reasoning than claiming to be unbiased.
 related:
-  - INS-260325-788E
   - INS-260329-B604
   - INS-260329-116A
   - INS-260330-DB4B
@@ -62,6 +61,7 @@ related:
   - INS-260330-C451
   - INS-260330-6C0E
   - INS-260330-3BBC
+  - INS-260330-76DA
 evidence:
   - id: INS-260325-788E
     type: SUPPORTS

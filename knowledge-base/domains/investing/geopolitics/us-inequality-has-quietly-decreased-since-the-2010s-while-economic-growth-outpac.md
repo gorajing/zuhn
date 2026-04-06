@@ -19,26 +19,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #76: Great Powers acting stupid'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-76-great-powers-acting-stupid'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     CBO analysis shows US inequality barely increased since the 1980s after
@@ -68,6 +56,12 @@ stance: >-
   since the 1980s, and the post-2010s wage compression at the bottom combined
   with anemic top-end growth represents a persistent structural shift that
   invalidates the standard inequality narrative
+related:
+  - PRI-260328-6CDE
+  - INS-260402-CF0A
+  - INS-260327-F93A
+  - PRI-260328-D68F
+  - INS-260403-420A
 ---
 The Congressional Budget Office published analysis showing that after accounting for the increasing generosity of the American welfare state, inequality in the US hasn't increased much since the 1980s—contradicting one of the most persistent narratives in progressive economics. Additionally, economist Arin Dube finds that the compression of American wages—strong rise at the low end since the early 2010s coupled with anemic growth at the top post-pandemic—appears to be persistent rather than temporary.
 

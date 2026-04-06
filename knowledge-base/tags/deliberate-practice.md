@@ -1,26 +1,32 @@
 # Tag: deliberate-practice
 
-- `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
-- `INS-260405-678B` Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260330-CD7A` Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260404-18F1` Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
+- `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
+- `INS-260405-678B` Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260403-8114` Understanding a mechanism's physics does not grant the ability to operate it skillfully.
 - `INS-260403-78E2` Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
+- `INS-260330-2666` Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
 - `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
 - `INS-260402-30DC` Nasty little problems don't just waste time — they actively make you stupider because they lack the learnable patterns that build expertise.
+- `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-F969` Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
 - `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
 - `INS-260330-909E` Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions.
 - `INS-260403-DDEB` Flow triggers most reliably when challenge slightly exceeds skill — stretch but don't snap.
 - `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
+- `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
+- `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
 - `INS-260329-A937` Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
 - `INS-260329-66C7` Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
 - `INS-260329-C81C` Andrew Brown argues the Cloud Practitioner certification's main value is building exam-taking confidence, not the credential itself — it's a low-stakes rehearsal for harder certifications.
 - `INS-260403-E6FD` Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
+- `INS-260403-6711` Six weeks of intensive math tutoring significantly reduced math anxiety in students, suggesting that competence-building through practice is the primary cure for academic anxiety.
+- `INS-260403-68E9` Escalating engagement depth across tiers—skim, essay, deep dive, peer review—converts high-volume information consumption into durable understanding.
 - `INS-260330-E349` The crawl-walk-run method of isolating individual stressors before combining them builds genuine competence in high-stakes scenarios far more effectively than throwing people into the deep end.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260329-3CB6` Master an existing system by exact replication first — earn the right to iterate by proving you can duplicate the original results.
@@ -36,6 +42,8 @@
 - `INS-260329-CEC5` Branding is the deliberate pairing of your product with outcomes your ideal customer values, not identity design.
 - `INS-260403-3831` Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
 - `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-9C20` When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
 - `INS-260329-3473` When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.
 - `INS-260329-C56D` Invest 60 minutes daily in structured sales training: 25min script reading aloud, 5min objection drilling, and 30min recorded call review.
 - `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.

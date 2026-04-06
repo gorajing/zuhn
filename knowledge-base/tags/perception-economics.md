@@ -12,6 +12,7 @@
 - `INS-260327-FEB7` Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is
 - `INS-260327-1403` Consumer rage at automotive subscriptions exceeds rational price objections because the psychological experience is havi
 - `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
+- `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
 - `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor
 - `INS-260327-7AB5` Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
 - `INS-260327-290C` Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t

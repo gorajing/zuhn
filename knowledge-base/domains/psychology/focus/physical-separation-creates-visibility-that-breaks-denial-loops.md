@@ -47,7 +47,6 @@ stance: >-
   effective than software blockers because it makes the behavior undeniably
   visible to yourself
 related:
-  - INS-260403-3587
   - INS-260403-38C5
   - INS-260403-7ED5
   - INS-260327-B403

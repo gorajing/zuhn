@@ -48,11 +48,11 @@ stance: >-
   Sales candidates who frame rejection as a learning feedback loop rather than
   an emotional event get hired at significantly higher rates.
 related:
+  - INS-260403-3F12
   - INS-260405-02BE
   - INS-260403-2718
   - INS-260404-5365
-  - INS-260327-D7E6
-  - INS-260403-20A7
+  - INS-260403-296C
   - INS-260330-C13A
 evidence:
   - id: INS-260330-C13A

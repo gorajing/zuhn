@@ -52,8 +52,8 @@ related:
   - INS-260323-4D8D
   - PRI-260328-8E01
   - INS-260323-6C6F
+  - INS-260405-567D
   - INS-260327-991D
-  - PRI-260328-D893
   - INS-260330-0A8D
 stance: >-
   Reinforcement learning with verifiable rewards plus inference-time compute

@@ -48,13 +48,15 @@ stance: >-
   and post-Ukraine war period.
 related:
   - INS-260330-6DE0
-  - INS-260330-7462
-  - INS-260323-9FCA
-  - PRI-260328-0993
-  - INS-260403-8BE9
+  - PRI-260405-8E48
+  - INS-260403-E936
+  - INS-260404-4BC4
+  - INS-260403-DC18
+  - INS-260403-98DA
+  - INS-260403-2C07
 evidence:
   - id: INS-260330-B7AB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-8BE9
     type: SUPPORTS
     classified_at: '2026-04-06'

@@ -56,11 +56,12 @@ stance: >-
   any single service but through the aggregate cost of migrating dozens of
   interconnected services simultaneously
 related:
+  - INS-260403-7A48
   - INS-260404-D6EC
   - INS-260330-5C64
   - INS-260325-A54F
   - INS-260322-642F
-  - PRI-260405-A11F
+  - INS-260403-86BF
 evidence:
   - id: INS-260322-642F
     type: CHALLENGES

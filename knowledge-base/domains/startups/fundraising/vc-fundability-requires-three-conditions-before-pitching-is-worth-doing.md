@@ -18,35 +18,14 @@ sources:
     title: >-
       How to build the perfect pitch deck: a step by step guide with examples
       and an analysis of my Airbnb's deck
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Hugo Rauch
-        url: 'https://substack.com/@hugorauchnewwave'
-        description: "\U0001F30A Hey, I’m Hugo, I’m the skipper of New Wave, Europe’s leading climate tech podcast. I’m investing €100k in two breakout climate startups per months."
-        identifier: 'user:49607346'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!L7MN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feae3c84e-9080-426a-80af-9f6e5a47bc68_1080x1080.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!L7MN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feae3c84e-9080-426a-80af-9f6e5a47bc68_1080x1080.png
+    author: 'Ruben Dominguez, Hugo Rauch'
     url: 'https://www.thevccorner.com/p/how-to-build-the-perfect-pitch-deck'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Pitch only after confirming scalability, large market, and real customer
@@ -74,6 +53,17 @@ stance: >-
   Founders who pitch before confirming scalability, large market size, and
   positive customer signals waste capital-raise cycles that are difficult to
   recover from due to investor memory effects.
+related:
+  - INS-260327-7DBC
+  - INS-260403-AFCD
+  - INS-260403-6ACB
+  - INS-260403-21DB
+  - INS-260403-0303
+  - INS-260403-49FB
+  - INS-260403-F6EC
+  - INS-260404-A526
+  - INS-260404-3212
+  - INS-260403-4610
 ---
 Venture capital has a specific investment thesis: they need 10x-100x returns on a portfolio basis, which means they only fund companies that can grow very large very fast. A business that is high-quality but not scalable (e.g. a services firm, a niche product) will be rejected regardless of deck quality. Pitching it anyway trains investors to mentally file you under 'not VC-backable.'
 

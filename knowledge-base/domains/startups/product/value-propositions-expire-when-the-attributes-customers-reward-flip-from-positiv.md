@@ -47,16 +47,16 @@ stance: >-
   A value proposition built on speed and low cost becomes a liability when the
   market begins associating cheapness with low quality
 related:
-  - INS-260322-5745
-  - INS-260322-D57C
   - INS-260327-EF89
   - INS-260327-38F0
   - INS-260327-85EB
   - INS-260329-793D
   - INS-260329-D5FF
-  - INS-260329-409F
+  - INS-260403-9482
   - INS-260322-5A72
   - INS-260404-8746
+  - INS-260403-162F
+  - INS-260405-AACA
 ---
 McDonald's was built on fast and inexpensive meals — for decades this was its competitive advantage. But as customers began valuing healthy eating, fresh products, and customized experiences, fast-and-cheap became associated with low quality. The very attributes that built the brand now actively repelled the market segment it needed to attract.
 

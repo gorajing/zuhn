@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260403-E172
   - INS-260330-30DE
+  - INS-260403-FC4F
   - INS-260403-1358
   - INS-260327-E63E
-  - INS-260327-165D
 evidence:
   - id: INS-260330-30DE
     type: SUPPORTS

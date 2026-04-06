@@ -47,15 +47,15 @@ stance: >-
   than free distribution because financial commitment inverts the honesty curve.
 related:
   - INS-260320-9937
-  - INS-260323-8896
   - INS-260322-5650
   - INS-260322-98AB
   - INS-260327-A98E
   - INS-260329-F73D
-  - INS-260329-B0BA
   - INS-260329-563F
   - INS-260329-AAD1
   - INS-260329-9C6B
+  - INS-260329-DE17
+  - INS-260330-0F52
 evidence:
   - id: INS-260320-9937
     type: CONTRADICTS

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: The Brutally Honest 10-Year Startup Journey Map
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-journey-map'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     PMF is unrecognizable in real-time because founders are too deep in
@@ -57,6 +47,12 @@ resolutions:
 stance: >-
   Founders consistently fail to recognize product-market fit when they are
   experiencing it because the signal is drowned out by operational noise
+related:
+  - INS-260403-A36C
+  - INS-260403-1BEF
+  - INS-260402-E2AF
+  - INS-260327-2B75
+  - INS-260403-B5B7
 ---
 The article argues that founders universally believe they will recognize product-market fit when it arrives, but in practice they never do. The signal of PMF — customers pulling product out of your hands — gets lost in the noise of daily fires, bugs, hiring mistakes, and co-founder tensions. This creates a dangerous gap where founders either prematurely declare PMF (mistaking early traction for sustainable demand) or fail to capitalize on genuine PMF because they are too busy firefighting.
 

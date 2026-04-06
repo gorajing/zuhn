@@ -49,27 +49,26 @@ stance: >-
   own wealth, making price sensitivity functionally identical across income
   levels when adjusted for ratio.
 related:
-  - INS-260329-C4A4
   - INS-260329-78A0
-  - INS-260405-631B
   - INS-260330-7479
-  - INS-260330-1B6E
+  - INS-260403-37F4
+  - INS-260405-631B
   - INS-260330-F9CA
   - INS-260323-FEAB
-  - INS-260403-37F4
+  - INS-260327-875C
 evidence:
   - id: INS-260330-F9CA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-C4A4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-8BC5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-7479
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8639
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-FEAB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-631B
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

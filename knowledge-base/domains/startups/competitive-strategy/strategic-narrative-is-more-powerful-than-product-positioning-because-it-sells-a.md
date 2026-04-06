@@ -47,16 +47,16 @@ stance: >-
   makes your product the inevitable response — this unifies sales, product,
   marketing, and fundraising around a single story.
 related:
-  - INS-260321-167A
-  - INS-260323-960A
   - INS-260327-29F0
   - PRI-260323-A5E8
   - INS-260330-7B1C
   - INS-260403-7E7C
-  - INS-260404-8D37
+  - INS-260403-AC02
   - INS-260327-ECDA
   - INS-260330-4C23
   - INS-260403-4A9E
+  - INS-260403-066E
+  - INS-260403-4E67
 evidence:
   - id: INS-260321-167A
     type: EXTENDS

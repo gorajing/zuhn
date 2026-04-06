@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: A new-parent gift guide
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-new-parent-gift-guide-for-product'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Bundling adjacent features around a core product creates stickiness in
@@ -58,6 +46,12 @@ resolutions:
 stance: >-
   Products that bundle adjacent utility features around a core function create
   meaningful switching costs even in otherwise commoditized markets
+related:
+  - INS-260327-6A45
+  - INS-260402-C883
+  - PRI-260405-5266
+  - INS-260329-C0F1
+  - PRI-260328-70D9
 ---
 The Nanit baby monitor exemplifies how feature bundling creates switching costs in a commodity category. Despite being 'annoying at times,' Lenny keeps returning to it because of accumulated value: monthly birthday celebration photos, video compilations, stats, background sound features, and remote volume control. Even after trying a competitor (Eufy) with a specific technical advantage (no Wi-Fi dependency), they returned because the ecosystem of features created too much switching cost.
 

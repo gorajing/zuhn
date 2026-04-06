@@ -47,13 +47,13 @@ stance: >-
   that identify surprise gains create defensible differentiation.
 related:
   - INS-260327-A43C
-  - INS-260330-712D
   - INS-260330-E982
   - INS-260403-0196
   - INS-260405-A742
   - INS-260329-16F0
   - INS-260405-95D1
-  - INS-260405-690F
+  - INS-260403-92E9
+  - INS-260405-7F06
 evidence:
   - id: INS-260330-712D
     type: SUPPORTS

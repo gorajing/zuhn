@@ -63,7 +63,6 @@ related:
   - INS-260326-24E6
   - PRI-260325-2DE6
   - INS-260330-4079
-  - INS-260403-D63C
 ---
 Rather than viewing depression, addiction, OCD, and PTSD as separate diseases with distinct mechanisms, Johnson proposes they share a common structural feature: the mind becomes trapped in a narrowed repertoire of thoughts, emotions, and behaviors. The depressed person ruminates in the same loops. The addict's world collapses around the substance. The OCD patient repeats compulsions. The PTSD sufferer relives trauma.
 

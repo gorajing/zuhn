@@ -52,32 +52,32 @@ stance: >-
 related:
   - INS-260325-A8E6
   - INS-260325-5ACA
-  - INS-260403-A5D5
-  - INS-260330-E5DC
-  - INS-260330-2CFA
-  - INS-260325-4996
+  - INS-260325-76E6
   - INS-260323-A64F
   - INS-260327-CBDF
-  - INS-260330-5232
+  - INS-260404-ABCB
+  - INS-260405-3048
+  - INS-260330-CA97
+  - INS-260325-4996
 evidence:
   - id: INS-260327-CBDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E5DC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2CFA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D4CC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-A64F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B27A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2DF9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4B29
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-A5D5
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Venus's surface is far too hot for any known life form, but 50km above the surface, temperature and pressure match Earth's surface conditions -- even though the clouds are made of concentrated sulfuric acid. The 2020 detection of trace phosphine (a gas produced by decaying organic matter on Earth) in Venus's atmosphere could not be explained by any known Venusian chemistry despite hundreds of pages of analysis.
 

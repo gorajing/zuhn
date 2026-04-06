@@ -50,9 +50,7 @@ stance: >-
   — identical to how science progresses by eliminating false theories, not by
   proving true ones
 related:
-  - INS-260322-888D
   - INS-260325-C9EB
-  - INS-260325-9A0F
   - PRI-260324-1A67
   - INS-260327-3D0F
   - PRI-260323-0F93
@@ -60,6 +58,8 @@ related:
   - PRI-260325-262C
   - PRI-260405-ADEA
   - INS-260330-946B
+  - INS-260402-AD42
+  - INS-260403-3D8C
 evidence:
   - id: INS-260322-888D
     type: EXTENDS

@@ -51,12 +51,11 @@ stance: >-
   promise seems reasonable in isolation — guarantees that all parties end up
   adversarial.
 related:
-  - INS-260327-08E7
   - INS-260330-D968
+  - INS-260403-583B
   - INS-260330-2EB0
   - INS-260327-8DAA
   - INS-260330-CA88
-  - INS-260323-176B
   - INS-260405-B59F
 evidence:
   - id: INS-260327-8DAA

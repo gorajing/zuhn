@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "AI’s Fastest Growth Cycle Yet⚡, The VC Fund Trap\U0001F4C9, State of AI 2025\U0001F916"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ais-fastest-growth-cycle-yet-the'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Solo founders now start over a third of new startups as AI tools replace
@@ -58,6 +48,17 @@ resolutions:
 stance: >-
   AI tooling has lowered the minimum viable team size to one person, making solo
   founding the rational default for many startup categories
+related:
+  - INS-260323-BF81
+  - INS-260327-E2BC
+  - INS-260327-1393
+  - INS-260330-7CC0
+  - INS-260403-C381
+  - INS-260403-B835
+  - INS-260403-CAB4
+  - INS-260404-2523
+  - INS-260403-A6A7
+  - INS-260403-CC59
 ---
 Solo founders now account for more than a third of all new startup formations, a structural shift enabled by AI tools that handle tasks previously requiring dedicated team members — design, engineering, copywriting, customer support, and data analysis. This isn't just about cost savings; it's about the authorship advantage, where a single person with clear vision can ship coherent products faster than a team negotiating trade-offs.
 

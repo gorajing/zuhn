@@ -52,13 +52,15 @@ stance: >-
   selective enforcement creates dependency and co-optation.
 related:
   - INS-260327-5D01
-  - INS-260330-1183
-  - INS-260330-F8A2
+  - INS-260403-CFBD
+  - INS-260403-33DF
   - INS-260330-84BD
   - PRI-260324-3AAE
-  - INS-260327-842F
-  - INS-260325-36F0
-  - PRI-260328-37D8
+  - INS-260404-8791
+  - INS-260403-33BF
+  - INS-260403-FAC6
+  - INS-260403-8E0C
+  - INS-260403-126D
 evidence:
   - id: INS-260327-842F
     type: EXTENDS

@@ -53,5 +53,6 @@ related:
   - INS-260325-6F89
   - INS-260330-8686
   - INS-260323-19A8
+  - INS-260402-8A58
 ---
 Weinberg describes a predictable pressure cycle: for the first month after restructuring, everything feels good. By the second month, cracks appear. By the third and fourth months, the problems exceed his capacity. The relief valve is always one of three things: a different leadership hire, a different company structure, or something that needs to be cut. After the restructuring, the cycle resets. This is not a sign of dysfunction — it's the natural rhythm of a company that doubled employees and quadrupled revenue in a year. The critical insight is that the founder who was right for the company four months ago may not be right today. The job literally changes under your feet. Weinberg frames this as pressure that must be released through structural change, not just harder work.

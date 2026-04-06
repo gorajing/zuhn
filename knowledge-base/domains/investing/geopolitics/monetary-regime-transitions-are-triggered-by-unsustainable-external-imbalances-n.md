@@ -20,24 +20,14 @@ sources:
     title: >-
       Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary
       Policy 
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/the-federal-reserve-and-critical'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     U.S. monetary regime changes have been crisis-forced rather than voluntarily
@@ -63,6 +53,13 @@ stance: >-
   Every major shift in U.S. monetary architecture — from no central bank to the
   Fed, from gold standard to fiat — was forced by external pressure rather than
   proactive domestic reform.
+related:
+  - INS-260330-5EE9
+  - INS-260403-8C41
+  - INS-260403-E992
+  - INS-260327-9BE8
+  - PRI-260328-E1CE
+  - INS-260322-96F1
 ---
 The essay reveals a pattern: the 1907 Panic (triggered by a failed copper corner) exposed banking fragmentation and forced the Fed's creation. France's gold redemptions in the 1960s — driven by skepticism about the U.S. balance of payments deficit from Vietnam War spending — forced Nixon to abandon gold convertibility in 1971. In both cases, the existing system wasn't reformed proactively; it broke under external stress.
 

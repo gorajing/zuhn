@@ -47,14 +47,12 @@ stance: >-
   rather replaces it with a new bias, because the brain requires
   pattern-matching defaults to function.
 related:
-  - INS-260322-F609
-  - INS-260327-B605
   - INS-260327-3788
   - INS-260330-9471
   - INS-260330-6620
   - INS-260330-885C
   - INS-260330-0930
-  - INS-260330-7B62
+  - INS-260403-32CF
 evidence:
   - id: INS-260322-F609
     type: SUPPORTS

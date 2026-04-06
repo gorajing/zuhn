@@ -49,15 +49,15 @@ stance: >-
   startups proves that early-stage capital allocation is an art, not a science.
 related:
   - INS-260323-6351
-  - INS-260326-6B98
   - INS-260328-F752
   - PRI-260405-E9C5
   - PRI-260403-26B9
+  - INS-260405-B738
+  - INS-260403-8EE8
   - INS-260402-EEDB
-  - INS-260403-AEB3
-  - INS-260402-8424
-  - INS-260403-C681
-  - INS-260403-EE10
+  - INS-260403-D98E
+  - INS-260403-5F03
+  - INS-260325-039E
 evidence:
   - id: INS-260326-6B98
     type: SUPPORTS

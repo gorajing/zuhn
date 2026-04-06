@@ -20,24 +20,14 @@ sources:
     title: >-
       Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save
       or Sink Your Company
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-momentum-diagnostic-worksheet'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Partially working features that resist deprecation due to sunk cost create
@@ -62,6 +52,12 @@ stance: >-
   Features that partially work but don't compound value create invisible
   organizational drag that exceeds the cost of clearly broken features, because
   they resist deprecation due to sunk cost attachment.
+related:
+  - INS-260403-1E05
+  - INS-260323-AB5F
+  - INS-260330-F82A
+  - INS-260403-BA1B
+  - INS-260325-0C4A
 ---
 Broken features are easy to identify and scrap. The real momentum killers are features that 'kind of work'—the integration built for a prospect who never converted, the dashboard a few users occasionally check, the side project still 'gathering data' after three months. Each one adds friction: cognitive load for the team, complexity for new features, and confusion for users. They're organizational scar tissue.
 

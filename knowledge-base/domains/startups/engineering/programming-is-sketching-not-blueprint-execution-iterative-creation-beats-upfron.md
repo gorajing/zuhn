@@ -50,17 +50,16 @@ stance: >-
   from completing specifications before coding begins.
 related:
   - INS-260330-BE23
+  - INS-260402-E994
   - INS-260403-AC03
   - INS-260403-0218
+  - INS-260404-D66A
   - INS-260405-86BB
-  - INS-260402-E994
-  - INS-260327-B403
-  - INS-260405-7B8D
 evidence:
   - id: INS-260329-2FEB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-86BB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-0218
     type: SUPPORTS
     classified_at: '2026-04-06'

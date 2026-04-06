@@ -55,9 +55,10 @@ stance: >-
 related:
   - PRI-260328-D292
   - INS-260325-0F4F
+  - INS-260403-44D9
+  - INS-260404-FAAC
   - INS-260327-A3A2
-  - INS-260403-D543
-  - INS-260325-4846
+  - INS-260403-F01C
 evidence:
   - id: INS-260325-0F4F
     type: SUPPORTS

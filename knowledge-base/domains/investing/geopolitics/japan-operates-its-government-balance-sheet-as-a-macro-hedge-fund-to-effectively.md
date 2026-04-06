@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #77: The Fix-Everything Button'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-77-the-fix-everything-button'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Japan's government profits from short-yen/long-dollar and long-stock
@@ -62,5 +50,12 @@ stance: >-
   Japan's government has accumulated massive profitable positions in forex,
   equities, and pension funds that reduce its effective net debt by roughly
   half, a strategy no other major economy has replicated
+related:
+  - INS-260321-D183
+  - INS-260323-70B9
+  - INS-260330-2CE3
+  - INS-260404-B6DF
+  - INS-260403-5056
+  - INS-260404-8BC7
 ---
 Analyst Toby Nangle documented how Japan's government has accumulated enormous macro positions that function like a hedge fund portfolio: profitable forex interventions worth ~8% of GDP, Bank of Japan stock holdings with unrealized gains worth ~11% of GDP, plus the $1.8 trillion GPIF pension fund's gains from yen depreciation and stock appreciation. Nearly all positions reduce to one core trade — short yen, long dollars, long equities — which has been spectacularly successful. Using Fed economist YiLi Chien's data, these positions shrink Japan's effective debt by roughly half. This challenges the standard narrative that Japan is drowning in debt and offers a counterexample to conventional fiscal hawkishness. It also highlights a missed opportunity: had the US implemented Bush's 2005 Social Security investment proposal, it could be reaping similar benefits. For investors, Japan's true fiscal position is far stronger than headline debt numbers suggest.

@@ -50,12 +50,11 @@ stance: >-
   learning, controlled practice, and immediate real-world application, with the
   learner alone knowing if they succeeded or failed.
 related:
+  - INS-260325-B50B
   - INS-260323-D400
   - PRI-260403-0509
   - INS-260403-449D
   - INS-260329-656B
-  - INS-260403-CBB0
-  - INS-260330-2DB0
 evidence:
   - id: INS-260323-D400
     type: SUPPORTS

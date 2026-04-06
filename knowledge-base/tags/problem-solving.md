@@ -2,6 +2,7 @@
 
 - `INS-260321-E59A` Donald Knuth's viral LLM math result was achieved by making the LLM update its memory after each solution — a hack simulating plasticity — but Knuth himself still had to create the final proof manifold.
 - `INS-260329-B408` The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
+- `INS-260329-04FA` CS50 teaches computational thinking as a universal problem-decomposition skill, not just a precursor to coding.
 - `INS-260323-2117` Lagrange's breakthrough was converting the three-body problem from vectors (directional, hard to add) to scalars (magnitudes, trivially additive) — a problem-solving pattern that recurs across engineering and AI.
 - `INS-260404-92B8` The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
 - `INS-260330-0982` Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
@@ -9,13 +10,14 @@
 - `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution.
 - `INS-260404-A246` Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
-- `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
+- `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260403-BC89` Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
 - `INS-260329-72AC` Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
+- `INS-260329-3763` The structured debugging process taught in programming — isolate, reproduce, trace, fix — is a universal diagnostic framework applicable far beyond code.
 - `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
 - `INS-260330-78E2` Knock hard problems down to simpler cases first — the structure you find there almost always generalizes back up.
 - `INS-260330-9033` Presenting proofs as guided exercise sequences — even in a lecture format — forces the active engagement that produces genuine understanding.
@@ -42,6 +44,7 @@
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260323-A14D` Problems that appear impossible often result from the wrong framing, not the wrong physics.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
+- `INS-260330-8BA6` Aerogel achieves superhydrophobicity through nanoscale physical structure (trapping air) rather than chemical coatings, producing more durable waterproofing.
 - `INS-260329-0F06` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
 - `INS-260322-9C84` Problems that seem inescapable may simply be artifacts of the dimensional framework you're operating within.
 - `INS-260325-C724` When you can't find an answer directly, discovering constraints the answer must satisfy often lets you work backward to it.
@@ -51,6 +54,7 @@
 - `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
 - `INS-260323-246F` Bezos's grandfather never called for help — he built cranes, made his own veterinary tools, and spent a summer fixing a broken bulldozer, teaching that any problem yields to persistence and ingenuity.
 - `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
+- `INS-260403-7513` The best startup ideas come from solving problems you personally experience and deeply understand.
 - `INS-260330-AEF1` Jeff the stranger instantly earned trust and admiration by understanding the pulley system and knowing exactly what to do — practical knowledge created immediate social connection and value.
 - `INS-260330-FC16` LA's shade balls were originally 'bird balls' for airports and mine ponds — repurposed to solve a completely different water chemistry problem.
 - `INS-260330-2AA7` Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.

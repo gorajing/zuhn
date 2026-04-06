@@ -46,14 +46,13 @@ resolutions:
     adopt. For builders and founders, the practical implication is that the
     narrative you tell about the future shapes the future you build.
 related:
+  - INS-260403-5E03
+  - INS-260404-4E1A
+  - INS-260403-F4C9
+  - INS-260403-C10D
   - INS-260403-F7F4
   - PRI-260328-BF67
-  - PRI-260323-1F9C
-  - INS-260321-9A03
-  - INS-260403-DDFD
-  - INS-260323-3045
-  - INS-260327-6F26
-  - INS-260404-A15B
+  - INS-260405-AA2E
 stance: >-
   Both tech optimism and tech pessimism are self-fulfilling prophecies —
   believing the future will be better increases the likelihood you build it.

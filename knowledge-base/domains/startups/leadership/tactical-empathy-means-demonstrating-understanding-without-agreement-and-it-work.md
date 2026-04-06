@@ -49,13 +49,13 @@ resolutions:
     disingenuous). Tactical empathy sidesteps both failure modes.
 related:
   - INS-260402-2DCE
+  - INS-260403-D4F0
   - INS-260402-2C6B
   - INS-260330-ABBF
   - PRI-260405-64C0
-  - INS-260403-500F
   - INS-260328-6A8C
   - INS-260403-C7D8
-  - INS-260404-DCCD
+  - INS-260403-A68D
 stance: Empathy is not sympathy or agreement
 evidence:
   - id: INS-260402-2DCE

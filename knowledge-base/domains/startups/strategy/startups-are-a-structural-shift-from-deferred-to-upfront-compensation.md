@@ -51,13 +51,14 @@ stance: >-
   The startup model represents the same economic transaction as the corporate
   ladder, just with risk and reward moved earlier rather than eliminated
 related:
-  - INS-260330-2BB3
   - INS-260403-EE10
   - INS-260403-C9C2
+  - INS-260403-AB11
   - INS-260327-DAA4
   - PRI-260405-0099
   - PRI-260405-1FBC
-  - INS-260326-6B98
+  - INS-260403-B02A
+  - INS-260403-A8BA
 evidence:
   - id: INS-260326-6B98
     type: EXTENDS

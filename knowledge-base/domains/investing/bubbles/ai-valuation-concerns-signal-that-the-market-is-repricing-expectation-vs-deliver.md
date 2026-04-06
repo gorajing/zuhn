@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "The Billion-Dollar Revenue Club\U0001F4B0, Product Metrics That Matter\U0001F3AF, Time-to-Value in AI Age⏱️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-billion-dollar-revenue-club-product'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI bubble concerns are the market's early signal that
@@ -60,6 +50,12 @@ stance: >-
   Growing alarm over AI valuations reflects a market beginning to discount the
   gap between AI's promised future value and its demonstrated present value,
   presaging a correction cycle.
+related:
+  - INS-260327-5D13
+  - INS-260330-D5BD
+  - PRI-260328-1A2D
+  - PRI-260328-0993
+  - INS-260404-77CD
 ---
 Every technology bubble follows the same arc: enthusiasm inflates valuations ahead of actual value delivery, a 'reality check' period begins where the gap becomes visible, and a correction follows. AI valuation concerns emerging now suggest the market is entering the reality-check phase — not necessarily a crash, but a repricing of which AI companies have genuine moats versus which are riding narrative.
 

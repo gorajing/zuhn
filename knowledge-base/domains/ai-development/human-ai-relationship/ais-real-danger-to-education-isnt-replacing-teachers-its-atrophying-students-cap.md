@@ -56,10 +56,9 @@ related:
   - PRI-260323-C49D
   - PRI-260405-49C0
   - INS-260322-DAA1
+  - PRI-260405-9A14
   - INS-260405-86BB
-  - INS-260323-64A4
   - INS-260327-3B69
-  - INS-260330-B784
 stance: >-
   Students using AI to complete writing homework are skipping cognitive
   exercise, producing adults who cannot think logically or resist manipulation.

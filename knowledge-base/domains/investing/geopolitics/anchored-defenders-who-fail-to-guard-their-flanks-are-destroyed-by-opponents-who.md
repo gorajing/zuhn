@@ -58,6 +58,7 @@ related:
   - INS-260327-B65A
   - INS-260327-994B
   - INS-260327-65E7
+  - INS-260403-2F24
 ---
 The French fleet anchored in a defensive line at Aboukir Bay, with their port (landward) side ungunned because they assumed the shallow water between them and shore was impassable. Nelson's captains found enough depth to sail between the French ships and the shore, attacking from both sides simultaneously. Ships designed to fight on one side were attacked on two, and the fleet was annihilated.
 

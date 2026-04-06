@@ -55,27 +55,27 @@ stance: >-
 related:
   - INS-260323-2C19
   - INS-260329-F969
-  - INS-260329-979B
-  - INS-260329-DACC
   - INS-260329-ACE6
-  - INS-260329-9A58
-  - INS-260329-939E
-  - INS-260329-70D5
-  - INS-260329-3177
   - INS-260329-E43B
+  - INS-260330-2DB0
+  - INS-260330-E47D
+  - INS-260403-D56B
+  - INS-260329-3177
+  - INS-260329-DACC
+  - INS-260404-023C
 evidence:
   - id: INS-260323-2C19
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3177
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-DACC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-ACE6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9A58
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7B1D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Harvard's CS50 deliberately teaches C — a low-level language with manual memory management, pointers, and explicit data types — before introducing Python. David Malan's rationale is that students who understand what's happening 'underneath the hood' can think at a high level about any language they encounter later. The course proves this works at scale: students transition from writing C code with malloc and pointer arithmetic to Python in just a few weeks, and the conceptual foundation makes the high-level language feel almost trivial by comparison.
 

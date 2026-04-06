@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'How ChatGPT Prompts Are Becoming Startups: From Idea to MVP'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/chatgpt-startup-ideas'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI can mine forums, Reddit threads, and product reviews at scale to uncover
@@ -57,6 +47,12 @@ stance: >-
   Scanning thousands of forum posts and reviews with AI to surface recurring
   frustrations is a faster and more reliable market validation method than
   traditional customer interviews.
+related:
+  - INS-260403-F0AA
+  - PRI-260403-53D6
+  - PRI-260328-B2EA
+  - INS-260322-185B
+  - INS-260403-E706
 ---
 The article describes founders using ChatGPT to scan thousands of posts across Reddit, product reviews, and forums to identify recurring pain points—like freelancers complaining about poor mobile features or hidden fees in project management tools. This represents a fundamental shift in market validation methodology.
 

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Deep Dives
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dives'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI labor debates are confused because participants argue from different
@@ -57,6 +47,12 @@ stance: >-
   The disagreement about AI's impact on jobs is not substantive but structural —
   people are arguing from different layers of the same $31T labor economy, and a
   first-principles decomposition by layer resolves most apparent contradictions.
+related:
+  - INS-260405-C709
+  - INS-260323-8966
+  - INS-260403-FAC0
+  - INS-260403-BADB
+  - INS-260405-7624
 ---
 The US economy is $31 trillion, with labor costs accounting for roughly 60% of that value. Chamath argues that the heated disagreement about AI's impact on work exists because different commentators are examining different layers of the labor market and talking past each other.
 

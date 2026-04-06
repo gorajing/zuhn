@@ -45,25 +45,26 @@ stance: >-
   The most consequential outputs of biological systems are often unintended
   byproducts rather than the system's primary product
 related:
-  - INS-260330-90B6
+  - INS-260323-0AF3
+  - INS-260404-FF39
   - INS-260403-5C74
-  - INS-260404-D0A5
-  - INS-260404-8E0B
-  - INS-260404-F8E6
-  - INS-260403-FDD8
+  - INS-260404-0FEB
+  - INS-260403-EFE6
+  - INS-260404-E9F3
+  - INS-260330-2BA7
 evidence:
   - id: INS-260404-D0A5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C607
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-8E0B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-5C74
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-0FEB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-FDD8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-F8E6
     type: TRANSFERS_TO
     classified_at: '2026-04-05'

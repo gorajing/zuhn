@@ -52,15 +52,15 @@ stance: >-
   in need of more charitable interpretation.
 related:
   - INS-260327-7846
-  - INS-260329-5818
-  - INS-260402-E36A
   - INS-260403-5D18
-  - INS-260403-472E
-  - INS-260403-E365
-  - INS-260403-C55B
   - INS-260405-D606
-  - INS-260405-7B8D
-  - INS-260405-DC20
+  - INS-260405-7A7C
+  - INS-260404-F8E6
+  - INS-260404-9C4C
+  - INS-260404-4666
+  - INS-260404-CD3E
+  - INS-260403-D75D
+  - INS-260405-7BA5
 evidence:
   - id: INS-260329-5818
     type: SUPPORTS

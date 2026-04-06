@@ -44,17 +44,19 @@ resolutions:
     decisions, test them, and reverse if wrong — all in the same meeting.
 related:
   - PRI-260328-4810
+  - INS-260329-CB2C
   - INS-260330-7C05
+  - INS-260403-7CD3
+  - INS-260404-5369
+  - INS-260405-FD9D
   - INS-260329-22B6
-  - PRI-260328-4CC0
-  - PRI-260328-EC3F
-  - INS-260329-B1D0
+  - INS-260403-8B26
 stance: >-
   Founder speed is not just about iteration velocity — it's a behavioral signal
   that predicts fundraising success, user acquisition, and survival.
 evidence:
   - id: INS-260329-C345
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Cain's example of 'Captain Brian' — who literally rebuilt landing pages and rewrote messaging during mentoring calls — demonstrates that speed is not a tactic but a personality trait of successful founders. Brian shipped code quickly, tested feedback quickly, killed non-working ideas quickly, and closed his fundraising round before the accelerator ended. His startup sold within 2 years of launch.
 

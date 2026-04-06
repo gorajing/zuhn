@@ -1,3 +1,3 @@
 # Tag: aha-moment
 
-- `INS-260327-FC5D` Finding the one feature that drives the aha moment is very hard, but your customers will tell you through their behavior.
+- `INS-260404-3771` Find what sticky users do differently, then make every new user do that thing.

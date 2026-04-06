@@ -48,11 +48,13 @@ stance: >-
   immediate have/have-not dynamics that are disproportionately destructive
   relative to the intended benefit.
 related:
+  - INS-260403-8C7E
+  - INS-260403-958C
   - INS-260327-112B
+  - INS-260403-49CC
   - PRI-260405-7F1E
-  - INS-260327-1D3D
-  - INS-260330-6300
-  - INS-260330-2EB0
+  - INS-260403-889B
+  - INS-260403-E36A
 evidence:
   - id: INS-260327-112B
     type: CHALLENGES

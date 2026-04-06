@@ -48,7 +48,6 @@ stance: >-
   burnout often results from the impossible demand to simultaneously maintain
   creative authenticity and commercial productivity.
 related:
-  - INS-260322-F6B5
   - INS-260323-FFAC
   - INS-260322-BD0D
   - INS-260327-7F6A

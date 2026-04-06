@@ -57,27 +57,25 @@ stance: >-
   dysfunction
 related:
   - INS-260327-2B94
-  - INS-260404-F69A
-  - INS-260403-07D2
-  - INS-260404-9F51
   - INS-260330-8C52
   - INS-260330-E068
-  - INS-260403-E52B
-  - INS-260403-2CA2
+  - INS-260403-5648
+  - INS-260403-07D2
+  - INS-260404-F69A
   - INS-260405-0591
 evidence:
   - id: INS-260330-7B09
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-EBFD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8C52
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C607
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8BF6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2074
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-F69A
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

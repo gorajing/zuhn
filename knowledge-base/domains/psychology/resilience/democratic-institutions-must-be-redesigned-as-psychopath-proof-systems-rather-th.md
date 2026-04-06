@@ -53,7 +53,6 @@ stance: >-
   systematic institutional hardening.
 related:
   - INS-260323-6357
-  - INS-260327-DCAF
   - PRI-260324-1A67
   - PRI-260325-262C
   - INS-260330-F258

@@ -48,10 +48,12 @@ resolutions:
 related:
   - INS-260323-F9FD
   - INS-260323-7866
+  - INS-260403-9BD7
   - INS-260405-945B
   - INS-260325-E84D
   - INS-260320-DDD9
   - INS-260403-280B
+  - INS-260403-F554
 stance: >-
   GSP and Lex Fridman agree that in martial arts, skill level is by far the most
   important factor — it trumps strength, size, and even heart.

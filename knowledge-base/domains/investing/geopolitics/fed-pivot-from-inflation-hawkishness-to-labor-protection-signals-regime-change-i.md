@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-159'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The Fed cut rates 25bps to 3.75-4.00% and announced QT ending December 1,
@@ -62,6 +52,13 @@ stance: >-
   The Fed's simultaneous rate cut and QT termination in October 2025 marks a
   decisive regime shift where labor market deterioration now dominates inflation
   concerns in policy calculus
+related:
+  - INS-260327-B45A
+  - INS-260405-5E6B
+  - PRI-260328-D68F
+  - PRI-260324-7ED9
+  - INS-260402-36DE
+  - INS-260323-C8AC
 ---
 The October 2025 FOMC meeting represented a qualitative shift in Fed priorities. The simultaneous rate cut and QT termination announcement—stopping balance sheet contraction on December 1—signals the Fed views downside employment risk as the dominant threat, even with inflation 'somewhat elevated.' Two dissents underscore this wasn't consensus, suggesting genuine debate about whether the pivot is premature.
 

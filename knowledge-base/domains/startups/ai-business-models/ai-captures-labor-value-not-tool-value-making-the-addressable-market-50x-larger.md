@@ -43,11 +43,11 @@ stance: >-
   market is 50x larger than the global software market.
 related:
   - INS-260330-4E01
+  - INS-260403-BB5E
   - INS-260403-F62E
   - PRI-260328-8317
-  - INS-260404-61DA
-  - INS-260323-BF81
-  - INS-260325-ADF5
+  - INS-260403-8EF3
+  - INS-260403-2609
 evidence:
   - id: INS-260325-ADF5
     type: SUPPORTS

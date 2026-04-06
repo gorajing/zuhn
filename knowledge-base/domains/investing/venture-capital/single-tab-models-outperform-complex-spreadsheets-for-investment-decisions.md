@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'VC Return Analysis: Single-Tab Model for Faster Decisions'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-return-analysis-excel-model'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Consolidating VC return analysis into one tab eliminates formula breakage
@@ -56,6 +46,12 @@ stance: >-
   Simpler financial models with fewer tabs produce faster and more accurate
   investment decisions than elaborate multi-tab spreadsheets because they
   eliminate formula breakage and force shared assumptions.
+related:
+  - INS-260322-3083
+  - INS-260330-4329
+  - INS-260403-7795
+  - INS-260329-5B7B
+  - INS-260329-34C0
 ---
 Traditional multi-tab financial models accumulate complexity that works against their purpose — formulas reference wrong cells, partners use different versions, and founders can't trace the assumptions. A single-tab return model that connects revenue, margins, raise sizes, valuation, and exit multiples forces both founders and investors to agree on the same inputs and see the same outputs.
 

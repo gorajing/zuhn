@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Updated thoughts on AI risk
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/updated-thoughts-on-ai-risk'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Competitive pressure makes human-in-the-loop economically unsustainable in
@@ -63,6 +51,13 @@ stance: >-
   The three conditions for full AI automation—plentiful data, verifiable
   outputs, and no physical bottlenecks—describe an expanding frontier that
   market competition will push to its limits regardless of safety concerns.
+related:
+  - INS-260404-CC79
+  - PRI-260328-D401
+  - PRI-260321-7307
+  - PRI-260325-6400
+  - PRI-260405-C27E
+  - INS-260403-C5BD
 ---
 Noah Smith identifies three conditions under which keeping humans in the loop becomes un-economical: plentiful data, verifiable outputs, and no physical bottlenecks. Software development was the first major domain to meet all three, and biology research is rapidly approaching the same threshold. The key insight is that this isn't a choice any individual company makes—it's an emergent property of market competition. Any firm that maintains costly human oversight will be outcompeted by one that doesn't.
 

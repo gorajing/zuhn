@@ -55,20 +55,23 @@ stance: >-
   version — matters far more than being first, because the vast majority of
   value exists in the distant future
 related:
+  - PRI-260405-5912
   - INS-260325-195E
   - INS-260330-BBCF
-  - INS-260330-1608
-  - INS-260330-9470
-  - INS-260330-8A87
-  - INS-260330-3897
-  - INS-260402-3F92
+  - INS-260403-54FF
+  - INS-260404-E061
+  - INS-260403-D880
+  - INS-260404-9103
+  - INS-260403-5056
+  - INS-260402-7623
+  - INS-260403-E930
 evidence:
   - id: INS-260330-8A87
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-195E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-BBCF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Thiel's DCF analysis of PayPal in March 2001 (27 months after founding, 100% annual growth, 30% discount rate) revealed that approximately 75% of the business value came from cash flows in years 2011 and beyond. He argues this math holds for essentially every tech company: 75-85% of value comes from cash flows a decade or more in the future.
 

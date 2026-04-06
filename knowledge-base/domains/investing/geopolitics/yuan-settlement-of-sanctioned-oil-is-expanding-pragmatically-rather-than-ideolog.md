@@ -20,24 +20,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: China''s minerals, AI financing, Nobel winners, robotics...'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-58c'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Russian crude sellers are again requesting yuan payment from Indian
@@ -65,6 +55,12 @@ stance: >-
   pragmatic sanctions arbitrage rather than a deliberate de-dollarization
   campaign, but the cumulative effect still erodes dollar dominance at the
   margins.
+related:
+  - INS-260327-00EB
+  - INS-260403-90A0
+  - INS-260403-80D9
+  - PRI-260328-37D8
+  - INS-260330-E082
 ---
 Sellers of Russian crude have resumed requesting yuan payment from Indian state refiners as sanctions pressure and counterparty risk rise. This routing had appeared before but lapsed — its return is pragmatic, driven by the need to clear sanctioned barrels rather than a strategic push for yuan dominance. China's currency still handles only ~4% of international payments by value versus ~50% for the dollar.
 

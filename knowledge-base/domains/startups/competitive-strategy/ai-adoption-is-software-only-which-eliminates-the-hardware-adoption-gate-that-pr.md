@@ -49,15 +49,13 @@ stance: >-
   purely software-driven, making incumbent displacement faster but also making
   incumbent defense easier through modular tech stacks.
 related:
-  - INS-260325-BC2A
   - INS-260325-4846
   - INS-260328-9408
   - INS-260330-A25A
+  - INS-260325-BC2A
   - PRI-260328-4CC0
+  - INS-260405-3805
   - INS-260403-38C0
-  - INS-260321-2D72
-  - INS-260404-7A54
-  - INS-260405-4B12
 evidence:
   - id: INS-260325-BC2A
     type: SUPPORTS

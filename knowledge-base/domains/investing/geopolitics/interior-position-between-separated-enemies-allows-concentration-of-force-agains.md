@@ -48,7 +48,6 @@ stance: >-
   An entity positioned between two threats can defeat each sequentially by
   moving faster between them than they can communicate and coordinate.
 related:
-  - INS-260321-10FF
   - INS-260327-191B
   - INS-260327-ABE5
   - PRI-260405-C47B

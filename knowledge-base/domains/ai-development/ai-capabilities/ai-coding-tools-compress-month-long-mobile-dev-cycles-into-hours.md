@@ -43,11 +43,11 @@ stance: >-
   can now be completed by a single person in under an hour using AI coding
   tools.
 related:
-  - INS-260323-2559
   - INS-260327-D0F3
+  - INS-260323-2559
+  - INS-260405-3061
   - INS-260330-410A
   - INS-260322-3083
-  - INS-260329-180B
 evidence:
   - id: INS-260323-2559
     type: SUPPORTS

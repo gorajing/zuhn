@@ -45,10 +45,10 @@ stance: >-
   clearly to the team.
 related:
   - PRI-260405-72D4
+  - INS-260403-7513
   - INS-260327-CD36
   - INS-260404-5AC1
   - INS-260403-AA8F
-  - INS-260402-D0F3
 evidence:
   - id: INS-260327-6F12
     type: CHALLENGES

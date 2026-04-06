@@ -49,14 +49,13 @@ stance: >-
   assets.
 related:
   - INS-260323-500B
-  - INS-260321-3EC0
-  - INS-260330-6C35
   - INS-260329-A4CA
+  - INS-260403-6024
   - PRI-260322-9E36
-  - INS-260327-F996
+  - INS-260321-3EC0
 evidence:
   - id: INS-260330-F527
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The mass adoption of prediction markets threatens platforms like Robinhood and Coinbase because they're competing for the same behavioral pattern: speculative gambling disguised as investment. Prediction markets offer better narratives (elections, cultural events) than stock tickers or crypto charts.
 

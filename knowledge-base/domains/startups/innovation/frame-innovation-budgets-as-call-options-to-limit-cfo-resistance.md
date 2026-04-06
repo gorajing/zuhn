@@ -49,11 +49,13 @@ stance: >-
   systematically undervalue optionality.
 related:
   - INS-260330-2952
+  - INS-260403-7DC7
+  - INS-260404-2F75
   - INS-260330-4D05
   - INS-260403-F4CC
   - INS-260322-B641
-  - INS-260403-E688
   - INS-260405-3066
+  - INS-260403-FA8E
 evidence:
   - id: INS-260330-4D05
     type: TRANSFERS_TO

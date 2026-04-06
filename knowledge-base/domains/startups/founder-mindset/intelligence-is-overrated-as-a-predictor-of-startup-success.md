@@ -46,9 +46,6 @@ stance: >-
   and the narrative of smart founders winning exists because it makes a better
   story, not because it's the primary causal factor.
 related:
-  - INS-260322-A02C
-  - INS-260322-6C4B
-  - INS-260323-4C43
   - INS-260326-870E
   - INS-260327-3349
   - INS-260328-982A
@@ -56,6 +53,9 @@ related:
   - INS-260330-156C
   - INS-260402-F04F
   - INS-260402-9681
+  - INS-260403-C2BE
+  - INS-260403-5106
+  - INS-260403-9942
 evidence:
   - id: INS-260403-4DFB
     type: REFINES

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 18 Lessons from Harry Stebbings That Every Founder Should Know
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/harry-stebbings-18-lessons-20vc'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     $10B+ founders nearly universally exhibit both a superiority complex and a
@@ -61,6 +51,12 @@ stance: >-
   others cannot) and an inferiority complex (feeling perpetually inadequate) is
   a near-universal psychological signature of $10B+ founders that separates them
   from $100M outcomes.
+related:
+  - PRI-260403-5C44
+  - PRI-260328-B11D
+  - INS-260404-1986
+  - PRI-260328-3169
+  - INS-260403-6D4F
 ---
 After interviewing almost every $10B+ founder, Harry Stebbings identified a disturbing pattern: they all carry both a superiority complex (inherently believing they are more capable than others) and a deep inferiority complex (constantly feeling they're not moving fast enough or achieving enough). Harry describes this as 'deep masochism or sadism towards themselves, which is deeply psychologically scarring' but which drives relentless improvement.
 

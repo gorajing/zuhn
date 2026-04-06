@@ -47,12 +47,12 @@ stance: >-
   Fierce competitive energy that lacks an ambitious outlet will reliably curdle
   into cynicism and trolling behavior
 related:
-  - INS-260330-0DCA
   - INS-260403-D99D
   - PRI-260328-E53E
   - INS-260328-7CA9
+  - INS-260330-0DCA
   - INS-260330-FAB8
-  - PRI-260405-49C0
+  - INS-260404-9C4C
 evidence:
   - id: INS-260330-0DCA
     type: SUPPORTS

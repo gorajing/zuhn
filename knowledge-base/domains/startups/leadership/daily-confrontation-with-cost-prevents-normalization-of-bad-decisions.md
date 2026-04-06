@@ -52,8 +52,8 @@ related:
   - PRI-260328-521E
   - INS-260323-B811
   - PRI-260328-82A2
+  - INS-260403-9DB6
   - INS-260325-A326
-  - PRI-260325-F21B
 stance: >-
   Gabbard's daily task of reading every combat injury list name by name never
   became routine

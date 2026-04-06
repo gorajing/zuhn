@@ -45,14 +45,11 @@ stance: >-
   because the expected value of asymmetric bets approaches infinity when the
   downside cost is genuinely zero.
 related:
-  - INS-260323-0DC4
-  - INS-260323-2FF9
   - PRI-260405-0099
   - INS-260323-1B42
   - INS-260329-27DF
+  - INS-260403-E554
   - INS-260325-5A72
-  - INS-260330-AD13
-  - INS-260329-8E89
 evidence:
   - id: INS-260323-0DC4
     type: TRANSFERS_TO

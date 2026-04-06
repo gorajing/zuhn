@@ -53,11 +53,11 @@ resolutions:
     telling him something true about nature that human intuition couldn't
     accept.
 related:
-  - INS-260323-7BA4
   - INS-260323-75A6
   - PRI-260323-DA09
   - PRI-260323-CE34
   - INS-260323-3F56
+  - INS-260323-7BA4
 stance: >-
   The negative energy solutions in the Dirac equation were universally condemned
   as 'the saddest chapter in modern physics'

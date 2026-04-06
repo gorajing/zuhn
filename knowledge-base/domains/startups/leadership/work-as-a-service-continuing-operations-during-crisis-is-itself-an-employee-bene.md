@@ -52,10 +52,12 @@ stance: >-
 related:
   - INS-260327-DD1D
   - INS-260328-4ED2
-  - PRI-260328-BEAB
-  - INS-260330-B3D9
   - INS-260330-FF9A
+  - PRI-260328-BEAB
+  - INS-260404-B6B1
   - INS-260330-86CD
+  - INS-260403-3106
+  - INS-260327-A234
 ---
 Multiple billion-dollar CEOs independently discovered that returning to work during the Israel-Hamas war was therapeutic for employees, not exploitative. Wix CEO Abrahami found that when leaders returned to work first, employees felt permission to do the same, and the routine helped them cope. Papaya Gaming's Bachar described finding 'just the right intensity' to redirect attention to work as actively helping employees manage the situation.
 

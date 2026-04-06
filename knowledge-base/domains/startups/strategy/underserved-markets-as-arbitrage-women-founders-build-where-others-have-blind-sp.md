@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Why Women-Led Startups Outperform Yet Lack Funding
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/why-women-owned-startups-outperform'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Women founders disproportionately build in massive but overlooked markets
@@ -62,6 +52,17 @@ stance: >-
   Founders with lived experience in underserved markets have a structural
   competitive advantage that functions as investable arbitrage, not niche
   positioning
+related:
+  - PRI-260323-1B96
+  - INS-260327-CD77
+  - INS-260330-D5BD
+  - INS-260403-1B8A
+  - INS-260403-4AF3
+  - INS-260404-EC26
+  - INS-260403-21A7
+  - INS-260322-92D7
+  - INS-260404-7071
+  - INS-260403-5301
 ---
 FemTech is projected to reach $1.1 trillion by 2027 yet historically received under 3% of digital health funding. The care economy, flexible family support, and products for underserved demographics (minority communities, aging populations) represent similarly massive categories with unmet demand and minimal legacy competition.
 

@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: A playbook for fundraising
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-playbook-for-fundraising'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Effective fundraising sequences information release to build trust
@@ -59,6 +47,16 @@ resolutions:
 stance: >-
   Founders who treat fundraising as relationship trust-building with staged
   information disclosure outperform those who lead with comprehensive data dumps
+related:
+  - INS-260323-D288
+  - INS-260323-7C0E
+  - INS-260329-CB2C
+  - INS-260403-5953
+  - INS-260403-53C0
+  - INS-260405-2A34
+  - INS-260403-44C4
+  - INS-260403-A9C9
+  - INS-260404-57B8
 ---
 The fundraising process mirrors relationship-building: trust accumulates through multiple interactions over time. Founders should use a teaser deck (3-7 slides) for initial email outreach and reserve the full presentation deck (12-15 slides) for in-person meetings. This staged disclosure creates anticipation and gives founders control over the narrative arc. The instinct to share everything upfront — proving legitimacy through exhaustive data — actually undermines the process by eliminating reasons for follow-up meetings and removing the partner's sense of discovery.
 

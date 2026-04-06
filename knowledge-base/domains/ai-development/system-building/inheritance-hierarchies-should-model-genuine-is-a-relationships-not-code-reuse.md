@@ -51,10 +51,10 @@ stance: >-
   composition preferable for most real-world modeling.
 related:
   - INS-260329-1277
+  - INS-260329-BA12
+  - INS-260404-21E6
   - INS-260329-18C9
-  - INS-260402-2D95
-  - INS-260329-C401
-  - INS-260320-A745
+  - INS-260325-890D
 evidence:
   - id: INS-260329-C401
     type: SUPPORTS

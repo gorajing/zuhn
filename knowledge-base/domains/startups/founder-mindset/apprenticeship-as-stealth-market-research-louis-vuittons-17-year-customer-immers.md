@@ -52,13 +52,13 @@ stance: >-
   irreplaceable customer intuition that formal education cannot replicate
 related:
   - INS-260327-CBCB
-  - INS-260327-9610
   - INS-260327-E093
   - INS-260329-3036
   - INS-260330-1226
   - INS-260327-D5B5
   - INS-260330-2B42
   - INS-260403-5BF9
+  - INS-260403-8004
 evidence:
   - id: INS-260330-1226
     type: CHALLENGES

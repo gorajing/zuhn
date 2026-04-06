@@ -17,24 +17,14 @@ sources:
     title: >-
       The End of YC, Why Specialists Will Win the Next Decade of Venture,
       Foundation Model Businesses 
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-end-of-yc-why-specialists-will'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     As AI makes coding more accessible, YC's edge in picking technical founders
@@ -57,6 +47,17 @@ stance: >-
   Y Combinator's historical advantage of selecting strong technical founders is
   eroding as AI makes coding ability a less differentiating signal for startup
   success.
+related:
+  - INS-260320-8632
+  - INS-260321-FD14
+  - INS-260321-4178
+  - INS-260320-DEAF
+  - INS-260320-F78E
+  - INS-260327-3E23
+  - INS-260327-D8D1
+  - INS-260327-D888
+  - INS-260328-B19D
+  - INS-260329-F51D
 ---
 Y Combinator's selection model has historically favored strong engineers who could build fast and iterate. As AI coding tools make software development dramatically more accessible, the ability to code is no longer a reliable proxy for founder quality or startup potential. The moat shifts from 'can you build it' to 'do you understand the problem deeply enough to know what to build.'
 

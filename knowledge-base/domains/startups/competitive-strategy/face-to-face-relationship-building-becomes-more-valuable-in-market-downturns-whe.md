@@ -56,6 +56,7 @@ related:
   - INS-260330-5A82
   - INS-260404-96E6
   - PRI-260328-82BE
+  - INS-260405-C5B4
   - INS-260327-7C15
 ---
 In the sneaker market downturn, a toxic dynamic emerged: shops became known for bait-and-switch, promising one offer over the phone and lowballing after sellers showed up. This destroyed trust across the entire market. Resellers now prefer attending conventions where multiple buyers compete, rather than driving to individual shops where they might be cheated.

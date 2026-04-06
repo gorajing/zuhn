@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Sequoia’s $10 Trillion AI Revolution\U0001F4B0, The Great Startup Concentration\U0001F4CA, The AI Hustle⏰"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/sequoias-10-trillion-ai-revolution'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Synthesia rejected $3B acquisition offers from Adobe and Meta, then raised
@@ -57,6 +47,14 @@ stance: >-
   Founders who reject acquisition offers and persist through rejection
   accumulate conviction as a strategic asset that eventually attracts larger
   capital.
+related:
+  - INS-260323-78A5
+  - INS-260324-40AA
+  - INS-260330-8326
+  - INS-260402-96E2
+  - INS-260403-4E9D
+  - INS-260403-E482
+  - INS-260403-D70C
 ---
 Synthesia's journey illustrates how founder conviction functions as a compounding asset. After being rejected 100 times and turning down acquisition offers from Adobe and Meta worth up to $3 billion, the company raised $180 million to continue building independently. The decision to reject guaranteed outcomes in favor of long-term vision is a pattern seen in many breakout companies.
 

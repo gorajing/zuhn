@@ -18,38 +18,14 @@ tags:
 sources:
   - type: blog
     title: a16z New Media and How We Invested in 20+ YC Startups in 5 Months
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Guillermo Flor
-        url: 'https://substack.com/@guillermoflor'
-        description: >-
-          I'm Guillermo, a former startup founder now venture capital investor.
-          I write weekly about startups path to Product Market Fit, growth and
-          fundraising 
-        identifier: 'user:48117658'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
+    author: 'Ruben Dominguez, Guillermo Flor'
     url: 'https://www.thevccorner.com/p/a16z-new-media-and-yc-startups'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When capital is abundant, VCs who offer distribution and media reach win
@@ -76,6 +52,14 @@ stance: >-
   In a market where capital is commoditized, the ability to generate attention
   and distribution for portfolio companies is a stronger competitive moat than
   fund size or deal terms
+related:
+  - INS-260329-B424
+  - INS-260405-E027
+  - INS-260403-AF3B
+  - INS-260403-7881
+  - INS-260403-4227
+  - INS-260403-6694
+  - INS-260403-2F60
 ---
 The venture capital industry has reached a point where capital alone is insufficient to win the best deals. Top founders can choose their investors, and they increasingly select partners who bring distribution advantages. a16z recognized this by building a full media operation (New Media) under Erik Torenberg, offering 'Launch as a Service' to portfolio companies. Similarly, two newsletter operators with 5M weekly LinkedIn views and 200k+ newsletter subscribers used their media reach to get into 20+ oversubscribed YC rounds alongside tier-1 funds.
 

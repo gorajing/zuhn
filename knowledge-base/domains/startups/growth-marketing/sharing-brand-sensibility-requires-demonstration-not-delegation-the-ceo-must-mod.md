@@ -50,14 +50,14 @@ resolutions:
 related:
   - INS-260323-8392
   - INS-260322-7F88
+  - INS-260404-19B0
   - INS-260405-AD55
   - INS-260323-C90C
   - INS-260322-D5EB
-  - INS-260403-AEAF
   - INS-260327-8F03
-  - INS-260327-9CB1
-  - INS-260329-3EB6
   - INS-260329-74F9
+  - INS-260330-0E4B
+  - INS-260405-CA45
 stance: 'When scaling, CEOs cannot just delegate customer-facing work'
 evidence:
   - id: INS-260329-3EB6

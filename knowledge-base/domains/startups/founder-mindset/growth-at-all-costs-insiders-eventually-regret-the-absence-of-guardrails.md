@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: The Case for Big Action to Regulate Artificial Intelligence
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/the-case-for-big-action-to-regulate'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Chamath's admission that Facebook's team wishes they'd been more careful
@@ -62,6 +52,13 @@ stance: >-
   Founders and executives who exploit ungoverned landscapes for maximum growth
   reliably come to wish they had been more careful, revealing that
   self-regulation fails even among well-intentioned actors
+related:
+  - INS-260403-DF73
+  - INS-260404-D149
+  - INS-260404-7EFA
+  - INS-260330-9575
+  - INS-260326-2E56
+  - INS-260330-1F41
 ---
 Chamath's first-person account from inside Facebook is unusually candid: 'We did what we did to grow at all costs and beat the competition. We all wish we had been more careful.' This is a powerful data point against the self-regulation argument. Even people who understood the risks and had good intentions couldn't resist the competitive pressure to exploit an ungoverned landscape.
 

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Startup Location Strategy in 2025: Does It Still Matter Where You Build?'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-location-strategy-in-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Founders in smaller markets should build local ecosystem gravity through
@@ -59,6 +49,13 @@ stance: >-
   Second-tier cities like Gdańsk, Salt Lake City, and Amsterdam are producing
   outsized startup outcomes because local actors actively build ecosystem
   infrastructure rather than waiting for it to arrive.
+related:
+  - INS-260405-225B
+  - INS-260330-DD63
+  - INS-260403-C381
+  - INS-260403-5D7D
+  - INS-260403-DF45
+  - INS-260403-0A20
 ---
 In 2013, only four ecosystems globally had produced unicorns. By 2020, that number exploded to over 80 distinct regions. This isn't passive diffusion — companies like Develocraft in Gdańsk actively catalyzed their local ecosystem by launching tech conferences, coding academies, and talent attraction programs. They created gravity rather than chasing it elsewhere.
 

@@ -1,7 +1,4 @@
-# Tag: ai-native
+# Tag: AI-native
 
-- `INS-260322-EDA4` New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
-- `INS-260325-FADB` Open Router observes companies on their platform doing tens of millions in revenue with just five people, made possible by models powering what previously required large teams.
-- `INS-260322-CFB1` AI-native startups win most reliably at greenfield moments — new company creation or inflection points where customers must switch systems anyway — rather than trying to displace incumbent software.
-- `INS-260403-1D43` Incumbent game studios will use AI to cut costs and add depth to existing formats, but category-defining breakthroughs require AI-native thinking from new entrants.
-- `INS-260321-3D65` Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.
+- `INS-260323-4EE4` The new competitive moat is not better models but better judgment on which tasks go to which AI and which stay with humans.
+- `INS-260323-C90C` True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.

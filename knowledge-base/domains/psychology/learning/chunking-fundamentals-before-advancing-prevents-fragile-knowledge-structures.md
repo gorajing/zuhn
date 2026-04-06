@@ -51,26 +51,25 @@ related:
   - INS-260327-E016
   - INS-260329-393C
   - INS-260329-F886
+  - INS-260405-2688
   - INS-260329-91DD
   - INS-260329-E839
   - INS-260329-32DB
-  - INS-260329-7C59
   - INS-260329-153F
-  - INS-260330-B599
-  - INS-260405-2688
+  - PRI-260328-8516
 evidence:
   - id: INS-260329-E839
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-E016
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F886
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-393C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-2688
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The course's 100-chapter structure methodically builds from primitives (strings, numbers, booleans) through operators, conditionals, loops, functions, objects, and only then to ES6 abstractions like destructuring and spread operators. This mirrors cognitive science research on chunking — when basic operations become automatic, they consume less working memory, leaving capacity for higher-order reasoning.
 

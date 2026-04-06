@@ -54,8 +54,8 @@ related:
   - INS-260327-18D4
   - PRI-260403-7BEC
   - INS-260330-63BA
+  - INS-260403-309F
   - INS-260326-7B2A
-  - INS-260330-965B
   - INS-260330-1C90
 ---
 At a big company, mediocre employees fall through the cracks. At a startup, every person in the first 5-10 hires sets the cultural tone and directly shapes the company's trajectory. Altman reports that many companies with a bad first hire in the first three employees never recover. Airbnb's approach was extreme: Brian Chesky spent 5 months interviewing their first employee, wrote down cultural values before any hire, and asked candidates if they'd still take the job with one year to live (later relaxed to ten years).

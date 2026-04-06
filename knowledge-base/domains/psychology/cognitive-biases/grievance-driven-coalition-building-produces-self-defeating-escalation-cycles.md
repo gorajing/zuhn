@@ -49,11 +49,11 @@ stance: >-
   provoke the exact doubling-down from opponents that sustains and strengthens
   the grievance, creating a self-reinforcing polarization trap.
 related:
-  - INS-260330-9575
   - INS-260325-537A
+  - INS-260404-31C3
+  - INS-260330-9575
   - INS-260404-F834
   - INS-260404-B6CC
-  - INS-260327-A75C
 evidence:
   - id: INS-260327-A75C
     type: SUPPORTS

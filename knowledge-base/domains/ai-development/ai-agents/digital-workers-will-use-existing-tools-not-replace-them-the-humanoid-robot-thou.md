@@ -54,9 +54,10 @@ related:
   - INS-260325-031F
   - INS-260327-9C56
   - INS-260321-28FB
-  - INS-260325-2AA0
   - INS-260327-6976
   - INS-260403-9B5D
+  - INS-260403-225F
+  - INS-260405-E34C
 stance: >-
   AI agents will use existing software tools rather than replace them, just as a
   humanoid robot would use a microwave rather than beam microwaves fro...

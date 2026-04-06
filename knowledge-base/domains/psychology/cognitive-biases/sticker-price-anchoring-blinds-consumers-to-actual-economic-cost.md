@@ -50,13 +50,13 @@ related:
   - INS-260327-FC4F
   - INS-260329-67D1
   - INS-260330-8639
-  - INS-260330-1B6E
+  - INS-260403-A08A
   - INS-260403-97F8
 evidence:
   - id: INS-260330-8639
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-A763
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-97F8
     type: SUPPORTS
     classified_at: '2026-04-06'

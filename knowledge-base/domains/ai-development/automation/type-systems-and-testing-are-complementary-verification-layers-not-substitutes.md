@@ -53,26 +53,26 @@ stance: >-
   AI-generated code amplifies.
 related:
   - INS-260329-5EE7
-  - INS-260329-B214
-  - INS-260329-3441
-  - INS-260329-A218
-  - INS-260329-F84E
-  - INS-260329-03B5
   - INS-260329-F688
+  - INS-260329-3441
   - INS-260329-0154
   - INS-260402-8A7A
   - INS-260404-E8B2
+  - PRI-260405-3080
+  - INS-260329-F84E
+  - INS-260329-03B5
+  - INS-260329-9157
 evidence:
   - id: INS-260329-5EE7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FC75
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-A218
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-03B5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-E8B2
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The CS50 course devotes significant time to both type hints and pytest, treating them as complementary verification layers. Type systems catch structural errors (wrong argument types, missing returns, incompatible interfaces) at write-time, while tests catch behavioral errors (wrong logic, edge cases, integration failures) at run-time. Neither subsumes the other.
 

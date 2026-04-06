@@ -56,18 +56,18 @@ stance: >-
   can be independently optimized and gracefully degraded.
 related:
   - PRI-260403-7D53
-  - INS-260404-1CA4
+  - PRI-260405-CE75
   - INS-260404-1A3A
-  - INS-260330-0017
   - INS-260330-545E
-  - INS-260404-A08A
+  - INS-260403-D2FD
+  - INS-260330-F671
 evidence:
   - id: INS-260403-7738
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0017
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-545E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Photosynthesis doesn't convert photon energy to glucose in one step. Instead, it runs electrons through four protein complexes, each extracting a portion of energy for a specific purpose (splitting water, pumping protons, generating ATP, producing NADPH). The total conversion efficiency is only about 3-6%, yet this pipeline has powered nearly all life for 450 million years.
 

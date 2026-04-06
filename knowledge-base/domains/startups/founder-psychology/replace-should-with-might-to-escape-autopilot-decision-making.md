@@ -44,10 +44,10 @@ stance: >-
   practical intervention for breaking free of unconscious cognitive scripts.
 related:
   - INS-260330-DB4B
+  - INS-260403-2788
+  - INS-260404-8E68
   - INS-260330-7EDF
-  - INS-260403-53D9
-  - INS-260329-0F39
-  - INS-260330-A151
+  - INS-260404-323D
 evidence:
   - id: INS-260329-0F39
     type: SUPPORTS

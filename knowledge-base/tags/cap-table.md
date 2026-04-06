@@ -1,0 +1,31 @@
+# Tag: cap-table
+
+- `INS-260403-5365` Structured, data-driven equity splits based on measurable contributions outperform equal or gut-feel defaults.
+- `INS-260403-402F` A messy cap table during due diligence signals broader operational dysfunction and is one of the fastest deal-killers in venture financing.
+- `INS-260405-EB05` Investing at a $16M post-money and watching the company raise at $250M post-money looks like 15.6x on paper but nets only 5.5x after accounting for dilution from subsequent rounds.
+- `INS-260403-A7D6` Fixing deal-breakers others walk away from is the most defensible form of VC value-add.
+- `INS-260405-5BA9` Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
+- `INS-260402-3D34` Excessive early dilution locks in low valuations that create down-round dynamics or insufficient upside for later-stage investors.
+- `INS-260403-B6AB` Legal and structural hygiene issues kill more post-term-sheet deals than business fundamentals.
+- `INS-260403-5F1C` The transition from spreadsheet to dedicated equity platform should happen at the first priced round, not when errors become visible.
+- `INS-260403-D970` Capital planning is a multi-round game where compounding dilution across Seed through Series C dramatically reduces founder ownership beyond what single-round math suggests.
+- `INS-260403-31BD` Equity sitting with people who no longer contribute tells VCs the founder either can't make hard decisions or doesn't understand equity's strategic value.
+- `INS-260403-96A6` Employees joining startups should check whether the VC backers are a correlated herd, since inflated valuations from overcrowded rounds may impair their equity.
+- `INS-260403-ACC5` Institutional VCs screen for founder ownership levels and messy cap tables before investing, making excessive early dilution a compounding problem.
+- `INS-260405-863C` Founder ownership compounds downward with each funding round — modeling this early prevents exit-day surprises.
+- `INS-260403-8834` In a world where exit timelines exceed a decade, founders using structured secondaries for partial liquidity gain strategic advantages in talent retention and cap table management.
+- `INS-260403-D70C` A $300M acquisition offer becomes worthless when your last round was at $500M with 2x liquidation preferences.
+- `INS-260402-FC79` Ten friends each writing small checks under slightly different terms creates a cap table nightmare that VCs will either demand you fix or walk away from entirely.
+- `INS-260404-5EB8` Treating each fundraising round independently leads to compounding dilution that erodes founder ownership far more than single-round analysis suggests.
+- `INS-260403-D11C` Stacking SAFEs without modeling their combined conversion leads to shock dilution at the priced round.
+- `INS-260405-1A59` Combining government grants, multi-provider cloud credits, and RBF lines can fund a startup past $1M at 0% dilution.
+- `INS-260403-7190` Whether the option pool expands before or after new investment hits the cap table determines who actually bears the dilution cost.
+- `INS-260403-2F60` Model how proceeds actually distribute across the cap table before committing capital, because headline valuations mask who really gets paid.
+- `INS-260403-8421` Startups now go from Seed to Series C in under 24 months, making real-time cap table tracking and pre-planned reserves essential for follow-on participation.
+- `INS-260403-18E0` Converting enterprise value to equity value requires adjusting for debt, convertibles, and option pools—adjustments that systematically reduce founder ownership more than expected.
+- `INS-260403-49FC` VCs request option pool expansion pre-money to dilute founders instead of themselves, costing 5-10% ownership in a single line item.
+- `INS-260403-5151` SAFEs and convertible notes create stealth dilution that founders consistently underestimate until conversion forces a reckoning.
+- `INS-260404-943E` Six structural factors — low scalability, small market, wrong legal structure, broken cap table, no traction, and risk aversion — disqualify startups from VC regardless of pitch quality.
+- `INS-260403-A9F2` Venture debt warrants typically dilute founders 0.5-2% versus 15-25% for an equity round, making it dramatically cheaper in ownership terms.
+- `INS-260403-11E3` Exit waterfall modeling reveals how deal terms actually distribute value at different exit sizes, exposing whether employee equity retains meaningful upside.
+- `INS-260405-B01A` Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.

@@ -46,10 +46,13 @@ resolutions:
 related:
   - INS-260322-1D52
   - INS-260402-EA72
+  - INS-260403-EDEF
   - INS-260402-421B
+  - INS-260403-AC9F
   - INS-260402-27A1
-  - INS-260330-E39E
-  - INS-260402-2B96
+  - INS-260405-4D4D
+  - INS-260403-B5B7
+  - INS-260405-4D20
 stance: >-
   The most expensive period of a failing startup is not the building phase —
   it's the denial phase after the founder already knows it won't work.

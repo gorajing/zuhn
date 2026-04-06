@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "OpenAI’s SaaS Era Begins\U0001F525, State of AI Report\U0001F916, The Vibe Coding Boom Hits a Reality Check\U0001F4C9"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/openais-saas-era-begins-state-of'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     OpenAI is moving beyond API provider into direct enterprise SaaS competition
@@ -55,6 +45,13 @@ resolutions:
 stance: >-
   OpenAI building internal sales and support systems will force Salesforce and
   HubSpot into defensive AI integration rather than offensive product expansion.
+related:
+  - INS-260327-6B78
+  - INS-260404-3D17
+  - INS-260321-21BE
+  - INS-260327-540D
+  - INS-260405-8080
+  - INS-260404-183A
 ---
 OpenAI's development of internal sales and support systems represents a strategic shift from infrastructure provider to direct enterprise competitor. This mirrors the classic platform-to-product move where API companies realize they can capture more value by building the applications themselves rather than enabling others.
 

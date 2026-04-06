@@ -46,9 +46,9 @@ stance: >-
   idea volume and accept that most explorations will fail, just like VCs accept
   most investments will lose money
 related:
-  - PRI-260403-7D53
   - INS-260403-E172
   - INS-260403-1358
+  - PRI-260405-47B5
   - PRI-260328-9EC9
   - INS-260403-0372
   - INS-260405-7AE0

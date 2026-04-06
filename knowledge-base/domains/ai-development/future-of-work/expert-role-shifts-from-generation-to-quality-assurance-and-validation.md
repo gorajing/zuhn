@@ -48,13 +48,11 @@ stance: >-
   validating AI-generated output, making domain expertise more valuable not
   less.
 related:
-  - INS-260325-4C2E
-  - INS-260329-D3F6
+  - INS-260405-567D
   - INS-260329-6204
   - INS-260330-C071
   - PRI-260321-14D8
   - INS-260322-83D4
-  - INS-260330-0102
 evidence:
   - id: INS-260325-4C2E
     type: CONTRADICTS

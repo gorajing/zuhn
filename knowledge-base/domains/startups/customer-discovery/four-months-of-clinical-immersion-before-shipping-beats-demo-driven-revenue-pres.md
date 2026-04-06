@@ -42,8 +42,6 @@ stance: >-
   products that resistant users champion, while demo-first companies ship
   features nobody adopts.
 related:
-  - INS-260327-D888
-  - INS-260330-83D5
   - INS-260403-D82B
   - INS-260403-B635
   - INS-260403-AEAF

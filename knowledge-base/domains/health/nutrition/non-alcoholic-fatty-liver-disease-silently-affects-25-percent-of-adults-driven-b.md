@@ -39,13 +39,13 @@ stance: >-
   primarily by refined fructose (HFCS) and seed oil consumption causing hepatic
   insulin resistance and triglyceride accumulation in liver cells
 related:
-  - INS-260325-6DD8
   - INS-260325-6360
   - INS-260327-C8EB
   - INS-260327-9E9D
   - PRI-260328-40CA
+  - INS-260325-A03E
 evidence:
   - id: INS-260325-A9E0
-    relationship: RELATED
+    type: SUPPORTS
 ---
 NAFLD affects 1 in 4 adults with no symptoms until advanced stages; driven primarily by refined fructose (HFCS) and seed oil consumption causing hepatic insulin resistance and triglyceride accumulation in liver cells

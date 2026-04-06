@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: How to Prepare for Your First VC Intro Call (and Actually Impress Them)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-intro-call-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     After VC silence, wait 3-4 weeks then send concise milestone updates rather
@@ -58,6 +48,17 @@ stance: >-
   Sending short milestone-driven updates every 3-4 weeks after VC silence
   converts more passes into future investments than any amount of follow-up
   chasing
+related:
+  - INS-260325-D797
+  - INS-260327-FD15
+  - INS-260330-BCAF
+  - INS-260330-6A94
+  - INS-260403-4102
+  - INS-260403-77B4
+  - INS-260403-E63B
+  - INS-260403-14F4
+  - INS-260404-45BB
+  - INS-260323-95BC
 ---
 Silence after a VC intro call is the most common outcome, not rejection. VCs juggle dozens of meetings and interest fades for reasons unrelated to your startup. The instinct to chase or send frequent check-ins signals desperation and actually decreases your chances.
 

@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "AI In a Bubble?\U0001FAE7, Moats Revisited\U0001F6E1️, AI makes the old VC playbook obsolete⚡"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-in-a-bubble-moats-revisited-ai'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Investors should prioritize AI application-layer companies with workflow
@@ -60,6 +50,13 @@ stance: >-
   Investment value in the current AI wave accrues primarily to application-layer
   products that embed into workflows and drive measurable ROI, not to companies
   making bets on foundational models.
+related:
+  - INS-260322-EDC2
+  - INS-260327-89AE
+  - INS-260405-CA27
+  - INS-260403-E93A
+  - INS-260404-5AC8
+  - PRI-260324-36BF
 ---
 Notion VC's analysis argues that the next wave of AI value creation happens at the application layer—products that embed deeply into enterprise workflows, deliver measurable ROI, and meet governance standards. This contrasts with the earlier phase dominated by model-layer investments where capital flowed toward training bigger foundation models.
 

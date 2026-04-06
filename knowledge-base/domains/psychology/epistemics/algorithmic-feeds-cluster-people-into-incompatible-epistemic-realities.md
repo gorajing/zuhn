@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: The Media Landscape - Sense-Making 2.0'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-the-media-landscape-sense'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Feed algorithms don't just show different opinions — they construct
@@ -59,6 +49,15 @@ stance: >-
   Engagement-optimized algorithms don't just filter what people see — they
   create divergent factual realities that make cross-group communication
   structurally difficult.
+related:
+  - INS-260325-4C2E
+  - INS-260330-2B33
+  - INS-260402-5ACE
+  - INS-260404-8A8A
+  - INS-260404-4758
+  - INS-260323-9AA5
+  - INS-260323-8966
+  - INS-260405-370B
 ---
 The polarization problem is commonly framed as people having different values or opinions. But algorithmic clustering runs deeper: when two people's feeds are sufficiently diverged, they are exposed to different sets of claimed facts, different framings of events, and different figures of authority. The result is not disagreement about conclusions but incompatible starting premises — which makes persuasion or common ground nearly impossible.
 

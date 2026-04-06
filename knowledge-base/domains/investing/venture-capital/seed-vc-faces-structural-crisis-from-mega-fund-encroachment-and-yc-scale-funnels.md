@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Can Sam Altman end up in jail?\U0001F62E, “40% of startups die after a seed… 0.5-1% go IPO” \U0001F3C1"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/can-sam-altman-end-up-in-jail-40'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Seed VCs face tighter ownership, higher prices, and tougher differentiation
@@ -59,6 +49,17 @@ stance: >-
   Traditional seed-stage VC models are being structurally undermined by
   accelerator-scale deal flow, mega-fund downmarket moves, and AI's capital
   intensity requirements.
+related:
+  - INS-260323-750A
+  - INS-260327-9638
+  - INS-260403-4E71
+  - INS-260403-62D0
+  - INS-260404-FA1E
+  - INS-260405-A761
+  - INS-260404-0F6C
+  - INS-260405-A6E1
+  - INS-260404-CB41
+  - INS-260403-8EE8
 ---
 Seed-stage venture capital is experiencing structural headwinds from multiple directions simultaneously. YC and similar accelerators create massive funnels that commoditize early deal flow, while mega-funds like a16z increasingly write seed-sized checks, compressing ownership and inflating valuations at the earliest stages.
 

@@ -52,16 +52,16 @@ resolutions:
     founder explicitly frames it: 'An early-stage founder has nothing but
     themselves. You have to sell yourself well.'
 related:
+  - INS-260403-9942
+  - INS-260403-5301
   - PRI-260405-2A11
   - PRI-260405-E9C5
-  - INS-260403-7E27
-  - PRI-260403-26B9
-  - INS-260403-FE3B
+  - INS-260403-64F1
   - INS-260322-EF20
-  - INS-260327-6725
   - INS-260328-3FA4
-  - INS-260328-3F19
   - INS-260403-832E
+  - INS-260403-0618
+  - INS-260405-7F42
 stance: >-
   At pre-seed and seed stage, investors and early customers are betting on the
   founder's story and character, not the product.

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Inside OpenAI\U0001F9E0, Karpathy’s YC Talk\U0001F3A5, How AI Companies Actually Build Moats \U0001F3F0"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/inside-openai-karpathys-yc-talk-how'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Mira Murati's $12B valuation with no product shows that frontier AI
@@ -58,6 +48,12 @@ stance: >-
   The willingness of top-tier VCs to assign $12B valuations to AI labs with no
   shipped product indicates that team pedigree and research credibility have
   replaced product-market fit as the primary valuation driver in frontier AI.
+related:
+  - INS-260404-6B73
+  - INS-260321-3521
+  - INS-260403-6F75
+  - INS-260403-3A67
+  - INS-260404-83C6
 ---
 Mira Murati's AI lab raised $2B at a $12B valuation without shipping a product, backed by a16z and Nvidia. This is not an anomaly but a pattern in frontier AI: capital allocators are pricing the probability that elite AI researchers will create transformative technology, essentially treating team composition as the primary asset.
 

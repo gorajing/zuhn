@@ -49,11 +49,11 @@ stance: >-
   inputs and outputs, because the intermediate energy-transfer steps are
   invisible
 related:
-  - INS-260330-1084
+  - INS-260330-2C71
   - INS-260404-3500
+  - INS-260330-30FB
+  - INS-260330-1084
   - INS-260330-BC56
-  - PRI-260403-181B
-  - INS-260403-D2FD
 evidence:
   - id: INS-260404-2A07
     type: EXTENDS

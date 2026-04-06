@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "State of AI 2025\U0001F916, Biggest Fundraisers\U0001F4B0, Build Distribution\U0001F48C"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/state-of-ai-2025-biggest-fundraisers'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs increasingly use newsletters to build personal brands and attract
@@ -57,6 +47,13 @@ stance: >-
   Newsletters have become the dominant VC distribution strategy because they
   build trust and visibility with founders before the fundraise conversation
   begins.
+related:
+  - INS-260330-4DBE
+  - INS-260403-11CC
+  - INS-260403-A17D
+  - INS-260403-002C
+  - INS-260404-3A2E
+  - INS-260403-8CDC
 ---
 The newsletter-as-distribution-channel trend among VCs reflects a broader shift from passive deal sourcing (waiting for warm intros) to active audience building. Firms like this one (The VC Corner, 100k+ subscribers) demonstrate that consistent thought leadership creates a compounding advantage: founders seek out investors they already trust from content consumption.
 

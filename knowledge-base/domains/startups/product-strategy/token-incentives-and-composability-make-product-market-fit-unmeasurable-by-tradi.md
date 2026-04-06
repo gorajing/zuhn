@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: A product manager’s guide to web3
-    author:
-      - '@type': Person
-        name: Jason Shah
-        url: 'https://substack.com/@0xshah'
-        description: 'Web3 product leader (https://twitter.com/0xShah)'
-        identifier: 'user:20101102'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!4ex9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c48565c-a0f8-4e64-8177-7841409f326e_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!4ex9!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c48565c-a0f8-4e64-8177-7841409f326e_400x400.jpeg
+    author: Jason Shah
     url: 'https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Airdrop farming, data portability, and pseudonymous wallets break every
@@ -63,6 +53,13 @@ stance: >-
   Web3's combination of airdrop farming, portable user data, and pseudonymous
   wallets makes traditional product-market fit measurement fundamentally
   impossible, not just harder.
+related:
+  - INS-260327-0595
+  - INS-260403-3AC7
+  - PRI-260323-2E5A
+  - INS-260327-EBDF
+  - INS-260327-EA4E
+  - INS-260403-C681
 ---
 In web2, product-market fit can be measured through retention curves, NPS, engagement metrics, and cohort analysis because companies control user identity and behavioral data. Web3 eliminates nearly all of these signals simultaneously: users are pseudonymous across multiple wallets, on-chain data reveals transactions but not intent, decentralization ethos prevents traditional analytics tools, and token incentives create artificial engagement that masks real utility.
 

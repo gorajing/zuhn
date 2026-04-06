@@ -53,12 +53,11 @@ stance: >-
   infrastructure must be built proactively because the forced migration will
   come at the worst possible moment.
 related:
-  - INS-260322-34AE
   - PRI-260328-BE2D
   - INS-260325-3C17
+  - INS-260403-2496
   - INS-260327-95C6
-  - INS-260330-9014
-  - PRI-260328-A4AC
+  - INS-260330-2E1E
 evidence:
   - id: INS-260325-3C17
     type: TRANSFERS_TO

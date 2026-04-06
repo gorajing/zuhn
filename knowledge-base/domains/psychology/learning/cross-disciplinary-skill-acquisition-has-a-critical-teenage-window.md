@@ -46,11 +46,11 @@ stance: >-
   but by fear — the boundless confidence of teenage ignorance is the real
   enabler of polymathy.
 related:
+  - INS-260403-9F78
   - INS-260325-E84D
   - PRI-260327-5635
-  - INS-260323-8726
-  - INS-260402-E76D
-  - INS-260403-222E
+  - INS-260403-C10D
+  - INS-260404-996C
 evidence:
   - id: INS-260323-8726
     type: SUPPORTS

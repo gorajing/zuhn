@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "The End of SaaS⚡, Fintech Trends Q3 2024\U0001F4B3, Optionality in Venture Funds\U0001F4A1"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-end-of-saas-fintech-trends-q3'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Optionality embedded in fund structure creates asymmetric upside that rigid
@@ -56,6 +46,16 @@ stance: >-
   Venture funds that explicitly structure optionality into their fund design —
   through reserves, follow-on rights, and flexible mandates — systematically
   outperform rigid allocation strategies.
+related:
+  - INS-260403-CC4E
+  - INS-260403-C732
+  - INS-260404-DA3A
+  - INS-260404-A2CA
+  - INS-260403-032B
+  - INS-260403-FA65
+  - INS-260404-B496
+  - INS-260404-81AB
+  - INS-260403-08D8
 ---
 Venture fund performance is increasingly tied to how well the fund's structure preserves decision flexibility. Optionality in venture funds means maintaining the ability to double down on winners, pivot sector focus as markets shift, and deploy reserves strategically rather than committing all capital upfront to a fixed thesis.
 

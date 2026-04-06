@@ -1,5 +1,5 @@
 ---
-id: INS-260403-215E
+id: INS-260403-7DBB
 domain: startups
 topic: strategy
 title: Limit concurrent moonshots to maintain conviction without diluting execution
@@ -54,11 +54,12 @@ stance: >-
   existential if it fails.
 related:
   - INS-260327-24F4
-  - INS-260404-2E6C
+  - INS-260403-215E
   - INS-260403-81D4
+  - INS-260402-A629
+  - INS-260404-2E6C
+  - INS-260405-18AB
   - INS-260403-910E
-  - INS-260330-06CD
-  - INS-260403-1034
 evidence:
   - id: INS-260330-06CD
     type: REFINES

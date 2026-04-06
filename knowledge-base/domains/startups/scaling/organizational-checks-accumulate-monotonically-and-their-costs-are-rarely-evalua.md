@@ -48,10 +48,10 @@ stance: >-
   each new check is invisible while the disaster it prevents is vivid
 related:
   - INS-260403-83C7
+  - INS-260403-7DC7
   - INS-260403-696C
+  - INS-260403-65AC
   - PRI-260405-548B
-  - PRI-260405-9504
-  - INS-260403-97F8
 evidence:
   - id: INS-260403-546E
     type: TRANSFERS_TO

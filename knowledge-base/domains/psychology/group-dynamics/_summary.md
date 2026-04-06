@@ -1,9 +1,10 @@
 # Topic: group-dynamics
 
-> 56 insights
+> 98 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
+- `INS-260404-E716` [high] Surround yourself with peers doing ambitious work of their own — they can tell ugly ducklings from genuine failures, unlike generic encouragers.
 - `INS-260403-F322` [high] Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
 - `INS-260403-0525` [high] Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
 - `INS-260404-F172` [high] People say things anonymously online they would never say face to face, just as drivers behave more aggressively than pedestrians.
@@ -17,44 +18,85 @@
 - `INS-260330-6AC1` [high] Developer pecking orders reward complexity theater over actual delivery.
 - `INS-260403-3CFB` [high] The neocortex constrains stable social relationships to ~150-230 people, a biological limit unaffected by social media scale.
 - `INS-260403-2A50` [high] A population barely surviving only has energy to survive, while one tasting improvement develops the capacity and desire to demand more.
+- `INS-260403-5216` [high] The right creative peers aren't cheerleaders but fellow practitioners who can tell whether early ugly work has genuine promise.
 - `INS-260330-6E4E` [high] Freedom is typically eroded through small, individually reasonable steps that each seem too minor to resist, not through dramatic confrontation.
+- `INS-260403-F2BA` [high] When your grassroots supporters actively work against your stated policy positions, the public correctly perceives your stated positions as insincere.
 - `INS-260403-0C95` [high] Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260330-2B5F` [high] Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
+- `INS-260403-0D1F` [high] Progressive concentration in universities, nonprofits, and deep-blue cities makes activists see their positions as moderate when the broader public sees them as strongly left-leaning.
+- `INS-260403-D950` [high] Unchecked institutional misconduct escalates predictably because lack of consequences signals that aggression is safe.
+- `INS-260403-76C3` [high] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260403-4D45` [high] Intolerant people always exist — waves of suppression happen when an ideology gives them coordinated direction.
 - `INS-260404-AF54` [high] Most investors' primary question is 'who else is investing?' — revealing that social proof, not independent analysis, drives the vast majority of investment decisions.
 - `INS-260402-62E3` [high] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
+- `INS-260403-889B` [high] Moderate disengagement from online politics creates a selection effect that makes remaining discourse more extreme than the population it claims to represent.
+- `INS-260403-56D7` [high] Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.
 - `INS-260402-116A` [high] Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
 - `INS-260330-E794` [high] Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
+- `INS-260403-8D5C` [high] Anti-something coalitions hit a ceiling; pro-something coalitions break through it.
+- `INS-260403-2F4D` [high] People instinctively defer to established organizers, creating a coordination trap that requires explicit, public handoff ceremonies to break.
 - `INS-260402-A2F1` [high] When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
+- `INS-260404-4985` [high] Surround yourself with peers who can tell the difference between promising-but-ugly early work and genuinely bad work, not people who encourage everything.
+- `INS-260405-7460` [high] You need colleagues who can tell an ugly duckling from a baby swan — and only people doing similar ambitious work have that calibration.
 - `INS-260405-E06B` [high] When elite culture enforces a consensus, many people mouth the consensus publicly while holding different views privately — a stable equilibrium Graham calls 'bad table manners.'
 - `INS-260402-B817` [high] Groups persecute outsiders not from hatred but because shared enemies create the strongest internal bonds.
 - `INS-260330-DBAD` [high] The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.
 - `INS-260330-B22D` [high] Political visibility creates a separating equilibrium where any slight lean gets amplified into full tribal membership through social pressure.
 - `INS-260403-6947` [high] Production blocking — one person speaking while others must listen — suppresses parallel ideation and reduces total creative output in group sessions.
+- `INS-260404-64F1` [high] Colleagues working on their own ambitious projects can distinguish ugly ducklings from baby swans in a way that purely supportive friends cannot.
+- `INS-260403-1D41` [high] Demanding public loyalty oaths from sympathetic insiders converts them from effective advocates into impotent outsiders.
+- `INS-260402-B065` [high] Groups without external goals create toxic zero-sum status hierarchies where the game becomes the only game.
 - `INS-260330-9A34` [high] Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
+- `INS-260403-758F` [high] SEIU proposed the same dialysis regulations three consecutive elections because voters lack context to identify extortion disguised as reform.
+- `INS-260403-EDDC` [high] BART fare gates cut crime 54% by blocking the small fraction of non-paying riders who caused nearly all disorder.
+- `INS-260403-6861` [high] When crime policy becomes entangled with racial justice framing, pragmatic solutions like increased policing become morally impermissible regardless of evidence.
 - `INS-260402-FFCB` [high] Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
+- `INS-260403-8C7E` [high] Social media functions as a status marketplace where divisive hostility is the most reliable path to visibility and influence.
 - `INS-260403-C4E2` [high] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
+- `INS-260403-750A` [high] Gen Z's return to religion and structured practices signals that unconstrained freedom is experienced as a burden, not liberation.
 - `INS-260330-0FAF` [high] Which words are 'worst' shifts historically: religious oaths were most taboo when the church held power, bodily words when Victorian propriety reigned, and identity slurs now that social equality is the dominant moral framework.
 - `INS-260330-F759` [high] Being adjacent to a political coalition imports reputational costs from its worst members.
+- `INS-260403-E36A` [high] Making volunteer gaps visible combats the bystander effect in distributed community organizing.
+- `INS-260403-2AA2` [high] You need colleagues who can actually evaluate early work's potential, not just cheerleaders you'll learn to discount.
 - `INS-260330-9E1B` [high] Developers form identity-based tribes around tools (Vim, Arch Linux, etc.) that function as social status markers independent of productivity.
 - `INS-260404-D94D` [high] When tribal identity activates, people reject valid arguments purely based on source, making the structure of engagement more important than the content.
 - `INS-260330-6D2E` [high] Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
+- `INS-260403-BA53` [high] When a movement's opposition collapses, the movement loses its corrective feedback and extends past diminishing returns.
 - `INS-260330-FB9C` [high] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
 - `INS-260403-DB0A` [high] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
+- `INS-260404-F212` [high] Surrounding yourself with people working on similarly ambitious projects provides encouragement you won't learn to discount.
+- `INS-260403-1228` [high] The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work.
+- `INS-260404-C29F` [high] Surrounding yourself with indiscriminate encouragers teaches you to discount praise — you need peers with calibrated judgment on early work.
 - `INS-260404-FDB2` [medium] Being an accidental moderate requires more courage than being an extremist because you face attacks from both sides with no group to sustain you.
+- `INS-260403-62E0` [medium] AI slop constructions are being stigmatized through the same sociolinguistic mechanism that stigmatizes human dialects — association with a perceived low-status group, not any inherent grammatical deficiency.
 - `INS-260403-B9F4` [medium] Group settings amplify emotional reactions at the expense of intellectual processing, making audiences inherently less thoughtful than individual readers.
 - `INS-260403-E21C` [medium] Anonymous attribution rules produce more honest and valuable organizational learning than public case studies.
+- `INS-260403-CCA3` [medium] Movements that rely on outgroup fear for energy must rotate targets, which alienates each targeted group permanently and shrinks the coalition over time.
+- `INS-260403-824F` [medium] People dismiss ambitious early work partly because they unconsciously fear that the creator's success would threaten their own relative status.
+- `INS-260404-8031` [medium] You need colleagues who can see promise in rough early work, not just people who say everything is great.
+- `INS-260403-E6A8` [medium] Both Fatima and Dhammakaya events show that emotionally primed crowds gazing at the sun converge on shared anomalous percepts without requiring a hoaxer or hypnotist.
 - `INS-260403-7644` [medium] Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260330-B4BD` [medium] Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
+- `INS-260403-68CE` [medium] A woman's probability of having a child spikes in the 12-24 months after a close friend gives birth, proving fertility decisions spread socially.
+- `INS-260403-69C3` [medium] National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260402-1CAD` [medium] Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload.
+- `INS-260403-CF01` [medium] The same ethnic group can have radically different outcomes depending on the selection mechanism that brought them to a country.
 - `INS-260403-DA14` [medium] A leader's repeated norm violations train their handlers and staff to preemptively execute the cheating pattern without explicit instructions.
+- `INS-260403-2D89` [medium] Corporate roles survive because dismantling any one threatens all adjacent roles that depend on it for legitimacy.
+- `INS-260403-8E0C` [medium] SF's hardline progressives effectively allied with old-money NIMBYs to freeze the city in amber, despite framing their agenda as equity-driven.
 - `INS-260403-3A71` [medium] Publicizing that charisma decides elections should eventually force both sides to match on charisma, restoring issue-based competition.
+- `INS-260403-126D` [medium] Progressivism systematically degrades the liberal institutions it inherited by demanding more tolerance and accommodation than those systems can sustain.
 - `INS-260403-FF74` [medium] Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
 - `INS-260330-1293` [medium] North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
+- `INS-260403-0800` [medium] Institutional procedures that create the threat they respond to form closed loops where escalation always appears internally justified.
 - `INS-260403-A4EB` [medium] Your colleagues self-selected for the same reasons you did, which amplifies whatever motivated the choice — money makes it worse, interest makes it better.
 - `INS-260403-9A57` [medium] LatAm founders' shared vision of regional transformation creates collaborative network density that purely profit-driven ecosystems struggle to replicate.
+- `INS-260403-22ED` [medium] When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
+- `INS-260403-597B` [medium] Once a belief enters the startup investment market, follow-on dollars, valuation markups, and co-investor activity all amplify the same signal until divergence becomes irrational.
 - `INS-260403-D198` [medium] Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
 - `INS-260404-459B` [medium] Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260403-500F` [medium] More disagreement online is a structural artifact of conversational media, not evidence that people are angrier.
 - `INS-260330-534C` [medium] Which words are considered most offensive shifts historically, tracking whatever a culture holds most sacred or anxiety-producing.
+- `INS-260403-EC1D` [medium] Even incentive-aligned coordination mechanisms like assurance contracts fail because human attention, comprehension, and decision-making capacity are the binding constraints, not free-riding.
 - `INS-260330-6300` [medium] Taboo words often become taboo through class-based avoidance — higher-status groups abandon terms associated with lower-status groups, creating a euphemism treadmill.
+- `INS-260403-9A44` [low] Social backlash cycles can overshoot the original equilibrium, producing outcomes that exceed pre-controversy baselines.

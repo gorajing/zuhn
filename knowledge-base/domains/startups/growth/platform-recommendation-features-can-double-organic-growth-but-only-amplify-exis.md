@@ -18,43 +18,19 @@ tags:
 sources:
   - type: blog
     title: '1,000,000'
-    author:
-      '@type': Organization
-      name: Lenny's Newsletter
-      url: 'https://www.lennysnewsletter.com'
-      description: >-
-        Deeply researched product, growth, and career advice—newsletter,
-        podcast, community, and living library
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 1000000
-      identifier: 'pub:10845'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      sameAs:
-        - 'https://twitter.com/lennysan'
+    author: >-
+      {"@type":"Organization","name":"Lenny's
+      Newsletter","url":"https://www.lennysnewsletter.com","description":"Deeply
+      researched product, growth, and career advice—newsletter, podcast,
+      community, and living
+      library","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":1000000},"identifier":"pub:10845","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"sameAs":["https://twitter.com/lennysan"]}
     url: 'https://www.lennysnewsletter.com/p/1000000'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Platform recommendation features can massively accelerate growth but
@@ -81,6 +57,12 @@ stance: >-
   Substack's recommendation feature created a hockey-stick growth inflection
   that roughly doubled Lenny's subscriber count, but it only worked because
   other creators already valued his content enough to recommend it.
+related:
+  - INS-260403-99B1
+  - INS-260403-B18C
+  - INS-260403-45DB
+  - INS-260330-697F
+  - INS-260328-B57E
 ---
 Lenny attributes his growth from ~500K to 1M subscribers largely to Substack's recommendation feature, where over 5,000 other newsletters now recommend his. The chart shows a clear hockey-stick inflection when the feature launched. However, he emphasizes that this mechanism only works if other writers genuinely find your content worth recommending—making it fundamentally a word-of-mouth amplifier rather than an independent growth channel.
 

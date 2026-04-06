@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: There isn't always a "long arc" of morality
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/there-isnt-always-a-long-arc-of-morality'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Both sides of many social debates can credibly claim to defend 'rights,'
@@ -58,6 +46,12 @@ resolutions:
 stance: >-
   When both sides of a debate can legitimately frame their position as defending
   rights or freedoms, appeals to rights alone cannot resolve the disagreement.
+related:
+  - INS-260330-A151
+  - INS-260330-3698
+  - INS-260330-87A0
+  - INS-260330-6D13
+  - PRI-260323-287B
 ---
 Female athletes can frame sex-segregated spaces as a liberty right. Trans women can frame inclusion as an equality right. Asian applicants can frame opposition to affirmative action as anti-discrimination. Citizens can frame crackdowns on petty crime as freedom to walk safely. When 'rights' and 'freedoms' genuinely cut in multiple directions, the assumption that your side holds the self-evident rights position is a strategic blind spot.
 

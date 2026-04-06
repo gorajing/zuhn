@@ -52,7 +52,6 @@ resolutions:
 related:
   - INS-260321-E59A
   - INS-260325-C7FA
-  - INS-260325-1B3E
   - INS-260325-CC49
   - INS-260323-7BA4
   - INS-260323-36A8
@@ -60,6 +59,7 @@ related:
   - INS-260323-61D4
   - INS-260323-D8DD
   - INS-260323-089E
+  - INS-260323-7345
 evidence:
   - id: INS-260325-C7FA
     type: TRANSFERS_TO

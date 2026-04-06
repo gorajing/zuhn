@@ -51,7 +51,6 @@ stance: >-
   long-term achievement.
 related:
   - INS-260323-7E6F
-  - INS-260325-5B08
   - INS-260330-85E1
   - INS-260403-A1DF
   - INS-260403-6731

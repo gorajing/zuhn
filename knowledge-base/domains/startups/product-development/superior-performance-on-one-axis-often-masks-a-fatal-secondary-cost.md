@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260403-0E11
   - INS-260405-D3B5
+  - INS-260403-1E05
   - INS-260323-FAF2
   - INS-260403-304E
-  - INS-260403-EFAF
 evidence:
   - id: INS-260323-FAF2
     type: EXTENDS

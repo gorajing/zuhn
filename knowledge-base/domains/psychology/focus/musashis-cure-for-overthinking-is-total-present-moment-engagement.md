@@ -45,14 +45,14 @@ stance: >-
   through cultivating such intense present-moment engagement that rumination
   becomes physically impossible.
 related:
-  - INS-260325-25A2
   - INS-260325-3589
   - INS-260327-0133
   - INS-260327-5B13
   - INS-260327-454C
   - INS-260330-50D4
-  - PRI-260328-902C
-  - INS-260330-A476
+  - INS-260329-0B76
+  - INS-260403-9FB1
+  - INS-260403-387D
 evidence:
   - id: INS-260330-50D4
     type: CHALLENGES

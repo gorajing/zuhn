@@ -51,11 +51,11 @@ stance: >-
   iteration makes the product more personalized and harder to replicate.
 related:
   - INS-260325-FD14
-  - INS-260322-7282
   - PRI-260328-49CB
+  - INS-260402-55FB
   - PRI-260328-DF2D
-  - PRI-260324-36BF
-  - PRI-260328-D5EB
+  - INS-260329-E8EB
+  - INS-260322-7282
 evidence:
   - id: INS-260329-33C7
     type: SUPPORTS

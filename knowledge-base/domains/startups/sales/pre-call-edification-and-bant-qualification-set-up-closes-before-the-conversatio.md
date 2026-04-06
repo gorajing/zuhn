@@ -61,7 +61,6 @@ related:
   - INS-260330-A370
   - PRI-260403-0ABD
   - INS-260403-7E7C
-  - INS-260403-11CC
 evidence:
   - id: INS-260330-A370
     type: TRANSFERS_TO

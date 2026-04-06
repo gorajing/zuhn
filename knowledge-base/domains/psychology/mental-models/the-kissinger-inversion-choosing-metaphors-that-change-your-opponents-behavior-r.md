@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'No, China doesn''t plan 1000 years ahead'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/no-china-doesnt-plan-1000-years-ahead'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Kissinger chose Go over xiangqi not because it described China accurately,
@@ -60,6 +48,12 @@ resolutions:
 stance: >-
   The most effective strategic metaphors are chosen not for descriptive accuracy
   but for their ability to shape the audience's behavioral response.
+related:
+  - INS-260323-3982
+  - INS-260327-5E93
+  - INS-260327-E833
+  - INS-260403-0479
+  - INS-260323-DE39
 ---
 The CNN interview famously showed a xiangqi board while Kissinger discussed Go — revealing that the metaphor was never about accurately describing Chinese strategic culture. Xiangqi (Chinese chess) is faster-paced, more tactical, and far more popular in China than Go. If board games actually reflected strategic culture, China's approach would look more aggressive and short-term than America's, not less.
 

@@ -48,26 +48,26 @@ related:
   - INS-260322-D58A
   - INS-260325-D25C
   - INS-260327-CFD5
-  - INS-260329-B214
   - INS-260330-8304
-  - INS-260325-568A
-  - INS-260330-30DE
   - INS-260330-83D5
   - INS-260403-1E5A
   - INS-260404-7F34
+  - INS-260325-568A
+  - INS-260330-30DE
+  - INS-260323-2394
 evidence:
   - id: INS-260322-D58A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-D25C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8304
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FC75
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-568A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-30DE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-1E5A
     type: CHALLENGES
     classified_at: '2026-04-06'

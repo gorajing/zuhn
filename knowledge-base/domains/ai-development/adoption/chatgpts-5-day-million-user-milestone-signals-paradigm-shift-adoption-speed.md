@@ -42,31 +42,32 @@ stance: >-
   Consumer AI adoption velocity exceeds all prior technology platforms by orders
   of magnitude, indicating a qualitatively different category of disruption
 related:
-  - INS-260322-3263
   - INS-260321-5DF8
   - INS-260327-560D
   - INS-260330-410A
+  - INS-260403-4819
+  - INS-260405-D660
   - INS-260321-6437
-  - INS-260330-3398
-  - INS-260330-9C48
-  - INS-260330-B437
-  - INS-260403-D1D0
+  - INS-260405-62F8
+  - INS-260403-2A0F
+  - INS-260405-963B
+  - INS-260403-8421
 evidence:
   - id: INS-260320-20F2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-560D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-9415
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-410A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4553
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9C48
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B437
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D1D0
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The comparison points are striking: Facebook took 2 years to reach 1 million users, Instagram took 2 years, Pinterest took 4 months, Angry Birds took 35 days, and ChatGPT did it in 5 days. This isn't just a faster version of normal technology adoption — the speed difference is qualitative, suggesting AI tools tap into a fundamentally different demand curve. When adoption happens this fast, it indicates the technology is solving a problem people already had but couldn't articulate, and that the barrier was access rather than need. For founders and investors, this adoption velocity pattern is a leading indicator that AI represents a platform shift on par with the internet, not an incremental improvement.

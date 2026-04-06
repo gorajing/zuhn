@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The right creative peers aren't cheerleaders but fellow practitioners who
@@ -64,6 +52,12 @@ stance: >-
   counterproductive for ambitious projects; you need colleagues who can
   distinguish an ugly duckling from a baby swan, which requires them to be doing
   similar work themselves.
+related:
+  - INS-260403-1228
+  - INS-260404-4985
+  - INS-260403-56A9
+  - INS-260404-E716
+  - INS-260403-2AA2
 ---
 Graham makes a crucial distinction about creative environments that's often missed: the goal is not to surround yourself with people who are always encouraging. You'd quickly learn to discount unconditional support, making it useless. What you need are colleagues with genuine diagnostic ability — people who can look at messy early work and distinguish real promise from actual mediocrity.
 

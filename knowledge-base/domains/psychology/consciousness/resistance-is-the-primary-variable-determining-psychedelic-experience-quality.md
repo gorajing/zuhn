@@ -52,10 +52,10 @@ stance: >-
   entirely by one's capacity to surrender resistance rather than by the content
   of the visions themselves.
 related:
-  - INS-260325-216D
   - INS-260330-5828
   - INS-260330-24DD
   - INS-260330-3748
+  - INS-260325-216D
   - PRI-260325-2DE6
   - INS-260326-24E6
 ---

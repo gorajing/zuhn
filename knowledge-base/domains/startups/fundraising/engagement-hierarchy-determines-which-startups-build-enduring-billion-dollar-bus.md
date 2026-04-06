@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "AI Agents\U0001F916, Rise of “Venture Banks” \U0001F3E6, US Venture Capital Outlook \U0001F4C5 "
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-agents-rise-of-venture-banks-us'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Greylock's Hierarchy of Engagement framework shows that billion-dollar
@@ -59,6 +49,15 @@ stance: >-
   Startups that systematically deepen user engagement through a hierarchy of
   increasing commitment build more durable businesses than those optimizing for
   acquisition volume.
+related:
+  - INS-260327-DD5C
+  - INS-260327-2C46
+  - INS-260327-29F0
+  - INS-260327-1B60
+  - INS-260329-B194
+  - INS-260323-BF81
+  - INS-260403-2D39
+  - INS-260325-FDF5
 ---
 Greylock Partners' framework on engagement as the key to building billion-dollar businesses presents a hierarchical model where companies must progress users through escalating levels of engagement. This isn't just about DAU/MAU ratios — it's about creating compounding loops where deeper engagement generates network effects and switching costs.
 

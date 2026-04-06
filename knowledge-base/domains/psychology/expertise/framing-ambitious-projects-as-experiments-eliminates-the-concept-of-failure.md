@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Treating new work as experiments means even failures produce knowledge,
@@ -58,6 +46,16 @@ resolutions:
 stance: >-
   Reframing projects as experiments rather than outcomes transforms failure into
   data and sustains motivation through early lame phases
+related:
+  - INS-260329-A077
+  - INS-260403-5C89
+  - INS-260403-4050
+  - INS-260403-872C
+  - INS-260404-8ACB
+  - INS-260403-9F78
+  - INS-260404-6DA9
+  - INS-260404-A46A
+  - INS-260404-4320
 ---
 When you frame a project as 'making something,' failure means you made something bad. When you frame it as 'running an experiment,' failure means you learned something. This single reframe changes the entire emotional calculus of ambitious work. The fear of lameness loses its grip because experiments are supposed to produce messy, incomplete results.
 

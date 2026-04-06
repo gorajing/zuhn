@@ -56,10 +56,10 @@ stance: >-
   make abstract skills immediately meaningful.
 related:
   - INS-260329-89CB
+  - INS-260329-153F
   - INS-260322-32E3
   - INS-260330-0F71
   - INS-260330-367B
-  - INS-260329-BE50
 evidence:
   - id: INS-260322-32E3
     type: CHALLENGES

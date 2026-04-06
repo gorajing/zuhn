@@ -48,11 +48,11 @@ stance: >-
   more total demand for those service categories in the long run even as it
   displaces workers in the short term.
 related:
-  - INS-260325-722C
   - INS-260325-2906
+  - INS-260325-722C
   - INS-260325-0F4F
+  - INS-260402-E144
   - INS-260323-F2BD
-  - INS-260323-257D
 evidence:
   - id: INS-260325-0F4F
     type: SUPPORTS

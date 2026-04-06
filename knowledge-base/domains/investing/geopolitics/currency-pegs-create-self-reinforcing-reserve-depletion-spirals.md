@@ -46,11 +46,12 @@ stance: >-
   accelerates foreign reserve depletion by driving remittances and transactions
   to black markets, making the peg even harder to maintain.
 related:
-  - INS-260327-9BE8
+  - INS-260403-8C41
   - INS-260403-8BE9
+  - INS-260327-C910
+  - INS-260403-B01D
   - INS-260403-99DE
-  - INS-260330-EEED
-  - INS-260403-A87D
+  - INS-260404-80F3
 evidence:
   - id: INS-260330-EEED
     type: TRANSFERS_TO

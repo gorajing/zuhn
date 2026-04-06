@@ -49,7 +49,8 @@ related:
   - INS-260330-3879
   - INS-260323-9F61
   - INS-260325-4C6D
-  - INS-260323-4A3D
+  - INS-260405-DADB
+  - INS-260405-16AB
 stance: >-
   The Watts-Strogatz model shows that rewiring just 0.03% of connections to
   random shortcuts makes any network as navigable as a fully random one.

@@ -1,24 +1,27 @@
 # Tag: resilience
 
+- `INS-260405-88A4` Shield AI's Hivemind is valuable because it operates when networks fail, not just when they work—the degraded-environment use case is the one no commercial AI product solves.
+- `INS-260405-844D` A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
+- `INS-260404-CDD2` The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency.
 - `INS-260329-92FC` Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
 - `INS-260329-3FC9` Try-except forces you to explicitly enumerate what can go wrong, transforming crashes into controlled responses — the foundation of production-grade software.
 - `INS-260329-9010` Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
 - `INS-260329-3441` Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
+- `INS-260320-0F7C` Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
 - `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
 - `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
-- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
-- `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
-- `INS-260327-7E6F` After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
-- `INS-260323-DA4E` Third-generation refugees maintain resilience through the frame 'nothing lasts forever' — historical perspective that no occupation is permanent provides psychological survival even when immediate hope is absent.
-- `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
-- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
-- `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
-- `INS-260405-18F3` Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
-- `INS-260325-5C03` The resilience paradox: we can identify many factors correlated with resilience, but none strongly predict who will be resilient next time, because the meta-skill is flexibly matching strategy to situation.
-- `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
+- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
+- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
+- `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
+- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
+- `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
+- `INS-260329-03B5` Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
+- `INS-260405-18F3` Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
+- `INS-260325-5C03` The resilience paradox: we can identify many factors correlated with resilience, but none strongly predict who will be resilient next time, because the meta-skill is flexibly matching strategy to situation.
+- `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
 - `INS-260330-E03A` NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
 - `INS-260323-08E9` A Palestinian man who has endured violence and displacement says 'I love everybody, even the Jews they kill us' — demonstrating that choosing love over hatred is a deliberate, renewable act of will, not a passive absence of anger.
 - `INS-260327-78DA` Nietzsche's amor fati doesn't just accept suffering - it loves it, treating every hardship as necessary raw material for becoming who you are.
@@ -32,25 +35,36 @@
 - `INS-260330-0DFC` Rogan survived his cancellation by refusing to read any negative coverage, telling his wife never to read negative articles to him, and continuing his normal work routine.
 - `INS-260325-B4CB` Happiness is a feeling; joy is a story that says life is still worth loving even with all its brokenness.
 - `INS-260325-0172` Happiness is fragile and requires things going well; joy is existentially gritty and can coexist with the deepest suffering.
+- `INS-260403-DFBD` Expecting difficulty as the default state prevents the psychological fracture that occurs when optimistic leaders encounter inevitable friction.
 - `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - `INS-260330-1226` After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
 - `INS-260327-900A` The darkest philosophical questions don't need to be avoided for psychological health - they need to be integrated, producing a resilience that avoidance can never build.
 - `INS-260325-F707` Lists of '3 traits of highly resilient people' are myths — research finds many factors with small effects, meaning resilience is not a fixed character trait but an emergent outcome of many interacting variables.
 - `INS-260330-9351` The healthiest people in isolation self-stimulate through counting, exercise, and narration — passive endurance leads to cognitive decline and dissociation.
+- `INS-260403-1A05` Slight overconfidence armors you against both external skepticism and your own harsh self-judgment during early creative phases.
+- `INS-260403-387D` Slight overconfidence armors you against the dual headwinds of external dismissal and internal self-doubt.
 - `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
 - `INS-260325-C2DA` During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
 - `INS-260325-3754` Research consistently shows approximately two-thirds of people exposed to potentially traumatic events continue functioning normally — resilience is the norm, not the exception.
 - `INS-260327-ECBB` Choosing to live with less than you can afford builds a psychological strength that living at maximum comfort systematically destroys.
 - `INS-260330-3E64` Rogan credits brutal exercise routines, sauna, and cold plunge as the primary mechanism that made surviving his cancellation attempt manageable.
+- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
+- `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
+- `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
+- `INS-260327-7E6F` After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
+- `INS-260323-DA4E` Third-generation refugees maintain resilience through the frame 'nothing lasts forever' — historical perspective that no occupation is permanent provides psychological survival even when immediate hope is absent.
+- `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
+- `INS-260403-83A4` eDreams built multiple 'inelegant' revenue streams (web-scraping, service fees, media business, hybrid OTA-Meta) that gave them resilience investors initially dismissed.
 - `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
 - `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
+- `INS-260403-8194` Tariffs up to 34% on China/Taiwan/Korea imports are forcing hardware startups to shift from cost-optimized to resilience-optimized supply chains.
 - `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
-- `INS-260323-9C11` Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
-- `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
-- `INS-260403-7252` Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
+- `INS-260403-9746` 20VC's origin story demonstrates how a personal low created the space for a media platform that snowballed into a capital engine.
+- `INS-260403-77F4` Measure and minimize the gap between failure and relaunch rather than trying to prevent all failures.
 - `INS-260327-E3D5` Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
 - `INS-260404-8A02` Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
 - `INS-260327-CF53` Treat every external limitation and setback as jet fuel for your trajectory.
@@ -65,10 +79,17 @@
 - `INS-260329-BBBE` After losing everything, Hormozi made $100K the next month — proving the skills, not the business, were the real asset he'd built.
 - `INS-260329-E0DE` Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
 - `INS-260403-12FD` Real users create a sense of obligation that keeps founders working through the emotional valleys that kill most startups.
+- `INS-260323-9C11` Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
+- `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
+- `INS-260405-CF31` Academic research by Freeman et al. finds that entrepreneurs and their families have disproportionately high prevalence of psychiatric conditions, suggesting founder mental health is a systemic issue, not individual weakness.
+- `INS-260403-35EE` VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
+- `INS-260325-0C4A` Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
+- `INS-260403-7252` Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
 - `INS-260403-1C09` Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260323-B497` Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.
 - `INS-260328-41C9` Interviewers use rejection questions to filter for coachability and growth mindset — the answer reveals whether a candidate will burn out or improve under pressure.
 - `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
+- `INS-260403-E09C` Design for geographic flexibility by treating location as a variable you iterate on as the company evolves.
+- `INS-260403-0CB8` Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
 - `INS-260330-D88C` Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
-- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.

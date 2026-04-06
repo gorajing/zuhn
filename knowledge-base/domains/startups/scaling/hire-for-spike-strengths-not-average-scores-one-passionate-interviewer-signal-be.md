@@ -53,11 +53,12 @@ stance: >-
   with their abilities, not candidates who score well on average across all
   interviewers
 related:
-  - INS-260323-475F
   - INS-260405-D66B
+  - INS-260323-475F
   - INS-260323-F2C3
   - INS-260404-FE95
   - INS-260330-F800
+  - INS-260403-735E
 evidence:
   - id: INS-260402-C4FF
     type: SUPPORTS

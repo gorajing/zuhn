@@ -19,26 +19,14 @@ sources:
     title: >-
       The Death of the Corporate Job: Why Work Feels Pointless and What Comes
       Next
-    author:
-      - '@type': Person
-        name: Alex McCann
-        url: 'https://substack.com/@alexmccannn'
-        description: >-
-          On a mission to re-think traditional careers advice and help people
-          find meaningful work.
-        identifier: 'user:327442941'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!x9KN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a18ed94-309d-41f4-b2e1-0fdce0b769d7_389x389.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!x9KN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a18ed94-309d-41f4-b2e1-0fdce0b769d7_389x389.jpeg
+    author: Alex McCann
     url: 'https://www.thevccorner.com/p/death-of-the-corporate-job'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Corporate roles survive because dismantling any one threatens all adjacent
@@ -62,6 +50,17 @@ stance: >-
   Corporate bureaucracies persist not from top-down mandate but from bottom-up
   mutual dependency where each role validates adjacent roles in a
   self-reinforcing loop of performed usefulness
+related:
+  - INS-260330-3698
+  - INS-260402-1CAD
+  - INS-260402-ECB6
+  - INS-260402-0DC9
+  - INS-260403-5F44
+  - PRI-260323-50FE
+  - PRI-260323-0F93
+  - PRI-260323-A3A3
+  - PRI-260324-2A76
+  - INS-260403-16A7
 ---
 David Graeber's bullshit jobs concept has evolved beyond individual pointless roles into entire ecosystems of mutual validation. The analyst needs the consultant who needs the manager who needs the workshop facilitator — each role justifies the others in a closed loop. This is why corporate bloat resists top-down reform: cutting any node threatens the legitimacy of connected nodes, creating collective resistance even when every individual privately acknowledges the absurdity.
 

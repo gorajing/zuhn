@@ -55,6 +55,8 @@ related:
   - INS-260402-C030
   - INS-260403-8A29
   - INS-260330-912C
+  - INS-260403-CF01
+  - INS-260404-667A
 evidence:
   - id: INS-260323-3920
     type: EXTENDS

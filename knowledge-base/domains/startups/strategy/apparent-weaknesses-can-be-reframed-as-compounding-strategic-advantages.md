@@ -50,12 +50,12 @@ stance: >-
   constraints that competitors avoid, turning each seeming weakness into a
   structural strength.
 related:
-  - INS-260329-21AF
   - INS-260404-8B1C
   - INS-260404-8D5F
   - INS-260403-524B
   - INS-260403-6BD9
   - INS-260405-9EE6
+  - INS-260403-CDC9
 evidence:
   - id: INS-260403-524B
     type: SUPPORTS

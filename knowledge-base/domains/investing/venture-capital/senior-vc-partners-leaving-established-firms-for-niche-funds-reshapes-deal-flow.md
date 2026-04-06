@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Climate Tech is \"Dead\"\U0001F331, The Rise of Anti-Woke VC\U0001F4BC, State of Global VC \U0001F30D"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/climate-tech-is-dead-the-rise-of'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Experienced VC partners are increasingly leaving big firms to launch
@@ -56,6 +46,12 @@ stance: >-
   The trend of experienced partners leaving large firms to start specialized
   niche funds will produce better returns than generalist megafunds over the
   next decade
+related:
+  - INS-260403-8A28
+  - INS-260403-2FF2
+  - INS-260404-12FB
+  - INS-260403-8441
+  - INS-260404-7679
 ---
 A notable trend in the venture landscape is senior partners departing established, generalist VC firms to create smaller, thesis-driven niche funds. This signals that experienced investors see more opportunity in deep specialization than in the generalist megafund model.
 

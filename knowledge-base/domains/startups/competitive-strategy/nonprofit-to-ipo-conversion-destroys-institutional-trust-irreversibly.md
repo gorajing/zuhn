@@ -48,11 +48,11 @@ stance: >-
   rebuilt, as every subsequent decision is interpreted through the lens of
   profit motive.
 related:
+  - INS-260403-88F2
   - INS-260327-9EE4
   - INS-260330-636E
+  - INS-260404-7679
   - INS-260330-8998
-  - INS-260328-896B
-  - INS-260327-7C15
 evidence:
   - id: INS-260328-896B
     type: SUPPORTS

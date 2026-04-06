@@ -45,8 +45,8 @@ related:
   - PRI-260323-7805
   - PRI-260324-5F05
   - INS-260330-C7E6
+  - INS-260403-8155
   - INS-260330-D460
-  - INS-260323-D6BD
 stance: >-
   In firearms, the US government decides which foreign manufacturers can sell to
   American civilians

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "SaaS vs AI Economics\U0001F4A1, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally \U0001F4C9"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/saas-vs-ai-economics-the-big-book'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Top-performing 2025 revenue teams achieved ~77% higher revenue per rep
@@ -58,6 +48,12 @@ resolutions:
 stance: >-
   Frequent AI adoption with redesigned workflows drives dramatically higher
   revenue per rep than surface-level AI tooling
+related:
+  - INS-260321-822B
+  - INS-260403-DAFA
+  - INS-260405-35DF
+  - INS-260403-1B8C
+  - INS-260403-CBFF
 ---
 The highest-performing revenue teams in 2025 diverged from the traditional growth playbook of hiring more reps. Instead, they focused on output per rep by deeply integrating AI into their workflows — not just adding chatbot tools, but fundamentally redesigning processes around AI capabilities. Gong's data shows this approach yielded roughly 77% higher revenue per rep compared to average teams.
 

@@ -50,9 +50,9 @@ stance: >-
   highest-leverage strategic analysis.
 related:
   - INS-260321-B85C
-  - INS-260325-B234
   - PRI-260328-99F0
   - INS-260403-2D99
+  - INS-260325-B234
   - PRI-260328-F0B4
   - INS-260403-8114
 evidence:

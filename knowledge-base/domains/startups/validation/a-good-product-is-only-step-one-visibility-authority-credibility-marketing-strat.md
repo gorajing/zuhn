@@ -55,12 +55,12 @@ related:
   - INS-260322-BD0D
   - INS-260403-754F
   - INS-260403-AFBB
+  - INS-260403-BC04
+  - INS-260403-CD74
   - INS-260405-8BEA
-  - INS-260322-5650
-  - INS-260327-735A
   - INS-260327-47BA
-  - INS-260403-9689
-  - INS-260403-35E7
+  - INS-260405-6BBC
+  - INS-260403-05B8
 stance: Having a great product is necessary but nowhere near sufficient
 evidence:
   - id: INS-260403-AFBB

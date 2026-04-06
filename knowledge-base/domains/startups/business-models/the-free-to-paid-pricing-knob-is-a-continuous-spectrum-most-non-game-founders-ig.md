@@ -50,9 +50,9 @@ stance: >-
   user segment — unlocks more revenue than binary free-or-paid models
 related:
   - INS-260322-37EE
-  - INS-260327-1576
   - PRI-260328-6A8D
   - INS-260403-3656
+  - INS-260327-1576
   - INS-260330-E8C6
 ---
 Gaming companies treat the boundary between free and paid as a knob they continuously turn — experimenting with how much value to give away free, where to introduce conversion pressure, and crucially, setting different positions for different user segments. Facebook and Google do similar tuning with ad frequency. Yet most non-game SaaS and consumer founders set a single static pricing tier and rarely revisit it.

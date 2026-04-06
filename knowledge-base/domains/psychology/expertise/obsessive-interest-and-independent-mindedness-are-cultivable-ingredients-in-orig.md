@@ -46,15 +46,15 @@ stance: >-
   cultivable rather than inborn
 related:
   - INS-260325-2C31
-  - INS-260322-25B4
   - INS-260321-1A84
   - INS-260329-1739
   - INS-260403-0907
-  - INS-260403-41BC
   - INS-260403-FE91
   - INS-260403-A136
   - INS-260403-A4CF
   - INS-260405-CCB4
+  - INS-260403-41BC
+  - INS-260403-79E0
 evidence:
   - id: INS-260405-670E
     type: CHALLENGES

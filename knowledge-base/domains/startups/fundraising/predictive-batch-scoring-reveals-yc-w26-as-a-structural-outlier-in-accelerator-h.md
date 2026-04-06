@@ -20,41 +20,19 @@ sources:
     title: >-
       YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in
       Y Combinator History
-    author:
-      '@type': Organization
-      name: The VC Corner
-      url: 'https://www.thevccorner.com'
-      description: >-
-        The VC Corner is where founders stay ahead: sharp news, fundraising
-        strategies, battle-tested playbooks, and the tools to grow.
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 100000
-      identifier: 'pub:2125183'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
+    author: >-
+      {"@type":"Organization","name":"The VC
+      Corner","url":"https://www.thevccorner.com","description":"The VC Corner
+      is where founders stay ahead: sharp news, fundraising strategies,
+      battle-tested playbooks, and the tools to
+      grow.","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":100000},"identifier":"pub:2125183","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"}}
     url: 'https://www.thevccorner.com/p/yc-w26-demo-day-2026-complete-breakdown'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Rebel Fund's ML scoring shows W26's entire distribution curve shifted right
@@ -81,6 +59,17 @@ stance: >-
   structural quality shifts before outcomes materialize, and W26's rightward
   distribution shift suggests accelerator selection is becoming more predictive
   over time.
+related:
+  - INS-260325-3B28
+  - INS-260323-475F
+  - INS-260327-4CCE
+  - INS-260327-4348
+  - INS-260403-7DEC
+  - INS-260330-808B
+  - INS-260403-C89A
+  - INS-260404-A2C4
+  - PRI-260322-8FD4
+  - INS-260404-9103
 ---
 Rebel Fund, which has attended every YC Demo Day since 2013, built a machine learning algorithm to score YC batches. Their W26 analysis reveals something unprecedented: 35% of startups score in the top 20% of all YC companies ever evaluated, and the entire distribution curve has shifted right with fewer predicted zombie companies.
 

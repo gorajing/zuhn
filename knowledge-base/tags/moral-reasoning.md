@@ -8,4 +8,5 @@
 - `INS-260323-2874` Emotional contagion empathy makes one identified victim more compelling than 500,000 statistical victims — reason must override this bias for good ethical decisions.
 - `INS-260330-6D13` Treating all sides as morally equal regardless of their demonstrated ethical norms is a failure of moral reasoning, not balanced thinking.
 - `INS-260330-7E97` WWII proved that the most technologically advanced civilization in history could commit the worst atrocities, shattering the Enlightenment assumption that progress is unitary.
+- `INS-260403-8DCA` Both sides of many social debates can credibly claim to defend 'rights,' making rights-based framing insufficient for strategic decision-making.
 - `INS-260330-3698` Mentally reversing roles in a conflict reveals whether both sides operate under the same ethical constraints.

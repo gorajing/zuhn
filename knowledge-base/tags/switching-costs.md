@@ -1,24 +1,35 @@
 # Tag: switching-costs
 
+- `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
+- `INS-260403-504D` Being the only AI vendor integrated into classified systems creates leverage so strong that the government prefers coercion over switching.
+- `INS-260404-F0C3` Google and Meta's TorchTPU collaboration attacks NVIDIA's software moat by eliminating the code-rewrite barrier to switching from GPUs to TPUs.
 - `INS-260322-A367` Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
-- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
-- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260327-C9A7` Apple users stay not because of iMessage lock-in or ecosystem integration but because leaving Apple would mean abandoning a part of their self-identity.
+- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
+- `INS-260405-17D4` When users publicly identify as 'a Figma designer,' the product gains social switching costs on top of technical ones.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
+- `INS-260404-9004` Subscription SaaS companies from 2012 built durable moats through deep enterprise integration and high switching costs.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
+- `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.
 - `INS-260327-3DE7` AI will make it trivial to port data and clone product experiences, eroding brand as a meaningful B2B moat.
+- `INS-260405-71E1` Network effects and switching cost moats are structurally superior because they strengthen with scale, while cost-based moats invite well-funded competition.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260403-98F3` Even sound business models die when external threats — competitor lock-in, shifting customer needs, macro trends — go unmonitored.
 - `INS-260329-9BC0` Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
 - `INS-260330-DCFB` Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
+- `INS-260402-97AF` Open-source code plus portable user data means web3 projects cannot rely on IP or lock-in—only ongoing community value sustains them.
 - `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
+- `INS-260403-7A48` Foundation models can now integrate, retrain, and migrate data across platforms with minimal friction, rendering traditional SaaS lock-in strategies obsolete.
 - `INS-260404-1A9D` When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-0371` Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
+- `INS-260404-C6EB` Lenny's Newsletter bundles 15+ premium tools worth $10,000+ into a $350/year subscription, creating multi-product lock-in.
 - `INS-260330-1A23` Free samples designed to eliminate the user's ability to revert create permanent lock-in.
 - `INS-260405-8107` Bundled technology ecosystems like Java/Oracle convert upfront savings into permanent switching costs that organizations discuss escaping but rarely do.
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
 - `INS-260330-C870` Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
+- `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
 - `INS-260405-95AE` RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.

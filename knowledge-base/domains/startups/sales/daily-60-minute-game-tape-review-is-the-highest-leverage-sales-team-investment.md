@@ -46,7 +46,6 @@ stance: >-
   drills 5min + call recording analysis 30min) creates more consistent sales
   performance than any other single management practice.
 related:
-  - INS-260322-76B5
   - INS-260327-C7D5
   - INS-260327-CC57
   - INS-260327-C5D9

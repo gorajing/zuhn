@@ -47,10 +47,10 @@ resolutions:
     federal government already uses.
 related:
   - INS-260322-25B4
+  - INS-260403-6861
+  - INS-260403-FC4F
   - INS-260330-059C
-  - INS-260330-F258
-  - INS-260403-F8AE
-  - INS-260404-67C5
+  - INS-260404-0B8E
 stance: >-
   Flock Safety's AI-matched license plate system has facilitated about 1 million
   arrests of the correct person, shifting policing from subjective pro...

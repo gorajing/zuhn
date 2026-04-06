@@ -19,26 +19,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Silicon Valley's tolerance for weird ideas is a cultivated social custom
@@ -67,6 +55,17 @@ resolutions:
 stance: >-
   Cultures can deliberately evolve norms that treat ambitious early-stage ideas
   charitably, and such norms spread when they prove economically superior
+related:
+  - INS-260321-1A84
+  - INS-260323-D934
+  - INS-260327-8BF6
+  - INS-260330-593E
+  - INS-260402-9E2D
+  - INS-260403-74E5
+  - INS-260403-922C
+  - INS-260403-FF74
+  - INS-260403-39E9
+  - INS-260403-3BD3
 ---
 Graham argues that Silicon Valley's distinctive openness to strange-sounding ideas from unknown people didn't arise because Bay Area residents are morally superior or more imaginative. It arose initially from aligned financial incentives (investors benefit when founders succeed), which was then practiced long enough to become a genuine cultural norm.
 

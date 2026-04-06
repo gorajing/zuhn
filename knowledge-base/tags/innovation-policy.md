@@ -1,3 +1,3 @@
 # Tag: innovation-policy
 
-- `INS-260330-C087` Innovation requires freedom to fail — eliminating downside risk through regulation also kills upside innovation potential.
+- `INS-260403-06FA` European tech depends on foreign investors while massive domestic pension capital stays out of venture, creating both an innovation deficit and a sovereignty risk.

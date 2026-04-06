@@ -49,28 +49,27 @@ stance: >-
   beyond everyday experience.
 related:
   - INS-260323-1B0B
-  - INS-260325-69CF
-  - INS-260325-0A81
   - INS-260322-4B37
   - INS-260323-3E21
-  - INS-260325-96FB
   - INS-260330-3819
-  - INS-260403-EA82
-  - INS-260330-7ABB
   - INS-260330-59CE
+  - INS-260330-7ABB
+  - INS-260325-96FB
+  - INS-260330-EEAE
+  - INS-260322-9436
 evidence:
   - id: INS-260323-1B0B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-69CF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-40DC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-82E8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-9436
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-4B37
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Banach-Tarski paradox feels absurd because our physical intuition is shaped by interacting with finite, macroscopic objects. But the math is valid within the axiomatic system we use to predict the universe with extraordinary accuracy. The video argues we shouldn't call infinity 'weird' — it's our calibration that's narrow.
 

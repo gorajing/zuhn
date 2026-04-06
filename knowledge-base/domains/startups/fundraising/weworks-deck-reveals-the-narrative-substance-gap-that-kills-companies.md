@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: '16 Unicorn Pitch Decks: The Slides Before the Billions'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/unicorn-pitch-decks-before-the-billions'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     WeWork raised $355M on a Series D deck that was a masterclass in
@@ -57,6 +47,12 @@ resolutions:
 stance: >-
   Mastery of fundraising narrative without corresponding operational substance
   is a company-killing failure mode, not just a fundraising risk.
+related:
+  - INS-260404-40F2
+  - INS-260403-822B
+  - INS-260404-63D5
+  - INS-260405-1EFD
+  - INS-260404-8DEE
 ---
 WeWork's Series D deck is described as the most useful deck in the collection specifically because it illustrates what happens when narrative detaches from fundamentals. The slides read like a storytelling masterclass, yet the business behind them was hollow. WeWork raised $355M on that disconnect.
 

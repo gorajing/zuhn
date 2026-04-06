@@ -44,15 +44,15 @@ stance: >-
   available labor pool of people who haven't already worked there and quit,
   creating a hard ceiling on growth.
 related:
-  - INS-260327-6061
   - INS-260327-4046
   - INS-260327-C4E8
   - INS-260327-2627
   - PRI-260328-D68F
   - INS-260403-862D
+  - INS-260403-8930
   - INS-260327-2430
-  - PRI-260405-608A
-  - INS-260327-0061
+  - INS-260405-844D
+  - INS-260403-4E9D
 evidence:
   - id: INS-260327-6061
     type: TRANSFERS_TO

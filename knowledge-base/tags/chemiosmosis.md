@@ -1,9 +1,4 @@
 # Tag: chemiosmosis
 
-- `INS-260404-AC2C` Cells store usable energy by pumping protons across thylakoid membranes to create concentration gradients that drive ATP synthase like water drives a turbine.
-- `INS-260330-8C6A` Thylakoids charge like batteries by pumping protons across membranes, then discharge through ATP synthase — the same gradient-to-currency pattern powers mitochondria, neurons, and kidneys.
-- `INS-260404-869D` ATP synthase converts proton concentration gradients into cellular energy, making membrane-based charge separation the fundamental pattern of biological power generation.
 - `INS-260330-1677` Chloroplasts charge thylakoids like batteries by pumping protons inside, then harvest that gradient through ATP synthase to produce ATP.
-- `INS-260330-24BA` Thylakoids store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase as protons flow back — identical in principle to charging and discharging a battery.
 - `INS-260330-9FAA` The thylakoid membrane acts as a biological battery — pumping protons to one side creates a concentration gradient that drives ATP synthase like water through a turbine.
-- `INS-260330-99CE` Thylakoid membranes charge like batteries by pumping protons to one side, then discharge through ATP synthase to produce ATP.

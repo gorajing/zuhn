@@ -42,11 +42,10 @@ stance: >-
   new generation of billion-dollar cybersecurity companies within 5-10 years
 related:
   - INS-260327-7B2B
-  - INS-260403-83C7
+  - INS-260403-8BA4
+  - INS-260405-3E4E
+  - INS-260404-E55F
   - INS-260322-8BD1
-  - INS-260327-969D
-  - INS-260322-EDA4
-  - INS-260403-8256
 evidence:
   - id: INS-260322-8BD1
     type: SUPPORTS

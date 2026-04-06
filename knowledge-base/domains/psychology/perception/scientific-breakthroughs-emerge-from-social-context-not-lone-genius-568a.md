@@ -48,11 +48,11 @@ stance: >-
   and collaborative networks rather than isolated genius.
 related:
   - INS-260323-825F
+  - INS-260402-2A1D
   - INS-260330-FBC0
   - INS-260330-8304
   - PRI-260328-9EC9
   - INS-260327-CFD5
-  - INS-260330-30DE
   - INS-260323-CD28
   - INS-260323-F540
   - INS-260323-1EEA

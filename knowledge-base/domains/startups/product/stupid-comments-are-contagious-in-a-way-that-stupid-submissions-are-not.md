@@ -49,10 +49,10 @@ stance: >-
   requires fundamentally different intervention than submission quality.
 related:
   - INS-260403-1A08
+  - INS-260405-3E73
   - INS-260326-C692
   - INS-260404-78E6
   - INS-260322-F65F
-  - INS-260322-4B63
   - INS-260404-F6ED
 evidence:
   - id: INS-260322-F65F

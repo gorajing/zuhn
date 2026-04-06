@@ -1,6 +1,8 @@
 # Tag: project-based-learning
 
 - `INS-260329-656B` Use complete mini-projects rather than isolated exercises to teach technical concepts.
+- `INS-260329-32DB` Building programming skill through escalating project complexity outperforms abstract concept lectures because each project creates a concrete mental anchor for multiple concepts simultaneously.
+- `INS-260329-153F` Teaching concepts at the moment a project demands them creates natural motivation and deeper retention than abstract-first instruction.
 - `INS-260329-8830` Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
 - `INS-260329-E402` Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
 - `INS-260329-820D` Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.

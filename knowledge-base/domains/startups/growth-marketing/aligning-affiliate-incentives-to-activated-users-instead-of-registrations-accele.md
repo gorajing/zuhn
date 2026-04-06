@@ -52,28 +52,27 @@ stance: >-
   Changing payment incentives from registered users to activated users causes
   short-term vanity metric drops but dramatically accelerates genuine growth.
 related:
-  - INS-260322-55D8
   - INS-260321-6437
-  - INS-260329-14AE
-  - INS-260330-70BC
-  - INS-260330-3398
-  - INS-260330-4553
-  - PRI-260403-E097
-  - INS-260330-E61E
   - INS-260330-8048
+  - PRI-260403-E097
+  - INS-260405-07DF
+  - INS-260403-C17B
+  - INS-260330-4553
+  - INS-260330-70BC
+  - INS-260330-21CC
 evidence:
   - id: INS-260330-4553
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2A6A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-14AE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-55D8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-6437
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260324-8D35
-    relationship: RELATED
+    type: SUPPORTS
 ---
 In 2004, eBay changed its affiliate payment model from paying for confirmed registered users to paying for activated confirmed registered users (someone who confirmed their account AND bid, bought, or listed an item). Overnight, confirmed registrations from affiliates dropped ~20%, but activated users only dropped ~5%. The ratio of registered to active users improved, and then active user growth massively accelerated.
 

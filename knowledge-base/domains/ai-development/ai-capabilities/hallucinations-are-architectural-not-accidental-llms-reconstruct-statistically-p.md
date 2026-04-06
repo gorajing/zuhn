@@ -51,34 +51,34 @@ resolutions:
     civic order because they erode the information ecosystem we depend on for
     collective decision-making.
 related:
-  - PRI-260323-1CF9
-  - INS-260402-89DE
-  - INS-260330-00D5
-  - INS-260402-5034
-  - PRI-260324-2A76
   - INS-260323-A5EC
   - INS-260320-7914
-  - INS-260322-96F1
-  - INS-260323-176B
+  - PRI-260323-1CF9
   - INS-260327-0D0B
+  - INS-260329-F84E
+  - INS-260329-7B2D
+  - INS-260330-00D5
+  - INS-260402-89DE
+  - INS-260402-5034
+  - INS-260402-8A7A
 stance: >-
   Hallucinations stem from how LLMs break information into tokens and
   reconstruct probable relationships
 evidence:
   - id: INS-260329-FC75
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-96F1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-176B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-0D0B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-89DE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7B2D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3ECE
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Marcus anticipated hallucinations in his 2001 book 'The Algebraic Mind' before LLMs even existed. The mechanism is clear: LLMs break information into tokens, build statistical clusters of co-occurring concepts, then reconstruct outputs. Sometimes these reconstructions are wrong — Harry Shearer becomes 'British' because the system blurs him with statistically similar British voiceover actors. The system presents everything with encyclopedia-like confidence whether true or not.
 

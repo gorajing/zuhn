@@ -46,10 +46,10 @@ stance: >-
   superior to debt-free returns.
 related:
   - PRI-260405-0099
+  - INS-260323-8AB8
   - INS-260323-1B42
   - PRI-260328-26AA
   - INS-260403-C732
-  - INS-260403-0240
 evidence:
   - id: INS-260329-4605
     type: CHALLENGES

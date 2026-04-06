@@ -46,7 +46,6 @@ related:
   - PRI-260324-3081
   - INS-260403-44ED
   - INS-260327-19E5
-  - INS-260330-73C1
 ---
 Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights rather than the profit generated from actual operations.
 

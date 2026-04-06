@@ -52,11 +52,11 @@ stance: >-
   no contact suggests either a shared ancestral experience or a deep cognitive
   pattern that independently generates the same narrative structure.
 related:
+  - INS-260403-7E1F
   - INS-260327-B37E
   - INS-260403-91DB
   - INS-260330-420B
   - INS-260323-C10D
-  - INS-260330-2EB0
 evidence:
   - id: INS-260323-C10D
     type: TRANSFERS_TO

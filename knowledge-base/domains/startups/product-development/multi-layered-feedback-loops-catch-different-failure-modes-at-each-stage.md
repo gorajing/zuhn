@@ -47,10 +47,10 @@ stance: >-
   audiences surfaces qualitatively different types of problems
 related:
   - INS-260323-01F9
+  - INS-260403-8C63
   - INS-260330-843E
+  - INS-260403-751D
   - INS-260330-A25A
-  - INS-260329-DFD1
-  - INS-260329-8F98
 evidence:
   - id: INS-260323-01F9
     type: SUPPORTS

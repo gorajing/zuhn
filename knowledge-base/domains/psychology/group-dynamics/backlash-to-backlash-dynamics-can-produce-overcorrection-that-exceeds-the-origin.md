@@ -19,24 +19,14 @@ sources:
     title: >-
       Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved
       Medical Care
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/record-low-crime-rates-are-real-not'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Social backlash cycles can overshoot the original equilibrium, producing
@@ -62,6 +52,15 @@ stance: >-
   The anti-police backlash after BLM triggered a counter-backlash that may have
   given police more community support and resources than they had before the
   original controversy.
+related:
+  - INS-260327-A458
+  - INS-260328-4BF3
+  - INS-260330-7DB6
+  - INS-260402-C49E
+  - PRI-260324-8EE6
+  - INS-260403-BA53
+  - PRI-260328-1A2D
+  - PRI-260325-070D
 ---
 The proposed mechanism for the sharp 2023-2025 crime decline illustrates a counterintuitive dynamic in social movements: a backlash can trigger a counter-backlash that doesn't merely restore the status quo ante but overshoots it. The anti-police sentiment after BLM may have initially reduced police effectiveness and increased crime, but the resulting spike in crime generated public demand for even more policing than existed before.
 

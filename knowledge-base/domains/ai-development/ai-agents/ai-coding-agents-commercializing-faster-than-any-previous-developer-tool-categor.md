@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "OpenAI’s SaaS Era Begins\U0001F525, State of AI Report\U0001F916, The Vibe Coding Boom Hits a Reality Check\U0001F4C9"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/openais-saas-era-begins-state-of'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Cursor and Replit have crossed $500M+ ARR in under four years, setting a new
@@ -60,6 +50,17 @@ stance: >-
   Coding AI agents reaching $500M+ ARR in under four years proves that AI-native
   developer tools can achieve commercial escape velocity faster than any prior
   dev tool generation.
+related:
+  - INS-260321-5DF8
+  - INS-260327-969D
+  - INS-260327-9610
+  - INS-260330-B437
+  - INS-260403-D1D0
+  - INS-260403-F62E
+  - INS-260403-4964
+  - INS-260329-14AE
+  - INS-260403-8EF3
+  - INS-260403-19C9
 ---
 The fact that AI coding agents like Cursor and Replit have achieved $500M+ ARR with teams under four years old is historically unprecedented in the developer tools market. Previous generations of dev tools—IDEs, CI/CD platforms, cloud IDEs—took a decade or more to reach comparable revenue. This compression of the commercialization timeline suggests that AI-native tools benefit from a fundamentally different adoption curve.
 

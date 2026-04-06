@@ -1,6 +1,6 @@
 # Topic: nutrition
 
-> 258 insights
+> 269 insights
 
 - `INS-260327-9E9D` [high] 93 percent of Americans are metabolically unhealthy making metabolic dysfunction the root of most chronic disease
 - `INS-260330-3DC8` [high] Alcohol kills good gut bacteria while allowing bad bacteria to escape through a leaky gut wall, triggering liver inflammation that reaches the brain and paradoxically increases the desire to drink more.
@@ -18,9 +18,12 @@
 - `INS-260327-1270` [high] Budget animal-based eating: grass-fed ground beef (cheapest quality meat), desiccated organ capsules, seasonal fruit, bulk eggs, and raw milk provide maximum nutrition per dollar.
 - `INS-260325-386F` [high] Clinical trials show cacao powder dilates arteries as much as moderate exercise by triggering nitric oxide enzyme production.
 - `INS-260330-9900` [high] Calorie math is broken: fiber blocks ~20% of almond calories for the microbiome, protein's thermic effect wastes ~25% of steak energy, and fructose routes directly to fat synthesis.
+- `INS-260330-3082` [high] Nearly 90% of ATP yield comes from the electron transport chain, making mitochondrial health far more important than glucose availability for energy production.
+- `INS-260330-5C36` [high] Cellular respiration uses three sequential stages where each feeds the next, with the electron transport chain producing the vast majority of ATP.
 - `INS-260327-4D54` [high] Chick-fil-A chicken contains seed oils MSG and TBHQ despite simple chicken marketing
 - `INS-260325-F50C` [high] Canned cod liver beats salmon for omega-3 content and serves as a palatable organ meat substitute.
 - `INS-260327-4998` [high] Caffeine increases urinary excretion of magnesium and other divalent cations; coffee drinkers should supplement magnesium and avoid taking creatine with coffee as it impairs absorption.
+- `INS-260327-0C29` [high] Conventional grapes and berries carry the highest pesticide loads; prioritize organic for these items while conventional thick-skinned fruits like avocados and bananas are safer.
 - `INS-260325-B6B6` [high] DHA is 97% of brain omega-3 and 93% of retinal omega-3 — it is the brain-building omega-3, not EPA.
 - `INS-260327-9B97` [high] Dietary guidelines quietly reversed the cholesterol and saturated fat warnings after decades of wrong advice
 - `INS-260325-0A8A` [high] Eggs have the highest protein absorption rate of any food and 65% can serve as fuel versus 10-20% for lean meat.
@@ -31,6 +34,7 @@
 - `INS-260330-DA37` [high] A 35,000-person UK Biobank study found neocortical thinning even at 1-2 drinks per day average consumption.
 - `INS-260330-45D9` [high] Exercise helps maintain weight loss mainly by making your brain more responsive to fullness signals, not by burning significant calories.
 - `INS-260327-88E1` [high] Fast food contains dozens of undisclosed ingredients including seed oils, TBHQ, dimethylpolysiloxane, and artificial colors beyond listed menu items.
+- `INS-260330-2BA7` [high] Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260330-18EE` [high] Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits.
 - `INS-260330-9C40` [high] Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
 - `INS-260327-0E50` [high] JAMA editorial summarizing 4 trials (12,000-13,000 participants each) found fish oil at 4g/day nearly doubles atrial fibrillation risk, with dose-related risk increases at lower doses.
@@ -58,6 +62,7 @@
 - `INS-260327-61F5` [high] Testing reveals many popular sea salts have significantly elevated lead and heavy metal levels; always verify certificates of analysis and choose brands with documented low contamination.
 - `INS-260327-8431` [high] Medical schools train doctors in pharmaceutical symptom management with virtually no nutrition education, making them structurally unable to address the dietary root causes of most chronic disease.
 - `INS-260325-81BD` [high] Metabolic disease is cells starving amid abundant fuel because insulin resistance locks the door to energy access.
+- `INS-260330-C4D8` [high] Metabolic flexibility means efficiently switching between carb and fat fuels on demand, not maximizing fat-burning capacity.
 - `INS-260327-1A07` [high] Modern commercial bread contains glyphosate residues, bromate, seed oils, and added sugars beyond just gluten
 - `INS-260325-8AB8` [high] Most bottled water contains microplastics from packaging — only glass spring water or reverse osmosis is genuinely clean.
 - `INS-260327-44CC` [high] Most commercial beverages contain harmful additives: sodas have HFCS, energy drinks have artificial ingredients, pasteurized juices have added sugars, and tap water contains fluoride and chlorine byproducts.
@@ -68,6 +73,7 @@
 - `INS-260325-785D` [high] Most anti-aging skincare contains endocrine disruptors and barrier-damaging chemicals that paradoxically accelerate skin aging.
 - `INS-260330-989E` [high] Weight loss plateaus are primarily driven by unconscious NEAT reduction, not the metabolic slowdown people typically blame.
 - `INS-260325-AC85` [high] Nighttime peeing is ADH hormone dysfunction from electrolyte imbalance and blood sugar issues, not a bladder problem.
+- `INS-260327-D21C` [high] Non-alcoholic fatty liver disease silently affects 25 percent of adults driven by fructose and seed oil consumption
 - `INS-260325-7C72` [high] Normal lab ranges are population averages including sick people — being 'normal' does not mean healthy or optimal.
 - `INS-260327-B2E3` [high] Sustainable weight loss comes from eating nutrient-dense whole foods that provide natural satiety, not from counting calories in nutrient-poor processed foods.
 - `INS-260325-A61B` [high] Buy organic only for the dirty dozen high-pesticide foods — the clean fifteen are safe conventional, saving significant money.
@@ -124,6 +130,7 @@
 - `INS-260327-3C60` [high] Ultra-processed foods combine fat and sugar in ratios that never exist in nature, hitting a mathematically optimized 'bliss point' that short-circuits the brain's fullness signal and creates drug-like dopamine responses.
 - `INS-260327-29F2` [high] Vegan diets cannot provide multiple nutrients found exclusively in animal foods
 - `INS-260325-EDC8` [high] Waking at 2-3AM is a cortisol spike from dropping blood sugar — eating more fat at dinner prevents it.
+- `INS-260405-3753` [high] US agricultural water sources are being drawn down at 10x their natural replenishment rate, creating a non-negotiable physical constraint on food production.
 - `INS-260329-6CCC` [high] Eliminating all cooking friction from protein meals dramatically increases the chance you'll actually eat them consistently for months or years.
 - `INS-260329-C34C` [high] The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking.
 - `INS-260327-E516` [medium] A complete daily animal-based diet template consists of six food categories
@@ -196,6 +203,7 @@
 - `INS-260327-FD30` [medium] Menopause symptoms are driven by adrenal exhaustion and nutrient deficiencies not simply declining estrogen
 - `INS-260325-571F` [medium] Menopause symptoms are from estrogen dominance (progesterone drops 90%) not estrogen deficiency — HRT can worsen it.
 - `INS-260327-6EB6` [medium] Menstrual cramps respond to magnesium, vitamin D, omega-3, and anti-inflammatory dietary changes
+- `INS-260403-AFF4` [medium] Sea salt carries significant microplastic contamination, making source-verified alternatives a simple health upgrade.
 - `INS-260330-7981` [medium] Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
 - `INS-260327-C782` [medium] Most heart palpitations are caused by potassium and magnesium deficiency not cardiac disease
 - `INS-260327-A680` [medium] Most symptoms attributed to toxin buildup are actually caused by nutritional deficiencies
@@ -220,6 +228,7 @@
 - `INS-260327-EB60` [medium] Raw milk contains natural bacterial cultures that modify gut flora to enable lactose digestion, with many formerly lactose-intolerant people tolerating raw milk without issues.
 - `INS-260327-FC60` [medium] Refined sugar causes insulin resistance through gut dysbiosis and endotoxin-driven inflammation, not blood glucose spikes -- while whole fruits containing the same sugars with bioactive compounds do not cause dysbiosis.
 - `INS-260327-3014` [medium] Regulatory capture by food and pharma industries is the primary driver of the chronic disease epidemic
+- `INS-260329-72EF` [medium] Put sauce on the underside of your utensil before each bite so it hits your tongue first, making a tiny amount of sauce feel like a generous portion.
 - `INS-260327-FA0B` [medium] Humans evolved consuming ~2% calories from linoleic acid but now consume 10-15%, a mismatch that contributes to cardiovascular and metabolic disease.
 - `INS-260327-47F2` [medium] Seed oil detox takes ~4 years for full membrane remodeling; monkey studies show very low-fat diets can accelerate this to 30 days, and focusing on butter/tallow (1-2% linoleic acid) versus olive oil (12-25%) speeds turnover.
 - `INS-260325-003C` [medium] Seed oil linoleic acid has a ~680-day half-life in cell membranes — full detox takes 2-3 years of complete avoidance.
@@ -245,6 +254,7 @@
 - `INS-260325-B4D2` [medium] The average home exposes you to endocrine disruptors from air, water, surfaces, and light — systematic room-by-room elimination reduces chronic toxic load.
 - `INS-260327-84FA` [medium] The seven healthiest zero-carb foods provide complete nutrition without any insulin response
 - `INS-260327-F50F` [medium] The three biggest health realizations are seed oil harm, carbohydrate necessity, and organ meat value
+- `INS-260325-024F` [medium] Two researchers proved the vitamin D RDA should be approximately 8895 IU not 600 IU but the error persists due to institutional incentives.
 - `INS-260327-218C` [medium] Unsalted butter is fermented/cultured with beneficial C15 odd-chain fatty acids, while salted butter is mechanically separated; grass-fed sourcing further improves the fatty acid and vitamin profile.
 - `INS-260327-D19D` [medium] Bryan Johnson's vegan longevity protocol requires 100+ daily supplements to compensate for nutrients naturally abundant in meat and organs, yet still misses key compounds.
 - `INS-260325-3F7A` [medium] Vision decline tracks mitochondrial loss in retinal cones which can be slowed or reversed with red light fasting and nutrition.
@@ -257,6 +267,7 @@
 - `INS-260327-70EB` [medium] Weak urine stream is typically prostate inflammation from zinc deficiency and excess estrogen not inevitable aging
 - `INS-260327-C9DA` [medium] Human interventional studies confirm whole fruit does not cause insulin resistance; its hundreds of bioactive compounds prevent the gut dysbiosis that isolated fructose triggers.
 - `INS-260325-A293` [medium] Winter depression correlates with vitamin D and B1 depletion from reduced sunlight — supplementation often works better than SSRIs.
+- `INS-260327-034A` [low] Acetaminophen use during pregnancy may increase autism risk through glutathione depletion and oxidative stress
 - `INS-260327-B218` [low] Bad breath is primarily a signal of gut dysbiosis rather than oral bacteria; fixing gut health through diet is more effective than masking with fluoride toothpaste.
 - `INS-260327-C234` [low] Bruce Lee reportedly used desiccated organ supplements (liver, heart) for their concentrated nutrient density including CoQ10, B12, iron, copper, and unique peptides for performance.
 - `INS-260327-3D1C` [low] Prolonged fasting combined with specific nutrients creates a hostile environment for colon cancer cells

@@ -1,6 +1,9 @@
 # Tag: pedagogy
 
+- `INS-260329-DACC` Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
+- `INS-260329-1075` Family metaphors (parent, child, sibling) for nested structures leverage existing human intuition about relational hierarchies.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
+- `INS-260404-023C` Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
@@ -19,7 +22,9 @@
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
+- `INS-260329-32DB` Building programming skill through escalating project complexity outperforms abstract concept lectures because each project creates a concrete mental anchor for multiple concepts simultaneously.
 - `INS-260330-1B16` Build understanding layer by layer so the final formula feels like a natural extension rather than an intimidating wall of symbols.
+- `INS-260329-153F` Teaching concepts at the moment a project demands them creates natural motivation and deeper retention than abstract-first instruction.
 - `INS-260329-8830` Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
 - `INS-260329-E402` Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
 - `INS-260329-820D` Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
@@ -31,6 +36,7 @@
 - `INS-260330-C4F1` Using coding to teach critical thinking puts the cart before the horse—teach the target skill directly instead of through a proxy.
 - `INS-260403-8C20` The classic five-paragraph essay is secretly a list of 3 things, and disguising this prevents students from learning that real essays are vehicles for discovering new ideas.
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
+- `INS-260329-71AB` Teaching data types in order of concreteness (strings → numbers → booleans → lists → dicts → classes) mirrors the concrete-to-abstract gradient that human cognition uses to build durable mental models.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
 - `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
 - `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
@@ -40,4 +46,5 @@
 - `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.
 - `INS-260325-48E4` Drawing the right picture turns abstract formulas from arbitrary rules into obvious geometric facts.
 - `INS-260329-7A6A` Zero-based vs one-based indexing confuses programmers because it contradicts deeply ingrained mathematical counting conventions, and the problem compounds in fields like quantum computing that try to please multiple conventions simultaneously.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.

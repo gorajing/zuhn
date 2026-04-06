@@ -53,7 +53,6 @@ related:
   - INS-260328-E410
   - INS-260330-1A63
   - PRI-260405-608A
-  - INS-260330-B306
   - INS-260405-F369
 evidence:
   - id: INS-260322-A36C

@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: "The VC Corner \U0001F4F0 #9"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-vc-corner-9'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Overlapping valuation bands across seed, Series A, and Series B mean stage
@@ -62,6 +52,14 @@ stance: >-
   When 4% of seed rounds price above $50M and 8% of Series As price below $10M,
   traditional stage labels have become marketing signals rather than reliable
   indicators of company maturity
+related:
+  - INS-260402-B2A2
+  - INS-260404-D654
+  - INS-260403-9F2A
+  - INS-260403-88B9
+  - INS-260404-A2C4
+  - INS-260403-0618
+  - INS-260405-EB7E
 ---
 2023 data showed dramatic valuation band overlap: 4% of seed rounds were priced above $50M valuations, while 8% of Series As were priced below $10M, and 5% of Series Bs were also below $10M. This compression means that stage labels have decoupled from their original purpose — communicating development stage, risk, and appropriate investor expectations.
 

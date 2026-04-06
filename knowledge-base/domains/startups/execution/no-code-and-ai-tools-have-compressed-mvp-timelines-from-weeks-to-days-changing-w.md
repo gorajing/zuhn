@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Is the MVP Dead? Rethinking Lean Startup Strategies
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/is-mvp-dead'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     No-code platforms and AI tools let non-technical founders go from idea to
@@ -59,6 +49,17 @@ stance: >-
   The democratization of building through no-code and AI tools means validation
   speed is no longer bottlenecked by technical capacity but by clarity of
   hypotheses.
+related:
+  - INS-260321-FD14
+  - INS-260321-E4EB
+  - INS-260320-D4BD
+  - INS-260323-B0EA
+  - INS-260323-4457
+  - INS-260323-2726
+  - INS-260327-3E23
+  - INS-260327-42F0
+  - PRI-260328-935A
+  - INS-260329-4DBC
 ---
 Tools like Bubble, Webflow, and AI-powered personalization have collapsed the MVP build timeline from sprints to weekends. This has a second-order effect beyond speed: it changes who gets to build. Non-technical founders and lean teams can now execute without waiting for developer capacity, meaning validation is driven by curiosity and speed rather than technical resources.
 

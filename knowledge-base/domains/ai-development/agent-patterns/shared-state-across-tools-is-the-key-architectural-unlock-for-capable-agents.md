@@ -51,23 +51,23 @@ stance: >-
   capabilities that far exceed the sum of individual tools, because the agent
   can fluidly combine information gathering, analysis, and output creation.
 related:
-  - INS-260323-8DE7
   - INS-260320-4773
-  - INS-260327-2C5F
-  - INS-260323-042C
-  - INS-260325-05EC
-  - INS-260320-71C1
   - INS-260329-BD83
   - INS-260330-77A2
+  - INS-260327-2C5F
+  - INS-260323-8DE7
+  - INS-260323-042C
+  - INS-260405-B76E
+  - INS-260325-05EC
 evidence:
   - id: INS-260327-2C5F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-71C1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D868
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-ACDA
-    relationship: RELATED
+    type: SUPPORTS
 ---
 OpenAI's ChatGPT Agent team found that the combination of deep research (efficient text browsing), operator (visual GUI interaction), and a terminal (code execution and APIs) with shared state produces dramatically more capable agents than any tool alone. The key is shared state: all tools have access to the same file system, allowing the agent to research with the text browser, interact with paid websites through the visual browser, analyze data in the terminal, and produce polished slides or spreadsheets, all within one continuous workflow.
 

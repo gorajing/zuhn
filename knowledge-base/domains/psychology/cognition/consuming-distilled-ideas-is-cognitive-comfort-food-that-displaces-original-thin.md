@@ -49,11 +49,11 @@ stance: >-
   your own, and withdrawal produces surprising creative output
 related:
   - INS-260323-A430
+  - INS-260329-1739
   - INS-260328-AE33
   - INS-260403-78E2
   - INS-260323-64A4
   - PRI-260323-C49D
-  - INS-260329-1739
 evidence:
   - id: INS-260323-64A4
     type: SUPPORTS

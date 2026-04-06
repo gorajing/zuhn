@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 2022 Annual Letter
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/2022-annual-letter'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Near-zero marginal cost energy via solar and storage removes resource
@@ -63,6 +53,12 @@ stance: >-
   Making energy abundant and effectively free through solar and storage would
   eliminate resource control as a casus belli, creating an unprecedented peace
   dividend that reshapes foreign policy and global trade.
+related:
+  - INS-260325-722C
+  - INS-260325-2906
+  - INS-260403-2EE2
+  - INS-260404-7A75
+  - INS-260327-4313
 ---
 Nearly every modern war has been influenced by control of or access to natural resources — the Ukraine conflict's energy dimension being the latest example. Europe's failure to maintain energy independence (shutting down nuclear, underinvesting in renewables) made it dependent on Russian natural gas, which went from 25% to 40%+ of supply between 2010-2018. This dependency became a strategic weapon.
 

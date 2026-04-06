@@ -45,11 +45,12 @@ stance: >-
   market—the 1-to-10 and 10-to-100 phases contain the majority of the value
   creation opportunity.
 related:
-  - INS-260323-78A5
-  - INS-260403-5B89
-  - INS-260330-8FE7
-  - PRI-260403-5DEA
-  - INS-260330-255F
+  - INS-260405-5569
+  - INS-260404-BEBB
+  - INS-260403-0D24
+  - INS-260405-180A
+  - INS-260404-19C2
+  - INS-260405-0375
 evidence:
   - id: INS-260330-255F
     type: EXTENDS

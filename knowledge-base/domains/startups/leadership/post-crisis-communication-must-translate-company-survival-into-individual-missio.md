@@ -57,11 +57,11 @@ stance: >-
   survival plan into specific per-team metric targets unlock energy and
   innovation, while leaders who only share bad news create paralysis.
 related:
-  - INS-260321-167A
   - INS-260403-7CAA
+  - INS-260321-167A
   - INS-260330-50A4
   - PRI-260323-A3A3
-  - INS-260403-52DB
+  - INS-260403-8DA1
   - INS-260405-B59F
 evidence:
   - id: INS-260321-167A

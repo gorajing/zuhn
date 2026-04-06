@@ -48,16 +48,15 @@ stance: >-
   seek tricks and shortcuts that are fundamentally incompatible with startup
   success
 related:
-  - INS-260330-5EA4
   - INS-260330-E8C6
   - INS-260402-DCC5
-  - INS-260402-4F0E
   - INS-260323-AB5F
   - INS-260330-F268
   - INS-260330-3A3E
+  - PRI-260321-7307
 evidence:
   - id: INS-260402-FFCB
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Graham identifies 'playing house' — founders who raise money, rent cool offices, and hire people while neglecting to make something people want. This happens because the education system trains students to optimize for artificial metrics (grades, extracurriculars, exam tricks) rather than genuine mastery. When these students start companies, they instinctively seek the equivalent tricks.
 

@@ -48,7 +48,6 @@ stance: >-
   when conditions shift, and the cost of the workaround compounds over time
 related:
   - INS-260325-D033
-  - INS-260330-B27A
   - INS-260330-CA97
   - INS-260330-F222
   - INS-260330-F5CF
@@ -57,6 +56,7 @@ related:
   - INS-260403-B5E2
   - INS-260405-02EE
   - INS-260405-7E85
+  - INS-260404-0BED
 evidence:
   - id: INS-260330-CA97
     type: REFINES

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why Women-Led Startups Outperform Yet Lack Funding
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/why-women-owned-startups-outperform'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Fewer women-led exits produce fewer serial women founders, which reduces
@@ -61,6 +51,12 @@ stance: >-
   The women-in-VC funding gap is primarily a compounding structural loop — fewer
   exits produce fewer serial founders which depresses future investment — not a
   talent pipeline problem
+related:
+  - INS-260404-A2AE
+  - INS-260404-C9D0
+  - INS-260403-227D
+  - PRI-260405-E9C5
+  - PRI-260403-26B9
 ---
 The 'pipeline myth' — that there aren't enough qualified women founders — persists despite women earning 27-35% of STEM degrees globally and female-only teams doubling their deal share over the past decade. The real bottleneck is a compounding structural loop: fewer exits → less investor confidence → fewer repeat women founders → fewer visible success stories → back to fewer exits.
 

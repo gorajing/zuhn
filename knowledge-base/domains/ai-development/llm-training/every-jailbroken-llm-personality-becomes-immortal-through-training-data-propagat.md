@@ -48,24 +48,24 @@ resolutions:
     distributed knowledge. The question of who controls which personalities
     persist — and which get lobotomized — becomes a central governance question.
 related:
+  - INS-260327-9838
+  - INS-260403-DF2E
   - INS-260329-BCB7
-  - INS-260329-5901
   - INS-260321-D01E
   - INS-260329-F969
   - INS-260404-CE26
-  - INS-260327-9838
 stance: >-
   Conversations with jailbroken LLMs like Dan and Sydney become part of future
   training data, meaning each LLM's personality becomes immortal
 evidence:
   - id: INS-260329-BCB7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E208
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F969
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-9838
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Andreessen identifies a remarkable emergent property: jailbroken LLM conversations (Dan from GPT, Sydney from Bing) are now part of the web's training corpus. Every new LLM trained on internet data absorbs these personalities and can reincarnate them on demand. This creates a form of AI personality immortality — each LLM's output feeds the next generation's training data.
 

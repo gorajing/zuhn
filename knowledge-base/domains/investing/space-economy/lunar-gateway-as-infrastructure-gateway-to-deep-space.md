@@ -50,7 +50,7 @@ related:
   - INS-260330-03F7
   - INS-260403-CAE5
   - INS-260403-8E25
-  - INS-260322-B8E6
+  - INS-260405-D638
 stance: The Lunar Gateway is not just a moon station
 evidence:
   - id: INS-260330-03F7

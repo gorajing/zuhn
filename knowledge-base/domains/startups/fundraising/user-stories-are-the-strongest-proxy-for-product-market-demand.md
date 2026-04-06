@@ -48,7 +48,6 @@ stance: >-
   Specific stories about real users solving real problems with your product are
   more convincing to investors than market size data or theoretical arguments.
 related:
-  - INS-260327-CFE5
   - INS-260329-086B
   - INS-260330-06E3
   - INS-260403-7072
@@ -56,6 +55,9 @@ related:
   - INS-260403-EA2D
   - INS-260405-F9EC
   - INS-260404-29F4
+  - INS-260403-2385
+  - INS-260403-6ACB
+  - INS-260403-2647
 evidence:
   - id: INS-260327-CFE5
     type: CHALLENGES

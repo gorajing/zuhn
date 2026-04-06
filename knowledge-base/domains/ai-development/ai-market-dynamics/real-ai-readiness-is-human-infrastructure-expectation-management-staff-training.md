@@ -46,9 +46,11 @@ resolutions:
 related:
   - PRI-260328-0C51
   - PRI-260323-00C6
+  - INS-260403-E93A
+  - INS-260404-5AC8
   - INS-260403-8DE1
-  - INS-260403-15DD
-  - INS-260404-7E24
+  - INS-260403-88DA
+  - INS-260403-F4D7
 stance: >-
   AI infrastructure includes human expectations, staff training, and cultural
   readiness — not just data pipelines and cloud credits.

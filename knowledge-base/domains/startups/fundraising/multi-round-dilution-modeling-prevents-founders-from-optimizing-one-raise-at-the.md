@@ -17,41 +17,19 @@ tags:
 sources:
   - type: blog
     title: 'What to expect when you’re expecting (dilution) '
-    author:
-      '@type': Organization
-      name: The VC Corner
-      url: 'https://www.thevccorner.com'
-      description: >-
-        The VC Corner is where founders stay ahead: sharp news, fundraising
-        strategies, battle-tested playbooks, and the tools to grow.
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 100000
-      identifier: 'pub:2125183'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
+    author: >-
+      {"@type":"Organization","name":"The VC
+      Corner","url":"https://www.thevccorner.com","description":"The VC Corner
+      is where founders stay ahead: sharp news, fundraising strategies,
+      battle-tested playbooks, and the tools to
+      grow.","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":100000},"identifier":"pub:2125183","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"}}
     url: 'https://www.thevccorner.com/p/what-to-expect-when-youre-expecting'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Treating each fundraising round independently leads to compounding dilution
@@ -74,6 +52,16 @@ stance: >-
   Founders who evaluate valuation one round at a time systematically
   underestimate cumulative dilution and end up with significantly less ownership
   at exit than they expected.
+related:
+  - INS-260330-3559
+  - INS-260404-64EC
+  - INS-260405-5BA9
+  - INS-260403-D970
+  - INS-260403-ACC5
+  - INS-260405-863C
+  - INS-260403-53C0
+  - INS-260403-DE9B
+  - INS-260403-1287
 ---
 The most common founder mistake is optimizing valuation for the current round without modeling the cumulative effect across seed, Series A, B, and C. A seemingly favorable $20M post-money valuation at seed becomes devastating if subsequent rounds require heavy dilution. Each round compounds: ESOP pools expand, anti-dilution provisions trigger, and early investor protections layer.
 

@@ -50,11 +50,11 @@ resolutions:
     can only be understood at the abstraction level, not the implementation
     level.
 related:
+  - INS-260403-6EE7
   - INS-260403-FE91
   - INS-260325-2832
   - INS-260323-3E21
   - INS-260330-367B
-  - PRI-260324-1134
   - INS-260323-8F41
   - INS-260330-E89A
   - INS-260330-81E0

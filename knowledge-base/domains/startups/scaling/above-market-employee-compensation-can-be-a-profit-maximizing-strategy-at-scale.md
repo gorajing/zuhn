@@ -53,24 +53,20 @@ stance: >-
   high-throughput operations.
 related:
   - INS-260403-8A80
-  - INS-260403-E2D9
-  - INS-260403-43E5
-  - INS-260403-857E
-  - INS-260404-0FE4
-  - INS-260404-E1B0
-  - INS-260404-1936
-  - INS-260404-95FC
-  - INS-260404-E1FF
+  - INS-260403-3062
+  - INS-260405-C8BC
   - INS-260405-47FD
+  - INS-260405-AC40
+  - INS-260405-202B
 evidence:
   - id: INS-260403-43E5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-95FC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-E1B0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-8A80
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Costco pays its 245,000 workers an average of $21/hour—double the U.S. retail average—plus superior health insurance and retirement benefits. Rather than eroding margins, this investment yields employees who are three times more productive than the industry norm. The math works because high-throughput warehouse operations amplify per-worker productivity differences: a 3x productivity gain on a 2x wage premium is a clear net positive.
 

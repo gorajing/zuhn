@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Early versions of ambitious projects look worse than they are because we
@@ -59,6 +47,14 @@ resolutions:
 stance: >-
   Applying finished-work standards to early-stage work systematically kills
   ambitious projects before they can prove themselves
+related:
+  - INS-260403-E365
+  - INS-260403-AEF2
+  - INS-260403-A268
+  - INS-260405-7BA5
+  - INS-260404-7C63
+  - INS-260405-A1D7
+  - INS-260403-743D
 ---
 Most people judge early-stage ambitious work using the same criteria they'd apply to finished products or less ambitious projects. This is a category error — early work is a special case that requires a fundamentally different evaluation lens. The rational expected value of a project that's 20% complete toward a high-value goal can far exceed a polished but low-ambition finished product.
 

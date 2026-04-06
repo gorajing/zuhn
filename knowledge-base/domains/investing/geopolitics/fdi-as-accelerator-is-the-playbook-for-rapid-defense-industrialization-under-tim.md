@@ -18,27 +18,14 @@ tags:
 sources:
   - type: blog
     title: Japan can be America's arsenal
-    author:
-      - '@type': Person
-        name: Rie Yano - Coral Capital
-        url: 'https://substack.com/@rieyano'
-        description: >-
-          SF based Partner at Coral Capital (HQ in Tokyo, investing globally).
-          Vitalist, exited founder, always dancing. Dispatches on human agency,
-          AI, and designing a life that still feels like yours.
-        identifier: 'user:742196'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!UjI-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5284770c-f3c5-4281-9bdd-3b9dae7f7c7c_640x641.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!UjI-!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5284770c-f3c5-4281-9bdd-3b9dae7f7c7c_640x641.jpeg
+    author: Rie Yano - Coral Capital
     url: 'https://www.noahpinion.blog/p/japan-can-be-americas-arsenal'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Foreign direct investment imports manufacturing know-how faster than
@@ -69,6 +56,13 @@ stance: >-
   Countries that explicitly use foreign direct investment to import
   manufacturing know-how industrialize their defense sectors faster than those
   relying solely on domestic incumbents.
+related:
+  - INS-260403-33BF
+  - INS-260403-2FB2
+  - INS-260403-8194
+  - INS-260403-6570
+  - INS-260322-8147
+  - INS-260403-DAB9
 ---
 Japan's inward FDI stock of ~$350 billion is low for its economic size, and the government has set an explicit target to double it to $650-700 billion by 2030. This isn't passive openness—it's a structural bet that foreign capital, technology, and operating know-how can rebuild industrial capacity faster than domestic systems alone.
 

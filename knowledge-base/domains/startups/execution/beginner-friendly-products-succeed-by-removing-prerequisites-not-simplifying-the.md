@@ -57,11 +57,10 @@ stance: >-
   itself.
 related:
   - INS-260329-B7F5
+  - INS-260329-9A58
   - INS-260329-69F0
   - INS-260322-32E3
   - PRI-260405-71C5
-  - INS-260329-31A2
-  - INS-260329-9CCF
   - INS-260330-27DD
 evidence:
   - id: INS-260330-27DD

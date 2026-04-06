@@ -48,27 +48,28 @@ stance: >-
 related:
   - INS-260320-CE36
   - INS-260321-1A0B
-  - INS-260328-91A1
-  - PRI-260321-7307
-  - INS-260325-4846
-  - INS-260403-66D0
-  - INS-260330-0371
   - INS-260330-BCD8
   - INS-260403-9B5D
+  - INS-260403-8EF3
+  - INS-260403-29AC
+  - INS-260328-91A1
+  - INS-260403-19C9
+  - INS-260404-BEAA
+  - INS-260403-2774
 evidence:
   - id: INS-260328-91A1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E61E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7F3D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0371
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-BCD8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-61DA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-9B5D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Wharton researchers discovered 'algorithmic aversion bias': when people see an algorithm make a single error — even if its error rate is lower than human error rates — they prefer their own judgment. The antidote is counterintuitive: allowing users to slightly tweak algorithm parameters increases error rates but dramatically increases adoption. This reveals a deep insight about human-AI product design. The question for AI product builders is not 'how do we make this perfectly accurate?' but 'what acceptable error rate would we trade for dramatically higher adoption?' Giving users a sense of control — even minimal — is more important than marginal accuracy improvements.

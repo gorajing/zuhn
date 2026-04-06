@@ -50,11 +50,11 @@ stance: >-
   your go-to-market strategy and attracts disproportionately better talent and
   investors compared to incremental goal-setting.
 related:
+  - INS-260403-4120
+  - INS-260402-2A1D
   - INS-260403-3346
   - INS-260330-F22A
   - INS-260330-D61A
-  - INS-260404-5AC1
-  - INS-260403-C4E2
 evidence:
   - id: INS-260403-C4E2
     type: EXTENDS

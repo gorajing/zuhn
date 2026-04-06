@@ -52,13 +52,12 @@ stance: >-
   nature has embedded the resolution within the problem's own structure, and
   understanding the problem deeply IS the cure.
 related:
-  - INS-260327-E7B8
   - INS-260329-5412
   - INS-260330-A3AF
   - INS-260330-207D
   - INS-260330-CCD8
-  - PRI-260403-88F5
-  - INS-260403-260B
+  - INS-260329-0B76
+  - INS-260405-ECCD
 evidence:
   - id: INS-260403-260B
     type: SUPPORTS

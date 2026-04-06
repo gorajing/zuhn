@@ -55,11 +55,11 @@ stance: >-
   obscures the actual causes and alienates persuadable moderates whose
   cooperation is essential for democratic repair.
 related:
+  - INS-260403-6861
   - INS-260330-39D4
   - INS-260330-DFC8
   - INS-260327-842F
-  - PRI-260324-8EE6
-  - INS-260327-F484
+  - INS-260403-69C3
 evidence:
   - id: INS-260327-842F
     type: CHALLENGES

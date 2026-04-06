@@ -53,6 +53,7 @@ related:
   - PRI-260405-91AD
   - PRI-260403-0ABD
   - INS-260329-100D
+  - INS-260403-4D4D
 ---
 Tyler Bosmeny observed that the top 1% of salespeople spend remarkably little time talking on calls. Their goal is 30% talking, 70% listening. They ask questions like 'Why did you agree to take my call?' and 'How do you solve this problem today?' to deeply understand the prospect's needs.
 

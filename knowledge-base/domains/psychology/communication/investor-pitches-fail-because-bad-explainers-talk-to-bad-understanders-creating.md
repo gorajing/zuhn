@@ -48,11 +48,11 @@ stance: >-
   audiences who are bad at understanding them, creating compounding rather than
   additive information loss.
 related:
-  - INS-260403-4730
-  - INS-260403-19D8
   - INS-260404-C64D
-  - INS-260405-E6F9
-  - INS-260405-466C
+  - INS-260403-19D8
+  - INS-260405-9F92
+  - INS-260403-4730
+  - INS-260405-F2C7
 evidence:
   - id: INS-260403-4730
     type: SUPPORTS

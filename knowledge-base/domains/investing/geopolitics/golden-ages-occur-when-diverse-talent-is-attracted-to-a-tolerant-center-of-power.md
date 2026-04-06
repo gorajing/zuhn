@@ -51,10 +51,10 @@ stance: >-
   where they are most welcomed.
 related:
   - INS-260327-A25E
+  - INS-260405-4EAA
   - INS-260327-8BFF
   - INS-260330-B8CC
   - INS-260327-9377
-  - INS-260403-4942
 evidence:
   - id: INS-260330-B8CC
     type: CONTRADICTS

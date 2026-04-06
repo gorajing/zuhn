@@ -1,5 +1,5 @@
 ---
-id: INS-260403-5E03
+id: INS-260403-6740
 domain: startups
 topic: fundraising
 title: Burn multiple is the honest lens for evaluating startup capital efficiency
@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'How to Evaluate a Startup Exit: Signs, Metrics & Red Flags'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-exit-strategy-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A burn multiple around 1.5x signals strong capital efficiency; above 2.5x
@@ -57,6 +47,14 @@ stance: >-
   Burn multiple (net burn / net new ARR) is a more revealing metric than growth
   rate alone because it exposes whether growth is earned or subsidized by
   aggressive spending.
+related:
+  - INS-260321-E8CB
+  - INS-260403-A93A
+  - INS-260403-3D75
+  - INS-260403-D8DB
+  - INS-260403-9AD1
+  - INS-260403-3BBB
+  - INS-260404-B6DF
 ---
 Growth rate alone can be misleading — a startup burning $5M to add $2M in ARR (2.5x burn multiple) tells a very different story than one burning $3M for the same growth. In tighter capital markets where cheap funding isn't available to subsidize customer acquisition, burn multiple has become the go-to lens for whether a company is building sustainable value or just buying revenue.
 

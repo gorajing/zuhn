@@ -55,12 +55,11 @@ stance: >-
   rules earn more durable customer trust than those that rely on competitive
   pressure alone to keep prices low
 related:
-  - INS-260327-6D57
   - INS-260404-C9B5
   - INS-260403-3F5F
   - INS-260404-41AA
-  - INS-260403-99DE
-  - INS-260404-EAA7
+  - INS-260405-FFCE
+  - INS-260403-6ACB
 evidence:
   - id: INS-260403-99DE
     type: CHALLENGES

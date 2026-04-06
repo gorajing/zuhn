@@ -48,10 +48,10 @@ stance: >-
   execution aggression.
 related:
   - INS-260325-A326
+  - INS-260403-DFBD
   - PRI-260328-43D8
   - INS-260327-8473
-  - INS-260327-08E7
-  - INS-260327-485B
+  - INS-260403-4B5A
 evidence:
   - id: INS-260327-8473
     type: CONTRADICTS

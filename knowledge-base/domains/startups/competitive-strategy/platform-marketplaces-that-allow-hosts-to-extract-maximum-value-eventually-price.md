@@ -41,13 +41,12 @@ stance: >-
   demand, destroying the value proposition.
 related:
   - INS-260324-157A
-  - INS-260327-31A7
   - INS-260329-9F8D
   - INS-260403-5D89
-  - INS-260329-6079
-  - INS-260402-C883
-  - INS-260329-3DD7
-  - INS-260329-21AF
+  - INS-260403-345C
+  - INS-260403-0F72
+  - INS-260402-3D00
+  - INS-260403-5DF2
 ---
 When marketplace platforms allow suppliers to continuously increase pricing and add fees, they eventually price out the customer segment that created the demand, destroying the value proposition.
 

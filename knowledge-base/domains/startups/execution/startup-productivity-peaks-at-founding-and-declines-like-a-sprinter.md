@@ -39,14 +39,14 @@ stance: >-
   The earliest phase of a startup is its most productive period, and success
   comes from slowing down the least rather than accelerating later
 related:
-  - INS-260322-047D
   - INS-260329-3848
-  - INS-260330-D8D1
   - INS-260403-4E23
-  - INS-260403-2B6E
   - PRI-260324-12CF
+  - INS-260403-6D4F
   - INS-260403-C949
+  - INS-260330-D8D1
   - PRI-260405-93E2
+  - INS-260402-5FE1
 evidence:
   - id: INS-260329-3848
     type: CONTRADICTS

@@ -49,13 +49,12 @@ stance: >-
   facto capitalist economy spontaneously emerged that the regime now tolerates
   because suppressing it would be more destabilizing than allowing it.
 related:
-  - INS-260327-5D01
   - INS-260330-2B4F
   - INS-260330-1293
+  - INS-260403-A52D
   - INS-260323-8C53
-  - PRI-260328-A4AC
-  - INS-260325-6AD5
-  - INS-260323-104E
+  - INS-260404-70DE
+  - INS-260403-B805
 evidence:
   - id: INS-260330-2B4F
     type: SUPPORTS

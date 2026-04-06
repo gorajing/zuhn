@@ -51,10 +51,11 @@ stance: >-
   self-correcting mechanisms that can identify and fix their own mistakes.
 related:
   - INS-260330-790F
+  - INS-260403-0661
+  - INS-260405-42D3
   - INS-260403-3A71
   - INS-260330-7E61
-  - INS-260330-47E0
-  - INS-260330-F258
+  - INS-260330-B7AB
 evidence:
   - id: INS-260330-790F
     type: SUPPORTS

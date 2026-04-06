@@ -1,3 +1,3 @@
 # Tag: mistral
 
-- `INS-260403-D0B9` MoE architectures let smaller labs like Mistral compete with frontier labs by using compute more efficiently.
+- `INS-260405-285D` Mistral raised €600M at a €5.8bn valuation from DST Global and General Catalyst despite a 50% contraction in active European VCs.

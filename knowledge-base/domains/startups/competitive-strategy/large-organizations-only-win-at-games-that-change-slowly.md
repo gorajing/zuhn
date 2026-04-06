@@ -46,11 +46,10 @@ stance: >-
   of technological change exceeds an organization's ability to adapt internally.
 related:
   - INS-260330-0294
+  - INS-260404-CAD5
   - INS-260403-CA46
   - INS-260403-B7C6
-  - INS-260321-21BE
-  - PRI-260322-8FD4
-  - INS-260403-7219
+  - INS-260402-FF4F
 evidence:
   - id: INS-260321-21BE
     type: EXTENDS

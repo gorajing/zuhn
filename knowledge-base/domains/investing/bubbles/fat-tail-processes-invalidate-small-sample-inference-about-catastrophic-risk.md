@@ -50,18 +50,18 @@ stance: >-
   catastrophe in recent history provides almost zero evidence that the system is
   safe.
 related:
-  - INS-260404-3A71
   - PRI-260403-50EF
   - PRI-260325-F21B
   - INS-260323-8544
   - PRI-260325-D34E
+  - INS-260323-B849
 evidence:
   - id: INS-260323-B849
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-B067
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7964
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Taleb uses the example of standing in early 1914 and observing recent peace to conclude war risk had diminished — right before the catastrophe of World War I. In fat-tailed domains, a small number of events explain most of the variance. The same concentration effect visible in internet traffic (Google dominates) and publishing (0.2% of authors generate half the income) applies to wars, market crashes, and pandemics.
 

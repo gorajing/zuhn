@@ -58,17 +58,16 @@ stance: >-
 related:
   - INS-260323-1C33
   - INS-260330-82B5
-  - INS-260330-0E4C
+  - INS-260404-BAED
   - INS-260329-0014
   - INS-260326-CA66
   - PRI-260323-DC25
   - INS-260329-1D08
-  - INS-260404-BAED
 evidence:
   - id: INS-260330-82B5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-072D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 John Gottman can predict divorce with 94% accuracy by observing how couples fight. His four horsemen—criticism (generalizing complaints), contempt (intentional insult), defensiveness (refusing accountability), and stonewalling (shutting down communication)—map directly to customer relationship failures. The universal fight topics (money, kids, sex, time, others) translate to: pricing complaints, client management issues, performance/uptime, feature speed, and competitive concerns.
 

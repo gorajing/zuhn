@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260325-81BD
   - INS-260330-AB3C
+  - INS-260404-EC33
   - INS-260405-C497
   - INS-260404-8256
   - INS-260404-AE3C
-  - INS-260405-FBD7
 evidence:
   - id: INS-260330-6ECA
     type: SUPPORTS

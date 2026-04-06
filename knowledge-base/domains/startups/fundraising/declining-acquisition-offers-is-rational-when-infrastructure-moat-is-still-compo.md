@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Airwallex: How an Outsider Built an $8B Fintech Empire'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/airwallex-story-8-billion-fintech-empire'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Acquirers price current revenue while founders with infrastructure moats can
@@ -62,6 +52,15 @@ stance: >-
   $1.2B at $2M revenue) is rational when the company's core asset is
   infrastructure that compounds nonlinearly, because acquirers price current
   revenue while founders can price infrastructure potential.
+related:
+  - INS-260329-C6BB
+  - INS-260404-C8FA
+  - INS-260329-C754
+  - INS-260403-3106
+  - INS-260403-FF7E
+  - INS-260403-6F8B
+  - INS-260328-4EA0
+  - INS-260403-5DF2
 ---
 Stripe offered $1.2B to acquire Airwallex when it had roughly $2M in revenue — a 600x revenue multiple that would seem irrational to decline. But the offer valued the business on current output, not on the compounding infrastructure being built. A decade later, Airwallex is worth $8B with $1B in revenue.
 

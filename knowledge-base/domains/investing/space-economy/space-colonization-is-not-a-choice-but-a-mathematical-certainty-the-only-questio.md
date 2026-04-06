@@ -51,8 +51,6 @@ related:
   - INS-260330-2DF9
   - PRI-260328-9FB6
   - INS-260327-691F
-  - INS-260328-F05E
-  - INS-260330-8625
 stance: >-
   Bezos argues you can debate when humanity must expand into space but not
   whether

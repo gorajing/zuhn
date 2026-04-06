@@ -53,6 +53,7 @@ related:
   - INS-260330-8304
   - INS-260325-568A
   - INS-260403-09F6
+  - INS-260404-CB21
 stance: JFK's greatest quality was not courage but curiosity
 evidence:
   - id: INS-260323-F2C3

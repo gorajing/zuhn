@@ -1,15 +1,31 @@
 # Tag: capital-efficiency
 
+- `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
 - `INS-260329-CB10` Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
+- `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
 - `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
 - `INS-260330-09E3` Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
 - `INS-260403-4A2F` The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
-- `INS-260403-F4B9` Instead of moving ships empty between Caribbean and European seasons, cruise lines sell repositioning tickets — turning a cost center (transit) into a revenue stream.
+- `INS-260403-FB4A` Instead of moving ships empty between Caribbean and European seasons, cruise lines sell repositioning tickets — turning a cost center (transit) into a revenue stream.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
+- `INS-260403-3D75` Burn multiple (net burn ÷ net new ARR) has become the dominant investor filter, with sub-1x considered excellent and over-2x triggering tough conversations.
+- `INS-260403-6740` A burn multiple around 1.5x signals strong capital efficiency; above 2.5x means growth needs scrutiny regardless of top-line momentum.
+- `INS-260403-3C53` Investors are prioritizing capital discipline, clean unit economics, and 18-24 month runway plans over pure growth metrics when evaluating startups in tariff-uncertain markets.
+- `INS-260403-7DC7` Cost-to-Duplicate valuation rewards spending over efficiency, creating a paradox where lean teams must argue beyond cost to get fair valuations.
 - `INS-260403-696C` Falling startup costs make large VC checks unnecessary, eroding the traditional fund model.
 - `INS-260403-5B89` Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
 - `INS-260322-0C91` Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
+- `INS-260405-36E6` Raising exactly one round gives founders external capital to de-risk early stages while avoiding the compounding dilution and return-driven pressure of traditional multi-round VC paths.
+- `INS-260403-A486` Track Risk Burn Efficiency by measuring how much validated learning each dollar of spend produces, not just how long runway lasts.
+- `INS-260404-AFE6` Hybrid funding models like seed strapping and boot-scaling blur the line between bootstrapping and traditional VC, giving founders more nuanced growth paths.
+- `INS-260403-6177` Seed strapping combines early capital with revenue-driven growth to preserve ownership while avoiding the fundraising treadmill.
 - `INS-260403-36DD` Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
+- `INS-260403-3BBB` Carta data shows longer gaps between rounds, record seed valuations, and smaller teams — investors are permanently rewarding efficiency over burn.
+- `INS-260404-B6DF` Founders must demonstrate capital efficiency and a path to profitability to raise at attractive valuations in the post-ZIRP era.
+- `INS-260403-9AD1` Burn multiple (net burn / net new ARR) below 1.5x is the new gold standard; above 3x triggers serious VC concern.
+- `INS-260403-1823` Women-founded startups produce $0.78 in revenue per dollar raised versus $0.31 for male-founded ones, making the funding disparity an investor performance problem.
+- `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
+- `INS-260403-165F` Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260329-644B` Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.

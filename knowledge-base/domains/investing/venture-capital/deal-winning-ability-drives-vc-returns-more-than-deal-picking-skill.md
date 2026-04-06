@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'a16z Raised $15B: Ben Horowitz on Scaling Venture Capital'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/a16z-15b-raise-ben-horowitz-venture-scaling'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Winning deals matters more than picking them because access compounds faster
@@ -55,6 +45,15 @@ stance: >-
   An average picker who consistently wins competitive deals will outperform a
   genius picker who loses them, because access compounds faster than analytical
   edge.
+related:
+  - INS-260329-595E
+  - INS-260403-8448
+  - INS-260405-7698
+  - INS-260404-3C7A
+  - INS-260403-8DCB
+  - INS-260403-3CD0
+  - PRI-260328-21AD
+  - INS-260403-6EBD
 ---
 Ben Horowitz argues that the ability to win competitive deals is a stronger return driver than superior selection ability. The reasoning is that winning creates a compounding loop: winners attract the best pickers, who make the firm better at winning, which attracts more deal flow. This contradicts the common VC belief that returns come primarily from superior judgment.
 

@@ -45,16 +45,15 @@ stance: >-
   systematically outperform relationship-based firms that rely on human
   processes.
 related:
-  - INS-260323-282F
   - INS-260321-69E1
   - INS-260323-A7F6
   - INS-260327-18D4
-  - INS-260327-94F5
-  - INS-260328-FFC3
   - INS-260403-407A
+  - INS-260403-6E23
   - INS-260403-9DBA
   - INS-260403-ABBB
   - INS-260330-63BA
+  - INS-260404-3FDF
 evidence:
   - id: INS-260323-282F
     type: CHALLENGES

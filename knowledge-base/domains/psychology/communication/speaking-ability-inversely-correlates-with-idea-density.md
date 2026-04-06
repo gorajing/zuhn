@@ -1,5 +1,5 @@
 ---
-id: INS-260403-2B1D
+id: INS-260403-772D
 domain: psychology
 topic: communication
 title: Speaking ability inversely correlates with idea density
@@ -22,7 +22,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The skills that make someone a great speaker are often orthogonal or opposed
@@ -47,12 +47,14 @@ stance: >-
   audience flattery — compete directly with the time and rigor needed for
   original thinking.
 related:
-  - INS-260323-BA17
-  - INS-260403-BB6B
-  - PRI-260405-ED62
-  - INS-260325-0688
-  - INS-260330-06CD
-  - INS-260330-8AC8
+  - INS-260323-A430
+  - INS-260329-11AB
+  - INS-260329-4D06
+  - INS-260330-B5D6
+  - PRI-260405-BF5B
+  - INS-260403-EA34
+  - INS-260323-197A
+  - INS-260320-DDD9
 evidence:
   - id: INS-260323-197A
     type: TRANSFERS_TO

@@ -48,10 +48,10 @@ stance: >-
   understanding.
 related:
   - INS-260404-C0E6
+  - INS-260403-822B
   - INS-260403-19D8
-  - INS-260327-9BA2
-  - PRI-260403-0ABD
-  - PRI-260328-95A5
+  - INS-260405-5D19
+  - INS-260405-9F92
 evidence:
   - id: INS-260403-19D8
     type: EXTENDS

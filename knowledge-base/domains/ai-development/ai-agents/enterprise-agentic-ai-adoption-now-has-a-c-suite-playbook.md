@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Acquihires Season Is Officially Here\U0001F91D, VCs Are Pivoting\U0001F9DF‍♂️, McKinsey’s Agentic AI Playbook\U0001F579️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/acquihires-season-is-officially-here'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     McKinsey and OpenAI have both released practical frameworks for enterprise
@@ -60,6 +50,17 @@ stance: >-
   McKinsey and OpenAI publishing structured agent deployment frameworks marks
   the transition of agentic AI from experimental technology to standard
   enterprise infrastructure.
+related:
+  - INS-260325-BC2A
+  - INS-260321-8414
+  - INS-260327-D65E
+  - INS-260327-FE24
+  - INS-260330-AB62
+  - INS-260330-EEA9
+  - INS-260404-8E0D
+  - INS-260321-4E98
+  - INS-260403-AC2D
+  - INS-260405-1A3C
 ---
 Two major publications dropped simultaneously: McKinsey's agentic AI playbook targeting C-suite decision-makers on agent orchestration, trust, and enterprise reinvention, and OpenAI's technical guide to building agents with code-level implementation details and safety frameworks. The convergence of a management consultancy and an AI lab publishing agent guides at the same time is significant.
 

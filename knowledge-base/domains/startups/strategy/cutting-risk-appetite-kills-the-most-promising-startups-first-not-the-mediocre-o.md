@@ -50,16 +50,16 @@ stance: >-
   itself, meaning reduced risk tolerance disproportionately eliminates the
   highest-potential ventures
 related:
-  - INS-260329-88A4
   - INS-260402-7DCC
   - INS-260403-6890
   - INS-260403-160A
-  - INS-260403-B008
   - INS-260330-66A0
   - PRI-260405-E9C5
   - INS-260402-2B96
-  - INS-260403-4E71
   - INS-260403-1F40
+  - INS-260403-0821
+  - INS-260403-4A2F
+  - INS-260403-3CD0
 evidence:
   - id: INS-260403-B008
     type: SUPPORTS

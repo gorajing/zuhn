@@ -46,10 +46,11 @@ stance: >-
   decision-making ability
 related:
   - INS-260403-3346
+  - INS-260403-AE5B
   - INS-260329-0F10
   - PRI-260327-117F
-  - INS-260321-C14C
-  - INS-260322-2ABB
+  - INS-260403-952F
+  - INS-260403-FBD6
 evidence:
   - id: INS-260403-2B1D
     type: TRANSFERS_TO

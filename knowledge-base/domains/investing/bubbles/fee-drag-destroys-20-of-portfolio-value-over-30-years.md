@@ -47,15 +47,15 @@ stance: >-
   and minimizing them compounds into massive wealth differences over decades.
 related:
   - INS-260325-1407
-  - INS-260330-9470
+  - INS-260403-CDF1
   - INS-260322-3646
   - INS-260328-195E
-  - PRI-260328-BD9B
+  - PRI-260405-B144
 evidence:
   - id: INS-260330-8A87
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-195E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The 'Vanguard effect' research shows that Jack Bogle's fee pressure through Vanguard saved investors approximately $1 trillion by 2016 and another trillion in the decade following. Transaction costs have fallen from hundreds of dollars per trade to zero, and fund expense ratios dropped from 1-2% to under 5 basis points for broad indexes.
 

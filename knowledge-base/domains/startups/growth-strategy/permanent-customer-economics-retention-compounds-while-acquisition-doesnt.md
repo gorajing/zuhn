@@ -45,14 +45,12 @@ stance: >-
   will always outperform a business that doubles acquisition but retains zero,
   because time compounds retention but not acquisition.
 related:
-  - INS-260322-90E7
   - INS-260327-40E3
+  - INS-260403-53B0
+  - INS-260403-91A1
   - PRI-260328-43F1
   - PRI-260328-C918
-  - PRI-260403-5DEA
-  - INS-260323-B4D2
-  - PRI-260328-8284
-  - INS-260403-E69C
+  - INS-260403-501D
 evidence:
   - id: INS-260322-90E7
     type: SUPPORTS

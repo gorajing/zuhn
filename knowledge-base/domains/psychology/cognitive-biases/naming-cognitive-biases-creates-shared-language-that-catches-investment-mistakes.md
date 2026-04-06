@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'The Sequoia Playbook: How VC Discipline Compounds Returns'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/sequoia-playbook-vc-discipline-systems'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sequoia cataloged 40 cognitive biases with names after post-mortems
@@ -59,6 +49,13 @@ stance: >-
   Cataloging and explicitly naming cognitive traps creates organizational
   language that makes psychological error patterns visible and catchable before
   they drive decisions.
+related:
+  - INS-260322-F609
+  - INS-260330-FB34
+  - PRI-260323-81E9
+  - PRI-260405-ADEA
+  - PRI-260325-45A2
+  - INS-260323-15F4
 ---
 After running post-mortems on their biggest investment misses, Sequoia kept arriving at the same conclusion: the error wasn't analytical — it was psychological. Competitive excitement influenced judgment. Similarity bias drew them toward familiar-feeling founders. Rather than treating these as vague warnings, they cataloged 40 specific cognitive biases and gave each one a name.
 

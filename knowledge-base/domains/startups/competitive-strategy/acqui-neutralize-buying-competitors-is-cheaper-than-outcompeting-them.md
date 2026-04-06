@@ -46,13 +46,13 @@ stance: >-
   premiums are making rational defensive investments that pay back 10-100x by
   eliminating the alternative.
 related:
-  - INS-260323-78A5
   - INS-260327-CECA
   - INS-260330-0317
   - INS-260403-EAC6
+  - INS-260405-77C9
   - INS-260330-930D
-  - INS-260324-DB86
-  - INS-260403-912E
+  - INS-260403-501D
+  - INS-260323-78A5
 evidence:
   - id: INS-260329-E193
     type: SUPPORTS

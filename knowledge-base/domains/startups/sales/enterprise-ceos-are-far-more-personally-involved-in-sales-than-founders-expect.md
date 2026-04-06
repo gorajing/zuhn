@@ -47,13 +47,13 @@ stance: >-
   debugging major deals rather than delegating sales entirely.
 related:
   - INS-260327-9C00
-  - INS-260327-A815
-  - INS-260327-07C9
   - PRI-260328-E921
+  - INS-260403-6E4C
   - INS-260328-4EA0
   - PRI-260327-942E
-  - INS-260404-7325
-  - INS-260403-CE7C
+  - INS-260404-3A2E
+  - INS-260405-5CCD
+  - INS-260405-0060
 ---
 Most B2B companies are actually enterprise companies that just haven't realized it yet. And the biggest misconception about enterprise sales is how much the CEO is personally involved. At Palantir, for example, a junior salesperson isn't cold-calling Boeing for a $100M deal. There's massive executive sponsorship and founder-level involvement in originating these deals.
 

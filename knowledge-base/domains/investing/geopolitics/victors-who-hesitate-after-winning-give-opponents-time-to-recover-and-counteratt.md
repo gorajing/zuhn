@@ -57,6 +57,9 @@ related:
   - PRI-260403-B9A0
   - INS-260327-B038
   - INS-260327-5E93
+  - INS-260405-397C
+  - INS-260403-F5B7
+  - INS-260403-47F1
 ---
 Austria's victory at Aspern-Essling was a genuine shock — Napoleon's first real battlefield defeat. But instead of pressing the advantage with an immediate counterattack while Napoleon's army was disorganized and demoralized, Archduke Charles hesitated, debating whether to seek peace or continue fighting. Napoleon used those six weeks to summon reinforcements, build vastly superior bridges, and return with 164,000 men for Wagram.
 

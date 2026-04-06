@@ -45,8 +45,10 @@ resolutions:
 related:
   - INS-260323-13C0
   - PRI-260323-00C6
+  - INS-260404-36B9
+  - INS-260327-956D
   - INS-260323-EA36
-  - PRI-260328-0C51
+  - INS-260322-F46F
   - INS-260325-95A6
 stance: >-
   Most AI projects fail because organizations skip the unglamorous data science

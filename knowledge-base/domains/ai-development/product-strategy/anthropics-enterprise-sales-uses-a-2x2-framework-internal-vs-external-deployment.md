@@ -63,10 +63,10 @@ stance: >-
   and lower risk — smart customers sequence them deliberately.
 related:
   - INS-260327-6B78
+  - INS-260404-8CA8
   - INS-260330-760D
   - INS-260327-540D
   - INS-260325-FDF5
-  - INS-260330-13E8
   - INS-260327-8FD4
 evidence:
   - id: INS-260327-6B78

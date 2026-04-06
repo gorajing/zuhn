@@ -18,24 +18,14 @@ sources:
     title: >-
       How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide +
       YC’s Proven Framework)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-to-find-and-validate-profitable'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Unglamorous industries like logistics and waste management are often ripe
@@ -61,6 +51,13 @@ stance: >-
   attract little founder attention offer better risk-adjusted startup
   opportunities than trendy sectors, because low competition compounds with high
   switching motivation.
+related:
+  - INS-260328-57CF
+  - INS-260322-F6AA
+  - INS-260327-1064
+  - INS-260403-ABBB
+  - INS-260327-8254
+  - INS-260330-F737
 ---
 The most overfunded startup sectors—social media, consumer fintech, AI wrappers—attract disproportionate founder talent, creating intense competition. Meanwhile, industries like logistics, waste management, and niche B2B services operate with legacy software, frustrated customers, and minimal innovation pressure. The lack of competition in these 'boring' markets means even a moderately better product can capture significant share.
 

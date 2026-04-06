@@ -62,26 +62,25 @@ stance: >-
 related:
   - INS-260322-3537
   - INS-260323-B309
-  - INS-260329-003B
+  - INS-260329-0F06
   - INS-260329-6936
   - INS-260329-E4F6
   - INS-260329-70F2
-  - INS-260330-4B30
-  - INS-260329-7C59
   - INS-260329-74E5
+  - INS-260330-E47D
 evidence:
   - id: INS-260322-3537
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-B309
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4B30
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6936
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-003B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial's type introduction sequence is not alphabetical or arbitrary — it follows a precise concrete-to-abstract gradient. Strings come first because they're directly visible ('Hello' is immediately inspectable). Numbers follow because arithmetic is pre-existing knowledge. Booleans are introduced through comparison operators on already-familiar types. Lists and dictionaries emerge as containers for the primitive types already understood. Finally, classes arrive as containers for both data and behavior.
 

@@ -52,11 +52,11 @@ stance: >-
   because their entire career was built on decisions optimized for the previous
   business model, and disruption requires the opposite decisions.
 related:
-  - INS-260330-A9CB
   - INS-260403-C1F5
   - INS-260325-8B36
   - INS-260403-B008
   - INS-260327-2B75
+  - INS-260405-3554
   - INS-260403-DF73
 evidence:
   - id: INS-260403-B008

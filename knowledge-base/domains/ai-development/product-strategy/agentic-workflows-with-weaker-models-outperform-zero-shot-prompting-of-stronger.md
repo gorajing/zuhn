@@ -51,14 +51,13 @@ stance: >-
   than zero-shot prompting of GPT-4, meaning agent architecture matters more
   than base model capability.
 related:
-  - INS-260325-3F86
   - INS-260326-7F79
+  - INS-260403-D090
   - PRI-260403-7585
   - PRI-260328-F723
-  - INS-260323-AF7B
-  - INS-260405-AFF7
-  - INS-260328-B19D
+  - INS-260405-C1E4
   - INS-260330-EC22
+  - INS-260405-AFF7
 ---
 Andrew Ng presents data showing GPT-3.5 at 48% zero-shot on HumanEval, GPT-4 at 67% zero-shot, but GPT-3.5 with an agentic workflow exceeding GPT-4's zero-shot performance. The analogy is powerful: zero-shot prompting is like asking someone to write an essay without ever using backspace. Agentic workflows allow the model to draft, self-critique, test, and iterate.
 

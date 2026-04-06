@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Meta Shrinks to Move Faster: Superintelligence Labs Explained'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-158'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Google's Willow processor demonstrated quantum advantage that was
@@ -57,5 +47,12 @@ resolutions:
 stance: >-
   Quantum computing's credibility milestone is not raw speed but reproducible
   verification by third-party quantum hardware
+related:
+  - INS-260325-1B3E
+  - INS-260323-8DE7
+  - INS-260325-5B7F
+  - INS-260403-841F
+  - INS-260404-FC20
+  - INS-260323-DA1E
 ---
 The 2019 quantum supremacy claim from Google was criticized because classical machines could not independently verify or replicate the results. The Willow breakthrough addresses this directly: the out-of-time-order correlator (OTOC) experiment was independently confirmed and run 13,000x faster than a top classical supercomputer. The significance is epistemological — 'verifiable' advantage means the benchmark can be re-run by others, establishing a reproducible baseline rather than a single extraordinary claim. This matters for calibrating where quantum computing actually is versus where hype places it. The molecule simulation work (15 and 28 atom models) is still 'not beyond classical methods,' which is an unusually honest disclosure and a useful signal about the realistic timeline for practical quantum chemistry applications.

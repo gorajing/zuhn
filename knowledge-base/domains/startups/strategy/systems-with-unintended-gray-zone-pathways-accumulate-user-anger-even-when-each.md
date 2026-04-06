@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: What a liberal immigration enforcement policy might look like
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/what-a-liberal-immigration-enforcement'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Legal-but-clearly-unintended system pathways generate diffuse public anger
@@ -64,6 +52,12 @@ stance: >-
   When a system's rules create loopholes that technically comply with stated
   intent but clearly violate its spirit, cumulative public frustration
   eventually forces a disruptive correction
+related:
+  - INS-260322-C935
+  - INS-260330-AA25
+  - INS-260403-949E
+  - INS-260403-3D8C
+  - INS-260326-E0CB
 ---
 Smith describes how U.S. asylum law — which grants hearings even to those who entered illegally — creates a gray zone where people are 'illegal when they cross, legal while awaiting hearing, then illegal again if denied.' Most Americans don't understand the mechanism but sense that their democratic will is being violated. This diffuse, poorly-understood anger builds until it produces an overcorrection (Trump's ICE).
 

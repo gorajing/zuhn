@@ -46,16 +46,16 @@ resolutions:
     right about something uncomfortable. He'd literally take 50% less money to
     keep it.
 related:
-  - INS-260323-2FF9
   - INS-260325-C5AE
   - INS-260404-0D62
   - INS-260330-6204
+  - INS-260403-B374
+  - INS-260403-227D
   - INS-260328-4EA0
-  - INS-260330-DC22
-  - INS-260403-FE3B
   - INS-260323-E2ED
-  - INS-260327-2B75
   - INS-260327-8AE7
+  - INS-260329-88A4
+  - INS-260329-3924
 stance: >-
   Mark Pincus argues that founder control is worth more than valuation because
   losing control means losing the ability to make the risky, unpopular p...

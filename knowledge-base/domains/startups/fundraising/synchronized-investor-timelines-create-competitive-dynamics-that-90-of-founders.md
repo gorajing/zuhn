@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: A playbook for fundraising
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-playbook-for-fundraising'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Coordinate first meetings within a 2-3 week window and manage all funds on
@@ -61,6 +49,12 @@ stance: >-
   Running a synchronized fundraising process where all funds reach decision
   points simultaneously is the single highest-leverage tactical move in
   fundraising
+related:
+  - INS-260322-8F80
+  - INS-260327-E9F3
+  - INS-260330-6900
+  - INS-260403-E541
+  - INS-260402-5974
 ---
 The most common fundraising failure mode is allowing investors to progress at different speeds. When one fund gets ahead, founders face impossible choices: accept a term sheet from their least-preferred investor or reject it and risk losing all leverage. The solution is treating fundraising as market-making — compressing 50-60 first meetings into a 2-3 week window (max 4-5 per day) and actively managing each fund's diligence timeline to keep them synchronized.
 

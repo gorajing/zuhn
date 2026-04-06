@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Europe to US: The Expansion Playbook Every Founder Needs'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/europe-to-us-startup-expansion-playbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Index Ventures identified five distinct archetypes for European-to-US
@@ -63,6 +53,12 @@ stance: >-
   Pendulum, Anchor, Telescope, or Transplant) before entering the US make better
   timing and resource allocation decisions than those who treat expansion as a
   generic growth move.
+related:
+  - INS-260402-C301
+  - PRI-260328-43F1
+  - INS-260326-9402
+  - INS-260403-93DA
+  - INS-260403-2A92
 ---
 Based on research across 500+ VC-backed startups, Index Ventures categorizes European expansion into five archetypes: Magnet (US pull from day one, relocate pre-Series A), Pendulum (dual hubs with engineering in Europe, GTM in US), Anchor (European home base with US foothold for key accounts), Telescope (product-led growth reaching US users remotely), and Transplant (full HQ relocation). Each archetype reflects fundamentally different assumptions about where value creation happens. Choosing the wrong model—like a Telescope behaving as a Transplant—burns capital without traction, while an Anchor that should have gone Magnet watches competitors leap ahead.
 

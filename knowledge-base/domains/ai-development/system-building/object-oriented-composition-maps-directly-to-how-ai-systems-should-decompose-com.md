@@ -50,10 +50,9 @@ stance: >-
 related:
   - INS-260326-9402
   - INS-260327-77E7
-  - INS-260329-0EAC
+  - INS-260404-AD45
   - PRI-260328-1ED1
   - INS-260327-BF89
-  - INS-260329-C7BF
 ---
 The tutorial's progression from functions to classes to inheritance mirrors how complex AI systems should be structured. A function is a stateless tool. A class adds persistent state. Inheritance enables specialization. This is exactly the progression from simple LLM calls → agents with memory → specialized agent hierarchies.
 

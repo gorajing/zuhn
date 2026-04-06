@@ -41,14 +41,15 @@ stance: >-
   gradually lose the ability to distinguish their actual ideas from the spin
   they added.
 related:
+  - INS-260330-A151
   - INS-260330-AB5D
   - INS-260330-6A3A
   - INS-260402-D0F3
   - INS-260403-C37D
-  - INS-260403-AFC4
   - PRI-260405-262B
   - PRI-260403-57EC
-  - INS-260330-A151
+  - INS-260328-711E
+  - INS-260403-368B
 evidence:
   - id: INS-260328-711E
     type: EXTENDS

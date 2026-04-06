@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: The Creator Economy 2025
-    author:
-      - '@type': Person
-        name: Ollie Forsyth
-        url: 'https://substack.com/@neweconomies'
-        description: >-
-          ex Antler VC. Building NEW ECONOMIES - your go to newsletter on the
-          latest trends in tech. 
-        identifier: 'user:119664304'
-        sameAs:
-          - 'https://twitter.com/ollieforsyth'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
+    author: Ollie Forsyth
     url: 'https://www.thevccorner.com/p/the-creator-economy-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Creators are increasingly launching product lines, brands, and software
@@ -61,6 +47,17 @@ stance: >-
   The most successful creators will be those who treat content as a customer
   acquisition channel for broader business ventures rather than as the primary
   revenue source
+related:
+  - INS-260330-7251
+  - INS-260403-3A9D
+  - INS-260403-0020
+  - INS-260404-3A2E
+  - INS-260403-C6C3
+  - INS-260403-CA1E
+  - INS-260403-37FD
+  - INS-260403-99B1
+  - INS-260404-2032
+  - INS-260403-C907
 ---
 The creator economy is shifting from a content-monetization model to a business-building model. Rather than depending on platform ad revenue, sponsorships, or tips, a growing number of creators are launching their own product lines, building software, and treating their audience as a distribution channel for broader commercial ventures.
 

@@ -50,9 +50,10 @@ stance: >-
 related:
   - INS-260405-F5D8
   - INS-260403-71D1
+  - INS-260403-A36C
   - INS-260403-A60E
   - INS-260402-F08D
-  - INS-260403-B2EB
+  - INS-260403-9120
 evidence:
   - id: INS-260405-F5D8
     type: SUPPORTS

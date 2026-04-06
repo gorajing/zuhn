@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "2026 Tech Trends\U0001F52E, Startups That Win⚔️, Why Cambridge Associates Is Cautious⚠️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/2026-tech-trends-startups-that-win'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Startups raised 5x more than VC fund commitments in 2025, with
@@ -53,5 +43,16 @@ stance: >-
   commitments means non-traditional investors and high-net-worth individuals are
   becoming the dominant capital source for AI startups, fundamentally changing
   venture power dynamics.
+related:
+  - INS-260330-C84C
+  - INS-260405-6FE3
+  - INS-260403-F524
+  - INS-260403-1B46
+  - INS-260405-776D
+  - INS-260404-0F6C
+  - INS-260404-8881
+  - INS-260403-0BE9
+  - INS-260404-C3F1
+  - INS-260403-FD57
 ---
 The structural imbalance between startup fundraising volume and new VC fund formation reveals a fundamental shift in who controls venture capital. When startups raise 5x what VCs are committing to new funds, the difference is coming from sovereign wealth funds, corporate ventures, family offices, and high-net-worth individuals writing larger checks directly. This changes the power dynamics founders face: traditional VC value-add (network, governance, operational support) becomes less important when capital is abundant from alternative sources. For founders, this means more leverage in negotiations but also a need to evaluate investors on dimensions beyond just capital — the best money comes with strategic access, not just a term sheet.

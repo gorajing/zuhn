@@ -44,15 +44,15 @@ stance: >-
   revenue model will erode their own margins as competitors match their costs.
 related:
   - INS-260322-AABB
-  - INS-260327-4BC6
-  - INS-260403-D62F
   - INS-260403-81BD
-  - INS-260403-1284
-  - INS-260403-34A6
   - INS-260403-FF57
-  - INS-260403-E1EB
   - INS-260403-52DB
   - PRI-260328-A4AC
+  - INS-260405-E155
+  - INS-260404-D471
+  - INS-260404-116E
+  - INS-260404-0022
+  - INS-260404-20F3
 evidence:
   - id: INS-260403-34A6
     type: EXTENDS

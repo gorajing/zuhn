@@ -17,25 +17,15 @@ tags:
 sources:
   - type: blog
     title: 'Exit Scenario Modeling: IPO vs Acquisition vs Secondary'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/exit-scenario-model-ipo-secondary-acquisition
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Breaking exit proceeds into immediate vs deferred cash exposes whether a
@@ -63,6 +53,13 @@ resolutions:
 stance: >-
   Separating exit proceeds into upfront cash and deferred cash is the single
   most important analytical step for evaluating exit quality.
+related:
+  - INS-260330-137A
+  - INS-260403-53A4
+  - INS-260404-25FF
+  - INS-260403-001C
+  - INS-260403-E503
+  - INS-260403-DA8F
 ---
 A common failure mode in exit planning is treating the total consideration as a lump sum. In reality, acquisitions often include earn-outs (contingent payments over 2-3 years), IPOs involve lock-up periods where shares cannot be sold, and secondary sales may have tranched structures. An exit worth $10M on paper where 80% is tied to a three-year earn-out is fundamentally different from $8M in immediate cash.
 

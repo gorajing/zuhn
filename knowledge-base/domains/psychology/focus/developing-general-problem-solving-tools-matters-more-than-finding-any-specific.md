@@ -48,14 +48,13 @@ stance: >-
   A mathematician's real goal is extracting reusable methods from solved
   problems, not just obtaining the answer.
 related:
+  - INS-260403-FC4F
   - INS-260325-05FC
   - PRI-260328-8E01
   - INS-260321-AE3F
   - INS-260323-2117
-  - INS-260323-085A
   - INS-260325-B206
   - INS-260325-1CE4
-  - INS-260329-89CB
   - INS-260330-35CB
 evidence:
   - id: INS-260321-AE3F

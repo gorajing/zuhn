@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Where VCs Are Betting on AI in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vcs-betting-on-ai-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Foundation models can now integrate, retrain, and migrate data across
@@ -61,6 +51,17 @@ stance: >-
   Foundation models have fundamentally destroyed the three classic SaaS
   defensibility moats, forcing startups to build new moats around enterprise
   knowledge, trust, and observability instead.
+related:
+  - INS-260321-D01E
+  - INS-260322-642F
+  - INS-260327-7D53
+  - INS-260328-91A1
+  - INS-260329-3AE5
+  - INS-260330-1A23
+  - INS-260403-6857
+  - INS-260404-7680
+  - INS-260322-5678
+  - INS-260404-CE26
 ---
 The three SaaS moats that once guaranteed defensibility — implementation complexity, workflow lock-in, and data gravity — are becoming irrelevant. Foundation models can integrate, retrain, and migrate data across platforms with near-zero switching costs. This means startups compete not only with other startups but with their own customers, who have access to the same APIs and fine-tuning infrastructure.
 

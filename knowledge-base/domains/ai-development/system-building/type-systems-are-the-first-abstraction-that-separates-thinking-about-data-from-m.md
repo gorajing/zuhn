@@ -51,7 +51,6 @@ stance: >-
   about syntax — it is the first encounter with the fundamental computer science
   concept that data representation determines what operations are possible.
 related:
-  - INS-260320-2DDE
   - INS-260327-D794
   - INS-260329-E015
   - INS-260329-C031
@@ -60,6 +59,7 @@ related:
   - INS-260329-6936
   - PRI-260403-ABDE
   - INS-260330-CE2F
+  - INS-260329-4D03
 evidence:
   - id: INS-260327-D794
     type: TRANSFERS_TO

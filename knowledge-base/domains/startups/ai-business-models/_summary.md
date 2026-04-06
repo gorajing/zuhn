@@ -1,21 +1,37 @@
 # Topic: ai-business-models
 
-> 17 insights
+> 33 insights
 
+- `INS-260403-3852` [high] Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
+- `INS-260403-C6C3` [high] AI companies targeting finished-work delivery access the massive services market rather than the smaller software market.
 - `INS-260403-101D` [high] The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
+- `INS-260404-A2C4` [high] AI companies appear at every valuation tier from $10B to $157B across radically different verticals, confirming AI as a horizontal platform shift.
+- `INS-260404-5AC8` [high] AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
 - `INS-260322-EDA4` [high] New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
+- `INS-260403-1A38` [high] $23.6B in Q4 2025 enterprise deals driven by CIOs buying agentic platforms instead of building internally marks the buy-over-build inflection point.
 - `INS-260325-FADB` [high] Open Router observes companies on their platform doing tens of millions in revenue with just five people, made possible by models powering what previously required large teams.
 - `INS-260322-54F3` [high] The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.
 - `INS-260403-3517` [high] Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.
+- `INS-260403-EDFB` [high] Generic AI tools are commoditized, but deep vertical AI products for specific industries and workflows still have massive untapped opportunity.
 - `INS-260325-BEAC` [high] Open Router data shows 60-80% of top AI app operating costs are inference, and this ratio is growing as agentic usage explodes.
 - `INS-260322-E20E` [high] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
+- `INS-260404-8CA8` [high] Ramp reached $1B revenue with 153% YoY growth by using AI to automate 26 million financial decisions across $10B in customer spend.
 - `INS-260322-054E` [high] The largest AI opportunity is not replacing existing software but replacing labor tasks where the cost-to-value equation was previously inverted.
+- `INS-260403-401F` [high] AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
+- `INS-260404-63F0` [high] 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.
 - `INS-260322-837A` [high] Companies with proprietary data that previously sold raw access can now deliver finished AI-powered products, multiplying revenue by 5-100x.
+- `INS-260403-EBC3` [medium] Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities.
+- `INS-260405-615E` [medium] Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260322-88C3` [medium] AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
 - `INS-260403-7B3B` [medium] AI influencer agencies eliminate talent management costs while capturing the full revenue stream that traditionally splits between creator and agency.
 - `INS-260405-CF27` [medium] Driving the marginal cost of any scarce input to zero historically creates platform-scale winners; humanness is next.
+- `INS-260405-D098` [medium] AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
 - `INS-260405-B4D4` [medium] The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
+- `INS-260404-6586` [medium] AI wrapper startups are winning by packaging complex AI capabilities into simple, domain-specific products that non-technical users can adopt immediately.
+- `INS-260405-70D4` [medium] Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
 - `INS-260403-2E0F` [medium] The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
+- `INS-260405-94A0` [medium] OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
+- `INS-260403-9491` [medium] The highest-value AI business model sells completed work rather than tools to do the work.
 - `INS-260325-4FF3` [medium] Eugene from ZDOT AI proposed that instead of per-token pricing, AI companies should charge for value delivered — aligning revenue with the GDP of agent output rather than compute consumed.
 - `INS-260405-AD55` [low] Just as AI workers scale business labor, digital clones will scale individual human presence and expertise.

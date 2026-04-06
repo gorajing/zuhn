@@ -4,23 +4,34 @@
 - `INS-260321-E5C5` The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
 - `INS-260325-9B73` Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
+- `INS-260405-BE58` Co-founder chemistry is infrastructure — misalignment there propagates into every downstream decision.
 - `INS-260325-93A9` 65% of startups fail from co-founder interpersonal tensions yet no one tracks relationship health as a KPI — boards advise on fundraising and strategy but not the founding relationship itself.
 - `INS-260330-8DCE` Vet co-founders through 20+ hours of deep conversation including explicit divorce scenarios, not just friendship duration.
+- `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
+- `INS-260330-C745` Among the highest-valued YC companies, there are zero instances of significantly disproportionate founder equity splits.
 - `INS-260403-6553` Top universities produce more successful startups because their selective admissions concentrate smart and determined people who become each other's cofounders.
 - `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260325-57CA` Matt Jones finds most co-founders are chosen like college roommates — by proximity and familiarity — rather than through deliberate evaluation of strategic fit and alignment on sacrifice and outcomes.
+- `INS-260403-49DF` The best partnerships combine complementary strengths within the same domain, not identical skills or different fields entirely.
 - `INS-260329-61CF` Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource.
 - `INS-260330-8550` Spend 20+ hours with potential co-founders covering disagreements, work styles, and explicit divorce scenarios before committing.
 - `INS-260330-AA8B` YC data shows all 9 companies that added random co-founders between interview and batch start fell apart within a year.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
+- `INS-260403-0629` OpenAI lost Musk, Hurd, Hoffman, and Zilis from its board before the Altman crisis — each departure cited different reasons but all stemmed from the same structural tensions.
 - `INS-260402-8813` Co-founders matter most not for splitting work but for creating mutual obligation that sustains effort through unbearable lows.
+- `INS-260404-9263` Solo founders get into top accelerators, but strong co-founding teams have a clear edge in selection.
 - `INS-260404-DF8E` Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.
 - `INS-260403-3B67` The builder + seller co-founder combination is the most common successful startup pattern and what VCs actively look for.
 - `INS-260327-6725` The right co-founder feels obvious from the first conversation—if it's not electric, keep looking.
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260330-3E6F` Among YC's highest-valued companies, none had significantly unequal founder equity splits.
+- `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
+- `INS-260403-8B68` 35% of US startups are solo-founded but only 17% of VC-funded startups are, and 24% of 2-founder teams lose a co-founder by year 4.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
+- `INS-260403-26CD` Top accelerators prioritize diverse, complementary teams over solo founders in their selection process.
+- `INS-260403-31BD` Equity sitting with people who no longer contribute tells VCs the founder either can't make hard decisions or doesn't understand equity's strategic value.
+- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260330-C4D4` While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.
 - `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.

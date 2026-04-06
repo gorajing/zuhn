@@ -51,16 +51,16 @@ stance: >-
   Depriving living systems of volatility and stressors causes them to become
   fragile and eventually catastrophically fail, just as over-stabilizing a steam
   engine causes it to explode.
-related:
-  - PRI-260327-0AA2
-  - PRI-260328-F804
-  - PRI-260323-A05E
-  - PRI-260325-663A
-  - PRI-260323-0F93
 evidence:
   - id: INS-260322-F6C3
     type: SUPPORTS
     classified_at: '2026-04-03'
+related:
+  - PRI-260327-0AA2
+  - PRI-260328-F804
+  - PRI-260323-A05E
+  - INS-260322-F6C3
+  - PRI-260325-663A
 ---
 Taleb draws a sharp line between mechanical systems (washing machines) and organic ones (cats, economies, people). Organic systems require stressors to function. You stress your body at the gym; bones need loading to maintain density; cells that break under fasting stress are replaced by stronger ones. The same Jensen's inequality that kills grandmothers at extreme temperature averages makes humans healthier with temperature variation.
 

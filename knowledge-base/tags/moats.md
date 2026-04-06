@@ -2,48 +2,78 @@
 
 - `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
+- `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
 - `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
+- `INS-260404-CAD5` AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
+- `INS-260404-60A6` Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
+- `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
+- `INS-260405-D098` AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
+- `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
+- `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
-- `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
+- `INS-260405-FD9D` SaaS is speedrunning itself — viral today, vanished tomorrow — making defensibility more urgent than ever.
+- `INS-260404-9004` Subscription SaaS companies from 2012 built durable moats through deep enterprise integration and high switching costs.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
+- `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
+- `INS-260403-5384` AI makes building software cheap, shifting competitive value from code to distribution, proprietary data, and workflow entrenchment.
 - `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
+- `INS-260403-7841` AI companies that embed into workflows and build network effects create durable moats beyond mere execution speed.
+- `INS-260403-3C66` AI startups need at least one of three moats — domain expertise, differentiated distribution, or new interaction models — to survive platform competition.
 - `INS-260404-CA58` Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.
+- `INS-260405-71E1` Network effects and switching cost moats are structurally superior because they strengthen with scale, while cost-based moats invite well-funded competition.
 - `INS-260403-43B9` Competitors can copy products far more easily than they can replicate an entire business model ecosystem.
+- `INS-260402-9DBC` Defining the vocabulary of your market (roles, categories, workflows) anchors your brand in every conversation about that space in ways features never can.
 - `INS-260403-16D7` Products are easy to copy but business models create structural advantages that competitors struggle to replicate.
+- `INS-260403-68B4` Market crowding shifts the advantage from speed-to-market to depth-of-understanding.
+- `INS-260403-FF7E` AI-era startups should prioritize building compounding moats over optimizing gross margins, because margins can mislead while defensibility determines survival.
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
+- `INS-260403-C4EE` In AI, distribution loops—not features—create defensible positions because features are easily replicated.
 - `INS-260330-EEED` Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
 - `INS-260404-CCE7` ARM invests in chip designs eight years before they generate revenue, creating a depth of IP that fast-followers cannot shortcut.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
+- `INS-260403-DAA9` Decades of accumulated context at a single company create pattern recognition and reinvention capacity that no amount of capital or talent can fast-track.
 - `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
 - `INS-260403-0AF6` Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
 - `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
+- `INS-260403-75C3` Proprietary infrastructure investments that seem painfully slow eventually create compounding returns that feature-layer competitors cannot replicate.
 - `INS-260403-9E2D` A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
 - `INS-260323-7F36` The install base is the single most important factor for a computing platform; elegant architectures like RISC failed while the 'barely aesthetic' x86 survived because install base trumps design purity.
 - `INS-260405-D660` Kilo Code grew to 1.5 million users in under a year by being open-source, model-agnostic, and letting community PRs drive development velocity.
 - `INS-260323-0EE2` ASML's monopoly exists because EUV requires solving dozens of 'impossible' problems simultaneously — mirrors smooth to 2.3 atoms, tin droplets hit 50,000 times/second with zero misses, and 13.5nm light generation — and no competitor can replicate the full stack.
 - `INS-260404-397F` Apple Pay's moat comes from simultaneously delivering seamless UX to consumers, mobile customer access to merchants, business continuity to networks, and fraud reduction to banks — all of which must be matched together.
 - `INS-260323-A1FE` Jet engine turbine blades must simultaneously optimize for temperature resistance (1,500C), centripetal force (20 metric tons per blade), oxidation resistance, creep resistance, weight, and manufacturing precision — and you can't max one without sacrificing others, making the integration itself the competitive moat.
+- `INS-260404-21E6` DoorDash's value comes from its network and market position, not its code — AI tools that make cloning easy don't threaten network-effect moats.
+- `INS-260403-B8CD` Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260402-8595` Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - `INS-260402-1F41` Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
 - `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
 - `INS-260322-7282` Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
+- `INS-260403-5C9D` SaaS survival depends on building agentic capabilities atop existing data moats before AI overlays capture the user relationship.
 - `INS-260329-12EA` Your competitive moat is not any single skill but the unique stack of skills from your specific life trajectory — replicating it requires living your life.
+- `INS-260404-EEA7` Code alone no longer creates lasting competitive advantage; startups need non-software moats like data, distribution, or embedded workflows.
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
+- `INS-260403-9482` Distribution advantage trumps product advantage because reaching customers reliably is harder to replicate than building features.
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
+- `INS-260403-ABC5` Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
+- `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
+- `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
+- `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
+- `INS-260403-0637` Multi-user AI coordination creates compounding network effects unavailable to single-player AI tools.
 - `INS-260404-7A5B` Costco turns every seeming disadvantage — fees, sparse selection, warehouse aesthetics — into a structural competitive advantage.
 - `INS-260403-1636` Plants evolved entire metabolic pathways to handle RuBisCo's toxic byproducts rather than replacing RuBisCo, making the entrenched system more resilient over time.

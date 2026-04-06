@@ -48,7 +48,6 @@ resolutions:
     and product evangelists.
 related:
   - INS-260322-7DD5
-  - INS-260323-5C6F
   - INS-260322-5831
   - INS-260323-CE9A
   - INS-260322-C33D
@@ -57,6 +56,7 @@ related:
   - INS-260327-A814
   - INS-260330-F22A
   - INS-260329-3392
+  - INS-260320-F751
 stance: >-
   When customers become partners invested in your success as much as you are in
   theirs, they introduce you to VCs, build on your platform, and active...

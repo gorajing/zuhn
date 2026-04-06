@@ -46,9 +46,6 @@ stance: >-
   1920-1970 was the true aberration.
 related:
   - INS-260330-8F72
-  - INS-260402-9F35
-  - INS-260402-B2A2
-  - INS-260403-8002
   - INS-260325-B315
   - INS-260330-8A28
   - INS-260325-7FE6

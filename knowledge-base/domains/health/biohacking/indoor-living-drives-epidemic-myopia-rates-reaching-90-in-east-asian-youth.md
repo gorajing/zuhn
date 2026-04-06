@@ -48,25 +48,24 @@ stance: >-
   than genetics, with rates reaching 80-90% in East Asian youth and 40-50% in
   the US
 related:
-  - INS-260325-4A01
   - INS-260326-4164
   - INS-260330-A256
   - INS-260403-46B2
+  - INS-260405-2287
   - INS-260325-1802
-  - INS-260325-9B9A
 evidence:
   - id: INS-260325-4A01
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260326-4164
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-1802
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-9B9A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-A9E0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-46B2
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Myopia may be the most common health issue globally, with rates reaching 80-95% in parts of East Asia for people under 20 and 40-50% in the US. This epidemic coincides with the shift to indoor living and technology use over the past 30-40 years. Warmer climates with more outdoor living (like Costa Rica) show dramatically lower myopia rates.
 

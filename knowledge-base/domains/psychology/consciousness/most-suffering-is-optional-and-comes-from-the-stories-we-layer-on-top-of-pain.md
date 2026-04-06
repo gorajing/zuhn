@@ -46,16 +46,16 @@ stance: >-
   the narrative we construct about how unfair, permanent, or identity-defining
   it is.
 related:
+  - INS-260326-3F06
+  - INS-260403-2814
   - INS-260403-AA0B
   - PRI-260325-2C13
   - INS-260329-B011
-  - PRI-260327-A7C5
-  - INS-260327-78DA
   - INS-260323-08E9
-  - INS-260322-A9DE
   - INS-260323-1871
-  - INS-260329-A9B7
+  - INS-260327-78DA
   - INS-260330-FE21
+  - INS-260403-DFBC
 evidence:
   - id: INS-260323-1871
     type: CHALLENGES

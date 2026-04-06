@@ -50,9 +50,7 @@ stance: >-
   strategies than directly brainstorming solutions, because human brains are
   wired to find threats faster than opportunities.
 related:
-  - INS-260320-DDFE
   - INS-260321-E2FC
-  - INS-260329-66BD
   - INS-260329-72E0
   - INS-260329-64B8
   - INS-260329-4D24
@@ -60,6 +58,8 @@ related:
   - PRI-260328-4144
   - INS-260403-5808
   - INS-260330-1609
+  - INS-260330-2154
+  - INS-260330-A3B7
 evidence:
   - id: INS-260320-DDFE
     type: TRANSFERS_TO

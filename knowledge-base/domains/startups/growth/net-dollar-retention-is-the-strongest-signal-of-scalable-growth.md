@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "\U0001F511 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/key-startup-metrics-vcs'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Growing revenue from existing customers through upsells and expansion is
@@ -58,6 +48,16 @@ stance: >-
   NDR above 110% is the single most capital-efficient growth lever because it
   compounds revenue from existing customers without incremental acquisition
   cost.
+related:
+  - INS-260329-CCC4
+  - INS-260329-A01C
+  - INS-260329-4EF5
+  - INS-260330-EDAC
+  - INS-260403-92CC
+  - INS-260403-1B8C
+  - INS-260403-53B0
+  - PRI-260328-43F1
+  - INS-260404-563B
 ---
 Net Dollar Retention measures whether your existing customer base generates more revenue over time through upsells, cross-sells, and usage expansion — net of churn and downgrades. Best-in-class SaaS companies achieve 110-130%+ NDR, meaning the business grows even if it stops acquiring new customers entirely.
 

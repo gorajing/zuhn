@@ -49,14 +49,11 @@ stance: >-
   outreach a mathematical necessity rather than a sign of poor product-market
   fit.
 related:
-  - INS-260323-1B87
+  - INS-260403-F23A
+  - INS-260403-49FB
   - INS-260328-372B
+  - INS-260403-7D5B
   - INS-260402-910C
-  - INS-260330-1266
-  - INS-260330-DD63
-  - INS-260321-38EC
-  - INS-260330-30CE
-  - INS-260403-5C06
 evidence:
   - id: INS-260330-30CE
     type: EXTENDS

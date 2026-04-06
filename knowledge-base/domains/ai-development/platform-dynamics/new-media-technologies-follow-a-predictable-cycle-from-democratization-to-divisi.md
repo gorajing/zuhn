@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Save us, Digital Cronkite!'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/save-us-digital-cronkite'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Media technologies cycle between democratization (which enables divisive
@@ -67,6 +55,13 @@ stance: >-
   enables divisive outsiders to break gatekeepers, until some consolidating
   force restores moderation — and LLMs may be the consolidating force for the
   social media era.
+related:
+  - INS-260403-4690
+  - INS-260405-C88A
+  - PRI-260328-D292
+  - INS-260403-7B04
+  - INS-260404-2CA6
+  - INS-260325-B882
 ---
 Noah Smith identifies a recurring historical pattern: new media technologies open entry to divisive voices (Charles Coughlin on radio in the 1930s, Rush Limbaugh on talk radio, Sean Hannity on cable TV, Drudge Report on the web), until consolidating forces emerge. In the mid-20th century, local newspaper monopolies and limited broadcast spectrum created the gatekeeping that produced the 'Cronkite era' of centrist, shared-reality media. Each subsequent technology that lowered barriers to entry reignited the cycle.
 

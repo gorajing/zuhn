@@ -53,12 +53,11 @@ stance: >-
   capability that traditional SaaS products with fixed feature sets could never
   achieve.
 related:
-  - INS-260327-EC45
   - INS-260330-F527
   - INS-260327-C6DC
   - INS-260322-5CBF
+  - INS-260403-CD74
   - PRI-260328-1D90
-  - INS-260321-5C24
 ---
 Traditional SaaS serving SMBs faces a fundamental tension: 5.8 million SMBs each with 10 or fewer employees have wildly diverse needs, but software economics demand standardization. HubSpot, Wix, and Salesforce all started with SMBs but inevitably moved upmarket to enterprises where fewer, larger customers justified customization costs. The SMB long tail remained underserved.
 

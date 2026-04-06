@@ -48,15 +48,13 @@ stance: >-
   eventual success because startup challenges are fundamentally unlike any
   previous test in a founder's life
 related:
-  - INS-260327-4434
   - INS-260330-F800
   - INS-260330-AA8B
-  - INS-260330-3E6F
   - INS-260403-7F6F
   - INS-260402-E140
+  - INS-260404-3687
+  - INS-260403-9942
   - PRI-260405-E256
-  - INS-260402-66A5
-  - INS-260327-200C
   - INS-260405-76E4
 evidence:
   - id: INS-260327-4434

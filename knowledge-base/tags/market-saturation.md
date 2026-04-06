@@ -1,3 +1,4 @@
 # Tag: market-saturation
 
-- `INS-260330-CAAB` Apple embraced longer device lifecycles because every iPhone user—new or used—still generates services revenue through apps, subscriptions, and licensing deals like Google's $9B search default payment.
+- `INS-260403-EDFB` Generic AI tools are commoditized, but deep vertical AI products for specific industries and workflows still have massive untapped opportunity.
+- `INS-260404-63F0` 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.

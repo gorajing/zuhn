@@ -21,7 +21,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Startups that maintain regular contact with external stakeholders are
@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260328-2854
   - INS-260330-E77D
+  - INS-260404-BEAA
   - INS-260330-E68E
   - INS-260403-9A4C
   - INS-260403-78B7
-  - INS-260328-57CF
 ---
 Graham notes that silence is a '100% accurate predictor of death' for YC startups, and proposes that the causal arrow may run both ways: not just that dying startups go silent, but that staying in regular contact actually prevents death. The weekly YC dinner functions as a 'mini Demo Day' — a recurring deadline that forces founders to have something to show, which in turn forces them to make progress.
 

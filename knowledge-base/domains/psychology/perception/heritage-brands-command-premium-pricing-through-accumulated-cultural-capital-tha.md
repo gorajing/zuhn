@@ -41,17 +41,17 @@ stance: >-
   replicated by functionally equivalent newcomers.
 related:
   - INS-260405-339F
-  - INS-260330-93F3
-  - INS-260330-2339
+  - INS-260404-E6E0
   - INS-260403-FCD7
   - INS-260330-175F
+  - INS-260403-6E7C
 evidence:
   - id: INS-260330-4A89
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-175F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-9838
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-339F
     type: CHALLENGES
     classified_at: '2026-04-06'

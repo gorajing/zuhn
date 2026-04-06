@@ -48,10 +48,10 @@ resolutions:
     support the buy-one-transform-many strategy.
 related:
   - INS-260323-C316
+  - INS-260403-56FC
   - INS-260322-CFB1
-  - INS-260330-217C
-  - INS-260329-CCC4
-  - PRI-260328-1D90
+  - INS-260404-6914
+  - INS-260403-1115
 stance: >-
   AI roll-up strategies succeed when you buy one company with blue-chip clients
   as your entry point for national AI deployment, not when you serially...

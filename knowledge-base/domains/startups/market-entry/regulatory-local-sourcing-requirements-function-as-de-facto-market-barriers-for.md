@@ -54,13 +54,12 @@ stance: >-
   blocking companies unwilling to localize their supply chains.
 related:
   - INS-260324-2244
-  - INS-260330-AFAD
   - INS-260330-9FCC
   - INS-260330-A1DB
+  - INS-260403-6570
   - INS-260330-D460
+  - INS-260403-1106
   - INS-260330-8481
-  - INS-260330-DC0D
-  - INS-260403-7DEC
 ---
 India's 30% local sourcing requirement for foreign-owned retail prevented Apple from opening its signature stores — arguably its strongest competitive weapon globally. Apple stores generate more revenue per square foot than any other retailer, and the controlled retail experience is central to its brand positioning. Without stores, Apple was forced to sell through small local shops 'where brands have little to no control,' fundamentally undermining its value proposition.
 

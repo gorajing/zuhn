@@ -1,3 +1,3 @@
 # Tag: incremental-innovation
 
-- `INS-260403-42F2` Lego Factory shows that powerful business model innovation can come from rejiggering fulfillment rather than reinventing the company.
+- `INS-260403-FC4F` AI's brute-force approach of systematically solving thousands of minor problems generates compound scientific value that exceeds the sum of individual results.

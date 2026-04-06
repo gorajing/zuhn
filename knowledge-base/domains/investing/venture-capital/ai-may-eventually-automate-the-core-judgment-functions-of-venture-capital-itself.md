@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "YC W26 DB\U0001F4B0, $1T Services Opportunity\U0001F916, How to Set Up Claude Cowork⚙️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/yc-w26-db-1t-services-opportunity'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Venture capitalists are funding AI that could automate their own deal
@@ -59,6 +49,12 @@ stance: >-
   VCs are funding AI tools that could automate deal analysis and market
   forecasting, creating a reflexive loop where the industry finances its own
   potential displacement.
+related:
+  - INS-260405-E8A1
+  - PRI-260328-8317
+  - INS-260403-01FD
+  - INS-260321-3EC0
+  - PRI-260322-9E36
 ---
 There is a deeply ironic dynamic emerging in venture capital: investors are enthusiastically funding AI companies whose capabilities could eventually automate core VC functions like deal sourcing, market analysis, and investment judgment. The question is whether algorithmic insight can compete with human judgment in venture investing.
 

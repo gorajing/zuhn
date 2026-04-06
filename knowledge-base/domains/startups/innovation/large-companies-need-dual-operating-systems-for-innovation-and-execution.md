@@ -51,8 +51,8 @@ related:
   - INS-260330-9E26
   - INS-260330-3E6B
   - INS-260403-EAE5
+  - INS-260404-1137
   - INS-260404-FF0B
-  - INS-260403-1C10
 ---
 Alex Osterwalder's core argument is that execution culture (optimize, scale, reduce variance) and innovation culture (experiment, fail fast, iterate) are fundamentally incompatible when forced into the same organizational structure. Companies like Amazon succeed because they maintain both simultaneously.
 

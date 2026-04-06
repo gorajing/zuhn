@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: How Trump’s 2025 Tariffs Could Reshape Startups
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-trumps-2025-tariffs-impact-startups'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Tariff-induced public market volatility causes LPs to reduce private market
@@ -57,6 +47,12 @@ stance: >-
   Public market drops from tariff announcements trigger LP pullbacks from
   private markets via the denominator effect, systematically shrinking available
   venture capital even for strong startups.
+related:
+  - INS-260321-C6C0
+  - INS-260405-F374
+  - INS-260404-CB41
+  - INS-260404-7F24
+  - INS-260404-12FB
 ---
 When public portfolios shrink—as they did with the 4%+ S&P 500 drop after the tariff announcement—LPs' private market allocations become a larger percentage of their total portfolio, triggering rebalancing away from venture. This denominator effect is already manifesting as smaller fund sizes, slower deal pacing, tighter internal benchmarks, and a shift toward structured deals with more downside protection.
 

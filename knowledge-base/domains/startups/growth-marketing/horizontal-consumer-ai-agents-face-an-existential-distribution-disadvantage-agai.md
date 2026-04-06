@@ -50,16 +50,16 @@ resolutions:
     stars of all time, yet new user signups plateaued because it hasn't escaped
     from technical users to mainstream consumers.
 related:
-  - INS-260325-BC2A
   - INS-260321-8414
+  - INS-260405-487E
   - PRI-260328-8317
   - INS-260403-7B04
   - PRI-260328-43F1
   - INS-260330-24A5
-  - PRI-260405-AF79
-  - INS-260327-E18C
   - INS-260327-EE5E
   - INS-260327-BB71
+  - INS-260330-AB67
+  - INS-260330-DE2B
 stance: >-
   Horizontal consumer AI agents like Manus grow explosively but face acquisition
   by big tech because once agentic capabilities become commoditized, d...

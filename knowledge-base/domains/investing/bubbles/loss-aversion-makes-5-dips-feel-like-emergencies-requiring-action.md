@@ -54,6 +54,7 @@ related:
   - INS-260329-3609
   - PRI-260328-0993
   - INS-260327-747B
+  - INS-260327-0488
 evidence:
   - id: INS-260327-CBBB
     type: TRANSFERS_TO

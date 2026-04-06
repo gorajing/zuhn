@@ -52,9 +52,9 @@ stance: >-
 related:
   - PRI-260323-8EEA
   - PRI-260405-D586
+  - INS-260403-6F75
   - INS-260330-E263
   - INS-260328-4EA0
-  - INS-260327-5688
 ---
 Shear identifies a specific failure mode in validation: asking users 'would you use this feature?' generates false positives because people default to 'yeah, that sounds great' out of politeness or genuine but shallow interest. The cure is asking for money. Getting someone to hand over their credit card upfront is, in Shear's words, 'amazing' — it clarifies genuine excitement versus polite agreement.
 

@@ -56,18 +56,18 @@ related:
   - INS-260327-7FDA
   - INS-260327-3E6F
   - PRI-260328-4313
-  - INS-260329-9EFA
   - INS-260329-1435
   - INS-260330-F348
+  - INS-260403-62A9
 evidence:
   - id: INS-260325-27ED
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-846D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-DFDD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-1435
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Hormozi defines commitment as 'the elimination of alternatives,' using marriage as the clearest analogy: you eliminate all other potential partners. Applied to business, if you enter a partnership agreeing to pursue no other ventures, that constraint is the commitment. The insight reframes the common failure mode where people 'commit' to a new goal while keeping all their old options alive.
 

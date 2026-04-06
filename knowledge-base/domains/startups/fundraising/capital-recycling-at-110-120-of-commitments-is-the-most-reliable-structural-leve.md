@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Everything You Knew About VC Math Is Wrong
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/venture-capital-fund-math-explained'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A fund recycling modest early proceeds can lift net returns from 2.1x to
@@ -60,6 +50,12 @@ resolutions:
 stance: >-
   Recycling early liquidity events back into the fund is mathematically superior
   to distributing proceeds, yet remains systematically underused by GPs.
+related:
+  - INS-260325-1407
+  - INS-260404-B496
+  - INS-260405-62B2
+  - INS-260404-707C
+  - INS-260404-A3CD
 ---
 Capital recycling — redeploying early liquidity from M&A, secondaries, or partial exits instead of immediately distributing to LPs — is one of the few tactics that mathematically guarantees both GP and LP interests converge. Thompson's analysis shows a $100M fund posting 3x gross that nets only 2.1x after fees can lift net returns to 2.4x+ through modest recycling. Top funds routinely recycle 110-120% of commitments, and Goodwin Law found nearly half of venture fund LPAs cap recycling at 120%.
 

@@ -52,7 +52,8 @@ related:
   - PRI-260328-A589
   - PRI-260328-99F0
   - INS-260327-9D23
+  - INS-260327-8B9A
   - INS-260327-CB71
-  - PRI-260328-C918
+  - INS-260404-EF1D
 ---
 Napoleon entered Russia in June 1812 with ~600,000 troops, the largest army ever assembled. He expected to force a decisive battle within weeks. Instead, the Russian army retreated, trading space for time. The supply problem: an army of 600,000 needs ~1,000 tons of food and fodder per day. Horse-drawn wagons carrying supplies consume their own cargo within ~200 miles of the supply base. Beyond that radius, the army must forage, but scorched-earth tactics left nothing to forage. By the time Napoleon reached Moscow (September), he had already lost 400,000 troops to disease, starvation, desertion, and harassment — before the winter even began. The lesson extends to business: any operation that requires linear scaling of resources across increasing distance/complexity hits a logistics ceiling where growth becomes self-defeating.

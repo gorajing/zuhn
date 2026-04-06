@@ -46,22 +46,22 @@ stance: >-
   durability and significance are uncorrelated — the Colosseum survives but the
   far larger Circus Maximus does not.
 related:
+  - INS-260321-C292
   - INS-260330-CC9E
   - PRI-260324-3081
   - INS-260323-AB5F
   - INS-260403-2A50
-  - INS-260404-D0D8
-  - INS-260321-C292
+  - INS-260324-FF33
 evidence:
   - id: INS-260323-AB5F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260324-FF33
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-440E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-C292
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-1B4A
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Colosseum held 50,000 people and was a formal, controlled environment — more like the opera than a football match. The Circus Maximus held 250,000 (bigger than any modern stadium), hosted wild chariot racing with betting and mixed crowds, and was the actual center of Roman mass entertainment. But the Colosseum survived while the Circus Maximus was looted for building materials. This perfectly illustrates how survivorship bias distorts understanding: what persists shapes our narrative, regardless of whether it was most important or representative. The same principle applies to business: the companies, strategies, and founders that survive to tell their stories are not necessarily the most representative or instructive.

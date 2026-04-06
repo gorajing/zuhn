@@ -47,10 +47,10 @@ stance: >-
   force — divorce, government, or financial crisis — can confiscate them.
 related:
   - INS-260323-FC5B
+  - INS-260327-2915
   - PRI-260323-DC25
   - INS-260327-A8D9
-  - INS-260329-F07A
-  - INS-260323-9EDC
+  - INS-260403-A7D6
 evidence:
   - id: INS-260329-7C1D
     type: SUPPORTS

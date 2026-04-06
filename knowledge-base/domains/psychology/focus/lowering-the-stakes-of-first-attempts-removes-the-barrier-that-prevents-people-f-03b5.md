@@ -59,34 +59,34 @@ related:
   - INS-260321-AD95
   - INS-260327-2E84
   - INS-260328-B19D
+  - INS-260329-F84E
   - INS-260329-DFD1
-  - INS-260329-761A
   - INS-260329-FC75
   - INS-260329-5EE7
-  - INS-260329-A218
-  - INS-260329-B214
-  - INS-260329-D2CA
+  - INS-260330-1839
+  - INS-260403-8CE6
+  - INS-260403-643A
 evidence:
   - id: INS-260329-D2CA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-B19D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9157
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-AD95
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9074
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-2E84
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-DFD1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-5EE7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5747
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3818
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Throughout CS50P, Malan repeatedly makes deliberate mistakes — forgetting closing parentheses, creating infinite loops, passing wrong types — and then works through debugging them live. He explicitly tells students 'take comfort in knowing that over the coming weeks you're going to make so many mistakes' and frames bugs as 'problems for you to solve' rather than failures. This is pedagogically strategic: the biggest dropout risk in intro CS courses is students who believe they're 'not smart enough' after their first error.
 

@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: What I Read This Week…
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/wirtw-250920'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The BLS revised nonfarm employment down by 911K jobs, revealing the labor
@@ -62,6 +52,12 @@ stance: >-
   Large-scale retroactive revisions to employment data (like the 911K jobs
   overcount) prove that real-time government statistics are too unreliable to
   anchor monetary policy timing.
+related:
+  - PRI-260328-D68F
+  - INS-260330-4E01
+  - INS-260403-7943
+  - INS-260403-3223
+  - INS-260327-A70C
 ---
 The Bureau of Labor Statistics' preliminary benchmark revision showed that nonfarm employment from April 2024 to March 2025 was 911,000 jobs fewer than previously reported. While annual benchmark revisions are standard (reconciling survey data with administrative records), this scale is unusually large and suggests the labor market was materially weaker than policymakers believed during a critical transition period.
 

@@ -47,10 +47,11 @@ stance: >-
   gaslighting from both advisors and employees
 related:
   - INS-260323-1452
+  - INS-260405-3554
+  - INS-260403-6C88
   - INS-260403-B133
+  - INS-260403-F4E7
   - INS-260324-62A8
-  - INS-260330-DB4B
-  - INS-260403-2822
 evidence:
   - id: INS-260323-1452
     type: TRANSFERS_TO

@@ -56,9 +56,9 @@ related:
   - PRI-260328-E921
   - INS-260327-F961
   - INS-260327-C5D0
-  - INS-260327-00EB
   - INS-260327-5AFE
   - INS-260327-735A
+  - INS-260328-B233
 stance: Cuban redefines selling as simply asking 'can my product help this person?'
 evidence:
   - id: INS-260403-EA34

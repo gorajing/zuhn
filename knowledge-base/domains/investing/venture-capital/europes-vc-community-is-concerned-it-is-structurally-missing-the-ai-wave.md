@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "What Makes a Good Product-Market Fit?\U0001F3AF, Global Markets Snapshot\U0001F4CA, GDP Growth Projections\U0001F4C8"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/what-makes-a-good-product-market'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Euro VCs' ambivalence toward Balderton's large AI fund signals structural
@@ -58,6 +48,12 @@ stance: >-
   European VCs expressing mixed reactions to Balderton's $1.3B fund reflects a
   deeper anxiety that Europe lacks the ecosystem conditions to capture AI value
   creation at the same scale as the US.
+related:
+  - INS-260404-12FB
+  - INS-260405-D959
+  - INS-260404-3821
+  - INS-260327-7E3D
+  - INS-260403-5031
 ---
 When European VCs react with mixed feelings to a large fund raise within their own ecosystem, it reflects something more than competitive anxiety — it suggests a recognition that capital alone does not close structural gaps. Europe has historically struggled to produce the density of AI research commercialization, frontier model companies, and deep-tech exits that the US has generated.
 

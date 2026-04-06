@@ -53,10 +53,10 @@ stance: >-
   they eliminate the single point of failure rather than merely duplicating it
 related:
   - INS-260402-5242
+  - INS-260405-55E0
   - INS-260322-642F
   - PRI-260328-DD90
   - INS-260323-7F36
-  - INS-260405-DAC9
 evidence:
   - id: INS-260402-5242
     type: SUPPORTS

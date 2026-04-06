@@ -51,12 +51,11 @@ stance: >-
   actors, regardless of your actual beliefs, creating an identity tax that
   compounds over time.
 related:
-  - INS-260330-6D3B
+  - INS-260403-8D5C
   - INS-260323-176B
-  - INS-260330-ABBF
-  - INS-260402-EC9F
-  - INS-260404-6891
-  - INS-260327-9DA6
+  - INS-260403-44A6
+  - INS-260404-1ADA
+  - INS-260405-0060
 evidence:
   - id: INS-260330-6D3B
     type: TRANSFERS_TO

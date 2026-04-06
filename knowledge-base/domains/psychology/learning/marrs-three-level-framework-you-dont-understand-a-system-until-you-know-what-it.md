@@ -59,25 +59,25 @@ stance: >-
   engineering without a computational theory produces only superficial
   knowledge.
 related:
-  - INS-260320-2DDE
   - INS-260327-77E5
-  - INS-260329-7C59
+  - INS-260326-6D76
   - INS-260329-D0B3
-  - INS-260329-AC6E
   - INS-260329-04FA
+  - PRI-260403-ABDE
+  - INS-260329-A461
 evidence:
   - id: INS-260326-87A1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-2DDE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D0B3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-F232
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-77E5
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Hoffman's mentor David Marr proposed that understanding any information-processing system requires three levels: (1) computational theory — what is being computed and why, (2) algorithm — what procedure achieves it, and (3) hardware — how is it physically implemented. Marr's key insight was that his own rigorous neuroscience work on the cerebellum left him unsatisfied because he only had the hardware level — he didn't know what the cerebellum was for.
 

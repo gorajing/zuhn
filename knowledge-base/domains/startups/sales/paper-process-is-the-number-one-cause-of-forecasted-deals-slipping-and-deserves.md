@@ -65,10 +65,11 @@ stance: >-
   processes are where most 'surprise' slips originate.
 related:
   - PRI-260328-21AD
+  - INS-260403-082C
   - PRI-260405-91AD
   - PRI-260327-117F
-  - INS-260322-96F1
-  - PRI-260327-3BD9
+  - INS-260405-9F92
+  - INS-260403-B6AB
 evidence:
   - id: INS-260322-96F1
     type: TRANSFERS_TO

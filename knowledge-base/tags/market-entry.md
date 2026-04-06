@@ -3,20 +3,30 @@
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260330-C825` Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
 - `INS-260402-AEA1` Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
+- `INS-260403-A521` Cuban sees a once-in-a-generation opening in European tech markets where talent is world-class but competition is far thinner than in the US.
 - `INS-260330-F116` The early Islamic empire's rapid territorial expansion was enabled by centuries of Byzantine-Sassanian warfare that left both empires depleted — plus plague weakening the Sassanians further.
 - `INS-260322-CFB1` AI-native startups win most reliably at greenfield moments — new company creation or inflection points where customers must switch systems anyway — rather than trying to displace incumbent software.
 - `INS-260330-F0F2` Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
+- `INS-260403-C8FB` Disapproval of the incumbent doesn't transfer to the challenger without a concrete alternative plan.
 - `INS-260330-D460` Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
 - `INS-260330-3274` Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-568A` Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
+- `INS-260403-183D` eDreams launched in 4 countries simultaneously, retreated to 2 profitable markets after the bubble burst, then expanded to 40+ with a proven model.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
+- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
 - `INS-260403-8BE9` Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
+- `INS-260403-21A7` Being founded in a small domestic market like Australia forces global-first architecture that US-based competitors struggle to retrofit.
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
+- `INS-260404-3ACB` Neuralink entered through therapeutic use (paralysis) where 77% public approval exists, avoiding the 78% resistance to enhancement use cases.
 - `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
+- `INS-260403-50F6` Regulatory finality—not just regulatory speed—determines where capital-intensive manufacturing actually gets built.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260330-F23F` India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
+- `INS-260404-77CD` Stealth startups face asymmetric timing risk where the exit window is narrower than traditional launches because they lack the ongoing market signal correction that public startups receive.
+- `INS-260404-97AA` Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
 - `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
 - `INS-260330-39C6` Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
+- `INS-260403-DC59` Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.

@@ -50,11 +50,11 @@ stance: >-
   MAOI-driven neurotransmitter changes rather than genuine metabolic
   improvement, making self-assessment unreliable
 related:
+  - INS-260327-1C1B
   - INS-260330-A18F
   - INS-260327-E8D3
   - PRI-260328-F570
   - INS-260330-713C
-  - INS-260325-1550
 evidence:
   - id: INS-260330-A18F
     type: SUPPORTS

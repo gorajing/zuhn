@@ -50,12 +50,12 @@ stance: >-
   alpha shifts upward to application-layer startups that build on the now-stable
   substrate — this is a universal pattern across technology cycles.
 related:
-  - INS-260330-AB62
   - INS-260403-D543
   - INS-260403-7B04
   - INS-260403-B744
+  - INS-260403-7037
+  - INS-260405-C88A
   - PRI-260405-D6F5
-  - INS-260403-924B
   - PRI-260405-A11F
 evidence:
   - id: INS-260330-AB62

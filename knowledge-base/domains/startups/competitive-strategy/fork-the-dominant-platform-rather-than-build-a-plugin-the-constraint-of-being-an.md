@@ -50,10 +50,12 @@ resolutions:
     need to own the platform.
 related:
   - INS-260327-0B69
+  - INS-260403-A2E9
+  - INS-260404-D646
   - PRI-260328-FD47
   - INS-260329-8F98
   - INS-260329-693E
-  - INS-260325-FDF5
+  - INS-260322-22D0
 stance: >-
   Cursor forked VS Code rather than building an extension because plugin APIs
   limit what you can build

@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Free Product-Market Fit Template for Founders
-    author:
-      - '@type': Person
-        name: Jeroen Coelen
-        url: 'https://substack.com/@doctormarketfit'
-        description: Mentored 1000+ founders. PhD on startups.
-        identifier: 'user:9872561'
-        sameAs:
-          - 'https://twitter.com/Coeluh'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!et58!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff19a9a5b-c2f4-4a05-afed-d5a0f83391e5_1728x1728.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!et58!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff19a9a5b-c2f4-4a05-afed-d5a0f83391e5_1728x1728.jpeg
+    author: Jeroen Coelen
     url: 'https://www.thevccorner.com/p/free-product-market-fit-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Your PMF story must show two clear fits: Feature A solves the customer's
@@ -61,6 +49,14 @@ stance: >-
   Product-market fit is only logically demonstrated when a product addresses
   both the core problem and the specific shortcomings of existing alternatives
   as two distinct fits.
+related:
+  - INS-260330-2C79
+  - INS-260403-59C6
+  - INS-260404-E5EB
+  - INS-260330-0BBA
+  - INS-260403-CD74
+  - INS-260404-D1E2
+  - INS-260403-A54C
 ---
 The PM-Fit Logic Template requires two explicit connections in the narrative: Feature A must directly tackle the problem identified in step 3, and Feature B must address the shortcomings of alternatives identified in step 5. Having only one fit is insufficient — solving the problem without being better than alternatives means customers won't switch, and being better than alternatives without solving the core problem means you're optimizing for the wrong thing.
 

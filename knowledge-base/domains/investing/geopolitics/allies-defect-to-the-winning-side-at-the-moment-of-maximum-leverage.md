@@ -49,15 +49,15 @@ stance: >-
   side will offer the best terms.
 related:
   - INS-260321-10FF
-  - INS-260327-4D1F
-  - INS-260327-7315
   - INS-260327-377A
+  - INS-260327-E7AC
   - INS-260327-C7BF
   - INS-260327-DC45
   - INS-260327-FFE8
   - INS-260327-8DAA
   - INS-260327-7C60
   - INS-260327-25C7
+  - INS-260327-5DD7
 evidence:
   - id: INS-260330-3274
     type: EXTENDS

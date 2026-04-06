@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Airwallex: How an Outsider Built an $8B Fintech Empire'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/airwallex-story-8-billion-fintech-empire'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Being founded in a small domestic market like Australia forces global-first
@@ -57,6 +47,12 @@ stance: >-
   Startups founded outside the US in smaller domestic markets are structurally
   forced into global-first architecture that becomes a durable advantage over
   US-founded competitors who bolt on internationalization later.
+related:
+  - INS-260403-DC59
+  - INS-260327-432E
+  - INS-260403-1D92
+  - INS-260327-E1EB
+  - PRI-260328-82BE
 ---
 Jack Zhang explicitly credits Airwallex's success to being 'an outsider, not part of the Silicon Valley ecosystem.' The insight is structural, not cultural: US startups can reach $50M in revenue without ever dealing with foreign payment systems. Australian startups cannot. This constraint forced Airwallex to design for multi-currency, multi-jurisdiction operations from day one.
 

@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "AI is Polytheistic⚖️, Where's My Moat?\U0001F3F0, Index is the New Sequoia\U0001F680"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-is-polytheistic-wheres-my-moat'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Index Ventures is reaping $11B+ from concentrated bets on Figma, Wiz, and
@@ -58,6 +48,15 @@ stance: >-
   Index Ventures is emerging as the new top-tier VC firm by concentrating bets
   on category-defining companies like Figma, Wiz, and Scale AI rather than
   spreading capital widely
+related:
+  - INS-260330-712D
+  - INS-260404-16FB
+  - INS-260403-C074
+  - INS-260403-2E2C
+  - INS-260403-713B
+  - INS-260405-2F43
+  - INS-260404-78E0
+  - INS-260403-839E
 ---
 Index Ventures is already realizing $11 billion in returns from companies like Figma, Wiz, and Scale AI—while most VC firms are still waiting for exits. The newsletter argues Index is becoming 'the new Sequoia' by backing category-defining companies with high conviction and riding them to massive outcomes.
 

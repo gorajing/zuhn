@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "AI or Nothing\U0001F4B8, Replit founder on How to Keep Winning \U0001F4AA, AI Superintelligence Bans⚔️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-or-nothing-replit-founder-on-how'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI startups now command $192.7B and 62.7% of US VC funding while total
@@ -56,6 +46,17 @@ stance: >-
   The concentration of 62.7% of US VC funding into AI startups is creating a
   funding desert for non-AI founders that will compress total startup formation
   to historically low levels.
+related:
+  - INS-260403-7B60
+  - INS-260404-9B51
+  - INS-260404-C3F1
+  - INS-260403-5056
+  - INS-260403-F387
+  - INS-260403-4AB2
+  - INS-260403-4020
+  - INS-260404-34D4
+  - INS-260405-58B0
+  - INS-260405-FBDF
 ---
 The venture capital market has undergone a dramatic structural shift where AI startups now absorb more than half of all global venture funding. In the US specifically, AI captures 62.7% of VC dollars at $192.7B, creating what amounts to an 'AI or bust' funding environment.
 

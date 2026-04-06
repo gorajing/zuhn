@@ -51,7 +51,6 @@ related:
   - INS-260326-A7CB
   - INS-260330-419C
   - PRI-260325-1C61
-  - INS-260330-CA62
   - INS-260330-0BC2
 evidence:
   - id: INS-260326-A7CB

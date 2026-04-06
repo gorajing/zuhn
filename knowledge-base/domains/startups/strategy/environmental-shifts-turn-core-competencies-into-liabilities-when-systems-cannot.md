@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: nomic-embed-text
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself
@@ -55,17 +55,16 @@ stance: >-
 related:
   - INS-260330-4441
   - INS-260404-B7B6
-  - INS-260330-E497
   - INS-260405-02EE
   - INS-260330-C134
   - INS-260405-3048
 evidence:
   - id: INS-260330-EACA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4441
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F5CF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-02EE
     type: REFINES
     classified_at: '2026-04-06'

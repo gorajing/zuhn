@@ -48,11 +48,11 @@ stance: >-
   spend money on third-party services, requiring new payment infrastructure
   beyond token consumption.
 related:
-  - INS-260327-5661
   - PRI-260328-8317
   - INS-260330-AB67
+  - INS-260405-E8A1
   - INS-260403-0350
-  - INS-260321-4E98
+  - INS-260403-586C
 evidence:
   - id: INS-260327-5661
     type: TRANSFERS_TO

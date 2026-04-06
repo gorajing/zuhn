@@ -2,6 +2,8 @@
 
 - `INS-260322-0C28` Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
 - `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
+- `INS-260403-2183` Top AI leaders have shifted repeatedly in just 2.5 years, proving that execution speed matters more than any single breakthrough.
+- `INS-260404-0153` Accenture's generative AI revenue surpasses all VC-backed AI startups combined, showing incumbents capture value faster than disruptors.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260403-F66B` Customers say they want flashy features but actually follow the taste of sophisticated buyers they aspire to imitate.
 - `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
@@ -13,10 +15,14 @@
 - `INS-260327-D832` Consumers who buy cologne are purchasing an identity signal — sophistication, masculinity, wealth — rather than a functi
 - `INS-260327-C13D` Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors
 - `INS-260327-FFB5` Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
+- `INS-260327-A40E` Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
 - `INS-260327-747B` Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
 - `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
 - `INS-260327-690E` Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
 - `INS-260327-45BD` Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,
+- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
+- `INS-260405-DDC2` Global VC funding settled near $20B/month in early 2024 but AI's share kept growing, compressing available capital for other sectors.
+- `INS-260404-D5B5` Q2 2024 venture trends show capital concentrating at extremes — large late-stage rounds and small seeds — while mid-stage funding gets squeezed.
 - `INS-260327-4F8C` Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
 - `INS-260327-0710` Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
@@ -29,6 +35,7 @@
 - `INS-260327-749F` Fast fashions lower prices were achieved not through manufacturing innovation but by reducing fabric quality and constru
 - `INS-260327-D52B` BNPL services that grow by extending credit to consumers who were excluded from traditional credit face inevitable defau
 - `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
+- `INS-260403-D7B1` Gas stations depend on a minimum customer base; as EV adoption grows, station closures accelerate the shift in a self-reinforcing cycle.
 - `INS-260327-0BDD` When affluent consumers discover and popularize budget shopping channels (thrift stores, discount retailers), prices ris
 - `INS-260327-CADA` The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
 - `INS-260327-26CF` Products that gain market share through implied health benefits face consumer backlash when scrutiny reveals the health 
@@ -42,13 +49,17 @@
 - `INS-260327-472A` Meal replacement products appeal to efficiency-maximizing consumers who are vocal online but represent a tiny fraction o
 - `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho
 - `INS-260327-4233` Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
+- `INS-260402-3134` Uber became profitable not by solving its unit economics problem but by preventing regulatory crackdown and bullying competitors until only Lyft remained as a cooperative duopolist.
 - `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
 - `INS-260403-F327` Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.
 - `INS-260327-0CBC` Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
 - `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
 - `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
+- `INS-260403-1EE4` Shrinking exit multiples pressure the entire venture ecosystem to recalibrate entry valuations, ownership targets, and growth expectations.
 - `INS-260404-64EC` Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
+- `INS-260403-3BBB` Carta data shows longer gaps between rounds, record seed valuations, and smaller teams — investors are permanently rewarding efficiency over burn.
+- `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
 - `INS-260403-6628` Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.
 - `INS-260403-5C83` A product loved by both novices and experts but ignored by the middle market is about to break through to mass adoption.
 - `INS-260323-BD2B` JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.

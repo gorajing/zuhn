@@ -51,7 +51,6 @@ stance: >-
   competition because most people find exceptional performance too intimidating
   to even attempt, making it a bargain to try.
 related:
-  - INS-260402-B12D
   - INS-260403-4431
   - INS-260402-C4FF
   - INS-260325-8B36

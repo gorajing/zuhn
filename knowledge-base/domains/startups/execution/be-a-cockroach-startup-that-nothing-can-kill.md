@@ -45,13 +45,13 @@ stance: >-
   personally.
 related:
   - PRI-260328-BD81
-  - INS-260330-3BB5
   - INS-260323-CB34
   - INS-260403-7CAA
   - INS-260327-27DA
+  - INS-260403-30E5
 evidence:
   - id: INS-260330-8BA6
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Song and her co-founder Tony ran a 24-hour service as a two-person team: Tony stayed up until 4am, Song woke up at 4am. They handled all customer success, support tickets, and sales themselves. This extreme approach let them deeply understand what customers needed and were willing to pay for.
 

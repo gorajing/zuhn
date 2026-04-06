@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 59 Startup Pitch Decks That Raised Millions—See What Works
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/59-startup-pitch-decks-that-raised'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Companies with explicit revenue infrastructure in their value prop (Paddle,
@@ -58,6 +48,12 @@ stance: >-
   Startups that articulate a specific revenue mechanism in their pitch deck
   category (payments, billing, subscriptions, financing) raise larger rounds
   than those pitching general technology capabilities.
+related:
+  - INS-260403-D880
+  - INS-260403-1E5F
+  - INS-260323-4D13
+  - INS-260404-0153
+  - INS-260404-6751
 ---
 A clear pattern in the collection: the largest rounds went to companies where the revenue model is embedded in the product itself. Wayflyer ($150M Series B) does revenue-based financing, Paddle ($200M Series D) handles SaaS payments and billing, Pennylane ($43M Series C) manages accounting, and Griffin ($24M Series A) provides banking-as-a-service. These companies don't just have revenue—they ARE revenue infrastructure for their customers.
 

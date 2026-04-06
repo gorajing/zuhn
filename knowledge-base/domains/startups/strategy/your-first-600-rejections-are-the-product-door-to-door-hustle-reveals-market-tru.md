@@ -49,11 +49,11 @@ stance: >-
   cannot surface the visceral objections that come from knocking on 600 doors in
   person.
 related:
+  - INS-260403-C349
+  - INS-260403-94EB
   - INS-260404-5365
   - INS-260320-07A2
   - INS-260329-4FB2
-  - INS-260329-7E63
-  - PRI-260327-3BD9
 evidence:
   - id: INS-260404-5365
     type: TRANSFERS_TO

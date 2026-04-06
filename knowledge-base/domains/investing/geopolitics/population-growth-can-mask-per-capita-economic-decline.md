@@ -45,23 +45,23 @@ stance: >-
   per-capita GDP stagnates or declines, creating a statistical illusion of
   economic health that masks deteriorating individual living standards.
 related:
-  - INS-260323-DA6F
   - INS-260327-EF98
   - PRI-260328-6CDE
-  - PRI-260328-6136
   - INS-260330-912C
   - INS-260330-230D
-  - INS-260330-7462
-  - INS-260330-AAE9
   - INS-260330-AD61
   - INS-260330-C477
+  - PRI-260328-6136
+  - INS-260323-DA6F
+  - INS-260403-20C2
+  - INS-260403-441E
 evidence:
   - id: INS-260330-912C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-230D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B7AB
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Canada demonstrates how aggregate economic metrics mislead: GDP grew because population grew through high immigration, but GDP per capita didn't improve for a decade. This creates a political problem where leaders cite GDP growth while citizens experience stagnation or decline.
 

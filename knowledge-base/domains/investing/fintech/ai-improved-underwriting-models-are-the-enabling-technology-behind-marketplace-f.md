@@ -55,11 +55,11 @@ stance: >-
   catalyst making embedded financial services viable for startups, not just
   incumbents with decades of data
 related:
+  - INS-260403-A232
   - INS-260327-0004
   - INS-260322-5790
-  - PRI-260403-5DEA
-  - PRI-260405-BFAC
-  - INS-260327-C15B
+  - PRI-260405-B144
+  - INS-260403-5056
 evidence:
   - id: INS-260327-C15B
     type: TRANSFERS_TO

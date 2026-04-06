@@ -55,6 +55,7 @@ related:
   - PRI-260403-50EF
   - PRI-260324-2C9F
   - INS-260405-FE57
+  - INS-260403-9DB6
 ---
 From an evolutionary perspective, over-detecting patterns is safer than under-detecting them. If you hear rustling grass and assume a saber-tooth tiger, you survive whether or not one is actually there. But if you assume nothing and it IS a tiger, you die. This asymmetry means our brains are calibrated to find patterns even where none exist.
 

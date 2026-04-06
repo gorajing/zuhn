@@ -49,15 +49,16 @@ stance: >-
   The inability to see the world from an adversary's perspective — not malice —
   is the primary cause of avoidable great power conflicts.
 related:
-  - INS-260321-10FF
   - INS-260323-B1F5
   - INS-260323-3982
-  - INS-260327-3136
   - INS-260327-A462
+  - INS-260403-583B
+  - INS-260403-44A6
   - INS-260327-6058
   - INS-260330-E0F5
   - INS-260404-B6CC
-  - INS-260330-3698
+  - INS-260403-BADB
+  - INS-260403-F2BA
 evidence:
   - id: INS-260321-10FF
     type: EXTENDS

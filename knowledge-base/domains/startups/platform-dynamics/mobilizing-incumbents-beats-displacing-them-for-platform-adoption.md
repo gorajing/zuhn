@@ -50,14 +50,12 @@ stance: >-
   on top achieve faster adoption than those requiring participants to abandon
   established workflows.
 related:
-  - INS-260322-96F1
-  - INS-260330-D583
-  - INS-260403-6412
   - INS-260405-787F
   - INS-260330-7D6D
   - INS-260330-C24F
   - PRI-260403-C337
   - INS-260330-C870
+  - INS-260403-B3E8
 evidence:
   - id: INS-260330-D583
     type: TRANSFERS_TO

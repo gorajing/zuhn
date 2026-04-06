@@ -50,7 +50,7 @@ related:
   - INS-260329-6727
   - INS-260330-B904
   - INS-260329-2DF2
-  - INS-260330-6AFA
+  - INS-260326-3B43
 ---
 The entire video avoids symbolic manipulation in favor of visual reasoning. The rings become rectangles, the rectangles line up as a bar chart, the bar chart becomes the area under a line, and the area is a triangle — yielding pi*r^2 without ever 'doing calculus' formally. The formula stops feeling like something to memorize and starts feeling like something you can see.
 

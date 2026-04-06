@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Is the MVP Dead? Rethinking Lean Startup Strategies
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/is-mvp-dead'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Design experiments around specific hypotheses rather than shipping
@@ -56,6 +46,12 @@ stance: >-
   Separating the learning goal from the shipping goal via fake doors, landing
   pages, and concierge tests yields faster validation than building a functional
   MVP.
+related:
+  - INS-260403-B1F2
+  - INS-260404-A46A
+  - INS-260323-DA13
+  - INS-260403-FFEA
+  - INS-260403-4050
 ---
 The article distinguishes a Minimum Viable Experiment (MVE) from an MVP by flipping the question from 'What can we launch?' to 'What can we learn?' MVE tactics — landing pages, fake-door tests, concierge prototypes — validate demand without writing full product code. This is especially powerful when time or funding is limited.
 

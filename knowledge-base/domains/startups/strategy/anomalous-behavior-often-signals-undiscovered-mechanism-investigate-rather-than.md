@@ -60,8 +60,8 @@ related:
   - INS-260323-C3FA
   - INS-260323-257D
   - INS-260403-C5FB
+  - INS-260404-4B39
   - INS-260330-72D0
-  - INS-260325-B234
 stance: Nickel superalloys get stronger when heated
 evidence:
   - id: INS-260325-B234

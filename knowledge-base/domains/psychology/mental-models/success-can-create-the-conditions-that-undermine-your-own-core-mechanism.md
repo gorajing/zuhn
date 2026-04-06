@@ -59,7 +59,6 @@ stance: >-
 related:
   - INS-260330-AB3C
   - INS-260330-B71B
-  - INS-260330-656A
   - INS-260330-D304
   - INS-260330-3FF4
   - INS-260330-F5CF
@@ -67,6 +66,7 @@ related:
   - INS-260403-C4CD
   - INS-260403-B5E2
   - INS-260403-6628
+  - INS-260404-2695
 evidence:
   - id: INS-260330-AB3C
     type: EXTENDS

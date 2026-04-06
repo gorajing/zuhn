@@ -50,31 +50,31 @@ stance: >-
 related:
   - INS-260323-2C19
   - INS-260327-9BA2
-  - INS-260329-1741
-  - INS-260329-5C25
   - INS-260329-EDA2
   - INS-260329-B408
   - INS-260330-112E
-  - INS-260330-81D3
   - PRI-260403-52DF
   - INS-260404-DBD2
+  - PRI-260405-2DE5
+  - INS-260405-131B
+  - INS-260330-81D3
 evidence:
   - id: INS-260323-2C19
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-500E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-9BA2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-5C25
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-B408
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-1741
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-EDA2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-DBD2
     type: SUPPORTS
     classified_at: '2026-04-06'

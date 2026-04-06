@@ -18,24 +18,14 @@ sources:
     title: >-
       Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save
       or Sink Your Company
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-momentum-diagnostic-worksheet'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     An effective MVP delivers one complete, polished workflow rather than a
@@ -61,6 +51,13 @@ stance: >-
   The most effective MVP is a single workflow executed with high craft and
   clarity, not a broad product with features removed—because user conviction
   comes from depth of value delivery, not breadth of capability.
+related:
+  - INS-260329-FEBA
+  - INS-260330-39D7
+  - INS-260402-543E
+  - INS-260327-F405
+  - INS-260403-1C31
+  - INS-260403-2D39
 ---
 Most founders misunderstand what 'minimum' means in MVP. They strip features to ship faster, ending up with a janky login, vague dashboards, and 'Coming Soon' tabs—a product that's minimal in quality rather than scope. A true MVP is one clear, polished path that makes the user immediately understand the value. If 90% of users want one specific thing, build the best possible version of that single thing.
 

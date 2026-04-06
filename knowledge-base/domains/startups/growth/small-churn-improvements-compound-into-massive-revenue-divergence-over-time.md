@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: The Lean Revenue Dashboard Every Startup Should Use
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/lean-revenue-dashboard-for-startups'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A 1% monthly churn reduction compounds dramatically over 24 months, making
@@ -56,6 +46,15 @@ stance: >-
   Reducing monthly churn by even one percentage point creates enormous
   compounding revenue differences over 12-24 months, making churn reduction the
   highest-leverage growth lever for SaaS startups.
+related:
+  - INS-260322-8BC5
+  - INS-260330-73A2
+  - INS-260403-CF98
+  - INS-260403-F85C
+  - INS-260403-544B
+  - INS-260405-DDC2
+  - INS-260403-12B4
+  - INS-260330-608C
 ---
 The math on churn compounding is brutal and non-intuitive. Dropping monthly churn from 5% to 4% means you retain an extra percentage point of MRR every single month. Over 24 months, the cumulative difference between these two scenarios is enormous—far larger than most founders intuit from the seemingly small 1% gap.
 

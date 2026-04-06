@@ -50,13 +50,12 @@ stance: >-
   unresolved trust issues.
 related:
   - INS-260324-1C84
-  - INS-260326-0C14
   - INS-260327-F4B8
   - INS-260330-C7FF
+  - INS-260330-C745
   - INS-260330-855A
+  - INS-260330-808B
   - INS-260405-4423
-  - INS-260403-5018
-  - INS-260330-5EB6
 evidence:
   - id: INS-260330-C745
     type: EXTENDS

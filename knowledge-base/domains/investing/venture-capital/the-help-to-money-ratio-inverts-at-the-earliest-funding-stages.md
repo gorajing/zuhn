@@ -46,11 +46,12 @@ stance: >-
   far exceeds the value of capital that money becomes a negligible factor in the
   investor's contribution.
 related:
-  - INS-260329-8386
   - INS-260323-8893
-  - INS-260403-A57D
-  - INS-260330-5036
-  - INS-260330-9751
+  - INS-260329-8386
+  - INS-260405-2A34
+  - INS-260403-118B
+  - INS-260403-53C0
+  - INS-260403-4452
 evidence:
   - id: INS-260329-8386
     type: TRANSFERS_TO

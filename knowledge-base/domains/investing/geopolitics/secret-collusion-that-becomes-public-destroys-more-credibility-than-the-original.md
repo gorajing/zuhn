@@ -54,8 +54,8 @@ related:
   - INS-260330-3084
   - INS-260330-A1AF
   - INS-260327-F484
+  - INS-260403-583B
   - INS-260327-5E93
-  - INS-260327-DC45
 evidence:
   - id: INS-260330-3084
     type: EXTENDS

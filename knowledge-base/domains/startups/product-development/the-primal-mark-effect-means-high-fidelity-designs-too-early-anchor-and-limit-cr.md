@@ -20,27 +20,15 @@ sources:
     title: >-
       35 years of product design wisdom from Apple, Disney, Pinterest, and
       beyond | Bob Baxley
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: >-
       https://www.lennysnewsletter.com/p/35-years-of-product-design-wisdom-bob-baxley
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Stay in low-fidelity block frames as long as possible — the first detailed
@@ -64,6 +52,12 @@ resolutions:
 stance: >-
   Starting with high-fidelity prototypes or polished visuals prematurely anchors
   the team's thinking and prevents discovery of fundamentally better solutions
+related:
+  - INS-260404-DDFB
+  - INS-260405-D925
+  - INS-260323-1811
+  - INS-260403-649C
+  - PRI-260322-CF2B
 ---
 Baxley references Stanford research on 'the primal mark' — the first concrete visual representation of an idea sets cognitive expectations that constrain all subsequent iterations. Once a team sees a polished mockup, they unconsciously optimize within that frame rather than questioning whether the entire approach is wrong. This is why he advocates staying in low-fidelity block frames for as long as possible.
 

@@ -45,14 +45,14 @@ stance: >-
   simplify their processes or risk founders bypassing them entirely.
 related:
   - INS-260322-0C91
-  - INS-260322-A31D
   - INS-260325-3E9F
   - PRI-260403-26B9
   - INS-260403-A57D
   - INS-260330-B6FA
-  - INS-260403-1287
+  - INS-260405-5BA9
+  - INS-260404-7679
   - INS-260329-2A70
-  - INS-260330-404B
   - INS-260330-08FA
+  - INS-260404-0C25
 ---
 Dalton describes a company doing $8M in revenue that is profitable and debating whether to even bother raising a Series A — because the process is high-pain, uncertain, and carries reputational damage if it fails. As AI makes companies more capital-efficient, the cost-benefit of traditional fundraising deteriorates. Failed fundraises are especially toxic: VCs talk to each other constantly about who's raising, and a failed raise forces a 6-month cooldown. This creates a growing market for low-friction alternatives like Standard Capital. The implication is that VCs who maintain baroque processes will lose deal flow to simpler alternatives, not because founders can't endure the process, but because they no longer need to.

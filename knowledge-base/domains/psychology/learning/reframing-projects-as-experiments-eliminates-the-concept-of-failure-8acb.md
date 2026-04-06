@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When work is framed as an experiment, every outcome — including failure —
@@ -61,6 +49,17 @@ stance: >-
   Treating ambitious projects as experiments rather than performances transforms
   failure from a reputation threat into information gain, fundamentally changing
   the risk calculus of starting.
+related:
+  - INS-260325-CEE1
+  - INS-260329-4A09
+  - INS-260330-90AD
+  - INS-260330-43F7
+  - INS-260403-449A
+  - INS-260403-5C89
+  - INS-260403-3DF3
+  - INS-260403-48FE
+  - INS-260404-6DA9
+  - INS-260403-872C
 ---
 The fear of failure is really a fear of wasted effort and damaged reputation. But if you frame a project as an experiment, failure stops being waste — it becomes data. If a theorem turns out to be false, you've learned something. If a structural member fails under stress, you've learned something. The information value exists regardless of whether the outcome matches your hopes.
 

@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "The Billion-Dollar Revenue Club\U0001F4B0, Product Metrics That Matter\U0001F3AF, Time-to-Value in AI Age⏱️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-billion-dollar-revenue-club-product'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In AI markets, how fast you deliver value matters more than how much value
@@ -56,6 +46,17 @@ stance: >-
   AI startups that deliver measurable value to users faster than competitors
   will win disproportionate market share, making time-to-value the defining
   competitive variable in the current AI race.
+related:
+  - INS-260323-500B
+  - INS-260327-6E93
+  - INS-260329-50D5
+  - INS-260329-3BEE
+  - INS-260329-577E
+  - INS-260329-5924
+  - INS-260329-CBF3
+  - INS-260329-A4CA
+  - INS-260330-6A47
+  - INS-260403-2DE3
 ---
 The AI market is moving fast enough that incumbency advantages are weak and switching costs are low. In this environment, the startup that gets users to their 'aha moment' fastest builds habitual usage before competitors can catch up. Slow onboarding is especially lethal because users have many AI alternatives to try immediately.
 

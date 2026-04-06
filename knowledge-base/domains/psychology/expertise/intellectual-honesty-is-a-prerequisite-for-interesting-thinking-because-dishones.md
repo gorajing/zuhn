@@ -49,16 +49,16 @@ stance: >-
   boring, because you'll miss all the ideas you would have discovered by pushing
   for the truth
 related:
-  - INS-260322-F65F
   - INS-260325-9AD4
   - INS-260323-9AA5
   - INS-260323-FAF0
   - INS-260323-DA13
-  - INS-260327-AEFA
-  - INS-260327-6F11
   - INS-260329-6004
   - INS-260330-4EF8
   - INS-260403-AFC4
+  - PRI-260405-9A14
+  - INS-260403-61B0
+  - INS-260403-B6FD
 evidence:
   - id: INS-260322-F65F
     type: SUPPORTS

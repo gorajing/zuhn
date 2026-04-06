@@ -50,11 +50,12 @@ stance: >-
   vendors like Guidewire and Accenture for their technology, they cannot iterate
   on product — giving any tech-native challenger a permanent speed advantage.
 related:
-  - INS-260402-45FA
+  - INS-260403-2AC0
+  - INS-260405-4AAD
+  - INS-260405-54A9
   - PRI-260328-5CDE
-  - PRI-260322-8FD4
-  - INS-260327-FA43
-  - INS-260402-92AE
+  - INS-260405-ABE0
+  - INS-260404-183A
 ---
 Insurance incumbents had no CTOs, no product managers, no engineers. Their backend was Guidewire, billing was outsourced, implementation was Accenture. Every product change required coordinating with multiple third parties, making iteration cycles measured in quarters or years rather than days. Hippo, built natively on AWS/Stripe/Intercom, could ship in days what incumbents needed months to spec.
 

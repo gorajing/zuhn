@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: Giving AI Agents Purchasing Power
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/gemini-3-deep-think-a-new-era-of'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When agents can monetize their own outputs and spend autonomously, they
@@ -63,6 +53,17 @@ resolutions:
 stance: >-
   AI agents that can earn, spend, and own assets are a qualitatively new type of
   economic participant, not just an automation tool.
+related:
+  - INS-260323-4B4D
+  - INS-260322-760A
+  - INS-260327-A9D5
+  - INS-260327-B116
+  - PRI-260328-8317
+  - INS-260330-0F23
+  - INS-260330-AB67
+  - INS-260403-0350
+  - INS-260405-0E77
+  - INS-260405-F26B
 ---
 Traditional software is a tool: it executes instructions and returns results. It has no economic identity. Agentic wallets change this — an agent that can rebalance a DeFi portfolio at 3 AM, monetize generated content, or pay for its own compute is functionally a new class of economic actor. It can accumulate capital, incur costs, and generate revenue without any human in the loop.
 

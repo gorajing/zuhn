@@ -51,10 +51,10 @@ stance: >-
   than from any single differentiating feature.
 related:
   - INS-260403-16D7
+  - INS-260403-F4ED
   - INS-260330-579B
-  - INS-260402-5EDC
-  - INS-260403-43B9
-  - PRI-260405-EBC6
+  - INS-260404-0EB2
+  - INS-260404-1ADA
 evidence:
   - id: INS-260330-579B
     type: CHALLENGES

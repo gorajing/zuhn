@@ -48,12 +48,11 @@ stance: >-
   with reinforcement learning — can now be performed by non-specialists through
   agent-mediated tooling.
 related:
+  - INS-260403-CDB0
   - INS-260327-4CB3
   - INS-260327-E07C
   - INS-260323-8DE7
   - INS-260322-B33E
-  - PRI-260328-8E01
-  - INS-260329-5B7B
 evidence:
   - id: INS-260329-5B7B
     type: SUPPORTS

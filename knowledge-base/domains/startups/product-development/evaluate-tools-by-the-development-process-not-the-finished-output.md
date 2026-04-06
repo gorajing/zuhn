@@ -46,12 +46,11 @@ stance: >-
   the path to the finished product was, not how elegant the final artifact
   looks.
 related:
-  - INS-260325-C830
   - INS-260402-AC3D
   - INS-260403-5AAC
+  - INS-260405-4091
   - INS-260327-EBDF
   - INS-260402-7B69
-  - INS-260330-464E
 evidence:
   - id: INS-260403-5AAC
     type: EXTENDS

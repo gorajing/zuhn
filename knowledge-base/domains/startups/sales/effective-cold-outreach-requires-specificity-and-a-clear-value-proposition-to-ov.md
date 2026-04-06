@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "AI Bubble\U0001F4C9, Canva acquires Leonardo AI\U0001F3A8, How to Write Cold Emails✉️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-bubble-canva-acquires-leonardo'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Cold outreach succeeds when personalization demonstrates genuine knowledge
@@ -57,6 +47,14 @@ stance: >-
   Generic cold emails and DMs reliably fail because recipients cannot see
   relevance to their specific situation, making personalization the single
   highest-leverage improvement.
+related:
+  - PRI-260328-95E3
+  - INS-260329-DAC4
+  - INS-260329-D1A1
+  - INS-260330-4DBE
+  - INS-260328-711E
+  - PRI-260328-BDC2
+  - INS-260329-7B47
 ---
 Cold email and DM conversion is primarily determined by how clearly the sender demonstrates relevance to the recipient's specific situation. Generic outreach fails because it forces the recipient to do the mental work of figuring out why this matters to them — and most won't bother.
 

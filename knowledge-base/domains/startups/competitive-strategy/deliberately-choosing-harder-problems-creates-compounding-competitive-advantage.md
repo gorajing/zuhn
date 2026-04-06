@@ -50,12 +50,10 @@ stance: >-
   impossible for slow-moving incumbents
 related:
   - INS-260325-29D5
-  - INS-260323-244C
-  - INS-260329-E078
   - INS-260327-CEE4
   - INS-260330-579B
+  - INS-260403-DFBD
   - INS-260327-B72F
-  - INS-260402-2FDF
   - INS-260403-875B
 evidence:
   - id: INS-260327-B72F

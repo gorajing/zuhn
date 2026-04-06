@@ -45,7 +45,6 @@ stance: >-
   it is outsourcing the reasoning process itself.
 related:
   - INS-260322-5A0F
-  - INS-260322-DAA1
   - INS-260327-E7B8
   - INS-260327-23F8
   - INS-260330-DE69
@@ -54,6 +53,7 @@ related:
   - INS-260403-ABB7
   - INS-260403-8BF4
   - INS-260403-0218
+  - INS-260404-616F
 evidence:
   - id: INS-260327-E7B8
     type: CHALLENGES

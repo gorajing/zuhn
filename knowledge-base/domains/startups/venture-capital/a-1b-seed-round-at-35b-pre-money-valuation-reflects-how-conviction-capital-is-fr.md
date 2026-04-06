@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: Mastercard brings 85+ firms into crypto payments push
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-175'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors
@@ -67,6 +57,12 @@ stance: >-
   The emergence of billion-dollar seed rounds signals that top investors have
   shifted from de-risking capital through staged funding to concentrating it at
   the earliest stage when paradigm-level conviction exists.
+related:
+  - INS-260404-5D6E
+  - INS-260403-0680
+  - INS-260404-34D4
+  - INS-260403-E16F
+  - INS-260403-01FD
 ---
 AMI's $1.03B seed round at a $3.5B pre-money valuation sets a new record for European seed funding. The participants — Cathay Innovation, Greycroft, Hiro Capital, HV Capital, Bezos Expeditions — are not tourists. This is concentrated conviction capital from experienced technology investors who believe the LLM scaling paradigm is cresting and world models represent the next architectural leap.
 

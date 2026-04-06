@@ -1,5 +1,5 @@
 ---
-id: INS-260403-94CA
+id: INS-260403-BD43
 domain: startups
 topic: business-models
 title: Misidentified core business models hide the real profit engine
@@ -43,12 +43,16 @@ stance: >-
   from a completely different underlying business model, and recognizing this
   asymmetry is the key to understanding their competitive advantage.
 related:
-  - INS-260325-BBF1
-  - INS-260403-7639
-  - INS-260403-7475
-  - INS-260403-79AF
-  - PRI-260405-9D7B
-  - INS-260325-DF82
+  - INS-260324-D612
+  - INS-260324-0DC1
+  - INS-260327-7CAF
+  - INS-260327-048B
+  - INS-260327-092E
+  - INS-260329-C474
+  - INS-260330-16F7
+  - INS-260403-04C9
+  - INS-260403-A115
+  - INS-260404-BCA2
 evidence:
   - id: INS-260325-BBF1
     type: TRANSFERS_TO

@@ -44,16 +44,16 @@ stance: >-
   Writing forces incomplete ideas to become precise and complete in ways that
   pure thinking cannot achieve
 related:
-  - INS-260321-E9B7
   - INS-260321-6D01
   - INS-260322-BF4C
-  - INS-260323-53BF
   - INS-260321-96CE
   - INS-260323-3737
   - INS-260325-7B58
-  - INS-260327-E7B8
   - INS-260330-2B3F
   - INS-260402-89DE
+  - INS-260402-12D0
+  - INS-260403-CE95
+  - INS-260403-C55B
 evidence:
   - id: INS-260403-CE95
     type: SUPPORTS

@@ -46,24 +46,23 @@ resolutions:
     architectures find one core abstraction that unifies seemingly disparate
     features.
 related:
-  - PRI-260328-8516
-  - INS-260325-0A81
   - INS-260330-BFA1
-  - PRI-260323-0654
   - INS-260330-B4DA
-  - INS-260322-EE1B
+  - PRI-260328-8516
+  - PRI-260323-0654
+  - INS-260323-9F38
 stance: >-
   The principle of least action provides a single mathematical framework that
   generates all laws of physics
 evidence:
   - id: INS-260325-82E8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-BFA1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B4DA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-EE1B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Theoretical physicists don't approach problems through forces or energy — they write down a Lagrangian (kinetic energy minus potential energy) and the principle of least action generates the correct equations of motion. The same framework works for classical mechanics, special relativity, electrodynamics, and quantum field theory.
 

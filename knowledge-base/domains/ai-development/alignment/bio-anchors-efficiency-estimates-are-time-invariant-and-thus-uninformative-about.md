@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Open Thread 422
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/open-thread-422'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The Bio Anchors report's efficiency comparisons are technology-invariant,
@@ -60,6 +50,13 @@ stance: >-
   leaves) would have produced nearly identical estimates 20 years earlier or
   later, making them poor calibration points for where ML actually stood in
   2020.
+related:
+  - PRI-260321-14D8
+  - INS-260327-575D
+  - INS-260326-80B1
+  - INS-260404-29AF
+  - INS-260403-CF46
+  - INS-260404-4541
 ---
 Ajeya Cotra's Bio Anchors report estimated ML algorithms were ~2.5 orders of magnitude less efficient than the brain, anchored on comparisons like dialysis machines vs kidneys and solar panels vs leaves. Commenter David Schneider-Joseph pointed out a fundamental flaw: these reference points have nothing to do with where ML algorithms specifically were in 2020. The same anchors would have yielded near-identical estimates in 2000 or 2040.
 

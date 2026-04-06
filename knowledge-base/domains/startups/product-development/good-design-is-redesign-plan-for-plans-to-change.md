@@ -49,12 +49,12 @@ stance: >-
   experts plan to throw away early work and cultivate dissatisfaction with
   current results
 related:
-  - INS-260322-1C17
-  - INS-260329-1FEE
-  - INS-260405-020E
-  - INS-260330-CC7D
-  - INS-260325-E84D
-  - INS-260329-D3D9
+  - INS-260405-7A7C
+  - INS-260404-CD3E
+  - INS-260404-4985
+  - INS-260404-56F8
+  - INS-260404-4666
+  - INS-260404-8031
 evidence:
   - id: INS-260322-1C17
     type: SUPPORTS

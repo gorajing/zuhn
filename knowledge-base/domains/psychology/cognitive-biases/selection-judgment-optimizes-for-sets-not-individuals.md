@@ -44,11 +44,12 @@ stance: >-
   accurately evaluating any individual, making perceived unfairness a category
   error.
 related:
-  - INS-260325-95EB
   - INS-260330-1282
   - INS-260404-0570
+  - INS-260404-2135
   - INS-260404-5365
-  - INS-260330-4A16
+  - INS-260325-95EB
+  - INS-260403-6C38
 evidence:
   - id: INS-260330-1282
     type: TRANSFERS_TO

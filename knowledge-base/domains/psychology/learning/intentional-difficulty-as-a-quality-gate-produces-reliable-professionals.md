@@ -54,11 +54,11 @@ stance: >-
   quality gate that ensures only those who master fundamentals proceed to
   advanced work
 related:
+  - INS-260403-7D1D
   - INS-260323-649B
   - INS-260403-875B
   - INS-260405-FAE3
-  - INS-260403-7FFA
-  - INS-260323-A14D
+  - INS-260405-68DC
 evidence:
   - id: INS-260323-649B
     type: CHALLENGES

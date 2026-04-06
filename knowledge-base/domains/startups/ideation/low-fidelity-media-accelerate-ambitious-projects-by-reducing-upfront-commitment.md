@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Choosing media that allow fast iteration and low upfront commitment makes it
@@ -64,6 +52,14 @@ resolutions:
 stance: >-
   Starting ambitious work in quick, low-commitment media dramatically increases
   the probability of pushing through the lame early phase
+related:
+  - INS-260329-18BB
+  - INS-260403-D4EA
+  - INS-260405-0CE7
+  - INS-260404-D147
+  - INS-260404-DDFB
+  - INS-260329-4DBC
+  - INS-260404-8A18
 ---
 The medium you choose to start a project shapes whether you'll survive its early phase. Drawing in a notebook feels like 'just a sketch' — carving in stone feels like a commitment. Digital tools compound this advantage not primarily through software features but by collapsing the gap between starting and having something to evaluate. The faster you get initial results, the faster you can see improvement rate, and focusing on rate of change rather than absolute quality is one of the most effective antidotes to early-stage discouragement.
 

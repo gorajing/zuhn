@@ -50,10 +50,10 @@ stance: >-
   seek solutions.
 related:
   - INS-260327-E7B8
+  - INS-260405-ECCD
+  - INS-260329-0B76
   - INS-260325-898A
   - INS-260330-B15C
-  - INS-260330-A3AF
-  - INS-260403-3E9A
 evidence:
   - id: INS-260323-4473
     type: TRANSFERS_TO

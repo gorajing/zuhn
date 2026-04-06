@@ -44,16 +44,16 @@ stance: >-
   The main function of a startup's first version is to serve as a vehicle for
   experimenting with its own design, not to be production-ready.
 related:
-  - INS-260320-8632
   - INS-260321-0CCD
-  - INS-260327-CED9
   - INS-260328-8B2C
   - INS-260330-ABB1
   - INS-260403-F290
   - INS-260403-535C
   - INS-260404-8A02
   - INS-260403-924B
-  - INS-260320-8688
+  - INS-260403-D6C2
+  - INS-260403-30E5
+  - INS-260403-89A5
 evidence:
   - id: INS-260320-8632
     type: CHALLENGES

@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-cost-of-churn'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Each churned customer destroys not just current revenue but years of future
@@ -58,6 +48,13 @@ stance: >-
   A single churned high-value customer represents orders of magnitude more lost
   value than the immediate revenue hit because churn kills the compounding
   engine of customer lifetime profit
+related:
+  - INS-260403-E69C
+  - INS-260403-458A
+  - PRI-260324-7ED9
+  - INS-260403-53B0
+  - INS-260403-12B4
+  - INS-260324-DB86
 ---
 Founders typically frame churn as a monthly percentage—3% here, a few logos there. But the real cost is exponential, not linear. A $150K ARR customer in a high-margin SaaS business could generate over $1M in profit across a 7-8 year lifetime. When that customer leaves, you don't lose $150K—you lose the entire compounding trajectory.
 

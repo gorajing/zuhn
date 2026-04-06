@@ -1,3 +1,3 @@
 # Tag: historical-comparison
 
-- `INS-260330-93F3` The same culture can occupy radically different moral positions across centuries, proving that moral differences between contemporary cultures reflect temporal position on a shared trajectory, not permanent group characteristics.
+- `INS-260403-7BC0` People feel civilization is declining because they anchor to the anomalous 1930s-1960s low point rather than historical averages.

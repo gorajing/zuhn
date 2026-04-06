@@ -16,26 +16,14 @@ tags:
 sources:
   - type: blog
     title: What happens if the world pulls its money out of America?
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/what-happens-if-the-world-pulls-its'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The U.S. benefits from a trust premium built over decades that could
@@ -59,6 +47,13 @@ stance: >-
   Decades of accumulated trust in U.S. institutions creates a capital inflow
   premium that could unwind rapidly if investors collectively reassess American
   stability
+related:
+  - INS-260322-627E
+  - INS-260327-7349
+  - INS-260327-B946
+  - INS-260325-B315
+  - PRI-260328-0993
+  - INS-260327-A40E
 ---
 Foreign investors have poured capital into U.S. assets for decades based on institutional stability rooted in winning WWII and the Cold War. This created a self-reinforcing cycle: inflows strengthen the dollar, which attracts more inflows. But trust-based equilibria are inherently fragile — they depend on shared beliefs that can shift suddenly.
 

@@ -1,17 +1,21 @@
 # Tag: epistemology
 
 - `INS-260325-4C6D` Neural networks succeed precisely because they work like human intuition rather than like explicit logical rules.
+- `INS-260325-890D` LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
-- `INS-260325-76E6` Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
+- `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
+- `INS-260404-F366` Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
 - `INS-260330-984C` Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
-- `INS-260403-ABB7` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
+- `INS-260403-213D` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260330-8FF8` The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
 - `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-F889` Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
 - `INS-260405-2849` Erdős's 'God's book' intuition — that the best proofs feel found, not made — points to a real distinction between constructed arguments and universal truths.
 - `INS-260330-0C1D` Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
+- `INS-260402-E7F7` The story's nested drug-induced lives create a situation where characters cannot determine if they are 'real' or simulated, making consistent moral behavior the only robust strategy.
 - `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260330-2838` Islam's hadith tradition explicitly grades source reliability — some sayings are well-attested, others are essentially gossip — and the '72 virgins' claim falls in the poorly-sourced category that most Muslims reject.
+- `INS-260405-2021` Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
 - `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
@@ -45,19 +49,23 @@
 - `INS-260330-C172` Knowledge is best validated like a crossword puzzle: each answer must fit independently (evidence) AND be consistent with intersecting answers (coherence).
 - `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
 - `INS-260405-4C63` Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
+- `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity.
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
+- `INS-260330-A4A5` 'Common sense is just that — common' — our intuitions are tuned to a thin band of electromagnetic spectrum, spatial scale, and temporal duration, not to reality as a whole.
 - `INS-260330-6165` Hoffman's fitness-beats-truth theorem mathematically proves that natural selection shapes senses to track fitness payoffs, not objective truth, with probability zero of evolving truth-seeing.
 - `INS-260323-D060` Free speech and scientific inquiry are both rooted in the recognition that humans are self-deceiving creatures of limited knowledge who need open discourse to approach truth.
 - `INS-260403-C7D8` Whether something is objective or subjective depends on how much the observers have in common, not on whether observers are involved.
 - `INS-260323-A19F` The argument that a word is too powerful to study in academic contexts is self-defeating — powerful words demand more engagement, not less.
 - `INS-260325-C6BB` In science, a theory is assembled from many rigorously tested hypotheses and independent evidence — it is the top of the hierarchy, not a casual guess.
 - `INS-260330-795D` Social media transforms genuine discourse into performance, systematically undermining a society's shared capacity to assess truth.
+- `INS-260322-2DBD` Defining something as supernatural requires knowing what natural is — and since we don't fully understand nature, the boundary between the two remains fundamentally uncertain.
 - `INS-260329-95EF` Shrinking the measurement interval from average to instantaneous rate of change is the core technique for converting rough observations into precise understanding.
 - `INS-260329-C2E5` The IVT proves that a continuous function must cross every intermediate value between f(a) and f(b), guaranteeing existence of solutions without computing them.
 - `INS-260323-518A` The giant impact hypothesis became the leading Moon origin theory not because it was proven, but because it was 'the least bad' option — a pattern where scientific and business consensus defaults to the best available story even when it has known fatal flaws.
 - `INS-260323-DA13` Just as scientists never refuse to run an experiment because the result might be unpleasant, the marketplace of ideas must entertain all hypotheses — including hateful ones.
-- `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
+- `INS-260325-76E6` Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
 - `INS-260405-1D7B` Applying a threshold heuristic generously — including borderline cases rather than excluding them — protects against missing important ideas.
 - `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
 - `INS-260323-8966` The Shapiro-Destiny debate demonstrates that two intelligent people with different foundational priors will interpret identical data points in opposite directions — shared evidence does not produce convergence.

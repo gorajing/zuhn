@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: How to Prepare for Your First VC Intro Call (and Actually Impress Them)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-intro-call-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Investors form their core impression in the first five minutes, so your
@@ -56,6 +46,12 @@ resolutions:
 stance: >-
   The first five minutes of a VC call determine the outcome more than any metric
   or slide that follows
+related:
+  - INS-260403-A36C
+  - PRI-260405-2A11
+  - INS-260326-291C
+  - INS-260403-FC45
+  - INS-260327-8C1C
 ---
 VCs process dozens of pitches and form snap judgments early. The founder story — why you specifically are building this, what lived experience gave you the insight, how close you've been to the problem — is the single most important element because it's evaluated first and colors everything after.
 

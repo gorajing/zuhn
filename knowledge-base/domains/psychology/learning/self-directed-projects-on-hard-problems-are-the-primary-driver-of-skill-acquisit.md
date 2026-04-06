@@ -50,10 +50,12 @@ stance: >-
   required for deep learning.
 related:
   - INS-260330-45FF
+  - INS-260404-A19C
   - INS-260403-906E
   - INS-260403-6935
+  - INS-260329-153F
   - INS-260403-4F4B
-  - INS-260403-27AC
+  - INS-260403-743D
 evidence:
   - id: INS-260403-906E
     type: TRANSFERS_TO

@@ -50,12 +50,13 @@ stance: >-
   economic interdependence for survival every time, as demonstrated by WWI
   erupting despite unprecedented European economic integration.
 related:
-  - INS-260323-8239
   - PRI-260323-9295
   - INS-260327-A00A
   - PRI-260324-2A76
   - PRI-260323-9928
+  - INS-260404-F631
   - INS-260330-2EB0
+  - INS-260403-213C
 evidence:
   - id: INS-260330-2EB0
     type: TRANSFERS_TO

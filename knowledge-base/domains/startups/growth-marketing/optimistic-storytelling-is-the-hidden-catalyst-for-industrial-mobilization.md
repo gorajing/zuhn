@@ -51,8 +51,8 @@ related:
   - PRI-260328-2E23
   - INS-260327-3918
   - INS-260330-B625
+  - INS-260325-A1BC
   - INS-260330-C7E6
-  - INS-260403-B4DC
 stance: 'After the movie 300, Navy SEAL recruitment spiked'
 evidence:
   - id: INS-260327-3918

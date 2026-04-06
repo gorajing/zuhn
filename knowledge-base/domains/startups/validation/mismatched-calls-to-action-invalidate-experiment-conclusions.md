@@ -45,11 +45,11 @@ stance: >-
   When your measured action does not correspond to the hypothesis being tested,
   positive results are misleading and drive incorrect product decisions
 related:
+  - INS-260404-393A
   - INS-260403-88AF
   - INS-260330-3AF9
   - INS-260403-CBC7
   - INS-260330-DF2C
-  - PRI-260403-57EC
 evidence:
   - id: INS-260330-DF2C
     type: SUPPORTS

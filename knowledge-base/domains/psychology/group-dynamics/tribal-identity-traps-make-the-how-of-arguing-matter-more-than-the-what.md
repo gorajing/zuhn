@@ -50,16 +50,14 @@ stance: >-
   determines outcomes far more than the substance of the positions, because
   tribal affiliation overrides rational evaluation of claims
 related:
-  - INS-260325-4C2E
   - INS-260327-B37E
   - INS-260327-8E9B
   - INS-260330-AFF8
-  - INS-260330-775F
   - INS-260330-0F04
   - INS-260330-F324
   - INS-260330-9E1B
-  - INS-260402-1CAD
   - INS-260403-07C1
+  - INS-260404-CE92
 evidence:
   - id: INS-260330-F324
     type: TRANSFERS_TO

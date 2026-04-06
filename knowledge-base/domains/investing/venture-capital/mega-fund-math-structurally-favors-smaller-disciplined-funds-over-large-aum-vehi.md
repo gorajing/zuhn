@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The VC Math Problem\U0001F4CA, Inside a16z’s Speedrun\U0001F4B8, The 5% Rule for AGI\U0001F9E0"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-vc-math-problem-inside-a16zs'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Larger fund sizes create a structural math problem where required ownership
@@ -60,6 +50,17 @@ stance: >-
   required in winners become mathematically impossible at scale, making smaller
   funds with disciplined reserves and recycling consistently superior
   performers.
+related:
+  - INS-260323-C370
+  - INS-260322-7276
+  - INS-260327-8374
+  - INS-260403-9C63
+  - INS-260404-64EC
+  - INS-260327-7435
+  - INS-260403-2241
+  - INS-260405-62B2
+  - INS-260405-D959
+  - INS-260404-7F24
 ---
 Venture capital mega-funds face an inherent mathematical challenge: as fund size grows, the ownership percentage needed in winning companies to generate acceptable returns becomes unrealistically high. A $5B fund needs far larger positions in breakout companies than a $200M fund to return the same multiple. This creates adverse selection where mega-funds must either concentrate heavily (increasing risk) or accept diluted returns across too many bets.
 

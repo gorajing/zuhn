@@ -50,8 +50,8 @@ stance: >-
   delta from earning more dwarfs any portfolio allocation edge at low asset
   levels.
 related:
-  - INS-260329-1CB0
   - INS-260329-C4A4
+  - INS-260329-1CB0
   - PRI-260403-C229
   - INS-260330-C1EA
   - INS-260323-53FF

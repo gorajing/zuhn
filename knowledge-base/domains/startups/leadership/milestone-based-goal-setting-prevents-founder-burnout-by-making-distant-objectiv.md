@@ -45,11 +45,14 @@ resolutions:
     clear, achievable milestones, celebrate reaching them, then decide what
     comes next.
 related:
+  - INS-260403-1EE4
+  - INS-260403-0992
   - INS-260323-8893
-  - PRI-260403-26B9
-  - INS-260404-1E35
-  - INS-260330-D8D1
-  - PRI-260328-0993
+  - INS-260403-EEE6
+  - INS-260403-185D
+  - INS-260405-0375
+  - INS-260403-F8B6
+  - INS-260405-0D9A
 stance: >-
   Setting the next milestone (transaction volume target, operating profit
   threshold) instead of fixating on the ultimate exit/IPO prevents the marath...

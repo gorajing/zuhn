@@ -47,10 +47,11 @@ stance: >-
   significant upfront memorization can dramatically outperform intuitive
   interfaces once mastered.
 related:
+  - INS-260405-F05B
   - INS-260330-CCF0
   - INS-260329-8830
   - INS-260330-AE16
-  - PRI-260405-A11F
+  - INS-260329-9115
   - INS-260405-2299
 evidence:
   - id: INS-260330-CCF0

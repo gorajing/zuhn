@@ -49,8 +49,8 @@ related:
   - INS-260404-67C5
   - PRI-260405-ADEA
   - INS-260405-966C
+  - INS-260404-2135
   - PRI-260323-81E9
-  - INS-260323-9AA5
 ---
 Paul Graham documents how every participant in a criminal trial has incentives aligned toward conviction rather than truth. Police want to close cases, prosecutors want wins, defense attorneys are overworked, expert witnesses want to please, and juries want closure. Each actor's individual bias is understandable, but when they compound across the entire chain, the system reliably produces false convictions — at least 4% on death row.
 

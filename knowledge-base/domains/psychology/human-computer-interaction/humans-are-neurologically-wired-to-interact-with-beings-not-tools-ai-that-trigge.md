@@ -46,11 +46,11 @@ stance: >-
   generate qualitatively different engagement and loyalty than productivity
   software, because they activate social belonging circuitry that tools cannot.
 related:
+  - INS-260405-7624
   - INS-260322-A36C
   - INS-260402-7182
   - INS-260321-B85C
   - INS-260330-43F7
-  - INS-260323-C984
 evidence:
   - id: INS-260322-A36C
     type: TRANSFERS_TO

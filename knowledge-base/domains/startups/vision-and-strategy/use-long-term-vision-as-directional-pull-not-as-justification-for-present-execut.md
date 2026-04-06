@@ -18,41 +18,19 @@ tags:
 sources:
   - type: blog
     title: How SpaceX Builds and Pitches Its Long-Term Vision
-    author:
-      '@type': Organization
-      name: The VC Corner
-      url: 'https://www.thevccorner.com'
-      description: >-
-        The VC Corner is where founders stay ahead: sharp news, fundraising
-        strategies, battle-tested playbooks, and the tools to grow.
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 100000
-      identifier: 'pub:2125183'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
+    author: >-
+      {"@type":"Organization","name":"The VC
+      Corner","url":"https://www.thevccorner.com","description":"The VC Corner
+      is where founders stay ahead: sharp news, fundraising strategies,
+      battle-tested playbooks, and the tools to
+      grow.","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":100000},"identifier":"pub:2125183","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"}}
     url: 'https://www.thevccorner.com/p/spacex-strategy-pitch-deck'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Vision should pull milestones forward, not justify why you missed them—keep
@@ -82,6 +60,14 @@ stance: >-
   Long-term vision loses credibility when used to excuse near-term
   underperformance, but gains credibility when used purely as a directional
   signal that contextualizes near-term milestones.
+related:
+  - INS-260403-4730
+  - INS-260404-C0E6
+  - INS-260322-9436
+  - INS-260403-F8B6
+  - INS-260405-0D9A
+  - INS-260403-19D8
+  - INS-260405-7196
 ---
 SpaceX manages the tension between ambitious vision and near-term credibility through strict separation: near-term milestones are concrete and testable, medium-term goals expand the market, and long-term vision (Mars) provides direction without being used to justify today's execution. This sequencing is what makes talking about Mars feel like a direction rather than a deflection.
 

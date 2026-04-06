@@ -17,26 +17,14 @@ sources:
     title: >-
       Anthropic’s CPO on what comes next | Mike Krieger (co-founder of
       Instagram)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The ratio of effort invested to progress generated is the clearest signal
@@ -61,6 +49,16 @@ stance: >-
   When a startup requires 10 units of effort for every 1 unit of output, the
   founder's energy is being destroyed rather than amplified, and shutting down
   frees everyone for higher-impact work
+related:
+  - INS-260322-047D
+  - INS-260330-3AF9
+  - INS-260405-45E0
+  - INS-260403-78B7
+  - INS-260404-8A02
+  - INS-260403-185D
+  - INS-260403-67AB
+  - INS-260403-A93A
+  - INS-260403-4E51
 ---
 Krieger shut down Artifact despite loving the product because the input-to-output ratio had become unsustainable — 10 units of input for every 1 unit of output. The specific failure modes were structural: mobile web is broken for content distribution, news doesn't spread virally, and remote work made the rapid pivoting needed to find product-market fit nearly impossible.
 

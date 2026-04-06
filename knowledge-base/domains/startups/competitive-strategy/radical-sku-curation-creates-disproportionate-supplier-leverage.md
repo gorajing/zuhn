@@ -41,19 +41,18 @@ stance: >-
   Offering dramatically fewer product choices per category gives retailers more
   negotiating power per SKU than broad-selection competitors, because suppliers
   compete intensely for scarce shelf space.
-related:
-  - INS-260404-222A
-  - INS-260404-4780
-  - INS-260404-6BA2
-  - INS-260403-180D
-  - INS-260403-0DC2
-  - INS-260404-57E3
 evidence:
   - id: INS-260405-4871
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6BA2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-5BBC
-    relationship: RELATED
+    type: SUPPORTS
+related:
+  - INS-260403-4874
+  - INS-260404-36D7
+  - INS-260327-3B91
+  - INS-260330-DC0D
+  - INS-260403-5031
 ---
 Conventional retail wisdom says more selection serves more customers. Costco inverts this: by stocking only 4,000 items (vs 30,000 at a typical supermarket or 140,000 at Walmart Supercenter), each product slot becomes enormously valuable to suppliers. Companies compete aggressively to be the one or two choices in their category, accepting lower margins and even reengineering products (like the cashew container that saved 24,000 pallets/year). This creates a virtuous cycle: fewer SKUs → more volume per SKU → stronger negotiating position → lower prices → higher renewal rates. The counterintuitive lesson is that constraint in selection can be a source of power rather than a limitation.

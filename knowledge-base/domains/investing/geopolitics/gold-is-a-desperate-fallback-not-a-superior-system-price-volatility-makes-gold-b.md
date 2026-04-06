@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: International financial anarchy
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/international-financial-anarchy'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Gold's lack of a managing entity makes it inherently more volatile than
@@ -60,6 +48,12 @@ stance: >-
   A gold-based international financial system would be more volatile and
   disruptive than the dollar-based system because no large trustworthy entity
   manages gold's price, making it subject to rapid destabilizing swings.
+related:
+  - INS-260330-6411
+  - INS-260403-24AE
+  - INS-260403-9149
+  - INS-260404-FB91
+  - INS-260322-F6AA
 ---
 Goldbugs argue that gold's natural scarcity and independence from central bank interference make it inherently stable. But the opposite is true — the absence of a large, trustworthy price-managing entity means gold is subject to rapid price swings, as demonstrated by sharp selloffs even during peak uncertainty periods. If global payment and collateral systems were denominated in gold, those swings would propagate through the entire financial system.
 

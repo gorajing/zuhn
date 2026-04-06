@@ -17,42 +17,20 @@ tags:
 sources:
   - type: blog
     title: 'How to Value a Startup: VC Method + Free Excel Model'
-    author:
-      '@type': Organization
-      name: The VC Corner
-      url: 'https://www.thevccorner.com'
-      description: >-
-        The VC Corner is where founders stay ahead: sharp news, fundraising
-        strategies, battle-tested playbooks, and the tools to grow.
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 100000
-      identifier: 'pub:2125183'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png
+    author: >-
+      {"@type":"Organization","name":"The VC
+      Corner","url":"https://www.thevccorner.com","description":"The VC Corner
+      is where founders stay ahead: sharp news, fundraising strategies,
+      battle-tested playbooks, and the tools to
+      grow.","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":100000},"identifier":"pub:2125183","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!Xw3W!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb52d93c-b13a-4606-b7bd-586083162903_599x599.png"}}
     url: >-
       https://www.thevccorner.com/p/venture-capital-valuation-method-excel-template
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The projected exit value — typically revenue times a comparable company
@@ -79,6 +57,12 @@ stance: >-
   Small changes in exit multiple assumptions (e.g., 8x vs 12x ARR) produce
   larger valuation swings than any other variable in the VC Method, making
   comparable selection the highest-leverage negotiation point
+related:
+  - INS-260403-E503
+  - INS-260404-25FF
+  - INS-260403-F4AC
+  - INS-260403-1EE4
+  - INS-260404-51A2
 ---
 In the VC Method formula, exit value is the numerator from which everything else derives. VCs typically estimate exit value using revenue forecasts multiplied by comparable company multiples (e.g., 10x ARR for SaaS, different multiples for other industries). A shift from 8x to 12x ARR on the same revenue projection changes the exit value by 50%, which flows directly through to pre-money valuation.
 

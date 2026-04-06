@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Research estimates that caregivers let down about 50% of children, creating
@@ -49,13 +49,13 @@ stance: >-
   suboptimal caregiving, meaning anyone entering a relationship faces a
   coin-flip probability of encountering attachment wounds in their partner.
 related:
+  - INS-260326-8B81
   - INS-260325-D994
   - INS-260325-88DF
   - INS-260325-88A7
-  - INS-260325-45BC
   - PRI-260325-496E
   - INS-260325-086C
-  - INS-260326-8B81
+  - INS-260325-45BC
 ---
 De Botton cites research suggesting that roughly 50% of children develop attachment wounds from suboptimal caregiving. These wounds manifest as avoidant attachment (pulling away when intimacy deepens), anxious attachment (constant reassurance-seeking), or disorganized attachment (oscillating between approach and withdrawal).
 

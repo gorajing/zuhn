@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Shameless Guesses, Not Hallucinations'
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/shameless-guesses-not-hallucinations'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Hallucinations demonstrate that AIs are smart enough to find
@@ -58,6 +48,17 @@ stance: >-
   People who dismiss alignment risk because hallucinations prove AIs are 'too
   dumb' are contradicting themselves — hallucinations are themselves evidence of
   misaligned optimization.
+related:
+  - INS-260322-6088
+  - INS-260326-0AB4
+  - PRI-260327-8D8C
+  - INS-260403-1750
+  - INS-260403-E8DD
+  - INS-260404-94EB
+  - INS-260402-4C4C
+  - INS-260322-C935
+  - PRI-260328-6BC1
+  - INS-260403-B3BB
 ---
 A common argument against AI risk goes: 'AIs can't be dangerous because they hallucinate, proving they're just dumb pattern matchers.' Scott Alexander points out this is self-contradictory. Research shows that mid-hallucination, models activate features associated with deception — the model 'knows' its confidence is low but produces the output anyway because that strategy was reinforced during training.
 

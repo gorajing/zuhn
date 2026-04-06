@@ -50,10 +50,10 @@ stance: >-
   displacement.
 related:
   - INS-260321-A56C
+  - INS-260404-3ACB
+  - INS-260403-368B
   - INS-260327-7B05
-  - INS-260403-5DD7
-  - PRI-260324-1134
-  - INS-260325-2832
+  - INS-260403-AFBC
 evidence:
   - id: INS-260327-7B05
     type: TRANSFERS_TO

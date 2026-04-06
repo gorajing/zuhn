@@ -53,11 +53,11 @@ stance: >-
   wealth gap than the difference between earning 10% and 15% annual returns,
   making time-in-market the most undervalued variable in personal finance.
 related:
-  - INS-260328-C2CB
   - INS-260329-28B0
+  - INS-260403-6F9C
+  - INS-260328-C2CB
   - INS-260323-E9E4
   - INS-260327-D77C
-  - INS-260329-CC75
 evidence:
   - id: INS-260328-C2CB
     type: TRANSFERS_TO

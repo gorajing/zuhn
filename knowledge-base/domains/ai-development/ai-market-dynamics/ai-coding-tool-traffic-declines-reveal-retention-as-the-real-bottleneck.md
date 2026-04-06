@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "OpenAI’s SaaS Era Begins\U0001F525, State of AI Report\U0001F916, The Vibe Coding Boom Hits a Reality Check\U0001F4C9"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/openais-saas-era-begins-state-of'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Top AI coding tools are seeing traffic declines, forcing startups to rework
@@ -56,6 +46,16 @@ stance: >-
   The vibe coding boom's traffic decline proves that AI coding tools have a
   retention problem, not an adoption problem, and startups that solve sticky
   daily workflows will win over those optimizing for viral demos.
+related:
+  - INS-260330-7C24
+  - INS-260403-8EF3
+  - INS-260403-4819
+  - INS-260405-C1E4
+  - INS-260404-9D14
+  - INS-260403-2B09
+  - INS-260405-3061
+  - INS-260325-EE14
+  - INS-260330-5747
 ---
 After a year of explosive ARR growth, leading AI coding tools are experiencing traffic declines that expose a fundamental product challenge: converting initial excitement into habitual daily use. The 'vibe coding' wave brought massive trial adoption, but users who tried AI coding for novelty are churning when it doesn't reliably improve their actual workflow.
 

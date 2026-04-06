@@ -62,8 +62,6 @@ stance: >-
   competitors using superior but rarer alternatives
 related:
   - INS-260325-0A8A
-  - INS-260325-722C
-  - INS-260330-0027
   - INS-260330-0B4A
   - INS-260405-C497
   - INS-260405-F20F

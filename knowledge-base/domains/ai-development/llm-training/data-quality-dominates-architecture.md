@@ -20,15 +20,12 @@ sources:
     author: u/unknown
 related:
   - INS-260320-2DDE
+  - INS-260320-C65B
   - PRI-260320-3032
   - INS-260326-163A
+  - INS-260403-1F1B
+  - INS-260405-9DF9
   - PRI-260323-BA94
-  - PRI-260328-5CDE
-  - INS-260329-9115
-  - INS-260323-4E12
-  - INS-260320-C65B
-  - INS-260329-7255
-  - INS-260329-003B
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
@@ -56,11 +53,11 @@ stance: >-
   performance
 evidence:
   - id: INS-260326-163A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E208
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-003B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 
 The Smol Training Playbook from HuggingFace's pre-training team --

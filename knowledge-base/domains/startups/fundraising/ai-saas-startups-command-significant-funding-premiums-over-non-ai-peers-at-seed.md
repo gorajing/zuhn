@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Barriers to Entry in VC\U0001F6A7, Rise of the AI Wrappers\U0001F916, Google's AI Future Report \U0001F52E"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/barriers-to-entry-in-vc-rise-of-the'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI SaaS startups raise 41% more at seed than non-AI peers, while solo
@@ -59,6 +49,17 @@ resolutions:
 stance: >-
   AI-native SaaS startups raise 41% more at seed stage than traditional SaaS,
   reflecting investor belief that AI creates winner-take-most dynamics early
+related:
+  - INS-260327-1393
+  - INS-260327-8D86
+  - INS-260330-5EB6
+  - INS-260403-0530
+  - INS-260403-31C2
+  - INS-260403-C1D2
+  - INS-260403-8B68
+  - INS-260403-6E4C
+  - INS-260404-EFA0
+  - INS-260403-6694
 ---
 The 41% funding premium for AI SaaS startups at seed stage reveals how investor sentiment shapes market structure. This premium exists because VCs believe AI-native companies can achieve faster growth trajectories and potentially winner-take-most dynamics in their categories. The premium effectively gives AI founders more runway and resources to capture markets before competitors.
 

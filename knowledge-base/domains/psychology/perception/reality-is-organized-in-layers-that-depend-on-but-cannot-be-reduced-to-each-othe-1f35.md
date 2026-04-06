@@ -49,13 +49,11 @@ stance: >-
   chemistry, biology — that genuinely depend on each other but must each be
   studied on their own terms to be understood.
 related:
-  - INS-260325-5ACA
   - INS-260330-6E61
+  - INS-260325-6A2C
   - INS-260323-8519
   - INS-260330-B5D2
   - INS-260325-F21D
-  - INS-260330-42DE
-  - INS-260327-77E5
   - INS-260403-BF09
 evidence:
   - id: INS-260323-8519

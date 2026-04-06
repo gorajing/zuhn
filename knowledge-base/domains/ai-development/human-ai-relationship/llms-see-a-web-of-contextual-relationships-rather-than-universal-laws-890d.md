@@ -47,17 +47,17 @@ stance: >-
   universal rules.
 related:
   - INS-260329-6A26
-  - INS-260325-0A81
   - INS-260329-7B2D
   - INS-260326-3B43
   - PRI-260321-AD44
+  - INS-260320-E6DD
 evidence:
   - id: INS-260325-82E8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7B2D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260326-3B43
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Traditional science and computing try to reduce the world into clean universal laws: if X is true, Y will happen. LLMs instead process a dense web of causal relationships between different parts of the world that all come together in unique, context-specific ways to produce what comes next.
 

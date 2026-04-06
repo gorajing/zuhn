@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: Is India the Next Economic Giant?'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-is-india-the-next-economic'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Narrow signals like startup deal flow are necessary but insufficient for
@@ -59,6 +49,16 @@ stance: >-
   Understanding how all structural pieces of an emerging economy fit together
   produces better investment timing than tracking any single indicator like
   startup funding momentum.
+related:
+  - INS-260404-C6AB
+  - INS-260404-943E
+  - INS-260404-A893
+  - INS-260402-EEDB
+  - INS-260403-8EE8
+  - INS-260405-6EE5
+  - INS-260405-931E
+  - INS-260404-109D
+  - INS-260403-8FD7
 ---
 Chamath reflects that focusing on narrow aspects like startup momentum in India was 'necessary but insufficient' for investment success. His 2016 bets on India around UPI launch didn't pay off despite the thesis being correct, because the broader structural conditions weren't yet aligned.
 

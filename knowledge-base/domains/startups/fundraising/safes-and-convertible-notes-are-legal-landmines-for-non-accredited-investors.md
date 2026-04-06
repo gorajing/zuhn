@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Friends & Family Funding: The Startup Founder’s Guide'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/friends-and-family-funding-guide'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     SAFEs and convertible notes are securities instruments that legally require
@@ -59,6 +49,12 @@ stance: >-
   Founders who use SAFEs or convertible notes with non-accredited friends and
   family investors are creating securities law violations that can force them to
   unwind the entire round later.
+related:
+  - INS-260404-4682
+  - INS-260403-A6F1
+  - INS-260403-5151
+  - INS-260403-A057
+  - INS-260403-9D7C
 ---
 Most startup advice pushes SAFEs as the default fundraising instrument because they defer valuation and are founder-friendly. But this advice breaks down for friends-and-family rounds where most investors are non-accredited (under $200K income or $1M net worth). In the U.S., offering securities to non-accredited investors without proper exemptions or disclosures can expose founders to legal liability, force round unwinding, and scare off future institutional investors.
 

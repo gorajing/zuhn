@@ -53,24 +53,24 @@ stance: >-
   China's output in 2001 to China having double the US output today — represents
   the most consequential economic power shift of the 21st century.
 related:
+  - INS-260403-2FB2
   - INS-260403-5D89
   - INS-260403-D543
-  - INS-260330-1608
   - INS-260330-D63C
   - INS-260327-D1B7
 evidence:
   - id: INS-260323-9BC8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8A87
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D63C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-A44F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D543
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-5D89
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Ferguson highlights a single statistic that reframes the entire geopolitical picture: in 2001 when China entered the WTO, American manufacturing value-added was more than twice China's. Today, China's manufacturing value-added is more than twice that of the United States. On a purchasing power parity basis, China's economy has been larger than the US economy for at least eight years.
 

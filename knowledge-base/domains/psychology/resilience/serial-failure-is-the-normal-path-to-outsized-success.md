@@ -48,37 +48,37 @@ stance: >-
   the expected distribution of entrepreneurial outcomes, because each failure
   builds irreplaceable pattern-matching ability.
 related:
-  - INS-260325-0C4A
   - INS-260323-5F8A
   - INS-260323-46F8
   - INS-260323-FDB8
   - INS-260327-A75B
   - INS-260327-7846
-  - INS-260329-D357
   - INS-260329-EF89
-  - INS-260402-2B96
   - INS-260403-3DF3
+  - INS-260402-2B96
+  - INS-260402-27A1
+  - INS-260404-9A25
 evidence:
   - id: INS-260325-0C4A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-5F8A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-46F8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-FDB8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-A75B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3D3E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-EF89
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2B96
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-27A1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-CD65
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-3DF3
     type: REFINES
     classified_at: '2026-04-06'

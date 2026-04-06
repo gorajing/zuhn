@@ -44,12 +44,13 @@ stance: >-
   regional seed funds partition applicants by quality rather than geography,
   rendering local ecosystem-building through small grants nearly useless.
 related:
-  - INS-260330-7DA5
   - INS-260403-C381
+  - INS-260404-DE04
   - INS-260403-CA93
-  - INS-260403-5B46
-  - INS-260403-37FD
-  - INS-260403-0680
+  - INS-260404-9B51
+  - INS-260403-E407
+  - INS-260403-1F3F
+  - INS-260403-56FC
 evidence:
   - id: INS-260402-180C
     type: CHALLENGES

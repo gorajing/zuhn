@@ -45,15 +45,13 @@ stance: >-
   macroeconomic timing is effectively irrelevant to startup outcomes.
 related:
   - INS-260321-E654
-  - INS-260327-DD1D
   - INS-260402-7B69
-  - INS-260403-472E
   - INS-260403-64D0
-  - INS-260403-F66F
-  - INS-260403-862E
   - INS-260403-4A2F
-  - PRI-260328-C918
-  - INS-260327-80A8
+  - INS-260405-45E0
+  - INS-260405-6342
+  - INS-260403-862E
+  - INS-260403-4227
 evidence:
   - id: INS-260403-472E
     type: CHALLENGES

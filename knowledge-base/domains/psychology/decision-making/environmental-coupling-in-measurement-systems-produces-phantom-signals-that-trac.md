@@ -48,11 +48,12 @@ stance: >-
   exhibit rhythmic patterns that mimic real phenomena but actually reflect
   measurement artifact.
 related:
+  - INS-260327-6F94
   - INS-260330-DBA4
   - INS-260330-ED04
   - PRI-260328-B115
   - INS-260330-8AE8
-  - INS-260330-CA97
+  - INS-260323-0919
 evidence:
   - id: INS-260330-8AE8
     type: TRANSFERS_TO

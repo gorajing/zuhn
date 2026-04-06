@@ -48,10 +48,12 @@ stance: >-
   problems at all.
 related:
   - INS-260325-13B9
+  - INS-260405-D20A
+  - INS-260404-F970
   - INS-260329-E0DE
-  - INS-260330-A3AF
-  - INS-260403-AA0B
+  - INS-260405-ECCD
   - INS-260323-4082
+  - INS-260403-AAA6
 evidence:
   - id: INS-260329-E0DE
     type: TRANSFERS_TO

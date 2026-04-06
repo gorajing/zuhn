@@ -51,12 +51,10 @@ related:
   - INS-260325-C2BD
   - INS-260325-BAA4
   - INS-260330-4D9D
-  - INS-260330-6D13
   - INS-260403-7E8E
   - PRI-260328-82A2
   - INS-260403-45E3
-  - INS-260403-D463
-  - INS-260403-DA14
+  - INS-260403-6861
 ---
 Graham observes that whenever a society develops a concept of heresy and orthodoxy, orthodoxy becomes a substitute for virtue. You can be a terrible person but as long as you follow the rules you outrank those who don't. This makes orthodoxy magnetically attractive to bad actors.
 

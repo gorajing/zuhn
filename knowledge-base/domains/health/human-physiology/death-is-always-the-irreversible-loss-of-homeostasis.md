@@ -49,23 +49,23 @@ related:
   - INS-260330-332E
   - INS-260403-7471
   - INS-260405-D6E6
-  - INS-260403-87BE
   - INS-260330-F82A
+  - INS-260330-E68E
 evidence:
   - id: INS-260330-F82A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E68E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-ED37
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D4CC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7471
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-D6E6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-3673
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Homeostasis — the maintenance of stable internal conditions — is the single unifying requirement for life. Blood pressure, oxygen delivery, temperature, nutrient balance, and waste removal must all stay within narrow ranges. When any of these systems fails beyond recovery, the cascade is identical: cells lose access to energy processing, and death follows.
 

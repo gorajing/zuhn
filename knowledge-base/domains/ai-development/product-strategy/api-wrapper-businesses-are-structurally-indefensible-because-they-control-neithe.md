@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: How to Build AI Product Strategy (By OpenAI’s Product Lead)
-    author:
-      - '@type': Person
-        name: Miqdad Jaffer
-        url: 'https://substack.com/@miqdadjaffer'
-        description: Product Lead @ OpenAI | EIR @ Product Faculty
-        identifier: 'user:277704439'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
+    author: Miqdad Jaffer
     url: 'https://www.thevccorner.com/p/ai-product-strategy-openai-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When your entire product depends on a third-party API, you don't control
@@ -57,6 +47,17 @@ resolutions:
 stance: >-
   AI startups built primarily as API wrappers around foundation models will die
   because they have zero control over their core value chain.
+related:
+  - INS-260324-1CC8
+  - INS-260327-3DE7
+  - INS-260327-AB2A
+  - INS-260329-6E0F
+  - INS-260403-E3CC
+  - INS-260323-1D15
+  - PRI-260405-6216
+  - INS-260403-43B9
+  - INS-260327-FA43
+  - INS-260322-22D0
 ---
 Most early AI startups are API wrappers relying 100% on OpenAI, Anthropic, or another foundation model provider. This is fine for a prototype but fatal for a company. You don't control pricing (rate increases collapse your margins), performance (latency or downtime breaks your product), or differentiation (the same API is available to everyone).
 

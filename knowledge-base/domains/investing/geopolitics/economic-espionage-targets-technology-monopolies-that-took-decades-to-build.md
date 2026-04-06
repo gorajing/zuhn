@@ -48,9 +48,10 @@ related:
   - INS-260330-66C7
   - PRI-260324-3AAE
   - INS-260327-10C9
-  - PRI-260328-06F1
+  - INS-260403-5A4C
   - INS-260323-D2CF
   - INS-260402-1F58
+  - INS-260403-504D
 stance: >-
   State-sponsored espionage concentrates on technologies where incumbents hold
   multi-decade monopolies, particularly jet engines and aerospace

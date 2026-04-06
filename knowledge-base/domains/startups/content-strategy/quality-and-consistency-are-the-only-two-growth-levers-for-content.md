@@ -16,26 +16,14 @@ tags:
 sources:
   - type: blog
     title: '500,000'
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/500000'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Growth comes from publishing valuable content people want to share,
@@ -59,6 +47,17 @@ resolutions:
 stance: >-
   Newsletter growth is almost entirely explained by publishing valuable content
   consistently, not by design, branding, strategy documents, or growth hacks.
+related:
+  - INS-260320-9935
+  - INS-260323-D6F2
+  - INS-260322-8299
+  - INS-260327-415B
+  - INS-260327-FEB7
+  - INS-260329-BC11
+  - INS-260329-B1A1
+  - INS-260329-764E
+  - INS-260330-B91E
+  - INS-260330-ACDA
 ---
 Lenny Rachitsky grew to 500K subscribers without tricks — his core thesis is that quality plus consistency explains nearly all content growth. He observes that 99% of content is mediocre, so the bar to stand out is achievable through sheer effort. He spends a median of 10 hours per post, with some taking hundreds, and sees a strong correlation between time invested and performance.
 

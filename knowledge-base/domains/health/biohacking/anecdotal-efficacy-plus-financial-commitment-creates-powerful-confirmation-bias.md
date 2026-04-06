@@ -50,7 +50,6 @@ related:
   - INS-260322-E7E9
   - PRI-260323-8EEA
   - INS-260327-5107
-  - INS-260327-D37F
 stance: >-
   Cardiologist Eric Topol warns that paying hundreds of dollars per shot creates
   strong confirmation bias

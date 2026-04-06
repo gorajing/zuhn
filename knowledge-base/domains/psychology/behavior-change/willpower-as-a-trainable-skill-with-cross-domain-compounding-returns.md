@@ -46,7 +46,6 @@ stance: >-
   Willpower improvement in one life domain transfers to and compounds across all
   other domains, making it the highest-leverage personal development investment
 related:
-  - INS-260320-F8FD
   - INS-260325-EF79
   - INS-260323-3E21
   - INS-260327-DC0B
@@ -56,6 +55,7 @@ related:
   - INS-260330-B5D6
   - INS-260403-5D81
   - PRI-260328-39FA
+  - INS-260403-C501
 evidence:
   - id: INS-260325-EF79
     type: TRANSFERS_TO

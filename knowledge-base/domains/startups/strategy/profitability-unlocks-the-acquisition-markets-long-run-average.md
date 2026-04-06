@@ -47,11 +47,10 @@ stance: >-
   prerequisite for optimal exit timing.
 related:
   - INS-260329-196A
-  - INS-260403-E185
   - INS-260403-1AE5
-  - INS-260402-9288
-  - INS-260322-3646
-  - INS-260330-809A
+  - INS-260403-D70C
+  - INS-260404-A53F
+  - INS-260403-53A4
 evidence:
   - id: INS-260329-196A
     type: TRANSFERS_TO

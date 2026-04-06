@@ -48,10 +48,10 @@ stance: >-
   AI.
 related:
   - INS-260327-AEF6
-  - INS-260403-4E16
   - INS-260403-4501
   - INS-260405-2DC0
+  - INS-260403-4E16
   - INS-260329-903B
-  - INS-260403-754F
+  - INS-260403-3A44
 ---
 During an ICU round, David's co-founder pointed at the EHR and said 'we communicate through this thing' — revealing that providers use a billing and documentation system as their primary communication tool because nothing better exists. The EHR looks like Windows 95 software and cannot surface real-time contextual information during patient encounters without millions in customization budget. David's insight is that the EHR gap isn't a feature request — it's a category creation opportunity. The company built a real-time clinical intelligence layer that sits on top of EHRs, surfacing patient context during encounters while also building the longitudinal social and cultural understanding that flat EHR records cannot capture. This pattern of 'find the tool everyone uses for a purpose it wasn't designed for' applies broadly as a startup ideation heuristic.

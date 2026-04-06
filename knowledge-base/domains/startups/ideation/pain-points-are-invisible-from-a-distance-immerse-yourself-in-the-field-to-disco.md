@@ -57,6 +57,8 @@ related:
   - INS-260403-08E6
   - INS-260405-A2A2
   - INS-260327-B12E
+  - INS-260403-902F
+  - INS-260403-C1C4
 stance: >-
   You cannot discover real customer pain points remotely — physical immersion in
   your users' environment reveals needs that surveys and interviews miss.

@@ -18,12 +18,13 @@ sources:
     title: Building the Zuhn knowledge base — lessons from Phase 1-5
     author: Jin Choi + Claude
 related:
-  - INS-260329-AB61
   - INS-260320-8FFC
+  - PRI-260320-467A
+  - INS-260405-1CAA
+  - INS-260404-21E6
+  - INS-260405-11EA
   - INS-260327-956D
   - INS-260322-F46F
-  - INS-260405-1CAA
-  - PRI-260320-467A
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
@@ -55,13 +56,13 @@ stance: >-
   remain disposable artifacts
 evidence:
   - id: INS-260329-D868
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-956D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-F46F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-1CAA
-    relationship: RELATED
+    type: SUPPORTS
 ---
 
 Markdown files are the source of truth. SQLite database, indices, mindmap,

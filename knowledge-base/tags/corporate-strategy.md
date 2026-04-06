@@ -2,6 +2,7 @@
 
 - `INS-260327-7265` Every tech hype cycle is sustained by Fortune 500 executives who can't afford to be caught without a strategy -- no CEO wanted to admit they weren't 'data-driven' during big data, and now no CEO dares say they don't have an 'AI strategy.'
 - `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
+- `INS-260405-E2F2` Companies invest in OSS to influence standards, attract developers, and commoditize competitors' advantages.
 - `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
 - `INS-260403-04C9` McDonald's rejected a 2015 investor proposal to spin off its real estate into a REIT, arguing that the integration of food operations and property ownership is what makes both sides work.
 - `INS-260330-C761` When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.

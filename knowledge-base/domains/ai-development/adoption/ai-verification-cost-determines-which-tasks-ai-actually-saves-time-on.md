@@ -45,28 +45,29 @@ resolutions:
     pass: does using AI plus verification cost less than just doing the task
     manually?
 related:
-  - INS-260325-FDA9
-  - INS-260329-277B
-  - INS-260330-74A0
-  - INS-260329-3739
-  - PRI-260321-14D8
   - INS-260321-4280
   - INS-260327-6C54
+  - INS-260330-74A0
   - INS-260403-F4F6
+  - INS-260325-FDA9
+  - INS-260403-E4B3
+  - INS-260329-3739
+  - PRI-260321-14D8
+  - INS-260403-5953
 stance: AI only saves time when verification is cheaper than doing the task manually
 evidence:
   - id: INS-260329-6E0F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-74A0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3739
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-4280
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-6C54
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-F4F6
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Evans proposes a practical framework for evaluating AI utility: the cost of verifying AI output must be lower than the cost of doing the task yourself. Marketing use cases pass this test — having AI generate 200 images and picking 10 good ones is far more efficient than humans making 10 images. But data entry fails — if you must check all 200 numbers the AI copied from PDFs, you might as well do it yourself.
 

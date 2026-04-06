@@ -39,11 +39,11 @@ stance: >-
   cause: a food supply dominated by seed oils and processed ingredients requires
   policy-level intervention not just healthcare spending
 related:
+  - INS-260405-ECD2
   - INS-260327-7B05
   - INS-260405-85B5
   - INS-260327-CE05
   - INS-260327-BF59
-  - PRI-260328-1545
 evidence:
   - id: INS-260327-7B05
     type: SUPPORTS

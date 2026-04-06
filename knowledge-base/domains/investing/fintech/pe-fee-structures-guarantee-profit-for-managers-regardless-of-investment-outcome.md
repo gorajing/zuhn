@@ -49,20 +49,20 @@ stance: >-
   guarantee substantial income for PE managers even when investments perform
   poorly, creating a structural misalignment with investor interests.
 related:
-  - INS-260325-1407
-  - INS-260323-C370
   - PRI-260328-8993
-  - INS-260404-E39D
-  - INS-260405-8884
+  - INS-260403-032B
+  - INS-260323-C370
+  - INS-260403-E2DE
+  - INS-260325-1407
 evidence:
   - id: INS-260329-49A4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E44D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-CDB9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-8884
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The standard PE fee structure (2% annual management fee + 20% of gains above hurdle) guarantees substantial revenue regardless of performance. A $10B fund generates $200M annually in management fees before a single investment is made. This makes fundraising (increasing assets under management) more profitable than investing well.
 

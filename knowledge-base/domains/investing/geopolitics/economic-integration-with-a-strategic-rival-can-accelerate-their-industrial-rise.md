@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: China’s Global Strategy and Power Balance'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-chinas-global-strategy'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Granting a rival access to your market can fund their industrial buildup
@@ -65,6 +55,13 @@ stance: >-
   The US bet that WTO accession would liberalize China, but instead market
   access gave China the inputs to build industrial dominance through currency
   manipulation, IP theft, and state subsidies.
+related:
+  - INS-260327-5D01
+  - INS-260403-6570
+  - INS-260403-C0FE
+  - INS-260404-A520
+  - PRI-260324-5F05
+  - PRI-260328-A4AC
 ---
 The 2001 WTO accession decision rested on a liberalization hypothesis: that market access and economic interdependence would open China's economy and moderate its authoritarian government. Neither happened. China used market access to build industrial capacity through three mechanisms the WTO rules were intended to prohibit: currency manipulation, intellectual property theft, and massive state subsidies.
 

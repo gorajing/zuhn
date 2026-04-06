@@ -51,10 +51,10 @@ stance: >-
   acquisition but by the sophistication of trust mechanisms between strangers.
 related:
   - INS-260327-5DD2
+  - INS-260403-B0E3
   - INS-260330-1854
+  - INS-260403-B18C
   - INS-260330-7FFE
-  - PRI-260328-43F1
-  - INS-260321-8414
 evidence:
   - id: INS-260321-8414
     type: TRANSFERS_TO

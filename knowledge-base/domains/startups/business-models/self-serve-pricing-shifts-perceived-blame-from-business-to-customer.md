@@ -44,10 +44,10 @@ stance: >-
   directly, because customers blame themselves for overspending.
 related:
   - INS-260321-AA91
+  - INS-260403-B53B
+  - INS-260403-0F72
   - INS-260403-754F
   - INS-260322-FCFC
-  - PRI-260405-548B
-  - INS-260325-040F
 evidence:
   - id: INS-260329-67D1
     type: REFINES

@@ -45,13 +45,13 @@ stance: >-
   Later investors rationally deserve lower returns because they took less risk,
   but investor indignation at price increases often outweighs economic logic.
 related:
-  - INS-260322-03DD
-  - INS-260322-A31D
   - INS-260330-9B90
+  - INS-260403-A07A
   - INS-260403-4960
+  - INS-260322-A31D
   - INS-260404-2250
   - PRI-260403-26B9
-  - INS-260403-47B7
+  - INS-260403-839E
 evidence:
   - id: INS-260322-03DD
     type: SUPPORTS

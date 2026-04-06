@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'AI Search & SEO in 2025: How to Stay Visible in the New Era'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-generated-search-seo-strategy'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     HubSpot lost millions of visits and Chegg's stock tanked because AI can now
@@ -57,6 +47,13 @@ resolutions:
 stance: >-
   Companies whose content strategy depends on ranking for generic informational
   queries will lose the majority of that traffic to AI-generated answers
+related:
+  - INS-260322-D7B1
+  - INS-260330-629E
+  - INS-260327-9DA6
+  - INS-260403-FFF0
+  - INS-260327-D0F4
+  - INS-260330-930D
 ---
 HubSpot's strategy of publishing massive volumes of blog posts targeting high-volume keywords—even topics unrelated to their core product—worked for years. But when Google's algorithm updates began favoring people-first content and AI summaries started answering simple queries directly, their traffic plummeted. The content that buried answers under SEO padding and long intros was exactly what AI filters out.
 

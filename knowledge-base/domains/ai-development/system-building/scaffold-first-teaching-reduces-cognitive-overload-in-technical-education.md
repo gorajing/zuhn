@@ -42,35 +42,36 @@ stance: >-
   effective for beginners than front-loading every concept before writing any
   code
 related:
-  - INS-260329-9CED
-  - INS-260329-70D5
   - INS-260329-7EFD
-  - INS-260329-DD0F
+  - INS-260329-40B6
   - INS-260329-F20E
-  - INS-260329-B6A6
+  - INS-260329-3177
+  - INS-260329-9CED
   - INS-260329-E402
   - INS-260330-E47D
-  - INS-260329-3177
+  - PRI-260405-71C5
+  - INS-260329-F969
+  - INS-260329-70D5
 evidence:
   - id: INS-260329-9CED
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-70D5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7EFD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-DD0F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-40B6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F20E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-72D5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-E402
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E47D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0143
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial deliberately has beginners write inside a Main method surrounded by namespaces, classes, and using statements they don't yet understand. This 'trust the scaffold' approach lets students see output (Console.WriteLine) within minutes rather than spending the first hour on theory. The payoff comes later when OOP concepts are introduced — students already have muscle memory with the patterns, so the explanation clicks faster. This mirrors effective onboarding in complex systems: give people a working template first, explain the architecture after they've built confidence through small wins.

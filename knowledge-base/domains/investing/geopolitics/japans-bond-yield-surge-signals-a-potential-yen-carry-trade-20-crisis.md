@@ -21,24 +21,14 @@ sources:
     title: >-
       WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B
       Valuation
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-162'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Japan's 21.3 trillion yen stimulus package has pushed JGB yields to
@@ -65,6 +55,12 @@ stance: >-
   Japan's combination of record stimulus spending, rising bond yields, and a
   weakening yen is creating conditions for a second carry trade unwinding that
   could cascade through global equity and bond markets
+related:
+  - INS-260405-AE75
+  - INS-260403-EC09
+  - INS-260403-0A91
+  - INS-260403-2151
+  - INS-260403-8194
 ---
 Japan's new PM Sanae Takaichi pushed through a 21.3 trillion yen ($135.4B) stimulus package — the largest since COVID — sending long-dated JGB yields to their highest levels since the 2008 financial crisis and the yen to 10-month lows. This mirrors the conditions that preceded the July 2024 carry trade unwinding, when the BoJ's surprise rate hike forced rapid liquidation of the multi-trillion dollar yen carry trade.
 

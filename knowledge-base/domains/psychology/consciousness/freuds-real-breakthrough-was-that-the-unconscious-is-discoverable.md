@@ -49,8 +49,8 @@ stance: >-
   technique.
 related:
   - INS-260330-6D5C
-  - INS-260330-909E
   - INS-260330-0FBF
+  - INS-260330-909E
   - PRI-260324-1134
   - INS-260330-BCC7
 ---

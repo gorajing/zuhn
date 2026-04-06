@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Non-Dilutive Funding: How Startups Grow Without Equity Loss'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/non-dilutive-funding-startups'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Crowdfunding uniquely combines fundraising with demand validation — a
@@ -59,6 +49,17 @@ stance: >-
   Crowdfunding platforms serve as dual-purpose tools that validate market demand
   while raising capital, making them superior to grants or loans for
   product-based startups that need proof of customer interest
+related:
+  - INS-260323-35D4
+  - INS-260322-2155
+  - INS-260320-F751
+  - INS-260402-E522
+  - INS-260403-FBF0
+  - INS-260404-1CBC
+  - INS-260404-3CBE
+  - INS-260403-A3DA
+  - INS-260403-6F75
+  - INS-260403-A9C9
 ---
 Among non-dilutive options, crowdfunding (Kickstarter, Indiegogo) occupies a unique niche because it simultaneously raises capital and validates market demand. Pebble Technology raising $10M+ on Kickstarter didn't just fund their smartwatch — it proved a massive customer base existed before manufacturing began. No grant, loan, or RBF arrangement provides this dual signal.
 

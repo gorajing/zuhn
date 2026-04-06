@@ -55,7 +55,6 @@ related:
   - INS-260329-D3D9
   - INS-260330-D61A
   - INS-260329-A077
-  - INS-260403-0B99
 stance: >-
   The moment you decide you are too embarrassed to try something new, you stop
   learning

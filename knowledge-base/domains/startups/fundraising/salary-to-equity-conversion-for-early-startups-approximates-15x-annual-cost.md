@@ -46,11 +46,11 @@ stance: >-
   In fast-growing startups, the present-value stock cost of a hire's salary
   equals roughly 1.5 years of current compensation.
 related:
+  - INS-260403-09E8
+  - INS-260403-EA01
   - INS-260403-85DE
-  - INS-260327-2430
-  - INS-260330-7346
-  - INS-260330-7E58
-  - INS-260327-D480
+  - INS-260404-E061
+  - INS-260330-EBF6
 evidence:
   - id: INS-260330-EBF6
     type: EXTENDS

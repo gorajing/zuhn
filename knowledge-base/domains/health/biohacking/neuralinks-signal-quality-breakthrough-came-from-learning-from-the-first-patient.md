@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Neuralink's 21 Telepathy Trials in 2 Years
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-171'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Neuralink improved signal quality in 18 of 20 cases by incorporating lessons
@@ -56,6 +46,12 @@ resolutions:
 stance: >-
   Iterative clinical learning from early BCI patients will compress the timeline
   for brain-computer interfaces faster than lab-only R&D ever could
+related:
+  - INS-260404-1E65
+  - INS-260403-99D1
+  - INS-260321-1A0B
+  - INS-260403-B835
+  - INS-260330-D5DD
 ---
 Neuralink's expansion from 1 to 21 human trial participants revealed that real-world surgical data from the first patient (Noland) was more valuable than years of animal testing for improving outcomes. Signal quality improved in 18 of 20 subsequent cases, demonstrating that brain-computer interfaces benefit enormously from iterative clinical feedback loops.
 

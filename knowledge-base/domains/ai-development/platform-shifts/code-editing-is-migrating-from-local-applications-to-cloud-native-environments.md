@@ -47,11 +47,11 @@ stance: >-
   will eventually replace local code editors for most professional development
   workflows.
 related:
+  - INS-260405-3805
+  - INS-260403-83F3
+  - INS-260403-699A
   - INS-260403-8256
-  - INS-260330-BF8F
-  - INS-260330-7E4F
-  - INS-260327-25D7
-  - INS-260403-E59C
+  - INS-260327-26BF
 evidence:
   - id: INS-260330-BF8F
     type: SUPPORTS

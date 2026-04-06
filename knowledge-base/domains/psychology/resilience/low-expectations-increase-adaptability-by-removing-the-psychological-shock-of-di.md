@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/jensen-huang-work-ethic-nvidia'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Expecting difficulty as the default state prevents the psychological
@@ -60,6 +50,15 @@ resolutions:
 stance: >-
   Leaders who assume friction as their baseline adapt faster to setbacks than
   those who expect smooth progress, because difficulty never surprises them
+related:
+  - INS-260327-088D
+  - INS-260329-D481
+  - INS-260330-9197
+  - INS-260402-62E3
+  - INS-260403-6CE8
+  - INS-260330-579B
+  - PRI-260323-2C5C
+  - INS-260323-244C
 ---
 Huang argues that low expectations are a strategic advantage because they remove the psychological shock of difficulty. Leaders who expect smooth progress fracture when reality pushes back — they interpret friction as failure rather than as the normal texture of ambitious work. Leaders who assume friction as baseline adjust faster because their mental model already accounts for resistance.
 

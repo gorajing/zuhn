@@ -48,23 +48,23 @@ stance: >-
 related:
   - INS-260329-F20E
   - INS-260329-9CCF
-  - INS-260329-27A3
-  - INS-260329-2349
-  - INS-260329-CD38
-  - INS-260329-5AC5
-  - INS-260329-9A58
-  - INS-260329-D75D
-  - INS-260329-0068
-  - INS-260329-2B9A
+  - INS-260329-656B
+  - INS-260329-820D
+  - INS-260329-E402
+  - INS-260403-B7FA
+  - PRI-260403-0509
+  - PRI-260405-71C5
+  - INS-260329-CC79
+  - INS-260329-32DB
 evidence:
   - id: INS-260329-2FEB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D75D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9A58
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-743D
     type: SUPPORTS
     classified_at: '2026-04-06'

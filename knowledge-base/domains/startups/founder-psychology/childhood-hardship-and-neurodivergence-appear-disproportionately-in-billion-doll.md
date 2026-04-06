@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "YC W26 DB\U0001F4B0, $1T Services Opportunity\U0001F916, How to Set Up Claude Cowork⚙️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/yc-w26-db-1t-services-opportunity'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Research on 25 young billion-dollar founders reveals that hardship and
@@ -60,6 +50,12 @@ stance: >-
   wide-ranging interests are overrepresented among founders who built $5B+
   companies by age 29, suggesting traditional hiring filters systematically
   reject high-potential founders.
+related:
+  - PRI-260328-B11D
+  - INS-260403-DC59
+  - INS-260403-6D4F
+  - INS-260404-8A02
+  - INS-260327-3349
 ---
 A study of 25 founders who built multi-billion dollar companies before age 30 found recurring patterns that conventional screening would reject: childhood hardship, neurodivergence, and eclectic rather than focused interests. This challenges the pattern-matching that dominates both venture capital and corporate hiring.
 

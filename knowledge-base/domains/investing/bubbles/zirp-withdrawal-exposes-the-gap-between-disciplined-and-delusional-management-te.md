@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 2022 Annual Letter
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/2022-annual-letter'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The end of zero interest rates forces a binary sort of companies into those
@@ -62,6 +52,12 @@ stance: >-
   Rising interest rates act as a truth serum that cleanly separates founders who
   built real businesses from those who relied on cheap capital to mask weak
   fundamentals.
+related:
+  - INS-260403-8DD4
+  - PRI-260328-BEDD
+  - PRI-260324-3081
+  - INS-260403-B73A
+  - INS-260403-E33B
 ---
 During ZIRP (2008-2022), cheap capital allowed companies to grow without regard to profitability, creating inflated valuations across tech, biotech, SPACs, and crypto. When the Fed raised rates from near-zero to ~5%, the mathematical reality hit: unprofitable companies' future cash flows get discounted more harshly, rendering many effectively valueless. This created a clear divide between management teams who 'found religion' — cutting costs and pursuing profitability — and those trying to avoid reality.
 

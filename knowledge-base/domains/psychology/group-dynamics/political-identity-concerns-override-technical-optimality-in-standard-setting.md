@@ -53,10 +53,10 @@ stance: >-
   compromises persist for centuries.
 related:
   - INS-260330-9EBA
+  - INS-260330-6CB7
   - INS-260330-C9A6
   - INS-260330-80AF
   - INS-260405-7305
-  - INS-260403-280B
 evidence:
   - id: INS-260405-7305
     type: TRANSFERS_TO

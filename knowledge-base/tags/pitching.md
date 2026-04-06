@@ -6,8 +6,10 @@
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
+- `INS-260403-DED8` Cuban says the biggest Shark Tank mistake is leading with the product instead of selling yourself — business is a human relationship first.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
 - `INS-260404-96C6` A sticky descriptive phrase is a survival necessity in investor pitches because the first filter is simply being remembered.
+- `INS-260404-3212` Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260405-5BD3` After seeing hundreds of pitches, investors' first filter is memory — a single sticky phrase ('the X of Y') determines whether you clear that bar.
 - `INS-260405-371F` Experienced investors are better at detecting bullshit than early founders are at producing it — candid rawness beats practiced polish.
@@ -18,10 +20,12 @@
 - `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260405-12E6` Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.
+- `INS-260403-E4C6` Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, while implicit confidence through demeanor is the strongest signal.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260404-896B` Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 - `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260405-44F5` Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.
+- `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 - `INS-260403-FC45` Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.

@@ -17,35 +17,14 @@ sources:
     title: >-
       How to build the perfect pitch deck: a step by step guide with examples
       and an analysis of my Airbnb's deck
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Hugo Rauch
-        url: 'https://substack.com/@hugorauchnewwave'
-        description: "\U0001F30A Hey, I’m Hugo, I’m the skipper of New Wave, Europe’s leading climate tech podcast. I’m investing €100k in two breakout climate startups per months."
-        identifier: 'user:49607346'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!L7MN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feae3c84e-9080-426a-80af-9f6e5a47bc68_1080x1080.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!L7MN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feae3c84e-9080-426a-80af-9f6e5a47bc68_1080x1080.png
+    author: 'Ruben Dominguez, Hugo Rauch'
     url: 'https://www.thevccorner.com/p/how-to-build-the-perfect-pitch-deck'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Investors must feel the problem, not just understand it, for the problem
@@ -72,6 +51,17 @@ stance: >-
   A pitch deck's problem slide succeeds only when investors emotionally
   empathize with the target customer's pain — rational description of the
   problem alone is insufficient to motivate investment.
+related:
+  - INS-260325-13B9
+  - INS-260325-1AD3
+  - INS-260323-3436
+  - INS-260327-6021
+  - INS-260328-9574
+  - INS-260330-2306
+  - INS-260403-AA0B
+  - INS-260403-260B
+  - INS-260403-EAF7
+  - INS-260403-36F0
 ---
 The problem slide has one job: make investors believe people will pay to have this problem solved. The mistake founders make is presenting a logical argument (market research, survey data, industry statistics) when what's needed is an emotional one. Investors need to step into the customer's shoes and feel the frustration, loss, or inefficiency.
 

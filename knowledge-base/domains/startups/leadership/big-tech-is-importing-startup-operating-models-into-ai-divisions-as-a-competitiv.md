@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: 'Meta Shrinks to Move Faster: Superintelligence Labs Explained'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-158'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Meta's explicit goal of making AI teams 'operate more like startups' signals
@@ -57,5 +47,16 @@ resolutions:
 stance: >-
   Incumbents that restructure AI teams to operate like internal startups will
   outpace those that apply traditional enterprise scaling to AI development
+related:
+  - INS-260322-88C3
+  - INS-260327-5CB6
+  - INS-260330-217C
+  - INS-260403-4E23
+  - INS-260403-407A
+  - INS-260403-24AE
+  - INS-260404-D149
+  - INS-260403-84E1
+  - INS-260403-8832
+  - INS-260403-3852
 ---
 Meta's Superintelligence Labs reorganization is not just a headcount optimization — it's a structural acknowledgment that the startup operating model (small team, fast iteration, minimal coordination overhead) is the correct one for frontier AI development. By bringing in founders like Alexandr Wang (Scale AI) and Nat Friedman (GitHub) to lead divisions, Meta is also importing founder-mode decision-making into what was previously a research-oriented culture. This reflects a broader pattern: the companies winning in AI are those that have the most startup-like internal units, regardless of overall company size. The inverse implication is that AI labs organized like traditional R&D departments — with large headcounts, multi-layer approvals, and academic publication cycles — will structurally lag behind on deployment speed.

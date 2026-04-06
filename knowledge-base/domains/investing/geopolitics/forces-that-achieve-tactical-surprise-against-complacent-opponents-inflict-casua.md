@@ -54,8 +54,8 @@ related:
   - INS-260327-719D
   - INS-260327-25C7
   - INS-260327-1107
+  - INS-260327-E7AC
   - INS-260327-5452
-  - INS-260327-AA3B
 ---
 General St. Clair's army was poorly trained, badly supplied, and utterly complacent about the Native American threat. When the confederated tribes attacked at dawn, the army was caught completely off guard. Soldiers couldn't form defensive positions, officers couldn't organize a response, and the result was near-total destruction: 97% casualties. The Native force was significantly outnumbered but achieved one of the most lopsided victories in military history through surprise.
 

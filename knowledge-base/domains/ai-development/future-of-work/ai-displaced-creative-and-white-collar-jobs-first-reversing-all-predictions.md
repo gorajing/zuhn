@@ -46,13 +46,12 @@ stance: >-
   AI disrupted high-skill creative and knowledge work before low-skill physical
   labor, the exact opposite of what experts predicted would happen.
 related:
-  - INS-260327-40D5
   - INS-260329-B062
   - INS-260323-FE69
   - INS-260327-2627
+  - INS-260327-40D5
   - INS-260327-41A9
   - INS-260402-0392
-  - INS-260403-DF37
 evidence:
   - id: INS-260327-40D5
     type: SUPPORTS

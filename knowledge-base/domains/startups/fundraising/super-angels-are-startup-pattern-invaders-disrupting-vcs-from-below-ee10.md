@@ -49,10 +49,10 @@ related:
   - INS-260402-6BB6
   - PRI-260405-E9C5
   - INS-260405-092A
+  - INS-260403-AB11
   - INS-260405-6DAD
-  - INS-260328-195E
-  - INS-260403-D882
-  - INS-260404-EF52
+  - INS-260405-6EE5
+  - INS-260404-C6AB
 ---
 As the startup landscape shifts from an obelisk (few startups, most surviving) to a pyramid (many startups, high early failure rate), the fastest-growing volume is at the earliest stages. But Graham observes that existing investors can't easily move to capture this — their risk tolerance is 'deeply imprinted' in procedures and personnel.
 

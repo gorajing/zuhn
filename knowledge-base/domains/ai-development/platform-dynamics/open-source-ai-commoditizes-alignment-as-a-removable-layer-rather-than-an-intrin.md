@@ -47,15 +47,16 @@ stance: >-
   than a technical constraint
 related:
   - INS-260322-C935
-  - INS-260330-DF02
+  - INS-260405-2299
+  - INS-260402-4C4C
   - PRI-260327-8D8C
-  - INS-260326-7B2C
   - PRI-260328-6BC1
-  - INS-260404-CF81
+  - INS-260404-8791
+  - INS-260329-9CFE
 evidence:
   - id: INS-260330-3585
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-CF81
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Eric Hartford's dolphin models demonstrate that alignment and safety guardrails in LLMs are implemented as fine-tuning layers on top of base capabilities. By filtering training data to remove refusal patterns and alignment-specific responses, the underlying model's full capability set becomes accessible. This has profound implications for AI safety strategy: any approach that relies solely on model-level alignment will be defeated by open-weight releases, since the alignment can be stripped in a subsequent fine-tuning pass. Effective safety must therefore operate at multiple levels—model, infrastructure, and application—rather than treating alignment as a one-time fix applied during training.

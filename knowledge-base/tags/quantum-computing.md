@@ -7,7 +7,11 @@
 - `INS-260323-B3A3` Nation states are already intercepting and storing encrypted data today, betting that quantum computers within 10-20 years will let them decrypt it — making the quantum threat present-tense for any data with lasting value.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260325-5A2F` Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
+- `INS-260404-0C67` Quantum advantage comes from interference that amplifies correct answers and suppresses wrong ones, not from checking all possibilities simultaneously.
 - `INS-260325-A1B9` Digital encryption relies on the difficulty of factoring large numbers -- a task that takes digital computers centuries but quantum computers could do almost instantly.
+- `INS-260405-7383` Google's Willow processor demonstrated quantum advantage that was independently confirmed — shifting the field from performance claims to verifiable science.
+- `INS-260404-FC20` Quantum computing repurposes the quantum tunneling effect that limits classical transistor shrinkage as a computational resource rather than a bug.
 - `INS-260325-A782` Transistors are approaching 5 atoms across, at which point electrons tunnel through causing short circuits — Moore's Law will physically end, and quantum computing is the only successor.
 - `INS-260325-BE3A` A digital computer takes hundreds of years to factorize a 50-digit number; a quantum computer could do it almost instantly — every national secret encoded in digital encryption is theoretically vulnerable.
 - `INS-260325-F21D` Digital computers abstract reality into zeros and ones, but molecules and diseases are not zeros and ones — quantum computers work with electrons and atoms directly, making them native to simulating biological reality.
+- `INS-260404-9DBB` Quantum computing's theoretical promise far outpaces its engineering reality, making most near-term investment narratives premature.

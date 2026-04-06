@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: The shape of the multipolar world is a little clearer
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/the-shape-of-the-multipolar-world'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The killing of Iran's Supreme Leader represents an irreversible escalation
@@ -57,6 +45,14 @@ resolutions:
 stance: >-
   Killing a sovereign nation's head of state fundamentally changes the conflict
   trajectory in ways that cannot be walked back to status quo ante.
+related:
+  - INS-260327-08E7
+  - INS-260330-3BBD
+  - INS-260403-A68D
+  - PRI-260324-8EE6
+  - INS-260403-44A6
+  - INS-260330-97B3
+  - INS-260403-0800
 ---
 Smith identifies the Israeli strike killing Ayatollah Khamenei as qualitatively different from previous military actions against Iran. Prior strikes — even significant ones — could theoretically be absorbed and followed by diplomatic de-escalation. Eliminating a head of state crosses a threshold that makes return to the status quo structurally impossible.
 

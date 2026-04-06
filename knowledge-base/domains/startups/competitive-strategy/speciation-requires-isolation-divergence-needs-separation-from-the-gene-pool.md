@@ -47,30 +47,29 @@ stance: >-
   the dominant population, not continuous competition within it.
 related:
   - INS-260325-4E20
-  - INS-260325-FAC2
   - INS-260325-DFA5
-  - INS-260325-2F1E
   - INS-260325-E7D4
   - INS-260330-4634
-  - INS-260330-3FF4
-  - INS-260322-F6C3
+  - INS-260330-A59D
   - INS-260330-F056
-  - INS-260330-4224
+  - INS-260330-3FF4
+  - INS-260325-D680
+  - INS-260322-F6C3
 evidence:
   - id: INS-260325-4E20
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F056
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4634
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-2F1E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-E7D4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-FAC2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-DFA5
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Carroll explains that speciation — the creation of genuinely new species — requires geographic or reproductive isolation. Island biology showed Darwin and Wallace that separated populations accumulate unique mutations over time until they become genetically incompatible. For large animals, this takes roughly 2 million years.
 

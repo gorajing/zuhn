@@ -41,12 +41,12 @@ stance: >-
   Technology monopolies die not from direct competition on their platform but
   from the emergence of a new platform that makes their stronghold irrelevant.
 related:
-  - INS-260330-77A2
   - INS-260330-BF8F
   - INS-260403-3587
   - INS-260403-202E
   - INS-260327-25D7
   - INS-260322-5678
+  - INS-260403-90FF
 evidence:
   - id: INS-260403-3587
     type: SUPPORTS

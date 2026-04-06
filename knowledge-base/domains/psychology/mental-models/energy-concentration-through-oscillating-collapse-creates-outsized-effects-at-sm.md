@@ -55,7 +55,6 @@ stance: >-
   from bubble sonoluminescence to market panics.
 related:
   - INS-260330-3170
-  - INS-260330-51AE
   - INS-260330-9BB5
   - INS-260330-C989
   - INS-260330-8BB4

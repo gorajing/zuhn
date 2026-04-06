@@ -47,9 +47,9 @@ stance: >-
   songwriting) produces faster adoption than teaching business vocabulary
   directly
 related:
-  - INS-260320-C65B
   - INS-260327-BB4A
   - INS-260329-58E7
+  - INS-260323-01A1
   - INS-260404-2BAD
   - INS-260404-0B86
   - INS-260325-1EAC

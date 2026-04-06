@@ -4,3 +4,4 @@
 - `INS-260327-7214` Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
 - `INS-260327-F417` Wayve deployed in Tokyo within 4 months of first driving there because their foundation model generalizes across countries and vehicles, while AV 1.0 companies need to build HD maps for each new city.
 - `INS-260330-D483` Fixed latency is predictable and compensable; jitter (variable latency) is random and destroys control quality.
+- `INS-260404-0B8E` Waymo's tripling to 15M annual rides with 90% fewer serious injuries demonstrates autonomous driving is now a proven infrastructure service, not a research project.

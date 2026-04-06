@@ -49,14 +49,13 @@ stance: >-
   pricing where customers pay for outcomes delivered rather than compute
   consumed.
 related:
-  - INS-260320-9FD5
   - INS-260322-E20E
   - INS-260403-1E4A
   - INS-260403-5D89
   - INS-260323-7625
   - INS-260327-A22D
   - INS-260327-F0B2
-  - INS-260403-4E16
+  - INS-260403-8991
 evidence:
   - id: INS-260320-9FD5
     type: CHALLENGES

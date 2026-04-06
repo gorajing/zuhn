@@ -44,13 +44,13 @@ stance: >-
   necessary purchase price.
 related:
   - INS-260322-2647
-  - INS-260327-9638
   - INS-260329-60CF
-  - INS-260330-A029
-  - INS-260330-8326
+  - INS-260403-B374
   - INS-260403-147C
   - INS-260403-27AC
-  - INS-260403-8C56
+  - INS-260403-D880
+  - INS-260403-71E6
+  - INS-260403-A07A
 evidence:
   - id: INS-260327-9638
     type: SUPPORTS

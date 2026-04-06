@@ -48,15 +48,15 @@ resolutions:
     drives the repeat purchases and reviews that sustain a brand.
 related:
   - INS-260322-7DD5
-  - INS-260322-B450
   - INS-260330-1D9D
   - INS-260329-B0BA
+  - INS-260322-B450
   - PRI-260328-6A8D
   - INS-260321-38EC
-  - INS-260323-4DD9
   - INS-260327-F55C
   - INS-260327-A98E
   - INS-260327-0C56
+  - INS-260327-AB2A
 stance: >-
   In 2026, customer feedback is too fast and too public for mediocre products to
   survive

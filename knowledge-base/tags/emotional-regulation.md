@@ -8,11 +8,13 @@
 - `INS-260330-CC7D` You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
 - `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - `INS-260330-FE21` Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
+- `INS-260403-2A8A` Second-time founders develop calibrated emotional distance that turns churn, failed features, and funding pressure into data points rather than identity crises.
 - `INS-260329-C689` Expecting failure as a cyclical phase prevents the emotional spiral that amplifies setbacks beyond their actual damage.
 - `INS-260327-71A3` Two people with identical anxiety levels can live completely different lives depending on whether they engage with it or flee from it.
 - `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
 - `INS-260329-C089` Interpreting hopelessness as 'I don't know enough yet' rather than 'I can't' converts despair into a solvable problem.
 - `INS-260329-5412` Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.
+- `INS-260329-0B76` Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260325-25A2` Spinoza: caring less is not apathy but rational clarity about what you can influence — most suffering comes from fighting the determined.
 - `INS-260403-D99D` The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
 - `INS-260329-4488` Set decade-long commitments to activities rather than short-term outcome targets to reduce emotional ups and downs while building compounding advantages.

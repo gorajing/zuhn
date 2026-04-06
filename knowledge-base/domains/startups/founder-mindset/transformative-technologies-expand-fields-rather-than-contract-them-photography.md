@@ -53,13 +53,13 @@ stance: >-
   space than they destroy, and founders who internalize this expansionary
   pattern will out-position those stuck in zero-sum displacement thinking.
 related:
-  - INS-260322-8147
   - INS-260330-8FD6
   - INS-260402-B2A2
   - INS-260403-740E
   - PRI-260328-D292
-  - INS-260403-3C2C
-  - INS-260325-0F4F
+  - INS-260403-2E12
+  - INS-260322-8147
+  - INS-260403-F01C
 evidence:
   - id: INS-260322-8147
     type: SUPPORTS

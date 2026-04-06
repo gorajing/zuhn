@@ -69,16 +69,15 @@ stance: >-
   displacing 50% of workers rather than a universal transition requiring new
   frameworks for meaning and value.
 related:
-  - INS-260325-BC2A
   - INS-260323-05B5
-  - INS-260323-758B
   - INS-260323-FE69
   - INS-260322-54F3
   - INS-260322-0D87
-  - INS-260321-F446
+  - INS-260403-976C
   - PRI-260328-A82C
   - INS-260328-0B99
   - INS-260328-0DFE
+  - INS-260403-0A97
 evidence:
   - id: INS-260322-54F3
     type: CONTRADICTS

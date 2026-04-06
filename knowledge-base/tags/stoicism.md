@@ -1,6 +1,7 @@
 # Tag: stoicism
 
 - `INS-260323-DA91` Camus's Sisyphus finds happiness not by winning but by embracing the insurmountable task with full commitment — meaning comes from service and duty, not from outcomes.
+- `INS-260325-E78D` Claiming you do not need a philosophy of life IS a philosophy of life — an unexamined one that probably serves you worse than a deliberate one.
 - `INS-260325-E0D5` Every person plays many roles simultaneously — wasting energy on things you cannot control directly degrades your performance in every role that matters.
 - `INS-260325-7BE7` Aaron Beck and Albert Ellis explicitly derived CBT from reading Marcus Aurelius and Epictetus — modern evidence-based psychotherapy validates 2000-year-old Stoic techniques.
 - `INS-260323-9369` In environments where death is commonplace, people paradoxically develop a deeper capacity for joy and celebration because they accept mortality head-on rather than living in denial.

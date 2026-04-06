@@ -43,13 +43,14 @@ resolutions:
     key insight is that meaning, love, connection, and subjective experience may
     be what truly matters, not computational power.
 related:
-  - INS-260322-22B3
   - INS-260323-0961
   - INS-260327-DD48
   - INS-260327-8936
+  - INS-260403-267B
   - PRI-260324-1134
   - INS-260323-EECF
   - INS-260330-3B05
+  - INS-260403-B280
 stance: >-
   When AI exceeds human intelligence, our species' value shifts from information
   processing to subjective experience and consciousness.

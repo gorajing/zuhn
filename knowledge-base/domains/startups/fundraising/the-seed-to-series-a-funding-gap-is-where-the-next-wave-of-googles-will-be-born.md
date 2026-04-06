@@ -49,15 +49,16 @@ stance: >-
   The $200K-$500K funding range between accelerator checks and Series A rounds
   is the most underserved and highest-opportunity segment in startup investing.
 related:
-  - INS-260327-7E3D
   - INS-260402-5974
-  - INS-260403-5D7D
+  - INS-260403-64F1
+  - INS-260403-E407
+  - INS-260403-1E5F
   - PRI-260405-E9C5
-  - INS-260403-47B7
-  - INS-260403-696C
-  - INS-260402-EA72
-  - PRI-260403-26B9
-  - INS-260404-4682
+  - INS-260404-EFA0
+  - INS-260403-7483
+  - INS-260404-B016
+  - INS-260403-8ABF
+  - INS-260403-96A6
 evidence:
   - id: INS-260403-47B7
     type: TRANSFERS_TO

@@ -51,25 +51,25 @@ stance: >-
   alone.
 related:
   - INS-260330-D1A1
+  - INS-260330-1222
   - INS-260403-E8DD
-  - INS-260329-D357
   - INS-260330-2F13
   - INS-260403-63E2
   - PRI-260328-7A4D
-  - INS-260330-1222
+  - PRI-260324-2C9F
 evidence:
   - id: INS-260330-1222
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B882
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D1A1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3D3E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2F13
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-E8DD
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Before each test, Steve predicted exactly where failure would occur — the thread joint on the .308, the capacity mismatch on the smaller-diameter design. His predictions were correct because he had accumulated hundreds of design-test-fail cycles. Dustin's engineering professor taught the theory of stress concentration, but Steve's intuition went further: he could predict failure modes on novel configurations he'd never tested before.
 

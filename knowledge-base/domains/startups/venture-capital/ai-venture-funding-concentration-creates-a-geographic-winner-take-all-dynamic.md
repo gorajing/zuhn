@@ -46,11 +46,13 @@ stance: >-
   gravity well that starves other regions
 related:
   - INS-260403-C8A9
+  - INS-260402-180C
   - INS-260330-608C
   - PRI-260403-E097
+  - INS-260403-5CBD
   - INS-260403-9D89
-  - INS-260403-C1A5
-  - PRI-260323-7B35
+  - INS-260403-92B5
+  - INS-260403-5151
 ---
 Frank, the VC panelist, shared staggering concentration metrics: approximately two-thirds of all venture capital is now flowing into AI-related companies, and two-thirds of that AI funding concentrates in the Bay Area. This double-filter means roughly 44% of all global venture capital flows through one metropolitan area for one technology category.
 

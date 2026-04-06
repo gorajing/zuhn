@@ -63,15 +63,13 @@ stance: >-
   chains to function.
 related:
   - INS-260330-5670
-  - INS-260330-5232
-  - INS-260403-464D
-  - INS-260330-24BA
-  - INS-260330-49E9
-  - INS-260403-0429
-  - INS-260330-3C3C
+  - INS-260330-100F
+  - INS-260330-2E41
+  - PRI-260405-C27E
+  - PRI-260405-9504
 evidence:
   - id: INS-260330-4B29
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5670
     type: SUPPORTS
     classified_at: '2026-04-06'

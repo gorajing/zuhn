@@ -1,3 +1,4 @@
 # Tag: reference-points
 
+- `INS-260403-F0BF` Algorithmic feeds replaced neighbor-comparison with influencer-comparison, escalating financial inadequacy.
 - `INS-260329-438D` Motivation scales with the perceived gap between where you are and your reference point — change who you compare yourself to and you change your drive.

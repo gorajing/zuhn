@@ -20,27 +20,15 @@ sources:
     title: >-
       AI prompt engineering in 2025: What works and what doesn’t | Sander
       Schulhoff (Learn Prompting, HackAPrompt)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: >-
       https://www.lennysnewsletter.com/p/ai-prompt-engineering-in-2025-sander-schulhoff
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI agents that book flights, send emails, and interact with real systems
@@ -67,6 +55,12 @@ stance: >-
   Agent-based AI systems with real-world action capabilities represent an
   qualitatively different and more dangerous attack surface than conversational
   chatbots, and most teams building agents are unprepared.
+related:
+  - INS-260322-2E33
+  - INS-260403-4A16
+  - INS-260405-A992
+  - INS-260327-DC4C
+  - INS-260323-D41A
 ---
 When an LLM is just generating text in a chat window, prompt injection is embarrassing but contained. When that same LLM is an agent that can book flights, send emails, execute code, or control a humanoid robot, successful prompt injection becomes a real-world security breach with material consequences. The attack surface grows with every tool and API the agent can access.
 

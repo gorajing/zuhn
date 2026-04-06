@@ -20,24 +20,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: Micron''s $100B Megafab'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-168'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     xAI's third data center reaches nearly 2 gigawatts of compute power by
@@ -64,6 +54,13 @@ stance: >-
   The unit of AI infrastructure competition has shifted from individual data
   centers to multi-gigawatt campus clusters co-located with dedicated power
   generation, making energy access the new competitive moat.
+related:
+  - INS-260328-F05E
+  - INS-260330-4C5A
+  - INS-260325-5CB1
+  - INS-260330-F205
+  - INS-260405-F1A1
+  - INS-260404-E544
 ---
 xAI's MACROHARDRR facility in Mississippi is being built adjacent to a recently acquired power plant, giving the company direct control over nearly 2 gigawatts of compute power. This is not a marginal capacity expansion—it represents a deliberate vertical integration into energy infrastructure that mirrors hyperscaler strategies from a decade ago when Amazon and Google began building their own data centers.
 

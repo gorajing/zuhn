@@ -42,13 +42,13 @@ resolutions:
 related:
   - INS-260325-FC0B
   - PRI-260328-0993
+  - INS-260403-7045
   - INS-260403-5B89
+  - INS-260403-5835
   - PRI-260328-1A2D
-  - INS-260330-B3D9
-  - INS-260323-C8AC
   - INS-260321-347D
-  - INS-260327-CC05
   - INS-260327-4C5E
+  - INS-260330-B3D9
   - INS-260330-4B55
 stance: 'After the dot-com crash, VCs stopped rushing to IPO'
 evidence:

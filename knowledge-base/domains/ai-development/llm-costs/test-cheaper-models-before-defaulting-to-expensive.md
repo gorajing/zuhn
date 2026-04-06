@@ -18,11 +18,12 @@ sources:
     author: u/unknown
 related:
   - INS-260320-92CC
-  - INS-260322-5790
   - INS-260320-0511
   - PRI-260320-233B
-  - INS-260330-38E1
   - INS-260403-F4C7
+  - INS-260403-B53B
+  - INS-260322-5790
+  - INS-260330-38E1
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
@@ -44,11 +45,11 @@ stance: >-
   V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 evidence:
   - id: INS-260322-5790
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-38E1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8639
-    relationship: RELATED
+    type: SUPPORTS
 ---
 
 Most developers default to the most capable (and expensive) model without

@@ -51,7 +51,6 @@ stance: >-
   changes without fasting
 related:
   - INS-260323-F2AE
-  - INS-260323-198E
   - INS-260325-4E88
   - INS-260325-33C6
   - INS-260325-5D71
@@ -60,6 +59,7 @@ related:
   - INS-260327-C0AB
   - INS-260327-5DB4
   - INS-260327-DEE0
+  - INS-260327-B218
 evidence:
   - id: INS-260322-3A00
     type: SUPPORTS

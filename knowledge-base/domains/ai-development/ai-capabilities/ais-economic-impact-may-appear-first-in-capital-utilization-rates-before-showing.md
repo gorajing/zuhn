@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Something feels weird about this economy
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/something-feels-weird-about-this'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI's economic footprint may show up first in how hard machines run, not how
@@ -65,6 +53,13 @@ stance: >-
   existing capital assets before it shows up as measured worker productivity
   gains, making utilization rate data more informative than labor productivity
   statistics in the near term.
+related:
+  - INS-260324-CBD3
+  - INS-260403-3664
+  - INS-260405-AD55
+  - INS-260405-10DF
+  - INS-260405-A4DB
+  - INS-260327-93F9
 ---
 The San Francisco Fed's Total Factor Productivity estimates reveal that after accounting for capital utilization — how intensively machines, buildings, and equipment are being used — the TFP growth burst seen in 2023-24 appears to have faded by 2025. The raw productivity numbers look good partly because capital is simply being run harder: data centers operating continuously, factories running extended shifts, commercial buildings lit through the night.
 

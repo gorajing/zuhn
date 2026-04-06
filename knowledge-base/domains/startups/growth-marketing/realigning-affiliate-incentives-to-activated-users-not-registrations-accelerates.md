@@ -53,16 +53,17 @@ stance: >-
   short-term metric drops but dramatically accelerates genuine growth by
   aligning incentive structures with actual value creation.
 related:
-  - INS-260330-4553
-  - INS-260330-3398
-  - INS-260330-9C48
   - PRI-260403-E097
-  - INS-260330-E61E
+  - INS-260405-07DF
+  - INS-260330-4553
+  - INS-260330-9C48
+  - PRI-260328-6A8D
+  - INS-260404-C3F1
 evidence:
   - id: INS-260330-4553
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2A6A
-    relationship: RELATED
+    type: SUPPORTS
 ---
 In 2004, eBay changed its affiliate payment model from paying per confirmed registered user (CRU) to paying per activated confirmed registered user (ACRU) — meaning the user had to actually bid, buy, or list an item. Overnight, confirmed registrations driven by affiliates dropped ~20%, but activated users only dropped ~5%. The ratio of CRU to ACRU improved, and growth of active users massively accelerated.
 

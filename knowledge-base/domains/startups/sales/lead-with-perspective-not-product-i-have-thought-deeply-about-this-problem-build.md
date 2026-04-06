@@ -57,7 +57,6 @@ stance: >-
   current product capabilities, so leading with your unique perspective on the
   problem creates trust that feature demonstrations cannot.
 related:
-  - INS-260320-47FA
   - INS-260320-080B
   - INS-260329-4DBC
   - INS-260403-805E
@@ -66,7 +65,8 @@ related:
   - INS-260327-89C7
   - INS-260327-DCA9
   - INS-260327-734D
-  - INS-260327-A8B6
+  - INS-260327-7CE9
+  - INS-260330-8890
 evidence:
   - id: INS-260320-47FA
     type: TRANSFERS_TO

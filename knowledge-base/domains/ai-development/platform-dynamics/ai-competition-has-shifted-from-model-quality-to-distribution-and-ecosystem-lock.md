@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The Race for AI Supremacy is Over\U0001F3C1, State of VC and Its Impact on DPI\U0001F4C9, SaaS VC Trends☁️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-race-for-ai-supremacy-is-over'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI competitive advantage has migrated from model performance to
@@ -56,6 +46,13 @@ resolutions:
 stance: >-
   The AI race is no longer won by having the best model but by whoever builds
   the strongest distribution channels and ecosystem integrations
+related:
+  - INS-260327-7C69
+  - INS-260403-699F
+  - INS-260403-0414
+  - PRI-260324-36BF
+  - INS-260403-8832
+  - INS-260403-7868
 ---
 As foundational AI models converge in capability, the primary competitive battleground has shifted from raw model quality to distribution strategy and ecosystem integration. This mirrors historical platform shifts where the technology layer commoditized while the distribution and ecosystem layers captured disproportionate value.
 

@@ -50,10 +50,11 @@ stance: >-
   of paying for effort that produces no result.
 related:
   - INS-260403-1E4A
+  - INS-260403-586C
+  - INS-260403-C734
   - PRI-260328-8317
-  - INS-260325-4FF3
+  - INS-260404-B8EB
   - INS-260405-85B5
-  - INS-260322-E20E
 evidence:
   - id: INS-260327-4CB3
     type: TRANSFERS_TO

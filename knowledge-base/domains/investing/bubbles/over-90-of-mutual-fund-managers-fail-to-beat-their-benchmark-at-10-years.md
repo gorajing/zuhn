@@ -43,11 +43,11 @@ stance: >-
   Professional money managers cannot consistently outperform passive indices,
   which makes the case for amateur stock picking essentially indefensible.
 related:
+  - INS-260403-DD13
   - INS-260323-C370
   - PRI-260328-BD9B
-  - INS-260329-EF89
-  - INS-260403-147C
-  - PRI-260323-9D46
+  - INS-260403-E33B
+  - INS-260403-970B
 evidence:
   - id: INS-260329-EF89
     type: TRANSFERS_TO

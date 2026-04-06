@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Rate Cuts\U0001F62C, 80+ Ways to Fund Without Diluting\U0001F4B8, AI Is Breaking Valuation Models\U0001F4A3"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI democratizes equity research by making public data analysis match
@@ -55,6 +45,13 @@ stance: >-
   Public data combined with structured AI prompting can replicate
   institutional-grade equity analysis, moving the competitive edge from
   proprietary data access to analytical orchestration.
+related:
+  - INS-260403-7AD0
+  - INS-260403-5365
+  - INS-260403-A3B2
+  - INS-260403-FCF7
+  - INS-260322-7282
+  - INS-260330-855A
 ---
 The historical moat in equity research was access—proprietary data feeds, expert networks, analyst coverage. AI collapses this advantage because public data combined with structured prompting can now replicate much of what institutional research desks produce. The edge shifts from 'what data do you have' to 'how effectively do you synthesize and test hypotheses.'
 

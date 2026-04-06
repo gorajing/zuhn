@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Book Review Contest Rules 2026
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/book-review-contest-rules-2026'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A 25% hard cap for underrepresented categories lets curators correct
@@ -61,6 +51,12 @@ stance: >-
   Reserving a hard-capped minority of slots for underrepresented content
   categories is more sustainable than open-ended diversity mandates because it
   makes the trade-off legible and bounded.
+related:
+  - INS-260404-5365
+  - INS-260405-D66B
+  - INS-260403-8BA2
+  - PRI-260405-EBC6
+  - PRI-260405-4B06
 ---
 Scott notes that most ACX book review entries trend toward nonfiction on technical topics, and he wants to counteract this without abandoning meritocracy. His solution: reserve no more than 25% of finalist slots for nontraditional categories (fiction, poetry, pre-1900 books). The explicit cap is key — it makes the intervention legible and bounded rather than open-ended.
 

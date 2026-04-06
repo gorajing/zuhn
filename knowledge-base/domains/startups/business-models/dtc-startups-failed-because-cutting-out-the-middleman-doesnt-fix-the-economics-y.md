@@ -48,8 +48,8 @@ related:
   - PRI-260324-7ED9
   - INS-260330-DC0D
   - INS-260403-F4CC
+  - INS-260403-8450
   - INS-260327-C75F
-  - INS-260404-96E6
   - INS-260330-744E
 stance: >-
   Casper, Warby Parker, and Dollar Shave Club promised that cutting out

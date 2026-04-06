@@ -57,19 +57,19 @@ related:
   - INS-260327-E7B8
   - INS-260327-7427
   - INS-260329-541A
-  - PRI-260403-88F5
+  - INS-260330-CCD8
+  - INS-260330-7A80
+  - INS-260330-7987
   - INS-260330-B15C
-  - INS-260329-5412
-  - INS-260325-0E1D
 evidence:
   - id: INS-260329-FEA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-D534
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-0E57
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5C64
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Hormozi presents a diagnostic framework for two commonly conflated emotional states. Sadness feels like hopelessness because the person perceives no available paths forward — the cure is acquiring knowledge that reveals options (e.g., someone laid off who discovers five job offers isn't sad). Anxiety feels like paralysis because the person sees many possible paths but can't prioritize — the cure is making a decision, even imperfectly, to collapse the option space into action.
 

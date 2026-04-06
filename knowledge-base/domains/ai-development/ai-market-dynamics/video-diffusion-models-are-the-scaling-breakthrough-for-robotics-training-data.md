@@ -52,7 +52,6 @@ stance: >-
   world, breaking the data bottleneck that has held back robotics by generating
   unlimited training scenarios without physical robots.
 related:
-  - INS-260321-D370
   - INS-260321-B014
   - PRI-260328-7007
   - INS-260327-DCF8

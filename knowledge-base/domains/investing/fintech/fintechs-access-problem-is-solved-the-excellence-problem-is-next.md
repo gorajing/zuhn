@@ -42,13 +42,11 @@ resolutions:
     $35B, Revolut at $75B) survived by rebundling from point solutions into
     full-stack financial platforms.
 related:
-  - INS-260322-642F
+  - INS-260405-C5E5
+  - INS-260404-19C2
   - INS-260322-EDA4
   - INS-260403-8256
   - INS-260403-FF57
-  - INS-260327-DFF1
-  - INS-260328-0B99
-  - INS-260329-8DDF
 stance: >-
   The fintech industry has largely digitized traditional financial services
   (access), but hasn't yet made them excellent

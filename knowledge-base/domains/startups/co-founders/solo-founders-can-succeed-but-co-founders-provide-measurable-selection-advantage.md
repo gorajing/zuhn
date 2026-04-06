@@ -19,60 +19,14 @@ sources:
     title: >-
       a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise
       Startup Funding
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Guillermo Flor
-        url: 'https://substack.com/@guillermoflor'
-        description: >-
-          I'm Guillermo, a former startup founder now venture capital investor.
-          I write weekly about startups path to Product Market Fit, growth and
-          fundraising 
-        identifier: 'user:48117658'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-      - '@type': Person
-        name: a16z speedrun
-        url: 'https://substack.com/@speedrun'
-        description: Create The Future.
-        identifier: 'user:157537399'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!SbXF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92ed9a43-8b6d-4652-9e93-7aaf50f52781_2086x2086.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!SbXF!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92ed9a43-8b6d-4652-9e93-7aaf50f52781_2086x2086.jpeg
-      - '@type': Person
-        name: Ryan K. Rigney
-        url: 'https://substack.com/@rkrigney'
-        description: marketing partner working on a16z speedrun
-        identifier: 'user:3767101'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!0EH4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb91cab45-0de3-4397-82be-c45a2c9695b8_512x512.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!0EH4!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb91cab45-0de3-4397-82be-c45a2c9695b8_512x512.png
+    author: 'Ruben Dominguez, Guillermo Flor, a16z speedrun, Ryan K. Rigney'
     url: 'https://www.thevccorner.com/p/a16z-speedrun-accelerator-funding-guide'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Solo founders get into top accelerators, but strong co-founding teams have a
@@ -88,5 +42,16 @@ resolutions:
 stance: >-
   Having strong co-founders is a clear advantage in accelerator selection,
   though solo founders are not categorically excluded.
+related:
+  - INS-260322-8F3F
+  - PRI-260328-0C86
+  - INS-260402-910C
+  - INS-260403-6553
+  - INS-260403-37B9
+  - INS-260403-26CD
+  - INS-260326-967C
+  - INS-260404-C9D0
+  - INS-260403-5896
+  - INS-260404-ECDF
 ---
 A16Z Speedrun accepts solo founders, but the program explicitly flags strong co-founders as a clear advantage. This suggests accelerator selection committees view co-founding teams as risk-reduction signals — complementary skills, shared workload, and emotional resilience during the intense 12-week program. For solo founders considering application, this isn't disqualifying but does mean they need to compensate with stronger traction or exceptionally deep domain expertise to offset the perceived team risk.

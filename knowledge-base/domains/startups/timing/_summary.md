@@ -1,8 +1,10 @@
 # Topic: timing
 
-> 49 insights
+> 60 insights
 
+- `INS-260404-007F` [high] Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
+- `INS-260404-3BAB` [high] YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
 - `INS-260323-9EEC` [high] EUV lithography took 30 years from Kinoshita's 1983 proof-of-concept to ASML's commercial machine because it required convergence of nuclear fusion mirror research, laser-produced plasma, and precision manufacturing — all initially developed in unrelated fields.
 - `INS-260404-A15B` [high] Incumbents reject better technology when the status quo is irrationally profitable.
@@ -13,7 +15,9 @@
 - `INS-260403-25EE` [high] Founder quality overwhelms economic conditions as a predictor of startup success.
 - `INS-260322-3E59` [high] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
 - `INS-260330-2E58` [high] Innovations fail not because they're bad ideas but because the supporting innovation stack hasn't matured yet.
+- `INS-260404-FAAC` [high] The food system's role in 25% of GHG emissions and biodiversity loss makes tech adoption structurally inevitable, not discretionary.
 - `INS-260403-CB33` [high] Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
+- `INS-260330-8907` [high] Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
 - `INS-260330-EFFB` [high] The 2007-2017 era of annual smartphone upgrades was an anomaly of rapid technological improvement, not a sustainable norm—average upgrade cycles stretched from 2 to 4 years as the market matured.
 - `INS-260323-60C1` [high] Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
 - `INS-260403-8DE1` [high] Disruption requires not just the right insight but the right infrastructure moment — the same idea fails or succeeds based on what enabling platforms exist.
@@ -24,10 +28,12 @@
 - `INS-260328-58B1` [high] Name the 20 software companies you respect most — not one of them made it in a year.
 - `INS-260403-7219` [high] The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
 - `INS-260403-4E7A` [high] Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
+- `INS-260403-D39A` [high] Each major startup cohort — semiconductors, PCs, internet, mobile — was built on a platform-level technology breakthrough that enabled new business models.
 - `INS-260325-0F4F` [high] Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260330-9346` [high] At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260403-021D` [high] Every major software architecture shift predictably spawns new billion-dollar cybersecurity companies.
 - `INS-260330-39C6` [high] Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
+- `INS-260403-8176` [high] Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
 - `INS-260330-68EF` [high] France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
 - `INS-260330-D808` [high] The rapid smartphone upgrade cycle of 2007-2016 was an anomaly driven by technology's growth phase, not a permanent market condition.
 - `INS-260403-93A5` [high] Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
@@ -38,12 +44,17 @@
 - `INS-260328-3446` [high] We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
 - `INS-260403-C37B` [medium] Major consumer AI apps will follow the iPhone pattern—emerging roughly 18 months after developers internalize the platform's design possibilities.
 - `INS-260403-CAAB` [medium] Major AI game breakouts are delayed because inference speed, cost, model quality, and media generation must all mature simultaneously — just as internet games waited for bandwidth, GPUs, and memory.
+- `INS-260405-4D20` [medium] Greg Isenberg's 2024 claim that it's the best time to start a company in 30 years is grounded in AI dramatically compressing the cost and time to build an MVP.
+- `INS-260404-6FFF` [medium] Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
 - `INS-260404-D40E` [medium] Map the business environment — trends, competition, customer context, and macro forces — to validate whether your timing is right.
 - `INS-260328-9C16` [medium] Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
 - `INS-260404-1A18` [medium] Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260325-8062` [medium] From 1870-1920 we got electricity, internal combustion, telecom, synthetic chemistry, and public health revolutions; from 1970-2020, mainly just information technology.
 - `INS-260325-66BE` [medium] In 1800 nobody thought lacking refrigerators or plumbing was extreme poverty because it was normal — our descendants may view our era the same way.
+- `INS-260402-9EBD` [medium] The biggest technology companies emerged during periods that combined platform innovation in both software and hardware with the operational discipline forced by higher interest rates.
 - `INS-260330-4E01` [medium] HEAL sector jobs will outnumber new STEM jobs 3:1 by 2030, but only 24% of HEAL workers are male and the share is falling with no organized effort to reverse it.
+- `INS-260404-6BCA` [medium] Rubrik capitalized on the 2024 tech IPO window because it had already completed its subscription transition and hit key metrics before the window opened.
+- `INS-260403-5CAD` [medium] The Jevons Paradox predicts that as AI makes software cheaper to build, total demand for software — and the number of people building it — will explode rather than contract.
 - `INS-260403-2DE3` [medium] Market timing — arriving too early for insufficient demand or too late against entrenched competitors — is an independent variable that product and business model excellence cannot compensate for.
 - `INS-260403-5C83` [medium] A product loved by both novices and experts but ignored by the middle market is about to break through to mass adoption.
 - `INS-260325-B315` [medium] The 25-year boom after systemic collapse historically creates the most dramatic progress and opportunity.

@@ -46,11 +46,11 @@ resolutions:
     judgment to evaluate AI output — without it, more AI access makes you worse,
     not better.
 related:
+  - INS-260403-9942
   - INS-260327-1B7C
   - INS-260329-6BE8
   - INS-260327-D0F4
   - INS-260323-422B
-  - INS-260323-0C3A
 stance: >-
   A Harvard study found that below-median entrepreneurs saw a 10% decline in
   profits from AI access because they lacked the judgment to filter good a...

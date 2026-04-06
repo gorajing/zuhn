@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: SaaS Financial Model Guide (+ Free Excel Template)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/saas-financial-model-excel-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Price cuts that seem modest (e.g., $200 to $150/month) dramatically extend
@@ -60,6 +50,13 @@ stance: >-
   Reducing price by 25% can extend CAC payback period by 43% (7 to 10 months)
   even when CAC stays flat, exposing that pricing discounts destroy unit
   economics unless offset by faster conversion.
+related:
+  - INS-260322-8BC5
+  - INS-260327-B45A
+  - INS-260329-C4A4
+  - PRI-260328-6A8D
+  - INS-260324-DB86
+  - INS-260404-A0C2
 ---
 The model demonstrates that dropping price from $200 to $150/month — a seemingly reasonable 25% discount — extends CAC payback from 7 to 10 months while acquisition costs remain unchanged. This 43% increase in payback period means the company needs significantly more working capital to fund the same growth, and each customer takes much longer to become profitable.
 

@@ -56,27 +56,29 @@ stance: >-
 related:
   - INS-260323-3920
   - INS-260323-F963
+  - INS-260330-C8D7
+  - INS-260330-6494
+  - INS-260404-673B
+  - INS-260403-B8AA
   - INS-260326-3B43
   - INS-260327-2C5F
-  - INS-260330-C8D7
-  - INS-260402-F479
   - INS-260330-B5D2
-  - INS-260329-0A55
+  - INS-260323-4D8D
 evidence:
   - id: INS-260323-3920
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-4D8D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B5D2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-F963
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-2C5F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-0A55
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The video's most intellectually honest conclusion is that no single explanation suffices. Mandelbrot showed random typing produces Zipf distributions, but actual language isn't random — people asked to name fictional aliens still follow Zipf's law, suggesting it's built into cognition. The principle of least effort explains speaker-listener compromise. Preferential attachment explains why used words get reused. Critical points explain topic-switching behavior. Each mechanism alone is insufficient; together they produce the observed pattern.
 

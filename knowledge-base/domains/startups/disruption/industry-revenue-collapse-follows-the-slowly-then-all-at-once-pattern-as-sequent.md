@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: A Conversation with JCal about the Evolution of Media
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/a-conversation-with-jcal-about-the'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Print media lost classifieds first, then print advertising, then newsstand
@@ -65,6 +55,14 @@ stance: >-
   Disrupted industries rarely collapse in a single event — multiple revenue
   streams erode sequentially, each loss accelerating the next until the tipping
   point arrives suddenly.
+related:
+  - INS-260327-723A
+  - INS-260403-C844
+  - INS-260405-EF0F
+  - INS-260405-1661
+  - PRI-260328-0993
+  - PRI-260328-1A2D
+  - INS-260405-BFC0
 ---
 The Hemingway bankruptcy quote — 'gradually, then suddenly' — describes exactly what happened to print media. Classifieds moved to the internet first (Craigslist, early 2000s). Then display advertising migrated as digital CPMs fell. Then the newsstand habit broke when smartphones arrived. Each pillar fell on a slightly different timeline, giving incumbents the illusion of manageable decline. But each lost revenue stream reduced the margin to absorb the next hit.
 

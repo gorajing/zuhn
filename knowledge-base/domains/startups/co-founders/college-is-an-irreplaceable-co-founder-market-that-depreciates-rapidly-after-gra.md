@@ -57,18 +57,18 @@ related:
   - INS-260323-CD28
   - INS-260326-D8B9
   - INS-260327-E3DE
-  - INS-260329-11AB
-  - INS-260329-19EE
+  - INS-260329-2BCC
   - INS-260330-FBC0
+  - INS-260403-D1D4
 evidence:
   - id: INS-260325-11E9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-A693
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-19EE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-568A
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Graham identifies co-founder discovery as the single most common question at Y Combinator ('Where can I find a co-founder?'), and notes it's the one question they have no good answer for—except school. By 30, potential co-founders are either lost to time or locked into jobs they won't leave. The better someone is, the more likely they're already committed to something.
 

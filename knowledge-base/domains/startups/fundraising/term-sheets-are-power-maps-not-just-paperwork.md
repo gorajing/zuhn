@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 10 Best Venture Capital Books Recommended by Top VCs
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/10-best-venture-capital-books-recommended'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Term sheets encode power dynamics—option pools, liquidation preferences, and
@@ -56,6 +46,12 @@ stance: >-
   Founders who treat term sheets as administrative paperwork rather than
   strategic power instruments systematically lose leverage in negotiations and
   board dynamics.
+related:
+  - INS-260403-130A
+  - INS-260404-A42E
+  - INS-260403-11E3
+  - INS-260405-C56F
+  - INS-260404-9E63
 ---
 Multiple VC authors converge on the same point: term sheets are the single most consequential document in a startup's fundraising journey, yet most first-time founders treat them as formalities. Brad Feld's 'Venture Deals' and Scott Kupor's 'Secrets of Sand Hill Road' both emphasize that control terms matter more than valuation when building for the long haul.
 

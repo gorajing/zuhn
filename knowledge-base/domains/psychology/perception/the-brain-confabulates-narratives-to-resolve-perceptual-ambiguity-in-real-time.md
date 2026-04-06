@@ -56,7 +56,6 @@ stance: >-
   Humans unconsciously fabricate explanatory stories for ambiguous events and
   then mistake those fabrications for actual memories
 related:
-  - INS-260325-ADF3
   - INS-260325-CC47
   - INS-260329-8C14
   - INS-260403-E8DD
@@ -64,8 +63,9 @@ related:
   - INS-260330-053D
   - INS-260403-F157
   - INS-260330-30DE
-  - INS-260330-ECA9
   - INS-260403-1046
+  - INS-260403-841F
+  - INS-260403-A3A7
 evidence:
   - id: INS-260325-ADF3
     type: CHALLENGES

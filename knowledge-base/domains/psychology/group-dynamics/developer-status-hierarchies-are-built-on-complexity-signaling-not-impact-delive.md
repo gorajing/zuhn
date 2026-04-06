@@ -48,10 +48,10 @@ stance: >-
   than through measurable impact on users or business outcomes.
 related:
   - INS-260329-50D5
+  - INS-260404-F962
+  - INS-260403-10CE
   - INS-260327-8389
-  - INS-260327-4CB3
-  - PRI-260328-9F8C
-  - INS-260403-F4CC
+  - INS-260403-B2A8
 evidence:
   - id: INS-260327-4CB3
     type: CHALLENGES

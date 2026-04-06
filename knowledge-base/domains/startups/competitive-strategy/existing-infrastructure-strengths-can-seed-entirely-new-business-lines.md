@@ -48,13 +48,11 @@ stance: >-
   engines by repackaging existing infrastructure for external markets, as Amazon
   did with AWS.
 related:
-  - INS-260323-4794
-  - PRI-260328-43F1
-  - INS-260330-809A
-  - INS-260323-3D7D
-  - INS-260403-4C61
-  - INS-260403-43B9
-  - INS-260404-9D4E
+  - INS-260403-C164
+  - INS-260404-19B0
+  - INS-260405-77C9
+  - INS-260403-85BB
+  - INS-260403-E93A
   - INS-260404-E06E
 ---
 Microsoft's Azure cloud platform emerged from infrastructure the company already maintained for its own operations. Rather than building something entirely new, Nadella redirected existing strengths toward a market where Microsoft could compete without needing Windows dominance. Similarly, Amazon turned its internal computing infrastructure into AWS, now one of the most profitable businesses in the world.

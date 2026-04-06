@@ -40,11 +40,11 @@ resolutions:
     different workers adopt for different reasons, and one-size-fits-all
     deployment fails.
 related:
-  - INS-260323-4D4E
+  - INS-260403-C10D
+  - INS-260323-9E30
   - INS-260322-627E
+  - INS-260322-116B
   - INS-260328-E410
-  - INS-260404-ED0F
-  - INS-260403-AFCD
   - INS-260325-5CA5
   - INS-260322-760A
   - INS-260323-A183

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "The Go to Market Handbook for B2B SaaS Leaders \U0001F3AF"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-go-to-market-handbook-for-b2b'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Demonstrating pain-product fit to investors yields dramatically higher close
@@ -56,6 +46,12 @@ stance: >-
   Founders with demonstrated pain-product fit will receive dramatically higher
   investor acceptance rates and better valuations than those pitching
   unvalidated theses
+related:
+  - INS-260403-3BBB
+  - PRI-260403-E097
+  - INS-260329-6079
+  - PRI-260327-7A68
+  - INS-260404-B2AF
 ---
 Co-author Chris Tottman, a founding GP at Notion Capital with $1B+ AUM across 200+ portfolio companies, claims that founders with validated pain-product fit can achieve what he calls an '80% Yes Ratio' from investors. This contrasts sharply with the typical fundraising experience where founders burn months pitching to skeptical VCs.
 

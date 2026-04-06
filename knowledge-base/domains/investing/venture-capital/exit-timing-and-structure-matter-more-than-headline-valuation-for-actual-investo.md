@@ -17,25 +17,15 @@ tags:
 sources:
   - type: blog
     title: 'Exit Scenario Modeling: IPO vs Acquisition vs Secondary'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/exit-scenario-model-ipo-secondary-acquisition
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Exit structure details like lock-ups, earn-outs, and IPO discounts
@@ -66,6 +56,12 @@ stance: >-
   The timing and structure of an exit (lock-ups, earn-outs, discount pricing)
   often matter more than the headline valuation number for determining real cash
   returns to investors.
+related:
+  - INS-260403-F852
+  - INS-260403-D500
+  - PRI-260328-21AD
+  - INS-260403-4F8E
+  - INS-260405-FFCE
 ---
 Most discussions of startup exits focus on the headline valuation — a $1B IPO or a $500M acquisition. But the actual cash an investor receives depends heavily on structural details: IPO underwriter discounts (typically 5-7%), lock-up periods preventing share sales for 90-180 days post-IPO, and earn-out provisions in acquisitions that tie a portion of proceeds to future performance milestones.
 

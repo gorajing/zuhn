@@ -48,12 +48,11 @@ stance: >-
   corporate promotion are more likely to succeed long-term than those requiring
   aggressive marketing campaigns.
 related:
-  - INS-260325-DFC7
   - INS-260326-CA8C
   - INS-260330-C9A6
   - INS-260403-8BA2
-  - INS-260323-4DD9
-  - INS-260405-7B8D
+  - INS-260403-5598
+  - INS-260325-DFC7
 evidence:
   - id: INS-260330-C9A6
     type: CHALLENGES

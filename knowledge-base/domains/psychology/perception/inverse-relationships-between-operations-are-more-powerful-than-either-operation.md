@@ -51,7 +51,7 @@ related:
   - INS-260329-FEA8
   - INS-260325-B61B
   - INS-260329-6773
-  - INS-260330-DE16
+  - INS-260329-C5C6
 ---
 The fundamental theorem of calculus — that integration and differentiation are inverse operations — is presented as the climactic insight of the video. Knowing derivatives lets you solve integrals by 'reverse engineering' which function has the right derivative. This back-and-forth transforms two hard problems into one.
 

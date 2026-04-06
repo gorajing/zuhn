@@ -1,14 +1,17 @@
 # Topic: mental-models
 
-> 62 insights
+> 70 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260405-C3B0` [high] The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
+- `INS-260404-7604` [high] Complex problems almost always have both 'chosen cost' and 'pure dysfunction' causes, and separating them improves analysis.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
 - `INS-260330-CAB3` [high] Bernoulli's principle unifies cavitation across wildly different domains: bullets, propellers, pipes, and arteries all create vacuum bubbles through the same mechanism.
+- `INS-260330-5670` [high] ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
 - `INS-260330-4E55` [high] The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.
 - `INS-260330-EDF4` [high] Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
 - `INS-260330-4E5F` [high] Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
+- `INS-260330-6AB7` [high] The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
 - `INS-260402-C4FF` [high] A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260402-0F45` [high] Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
 - `INS-260330-0C1B` [high] A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
@@ -37,6 +40,7 @@
 - `INS-260405-D606` [high] Getting the problem statement right is not preliminary work — it is the core intellectual work.
 - `INS-260330-CE2F` [high] JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
 - `INS-260330-64D8` [high] If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
+- `INS-260403-6EA0` [high] Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
 - `INS-260330-814E` [high] WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
 - `INS-260330-4D0E` [high] PSII contains at least 99 chemicals coordinated to achieve a single task: transferring one excited electron to a carrier molecule.
 - `INS-260330-24B6` [high] A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.
@@ -49,6 +53,7 @@
 - `INS-260330-F5CF` [high] Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
 - `INS-260330-43D3` [high] Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
 - `INS-260402-ED85` [high] Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
+- `INS-260403-29C7` [high] Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
 - `INS-260330-7511` [high] The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
 - `INS-260405-4C63` [high] Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
 - `INS-260330-3698` [high] Mentally reversing roles in a conflict reveals whether both sides operate under the same ethical constraints.
@@ -56,11 +61,14 @@
 - `INS-260330-5DFF` [high] In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure.
 - `INS-260402-2C6B` [high] Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260405-5670` [medium] Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
+- `INS-260330-972B` [medium] The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
+- `INS-260403-8DCA` [medium] Both sides of many social debates can credibly claim to defend 'rights,' making rights-based framing insufficient for strategic decision-making.
 - `INS-260330-1953` [medium] Underwater bubbles oscillating and collapsing under Rayleigh-Plesset dynamics concentrate enough energy to produce light (sonoluminescence), demonstrating how oscillating collapse amplifies small inputs into extreme outputs.
 - `INS-260403-45E3` [medium] Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
 - `INS-260402-1F58` [medium] The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
+- `INS-260403-9E31` [medium] The gangsterism lens — treating governance as mafia-style personal power projection — reliably predicts which institutions will be targeted and how.
 - `INS-260403-6AD0` [medium] A photon takes millions of years bouncing randomly inside a star before escaping — a powerful metaphor for progress through complex, opaque systems.
 - `INS-260404-A2F0` [medium] Some identities like 'scientist' function as anti-identities — they commit you to following evidence rather than defending conclusions.
 - `INS-260330-5958` [medium] 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.

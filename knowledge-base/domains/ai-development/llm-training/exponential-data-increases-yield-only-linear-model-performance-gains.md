@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/large-language-models-how-to-train'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     More training data produces diminishing performance improvements, forcing
@@ -54,6 +44,17 @@ resolutions:
 stance: >-
   Scaling training data alone hits diminishing returns, making data quality and
   architecture the primary differentiators between frontier models
+related:
+  - INS-260323-13C0
+  - INS-260323-D18D
+  - INS-260320-7682
+  - INS-260323-4E12
+  - PRI-260320-3032
+  - INS-260327-5E40
+  - INS-260329-5F96
+  - INS-260330-206C
+  - INS-260320-7B4B
+  - INS-260330-CAE6
 ---
 As language models are trained on exponentially more data, the resulting performance improvements are only linear. This means that once all competitors have access to roughly the same volume of internet-scraped text, models converge toward similar capability levels on that axis alone.
 

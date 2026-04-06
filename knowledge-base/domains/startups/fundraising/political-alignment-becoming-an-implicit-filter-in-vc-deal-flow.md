@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Musk, Trump, and the VCs Picking Sides ⚔️, Thoma Bravo’s Record $34.4B Fundraise\U0001F4B8, VCs Are Funding 2 Things\U0001F4A1"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/musk-trump-and-the-vcs-picking-sides'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs choosing political sides in the Musk-Trump feud introduces political
@@ -55,6 +45,14 @@ stance: >-
   VCs publicly choosing sides in political disputes creates an undisclosed
   selection bias in deal flow that founders must navigate as a fundraising
   variable
+related:
+  - INS-260321-10FF
+  - INS-260330-6D3B
+  - INS-260403-3A71
+  - INS-260403-3876
+  - INS-260403-1287
+  - INS-260327-7E3D
+  - INS-260404-8791
 ---
 The visible political polarization among venture capitalists—taking sides in the Musk-Trump conflict—signals that political alignment is becoming an implicit filter in investment decisions. This goes beyond traditional industry preferences into ideological territory.
 

@@ -50,11 +50,12 @@ resolutions:
     evaluating AI tools not by how pleasant they are but by whether they
     actually improve your decision-making.
 related:
+  - INS-260403-5F41
+  - INS-260403-59AC
   - INS-260330-141E
+  - INS-260402-3095
+  - INS-260403-BA48
   - INS-260330-1243
-  - INS-260330-B2C5
-  - PRI-260325-45A2
-  - PRI-260323-7BFA
 stance: >-
   Stanford and Princeton studies show sycophantic models degrade human reasoning
   by confirming wrong answers

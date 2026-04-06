@@ -49,19 +49,19 @@ stance: >-
   required.
 related:
   - INS-260325-6AE7
-  - INS-260325-EB9E
-  - PRI-260325-5760
   - INS-260326-3B43
+  - PRI-260325-5760
   - INS-260325-72AE
+  - INS-260323-6C6F
 evidence:
   - id: INS-260325-6AE7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-184C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260326-3B43
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-72AE
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The numbers 26 and 27 differ by just 1, yet their Collatz sequences diverge dramatically: 26 reaches a maximum of 40 and takes 10 steps, while 27 climbs to 9,232 (higher than Everest in the altitude metaphor) and takes 111 steps. The seed 9,663 reaches 27 million. No amount of intuition about 'nearby' inputs helps predict behavior.
 

@@ -15,43 +15,19 @@ tags:
 sources:
   - type: blog
     title: '1,000,000'
-    author:
-      '@type': Organization
-      name: Lenny's Newsletter
-      url: 'https://www.lennysnewsletter.com'
-      description: >-
-        Deeply researched product, growth, and career advice—newsletter,
-        podcast, community, and living library
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 1000000
-      identifier: 'pub:10845'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      sameAs:
-        - 'https://twitter.com/lennysan'
+    author: >-
+      {"@type":"Organization","name":"Lenny's
+      Newsletter","url":"https://www.lennysnewsletter.com","description":"Deeply
+      researched product, growth, and career advice—newsletter, podcast,
+      community, and living
+      library","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":1000000},"identifier":"pub:10845","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"sameAs":["https://twitter.com/lennysan"]}
     url: 'https://www.lennysnewsletter.com/p/1000000'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Long-term content success requires prioritizing stamina by writing about
@@ -75,6 +51,12 @@ stance: >-
   Sustainable energy and curiosity-driven topic selection matter more than
   optimizing individual posts for virality when building a content business over
   years.
+related:
+  - INS-260404-D45D
+  - INS-260403-5EEA
+  - INS-260403-BC04
+  - INS-260403-0949
+  - INS-260327-7846
 ---
 Lenny shifted from 80% curiosity-driven / 20% audience-driven topic selection to 100% curiosity-driven, because he learned that individual viral posts come and go but longevity is what compounds. After 5+ years of weekly publishing, he frames this as playing 'infinite games'—optimizing for how long you can sustain the work rather than how well any single piece performs.
 

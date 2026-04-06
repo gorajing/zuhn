@@ -48,7 +48,6 @@ stance: >-
   disruption risk is an equally critical axis that most companies under-assess
 related:
   - INS-260322-F6AA
-  - INS-260327-6F08
   - INS-260402-E2FF
   - INS-260403-946A
   - INS-260404-0022

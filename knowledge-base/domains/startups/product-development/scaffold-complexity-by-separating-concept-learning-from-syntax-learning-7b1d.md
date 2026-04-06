@@ -53,41 +53,41 @@ stance: >-
   Introducing one new concept per iteration while keeping syntax stable produces
   faster comprehension than introducing concept and syntax simultaneously
 related:
-  - INS-260328-A46F
-  - INS-260329-5ECD
-  - INS-260329-9311
-  - INS-260329-939E
-  - INS-260329-04FA
-  - INS-260329-AD3E
-  - INS-260330-0102
+  - INS-260329-8896
+  - INS-260329-9074
+  - INS-260329-6D6C
+  - INS-260329-B2F4
   - INS-260329-DAD1
-  - INS-260329-ACE6
-  - INS-260329-BE50
+  - INS-260329-D3F6
+  - INS-260330-0102
+  - INS-260330-81A7
+  - INS-260403-D4EA
+  - INS-260405-EFC2
 evidence:
   - id: INS-260329-5ECD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0E6E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-81A7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6D6C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-8896
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9074
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D48B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-AD3E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-DAD1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D3F6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-4B12
-    relationship: RELATED
+    type: SUPPORTS
 ---
 A consistent pattern throughout CS50 Python is Malan's discipline of changing exactly one thing between code examples. When introducing type conversion, he first shows string concatenation ('12' instead of 3), then adds int() while keeping everything else identical. When teaching loops, he first shows the concept with a while loop counting down, then shows the same concept counting up, then introduces the for loop syntax. He never changes the concept and the syntax at the same time.
 

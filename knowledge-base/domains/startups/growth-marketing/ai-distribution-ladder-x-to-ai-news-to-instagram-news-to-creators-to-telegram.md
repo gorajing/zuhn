@@ -45,8 +45,6 @@ related:
   - PRI-260328-0C15
   - INS-260330-1DCF
   - PRI-260328-2E23
-  - INS-260329-97C1
-  - INS-260403-1284
   - INS-260403-4A9E
 stance: >-
   New AI products follow a predictable distribution ladder: X small communities

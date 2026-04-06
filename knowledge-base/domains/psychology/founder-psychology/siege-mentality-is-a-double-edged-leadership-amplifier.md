@@ -50,11 +50,11 @@ stance: >-
   commitment but inevitably produces toxic internal culture when the war
   metaphor turns inward.
 related:
+  - INS-260403-4075
   - INS-260330-2D6D
   - INS-260330-FAB8
-  - INS-260330-625B
-  - PRI-260323-A3A3
-  - INS-260324-224B
+  - INS-260403-B2A5
+  - INS-260403-86C7
 evidence:
   - id: INS-260330-FAB8
     type: SUPPORTS

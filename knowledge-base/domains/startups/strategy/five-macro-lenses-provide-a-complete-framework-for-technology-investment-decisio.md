@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Learn With Me
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/learn-with-me'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A five-lens framework spanning deep tech, energy, healthcare, economics, and
@@ -63,6 +53,12 @@ stance: >-
   Tracking deep tech breakthroughs, energy transition, healthcare shifts,
   capital market dynamics, and socio-political trends together produces better
   investment theses than analyzing any single dimension in isolation
+related:
+  - INS-260403-A6AF
+  - INS-260403-912C
+  - INS-260403-35A6
+  - INS-260404-86D3
+  - INS-260403-F4C9
 ---
 Chamath organizes his worldview around five interconnected themes: deep tech (science making scarce things abundant), energy transition (trillions in capex reallocation), healthcare (20% of GDP plus demographic shifts), economic analysis (capital markets and business model viability), and socio-political trends (the overlay connecting everything). He explicitly frames these as lenses for understanding the world, not just investment categories.
 

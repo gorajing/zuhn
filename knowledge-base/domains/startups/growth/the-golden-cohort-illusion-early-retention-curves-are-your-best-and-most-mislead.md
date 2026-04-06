@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why Retention Breaks Startups and How to Fix It
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/why-startup-retention-matters'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     First adopters retain 20-30% better than paid users; treat their curve as a
@@ -58,6 +48,14 @@ stance: >-
   A startup's first cohort retention is always artificially high because early
   adopters self-select for intent, and scaling to broader audiences will
   inevitably degrade the curve
+related:
+  - INS-260323-9492
+  - INS-260325-EE14
+  - INS-260330-78B1
+  - INS-260403-B8ED
+  - INS-260325-4846
+  - INS-260403-501D
+  - INS-260403-C752
 ---
 The Golden Cohort consists of earliest adopters who arrived with high intent and found immediate product-fit. Their retention curve flattens high and early, creating a misleading sense of product-market fit. As acquisition channels shift from organic word-of-mouth to paid ads and broader targeting, user intent softens and retention degrades.
 

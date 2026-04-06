@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'If AI is a weapon, why don''t we regulate it like one?'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/if-ai-is-a-weapon-why-dont-we-regulate'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Humanity consistently fails to regulate powerful technologies preemptively,
@@ -63,6 +51,14 @@ stance: >-
   AI agent regulation will follow the same reactive pattern as airline security
   — meaningful oversight will only arrive after a spectacular, high-casualty
   misuse event.
+related:
+  - INS-260327-74CF
+  - PRI-260328-0123
+  - INS-260405-6A6F
+  - PRI-260328-E349
+  - INS-260323-05B5
+  - INS-260404-5CFB
+  - INS-260403-5BCF
 ---
 The historical pattern is clear: jet airliners existed for decades before 9/11 forced security overhauls, RC hobby drones became the leading weapon category of the century before meaningful drone regulation existed, and nuclear technology was only controlled after Hiroshima. Smith argues AI agents will follow this identical trajectory — they won't be regulated as weapons until someone uses them as weapons.
 

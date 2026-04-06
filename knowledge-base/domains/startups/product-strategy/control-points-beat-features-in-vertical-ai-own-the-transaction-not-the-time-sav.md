@@ -49,11 +49,13 @@ stance: >-
   defensible companies, while those optimizing peripheral tasks will be absorbed
   as features by incumbents
 related:
-  - INS-260322-EDC2
   - INS-260330-C451
+  - INS-260404-B494
+  - INS-260322-EDC2
   - INS-260403-B5C0
   - INS-260403-E86E
-  - INS-260402-8595
+  - INS-260404-E8F4
+  - INS-260404-277E
 evidence:
   - id: INS-260322-EDC2
     type: EXTENDS

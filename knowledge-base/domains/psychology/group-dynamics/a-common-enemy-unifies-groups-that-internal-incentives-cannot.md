@@ -51,7 +51,6 @@ stance: >-
   external threat becomes severe enough, but the coalition dissolves once the
   threat passes.
 related:
-  - INS-260323-636C
   - INS-260323-E81D
   - INS-260323-CF30
   - INS-260323-3C7F
@@ -59,8 +58,9 @@ related:
   - INS-260323-AE9C
   - INS-260323-7C0E
   - INS-260327-B37E
-  - INS-260327-6EFB
   - INS-260330-AFF8
+  - INS-260330-825F
+  - INS-260330-B67C
 evidence:
   - id: INS-260323-636C
     type: CHALLENGES

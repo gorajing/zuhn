@@ -51,11 +51,13 @@ stance: >-
   beyond your best-in-class single product creates a structural ceiling that no
   amount of product quality can overcome
 related:
-  - INS-260326-3D8D
   - INS-260329-6D3B
+  - INS-260326-3D8D
+  - INS-260402-8C42
+  - INS-260404-3CBE
   - INS-260330-7168
-  - INS-260402-426C
-  - PRI-260328-D5EB
+  - INS-260403-008F
+  - INS-260403-80A0
 evidence:
   - id: INS-260326-3D8D
     type: EXTENDS

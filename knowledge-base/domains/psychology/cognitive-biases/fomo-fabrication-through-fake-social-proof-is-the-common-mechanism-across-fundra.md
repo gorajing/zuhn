@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 10 Startup Fundraising Scams to Know (and How to Avoid Them)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-fundraising-scams'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Nearly all fundraising scams converge on the same psychological exploit:
@@ -61,6 +51,13 @@ stance: >-
   The majority of fundraising scams share a single psychological exploit:
   manufacturing false urgency through fabricated commitments and social proof to
   bypass founders' rational due diligence.
+related:
+  - INS-260402-E522
+  - INS-260403-9F64
+  - INS-260403-D4BC
+  - INS-260403-A9C9
+  - INS-260404-569C
+  - PRI-260403-26B9
 ---
 Across the 10 scam types catalogued — fake investors, pay-to-pitch, predatory notes, impersonated VCs, data harvesting, fake commitments, PR schemes, crowdfunding fraud, and equity grabs — the underlying psychological mechanism is remarkably consistent. Each manufactures artificial social proof ('prominent investors are already committed,' 'we backed a founder who just exited') combined with urgency ('limited slots,' 'closing applications tomorrow,' 'moving quickly on top startups').
 

@@ -53,12 +53,11 @@ stance: >-
   represents a structural price-value divergence that makes the median college
   degree a deteriorating financial asset.
 related:
-  - INS-260327-9431
   - INS-260329-49E6
   - INS-260329-F443
   - INS-260329-50BD
-  - INS-260327-B6B7
-  - INS-260403-62AF
+  - INS-260403-8DD4
+  - INS-260405-8532
   - INS-260329-27A7
 evidence:
   - id: INS-260329-49E6

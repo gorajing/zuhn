@@ -19,24 +19,14 @@ sources:
     title: >-
       Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary
       Policy 
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/the-federal-reserve-and-critical'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The Fed's pattern of letting bubbles inflate then responding with emergency
@@ -61,6 +51,13 @@ stance: >-
   The Federal Reserve's institutional bias toward cleaning up after bubbles
   rather than preventing them has systematically increased the severity and cost
   of each successive financial crisis.
+related:
+  - INS-260327-8773
+  - INS-260327-C68B
+  - INS-260330-7106
+  - INS-260330-9BB5
+  - INS-260330-8BB4
+  - INS-260404-B661
 ---
 From the Great Depression through the 2008 financial crisis and COVID-19, the Federal Reserve has consistently opted to address the aftermath of financial excess rather than intervene preemptively. Greenspan explicitly chose not to act on 'irrational exuberance' in 1996, instead cutting rates after the dot-com bust. The 2008 response introduced ZIRP and QE; COVID extended QE to junk bonds — each crisis requiring more extreme tools than the last.
 

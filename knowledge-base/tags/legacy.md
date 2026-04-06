@@ -5,3 +5,4 @@
 - `INS-260330-B71B` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must continuously neutralize — legacy system bugs become permanent line items.
 - `INS-260323-F282` Today almost no one associates Nobel with dynamite -- his prize program so thoroughly overwrote his legacy that 'Nobel' means scientific achievement, not weapons.
 - `INS-260330-8156` In-N-Out survived six leadership transitions over 70 years — beating the odds where two-thirds of family businesses fail at the second generation.
+- `INS-260403-93FA` CEOs will send thousands of emails, but one will be screenshotted and define them forever.

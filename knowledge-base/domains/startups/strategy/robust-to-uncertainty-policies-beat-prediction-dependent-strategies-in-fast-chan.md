@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Democratic economic policy in the age of AI
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/democratic-economic-policy-in-the'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In periods of radical technological uncertainty, optimize for strategies
@@ -63,6 +51,17 @@ stance: >-
   When technological change makes the future radically unpredictable, strategies
   that work across all plausible scenarios dominate those optimized for any
   single predicted outcome
+related:
+  - INS-260323-4D4E
+  - INS-260322-1A20
+  - INS-260330-70B9
+  - INS-260330-3879
+  - INS-260402-CCC3
+  - INS-260403-3A8A
+  - INS-260403-B4DC
+  - INS-260403-803A
+  - INS-260403-EB56
+  - INS-260405-C709
 ---
 The article's meta-framework is broadly applicable beyond policy: when you can't predict which jobs will exist, what the macroeconomy will look like, or how income distribution will shift, the correct response is not to pick the most likely scenario and optimize for it. Instead, you design interventions that deliver value regardless of which scenario materializes.
 

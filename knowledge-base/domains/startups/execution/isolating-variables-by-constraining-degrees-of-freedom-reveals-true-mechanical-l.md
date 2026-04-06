@@ -53,22 +53,22 @@ stance: >-
 related:
   - INS-260403-8114
   - INS-260330-D7CA
+  - PRI-260405-9504
   - INS-260403-2DEE
   - INS-260330-D1A1
-  - INS-260404-D916
 evidence:
   - id: INS-260330-D7CA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-545E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-30F0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D1A1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-DDB5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-2DEE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-8114
     type: EXTENDS
     classified_at: '2026-04-06'

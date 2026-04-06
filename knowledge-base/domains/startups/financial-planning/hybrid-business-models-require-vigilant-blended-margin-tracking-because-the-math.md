@@ -18,25 +18,15 @@ tags:
 sources:
   - type: blog
     title: 8 Free Excel Templates Every Startup Founder Should Use
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/startup-excel-templates-cap-table-financial-model
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In hybrid hardware+SaaS models, blended margin is the single metric most
@@ -58,6 +48,12 @@ resolutions:
 stance: >-
   Hardware-plus-SaaS models systematically obscure margin deterioration because
   high-margin recurring revenue masks the true cost of hardware unit economics
+related:
+  - INS-260403-BE7C
+  - INS-260403-FF7E
+  - INS-260404-D471
+  - INS-260404-116E
+  - INS-260322-5790
 ---
 When a company sells hardware alongside recurring software subscriptions, the financial model becomes structurally deceptive. Strong SaaS margins can mask hardware unit economics that are deeply negative — a company can look healthy on blended metrics while each hardware unit sold is destroying value. The template tip — 'watch your blended margin like a hawk; that's where most fail' — points at a real failure mode in companies like IoT startups, consumer hardware with subscriptions, and med-tech devices.
 

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-to-win-as-a-solopreneur-software'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     QSBS allows up to $10M or 10x basis in capital gains exclusion on qualifying
@@ -61,6 +51,14 @@ stance: >-
   powerful and underutilized tax advantages in venture capital, creating
   meaningful return differentials between funds that optimize for it and those
   that do not.
+related:
+  - INS-260330-8FEC
+  - INS-260402-8424
+  - PRI-260405-E9C5
+  - INS-260403-E2DE
+  - INS-260404-F45E
+  - INS-260403-6E68
+  - INS-260403-4B31
 ---
 The QSBS provision (Section 1202) allows investors to exclude up to $10 million or 10x their cost basis in capital gains from federal taxes when selling stock in qualifying small businesses held for more than 5 years. For VC funds, this creates a powerful structural advantage that compounds across portfolio returns.
 

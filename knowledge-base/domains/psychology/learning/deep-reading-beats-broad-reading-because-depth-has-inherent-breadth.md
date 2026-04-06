@@ -51,12 +51,12 @@ stance: >-
   growth than reading dozens of books quickly, because foundational ideas touch
   every subject.
 related:
-  - INS-260320-47FA
   - INS-260329-85E9
   - INS-260330-B91E
   - INS-260325-05EC
   - INS-260327-9377
-  - INS-260329-E6AF
+  - INS-260403-68E9
+  - INS-260320-47FA
 evidence:
   - id: INS-260325-05EC
     type: CONTRADICTS

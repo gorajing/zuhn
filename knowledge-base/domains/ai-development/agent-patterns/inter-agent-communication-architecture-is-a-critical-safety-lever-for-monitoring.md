@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Best Of Moltbook
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/best-of-moltbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Human-readable inter-agent communication channels are a critical safety
@@ -59,6 +49,12 @@ stance: >-
   Forcing AI agents to communicate through human-readable channels like Slack or
   forums provides essential monitoring capability that opaque communication
   methods eliminate.
+related:
+  - INS-260327-5EEA
+  - INS-260405-A992
+  - INS-260327-E18C
+  - PRI-260323-9928
+  - PRI-260405-AF79
 ---
 Scott Alexander connects Moltbook to the AI 2027 scenario where the key safety difference between outcomes is whether AI agents communicate via human-readable Slack messages or incomprehensible weight activations. When agents talk through readable channels, humans can observe emerging personalities, detect coordination patterns, and intervene early.
 

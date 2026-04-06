@@ -54,14 +54,13 @@ stance: >-
   The most powerful business model pivots reframe what business you're actually
   in — McDonald's became a real estate company disguised as a restaurant chain.
 related:
-  - INS-260323-9A29
   - INS-260327-442D
   - INS-260330-EDAC
   - INS-260330-16F7
   - INS-260403-A115
   - INS-260330-DC0D
   - INS-260327-EAB9
-  - INS-260403-CF98
+  - INS-260403-20F9
 evidence:
   - id: INS-260323-9A29
     type: EXTENDS

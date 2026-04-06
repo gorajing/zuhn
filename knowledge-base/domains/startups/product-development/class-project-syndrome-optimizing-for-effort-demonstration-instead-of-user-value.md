@@ -50,16 +50,16 @@ stance: >-
   school rewards distance traveled from the starting point while markets only
   measure distance remaining to user needs.
 related:
-  - INS-260325-4300
   - INS-260327-5580
-  - INS-260329-BB8F
-  - INS-260329-577E
   - INS-260329-438D
   - INS-260329-CBF3
-  - INS-260330-D5BD
   - INS-260330-1854
   - INS-260330-843E
   - INS-260330-7168
+  - INS-260330-C95F
+  - INS-260330-D5BD
+  - PRI-260403-5DEA
+  - INS-260403-71A6
 evidence:
   - id: INS-260329-577E
     type: CONTRADICTS

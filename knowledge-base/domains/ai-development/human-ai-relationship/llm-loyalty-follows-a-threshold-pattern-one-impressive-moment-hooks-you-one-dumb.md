@@ -48,39 +48,39 @@ resolutions:
     maintaining fluency across 2-3 models provides resilience when your primary
     tool fails on a critical task.
 related:
+  - INS-260325-5A93
+  - INS-260323-E874
+  - INS-260330-82B5
   - INS-260403-D531
-  - INS-260403-B6FF
+  - INS-260403-DDEB
   - PRI-260323-2C5C
   - INS-260404-A938
   - INS-260329-1D08
-  - INS-260323-E874
-  - INS-260330-2154
-  - INS-260330-1FA8
-  - INS-260330-82B5
-  - INS-260403-DDEB
+  - INS-260327-9F46
+  - INS-260403-21BD
 stance: >-
   Users stick with an LLM until it fails badly on a task they care about, then
   switch
 evidence:
   - id: INS-260329-1D08
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-9F46
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-5A93
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-B641
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-E874
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1FA8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D531
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-9F38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-A938
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-DDEB
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Sebastian Raschka and Nathan Lambert reveal a universal pattern in how ML researchers (and by extension power users) choose their AI tools. You fall in love with a model when it does something impressive for one particular query -- Gemini's long-context needle-in-haystack, Claude's philosophical depth, Grok's real-time Twitter search. You then stick with it through muscle memory and recommendation flywheels until it does something noticeably wrong. Then you switch. Nobody types the same query into multiple models to compare; you only explore alternatives when something breaks. This maps to how people use browsers, text editors, and operating systems. The practical implication: for AI product builders, avoiding catastrophic failures matters more than marginal benchmark improvements. For users, maintaining fluency across 2-3 models provides resilience when your primary tool fails on a critical task.

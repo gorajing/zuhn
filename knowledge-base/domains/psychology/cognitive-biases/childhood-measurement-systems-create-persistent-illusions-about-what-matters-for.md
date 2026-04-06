@@ -55,8 +55,8 @@ related:
   - INS-260327-4C94
   - INS-260329-F04B
   - INS-260330-70F5
-  - INS-260402-CCC3
   - INS-260403-C5BA
   - INS-260403-A1DF
+  - INS-260403-41BC
 ---
 Graham identifies a specific mechanism by which childhood environments distort our sense of what matters: intelligence is easily measured and constantly judged in school, while the actual destination (producing new ideas) isn't yet happening for most children. This creates a 'perfect storm' where the proxy metric (intelligence) gets mistaken for the real goal. The illusion persists into adulthood because intelligence also wins in conversation, establishing dominance hierarchies that further reinforce its perceived primacy. This is a generalizable pattern — any time a proxy metric is easier to measure than the thing it's supposed to predict, systems will optimize for the proxy and participants will internalize it as the real goal. The same dynamic appears in startups (revenue vs value creation), academia (citations vs contribution), and hiring (credentials vs capability).

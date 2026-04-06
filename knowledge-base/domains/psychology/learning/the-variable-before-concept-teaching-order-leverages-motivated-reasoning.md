@@ -48,21 +48,20 @@ stance: >-
   and retention than presenting the concept first and then showing applications
 related:
   - INS-260322-A9DE
-  - INS-260329-2349
+  - INS-260403-2814
   - INS-260329-153F
   - PRI-260403-0509
-  - INS-260329-72D5
   - INS-260403-AA0B
-  - INS-260327-BF43
+  - INS-260405-ECCD
 evidence:
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-A9DE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-BF43
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-9A58
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial introduces variables not by defining what a variable is, but by showing a story program where changing a character's name requires editing every occurrence manually. Only after the student feels the pain of this repetition does the instructor introduce variables as the solution. This 'problem-first' ordering creates a gap in the learner's understanding that the concept then fills.
 

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "How Money Flows \U0001F30A, Chamath’s $380M Loss\U0001F92F, VCs Eating PE with AI\U0001F500"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-money-flows-chamaths-380m-loss'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI automation is making VC and PE strategies converge as both compete on
@@ -56,6 +46,17 @@ stance: >-
   AI-driven cost cutting and automation are erasing the traditional divide
   between venture capital and private equity, forcing PE firms to adopt VC-like
   speed and VCs to compete on operational value creation.
+related:
+  - INS-260321-B85C
+  - INS-260321-A56C
+  - INS-260327-93F9
+  - INS-260329-4751
+  - INS-260329-82B1
+  - INS-260330-F9B4
+  - INS-260404-4434
+  - INS-260403-5DAD
+  - INS-260403-3664
+  - INS-260402-F833
 ---
 The traditional separation between VC (growth-stage, high-risk bets) and PE (mature companies, cost optimization) is breaking down because AI automation tools now let venture-backed startups achieve PE-level operational efficiency from day one. This means VCs can offer portfolio companies the same cost-cutting playbooks that were once exclusively PE territory, while PE firms must move faster and earlier to capture AI-native companies before they scale beyond acquisition range.
 

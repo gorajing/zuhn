@@ -44,10 +44,10 @@ resolutions:
     safety as separate from core product development miss compounding gains.
 related:
   - INS-260403-EA93
+  - INS-260330-4AD5
   - INS-260326-2410
   - PRI-260405-49C0
   - PRI-260320-6847
-  - PRI-260323-50FE
   - INS-260327-FC68
 stance: >-
   Alignment work (RLHF, interpretability) directly improves model capabilities,

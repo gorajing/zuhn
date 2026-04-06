@@ -49,16 +49,16 @@ stance: >-
   jaggedness persisting across model size, while rapid startup growth masks
   operational degradation until the quality debt becomes unrecoverable.
 related:
-  - INS-260323-7EEB
   - INS-260323-1811
   - INS-260325-C8D5
-  - INS-260326-8201
   - INS-260327-7C6B
   - PRI-260328-C918
   - PRI-260323-8E89
-  - PRI-260321-14D8
-  - INS-260330-FF5B
-  - INS-260329-9074
+  - INS-260403-4803
+  - INS-260405-4B5D
+  - INS-260323-7EEB
+  - INS-260403-4730
+  - INS-260405-7305
 evidence:
   - id: INS-260323-7EEB
     type: SUPPORTS

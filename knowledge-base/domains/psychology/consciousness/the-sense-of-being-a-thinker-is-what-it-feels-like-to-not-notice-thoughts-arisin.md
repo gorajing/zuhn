@@ -47,15 +47,15 @@ stance: >-
   evidence of a self but rather the phenomenological signature of failing to
   catch the moment a thought appears in consciousness.
 related:
-  - INS-260327-B19E
   - INS-260330-363D
   - INS-260330-6CA5
+  - PRI-260405-9A14
   - INS-260402-A693
   - INS-260405-86BB
-  - INS-260405-678B
   - INS-260402-12D0
   - INS-260403-1046
   - INS-260405-B8BE
+  - INS-260405-678B
 evidence:
   - id: INS-260405-86BB
     type: EXTENDS

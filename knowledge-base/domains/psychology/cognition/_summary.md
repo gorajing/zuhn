@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 72 insights
+> 88 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -13,10 +13,12 @@
 - `INS-260404-92B8` [high] The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
 - `INS-260404-4E6D` [high] Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
 - `INS-260330-F889` [high] Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
+- `INS-260405-32BB` [high] Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
 - `INS-260403-15DA` [high] Haters and fanboys are structurally identical: both are obsessive, uncritical, and identity-fused with their target.
 - `INS-260404-0519` [high] The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
 - `INS-260403-5DD6` [high] When people overreact to small provocations, the real cause is usually a past experience their nervous system never fully processed, not a character deficiency.
 - `INS-260403-BADD` [high] Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
+- `INS-260403-D7C4` [high] When every possible life path is visible simultaneously, choosing any single path feels like losing all the others — so people choose nothing.
 - `INS-260403-CBB2` [high] The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
 - `INS-260330-CAD2` [high] Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
 - `INS-260330-6418` [high] The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
@@ -25,7 +27,10 @@
 - `INS-260330-1801` [high] Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
 - `INS-260330-0C1D` [high] Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
 - `INS-260330-0C49` [high] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
+- `INS-260403-80B1` [high] Users systematically avoid upfront configuration costs even when the time savings compound over every subsequent interaction.
+- `INS-260403-CD29` [high] When everything you say online is permanently stored, the ability to reinvent yourself and move past mistakes is fundamentally constrained.
 - `INS-260402-FE91` [high] If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
+- `INS-260404-023C` [high] Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - `INS-260330-EA8B` [high] Profanity is processed by the limbic system rather than the left hemisphere language areas, which is why Tourette's patients and people with left-hemisphere damage can still swear.
 - `INS-260330-7994` [high] Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260404-0348` [high] fMRI scans show psychopaths' emotion centers remain silent during personal moral dilemmas that light up normal brains like a pinball machine.
@@ -36,6 +41,7 @@
 - `INS-260330-FA9D` [high] When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
 - `INS-260330-2838` [high] Islam's hadith tradition explicitly grades source reliability — some sayings are well-attested, others are essentially gossip — and the '72 virgins' claim falls in the poorly-sourced category that most Muslims reject.
 - `INS-260330-3491` [high] Structuralism's reliance on patients reporting their inner experiences made it too subjective to produce replicable scientific findings.
+- `INS-260404-50F7` [high] Imagining constrained environments exposes which dependencies you've normalized and stopped noticing.
 - `INS-260330-0C10` [high] Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
 - `INS-260330-B87C` [high] The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
 - `INS-260330-8045` [high] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -43,34 +49,44 @@
 - `INS-260330-7C58` [high] The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260403-A408` [high] Step beyond asking 'is this true?' to asking 'why is this topic being written about at all?' — the selection of subject matter is itself a form of manipulation.
 - `INS-260402-3737` [high] Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
+- `INS-260403-917B` [high] When facts are instantly accessible, the premium shifts from knowing things to understanding and applying them.
 - `INS-260402-3639` [high] Obscure writing about big ideas creates a self-reinforcing trap: it attracts ambitious novices, repels critical thinkers, and has a built-in defense because you can't prove text is meaningless.
 - `INS-260403-A6B1` [high] Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 - `INS-260402-89DE` [high] Writing works as a discovery mechanism because committing to specific words forces vague ideas into falsifiable form, enabling iterative refinement.
 - `INS-260402-A693` [high] Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - `INS-260402-12D0` [high] Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
 - `INS-260405-678B` [high] Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
-- `INS-260403-ABB7` [medium] Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
+- `INS-260403-213D` [medium] Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260403-951B` [medium] Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
+- `INS-260403-D4B3` [medium] Corporate institutions persist structurally long after collective belief in their purpose has evaporated, mirroring how religious attendance outlasted religious conviction.
 - `INS-260330-8134` [medium] After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
 - `INS-260330-0E86` [medium] Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-4F49` [medium] Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
 - `INS-260404-878F` [medium] Reading can function as intellectual comfort food — removing it forces your mind to generate its own entertainment through original ideas.
 - `INS-260403-0907` [medium] Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
+- `INS-260403-A27F` [medium] Living in multiple countries trains you to question assumptions by default because your existing mental models repeatedly fail in unfamiliar contexts.
 - `INS-260403-CF23` [medium] Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260403-D16C` [medium] Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260403-160C` [medium] When commonly used words have drifted far from their original meanings, people unknowingly talk past each other using the same vocabulary.
 - `INS-260404-32C5` [medium] Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260405-2849` [medium] Erdős's 'God's book' intuition — that the best proofs feel found, not made — points to a real distinction between constructed arguments and universal truths.
+- `INS-260403-705C` [medium] Neuroscience's predictive coding theory reveals humans and AIs share the same core learning algorithm — predict the next input, update weights.
 - `INS-260330-5F6C` [medium] The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
+- `INS-260403-8679` [medium] We avoid feeling overwhelmed by change by focusing on what hasn't changed rather than what has.
 - `INS-260330-0764` [medium] Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.
+- `INS-260402-E7F7` [medium] The story's nested drug-induced lives create a situation where characters cannot determine if they are 'real' or simulated, making consistent moral behavior the only robust strategy.
 - `INS-260330-3C2F` [medium] Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
 - `INS-260330-2EF0` [medium] Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
+- `INS-260404-4E1A` [medium] Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260405-9760` [medium] Being measured on output alone and judged against your own bar is the condition for peak productivity.
 - `INS-260330-B539` [medium] Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
+- `INS-260403-47FC` [medium] Both Fatima and Dhammakaya crowds saw spinning colored suns, but Catholics saw the Virgin Mary while Buddhists saw their founder — priming shapes content, mechanism shapes structure.
 - `INS-260330-2304` [medium] Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
+- `INS-260403-10A0` [medium] Screen-free audio players like Yoto shift kids from passive screen consumption to active physical engagement with content.
 - `INS-260330-87A0` [medium] World-class debaters spend their final prep minutes writing the best case against themselves, not reinforcing their own position.
 - `INS-260403-E8DD` [medium] The High Place Phenomenon shows that when survival instincts fire without a matching threat, the brain invents an intention to explain the mismatch.
 - `INS-260330-F671` [medium] The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
+- `INS-260405-2021` [medium] Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
 - `INS-260330-6E6A` [medium] A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
 - `INS-260403-F7DE` [medium] Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
 - `INS-260403-D63C` [low] King's three-tier fear framework — grossout (disgust at the diseased), horror (shock at the unnatural), and terror (dread from the ambiguous) — maps to distinct cognitive processing modes.

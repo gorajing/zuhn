@@ -1,9 +1,11 @@
 # Tag: engineering
 
+- `INS-260405-CC9D` Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
 - `INS-260320-8632` The last generation of great engineers may already be born — AI creates a widening split between exceptional and average.
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260323-4E12` The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
 - `INS-260330-BB53` Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
+- `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
 - `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
 - `INS-260330-1222` Building a custom periscope mirror rig to film underwater gunfire required predicting where phenomena would occur, making the engineering itself a form of hypothesis testing.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
@@ -17,4 +19,6 @@
 - `INS-260323-95BC` Instead of continuous improvement (74 days to 72), strip every problem back to first principles and ask what physics allows — you'll often find 6 days is possible, and then the conversation from 74 to 6 becomes surprisingly productive.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
+- `INS-260330-5A13` Study how your current system fails at the edges to discover what to build next.
 - `INS-260405-F7C5` The Magnus effect aircraft generated more lift per unit than conventional wings — and proportionally far more drag, causing it to crash after a single flight.
+- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.

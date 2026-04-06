@@ -48,12 +48,12 @@ stance: >-
   As AI makes basic research synthesis near-free, the scarce and valuable layer
   shifts to human editorial judgment about what matters and why.
 related:
-  - INS-260322-B09B
-  - PRI-260326-DB67
   - INS-260322-7FA4
+  - PRI-260326-DB67
   - INS-260403-A101
   - PRI-260322-94C4
   - PRI-260328-C006
+  - INS-260403-CBED
 evidence:
   - id: INS-260322-7FA4
     type: TRANSFERS_TO

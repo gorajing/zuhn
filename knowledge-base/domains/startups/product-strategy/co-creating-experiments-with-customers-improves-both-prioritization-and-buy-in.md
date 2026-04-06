@@ -48,15 +48,15 @@ stance: >-
   produces better product decisions and warmer early adopters than arms-length
   research alone.
 related:
-  - INS-260330-90AD
-  - INS-260402-F957
-  - INS-260403-2BEE
   - INS-260403-343D
   - INS-260403-DFC3
+  - INS-260404-A46A
+  - INS-260402-2A1D
   - INS-260403-B1F2
+  - INS-260403-872C
   - INS-260326-967C
-  - INS-260322-8D47
-  - INS-260322-5831
+  - INS-260403-9A0F
+  - INS-260403-6844
 evidence:
   - id: INS-260330-90AD
     type: TRANSFERS_TO

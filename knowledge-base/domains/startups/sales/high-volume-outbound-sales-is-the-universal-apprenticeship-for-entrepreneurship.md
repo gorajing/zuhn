@@ -53,9 +53,9 @@ stance: >-
   entrepreneurs
 related:
   - INS-260323-4B09
-  - INS-260327-60A0
   - PRI-260328-E921
   - INS-260327-9C00
+  - INS-260327-60A0
   - INS-260330-9F1F
   - INS-260330-049B
 evidence:

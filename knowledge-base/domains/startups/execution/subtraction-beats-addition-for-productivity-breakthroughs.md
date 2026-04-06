@@ -45,11 +45,11 @@ stance: >-
   Removing activities and obligations produces larger productivity gains than
   adding new routines or habits
 related:
+  - INS-260402-C98A
   - INS-260329-2B52
   - INS-260404-BFD0
   - INS-260330-D61A
   - INS-260321-A56C
-  - INS-260403-03BD
 evidence:
   - id: INS-260329-2B52
     type: TRANSFERS_TO

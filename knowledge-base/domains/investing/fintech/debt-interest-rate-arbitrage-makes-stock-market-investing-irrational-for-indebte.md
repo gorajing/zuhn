@@ -47,10 +47,11 @@ stance: >-
   conservative advice but basic arbitrage math that most people fail to compute
 related:
   - INS-260327-14E6
+  - INS-260403-7C02
+  - INS-260403-B9B8
+  - INS-260403-B98A
   - PRI-260405-0099
   - INS-260330-EF10
-  - INS-260330-AD13
-  - INS-260323-1B42
 evidence:
   - id: INS-260330-EF10
     type: SUPPORTS

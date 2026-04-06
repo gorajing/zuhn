@@ -49,7 +49,6 @@ stance: >-
   investors who already expect it to be wrong
 related:
   - INS-260330-D801
-  - INS-260403-C695
   - INS-260404-16E1
   - INS-260404-E36F
   - INS-260405-092A

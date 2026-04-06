@@ -1,3 +1,3 @@
 # Tag: fundraising-leverage
 
-- `INS-260402-2E19` Being ramen profitable — earning just enough to cover living expenses — gives founders more fundraising leverage than almost any other signal.
+- `INS-260403-A9C9` Investors fund execution evidence over ideas, making traction-building the highest-ROI pre-fundraising activity.

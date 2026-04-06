@@ -43,14 +43,13 @@ stance: >-
   cannibalize or diverge from their core model
 related:
   - INS-260327-0004
-  - INS-260327-42F0
-  - INS-260327-500C
   - INS-260327-30E4
-  - INS-260327-7C69
   - INS-260403-9DBA
   - INS-260330-EB1B
   - PRI-260324-12CF
-  - INS-260330-A3EB
+  - INS-260403-8176
+  - INS-260403-E6F0
+  - INS-260403-F0DC
 evidence:
   - id: INS-260327-7C69
     type: SUPPORTS

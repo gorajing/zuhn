@@ -5,5 +5,6 @@
 - `INS-260327-78E6` Keto dieters who claim they need less sleep are misinterpreting sympathetic nervous system overdrive from elevated cortisol and catecholamines as reduced sleep need.
 - `INS-260327-F958` Carbohydrate restriction suppresses thyroid hormones (the body's metabolic thermostat), reducing metabolic rate and making long-term leanness harder to maintain.
 - `INS-260327-E6BC` Former keto advocates are increasingly adding fruit and carbohydrates back due to hormonal and thyroid concerns
+- `INS-260330-C4D8` Metabolic flexibility means efficiently switching between carb and fat fuels on demand, not maximizing fat-burning capacity.
 - `INS-260327-13A9` The number one animal-based diet mistake is eating too few carbohydrates from fruit and honey, causing elevated cortisol, suppressed thyroid, and lower testosterone.
 - `INS-260327-F50F` The three biggest health realizations are seed oil harm, carbohydrate necessity, and organ meat value

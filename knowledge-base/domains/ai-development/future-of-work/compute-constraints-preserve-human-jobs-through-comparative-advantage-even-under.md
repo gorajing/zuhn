@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Plentiful, high-paying jobs in the age of AI'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Finite compute forces allocation tradeoffs that keep humans economically
@@ -67,6 +55,12 @@ stance: >-
   Producer-specific constraints on compute mean comparative advantage will
   sustain human employment and wages even when AI exceeds human performance at
   every task
+related:
+  - INS-260330-0C1B
+  - INS-260328-60C7
+  - PRI-260328-A589
+  - INS-260403-976C
+  - PRI-260405-9504
 ---
 The standard fear about AI and jobs conflates competitive advantage (who does it better) with comparative advantage (who does it better relative to their other options). Even if AI outperforms humans at every task, compute is a producer-specific constraint that forces hard allocation choices. When AI could generate $2000/hour as an engineer but only $1000/hour as a doctor, the opportunity cost makes human doctors economically rational despite being 5x worse.
 

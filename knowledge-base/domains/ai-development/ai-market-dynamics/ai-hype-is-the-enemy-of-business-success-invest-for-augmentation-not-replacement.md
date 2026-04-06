@@ -48,10 +48,11 @@ resolutions:
 related:
   - INS-260324-782C
   - INS-260324-62A8
+  - INS-260403-F6D2
   - PRI-260328-BEAB
   - INS-260327-E1EB
-  - PRI-260327-117F
   - INS-260323-CEA8
+  - INS-260403-6705
 stance: >-
   No business became an industry leader through cost-cutting alone — AI
   investments driven by competitive fear rather than strategic vision will fail.

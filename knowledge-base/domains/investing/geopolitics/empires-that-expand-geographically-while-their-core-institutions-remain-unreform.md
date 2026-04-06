@@ -53,15 +53,15 @@ stance: >-
   the administrative infrastructure cannot support the territorial extent.
 related:
   - INS-260327-619F
+  - INS-260327-F7FE
+  - INS-260330-2E1E
   - INS-260327-479C
+  - INS-260323-DF0F
   - INS-260330-F116
-  - INS-260330-912C
-  - INS-260330-72BD
-  - PRI-260328-7EA5
   - INS-260327-BE3F
   - INS-260327-B3B3
   - INS-260327-4775
-  - INS-260327-15E1
+  - INS-260330-912C
 evidence:
   - id: INS-260330-2E1E
     type: TRANSFERS_TO

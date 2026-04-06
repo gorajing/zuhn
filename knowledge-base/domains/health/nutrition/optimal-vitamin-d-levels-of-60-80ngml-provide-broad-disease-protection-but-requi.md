@@ -40,6 +40,7 @@ stance: >-
   protection against cancer, autoimmune disease, and infection
 related:
   - INS-260325-A003
+  - INS-260325-024F
   - INS-260327-D19D
   - INS-260325-E6C8
   - INS-260325-4599

@@ -41,12 +41,11 @@ resolutions:
     recommendation algorithms, distribution channels -- compounds over time into
     dramatically larger reach.
 related:
+  - INS-260403-4803
   - INS-260322-71E4
   - INS-260330-A44F
   - INS-260321-6437
   - INS-260323-7EEB
-  - INS-260323-4E12
-  - INS-260330-E70C
 stance: >-
   LIGO now reaches 1,000x more space than its original design through continuous
   incremental sensitivity improvements.

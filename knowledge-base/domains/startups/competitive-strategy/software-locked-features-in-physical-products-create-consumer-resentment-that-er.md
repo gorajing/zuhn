@@ -41,10 +41,10 @@ stance: >-
   present but artificially disabled.
 related:
   - INS-260322-B450
+  - INS-260404-C6EB
+  - INS-260405-ABE0
   - PRI-260328-6A8D
   - INS-260330-5C64
-  - PRI-260405-548B
-  - PRI-260403-1D59
 ---
 Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlash because the feature is visibly present but artificially disabled.
 

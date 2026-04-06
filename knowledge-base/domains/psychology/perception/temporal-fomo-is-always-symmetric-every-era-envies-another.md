@@ -54,11 +54,11 @@ stance: >-
   equally envy the present, making every temporal position simultaneously
   privileged and deprived.
 related:
+  - INS-260405-64FA
   - INS-260323-4711
   - INS-260327-8C74
+  - INS-260403-3A72
   - INS-260330-DBA4
-  - INS-260403-D294
-  - INS-260403-B710
 evidence:
   - id: INS-260325-6F7F
     type: SUPPORTS

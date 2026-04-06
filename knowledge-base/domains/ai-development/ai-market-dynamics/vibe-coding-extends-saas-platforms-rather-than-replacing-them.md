@@ -52,14 +52,14 @@ resolutions:
     apps on top of Gmail exemplifies this: they're not replacing Gmail, they're
     extending it.
 related:
+  - INS-260404-D6F7
   - INS-260330-7C24
   - INS-260320-DEAF
-  - PRI-260328-B4BD
-  - INS-260403-15DD
-  - INS-260405-D23E
+  - INS-260403-D6C2
+  - INS-260404-21E6
   - INS-260327-C464
-  - INS-260329-B4E7
-  - INS-260330-819E
+  - INS-260403-A2BA
+  - INS-260403-BCCB
 stance: >-
   Vibe coding won't replace enterprise SaaS because of comparative advantage and
   hidden edge cases

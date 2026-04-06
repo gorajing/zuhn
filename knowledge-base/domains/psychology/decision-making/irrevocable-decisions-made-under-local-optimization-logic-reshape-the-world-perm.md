@@ -53,14 +53,12 @@ stance: >-
   The most consequential decisions in human history were not recognized as
   consequential when made, because each step was locally rational optimization.
 related:
-  - INS-260330-D0AB
   - PRI-260405-129E
   - INS-260403-CB33
   - INS-260330-318C
   - PRI-260328-D292
   - INS-260325-DFA5
   - INS-260330-0881
-  - INS-260403-202E
 evidence:
   - id: INS-260324-29D8
     type: SUPPORTS

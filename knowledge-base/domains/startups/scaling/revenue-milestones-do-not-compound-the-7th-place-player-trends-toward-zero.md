@@ -50,10 +50,10 @@ stance: >-
   of the winner — it means you're trending toward having no revenue at all
 related:
   - INS-260322-7276
-  - INS-260329-B2BE
   - INS-260329-49A4
   - PRI-260322-8FD4
-  - INS-260329-ADCD
+  - INS-260405-C56F
+  - INS-260405-0060
 ---
 Founders often comfort themselves with the belief that if the market leader does $500M and they do $50M, they're simply worth a tenth of the winner. Dalton argues this reasoning is almost never supported by evidence — the 7th place player in most software markets trends toward zero revenue, not proportional revenue. This is a power-law dynamic where winners capture disproportionate value.
 

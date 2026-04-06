@@ -49,16 +49,16 @@ stance: >-
   $1B revenue is a durable structural trend driven by technology, not a
   temporary anomaly.
 related:
-  - INS-260323-5341
   - INS-260327-A5F9
   - INS-260327-725F
   - INS-260328-9415
-  - INS-260330-5E47
   - INS-260403-87AC
+  - INS-260403-1817
   - PRI-260328-0993
-  - INS-260327-2B62
-  - INS-260404-7C79
+  - INS-260403-6184
   - INS-260403-7C71
+  - INS-260404-7C79
+  - INS-260403-A8BA
 evidence:
   - id: INS-260327-725F
     type: CONTRADICTS

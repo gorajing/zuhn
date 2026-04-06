@@ -54,22 +54,20 @@ stance: >-
   rather than the designed primary output
 related:
   - INS-260330-19C3
-  - INS-260330-3AB4
-  - INS-260403-D85D
-  - INS-260404-8050
-  - INS-260403-882A
-  - INS-260404-D8A5
-  - INS-260330-0CFF
   - PRI-260403-53D6
+  - INS-260404-E9F3
+  - INS-260404-8050
+  - INS-260404-0FEB
+  - INS-260403-EFE6
 evidence:
   - id: INS-260330-3AB4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E786
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C607
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-8050
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Photosynthesis evolved to produce chemical energy (ATP, NADPH, and ultimately glucose) for plant survival. Oxygen was literally described as 'the most useful useless byproduct in the history of useless byproducts' — a waste gas vented through stomata. Yet this byproduct transformed Earth's atmosphere, enabled the evolution of all aerobic life, and became far more consequential than the glucose that plants originally optimized for.
 

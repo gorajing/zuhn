@@ -58,11 +58,11 @@ related:
   - INS-260324-1216
   - INS-260324-A9DF
   - INS-260322-3259
-  - INS-260323-5341
   - INS-260323-104E
   - INS-260327-048B
   - INS-260327-442D
   - INS-260327-EAB9
+  - INS-260327-B45A
 ---
 In the 1950s-60s fast food industry, the standard franchise model was territorial franchising with supply markup — franchisors sold exclusive territory rights upfront and profited by overpricing equipment and supplies to their franchisees. Ray Kroc deliberately rejected both practices. He expanded one store at a time (requiring operators to prove success before getting a second) and took only a 1.4% service fee on revenue, refusing to sell supplies. This made franchisees partners rather than customers.
 

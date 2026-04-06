@@ -47,13 +47,13 @@ stance: >-
   companies, comparable to electricity during industrialization, even as unit
   costs decline because volume growth outpaces efficiency gains.
 related:
-  - INS-260323-4D13
   - INS-260323-7625
   - INS-260325-206C
   - INS-260322-D079
   - INS-260325-BEAC
-  - INS-260329-0D70
-  - INS-260403-D543
+  - INS-260405-A22F
+  - PRI-260405-B144
+  - INS-260405-AE75
 evidence:
   - id: INS-260322-D079
     type: CHALLENGES

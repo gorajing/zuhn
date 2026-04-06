@@ -1,11 +1,17 @@
 # Tag: systemic-risk
 
+- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
+- `INS-260330-77D1` Goldman Sachs earned ~200x their normal fees on 1MDB bond deals, creating an overwhelming financial incentive to suppress internal questions about fund legitimacy.
+- `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
 - `INS-260327-3A81` If AI fails we lose jobs from the economic collapse of wasted investment; if AI succeeds we lose jobs from automation - the economy has placed an irreversible bet on a technology whose success and failure both lead to displacement.
+- `INS-260403-B0E3` Circular investment chains in AI infrastructure create fragility where one valuation drop can cascade through the entire system.
 - `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
 - `INS-260327-BB67` Auto lending has become so fragmented across leases, subprime loans, buy-here-pay-here, and cross-collateralized products that even regulators admit they can't track total exposure.
 - `INS-260327-226A` Many companies haven't been profitable in years and survived by continuously refinancing cheap debt - rising rates are exposing them all simultaneously.
+- `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260327-C834` The economy hasn't collapsed despite tariff whiplash, mass firings, and regulatory chaos because large systems have enormous inertia.
 - `INS-260327-10E8` When healthcare is tied to employment, every layoff and career transition creates a gap in medical coverage that directly increases mortality risk.
+- `INS-260403-F061` The Gramm-Leach-Bliley Act of 1999 repealed Glass-Steagall separations, directly enabling the risk concentration that produced the 2008 crisis.
 - `INS-260323-75A8` When a population is given no hope, no political agency, and increasing aggression for decades, violent escalation is not surprising — it's the predictable outcome of a pressure cooker with no release valve.
 - `INS-260330-2B4F` Morgan's two bailouts of the U.S. economy demonstrated that private financiers can fill institutional vacuums, but this concentrates dangerous power in unelected hands.
 - `INS-260323-7D90` When humans hunted the Tasmanian tiger to extinction, the loss of this apex predator triggered cascading failures — wallaby overpopulation, habitat destruction, bird decline, and disease spread in Tasmanian devils.
@@ -14,8 +20,7 @@
 - `INS-260327-5140` Marmont's divisions were spread too thin, and when one was broken, the entire French line collapsed division by division in a cascade of failures.
 - `INS-260330-01D5` Government dependence on land revenue creates existential incentives to suppress price discovery, allowing vacancy rates to climb far beyond what free markets would tolerate.
 - `INS-260327-1F6A` Americans aged 25-44 are 2.5x more likely to die than peers in other wealthy nations, with a 20-year life expectancy gap between the richest and poorest US counties.
-- `INS-260330-77D1` Goldman Sachs earned ~200x their normal fees on 1MDB bond deals, creating an overwhelming financial incentive to suppress internal questions about fund legitimacy.
-- `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
 - `INS-260403-0E11` The failure front in a Prince Rupert's Drop is powered by the drop's own stored mechanical energy, not by the force that nicked the tail.
+- `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.

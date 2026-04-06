@@ -17,12 +17,11 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
-  - INS-260404-CA98
-  - PRI-260321-037A
   - INS-260321-A5D4
-  - INS-260403-EE70
   - INS-260327-D9D6
-  - INS-260320-4993
+  - PRI-260321-037A
+  - INS-260403-F400
+  - INS-260403-7D7A
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
@@ -48,13 +47,13 @@ stance: >-
   implementations.
 evidence:
   - id: INS-260325-0FED
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-89DE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-CA98
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7964
-    relationship: RELATED
+    type: SUPPORTS
 ---
 
 Specificity in prompts directly correlates with output quality. Instead

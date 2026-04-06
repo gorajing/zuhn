@@ -52,28 +52,28 @@ related:
   - INS-260330-033A
   - INS-260330-FC4D
   - INS-260330-3AF7
-  - INS-260403-05D8
-  - INS-260404-EC33
+  - INS-260330-F82A
+  - INS-260330-4489
   - INS-260403-9442
-  - INS-260404-47F5
-  - INS-260330-7B11
-  - INS-260330-68C8
-  - INS-260403-C514
+  - INS-260403-532D
+  - INS-260404-B6E8
+  - INS-260404-9229
+  - INS-260404-3B9D
 evidence:
   - id: INS-260330-FC4D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-68C8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F82A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6AB7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-033A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-53A9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-EC33
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Rather than evolving a more efficient carbon-fixation enzyme, plants simply produce staggering quantities of RuBisCo — an estimated 40 billion tons active on Earth at any time, making it the most abundant protein on the planet. The strategy works: despite ~50% error rates, sheer volume ensures enough carbon gets fixed.
 

@@ -52,7 +52,6 @@ related:
   - INS-260321-33FC
   - INS-260330-BEE7
   - INS-260403-9F5A
-  - INS-260330-4A1F
   - INS-260330-049B
 ---
 Meniri's life changed when he walked up Fifth Avenue and discovered the Apple Store. The iPod ad, the beautiful product design, the 24-hour access to computers—this encounter with Apple's obsession with excellence made him want to learn design and become a product founder.

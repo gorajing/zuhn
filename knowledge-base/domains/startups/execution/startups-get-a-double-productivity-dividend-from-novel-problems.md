@@ -48,10 +48,10 @@ stance: >-
   all their time in peak creative flow.
 related:
   - INS-260327-CEE4
+  - INS-260404-B893
   - INS-260327-E7B8
   - INS-260329-72C1
   - INS-260330-0982
-  - INS-260402-4AB4
 evidence:
   - id: INS-260329-72C1
     type: SUPPORTS

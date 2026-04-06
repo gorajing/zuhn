@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: 25 proven tactics to accelerate AI adoption at your company
-    author:
-      - '@type': Person
-        name: Peter Yang
-        url: 'https://substack.com/@petergyang'
-        description: >-
-          Extremely practical AI tutorials and interviews for busy people | Join
-          135K+ readers at creatoreconomy.so | Product at Roblox
-        identifier: 'user:6052627'
-        sameAs:
-          - 'https://twitter.com/petergyang'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!827n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2dbd75e-1c5a-48ab-94ef-b24caea63cdf_1024x1024.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!827n!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2dbd75e-1c5a-48ab-94ef-b24caea63cdf_1024x1024.png
+    author: Peter Yang
     url: 'https://www.lennysnewsletter.com/p/25-proven-tactics-to-accelerate-ai'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Long approval processes for AI tools don't prevent usage — they push
@@ -62,6 +48,13 @@ stance: >-
   Employees blocked by slow AI tool approvals don't wait — they use personal
   accounts, creating shadow AI that's worse for the company than fast-tracked
   official access
+related:
+  - INS-260320-6A9D
+  - INS-260403-F7A9
+  - INS-260325-5CA5
+  - INS-260329-92E9
+  - INS-260403-BA81
+  - PRI-260320-097F
 ---
 Every company in the study found that procurement bottlenecks were silently undermining their AI strategy. Employees who hit approval walls didn't stop using AI — they used personal ChatGPT accounts, which means company data flowing through unmonitored channels with no governance.
 

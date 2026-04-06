@@ -44,7 +44,6 @@ stance: >-
   Companies with expired business models need invention programs, not turnaround
   plans, because optimization of a declining model only delays failure
 related:
-  - INS-260403-1000
   - INS-260403-1B15
   - INS-260404-FF0B
   - INS-260403-BB22

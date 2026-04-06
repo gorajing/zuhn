@@ -48,15 +48,15 @@ stance: >-
   cause the very economic collapse people worry AI success might bring.
 related:
   - INS-260322-59B9
-  - INS-260325-2069
   - INS-260323-7403
   - INS-260321-F446
-  - INS-260327-41A9
   - INS-260327-93F9
   - PRI-260328-A1AA
   - PRI-260321-7307
   - INS-260403-7BA1
   - INS-260327-E874
+  - PRI-260328-D401
+  - INS-260405-F8AE
 evidence:
   - id: INS-260322-59B9
     type: SUPPORTS

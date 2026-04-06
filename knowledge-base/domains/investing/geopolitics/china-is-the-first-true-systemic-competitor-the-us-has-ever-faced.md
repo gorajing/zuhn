@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: Deep Dives
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dives'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     China is historically unique as a US competitor — no prior adversary ever
@@ -60,6 +50,12 @@ stance: >-
   GDP, China represents the first genuine systemic competitor to American
   economic and technological dominance, with the turning point traceable to
   2001.
+related:
+  - INS-260323-FFE8
+  - INS-260402-45FA
+  - INS-260403-8E25
+  - INS-260403-6694
+  - INS-260327-EE5E
 ---
 Chamath frames the US-China dynamic with a striking historical observation: neither the Soviet Union nor the combined economies of Germany, Italy, and Japan during WW2 ever accounted for more than 60% of US GDP. The modern US had never faced a true systemic competitor until China. He traces the turning point to 2001, likely referencing China's WTO accession.
 

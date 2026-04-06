@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Europe to US: The Expansion Playbook Every Founder Needs'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/europe-to-us-startup-expansion-playbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Post-pandemic, European startups stretch US entry timelines to 5 years
@@ -60,6 +50,15 @@ stance: >-
   Remote-first go-to-market has fundamentally changed US expansion economics,
   allowing European founders to validate US demand through async demos and
   founder-led outreach before any physical relocation.
+related:
+  - INS-260322-D69E
+  - INS-260328-6898
+  - INS-260329-A57B
+  - INS-260402-C030
+  - INS-260404-77CD
+  - INS-260403-AC9F
+  - INS-260322-CFB1
+  - INS-260322-A892
 ---
 Before 2020, the average time for European startups to open a US office was four years. Post-pandemic, that stretched to five—not from slower ambition but because remote-first GTM motions allow cheaper, earlier market testing. The modern expansion ladder is: close first US customer from Europe, bridge time zones with hybrid support, make one embedded US hire, build GTM spine with real accountability, then relocate a founder or executive only once the funnel justifies it.
 

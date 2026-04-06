@@ -56,15 +56,15 @@ stance: >-
   not a personality overhaul.
 related:
   - INS-260325-F6AF
-  - INS-260325-13B9
-  - INS-260325-1AD3
   - INS-260323-3436
-  - INS-260327-A653
   - INS-260329-AB9A
   - INS-260329-E0DE
   - INS-260330-B15C
   - INS-260403-BC89
   - PRI-260403-88F5
+  - INS-260403-F4ED
+  - INS-260403-5A91
+  - INS-260403-EAF7
 evidence:
   - id: INS-260325-600C
     type: CHALLENGES

@@ -51,7 +51,7 @@ related:
   - INS-260330-4AE7
   - INS-260330-A949
   - INS-260402-D9AC
-  - PRI-260405-64B2
+  - INS-260405-B967
 ---
 Graham argues that startups should pick a target growth rate (5-7% weekly at YC) and use it as a compass for all decisions. Should you attend a conference? Hire someone? Add a feature? The answer is whatever gets you your target growth rate. This transforms the bewilderingly complex problem of starting a company into an optimization problem — a narrow focus that programmers find satisfying and effective.
 

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Airwallex: How an Outsider Built an $8B Fintech Empire'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/airwallex-story-8-billion-fintech-empire'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Revenue diversification across multiple financial product categories signals
@@ -61,6 +51,14 @@ stance: >-
   34%, payments 30%, spend management 20%, infrastructure licensing), it has
   transitioned from a product company to a financial operating system with
   compounding economics.
+related:
+  - INS-260329-97C1
+  - INS-260404-7E24
+  - INS-260403-C164
+  - PRI-260405-D6F5
+  - PRI-260328-43F1
+  - INS-260404-EC16
+  - INS-260403-8BA4
 ---
 Airwallex's revenue composition reveals a deliberate platform strategy: business banking (34%), payments (30%), spend management (20%), and infrastructure licensing. Each segment individually competes with focused players — Mercury in banking, Stripe in payments, Ramp in spend management — but the combination creates a unified financial stack that no single competitor replicates.
 

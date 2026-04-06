@@ -45,14 +45,13 @@ resolutions:
     together identify markets where AI can replace expensive human services in
     underserved verticals.
 related:
+  - INS-260403-B2A8
   - PRI-260405-6216
   - INS-260330-F527
   - INS-260327-432E
   - INS-260322-F6AA
-  - PRI-260328-1D90
   - INS-260327-325B
   - INS-260330-26E7
-  - INS-260403-F745
   - INS-260404-2365
 stance: >-
   Apply three filters to find viable AI businesses: ruthlessly niche (cannot be

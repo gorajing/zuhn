@@ -47,11 +47,12 @@ stance: >-
   infrastructure but tools that do not retain feedback, adapt to context, or
   improve over time within business workflows.
 related:
+  - INS-260403-E23C
   - INS-260327-3E23
   - INS-260323-3ADC
   - INS-260323-216A
   - PRI-260323-00C6
-  - INS-260323-EA36
+  - INS-260330-A0AE
 evidence:
   - id: INS-260322-37EE
     type: EXTENDS

@@ -45,12 +45,11 @@ stance: >-
   negligible strategic optionality and begin actively harming shareholder
   returns through opportunity cost.
 related:
-  - INS-260327-8374
+  - INS-260403-8C41
+  - INS-260404-8394
+  - INS-260403-B01D
+  - INS-260405-7698
   - INS-260403-5BBE
-  - INS-260327-FD4C
-  - PRI-260403-88F5
-  - INS-260329-541A
-  - PRI-260328-FA83
 evidence:
   - id: INS-260327-8374
     type: EXTENDS

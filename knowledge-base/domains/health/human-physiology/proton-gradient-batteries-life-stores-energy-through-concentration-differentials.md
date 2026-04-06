@@ -52,29 +52,29 @@ stance: >-
   gradients across membranes, making membrane integrity as critical as fuel
   availability
 related:
-  - INS-260330-21A8
-  - INS-260330-FA36
-  - INS-260330-3037
-  - INS-260403-8294
-  - INS-260403-050D
-  - INS-260330-8A2E
-  - INS-260330-C729
-  - INS-260330-24BA
-  - INS-260330-99CE
+  - INS-260330-C456
+  - PRI-260403-70D0
+  - PRI-260403-6E50
   - INS-260403-B6E6
+  - INS-260404-F7C5
+  - INS-260330-9FAA
+  - INS-260330-F2B6
+  - INS-260330-1677
+  - INS-260330-972B
+  - INS-260405-6C1F
 evidence:
   - id: INS-260330-21A8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-FA36
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-972B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3037
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-49E9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B6E6
-    relationship: RELATED
+    type: SUPPORTS
 ---
 In photosynthesis, energy isn't stored directly as ATP right away. Instead, the electron transport chain pumps protons into the thylakoid, creating a concentration gradient. Protons then flow back out through ATP synthase — like water through a turbine — generating ATP. The membrane itself is the battery; the gradient is the charge.
 

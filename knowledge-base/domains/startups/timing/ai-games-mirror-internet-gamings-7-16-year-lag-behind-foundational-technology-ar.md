@@ -52,14 +52,12 @@ stance: >-
   technologies must converge simultaneously
 related:
   - INS-260324-9E37
-  - INS-260402-DCC5
   - INS-260403-8CE6
   - INS-260403-06D5
+  - PRI-260405-B144
   - PRI-260405-0AC6
   - INS-260403-93A5
   - INS-260322-5790
-  - PRI-260328-4CC0
-  - INS-260403-2DE3
 evidence:
   - id: INS-260322-5790
     type: SUPPORTS

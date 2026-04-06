@@ -1,11 +1,13 @@
 # Topic: growth-strategy
 
-> 58 insights
+> 75 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
+- `INS-260402-24B0` [high] Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
 - `INS-260328-B57E` [high] Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260330-931A` [high] Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
+- `INS-260403-B610` [high] Canva built a $2B revenue engine by layering enterprise sales on top of a massive freemium user base rather than pivoting away from it.
 - `INS-260323-CE9A` [high] Rella's CEO and co-founders still personally handle customer support — the number one compliment they receive is 'we can tell you actually listen to us.'
 - `INS-260327-B357` [high] Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
 - `INS-260329-4EF5` [high] When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
@@ -16,11 +18,15 @@
 - `INS-260330-2413` [high] Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
 - `INS-260403-EDFC` [high] Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
 - `INS-260404-8750` [high] Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
+- `INS-260403-CA42` [high] Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260329-3DD7` [high] Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260322-DBEA` [high] Build free tools targeting SEO keywords to drive organic traffic instead of doing traditional marketing.
 - `INS-260328-C12D` [high] Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260329-9E6C` [high] Goodwill from overdelivering compounds into referrals, retention, and pricing power that outpaces short-term extraction.
 - `INS-260330-C7E6` [high] Coca-Cola used WWII patriotism to get government-funded bottling plants in 64 countries, turning the US military into a de facto sales force.
+- `INS-260403-B18C` [high] Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
+- `INS-260403-4C42` [high] Design growth loops where the sharing mechanism is inseparable from the product's core experience, not a separate referral layer.
+- `INS-260403-5426` [high] Each GTM stage has its own valid acquisition playbook; using tactics from the wrong stage burns resources and generates false signals.
 - `INS-260322-70DD` [high] Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
 - `INS-260323-9F61` [high] Barabasi's model shows hubs form naturally when networks grow and new nodes preferentially attach to well-connected nodes -- a tiny initial bias compounds into dominance.
 - `INS-260330-36DB` [high] Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
@@ -31,6 +37,7 @@
 - `INS-260323-2040` [high] Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260403-36D1` [high] Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
 - `INS-260330-21CC` [high] Power users stay anyway — growth comes from saving marginal users by getting them to the magic moment, not from reducing friction for heavy users.
+- `INS-260404-899D` [high] Prioritize owned channels like virality and UGC over rented channels like paid social, because competitors can always outbid you on rented platforms.
 - `INS-260329-CCC4` [high] Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
 - `INS-260322-F128` [high] The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
 - `INS-260322-5650` [high] In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
@@ -38,7 +45,10 @@
 - `INS-260329-6079` [high] Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
 - `INS-260325-175B` [high] Ron from Open Router cited a Brazilian chat app that looks generic on the surface but succeeds because it is deeply localized for Brazilian preferences, search patterns, and model optimization.
 - `INS-260322-34AE` [high] When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
+- `INS-260403-A2A2` [high] Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
 - `INS-260323-0FDA` [high] The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
+- `INS-260404-8A36` [high] Roll-ups let consolidators scale quickly by acquiring sub-scale competitors in fragmented industries.
+- `INS-260403-76B7` [high] Find one channel where you can win and double down until diminishing returns before diversifying.
 - `INS-260403-2759` [high] Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - `INS-260327-B034` [high] Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260322-36E3` [high] Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
@@ -50,13 +60,20 @@
 - `INS-260330-20F7` [high] Sean Parker's virality framework breaks viral potential into payload (people reached per blast), frequency (how often you hit them), and conversion rate — different products win on different axes.
 - `INS-260403-98E1` [high] Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260403-46B2` [high] The concentration of 25-29 year olds in a city predicts startup hub potential better than any policy metric.
+- `INS-260403-2174` [medium] Modern PLG upgrades should trigger on behavioral milestones—automations completed, integrations added—not arbitrary limits like storage caps.
 - `INS-260404-D68E` [medium] VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
 - `INS-260330-73C1` [medium] The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
 - `INS-260330-D98E` [medium] Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
+- `INS-260329-8E48` [medium] High-frequency daily posting compresses the iteration cycles needed to find what resonates, dramatically shortening time-to-traction.
 - `INS-260329-3818` [medium] Give the first session free as a half-assessment, half-pitch that delivers one visible improvement, then ask for the commitment.
 - `INS-260329-563F` [medium] Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
 - `INS-260403-F327` [medium] Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.
+- `INS-260403-E63A` [medium] Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260329-793D` [medium] Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
+- `INS-260403-183D` [medium] eDreams launched in 4 countries simultaneously, retreated to 2 profitable markets after the bubble burst, then expanded to 40+ with a proven model.
 - `INS-260329-8BD3` [medium] Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260329-825D` [medium] List an absurdly expensive premium tier to make your standard offering feel like a bargain by comparison.
 - `INS-260329-8386` [medium] Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
+- `INS-260402-8D38` [medium] As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
+- `INS-260404-3B83` [medium] Mamdani's NYC mayoral win used social-media-first grassroots fundraising to defeat opponents backed by 26 billionaires spending $22M+.
+- `INS-260402-C301` [medium] Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).

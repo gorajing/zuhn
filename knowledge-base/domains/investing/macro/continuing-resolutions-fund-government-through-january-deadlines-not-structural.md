@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: Record Government Shutdown Ends'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-161'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A continuing resolution ending January 30 means the same fight resumes in
@@ -63,6 +53,12 @@ stance: >-
   Funding agreements that restore appropriations only through January 2026 are
   not fiscal resolutions — they are deadline deferrals that guarantee another
   standoff within weeks.
+related:
+  - INS-260327-0FA9
+  - INS-260405-C49E
+  - INS-260403-839E
+  - INS-260327-A072
+  - INS-260403-21B2
 ---
 The shutdown ended with a continuing resolution funding most agencies only through January 30, 2026 — roughly ten weeks away. The underlying dispute (ACA premium subsidies) was not resolved; Democrats received only a promise of a Senate vote, not guaranteed passage. This structure guarantees a repeat confrontation at the next deadline.
 

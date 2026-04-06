@@ -55,22 +55,22 @@ stance: >-
   most effective technique for making abstract precision differences intuitively
   graspable.
 related:
-  - INS-260323-527B
   - INS-260323-144F
-  - INS-260329-8407
   - INS-260330-8FF8
+  - INS-260323-527B
   - INS-260330-CBFD
   - INS-260325-CC49
-  - INS-260403-EA82
+  - INS-260325-5B7F
+  - INS-260330-4824
 evidence:
   - id: INS-260329-D8BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-527B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-CC49
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-5B7F
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The video's most memorable moment is the comparison: if the silicon sphere were scaled to Earth's size, the difference between its highest and lowest points would be about 14 meters. This single analogy communicates more about the sphere's precision than any number of nanometer measurements could.
 

@@ -45,13 +45,14 @@ stance: >-
   suggests — $20k and 10 weeks is enough to build a working prototype and
   attract follow-on investors.
 related:
-  - INS-260329-F7F4
   - INS-260330-E414
+  - INS-260403-79F3
   - INS-260329-4DBC
+  - INS-260403-D6C2
   - INS-260403-7E27
   - INS-260403-8D8D
-  - INS-260326-80B1
   - INS-260403-8CE6
+  - INS-260405-7C86
 evidence:
   - id: INS-260326-80B1
     type: TRANSFERS_TO

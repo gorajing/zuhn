@@ -47,10 +47,10 @@ stance: >-
   95th percentile.
 related:
   - INS-260402-B12D
+  - INS-260403-C907
+  - INS-260405-42D3
   - PRI-260320-3032
-  - INS-260330-012D
-  - PRI-260328-F497
-  - INS-260403-0C1D
+  - INS-260405-3E73
 evidence:
   - id: INS-260402-B12D
     type: SUPPORTS

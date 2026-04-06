@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/saas-company-valuation-formula-2026'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Across 60+ transactions, annualized ARR growth rate correlates most strongly
@@ -54,6 +44,16 @@ resolutions:
 stance: >-
   Among all company-specific variables, ARR growth rate has the strongest
   statistical correlation with observed private SaaS transaction multiples
+related:
+  - INS-260403-37F4
+  - INS-260404-D475
+  - INS-260404-2C23
+  - INS-260403-3DCB
+  - INS-260330-D63C
+  - INS-260404-9103
+  - PRI-260405-5912
+  - INS-260403-CDF1
+  - INS-260404-DFE5
 ---
 While multiple factors influence SaaS valuations, the regression analysis across 63 private transactions reveals that ARR growth rate carries the highest statistical weight. This means founders optimizing for exit value should prioritize sustainable growth above other metrics — though the growth must be calculated correctly as annualized actual run-rate, not projected.
 

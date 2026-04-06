@@ -50,7 +50,6 @@ stance: >-
   failure to adapt rather than the obsolescence of the entire category
 related:
   - INS-260323-5106
-  - INS-260324-FF33
   - INS-260327-418E
   - INS-260327-0710
   - INS-260327-1B4A
@@ -59,6 +58,7 @@ related:
   - INS-260330-9DE6
   - INS-260403-CF09
   - INS-260403-FED6
+  - INS-260403-3673
 evidence:
   - id: INS-260405-C0AF
     type: SUPPORTS

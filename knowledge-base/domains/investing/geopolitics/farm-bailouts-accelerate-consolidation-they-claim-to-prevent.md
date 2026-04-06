@@ -47,11 +47,11 @@ stance: >-
   farms more than small family operations, accelerating industry consolidation
   rather than preserving small farming.
 related:
+  - INS-260403-3BFA
+  - INS-260403-5056
   - INS-260327-B6B7
+  - INS-260403-5CBD
   - INS-260330-2B4F
-  - PRI-260328-6136
-  - INS-260330-E068
-  - INS-260405-A103
 evidence:
   - id: INS-260323-59C9
     type: TRANSFERS_TO

@@ -54,16 +54,16 @@ stance: >-
   unemployment) rather than geographic proximity reveals counterintuitive market
   opportunities that competitors miss.
 related:
+  - INS-260403-183D
   - INS-260327-A4D1
+  - INS-260403-7410
+  - INS-260405-21C7
   - INS-260327-F417
-  - INS-260330-ACCD
-  - PRI-260328-A4AC
-  - INS-260330-C9C6
   - INS-260327-D76A
   - INS-260330-1DCA
+  - INS-260330-ACCD
   - INS-260330-E43F
   - INS-260403-2C50
-  - INS-260404-B475
 evidence:
   - id: INS-260327-F417
     type: TRANSFERS_TO

@@ -48,10 +48,10 @@ stance: >-
   both parties are optimizing for
 related:
   - INS-260323-4473
+  - INS-260404-34DB
   - INS-260329-64B8
   - INS-260325-502D
-  - INS-260329-E0B0
-  - INS-260404-7EFA
+  - INS-260403-B26E
 evidence:
   - id: INS-260323-4473
     type: EXTENDS

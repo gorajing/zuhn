@@ -45,21 +45,20 @@ stance: >-
   loyalty, exploration for trust, chase for journey — and people who cannot name
   what they're gaining should not make the trade.
 related:
-  - INS-260323-CF27
   - INS-260328-6A8C
   - INS-260329-59D2
-  - INS-260329-9EFA
   - INS-260329-3D14
   - PRI-260324-E8C6
+  - INS-260403-4610
   - INS-260325-5A93
 evidence:
   - id: INS-260329-DFDD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-516E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-6A8C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3D14
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Hormozi distills the commitment decision into three explicit trades, each with a clear cost and benefit. Trading novelty for loyalty means giving up new experiences in exchange for predictable, trustworthy behavior from one person. Trading exploration for trust means stopping the search in exchange for deep accumulated investment that compounds over time. Trading the chase for a journey means redirecting energy from pursuing people toward pursuing shared goals with someone already beside you. The framework's power is in making the trade explicit: if you prefer novelty over loyalty, exploration over trust, or the chase over the journey, you shouldn't commit — and that's a legitimate choice, not a character flaw. The anti-pattern is making the trade without valuing what you receive, which leads to resentment.

@@ -45,12 +45,11 @@ stance: >-
   The best large systems begin as quick throwaway programs that incrementally
   improve, not as ambitious projects designed big from the start
 related:
+  - INS-260404-AD21
+  - INS-260404-D66A
+  - INS-260405-D925
   - INS-260330-64D8
   - INS-260403-D2B1
-  - INS-260329-69F0
-  - INS-260403-8011
-  - INS-260403-0372
-  - INS-260404-7680
 evidence:
   - id: INS-260330-64D8
     type: EXTENDS

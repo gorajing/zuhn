@@ -58,13 +58,12 @@ stance: >-
   prevents investors from gaining control
 related:
   - INS-260328-896B
+  - INS-260403-2ED2
   - INS-260404-1986
   - INS-260404-0D62
   - INS-260404-B715
   - INS-260323-4C43
-  - INS-260330-DC22
   - INS-260403-CEC0
-  - INS-260404-3275
 evidence:
   - id: INS-260328-896B
     type: EXTENDS

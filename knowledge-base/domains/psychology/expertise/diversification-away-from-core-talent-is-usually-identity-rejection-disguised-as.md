@@ -52,11 +52,11 @@ stance: >-
   are driven more by discomfort with their identity than by genuine opportunity
   assessment
 related:
-  - INS-260330-BCC2
   - PRI-260403-2E59
   - INS-260405-D66B
+  - INS-260405-D959
   - INS-260403-D966
-  - INS-260329-F21F
+  - INS-260403-F554
 evidence:
   - id: INS-260330-BCC2
     type: CHALLENGES

@@ -54,6 +54,7 @@ related:
   - INS-260323-8289
   - INS-260325-33DA
   - PRI-260323-1187
+  - INS-260404-1E65
 stance: >-
   Across multiple quantum consciousness frameworks, the brain consistently
   appears as an interface or transceiver for consciousness rather than its o...

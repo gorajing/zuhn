@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Founder-Market Fit: The VC Test You Must Pass'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/founder-market-fit-vc-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs mentally score founders across 7 dimensions—domain knowledge, obsession,
@@ -62,6 +52,12 @@ stance: >-
   covering domain expertise, obsession, execution history, network access,
   narrative clarity, customer empathy, and adaptability—and they form this
   judgment within minutes.
+related:
+  - PRI-260405-E256
+  - INS-260326-291C
+  - INS-260403-FE3B
+  - INS-260402-9681
+  - INS-260402-2A1D
 ---
 While VCs rarely disclose their exact evaluation criteria, the article reveals a consistent internal pattern: they score founders across domain expertise (inside knowledge of the market), obsession (intrinsic motivation beyond money), execution history (past shipping/leading experience), network access (ability to reach first customers and hires), narrative clarity (connecting background to mission), customer empathy (genuine understanding of user pain), and adaptability (speed of iteration and feedback incorporation).
 

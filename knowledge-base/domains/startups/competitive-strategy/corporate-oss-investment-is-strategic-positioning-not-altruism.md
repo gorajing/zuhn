@@ -15,28 +15,14 @@ tags:
 sources:
   - type: blog
     title: Why Companies Invest in Open-Source Tech and Research
-    author:
-      - '@type': Person
-        name: Devansh
-        url: 'https://substack.com/@chocolatemilkcultleader'
-        description: >-
-          The best meme-maker in Tech. Writer on AI, Software, and the Tech
-          Industry. Currently in NYC Come say hi, I want more friends. 
-        identifier: 'user:8101724'
-        sameAs:
-          - 'https://twitter.com/Machine01776819'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!0X66!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48081c70-8afa-41e3-a44e-b0f917bc7577_1200x1600.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!0X66!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48081c70-8afa-41e3-a44e-b0f917bc7577_1200x1600.jpeg
+    author: Devansh
     url: 'https://www.thevccorner.com/p/why-companies-invest-in-open-source'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Companies invest in OSS to influence standards, attract developers, and
@@ -56,5 +42,13 @@ stance: >-
   When large tech companies fund open-source projects, it is primarily to shape
   ecosystem standards and reduce competitors' moats, not to benefit the
   community.
+related:
+  - INS-260328-92BC
+  - INS-260330-F22A
+  - INS-260403-1D43
+  - INS-260322-8D47
+  - INS-260403-0372
+  - INS-260403-8BA4
+  - INS-260322-BFDE
 ---
 The business logic behind corporate OSS investment is rarely philanthropic. Companies fund open-source projects because doing so lets them shape the technical standards that their competitors must also conform to, attract developer talent and mindshare, reduce the proprietary advantages of rivals by commoditizing the layer they monetize, and build ecosystems where their complementary closed products become the natural commercial layer. Understanding this dynamic matters for founders: when a large incumbent open-sources a technology adjacent to your market, it is often a strategic move to erode your differentiation. It also signals where the industry expects commodity infrastructure to land.

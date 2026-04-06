@@ -42,20 +42,22 @@ stance: >-
 related:
   - INS-260327-5B47
   - INS-260322-5650
-  - INS-260329-EC98
   - INS-260322-B450
-  - INS-260405-9F38
+  - INS-260323-FEAB
+  - INS-260327-F405
+  - INS-260405-E7EF
+  - INS-260404-97AA
 evidence:
   - id: INS-260327-5B47
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-5650
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD64
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-B450
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-FEAB
-    relationship: RELATED
+    type: SUPPORTS
 ---
 When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfaction guarantees that therapeutic relationships fundamentally cannot provide.
 

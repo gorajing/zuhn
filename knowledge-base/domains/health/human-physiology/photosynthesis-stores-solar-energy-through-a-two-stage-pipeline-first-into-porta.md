@@ -53,35 +53,36 @@ stance: >-
   storage, using intermediate carrier molecules as a buffering layer between
   input and output
 related:
-  - INS-260330-5232
-  - INS-260405-C780
+  - INS-260330-4D0E
+  - INS-260330-5DFF
   - INS-260330-20FD
-  - INS-260404-9428
-  - PRI-260403-181B
+  - INS-260405-C780
   - INS-260405-AE0D
+  - PRI-260403-181B
+  - INS-260403-B6E6
 evidence:
   - id: INS-260330-30FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-2906
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5670
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4B29
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4D0E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5DFF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-20FD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2C71
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F671
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-C780
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-9428
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Photosynthesis splits into two distinct stages with different functions. Stage 1 (light-dependent reactions) converts photon energy into two portable chemical carriers: ATP and NADPH. Stage 2 (the Calvin Cycle) spends those carriers to fix CO2 into G3P (glyceraldehyde 3-phosphate), a versatile 3-carbon molecule that plants convert into glucose, cellulose, or starch depending on need.
 

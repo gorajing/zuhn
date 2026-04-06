@@ -46,11 +46,11 @@ stance: >-
   pure-platform and pure-asset strategies because each side funds and de-risks
   the other.
 related:
+  - INS-260403-32BA
   - INS-260404-7325
+  - INS-260403-914F
+  - INS-260404-5988
   - INS-260327-5CB6
-  - INS-260403-EA34
-  - INS-260330-F22A
-  - INS-260327-3930
 evidence:
   - id: INS-260403-EA34
     type: TRANSFERS_TO

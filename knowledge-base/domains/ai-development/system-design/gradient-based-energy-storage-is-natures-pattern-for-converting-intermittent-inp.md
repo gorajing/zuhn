@@ -52,17 +52,16 @@ stance: >-
   Buffering intermittent energy through concentration gradients is more robust
   than direct coupling between energy source and consumer.
 related:
-  - INS-260403-37C4
-  - INS-260404-BDE5
-  - INS-260330-1677
-  - INS-260404-91A0
-  - INS-260330-666E
   - INS-260405-64C5
+  - INS-260330-1677
+  - INS-260330-9FAA
+  - INS-260330-2E41
+  - INS-260330-100F
 evidence:
   - id: INS-260403-464D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-666E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1677
     type: TRANSFERS_TO
     classified_at: '2026-04-05'

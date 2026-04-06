@@ -49,10 +49,11 @@ stance: >-
   concentration gradients, pressure differentials, or information asymmetries
 related:
   - INS-260330-C456
-  - PRI-260403-181B
-  - PRI-260403-70D0
-  - INS-260330-BC56
-  - INS-260404-3500
+  - INS-260330-100F
+  - INS-260330-2E41
+  - INS-260330-1677
+  - INS-260330-9FAA
+  - INS-260330-E8CF
 evidence:
   - id: INS-260330-100F
     type: EXTENDS

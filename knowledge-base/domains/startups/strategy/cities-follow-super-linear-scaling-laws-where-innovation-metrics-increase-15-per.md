@@ -53,10 +53,10 @@ stance: >-
   ecosystem strength.
 related:
   - INS-260323-1643
+  - INS-260403-16EA
+  - INS-260405-3098
   - INS-260402-CF0A
   - INS-260323-6C6F
-  - INS-260330-9935
-  - INS-260323-4D8D
 evidence:
   - id: INS-260323-4D8D
     type: TRANSFERS_TO

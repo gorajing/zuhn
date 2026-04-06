@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: "Running a Fundraising Process \U0001F4B8"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/running-a-fundraising-process-374'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     SAFEs let early founders avoid a premature valuation negotiation and delay
@@ -62,6 +52,14 @@ stance: >-
   Founders who insist on priced rounds at pre-seed or seed create unnecessary
   friction and valuation anchors that can disadvantage them in later rounds when
   there is more data to price on
+related:
+  - INS-260402-3D34
+  - INS-260403-ACC5
+  - INS-260328-4EA0
+  - INS-260403-25A8
+  - INS-260403-3A2C
+  - INS-260403-49FC
+  - INS-260403-CF92
 ---
 Simple Agreements for Future Equity (SAFEs) are the dominant early-stage instrument precisely because they sidestep the valuation question when there's insufficient data to price a company confidently. Rather than locking in a valuation that may look bad — either too high (creates a down round problem) or too low (unnecessary dilution) — a SAFE converts at the next priced round, deferring the negotiation to a point when both sides have better information.
 

@@ -46,7 +46,6 @@ resolutions:
     altruism, it's a bet that a world of many AIs built on Llama is better for
     Meta than a world where everyone uses ChatGPT or Gemini.
 related:
-  - INS-260322-D58A
   - INS-260325-C5AA
   - INS-260321-5DF8
   - INS-260403-27F5
@@ -55,7 +54,8 @@ related:
   - INS-260405-CA27
   - INS-260403-2152
   - INS-260323-365A
-  - PRI-260328-5464
+  - INS-260403-58DA
+  - INS-260405-3066
 stance: >-
   Zuckerberg argues open source AI models become safer through increased
   scrutiny, faster bug discovery, and rapid version rollouts

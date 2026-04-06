@@ -46,12 +46,12 @@ resolutions:
     applies directly to startup execution, creative work, and any domain where
     iteration speed determines outcomes.
 related:
+  - INS-260325-0C4A
+  - INS-260404-9CAD
   - PRI-260328-0AB1
   - INS-260326-8E6D
   - INS-260329-C689
-  - INS-260329-64B8
   - INS-260329-6130
-  - INS-260327-24F4
 stance: >-
   Repeatedly putting yourself in high-stakes situations where failure is likely
   trains you to accept setbacks faster and redirect energy toward the n...

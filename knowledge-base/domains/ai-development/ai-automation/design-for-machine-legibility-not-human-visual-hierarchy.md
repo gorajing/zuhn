@@ -45,12 +45,12 @@ related:
   - PRI-260328-C006
   - PRI-260328-9F8C
   - PRI-260328-8317
-  - INS-260327-C1A4
+  - INS-260404-34DB
   - INS-260327-77E7
-  - INS-260327-5EEA
   - INS-260327-4CB3
   - INS-260327-5F10
   - INS-260403-EF20
+  - INS-260404-9E11
 stance: >-
   As agents become intermediaries between users and systems, optimization shifts
   from visual design to machine-readable structure and insight density.

@@ -53,9 +53,7 @@ stance: >-
   a trap — keep the product authentic and let local operators handle market
   positioning.
 related:
-  - INS-260321-807B
   - INS-260327-CECA
-  - INS-260327-34EB
   - INS-260404-96E6
   - INS-260327-D0F4
   - INS-260403-D8A2

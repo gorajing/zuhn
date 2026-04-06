@@ -54,10 +54,10 @@ stance: >-
   simultaneously.
 related:
   - INS-260330-0C1B
+  - INS-260403-3AF9
   - INS-260325-722C
   - INS-260330-697F
-  - INS-260327-E1DD
-  - INS-260321-2D72
+  - INS-260403-9482
 evidence:
   - id: INS-260325-722C
     type: SUPPORTS

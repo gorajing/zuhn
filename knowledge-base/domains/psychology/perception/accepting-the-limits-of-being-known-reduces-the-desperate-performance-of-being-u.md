@@ -48,13 +48,13 @@ stance: >-
   connections that are actually available.
 related:
   - INS-260323-CF27
-  - INS-260403-B3CA
   - INS-260404-C720
   - INS-260327-0017
-  - INS-260403-4101
+  - INS-260323-7263
+  - INS-260403-E2FB
 evidence:
   - id: INS-260329-CD64
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-C720
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

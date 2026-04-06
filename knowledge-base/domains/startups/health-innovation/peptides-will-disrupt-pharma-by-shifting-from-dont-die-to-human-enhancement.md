@@ -45,50 +45,50 @@ resolutions:
     toward cheap, unpatentable compounds — a threat the pharmaceutical industry
     has strong incentives to suppress.
 related:
+  - INS-260325-9F5F
   - INS-260325-72B6
   - INS-260321-9AB5
-  - PRI-260328-E3A7
-  - PRI-260328-1545
-  - PRI-260328-AF97
-  - PRI-260325-F627
-  - INS-260327-E8D3
   - INS-260321-4B38
   - INS-260321-08AC
   - INS-260321-CCE3
+  - PRI-260325-F627
+  - PRI-260325-E2D3
+  - INS-260327-5B47
+  - INS-260327-9EBA
 stance: >-
   Peptides represent a shift from pharmaceuticals designed to prevent death
   (statins) to compounds that enhance human performance
 evidence:
   - id: INS-260325-39FD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-72B6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-E8D3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-9EBA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-EEEE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-1439
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-D37F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-11AB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-6A68
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-5D71
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-9AB5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1384
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-FFB5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-CD62
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8A5C
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Current pharmaceuticals are largely 'don't die' interventions — take a statin to avoid a heart attack. Peptides represent a different category entirely: human enhancement compounds that increase energy, improve sex drive, reduce inflammation, and improve gut health. Early results from users are promising, though rigorous research is still needed.
 

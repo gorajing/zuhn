@@ -47,11 +47,10 @@ stance: >-
   bootstrapping as opposed to exits misunderstand the mechanism.
 related:
   - INS-260327-7F73
-  - INS-260327-0E28
-  - INS-260403-27AC
+  - INS-260405-484F
   - INS-260402-8424
-  - INS-260329-196A
-  - INS-260327-3930
+  - INS-260403-1115
+  - INS-260403-27AC
 evidence:
   - id: INS-260329-196A
     type: EXTENDS

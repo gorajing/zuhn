@@ -47,12 +47,12 @@ stance: >-
   while maintaining the ability and willingness to unilaterally shut it down -
   genuine trust requires vulnerability from both parties.
 related:
-  - INS-260323-8B22
   - INS-260327-AC8E
   - INS-260322-627E
   - INS-260321-1A0B
   - INS-260326-B10B
   - PRI-260328-6BC1
+  - INS-260330-BA13
 evidence:
   - id: INS-260323-8B22
     type: TRANSFERS_TO

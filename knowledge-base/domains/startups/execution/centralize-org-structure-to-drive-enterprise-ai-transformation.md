@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260327-2043
   - INS-260322-3159
+  - INS-260402-142F
+  - INS-260403-CC59
   - INS-260330-C095
-  - INS-260404-63B0
-  - INS-260327-999C
 evidence:
   - id: INS-260322-3159
     type: CONTRADICTS

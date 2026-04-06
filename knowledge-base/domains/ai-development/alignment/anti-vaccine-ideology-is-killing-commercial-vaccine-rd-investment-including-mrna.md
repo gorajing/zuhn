@@ -19,26 +19,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #76: Great Powers acting stupid'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-76-great-powers-acting-stupid'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Moderna's CEO says the company won't invest in new late-stage vaccine trials
@@ -68,6 +56,13 @@ stance: >-
   The politicization of vaccines has made vaccine R&D commercially unviable in
   the US market, threatening not just infectious disease prevention but the
   entire mRNA therapeutic pipeline including cancer treatments
+related:
+  - INS-260322-E7E9
+  - INS-260402-0A49
+  - INS-260322-3A00
+  - INS-260404-17DD
+  - INS-260330-8998
+  - INS-260403-4E71
 ---
 Moderna's CEO stated the company will not invest in new late-stage vaccine trials because growing opposition from US officials makes return on investment impossible. Regulatory delays, narrowed eligibility populations, and government-sowed confusion about vaccine safety have shrunk the addressable market. This represents a concrete mechanism by which ideological movements destroy scientific capacity: not through banning research, but by making it commercially unviable.
 

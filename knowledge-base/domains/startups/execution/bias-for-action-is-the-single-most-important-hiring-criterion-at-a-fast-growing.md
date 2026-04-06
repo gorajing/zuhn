@@ -51,11 +51,10 @@ stance: >-
   quickly and iterate, not people who deliberate until they're certain.
 related:
   - INS-260327-8254
+  - INS-260403-309F
   - INS-260403-2718
   - INS-260327-3C19
   - PRI-260403-7BEC
-  - INS-260330-FB34
-  - INS-260327-3788
 evidence:
   - id: INS-260330-FB34
     type: CHALLENGES

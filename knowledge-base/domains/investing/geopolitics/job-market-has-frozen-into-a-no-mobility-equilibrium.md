@@ -46,10 +46,9 @@ stance: >-
   dangerous equilibrium where nobody can advance.
 related:
   - INS-260327-F544
-  - INS-260327-41A9
-  - INS-260327-10E8
   - INS-260327-A70C
   - PRI-260328-D68F
+  - INS-260327-41A9
   - INS-260327-8997
 evidence:
   - id: INS-260327-F544

@@ -51,10 +51,10 @@ stance: >-
   'conscious consumption.'
 related:
   - INS-260327-86FE
+  - INS-260403-4D04
+  - INS-260325-803C
   - PRI-260328-909D
   - PRI-260328-BF1E
-  - INS-260327-CC35
-  - INS-260329-13D2
   - INS-260327-D832
 evidence:
   - id: INS-260325-803C

@@ -47,10 +47,10 @@ stance: >-
   population level, even when they remain valuable individually.
 related:
   - INS-260322-5B1B
+  - PRI-260405-9A14
   - INS-260325-2832
   - INS-260327-23F8
   - INS-260405-86BB
-  - PRI-260405-BF5B
 evidence:
   - id: INS-260322-5B1B
     type: CHALLENGES

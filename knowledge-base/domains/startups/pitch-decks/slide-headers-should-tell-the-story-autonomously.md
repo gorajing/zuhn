@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'The Only Peter Thiel Pitch Deck: Lessons for Founders'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/peter-thiel-pitch-deck-founders-fund'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: Headers that assert facts do the selling when you're not in the room.
   standard: >-
@@ -53,6 +43,12 @@ stance: >-
   Descriptive slide headers that state the point ('A $3B Market Growing 12% a
   Year') make decks more persuasive than generic labels ('Market') because they
   communicate even when the founder isn't present.
+related:
+  - INS-260403-C37D
+  - PRI-260403-0ABD
+  - PRI-260405-91AD
+  - INS-260329-4A69
+  - INS-260405-B11B
 ---
 Most pitch decks use generic section headers—'Team,' 'Market,' 'Problem'—that require the founder to be present to interpret them. This creates a single-channel communication dependency: the deck alone conveys almost nothing.
 

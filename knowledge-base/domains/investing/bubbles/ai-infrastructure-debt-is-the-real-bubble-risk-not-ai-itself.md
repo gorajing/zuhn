@@ -53,13 +53,13 @@ stance: >-
   mirroring how the dot-com bubble destroyed fiber-optic investors while
   internet consumers benefited.
 related:
-  - INS-260323-114D
   - INS-260327-BB67
   - INS-260327-1555
-  - INS-260327-A8DF
   - PRI-260328-386C
   - PRI-260403-2927
   - PRI-260403-4612
+  - INS-260323-114D
+  - INS-260403-FCB6
 evidence:
   - id: INS-260327-A8DF
     type: TRANSFERS_TO

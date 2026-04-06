@@ -50,16 +50,16 @@ stance: >-
   preserve operational focus and outperform serial acquirers who buy for
   revenue.
 related:
-  - INS-260323-3D7D
-  - INS-260322-90E7
   - INS-260323-822B
   - INS-260330-57BB
   - INS-260330-DE65
   - INS-260330-8326
   - INS-260403-407A
-  - PRI-260328-1D90
+  - INS-260405-8080
+  - INS-260405-35DF
+  - INS-260403-39CF
+  - INS-260323-3D7D
   - INS-260402-C13F
-  - INS-260403-B73A
 evidence:
   - id: INS-260323-3D7D
     type: SUPPORTS

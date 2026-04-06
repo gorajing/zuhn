@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 164 insights
+> 186 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -15,12 +15,14 @@
 - `INS-260327-3136` [high] Intuit's CEO runs a mechanism at least once a year where the explicit objective is to question everything they've declared — the leadership team enters the room to blow up their own strategy, not protect it.
 - `INS-260323-46F8` [high] 50% of businesses fail in 2 years because leaders cannot hold teams accountable — the failure is internal culture, not external markets.
 - `INS-260323-FCA7` [high] Cancel culture is specifically the post-2014 surge in successful campaigns to get people fired, expelled, or deplatformed for speech that would be protected under the First Amendment.
+- `INS-260404-9CAD` [high] Great CEOs build the muscle of acting decisively in difficult situations rather than hesitating when all options look bad.
 - `INS-260327-6F11` [high] The two things that give a CEO the biggest leverage are having the right product vision and communicating that vision to the team.
 - `INS-260327-24D2` [high] Parker Conrad argues CEOs must develop firsthand understanding of every area rather than delegating to domain experts and trusting them to figure it out.
 - `INS-260403-6731` [high] CEO time allocation to innovation is the single strongest predictor of whether innovation programs produce results.
 - `INS-260403-8E4D` [high] Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
 - `INS-260403-EEDB` [high] The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.
 - `INS-260323-F15D` [high] When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
+- `INS-260325-B50B` [high] CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260330-956E` [high] A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
 - `INS-260327-BEEE` [high] Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
 - `INS-260322-ABA0` [high] Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
@@ -31,11 +33,13 @@
 - `INS-260405-CADE` [high] Crisis coordination works through distributed decision-makers with explicit commitment chains, not centralized command.
 - `INS-260323-AE9C` [high] Hawaiian and Polynesian soldiers instinctively built relationships with Iraqi locals -- pointing gun muzzles skyward, throwing shakas, sharing tea -- and this cultural empathy directly reduced casualties compared to the previous unit.
 - `INS-260404-74F4` [high] Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
+- `INS-260403-A505` [high] OpenAI's charter gave the board power to determine when AGI was achieved — a subjective call with massive financial consequences — making conflict inevitable as capabilities advanced.
 - `INS-260322-AB55` [high] Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260322-DAFB` [high] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
 - `INS-260330-4A1F` [high] Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
 - `INS-260330-14CA` [high] Delegate fully when consequences are low and your conviction is low; override only when consequences are catastrophic and your conviction is high.
 - `INS-260330-A9CB` [high] Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
+- `INS-260404-CEFC` [high] Effective organizations are designed so that the right conflicts surface to the right decision-makers rather than being buried.
 - `INS-260327-3788` [high] Solomon credits being forced to rotate from credit trading to equity capital markets as essential preparation for the CEO role he never explicitly targeted.
 - `INS-260327-8521` [high] Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
 - `INS-260323-46B2` [high] The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
@@ -44,6 +48,7 @@
 - `INS-260327-7DAA` [high] Most innovations look borderline stupid in hindsight—the only real failure is not trying or not reflecting.
 - `INS-260330-175F` [high] A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260330-8686` [high] Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
+- `INS-260403-2B3A` [high] Companies lose their creative soul when founders leave because professional managers optimize existing systems rather than creating new ones.
 - `INS-260327-2B75` [high] Horowitz warns that founder mode has become dangerously misinterpreted: Brian Chesky was right to stop over-deferring to executives, but founders are now using it as an excuse to never hire senior people at all.
 - `INS-260330-8998` [high] Tom Monaghan's public anti-abortion activism through the 'Domino's Foundation' triggered a nationwide boycott that ultimately forced him to sell the company to protect franchisees and employees from his personal political positions.
 - `INS-260327-5F94` [high] The acute crisis gets adrenaline and support; the real challenge is the psychological rebuilding on day 60 that nobody talks about.
@@ -69,6 +74,7 @@
 - `INS-260322-C6CE` [high] Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.
 - `INS-260323-FDC1` [high] Carlson initially tried to control his Putin interview, then realized that letting the subject talk freely -- even when it seemed like filibustering -- produced far more revealing and significant information than aggressive questioning would have.
 - `INS-260330-1FA8` [high] When loyalty to a leader becomes the primary selection criterion, fear-based compliance replaces principled dissent and degrades institutional quality.
+- `INS-260404-45BB` [high] Structured weekly updates to your manager reduce expectation misalignment and increase trust faster than performance alone.
 - `INS-260330-85B8` [high] Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
 - `INS-260322-047D` [high] Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260329-5306` [high] Organization-wide quiet days eliminate the social penalty makers face when declining meetings, creating protected maker time at scale.
@@ -77,6 +83,7 @@
 - `INS-260327-2520` [high] Arora didn't even know cybersecurity was one word when he joined Palo Alto, but succeeded by learning furiously while projecting calm conviction — like a duck, serene on top but paddling furiously underneath.
 - `INS-260322-4F7A` [high] Life defaults are like software defaults — you can only change one or two at a time, and each change requires total commitment or the system reverts you back.
 - `INS-260323-28FB` [high] People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
+- `INS-260403-F9AC` [high] Continuous mental ownership of company problems creates tighter feedback loops than scheduled deep work sessions.
 - `INS-260330-FF9A` [high] Convert your survival plan into concrete metric targets for each team so every employee can see exactly how their work contributes to the company's path through the crisis.
 - `INS-260322-EE1B` [high] There's a power law in everything — identify the single most important thing each period and go all-in before distributing effort across secondary goals.
 - `INS-260330-F158` [high] The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
@@ -86,9 +93,11 @@
 - `INS-260403-3FF5` [high] Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260327-B5C9` [high] You are ultimately accountable for your product like a CEO, but to make things happen you sometimes need to sweep the floor because nobody else will.
 - `INS-260327-94CC` [high] Ev Williams built Twitter's best product era but was ousted because he lacked the political instincts to defend his position against Jack Dorsey's behind-the-scenes scheming.
+- `INS-260403-2833` [high] Stanford research shows output per hour collapses past 50 hours, with zero marginal gain after 55.
 - `INS-260326-CA8C` [high] Safety without standards is a comfort zone; standards without safety is an anxiety zone — you need both for high performance.
 - `INS-260329-E45A` [high] Punishment-based cultures cause employees to exert only the minimum effort needed to avoid being fired, forfeiting all discretionary effort above that bar.
 - `INS-260326-C692` [high] Start by asking for criticism of yourself before criticizing others — it builds trust and credibility for harder conversations.
+- `INS-260403-3705` [high] Reading raw updates and engaging with technical details directly prevents leaders from inheriting the blind spots of whoever wrote the summary.
 - `INS-260323-D621` [high] If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260330-3A3F` [high] Revolutionary movements follow a predictable arc from moderate reform to radical takeover to radical self-destruction, ultimately landing near the original moderate position.
 - `INS-260403-A360` [high] Tell talented people what to do at the highest level and let them own the details — they'll insist on it anyway.
@@ -99,6 +108,7 @@
 - `INS-260323-D783` [high] Cooking for others and sharing meals creates a uniquely powerful social bond — people become fundamentally different when sitting down together versus standing, drinking, or interacting online.
 - `INS-260323-4B1C` [high] With 44% of technical skills becoming obsolete within 10 years, the hardest and most durable leadership skills are the soft ones — conflict resolution, empathy, listening.
 - `INS-260322-3CFB` [high] Optimizing for stewardship (what you do and serve) rather than status (titles and positions) produces both deeper fulfillment and better career outcomes.
+- `INS-260403-5419` [high] Culture is shaped more by what leaders exclude than what they celebrate.
 - `INS-260330-3E3C` [high] Glial cells outnumber neurons 10:1 and make up half the brain's mass, proving that support infrastructure is the majority of any high-performing system.
 - `INS-260323-B497` [high] Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.
 - `INS-260330-26E7` [high] Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.
@@ -111,11 +121,13 @@
 - `INS-260327-F7BD` [high] Mati describes the CEO magic as being able to zoom out to strategy and zoom into product detail extremely quickly, switching between contexts in seconds.
 - `INS-260323-9146` [high] Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
 - `INS-260402-D2C9` [high] You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
+- `INS-260325-75EA` [high] A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
 - `INS-260325-6F89` [high] The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
 - `INS-260330-DB4B` [high] When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
 - `INS-260323-1176` [high] When Ignacio told Rosolie 'you'd be an idiot to leave right now,' the decision to stay produced the historic first-contact encounter -- leaders must create space for trusted operators to override the plan.
 - `INS-260329-5975` [high] Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260326-98A0` [high] Frame work as learning (not execution), say 'I may miss something — I need your input,' and ask lots of questions to create necessity for voice.
+- `INS-260403-11F8` [high] Musk's bluntness and Nadella's warmth both scale, but they attract and retain fundamentally different people.
 - `INS-260325-9F12` [high] Gawande tracked his surgical complications for a decade, saw steady improvement, then hit a plateau at year 10-12 — a former professor observing him found 20 minutes of feedback after a single operation he thought went perfectly.
 - `INS-260330-D661` [high] Toussaint made conquered French, Spanish, and British officers into his own generals because he recognized slave culture alone couldn't produce the world-class country he envisioned.
 - `INS-260330-4C67` [high] Toussaint L'Ouverture made conquered French, British, and Spanish officers into his own generals because he needed their expertise to build a first-world country, not just win a war.
@@ -130,7 +142,9 @@
 - `INS-260330-36B4` [high] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - `INS-260327-482E` [high] Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260404-4FDB` [medium] Codified anti-toxicity rules (like Sutton's 'No Asshole Rule') function as competitive moats for creative organizations by protecting psychological safety.
+- `INS-260403-CF44` [medium] Dario spends 30-40% of his time on culture because at exponential speed, organizational decoherence is the binding constraint on execution.
 - `INS-260404-CDF0` [medium] Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
+- `INS-260405-8080` [medium] Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
 - `INS-260404-2BAD` [medium] Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
 - `INS-260330-2F52` [medium] The primary barrier preventing successful business leaders from entering politics is communication ability under pressure, not strategic competence.
 - `INS-260327-BB4A` [medium] Competitive team gaming develops CEO skills—leading smart people, forcing collaboration, maintaining intensity—better than business school.
@@ -138,9 +152,12 @@
 - `INS-260327-B45A` [medium] When COVID cut Bolt's revenue by 85%, they chose salary cuts over layoffs, keeping the team intact and tripling market share while paralyzed competitors recovered.
 - `INS-260323-5737` [medium] Gabbard's daily task of reading every combat injury list name by name never became routine -- this forced daily confrontation with the human cost of policy decisions prevented the normalization that enables bureaucratic indifference.
 - `INS-260330-341D` [medium] Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
+- `INS-260403-615D` [medium] Karp argues expert classes have been wrong about every substantive question for 20 years because their models are calibrated to old paradigms.
 - `INS-260323-86FA` [medium] Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
 - `INS-260330-8156` [medium] In-N-Out survived six leadership transitions over 70 years — beating the odds where two-thirds of family businesses fail at the second generation.
 - `INS-260403-8B5A` [medium] Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
+- `INS-260405-B4D2` [medium] Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.
+- `INS-260403-93BB` [medium] Founder visibility isn't self-promotion — it's a leadership tool that enables team confidence, investor trust, and market legibility.
 - `INS-260323-FBD9` [medium] Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.
 - `INS-260330-E0A9` [medium] Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.
 - `INS-260330-4AAD` [medium] Toussaint L'Ouverture made conquered enemy generals into his own generals because he valued cultural elevation over revenge.
@@ -148,16 +165,20 @@
 - `INS-260403-96FA` [medium] The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
 - `INS-260403-8C36` [medium] Leaders should provide fertile ground for innovative thinking by asking better questions rather than prescribing answers.
 - `INS-260329-4531` [medium] Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
+- `INS-260404-6970` [medium] Structuring meetings with round-robin or pre-submitted written ideas unlocks contributions from introverted team members that open-floor formats systematically miss.
 - `INS-260323-2038` [medium] Lex Fridman argues that jiu-jitsu is humbling and that humility is a powerful tool for innovation and leadership, especially for tech leaders who rarely experience physical vulnerability.
 - `INS-260330-00AA` [medium] Because Muhammad governed Medina as both prophet and political leader, Islam never developed a separate civic-vs-religious legal tradition the way Christianity did.
 - `INS-260330-AA25` [medium] Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
 - `INS-260327-F55C` [medium] Anderson replaces manager-driven performance reviews with peer feedback every 90 days using a simple 0-1-2 rating scale, arguing this is the structural decision that determines whether a growing company stays nimble.
+- `INS-260403-4963` [medium] Plan quarterly meetups centered on one unforgettable shared activity, because Slack doesn't build culture — shared memory does.
 - `INS-260403-F0DF` [medium] Splitting the CEO role into a chief execution officer and a chief entrepreneur resolves the explore-exploit tension structurally rather than hoping one person can do both.
 - `INS-260322-627E` [medium] Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
 - `INS-260327-B7FC` [medium] When Rajat saw his early team members were willing to die for the company, he knew he had built something real — their dedication became his motivation.
+- `INS-260404-1DAA` [medium] Strong PMs master two of the 3 W's; those who rise to leadership master all three—output quality, unique contributions, and operating model.
 - `INS-260403-4760` [medium] Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 - `INS-260404-8520` [medium] Innovation leadership requires a dedicated C-level role because the CEO's optimization mindset conflicts with the exploration mindset needed for new ventures.
 - `INS-260403-9FE2` [medium] A Chief Entrepreneur needs C-suite level power and prestige to protect innovation from the execution engine's organizational antibodies.
+- `INS-260403-952F` [medium] Page's 10-year path from sidelined co-founder to Alphabet CEO shows that quiet competence accumulation beats political maneuvering.
 - `INS-260330-7675` [medium] Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - `INS-260404-266F` [medium] The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260403-3A49` [medium] Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.
@@ -166,3 +187,4 @@
 - `INS-260330-5B59` [medium] Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.
 - `INS-260322-B264` [medium] The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
 - `INS-260326-8217` [medium] When someone reacts with anger to your feedback, shift from defensive mode to curiosity — ask why they're upset instead of matching their energy.
+- `INS-260403-93FA` [medium] CEOs will send thousands of emails, but one will be screenshotted and define them forever.

@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Are we in the foothills of World War 3?
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/are-we-in-the-foothills-of-world'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Technological disruption of military power hierarchies historically precedes
@@ -58,6 +46,15 @@ stance: >-
   The rapid rise of AI and drone warfare has made it genuinely unclear whether
   the US or China is the stronger military power, and this uncertainty itself
   increases the probability of great-power conflict.
+related:
+  - INS-260327-088D
+  - INS-260327-08E7
+  - INS-260403-AFCC
+  - INS-260405-5341
+  - INS-260404-82AA
+  - PRI-260328-7F20
+  - INS-260404-4BC4
+  - PRI-260323-9928
 ---
 Noah Smith argues that the most dangerous periods in geopolitical history are not when one power clearly dominates, but when rapid technological change makes the hierarchy unclear. Artillery and railroads made Germany suddenly capable of defeating France in the 1870s, disrupting the continental balance and eventually causing WW1. Air power and tanks similarly reshuffled power in the interwar period.
 

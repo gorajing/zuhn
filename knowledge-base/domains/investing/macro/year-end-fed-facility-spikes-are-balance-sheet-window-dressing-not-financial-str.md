@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: Deepseek Breakthrough'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-167'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     December 31 Fed facility spikes are a predictable accounting artifact of
@@ -64,6 +54,12 @@ stance: >-
   Dramatic spikes in the Fed's Standing Repo Facility and Reverse Repo Facility
   on December 31 reliably reflect regulatory reporting incentives, not liquidity
   crises or money printing.
+related:
+  - PRI-260328-0993
+  - INS-260321-347D
+  - INS-260403-6BDC
+  - INS-260403-EB97
+  - INS-260327-FBD8
 ---
 The Fed's Standing Repo Facility (SRF) lets banks borrow cash overnight by pledging Treasuries — it's a pressure valve that caps interest rates during cash shortfalls. The Reverse Repo Facility (RRP) lets money market funds park excess cash overnight — it puts a floor under rates by providing a guaranteed safe alternative to private lending. Both spiking simultaneously looks paradoxical (some borrowing while others lend?) but follows directly from incentive structures.
 

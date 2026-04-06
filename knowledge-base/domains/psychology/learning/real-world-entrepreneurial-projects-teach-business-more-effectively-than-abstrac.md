@@ -48,10 +48,10 @@ stance: >-
   projects than through traditional educational approaches
 related:
   - INS-260403-49E7
+  - INS-260329-9A58
   - INS-260403-449D
   - PRI-260403-0509
   - INS-260329-8830
-  - PRI-260405-71C5
 evidence:
   - id: INS-260403-49E7
     type: SUPPORTS

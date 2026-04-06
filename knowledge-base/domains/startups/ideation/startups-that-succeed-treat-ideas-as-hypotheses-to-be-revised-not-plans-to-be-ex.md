@@ -48,11 +48,12 @@ stance: >-
 related:
   - INS-260327-968C
   - INS-260402-2B96
-  - INS-260403-7B60
+  - INS-260403-67AB
+  - INS-260403-ADF9
+  - INS-260403-5056
   - INS-260327-200C
-  - INS-260404-06B9
-  - INS-260403-9A4C
-  - INS-260322-CFB1
+  - INS-260404-63F0
+  - INS-260403-BAE1
 ---
 Kate observed that by Demo Day, about half the YC startups were doing something significantly different from what they started with. Graham frames this as analogous to science — you follow the truth wherever it leads. This contrasts sharply with how the rest of the world operates, where people don't start things until they're sure what they want to do, and once started, tend to continue on their initial path even if it's mistaken.
 

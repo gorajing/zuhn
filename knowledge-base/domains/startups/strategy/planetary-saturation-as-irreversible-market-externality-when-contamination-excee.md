@@ -54,11 +54,11 @@ stance: >-
   soil, and water globally — the cost of remediation becomes effectively
   infinite, making prevention the only viable strategy.
 related:
+  - INS-260322-F6C3
+  - INS-260325-0895
   - INS-260325-E5EB
   - INS-260325-23E0
   - INS-260323-7D90
-  - INS-260405-8B89
-  - INS-260330-3FF4
 evidence:
   - id: INS-260325-E5EB
     type: TRANSFERS_TO

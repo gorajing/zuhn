@@ -45,11 +45,11 @@ stance: >-
   while the clean fifteen have negligible pesticide residues even conventionally
   grown, making selective organic buying the optimal strategy.
 related:
+  - INS-260327-0C29
   - INS-260327-515F
   - PRI-260328-25C9
   - PRI-260328-D9D0
   - INS-260322-3259
-  - PRI-260328-F804
 evidence:
   - id: INS-260322-3259
     type: TRANSFERS_TO

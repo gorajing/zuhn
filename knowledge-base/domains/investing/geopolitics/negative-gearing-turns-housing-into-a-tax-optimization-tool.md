@@ -49,10 +49,10 @@ stance: >-
   self-reinforcing price spirals that become politically impossible to unwind.
 related:
   - INS-260327-14E6
-  - INS-260327-AB46
   - PRI-260328-EAC4
   - INS-260323-70B9
   - INS-260330-C1EA
+  - INS-260403-4B31
   - INS-260329-B424
 ---
 Australia's tax structure creates a perverse incentive: personal income above ~$120K USD is taxed at 45%, but investment losses including paper real estate depreciation can offset that income. This effectively makes every Australian their own tax-minimization business, with real estate as the optimal vehicle. High earners buy investment properties, claim paper losses to reduce income tax, and convert the gains into lower-taxed capital gains.

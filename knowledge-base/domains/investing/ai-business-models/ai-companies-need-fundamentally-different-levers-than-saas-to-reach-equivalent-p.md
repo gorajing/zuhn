@@ -18,23 +18,12 @@ tags:
 sources:
   - type: blog
     title: "SaaS vs AI Economics\U0001F4A1, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally \U0001F4C9"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/saas-vs-ai-economics-the-big-book'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
+indexed: true
 embedded: false
 resolutions:
   one_line: >-
@@ -68,6 +57,12 @@ evidence:
   - id: INS-260405-678B
     type: TRANSFERS_TO
     classified_at: '2026-04-06'
+related:
+  - INS-260403-213D
+  - PRI-260405-9A14
+  - INS-260405-86BB
+  - PRI-260405-BF5B
+  - INS-260402-A693
 ---
 While SaaS businesses benefit from high gross margins (often 70-80%+) and recurring revenue, AI companies face persistent cost pressures from compute, inference, and model maintenance. This means AI companies cannot simply replicate the SaaS playbook — they must compensate through accessing larger total addressable markets, commanding higher revenue per customer, or achieving unprecedented scale.
 

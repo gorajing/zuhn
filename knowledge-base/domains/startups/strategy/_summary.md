@@ -1,12 +1,14 @@
 # Topic: strategy
 
-> 189 insights
+> 238 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
+- `INS-260403-2B09` [high] AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
 - `INS-260403-76E9` [high] Google's secret was positioning where the web naturally wanted to go rather than trying to force the web to go somewhere else.
 - `INS-260323-9BC8` [high] Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.
+- `INS-260403-747B` [high] Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260404-E65A` [high] Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.
 - `INS-260404-5587` [high] Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
@@ -17,8 +19,11 @@
 - `INS-260330-85C2` [high] Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260403-5B4E` [high] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260404-CC7C` [high] RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
+- `INS-260403-3876` [high] Movements with members on both sides of a divide can influence whichever side currently holds power.
 - `INS-260330-2332` [high] Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.
 - `INS-260323-BD2B` [high] JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
+- `INS-260403-0661` [high] Incumbent institutions won't vote to dismantle the systems that keep them in power — reformers must find mechanisms that bypass incumbent consent entirely.
+- `INS-260330-C607` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260404-B7B6` [high] RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
 - `INS-260403-EEDF` [high] Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260329-644B` [high] Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
@@ -28,11 +33,15 @@
 - `INS-260404-41AA` [high] Costco's 15% markup cap, warehouse layout, and limited selection create interlocking efficiencies that compound into an unreplicable cost advantage.
 - `INS-260404-B086` [high] Costco's $60 membership fee, confusing warehouse layout, and bulk-only sizing all seem like obstacles but actually select for affluent, high-spending customers with $100K average household income.
 - `INS-260403-9104` [high] Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
+- `INS-260404-B2FB` [high] Costco's $60 membership fee filters for affluent households averaging $100K income, with business owners generating two-thirds of sales.
+- `INS-260403-35E1` [high] When your counterparty can threaten your existence outside the contract, the contract's protections become illusory.
 - `INS-260404-7A5B` [high] Costco turns every seeming disadvantage — fees, sparse selection, warehouse aesthetics — into a structural competitive advantage.
 - `INS-260405-4CDA` [high] The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
+- `INS-260403-4F68` [high] Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
 - `INS-260330-F258` [high] Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
+- `INS-260404-1CC0` [high] As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
 - `INS-260330-9A92` [high] Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
 - `INS-260403-D444` [high] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260330-0B4A` [high] RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
@@ -40,22 +49,28 @@
 - `INS-260404-16B0` [high] RuBisCo is a terrible enzyme that won the planet by being produced in enormous quantities — 40 billion tons — rather than by being good at its job.
 - `INS-260404-8CEE` [high] Sears, Toys-R-Us, and RadioShack died from strategic failures, not from Amazon's existence — Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260330-8A28` [high] The Chinese dynastic cycle — founding vigor, prosperity, corruption, collapse — is a recurring pattern in companies and industries.
+- `INS-260403-32E9` [high] Identify your sector's primary risk layer and retire it first before addressing downstream risks.
 - `INS-260404-8A57` [high] RuBisCo's evolutionary story shows how early success with a flawed mechanism creates irreversible lock-in.
 - `INS-260323-B0EA` [high] OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
 - `INS-260403-830F` [high] Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.
 - `INS-260403-6279` [high] History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
 - `INS-260322-229C` [high] Most of the world's most successful companies made their real money not from their core product but from a first derivative of it — Union Pacific from land sales, Google from ads on search, Shopify from payments on commerce.
+- `INS-260403-63F9` [high] A survey of 500 executives shows enterprises overwhelmingly buying AI tools rather than building, with startups dominating application layers.
 - `INS-260403-1636` [high] Plants evolved entire metabolic pathways to handle RuBisCo's toxic byproducts rather than replacing RuBisCo, making the entrenched system more resilient over time.
+- `INS-260330-48F2` [high] RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260330-3E6B` [high] When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
 - `INS-260405-95AE` [high] RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.
 - `INS-260403-DB22` [high] Most companies have sophisticated tools for execution but primitive tools for innovation and strategy design.
+- `INS-260403-4572` [high] Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.
 - `INS-260403-EAE5` [high] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - `INS-260329-7D18` [high] Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
+- `INS-260403-6CA8` [high] Sears, Toys-R-Us, and RadioShack died not because of Amazon but because they failed to adapt, while Ross, Aldi, Dollar General, and Costco thrived in the same environment.
 - `INS-260324-DC98` [high] UNIQLO, Zara, and H&M transformed fashion from a creativity contest into a speed-and-curation game, driving GAP to irrelevance and J.Crew to bankruptcy.
 - `INS-260322-8299` [high] The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.
 - `INS-260403-990C` [high] When an industry's value chain has cascading dependencies, optimizing one link compounds gains through every downstream step — making fragmented chains the highest-ROI AI targets.
 - `INS-260323-8893` [high] Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260403-5BFB` [high] Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
+- `INS-260403-98CD` [high] A prominent development pessimist who argued in 2023 that post-1990 global development was a bust now implicitly concedes it succeeded everywhere except Africa.
 - `INS-260330-53A9` [high] RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
 - `INS-260330-54ED` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
 - `INS-260405-0806` [high] RuBisCo makes errors ~50% of the time yet dominates because plants produce 40 billion tons of it — volume compensated for quality and the strategy locked in permanently.
@@ -72,7 +87,7 @@
 - `INS-260330-22C0` [high] RuBisCo is terrible at its job but plants went all-in on it and now produce 40 billion tons rather than evolve a replacement — illustrating how early dominance creates irreversible lock-in.
 - `INS-260404-5CC6` [high] Dominant systems persist not because they are optimal but because entire ecosystems co-evolved around their limitations.
 - `INS-260329-FC53` [high] Your results are mostly determined by which vehicle you operate in, not how hard you row.
-- `INS-260403-215E` [high] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
+- `INS-260403-7DBB` [high] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - `INS-260403-21A2` [high] Overpaying customers make it rational to ignore the future until it's too late.
 - `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
 - `INS-260405-8884` [high] Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
@@ -85,11 +100,16 @@
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260403-08FE` [high] Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
+- `INS-260403-64E7` [high] Costco's $60 membership fee filters for affluent households averaging $100K income, turning an acquisition barrier into a demographic selection mechanism.
+- `INS-260403-0CF7` [high] Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.
+- `INS-260403-D5DC` [high] Choose your startup location based on what fuels your business, not who funds it.
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
+- `INS-260403-0C2E` [high] China's pattern of dramatic action followed by rapid reversal — '30-year oversteering' — produces worse outcomes than incremental course correction.
 - `INS-260403-0B14` [high] Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260403-9B3A` [high] RuBisCo's evolutionary story shows how early strategic commitments become permanent even when they stop working well.
 - `INS-260404-3B9D` [high] RuBisCo is a terrible enzyme that won by being first and scaling to 40 billion tons rather than being replaced by something better.
 - `INS-260329-CB6D` [high] The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
+- `INS-260403-361D` [high] Don't overcorrect on location flexibility — physical businesses, deeptech, and regulated industries still have hard geographic dependencies.
 - `INS-260324-224B` [high] Axon was a struggling single-product startup for a decade — then police accountability protests created massive bodycam demand, and the company snowballed tailwinds into a market-defining position.
 - `INS-260330-0027` [high] PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
 - `INS-260330-DD9C` [high] Facebook's Free Basics and Google's AMP are framed as philanthropy but function as internet centralization strategies.
@@ -102,22 +122,28 @@
 - `INS-260403-C49F` [high] Property definitions are pragmatic conventions that must evolve with technology, not fixed truths to be defended.
 - `INS-260330-CB2E` [high] Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
 - `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
+- `INS-260403-2F28` [high] Large-scale 4-day workweek trials show 40% productivity jumps and 67% lower burnout with no pay cuts.
 - `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
 - `INS-260403-6BD9` [high] Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
 - `INS-260404-007B` [high] Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
+- `INS-260403-839E` [high] Ramp's willingness to reprice in 2022 gave it a fresh start, while Brex's refusal to mark down trapped it under an unsustainable valuation anchor.
 - `INS-260403-22E9` [high] Cruise ships register under flags of convenience like Panama or Liberia to exploit favorable labor laws, saving millions in wages and enabling a global low-cost workforce.
-- `INS-260403-8C20` [high] When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
+- `INS-260403-0611` [high] When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
+- `INS-260403-940F` [high] SEIU built a repeatable playbook: propose destructive regulation, extract concessions for withdrawal, move to the next target industry.
 - `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260403-FED6` [high] The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260403-92CC` [high] Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.
 - `INS-260330-C7CB` [high] The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
+- `INS-260403-F4C9` [high] In periods of radical technological uncertainty, optimize for strategies that work across all scenarios rather than betting on a specific prediction.
 - `INS-260405-F20F` [high] RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260404-B1AB` [high] RuBisCo is terrible at its job but 40 billion tons of it run the biosphere because early life scaled quantity over quality.
 - `INS-260330-4489` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
 - `INS-260404-9229` [high] When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
 - `INS-260403-7BA1` [high] The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
+- `INS-260403-8FD7` [high] Screen for sector exit precedent before investing — if the only exits in a space are distressed fire sales, that's a structural warning, not a timing issue.
 - `INS-260329-C6BB` [high] Start premium to fund the infrastructure needed for eventual mass-market scale.
 - `INS-260403-6428` [high] Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
+- `INS-260403-47F1` [high] SF's entire turnaround depended on a 6-5 board majority — one seat flip would have blocked every reform the mayor enacted.
 - `INS-260323-8966` [high] The Shapiro-Destiny debate demonstrates that two intelligent people with different foundational priors will interpret identical data points in opposite directions — shared evidence does not produce convergence.
 - `INS-260330-B5DF` [high] The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
 - `INS-260403-9DC6` [high] Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
@@ -126,11 +152,17 @@
 - `INS-260405-6DAD` [high] Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
 - `INS-260402-CCF4` [high] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260328-6898` [high] Large companies are effectively always remote because the people you work with most closely are never at adjacent desks, but startups adopting the same practice gave up their in-person colocation advantage.
+- `INS-260403-FA8E` [high] Capital One saw Brex as a bargain shortcut to a scaled platform; VCs saw a 58% haircut from peak valuation — both were correct within their own frameworks.
+- `INS-260403-318A` [high] Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
+- `INS-260403-E681` [high] Successful strategies get applied past their point of diminishing returns because practitioners mistake the strategy for the goal.
 - `INS-260403-4904` [high] Falling startup costs silently decoupled founders from VCs, but the shift only becomes visible when funding dries up and founders discover they don't actually need it.
 - `INS-260330-D74A` [high] The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
+- `INS-260402-B0AB` [high] You cannot have technical imagination without political imagination — suppressing one suppresses both.
 - `INS-260404-24FB` [high] Great strategic tools do one thing well and integrate with other specialized tools, rather than trying to cover everything.
 - `INS-260404-AD52` [high] Sears, Toys-R-Us, and J.C. Penney died not because of Amazon directly but because they shared Amazon's basic model while executing it worse.
+- `INS-260403-431E` [high] Enterprise buyers are budgeting for logistics, compliance, and supply chain software that wasn't on their radar before tariffs created mandatory new spending categories.
 - `INS-260402-8F1E` [high] Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
+- `INS-260403-8DCB` [high] Tech stacks make VCs faster at what they already do — they don't substitute for missing deal flow, networks, or analytical judgment.
 - `INS-260402-CF0A` [high] Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
 - `INS-260403-CF7C` [high] Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.
 - `INS-260403-1325` [high] Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.
@@ -138,27 +170,35 @@
 - `INS-260330-5E47` [high] Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
 - `INS-260330-38B9` [high] Singapore explicitly designed its education, healthcare, housing, and legal system to attract multinational corporations — treating the entire nation as a product built for a specific customer segment.
 - `INS-260323-8F70` [high] Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
+- `INS-260328-988F` [high] A YC LP told Michael that 97% of venture returns come from the US market — Michael dismissed it at first but now sees it as largely correct.
 - `INS-260329-1F17` [high] Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort/Sacrifice) — reducing the denominator often matters more than inflating the numerator.
+- `INS-260403-137D` [high] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 - `INS-260404-8B1C` [high] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
 - `INS-260328-031A` [high] Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.
+- `INS-260403-B228` [high] Valuation reflects how much uncertainty remains — momentum can inflate it temporarily but markets always revert to evidence.
 - `INS-260330-6C7F` [high] A NASA committee concluded that no deflection method works for kilometer-scale asteroids, making survey telescopes the single highest-value investment in planetary defense.
 - `INS-260330-86CD` [high] A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
 - `INS-260323-BD20` [high] 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
 - `INS-260324-40AA` [high] TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260323-2559` [high] Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
+- `INS-260405-2422` [medium] All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.
 - `INS-260404-3C7A` [medium] Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
+- `INS-260403-165F` [medium] Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260405-7DC3` [medium] E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260329-06F2` [medium] $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260403-D1D4` [medium] Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
 - `INS-260404-0022` [medium] Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.
+- `INS-260403-0CB8` [medium] Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260405-D8AA` [medium] Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
 - `INS-260322-5E5D` [medium] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
 - `INS-260403-57FF` [medium] If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
 - `INS-260323-1302` [medium] Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.
 - `INS-260329-4D24` [medium] Enumerating all failure modes is tractable and reveals risks that forward-looking analysis misses.
+- `INS-260403-9E4D` [medium] A five-lens framework spanning deep tech, energy, healthcare, economics, and socio-political trends creates more robust investment and strategic decisions than single-dimension analysis.
 - `INS-260329-4161` [medium] Building the frozen yogurt system (franchise, brand, supply chain) generates far more wealth than operating any single store.
 - `INS-260405-E353` [medium] Costco's maze-like layout and IKEA's self-assembly both work because they make customers feel like active participants who earned their reward rather than passive consumers.
 - `INS-260330-FEB0` [medium] The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
+- `INS-260404-1579` [medium] Geopolitical realignment is turning deeptech startups into sovereignty infrastructure with government-backed demand.
 - `INS-260323-9B68` [medium] Shapiro's counter to the 'arc of history bends toward progress' narrative: the 20th century produced communism, Nazism, and the Holocaust — moral regression is not just possible, it's historically common.
 - `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260330-E474` [medium] The 1054 Orthodox-Catholic schism — driven by theological identity differences, not resource competition — created a 1000-year fracture, showing that value misalignment produces the most permanent organizational splits.
@@ -166,22 +206,29 @@
 - `INS-260405-A30D` [medium] Five consecutive days of immersive practice with a focused cohort produces qualitatively different skill development than the same hours distributed over months.
 - `INS-260403-4F1B` [medium] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-9DCD` [medium] Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.
+- `INS-260403-5DF2` [medium] Using AWS credits year one, shifting to GCP year two, and testing Scaleway GPU pricing creates years of subsidized infrastructure through provider arbitrage.
 - `INS-260405-225B` [medium] SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
 - `INS-260404-C13E` [medium] Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
+- `INS-260330-440E` [medium] The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260403-D882` [medium] Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor.
 - `INS-260323-9772` [medium] At the critical point of a phase transition (like a magnet at its Curie temperature), the system becomes scale-free and fractal — local influences chain together into infinite-range correlations, making the system 'maximally interesting' and maximally unpredictable.
 - `INS-260403-DB16` [medium] Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
+- `INS-260330-2C71` [medium] Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.
 - `INS-260330-F229` [medium] The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
 - `INS-260403-52DB` [medium] Managing multiple business models across lifecycle stages — not optimizing a single one — is how companies survive disruption.
 - `INS-260330-22A2` [medium] Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260330-24E0` [medium] When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
 - `INS-260330-23CD` [medium] Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
 - `INS-260404-96E6` [medium] Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
+- `INS-260403-5DDE` [medium] Founders who maintain direct customer contact during downturns discover second-wind opportunities before competitors who retreat into boardroom strategy sessions.
 - `INS-260403-7E6A` [medium] North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
+- `INS-260323-A075` [medium] Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
+- `INS-260403-FBD6` [medium] Refusing to budge on low-priority positions drains political capital needed to win the battles that actually matter.
 - `INS-260330-6D49` [medium] Moving the capital from Rome to Constantinople traded short-term Western control for a thousand years of Eastern survival — a masterclass in strategic repositioning.
 - `INS-260330-777A` [medium] Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260403-462F` [medium] Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
 - `INS-260403-3EFB` [medium] Visual canvas tools with predefined sections and trigger questions channel abstract strategy conversations into concrete, testable business assumptions.
+- `INS-260403-DE34` [medium] Legal-but-clearly-unintended system pathways generate diffuse public anger that eventually demands a dramatic correction.
 - `INS-260403-3EEA` [medium] Tangible visual artifacts created during workshops serve as persistent reference points that enable teams to act on ideas after the session ends.
 - `INS-260323-4457` [medium] A product that takes months to reach a testable state is burning the founder's most scarce resource — time to learn whether the idea even matters — on engineering before validation.
 - `INS-260323-8B90` [medium] Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.
@@ -189,5 +236,7 @@
 - `INS-260404-0A17` [medium] Business model innovation exists on a continuum from incremental improvement to radical invention, not as a binary choice.
 - `INS-260323-224F` [medium] The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
+- `INS-260403-DC59` [medium] Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.
 - `INS-260330-B27A` [medium] LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
+- `INS-260403-6CB4` [medium] Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
 - `INS-260403-3E46` [medium] If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.

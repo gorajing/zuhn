@@ -19,39 +19,14 @@ tags:
 sources:
   - type: blog
     title: 'The Deeptech Stack: AI, Climate & Bio Startups in 2025'
-    author:
-      - '@type': Person
-        name: Ander López
-        url: 'https://substack.com/@alopez249'
-        description: Entrepreneurship Manager at Basque Culinary Center
-        identifier: 'user:3904033'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!iOsW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f6cbb1-c627-4f6f-a60f-a5d1d10a380e_996x996.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!iOsW!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f6cbb1-c627-4f6f-a60f-a5d1d10a380e_996x996.jpeg
-      - '@type': Person
-        name: Koshu Kunii
-        url: 'https://substack.com/@koshukunii'
-        description: >-
-          VC investing in human and planetary health solutions, in partnership
-          with OIST. Interested in exploring human potential through deep
-          thoughts, handstand pushups, protest photojournalism, meditation & ice
-          baths, and learning languages.
-        identifier: 'user:6355492'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Vwe0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F217c146b-2e6b-436b-83fd-ed4b313810a7_1365x1365.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!Vwe0!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F217c146b-2e6b-436b-83fd-ed4b313810a7_1365x1365.jpeg
+    author: 'Ander López, Koshu Kunii'
     url: 'https://www.thevccorner.com/p/the-deeptech-stack-ai-climate-and'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Geopolitical realignment is turning deeptech startups into sovereignty
@@ -78,6 +53,13 @@ stance: >-
   supply chains are converting deeptech from a speculative innovation bet into a
   government-backed infrastructure necessity with built-in demand from
   sovereignty mandates.
+related:
+  - INS-260405-5020
+  - INS-260404-DFA5
+  - INS-260403-8256
+  - INS-260330-EF74
+  - INS-260404-3D17
+  - PRI-260328-A1AA
 ---
 The article identifies a third structural driver beyond AI and climate: geopolitical realignment forcing nations to reassert control over critical infrastructure. Semiconductors, biomanufacturing, and food security have become national security concerns, creating a pull-demand dynamic for deeptech startups building local, resilient infrastructure. This converts deeptech from a purely market-driven innovation play into a partially government-funded infrastructure necessity.
 

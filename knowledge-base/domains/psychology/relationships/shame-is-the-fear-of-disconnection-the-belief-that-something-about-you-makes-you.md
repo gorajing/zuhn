@@ -47,10 +47,10 @@ stance: >-
   you talk about it the more power it has over you.
 related:
   - PRI-260327-A7C5
+  - INS-260403-C55F
   - PRI-260324-2A76
+  - INS-260404-1D05
   - INS-260329-D1B0
-  - INS-260325-05E4
-  - INS-260330-59A4
   - INS-260329-1A64
   - INS-260329-03C1
 evidence:

@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why America's extremes will both fail
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/why-americas-extremes-will-both-fail'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Registering as independent to protest extremism removes moderates from
@@ -66,6 +54,14 @@ stance: >-
   independents, they lose influence over primary nominations, which produces
   even more extreme candidates and accelerates the polarization they were trying
   to escape.
+related:
+  - INS-260330-2030
+  - INS-260330-3A3F
+  - INS-260404-FDB2
+  - INS-260403-BA53
+  - INS-260330-95F3
+  - INS-260403-0D1F
+  - INS-260403-9006
 ---
 Record numbers of Americans are leaving both parties and registering as independents, expressing clear dissatisfaction with extremism. But in closed-primary states, this means fewer moderates participate in candidate selection, so the remaining partisan voters nominate even more extreme candidates. The moderates then face a general election choice between two polarized options, increasing their frustration and driving more people to register independent — a self-reinforcing cycle.
 

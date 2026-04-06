@@ -52,15 +52,15 @@ resolutions:
     taught to be uniquely themselves, not to conform.
 related:
   - INS-260320-DDD9
-  - INS-260323-2AE2
   - INS-260323-FCC1
   - INS-260321-C14C
+  - INS-260405-1951
+  - INS-260325-BF84
   - INS-260327-E63E
   - INS-260327-42F0
-  - INS-260326-D8B9
-  - INS-260327-6FFC
   - INS-260327-D5B5
-  - INS-260327-7157
+  - INS-260327-37C8
+  - INS-260330-9B7B
 stance: >-
   At Palantir, each critical product was built by the one person in the world
   who could have done it

@@ -51,16 +51,14 @@ stance: >-
   competition naturally concentrates among the few entities wealthy enough to
   build and maintain them.
 related:
-  - INS-260327-F84E
   - INS-260327-0758
   - INS-260327-DFD8
   - INS-260327-B65A
-  - INS-260327-3B25
   - INS-260327-E4A1
   - INS-260327-8268
   - INS-260327-98B1
   - PRI-260321-0A4D
-  - INS-260330-A192
+  - INS-260402-9F35
 evidence:
   - id: INS-260402-9F35
     type: SUPPORTS

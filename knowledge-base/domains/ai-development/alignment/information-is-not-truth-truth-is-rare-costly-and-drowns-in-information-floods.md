@@ -52,13 +52,14 @@ stance: >-
   easier, because fiction is cheap to produce while truth requires expensive
   institutional investment.
 related:
+  - INS-260405-6019
   - INS-260330-1E6A
   - INS-260330-6566
   - INS-260330-CC51
-  - INS-260330-70B9
+  - INS-260403-4D04
   - INS-260330-E5F2
-  - INS-260402-1F58
   - INS-260404-8750
+  - INS-260405-BFC0
 evidence:
   - id: INS-260330-1E6A
     type: SUPPORTS

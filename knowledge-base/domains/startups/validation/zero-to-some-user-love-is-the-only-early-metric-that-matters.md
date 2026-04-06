@@ -47,7 +47,6 @@ stance: >-
   path regardless of total user count, because expanding a passionate core is a
   solved problem.
 related:
-  - INS-260322-3263
   - INS-260320-70FA
   - INS-260323-40AA
   - INS-260327-2718
@@ -57,6 +56,7 @@ related:
   - INS-260330-E089
   - INS-260330-E263
   - INS-260403-C3DF
+  - INS-260403-9689
 evidence:
   - id: INS-260322-3263
     type: CHALLENGES

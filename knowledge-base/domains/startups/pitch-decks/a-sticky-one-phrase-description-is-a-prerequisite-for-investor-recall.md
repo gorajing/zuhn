@@ -49,7 +49,6 @@ stance: >-
   in investor memory after a multi-pitch day
 related:
   - INS-260323-5EA1
-  - INS-260404-C0E6
   - INS-260404-D242
   - INS-260405-5BD3
   - INS-260404-96C6

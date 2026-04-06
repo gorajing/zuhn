@@ -51,10 +51,10 @@ stance: >-
   made, making the organization unable to adapt.
 related:
   - INS-260322-C5BD
-  - INS-260327-ABE5
-  - PRI-260328-0123
-  - INS-260322-A14D
-  - INS-260330-E585
+  - INS-260403-F658
+  - INS-260405-9579
+  - INS-260404-3ACB
+  - INS-260403-0661
 evidence:
   - id: INS-260322-C5BD
     type: TRANSFERS_TO

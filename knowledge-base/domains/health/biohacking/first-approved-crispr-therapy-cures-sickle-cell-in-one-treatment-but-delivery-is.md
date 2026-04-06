@@ -49,9 +49,10 @@ related:
   - INS-260325-07FA
   - PRI-260328-5989
   - INS-260325-3F8B
+  - INS-260404-880A
   - INS-260325-EC93
-  - INS-260327-E8D3
   - INS-260327-97AE
+  - INS-260403-86BF
 stance: >-
   Casgevy, the first FDA-approved CRISPR therapy, effectively cures sickle cell
   disease in a single treatment, but requires hospitalization and bone ...

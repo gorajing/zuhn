@@ -47,20 +47,19 @@ stance: >-
   directly, your own visible confidence in it becomes the single largest input
   to their judgment.
 related:
-  - INS-260327-66AC
   - INS-260328-EBBC
-  - INS-260404-6388
-  - INS-260404-E6EA
-  - INS-260403-DC64
-  - INS-260404-37F7
-  - INS-260404-5343
+  - INS-260403-37D9
+  - INS-260403-7586
+  - INS-260403-22FE
   - INS-260404-0570
-  - INS-260404-F161
+  - PRI-260405-4B06
+  - INS-260404-405A
+  - INS-260327-66AC
 evidence:
   - id: INS-260404-5017
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-66AC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-EBBC
     type: CHALLENGES
     classified_at: '2026-04-06'

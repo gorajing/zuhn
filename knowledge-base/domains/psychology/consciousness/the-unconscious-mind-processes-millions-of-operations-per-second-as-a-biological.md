@@ -58,16 +58,15 @@ stance: >-
   thought patterns — constitutes roughly 95% of brain function, making conscious
   self-improvement impossible without addressing this hidden infrastructure.
 related:
-  - INS-260323-9774
   - INS-260325-1D95
-  - INS-260325-CDEA
-  - INS-260323-DEEA
   - PRI-260325-F9E1
-  - INS-260327-454C
   - INS-260404-CF9F
   - INS-260330-0FBF
   - PRI-260324-1134
   - INS-260323-0961
+  - INS-260330-A47D
+  - INS-260405-8412
+  - INS-260405-1F0B
 evidence:
   - id: INS-260323-0961
     type: CHALLENGES

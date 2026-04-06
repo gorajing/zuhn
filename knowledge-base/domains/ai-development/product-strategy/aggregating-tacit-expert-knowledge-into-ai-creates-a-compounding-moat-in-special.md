@@ -56,10 +56,10 @@ stance: >-
   a data asset no competitor can replicate.
 related:
   - INS-260322-3263
+  - INS-260403-EF2C
+  - INS-260404-B208
   - INS-260330-8048
   - INS-260322-823B
-  - INS-260322-55D8
-  - PRI-260325-663A
 evidence:
   - id: INS-260330-8048
     type: CHALLENGES

@@ -50,9 +50,9 @@ related:
   - INS-260327-439A
   - INS-260325-537A
   - INS-260330-C451
-  - INS-260330-4859
   - INS-260403-7E8E
   - INS-260403-45E3
+  - INS-260402-B14F
 ---
 Nietzsche's master-slave morality distinction argues that conventional moral values (humility, self-sacrifice, restraint) originated as the weak's strategy for constraining the strong. When internalized by capable individuals, these values become self-limiting - they prevent the full expression of capacity.
 

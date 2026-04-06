@@ -48,10 +48,10 @@ stance: >-
   50/50 creates paralysis.
 related:
   - INS-260330-855A
+  - INS-260403-9D7C
+  - INS-260403-5365
   - INS-260330-A9CB
-  - INS-260330-C7FF
-  - INS-260330-3E6F
-  - INS-260330-E4D9
+  - INS-260403-2ED2
 ---
 Michael Seibel identifies two failure modes in equity splits. First, large disparities (like 60/40 or 70/30) create a toxic dynamic where the minority co-founder feels it's 'your company, not ours' — reducing their ownership mentality and willingness to endure hard times. Second, perfectly equal 50/50 splits create deadlock when co-founders disagree on critical decisions, and Seibel says they see this kill companies a lot.
 

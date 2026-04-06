@@ -49,8 +49,8 @@ related:
   - INS-260403-47BF
   - INS-260403-65C3
   - INS-260404-6394
+  - INS-260403-5FE7
   - INS-260405-7AE0
   - INS-260330-5043
-  - INS-260403-9AB5
 ---
 Innovation readiness assessment — evaluating current capabilities, processes, culture, and incentive structures — provides a baseline that shapes which interventions are most likely to move the needle. Without this diagnostic step, organizations tend to import generic innovation programs that miss the specific gaps in their context. For a utility company like Northumbrian Water, the readiness assessment revealed where startup and corporate innovation practices could be imported and where they needed adaptation. This mirrors the broader principle that organizational change should be diagnosis-first: understanding the current state before prescribing a transformation path.

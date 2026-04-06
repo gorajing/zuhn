@@ -8,3 +8,4 @@
 - `INS-260330-8550` Spend 20+ hours with potential co-founders covering disagreements, work styles, and explicit divorce scenarios before committing.
 - `INS-260327-6725` The right co-founder feels obvious from the first conversation—if it's not electric, keep looking.
 - `INS-260323-9E37` Cuban recognized he was terrible at firing people because he wanted to see the best in everyone, so he always partnered with detail-oriented people who could make those hard calls.
+- `INS-260403-049F` Creandum's Benchmark-inspired equal carry and up-or-out model has retained 6 of 9 current partners who joined as junior staff.

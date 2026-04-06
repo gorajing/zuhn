@@ -40,10 +40,10 @@ resolutions:
     expensive part. Distribution is almost free. So distribute widely.
 related:
   - PRI-260322-DCDB
+  - INS-260405-C819
   - INS-260329-7C08
   - INS-260403-096C
   - INS-260321-3312
-  - INS-260329-BCCB
 stance: >-
   Allocate 80% of content to evergreen material (guides, frameworks, reference)
   and 20% to timely pieces

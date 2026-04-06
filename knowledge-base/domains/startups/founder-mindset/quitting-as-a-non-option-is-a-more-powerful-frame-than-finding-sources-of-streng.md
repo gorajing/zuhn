@@ -53,11 +53,12 @@ stance: >-
   Framing persistence as identity rather than drawing from motivational sources
   of strength produces more durable commitment to extremely hard problems.
 related:
-  - INS-260327-7FDA
   - INS-260327-3E6F
-  - INS-260329-1435
   - PRI-260328-E53E
-  - INS-260329-3848
+  - INS-260329-1435
+  - INS-260327-7FDA
+  - INS-260329-C91D
+  - INS-260402-82F6
 evidence:
   - id: INS-260329-1435
     type: EXTENDS

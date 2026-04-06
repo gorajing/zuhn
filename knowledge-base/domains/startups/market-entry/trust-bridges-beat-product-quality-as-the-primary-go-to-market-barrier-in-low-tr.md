@@ -53,10 +53,10 @@ stance: >-
   borrow existing trust symbols before users will even try the product.
 related:
   - INS-260405-76E4
+  - INS-260403-8CDC
+  - INS-260403-BA0D
   - INS-260404-ED0F
   - INS-260321-3521
-  - PRI-260323-1B96
-  - PRI-260405-E9C5
 evidence:
   - id: INS-260405-76E4
     type: TRANSFERS_TO

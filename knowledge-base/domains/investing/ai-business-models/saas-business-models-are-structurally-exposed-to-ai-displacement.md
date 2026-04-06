@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: The Fall of the Nerds
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/the-fall-of-the-nerds'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     SaaS business models that charge for access to human-engineered software are
@@ -57,6 +45,17 @@ stance: >-
   SaaS companies that monetize access to human-engineered software solutions
   will see their moats collapse as AI makes equivalent software nearly free to
   produce.
+related:
+  - INS-260325-DAD7
+  - INS-260322-B641
+  - INS-260327-5661
+  - INS-260327-C15B
+  - INS-260327-31A7
+  - INS-260403-B6A0
+  - INS-260403-97F8
+  - INS-260403-83C7
+  - INS-260405-B7C7
+  - INS-260403-DED4
 ---
 The February 2026 SaaS stock crash — nearly $1 trillion wiped from a single ETF in one week — reflects a structural repricing, not a momentary panic. SaaS companies monetize the scarcity of skilled software engineers: clients pay subscription fees essentially to rent access to a stable of experts. When AI eliminates that scarcity, the pricing power evaporates.
 

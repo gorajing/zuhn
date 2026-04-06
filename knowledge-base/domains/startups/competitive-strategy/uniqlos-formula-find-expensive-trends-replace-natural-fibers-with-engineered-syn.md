@@ -46,13 +46,13 @@ related:
   - INS-260327-749F
   - INS-260403-5D89
   - PRI-260324-90E8
+  - INS-260403-2D39
   - INS-260327-82AA
-  - INS-260330-712D
   - INS-260327-0BDD
   - INS-260327-A620
-  - INS-260327-FC4F
   - INS-260327-2EFD
   - INS-260327-45BD
+  - INS-260330-5600
 stance: >-
   UNIQLO identifies trending pieces too expensive for the mass market, replaces
   natural fibers with proprietary synthetics, and proactively tweaks de...

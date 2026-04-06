@@ -40,11 +40,11 @@ resolutions:
     workers already understood and were motivated to solve these problems. The
     lesson: measure AI value by capabilities unlocked, not time saved.
 related:
+  - INS-260405-10DF
   - PRI-260405-86E0
   - PRI-260405-1FBC
+  - INS-260403-3291
   - INS-260328-E410
-  - INS-260321-A56C
-  - INS-260403-A485
 stance: >-
   A worker saving 20% of their time is 'soft savings' — employers rarely
   productively reallocate that 20% immediately

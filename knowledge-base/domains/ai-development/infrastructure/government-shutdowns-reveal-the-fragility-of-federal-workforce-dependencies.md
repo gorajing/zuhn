@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: Record Government Shutdown Ends'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-161'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A 43-day shutdown forcing unpaid essential workers illustrates the
@@ -65,6 +55,12 @@ stance: >-
   exposes a structural vulnerability that automation and AI-augmented government
   services could partially mitigate by reducing essential-but-underfunded
   headcount.
+related:
+  - INS-260403-E9E0
+  - INS-260327-8997
+  - PRI-260328-37D8
+  - INS-260403-8874
+  - INS-260403-6184
 ---
 The record 43-day government shutdown required roughly 700,000 federal workers to keep working without pay — a structural absurdity that persisted because those services couldn't stop. The political standoff (ACA subsidy extensions vs. reopening government) was resolved with only a promise of a future vote, not a durable solution.
 

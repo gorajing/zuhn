@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260402-AD42
   - INS-260330-0E49
+  - INS-260326-291C
   - INS-260403-AC74
   - INS-260328-57CF
   - INS-260325-36F0
-  - PRI-260328-604D
 evidence:
   - id: INS-260402-AD42
     type: SUPPORTS

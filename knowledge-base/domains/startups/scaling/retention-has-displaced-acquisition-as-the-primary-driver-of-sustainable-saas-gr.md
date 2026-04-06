@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "The Must-Read Tech, VC, SaaS, AI, and Startup Reports of 2024 \U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-must-read-tech-vc-saas-ai-and'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: 'Retention, not acquisition, is the linchpin of durable ARR growth in SaaS.'
   standard: >-
@@ -54,6 +44,17 @@ resolutions:
 stance: >-
   Net revenue retention is now more predictive of long-term SaaS company value
   than customer acquisition rate.
+related:
+  - INS-260329-C26B
+  - INS-260330-A029
+  - INS-260403-B7FA
+  - INS-260404-A53F
+  - INS-260404-2C23
+  - INS-260403-8450
+  - INS-260403-6D8C
+  - INS-260403-544B
+  - INS-260330-78B1
+  - INS-260403-B18C
 ---
 OpenView's SaaS Benchmarks and ChartMogul's retention analysis both point to the same structural shift: the SaaS companies that scale most efficiently are those optimizing retention mechanics (gross retention, net dollar retention, expansion revenue) rather than pouring capital into top-of-funnel acquisition. This reflects a maturation of the SaaS model where CAC payback periods have lengthened and capital is more expensive.
 

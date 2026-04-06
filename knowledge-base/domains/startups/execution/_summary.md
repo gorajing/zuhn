@@ -1,25 +1,30 @@
 # Topic: execution
 
-> 207 insights
+> 264 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260323-FCBB` [high] Sweeney spent 10-15,000 hours on hobby programming projects between ages 10-20 with no structured plan -- building compilers, databases, bulletin boards -- and every one of those skills became essential when building Unreal Engine years later.
+- `INS-260403-E099` [high] Top builders embed AI into daily workflows through small systems while others wait for clarity, creating a compounding execution gap.
 - `INS-260327-B561` [high] Two people managing 500 community members became possible through AI agents handling complete operational loops: member tracking, coupon issuance, calendar management, content creation, CS handoffs, and marketing dashboards.
 - `INS-260327-9830` [high] ElevenLabs operates on quarterly team planning with no timelines for research initiatives, because when a breakthrough comes, you have 24 hours to start integrating it.
 - `INS-260327-6FFC` [high] AI gives everyone what only Churchill had—an assistant who knows your context, voice, and intent.
+- `INS-260403-79F3` [high] Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.
 - `INS-260327-D888` [high] The best AI users are coaches not coders—AI will gaslight you if you don't push back.
 - `INS-260327-FCCF` [high] AI startup ideas are hiding in plain sight: every job people pay humans to do is a potential product.
+- `INS-260404-EC32` [high] AI-accelerated teams build faster but accumulate operational debt sooner, requiring earlier systematization.
 - `INS-260327-560D` [high] AI newcomers with no preconceptions about limitations outperform experienced users anchored to last year's capabilities.
 - `INS-260327-DECA` [high] AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
 - `INS-260327-5AFE` [high] Using AI well is a social skill—coaching, delegating, providing context—not a technical prompting skill.
 - `INS-260327-9610` [high] A 13-year-old built and shipped an AI product with paying customers using AI tools—the building barrier has collapsed.
 - `INS-260323-C4E2` [high] When someone emails Cuban asking what kind of business to start, that question itself reveals they are not ready — real entrepreneurs already know because they cannot stop thinking about the problem.
 - `INS-260330-6EF1` [high] The world's roundest object was made by starting 2mm oversized and grinding progressively finer — extreme quality comes from iterative refinement, not one-shot precision.
+- `INS-260402-ABB5` [high] Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260330-C6A2` [high] Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260329-EB4B` [high] Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
 - `INS-260328-7241` [high] Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
+- `INS-260327-A234` [high] Be a cockroach—survive everything by doing whatever it takes daily to prevent your company from dying.
 - `INS-260327-ECDA` [high] When the world changes, change the plan—and be transparent about it with investors, board, and employees.
 - `INS-260329-BE50` [high] Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260329-6514` [high] Improving what you already have compounds over time while new ventures reset your progress.
@@ -31,14 +36,20 @@
 - `INS-260329-C0A7` [high] The business bottleneck is almost never in the domain the founder enjoys most.
 - `INS-260330-1C61` [high] Force yourself to list your top priorities, then compare against your actual calendar — the mismatch reveals where execution is failing.
 - `INS-260329-572E` [high] CAP theorem's real value is forcing you to explicitly choose which two of consistency, availability, and partition tolerance you prioritize — before a production incident makes the choice for you.
+- `INS-260403-2A30` [high] A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260327-178E` [high] Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
+- `INS-260403-1904` [high] Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
 - `INS-260327-3C19` [high] As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
 - `INS-260330-9751` [high] Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
+- `INS-260403-7B93` [high] Choosing the door-opening option 80% of the time creates 292 chances for serendipity per year versus 73 for comfort-seekers.
+- `INS-260329-4870` [high] A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260403-9DA1` [high] Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260323-53BF` [high] Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260402-91B5` [high] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260330-2CE5` [high] YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
 - `INS-260404-8C42` [high] YC speakers independently and consistently advise the same things: launch fast, listen to users, iterate — suggesting these are empirical truths about startup success.
+- `INS-260403-6184` [high] Credits expire 6-12 months from activation, not application — triggering them before real workloads exist is the most common way founders waste five-figure capital.
+- `INS-260404-DF88` [high] In a startup crisis, waiting for perfect information narrows your options faster than making an imperfect early decision.
 - `INS-260403-558D` [high] Release crude, iterate fast — nature's imagination outperforms your own.
 - `INS-260323-8392` [high] Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260330-A86C` [high] Cybercriminal schemes evolve through rapid trial-and-error iteration — fail, diagnose, fix, repeat — the same process successful startups use to find product-market fit.
@@ -47,6 +58,7 @@
 - `INS-260329-59A5` [high] For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
 - `INS-260402-E22E` [high] As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260327-0004` [high] Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
+- `INS-260403-E4DD` [high] Fragmented financial tracking across multiple tools creates version control chaos and mismatched assumptions that unravel during investor due diligence.
 - `INS-260403-9680` [high] Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
 - `INS-260327-7CE9` [high] Build the hardest part first while you're most motivated—dancing around easy features kills momentum.
 - `INS-260330-7CC0` [high] Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
@@ -68,8 +80,12 @@
 - `INS-260403-3346` [high] Operational competence earns the trust needed for strategic ambition.
 - `INS-260403-3058` [high] Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
 - `INS-260403-71D1` [high] YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
+- `INS-260403-8B26` [high] The founder's personal speed of decision-making and unblocking directly determines the company's overall execution velocity.
 - `INS-260329-62C1` [high] As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
+- `INS-260404-A46A` [high] Treating projects as experiments ensures you gain knowledge even if the project itself fails.
+- `INS-260405-D925` [high] Starting with an explicit low-commitment frame ('just a sketch', 'just a hack') bypasses perfectionism and lets real work accumulate.
 - `INS-260330-EBFD` [high] Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260403-2041` [high] Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260402-70FD` [high] Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.
 - `INS-260329-B34E` [high] People fail by building many half-finished bridges rather than completing one — getting to 90% on multiple paths yields zero while 100% on one path yields everything.
 - `INS-260330-ED04` [high] Nakamura's daily routine of modifying his MOCVD reactor each morning and testing each afternoon created an iteration cycle no well-funded lab could match.
@@ -79,14 +95,21 @@
 - `INS-260326-C657` [high] Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
 - `INS-260403-30E5` [high] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
+- `INS-260329-6020` [high] After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260403-EFAF` [high] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
+- `INS-260330-9A83` [high] Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260330-0102` [high] Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260330-8920` [high] The team broke multiple bats and redesigned between each attempt, reaching their goal faster than careful upfront engineering would have.
 - `INS-260403-FF4E` [high] Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
 - `INS-260327-5B30` [high] Check with your investors before assuming they want you to keep grinding on a failing idea.
 - `INS-260326-C305` [high] YC's number one pre-launch advice is simply 'launch' — if your MVP takes more than two months, you're iterating in a vacuum.
 - `INS-260403-D1D0` [high] Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
+- `INS-260404-0EE0` [high] Startups that track only revenue and signups miss the early warning signals—return rates, cancellation trends, AOV drops—that predict failure.
 - `INS-260330-BC6F` [high] A YC company that improperly converted from a Connecticut LLC to a Delaware Corporation discovered the mistake years later during fundraising, requiring four law firms and $500K to resolve.
+- `INS-260404-1775` [high] Early-stage startups gain the most from simple, structured KPI tracking rather than complex BI tools or gut feel.
+- `INS-260403-E7A7` [high] Calling ambitious work 'just a sketch' or 'just a hack' lowers the psychological barrier to starting, then momentum carries you forward.
+- `INS-260404-4154` [high] Starting with a sketch instead of a sculpture lets you bypass the psychological barrier of commitment that kills ambitious projects early.
+- `INS-260404-DDFB` [high] Working in low-fidelity mediums like sketches or quick hacks lets you start ambitious projects by reducing the psychological weight of imperfect early output.
 - `INS-260329-E333` [high] Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
 - `INS-260329-4253` [high] Protect maker time in three stages: off-hours when solo, morning-first with back-to-front scheduling at mid-stage, and full maker days at scale.
 - `INS-260325-0FED` [high] Since the Panic Monster only responds to real consequences, effective execution in unstructured work requires manufacturing genuine external deadlines.
@@ -96,11 +119,13 @@
 - `INS-260327-C75F` [high] The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
 - `INS-260330-6F7B` [high] You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - `INS-260403-D746` [high] Meeting damage extends far beyond the meeting itself through anticipation and fragmentation of work blocks.
+- `INS-260403-52C4` [high] Partially working features that resist deprecation due to sunk cost create more cumulative drag than outright failures that get quickly killed.
 - `INS-260330-8D6F` [high] Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260327-2101` [high] Default to deterministic prompt-chain workflows over agentic systems — most professional tasks follow the same steps every time.
 - `INS-260327-DCA9` [high] Weinberg says almost every problem at Harvey traces back to having six DRIs on something instead of one — shared ownership is no ownership, just like asking two friends to water your plant guarantees it dies.
 - `INS-260327-734D` [high] It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260327-2387` [high] Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
+- `INS-260403-D6C2` [high] No-code platforms and AI tools let non-technical founders go from idea to testable prototype in days, shifting the bottleneck from engineering capacity to hypothesis clarity.
 - `INS-260330-39D7` [high] Sweating details that users never see installs a culture of precision that makes excellence self-reinforcing across the organization.
 - `INS-260403-E255` [high] Clustering meetings at day's end converts interruptions into bounded schedule compression without fragmenting deep work blocks.
 - `INS-260327-7D0B` [high] Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
@@ -110,17 +135,22 @@
 - `INS-260402-92AE` [high] Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - `INS-260402-9681` [high] Multiple successful YC founders independently ranked persistence above intelligence as the dominant success factor.
 - `INS-260328-6A18` [high] Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
+- `INS-260403-F4D7` [high] Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260403-144A` [high] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 - `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
 - `INS-260328-6E7A` [high] The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260330-DC3B` [high] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
+- `INS-260403-23AA` [high] Long approval processes for AI tools don't prevent usage — they push employees to unapproved personal accounts, creating more risk than fast-tracking would.
 - `INS-260329-D1B0` [high] Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260402-E148` [high] Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
+- `INS-260403-77F4` [high] Measure and minimize the gap between failure and relaunch rather than trying to prevent all failures.
+- `INS-260404-D688` [high] Calling early work a sketch or hack lowers the psychological bar enough to actually start and iterate.
 - `INS-260402-841D` [high] Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-8D5D` [high] Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
 - `INS-260402-C13F` [high] Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
 - `INS-260403-4050` [high] Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
 - `INS-260403-2376` [high] 'Make something people want' tells you where to go; 'be relentlessly resourceful' tells you how to get there day by day.
+- `INS-260403-7FB2` [high] Structure your revenue model so that wishful assumptions produce visibly broken outputs, forcing honest confrontation with reality.
 - `INS-260327-0700` [high] Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260330-4F7B` [high] Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
 - `INS-260330-A44F` [high] Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
@@ -130,27 +160,40 @@
 - `INS-260327-5661` [high] Customers will pay dramatically more for software bundled with human support services, especially for high-stakes use cases.
 - `INS-260327-A98E` [high] Nothing is going to be perfect if you do not ship the product — get it to market and iterate based on feedback.
 - `INS-260327-A5EE` [high] If your AI product works well today, you're not thinking big enough—build for the next model generation.
+- `INS-260403-1ECB` [high] When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
 - `INS-260327-DC65` [high] When AlphaChip first showed results to the chip design team, they were not just skeptical — they were angry. Only superhuman results changed minds.
 - `INS-260329-3739` [high] Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
 - `INS-260329-21C0` [high] Skills compound multiplicatively—each new adjacent skill doesn't just add value, it multiplies the value of every skill acquired before it.
+- `INS-260403-ADF9` [high] The most iconic startups found their winning product by observing what users actually did inside a failing product, not by executing their original plan.
 - `INS-260330-E9D4` [high] Ross Ulbricht was caught not by crypto-breaking or advanced surveillance, but by a trail of careless forum posts, a personal email in a job ad, a Stack Overflow question under his real name, and living near the IP-traced internet cafe.
 - `INS-260326-E411` [high] Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
+- `INS-260403-8439` [high] Measuring success by spending or job creation rather than actual output is a reliable indicator of organizational dysfunction.
 - `INS-260329-E6DB` [high] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
+- `INS-260404-8394` [high] Categorize any crisis as either cash or PMF before acting, because the response strategies are fundamentally different.
 - `INS-260403-CCB7` [high] Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - `INS-260404-1E35` [high] Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.
+- `INS-260404-4D7F` [high] Progress comes from stacking difficult but correct choices consistently, even when each individual decision feels insignificant.
 - `INS-260403-9A4C` [high] Most startups die from giving up, not from insurmountable external forces.
 - `INS-260403-4A2F` [high] The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
 - `INS-260403-906E` [high] Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
 - `INS-260403-A14B` [high] Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
+- `INS-260403-6F22` [high] Building at the boundary of what AI models can do today positions you to immediately capitalize when the next generation arrives.
 - `INS-260329-818A` [high] HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
+- `INS-260404-393A` [high] Strategy is a hypothesis, not a plan — its value is only realized through execution that tests, validates, and iterates on strategic choices.
 - `INS-260329-4293` [high] Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
+- `INS-260403-75CE` [high] Tactics from successful companies fail when transplanted without the underlying conditions that made them effective.
 - `INS-260403-9173` [high] Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
+- `INS-260330-A3B7` [high] Testing baseline → single unit → stacked units in sequence reveals the failure mode at each stage, which a single end-state test would obscure.
 - `INS-260330-B50A` [high] Inconsistent results in complex systems require isolating variables rather than guessing at causes.
+- `INS-260403-648C` [high] Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
+- `INS-260404-F48F` [high] Improve team performance by working up the stack: first nail execution clarity, then strategic coherence, then vision alignment.
 - `INS-260330-3A0D` [high] Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.
 - `INS-260330-7F62` [high] A YC company's Connecticut LLC-to-Delaware conversion was done incorrectly by local lawyers, requiring four law firms and $500K to fix years later during a major fundraise.
 - `INS-260330-637F` [high] The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
+- `INS-260403-1E05` [high] Five half-built features create more drag than one failed launch because the compounding effect only kicks in upon delivery, not upon starting.
 - `INS-260330-A78C` [high] YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
+- `INS-260329-E40B` [high] The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-19F9` [high] The 5-phase emotional cycle (uninformed optimism → informed pessimism → despair → informed optimism → achievement) explains why serial-starters never build wealth.
 - `INS-260402-7182` [high] When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - `INS-260329-E6C3` [high] Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
@@ -162,6 +205,9 @@
 - `INS-260329-D4BC` [high] Don't make your bank balance the goal — make your monthly income the goal, and reinvest excess into skills that increase that income.
 - `INS-260327-2718` [high] A thousand complaints from dedicated users is healthier than silence or universal satisfaction.
 - `INS-260330-2952` [high] Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve.
+- `INS-260329-24CE` [high] Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
+- `INS-260403-2B50` [high] Only a fully linked three-statement model (income, balance sheet, cash flow) reveals the true cash position of a startup.
+- `INS-260403-2774` [high] Founders who activate every credit program they qualify for drown their teams in context switching, turning free tools into a net productivity loss.
 - `INS-260330-D031` [high] Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260403-91FD` [high] Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260327-10E0` [high] If you can't explain specifically why you'll beat competitors before building, don't start building.
@@ -178,16 +224,21 @@
 - `INS-260323-CB34` [high] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
 - `INS-260329-AB9A` [high] Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
 - `INS-260327-DD5C` [high] Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
-- `INS-260403-F4B9` [high] Instead of moving ships empty between Caribbean and European seasons, cruise lines sell repositioning tickets — turning a cost center (transit) into a revenue stream.
+- `INS-260403-FB4A` [high] Instead of moving ships empty between Caribbean and European seasons, cruise lines sell repositioning tickets — turning a cost center (transit) into a revenue stream.
+- `INS-260403-832B` [medium] eDreams built Spain's first unicorn without lean startup methodology, finding that the absence of playbooks forced them to focus on what actually worked rather than conventional wisdom.
 - `INS-260329-7A3C` [medium] Fill your calendar from 5pm backward so meetings stack at the end of the day and mornings stay open for deep work.
 - `INS-260327-767B` [medium] In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
 - `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
 - `INS-260403-B4B9` [medium] Use your business model as the starting point for defining what to measure, not generic KPIs.
 - `INS-260403-566D` [medium] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
 - `INS-260405-B59F` [medium] Translating unit objectives into explicit joint commitments creates the cross-unit accountability that crises demand.
+- `INS-260402-55FB` [medium] Deliberately choosing roles with real complexity across different stages and cycles builds a compounding pattern library that becomes your primary competitive advantage.
 - `INS-260327-5297` [medium] When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
+- `INS-260403-5A88` [medium] The gap between high and low performing teams is defined by speed from idea to deployment, not by budget or headcount.
+- `INS-260402-4DB4` [medium] In fast-moving nascent markets, a 95/5 execution-to-vision ratio beats the traditional 70/30 because strategies expire faster than implementation cycles.
 - `INS-260403-4328` [medium] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
+- `INS-260403-14F4` [medium] Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
 - `INS-260405-A9B2` [medium] Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.
 - `INS-260403-C4BE` [medium] Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
@@ -195,7 +246,10 @@
 - `INS-260403-7BBD` [medium] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260329-1F3F` [medium] Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260329-50BD` [medium] The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
+- `INS-260404-88D8` [medium] If you can't reach statistical significance within a month, use pre/post analysis and trust intuition — waiting for perfect data is its own form of failure.
 - `INS-260405-202B` [medium] Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
+- `INS-260403-7749` [medium] SF cut housing permit approval from 605 days to 280 days average — with new applications averaging 114 days — signaling that bureaucratic speed reform has outsized economic impact.
+- `INS-260403-9746` [medium] 20VC's origin story demonstrates how a personal low created the space for a media platform that snowballed into a capital engine.
 - `INS-260403-0A1C` [medium] Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
 - `INS-260329-461A` [medium] CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
 - `INS-260329-1F4D` [medium] Block your first 8 hours for uninterrupted work until you have enough team leverage that directing others outproduces your own output.
@@ -203,6 +257,9 @@
 - `INS-260329-57D7` [medium] Auditing every meeting with 'is this still necessary?' and quarterly purging recurring meetings compounds into significant time recapture.
 - `INS-260403-10D8` [medium] Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent.
 - `INS-260329-5EE7` [medium] Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
+- `INS-260403-4A42` [medium] Top-performing 2025 revenue teams achieved ~77% higher revenue per rep through deep AI integration and workflow redesign rather than headcount expansion.
+- `INS-260403-8C2D` [medium] Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
+- `INS-260403-78AD` [medium] Solo founders now start over a third of new startups as AI tools replace functions that previously required full teams.
 - `INS-260329-6253` [medium] Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
 - `INS-260327-3A71` [medium] In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.
 - `INS-260404-CF81` [medium] Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.

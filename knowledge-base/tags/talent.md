@@ -1,7 +1,7 @@
 # Tag: talent
 
+- `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
-- `INS-260405-FAE3` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 - `INS-260323-1930` Musicians like Charlie Puth experience notes as colors, tastes, and shapes — talent at the highest levels isn't doing the same thing better, it's literally perceiving reality differently.
 - `INS-260330-593E` Nerds who can't accept their limitations either become crackpots (denial) or self-hating anti-nerds (reaction formation), while healthy acceptance enables actual productive work.
 - `INS-260326-2259` Duckworth's data shows grit is unrelated or inversely related to talent — the most gifted people often lack the perseverance to realize their potential.
@@ -10,9 +10,12 @@
 - `INS-260328-68BA` The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-A64F` Talent only reveals itself when the environment activates it — a person can go their whole life without entering the domain that would unlock their natural ability.
 - `INS-260323-E3FD` The 10,000-hour rule was misunderstood as 'practice creates excellence' — Gladwell himself clarifies it means practice is necessary but insufficient without innate talent, which is the hardware that skill (software) runs on.
+- `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.
 - `INS-260404-DBD2` You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
+- `INS-260403-10CE` As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
 - `INS-260403-D51E` Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 - `INS-260403-22DF` The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
+- `INS-260403-A8A3` Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
 - `INS-260330-E126` Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
 - `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
 - `INS-260330-9B7B` Hire geniuses when you find them regardless of whether you have a defined role, because great people create their own value.

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: A Conversation with One of My 8090 Co-Founders
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/a-conversation-with-one-of-my-8090'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     LLM grokking, like penicillin, was discovered by accident—and this
@@ -65,6 +55,12 @@ stance: >-
   learning than theory-first research, and this pattern suggests the field still
   has large undiscovered capabilities accessible only through systematic
   exploration of counterintuitive regimes.
+related:
+  - PRI-260328-E64D
+  - INS-260405-57D6
+  - INS-260403-837D
+  - INS-260330-0143
+  - INS-260404-FDEA
 ---
 The grokking discovery is emblematic of a broader pattern in AI research: major breakthroughs come from running experiments longer, bigger, or differently than theory would suggest, and observing unexpected results. Penicillin-style serendipity—where a mistake or an overlooked anomaly becomes the finding—recurs throughout deep learning history (dropout, batch normalization, attention mechanisms all emerged from empirical surprise).
 

@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "Bill Gates's €1bn Climate fund\U0001F50B, Paths to Product-Market Fit\U0001F3AF, State of AI investing\U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/bill-gatess-1bn-climate-fund-paths'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI is the fastest growing venture investment category in 2024, reshaping
@@ -56,6 +46,17 @@ stance: >-
   AI startups are capturing a disproportionate share of venture dollars in 2024,
   crowding out investment in other categories and compressing the funding
   environment for non-AI companies.
+related:
+  - INS-260328-03BB
+  - INS-260403-FED1
+  - INS-260405-0327
+  - INS-260404-C5B7
+  - INS-260404-D475
+  - INS-260403-9A94
+  - INS-260405-6EE5
+  - INS-260404-16FB
+  - INS-260404-D5B5
+  - INS-260405-DDC2
 ---
 Dealroom data highlighted in Tomasz Tunguz's analysis shows AI as the dominant growth vector in venture funding in 2024. This has downstream effects beyond the AI sector itself: investors are reallocating attention and capital away from other categories, LPs are pushing fund managers toward AI exposure, and founders in non-AI categories face a tougher fundraising environment even when their fundamentals are strong.
 

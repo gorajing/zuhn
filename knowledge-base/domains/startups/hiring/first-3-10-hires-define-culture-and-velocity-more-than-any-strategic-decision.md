@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Free AI Hiring Kit for Startup Founders
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/free-ai-hiring-kit-founders'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Early hires define company culture and execution speed more decisively than
@@ -55,6 +45,12 @@ resolutions:
 stance: >-
   The selection of a startup's first 3-10 employees has more impact on company
   trajectory than product strategy, market timing, or fundraising outcomes
+related:
+  - INS-260403-DF37
+  - PRI-260405-608A
+  - PRI-260328-E870
+  - INS-260403-A99F
+  - INS-260403-DC4A
 ---
 At the pre-seed and seed stage, your first 3-10 hires are not just filling roles — they are establishing the operating norms, quality bar, and execution tempo that will persist long after those individuals' specific contributions. A founding engineer doesn't just write code; they establish the engineering culture, tooling choices, and technical standards that subsequent hires will inherit.
 

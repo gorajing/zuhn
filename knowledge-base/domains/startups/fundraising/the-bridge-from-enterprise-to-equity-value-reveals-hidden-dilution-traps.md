@@ -18,24 +18,14 @@ sources:
     title: >-
       DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup
       Guide
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-dcf-valuation-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Converting enterprise value to equity value requires adjusting for debt,
@@ -61,6 +51,14 @@ stance: >-
   Most founders underestimate how convertible debt, stock options, and
   non-controlling interests erode the equity value available to common
   shareholders
+related:
+  - INS-260329-5514
+  - INS-260403-9D7C
+  - INS-260323-4C43
+  - INS-260403-A9F2
+  - INS-260405-484F
+  - PRI-260405-E9C5
+  - INS-260403-49FC
 ---
 Enterprise value and equity value are fundamentally different numbers, and the gap between them widens as startups accumulate financing complexity. The bridge calculation subtracts financial liabilities and debt equivalents while adding cash and marketable securities. Convertible debt, outstanding options, and non-controlling interests all chip away at the equity available to common shareholders.
 

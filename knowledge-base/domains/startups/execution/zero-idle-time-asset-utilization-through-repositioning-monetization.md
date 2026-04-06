@@ -1,5 +1,5 @@
 ---
-id: INS-260403-F4B9
+id: INS-260403-FB4A
 domain: startups
 topic: execution
 title: Zero-idle-time asset utilization through repositioning monetization
@@ -51,12 +51,12 @@ stance: >-
   the transit itself as a product
 related:
   - INS-260324-E785
-  - INS-260324-1C12
-  - INS-260327-5580
   - INS-260403-616B
+  - INS-260403-F4B9
+  - INS-260403-22E9
   - PRI-260328-F497
   - INS-260327-B715
-  - INS-260403-22E9
+  - INS-260324-1C12
 ---
 Cruise ships face a seasonal demand problem: Caribbean routes peak November through April, then demand shifts to Europe. Moving a fleet of ships across the Atlantic empty would be enormously expensive. Instead, lines sell repositioning cruises — one-way, two-week voyages from Florida to Amsterdam at discounted rates. The ship is always making money, and the moment one cruise ends, the next begins.
 

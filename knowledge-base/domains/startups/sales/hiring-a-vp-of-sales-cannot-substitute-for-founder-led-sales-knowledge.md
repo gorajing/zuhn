@@ -46,12 +46,11 @@ stance: >-
   A VP of Sales hired from a successful company will fail at a startup that
   hasn't already figured out its own sales playbook.
 related:
-  - INS-260322-AFE9
   - INS-260327-2043
   - INS-260327-767B
   - INS-260329-444F
-  - INS-260330-0B50
-  - INS-260404-6BBB
+  - INS-260403-5426
+  - INS-260403-832B
 evidence:
   - id: INS-260322-AFE9
     type: TRANSFERS_TO

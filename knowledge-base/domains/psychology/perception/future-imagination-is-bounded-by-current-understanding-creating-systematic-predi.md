@@ -49,10 +49,10 @@ stance: >-
   novel developments that actually define the future.
 related:
   - INS-260325-D25C
+  - INS-260404-4E1A
+  - INS-260322-CCE8
   - INS-260330-2F13
-  - INS-260405-690F
-  - INS-260327-6F26
-  - INS-260323-3045
+  - INS-260404-1D05
 evidence:
   - id: INS-260323-3045
     type: CHALLENGES

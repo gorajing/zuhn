@@ -43,16 +43,16 @@ stance: >-
   guarantees a perpetual spend treadmill because customers leave as easily as
   they arrived.
 related:
-  - INS-260327-7D53
   - INS-260327-290C
   - INS-260330-5C64
-  - INS-260330-4F2A
   - INS-260404-D6EC
   - PRI-260328-6A8D
   - INS-260325-A54F
   - PRI-260328-935B
   - PRI-260405-548B
   - INS-260405-F691
+  - INS-260403-80B1
+  - INS-260403-64AE
 evidence:
   - id: INS-260403-543E
     type: CONTRADICTS

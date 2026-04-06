@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: The Brutally Honest 10-Year Startup Journey Map
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-journey-map'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The most dangerous period for startups is not the search for PMF but the
@@ -58,6 +48,14 @@ resolutions:
 stance: >-
   More startups die from the post-PMF growth plateau than from failing to find
   initial product-market fit
+related:
+  - INS-260323-F9E5
+  - INS-260402-B66A
+  - INS-260403-C7E3
+  - INS-260402-EA72
+  - INS-260403-57FF
+  - INS-260403-99B1
+  - INS-260403-7D5B
 ---
 The conventional narrative focuses on product-market fit as the great filter, but the article presents a compelling counter-pattern: the years 5-7 growth plateau kills more funded startups than the initial search for PMF. This is when CAC spikes, growth stalls, investors go quiet, and acquisition offers arrive at valuations that feel like defeat. Most companies sell at this point.
 

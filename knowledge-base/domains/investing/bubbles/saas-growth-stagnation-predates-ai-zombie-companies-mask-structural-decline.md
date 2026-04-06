@@ -45,16 +45,16 @@ resolutions:
     temporary disruption story (bullish for AI) and a permanent structural
     slowdown (bearish for software valuations broadly).
 related:
-  - INS-260324-72E8
+  - INS-260327-3B91
   - PRI-260328-0993
   - PRI-260405-5912
   - INS-260403-3C81
   - INS-260327-CBBB
-  - PRI-260323-977A
-  - INS-260321-F2C4
-  - INS-260323-78A5
   - INS-260403-E1EB
   - INS-260403-912E
+  - INS-260405-4CDA
+  - INS-260404-C7B2
+  - INS-260403-2242
 stance: >-
   The SaaS selloff blamed on AI disruption is actually the end of a decade-long
   hypergrowth era

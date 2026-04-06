@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: AI has the worst sales pitch I've ever seen
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/ai-has-the-worst-sales-pitch-ive'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI companies undermine their own adoption by leading with economic
@@ -63,6 +51,12 @@ stance: >-
   AI labs repeatedly messaging that AI will make humans economically obsolete is
   a massive self-inflicted wound that alienates the very public whose support
   they need for adoption and favorable regulation.
+related:
+  - INS-260323-F62A
+  - INS-260324-29D8
+  - INS-260327-7AB5
+  - PRI-260324-A608
+  - PRI-260328-604D
 ---
 Smith's central thesis is that AI has possibly the worst sales pitch in history: 'Our product might destroy humanity AND it will definitely make you unemployable.' He compares it to a door-to-door salesman pitching a microwave that cooks your food perfectly but also paralyzes your family, then suggesting you'll be fine on welfare. The extinction risk part is actually defensible as 'our version is safer,' but the economic obsolescence messaging is pure own goal.
 

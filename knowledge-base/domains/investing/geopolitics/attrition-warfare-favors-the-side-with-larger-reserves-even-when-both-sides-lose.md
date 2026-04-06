@@ -52,11 +52,10 @@ stance: >-
   neither side has a qualitative advantage.
 related:
   - INS-260327-8268
+  - INS-260403-B800
   - PRI-260328-65EC
   - PRI-260405-C47B
   - INS-260327-4313
-  - INS-260327-98B1
-  - INS-260330-DCE1
 evidence:
   - id: INS-260330-DCE1
     type: CHALLENGES

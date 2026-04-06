@@ -46,11 +46,11 @@ resolutions:
     analytical skills in one field, then applying them to a domain where such
     skills are scarce.
 related:
+  - INS-260330-007E
   - INS-260323-DA1E
   - PRI-260328-9EC9
   - INS-260325-568A
   - INS-260325-D624
-  - INS-260323-CF93
   - INS-260323-E77E
 stance: The greatest financial innovations came from outsiders
 evidence:

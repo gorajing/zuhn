@@ -51,7 +51,6 @@ stance: >-
   conditions change, and retrofitting is always more expensive than designing
   for adaptability.
 related:
-  - INS-260330-40DA
   - INS-260330-3FF4
   - INS-260404-2695
   - INS-260405-7E85
@@ -59,7 +58,6 @@ related:
   - INS-260330-F5CF
   - INS-260404-0BED
   - INS-260405-F03A
-  - INS-260405-FBD7
 evidence:
   - id: INS-260330-EACA
     type: SUPPORTS

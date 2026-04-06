@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "What Makes a Good Product-Market Fit?\U0001F3AF, Global Markets Snapshot\U0001F4CA, GDP Growth Projections\U0001F4C8"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/what-makes-a-good-product-market'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Series B pitches succeed by proving unit economics are scalable, not just by
@@ -61,6 +51,17 @@ stance: >-
   A successful Series B pitch deck must shift from the 'why this exists' framing
   of early rounds to demonstrating repeatable, improving unit economics that
   justify the capital deployment scale.
+related:
+  - INS-260320-8688
+  - INS-260323-1643
+  - PRI-260328-BEDD
+  - INS-260403-EEDF
+  - INS-260403-1A5A
+  - INS-260404-420F
+  - INS-260405-B4D4
+  - INS-260403-F0EE
+  - INS-260405-13C5
+  - INS-260403-0D24
 ---
 The Series B is where the narrative shifts fundamentally. At Seed and Series A, investors are betting on the team's ability to find product-market fit and prove initial traction. By Series B, that proof should exist — and investors are now evaluating whether the business can deploy $20-100M+ without degrading the economics that justified early investment.
 

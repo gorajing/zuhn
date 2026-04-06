@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'No, China doesn''t plan 1000 years ahead'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/no-china-doesnt-plan-1000-years-ahead'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Stories we tell about competitors often reveal what we wish we were, not
@@ -60,6 +48,12 @@ stance: >-
   When analysts describe a competitor as having superior long-term planning,
   they are more often projecting their own desired self-image than accurately
   describing the competitor's actual behavior.
+related:
+  - INS-260330-F527
+  - INS-260403-C0FE
+  - INS-260405-AEA0
+  - INS-260404-5BBF
+  - INS-260323-D621
 ---
 Noah Smith argues that when Western authors like Graham Allison and Michael Pillsbury describe China as a patient, far-sighted strategic planner, they're less describing Chinese reality and more articulating what they want America to become. Kissinger's Go metaphor didn't reflect Chinese strategic culture (the Chinese play xiangqi, a faster, more tactical chess variant) — it reflected how Kissinger wanted America to respond to China.
 

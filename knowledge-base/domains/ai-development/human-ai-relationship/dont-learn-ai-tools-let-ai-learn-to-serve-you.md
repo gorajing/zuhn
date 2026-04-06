@@ -51,27 +51,27 @@ stance: >-
 related:
   - INS-260321-B8E8
   - INS-260323-DA4A
-  - INS-260320-96C9
-  - INS-260320-D972
-  - INS-260323-4574
   - PRI-260320-6847
   - INS-260327-DECA
-  - INS-260404-CE26
-  - INS-260404-EAB7
+  - INS-260328-3446
   - INS-260403-F932
+  - INS-260320-96C9
+  - INS-260323-4574
+  - INS-260404-CE26
+  - INS-260403-751D
 evidence:
   - id: INS-260325-58F5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-4574
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-DECA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-3446
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-1852
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-F932
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Naval takes a deliberately contrarian stance against the prompt engineering industry: he never bothers learning tips, tricks, or specialized AI workflows because their longevity is measured in weeks, not years. His argument is asymmetric adaptation — AI models are being trained on massive user data and tools are being built rapidly to make AI easier to use, so the system adapts to you faster than you can adapt to it.
 

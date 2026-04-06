@@ -52,42 +52,42 @@ resolutions:
     reasoning may be the one domain where we can truly verify AI outputs —
     because the answers are provably correct or incorrect.
 related:
-  - INS-260323-085A
   - INS-260321-D959
-  - INS-260323-DA1E
-  - INS-260323-72EB
   - INS-260325-820C
-  - INS-260323-849E
+  - INS-260323-72EB
   - INS-260323-7345
-  - INS-260325-EB9E
   - INS-260323-C3FA
+  - INS-260323-DA1E
   - INS-260325-EBDD
+  - INS-260330-DFA4
+  - INS-260330-8625
+  - INS-260330-97A0
 stance: >-
   Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity
   was superseded by Einstein's
 evidence:
   - id: INS-260323-DA1E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-72EB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-820C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-849E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-7345
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-184C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-C3FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-EBDD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8625
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-26B0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-DFA4
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Frenkel draws a crucial distinction: physical theories evolve (Newton superseded by Einstein), but mathematical truths are permanent. x^2 + y^2 = z^2 means the same thing to anyone in the world regardless of culture, religion, or era, and will still be true in a thousand years. This permanence comes from proof by logical deduction rather than empirical observation.
 

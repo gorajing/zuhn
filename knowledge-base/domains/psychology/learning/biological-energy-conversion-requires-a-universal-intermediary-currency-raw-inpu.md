@@ -51,25 +51,25 @@ stance: >-
   The ATP intermediary requirement reveals that complex systems need
   standardized internal currencies rather than direct input-to-output conversion
 related:
+  - INS-260404-9C57
   - INS-260330-5670
-  - INS-260404-0214
-  - INS-260404-F014
-  - INS-260404-F908
-  - INS-260403-6F40
-  - INS-260330-8E45
+  - INS-260404-040D
+  - INS-260404-3500
+  - INS-260330-2C71
+  - INS-260403-5C74
 evidence:
   - id: INS-260330-30FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2C71
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-81BD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-20FD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8E45
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-DDB5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-F014
     type: SUPPORTS
     classified_at: '2026-04-06'

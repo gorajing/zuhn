@@ -41,9 +41,8 @@ stance: >-
   The Series A fundraising process has not meaningfully improved in decades and
   remains unnecessarily slow, opaque, and psychologically damaging to founders.
 related:
-  - INS-260321-5598
-  - INS-260323-6C84
   - INS-260325-8290
+  - INS-260321-5598
   - INS-260327-A458
   - INS-260403-8D8D
   - INS-260330-9346

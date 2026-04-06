@@ -56,7 +56,7 @@ related:
   - INS-260329-41BC
   - INS-260330-CE2F
   - PRI-260405-F9BD
-  - INS-260325-3A04
+  - INS-260329-BA12
 ---
 The video jokes about the classic Java anti-pattern: start with one giant class, then under pressure break it into deeply nested subclass hierarchies. This pattern doesn't just feel bad — it structurally prevents future refactoring because behavior is spread across a call chain where changing any layer risks cascading breakage.
 

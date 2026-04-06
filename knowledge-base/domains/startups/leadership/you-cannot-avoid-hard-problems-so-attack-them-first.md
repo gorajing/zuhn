@@ -46,12 +46,12 @@ stance: >-
   building easy features, when the fastest path to success is identifying and
   attacking the hardest problem first.
 related:
-  - INS-260323-BC61
   - INS-260325-29D5
+  - INS-260323-BC61
   - INS-260329-64B8
+  - INS-260404-F970
   - INS-260330-1E5E
-  - INS-260327-CEE4
-  - INS-260330-D7CC
+  - INS-260403-A7D6
 evidence:
   - id: INS-260323-BC61
     type: TRANSFERS_TO

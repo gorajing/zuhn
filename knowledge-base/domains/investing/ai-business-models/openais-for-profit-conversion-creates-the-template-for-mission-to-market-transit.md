@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-159'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     OpenAI's conversion to a for-profit PBC at $500B valuation, with nonprofit
@@ -61,6 +51,12 @@ stance: >-
   OpenAI's structural shift from capped-profit to PBC with nonprofit oversight
   will become the default governance template for frontier AI labs seeking
   massive capital while maintaining mission credibility
+related:
+  - INS-260327-C05A
+  - INS-260328-896B
+  - INS-260323-960A
+  - INS-260403-2ED2
+  - INS-260403-DB16
 ---
 OpenAI's reorganization into a public benefit corporation resolves the tension between its original nonprofit mission and its need for massive capital. The structure—nonprofit parent retaining control, $25B earmarked for health and AI safety, capped-profit experiment abandoned—creates a template other frontier labs may follow. The $500B valuation with IPO plans targeting $1T makes this the highest-stakes governance experiment in tech history.
 

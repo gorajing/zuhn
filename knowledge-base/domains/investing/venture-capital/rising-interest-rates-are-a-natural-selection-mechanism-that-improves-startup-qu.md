@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Higher Rates Will Lead to the Next Generation of Great Tech Startups
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/higher-rates-will-lead-to-the-next'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Rising rates shake out weak competitors, concentrate talent, and force the
@@ -56,5 +46,12 @@ resolutions:
 stance: >-
   Higher interest rates function as an evolutionary filter that concentrates
   capital in higher-quality ventures and eliminates unsustainable competitors
+related:
+  - INS-260327-DF8C
+  - PRI-260324-D701
+  - PRI-260405-5912
+  - INS-260403-9CC1
+  - INS-260404-91D5
+  - PRI-260328-A4AC
 ---
 Chamath draws a direct parallel between rising rates and Darwinian selection. During ZIRP, hundreds of companies get funded in every category — search, e-commerce, payments — diluting talent and inflating costs (labor, advertising). When rates rise, capital contracts, weak companies die, and survivors capture concentrated talent and market share. The dotcom era is instructive: by 2004, 48% of dotcom companies had survived, but the winners (Amazon, Google, PayPal) had pivoted to profitability and capitalized on reduced competition. Even the 2003-2005 period of slow rate increases — with no platform breakthrough — still produced Tesla, Meta, Palantir, and Palo Alto Networks. The implication for founders is counterintuitive: launching during high-rate environments may actually improve your odds because you face fewer funded competitors and are forced into capital discipline from day one.

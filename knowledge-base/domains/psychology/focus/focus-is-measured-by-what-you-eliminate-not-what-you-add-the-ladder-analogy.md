@@ -50,11 +50,11 @@ stance: >-
   because spreading effort across multiple pursuits prevents any single one from
   reaching critical mass
 related:
+  - INS-260405-736C
   - INS-260330-E349
   - INS-260329-33D4
   - INS-260403-280B
   - PRI-260405-C47B
-  - INS-260327-191B
 evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO

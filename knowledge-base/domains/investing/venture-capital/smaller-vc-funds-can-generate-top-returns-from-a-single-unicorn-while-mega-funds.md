@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Venture Funds Ranked\U0001F984, Why Retention Is So Hard\U0001F4C9, Europe Gets Its Own TBPN\U0001F399️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/venture-funds-ranked-why-retention'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Stanford research shows smaller funds thrive with one unicorn while
@@ -58,6 +48,12 @@ stance: >-
   Fund size fundamentally determines the return math — a single billion-dollar
   exit can return a small fund but barely moves the needle for a mega-fund,
   creating structurally different investment strategies
+related:
+  - INS-260404-19C2
+  - INS-260405-A6E1
+  - INS-260404-12FB
+  - INS-260403-713B
+  - INS-260403-E2DE
 ---
 Stanford research ranking VC firms by unicorn hit rates reveals that fund size creates fundamentally different return dynamics. Firebolt achieves a 10% unicorn hit rate while Sequoia plays a scale game — but the economic implications differ drastically based on fund size. A $50M fund that backs a unicorn can return the entire fund multiple times over, while a $5B fund needs ten-billion-dollar outcomes to move its return metrics.
 

@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Surround yourself with peers doing ambitious work of their own — they can
@@ -62,6 +50,17 @@ stance: >-
   The most valuable creative collaborators are not unconditionally encouraging
   people but peers working on their own ambitious projects who can accurately
   judge early-stage work quality.
+related:
+  - INS-260403-D417
+  - INS-260403-56A9
+  - INS-260404-64F1
+  - INS-260404-4985
+  - INS-260404-FA5B
+  - INS-260403-5216
+  - INS-260404-F212
+  - INS-260403-1228
+  - INS-260404-C29F
+  - INS-260405-ED6F
 ---
 Graham distinguishes between two types of supportive environments: people who always encourage you (which you quickly learn to discount) and people who can actually tell whether your ugly early work has real promise. The latter group is almost exclusively people working on ambitious projects themselves, because only they have calibrated intuition for what promising early-stage work looks like.
 

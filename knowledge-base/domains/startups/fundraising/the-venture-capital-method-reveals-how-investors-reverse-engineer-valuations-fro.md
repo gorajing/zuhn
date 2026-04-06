@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Startup Valuation Methods: 8 Approaches Investors Use'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/8-startup-valuation-methods'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs work backward from target exits and desired returns, so founders should
@@ -58,6 +48,14 @@ stance: >-
   backward calculations from desired return multiples on projected exits,
   meaning the founder's primary lever is influencing exit assumptions rather
   than arguing current metrics.
+related:
+  - INS-260322-047D
+  - INS-260403-1EE4
+  - INS-260404-F589
+  - INS-260403-F4E7
+  - INS-260405-AD04
+  - INS-260405-B01A
+  - INS-260403-001C
 ---
 The VC Method starts with a projected exit value (e.g., $100M in 5 years), applies the investor's target return (often 10x+), and calculates backward to determine what the company must be worth today. If a VC wants 10x on a $100M exit, they need to get in at $10M post-money. A $2M raise means $8M pre-money valuation.
 

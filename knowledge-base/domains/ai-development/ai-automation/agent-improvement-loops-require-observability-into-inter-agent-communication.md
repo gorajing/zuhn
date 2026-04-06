@@ -51,10 +51,10 @@ stance: >-
   design.
 related:
   - PRI-260328-1ED1
+  - INS-260405-A992
+  - INS-260403-834C
   - INS-260327-13B3
   - INS-260327-FE24
-  - INS-260322-CCAA
-  - INS-260326-9402
 ---
 When GPTers' agents communicate via Telegram, the thought processes and internal discussions aren't visible. The team built a separate dashboard to intercept session-send messages (the internal communication channel between agents) so they could observe how Poya directs Ppojjak, how feedback is structured, and where communication breaks down.
 

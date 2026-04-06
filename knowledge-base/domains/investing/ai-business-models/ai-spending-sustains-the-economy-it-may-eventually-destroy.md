@@ -49,10 +49,11 @@ stance: >-
   eventually displace the workers sustaining that economy.
 related:
   - INS-260327-6B02
+  - INS-260405-95A6
+  - INS-260403-CEAD
   - INS-260323-114D
   - INS-260330-F205
-  - INS-260327-DFF1
-  - PRI-260403-4612
+  - INS-260405-32D8
 evidence:
   - id: INS-260330-F205
     type: EXTENDS

@@ -18,11 +18,11 @@ sources:
     title: Building the Zuhn knowledge base — lessons from Phase 1-5
     author: Jin Choi + Claude
 related:
+  - INS-260320-0F7C
   - INS-260327-BE1F
   - INS-260323-CA1F
   - INS-260327-4434
-  - INS-260321-E4EB
-  - INS-260330-FEDD
+  - INS-260327-956D
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0

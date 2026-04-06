@@ -1,20 +1,29 @@
 # Tag: organizational-design
 
+- `INS-260405-5E6B` Meta cut 600 AI roles to reduce decision layers, explicitly trading headcount for speed.
 - `INS-260405-89E7` MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
 - `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
+- `INS-260403-9A0F` Product managers embedded with AI researchers influence model behavior directly, creating differentiation impossible to achieve by building on public APIs alone.
 - `INS-260330-0BD3` If someone claims they were too incompetent to prevent fraud, but built 50+ subsidiaries and one-way information walls, the complexity itself is evidence of deliberate design.
-- `INS-260405-FAE3` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
+- `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 - `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
+- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
 - `INS-260404-CC9A` Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
+- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260403-5593` Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
-- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
-- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260403-58BA` Stripping bureaucracy to maintain speed over 20 years made Palantir impossible to compete with.
+- `INS-260402-ABB5` Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
-- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
-- `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
+- `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
+- `INS-260404-89DA` Founder mode correctly emphasizes deep engagement but becomes dangerous when used to justify bypassing management structure entirely.
 - `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
+- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260404-B893` Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
+- `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
+- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260403-47BF` Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-402A` Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
@@ -36,6 +45,7 @@
 - `INS-260404-63B0` Inventing future growth engines requires a structurally separate organization that operates independently from the team optimizing the existing business.
 - `INS-260403-C8FD` A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
 - `INS-260404-CDF0` Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
+- `INS-260405-8080` Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
 - `INS-260404-2BAD` Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
 - `INS-260330-956E` A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
@@ -45,6 +55,7 @@
 - `INS-260329-5306` Organization-wide quiet days eliminate the social penalty makers face when declining meetings, creating protected maker time at scale.
 - `INS-260403-D36D` Whoever holds organizational power imposes their schedule type on everyone else, usually at makers' expense.
 - `INS-260403-F0DF` Splitting the CEO role into a chief execution officer and a chief entrepreneur resolves the explore-exploit tension structurally rather than hoping one person can do both.
+- `INS-260403-5419` Culture is shaped more by what leaders exclude than what they celebrate.
 - `INS-260330-3E3C` Glial cells outnumber neurons 10:1 and make up half the brain's mass, proving that support infrastructure is the majority of any high-performing system.
 - `INS-260403-9FE2` A Chief Entrepreneur needs C-suite level power and prestige to protect innovation from the execution engine's organizational antibodies.
 - `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
@@ -52,8 +63,13 @@
 - `INS-260330-5B59` Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.
 - `INS-260330-D661` Toussaint made conquered French, Spanish, and British officers into his own generals because he recognized slave culture alone couldn't produce the world-class country he envisioned.
 - `INS-260405-0271` Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
+- `INS-260405-346A` Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
+- `INS-260405-ACCE` The conflicts leadership hears about are a structural choice—design the org to surface the right ones.
+- `INS-260405-B406` If critical tensions aren't reaching leadership, the org structure is filtering them out.
+- `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
 - `INS-260327-3930` Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
 - `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
+- `INS-260403-1C28` Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
 - `INS-260327-390A` Bill Anderson argues that bureaucracy isn't a disease you treat — it's produced by the composition of the organization itself, specifically layers, functional silos, and annual budgets.
 - `INS-260403-3A7A` Inconsistent cross-department innovation collaboration signals the need to formalize innovation processes with dedicated tooling.
 - `INS-260403-7227` Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
@@ -63,7 +79,10 @@
 - `INS-260330-50A4` Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
 - `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
 - `INS-260403-3326` Scaling innovation in enterprises requires dedicated structures, not just individual champions evangelizing the methodology.
-- `INS-260404-B1BC` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
+- `INS-260403-272C` A leader who outworks the entire organization removes the moral ground on which resistance to high standards usually stands.
+- `INS-260403-80A0` Keep a tight permanent core and flex capacity through a modular outer ring of contractors, agencies, and AI.
+- `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
+- `INS-260402-8A58` Companies must proactively rewire communication, management, and leadership structures at predictable headcount thresholds rather than waiting for dysfunction to force change.
 - `INS-260403-46BD` Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
 - `INS-260327-DAE5` Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
 - `INS-260327-A927` Nvidia feels like working for multiple startups — each division has its own survival pressure, P&L accountability, and startup mentality.
@@ -73,5 +92,6 @@
 - `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
 - `INS-260403-62B4` Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
+- `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.

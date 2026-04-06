@@ -45,13 +45,11 @@ stance: >-
   FPGA has already evaluated and acted on the opportunity.
 related:
   - INS-260329-3243
-  - INS-260329-C7B8
   - INS-260329-76EE
   - INS-260329-CD02
   - INS-260330-CCF0
   - PRI-260403-2024
-  - INS-260403-CF0E
-  - INS-260403-6A69
+  - INS-260402-4DB4
 evidence:
   - id: INS-260329-3243
     type: EXTENDS

@@ -1,3 +1,3 @@
 # Tag: user-trust
 
-- `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
+- `INS-260403-DE34` Legal-but-clearly-unintended system pathways generate diffuse public anger that eventually demands a dramatic correction.

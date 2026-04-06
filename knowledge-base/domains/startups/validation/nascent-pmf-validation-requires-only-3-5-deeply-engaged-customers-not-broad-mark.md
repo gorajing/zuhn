@@ -19,26 +19,14 @@ sources:
     title: >-
       A framework for finding product-market fit | Todd Jackson (First Round
       Capital)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-framework-for-finding-product-market'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Level 1 PMF requires finding just 3-5 customers with a problem worth
@@ -63,6 +51,17 @@ stance: >-
   Early-stage PMF validation should be measured by depth of engagement with 3-5
   specific customers rather than breadth metrics like signups, waitlists, or
   survey responses.
+related:
+  - INS-260323-4DD9
+  - INS-260327-DD5C
+  - INS-260327-EC45
+  - INS-260327-89C7
+  - INS-260329-78CB
+  - INS-260330-8890
+  - INS-260330-49A4
+  - INS-260403-F745
+  - INS-260403-0196
+  - INS-260404-BAED
 ---
 The framework's Level 1 definition is deliberately narrow: find 3-5 customers with a real problem, engage with them deeply, deliver a solution, and validate it works. This contrasts with the common founder mistake of seeking broad market validation through landing pages, waitlists, or surveys before deeply understanding even a handful of customers.
 

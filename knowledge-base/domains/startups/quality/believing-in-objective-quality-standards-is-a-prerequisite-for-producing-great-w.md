@@ -51,12 +51,11 @@ stance: >-
   better work, as demonstrated by fifteenth-century Florence where intense
   competition over quality standards produced unmatched artistic output.
 related:
-  - INS-260327-8BF6
-  - INS-260402-EF63
   - INS-260403-7093
+  - INS-260403-824F
   - INS-260402-70FD
   - INS-260327-E63E
-  - INS-260403-A8B1
+  - INS-260402-EF63
 evidence:
   - id: INS-260327-8BF6
     type: SUPPORTS

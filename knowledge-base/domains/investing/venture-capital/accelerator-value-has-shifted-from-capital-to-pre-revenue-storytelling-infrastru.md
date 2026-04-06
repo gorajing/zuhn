@@ -19,24 +19,14 @@ sources:
     title: >-
       Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10
       Favorite Companies
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/a16z-speedrun-demo-day-2025-startups'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     a16z Speedrun's real offering is structured access to media operators, brand
@@ -61,6 +51,12 @@ stance: >-
   The primary value of top-tier accelerators is no longer funding but access to
   storytelling, brand, and sales rehearsal infrastructure that compresses
   time-to-first-deal.
+related:
+  - INS-260403-37FC
+  - INS-260403-66EF
+  - INS-260322-9DDD
+  - INS-260402-E148
+  - PRI-260322-DC5E
 ---
 The article reveals that Speedrun founders get paired with experts in product, brand, marketing, and business development. They rehearse live demos with actual buyers and refine storytelling with media operators. They 'learn to sell before they finish building.' The $1M in capital and $5M in credits are table stakes—the structural advantage is compressing what normally takes 6-12 months of founder fumbling into 12 weeks of coached iteration.
 

@@ -50,8 +50,8 @@ related:
   - INS-260330-7168
   - INS-260330-13E8
   - INS-260402-426C
+  - INS-260403-D6C2
   - INS-260329-4DBC
-  - INS-260403-B1F2
 ---
 Many teams treat customer research as a phase that precedes building, rather than a continuous loop that feeds experimentation. The article's emphasis on 'understanding to action' highlights a common failure mode: teams build rich customer profiles but don't systematically convert those insights into testable experiments.
 

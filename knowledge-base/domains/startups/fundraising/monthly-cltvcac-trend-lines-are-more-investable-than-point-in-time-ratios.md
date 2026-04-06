@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/cltv-vs-cac-ratio-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Showing CLTV/CAC ratio improvement over time is a stronger fundraising
@@ -55,6 +45,14 @@ resolutions:
 stance: >-
   Investors value month-over-month CLTV to CAC ratio trends far more than a
   single static ratio because trends reveal trajectory and product-channel fit.
+related:
+  - INS-260327-F8EB
+  - INS-260403-AA6A
+  - INS-260403-A93A
+  - INS-260405-2A34
+  - INS-260403-9F64
+  - INS-260403-0992
+  - INS-260403-CF1D
 ---
 Static unit economics give investors a snapshot, but monthly trend data tells a story. When CLTV rises faster than CAC over consecutive months, it signals compounding efficiency — often indicating product-channel fit or pricing leverage. This accelerating ratio is the kind of trend line VCs use to value startups.
 

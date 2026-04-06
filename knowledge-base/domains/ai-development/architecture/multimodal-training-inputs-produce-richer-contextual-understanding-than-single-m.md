@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/large-language-models-how-to-train'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Combining text, image, and audio inputs during training enables models to
@@ -58,6 +48,17 @@ stance: >-
   Models trained on text, images, and audio simultaneously develop deeper world
   understanding than text-only models, analogous to how humans interpret speech
   plus facial expressions
+related:
+  - INS-260322-B09B
+  - INS-260323-C4EE
+  - INS-260323-D400
+  - INS-260321-CCD9
+  - INS-260327-1B9A
+  - INS-260327-DF8B
+  - INS-260330-0C0C
+  - INS-260404-CE26
+  - INS-260327-79E8
+  - INS-260325-B50B
 ---
 The essay uses an intuitive analogy: understanding someone's facial expressions while they speak produces a richer interpretation than audio alone. Similarly, training on multimodal data from platforms like X — where a single post might contain text, images, video, and community reactions — allows models to triangulate meaning across modalities.
 

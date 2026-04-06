@@ -48,7 +48,6 @@ stance: >-
   deepens understanding rather than merely demonstrating pre-existing
   understanding.
 related:
-  - INS-260320-47FA
   - INS-260325-0713
   - INS-260325-DB82
   - INS-260325-E9B1
@@ -58,6 +57,7 @@ related:
   - INS-260329-7EFD
   - INS-260329-2DF2
   - INS-260329-4A69
+  - INS-260330-4FB9
 evidence:
   - id: INS-260320-47FA
     type: TRANSFERS_TO

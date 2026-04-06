@@ -1,4 +1,3 @@
-# Tag: europe
+# Tag: Europe
 
-- `INS-260321-A3A1` IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics highway routing goods from India through UAE, Saudi Arabia, and Israel to Europe — designed to completely bypass China's Belt and Road Initiative.
-- `INS-260402-9B06` Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
+- `INS-260403-20C2` CBO analysis shows US inequality barely increased since the 1980s after accounting for welfare transfers, while low-end wages have surged persistently since the early 2010s.

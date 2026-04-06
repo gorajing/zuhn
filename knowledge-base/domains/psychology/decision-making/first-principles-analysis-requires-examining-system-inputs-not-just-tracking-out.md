@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: China Part 1 – The Return of the Middle Kingdom'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-china-part-1'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Most China analyses reach contradictory conclusions (China will dominate vs.
@@ -61,6 +51,16 @@ stance: >-
   Analyses that track GDP growth, military budgets, and tech investments in
   isolation produce contradictory conclusions because they measure outputs while
   ignoring the generative systems underneath.
+related:
+  - INS-260327-C569
+  - INS-260405-9760
+  - INS-260404-4434
+  - INS-260403-F0EE
+  - INS-260322-A36C
+  - PRI-260323-81E9
+  - INS-260403-7E95
+  - INS-260405-D66B
+  - INS-260403-ABA7
 ---
 Chamath identifies a critical analytical failure: depending on which output metrics analysts track — GDP growth rates, military budgets, technology investments — they reach opposite conclusions about China's trajectory. Some conclude inevitable Chinese dominance; others declare China has peaked. Both are wrong because they're measuring symptoms, not causes.
 

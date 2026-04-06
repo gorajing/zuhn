@@ -50,14 +50,14 @@ stance: >-
   employment, geographic inequality, economic stress - not personal health
   choices.
 related:
-  - INS-260325-1802
-  - INS-260327-725F
   - INS-260327-7B16
   - INS-260330-6C3D
+  - INS-260403-333C
   - INS-260327-D77C
+  - INS-260403-1B96
   - INS-260327-A478
-  - INS-260402-8F1E
-  - INS-260330-0539
+  - INS-260403-FF7C
+  - INS-260403-8C12
 evidence:
   - id: INS-260327-A478
     type: SUPPORTS

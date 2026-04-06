@@ -53,11 +53,11 @@ related:
   - INS-260403-EAE5
   - INS-260403-8D2C
   - INS-260404-BD46
+  - INS-260404-F62A
   - INS-260404-E36F
   - INS-260403-B4B9
   - INS-260403-0A97
   - INS-260403-462F
-  - INS-260403-E25F
 ---
 The portfolio framework explicitly positions new business models at the bottom of the profitability axis — they are not yet established and cannot be expected to match existing businesses on financial metrics. This has a critical implication for how organizations allocate resources and evaluate performance.
 

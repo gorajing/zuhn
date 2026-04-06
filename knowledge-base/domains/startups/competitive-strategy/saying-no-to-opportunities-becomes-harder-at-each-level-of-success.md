@@ -46,11 +46,11 @@ stance: >-
   The ability to refuse increasingly attractive distractions is the meta-skill
   that separates each tier of entrepreneurial success.
 related:
+  - INS-260404-9CAD
   - INS-260403-DDEB
   - INS-260403-14CB
   - INS-260404-2DB4
   - INS-260403-6F65
-  - INS-260327-E3D5
 evidence:
   - id: INS-260325-636B
     type: CHALLENGES

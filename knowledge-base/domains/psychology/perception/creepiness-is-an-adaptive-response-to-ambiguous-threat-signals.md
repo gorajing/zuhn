@@ -50,15 +50,15 @@ stance: >-
   when threat level is genuinely ambiguous, not simply a weaker form of fear
 related:
   - INS-260323-8266
-  - INS-260325-788E
   - INS-260330-383F
   - INS-260330-1E12
   - INS-260403-36C1
-  - INS-260403-D63C
   - INS-260403-E8DD
+  - INS-260404-1D05
   - INS-260403-9BBA
   - INS-260330-5F6C
   - INS-260403-50B0
+  - INS-260404-8D23
 evidence:
   - id: INS-260325-788E
     type: TRANSFERS_TO

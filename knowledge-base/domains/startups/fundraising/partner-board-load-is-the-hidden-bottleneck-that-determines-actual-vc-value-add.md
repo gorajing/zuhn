@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Hidden VC Fund Secrets Every Founder Should Know
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/hidden-venture-capital-fund-structure-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Ask how many boards your partner currently sits on — it reveals more about
@@ -60,6 +50,13 @@ stance: >-
   Once a VC partner sits on more than 8-10 boards, engagement quality drops
   sharply — making partner load a more predictive metric of support quality than
   firm brand or stated value-add.
+related:
+  - INS-260328-2CFF
+  - INS-260405-94A1
+  - INS-260403-A331
+  - INS-260402-A22C
+  - INS-260404-63D5
+  - INS-260405-CB93
 ---
 Every investor promises value-add, but the real constraint is human bandwidth. A partner managing 8-10+ active board seats cannot provide deep strategic engagement to any single company. Studies show that active monitoring and governance correlate with better innovation and exit outcomes, but this requires actual time investment — monthly KPI reviews, quarterly strategy sessions, and timely talent search support.
 

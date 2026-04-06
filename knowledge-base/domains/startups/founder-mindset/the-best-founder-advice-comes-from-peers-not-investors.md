@@ -43,13 +43,13 @@ stance: >-
   Founders consistently get more actionable value from other operators at their
   level than from investors who relay secondhand observations.
 related:
-  - INS-260327-3930
   - INS-260327-812B
   - INS-260402-66A5
+  - INS-260403-9942
   - INS-260403-FE3B
-  - PRI-260405-E9C5
-  - INS-260403-5018
-  - INS-260402-E140
-  - INS-260328-2CFF
+  - INS-260405-57C5
+  - INS-260403-F4E7
+  - INS-260405-7F42
+  - INS-260403-6FB9
 ---
 The strongest proof that peer advice beats investor advice: Mark Zuckerberg, who could get advice from literally anyone in the world, chose to put founders on Facebook's board — Tony from DoorDash, Brian from Airbnb, Drew from Dropbox. Pedro from Brex told YC founders he 'started accelerating so much more quickly when I stopped asking investors to summarize what they saw other great founders do, and started to just ask those founders directly.' Standard Capital's model replaces board seats with curated peer groups of AI builders who all have product-market fit, meeting quarterly to share metrics and problems — essentially group office hours (invented by PB at YC) at the Series A level.

@@ -50,23 +50,24 @@ stance: >-
   whether a process is truly exponential, because exponentials become straight
   lines on log scale.
 related:
-  - INS-260330-4824
-  - INS-260330-8C80
-  - INS-260330-FED6
+  - INS-260330-864C
   - INS-260330-FF5B
-  - INS-260330-ED8A
   - INS-260330-1C84
+  - INS-260330-ED8A
+  - INS-260330-1AB0
+  - PRI-260403-CD44
+  - INS-260330-4824
 evidence:
   - id: INS-260330-4824
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-FED6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-ED8A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1C84
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-864C
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The log-scale transformation is a change-of-basis that converts multiplicative dynamics into additive ones. Each fixed vertical step represents multiplication by a constant factor (e.g., 10x), so exponential growth appears as a straight line whose slope directly encodes the doubling time. A simple linear regression on log-transformed data tells you both the growth rate and how well the exponential model fits.
 

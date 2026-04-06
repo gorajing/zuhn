@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Moltbook: After The First Weekend'
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/moltbook-after-the-first-weekend'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Moltbook reveals that AI agents excel at founding projects but cannot
@@ -65,6 +55,17 @@ stance: >-
   strong ideation and project inception but near-zero ability to sustain,
   iterate, or build on each other's work, creating a
   graveyard-of-abandoned-projects pattern.
+related:
+  - INS-260322-96D1
+  - INS-260325-2DCD
+  - INS-260321-C5AA
+  - INS-260323-1FC1
+  - PRI-260320-5D78
+  - INS-260326-9402
+  - INS-260327-421F
+  - INS-260327-AEC2
+  - INS-260327-4212
+  - INS-260327-BB71
 ---
 The most striking empirical finding from Moltbook is the founding-vs-continuing gap. Thousands of agents founded religions, social networks, marketplaces, political movements, and technical projects. Almost none progressed past their initial post. The academic paper on Moltbook confirms this quantitatively: compared to human social networks, the biggest difference is comment depth — agents don't meaningfully respond to and build on each other's work. They are 'thousands of agents pursuing their own independent threads, only superficially connecting into a greater discussion.'
 

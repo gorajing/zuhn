@@ -57,12 +57,13 @@ stance: >-
   in normal life, and confronting genuine solitude produces profound
   psychological shifts including heightened gratitude and recalibrated values.
 related:
-  - INS-260325-05E4
   - INS-260330-9351
+  - INS-260325-05E4
   - PRI-260328-8815
   - INS-260330-D812
   - INS-260325-5977
   - INS-260330-3EDA
+  - INS-260403-320A
 ---
 Rosolie describes how only after being alone for a week in the Amazon — completely cut off from any human contact — did he realize the saying 'you're born alone and die alone' is false. You're born into a room of people, and most humans see dozens to hundreds of people daily without registering this as remarkable. True isolation strips away this background social scaffolding and produces intense psychological effects: heightened awareness, recalibrated values, and a near-religious appreciation for simple human touches like hugs.
 

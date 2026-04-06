@@ -39,13 +39,15 @@ stance: >-
   system and blue-dominant spectra that disrupt circadian rhythm, melatonin
   production, and hormone signaling when used after sunset
 related:
+  - INS-260327-E092
   - INS-260327-827C
   - PRI-260328-B115
   - INS-260330-54A3
   - INS-260330-BBEE
-  - INS-260327-E092
+  - INS-260327-6F94
   - INS-260330-51AE
-  - INS-260404-E4B8
+  - INS-260404-AE27
+  - INS-260403-6EED
 evidence:
   - id: INS-260330-BBEE
     type: TRANSFERS_TO

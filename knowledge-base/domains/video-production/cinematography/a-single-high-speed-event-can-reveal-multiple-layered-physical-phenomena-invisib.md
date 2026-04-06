@@ -26,7 +26,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: nomic-embed-text
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     Filming an underwater AK-47 shot at 27,450 fps revealed three completely
@@ -52,24 +52,22 @@ stance: >-
   decomposes a single event into multiple distinct phenomena that are
   fundamentally invisible at real-time observation speeds.
 related:
-  - INS-260330-7B07
   - INS-260330-24B6
   - INS-260330-12F9
   - INS-260330-6FDF
-  - INS-260330-0DF9
   - INS-260330-59E3
   - INS-260330-CBA5
 evidence:
   - id: INS-260330-6FDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-24B6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-12F9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0DF9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-59E3
-    relationship: RELATED
+    type: SUPPORTS
 ---
 At real-time speed, an underwater gunshot looks like a single violent splash. At 27,450 fps, it decomposes into three distinct, temporally separated phenomena: (1) cavitation bubbles forming along the barrel from the Bernoulli effect as propellant gases exit, (2) burnt gunpowder gas trailing behind the projectile as a visible sleeve, and (3) shock-wave-induced vapor forming independently of the other two effects.
 

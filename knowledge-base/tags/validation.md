@@ -11,33 +11,53 @@
 - `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260405-A742` You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
+- `INS-260404-CD1A` Stealth startups sacrifice the most important startup input — user feedback — to protect against a threat that may never materialize.
 - `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
+- `INS-260403-2041` Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
+- `INS-260404-393A` Strategy is a hypothesis, not a plan — its value is only realized through execution that tests, validates, and iterates on strategic choices.
 - `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
 - `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
-- `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
-- `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
+- `INS-260403-A08A` Ask potential buyers four questions about price perception — too cheap, getting expensive, too expensive, and bargain — to find your data-backed pricing window.
+- `INS-260404-5D18` Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
+- `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
+- `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
+- `INS-260405-7CF9` Pitch only after confirming scalability, large market, and real customer signals — pitching before this burns credibility.
+- `INS-260403-6F75` Founders who equate raising money with product validation often build investor-pleasing businesses instead of customer-pleasing ones.
 - `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
-- `INS-260404-5D18` Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
-- `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
-- `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
+- `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
+- `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
+- `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
+- `INS-260405-839E` AI routinely surfaces more valuable use cases than the ones founders set out to solve.
+- `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
 - `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
+- `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
+- `INS-260405-F378` Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
+- `INS-260405-36AF` Free pilots measure curiosity; paid pilots measure desire.
+- `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
+- `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260329-F7F4` When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260323-A2E5` Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
 - `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
+- `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
 - `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.
 - `INS-260404-FF0B` Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
+- `INS-260405-6D3A` Quirky raised $185M and went bankrupt because capital scaled an unvalidated assumption, not a proven market.
+- `INS-260403-00D7` Complaints indicate awareness of a problem but not purchasing intent; validate with urgency and wallet signals.
+- `INS-260404-B2AF` Companies entering Speedrun with prototypes and exiting with $2-2.5M ARR in record time demonstrate that intense time constraints accelerate product-market fit discovery.
+- `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
+- `INS-260403-96D7` Most founder-customer conversations generate false positives because the questions are designed to confirm, not challenge, existing assumptions.
 - `INS-260403-DD95` Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260403-CBC7` Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
 - `INS-260403-FBF0` Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built.
@@ -46,20 +66,26 @@
 - `INS-260404-80AC` The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
 - `INS-260329-9C6B` Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.
 - `INS-260330-56AA` LA validated shade balls with three $5 kiddie pools before spending $34M on 96 million balls — the cheapest test that could falsify the hypothesis.
+- `INS-260404-D3C7` The OpenAI GPT store lets founders validate AI product concepts with minimal investment before building standalone products.
 - `INS-260330-22D6` Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
+- `INS-260403-63F1` Design experiments around specific hypotheses rather than shipping functional products to learn.
 - `INS-260330-E6B7` DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.
 - `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260405-CA45` You cannot delegate the learning that comes from direct customer interaction — outsourcing validation transfers the insight to the vendor, not back to you.
+- `INS-260403-0373` Validate that your product solves a mission-critical pain before investing in go-to-market execution.
+- `INS-260403-C837` If Day 1 retention stays under 10% and no cohort flattens across segments, stop A/B testing buttons and rethink the core value proposition.
+- `INS-260403-D4F0` Verbal agreement from potential users is not evidence of demand; only observed behavior counts.
 - `INS-260405-B673` A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
+- `INS-260403-42B8` Spend 80% of PMF effort on steps 1-6 (customer, job, problem, alternatives, flaws, consequences) before mentioning your product in steps 7-9.
 - `INS-260405-B32E` Fidelity is a function of evidence gathered, not how good the idea seems internally.
 - `INS-260403-0803` Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260403-B32D` Nearly all 40 participating organizations admitted large potential for improvement in scaling Lean Startup testing, with most still relatively inexperienced.
+- `INS-260403-6B37` Starting with a solution and searching for a problem leads to high acquisition costs, poor fit, and stagnant growth.
 - `INS-260329-1739` Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
 - `INS-260403-C228` A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
+- `INS-260405-C8B2` Urgency and full-price payment are the only PMF signals that actually predict survival.
 - `INS-260404-4E13` Test cards and learning cards formalize the experiment-learn loop into a repeatable validation system.
 - `INS-260327-B12E` Start with customer problems, not technology — talk to as many people as possible about their problems and what skills you can bring.
 - `INS-260330-3F24` If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
 - `INS-260330-CFBA` Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
 - `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
-- `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
-- `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.

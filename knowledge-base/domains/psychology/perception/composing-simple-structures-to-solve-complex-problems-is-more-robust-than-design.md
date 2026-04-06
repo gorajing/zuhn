@@ -53,23 +53,22 @@ stance: >-
   monolithic custom designs, and this compositional pattern transfers to any
   domain where systems must be built.
 related:
-  - INS-260402-F479
   - INS-260329-FAE2
+  - INS-260330-AB3E
+  - INS-260404-8908
   - PRI-260403-ABDE
   - INS-260330-E8BD
   - INS-260403-BB23
-  - INS-260330-AB3E
-  - INS-260403-65D2
-  - INS-260404-8908
+  - INS-260327-4A10
 evidence:
   - id: INS-260329-FAE2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B3DD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-AB3E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-BB23
     type: CHALLENGES
     classified_at: '2026-04-06'

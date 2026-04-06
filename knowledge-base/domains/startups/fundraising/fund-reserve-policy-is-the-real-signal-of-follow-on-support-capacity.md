@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: Hidden VC Fund Secrets Every Founder Should Know
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/hidden-venture-capital-fund-structure-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Pro rata rights are meaningless without reserves — ask about reserve
@@ -57,6 +47,12 @@ stance: >-
   A VC's reserve allocation (typically 40-60% of committed capital) is a more
   reliable predictor of follow-on support than any verbal commitment or pro rata
   right on paper.
+related:
+  - INS-260330-3559
+  - INS-260403-9DEC
+  - INS-260405-7698
+  - INS-260404-707C
+  - INS-260403-8421
 ---
 Most venture funds reserve 40-60% of committed capital for follow-on investments, but the actual availability depends on how much has been deployed, whether the investment period is still open, and if recycling rights exist. A fund might promise pro rata support, but if it's past its investment window or already deployed reserves into other winners, those rights are empty.
 

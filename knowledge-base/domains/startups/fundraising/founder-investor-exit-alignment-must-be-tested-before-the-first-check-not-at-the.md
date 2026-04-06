@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'How to Evaluate a Startup Exit: Signs, Metrics & Red Flags'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/startup-exit-strategy-guide'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Ask founders directly whether they're building for a $100M acquisition or a
@@ -61,6 +51,17 @@ stance: >-
   Misalignment on exit expectations between founders and investors is one of the
   most common and most preventable sources of deal failure, and it can only be
   diagnosed through direct early conversation.
+related:
+  - INS-260327-5B30
+  - INS-260328-982A
+  - INS-260330-D8D1
+  - INS-260330-D644
+  - INS-260330-A954
+  - INS-260403-805E
+  - INS-260403-20A7
+  - INS-260403-04FF
+  - INS-260403-25A8
+  - INS-260403-27AC
 ---
 A founder fixated on going public while the investor's fund is structured for quicker M&A timelines creates an invisible fault line that only surfaces when stakes are highest. The same applies in reverse — if a founder would happily take a $100M strategic exit but investors need a 10x return on a high entry valuation, the math doesn't work for anyone. These misalignments are far easier to surface in calm pre-investment conversations than to renegotiate when the exit clock is ticking.
 

@@ -50,10 +50,10 @@ stance: >-
   useful but correct.
 related:
   - PRI-260325-08FB
+  - INS-260323-C4A2
   - INS-260323-DEEA
   - INS-260322-22B3
-  - INS-260327-7427
-  - INS-260323-DE7F
+  - INS-260403-F76E
   - INS-260405-F7FA
 evidence:
   - id: INS-260322-22B3

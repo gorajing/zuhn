@@ -51,6 +51,7 @@ related:
   - INS-260321-D3BE
   - INS-260327-8FD4
   - INS-260329-200A
+  - INS-260403-49E1
 stance: >-
   Stop analyzing AI and start using it this weekend -- vibe coding, agent mode
   reports, and conversational problem-solving.

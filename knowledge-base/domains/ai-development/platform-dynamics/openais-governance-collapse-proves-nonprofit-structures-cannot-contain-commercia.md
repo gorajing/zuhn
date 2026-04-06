@@ -52,12 +52,11 @@ stance: >-
   commercial AI labs will always fail because employees, investors, and partners
   are financially incentivized to prioritize profit over mission.
 related:
-  - INS-260327-C05A
+  - INS-260403-88F2
   - INS-260330-7BF5
-  - INS-260403-B2EB
-  - INS-260403-CEC0
-  - INS-260324-1216
-  - INS-260327-F484
+  - INS-260403-A505
+  - INS-260403-2ED2
+  - INS-260404-7679
 evidence:
   - id: INS-260327-C05A
     type: SUPPORTS

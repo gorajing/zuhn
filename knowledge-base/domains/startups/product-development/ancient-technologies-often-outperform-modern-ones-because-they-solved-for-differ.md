@@ -56,10 +56,10 @@ stance: >-
   convenience.
 related:
   - INS-260325-451F
+  - INS-260403-AE2C
   - PRI-260328-22EC
+  - INS-260330-9515
   - PRI-260325-1640
-  - INS-260330-AE9C
-  - INS-260403-C5FB
 evidence:
   - id: INS-260329-3263
     type: TRANSFERS_TO

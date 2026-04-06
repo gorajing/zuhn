@@ -49,14 +49,14 @@ stance: >-
   mechanism.
 related:
   - INS-260325-8729
-  - INS-260329-EC98
-  - INS-260327-F26E
-  - INS-260405-A2A2
-  - INS-260330-7D5F
   - INS-260329-C472
+  - INS-260403-2814
+  - INS-260327-F26E
+  - INS-260403-C1C4
+  - INS-260405-A2A2
 evidence:
   - id: INS-260329-CD64
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-A2A2
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

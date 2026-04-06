@@ -51,8 +51,8 @@ related:
   - INS-260405-466C
   - INS-260405-44F5
   - INS-260404-896B
+  - INS-260403-822B
   - INS-260330-87BD
-  - INS-260329-75B6
 ---
 Founders resist narrow descriptions because their product feels full of potential — but the attempt to capture all possibilities produces meaningless boilerplate that investors filter out immediately. Graham's calculus analogy is precise: as you describe something that could be anything, the description conveys nothing.
 

@@ -44,14 +44,14 @@ stance: >-
   accumulation to active avoidance, but behavioral adaptation lags by decades
 related:
   - INS-260323-F5EF
-  - INS-260329-5C7A
   - INS-260329-36FF
   - INS-260329-C345
   - INS-260329-89ED
   - INS-260330-9E91
   - INS-260403-699F
+  - INS-260403-2EE2
+  - INS-260403-B800
   - PRI-260405-3449
-  - INS-260330-45A9
 evidence:
   - id: INS-260323-F5EF
     type: SUPPORTS

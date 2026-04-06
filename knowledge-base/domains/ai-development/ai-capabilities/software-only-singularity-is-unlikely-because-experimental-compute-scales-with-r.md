@@ -58,8 +58,8 @@ related:
   - INS-260320-7682
   - INS-260320-5818
   - INS-260327-BE4E
-  - INS-260327-40DA
   - INS-260330-4C5A
+  - INS-260402-F957
 stance: >-
   AI automating AI R&D won't produce runaway self-improvement because research
   requires proportional scaling of experimental compute, not just more r...

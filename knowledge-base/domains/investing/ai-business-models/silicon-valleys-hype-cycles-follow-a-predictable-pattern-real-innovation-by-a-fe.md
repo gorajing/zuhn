@@ -57,12 +57,12 @@ stance: >-
   thousands of startups co-opt to rationalize unsustainable business models.
 related:
   - INS-260320-8FFC
-  - INS-260327-7DBC
   - INS-260327-7265
   - INS-260327-EA4E
+  - INS-260403-A232
+  - INS-260404-0153
   - INS-260403-C681
-  - INS-260330-5EB6
-  - INS-260329-B194
+  - INS-260403-4227
   - INS-260327-94F5
   - INS-260327-BE1F
   - INS-260330-10CF

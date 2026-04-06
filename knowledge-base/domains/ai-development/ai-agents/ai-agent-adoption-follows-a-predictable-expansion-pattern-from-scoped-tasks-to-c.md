@@ -19,26 +19,14 @@ sources:
     title: >-
       A free year of Devin: the world’s most advanced autonomous AI software
       engineer
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-free-year-of-devin-the-worlds-first'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Successful AI agent adoption starts with well-scoped engineering tasks then
@@ -60,6 +48,16 @@ resolutions:
 stance: >-
   Teams that succeed with AI agents start with narrow engineering tasks and
   systematically expand into QA, analytics, documentation, and product work
+related:
+  - INS-260325-BC2A
+  - INS-260327-63B5
+  - INS-260327-0762
+  - INS-260330-6D43
+  - INS-260405-9285
+  - INS-260403-2115
+  - INS-260321-4E98
+  - INS-260321-8414
+  - PRI-260328-8317
 ---
 The described adoption pattern — start with bugs and features, expand to QA, product, analytics, and CX — mirrors how organizations adopt any new capability: prove value in a constrained domain, then expand laterally. This is significant because it suggests AI agent adoption isn't a single decision but a staged organizational transformation.
 

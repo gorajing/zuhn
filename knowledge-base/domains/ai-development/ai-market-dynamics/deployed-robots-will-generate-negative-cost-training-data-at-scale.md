@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260323-F2BD
   - INS-260322-0CE3
-  - INS-260323-9BAB
   - PRI-260328-7007
   - INS-260329-D1F2
+  - INS-260323-9BAB
 evidence:
   - id: INS-260329-D1F2
     type: TRANSFERS_TO

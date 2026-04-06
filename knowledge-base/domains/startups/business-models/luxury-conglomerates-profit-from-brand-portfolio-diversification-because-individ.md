@@ -40,12 +40,11 @@ stance: >-
   across fashion, wines, cosmetics, and jewelry, because while individual brands
   cycle in and out of fashion, the desire for luxury is permanent.
 related:
-  - INS-260324-98F6
   - INS-260330-6088
   - INS-260403-5554
   - INS-260329-27DF
-  - INS-260403-7E18
-  - INS-260403-0FEC
+  - INS-260403-8A28
+  - INS-260403-C557
 evidence:
   - id: INS-260322-2647
     type: SUPPORTS

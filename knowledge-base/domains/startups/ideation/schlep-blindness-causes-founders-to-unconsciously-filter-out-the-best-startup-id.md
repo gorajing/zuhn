@@ -52,8 +52,8 @@ related:
   - INS-260330-F737
   - PRI-260405-72D4
   - INS-260330-6C68
+  - INS-260404-8E68
   - INS-260403-ABBB
-  - PRI-260403-3906
 evidence:
   - id: INS-260330-6D5C
     type: EXTENDS

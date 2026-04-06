@@ -47,11 +47,12 @@ resolutions:
     This is a slow-moving crisis that won't be visible until the talent pipeline
     is already broken.
 related:
+  - INS-260403-680C
+  - INS-260403-287B
   - INS-260329-B062
   - INS-260405-945B
   - INS-260326-7B2A
-  - INS-260330-16B1
-  - INS-260327-F544
+  - INS-260403-529D
 stance: >-
   When companies replace interns and junior staff with AI, they destroy the
   training ground that produces the next generation of senior experts.

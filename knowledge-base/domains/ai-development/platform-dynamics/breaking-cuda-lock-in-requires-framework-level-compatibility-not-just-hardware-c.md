@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: Coinbase Launches a Multi-Asset Product Stack
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-166'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Google and Meta's TorchTPU collaboration attacks NVIDIA's software moat by
@@ -60,6 +50,12 @@ stance: >-
   Google's TorchTPU strategy of making TPUs run PyTorch natively will erode
   NVIDIA's CUDA moat more effectively than any hardware performance advantage
   alone.
+related:
+  - INS-260321-E9B7
+  - INS-260404-21E6
+  - INS-260330-1F41
+  - INS-260329-12D1
+  - INS-260403-583B
 ---
 For years, NVIDIA's dominance rested not primarily on hardware superiority but on CUDA's software ecosystem lock-in — switching to alternative chips meant rewriting entire codebases from CUDA to JAX or other frameworks. Google's TorchTPU initiative, developed in collaboration with Meta, directly attacks this moat by enabling PyTorch code to run on TPUs without modification.
 

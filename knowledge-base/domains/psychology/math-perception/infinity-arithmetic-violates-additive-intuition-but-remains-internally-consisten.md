@@ -56,7 +56,7 @@ related:
   - INS-260325-72AE
   - INS-260325-5692
   - PRI-260325-5760
-  - INS-260325-CC49
+  - INS-260330-849D
 ---
 Hilbert's Hotel demonstrates that infinite sets behave nothing like finite collections. A fully booked hotel with infinite rooms can always accommodate more guests by shifting everyone down. Infinity minus one is still infinity. Infinity divided by two is still infinity. The set of even numbers has the same cardinality as the set of all whole numbers, despite seeming like it should be half the size.
 

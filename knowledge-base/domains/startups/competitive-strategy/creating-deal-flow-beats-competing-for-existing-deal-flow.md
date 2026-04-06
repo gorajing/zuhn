@@ -46,14 +46,14 @@ stance: >-
 related:
   - INS-260322-CFB1
   - INS-260321-E654
-  - INS-260327-2C46
   - INS-260327-9641
   - INS-260328-3A00
   - INS-260330-8326
   - INS-260330-217C
-  - INS-260403-B8A3
+  - INS-260403-ABD1
   - INS-260403-924B
-  - INS-260402-CCF4
+  - INS-260403-6694
+  - INS-260405-8080
 ---
 Graham distinguishes YC's competitive dynamics from traditional VCs: VCs play a zero-sum game competing for a fixed amount of deal flow, while YC creates new deal flow by encouraging hackers who would otherwise take jobs to start companies instead. This means YC competes more with employers than with other investors.
 

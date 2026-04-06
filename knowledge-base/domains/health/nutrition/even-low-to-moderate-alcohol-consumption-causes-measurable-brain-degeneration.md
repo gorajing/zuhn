@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-3CFB
   - INS-260330-4D8B
+  - INS-260403-9757
   - PRI-260328-F570
   - INS-260330-E647
-  - INS-260327-0795
   - INS-260330-81B1
 evidence:
   - id: INS-260403-3CFB

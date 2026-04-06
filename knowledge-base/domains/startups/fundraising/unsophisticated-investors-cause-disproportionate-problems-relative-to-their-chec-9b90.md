@@ -50,10 +50,10 @@ stance: >-
   timelines and will pressure founders for returns.
 related:
   - INS-260330-478B
+  - INS-260403-36DB
   - PRI-260403-26B9
   - INS-260403-776C
   - PRI-260405-E9C5
-  - INS-260322-A31D
 evidence:
   - id: INS-260323-1B42
     type: SUPPORTS

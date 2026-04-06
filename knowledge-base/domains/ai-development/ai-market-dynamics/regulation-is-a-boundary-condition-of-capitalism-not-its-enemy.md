@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: The Case for Big Action to Regulate Artificial Intelligence
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/the-case-for-big-action-to-regulate'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Regulation and capitalism are co-dependent, not adversarial — historically,
@@ -57,6 +47,13 @@ resolutions:
 stance: >-
   Transparent expert oversight has historically scaled economies rather than
   stifled them, and AI regulation will follow the same pattern
+related:
+  - INS-260330-1183
+  - INS-260330-1293
+  - INS-260403-FAC6
+  - INS-260330-F9C9
+  - INS-260330-E082
+  - INS-260403-D5B0
 ---
 The common tech-industry framing of regulation as inherently anti-innovation ignores historical evidence. Industries like pharmaceuticals, finance, and aviation all scaled dramatically under regulatory frameworks that provided consumer trust and market stability. The FDA model demonstrates that subject-matter experts from industry and academia can evaluate risks while offering fast-track pathways for lower-risk innovations.
 

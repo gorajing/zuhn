@@ -44,14 +44,15 @@ stance: >-
   Experts discussing hard subjects speak more informally, not less, because
   difficult ideas require language to get out of the way
 related:
-  - INS-260323-8E4D
   - INS-260323-A19F
   - INS-260329-519E
   - INS-260402-3639
   - INS-260403-F9F0
   - INS-260403-6652
   - PRI-260405-BF5B
-  - INS-260329-E402
+  - INS-260329-9A58
+  - PRI-260405-9A14
+  - INS-260329-32DB
 evidence:
   - id: INS-260323-8E4D
     type: TRANSFERS_TO

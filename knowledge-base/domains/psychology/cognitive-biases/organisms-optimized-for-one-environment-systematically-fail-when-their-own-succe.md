@@ -53,41 +53,38 @@ stance: >-
   The most dangerous environmental changes are the ones caused by your own
   success, because they corrupt the very mechanism that made you successful.
 related:
-  - INS-260330-48F2
-  - INS-260330-C134
-  - INS-260403-CF3E
-  - INS-260405-7E85
-  - INS-260403-304E
-  - INS-260330-72E1
   - INS-260330-A3EB
-  - INS-260403-D563
+  - INS-260403-304E
+  - INS-260404-60F4
+  - INS-260405-7E85
   - INS-260405-F03A
-  - INS-260405-B09F
+  - INS-260330-C134
+  - INS-260330-48F2
 evidence:
   - id: INS-260326-BF32
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-CA97
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-20F2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D8E4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-48F2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C134
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-72E1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-DF69
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2CFA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F222
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D4CC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-304E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-CF3E
     type: SUPPORTS
     classified_at: '2026-04-06'

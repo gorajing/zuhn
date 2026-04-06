@@ -56,7 +56,6 @@ stance: >-
   survival depends on delivering value rather than extracting it
 related:
   - INS-260322-B450
-  - INS-260327-2B62
   - INS-260327-50CE
   - INS-260404-12A4
   - INS-260404-B8AE

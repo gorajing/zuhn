@@ -49,16 +49,16 @@ stance: >-
   learners to self-regulate their pace, turning passive consumption into active
   navigation.
 related:
-  - INS-260329-50C0
-  - INS-260329-975C
-  - INS-260329-5AC5
   - INS-260329-3FF4
-  - INS-260329-0068
+  - INS-260329-975C
+  - INS-260329-70D5
+  - INS-260329-90C3
+  - INS-260330-9033
 evidence:
   - id: INS-260329-3FF4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CD38
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial includes 31 chapters across its 4.5-hour runtime — roughly one chapter every 8-9 minutes. This granularity transforms the viewing experience: instead of passively watching a monolithic video, learners can jump to specific topics, revisit tricky sections, and skip material they already know.
 

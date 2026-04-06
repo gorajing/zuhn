@@ -53,43 +53,43 @@ related:
   - INS-260323-813B
   - INS-260323-D400
   - INS-260325-B11F
-  - INS-260325-05FC
   - INS-260328-B19D
-  - INS-260329-3D28
-  - INS-260329-9311
-  - INS-260329-7C59
+  - INS-260329-FC75
+  - INS-260329-F969
+  - INS-260329-EDA2
+  - INS-260329-90C3
 evidence:
   - id: INS-260323-D400
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-B11F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-05FC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-6CB7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-E7B8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F969
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D48B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-35CB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-70A8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-32DB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C4F1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-19B3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-CBB0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-AC6E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7B1D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D16C
-    relationship: RELATED
+    type: SUPPORTS
 ---
 CS50's curriculum architecture reveals an important pedagogical insight: it begins with computational thinking before touching any programming language, and moves through multiple languages (Scratch, C, Python, SQL, JavaScript) precisely to demonstrate that the underlying reasoning patterns transfer across all of them. This design choice embodies the claim that computational thinking — decomposition, pattern recognition, abstraction, and algorithmic design — is the actual skill being taught, with languages serving as interchangeable expression media. In the AI era, this becomes even more relevant: specific language syntax is increasingly automatable, but the ability to decompose problems, identify patterns, and design abstractions remains fundamentally human. The practical implication is that when learning or teaching technical skills, invest disproportionately in the meta-cognitive framework rather than the specific tool.

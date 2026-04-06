@@ -20,26 +20,14 @@ tags:
 sources:
   - type: blog
     title: The Takaichi Era begins for real
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/the-takaichi-era-begins-for-real'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     China's threats against Japan over Taiwan defense declarations backfired by
@@ -69,6 +57,17 @@ stance: >-
   strengthened rather than weakened Japan's security position by driving
   approval ratings above 90% among youth and accelerating Japan-Korea
   rapprochement.
+related:
+  - INS-260321-1A99
+  - INS-260327-4A64
+  - INS-260327-4D1F
+  - INS-260327-0D82
+  - INS-260330-9575
+  - INS-260330-F8A2
+  - INS-260330-4ACF
+  - INS-260330-2EB0
+  - INS-260404-B6CC
+  - INS-260404-F0C3
 ---
 When Takaichi declared Japan would defend Taiwan, China responded with war threats, tourism curbs, and a diplomatic isolation campaign accusing Japan of militarism. The result was the opposite of China's intent: Takaichi's approval soared to 60-77% overall and above 92% among young voters, while South Korea — previously antagonistic toward Japan over colonial history — rapidly moved to strengthen ties, producing the iconic joint photo-op of the two leaders.
 

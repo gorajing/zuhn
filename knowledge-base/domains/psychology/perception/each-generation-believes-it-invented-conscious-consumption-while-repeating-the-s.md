@@ -44,16 +44,16 @@ stance: >-
   behavioral change because the underlying psychological drivers of consumption
   are hardwired.
 related:
-  - INS-260325-A46E
   - INS-260327-194D
   - INS-260327-B528
   - PRI-260328-909D
   - PRI-260328-BF67
+  - INS-260404-8746
 evidence:
   - id: INS-260325-4300
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-194D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 From 1970s environmentalism to 2020s underconsumption-core, each generation believes it has uniquely discovered overconsumption. Each launches movements and declares change. Each eventually resumes consuming because the psychological drivers — status signaling, hedonic adaptation, identity construction — are deeper than any cultural movement can override.
 

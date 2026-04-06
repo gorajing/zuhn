@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "€1 Billion VC Fund in Spain\U0001F4B8, 10 Books for Founders, by Founders\U0001F4DA, The Power of Niche\U0001F3AF"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ais-600b-question-10-books-for-founders'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The lion's share of vertical software value is realized a decade or more
@@ -56,6 +46,15 @@ stance: >-
   Vertical software businesses create most of their value more than 10 years
   after founding, making them systematically undervalued by early-stage
   investors who apply standard SaaS timelines.
+related:
+  - INS-260327-969D
+  - INS-260327-25D7
+  - INS-260403-B387
+  - INS-260404-016F
+  - INS-260404-A2C4
+  - INS-260327-3B91
+  - INS-260323-C8AC
+  - INS-260330-2CE3
 ---
 Unlike horizontal SaaS that can scale quickly across industries, vertical software businesses must go deep into a specific sector — building integrations, winning regulatory trust, and displacing entrenched workflows. This depth takes time. Point Nine's Louis Coppey argues that while vertical software can become very valuable, the inflection in value often doesn't arrive until well past year 10.
 

@@ -49,13 +49,14 @@ stance: >-
   exceed the number of productive agents because non-deterministic AI systems
   require continuous behavioral monitoring that scales with agent count.
 related:
-  - INS-260325-BC2A
   - INS-260322-2E33
-  - INS-260323-758B
   - INS-260327-7299
   - INS-260327-E18C
+  - INS-260325-BC2A
+  - INS-260323-758B
   - INS-260329-D6AA
   - INS-260330-D5CD
+  - INS-260330-BA13
 evidence:
   - id: INS-260330-BA13
     type: TRANSFERS_TO

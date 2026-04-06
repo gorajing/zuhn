@@ -52,28 +52,28 @@ stance: >-
 related:
   - INS-260329-40B6
   - INS-260329-6A26
-  - INS-260330-CE2F
   - INS-260405-06B0
-  - INS-260329-1610
-  - INS-260402-F479
   - INS-260404-C7A1
+  - INS-260330-CE2F
+  - INS-260329-1610
+  - INS-260403-0218
 evidence:
   - id: INS-260329-40B6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-CE2F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-72C2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-41BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-AA77
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-06B0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-C7A1
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial teaches inheritance through a classic example: a Chef class inherits from a Person class, gaining all its properties while adding cooking-specific behavior. This is the textbook OOP pattern. However, the tutorial inadvertently demonstrates inheritance's limitation — what happens when a Chef is also a Teacher? Multiple inheritance isn't supported in C#.
 

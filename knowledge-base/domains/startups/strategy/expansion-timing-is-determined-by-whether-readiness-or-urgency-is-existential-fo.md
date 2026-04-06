@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Europe to US: The Expansion Playbook Every Founder Needs'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/europe-to-us-startup-expansion-playbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Spotify delayed US entry to perfect product-market fit while Klarna raced in
@@ -60,6 +50,14 @@ stance: >-
   The correct US expansion timing depends on whether your company's survival
   risk comes from entering too early without product readiness or from entering
   too late against aggressive competitors.
+related:
+  - INS-260327-B64E
+  - INS-260327-7D0B
+  - PRI-260323-1B96
+  - INS-260404-B2AF
+  - INS-260403-93E7
+  - INS-260327-C083
+  - PRI-260405-1FBC
 ---
 The Spotify vs. Klarna contrast crystallizes a fundamental strategic question. Spotify waited years, fine-tuning UX, catalog depth, licensing deals, and PR narrative before launching in the US in 2011. It treated the US as a multiplier for a perfected product. Klarna did the opposite—it saw the US not as expansion but as a future-defining market and bet that speed, branding, and capital would cover imperfections.
 

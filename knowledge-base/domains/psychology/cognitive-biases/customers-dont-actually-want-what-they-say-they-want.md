@@ -43,10 +43,10 @@ stance: >-
   behavior.
 related:
   - INS-260323-40AA
+  - INS-260403-C445
   - INS-260403-0435
   - INS-260403-0041
   - INS-260327-C6DC
-  - INS-260327-5688
 evidence:
   - id: INS-260323-40AA
     type: SUPPORTS

@@ -49,14 +49,13 @@ stance: >-
   it is a reliable signal that the idea has genuine universal validity.
 related:
   - INS-260325-1080
-  - INS-260323-821F
   - INS-260325-CE25
   - INS-260327-7DBF
   - INS-260330-B904
   - INS-260402-BA91
+  - PRI-260403-CCBC
   - INS-260323-3F30
   - INS-260323-085A
-  - PRI-260403-CCBC
 evidence:
   - id: INS-260325-1080
     type: CHALLENGES

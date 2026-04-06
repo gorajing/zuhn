@@ -20,7 +20,6 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
-  - INS-260321-0C99
   - INS-260323-D288
   - PRI-260321-D74F
   - INS-260327-1563

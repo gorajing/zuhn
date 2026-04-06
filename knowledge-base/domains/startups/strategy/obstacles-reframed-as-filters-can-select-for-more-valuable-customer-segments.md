@@ -49,26 +49,28 @@ stance: >-
   confusing layouts — can actually concentrate a higher-value customer base and
   increase per-customer lifetime value.
 related:
-  - INS-260403-C40D
-  - INS-260403-747B
-  - INS-260403-137D
+  - INS-260403-9104
+  - INS-260404-AC1B
+  - INS-260404-E65A
   - INS-260404-5587
-  - INS-260404-01B1
+  - INS-260403-B8CD
+  - INS-260403-747B
   - INS-260404-B2FB
-  - INS-260404-B435
+  - INS-260403-64E7
+  - INS-260403-137D
 evidence:
   - id: INS-260403-747B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-B2FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-79EC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-137D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-5587
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-01B1
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Conventional wisdom says removing friction grows your customer base. Costco demonstrates the opposite: its $60-120 mandatory membership fee acts as a demographic filter that selects for affluent households (average income ~$100K) and business owners. Business members make up only one-third of the membership but generate two-thirds of sales volume. The fee that should make customer acquisition 'fatally difficult' instead creates a self-selecting community of high-value, loyal patrons with 90% renewal rates.
 

@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 2022 Annual Letter
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/2022-annual-letter'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When labor and materials become expensive, technology that reduces those
@@ -62,6 +52,16 @@ stance: >-
   Expensive labor and raw materials create stronger incentives to invest in
   technology for cost reduction, making the incremental returns on technology
   investment higher during inflation than during periods of abundance.
+related:
+  - INS-260403-D543
+  - INS-260404-3043
+  - INS-260405-18C8
+  - INS-260405-86A1
+  - INS-260403-9897
+  - INS-260322-D079
+  - INS-260325-4846
+  - INS-260327-C1F6
+  - PRI-260405-B144
 ---
 The conventional wisdom is that higher interest rates and inflation are bad for technology companies because they compress valuations and reduce available capital. While this is true for funding and multiples, Chamath argues the opposite is true for technology adoption and utility. When labor costs rise and raw materials become expensive, every dollar saved through automation, software efficiency, or process optimization is worth more.
 

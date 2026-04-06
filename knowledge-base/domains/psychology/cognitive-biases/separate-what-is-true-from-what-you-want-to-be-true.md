@@ -51,11 +51,11 @@ stance: >-
   unrelated fantasies onto legitimate trends, which produces ventures that don't
   correspond to reality.
 related:
+  - INS-260404-86DE
   - INS-260324-A046
   - INS-260403-599B
   - INS-260403-F932
-  - INS-260403-508D
-  - INS-260325-0147
+  - INS-260403-693C
 evidence:
   - id: INS-260324-A046
     type: CONTRADICTS

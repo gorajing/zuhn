@@ -48,10 +48,10 @@ stance: >-
   fatal to a startup, worse than being a solo founder
 related:
   - INS-260402-27A1
+  - INS-260403-8B68
   - INS-260402-225A
   - PRI-260403-7BEC
   - INS-260330-5EB6
-  - INS-260402-9075
 ---
 In one YC batch, 9 of ~75 companies added a co-founder they didn't know well between interview and batch start. All 9 fell apart within a year. Meanwhile, the top 20 most valuable YC companies all have at least two founders who knew each other beforehand. The optimal path is co-founding with someone you've known for years — ideally from college or a previous workplace like Facebook or Google. A solo founder is preferable to a random co-founder. This suggests co-founder selection deserves more diligence than any hire, yet founders consistently treat it with less care than hiring.
 

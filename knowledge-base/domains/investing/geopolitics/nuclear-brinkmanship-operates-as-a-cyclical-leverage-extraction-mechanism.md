@@ -45,11 +45,12 @@ stance: >-
   rational, repeatable negotiation cycle designed to extract concessions from
   larger powers without ever surrendering leverage.
 related:
-  - INS-260330-1243
+  - INS-260402-1640
+  - INS-260403-0800
+  - INS-260403-5681
   - INS-260330-F488
-  - PRI-260325-D34E
-  - INS-260323-BC61
-  - PRI-260324-8EE6
+  - INS-260403-CCA3
+  - INS-260403-D5DE
 evidence:
   - id: INS-260330-1243
     type: SUPPORTS

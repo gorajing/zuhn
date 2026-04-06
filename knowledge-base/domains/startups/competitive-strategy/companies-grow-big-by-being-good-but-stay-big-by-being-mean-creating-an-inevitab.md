@@ -44,12 +44,16 @@ stance: >-
   lifecycle phase that creates a strategic window where incumbents are
   vulnerable to benevolent challengers
 related:
-  - INS-260322-B641
   - INS-260403-7563
+  - INS-260403-ADF9
+  - INS-260404-6FFF
   - INS-260403-99B1
   - INS-260327-E2BC
-  - INS-260403-535C
-  - INS-260403-830F
+  - INS-260403-EBC3
+  - INS-260403-32BA
+  - INS-260403-C7B9
+  - INS-260403-58CF
+  - INS-260403-6341
 evidence:
   - id: INS-260322-B641
     type: CHALLENGES

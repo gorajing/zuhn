@@ -50,10 +50,10 @@ stance: >-
   obscure both meaning and the method for combining evidence.
 related:
   - INS-260330-6C09
+  - INS-260404-8A8A
   - INS-260330-9BB7
+  - INS-260403-A1B6
   - INS-260330-C172
-  - INS-260323-9AA5
-  - INS-260330-B50A
   - INS-260403-27AA
 evidence:
   - id: INS-260330-775F

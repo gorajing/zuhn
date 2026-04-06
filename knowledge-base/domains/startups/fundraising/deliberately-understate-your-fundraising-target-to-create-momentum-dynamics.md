@@ -41,11 +41,11 @@ stance: >-
   raise more total money because reaching milestones faster creates social proof
   and urgency.
 related:
+  - INS-260403-87C4
+  - INS-260403-3F2C
   - INS-260403-A57D
   - INS-260329-9F8D
-  - PRI-260403-26B9
-  - INS-260404-2250
-  - INS-260326-870E
+  - INS-260404-8881
 evidence:
   - id: INS-260404-2250
     type: SUPPORTS

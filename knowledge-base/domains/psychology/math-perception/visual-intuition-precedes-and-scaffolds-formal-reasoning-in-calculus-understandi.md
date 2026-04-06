@@ -54,7 +54,6 @@ stance: >-
   abstraction.
 related:
   - INS-260323-813B
-  - INS-260323-1477
   - INS-260325-0713
   - INS-260325-48E4
   - INS-260327-73BE
@@ -63,6 +62,7 @@ related:
   - INS-260403-E2FB
   - INS-260330-E47D
   - INS-260329-C401
+  - INS-260329-18C9
 evidence:
   - id: INS-260402-28BA
     type: TRANSFERS_TO

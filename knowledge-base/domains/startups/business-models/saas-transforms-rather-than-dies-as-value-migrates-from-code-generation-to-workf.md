@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "“Claude Mythos”\U0001F9E0, SaaS Funeral\U0001F480, From Execution to Judgment\U0001F3AF"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     SaaS value is migrating from code to workflow orchestration, compliance, and
@@ -58,6 +48,17 @@ stance: >-
   AI does not kill SaaS — it restructures the value chain away from raw software
   creation toward secure workflows, compliance infrastructure, and embedded
   distribution.
+related:
+  - INS-260330-819E
+  - INS-260403-F8A2
+  - INS-260404-0CA7
+  - INS-260404-BD96
+  - INS-260403-A2BA
+  - INS-260403-B617
+  - INS-260403-3C6D
+  - INS-260326-7F79
+  - INS-260403-5384
+  - INS-260403-A2E9
 ---
 The narrative that AI kills SaaS misses the structural reality: enterprises still need secure, maintained, compliant systems regardless of how easily code can be generated. AI reduces coding friction but amplifies the importance of everything around the code — data governance, workflow integration, regulatory compliance, and trusted distribution channels.
 

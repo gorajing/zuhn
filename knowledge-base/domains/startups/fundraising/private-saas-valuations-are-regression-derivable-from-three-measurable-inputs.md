@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula)
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/saas-company-valuation-formula-2026'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A regression formula from 63 real transactions turns three tracked metrics
@@ -57,6 +47,13 @@ stance: >-
   Private SaaS company valuations are far more quantifiable than founders
   believe, reducible to a formula based on market index, ARR growth rate, and
   NRR
+related:
+  - INS-260404-E061
+  - INS-260403-54FF
+  - INS-260404-0EB2
+  - INS-260330-D63C
+  - INS-260403-807A
+  - INS-260403-0CBA
 ---
 Most SaaS founders treat valuation as a black box, anchoring to outdated Twitter anecdotes or accepting the first offer without a framework to evaluate it. In reality, private SaaS valuations are statistically derivable from three inputs most founders already track: broad market conditions (via the SaaS Capital Index), ARR growth rate (the highest-weighted variable), and Net Revenue Retention.
 

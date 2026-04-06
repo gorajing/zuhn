@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Tariffs Are Reshaping Global Tech Startups
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/2024-tariffs-global-tech-startups'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Tariffs on GPUs and server components create a cost advantage for AI
@@ -59,6 +49,14 @@ resolutions:
 stance: >-
   AI startups with owned inference infrastructure will be disproportionately
   punished by semiconductor tariffs compared to API-first competitors
+related:
+  - INS-260325-BEAC
+  - INS-260327-7D53
+  - INS-260403-4C61
+  - INS-260329-C754
+  - INS-260403-7037
+  - INS-260405-567D
+  - INS-260403-F4D7
 ---
 AI startups occupy a uniquely vulnerable position: they produce software but depend heavily on tariffed hardware—GPUs, semiconductors, server components. With chip import tariffs projected to hit 50% in 2025, startups building their own inference infrastructure face premium costs on every imported server, board, and GPU. Even older-generation chips from Asia now carry significant tariff tags.
 

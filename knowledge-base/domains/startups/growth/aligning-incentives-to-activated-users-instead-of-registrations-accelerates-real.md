@@ -51,19 +51,22 @@ stance: >-
   registration drops but accelerates long-term growth by aligning acquisition
   channels with retention
 related:
+  - INS-260330-8048
+  - PRI-260403-E097
+  - INS-260405-07DF
+  - INS-260404-B407
   - INS-260330-70BC
   - INS-260330-9C48
-  - INS-260330-3398
-  - PRI-260403-E097
-  - INS-260330-E61E
+  - INS-260330-21CC
+  - PRI-260328-6A8D
 evidence:
   - id: INS-260330-4553
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2A6A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9C48
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-70BC
-    relationship: RELATED
+    type: SUPPORTS
 ---
 In 2004, eBay changed their affiliate payment model from paying per confirmed registered user to paying per activated confirmed registered user (someone who confirmed their account AND bid on, bought, or listed an item). Overnight, confirmed registrations driven by affiliates dropped roughly 20%, but activated users only dropped about 5%. The ratio of registered-to-active users improved, and then active user growth massively accelerated. The mechanism is elegant: affiliates optimizing for registrations would land someone searching for 'trampoline' on the registration page, creating friction before value. Affiliates optimizing for activation landed them on eBay's trampoline search results, letting them see the product they wanted, get excited, and register with intent to buy. This created genuine magic moments at acquisition rather than empty signups. The principle generalizes: whatever metric you pay external partners to optimize, they will game. Align payment with the deepest meaningful action users can take, even at the cost of top-of-funnel volume.

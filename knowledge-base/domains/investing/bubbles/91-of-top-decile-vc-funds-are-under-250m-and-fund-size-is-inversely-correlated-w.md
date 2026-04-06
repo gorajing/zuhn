@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Everything You Knew About VC Math Is Wrong
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/venture-capital-fund-math-explained'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while
@@ -61,6 +51,16 @@ resolutions:
 stance: >-
   Mega-funds are structurally incapable of generating top-quartile return
   multiples because the required exit values exceed market reality.
+related:
+  - INS-260330-77D1
+  - INS-260403-49EC
+  - INS-260403-8EE8
+  - INS-260403-CF1D
+  - INS-260405-A6E1
+  - INS-260403-713B
+  - INS-260403-B224
+  - INS-260404-77E7
+  - INS-260404-C147
 ---
 Josh Kopelman's Venture Arrogance Score (VAS) quantifies why mega-funds structurally underperform: a $7B fund aiming for 10% ownership would need to capture 50% of all exit value in its investing window — something no firm has ever achieved. Kopelman argues real venture funds rarely exceed a VAS of ~10%, and anything above that is essentially private equity disguised as VC. Empirical data confirms this: 91% of top-decile funds had assets under $250M, 73% were Fund I or II, and median top-decile fund size was ~$38M.
 

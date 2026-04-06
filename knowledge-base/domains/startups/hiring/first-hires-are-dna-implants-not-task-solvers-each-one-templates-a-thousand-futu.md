@@ -46,14 +46,13 @@ stance: >-
   Your first hire should be evaluated as the prototype for a thousand future
   employees, not as someone to ship the next three features
 related:
-  - INS-260321-0CCD
   - INS-260327-1996
   - INS-260327-9192
-  - INS-260328-3A00
-  - INS-260328-8B2C
   - INS-260330-1B37
   - PRI-260403-7BEC
   - INS-260327-18D4
+  - INS-260328-3A00
+  - INS-260404-B18A
 evidence:
   - id: INS-260321-0CCD
     type: EXTENDS

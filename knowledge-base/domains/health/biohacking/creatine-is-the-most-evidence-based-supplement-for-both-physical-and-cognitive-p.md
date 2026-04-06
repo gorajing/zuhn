@@ -43,6 +43,6 @@ related:
   - PRI-260328-024A
   - INS-260330-B1F6
   - PRI-260325-663A
-  - INS-260330-713C
+  - INS-260403-9757
 ---
 Creatine monohydrate has more evidence for both physical performance and cognitive enhancement than any other legal supplement, making it the single best supplement choice

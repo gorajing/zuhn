@@ -50,7 +50,6 @@ stance: >-
   destroy the impactor itself, leading to decades of wasted effort searching for
   objects that no longer exist
 related:
-  - INS-260320-8FFC
   - INS-260325-451F
   - INS-260330-633F
   - INS-260330-DC5E
@@ -60,6 +59,7 @@ related:
   - INS-260325-C7FA
   - INS-260330-1DCA
   - INS-260330-6C7F
+  - INS-260330-5265
 evidence:
   - id: INS-260325-C7FA
     type: TRANSFERS_TO

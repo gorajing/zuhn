@@ -49,10 +49,10 @@ stance: >-
   the danger is not in temporarily being fake but in refusing to see it.
 related:
   - INS-260327-2684
+  - INS-260404-CD1A
   - INS-260327-0700
   - INS-260402-E2AF
   - INS-260330-E39E
-  - INS-260327-F95F
 evidence:
   - id: INS-260327-F95F
     type: SUPPORTS

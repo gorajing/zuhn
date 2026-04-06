@@ -50,12 +50,11 @@ stance: >-
   aligns with technology's deflationary trajectory.
 related:
   - INS-260327-4D70
-  - INS-260330-F759
   - PRI-260403-88F5
+  - INS-260403-7A1D
   - INS-260327-82AA
   - PRI-260405-8E48
   - PRI-260403-2B12
-  - INS-260329-6BE8
 evidence:
   - id: INS-260330-F759
     type: CHALLENGES

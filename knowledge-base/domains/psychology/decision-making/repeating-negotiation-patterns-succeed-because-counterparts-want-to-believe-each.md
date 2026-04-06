@@ -48,11 +48,11 @@ stance: >-
   because the target's desire for a different outcome overrides pattern
   recognition
 related:
+  - INS-260404-98EE
   - INS-260329-3D14
+  - INS-260403-BA48
   - PRI-260324-2C9F
   - INS-260405-370B
-  - INS-260329-1D08
-  - INS-260330-5C69
 evidence:
   - id: INS-260329-3D14
     type: CONTRADICTS

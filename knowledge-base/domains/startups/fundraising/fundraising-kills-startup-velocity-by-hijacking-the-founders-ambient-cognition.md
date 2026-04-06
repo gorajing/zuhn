@@ -42,16 +42,16 @@ stance: >-
   The primary cost of fundraising is not the time spent in meetings but the
   displacement of product thinking from the founder's background cognition.
 related:
-  - INS-260322-88C3
-  - INS-260323-B0EA
   - INS-260327-1E44
   - INS-260328-6E7A
   - INS-260328-3A00
   - INS-260330-DE1D
-  - INS-260330-B390
   - INS-260403-5441
-  - INS-260403-16B4
   - INS-260403-5593
+  - INS-260403-2B6E
+  - INS-260403-D98E
+  - INS-260403-ADF9
+  - INS-260330-6C68
 evidence:
   - id: INS-260403-D98E
     type: SUPPORTS

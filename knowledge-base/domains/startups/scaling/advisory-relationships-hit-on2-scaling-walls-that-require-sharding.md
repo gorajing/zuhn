@@ -50,10 +50,9 @@ stance: >-
 related:
   - INS-260325-93A9
   - INS-260327-A927
-  - INS-260327-0D0B
   - PRI-260328-3BEF
-  - PRI-260328-0C86
-  - INS-260330-B390
+  - INS-260403-5056
+  - INS-260403-EDEF
 ---
 When YC grew from 60 to 80 startups per batch (only 33% more), the system broke because every partner needed to know every startup — an O(n²) relationship graph. The fix was the classic computer science solution: sharding into smaller dedicated groups. This is a powerful organizational pattern that applies far beyond accelerators.
 

@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: China’s Global Strategy and Power Balance'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-chinas-global-strategy'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A hegemon loses its ability to set global rules unilaterally when rivals
@@ -64,6 +54,12 @@ stance: >-
   The unipolar US-led world order is ending not because America weakened but
   because rivals built comparable capabilities — rivals can erode hegemony
   without winning a direct confrontation.
+related:
+  - INS-260323-59FE
+  - INS-260321-3808
+  - INS-260323-636C
+  - PRI-260321-0A4D
+  - INS-260403-DF45
 ---
 For three decades after the Cold War, the US operated in a unique structural position: no peer competitors. This allowed unilateral rule-setting, institution-shaping to reflect American values, and the ability to project power globally without coalition-building. That structural condition — not any particular policy or military capability — was what defined the unipolar moment.
 

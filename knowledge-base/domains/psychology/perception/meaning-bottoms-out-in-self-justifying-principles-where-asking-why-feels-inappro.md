@@ -54,7 +54,6 @@ stance: >-
   self-justifying principle — a motivation so fundamental that further asking
   'why' feels inappropriate rather than just unfinished.
 related:
-  - INS-260325-622D
   - INS-260325-AE23
   - INS-260404-1773
   - INS-260323-4D5E

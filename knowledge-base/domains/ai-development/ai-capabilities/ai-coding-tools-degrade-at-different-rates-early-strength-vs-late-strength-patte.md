@@ -47,49 +47,49 @@ stance: >-
   start slow but maintain quality in longer sessions.
 related:
   - INS-260323-FAF2
-  - INS-260321-A56C
-  - INS-260320-7B4B
   - INS-260323-FEDF
   - INS-260327-2386
   - INS-260327-5CB0
   - INS-260328-A46F
-  - INS-260323-E15F
-  - INS-260323-19A8
-  - INS-260323-B4D2
+  - INS-260329-727B
+  - INS-260329-D3F6
+  - INS-260329-5818
+  - INS-260330-ABB1
+  - INS-260330-F7B2
 evidence:
   - id: INS-260323-AB5F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-FEDF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-E15F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-2386
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-A46F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-B57E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-19A8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D61A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F7B2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-8830
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D3F6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-5818
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-975D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6204
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-727B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-8E48
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-ABB1
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Ross notes that 'with Cursor after a certain point it gets really messy and the hallucinations get more frequent' while Windsurf 'could be slow to start but then it does a better job later on.' This suggests AI coding tools have different context window management strategies that produce distinct degradation curves. For a 37-minute app build with multiple screens, a 'late-strength' tool like Windsurf is better than an 'early-strength' tool like Cursor. The practical implication is that tool selection should depend on session length and project complexity, not just raw capability. This is an underappreciated dimension of AI tool evaluation that most benchmarks miss entirely.

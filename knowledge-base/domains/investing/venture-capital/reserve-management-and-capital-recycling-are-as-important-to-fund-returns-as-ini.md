@@ -18,35 +18,14 @@ tags:
 sources:
   - type: blog
     title: February 2025 Startups Raising Capital
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Luis Llorens
-        url: 'https://substack.com/@luisllorens'
-        description: "Engineer turned VC who invests in Pre-seed to Series A startups. Employee #10 at a unicorn and former pro-am padel player\U0001F3BE"
-        identifier: 'user:40378777'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!bXQe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec49c7d7-2cd7-41ae-88a2-7f9949791fac_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!bXQe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec49c7d7-2cd7-41ae-88a2-7f9949791fac_400x400.jpeg
+    author: 'Ruben Dominguez, Luis Llorens'
     url: 'https://www.thevccorner.com/p/february-2025-startups-raising-capital'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     How a VC manages reserves and reinvests distributions often matters as much
@@ -71,6 +50,15 @@ stance: >-
   VCs who strategically manage follow-on reserves and recycle distributions back
   into new investments significantly outperform those who optimize only for
   initial deal selection.
+related:
+  - INS-260330-A1A4
+  - INS-260404-95CA
+  - INS-260403-CDC9
+  - INS-260404-707C
+  - INS-260405-C56F
+  - INS-260403-F852
+  - INS-260403-8C41
+  - INS-260403-6BA6
 ---
 Initial deal selection gets most of the attention in venture, but capital allocation decisions made mid-fund—how much to reserve for follow-ons, whether to recycle returned capital into new positions—have an outsized effect on final fund performance. A VC who correctly identifies a winner but fails to follow on in subsequent rounds may see that winner's returns diluted relative to a fund that concentrated aggressively.
 

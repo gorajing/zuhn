@@ -43,11 +43,10 @@ resolutions:
     imperfection to maintain trust.
 related:
   - INS-260327-F4DB
+  - INS-260405-487E
   - INS-260322-B264
   - INS-260329-4B07
   - INS-260327-13B3
-  - INS-260322-750D
-  - INS-260327-DBAD
   - INS-260405-00DE
 stance: >-
   Some voice AI companies intentionally add latency and background noise to make

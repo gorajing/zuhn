@@ -55,10 +55,10 @@ stance: >-
   unhealthy values.
 related:
   - INS-260325-7C72
-  - INS-260323-8544
   - PRI-260328-F6DE
   - PRI-260325-1C61
-  - PRI-260328-E3A7
+  - INS-260405-EE1F
+  - INS-260323-8544
   - INS-260403-3BD3
 evidence:
   - id: INS-260323-8544

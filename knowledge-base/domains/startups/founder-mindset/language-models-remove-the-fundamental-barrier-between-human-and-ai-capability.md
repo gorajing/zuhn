@@ -51,54 +51,54 @@ related:
   - INS-260323-042C
   - INS-260323-8E4D
   - INS-260325-CACA
-  - INS-260323-CD28
-  - INS-260329-0A55
-  - INS-260329-EDA2
-  - INS-260405-131B
-  - INS-260327-26BF
   - INS-260327-E75F
+  - INS-260327-A25E
+  - INS-260329-C555
+  - INS-260329-EDA2
+  - INS-260329-A862
+  - INS-260329-34C0
 evidence:
   - id: INS-260323-3920
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-042C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-8E4D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-26BF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-A862
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-C555
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-0A55
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-EDA2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-E75F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6A60
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-81A7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-BD83
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-2D95
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-34C0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-CACA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D868
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-A25E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-0D16
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-80AF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B8C6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-131B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Professor Qi argues from information theory that humans are fundamentally information processors who communicate through language. Since language models can process language, there is no reserved place for human capability that AI cannot eventually reach. He compares the current moment to when humans first got language — the only comparable inflection point in civilization. His startup Path Integral Technology is built on this thesis, using AI to automate scientific discovery. The practical implication for founders: do not assume any cognitive task is permanently safe from AI automation. Build for a world where AI capabilities expand continuously and plan your company strategy around augmenting rather than replacing this trajectory.

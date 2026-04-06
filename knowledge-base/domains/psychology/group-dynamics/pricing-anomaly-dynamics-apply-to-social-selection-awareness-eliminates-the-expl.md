@@ -44,12 +44,12 @@ stance: >-
   the advantage disappears, shifting decisions back to substance.
 related:
   - INS-260325-9A0F
-  - INS-260330-7675
   - INS-260403-6F65
   - INS-260403-5106
   - INS-260403-B734
-  - INS-260325-502D
-  - INS-260404-3275
+  - INS-260403-EC66
+  - INS-260403-311C
+  - INS-260405-42D3
 evidence:
   - id: INS-260325-9A0F
     type: SUPPORTS

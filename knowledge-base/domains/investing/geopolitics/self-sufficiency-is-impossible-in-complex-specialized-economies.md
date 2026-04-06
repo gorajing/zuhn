@@ -45,32 +45,32 @@ stance: >-
   self-sufficiency becomes structurally impossible, making isolation strategies
   futile.
 related:
-  - INS-260403-EB0B
-  - INS-260330-DA4A
-  - INS-260330-E17D
-  - INS-260330-CF10
-  - INS-260330-3FF4
   - INS-260325-F8B8
   - INS-260325-66BE
   - INS-260327-479C
+  - INS-260330-DA4A
   - INS-260330-66EF
+  - INS-260403-EB0B
+  - INS-260330-CF10
+  - INS-260330-3FF4
+  - INS-260330-7C58
 evidence:
   - id: INS-260330-DA4A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-440E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3FF4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-7C58
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-F8B8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-66BE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9E91
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-66EF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-EB0B
     type: EXTENDS
     classified_at: '2026-04-06'

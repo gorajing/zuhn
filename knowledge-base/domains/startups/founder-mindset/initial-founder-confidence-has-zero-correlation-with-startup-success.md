@@ -54,8 +54,8 @@ related:
   - PRI-260405-E256
   - INS-260402-E140
   - INS-260330-E39E
+  - INS-260403-9942
   - INS-260403-FE3B
-  - INS-260325-BE8A
 ---
 Graham shares that after nearly a decade running YC, he learned to keep a 'completely open mind' about which startups in each batch would become stars. Some founders arrived confident they would ace YC just as they'd aced every prior test. Others arrived wondering what mistake had caused their admission. Neither attitude predicted outcomes.
 

@@ -51,16 +51,16 @@ stance: >-
   The absence of a clear authority above competing power centers causes more
   destruction than foreign competition
 related:
-  - INS-260327-60C6
   - INS-260327-157B
   - INS-260327-8DAA
   - INS-260327-1756
   - INS-260327-E382
   - INS-260327-32BA
   - INS-260327-4775
-  - INS-260327-64A5
+  - INS-260327-E7AC
   - INS-260327-2964
   - INS-260327-3528
+  - INS-260323-DF0F
 evidence:
   - id: INS-260327-60C6
     type: EXTENDS

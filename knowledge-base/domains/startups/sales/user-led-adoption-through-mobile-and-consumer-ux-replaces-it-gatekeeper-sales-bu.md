@@ -52,7 +52,6 @@ stance: >-
   this bottom-up motion must still be paired with sales to convert
   organizational adoption.
 related:
-  - INS-260323-BF81
   - INS-260327-B8E5
   - INS-260327-6B78
   - INS-260327-540D

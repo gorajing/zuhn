@@ -49,20 +49,20 @@ stance: >-
   scale, causing them to dramatically underestimate how much taller a 1km
   structure is than a 500m one.
 related:
-  - INS-260329-8407
-  - INS-260330-FF94
-  - INS-260330-8C80
   - INS-260330-ED8A
   - INS-260330-2EC0
   - PRI-260403-50EF
-  - INS-260403-EA82
+  - INS-260330-FF5B
+  - INS-260330-1C84
+  - INS-260330-649B
+  - INS-260330-FF94
 evidence:
   - id: INS-260329-D8BC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2EC0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-FF5B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Weber-Fechner law describes how human perception of magnitude scales logarithmically rather than linearly. When comparing structures, people perceive the difference between 100m and 200m as roughly equivalent to the difference between 500m and 1000m, even though the absolute gap differs by 5x. This means we systematically underestimate the engineering difficulty of each incremental height increase.
 

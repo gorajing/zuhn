@@ -42,14 +42,14 @@ related:
   - INS-260403-518E
   - INS-260322-D059
   - PRI-260328-F804
-  - INS-260325-6DD8
   - PRI-260328-F570
+  - INS-260330-0233
 evidence:
   - id: INS-260322-D059
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-A9E0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-518E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Growing evidence links maternal acetaminophen (Tylenol) use during pregnancy to increased autism spectrum disorder risk, potentially through glutathione depletion compromising fetal neuroprotection during critical development

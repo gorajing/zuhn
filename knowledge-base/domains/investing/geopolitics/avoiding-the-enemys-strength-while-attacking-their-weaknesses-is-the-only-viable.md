@@ -57,6 +57,7 @@ related:
   - INS-260327-42BA
   - INS-260327-5DD3
   - INS-260327-0C65
+  - INS-260403-1B00
 ---
 The Trachenberg Plan was devised specifically to counter Napoleon's core advantage: his personal ability to concentrate force and win decisive battles. Coalition armies were ordered to retreat whenever Napoleon appeared with his main force, while aggressively attacking any French corps led by his marshals. This systematically degraded French strength without ever giving Napoleon the decisive battle he craved.
 

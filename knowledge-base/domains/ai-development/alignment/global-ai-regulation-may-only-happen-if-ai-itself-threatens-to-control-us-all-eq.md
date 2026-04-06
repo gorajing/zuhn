@@ -52,12 +52,14 @@ resolutions:
 related:
   - PRI-260328-0123
   - INS-260403-B4DC
+  - INS-260404-34DB
   - INS-260403-3A8A
   - PRI-260328-37D8
-  - INS-260330-2EB0
-  - INS-260321-3C8A
   - INS-260323-59FE
+  - INS-260330-2EB0
   - INS-260330-9FCF
+  - INS-260403-A68D
+  - INS-260403-5616
 stance: >-
   Netanyahu's game-theoretic observation: no nation will voluntarily slow AI
   development to cooperate on regulation

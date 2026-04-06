@@ -49,10 +49,10 @@ stance: >-
   operational infrastructure represent recoverable value.
 related:
   - INS-260404-2DB4
+  - INS-260403-C164
   - PRI-260328-A1AA
   - INS-260327-DF2F
-  - INS-260327-96BB
-  - INS-260404-7E24
+  - INS-260403-B0E3
 evidence:
   - id: INS-260327-96BB
     type: CONTRADICTS

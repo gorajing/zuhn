@@ -1,5 +1,6 @@
 # Tag: distraction
 
+- `INS-260403-BADB` America's policy debate focuses on problems where it differs from peers by 10-20% while ignoring the one where it differs by 500-1000%.
 - `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-FA30` Coders knocked out of flow need 15+ minutes to return — if they can return at all.
 - `INS-260403-50F1` Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.

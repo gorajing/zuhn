@@ -47,10 +47,10 @@ stance: >-
   to itself about its nature and will lose to incumbents on their own terrain.
 related:
   - INS-260322-88C3
+  - INS-260403-2318
   - INS-260327-E2BC
   - INS-260322-C472
   - INS-260327-F417
-  - INS-260403-924B
 evidence:
   - id: INS-260327-F417
     type: CHALLENGES

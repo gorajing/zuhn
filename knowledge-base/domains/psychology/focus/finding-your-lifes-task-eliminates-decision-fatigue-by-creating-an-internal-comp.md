@@ -50,14 +50,13 @@ stance: >-
   paralysis of unlimited options — it doesn't narrow life to a single path but
   provides directional clarity that makes all decisions easier.
 related:
-  - INS-260329-FEA6
+  - INS-260404-8E68
+  - INS-260403-E554
   - INS-260403-2BAD
   - INS-260323-DEEA
   - INS-260323-64A4
-  - INS-260330-F488
   - INS-260330-C6A2
   - INS-260330-8E95
-  - INS-260330-3819
 evidence:
   - id: INS-260329-FEA6
     type: SUPPORTS

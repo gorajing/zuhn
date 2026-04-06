@@ -1,7 +1,10 @@
 # Tag: copywriting
 
+- `INS-260403-2385` Structure landing page narratives as Problem → Agitation (real business cost) → Transformation (quantified outcome) using customers' exact language.
 - `INS-260329-BE8E` Simplify all marketing language to a third-to-fifth grade reading level to maximize comprehension and conversion rates.
+- `INS-260403-3BB2` On discovery platforms, taglines that instantly communicate what a product does outperform flashy but vague alternatives.
 - `INS-260329-6859` Put 80% of ad creation effort into the hook/headline — front-end CTR gains of 4x dwarf backend improvements.
+- `INS-260403-A54C` Use the formula 'Outcome for [ideal customer] without [common pain]' for landing page headlines instead of abstract slogans.
 - `INS-260320-080B` Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
 - `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
 - `INS-260329-E900` Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.

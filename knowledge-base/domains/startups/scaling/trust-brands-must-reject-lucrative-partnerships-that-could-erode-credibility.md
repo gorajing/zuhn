@@ -45,9 +45,9 @@ stance: >-
   enough revenue to offset the brand damage from a bad endorsement
 related:
   - INS-260330-0145
+  - INS-260403-5683
   - INS-260329-92E9
   - INS-260403-754F
   - INS-260327-D0F4
-  - PRI-260328-6A8D
 ---
 Dave Ramsey built a $300M+ business where ~40% of revenue comes from Ramsey Trusted endorsements — yet he regularly turns down lucrative advertisers that don't pass his personal vetting test. The principle is that trust compounds like interest: each endorsement either adds to or subtracts from your credibility reserve, and a single bad partnership can wipe out decades of trust-building. This applies to any business where your recommendation carries weight — from SaaS partnerships to affiliate marketing. The key operational mechanism is the 'would you send your mom/sister/friend there' acid test applied before every partnership decision, with willingness to cancel even long-standing relationships that start underperforming on customer care.

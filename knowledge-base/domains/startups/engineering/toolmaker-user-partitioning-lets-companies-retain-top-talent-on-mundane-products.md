@@ -49,16 +49,15 @@ stance: >-
   from tedious end-user problems while capturing 99% of their productivity for
   the product.
 related:
-  - INS-260330-83D5
   - INS-260330-E881
   - INS-260402-46AD
   - INS-260403-1B53
   - INS-260404-BE07
   - INS-260402-AA3F
   - INS-260403-6E76
-  - INS-260403-F519
-  - INS-260403-EE38
   - INS-260403-22DF
+  - INS-260403-E4AD
+  - INS-260403-E63A
 evidence:
   - id: INS-260323-D2AA
     type: SUPPORTS

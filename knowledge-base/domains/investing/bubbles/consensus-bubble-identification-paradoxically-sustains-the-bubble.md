@@ -46,11 +46,11 @@ stance: >-
   becomes a contrarian signal that keeps sophisticated investors engaged,
   because true bubbles pop from surprise not from anticipated risks.
 related:
-  - INS-260323-750A
   - INS-260322-7B71
   - INS-260327-8773
   - PRI-260403-2927
   - INS-260327-4C26
+  - INS-260405-D9DF
   - INS-260405-0B17
 evidence:
   - id: INS-260322-7B71

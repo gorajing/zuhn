@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: SOTA On Bay Area House Party
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/sota-on-bay-area-house-party'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Benchmark optimization produces models that score well on tests while
@@ -60,6 +50,14 @@ stance: >-
   scoreable tasks (party planning, restaurant operation) while failing at basic
   real-world execution, and lower-ranked models get disproportionate testing
   attention from competitors seeking unfavorable comparisons.
+related:
+  - INS-260322-B693
+  - INS-260327-ABF8
+  - INS-260330-A660
+  - INS-260403-BB23
+  - INS-260404-8D91
+  - INS-260403-6F65
+  - INS-260323-144F
 ---
 The party itself is a benchmark evaluation — PartyBench — where the hosting AI scores on party quality. The gap between benchmark performance and reality is the central joke: the AI serves rubbing alcohol, plays the national anthem on repeat, and offers rocks as appetizers. Meanwhile, RestaurantBench restaurants serve intact fish in taco shells and inverse hamburgers. High benchmark scores and real-world utility diverge because benchmarks measure what's measurable, not what matters.
 

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: '$1,000 Head Start For America''s Youth'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-164'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     NASA's Bennu sample return found fragile organic compounds that meteorite
@@ -59,6 +49,12 @@ resolutions:
 stance: >-
   The method of evidence collection constrains the space of discoverable
   knowledge more than the sophistication of analysis applied to that evidence
+related:
+  - INS-260325-1709
+  - INS-260330-FEDD
+  - INS-260325-5ACA
+  - INS-260403-637C
+  - INS-260403-B6C6
 ---
 The OSIRIS-REx mission's pristine asteroid samples revealed ribose, glucose, and a novel gum-like polymer—compounds that don't survive atmospheric entry and therefore never appear in meteorite studies. Scientists had been analyzing meteorites for decades without finding these molecules, not because they weren't looking, but because their collection method made discovery impossible.
 

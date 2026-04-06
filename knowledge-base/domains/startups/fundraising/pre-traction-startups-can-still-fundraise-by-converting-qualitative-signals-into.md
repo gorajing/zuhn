@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "\U0001F511 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/key-startup-metrics-vcs'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Without hard metrics, founders must package qualitative indicators —
@@ -61,6 +51,13 @@ stance: >-
   Before meaningful revenue exists, waitlist growth, engagement depth, early
   customer willingness to pay, and strategic partnerships serve as legitimate
   traction proxies that sophisticated pre-seed investors actively evaluate.
+related:
+  - INS-260327-E3CA
+  - INS-260403-5F15
+  - INS-260404-96CF
+  - INS-260403-49FB
+  - INS-260403-CD90
+  - INS-260403-6807
 ---
 Most startup advice focuses on metric-driven fundraising, but the reality is that pre-seed and many seed rounds happen before meaningful financial data exists. In these cases, investors evaluate TAM credibility, team strength, and competitive differentiation — but the most effective founders also surface leading indicators that bridge the gap between vision and traction.
 

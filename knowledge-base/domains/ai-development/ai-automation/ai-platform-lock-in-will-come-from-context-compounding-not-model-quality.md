@@ -52,15 +52,15 @@ resolutions:
     the unsolved UX problem that will determine which platform wins prosumer
     users.
 related:
+  - INS-260403-7A48
   - INS-260327-7D53
   - INS-260403-38C0
   - PRI-260328-0C15
   - INS-260402-1F41
-  - PRI-260405-BFAC
-  - INS-260330-1A23
   - INS-260330-95F3
   - INS-260403-9BEF
-  - INS-260403-C032
+  - INS-260403-2FAE
+  - INS-260323-47D8
 stance: >-
   The winning AI platforms will lock users in through accumulated context,
   memory, social graphs, and authentication layers

@@ -50,26 +50,26 @@ stance: >-
   one
 related:
   - INS-260330-7B09
-  - INS-260330-8BF6
-  - INS-260330-68C8
-  - INS-260330-CEAE
+  - INS-260330-2F74
+  - INS-260330-ED9D
   - INS-260403-9442
   - INS-260403-532D
-  - INS-260403-C514
-  - INS-260403-05D8
-  - INS-260404-B04F
-  - INS-260404-B20E
+  - INS-260404-9229
+  - INS-260404-16B0
+  - INS-260404-5E8F
+  - INS-260404-8256
+  - INS-260405-9DB6
 evidence:
   - id: INS-260330-53A9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-B20E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8BF6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-68C8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-7B09
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-CEAE
     type: SUPPORTS
     classified_at: '2026-04-06'

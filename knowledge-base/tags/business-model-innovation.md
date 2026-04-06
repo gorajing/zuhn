@@ -4,6 +4,7 @@
 - `INS-260403-0AF7` Existential constraints strip away incrementalism and force founders into genuinely novel business model territory.
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260330-16F7` McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.
+- `INS-260403-83A4` eDreams built multiple 'inelegant' revenue streams (web-scraping, service fees, media business, hybrid OTA-Meta) that gave them resilience investors initially dismissed.
 - `INS-260403-F590` The time required for business model change is driven by organizational readiness, not by how radical the change is.
 - `INS-260403-16D7` Products are easy to copy but business models create structural advantages that competitors struggle to replicate.
 - `INS-260330-DD10` Attack incumbents where their architecture or economics prevent them from following you.

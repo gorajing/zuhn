@@ -52,11 +52,10 @@ resolutions:
     products trying to reach mainstream adoption.
 related:
   - INS-260325-4846
+  - INS-260405-62F8
   - INS-260321-1A0B
-  - INS-260330-EF74
-  - INS-260324-29D8
-  - INS-260330-856B
-  - INS-260324-160B
+  - INS-260403-2A0F
+  - INS-260403-D540
 stance: >-
   Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks
   20th

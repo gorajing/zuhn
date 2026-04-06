@@ -49,10 +49,10 @@ stance: >-
   restricting access.
 related:
   - INS-260403-22EE
+  - INS-260405-3E73
   - INS-260404-F6ED
   - INS-260326-CA8C
   - INS-260330-4D9D
-  - INS-260327-70DF
 evidence:
   - id: INS-260330-4D9D
     type: EXTENDS

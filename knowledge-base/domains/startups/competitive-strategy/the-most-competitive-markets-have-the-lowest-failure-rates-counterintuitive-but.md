@@ -40,11 +40,11 @@ resolutions:
     entering a market with deep, established demand gives you better survival
     odds than entering an 'empty' market where demand hasn't been proven.
 related:
+  - INS-260403-B9B8
   - INS-260330-7DA5
+  - INS-260403-333C
   - INS-260323-EA36
   - INS-260330-ED9D
-  - PRI-260324-D701
-  - INS-260321-2241
 stance: Texas has the most BBQ spots per capita but a 33% failure rate
 evidence:
   - id: INS-260323-EA36

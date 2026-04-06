@@ -47,10 +47,11 @@ resolutions:
     without creating Goodhart's Law problems.
 related:
   - INS-260329-1F4D
+  - INS-260403-2F28
   - INS-260402-7182
   - INS-260330-625B
   - INS-260403-8A80
-  - PRI-260405-608A
+  - INS-260329-EC33
 stance: Individual employees want to be lazier and richer
 evidence:
   - id: INS-260329-1F4D

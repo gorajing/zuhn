@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Distribution Is the Final Moat
-    author:
-      - '@type': Person
-        name: GTMnow
-        url: 'https://substack.com/@gtmnow'
-        description: >-
-          The media brand of VC firm, GTMfund. Build, scale and invest with the
-          best minds in tech. 
-        identifier: 'user:304388186'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!9oNA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b85fac-affa-4dbf-bff1-7c9b407b1f7f_1080x1080.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!9oNA!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b85fac-affa-4dbf-bff1-7c9b407b1f7f_1080x1080.png
+    author: GTMnow
     url: 'https://www.thevccorner.com/p/distribution-is-the-final-moat'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Building distribution in parallel with product is now table stakes for
@@ -59,6 +47,14 @@ stance: >-
   Startups that defer distribution strategy until after product-market fit lose
   to competitors who build revenue engines from day one, regardless of product
   quality
+related:
+  - PRI-260322-8FD4
+  - INS-260330-1DCF
+  - INS-260330-0AA7
+  - INS-260403-8011
+  - INS-260329-920D
+  - PRI-260324-12CF
+  - INS-260403-1C09
 ---
 The traditional startup sequence of build-first, sell-later has been replaced by a parallel execution model. Elite startups now hit $1M ARR in under 9 months with burn multiples below 1.0, meaning they generate more revenue than they burn. This is only possible because founders treat distribution as a core product feature from day one, not as a problem to solve after achieving product-market fit.
 

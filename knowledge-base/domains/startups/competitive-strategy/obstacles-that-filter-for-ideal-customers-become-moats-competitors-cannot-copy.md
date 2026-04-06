@@ -48,16 +48,18 @@ stance: >-
   creates a competitive advantage that low-friction competitors structurally
   cannot replicate.
 related:
-  - INS-260403-2C00
-  - INS-260403-FDB8
+  - INS-260403-08FE
   - INS-260403-64E7
-  - INS-260404-BBC5
-  - INS-260404-B435
+  - INS-260403-747B
+  - INS-260404-B2FB
+  - INS-260404-AC1B
+  - INS-260403-0CF7
+  - INS-260403-441E
 evidence:
   - id: INS-260403-64E7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-C40D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The $60 annual fee looks like a customer acquisition barrier, but it functions as a demographic filter — members average nearly $100,000 household income, and business owners (one-third of members) account for two-thirds of sales. The fee selects for high-value customers who spend more per visit and renew at 90% rates. This creates a flywheel competitors cannot replicate: lower the fee and you dilute the customer base; eliminate it and you lose the incentive alignment.
 

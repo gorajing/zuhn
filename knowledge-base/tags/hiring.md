@@ -1,48 +1,69 @@
 # Tag: hiring
 
 - `INS-260405-89E7` MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
+- `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
 - `INS-260322-82E8` Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
-- `INS-260405-EE74` Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
+- `INS-260405-EE74` Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
 - `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill.
-- `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - `INS-260329-62C1` As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
 - `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260405-202B` Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
+- `INS-260403-8C2D` Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
 - `INS-260320-F751` Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260321-C14C` The biggest failure mode in Silicon Valley is assuming that being smart at building products means you're smart at negotiating contracts, managing politics, or understanding war — 'if you don't know who the mark is, you're the mark.'
 - `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260323-9E37` Cuban recognized he was terrible at firing people because he wanted to see the best in everyone, so he always partnered with detail-oriented people who could make those hard calls.
+- `INS-260403-743D` Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260327-7349` Kaz extends Toby Lutke's trust battery concept: start at 75% trust to enable risk-taking, but deplete faster to quickly identify who belongs.
+- `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
+- `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
+- `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
+- `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.
+- `INS-260403-7190` Whether the option pool expands before or after new investment hits the cap table determines who actually bears the dilution cost.
+- `INS-260403-5788` Before joining a company as a designer, ask founders for their personal story about why they believe in design — if they don't have one, design will always be an afterthought.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
+- `INS-260403-BACA` AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
 - `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
+- `INS-260403-C283` Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
 - `INS-260403-85DE` An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
 - `INS-260403-1DC9` Corporate recruiters optimize for personal career safety (nobody gets fired for hiring Stanford) rather than actual candidate quality.
 - `INS-260404-DBD2` You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
+- `INS-260403-BE24` Extreme hour requirements screen out experienced and diverse candidates, leaving a narrow, less resilient talent pool.
 - `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
+- `INS-260403-FA12` Early hires define company culture and execution speed more decisively than any strategic or product decision.
 - `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
+- `INS-260403-AC29` List your weaknesses and hire exclusively from that list for your first three roles.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
+- `INS-260403-7692` People costs are 60-80% of early-stage burn, making headcount planning the single most important financial lever founders have.
+- `INS-260403-36C6` Treat every hire as a last resort after exhausting automation, templatization, and temporary outsourcing.
+- `INS-260405-B967` Headcount growth should be tied to revenue milestones, not fundraising events or growth ambition.
 - `INS-260402-9B06` Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260403-D51E` Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 - `INS-260403-C977` Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
+- `INS-260404-56C1` Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
 - `INS-260403-5F3E` Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260403-22DF` The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
+- `INS-260403-F4BB` Sequoia asks every VP-level hire to name five respected peers, building a decade-long talent map that functions like PageRank for people.
+- `INS-260403-309F` Improvised hiring at early stage creates compounding delays that manifest months after the bad hire.
 - `INS-260403-D966` Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - `INS-260402-33CA` Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - `INS-260330-E126` Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
+- `INS-260403-88F8` Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
 - `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
-- `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
-- `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
+- `INS-260403-A851` The spectrum from full codebase access (Linear, Gumroad) to synthetic take-home projects (PostHog, Automattic at scale) reflects a deliberate trade-off between signal depth and process scalability.
+- `INS-260403-6844` Candidates who invest days or weeks in a work trial are simultaneously demonstrating their interest level, and the trial gives them enough visibility into company internals to make an informed decision themselves.
+- `INS-260403-E9F5` Work trials give hiring managers direct observation of actual work output, eliminating the performance-vs-productivity gap that plagues traditional interviews.
 - `INS-260330-956E` A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
 - `INS-260330-A9CB` Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
 - `INS-260327-A3E9` Do the job yourself first to understand what 'good' looks like before you hire a leader for that function.
@@ -60,6 +81,7 @@
 - `INS-260323-9146` Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
 - `INS-260323-A7F6` The most passionate (even abrasive) power users often make the best product builders — Blizzard secretly interviewed Jeff Kaplan over six months of lunches before hiring the guild leader who publicly told their competitor's devs to 'pull their heads out of their asses.'
 - `INS-260330-7241` Framework popularity is a legitimate engineering constraint because it determines hiring pool size and ecosystem support.
+- `INS-260405-443C` Sales hires amplify product-led momentum but cannot substitute for it.
 - `INS-260328-7942` A VP of Sales from Google knows how to run a team against an established playbook — they don't know how to create one from scratch.
 - `INS-260327-2430` At OpenAI, Maggie holds the hiring line even during hypergrowth from 200 to 1000 people because one exceptional hire beats three average ones, and a mishire costs $1M+ when you factor in full cycle costs.
 - `INS-260327-2608` Sales managers hiring SDRs look for hard work, coachability, and team orientation — candidates with zero experience but these traits consistently outperform experienced hires who lack them.
@@ -68,14 +90,19 @@
 - `INS-260322-7F88` At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
 - `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
 - `INS-260323-9A93` Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
+- `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
 - `INS-260327-1EC4` Anderson's first piece of advice to scaling founders: don't hire professional managers, because they will implement the bureaucratic systems they were trained in.
 - `INS-260327-91E7` Scaling requires hiring domain experts and having genuine humility to learn from them.
 - `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
 - `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
+- `INS-260403-EA01` Plan headcount costs using fully loaded compensation (base + tax + benefits) with month-by-month ramp timing, not annualized base salary.
 - `INS-260330-A69C` Hire only when someone can do something you need done but can't do yourself — never hire to fill an org chart or seem impressive.
 - `INS-260327-6405` Conrad argues that hiring friends, former colleagues, and people you already trust is underrated because it dramatically lowers executive hiring risk.
+- `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
 - `INS-260329-CDD1` Hiring experienced directors first (top-down) lets you delegate immediately and avoid management/cultural debt, but requires financial runway to absorb the cost.
 - `INS-260330-B3D9` Netflix laid off a third of employees post-dot-com crash and got more done with fewer people by retaining only their best performers.
+- `INS-260402-8A58` Companies must proactively rewire communication, management, and leadership structures at predictable headcount thresholds rather than waiting for dysfunction to force change.
+- `INS-260403-BF1F` Plugging real metrics into an MRR model before hiring prevents premature scaling that burns runway.
 - `INS-260329-BC36` Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.

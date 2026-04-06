@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why Women-Led Startups Outperform Yet Lack Funding
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/why-women-owned-startups-outperform'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When an entire asset class systematically underfunds higher-performing
@@ -60,6 +50,12 @@ resolutions:
 stance: >-
   VC pattern-matching on founder demographics creates exploitable mispricings
   that contrarian investors can arbitrage for outsized returns
+related:
+  - INS-260403-9942
+  - PRI-260405-E9C5
+  - INS-260329-4605
+  - INS-260403-9F64
+  - INS-260323-422B
 ---
 The women-led startup funding gap illustrates a broader investing principle: when capital allocation is driven by pattern-matching on irrelevant founder characteristics rather than business fundamentals, systematic mispricings emerge. Women-led startups outperform on capital efficiency by 2.5x yet receive a fraction of funding — a spread that would be immediately exploited in public markets.
 

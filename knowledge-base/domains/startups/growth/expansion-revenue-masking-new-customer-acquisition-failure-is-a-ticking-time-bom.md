@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'The SaaS Reset: Why the 10x ARR Club Is Now a Ghost Town'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/great-saas-reset-10x-arr-club'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Expansion revenue from deeper workflow adoption is durable, but expansion
@@ -62,6 +52,12 @@ stance: >-
   SaaS companies using price increases and feature bundling to prop up expansion
   numbers while net new logo growth stalls are building a cohort performance
   crisis that will eventually surface.
+related:
+  - PRI-260328-43F1
+  - INS-260403-4A42
+  - INS-260403-91A1
+  - PRI-260328-D5EB
+  - PRI-260327-942E
 ---
 As growth decelerated post-pandemic, many SaaS companies began leaning heavily on existing accounts through price increases, bundled features, and add-on modules to maintain reported expansion numbers. This masked a critical weakness: net new logo growth was slowing and sales cycles were stretching.
 

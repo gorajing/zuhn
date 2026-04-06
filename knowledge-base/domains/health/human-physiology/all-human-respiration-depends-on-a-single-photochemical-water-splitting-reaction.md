@@ -52,16 +52,16 @@ stance: >-
   — PSII water splitting — making Earth's biosphere far more fragile and
   path-dependent than it appears
 related:
-  - INS-260330-956F
   - PRI-260403-181B
   - INS-260404-AC1D
   - INS-260330-B061
   - INS-260330-57E6
+  - INS-260405-FBD7
 evidence:
   - id: INS-260404-D0A5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F5CF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The light-dependent reactions reveal a striking bottleneck: all atmospheric oxygen — and therefore all aerobic respiration — traces back to Photosystem II's ability to split H2O molecules, stealing electrons to replace those lost during photoexcitation. The byproducts are hydrogen ions and O2. This single reaction, occurring in the thylakoid membranes of every photosynthetic organism, is the sole source of the oxygen that sustains animal life.
 

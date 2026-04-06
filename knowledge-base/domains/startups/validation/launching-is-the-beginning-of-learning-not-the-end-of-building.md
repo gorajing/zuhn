@@ -44,15 +44,14 @@ stance: >-
   because pre-launch building is based on untested assumptions
 related:
   - INS-260327-C54D
-  - INS-260327-2386
   - INS-260328-C12D
-  - INS-260329-AA2C
   - INS-260329-A4CA
-  - INS-260330-7C05
+  - INS-260405-7838
   - PRI-260328-4CC0
   - PRI-260328-4810
   - PRI-260328-EC3F
-  - INS-260323-E15F
+  - INS-260403-ABC5
+  - INS-260402-4DB4
 evidence:
   - id: INS-260329-A4CA
     type: TRANSFERS_TO

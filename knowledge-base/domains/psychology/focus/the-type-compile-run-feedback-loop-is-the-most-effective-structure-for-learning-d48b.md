@@ -58,33 +58,33 @@ related:
   - INS-260322-24FB
   - INS-260327-1787
   - INS-260327-98F7
-  - INS-260329-C1E1
-  - INS-260329-DAD1
-  - INS-260329-EA2B
-  - PRI-260403-5B3D
   - INS-260329-4531
-  - INS-260329-3763
+  - INS-260329-EA2B
+  - INS-260329-DAD1
+  - INS-260330-3EFC
+  - INS-260403-FF4E
+  - PRI-260405-6867
 evidence:
   - id: INS-260320-4ED6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3EFC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-EA2B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-24FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-1787
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-2387
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-98F7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0102
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-4531
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3AF7
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Throughout CS50 Python, Malan repeatedly writes code, runs it immediately, encounters an error, diagnoses it, and fixes it — often deliberately introducing bugs to demonstrate the debugging process. This tight feedback loop (often under 30 seconds from writing to seeing results) is what makes programming uniquely effective for learning systematic thinking. Unlike essays graded days later or math homework checked next class, the computer gives you an unambiguous signal — correct or incorrect — within seconds.
 

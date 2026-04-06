@@ -52,7 +52,6 @@ stance: >-
   cavitation also governs therapeutic ultrasound cavitation in tissue, making
   ballistics research directly transferable to medical physics.
 related:
-  - INS-260327-8773
   - INS-260330-332E
   - INS-260330-E59F
   - INS-260330-9BB5
@@ -61,6 +60,7 @@ related:
   - INS-260330-966E
   - INS-260330-CAB3
   - INS-260330-A7C6
+  - INS-260403-4B3D
 evidence:
   - id: INS-260330-C989
     type: TRANSFERS_TO

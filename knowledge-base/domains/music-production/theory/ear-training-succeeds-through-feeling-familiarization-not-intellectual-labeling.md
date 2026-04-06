@@ -50,7 +50,8 @@ related:
   - INS-260322-6D1D
   - INS-260330-FF5B
   - INS-260323-4D8D
-  - INS-260330-E47D
+  - INS-260405-5E18
+  - INS-260322-9436
 stance: Words describing scale degrees are temporary scaffolding
 evidence:
   - id: INS-260323-4D8D

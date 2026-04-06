@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Venture Capital Unveiled: Time for Change!'
-    author:
-      - '@type': Person
-        name: Arthur Derderian
-        url: 'https://substack.com/@arthurderderian'
-        description: Repeat Entrepreneur⏐Investor⏐Human Driver
-        identifier: 'user:58405609'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!OAQt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8135b2b2-2a82-40e0-b163-53201fcd6f5e_1149x1436.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!OAQt!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8135b2b2-2a82-40e0-b163-53201fcd6f5e_1149x1436.jpeg
+    author: Arthur Derderian
     url: 'https://www.thevccorner.com/p/venture-capital-unveiled-time-for'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     European funds born 2012-2015 are stuck: no exits, inflated valuations, and
@@ -60,6 +50,12 @@ stance: >-
   The first wave of European VC funds cannot raise their third vehicles because
   the IRR from their first two funds has not materialized, creating a systemic
   fundraising crisis.
+related:
+  - INS-260403-6F9C
+  - INS-260403-49EC
+  - INS-260404-8CAE
+  - INS-260405-EFC1
+  - INS-260405-6D3A
 ---
 European VC funds that emerged between 2012 and 2015 are now attempting to raise their third vehicles while simultaneously deploying their second. They are hitting resistance from LPs because the first two funds have not demonstrated realized returns—exits are scarce, portfolio companies remain unprofitable, and valuations from boom-era rounds are too high for strategic acquisitions.
 

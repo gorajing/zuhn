@@ -1,5 +1,5 @@
 ---
-id: INS-260403-6386
+id: INS-260403-BC3B
 domain: startups
 topic: market-entry
 title: >-
@@ -50,11 +50,11 @@ stance: >-
   a continuum of professionalization, and the point at which expansion stops is
   almost always further than skeptics predict.
 related:
-  - INS-260329-BBBE
-  - INS-260403-39DD
-  - PRI-260403-C229
-  - PRI-260405-1FBC
-  - PRI-260328-0C86
+  - INS-260322-D69E
+  - INS-260403-D537
+  - INS-260325-4677
+  - PRI-260328-5F64
+  - PRI-260328-EAC4
 evidence:
   - id: INS-260403-39DD
     type: TRANSFERS_TO

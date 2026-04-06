@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "VC Fund Performance Report\U0001F4CA, Is AI Really a Bubble\U0001FAE7, Benchmarking Startup Success\U0001F393"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-fund-performance-report-is-ai'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     European tech depends on foreign investors while massive domestic pension
@@ -60,6 +50,14 @@ stance: >-
   Europe's reliance on foreign VC investors while domestic pension funds avoid
   venture capital is a strategic vulnerability that will widen the innovation
   gap with the US unless regulatory frameworks change.
+related:
+  - INS-260330-4830
+  - INS-260405-86A1
+  - INS-260403-47E3
+  - INS-260327-C1F6
+  - INS-260403-C10D
+  - PRI-260322-9E36
+  - INS-260404-8076
 ---
 European pension funds hold enormous pools of capital but systematically avoid venture allocation, forcing the continent's tech ecosystem to depend on American and Asian investors. This creates a double vulnerability: European startups lack reliable domestic funding sources, and the returns from successful European companies flow back to foreign LPs.
 

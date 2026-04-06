@@ -49,15 +49,14 @@ stance: >-
   traditional economic metrics because tech platforms control financial and
   cultural influence simultaneously
 related:
-  - INS-260321-2241
   - PRI-260322-9E36
-  - INS-260327-7B2B
   - INS-260330-ACCD
-  - INS-260322-BBED
-  - INS-260403-7B04
-  - INS-260403-8256
-  - INS-260330-ACDA
-  - INS-260330-E670
+  - INS-260404-8FBE
+  - INS-260402-9EBD
+  - INS-260404-86D3
+  - INS-260404-CCB1
+  - INS-260330-28B1
+  - INS-260404-1579
 evidence:
   - id: INS-260321-2241
     type: EXTENDS

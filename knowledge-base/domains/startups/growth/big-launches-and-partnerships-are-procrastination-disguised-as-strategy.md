@@ -54,10 +54,11 @@ related:
   - INS-260327-DAE5
   - INS-260403-7C88
   - INS-260326-967C
+  - INS-260404-9263
   - INS-260404-CA58
   - INS-260402-E140
-  - INS-260402-D739
-  - INS-260403-832E
+  - INS-260404-3A2E
+  - INS-260403-F23A
 ---
 Graham identifies a revealing psychological pattern: founders prefer big launches and partnerships because these strategies let them avoid the uncomfortable work of recruiting users one at a time. The appeal is a combination of solipsism (believing the product is so great everyone will sign up immediately) and laziness (wanting broadcast reach instead of retail effort). The result is reliably disappointing — six months into a 'strategic partnership,' founders universally report it was far more work than expected with practically no results.
 

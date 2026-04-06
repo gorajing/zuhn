@@ -1,5 +1,12 @@
 # Tag: demographics
 
+- `INS-260403-8874` AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.
+- `INS-260403-687E` Male testosterone is declining ~1% per year independent of age and lifestyle, meaning today's 30-year-old has 20% less than his father did at the same age.
+- `INS-260403-70F0` Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
+- `INS-260330-74AC` China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
+- `INS-260403-E4B6` People confronting the fertility crisis deploy six distinct coping narratives that substitute emotional comfort for actual solutions.
+- `INS-260330-0FF7` China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
+- `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.
 - `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
 - `INS-260327-9560` Nobody wants to have kids because the economic conditions that enabled the baby boom (cheap homes, stable jobs, affordable childcare) have been systematically dismantled.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
@@ -8,12 +15,19 @@
 - `INS-260330-0539` Russia's pension contributor-to-recipient ratio has deteriorated 44% since 1991, with no short-term fix possible because today's teenagers are '13-year-old ripples of actions past.'
 - `INS-260330-AAE9` As societies industrialize and urbanize, children shift from productivity assets to financial liabilities, making low fertility an inevitable side effect of development.
 - `INS-260327-004B` 30 million Americans will retire by 2030 representing nearly a fifth of the labor force, with most having less than $250K in total assets.
+- `INS-260327-4FD9` Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.
+- `INS-260403-C460` Fertility rates are collapsing worldwide at accelerating speed with no known policy capable of reversing the trend.
+- `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260327-C4E8` About 0.1% of American men have permanently left the workforce every single month since the 1960s - COVID merely accelerated an existing decades-long trend.
 - `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
+- `INS-260403-A726` Today's population decline is unprecedented because it stems from voluntary structural forces, not involuntary external shocks.
 - `INS-260323-8239` National power is fundamentally a function of population size and wealth — both are required to build the military capability that ensures survival.
+- `INS-260403-9897` Japan's inflation return forces a fiscal reckoning where higher rates to control inflation make government debt vastly more expensive, with elderly benefit cuts as the only viable escape.
+- `INS-260403-FF7C` Russia's 35,000-50,000 monthly military deaths approximate its entire annual male birth cohort of ~610,000, deleting a generation.
 - `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
-- `INS-260330-74AC` China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
-- `INS-260330-0FF7` China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
+- `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
+- `INS-260403-333C` Many of the world's richest countries have fertility rates below 1.5 while the poorest maintain rates above 4, disproving purely economic explanations for population decline.
 - `INS-260404-AC1B` Costco's $60-$120 membership fee filters for affluent customers ($100K average household income) who spend more and renew at 90%.
 - `INS-260404-8746` Customer demand changes are symptoms of deeper technological, social, or demographic shifts — trace the root cause to build lasting advantage.
 - `INS-260403-46B2` The concentration of 25-29 year olds in a city predicts startup hub potential better than any policy metric.
+- `INS-260404-B2FB` Costco's $60 membership fee filters for affluent households averaging $100K income, with business owners generating two-thirds of sales.

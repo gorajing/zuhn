@@ -48,18 +48,18 @@ stance: >-
   When multiple units depend on a single unstable base unit, even microscopic
   errors in that base propagate and compound across every derived measurement.
 related:
-  - INS-260330-C9A6
   - INS-260330-DBAD
+  - INS-260330-C9A6
   - INS-260330-2F74
   - INS-260325-3B28
-  - INS-260329-D357
+  - INS-260330-ED9D
 evidence:
   - id: INS-260325-3B28
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2F74
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-3D3E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The video reveals a striking structural vulnerability: four of the seven SI base units depend on the kilogram's definition, plus all derived units like Newtons, Joules, Volts, and Watts. A 50-microgram drift (the weight of a fingerprint) in Big K isn't just a mass problem — it's a systemic metrology problem that ripples through physics, engineering, and commerce.
 

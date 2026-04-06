@@ -53,12 +53,11 @@ stance: >-
   than ideological, analyzing them through ideological threat frameworks
   produces systematically wrong predictions about their behavior.
 related:
-  - INS-260323-E520
   - PRI-260323-9928
   - INS-260330-FAB8
   - INS-260322-F6AA
   - PRI-260405-0676
-  - INS-260330-5A0B
+  - INS-260323-E520
 evidence:
   - id: INS-260323-E520
     type: TRANSFERS_TO

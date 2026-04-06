@@ -51,11 +51,10 @@ stance: >-
   turning containable problems into systemic events.
 related:
   - INS-260325-3A0E
-  - INS-260327-088D
+  - INS-260404-F5C3
   - PRI-260323-9928
   - INS-260330-4181
-  - INS-260327-A75C
-  - INS-260330-4ACF
+  - INS-260403-4B5A
 evidence:
   - id: INS-260327-088D
     type: TRANSFERS_TO

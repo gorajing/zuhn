@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Coinbase Launches a Multi-Asset Product Stack
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-166'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The Coursera-Udemy merger exemplifies how post-hype consolidation creates
@@ -59,6 +49,13 @@ stance: >-
   When two competing platforms in a commoditizing market both trade at 80% below
   IPO highs, merging complementary assets is superior to continued independent
   competition.
+related:
+  - INS-260405-C88A
+  - INS-260403-64F4
+  - INS-260403-C200
+  - PRI-260328-43F1
+  - INS-260404-A53F
+  - INS-260404-8A36
 ---
 Both Coursera and Udemy traded roughly 80% below their pandemic-era IPO prices, reflecting the structural deflation of the online education market after the COVID demand surge normalized. Rather than continuing to compete for shrinking marginal returns, the merger combines Coursera's institutional partnerships (universities, enterprise reskilling) with Udemy's marketplace of independent instructors — two fundamentally different supply models that don't cannibalize each other.
 

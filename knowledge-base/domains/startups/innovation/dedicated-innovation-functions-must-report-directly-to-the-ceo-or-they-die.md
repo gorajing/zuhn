@@ -46,10 +46,10 @@ stance: >-
   survive corporate antibodies.
 related:
   - INS-260330-81E0
-  - INS-260403-24AE
   - INS-260402-3FC5
+  - INS-260403-EDA1
+  - INS-260403-24AE
   - INS-260329-9010
-  - INS-260329-3FC9
 evidence:
   - id: INS-260329-3FC9
     type: SUPPORTS

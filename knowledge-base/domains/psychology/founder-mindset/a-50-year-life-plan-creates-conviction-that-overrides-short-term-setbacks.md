@@ -45,18 +45,18 @@ stance: >-
   because temporary losses are noise against a longer time horizon
 related:
   - INS-260328-C2CB
-  - INS-260325-A46E
   - INS-260330-341D
   - INS-260329-4488
-  - INS-260327-B410
+  - INS-260403-8450
+  - PRI-260405-1FBC
 evidence:
   - id: INS-260328-C2CB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-4300
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-341D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-4488
-    relationship: RELATED
+    type: SUPPORTS
 ---
 From an early age, Masayoshi Son mapped out a 50-year life plan with clear phases: start a company in his 20s, build wealth in his 30s, deploy capital in his 40s, tie up loose ends in his 50s, and transition to the next generation after 60. This long-arc planning created a psychological anchor that allowed him to absorb the biggest personal financial loss in history ($70B in the dot-com crash) and keep going. The mechanism is that when your identity is tied to a multi-decade vision rather than quarterly results, individual setbacks become expected variance rather than existential threats. This contrasts with founders who optimize year-to-year, where a single major loss can trigger a fundamental strategy change or emotional collapse.

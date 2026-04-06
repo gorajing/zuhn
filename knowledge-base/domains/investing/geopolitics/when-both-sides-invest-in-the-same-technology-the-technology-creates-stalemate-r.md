@@ -52,10 +52,10 @@ stance: >-
   changes the nature of competition without giving either an edge.
 related:
   - INS-260327-8D25
+  - INS-260404-4B39
   - INS-260327-19D2
   - INS-260403-7E6A
   - PRI-260328-43D8
-  - INS-260327-E36A
   - INS-260327-3B25
   - INS-260330-63FE
 evidence:

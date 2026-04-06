@@ -48,27 +48,28 @@ stance: >-
   demographic self-selection.
 related:
   - INS-260327-176D
-  - INS-260403-747B
-  - INS-260403-137D
-  - INS-260403-0CF7
-  - INS-260404-01B1
-  - INS-260404-6E7B
-  - INS-260404-B435
-  - INS-260404-6E47
+  - INS-260327-7681
+  - INS-260329-ACFF
+  - INS-260403-9104
+  - INS-260404-AC1B
+  - INS-260404-E65A
   - INS-260404-5587
+  - INS-260405-631B
+  - INS-260403-B8CD
+  - INS-260403-747B
 evidence:
   - id: INS-260403-137D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-0CF7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-5587
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-747B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-79EC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-01B1
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Costco's membership fee appears to be a fatal obstacle to customer acquisition, but it actually functions as a demographic filter. The $60-120 annual fee selects for households with ~$100K average income—customers with both the means and intent to spend significantly. Business owners, who constitute one-third of members but generate two-thirds of sales, are attracted by bulk quantities and low per-unit costs.
 

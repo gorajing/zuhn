@@ -53,6 +53,7 @@ related:
   - INS-260325-F981
   - INS-260325-E62D
   - PRI-260328-EE02
+  - INS-260405-567D
   - PRI-260328-A65A
 ---
 The Redis Arc panelist described a fundamental shift in inference workload characteristics. Traditional chat inference was decode-heavy — generating long single-turn responses. Agentic inference reverses this: it involves massive context windows with accumulated conversation history (heavy prefill) but relatively shorter generated responses per turn. This creates larger KV cache reuse opportunities but also new system challenges.

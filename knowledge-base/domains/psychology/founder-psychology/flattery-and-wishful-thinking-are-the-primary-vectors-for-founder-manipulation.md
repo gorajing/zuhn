@@ -48,8 +48,8 @@ related:
   - INS-260403-D328
   - INS-260403-D972
   - INS-260403-6713
+  - INS-260403-A36C
   - INS-260403-C949
-  - INS-260326-967C
 evidence:
   - id: INS-260403-D328
     type: EXTENDS

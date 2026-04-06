@@ -53,6 +53,7 @@ related:
   - INS-260327-236D
   - INS-260327-377A
   - INS-260327-7E6F
+  - INS-260405-9015
 ---
 When the Western Front became a stalemate, Churchill and others proposed Gallipoli as an alternative: knock Turkey out of the war and open a route to Russia. But the same factors that created stalemate in France — machine guns, barbed wire, entrenched defenders, limited maneuver space — produced identical results at Gallipoli. The structural problem wasn't geographic; it was technological. Changing the location didn't change the equation.
 

@@ -45,11 +45,11 @@ stance: >-
   number of entrepreneurial swings you can take after failures, not because it
   builds wealth directly through savings
 related:
-  - INS-260323-EDAD
   - INS-260329-8E79
+  - INS-260325-0C4A
   - INS-260327-A75B
+  - INS-260323-EDAD
   - INS-260404-EEAF
-  - PRI-260328-BD81
 evidence:
   - id: INS-260323-EDAD
     type: EXTENDS

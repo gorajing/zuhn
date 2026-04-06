@@ -44,7 +44,7 @@ related:
   - PRI-260328-E3A7
   - INS-260325-D20D
   - PRI-260328-0174
+  - INS-260403-9D90
   - INS-260327-E6BC
-  - PRI-260325-F627
 ---
 US dietary guidelines silently removed cholesterol intake limits and softened saturated fat warnings without acknowledging or explaining why decades of prior recommendations were incorrect

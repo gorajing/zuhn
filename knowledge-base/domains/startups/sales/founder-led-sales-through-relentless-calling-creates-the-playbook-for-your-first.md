@@ -50,8 +50,8 @@ stance: >-
   their first salesperson to succeed.
 related:
   - INS-260327-FD15
-  - INS-260327-E9F3
   - PRI-260328-E921
+  - INS-260327-E9F3
   - INS-260329-C56D
   - INS-260403-08AE
 ---

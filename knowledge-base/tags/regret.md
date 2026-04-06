@@ -2,3 +2,4 @@
 
 - `INS-260325-77B1` Deadline-based procrastination is contained and often survivable; non-deadline procrastination on life goals extends indefinitely and causes deep regret.
 - `INS-260327-E833` Strategy (choosing what to pursue) matters infinitely more than tactics (how to pursue it).
+- `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.

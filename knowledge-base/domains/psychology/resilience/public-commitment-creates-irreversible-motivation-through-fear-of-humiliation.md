@@ -46,11 +46,11 @@ stance: >-
   Fear of public humiliation is a stronger motivational force than hope of
   financial reward for sustaining founder commitment through startup hardship.
 related:
-  - INS-260327-200C
   - PRI-260328-604D
-  - INS-260403-9173
-  - INS-260402-2B96
-  - PRI-260328-B11D
+  - INS-260327-200C
+  - INS-260403-ADF9
+  - INS-260403-1BEF
+  - INS-260403-6D4F
 evidence:
   - id: INS-260327-200C
     type: CHALLENGES

@@ -48,13 +48,11 @@ stance: >-
   more powerful languages because they cannot measure the ability to discover
   and solve new problems.
 related:
-  - INS-260322-AFE9
   - INS-260402-9676
   - INS-260403-F100
+  - INS-260329-BDCC
   - INS-260405-3772
   - PRI-260403-5B3D
-  - INS-260327-40DA
-  - INS-260403-EA2C
   - INS-260403-9D8A
 evidence:
   - id: INS-260322-AFE9

@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Financial Modeling Examples for Founders: A Startup Guide with Templates'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-startup-founders-guide-to-financial'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Net retention above 100% means upsell revenue from existing customers
@@ -59,6 +49,17 @@ stance: >-
   Net dollar retention exceeding 100% is a more reliable indicator of business
   health than new customer acquisition because it proves existing customers find
   increasing value, making growth compounding rather than linear.
+related:
+  - INS-260329-CCC4
+  - INS-260403-E69C
+  - INS-260403-D444
+  - INS-260404-C9B5
+  - INS-260404-2C23
+  - INS-260403-501D
+  - INS-260403-1817
+  - INS-260403-91A1
+  - INS-260403-544B
+  - INS-260403-E930
 ---
 Gross retention caps at 100%—the best you can do is keep every customer. Net retention factors in upsells and expansions, so it can exceed 100% even with some churn. A net retention of 120% means that a cohort of customers acquired a year ago now generates 20% more revenue than when they started, purely from expansion.
 

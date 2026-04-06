@@ -1,19 +1,26 @@
 # Topic: decision-making
 
-> 81 insights
+> 119 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
+- `INS-260403-70F0` [high] Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
+- `INS-260402-B66A` [high] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260404-3959` [high] Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
 - `INS-260330-4BFD` [high] When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
+- `INS-260330-6CB7` [high] Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
+- `INS-260404-2135` [high] Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
+- `INS-260403-0769` [high] The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
 - `INS-260403-B710` [high] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
+- `INS-260404-E783` [high] Seemingly paradoxical findings often dissolve when you recognize the phenomenon as a mix of tradeoff and failure components rather than seeking a single unified explanation.
 - `INS-260404-C497` [high] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
 - `INS-260405-3048` [high] RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
 - `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
+- `INS-260403-CF46` [high] Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
 - `INS-260403-FBC0` [high] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260404-1289` [high] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - `INS-260330-8FC5` [high] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
@@ -23,7 +30,9 @@
 - `INS-260330-ED37` [high] Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism.
 - `INS-260403-D294` [high] Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
 - `INS-260330-2C57` [high] Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
+- `INS-260403-C313` [high] Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
 - `INS-260330-9931` [high] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
+- `INS-260330-FD28` [high] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
 - `INS-260403-5BF9` [high] Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 - `INS-260404-7C3F` [high] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - `INS-260402-8ACF` [high] Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
@@ -35,14 +44,20 @@
 - `INS-260330-C9A6` [high] Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260402-40D7` [high] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260403-B9E5` [high] Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
+- `INS-260403-5137` [high] An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
 - `INS-260403-420A` [high] Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - `INS-260403-F1C6` [high] Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260403-34E0` [high] Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - `INS-260403-7B28` [high] We keep falling for the same negotiation cycle because wanting to believe it's different this time overrides our ability to recognize the pattern.
 - `INS-260330-B444` [high] Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260404-1678` [high] Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
+- `INS-260403-B26E` [high] If your opponent lobbies against your strategy while claiming it helps them, their lobbying reveals the strategy is working.
 - `INS-260330-2B29` [high] Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
+- `INS-260404-ABCB` [high] NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
+- `INS-260404-EC33` [high] Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
 - `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
+- `INS-260403-2AC0` [high] Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
 - `INS-260403-D06F` [high] Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
 - `INS-260403-803A` [high] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260403-F075` [high] Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
@@ -55,14 +70,26 @@
 - `INS-260403-225B` [high] A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 - `INS-260402-9D7B` [high] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 - `INS-260404-6C8F` [high] A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
+- `INS-260403-59D5` [high] Congressional staffers in their late 20s effectively set ideological direction because politicians are too busy fundraising and speechmaking to supervise the details of governance.
 - `INS-260403-5CD6` [high] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
+- `INS-260403-330D` [high] Voters expect absolute price decreases, not just slower inflation, creating a nearly impossible standard for politicians to meet.
 - `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
+- `INS-260403-F9EE` [high] Writing short essays forces you to form and articulate a point of view, which passive reading and watching cannot accomplish regardless of volume.
 - `INS-260403-16F2` [high] The most effective way to direct your ambient thinking is upstream: choose situations where the most urgent problems are the ones you actually want to solve.
+- `INS-260403-3AE7` [medium] Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
+- `INS-260403-1B96` [medium] AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
 - `INS-260402-2DCE` [medium] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.
 - `INS-260403-C936` [medium] Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
+- `INS-260403-8ECB` [medium] Tools that flag unrealistic inputs at the moment of entry prevent more bad decisions than post-hoc review ever will.
+- `INS-260403-3280` [medium] Bullet repayment preserves cash today but concentrates all repayment risk into a single exit event, exploiting human tendency to discount future costs.
+- `INS-260403-A6F1` [medium] Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.
 - `INS-260404-2F16` [medium] Psychopaths' ability to act on utilitarian logic without emotional interference makes them more effective decision-makers in specific high-stakes personal scenarios.
+- `INS-260403-3D8C` [medium] Working within bad systems to improve them usually produces more good than refusing to engage on principle.
 - `INS-260403-D6FE` [medium] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
+- `INS-260402-67B4` [medium] Judging character by counterfactual behavior under reversed roles is more revealing than judging by actual behavior shaped by circumstance.
+- `INS-260403-E9DB` [medium] Many of America's most-discussed problems — sprawl, bad transit, housing costs — are actually second-order effects of its uniquely high crime rates.
+- `INS-260404-1C9D` [medium] Tracking tools in high-stakes personal domains can shift focus from judgment to metrics.
 - `INS-260330-255F` [medium] Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260403-45D5` [medium] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
 - `INS-260330-CED2` [medium] The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
@@ -72,14 +99,25 @@
 - `INS-260403-C695` [medium] Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260330-3B05` [medium] Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
+- `INS-260405-6E4F` [medium] Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
 - `INS-260405-DB32` [medium] You are accountable for acting from your values, even if you didn't choose those values from scratch.
+- `INS-260405-E05D` [medium] The right to pitch future articles and sidebar placement may be worth more to a writer than the $2,500 first prize.
+- `INS-260404-1D05` [medium] Nostalgia is a psychological refuge from an illegible future, not a rational assessment of the past.
+- `INS-260403-DD07` [medium] Actively trying to convince yourself a problem isn't real or big enough surfaces evidence gaps that enthusiasm-driven validation misses.
 - `INS-260330-74AC` [medium] China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
 - `INS-260403-B734` [medium] For most of history, success meant winning zero-sum contests where ruthlessness helped; in idea-driven economies, the polarity reverses.
 - `INS-260403-6B97` [medium] Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists.
 - `INS-260330-7987` [medium] In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
 - `INS-260403-6890` [medium] Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260403-3548` [medium] Houdini refused surgery because accepting treatment contradicted his identity as someone who could overcome any physical challenge.
+- `INS-260403-9E97` [medium] Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
 - `INS-260330-F82A` [medium] Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
+- `INS-260403-9FB1` [medium] A typo in the Congressional Apportionment Amendment — 'more than' instead of 'less than' — would force the Supreme Court to definitively choose between textualism and originalism with no room for compromise.
+- `INS-260403-4452` [medium] The gap between supporting charity via taxation vs. personal donation reflects genuinely conflicting time-horizons within individuals, not hypocrisy.
+- `INS-260403-CB80` [medium] Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
 - `INS-260403-6602` [medium] Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
 - `INS-260405-7DD7` [medium] When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
+- `INS-260403-A07A` [medium] Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
+- `INS-260403-49FF` [medium] Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
+- `INS-260403-E554` [medium] Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
 - `INS-260403-7342` [medium] Visual strategic frameworks succeed because the brain processes visual information roughly 60,000 times faster than text, making pattern recognition in complex systems nearly instantaneous.

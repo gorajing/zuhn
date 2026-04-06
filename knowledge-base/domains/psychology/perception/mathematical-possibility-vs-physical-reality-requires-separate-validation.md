@@ -48,6 +48,8 @@ related:
   - INS-260323-A14D
   - INS-260323-2FC3
   - INS-260330-CA8E
+  - INS-260325-4996
+  - INS-260322-2DBD
 stance: >-
   Geometries allowed by equations don't automatically correspond to physical
   reality

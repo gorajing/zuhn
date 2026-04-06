@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-1A08
   - INS-260404-78E6
+  - INS-260403-BA48
   - INS-260402-C49E
   - INS-260403-22EE
-  - INS-260322-F65F
 evidence:
   - id: INS-260322-F65F
     type: SUPPORTS

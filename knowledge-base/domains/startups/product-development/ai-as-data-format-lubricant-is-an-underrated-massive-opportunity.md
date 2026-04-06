@@ -45,39 +45,39 @@ stance: >-
   mundane capability unlocks enormous workflow efficiency.
 related:
   - INS-260323-216A
-  - INS-260320-0F7C
   - INS-260320-8FFC
-  - INS-260322-F46F
   - INS-260327-B539
   - INS-260327-0595
-  - INS-260329-C955
-  - INS-260329-FAE2
-  - INS-260329-2F63
   - INS-260329-19EA
+  - INS-260329-5B7B
+  - INS-260402-5034
+  - INS-260320-0F7C
+  - INS-260329-D868
+  - INS-260329-FAE2
 evidence:
   - id: INS-260323-216A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-B539
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FAE2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-19EA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-0F7C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-2F63
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-801C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F5A1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-8FFC
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D868
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-5B7B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-5034
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Professor Xu highlights a use case that sounds boring but is transformative: using AI to ingest any data format and output structured JSON. Previously, companies needed specific vendor APIs with exact formatting, and a single label change (capital L to lowercase L) would break everything. Now AI handles any format flexibly. This data format lubricant is computationally expensive but practically invaluable because it eliminates the brittleness of traditional data pipelines. For AI startups, this suggests that the most profitable near-term opportunities may be unglamorous data transformation tools rather than flashy reasoning applications.

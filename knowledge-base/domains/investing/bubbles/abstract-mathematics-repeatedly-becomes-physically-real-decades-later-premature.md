@@ -50,11 +50,11 @@ stance: >-
   abstract theory' is reliably the wrong bet, and the Banach-Tarski paradox's
   potential link to particle physics continues this pattern.
 related:
+  - INS-260323-2D1D
   - INS-260330-5641
   - INS-260325-CC49
   - INS-260325-EBDD
   - INS-260330-DFA4
-  - INS-260330-6AFA
 evidence:
   - id: INS-260323-2D1D
     type: SUPPORTS

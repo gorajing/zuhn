@@ -53,21 +53,21 @@ stance: >-
 related:
   - INS-260329-8226
   - INS-260330-8B24
-  - INS-260404-EAB7
-  - INS-260403-4A4A
-  - INS-260404-8D69
+  - INS-260403-0803
   - INS-260403-222E
+  - INS-260403-EAFC
+  - INS-260403-BA48
 evidence:
   - id: INS-260321-D959
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-584D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-1852
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D7C4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-DAB4
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Gregersen's 30-year research journey began with a personal observation: living and working in Finland, England, France, the UAE, and the US taught him that assuming knowledge in unfamiliar contexts leads to grave misunderstandings. Each cultural context broke his existing mental models, forcing him into a questioning posture.
 

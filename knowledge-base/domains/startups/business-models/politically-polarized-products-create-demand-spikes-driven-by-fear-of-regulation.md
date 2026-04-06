@@ -45,7 +45,7 @@ related:
   - PRI-260328-0993
   - INS-260324-DB86
   - INS-260327-FD4C
-  - INS-260328-AB0C
+  - INS-260405-25DD
 ---
 Gun store revenue is driven primarily by fear of future regulation rather than actual use demand, creating cyclical boom-bust patterns tied to election cycles and mass shooting events.
 

@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'This Week #0: Advice on growth, product, and leadership'
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/advice-on-growth-product-and-leadership'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Treat differentiation as a combinatorial selection from ~20 possible axes
@@ -56,6 +44,12 @@ stance: >-
   Framing differentiation as picking from a menu of 20 axes and combining 3-4
   produces more defensible positioning than searching for one unique selling
   proposition.
+related:
+  - INS-260329-196E
+  - INS-260330-B539
+  - INS-260330-849D
+  - INS-260405-28DF
+  - INS-260405-670E
 ---
 Traditional positioning advice tells founders to find their one differentiator. But Lenny's framework reveals that differentiation is combinatorial — the most successful companies layer multiple dimensions. This reframes the product strategy exercise: instead of asking 'what makes us unique?' ask 'which 3-4 of these 20 axes can we credibly own together?'
 

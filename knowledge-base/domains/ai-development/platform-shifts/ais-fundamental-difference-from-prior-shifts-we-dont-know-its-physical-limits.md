@@ -48,13 +48,13 @@ resolutions:
     to invest based on current demonstrated value while staying aware that the
     capability curve could flatten or steepen dramatically.
 related:
-  - INS-260325-3D31
   - PRI-260328-5F64
   - INS-260322-5932
   - INS-260330-AFE0
+  - INS-260403-976C
   - INS-260323-EECF
-  - INS-260329-8261
   - INS-260325-40DC
+  - INS-260329-8261
 stance: >-
   Unlike previous platform shifts where physical limits were known (modem
   speeds, battery life, fiber deployment), AI's theoretical limits are unknow...

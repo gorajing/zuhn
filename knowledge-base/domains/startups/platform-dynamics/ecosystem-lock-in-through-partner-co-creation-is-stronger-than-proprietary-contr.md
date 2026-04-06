@@ -50,7 +50,6 @@ stance: >-
   than vertically integrated approaches because switching costs multiply across
   the entire ecosystem
 related:
-  - INS-260322-0C28
   - INS-260325-A54F
   - INS-260322-3259
   - INS-260329-3AE5
@@ -60,6 +59,7 @@ related:
   - INS-260405-8107
   - INS-260404-1A9D
   - INS-260404-6891
+  - INS-260403-B3E8
 evidence:
   - id: INS-260322-0C28
     type: SUPPORTS

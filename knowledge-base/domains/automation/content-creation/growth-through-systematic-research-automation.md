@@ -18,12 +18,11 @@ sources:
     title: This Automation Took Me From 0 to 175k Followers in Under 12 Months
     author: u/unknown
 related:
+  - INS-260403-45DB
+  - INS-260403-C907
+  - INS-260403-B18C
   - INS-260403-99B1
   - INS-260329-4C4C
-  - PRI-260403-E097
-  - PRI-260321-14D8
-  - INS-260330-697F
-  - INS-260321-2D72
   - INS-260327-CA1C
   - INS-260403-2AF0
 date_extracted: '2026-03-20'

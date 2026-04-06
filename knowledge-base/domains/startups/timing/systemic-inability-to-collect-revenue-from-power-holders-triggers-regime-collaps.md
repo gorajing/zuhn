@@ -49,8 +49,8 @@ stance: >-
   Organizations fail not from lack of wealth but from structural inability to
   tax or monetize their most powerful stakeholders.
 related:
-  - INS-260325-EBC3
   - INS-260330-E585
+  - INS-260325-EBC3
   - INS-260330-43EB
   - PRI-260324-3081
   - INS-260327-32BA

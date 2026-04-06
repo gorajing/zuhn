@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'How ChatGPT Prompts Are Becoming Startups: From Idea to MVP'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/chatgpt-startup-ideas'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Generic AI tools are commoditized, but deep vertical AI products for
@@ -58,6 +48,15 @@ stance: >-
   The market for generic AI chatbots, writing assistants, and design tools is
   already saturated, but vertical-specific AI tools solving narrow professional
   problems remain wide open.
+related:
+  - INS-260322-EDC2
+  - INS-260327-DBAD
+  - INS-260403-B387
+  - INS-260403-F62E
+  - INS-260404-016F
+  - INS-260327-5690
+  - INS-260404-E4C3
+  - INS-260403-008F
 ---
 The article argues that while the market is flooded with generic AI chatbots, writing assistants, and design tools, enormous white space remains in vertical-specific applications. A legal AI content generator or a real estate listing assistant would provide more value than yet another general writing tool because they encode domain-specific knowledge, compliance requirements, and workflow patterns.
 

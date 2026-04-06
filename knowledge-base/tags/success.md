@@ -5,3 +5,4 @@
 - `INS-260327-70DF` Success breeds humility through exposure to genuine expertise, not the reverse.
 - `INS-260323-475F` Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
 - `INS-260321-C0A4` Your probability of success directly correlates with whether your closest friends care about and push you toward what you want to achieve.
+- `INS-260405-AD04` The 'sadness of a successful exit' is a predictable psychological outcome when founders build identity around a company rather than around themselves as builders.

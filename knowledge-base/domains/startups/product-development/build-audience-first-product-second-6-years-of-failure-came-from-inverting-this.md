@@ -46,15 +46,13 @@ resolutions:
     also means your first 10 MVPs will fail — but each costs so little time and
     money that failure is data, not disaster.
 related:
-  - INS-260323-5986
   - PRI-260328-0BE1
   - INS-260322-92D7
   - PRI-260328-B2EA
+  - INS-260404-B2AF
   - PRI-260322-8FD4
-  - PRI-260323-1B96
   - INS-260328-C12D
-  - INS-260403-94AD
-  - INS-260403-CF0E
+  - INS-260403-68B4
 stance: >-
   The fastest path to product-market fit is having an audience you can survey,
   test MVPs with, and iterate against — not building in isolation.

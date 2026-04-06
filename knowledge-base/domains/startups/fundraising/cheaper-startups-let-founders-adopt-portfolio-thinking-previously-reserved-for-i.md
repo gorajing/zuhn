@@ -48,13 +48,16 @@ stance: >-
   a career and rationally embrace high-risk strategies that were previously only
   rational for diversified investors.
 related:
-  - INS-260327-CD77
   - INS-260329-A01C
   - PRI-260405-E9C5
   - INS-260403-CF7C
   - INS-260403-4904
   - INS-260403-5B46
   - INS-260402-8424
+  - INS-260405-484F
+  - INS-260404-6D29
+  - INS-260403-7692
+  - INS-260403-4F68
 evidence:
   - id: INS-260403-3CD0
     type: EXTENDS

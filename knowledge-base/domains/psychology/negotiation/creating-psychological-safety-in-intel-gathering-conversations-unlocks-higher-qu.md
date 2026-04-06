@@ -17,27 +17,14 @@ tags:
 sources:
   - type: blog
     title: A PM’s guide to influence
-    author:
-      - '@type': Person
-        name: Jules Walter
-        url: 'https://substack.com/@juleswalter'
-        description: >-
-          Product Leader on Google Gemini. Previously at YouTube and Slack.
-          Co-Founder and Board Member at CodePath.org and Black Product Managers
-          Network.
-        identifier: 'user:1991078'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!LA7Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c76bd7-966b-4e7f-bba3-a22fff9a98b9_500x500.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!LA7Z!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c76bd7-966b-4e7f-bba3-a22fff9a98b9_500x500.jpeg
+    author: Jules Walter
     url: 'https://www.lennysnewsletter.com/p/a-pms-guide-to-influence'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Frame early stakeholder conversations as informal information-seeking, not
@@ -61,6 +48,13 @@ stance: >-
   Explicitly signaling that a conversation is informal and information-seeking
   rather than persuasive dramatically increases the quality and honesty of
   stakeholder intelligence.
+related:
+  - INS-260403-11CC
+  - INS-260404-89C3
+  - INS-260403-45D5
+  - INS-260323-D060
+  - INS-260403-BA6A
+  - INS-260403-541C
 ---
 Walter emphasizes that for stakeholders to share genuine intelligence about decision-making dynamics, they need to feel safe. He opens conversations with explicit framing: 'This is meant to be an informal chat. I'd like to better understand your world and get your advice.' He also commits to not using shared information against them later.
 

@@ -55,10 +55,10 @@ stance: >-
 related:
   - INS-260325-A9E0
   - PRI-260325-F21B
+  - INS-260403-C55F
   - INS-260330-75B5
   - INS-260325-DF82
   - INS-260325-3589
-  - INS-260330-E68E
 ---
 Van der Kolk describes Vietnam veterans who were passive most of the time but exploded from zero to ten when something disappointed them. This pattern — baseline numbness punctuated by explosive overreaction — is a signature of unresolved trauma. The body continues responding to mild stressors as if life is in danger.
 

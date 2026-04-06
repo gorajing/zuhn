@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-cost-of-churn'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs model durability not just growth, and high churn turns a growth engine
@@ -57,6 +47,13 @@ resolutions:
 stance: >-
   Investors penalize churn not as a retention metric but as evidence of weak
   product-market fit that makes future growth unsustainably expensive
+related:
+  - INS-260403-2A8B
+  - INS-260403-544B
+  - INS-260403-B18C
+  - INS-260321-B7CB
+  - PRI-260405-B144
+  - PRI-260328-C918
 ---
 From an investor lens, churn isn't just a retention number—it's a judgment on company viability. VCs model durability alongside growth, and high churn signals that the foundation for scale is brittle. It lowers expansion potential, damages net revenue retention, and tells investors that future growth will require ever-increasing acquisition spend to compensate for losses.
 

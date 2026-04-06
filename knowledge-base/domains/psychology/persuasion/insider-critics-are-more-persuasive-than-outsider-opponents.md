@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Support Your Local Collaborator
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/support-your-local-collaborator'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: Insider status grants persuasive leverage that outsiders cannot replicate.
   standard: >-
@@ -53,6 +43,14 @@ stance: >-
   People who have built credibility and loyalty within a group can push back on
   that group's worst ideas far more effectively than external critics who are
   easily dismissed as adversaries.
+related:
+  - INS-260329-EF96
+  - INS-260403-DB0A
+  - INS-260403-F2BA
+  - INS-260404-0782
+  - INS-260329-0014
+  - INS-260329-793D
+  - INS-260403-BDE0
 ---
 When trying to change an organization's direction, the most effective critics are those who have earned trust from within. External opposition is easily dismissed or even counterproductive — it can trigger identity-based doubling down. The Trump administration actively enjoyed liberal outrage, making Democratic criticism not just ineffective but sometimes actively harmful to the cause.
 

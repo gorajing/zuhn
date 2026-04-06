@@ -52,25 +52,25 @@ stance: >-
 related:
   - INS-260325-5096
   - INS-260326-8189
-  - INS-260327-E7AC
-  - INS-260327-377A
-  - INS-260327-B038
-  - INS-260327-DC45
-  - INS-260327-9D23
   - INS-260327-31B8
   - INS-260327-6ACA
+  - INS-260327-9D23
   - INS-260327-E36A
+  - INS-260327-65F4
+  - INS-260327-5140
+  - INS-260330-4E55
+  - INS-260327-E7AC
 evidence:
   - id: INS-260326-8189
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B22D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4E55
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B384
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-440E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2E1E
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

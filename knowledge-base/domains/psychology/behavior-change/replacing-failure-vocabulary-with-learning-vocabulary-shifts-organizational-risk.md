@@ -49,15 +49,15 @@ stance: >-
   increases employee willingness to take risks and share mistakes
 related:
   - INS-260325-5023
-  - INS-260327-8D82
   - INS-260329-4531
-  - INS-260329-A077
   - INS-260329-4A09
   - INS-260403-28C7
+  - INS-260403-9F78
+  - INS-260403-872C
+  - INS-260404-8ACB
   - INS-260403-3DF3
-  - PRI-260328-0AB1
-  - PRI-260321-7307
-  - PRI-260323-2C5C
+  - INS-260403-48FE
+  - INS-260405-CD42
 evidence:
   - id: INS-260327-8D82
     type: SUPPORTS

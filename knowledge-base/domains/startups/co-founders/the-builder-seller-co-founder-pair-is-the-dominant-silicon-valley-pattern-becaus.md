@@ -51,8 +51,9 @@ related:
   - INS-260323-1975
   - INS-260330-B0EB
   - INS-260326-967C
+  - INS-260403-F4E7
   - INS-260403-C9DC
-  - PRI-260328-7E6E
+  - INS-260403-318A
 ---
 Naval identifies a recurring pattern across Apple (Jobs/Wozniak), Microsoft (Gates/Allen), and Google (Page/Brin): successful tech companies consistently pair a builder with a seller. This pattern is so reliable that venture capital investors are essentially trained to look for it as a prerequisite for funding.
 

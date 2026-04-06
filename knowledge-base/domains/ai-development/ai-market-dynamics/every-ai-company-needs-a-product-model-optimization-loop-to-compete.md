@@ -51,11 +51,11 @@ stance: >-
   learning environment.
 related:
   - INS-260403-3F10
+  - INS-260403-8832
+  - INS-260404-CAD5
   - INS-260403-0414
   - INS-260404-95BA
-  - INS-260404-8D91
-  - PRI-260328-A82C
-  - INS-260403-1085
+  - INS-260405-81B4
 evidence:
   - id: INS-260327-30E4
     type: CHALLENGES

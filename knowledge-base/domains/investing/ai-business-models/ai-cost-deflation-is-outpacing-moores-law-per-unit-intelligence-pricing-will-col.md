@@ -50,13 +50,16 @@ resolutions:
     strategic play is to build for value capture now while costs are high,
     knowing margins will expand as infrastructure costs deflate.
 related:
-  - INS-260323-7625
   - INS-260325-B234
+  - PRI-260405-B144
   - INS-260405-6A94
   - PRI-260323-6A93
   - INS-260322-5790
   - INS-260330-5600
-  - INS-260330-6DE0
+  - INS-260404-4F1B
+  - INS-260403-DC18
+  - INS-260403-330D
+  - INS-260402-E144
 stance: >-
   All inputs to AI are falling in cost faster than Moore's law predicted for
   chips, creating hyperdeflation in per-unit intelligence costs that will ...

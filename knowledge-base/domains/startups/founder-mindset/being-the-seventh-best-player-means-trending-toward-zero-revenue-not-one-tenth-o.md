@@ -42,10 +42,10 @@ resolutions:
     entirely. Accepting a comfortable middle position is accepting a slow death.
 related:
   - INS-260329-1962
+  - INS-260405-D959
   - PRI-260323-81E9
   - INS-260405-3403
-  - PRI-260328-0993
-  - INS-260325-0688
+  - INS-260403-032B
 stance: >-
   Founders assume if the winner makes $500M and they make $50M, they're worth
   one-tenth

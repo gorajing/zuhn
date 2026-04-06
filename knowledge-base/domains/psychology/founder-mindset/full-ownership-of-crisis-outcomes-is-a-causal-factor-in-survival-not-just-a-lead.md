@@ -19,44 +19,20 @@ sources:
     title: >-
       A founder’s guide to crisis management | Uri Levine (Waze co-founder,
       serial entrepreneur)
-    author:
-      '@type': Organization
-      name: Lenny's Newsletter
-      url: 'https://www.lennysnewsletter.com'
-      description: >-
-        Deeply researched product, growth, and career advice—newsletter,
-        podcast, community, and living library
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 1000000
-      identifier: 'pub:10845'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png
-      sameAs:
-        - 'https://twitter.com/lennysan'
+    author: >-
+      {"@type":"Organization","name":"Lenny's
+      Newsletter","url":"https://www.lennysnewsletter.com","description":"Deeply
+      researched product, growth, and career advice—newsletter, podcast,
+      community, and living
+      library","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":1000000},"identifier":"pub:10845","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!8MSN!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"},"sameAs":["https://twitter.com/lennysan"]}
     url: >-
       https://www.lennysnewsletter.com/p/a-founders-guide-to-crisis-management-uri-levine
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Taking full responsibility during a crisis isn't just virtuous — it
@@ -82,6 +58,17 @@ stance: >-
   Founders who take full responsibility for navigating crises actually increase
   their probability of survival compared to those who correctly identify
   external causes
+related:
+  - INS-260325-25A2
+  - PRI-260328-BEAB
+  - INS-260329-C472
+  - INS-260329-6B95
+  - INS-260330-F3FF
+  - INS-260330-AA25
+  - INS-260330-7987
+  - INS-260330-D26B
+  - INS-260330-14CA
+  - INS-260403-7CAA
 ---
 Levine observes that while crises often have genuine external causes (market shifts, regulatory changes, investor pullbacks), founders who attribute the crisis externally tend to enter a passive waiting posture — hoping conditions will revert — rather than actively adapting. Taking ownership, even of externally caused problems, keeps the founder's cognitive frame in agency mode.
 

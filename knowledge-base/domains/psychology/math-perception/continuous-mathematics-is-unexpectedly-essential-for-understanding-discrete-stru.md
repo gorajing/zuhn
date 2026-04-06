@@ -53,11 +53,11 @@ stance: >-
   fundamentally requires complex analysis and continuous calculus to understand,
   revealing that the continuous-discrete boundary in mathematics is artificial.
 related:
+  - INS-260329-91DD
   - INS-260329-6773
   - INS-260325-1519
   - INS-260325-2F12
   - INS-260330-DECB
-  - INS-260323-8815
 evidence:
   - id: INS-260323-8815
     type: TRANSFERS_TO

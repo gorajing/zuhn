@@ -52,15 +52,15 @@ stance: >-
   how mechanical engines permanently amplified physical power.
 related:
   - INS-260322-13D6
-  - INS-260325-3D31
   - INS-260325-9C1E
   - INS-260323-1871
   - INS-260325-537A
   - INS-260329-937E
   - INS-260323-2FC3
-  - INS-260325-26C6
   - INS-260327-E41B
-  - INS-260329-C4F5
+  - INS-260330-5828
+  - INS-260330-628D
+  - INS-260404-CC79
 evidence:
   - id: INS-260323-1871
     type: EXTENDS

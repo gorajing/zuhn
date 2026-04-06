@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Where VCs Are Betting on AI in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vcs-betting-on-ai-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The top 1% of AI companies now absorb over a third of total VC funding,
@@ -58,6 +48,17 @@ stance: >-
   The concentration of AI venture capital into a handful of foundation model
   companies signals a mature market entering consolidation, not a healthy
   competitive ecosystem spreading bets widely.
+related:
+  - INS-260322-6DFC
+  - INS-260327-0D3C
+  - INS-260405-54E2
+  - INS-260405-6FE3
+  - INS-260402-180C
+  - INS-260403-3BFA
+  - INS-260403-5056
+  - INS-260403-F387
+  - INS-260405-DDC2
+  - INS-260403-C89A
 ---
 In 2025, AI startups absorbed $192.7B — the first time a single category captured more than half of global VC dollars. But this capital pools dramatically at the top: Anthropic, OpenAI, xAI, and Mistral together captured nearly one-third of all global venture money. Late-stage AI rounds surged 66% YoY while seed rounds held flat but grew far more selective.
 

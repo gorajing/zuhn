@@ -48,15 +48,11 @@ stance: >-
   metrics but the absence of elementary governance structures like a board of
   directors
 related:
-  - INS-260324-C882
-  - INS-260328-896B
-  - INS-260403-028F
+  - INS-260403-2ED2
+  - INS-260403-F6D2
+  - INS-260403-28AB
   - INS-260330-7BF5
   - INS-260327-8254
-  - INS-260402-2B96
-  - INS-260402-9075
-  - INS-260405-092A
-  - INS-260404-EF52
 evidence:
   - id: INS-260328-896B
     type: TRANSFERS_TO

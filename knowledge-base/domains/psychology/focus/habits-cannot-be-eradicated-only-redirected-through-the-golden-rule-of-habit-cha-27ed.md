@@ -47,10 +47,10 @@ stance: >-
   substituting the routine while preserving the cue and reward.
 related:
   - INS-260405-AAB7
+  - INS-260329-C91D
   - INS-260327-7FDA
   - PRI-260328-4313
-  - PRI-260405-CCCE
-  - INS-260329-557C
+  - INS-260404-3324
 evidence:
   - id: INS-260329-C91D
     type: CHALLENGES

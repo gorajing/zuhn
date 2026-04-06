@@ -49,10 +49,10 @@ stance: >-
   stronger evidence of effective governance than palaces or monuments.
 related:
   - INS-260327-4DE8
+  - INS-260327-D25D
   - INS-260327-191B
   - INS-260327-F417
-  - INS-260327-AA2C
-  - PRI-260328-79DA
+  - INS-260330-007E
 evidence:
   - id: INS-260327-4DE8
     type: EXTENDS

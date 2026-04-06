@@ -51,19 +51,19 @@ stance: >-
   more practically valuable than any advanced Excel feature
 related:
   - INS-260329-AE09
-  - INS-260329-939E
-  - INS-260329-C955
   - INS-260327-956D
   - INS-260329-2F63
+  - INS-260403-449D
+  - INS-260327-9377
 evidence:
   - id: INS-260329-AE09
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-7B1D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-956D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-2F63
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The car inventory project reveals a fundamental pattern in business data work: you almost never start with clean spreadsheet data. You receive text files from fleet management systems, bank exports, Amazon seller accounts, or insurance companies — all in CSV or delimited format. The ability to import this data and then use text functions (LEFT to extract manufacturer codes, VLOOKUP to translate codes into readable names, CONCATENATE to reassemble fields) is what makes spreadsheets the universal adapter between incompatible systems.
 

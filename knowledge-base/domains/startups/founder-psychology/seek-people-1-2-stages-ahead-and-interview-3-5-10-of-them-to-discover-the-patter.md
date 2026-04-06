@@ -46,12 +46,12 @@ resolutions:
     distracts from the stage-appropriate version of these three
     responsibilities.
 related:
+  - INS-260403-9421
   - PRI-260328-94D4
+  - INS-260404-19B0
+  - INS-260403-79F3
   - INS-260321-B7CB
-  - INS-260327-9830
-  - PRI-260322-8FD4
-  - INS-260323-3239
-  - INS-260323-3C7B
+  - INS-260330-C215
 stance: In fast-growing companies you cannot learn organically fast enough
 evidence:
   - id: INS-260321-B7CB

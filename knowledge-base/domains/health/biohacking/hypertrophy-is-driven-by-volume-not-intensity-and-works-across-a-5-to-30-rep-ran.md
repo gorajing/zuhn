@@ -50,12 +50,11 @@ stance: >-
   30 reps per set produces roughly equal hypertrophy as long as sets approach
   muscular failure.
 related:
-  - INS-260329-5818
   - INS-260330-5E03
   - INS-260330-E5F9
   - PRI-260328-024A
+  - INS-260327-0C4A
   - INS-260327-2F75
-  - INS-260330-2025
 evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO

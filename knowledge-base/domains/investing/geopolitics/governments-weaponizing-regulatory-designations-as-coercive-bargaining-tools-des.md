@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: The Pentagon Threatens Anthropic
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Repurposing foreign-adversary regulatory tools against domestic companies in
@@ -58,6 +48,13 @@ stance: >-
   chain risk designation) as a general-purpose threat against domestic
   companies, it permanently undermines the tool's legitimate function and chills
   the broader investment environment.
+related:
+  - INS-260403-8302
+  - PRI-260328-37D8
+  - INS-260323-176B
+  - INS-260403-06FA
+  - INS-260330-D460
+  - INS-260403-0AF6
 ---
 The 'supply chain risk' designation was designed to protect against foreign espionage threats like Huawei. Using it as a bargaining chip in contract negotiations with a domestic company is what Alexander calls 'insane Third World bullshit' — it transforms a legitimate security tool into an instrument of arbitrary economic destruction with no legal review.
 

@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: You are no longer the smartest type of thing on Earth
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/you-are-no-longer-the-smartest-type'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Functional output, not architectural similarity to human thought, is the
@@ -60,6 +48,13 @@ resolutions:
 stance: >-
   AI does not need to think like humans to exceed human cognitive performance,
   just as submarines outperform fish without mimicking fins.
+related:
+  - INS-260323-1345
+  - INS-260321-F864
+  - INS-260327-DD48
+  - INS-260330-2200
+  - INS-260403-A1DF
+  - INS-260403-34C0
 ---
 Noah Smith argues that debating whether AI 'truly thinks' is as irrelevant as debating whether submarines 'truly swim.' What matters is functional capability — solving math olympiad problems, writing production code, passing graduate exams. The submarine/airplane analogy is powerful: these machines dominate their domains without mimicking biological locomotion. Similarly, AI can dominate cognitive domains without mimicking human neural processes.
 

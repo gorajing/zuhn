@@ -1,5 +1,5 @@
 ---
-id: INS-260403-B8A3
+id: INS-260403-CC97
 domain: startups
 topic: scaling
 title: >-
@@ -48,11 +48,12 @@ stance: >-
   startups is access to existing brand, customers, and resources—without this
   leverage, internal ventures are just worse-funded startups
 related:
+  - INS-260403-B8A3
+  - INS-260403-2FF2
+  - INS-260404-3A2E
   - INS-260329-0DA4
   - INS-260402-8424
-  - PRI-260405-E9C5
-  - INS-260403-CF7C
-  - INS-260403-407A
+  - INS-260404-EEA7
 ---
 The letter's most actionable claim is that the execution engine MUST support the innovation engine with corporate assets—brand credibility, existing customers, distribution channels, and resources. This is what distinguishes internal ventures from startups, and without it, corporate innovation teams are just startups with more bureaucracy and less equity upside.
 

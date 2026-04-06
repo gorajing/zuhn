@@ -45,15 +45,13 @@ resolutions:
     surface feature overnight, system-of-record status is the only durable
     advantage.
 related:
+  - INS-260403-11F9
   - INS-260403-427E
   - PRI-260328-9C71
+  - INS-260323-7B63
   - PRI-260324-36BF
-  - INS-260323-4EE4
-  - INS-260404-397F
-  - INS-260322-9EC6
   - INS-260327-643C
-  - INS-260330-B539
-  - INS-260403-9E2D
+  - INS-260404-F38A
 stance: >-
   AI differentiation is not the same as defensibility — the moat comes from
   owning the end-to-end workflow and becoming the system of record.

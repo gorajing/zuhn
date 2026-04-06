@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-BEDC
   - INS-260330-BFA1
+  - INS-260405-64C5
   - INS-260330-80A2
   - INS-260404-040D
-  - INS-260325-B206
 evidence:
   - id: INS-260405-64C5
     type: SUPPORTS

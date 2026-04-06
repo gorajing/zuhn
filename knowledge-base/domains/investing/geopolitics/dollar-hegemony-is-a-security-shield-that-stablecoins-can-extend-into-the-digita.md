@@ -49,12 +49,12 @@ stance: >-
   USD-pegged stablecoins are the most effective mechanism for preserving dollar
   reserve currency status in an increasingly digital financial world
 related:
-  - INS-260323-8637
   - INS-260327-9BE8
   - INS-260403-99DE
   - INS-260403-A87D
   - INS-260403-8C92
-  - INS-260403-8BE9
+  - INS-260403-B01D
+  - INS-260330-516E
 evidence:
   - id: INS-260323-8637
     type: EXTENDS

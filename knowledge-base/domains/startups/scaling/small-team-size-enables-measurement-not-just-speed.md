@@ -47,13 +47,15 @@ stance: >-
   effort and reward that large organizations structurally cannot provide
 related:
   - INS-260322-2FAD
-  - INS-260330-8920
   - INS-260330-A78C
   - INS-260330-CCF0
   - INS-260330-6D2E
-  - INS-260403-5F3E
+  - INS-260403-E3E0
   - INS-260403-E7E1
   - INS-260404-4130
+  - INS-260403-F554
+  - INS-260404-9626
+  - INS-260403-8DA1
 evidence:
   - id: INS-260330-6D2E
     type: EXTENDS

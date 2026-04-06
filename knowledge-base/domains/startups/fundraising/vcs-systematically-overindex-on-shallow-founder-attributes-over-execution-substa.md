@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Can Sam Altman end up in jail?\U0001F62E, “40% of startups die after a seed… 0.5-1% go IPO” \U0001F3C1"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/can-sam-altman-end-up-in-jail-40'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Repeated studies show VCs overweight charisma and pitch performance while
@@ -60,6 +50,13 @@ resolutions:
 stance: >-
   The venture capital selection process is distorted by bias toward performative
   pitch qualities rather than problem-solving ability and operational execution.
+related:
+  - INS-260323-F9FD
+  - INS-260323-422B
+  - INS-260403-9F64
+  - INS-260405-6E4F
+  - INS-260405-D66B
+  - INS-260325-0688
 ---
 Research consistently demonstrates that venture capitalists overindex on shallow founder attributes—confidence, pedigree, presentation style—at the expense of substantive evaluation of problem-solving ability, domain expertise, and operational execution. This creates a systematic selection bias that leads to predictably poor investments in polished-but-hollow teams while missing strong operators who don't fit the pattern.
 

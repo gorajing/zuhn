@@ -18,28 +18,14 @@ tags:
 sources:
   - type: blog
     title: The Creator Economy 2025
-    author:
-      - '@type': Person
-        name: Ollie Forsyth
-        url: 'https://substack.com/@neweconomies'
-        description: >-
-          ex Antler VC. Building NEW ECONOMIES - your go to newsletter on the
-          latest trends in tech. 
-        identifier: 'user:119664304'
-        sameAs:
-          - 'https://twitter.com/ollieforsyth'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!lobh!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2487ab77-511a-4523-baa1-208a5ee39b97_800x800.jpeg
+    author: Ollie Forsyth
     url: 'https://www.thevccorner.com/p/the-creator-economy-2025'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     With 64% of people mistrusting journalists and 74% trusting 'someone like
@@ -63,6 +49,13 @@ resolutions:
 stance: >-
   Declining institutional media trust is a structural tailwind for individual
   creators that will persist beyond any single platform cycle
+related:
+  - INS-260330-2838
+  - INS-260403-7878
+  - INS-260321-86E7
+  - INS-260323-15F4
+  - INS-260404-5017
+  - INS-260403-37D9
 ---
 The 2024 Edelman Trust Barometer reveals a striking inversion: 64% of respondents worry journalists are purposely trying to mislead them, while 74% trust 'someone like me' to tell the truth—on par with scientists. This trust gap is driving consumers toward newsletters, independent creators, and niche experts as primary information sources.
 

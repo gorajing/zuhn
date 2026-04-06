@@ -41,15 +41,15 @@ stance: >-
   tolerating it, which directly contradicts the popular narrative that getting
   rich requires bold risk-taking.
 related:
-  - INS-260321-7109
   - INS-260327-5DD2
   - INS-260327-DAA4
   - INS-260327-0E28
   - INS-260329-F07A
+  - INS-260403-87D9
   - INS-260402-7FCC
-  - INS-260403-AA09
-  - PRI-260405-0099
+  - INS-260403-1E34
   - INS-260403-9627
+  - INS-260403-AA09
   - INS-260403-81D4
 evidence:
   - id: INS-260321-7109

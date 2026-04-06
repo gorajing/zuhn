@@ -46,24 +46,23 @@ resolutions:
     you can write a single codebase that's both readable and maximally
     performant across hardware targets.
 related:
+  - INS-260320-4BA8
+  - INS-260330-202A
   - INS-260402-2879
   - INS-260402-06DB
+  - INS-260403-7D7A
   - INS-260329-1ACD
-  - PRI-260320-6847
-  - INS-260329-9311
-  - INS-260320-4BA8
-  - INS-260329-B170
-  - INS-260330-202A
+  - PRI-260405-2A95
 stance: >-
   Running the same interpreter at compile time and runtime lets you express
   C++-template-level optimizations using normal Python-style code.
 evidence:
   - id: INS-260329-1ACD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D48B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-202A
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Lattner identifies the fundamental problem with Python+C codebases: the API layer is Python but the performance layer is C/C++, requiring developers to maintain two completely different mental models and toolchains. Mojo solves this by embedding the interpreter inside the compiler — the same code that runs at runtime can execute at compile time for metaprogramming. This draws from Lisp's insight that 'the metaprogramming and the programming should be the same' but applies it to systems-level performance.
 

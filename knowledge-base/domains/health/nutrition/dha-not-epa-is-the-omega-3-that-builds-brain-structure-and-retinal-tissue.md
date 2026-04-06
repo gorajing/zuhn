@@ -46,7 +46,7 @@ related:
   - INS-260327-8A06
   - INS-260327-AB93
   - INS-260325-1550
+  - INS-260403-9757
   - INS-260330-E647
-  - PRI-260328-F570
 ---
 Most omega-3 discussions focus on EPA (anti-inflammatory) but DHA is the structural fatty acid of the brain and retina. DHA makes up 97% of omega-3 in the brain and 93% in the retina. It is critical for: neuronal membrane fluidity (affects neurotransmitter signaling speed), synaptic plasticity (learning and memory), neuroprotection (reduces neuroinflammation), and retinal photoreceptor function. Best sources: fatty fish (salmon, sardines, mackerel), cod liver, fish oil supplements with high DHA ratio. Algae-based DHA for vegetarians. Most fish oil supplements emphasize EPA — look specifically for high-DHA formulations for cognitive benefits.

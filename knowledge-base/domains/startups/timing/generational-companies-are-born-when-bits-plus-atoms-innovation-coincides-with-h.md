@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 2022 Annual Letter
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/2022-annual-letter'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The biggest technology companies emerged during periods that combined
@@ -62,6 +52,17 @@ stance: >-
   The rare convergence of simultaneous software and hardware platform shifts
   during periods of monetary tightening — not loose money — is what produces
   trillion-dollar companies like Apple, Microsoft, Google, and Amazon.
+related:
+  - INS-260323-6230
+  - INS-260322-BBED
+  - INS-260327-CB1E
+  - INS-260327-12BE
+  - INS-260330-EF74
+  - INS-260403-6279
+  - INS-260403-690C
+  - INS-260403-90FF
+  - INS-260403-3A72
+  - INS-260403-D39A
 ---
 Chamath identifies a historical pattern: Apple and Microsoft were born in the 1970s (high rates + microprocessor + software OS), while Google and Amazon emerged in the 1990s (post-dotcom discipline + internet + e-commerce infrastructure). Each cohort had the 'trifecta' of simultaneous advances in bits (software platforms) and atoms (physical infrastructure) intersecting with the austerity of expensive capital.
 

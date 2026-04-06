@@ -15,29 +15,14 @@ tags:
 sources:
   - type: blog
     title: A guide to AI prototyping for product managers
-    author:
-      - '@type': Person
-        name: Colin Matthews
-        url: 'https://substack.com/@colinmatthews'
-        description: >-
-          I'm excited to help you learn more about how software gets built! I
-          had my first SaaS product acquired in 2021 and have worked in
-          healthtech for 6+ years.
-
-          PM @ Datavant, 5000+ students
-        identifier: 'user:176430401'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!vdga!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16b7f99-8773-4997-b655-6570a1747ad5_960x960.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!vdga!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16b7f99-8773-4997-b655-6570a1747ad5_960x960.jpeg
+    author: Colin Matthews
     url: 'https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When functional prototypes cost minutes instead of weeks, the constraint on
@@ -63,6 +48,12 @@ stance: >-
   AI prototyping tools fundamentally change product discovery economics by
   making interactive prototypes nearly free, which means the bottleneck shifts
   from building to deciding what to test.
+related:
+  - INS-260326-80B1
+  - INS-260329-F7F4
+  - INS-260404-B2AF
+  - INS-260323-4457
+  - PRI-260405-0AC6
 ---
 Historically, building even a basic interactive prototype required significant engineering time, which rationed how many ideas a product team could explore. AI prototyping tools like Bolt and v0 can produce functional multi-page prototypes in under 10 minutes from a text prompt or Figma screenshot. This collapses the cost of the 'build' phase in build-measure-learn nearly to zero.
 

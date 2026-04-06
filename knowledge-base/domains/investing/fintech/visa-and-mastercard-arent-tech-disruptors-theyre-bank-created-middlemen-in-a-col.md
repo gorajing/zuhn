@@ -49,7 +49,6 @@ related:
   - INS-260330-3138
   - INS-260325-57CA
   - INS-260323-1FC1
-  - INS-260330-F8A2
 stance: >-
   Visa was founded by Bank of America, Mastercard by smaller banks as a
   counterweight

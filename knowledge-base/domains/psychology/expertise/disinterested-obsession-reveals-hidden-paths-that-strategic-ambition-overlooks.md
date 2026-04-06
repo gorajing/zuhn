@@ -43,13 +43,13 @@ stance: >-
   to produce breakthroughs than strategically pursuing obviously promising
   research directions.
 related:
-  - INS-260327-7DAA
   - INS-260329-4E70
-  - INS-260402-2FDF
+  - INS-260403-EEE5
+  - INS-260404-31C3
+  - INS-260327-7DAA
   - INS-260403-AA8F
   - PRI-260403-3906
-  - PRI-260405-72D4
-  - INS-260330-6C68
+  - INS-260403-A6F1
 evidence:
   - id: INS-260327-7DAA
     type: SUPPORTS

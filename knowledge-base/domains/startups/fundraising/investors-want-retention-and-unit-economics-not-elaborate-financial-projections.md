@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: The Lean Revenue Dashboard Every Startup Should Use
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/lean-revenue-dashboard-for-startups'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     For early rounds, present a clean dashboard showing retention, expansion,
@@ -57,6 +47,12 @@ stance: >-
   Seed and Series A investors evaluate startups on customer retention, expansion
   ability, and CAC efficiency rather than detailed multi-year financial models
   with departmental headcount planning.
+related:
+  - INS-260403-3BBB
+  - INS-260327-4B5A
+  - INS-260403-C837
+  - INS-260403-53B0
+  - INS-260403-44C4
 ---
 Early-stage investors are not looking at your five-year departmental headcount plan or your 40-tab financial model. They know those projections are largely fiction at the seed stage. What they actually want to evaluate is the health of your revenue engine: Can you retain customers? Can you expand them? Is your acquisition capital-efficient?
 

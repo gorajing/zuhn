@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #79: The revenge of macroeconomics'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-79-the-revenge-of-macroeconomics'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI that replaces human learning effort may destroy the byproduct discoveries
@@ -64,6 +52,12 @@ stance: >-
   knowledge discovery that happens when people reinvent the wheel, potentially
   tipping society into a steady state where collective knowledge shrinks despite
   individually better answers.
+related:
+  - PRI-260321-7307
+  - INS-260403-22C2
+  - INS-260321-1A0B
+  - INS-260403-C135
+  - INS-260403-9F78
 ---
 Acemoglu, Kong, and Ozdaglar extend the Grossman-Stiglitz Paradox beyond financial markets to all knowledge production. When humans struggle to solve problems independently, they generate a 'thin public signal' — accidental discoveries that accumulate into collective knowledge. AI short-circuits this by delivering correct answers instantly, removing the incentive to struggle. The economy can tip into a 'knowledge-collapse steady state' where general knowledge vanishes despite high-quality personalized advice.
 

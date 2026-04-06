@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Startup FP&A Model: Build a Real Operating Plan'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Only a fully linked three-statement model (income, balance sheet, cash flow)
@@ -63,6 +53,13 @@ stance: >-
   financial health because working capital timing, deferred revenue, and capex
   depreciation only surface when the balance sheet and cash flow statement are
   fully linked.
+related:
+  - INS-260405-45E0
+  - INS-260403-88B9
+  - INS-260322-C472
+  - INS-260403-4227
+  - INS-260403-5056
+  - INS-260403-ABAD
 ---
 Most early-stage financial models stop at the income statement, showing revenue minus costs equals profit. But profit and cash are fundamentally different things. A SaaS company collecting annual prepayments shows deferred revenue that inflates the bank balance without being earned yet. A company with 60-day payment terms shows revenue that hasn't arrived as cash. Capex hits cash immediately but only appears on the income statement gradually through depreciation.
 

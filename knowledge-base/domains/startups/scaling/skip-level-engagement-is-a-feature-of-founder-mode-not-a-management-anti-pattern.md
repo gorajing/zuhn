@@ -51,9 +51,10 @@ related:
   - INS-260403-8B5A
   - PRI-260403-2E59
   - INS-260327-2A73
+  - INS-260405-B4D2
   - INS-260330-DC22
   - INS-260404-E36F
-  - INS-260327-3930
+  - INS-260404-89DA
 ---
 In conventional management, 'skip-level' meetings are treated as unusual enough to warrant a special name, implying they violate proper chain-of-command. In founder mode, they become the norm. Steve Jobs's practice of running annual retreats for Apple's 100 most important people — selected by impact rather than org chart position — exemplifies this. The retreat made a large company feel like a startup by creating direct information flow between the founder and key contributors.
 

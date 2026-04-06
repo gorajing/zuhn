@@ -50,13 +50,11 @@ stance: >-
   roughly 50/50 between experienced operators who have done it before and
   high-slope generalists who grow with the company — not one or the other.
 related:
+  - INS-260404-C147
   - INS-260403-B73A
   - INS-260325-502D
+  - INS-260404-77E7
   - INS-260327-157B
-  - INS-260328-0DFE
-  - INS-260330-0525
-  - INS-260403-3517
-  - INS-260403-426A
 evidence:
   - id: INS-260328-0DFE
     type: EXTENDS

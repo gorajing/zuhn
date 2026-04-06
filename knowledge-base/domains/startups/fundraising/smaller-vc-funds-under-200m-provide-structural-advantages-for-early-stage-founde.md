@@ -18,25 +18,15 @@ tags:
 sources:
   - type: blog
     title: 'Startup Fundraising Resources: Investor Lists 2026'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/startup-fundraising-resources-investor-lists-2026
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sub-$200M VC funds offer faster decisions and greater openness, yet most
@@ -60,6 +50,14 @@ stance: >-
   Funds with smaller AUM make faster investment decisions and are genuinely more
   open to new companies, making them systematically undervalued targets in
   fundraising outreach.
+related:
+  - INS-260327-33E0
+  - INS-260403-5031
+  - INS-260403-C445
+  - PRI-260403-26B9
+  - INS-260404-06B9
+  - PRI-260405-E9C5
+  - INS-260403-E2DE
 ---
 The venture capital industry exhibits a strong attention bias toward marquee firms—a16z, Sequoia, Benchmark—while funds managing under $200M collectively deploy enormous capital at early stages with far less founder competition for attention. Smaller AUM creates alignment: the fund needs each bet to matter, so partners engage deeply and move quickly. For founders, this means shorter feedback loops, more accessible decision-makers, and often more favorable terms because the fund isn't optimizing for ownership thresholds designed for billion-dollar outcomes.
 

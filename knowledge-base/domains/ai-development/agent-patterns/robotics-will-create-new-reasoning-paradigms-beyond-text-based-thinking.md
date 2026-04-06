@@ -50,11 +50,12 @@ stance: >-
   forms of reasoning that happen in trajectory space and abstract motion space
   rather than text.
 related:
+  - INS-260405-7196
   - INS-260322-32E3
   - INS-260323-F0A2
   - INS-260330-0C0C
   - INS-260322-B33E
-  - PRI-260328-9F8C
+  - INS-260404-DDC8
 ---
 Physical Intelligence's founders argue that while current robotics models already do short-horizon planning (50 timesteps, about 1-2 seconds) and task decomposition in language space, physical reasoning is fundamentally different from math or coding reasoning. When learning tennis, you don't think in text about grip angles; you reason in terms of body motion and object trajectories.
 

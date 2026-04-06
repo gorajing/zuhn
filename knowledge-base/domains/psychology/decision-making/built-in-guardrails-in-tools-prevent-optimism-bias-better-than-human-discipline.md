@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'VC Return Analysis: Single-Tab Model for Faster Decisions'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-return-analysis-excel-model'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Tools that flag unrealistic inputs at the moment of entry prevent more bad
@@ -59,6 +49,13 @@ stance: >-
   Embedding reality checks directly into decision tools (like benchmark flags
   and range warnings) is more reliable than relying on individual discipline to
   catch unrealistic assumptions.
+related:
+  - INS-260403-BA81
+  - INS-260404-4D7F
+  - INS-260329-92E9
+  - INS-260329-2AB9
+  - INS-260327-4C94
+  - INS-260403-5137
 ---
 The single-tab model embeds comment columns next to every input that flag common benchmarks ('SaaS gross margins typically 75-85%') and warn against red-flag assumptions ('20x P/S? Rare even for top-tier SaaS'). This is a design pattern worth noting beyond finance: embedding guardrails directly into the tool at the point of input is more effective than relying on users to self-police their assumptions.
 

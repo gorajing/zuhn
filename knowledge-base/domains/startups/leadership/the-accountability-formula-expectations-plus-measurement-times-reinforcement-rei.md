@@ -47,11 +47,11 @@ resolutions:
     than threaten away from bad behavior. Negative reinforcement works
     short-term but creates avoidance, disloyalty, and turnover.
 related:
-  - INS-260325-CEE1
   - PRI-260323-9D46
+  - INS-260325-CEE1
   - INS-260325-0FED
+  - INS-260403-F8B6
   - INS-260330-59BC
-  - INS-260403-6A77
 stance: >-
   Expectations + Measurement x Reinforcement = Accountability — without
   reinforcement, expectations and measurement produce zero accountability.

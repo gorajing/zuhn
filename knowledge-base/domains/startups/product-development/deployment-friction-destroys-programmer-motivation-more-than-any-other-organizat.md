@@ -49,10 +49,10 @@ stance: >-
   not just a productivity drag
 related:
   - INS-260323-78A5
+  - INS-260405-70D4
+  - INS-260403-E482
   - INS-260323-C8AC
-  - INS-260320-39A3
-  - INS-260330-8326
-  - INS-260330-0871
+  - INS-260403-D70C
 evidence:
   - id: INS-260323-C8AC
     type: SUPPORTS

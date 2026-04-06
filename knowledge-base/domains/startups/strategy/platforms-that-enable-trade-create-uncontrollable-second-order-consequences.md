@@ -50,10 +50,10 @@ stance: >-
   propagates systemic risks that the platform builder cannot predict or control.
 related:
   - INS-260330-D711
+  - INS-260403-A4FC
   - PRI-260328-79DA
   - INS-260403-0550
   - INS-260330-912C
-  - INS-260327-39FB
 evidence:
   - id: INS-260327-39FB
     type: EXTENDS

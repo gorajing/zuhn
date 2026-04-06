@@ -45,10 +45,11 @@ stance: >-
   effectively and iterate quickly.
 related:
   - INS-260324-8FB4
-  - INS-260323-0C3A
   - INS-260321-C14C
+  - INS-260323-0C3A
   - PRI-260323-1B96
   - INS-260330-56B2
+  - INS-260403-2AC0
 ---
 Kausas pivoted away from a health tech idea after a full year, not just from the idea but from the entire approach—including his co-founder relationship. At Pylon, he and his co-founder built the product themselves, getting to their first customer in 14 days and $120K ARR in 3 months.
 

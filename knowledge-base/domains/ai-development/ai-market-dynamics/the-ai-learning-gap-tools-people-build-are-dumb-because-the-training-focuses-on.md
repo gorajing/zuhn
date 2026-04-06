@@ -45,12 +45,13 @@ resolutions:
     skilled practitioners.
 related:
   - PRI-260323-00C6
+  - INS-260403-E23C
   - INS-260330-930D
+  - INS-260405-88A4
   - INS-260323-365A
-  - INS-260327-EA4E
-  - INS-260330-95E8
   - INS-260325-95A6
   - INS-260403-7A31
+  - INS-260403-FCEA
 stance: >-
   MIT research shows $291B wasted on AI because the ecosystem trained people to
   sell AI services, not build AI that actually works reliably.

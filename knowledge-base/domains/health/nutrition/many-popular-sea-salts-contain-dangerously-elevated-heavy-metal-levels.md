@@ -49,11 +49,12 @@ stance: >-
   verification essential for salt selection
 related:
   - INS-260327-B8E7
+  - INS-260403-AFF4
   - INS-260330-99D1
   - INS-260327-9EC4
   - PRI-260328-DD93
-  - INS-260330-BA54
   - INS-260330-96FE
+  - INS-260330-BA54
 evidence:
   - id: INS-260330-99D1
     type: SUPPORTS

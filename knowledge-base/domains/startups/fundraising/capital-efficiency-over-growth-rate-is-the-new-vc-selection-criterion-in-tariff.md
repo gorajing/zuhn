@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: How Trump’s 2025 Tariffs Could Reshape Startups
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-trumps-2025-tariffs-impact-startups'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Investors are prioritizing capital discipline, clean unit economics, and
@@ -62,6 +52,14 @@ stance: >-
   VCs are systematically shifting from growth-rate selection to
   capital-efficiency selection, and founders who preemptively demonstrate 18-24
   month runway discipline will win competitive rounds.
+related:
+  - INS-260320-8688
+  - INS-260403-8806
+  - INS-260404-A032
+  - INS-260403-CD90
+  - INS-260403-6E68
+  - INS-260321-E654
+  - INS-260402-EA72
 ---
 The tariff-induced macro uncertainty is accelerating a shift that was already underway: VCs are moving from growth-at-all-costs selection to efficiency-first evaluation. Series C and D deal volume dropped 18% in Q1, with Q2 expected to fall further. The practical markers investors now demand include clean data rooms, metrics transparency, strong unit economics, and demonstrated ability to extend runway without desperation.
 

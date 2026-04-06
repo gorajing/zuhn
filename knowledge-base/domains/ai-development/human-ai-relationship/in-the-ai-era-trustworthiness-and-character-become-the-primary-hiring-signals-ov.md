@@ -54,64 +54,64 @@ resolutions:
     traits that make someone 'pluggable into anything' — the quality that hiring
     managers in an AI world will pay premium for.
 related:
-  - INS-260325-D19B
-  - INS-260321-4178
   - INS-260320-B99F
+  - INS-260321-9A03
   - INS-260322-D2E9
-  - PRI-260403-FBA8
-  - PRI-260323-50FE
-  - PRI-260328-E870
-  - INS-260403-1DC9
   - INS-260323-F2C3
   - INS-260323-D41A
+  - INS-260322-3CFB
+  - INS-260323-D8A9
+  - PRI-260323-50FE
+  - INS-260327-3C96
+  - PRI-260328-E870
 stance: >-
   When AI can perform any technical task, employers hire for trustworthiness and
   genuine care
 evidence:
   - id: INS-260322-AC23
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-62C1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-D41A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-3C96
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-D8A9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-63BA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1C90
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-E126
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-25A8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8E3C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-3CFB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-26E7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1282
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-FA62
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-A69C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-6405
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-02DF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-4C93
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-2608
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9863
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-B87D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-1DC9
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Po-Shen Loh describes his own hiring philosophy: when he meets someone with great intention and great learning capacity, he doesn't look for a specific role — he just finds a place for them. Conversely, he explicitly avoids hiring people trained for one particular task because 'one or two more years, I can use AI to do that task and it'll be way cheaper.'
 

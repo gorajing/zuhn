@@ -52,12 +52,11 @@ stance: >-
   advantage that generic-brand analogies from physical retail fundamentally
   mischaracterize.
 related:
-  - INS-260322-2647
+  - INS-260404-CCB1
   - INS-260322-837A
+  - INS-260404-60A6
   - PRI-260405-BFAC
   - PRI-260328-DF2D
-  - INS-260329-C0F1
-  - INS-260403-7B04
   - INS-260403-9BEF
 evidence:
   - id: INS-260322-2647

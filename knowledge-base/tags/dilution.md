@@ -1,7 +1,27 @@
 # Tag: dilution
 
+- `INS-260405-EB05` Investing at a $16M post-money and watching the company raise at $250M post-money looks like 15.6x on paper but nets only 5.5x after accounting for dilution from subsequent rounds.
+- `INS-260403-1E34` Warrants attached to mezzanine deals are a mechanically calculated risk price, and treating them as vague upside leads founders to underestimate dilution.
+- `INS-260402-3D34` Excessive early dilution locks in low valuations that create down-round dynamics or insufficient upside for later-stage investors.
+- `INS-260403-D970` Capital planning is a multi-round game where compounding dilution across Seed through Series C dramatically reduces founder ownership beyond what single-round math suggests.
+- `INS-260403-B98A` Discount-only SAFEs limit investor upside to the discount percentage, while valuation caps can give investors disproportionate returns if the company grows fast before conversion.
+- `INS-260405-863C` Founder ownership compounds downward with each funding round — modeling this early prevents exit-day surprises.
+- `INS-260405-3238` Define your funding amount, security type, and valuation floor before any investor conversation begins.
 - `INS-260330-3559` Pro-rata rights let investors maintain their ownership percentage in future rounds, which means founders bear a greater share of dilution.
+- `INS-260403-7C02` Running investor return math before setting valuation prevents overpricing that triggers painful down rounds later.
 - `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
+- `INS-260404-5EB8` Treating each fundraising round independently leads to compounding dilution that erodes founder ownership far more than single-round analysis suggests.
+- `INS-260403-D11C` Stacking SAFEs without modeling their combined conversion leads to shock dilution at the priced round.
+- `INS-260403-7190` Whether the option pool expands before or after new investment hits the cap table determines who actually bears the dilution cost.
+- `INS-260403-AB7D` Convertible notes' apparent simplicity masks predatory terms like ultra-low valuation caps and forced liquidity triggers that can devastate founder equity.
 - `INS-260322-A31D` Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
+- `INS-260405-FFCE` Discussing SAFE deals in terms of ownership percentage rather than valuation cap creates clearer alignment and fewer surprises at conversion.
+- `INS-260405-D2E2` SAFEs let early founders avoid a premature valuation negotiation and delay dilution questions until the business has more proof.
+- `INS-260403-3A2C` Consumer founders are blending equity, debt, and revenue-based deals to avoid excessive dilution during the VC funding freeze.
+- `INS-260403-18E0` Converting enterprise value to equity value requires adjusting for debt, convertibles, and option pools—adjustments that systematically reduce founder ownership more than expected.
 - `INS-260403-BAD7` Give up n% only if the deal makes your (100-n)% worth more than 100% was before.
+- `INS-260403-49FC` VCs request option pool expansion pre-money to dilute founders instead of themselves, costing 5-10% ownership in a single line item.
+- `INS-260403-4ADC` Not exercising pro-rata rights in breakout companies costs VCs far more than their failed bets.
+- `INS-260403-5151` SAFEs and convertible notes create stealth dilution that founders consistently underestimate until conversion forces a reckoning.
 - `INS-260330-AF2B` A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round.
+- `INS-260403-A9F2` Venture debt warrants typically dilute founders 0.5-2% versus 15-25% for an equity round, making it dramatically cheaper in ownership terms.

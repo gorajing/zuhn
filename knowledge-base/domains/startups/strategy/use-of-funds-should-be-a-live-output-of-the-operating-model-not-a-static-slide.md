@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Startup FP&A Model: Build a Real Operating Plan'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Use of Funds and valuation should be live outputs that update automatically
@@ -61,6 +51,12 @@ stance: >-
   Founders who build Use of Funds as a standalone pitch deck slide instead of
   deriving it from their operating model create a credibility gap that
   sophisticated investors will immediately detect.
+related:
+  - INS-260403-5F1C
+  - INS-260403-2D9B
+  - INS-260329-7691
+  - INS-260404-28A1
+  - INS-260403-CDF1
 ---
 Most founders create their Use of Funds breakdown as a static allocation in a pitch deck—40% engineering, 30% sales, 20% marketing, 10% G&A. But this approach disconnects the fundraising narrative from the actual operating plan. When an investor asks 'what happens if you hire two fewer engineers?', the founder has to mentally recalculate instead of flipping a switch. This gap signals that the plan is aspirational rather than operational.
 

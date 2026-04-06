@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 18 Lessons from Harry Stebbings That Every Founder Should Know
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/harry-stebbings-18-lessons-20vc'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Replace 10-year visions with 90-day micro-ambitions that stack and reveal
@@ -59,6 +49,13 @@ stance: >-
   Founders who chase 90-day micro-ambitions consistently outperform those who
   anchor to long-term visions, because visions create artificial ceilings that
   cap potential the founder cannot yet imagine.
+related:
+  - INS-260329-8542
+  - INS-260403-6F9C
+  - INS-260330-C658
+  - INS-260403-A8BA
+  - INS-260322-AAEA
+  - INS-260403-8834
 ---
 Harry Stebbings argues that visions are among the most dangerous things in entrepreneurship — a deeply contrarian stance against every startup playbook. His reasoning: when he started 20VC at 18, any vision he could have articulated would have capped his potential far below what actually happened. He never envisioned raising $800M; he focused on getting one great guest. He never envisioned becoming a top VC podcast; he focused on cutting boring content.
 

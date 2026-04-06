@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Last Rights
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/last-rights'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Incumbent institutions won't vote to dismantle the systems that keep them in
@@ -55,6 +45,17 @@ resolutions:
 stance: >-
   Systemic reform succeeds only when it routes around the incumbents who benefit
   from the broken system, not through them.
+related:
+  - INS-260325-9A0F
+  - INS-260330-BBDA
+  - INS-260330-03A9
+  - INS-260330-D74A
+  - INS-260403-88DA
+  - INS-260403-24DB
+  - INS-260403-126D
+  - INS-260403-758F
+  - PRI-260328-E1CE
+  - INS-260403-F234
 ---
 The article identifies a fundamental paradox of institutional reform: every proposed fix to Congress requires an act of Congress, but members have no incentive to vote against gerrymandering, donor influence, or other systems that benefit them. The solution — ratifying a dormant Constitutional amendment through state legislatures — bypasses Congress entirely.
 

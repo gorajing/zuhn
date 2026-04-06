@@ -57,11 +57,10 @@ stance: >-
   compounds the harm while obscuring its true cost.
 related:
   - INS-260330-EA56
+  - INS-260403-5710
   - INS-260321-5655
   - INS-260403-A87D
   - INS-260330-EEED
-  - INS-260327-9BE8
-  - INS-260403-F98F
 evidence:
   - id: INS-260330-EA56
     type: SUPPORTS

@@ -18,25 +18,15 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: How China Built Its Industrial Power'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: >-
       https://chamath.substack.com/p/deep-dive-chinas-industrial-might-and-domestic-policy
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     China's workforce built deep process knowledge by assembling goods for
@@ -67,6 +57,16 @@ stance: >-
   Being a low-margin assembler for foreign companies is strategically underrated
   because it builds tacit process knowledge that can later underpin independent
   innovation
+related:
+  - INS-260330-E670
+  - INS-260403-363C
+  - INS-260404-57D0
+  - INS-260403-690C
+  - INS-260330-0346
+  - PRI-260328-C528
+  - INS-260325-5B7F
+  - INS-260403-D39A
+  - INS-260403-E63A
 ---
 For decades China was dismissed as a low-cost assembler with no intellectual property. But that assembly work created something valuable that didn't appear on balance sheets: tacit process knowledge — the kind of manufacturing expertise that can only be learned by running factories at scale. This knowledge compound interest eventually enabled Chinese firms to move up the value chain from assembling foreign products to engineering their own.
 

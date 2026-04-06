@@ -51,18 +51,18 @@ stance: >-
 related:
   - INS-260327-FF4A
   - INS-260330-C456
-  - INS-260404-2D92
-  - INS-260404-D916
   - INS-260330-F671
+  - INS-260404-1A3A
+  - INS-260330-2C71
 evidence:
   - id: INS-260330-F671
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2C71
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-DDB5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7738
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Cellular respiration breaks glucose into ATP across three stages: glycolysis (2 ATP net), Krebs Cycle (2 ATP), and the electron transport chain (34 ATP). This extreme back-loading means the final stage — which depends on oxygen and healthy mitochondria — produces roughly 17x more energy than the initial glucose breakdown.
 

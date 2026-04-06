@@ -53,26 +53,26 @@ stance: >-
   durable and side-effect-free results.
 related:
   - INS-260325-A926
-  - INS-260327-D070
   - INS-260330-8E95
   - INS-260330-E70C
   - INS-260330-85AA
   - INS-260330-8CCE
   - INS-260330-B6DE
-  - INS-260330-16F0
-  - INS-260330-3BB5
   - INS-260330-851F
+  - INS-260330-43D3
+  - INS-260405-0AE7
+  - INS-260327-D070
 evidence:
   - id: INS-260327-D070
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4B29
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-A926
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-8E95
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-851F
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Traditional waterproofing relies on chemical coatings — waxes, silicones, fluoropolymers — that degrade over time and can have environmental or health side effects. Aerogel achieves waterproofing through physical structure: its nanoscale pores trap air, creating a physical barrier that prevents water from contacting the surface. The Cassie-Baxter state means water sits on trapped air rather than the material itself.
 

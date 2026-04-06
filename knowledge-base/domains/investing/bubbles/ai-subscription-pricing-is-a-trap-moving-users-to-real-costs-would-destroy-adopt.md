@@ -48,40 +48,42 @@ resolutions:
     companies have no viable path between their current pricing (hemorrhaging
     money) and sustainable pricing (losing all users).
 related:
-  - INS-260327-9C3A
-  - INS-260403-1E4A
-  - INS-260403-1C25
-  - INS-260327-6900
-  - INS-260329-6079
   - INS-260327-80E9
+  - INS-260327-6900
   - INS-260327-5580
+  - INS-260327-9C3A
   - INS-260327-1403
+  - INS-260329-8602
+  - INS-260403-1E4A
+  - INS-260403-0F72
+  - INS-260329-6079
+  - INS-260403-EDDC
 stance: >-
   Unlike Uber where subsidized-to-real price increases were 2-3x within the
   psychology of cab fares, AI would require 5-7x increases into a range use...
 evidence:
   - id: INS-260323-F68A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-9C3A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-6900
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6079
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-CBF6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-1403
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-80E9
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-5580
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-8602
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-1E4A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-12A4
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The Uber comparison that AI bulls love actually proves the bears' case. Uber's price hikes worked because users had an existing mental model for what a cab ride costs — the subsidized price was low but the real price was within the same order of magnitude. AI subscriptions have no such anchor.
 

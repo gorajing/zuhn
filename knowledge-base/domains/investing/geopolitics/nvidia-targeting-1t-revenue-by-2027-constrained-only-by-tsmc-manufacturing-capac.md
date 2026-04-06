@@ -49,9 +49,8 @@ related:
   - INS-260325-5CB1
   - INS-260405-A1E6
   - INS-260327-DECA
-  - INS-260403-8011
+  - PRI-260405-B144
   - INS-260330-ADB7
-  - INS-260403-59F0
 stance: >-
   Jensen predicts $1T in NVIDIA bookings through 2027, but TSMC manufacturing is
   the real bottleneck

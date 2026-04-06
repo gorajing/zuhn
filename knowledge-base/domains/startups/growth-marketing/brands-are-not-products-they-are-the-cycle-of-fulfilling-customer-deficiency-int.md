@@ -49,7 +49,6 @@ resolutions:
     not because of a discount code.
 related:
   - INS-260323-8392
-  - INS-260323-0FDA
   - INS-260327-EF89
   - INS-260329-CEC5
   - INS-260329-16F0
@@ -57,7 +56,8 @@ related:
   - INS-260405-A2A2
   - INS-260322-9172
   - INS-260322-683B
-  - INS-260327-3DE7
+  - INS-260327-8F03
+  - INS-260327-38F0
 stance: A brand is established in the realm of fulfilling customer deficiency
 evidence:
   - id: INS-260329-16F0

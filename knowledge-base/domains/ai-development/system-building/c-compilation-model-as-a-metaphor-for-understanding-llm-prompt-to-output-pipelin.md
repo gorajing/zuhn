@@ -52,18 +52,18 @@ stance: >-
   LLMs process prompts through tokenization, inference, and output generation.
 related:
   - INS-260320-C65B
-  - INS-260329-B170
   - INS-260329-9CED
   - INS-260329-DACC
+  - INS-260405-227C
   - INS-260329-F969
-  - INS-260329-9311
+  - INS-260329-32DB
 evidence:
   - id: INS-260329-9CED
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-F969
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-D48B
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial spends significant time explaining that C++ code must be compiled (translated) before it can be executed — the computer doesn't understand C++ directly, it understands machine code. This two-phase model (write → compile → run) is a powerful analogy for understanding LLM inference: prompts are tokenized (compiled into a representation the model understands), processed through the neural network (executed), and decoded back into text.
 

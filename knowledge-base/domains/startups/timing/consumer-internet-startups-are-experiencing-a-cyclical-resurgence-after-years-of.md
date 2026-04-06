@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Vertical SaaS: Now With AI Inside, B2C is Back, AI Agents Landscape '
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vertical-saas-now-with-ai-inside'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Consumer-focused startups are making a comeback, following a historical
@@ -57,6 +47,17 @@ stance: >-
   The consumer startup category is entering a new founding wave comparable to
   previous cycles that produced companies like Uber, TikTok, and ChatGPT, making
   B2C viable again for venture investment.
+related:
+  - INS-260322-CFB1
+  - INS-260322-3E59
+  - INS-260403-CA1E
+  - INS-260403-924B
+  - INS-260403-A4FC
+  - INS-260403-C7B9
+  - INS-260403-CC59
+  - INS-260322-C472
+  - INS-260403-78AD
+  - INS-260403-D39A
 ---
 The venture capital industry has been heavily skewed toward B2B/enterprise for several years, but data on consumer internet unicorn foundings shows clear cyclical patterns. Waves of consumer unicorns cluster around major technology shifts — the web (Amazon, Google), mobile (Uber, Snap), and now AI (ChatGPT).
 

@@ -43,11 +43,11 @@ stance: >-
   People who imitate what they're impressed by rather than what they genuinely
   enjoy will waste years producing derivative work that says nothing.
 related:
-  - INS-260403-F657
   - INS-260404-AB0F
   - INS-260403-43B9
-  - INS-260322-A928
-  - INS-260403-97B4
+  - INS-260403-E4B3
+  - INS-260403-F657
+  - INS-260403-C428
 evidence:
   - id: INS-260403-F657
     type: SUPPORTS

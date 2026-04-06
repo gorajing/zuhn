@@ -49,14 +49,15 @@ resolutions:
     aggressive fundraising specifically to win a market. Both styles work, but
     only for certain business types.
 related:
-  - INS-260322-03DD
   - INS-260323-8893
   - INS-260328-D220
-  - PRI-260403-26B9
-  - PRI-260405-E9C5
-  - INS-260330-B6FA
-  - INS-260330-404B
-  - INS-260403-AA6A
+  - INS-260405-776D
+  - INS-260403-A3DA
+  - INS-260404-B6DF
+  - INS-260403-2369
+  - INS-260402-C2BA
+  - INS-260405-F531
+  - INS-260404-3B83
 stance: >-
   Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all
   capital-efficient or fully bootstrapped

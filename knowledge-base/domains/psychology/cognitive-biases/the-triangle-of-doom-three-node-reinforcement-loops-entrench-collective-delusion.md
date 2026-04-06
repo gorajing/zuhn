@@ -50,11 +50,11 @@ stance: >-
   by a self-reinforcing triangle of voters, media, and officials where each
   node's incentives pressure the other two toward extremism.
 related:
+  - INS-260403-8C7E
   - INS-260404-B6CC
   - INS-260323-6A05
   - PRI-260324-3AAE
-  - INS-260330-E0ED
-  - INS-260330-7711
+  - INS-260403-56D7
 evidence:
   - id: INS-260323-6A05
     type: EXTENDS

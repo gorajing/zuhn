@@ -19,26 +19,14 @@ sources:
     title: >-
       Anthropic’s CPO on what comes next | Mike Krieger (co-founder of
       Instagram)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI-generated code moves the constraint from production speed to decision
@@ -60,6 +48,12 @@ resolutions:
 stance: >-
   When AI writes 90%+ of code, the scarce resource becomes product judgment and
   merge queue throughput, not engineering capacity
+related:
+  - INS-260404-9D14
+  - INS-260403-EDA1
+  - INS-260327-3E23
+  - PRI-260321-14D8
+  - PRI-260403-9E80
 ---
 Mike Krieger reports that 90-95% of code for some Anthropic products is now AI-written, and the transformation happened faster than anyone expected. The bottleneck has shifted from 'can we build it?' to 'should we build it?' and 'can we get it merged and deployed?'
 

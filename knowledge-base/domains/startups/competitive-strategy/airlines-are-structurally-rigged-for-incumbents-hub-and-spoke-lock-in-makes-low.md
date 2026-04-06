@@ -48,7 +48,7 @@ related:
   - INS-260327-B715
   - PRI-260328-5F64
   - PRI-260328-4CC0
-  - INS-260330-0294
+  - PRI-260405-B144
 stance: >-
   Low-cost carriers (Southwest, JetBlue, Spirit) outperformed legacy airlines
   for a decade, but legacy carriers reclaimed dominance because hub-and-s...

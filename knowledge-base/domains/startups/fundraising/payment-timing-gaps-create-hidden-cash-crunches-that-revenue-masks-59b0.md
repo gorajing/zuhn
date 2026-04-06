@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Financial Modeling Examples for Founders: A Startup Guide with Templates'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-startup-founders-guide-to-financial'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     If suppliers demand Net 30 but customers pay Net 90, the 60-day gap creates
@@ -58,6 +48,12 @@ stance: >-
   The gap between when you pay suppliers and when customers pay you is a more
   common cause of startup cash crises than low revenue, because founders who
   model only revenue and costs miss the liquidity timing problem entirely.
+related:
+  - INS-260403-E78C
+  - INS-260403-458A
+  - PRI-260405-F20C
+  - INS-260323-F753
+  - INS-260327-A5F9
 ---
 Revenue recognition and cash collection are different events. A startup can be growing revenue rapidly while simultaneously running out of cash if there's a mismatch between when expenses are due and when payments arrive. The classic example: suppliers require payment within 30 days, but enterprise customers negotiate Net 90 terms. That 60-day gap must be funded from somewhere—either existing cash reserves or additional financing.
 

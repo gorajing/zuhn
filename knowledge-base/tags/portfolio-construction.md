@@ -2,4 +2,29 @@
 
 - `INS-260326-6B99` Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
 - `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
+- `INS-260404-FF8D` Chamath's $380M write-down on Relativity Space illustrates how deep-tech venture bets can produce catastrophic single-position losses.
+- `INS-260404-7295` SignalFire's $1B+ raise validates that systematic data-driven approaches to venture capital can attract significant LP capital and compete with traditional relationship-driven models.
+- `INS-260403-DFA2` Sequoia found that deals everyone mildly liked underperformed deals that triggered strong conviction even with disagreement, so they eliminated middle-score options.
+- `INS-260403-970B` When a sector will produce few massive winners among thousands of failures, fund diversification through top-tier managers beats direct bets.
+- `INS-260403-735E` Only one-third of an experienced angel's top performers were rated high-conviction at investment time.
+- `INS-260403-032B` Larger fund sizes create a structural math problem where required ownership of winners becomes impossible, favoring smaller disciplined funds.
+- `INS-260404-7F24` Optionality embedded in fund structure creates asymmetric upside that rigid allocation models cannot capture.
+- `INS-260405-18AB` The math behind how many bets to make and how much to reserve matters as much as picking winners.
+- `INS-260405-C56F` In a power law return distribution, most investment decisions barely matter—what matters is maximizing ownership in the eventual outliers.
+- `INS-260404-81AB` Venture fund returns follow a power law where a small number of investments generate the majority of returns, making portfolio strategy fundamentally different from other asset classes.
+- `INS-260403-D8B5` VC returns follow power laws where one winner carries the fund, making conviction-based concentration superior to diversification.
+- `INS-260405-D959` In VC, the few massive winners determine fund performance, so diversification is a trap.
+- `INS-260405-3A6E` The power law of VC returns means outlier investments drive total fund performance, so strategy must be built around identifying and doubling down on them.
 - `INS-260403-9775` VC portfolio math requires every bet to be capable of returning the fund because most investments return zero.
+- `INS-260403-B224` Top-performing VCs reserve 30-50% of fund capital specifically for follow-on investments in breakout companies.
+- `INS-260404-B661` Secondaries have shifted from emergency liquidity tools to deliberate front-seat investment strategies for sophisticated investors.
+- `INS-260403-A2A6` Stanford research shows smaller funds thrive with one unicorn while mega-funds must chase decacorns to generate meaningful returns.
+- `INS-260403-92B5` Avoiding YC concentration means missing alpha, not managing risk, because YC network effects drive superior survival and exit outcomes.
+- `INS-260404-74DD` Even the worst Demo Day investors (3.3x TVPI) outperform the best quartile of traditional VC, validating accelerator-stage portfolio strategies.
+- `INS-260403-70B9` Tracking total capital deployed across follow-on rounds rather than just the initial investment reveals the true risk exposure and changes return calculations significantly.
+- `INS-260403-82B5` A $100M fund needs companies that can return 5-10x their check to matter, which mathematically eliminates certain exit paths and founder types.
+- `INS-260403-9867` Ask how many boards your partner currently sits on — it reveals more about likely support than any value-add pitch deck.
+- `INS-260403-9DEC` Sapphire Ventures' modeling shows concentrated reserves lift net returns from 4.0x to 5.0x, while broad pro-rata follow-ons sink them to 3.3x — and missing the breakout drops returns to 2.5x.
+- `INS-260403-67AB` 40% of startups die after seed and only 0.5-1% reach IPO, making portfolio-level strategy paramount.
+- `INS-260403-49EC` 65% of VC investments fail to return capital, fewer than 4% deliver 10x+, and in top funds the #1 exit often contributes over half the total value.
+- `INS-260403-8FD7` Screen for sector exit precedent before investing — if the only exits in a space are distressed fire sales, that's a structural warning, not a timing issue.

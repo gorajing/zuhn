@@ -52,7 +52,7 @@ related:
   - INS-260330-6D86
   - INS-260330-ED37
   - INS-260323-B811
-  - INS-260330-3698
+  - INS-260404-2135
 ---
 Harris argues that a pure body-count approach to moral judgment is fundamentally flawed. If a military force kills more civilians as unavoidable collateral damage while attempting to minimize casualties, that is categorically different from a force that kills fewer people but does so with the explicit goal of maximizing terror. The difference lies not in the numbers but in the ethical framework operating behind the actions.
 

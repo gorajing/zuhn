@@ -47,11 +47,11 @@ stance: >-
   judgment, overextension, and perfectionism — all curable by forcing a quick
   launch.
 related:
+  - INS-260403-77F4
+  - INS-260403-1E05
   - INS-260326-C305
   - PRI-260403-88F5
   - INS-260325-D797
-  - INS-260327-CA72
-  - INS-260330-7A80
 evidence:
   - id: INS-260325-D797
     type: SUPPORTS

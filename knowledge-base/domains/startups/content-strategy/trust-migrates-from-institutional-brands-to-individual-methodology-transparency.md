@@ -53,12 +53,12 @@ stance: >-
   signal in media.
 related:
   - INS-260327-E07A
-  - INS-260329-B77F
   - INS-260403-7878
   - PRI-260323-0942
+  - INS-260402-1146
   - INS-260403-22FE
   - INS-260405-1F65
-  - PRI-260405-675B
+  - INS-260403-20C3
 evidence:
   - id: INS-260403-22FE
     type: SUPPORTS

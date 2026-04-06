@@ -46,12 +46,12 @@ related:
   - PRI-260328-82BE
   - INS-260405-D660
   - INS-260327-0004
-  - INS-260330-568A
-  - INS-260330-1266
-  - INS-260327-CB1E
+  - INS-260403-183D
+  - INS-260403-D39A
   - INS-260327-889F
   - INS-260330-8156
-  - INS-260403-68C8
+  - INS-260404-433E
+  - INS-260403-165F
 stance: >-
   GoPro launched 9 generations and 20 models in 10 years, flooding the market
   with trivial improvements

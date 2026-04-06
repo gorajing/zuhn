@@ -44,10 +44,10 @@ stance: >-
   adversaries that adapt to find procrastinators wherever they work
 related:
   - INS-260327-E0B0
+  - INS-260327-98DE
+  - INS-260405-A309
   - INS-260403-B4DC
   - INS-260330-83D5
-  - INS-260325-F981
-  - PRI-260328-E349
 evidence:
   - id: INS-260327-E0B0
     type: TRANSFERS_TO

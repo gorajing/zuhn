@@ -57,13 +57,12 @@ stance: >-
   impossible because it enables political manipulation through selective
   leaking, regardless of whether any individual has something to hide
 related:
-  - INS-260330-E5F2
   - PRI-260328-7A9C
   - INS-260325-59D4
+  - INS-260403-9012
   - PRI-260327-0D6E
   - INS-260323-BC61
-  - INS-260325-C9EB
-  - INS-260330-27DF
+  - INS-260403-D7EF
 evidence:
   - id: INS-260325-C9EB
     type: SUPPORTS

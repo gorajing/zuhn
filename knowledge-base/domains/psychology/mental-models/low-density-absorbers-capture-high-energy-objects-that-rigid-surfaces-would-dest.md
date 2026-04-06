@@ -53,10 +53,10 @@ stance: >-
   Gradually decelerating a high-energy object through a porous medium preserves
   it, while a hard stop at a rigid surface vaporizes it.
 related:
-  - INS-260330-633F
   - INS-260330-8CCE
   - INS-260330-43D3
   - INS-260330-D795
+  - INS-260330-4B29
   - INS-260330-FEDD
 evidence:
   - id: INS-260330-4B29

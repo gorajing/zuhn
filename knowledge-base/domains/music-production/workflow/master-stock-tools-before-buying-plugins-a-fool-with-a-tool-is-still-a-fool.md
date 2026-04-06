@@ -43,24 +43,24 @@ resolutions:
     years. Ableton has a slight edge in 2026 due to tutorial ecosystem density.
 related:
   - PRI-260322-3DA5
+  - INS-260403-415E
   - INS-260323-0539
+  - INS-260404-943E
   - INS-260403-4C61
-  - INS-260330-A9F0
-  - INS-260404-621F
 stance: >-
   Learn your DAW's stock EQ, compression, synths, and spatial effects before
   buying any third-party plugins.
 evidence:
   - id: INS-260323-0539
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-A9F0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-8688
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-4C61
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D375
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Beginners cannot benefit from expensive plugins because they don't understand the core concepts those plugins extend. Learn to drive before choosing a car. Stock tools teach fundamentals: EQ shapes frequency, compression controls dynamics, spatial effects create depth. Once you truly understand these through your DAW's built-in tools, you'll know exactly what third-party plugins add and why.
 

@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 23 insights
+> 26 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
@@ -17,10 +17,13 @@
 - `INS-260403-3831` [high] Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
 - `INS-260403-D645` [high] Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.
 - `INS-260403-EA2C` [high] Programmer throughput is constant in lines/day, so more succinct languages directly multiply output.
+- `INS-260402-7999` [high] Great software is written by sketching and refining, not by executing a pre-completed blueprint.
 - `INS-260403-410A` [high] Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260403-0A7A` [high] Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 - `INS-260404-E6F9` [high] Plants evolved entire metabolic pathways just to handle RuBisCo's toxic byproduct, showing how workarounds for legacy decisions become load-bearing infrastructure.
+- `INS-260403-F835` [medium] Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
 - `INS-260403-59F4` [medium] Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
+- `INS-260330-5747` [medium] Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260403-0902` [medium] Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260403-F9F0` [medium] When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.
 - `INS-260402-5242` [medium] Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.

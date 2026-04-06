@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Announcing a brand-new podcast: “How I AI” with Claire Vo \U0001F525"
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/announcing-a-brand-new-podcast-how'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Focused, short demos change AI behavior faster than comprehensive
@@ -60,6 +48,12 @@ resolutions:
 stance: >-
   30-minute demo-focused episodes drive more AI behavior change in viewers than
   hour-long conceptual discussions.
+related:
+  - PRI-260405-0AC6
+  - INS-260330-1839
+  - INS-260403-36DD
+  - PRI-260323-0654
+  - INS-260403-B6D9
 ---
 The format design of 'How I AI'—capped at ~30 minutes, single use case, live demo—is a deliberate bet on a specific theory of behavior change: people adopt new tools when the cognitive distance between 'watching someone do it' and 'trying it myself' is small. Long-form content creates a sense of having learned without triggering the try-it impulse. Short demos do the opposite.
 

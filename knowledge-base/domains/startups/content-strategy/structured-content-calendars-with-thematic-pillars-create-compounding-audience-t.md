@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Learn With Me
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/learn-with-me'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Organizing content around defined thematic pillars on a predictable schedule
@@ -60,6 +50,12 @@ stance: >-
   Publishing educational deep dives on a predictable schedule across defined
   thematic pillars builds more audience trust and engagement than ad-hoc content
   creation
+related:
+  - INS-260329-BC11
+  - INS-260403-4D04
+  - INS-260403-C907
+  - INS-260329-13D2
+  - PRI-260323-DAB9
 ---
 Chamath structures his content output around five thematic pillars (deep tech, energy transition, healthcare, economic analysis, socio-political trends) with a predictable monthly cadence. Each pillar is chosen because it represents a lens for understanding how the world is changing, not because it's trending.
 

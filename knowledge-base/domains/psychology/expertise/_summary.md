@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 62 insights
+> 71 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
@@ -12,6 +12,7 @@
 - `INS-260402-607A` [high] Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - `INS-260403-AAE4` [high] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260330-790A` [high] Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
+- `INS-260404-FADE` [high] Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
 - `INS-260402-46AD` [high] The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
 - `INS-260404-BE07` [high] A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
 - `INS-260403-A8B1` [high] Across wildly different fields, Graham's heroes shared exactly two traits: excessive care about their work and absolute refusal to pander.
@@ -21,12 +22,14 @@
 - `INS-260330-E881` [high] Expert hackers are a tiny minority, but their tool choices cascade to the majority through influence, authority, and the software they create.
 - `INS-260403-2612` [high] Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
 - `INS-260403-E2FB` [high] Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply.
+- `INS-260403-48FE` [high] Treating new work as experiments means even failures produce knowledge, removing the psychological cost of early-stage lameness.
 - `INS-260403-2B63` [high] Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
 - `INS-260403-DE28` [high] Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
 - `INS-260404-AB0F` [high] When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
 - `INS-260402-D0F3` [high] Dishonesty in thinking doesn't just produce biased conclusions — it produces boring ones by preventing the discovery of surprising ideas.
 - `INS-260403-A4CF` [high] Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
 - `INS-260403-A06E` [high] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
+- `INS-260404-55E1` [high] Calling ambitious work 'just a sketch' or 'just a hack' sidesteps perfectionism paralysis while preserving the option to upgrade scope later.
 - `INS-260330-7D21` [high] Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260403-8114` [high] Understanding a mechanism's physics does not grant the ability to operate it skillfully.
 - `INS-260404-EDEC` [high] The 1987 supernova neutrino arrival simultaneously with light over tens of thousands of light-years outweighed the OPERA result over 454 miles.
@@ -35,14 +38,18 @@
 - `INS-260403-B6FD` [high] False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260402-72EF` [high] Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260402-0D16` [high] Programming languages shape how practitioners think, making adoption a cognitive transformation rather than a simple tool swap — which is why features take decades to go mainstream.
+- `INS-260402-1146` [high] Sustained proof-of-work builds a reputation signal that eventually outcompetes brand theatrics and institutional prestige in sophisticated markets.
+- `INS-260403-C428` [high] Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
 - `INS-260403-9DE0` [high] If you can get better at something through practice, objective quality must exist in that domain.
 - `INS-260403-C135` [high] Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
+- `INS-260330-2666` [high] Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
 - `INS-260402-E11A` [high] If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
 - `INS-260403-7093` [high] Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 - `INS-260403-6EA6` [high] Skills that can be mass-taught get mass-produced, driving wages toward training cost plus minimal return.
 - `INS-260403-EDB9` [high] The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260403-A1DF` [high] Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-D022` [high] Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
+- `INS-260403-497B` [medium] Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260403-83E2` [medium] Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260403-F60C` [medium] Deep knowledge of how code fails makes technologists rationally skeptical of smart devices and automated systems.
 - `INS-260404-0570` [medium] You must develop your own quality judgments because institutional gatekeepers' incentives often diverge from honest evaluation.
@@ -58,6 +65,8 @@
 - `INS-260403-8B92` [medium] Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
 - `INS-260403-C6DC` [medium] The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260402-B12D` [medium] Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
+- `INS-260404-4666` [medium] Studying the embarrassingly rough early work of great creators teaches you to judge your own early efforts more accurately.
+- `INS-260403-D75D` [medium] Studying the humble origins of great work trains you to see early efforts for what they actually are rather than dismissing them.
 - `INS-260403-1202` [medium] Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
 - `INS-260403-14D5` [medium] You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - `INS-260403-875B` [medium] Tracking which fields students flee to when they find their current one too hard reveals a natural hierarchy of intellectual difficulty.

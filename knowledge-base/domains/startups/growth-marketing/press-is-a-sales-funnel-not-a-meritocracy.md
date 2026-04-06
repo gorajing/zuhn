@@ -54,11 +54,11 @@ stance: >-
   follow-up — not organic discovery of interesting companies.
 related:
   - INS-260323-CD03
-  - INS-260329-DAC4
   - INS-260329-D1A1
-  - INS-260404-087C
-  - PRI-260403-0ABD
-  - INS-260403-FC45
+  - INS-260329-DAC4
+  - INS-260403-4F8D
+  - INS-260405-270B
+  - INS-260404-2032
 evidence:
   - id: INS-260323-CD03
     type: EXTENDS

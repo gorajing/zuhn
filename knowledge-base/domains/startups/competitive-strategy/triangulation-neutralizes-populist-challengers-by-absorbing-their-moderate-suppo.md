@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: The Takaichi Era begins for real
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/the-takaichi-era-begins-for-real'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Takaichi neutralized Japan's Trumpian anti-immigration party by adopting
@@ -68,6 +56,12 @@ stance: >-
   Incumbents who adopt measured versions of insurgent positions defuse populist
   threats more effectively than either ignoring or fully matching the
   insurgent's stance.
+related:
+  - INS-260403-6C99
+  - INS-260323-D6BD
+  - INS-260403-25F3
+  - PRI-260324-3AAE
+  - INS-260403-D7EF
 ---
 When the populist Sanseito party emerged with a Trumpian anti-foreign platform, Takaichi didn't ignore immigration concerns or match the extremism. Instead, she triangulated — tightening naturalization requirements, improving screening, and adjusting some visa rules while maintaining overall immigration inflows. This convinced voters the government heard their complaints about misbehaving foreigners (mostly tourists), draining Sanseito's support base.
 

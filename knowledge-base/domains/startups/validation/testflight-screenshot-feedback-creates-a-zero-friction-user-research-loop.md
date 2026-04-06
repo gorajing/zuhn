@@ -45,13 +45,13 @@ stance: >-
   underutilized user research tool for mobile apps because it captures
   in-context frustration at the exact moment it occurs.
 related:
-  - INS-260321-AD95
   - INS-260326-8217
   - INS-260329-F84E
+  - INS-260329-03B5
+  - INS-260321-AD95
   - INS-260330-2F22
-  - INS-260402-2632
   - INS-260330-B784
-  - INS-260404-226F
+  - INS-260403-7EB2
 evidence:
   - id: INS-260329-F84E
     type: EXTENDS

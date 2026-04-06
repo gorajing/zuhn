@@ -41,14 +41,14 @@ stance: >-
   valuation dynamics disconnected from fundamentals.
 related:
   - INS-260327-B47E
+  - INS-260403-3F2C
   - INS-260329-5B3D
   - INS-260403-9CD9
   - INS-260329-60CF
   - INS-260327-B815
-  - INS-260402-8424
-  - INS-260329-ACFF
   - INS-260330-8849
   - INS-260403-E71A
+  - INS-260405-5B4D
 evidence:
   - id: INS-260327-B47E
     type: CHALLENGES

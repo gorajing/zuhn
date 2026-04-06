@@ -48,10 +48,10 @@ stance: >-
   number of node-pairs, not linearly with people.
 related:
   - INS-260405-2C44
+  - INS-260403-7BCF
   - INS-260322-C935
   - PRI-260405-64B2
   - INS-260404-CF81
-  - INS-260322-B6DE
 evidence:
   - id: INS-260322-B6DE
     type: CHALLENGES

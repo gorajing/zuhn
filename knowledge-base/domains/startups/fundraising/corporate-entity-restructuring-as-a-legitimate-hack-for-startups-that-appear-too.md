@@ -20,35 +20,14 @@ sources:
     title: >-
       How Two European Founders Raised $4M, Secured a Microsoft Deal, and Broke
       Into Silicon Valley
-    author:
-      - '@type': Person
-        name: Daniel Olmedo
-        url: 'https://substack.com/@danielolmedo'
-        description: Founder of EasyVC
-        identifier: 'user:251811581'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!EdYZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638c4ab0-eecc-467c-842b-324853ab2bac_364x364.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!EdYZ!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638c4ab0-eecc-467c-842b-324853ab2bac_364x364.jpeg
-      - '@type': Person
-        name: Begoña Fernández-Cid
-        url: 'https://substack.com/@begofc'
-        description: Co-Founder of EasyVC and Co-Founder of Nware
-        identifier: 'user:314546015'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!BWPW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde46611c-e1a3-4ba5-8cd7-7ba2d35cfa6e_800x800.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!BWPW!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde46611c-e1a3-4ba5-8cd7-7ba2d35cfa6e_800x800.jpeg
+    author: 'Daniel Olmedo, Begoña Fernández-Cid'
     url: 'https://www.thevccorner.com/p/how-two-european-founders-raised'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     If your company appears too old for VC fundraising timelines, incorporate a
@@ -75,6 +54,13 @@ stance: >-
   Founders whose companies seem 'too old' for investors can incorporate a new
   entity while retaining resources and learnings from the old one, resetting the
   perceived age without losing accumulated advantages
+related:
+  - INS-260403-9F23
+  - PRI-260403-26B9
+  - INS-260403-53C0
+  - INS-260405-5BA9
+  - INS-260404-E9F2
+  - INS-260403-5E86
 ---
 The founders relay advice from Silicon Valley investors: founders who spent years consulting, pivoting, and testing before finding product-market fit often face investor skepticism because their company looks 'too old' relative to its stage. The hack is straightforward — incorporate a new company, transfer the relevant resources and team, and pitch the new entity with a fresh incorporation date while leveraging all prior learnings.
 

@@ -56,6 +56,7 @@ related:
   - INS-260405-C3B0
   - INS-260323-3F30
   - INS-260330-568F
+  - INS-260402-E7F7
 stance: >-
   The question of whether AI can be a moral patient is empirically testable
   through prolonged interaction

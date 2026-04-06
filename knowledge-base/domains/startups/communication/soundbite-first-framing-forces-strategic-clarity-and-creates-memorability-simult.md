@@ -51,8 +51,6 @@ stance: >-
   communication tactic and a diagnostic tool—if you can't do it, your plans may
   not be sufficiently focused.
 related:
-  - INS-260320-C65B
-  - INS-260327-BF43
   - INS-260329-5B18
   - INS-260403-EF30
   - INS-260403-F171
@@ -61,6 +59,8 @@ related:
   - INS-260403-FC45
   - INS-260403-C5D8
   - INS-260403-21C4
+  - INS-260404-2BAD
+  - INS-260404-2F49
 evidence:
   - id: INS-260320-C65B
     type: TRANSFERS_TO

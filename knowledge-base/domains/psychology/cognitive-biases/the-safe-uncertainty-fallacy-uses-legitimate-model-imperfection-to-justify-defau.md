@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: What Happened With Bio Anchors?
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/what-happened-with-bio-anchors'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are
@@ -62,6 +52,14 @@ stance: >-
   People systematically exploit the fact that no forecast is perfectly certain
   to dismiss uncomfortable predictions and maintain their default assumption
   that things will remain normal.
+related:
+  - INS-260329-5924
+  - INS-260403-979D
+  - INS-260404-D711
+  - INS-260404-1D05
+  - INS-260405-5E18
+  - INS-260403-B228
+  - PRI-260324-2C9F
 ---
 When Bio Anchors critics identified that the model was imperfect and could fail, many defaulted to what the author calls the Safe Uncertainty Fallacy: since we can never be sure a model is exactly right, things are uncertain, which means we can continue to believe everything is fine and normal. But as Yudkowsky pointed out, uncertainty is symmetric — an imperfect forecast could be wrong in either direction, including being too conservative.
 

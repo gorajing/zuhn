@@ -19,24 +19,14 @@ tags:
 sources:
   - type: blog
     title: What I Read This Week…
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/wirtw-250920'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Oracle's $300B OpenAI deal dwarfs OpenAI's $12.7B projected revenue,
@@ -62,6 +52,12 @@ stance: >-
   counterparty concentration where obligations exceed the customer's entire
   revenue base by orders of magnitude, making the provider's balance sheet
   hostage to a single bet.
+related:
+  - INS-260403-8450
+  - INS-260403-8EE8
+  - INS-260404-4146
+  - INS-260330-DC0D
+  - INS-260327-5DD2
 ---
 Oracle locked in a $300 billion, five-year cloud infrastructure deal with OpenAI as part of Project Stargate, causing its remaining performance obligations to rocket to $455 billion (up 359% YoY). Critics flag the AI bubble risk: OpenAI's projected 2025 revenue of $12.7B is a fraction of the deal's size, meaning Oracle's financial future is heavily concentrated in one counterparty whose own economics are unproven at scale.
 

@@ -43,12 +43,11 @@ stance: >-
   their competitors dismiss as weird rather than from executing the same stack
   better
 related:
+  - INS-260403-96F9
+  - INS-260403-42E4
   - INS-260403-16D7
   - INS-260403-43B9
   - INS-260323-FFE8
-  - INS-260403-924B
-  - INS-260403-C7A0
-  - INS-260404-BA3D
 evidence:
   - id: INS-260323-748A
     type: CONTRADICTS

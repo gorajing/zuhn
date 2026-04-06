@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: Headcount Planning Template to Control Startup Burn
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/headcount-planning-module-excel-template'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When hiring plans live in Notion, runway models in Excel, and compensation
@@ -58,6 +48,13 @@ resolutions:
 stance: >-
   The organizational separation of hiring decisions across finance, HR, and
   leadership is a structural failure mode that causes preventable runway crises
+related:
+  - INS-260326-3CDE
+  - INS-260403-8C2D
+  - INS-260403-BF1F
+  - INS-260403-EB0F
+  - INS-260403-A538
+  - INS-260403-A752
 ---
 The article identifies a specific organizational failure pattern: hiring decisions get made in three separate silos. Founders approve headcount during investor calls, finance signs off on raises without knowing HR's pipeline, and HR queues offers without visibility into runway constraints. Each decision seems reasonable in isolation, but the compound effect is that 'runway dies in spreadsheets.'
 

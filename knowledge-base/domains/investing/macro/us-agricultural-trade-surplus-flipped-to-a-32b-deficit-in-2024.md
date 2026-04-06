@@ -16,42 +16,19 @@ tags:
 sources:
   - type: blog
     title: Who Controls the American Food Supply?
-    author:
-      '@type': Organization
-      name: Chamath Palihapitiya
-      url: 'https://chamath.substack.com'
-      description: |-
-        I make bets on disruptive ideas, technology, and people.
-
-        Subscribe to learn with me.
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 100000
-      identifier: 'pub:975637'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
+    author: >-
+      {"@type":"Organization","name":"Chamath
+      Palihapitiya","url":"https://chamath.substack.com","description":"I make
+      bets on disruptive ideas, technology, and people.\n\nSubscribe to learn
+      with
+      me.","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":100000},"identifier":"pub:975637","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png"}}
     url: 'https://chamath.substack.com/p/deep-dive-american-agriculture'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     America's $32B agricultural trade deficit in 2024 signals a structural shift
@@ -81,6 +58,13 @@ stance: >-
   The US shift from net food exporter to net importer in 2024 marks a structural
   inflection, not a cyclical anomaly, with long-term implications for food
   security and trade policy.
+related:
+  - INS-260405-ECD2
+  - INS-260403-7779
+  - INS-260330-9BC4
+  - INS-260404-DA3A
+  - INS-260405-3753
+  - INS-260403-6988
 ---
 For most of modern history, the US has been a dominant agricultural exporter, running consistent trade surpluses in food. In 2024, that surplus flipped to a $32 billion deficit — a reversal that reflects the compounding of farm input cost inflation, water depletion in key growing regions, labor shortages, and demand patterns the domestic supply chain was not built to serve.
 

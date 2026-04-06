@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260327-8D7E
   - INS-260329-A57C
+  - INS-260403-93FA
+  - INS-260403-76F5
   - INS-260329-7B47
-  - INS-260330-410A
-  - INS-260327-4E28
 evidence:
   - id: INS-260327-8D7E
     type: CONTRADICTS

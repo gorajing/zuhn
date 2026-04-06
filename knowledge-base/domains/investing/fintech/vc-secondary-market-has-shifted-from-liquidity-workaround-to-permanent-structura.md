@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Why the VC Secondary Market Is Booming in 2025
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/vc-secondary-market'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VC secondaries have evolved from emergency liquidity hacks into planned,
@@ -59,6 +49,15 @@ stance: >-
   Secondaries are no longer a temporary fix for frozen exit markets but a
   permanent structural layer in venture capital that will persist even when IPO
   windows reopen.
+related:
+  - INS-260404-B661
+  - INS-260404-E55F
+  - INS-260405-C49E
+  - INS-260405-2F43
+  - INS-260403-2668
+  - INS-260405-25E5
+  - INS-260404-DA3A
+  - INS-260405-B7C0
 ---
 The VC secondary market hit $152 billion in 2024 transaction volume, up 39% year-over-year, and now accounts for nearly 29% of all venture deal activity (up from 16% in 2020). This growth isn't purely reactive to frozen IPO markets—top-tier funds are proactively building secondary paths into their fund lifecycle through continuation vehicles, structured tenders, and LP-led transfers. LPs are now negotiating transfer rights and liquidity windows during fund formation itself.
 

@@ -58,7 +58,6 @@ related:
   - INS-260330-D460
   - INS-260330-843E
   - PRI-260405-EBC6
-  - INS-260403-8402
 ---
 The essay documents how 70% of Americans believe homebuying is harder than for previous generations, yet the homeownership rate has stayed within ±4% of 65% for 60 years. This tension — persistent desire meeting rising inaccessibility — doesn't result in suppressed demand. Instead, it creates a 'demand vacuum' that pulls new categories into existence: rent-to-own, fractional ownership, real-estate-as-security, and co-ownership models that didn't exist a decade ago.
 

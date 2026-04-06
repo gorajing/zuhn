@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Maybe you should have bought an electric car
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/maybe-you-should-have-bought-an-electric'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The 1973 and 1979 oil crises permanently shifted the market toward
@@ -62,6 +50,14 @@ stance: >-
   represents a recurring strategic failure that will prove fatal this time
   because batteries have crossed the cost threshold where EVs are simply better
   products.
+related:
+  - INS-260327-5E03
+  - INS-260327-9B97
+  - INS-260405-7DC3
+  - INS-260403-E992
+  - PRI-260325-070D
+  - PRI-260328-8284
+  - INS-260327-DD1D
 ---
 Historical pattern: oil shock → consumers flee to efficient vehicles → crisis ends → incumbents revert to high-margin gas guzzlers → next shock catches them unprepared. The 1970s oil crises enabled Japanese automakers to gain permanent US market share. Detroit recovered in the late 90s/2000s by pivoting to SUVs when oil was cheap.
 

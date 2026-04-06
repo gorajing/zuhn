@@ -50,8 +50,11 @@ stance: >-
 related:
   - INS-260330-766D
   - INS-260403-6061
+  - INS-260405-4D20
+  - INS-260403-9421
   - INS-260329-476D
-  - INS-260322-BFDE
-  - INS-260322-AAEA
+  - INS-260404-5A02
+  - INS-260403-4963
+  - INS-260403-AA20
 ---
 Chesky identifies three things nobody tells you about culture: nobody talks about it, it's hard to measure (and unmeasured things get discounted), and it doesn't pay off short-term. He goes further: culture actively hurts short-term speed because it makes you hire slowly, be deliberate about decisions, and sometimes pass on talented people who don't fit. This is the key insight — culture isn't free. It has a real cost measured in slower hiring, rejected candidates, and delayed features. The analogy to fitness is precise: culture requires daily habit, not crash diets. Companies that treat culture as a one-time offsite exercise get the equivalent of a crash diet — temporary results followed by cultural obesity. The implication is that founders must consciously choose to pay the short-term cost, understanding that the compound returns only materialize over years.

@@ -53,10 +53,10 @@ stance: >-
   adding more data to existing frameworks.
 related:
   - INS-260325-DFA5
+  - INS-260403-B280
   - INS-260327-8936
+  - INS-260330-28BE
   - INS-260326-DBEF
-  - PRI-260328-D292
-  - INS-260326-5E07
 evidence:
   - id: INS-260327-8936
     type: SUPPORTS

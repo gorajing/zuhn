@@ -51,11 +51,11 @@ stance: >-
   optimization toward more of what already works, not from intentional
   revolution.
 related:
+  - INS-260405-AD58
   - INS-260330-D429
   - INS-260327-7A27
   - INS-260325-02F2
   - PRI-260328-BF67
-  - PRI-260328-E1CE
 evidence:
   - id: INS-260330-D429
     type: SUPPORTS

@@ -20,26 +20,14 @@ sources:
     title: >-
       Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology
       and Comfort Are Rewiring a Generation
-    author:
-      - '@type': Person
-        name: Clare Ashcraft
-        url: 'https://substack.com/@clareashcraft'
-        description: >-
-          Reluctant skeptic & writer interested in personal identity,
-          philosophy, psychology, and culture. 
-        identifier: 'user:29275192'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!M2mk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60262b54-0694-4a39-a2f7-cba61244f59d_2399x3600.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!M2mk!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60262b54-0694-4a39-a2f7-cba61244f59d_2399x3600.jpeg
+    author: Clare Ashcraft
     url: 'https://www.thevccorner.com/p/gen-z-digital-addiction-comfort-crisis'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When people sever their connection to bodily experience, unfamiliar physical
@@ -68,6 +56,17 @@ stance: >-
   Living primarily in the mind rather than the body destroys the ability to
   trust one's own sensations, turning unfamiliar physical experiences into
   anxiety triggers
+related:
+  - INS-260323-099F
+  - INS-260323-8848
+  - INS-260326-35CE
+  - INS-260330-3491
+  - INS-260330-2988
+  - INS-260330-88B0
+  - INS-260403-5DD6
+  - INS-260405-E8D8
+  - PRI-260327-A7C5
+  - INS-260325-0E1D
 ---
 The essay identifies a specific psychological mechanism: generations ago, daily physical labor and environmental exposure kept people calibrated to their bodies' signals. Climate control, sedentary work, and screen-based living mean Gen Z bodies rarely experience the full range of physical sensation — temperature regulation, exertion, physical risk. When unfamiliar sensations do arise, the lack of baseline experience means they're interpreted as threats rather than normal variation.
 

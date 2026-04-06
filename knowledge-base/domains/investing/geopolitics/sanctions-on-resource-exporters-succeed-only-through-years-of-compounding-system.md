@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #75: Checking in on the Bad Guys'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-75-checking-in-on-the-bad'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sanctions work against resource exporters but require years of compounding
@@ -62,6 +50,12 @@ stance: >-
   regime-threatening instability, but only after years of compounding economic
   pain that bifurcates government budgets and forces alternative financing
   arrangements
+related:
+  - PRI-260328-37D8
+  - PRI-260321-0A4D
+  - INS-260403-5710
+  - INS-260403-940F
+  - INS-260330-5A0B
 ---
 Iran's case demonstrates the long arc of sanctions effectiveness. The regime has been forced into bifurcated budgets (rial vs crude-oil allocations), selling oil primarily to China through unconventional channels, and using oil shipments as direct payment for military operations. Combined with a self-inflicted water crisis and banking failures, sanctions have produced 42% official inflation (likely higher), 72% food price surges, and currency collapse.
 

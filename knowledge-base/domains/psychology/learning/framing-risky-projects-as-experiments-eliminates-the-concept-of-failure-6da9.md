@@ -16,26 +16,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When you treat a project as an experiment, every outcome—including
@@ -62,6 +50,17 @@ stance: >-
   Reframing ambitious projects as learning experiments rather than
   success-or-failure bets makes people more likely to start and persist through
   difficulty.
+related:
+  - INS-260325-B8D4
+  - INS-260325-5023
+  - INS-260327-679A
+  - INS-260327-8D82
+  - INS-260327-7D75
+  - INS-260327-9F46
+  - INS-260329-4A09
+  - INS-260329-B34E
+  - INS-260330-90AD
+  - INS-260403-6935
 ---
 Graham and Lisa Randall both advocate treating new projects as experiments rather than commitments to succeed. This reframe changes the payoff matrix: in the success-or-failure frame, anything short of the goal is a loss. In the experiment frame, even complete failure produces information ('the theorem is false,' 'this structural member fails under stress'), so the minimum return is always positive.
 

@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260321-822B
   - INS-260327-40DA
+  - INS-260402-9EBD
   - INS-260321-6437
-  - INS-260325-5B7F
-  - INS-260321-B7CB
+  - INS-260405-3805
 evidence:
   - id: INS-260321-6437
     type: TRANSFERS_TO

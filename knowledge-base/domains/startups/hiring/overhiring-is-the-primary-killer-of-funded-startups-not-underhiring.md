@@ -46,11 +46,11 @@ stance: >-
   increasing growth
 related:
   - INS-260330-7C05
-  - INS-260330-F08F
   - PRI-260405-86E0
+  - INS-260403-4227
   - PRI-260403-26B9
   - INS-260403-A57D
-  - PRI-260328-4810
+  - INS-260404-EC32
 ---
 Founders convince themselves they need to hire to grow, but most overestimate this need. The large staffs of successful startups are more the effect of growth than its cause. Naive founders think throwing people at problems will solve them, but at the early stage products need to evolve more than be 'built out,' which is usually easier with fewer people.
 

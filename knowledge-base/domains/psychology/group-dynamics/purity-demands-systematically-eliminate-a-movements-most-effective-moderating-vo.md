@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Support Your Local Collaborator
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/support-your-local-collaborator'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Demanding public loyalty oaths from sympathetic insiders converts them from
@@ -58,6 +48,12 @@ stance: >-
   Social pressure campaigns that demand ideological purity within movements
   destroy the moderate insider positions that produce the highest-leverage
   policy outcomes.
+related:
+  - INS-260330-D066
+  - INS-260330-7D5F
+  - INS-260402-B817
+  - INS-260330-1FA8
+  - INS-260403-C37D
 ---
 When moderates within a system are pressured to publicly denounce that system, they lose the very insider status that made them valuable. The result is a lose-lose: the movement gets a brief cathartic moment of solidarity, while permanently losing its best channel for influencing outcomes. The moderates are then replaced by loyalists selected purely for compliance.
 

@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 67 insights
+> 72 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -14,6 +14,7 @@
 - `INS-260323-C9B1` [high] Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
 - `INS-260330-966E` [high] When underwater cavitation bubbles collapse, the compression can generate temperatures hot enough to produce light (sonoluminescence), showing how mundane initial conditions can concentrate energy to extreme densities.
 - `INS-260330-9BB5` [high] Underwater gas bubbles oscillate through multiple collapse-rebound cycles because fluid momentum carries the bubble past equilibrium in both directions.
+- `INS-260323-5BEF` [high] Objects appear to follow single trajectories not because they do, but because the crazy paths cancel each other out — only paths near the least-action path constructively interfere and survive.
 - `INS-260330-881A` [high] The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260404-842D` [high] Conservation of energy forces the collision dynamics onto a circle in velocity phase space, which is why pi emerges from a counting problem.
 - `INS-260330-85AA` [high] Aerogel insulates better than air despite being 99% air because its pores are smaller than air molecules' mean free path.
@@ -28,7 +29,9 @@
 - `INS-260330-5D8A` [high] Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260330-D0F8` [high] Exit velocity depends on the speed differential and coupling efficiency between bat and ball, not just bat speed.
 - `INS-260330-CA62` [high] Entropy measures how spread out energy is, not how 'messy' a system looks.
+- `INS-260325-D037` [high] Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
 - `INS-260330-CA43` [high] A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
+- `INS-260330-FF94` [high] Accurate scale models require identifying the dominant physical ratio, not matching every parameter.
 - `INS-260323-849E` [high] Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
 - `INS-260330-04F9` [high] On a flat disc Earth, gravity would pull increasingly sideways toward the center as you moved to the edges, making walking, water flow, and weather radically different from our spherical experience.
 - `INS-260404-E0FD` [high] Spinning objects feel lighter because gravity's torque is redirected into precession, not because weight actually decreases.
@@ -40,6 +43,7 @@
 - `INS-260330-DFA4` [high] Tyson's experiment at Princeton showed astrophysical publications double every 15-18 years, meaning every generation on the exponential curve genuinely feels like they're living in special times.
 - `INS-260330-E70C` [high] A mere 2 PSI applied over 600 square inches generates 1200 pounds of lifting force while the surface remains completely soft.
 - `INS-260330-7EFD` [high] Extending Schwarzschild's coordinates to their mathematical limits revealed white holes, parallel universes, and wormholes - none of which were anticipated.
+- `INS-260330-09F8` [high] Photons from the sun's fusion reactions excite electrons in chlorophyll, and the entire electron transport chain exists to convert that fusion energy into ATP and NADPH.
 - `INS-260330-300D` [high] Holograms work because they record phase via interference with a reference beam, while photographs only capture amplitude.
 - `INS-260325-A72C` [high] Physics succeeds by stripping everything to ideal cases (spherical cows) then adding complexity back — a strategy that works for physics but fails for psychology or biology.
 - `INS-260323-3E21` [high] Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
@@ -54,6 +58,7 @@
 - `INS-260323-72EB` [high] Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260323-76FE` [high] Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
 - `INS-260330-7FAC` [high] Boltzmann showed entropy increase is not a law but a near-certainty driven by combinatorics at scale.
+- `INS-260330-07B1` [high] Earth radiates back the same energy it receives from the sun; what we actually use is the low entropy — concentrated energy in fewer, higher-energy photons.
 - `INS-260330-97A0` [high] Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260330-2DF9` [high] Jupiter's gravitational flexing of Europa generates enough internal heat to maintain a subsurface liquid ocean, proving life doesn't require proximity to a star.
 - `INS-260405-D3B5` [high] The Magnus effect is negligible at low speeds but at 126m of freefall it curves a basketball dozens of meters sideways — the same physics, radically different outcomes.

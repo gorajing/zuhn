@@ -57,11 +57,11 @@ stance: >-
   higher than it appears, because most work goes toward restoring the inputs
   needed to run the next iteration
 related:
-  - INS-260403-5648
   - INS-260404-D1F6
   - INS-260404-F69A
   - INS-260405-A103
-  - INS-260403-07D2
+  - INS-260403-5648
+  - INS-260330-6AB7
 evidence:
   - id: INS-260404-D1F6
     type: SUPPORTS

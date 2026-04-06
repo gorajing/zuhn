@@ -52,8 +52,8 @@ stance: >-
   Deliberately watching what happens to a thought — rather than engaging with or
   suppressing it — causes the thought to dissolve faster than either alternative
 related:
-  - INS-260330-3C2F
   - INS-260330-6E6A
+  - INS-260330-3C2F
   - INS-260330-BCC7
   - PRI-260324-1134
   - INS-260325-3589

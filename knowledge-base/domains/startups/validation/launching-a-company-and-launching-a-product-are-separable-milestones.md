@@ -47,13 +47,14 @@ stance: >-
   resolved cofounder dynamics, and investor momentum — well before its product
   ships.
 related:
-  - INS-260326-C305
-  - INS-260328-9415
   - PRI-260403-26B9
+  - INS-260404-771B
   - INS-260322-A02C
   - INS-260403-7E27
-  - INS-260403-99B1
-  - INS-260402-910C
+  - INS-260405-5BA9
+  - INS-260403-5598
+  - INS-260403-1E05
+  - INS-260403-8DB5
 ---
 Graham explicitly separates company launch from product launch, noting that several of YC's most promising startups hadn't shipped products but were 'definitely launched as companies.' The YC model treats Demo Day as a company launch event — founders present to investors with clear direction, resolved team dynamics, and momentum, even if the product itself needs more build time.
 

@@ -47,23 +47,25 @@ stance: >-
   The proton motive force — not ATP itself — is the fundamental energy storage
   mechanism that unifies respiration and photosynthesis.
 related:
-  - INS-260330-7E39
-  - INS-260404-46AA
   - PRI-260403-70D0
-  - INS-260330-8A2E
-  - INS-260330-7FF3
+  - INS-260403-FC01
   - INS-260404-6AD7
+  - INS-260405-64C5
+  - INS-260330-100F
+  - INS-260330-9FAA
+  - INS-260330-1677
+  - INS-260330-972B
 evidence:
   - id: INS-260330-30FB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3037
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-FA36
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6876
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6AD7
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The thylakoid membrane in chloroplasts charges like a battery by accumulating protons on one side. ATP synthase then harvests this gradient to produce ATP — the exact same mechanism mitochondria use in cellular respiration, just running in reverse.
 

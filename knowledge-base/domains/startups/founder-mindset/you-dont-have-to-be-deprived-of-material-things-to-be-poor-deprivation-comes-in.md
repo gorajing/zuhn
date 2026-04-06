@@ -49,13 +49,13 @@ resolutions:
     vs. money-seeking vs. validation-seeking) determines whether that drive can
     be sustainably channeled or will eventually become self-destructive.
 related:
-  - INS-260325-A36F
   - INS-260323-B230
   - INS-260323-FA30
   - INS-260323-9D21
   - INS-260330-669C
+  - INS-260403-7A1D
   - PRI-260328-B11D
-  - INS-260326-2259
+  - INS-260403-B805
 stance: >-
   Atlas discovered that his anger and street violence came from emotional
   poverty despite material comfort

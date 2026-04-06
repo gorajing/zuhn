@@ -50,12 +50,12 @@ stance: >-
   philanthropy — 'free internet' and 'faster pages' are trojan horses for
   centralizing control.
 related:
-  - INS-260327-812B
+  - INS-260403-2496
   - INS-260330-13EE
   - INS-260330-460D
   - INS-260327-768D
+  - INS-260404-6D4D
   - INS-260403-76E9
-  - INS-260330-8481
 evidence:
   - id: INS-260330-460D
     type: SUPPORTS

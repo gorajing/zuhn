@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "Rate Cuts\U0001F62C, 80+ Ways to Fund Without Diluting\U0001F4B8, AI Is Breaking Valuation Models\U0001F4A3"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Employers are accountable for AI agent actions, and current policy gaps
@@ -60,6 +50,13 @@ stance: >-
   Organizations bear legal accountability for autonomous agent actions within
   their systems, creating an underpriced liability exposure as agents gain real
   decision-making authority.
+related:
+  - INS-260320-9D89
+  - INS-260330-59BC
+  - INS-260403-0350
+  - INS-260405-1A3C
+  - INS-260405-DB32
+  - INS-260327-B5C9
 ---
 As AI agents move from generating suggestions to executing real decisions—placing orders, sending communications, modifying records—the question of liability becomes urgent. The emerging legal consensus is that the deploying organization, not the model provider, bears accountability for agent actions within their systems. This mirrors employer liability for employee actions.
 

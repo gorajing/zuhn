@@ -49,10 +49,10 @@ resolutions:
     philosophy, not technical skill, becomes the critical human asset.
 related:
   - INS-260322-E22A
+  - INS-260403-FE41
   - INS-260327-2627
+  - INS-260403-5788
   - INS-260323-E2ED
-  - INS-260327-37C8
-  - PRI-260323-50FE
   - INS-260403-272E
 stance: >-
   A designer quit her job not because AI replaced her work, but because her

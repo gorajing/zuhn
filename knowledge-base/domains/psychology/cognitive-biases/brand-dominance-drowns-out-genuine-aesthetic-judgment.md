@@ -51,18 +51,17 @@ related:
   - INS-260325-EC7A
   - INS-260403-8391
   - INS-260403-09F6
-  - INS-260404-EBB3
-  - INS-260330-548E
-  - INS-260329-277B
-  - INS-260403-7093
   - INS-260404-5AEB
+  - INS-260403-963B
+  - INS-260330-548E
+  - INS-260330-FE21
 evidence:
   - id: INS-260329-6E0F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260402-E994
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-1B0B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-09F6
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

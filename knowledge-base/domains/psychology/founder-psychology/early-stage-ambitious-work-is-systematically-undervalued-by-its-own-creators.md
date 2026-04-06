@@ -16,26 +16,14 @@ tags:
 sources:
   - type: blog
     title: Early Work
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://paulgraham.com/early.html'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Every ambitious project looks bad early — the problem is not the work, it's
@@ -63,6 +51,17 @@ stance: >-
   The lame phase is not a signal of failure but a structural feature of every
   ambitious project, and treating it as such dramatically increases the odds of
   seeing it through.
+related:
+  - INS-260323-1C32
+  - INS-260325-CEE1
+  - INS-260327-FFA7
+  - INS-260329-1FEE
+  - INS-260403-472E
+  - INS-260403-E365
+  - INS-260405-D606
+  - INS-260404-FADE
+  - INS-260404-CD3E
+  - INS-260403-AEF2
 ---
 Graham argues that humans have essentially no cultural customs for evaluating nascent ambitious work. We evolved to judge finished artifacts and extrapolate linearly, so a project that is 20% complete looks proportionally bad — not like a glimpse of something that could be 10x more valuable than ordinary finished work. The result is that creators abort projects that would have been extraordinary if continued.
 

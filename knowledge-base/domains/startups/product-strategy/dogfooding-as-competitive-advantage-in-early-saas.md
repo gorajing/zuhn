@@ -46,11 +46,11 @@ stance: >-
   cannot replicate.
 related:
   - INS-260330-38B9
+  - INS-260404-D3C7
+  - INS-260405-1951
   - INS-260323-BF81
   - INS-260328-3A00
   - INS-260322-8D47
-  - INS-260403-8F6E
-  - INS-260325-FDF5
 evidence:
   - id: INS-260325-FDF5
     type: SUPPORTS

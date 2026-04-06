@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 59 Startup Pitch Decks That Raised Millions—See What Works
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/59-startup-pitch-decks-that-raised'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The most successful pitch decks in this collection target specific verticals
@@ -58,6 +48,13 @@ stance: >-
   Vertical-specific software and infrastructure platforms consistently
   outperform horizontal tools in fundraising outcomes because they demonstrate
   clearer market ownership and defensibility.
+related:
+  - INS-260404-620D
+  - INS-260404-40F2
+  - INS-260405-CB93
+  - INS-260404-63D5
+  - INS-260405-94A1
+  - INS-260403-822B
 ---
 The deck collection reveals two dominant archetypes among companies that raised significant rounds: vertical SaaS plays that own a specific industry (Vori for grocery supply chain, Pelago for substance use treatment, Flo for women's health) and horizontal infrastructure platforms (Lago for billing, Griffin for banking-as-a-service, Paddle for SaaS payments). Both categories share a common trait—they make it easy for investors to understand the TAM and the path to market dominance.
 

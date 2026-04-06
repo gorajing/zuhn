@@ -47,13 +47,12 @@ related:
   - INS-260325-D82A
   - INS-260330-BE4D
   - INS-260330-AB5D
+  - INS-260330-A4A5
   - INS-260403-AFBB
-  - INS-260403-280B
-  - INS-260327-671E
   - INS-260327-A43C
   - INS-260330-1114
   - INS-260403-6178
-  - INS-260403-1046
+  - INS-260403-F8AE
 stance: >-
   The sense of presence in AR/VR is less about any single feature being great
   and more about no single flaw breaking the illusion.

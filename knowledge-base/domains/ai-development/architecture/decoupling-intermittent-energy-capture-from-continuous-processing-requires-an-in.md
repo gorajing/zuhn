@@ -62,26 +62,27 @@ stance: >-
   event streams) into smooth continuous output always require a buffering stage,
   and the design of that buffer determines system efficiency.
 related:
-  - INS-260330-07B1
   - INS-260330-30E8
+  - INS-260330-1084
   - INS-260403-FC01
+  - INS-260404-040D
+  - INS-260404-3500
   - INS-260405-F3C0
+  - INS-260405-8E85
   - INS-260404-F7C5
-  - INS-260403-37C4
-  - INS-260330-7E39
-  - INS-260404-6876
-  - INS-260404-BDE5
+  - INS-260330-1677
+  - INS-260330-9FAA
 evidence:
   - id: INS-260330-07B1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-30E8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-FC01
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-E374
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6876
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Sunlight arrives in discrete photon packets and is unavailable at night, during cloud cover, and during seasons. The Calvin Cycle needs a steady chemical energy supply to run. Evolution's solution was a two-layer architecture: the light-dependent reactions act as a capacitor, pumping protons into the thylakoid lumen to build a concentration gradient. The Calvin Cycle then draws on that gradient via ATP synthase whenever needed, independently of whether photons are currently arriving.
 

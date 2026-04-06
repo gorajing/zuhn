@@ -46,16 +46,16 @@ stance: >-
   build projects independently, using search engines to fill knowledge gaps on
   demand.
 related:
-  - INS-260323-DDC2
   - INS-260325-A272
   - INS-260329-FC75
   - INS-260329-AB9A
-  - INS-260329-656B
   - INS-260329-B2F4
   - PRI-260403-0509
   - INS-260403-4F4B
   - PRI-260405-71C5
   - INS-260322-DAA1
+  - INS-260329-F892
+  - INS-260330-3D7B
 evidence:
   - id: INS-260322-DAA1
     type: SUPPORTS

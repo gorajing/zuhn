@@ -48,12 +48,13 @@ stance: >-
   The path from near-failure to massive success is more often about
   concentrating existing effort than discovering new tactics or pivoting.
 related:
-  - INS-260327-C900
   - INS-260327-D0F4
   - INS-260405-1894
   - PRI-260324-3081
   - INS-260323-8C53
+  - INS-260405-5C3F
   - INS-260403-DF01
+  - INS-260403-47F1
 evidence:
   - id: INS-260323-42A7
     type: TRANSFERS_TO

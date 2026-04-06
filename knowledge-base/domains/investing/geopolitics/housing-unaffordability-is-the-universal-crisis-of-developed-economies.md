@@ -47,15 +47,14 @@ stance: >-
   unaffordability through different specific mechanisms but the same underlying
   dynamic: housing as an investment vehicle rather than shelter.
 related:
-  - INS-260325-6AD5
   - PRI-260328-EAC4
   - PRI-260403-2927
+  - INS-260325-6AD5
   - INS-260330-F67A
   - INS-260403-91DB
   - INS-260329-B2D8
-  - INS-260330-6418
-  - INS-260403-5554
   - INS-260403-B378
+  - INS-260403-0629
 evidence:
   - id: INS-260323-AB5F
     type: TRANSFERS_TO

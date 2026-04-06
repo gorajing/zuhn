@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'WIRTW: China''s minerals, AI financing, Nobel winners, robotics...'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/what-i-read-this-week-58c'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     China's expanding rare earth export controls create chokepoint leverage over
@@ -58,6 +48,12 @@ stance: >-
   China's rare earth export controls are a more durable geopolitical weapon than
   tariffs because they target irreplaceable upstream inputs to semiconductors,
   EVs, defense, and AI infrastructure.
+related:
+  - INS-260403-90A0
+  - PRI-260321-5BF1
+  - PRI-260323-7805
+  - INS-260404-2AD7
+  - INS-260327-10C9
 ---
 China added five heavy rare earths to its export-control list effective December 2025, extending April restrictions imposed in response to Trump's tariffs. This targets inputs upstream of semiconductor fabs, AI data centers, robotics companies, defense contractors, and EV manufacturers globally. The controls raise frictional costs (permits, delays, compliance risk) that cascade into capex timelines across industries.
 

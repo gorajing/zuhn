@@ -1,5 +1,5 @@
 ---
-id: INS-260403-8C20
+id: INS-260403-0611
 domain: startups
 topic: strategy
 title: Regulatory collateral damage silently kills startups that never get founded
@@ -49,11 +49,11 @@ stance: >-
   the damage is invisible because the startups that would have existed simply
   never get founded.
 related:
-  - INS-260402-7C15
-  - INS-260402-12D0
-  - INS-260402-3639
-  - INS-260403-1A96
-  - INS-260402-A693
+  - INS-260402-9075
+  - INS-260403-C949
+  - INS-260404-F45E
+  - INS-260403-9A4C
+  - INS-260403-9680
 evidence:
   - id: INS-260402-7C15
     type: TRANSFERS_TO

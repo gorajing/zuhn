@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "‘AI eats the world’\U0001F9E0, Unicorn Production Hits a 3‑Year High\U0001F984, 10 Startup Resources You Can’t Afford to Skip\U0001F4DA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-eats-the-world-unicorn-production'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     YC's evolution toward consensus-friendly prompts risks creating a 'Consensus
@@ -59,6 +49,15 @@ stance: >-
   Accelerator programs that optimize for consensus-friendly ideas over
   belief-driven missions produce a hyperlegible sameness that ultimately reduces
   portfolio returns
+related:
+  - INS-260323-3045
+  - INS-260403-AC02
+  - INS-260403-3AE7
+  - INS-260326-291C
+  - PRI-260323-2C5C
+  - INS-260404-70AE
+  - PRI-260403-2E59
+  - INS-260403-2A92
 ---
 A veteran investor argues that YC has shifted from selecting founders with deep problem-first quests to favoring consensus-friendly prompts that reflect current market trends. This creates what's termed a 'Consensus Capital Machine' — a system that produces startups optimized for legibility to investors rather than genuine market insight.
 

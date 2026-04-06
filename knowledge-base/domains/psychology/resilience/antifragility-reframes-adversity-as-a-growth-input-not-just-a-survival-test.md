@@ -42,8 +42,8 @@ related:
   - INS-260330-9BC3
   - INS-260403-2DEE
   - INS-260403-280B
+  - INS-260403-6B72
   - INS-260325-2832
-  - INS-260403-E2FB
 evidence:
   - id: INS-260403-2DEE
     type: EXTENDS

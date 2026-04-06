@@ -52,7 +52,6 @@ stance: >-
   habitual-behavior circuits while pruning deliberate-control circuits, making
   drinkers measurably more impulsive even when sober.
 related:
-  - INS-260325-9507
   - INS-260325-9B9A
   - INS-260327-212A
   - INS-260330-4D8B

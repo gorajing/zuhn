@@ -1,6 +1,6 @@
 # Topic: quality
 
-> 12 insights
+> 13 insights
 
 - `INS-260402-EF63` [high] Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - `INS-260403-4942` [high] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
@@ -12,5 +12,6 @@
 - `INS-260403-8BA2` [high] You don't need total consensus on rankings to have meaningful quality standards — a partial order where great is distinguishable from mediocre is enough.
 - `INS-260330-8FD6` [high] Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - `INS-260330-FA4D` [high] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
+- `INS-260403-868F` [high] Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - `INS-260402-E994` [high] Unseen details accumulate into visible quality — great software, like great painting, requires fanatical devotion to parts no one is supposed to see.
 - `INS-260402-3A0D` [high] Simplicity forces you to face the real problem because you can't hide behind ornament.

@@ -48,10 +48,11 @@ stance: >-
   returns you to your pre-desire baseline, not a new peak.
 related:
   - INS-260403-1AE5
-  - INS-260330-9933
-  - INS-260402-9288
-  - PRI-260328-6136
-  - PRI-260403-50EF
+  - INS-260403-B18C
+  - INS-260404-A19C
+  - INS-260403-544B
+  - INS-260403-6D8C
+  - INS-260403-6988
 evidence:
   - id: INS-260330-9933
     type: SUPPORTS

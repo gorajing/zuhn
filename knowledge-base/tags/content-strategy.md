@@ -1,19 +1,27 @@
 # Tag: content-strategy
 
 - `INS-260322-CCAA` As agents become intermediaries between users and systems, optimization shifts from visual design to machine-readable structure and insight density.
+- `INS-260403-3C6D` Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260330-E414` Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline.
 - `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260323-3614` Pakman deleted a controversial tweet under threat pressure, which he deeply regrets — the attacks escalated anyway, and deleting removed his ability to show context when support arrived.
-- `INS-260403-096C` When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
+- `INS-260322-D5DD` Make remixes of trending songs in your own style to leverage existing search demand and get discovered before you have original fans.
+- `INS-260321-3312` Music is now attached to YOU, not to a format — your job is not to promote a song (temporary) but to build a content machine (permanent) where your music is the superpower that gets you attention.
+- `INS-260404-B0DC` Sustained high-volume free value delivery builds trust capital that later converts into business opportunities at rates impossible through cold outreach.
 - `INS-260329-4CFD` Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years.
+- `INS-260402-5BE6` AI handles top-of-funnel informational queries well, but struggles to replicate case studies, product comparisons, and implementation guides rooted in real experience.
+- `INS-260405-D216` In AI content, doing-and-sharing beats talking-about at generating durable audience trust.
 - `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
 - `INS-260404-5AC1` Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 - `INS-260329-3332` A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
 - `INS-260329-63DD` Comprehensive long-form tutorials dominate search results because they fully satisfy user intent, creating compounding organic traffic that short content cannot match.
+- `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
+- `INS-260403-096C` When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260323-7EDF` Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
 - `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
 - `INS-260320-630D` Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
+- `INS-260403-6EC2` AI assistants like ChatGPT and Perplexity are replacing Google as the primary discovery layer, making Generative Engine Optimization essential.
 - `INS-260320-446F` Hire content creators directly (Gmail in bio, 5-10K followers) — if their email is at an agency, the arbitrage is already gone.
 - `INS-260321-ADB4` Allocate 80% of content to evergreen material (guides, frameworks, reference) and 20% to timely pieces. Every piece should exist in at least five formats: audio, video, short clips, newsletter, social thread.
 - `INS-260320-70FA` Target the person who pays, not just the person who uses — students used Coconote but moms often bought it, and "my mom just changed my life" content drove viral parent-to-parent purchasing.
@@ -21,6 +29,5 @@
 - `INS-260321-2564` In old media you could never correct a misinterpretation; in new media you can drown it out by going on 30 podcasts to talk about something more interesting.
 - `INS-260321-099E` Don't find a blue ocean — create one by taking a format proven in Market A and applying it to Market B where nobody has used it yet.
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
+- `INS-260403-4D04` Digital content creates awareness, but traditional media like TV and books creates credibility that compounds over time.
 - `INS-260321-141B` Write a proven format at the top of a grid, list all markets down the side, mark where the combination exists — empty cells are your blue ocean.
-- `INS-260322-D5DD` Make remixes of trending songs in your own style to leverage existing search demand and get discovered before you have original fans.
-- `INS-260321-3312` Music is now attached to YOU, not to a format — your job is not to promote a song (temporary) but to build a content machine (permanent) where your music is the superpower that gets you attention.

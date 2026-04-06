@@ -1,11 +1,59 @@
 # Tag: valuation
 
+- `INS-260403-3664` Figure's $39B valuation rests on the thesis that automating manual labor ($42T/yr, ~50% of GDP) creates shared abundance.
+- `INS-260405-285D` Mistral raised €600M at a €5.8bn valuation from DST Global and General Catalyst despite a 50% contraction in active European VCs.
+- `INS-260403-A07A` Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
+- `INS-260403-7F67` AI's unpredictability beyond short time horizons may invalidate the long-duration assumptions that underpin traditional equity pricing.
 - `INS-260327-CFE5` A company can miss earnings targets and still surge 30% if it tells a compelling AI story, revealing that markets are pricing narrative not performance.
 - `INS-260404-6B73` DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
+- `INS-260403-912C` A five-factor bubble framework comparing economic strain, returns, valuations, and funding quality shows AI is overheated in some dimensions but grounded in others.
+- `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
+- `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
+- `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
+- `INS-260404-A2C4` AI companies appear at every valuation tier from $10B to $157B across radically different verticals, confirming AI as a horizontal platform shift.
+- `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
+- `INS-260403-D880` Judging sky-high valuations by the revenue needed to justify them — given realistic margins, growth, and reinvestment — reveals that aggregated company narratives often exceed plausible total market demand.
+- `INS-260405-B738` DCF ignores the strategic flexibility and explosive optionality that defines startup value, making it the wrong tool for early-stage companies.
+- `INS-260403-1019` Earn-outs should be evaluated at present value, not nominal — a $20M earn-out payable in 3 years with uncertain triggers may be worth a fraction of face value.
+- `INS-260403-53AF` Exit structure details like lock-ups, earn-outs, and IPO discounts significantly erode the gap between paper valuation and actual cash received.
+- `INS-260405-2703` Niche markets look small on paper but often yield outsized returns when a startup owns the vertical completely.
+- `INS-260405-EB05` Investing at a $16M post-money and watching the company raise at $250M post-money looks like 15.6x on paper but nets only 5.5x after accounting for dilution from subsequent rounds.
+- `INS-260404-9FBC` Ramp's 153% YoY growth at $1B revenue is 10x the median public SaaS growth rate, suggesting AI-native business models resist typical growth deceleration.
+- `INS-260403-E503` 65% of VCs weigh anticipated exit opportunities as the key valuation determinant, with competitor benchmarks (60%) as secondary anchor.
+- `INS-260404-25FF` VCs set valuations by discounting a projected exit value by their required return, not by analyzing current cash flows or fundamentals.
 - `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
+- `INS-260330-D63C` At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
+- `INS-260403-6E4C` Big Tech is acquiring AI startup teams in quiet sub-$20M deals as founders who raised too much hit AI headwinds.
+- `INS-260402-3D34` Excessive early dilution locks in low valuations that create down-round dynamics or insufficient upside for later-stage investors.
+- `INS-260403-7DC7` Cost-to-Duplicate valuation rewards spending over efficiency, creating a paradox where lean teams must argue beyond cost to get fair valuations.
+- `INS-260403-9F2A` Comparable-based valuations break down for differentiated growth-stage companies entering serious investor diligence.
 - `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
+- `INS-260405-3238` Define your funding amount, security type, and valuation floor before any investor conversation begins.
+- `INS-260403-7C02` Running investor return math before setting valuation prevents overpricing that triggers painful down rounds later.
+- `INS-260403-03CC` Showing investors exactly why your ask works mathematically — not hoping they 'get it' — builds credibility and strengthens your negotiating position.
+- `INS-260403-B02A` Structure pitch decks around two slides: risks retired since last round, and risks this capital will retire next.
 - `INS-260328-3F19` A funding announcement is not like a stock price going up -- it's an announcement of an illiquid bet that probably won't pay off, down to seed rounds with very low expected success rates.
+- `INS-260403-087E` Travis ran four parallel investor rooms for a week, aggregated bids like an IPO book, and built a pitch so precise that junior team members could close $250M checks independently.
+- `INS-260403-570D` VCs model durability not just growth, and high churn turns a growth engine narrative into a leaky bucket story.
+- `INS-260403-B374` A high valuation forces founders to hit unrealistic targets and removes the ability to call a strong outcome a win.
 - `INS-260402-9288` Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
+- `INS-260403-10C8` Mira Murati's $12B valuation with no product shows that frontier AI fundraising now prices team credibility over product-market fit.
+- `INS-260403-6F8B` Pre-revenue startups increase valuation most effectively by demonstrably reducing risk across team, product, market, and relationship dimensions.
+- `INS-260403-227D` High valuations lock founders into growth curves they can't sustain — the wrong kind of success that looks good on headlines but stalls company-building.
 - `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
+- `INS-260403-20F7` The Scorecard Method anchors to regional averages, creating opportunities to strategically choose which market benchmarks to reference.
+- `INS-260404-28A1` Knowing the VC Method lets founders anticipate the exact math investors will use, turning valuation from storytelling into a structured negotiation.
+- `INS-260405-D2E2` SAFEs let early founders avoid a premature valuation negotiation and delay dilution questions until the business has more proof.
 - `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
+- `INS-260405-9492` Overlapping valuation bands across seed, Series A, and Series B mean stage labels no longer reliably communicate company maturity or risk profile.
+- `INS-260403-130A` Liquidation preferences, board control, and dilution terms in a term sheet can matter more than the valuation number itself.
+- `INS-260404-EC26` The densely populated $10-30B tier contains companies in hypergrowth that could IPO any time but increasingly choose not to, creating a new strategic inflection point for founders.
+- `INS-260403-EEE6` VCs work backward from target exits and desired returns, so founders should focus on making the exit case credible.
+- `INS-260403-0CBA` Combine 2-3 valuation methods to present a defensible range rather than a single number.
+- `INS-260403-EFAC` Demonstrating pain-product fit to investors yields dramatically higher close rates and better terms.
+- `INS-260403-001C` The VC Method estimates future exit value then discounts back to today using target return rates, bypassing the need for cash flow history.
+- `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
+- `INS-260403-DAFA` Dealroom's 2025 VC ranking weights two-thirds of scores on real revenue milestones rather than growth narratives.
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
+- `INS-260403-B228` Valuation reflects how much uncertainty remains — momentum can inflate it temporarily but markets always revert to evidence.
+- `INS-260405-180A` Lacework's near-total value destruction illustrates how much 2021 unicorn valuations were driven by rate environment rather than business quality.

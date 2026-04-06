@@ -52,7 +52,6 @@ stance: >-
   startup (fundraising, office, hiring) while neglecting the only essential
   activity: making something people want.
 related:
-  - INS-260327-E2BC
   - INS-260327-E3D5
   - INS-260328-D775
   - INS-260329-903B
@@ -60,6 +59,7 @@ related:
   - INS-260330-2B42
   - INS-260403-7C88
   - PRI-260403-2E59
+  - INS-260327-E2BC
   - INS-260402-27A1
   - INS-260402-D739
 evidence:

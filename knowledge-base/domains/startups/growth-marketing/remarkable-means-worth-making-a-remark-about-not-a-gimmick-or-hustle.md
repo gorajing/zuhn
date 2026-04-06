@@ -44,12 +44,11 @@ stance: >-
   giving them status or affiliation.
 related:
   - INS-260329-CD64
+  - INS-260403-BC04
   - INS-260327-415B
   - INS-260329-C0F1
   - INS-260327-FEB7
-  - INS-260330-E263
   - INS-260327-A903
-  - INS-260404-AB0F
 evidence:
   - id: INS-260327-FEB7
     type: CHALLENGES

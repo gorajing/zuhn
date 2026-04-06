@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Next-Token Predictor Is An AI''s Job, Not Its Species'
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Both human and AI internals use bizarre geometric encodings that neither
@@ -63,6 +53,12 @@ stance: >-
   space) are comparably strange to human neural encodings (toroidal attractor
   manifolds), suggesting neither system's cognition is intuitively accessible
   from the outside.
+related:
+  - INS-260322-9C84
+  - INS-260327-EDE4
+  - INS-260402-3095
+  - INS-260330-0C0C
+  - INS-260330-B5D2
 ---
 Anthropic's mechanistic interpretability research found that Claude represents line-break prediction using one-dimensional helical manifolds in a six-dimensional space, with comparisons performed via manifold rotation. This is not 'looking up token probabilities' — it's a novel computational strategy discovered by the learning algorithm. The human equivalent is equally alien: entorhinal cells track 2D locations using high-dimensional toroidal attractor manifolds.
 

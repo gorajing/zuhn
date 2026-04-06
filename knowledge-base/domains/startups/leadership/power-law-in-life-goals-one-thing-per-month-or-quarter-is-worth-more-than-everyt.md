@@ -44,10 +44,10 @@ resolutions:
     else into delegatable subtasks.
 related:
   - INS-260403-D36D
-  - INS-260403-280B
-  - INS-260330-CA88
-  - INS-260327-8521
-  - INS-260327-6177
+  - INS-260404-A42E
+  - INS-260405-A596
+  - INS-260405-C56F
+  - INS-260327-0C4A
 stance: There's a power law in everything
 evidence:
   - id: INS-260327-6177

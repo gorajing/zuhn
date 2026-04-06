@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'This Week #0: Advice on growth, product, and leadership'
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/advice-on-growth-product-and-leadership'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The strongest companies combine 3-4 differentiation dimensions (price,
@@ -60,6 +48,12 @@ stance: >-
   Sustainable competitive advantage comes from deliberately combining 3-4
   differentiation axes rather than trying to be incrementally better on a single
   dimension.
+related:
+  - INS-260327-643C
+  - INS-260330-09E3
+  - INS-260325-8B36
+  - INS-260329-D5FF
+  - INS-260323-3D7D
 ---
 Lenny identifies 20 distinct differentiation strategies ranging from lowest price to story-driven branding. The real insight emerges from the examples: Trader Joe's combines price + quality + service + unique supply. Tesla combines product experience + service + problem-solving + limited supply + delight. No dominant company wins on a single axis.
 

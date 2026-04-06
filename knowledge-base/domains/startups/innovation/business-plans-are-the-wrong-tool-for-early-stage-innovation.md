@@ -42,13 +42,12 @@ stance: >-
   Asking early-stage innovation teams for business plans actively increases the
   risk of failure by forcing false certainty where none exists.
 related:
-  - INS-260323-1C32
-  - INS-260320-E044
   - INS-260323-7F3E
   - INS-260329-4DBC
+  - INS-260320-E044
   - INS-260330-2E58
   - INS-260403-F75F
-  - INS-260403-C135
+  - PRI-260405-47B5
 evidence:
   - id: INS-260403-97D6
     type: SUPPORTS

@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Support Your Local Collaborator
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/support-your-local-collaborator'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Movements with members on both sides of a divide can influence whichever
@@ -58,6 +48,14 @@ stance: >-
   Organizations that maintain members across ideological or factional lines can
   lobby effectively regardless of which faction holds power, creating durable
   influence that single-faction groups cannot match.
+related:
+  - INS-260323-874F
+  - INS-260330-6C0E
+  - INS-260330-7675
+  - INS-260402-91B5
+  - INS-260404-3275
+  - INS-260403-EC66
+  - INS-260330-2EB0
 ---
 Alexander highlights organizations like the Liberal Gun Club and Conservative Animal Welfare Foundation as examples of cross-factional presence. While these minority-faction branches may seem small, they provide access to policymakers who would never meet with the opposition. This 'embassy model' of maintaining presence across faction lines is a structural advantage.
 

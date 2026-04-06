@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/large-language-models-how-to-train'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Proprietary real-time data sources like social media feeds create defensible
@@ -55,6 +45,12 @@ resolutions:
 stance: >-
   Access to constantly-updated proprietary datasets provides a stronger
   competitive advantage than model size or generic web-scraped training data
+related:
+  - INS-260327-FEB7
+  - INS-260403-A0B0
+  - INS-260327-415B
+  - INS-260330-1F7E
+  - INS-260330-BF8F
 ---
 When foundational model performance converges due to diminishing returns on generic training data, the quality and freshness of data become key differentiators. xAI's access to X's 12+ terabytes of daily tweet data — spanning text, images, and audio with real-time human interactions — represents a structural advantage that competitors cannot easily replicate.
 

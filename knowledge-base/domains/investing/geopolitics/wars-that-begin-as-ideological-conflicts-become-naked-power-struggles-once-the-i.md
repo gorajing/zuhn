@@ -50,16 +50,16 @@ stance: >-
   power politics as the original cause is forgotten and participants fight for
   territorial and economic advantage.
 related:
-  - INS-260323-9E67
   - INS-260321-10FF
   - INS-260323-5B36
-  - INS-260323-874F
   - INS-260321-D4D0
   - INS-260327-4A64
   - INS-260327-619F
   - INS-260327-4313
   - INS-260327-ABE5
-  - INS-260327-08E7
+  - INS-260327-4294
+  - PRI-260328-79DA
+  - INS-260330-4181
 evidence:
   - id: INS-260330-4088
     type: CONTRADICTS

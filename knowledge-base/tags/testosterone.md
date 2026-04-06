@@ -1,5 +1,6 @@
 # Tag: testosterone
 
+- `INS-260403-687E` Male testosterone is declining ~1% per year independent of age and lifestyle, meaning today's 30-year-old has 20% less than his father did at the same age.
 - `INS-260327-1E16` Keto and carnivore diets dropped Saladino's testosterone from 800 to 500; adding fruit and honey back restored it, because carbohydrates signal evolutionary abundance for reproduction.
 - `INS-260327-4FFA` Five changes raised testosterone from 500 to 857 at age 48: adding fruit/honey carbs, optimizing sleep, removing endocrine disruptors, eating organ meats, and managing stress/cortisol.
 - `INS-260327-6916` The pillars of natural testosterone optimization are: 7-8 hours of consistent sleep, adequate carbohydrates, avoiding endocrine disruptors, and nutrient-dense food -- no TRT required at any age.

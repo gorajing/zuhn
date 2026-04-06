@@ -47,14 +47,14 @@ stance: >-
   over both incumbents and other startups.
 related:
   - INS-260327-CBCB
-  - INS-260330-752E
   - INS-260323-5986
-  - INS-260329-F007
+  - INS-260405-10DF
+  - INS-260405-A309
   - INS-260329-1F4D
   - INS-260322-C6CE
 evidence:
   - id: INS-260330-C215
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Adora Cheung's counterintuitive advice is to temporarily become an insider in the industry you want to disrupt. At Homejoy, she literally got hired at a cleaning company — not just to learn cleaning, but to understand the entire operational workflow: booking, scheduling, quality control. This revealed specific inefficiencies (manual scheduling, old-school booking) that she could never have discovered from the outside.
 

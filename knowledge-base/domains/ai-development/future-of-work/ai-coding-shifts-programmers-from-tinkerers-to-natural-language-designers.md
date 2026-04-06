@@ -46,11 +46,11 @@ stance: >-
   designing systems through natural language prompts, requiring programmers to
   deliberately retrain as big-picture architects
 related:
-  - INS-260329-FEC5
-  - INS-260329-1ACD
   - INS-260329-EDA2
   - INS-260329-500E
-  - INS-260403-F100
+  - INS-260404-D6F7
+  - INS-260329-1ACD
+  - INS-260402-06DB
 evidence:
   - id: INS-260329-1ACD
     type: SUPPORTS

@@ -49,8 +49,6 @@ stance: >-
   to create new growth engines — invention requires a parallel organization with
   its own culture, resources, and metrics.
 related:
-  - INS-260327-178E
-  - INS-260403-2BEE
   - INS-260403-24AE
   - INS-260403-3326
   - PRI-260328-43F1

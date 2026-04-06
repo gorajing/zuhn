@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: The Case for Big Action to Regulate Artificial Intelligence
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/the-case-for-big-action-to-regulate'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Apple and Google's app review processes — sandbox testing, risk assessment,
@@ -59,6 +49,12 @@ resolutions:
 stance: >-
   The private-sector app review model used by Apple and Google provides a viable
   blueprint for public AI regulatory infrastructure
+related:
+  - INS-260320-1B10
+  - INS-260329-92E9
+  - INS-260323-01F9
+  - INS-260403-23AA
+  - INS-260403-C37B
 ---
 Rather than inventing AI regulation from scratch, Chamath points to existing private-sector gatekeeping as a template. Apple's App Store and Google Play already evaluate apps on novelty, risk, and potential for exploitation before allowing distribution. Facebook similarly sandboxed apps to observe behavior before public launch.
 

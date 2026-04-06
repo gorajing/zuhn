@@ -48,7 +48,7 @@ related:
   - INS-260322-0247
   - INS-260330-8B52
   - INS-260330-B8C5
+  - INS-260403-A07A
   - INS-260323-1494
-  - INS-260329-E598
 ---
 Price is rarely the real barrier to adoption. When someone won't even accept a free service, they're telling you the hidden costs — time investment, effort required, risk of wasted energy, social awkwardness — outweigh the perceived value. This is diagnostic gold. The example of a short-form video creator who eliminated every hidden cost ('you don't have to do anything, I'll take existing content, edit it, and post it') shows how removing friction transforms an offer from ignorable to irresistible. The strategic implication is powerful: by systematically identifying and removing hidden costs that competitors still impose, you can later charge significantly more because your solution is genuinely easier. Hidden cost elimination is a moat that pure price competition can't replicate.

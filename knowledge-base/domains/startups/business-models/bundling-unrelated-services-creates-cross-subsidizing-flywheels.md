@@ -62,6 +62,7 @@ related:
   - PRI-260405-548B
   - PRI-260328-6A8D
   - INS-260403-E78B
+  - INS-260404-0EE0
 ---
 Amazon Prime's genius is that shipping and streaming individually would face different competitive pressures and different churn triggers. By bundling them, Amazon created a situation where canceling Prime means losing both the practical benefit (free shipping) and the entertainment benefit — raising the psychological cost of churn far above what either service alone would warrant.
 

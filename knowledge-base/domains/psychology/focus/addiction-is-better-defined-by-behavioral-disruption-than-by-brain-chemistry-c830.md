@@ -45,10 +45,10 @@ stance: >-
   accurate and actionable than focusing on brain chemistry or drug interactions.
 related:
   - INS-260323-9867
+  - INS-260403-9757
   - INS-260330-61C3
   - INS-260330-CFAD
-  - INS-260325-560A
-  - INS-260403-9C60
+  - INS-260404-C209
 evidence:
   - id: INS-260322-A208
     type: REFINES

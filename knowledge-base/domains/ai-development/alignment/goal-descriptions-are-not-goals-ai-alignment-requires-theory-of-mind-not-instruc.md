@@ -57,11 +57,11 @@ related:
   - INS-260323-197A
   - INS-260323-539C
   - PRI-260405-0676
-  - INS-260323-7BB8
   - INS-260327-E833
   - INS-260328-0345
   - INS-260329-FCC6
   - INS-260330-C681
+  - INS-260403-2376
 stance: >-
   When you tell an AI to do something, you give it a description of a goal, not
   the goal itself

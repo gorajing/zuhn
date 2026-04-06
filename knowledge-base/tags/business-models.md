@@ -1,12 +1,18 @@
 # Tag: business-models
 
 - `INS-260330-AB67` Agents paying for ephemeral API access per-task will create a new category of businesses built entirely for agent consumption.
+- `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
+- `INS-260403-3C6D` Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
+- `INS-260403-ABB7` AI companies operate at structurally lower margins than SaaS, requiring different growth levers to achieve comparable profitability.
 - `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
 - `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
 - `INS-260327-68C1` 2025 had the highest corporate bankruptcies ever outside a recession, including companies going bankrupt for the second time within months, suggesting structural unsustainability not cyclical distress.
 - `INS-260325-FADB` Open Router observes companies on their platform doing tens of millions in revenue with just five people, made possible by models powering what previously required large teams.
+- `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
 - `INS-260327-1576` BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260403-BB23` Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
+- `INS-260404-B407` Turning trade-ins into instant checkout discounts yielded +45% AOV and 5-10% revenue penetration for early customers.
+- `INS-260405-1661` Classifieds were ~30% of newspaper revenue and effectively funded quality journalism — when Craigslist killed classifieds, it defunded journalism as a byproduct.
 - `INS-260327-8F03` Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enth
 - `INS-260327-78A0` When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded 
 - `INS-260327-31A7` Ultra-cheap Chinese e-commerce platforms exploit the de minimis trade exemption that allows small-value packages to ente
@@ -18,6 +24,7 @@
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260327-4C5E` External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
+- `INS-260405-ABCF` Every closed project depends on OSS components, and OSS projects depend on closed companies funding them.
 - `INS-260327-C294` Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
 - `INS-260327-E52A` Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
 - `INS-260403-0CA9` Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
@@ -26,11 +33,14 @@
 - `INS-260327-38F0` Fast-food chains whose brand promise is consistency (every KFC tastes the same) lose to competitors whose promise is fre
 - `INS-260327-D794` Restaurant formats designed to minimize operator skill requirements (assembly-line processes, standardized techniques) a
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
+- `INS-260404-BEAA` Reports of SaaS death are exaggerated, but the sentiment reflects genuine pressure from AI-native tools that can replicate SaaS functionality without traditional subscription models.
+- `INS-260403-75E3` Per-seat pricing creates an inverse relationship between AI product effectiveness and revenue.
+- `INS-260404-9004` Subscription SaaS companies from 2012 built durable moats through deep enterprise integration and high switching costs.
 - `INS-260327-C6A9` Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards ear
 - `INS-260327-38BC` Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
 - `INS-260327-6A4B` Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone 
 - `INS-260329-59FF` All zero-capital wealth strategies are variations of value arbitrage — delivering more value than you capture.
-- `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
+- `INS-260405-9EE4` When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
 - `INS-260325-73C0` Bret Taylor: AI breaks per-seat SaaS — the new model charges for outcomes (tasks completed, problems solved), not users provisioned.
 - `INS-260327-4431` When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
 - `INS-260327-1B4A` Physical venues that were supposedly killed by digital alternatives survive by pivoting to the social experience dimensi
@@ -49,17 +59,21 @@
 - `INS-260403-DDDC` Codified pattern libraries lower the barrier to business model innovation by providing proven configurations to adapt rather than invent.
 - `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
-- `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
+- `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
+- `INS-260403-3A72` ZIRP-era companies like Uber and Snapchat have never achieved sustained profitability, while high-rate-era companies like Microsoft and Google were profitable at IPO.
 - `INS-260404-16E1` Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - `INS-260404-E36F` Early-stage business models are almost certainly wrong, so time spent on them displaces discussion of the problem and product where founders actually have insight.
 - `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
+- `INS-260404-8E17` Companies with explicit revenue infrastructure in their value prop (Paddle, Wayflyer, Pennylane, Griffin) raised the largest rounds in this collection.
 - `INS-260405-C22F` Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
+- `INS-260403-2913` Blending proven models from different domains (e.g., e-commerce + subscriptions = Dollar Shave Club) is a repeatable ideation method.
+- `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
-- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260404-0022` Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.
 - `INS-260403-DB22` Most companies have sophisticated tools for execution but primitive tools for innovation and strategy design.
 - `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
+- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.

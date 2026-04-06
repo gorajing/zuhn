@@ -49,14 +49,13 @@ stance: >-
   or gaps actively backfires because your audience is better at detecting
   bullshit than you are at producing it
 related:
-  - INS-260329-086B
   - INS-260329-F063
-  - INS-260403-7586
   - INS-260404-405A
   - PRI-260403-0ABD
   - INS-260325-E84D
   - INS-260404-312D
   - PRI-260405-4B06
+  - INS-260403-F653
 evidence:
   - id: INS-260404-312D
     type: CONTRADICTS

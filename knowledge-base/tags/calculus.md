@@ -6,6 +6,7 @@
 - `INS-260325-03D5` Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
 - `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
+- `INS-260329-C5C6` Epsilon-delta formalizes the intuitive idea of closeness into a precise logical framework that underpins all of calculus.
 - `INS-260329-579D` The limit operation is the conceptual bridge that transforms approximate finite calculations into exact infinite-process results.
 - `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
 - `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.

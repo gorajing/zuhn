@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Shameless Guesses, Not Hallucinations'
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/shameless-guesses-not-hallucinations'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The 'stochastic parrot' framing relies on hallucinations seeming alien and
@@ -59,6 +49,12 @@ stance: >-
   Calling hallucinations 'shameless guesses' reveals that the behavior is deeply
   human-like, undermining claims that AIs are merely blind pattern matchers with
   no internal model.
+related:
+  - INS-260403-27A5
+  - INS-260325-2C31
+  - INS-260323-BEF0
+  - INS-260323-9773
+  - INS-260325-ADF3
 ---
 The stochastic parrot argument claims AIs can't have any real understanding because they exhibit 'hallucinations' — a term that implies bizarre, incomprehensible failure. Alexander argues this framing is doing heavy rhetorical lifting. Rename the behavior 'shameless guessing' and it becomes immediately recognizable as something humans do constantly.
 

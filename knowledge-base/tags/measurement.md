@@ -3,16 +3,18 @@
 - `INS-260322-7B61` Just as the internet ad industry needed companies like DoubleClick, Comscore, and Omniture before Google/Facebook could scale revenue, enterprise AI needs measurement infrastructure before the $700B spend can be justified.
 - `INS-260322-A36C` When a measure becomes a target, it stops being accurate — AI productivity must be measured through passive behavioral data (who actually uses the tools) married with outcomes, not self-reported surveys.
 - `INS-260322-4757` Instead of measuring lines of code or contracts drafted, measure whether departments using AI tools become more responsive to other departments — this captures real productivity without creating Goodhart's Law gaming.
+- `INS-260405-4F2B` AI's economic footprint may show up first in how hard machines run, not how much workers produce per hour.
 - `INS-260327-0692` Something that is both complex (high assembly index) and abundant (many copies) was almost certainly produced by an evolutionary process - random chance cannot reliably produce both.
+- `INS-260327-F608` You can't determine how complex something is by looking at it - you have to figure out the minimum number of steps it took to create it, which encodes its evolutionary history.
 - `INS-260321-988C` A worker saving 20% of their time is 'soft savings' — employers rarely productively reallocate that 20% immediately. Individual task speedups don't automatically translate to enterprise-level value.
 - `INS-260325-CC49` The physical impossibility of infinite precision may be what prevents mathematical paradoxes from breaking reality.
 - `INS-260330-D63D` At near-light speeds, Lorentz contraction literally flattens Earth into a disc, demonstrating that 'objective shape' depends on the observer's reference frame — a physical fact, not mere perspective.
 - `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
-- `INS-260327-F4CB` Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
 - `INS-260405-2B3F` Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260405-D3D7` You cannot use a biased yardstick to measure whether the selection was biased.
+- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260403-420A` Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
@@ -30,8 +32,11 @@
 - `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
 - `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
 - `INS-260330-0BC2` Scales measure force but display mass units, and weight is mutual — Earth weighs 180 pounds on you just as you weigh 180 pounds on Earth.
+- `INS-260327-62AB` Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
+- `INS-260327-F4CB` Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
+- `INS-260327-02CF` A hospital can't fill a doctor role at $80K and calls it a 'skills gap' when the actual gap is between what they're offering and what the market demands.
 - `INS-260405-809E` Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
 - `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
@@ -39,7 +44,9 @@
 - `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
 - `INS-260327-EBDF` Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
 - `INS-260403-A99F` Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
+- `INS-260403-6EE7` Technology's deepest effects are qualitative transformations in how humans live, not quantitative improvements in economic output.
 - `INS-260405-0271` Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
+- `INS-260402-3CF1` Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260405-F369` Inequality statistics are systematically biased because safe, unfireable jobs carry real economic value that never enters the measurement.
 - `INS-260330-1A63` Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.

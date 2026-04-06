@@ -52,17 +52,17 @@ stance: >-
   teach.
 related:
   - INS-260323-53BF
-  - PRI-260328-0F0D
-  - INS-260327-98F7
-  - INS-260330-0102
   - INS-260327-1787
-  - INS-260329-9311
+  - INS-260327-98F7
+  - PRI-260328-0F0D
   - INS-260330-C13A
+  - INS-260330-0102
+  - PRI-260405-6867
 evidence:
   - id: INS-260329-D48B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-C13A
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Gawande draws a sharp distinction: teachers deposit knowledge or skill but do not necessarily see your performance in an ongoing way. A coach circles back, observes you in real conditions, and helps you walk through the process of change and improvement over time.
 

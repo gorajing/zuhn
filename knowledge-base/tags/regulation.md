@@ -1,13 +1,25 @@
 # Tag: regulation
 
 - `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
+- `INS-260403-4A16` AI agents that can autonomously execute multi-step tasks in the physical world cross the line from information hazard to actual weapon.
+- `INS-260403-225F` Humanity consistently fails to regulate powerful technologies preemptively, and AI agents will likely follow this pattern with potentially civilization-scale consequences.
 - `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
+- `INS-260403-5616` AI labs cannot slow down unilaterally because competitors (including state actors) will simply fill the gap, making regulation the only viable brake.
 - `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
+- `INS-260403-F7A9` Apple and Google's app review processes — sandbox testing, risk assessment, distribution control — already demonstrate how AI models could be evaluated before public deployment.
 - `INS-260322-C5BD` The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
+- `INS-260404-5CFB` Generative AI's emergent and dual-use properties make existing tech regulation insufficient, demanding purpose-built governance frameworks.
 - `INS-260322-A14D` a16z's AI policy framework: don't regulate mathematical models themselves, regulate their applications — and prevent 50 states from creating incompatible AI laws that would make innovation impossible for startups.
+- `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
+- `INS-260405-A23B` Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
+- `INS-260403-5BCF` Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
 - `INS-260327-D65E` OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
+- `INS-260405-6E5F` The SEC issued an interpretive release separating crypto into five categories—four of which are not securities—ending the default 'everything is a security' enforcement posture.
 - `INS-260327-BF93` BNPL companies have $500B+ in debt not recorded like traditional credit, with users treating what should be 8-week payment plans as permanent budget-stretching tools.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
+- `INS-260403-71E6` Kalshi's $11B valuation after a $1B round highlights that prediction market growth is inseparable from regulatory risk as volumes surge.
+- `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
+- `INS-260403-BCCB` Regulatory infrastructure, not code, is the true barrier to entry in tokenized credit markets.
 - `INS-260403-8002` Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate.
 - `INS-260327-1F4A` Markets had priced in perpetual regulatory leniency toward monopolies, making the Google ruling a wake-up call for every trillion-dollar company.
 - `INS-260321-C6C0` Post-2008 regulations pushed risky lending from regulated banks to private credit — a $2T opaque market with higher fees, less oversight, and now rising defaults.
@@ -27,9 +39,12 @@
 - `INS-260330-D460` Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
 - `INS-260321-F446` If 50 unlikable people hold all the wealth while white-collar workers lose jobs, the bipartisan consensus won't be left vs right — it will be 'nationalize tech.'
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
+- `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
 - `INS-260405-5617` When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
+- `INS-260403-50F6` Regulatory finality—not just regulatory speed—determines where capital-intensive manufacturing actually gets built.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260330-F23F` India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
+- `INS-260403-C4B3` Regulatory compliance costs act as de facto subsidies for large businesses by creating barriers that small competitors cannot easily absorb.
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
 - `INS-260404-7834` When you can't fix the source of a problem (e.g., patent issuance), target the point where harm actually occurs (e.g., patent enforcement against startups).
@@ -37,5 +52,5 @@
 - `INS-260330-0027` PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
 - `INS-260403-C49F` Property definitions are pragmatic conventions that must evolve with technology, not fixed truths to be defended.
 - `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
-- `INS-260403-8C20` When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
+- `INS-260403-0611` When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260403-1325` Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.

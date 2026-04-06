@@ -47,16 +47,16 @@ stance: >-
   Because so few investors exist and they heavily weight each other's opinions,
   the fundraising market amplifies rather than dampens volatility
 related:
-  - INS-260321-3521
   - INS-260327-C79D
   - INS-260328-195E
-  - INS-260402-6BB6
   - INS-260402-EA72
   - INS-260402-3FC5
-  - INS-260402-421B
   - PRI-260405-E9C5
+  - INS-260403-597B
+  - INS-260321-3521
   - INS-260403-C695
   - INS-260403-D33B
+  - INS-260404-1A3F
 evidence:
   - id: INS-260327-C79D
     type: TRANSFERS_TO

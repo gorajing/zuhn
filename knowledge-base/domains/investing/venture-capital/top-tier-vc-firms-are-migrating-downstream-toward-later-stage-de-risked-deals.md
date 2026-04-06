@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: 'What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/what-top-vcs-look-for-2026-founder-playbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Major VC firms are shifting toward later-stage de-risked investments, making
@@ -59,6 +49,16 @@ resolutions:
 stance: >-
   The biggest venture firms moving downstream to later-stage deals creates a
   structural opening for micro-VCs and operator-angels at the earliest stages
+related:
+  - INS-260403-EE10
+  - INS-260403-4E71
+  - INS-260405-6DAD
+  - INS-260405-6EE5
+  - INS-260405-2F43
+  - INS-260404-5E22
+  - INS-260404-B661
+  - INS-260405-D4FA
+  - INS-260404-D5B5
 ---
 A significant structural shift is underway in venture capital: the biggest firms (Sequoia, a16z, Benchmark, etc.) are increasingly moving downstream toward later-stage, de-risked deals. This creates an opportunity gap at the earliest stages where micro-VCs and operator-angels are becoming the fastest path to capital. The dynamics vary by firm — a16z led with 25+ AI deals in 2025, Sequoia channels seed through its Arc program, and Benchmark does fewer deals than any top-tier fund.
 

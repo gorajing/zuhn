@@ -54,10 +54,12 @@ stance: >-
   times.
 related:
   - INS-260330-B50A
+  - INS-260330-D3F5
   - INS-260330-B5D2
   - INS-260330-4329
   - INS-260330-6DEB
-  - INS-260403-CF23
+  - INS-260326-6D76
+  - INS-260329-DFDB
 evidence:
   - id: INS-260330-B5D2
     type: CHALLENGES

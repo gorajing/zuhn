@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260325-0409
   - PRI-260328-D2FB
+  - INS-260404-FC20
   - INS-260325-A1B9
   - INS-260330-F5A1
-  - INS-260325-A782
 ---
 Qubits exploit superposition to be 0 and 1 simultaneously, enabling exponential parallel processing. But quantum states are extremely fragile — decoherence destroys them almost instantly, like a hot cup of coffee cooling in a freezer. This means that for every logical qubit needed for computation, you may need thousands or millions of physical qubits for error correction redundancy.
 

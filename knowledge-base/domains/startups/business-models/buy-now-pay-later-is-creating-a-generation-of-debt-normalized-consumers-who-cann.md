@@ -47,16 +47,15 @@ stance: >-
   payment from the pleasure of purchase, creating systematic overspending that
   disproportionately affects young consumers who have no prior credit framework.
 related:
+  - INS-260327-F26E
   - PRI-260328-FD90
   - INS-260327-CFC5
   - INS-260404-13F1
   - INS-260327-3377
-  - PRI-260328-935B
   - INS-260327-E039
   - INS-260329-BF51
   - INS-260330-059B
-  - INS-260403-5BBE
-  - INS-260403-5843
+  - INS-260403-3280
 evidence:
   - id: INS-260330-059B
     type: SUPPORTS

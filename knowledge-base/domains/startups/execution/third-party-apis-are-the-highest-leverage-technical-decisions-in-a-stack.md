@@ -46,12 +46,11 @@ stance: >-
   The build-vs-buy decision for capabilities like payments, auth, and messaging
   has more impact on shipping speed than any framework choice.
 related:
-  - INS-260323-0B52
   - INS-260329-33D4
   - INS-260323-70B9
   - INS-260322-1D52
   - INS-260405-69F1
-  - INS-260403-0240
+  - INS-260403-6E68
 evidence:
   - id: INS-260322-1D52
     type: EXTENDS

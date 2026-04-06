@@ -50,55 +50,55 @@ related:
   - INS-260323-F68A
   - INS-260325-206C
   - INS-260320-41E3
-  - INS-260404-86F8
-  - INS-260404-AC1B
-  - INS-260404-164F
-  - INS-260404-6E7B
-  - INS-260403-9104
+  - INS-260322-1435
+  - INS-260403-F98F
+  - INS-260404-35B6
+  - INS-260404-02C8
+  - INS-260403-FF45
 stance: >-
   Traditional SaaS scales cheaply per user, but AI products have marginal costs
   that increase with usage
 evidence:
   - id: INS-260322-55D8
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-3010
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-F68A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-206C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260320-41E3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-B450
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-2B62
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260324-C496
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-8BC5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-EBF6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-6188
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-CAAB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-9137
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-1435
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-C8C7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-243A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-AC1B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-164F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-C40D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-9104
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The SaaS business model worked because after initial investment in engineering and sales, each additional customer was cheap to serve. AI inverts this: the more a user uses an LLM-powered product, the more expensive they become due to compute costs. This is fundamentally different from traditional software economics.
 

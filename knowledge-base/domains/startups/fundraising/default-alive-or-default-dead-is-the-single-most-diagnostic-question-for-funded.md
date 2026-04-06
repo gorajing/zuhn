@@ -47,10 +47,11 @@ stance: >-
   market opportunity alone
 related:
   - INS-260404-7C79
+  - INS-260404-F8AF
   - INS-260403-87AC
-  - INS-260329-49A4
-  - INS-260403-458A
-  - INS-260327-A5F9
+  - INS-260403-D8DB
+  - INS-260404-F62A
+  - INS-260403-44E9
 evidence:
   - id: INS-260403-87AC
     type: CHALLENGES

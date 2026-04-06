@@ -51,15 +51,15 @@ stance: >-
   simply returns to storage without completing the second step
 related:
   - PRI-260328-40CA
-  - INS-260330-8A2E
-  - INS-260404-F8E6
-  - INS-260404-46AA
   - INS-260327-C8EB
+  - INS-260403-726B
+  - INS-260325-A03E
+  - INS-260330-30FB
 evidence:
   - id: INS-260404-0FEB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-6876
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-F8E6
     type: TRANSFERS_TO
     classified_at: '2026-04-06'

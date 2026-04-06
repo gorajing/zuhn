@@ -44,10 +44,11 @@ stance: >-
   simultaneously is operating below its potential and not taking enough bets.
 related:
   - INS-260330-06CD
+  - INS-260325-0C4A
+  - INS-260403-77F4
   - INS-260403-215E
+  - INS-260403-7DBB
   - INS-260404-6B73
-  - INS-260323-EDAD
-  - INS-260327-9F46
 evidence:
   - id: INS-260330-06CD
     type: TRANSFERS_TO

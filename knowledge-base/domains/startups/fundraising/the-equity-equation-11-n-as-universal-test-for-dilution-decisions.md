@@ -46,11 +46,11 @@ stance: >-
   mathematical test: does the remaining stake exceed the prior whole.
 related:
   - INS-260329-8542
+  - INS-260405-FFCE
   - INS-260329-6079
   - INS-260403-0240
-  - INS-260322-A31D
-  - INS-260329-F6E1
-  - INS-260329-9F8D
+  - INS-260404-6D22
+  - INS-260403-B98A
 ---
 Paul Graham proposes a single formula for all equity decisions: 1/(1-n). If you give up n% of your company, the deal must improve your average outcome by at least 1/(1-n) times for you to break even. For example, giving up 7% requires a >7.5% improvement; giving up 30% requires >43%. This reframes dilution from an emotional loss into a quantifiable investment decision, applicable identically whether you're taking VC money, granting employee stock, or structuring a partnership deal.
 

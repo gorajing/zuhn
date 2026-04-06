@@ -48,10 +48,10 @@ stance: >-
   visible business feeds proprietary deal flow to the hidden one.
 related:
   - INS-260330-16F7
+  - INS-260403-BD43
+  - INS-260403-8450
   - INS-260403-A115
   - INS-260330-8326
-  - INS-260403-47B7
-  - INS-260321-3521
 evidence:
   - id: INS-260403-47B7
     type: TRANSFERS_TO

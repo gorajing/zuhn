@@ -50,11 +50,12 @@ stance: >-
   tracks, even though 65% of startup failures trace back to interpersonal
   tensions in the founding team.
 related:
+  - INS-260325-A52D
   - PRI-260328-3BEF
+  - INS-260403-8B68
   - INS-260326-F845
   - INS-260403-DD41
   - INS-260402-225A
-  - INS-260325-A52D
   - INS-260404-DF8E
 ---
 Perel observes a massive blind spot: startups have boards of advisors for fundraising, strategy, and product, but almost never for the co-founder relationship itself. Yet interpersonal tensions in the founding team are the single largest cause of startup failure at 65%. She recommends adding a relationship advisor (coach or therapist) to the advisory structure, treating co-founder dynamics as a core business metric. How founders treat each other ripples into company culture — the team takes cues on how to fight, respect each other, and manage tension from watching the founders. The co-founder relationship is not a personal matter adjacent to the business; it IS the business.

@@ -48,15 +48,13 @@ resolutions:
     exit on a business losing $90M/year is an extraordinary outcome. Ego turned
     it into a disaster.
 related:
+  - INS-260403-C349
+  - INS-260403-E482
+  - INS-260403-EA15
   - INS-260330-CECB
-  - INS-260323-C8AC
-  - INS-260330-8326
+  - INS-260330-808B
   - INS-260330-0871
-  - PRI-260403-26B9
-  - INS-260327-4E34
-  - INS-260330-22D6
   - INS-260402-96E2
-  - INS-260403-E9C6
   - INS-260403-912E
 stance: >-
   Casper rejected Target's $900M acquisition offer because it wasn't a billion

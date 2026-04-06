@@ -52,20 +52,20 @@ stance: >-
   hierarchies, and encapsulated behaviors is a transferable cognitive skill for
   structuring any complex domain, not just software.
 related:
-  - PRI-260403-ABDE
   - INS-260329-A461
-  - INS-260329-FEF4
-  - INS-260329-7C59
+  - PRI-260403-ABDE
   - PRI-260328-8516
+  - INS-260329-E015
+  - INS-260329-C33B
 evidence:
   - id: INS-260329-D0B3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-A461
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FEF4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial's progression from procedural code to classes and inheritance mirrors a cognitive shift: moving from thinking in sequences of actions to thinking in entities with behaviors and relationships. This shift — from 'what happens' to 'what exists and how does it interact' — is fundamentally about building mental models of complex systems.
 

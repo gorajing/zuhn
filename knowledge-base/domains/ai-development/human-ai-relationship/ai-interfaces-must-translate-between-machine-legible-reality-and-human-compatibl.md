@@ -52,8 +52,8 @@ stance: >-
   process raw output.
 related:
   - INS-260323-9774
-  - PRI-260323-1CF9
   - PRI-260323-1187
+  - PRI-260323-1CF9
   - PRI-260324-2C9F
   - INS-260323-9773
 evidence:

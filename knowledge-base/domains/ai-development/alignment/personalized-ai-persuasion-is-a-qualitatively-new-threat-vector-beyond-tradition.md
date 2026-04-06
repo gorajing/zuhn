@@ -50,22 +50,22 @@ stance: >-
   perfectly-timed, individually-customized message represents a fundamentally
   different interference risk than mass-produced troll farm content.
 related:
+  - PRI-260405-262B
+  - INS-260405-270B
   - INS-260403-BDE0
   - INS-260403-61B0
   - INS-260322-96D1
-  - INS-260323-87F3
-  - INS-260404-DD77
 evidence:
   - id: INS-260327-679A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-57CE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-BDE0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-61B0
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-2F86
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Altman draws a sharp distinction between existing disinformation (troll farms creating one viral meme everyone sees) and a new threat enabled by AI: systems that read everything a person has ever written online, then send a single message customized to that individual at precisely the right moment to shift their worldview.
 

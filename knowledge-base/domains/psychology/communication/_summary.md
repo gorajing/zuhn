@@ -1,20 +1,26 @@
 # Topic: communication
 
-> 41 insights
+> 49 insights
 
 - `INS-260404-B87E` [high] Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
 - `INS-260404-5BBF` [high] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - `INS-260404-F965` [high] Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
+- `INS-260403-AE5B` [high] In leadership communication, fewer words carry more weight because they signal resolved thinking.
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
+- `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - `INS-260403-37D9` [high] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260330-365B` [high] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 - `INS-260403-F60A` [high] Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260405-76E4` [high] Investors without technical depth use founder confidence as a proxy for product quality.
+- `INS-260404-4956` [high] Reframe pushback as clarifying questions to move conversations from emotional to logical space without creating adversarial dynamics.
 - `INS-260403-0479` [high] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
+- `INS-260404-F366` [high] Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
 - `INS-260330-3570` [high] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
+- `INS-260403-E332` [high] Ubiquitous video plus independent analysis creates near real-time falsification of institutional narratives.
 - `INS-260404-E4B8` [high] Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
 - `INS-260404-C64D` [high] Startup pitching is structurally broken: people bad at explaining talk to people bad at understanding, and even Google got rejected.
 - `INS-260404-C0E6` [high] Startup pitches suffer from a double communication penalty where both sender and receiver deficiencies compound rather than cancel out.
+- `INS-260404-36F1` [high] Technically accurate quotes stripped of context can produce a more misleading picture than outright fabrication.
 - `INS-260402-9E2D` [high] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - `INS-260330-24CD` [high] Steven Pinker identified five distinct types of swearing, each serving a different communicative and emotional function.
 - `INS-260330-B711` [high] Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
@@ -25,18 +31,20 @@
 - `INS-260330-F140` [high] Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` [high] The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
 - `INS-260404-A526` [high] Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
-- `INS-260403-2B1D` [high] The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
+- `INS-260403-772D` [high] The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260330-5A9E` [high] Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
 - `INS-260330-A8F8` [high] Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
 - `INS-260403-272E` [high] Jessica Livingston's aversion to attention meant she was written out of YC's history despite being co-founder and primary culture-builder.
 - `INS-260403-2AF0` [high] Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
 - `INS-260404-7F34` [high] Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-6652` [high] Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
+- `INS-260404-D45D` [high] Introverts should leverage written content as their primary vehicle for demonstrating expertise rather than competing in verbal-dominant settings.
 - `INS-260405-194F` [medium] When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
 - `INS-260330-CD7A` [medium] Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260404-D6EE` [medium] Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
 - `INS-260403-7FFA` [medium] Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260404-E5D9` [medium] Saying 'you suck' is easier than explaining exactly what you disagree with, and also shields the speaker from refutation.
+- `INS-260405-3E5F` [medium] Inability to communicate an idea simply is a signal the idea itself needs more work.
 - `INS-260403-3D61` [medium] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 - `INS-260404-18F1` [medium] Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
 - `INS-260330-FAB4` [medium] As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.

@@ -47,15 +47,15 @@ stance: >-
 related:
   - INS-260329-6004
   - INS-260323-584D
-  - INS-260404-4A68
-  - INS-260329-D357
+  - INS-260403-27A5
   - INS-260323-144F
+  - INS-260323-9773
 evidence:
   - id: INS-260329-6004
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-144F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-D39D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Roblox compressed their translation model from 1B to under 650M parameters using knowledge distillation. The critical detail: the student doesn't just learn the teacher's final answers — it learns the teacher's probability distributions across all possible translations. This preserves the nuance of the teacher's uncertainty. Combined with quantization (reducing numerical precision of weights) and model compilation (optimizing computation graphs for specific hardware), they achieved the latency required for real-time chat. The architectural problem (building the model) and the serving problem (making it fast enough) are fundamentally different challenges requiring different engineering.

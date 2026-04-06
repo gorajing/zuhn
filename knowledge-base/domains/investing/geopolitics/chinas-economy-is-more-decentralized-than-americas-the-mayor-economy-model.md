@@ -49,9 +49,9 @@ resolutions:
 related:
   - PRI-260322-9E36
   - INS-260330-7DA5
+  - INS-260405-F20C
   - INS-260330-73C1
   - INS-260323-244C
-  - INS-260323-9FCA
 stance: >-
   The biggest misconception about China's economy is that it is centrally
   commanded

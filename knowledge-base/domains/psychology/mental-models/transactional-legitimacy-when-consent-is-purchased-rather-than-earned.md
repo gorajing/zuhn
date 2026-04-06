@@ -50,10 +50,10 @@ stance: >-
   their support inherently unstable.
 related:
   - INS-260327-1B7C
+  - INS-260403-FAC6
   - INS-260327-B116
   - INS-260327-EF98
   - PRI-260328-A4AC
-  - PRI-260328-6136
 evidence:
   - id: INS-260327-EF98
     type: SUPPORTS

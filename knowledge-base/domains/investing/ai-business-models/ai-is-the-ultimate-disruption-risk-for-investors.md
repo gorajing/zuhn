@@ -43,33 +43,34 @@ resolutions:
     physical moat of fresh food supply chains and brand loyalty resists digital
     disruption in ways that pure software businesses cannot.
 related:
-  - INS-260404-397F
-  - INS-260403-427E
   - INS-260322-019A
-  - INS-260404-445D
-  - INS-260325-5455
-  - INS-260323-D6C7
+  - INS-260327-FC6F
+  - INS-260403-427E
   - INS-260403-9E2D
+  - INS-260404-397F
+  - INS-260403-FF7E
+  - INS-260403-11F9
+  - INS-260405-5C3F
 stance: >-
   AI creates the greatest period of business disruptability in history, making
   moat analysis the most critical and difficult skill for investors.
 evidence:
   - id: INS-260325-5455
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-019A
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-F6AA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-FC6F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-397F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-427E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-7A5B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-9E2D
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Ackman identifies AI as fundamentally changing the investment landscape because it enables rapid disruption of previously stable businesses. Two 19-year-olds can now raise capital, access infinite bandwidth, contract global engineers, and build virtual companies that threaten established incumbents.
 

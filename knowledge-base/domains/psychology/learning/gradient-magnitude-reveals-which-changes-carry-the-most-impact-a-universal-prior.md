@@ -55,20 +55,21 @@ stance: >-
 related:
   - INS-260325-D392
   - INS-260330-51D6
-  - PRI-260403-6E50
   - INS-260330-2689
-  - INS-260404-86CF
+  - PRI-260403-6E50
   - INS-260405-7305
-  - INS-260329-5094
+  - INS-260326-CAAB
+  - INS-260329-ADCD
+  - INS-260403-FBC0
 evidence:
   - id: INS-260325-D392
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FEA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-02A7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-ADCD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-7305
     type: CHALLENGES
     classified_at: '2026-04-06'

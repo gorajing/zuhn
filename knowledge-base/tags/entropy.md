@@ -7,3 +7,4 @@
 - `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
 - `INS-260323-5199` The arrow of time may not emerge from thermodynamics but is baked into reality through quantum decoherence — the truly irreversible process of quantum systems becoming entangled with their environment.
 - `INS-260330-7FAC` Boltzmann showed entropy increase is not a law but a near-certainty driven by combinatorics at scale.
+- `INS-260330-07B1` Earth radiates back the same energy it receives from the sun; what we actually use is the low entropy — concentrated energy in fewer, higher-energy photons.

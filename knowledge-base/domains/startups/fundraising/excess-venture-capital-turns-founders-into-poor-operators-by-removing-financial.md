@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Venture Capital Unveiled: Time for Change!'
-    author:
-      - '@type': Person
-        name: Arthur Derderian
-        url: 'https://substack.com/@arthurderderian'
-        description: Repeat Entrepreneur⏐Investor⏐Human Driver
-        identifier: 'user:58405609'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!OAQt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8135b2b2-2a82-40e0-b163-53201fcd6f5e_1149x1436.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!OAQt!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8135b2b2-2a82-40e0-b163-53201fcd6f5e_1149x1436.jpeg
+    author: Arthur Derderian
     url: 'https://www.thevccorner.com/p/venture-capital-unveiled-time-for'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Too much VC money removes the resource constraints that force founders to
@@ -58,6 +48,17 @@ stance: >-
   Over-capitalization from VC deployment pressure systematically degrades
   founder decision-making by eliminating the resource constraints that force
   operational rigor.
+related:
+  - INS-260322-EDA4
+  - INS-260322-F868
+  - INS-260327-8D5D
+  - INS-260327-6061
+  - INS-260327-E1EB
+  - INS-260329-644B
+  - INS-260330-DE65
+  - INS-260330-4AC6
+  - INS-260330-9751
+  - INS-260330-86CD
 ---
 When VCs are pressured to deploy large funds within fixed timelines, they tend to over-capitalize portfolio companies. This excess capital systematically undermines founder discipline—removing the resource constraints that force careful prioritization, lean operations, and rigorous metric tracking. The author observes that 'too much money = big ego' is nearly inherent, and that balance is key.
 

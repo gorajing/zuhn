@@ -48,20 +48,19 @@ stance: >-
   compensating for missing language features rather than solving the actual
   problem.
 related:
-  - INS-260323-AF96
   - INS-260329-393C
   - INS-260329-E015
   - INS-260329-9745
-  - INS-260329-B170
   - INS-260330-0E6E
   - INS-260330-E5F7
   - INS-260329-A461
-  - INS-260329-25FC
+  - INS-260323-AF96
+  - INS-260403-A851
 evidence:
   - id: INS-260329-393C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-493A
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Graham cites Peter Norvig's finding that 16 of 23 Gang of Four design patterns are 'invisible or simpler' in Lisp, and frames this through Greenspun's Tenth Rule: any sufficiently complex program in a less powerful language ends up reimplementing half of Lisp ad hoc. The deeper claim is that visible regularity in code — patterns — should be a red flag, not a best practice. The shape of a program should reflect only the problem domain; any other structure means you're generating by hand what a macro or higher-level abstraction should generate automatically.
 

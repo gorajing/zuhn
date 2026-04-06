@@ -51,12 +51,13 @@ stance: >-
   deploying their own capital — like payment networks and formula licensors —
   are structurally superior to capital-intensive businesses.
 related:
-  - INS-260329-2A5A
+  - INS-260403-CBFF
   - INS-260404-6751
+  - INS-260403-B98A
   - INS-260323-70B9
-  - INS-260403-3F5F
+  - INS-260404-22CB
   - INS-260404-396E
-  - PRI-260403-C229
+  - INS-260404-A2CA
 evidence:
   - id: INS-260329-2A5A
     type: TRANSFERS_TO

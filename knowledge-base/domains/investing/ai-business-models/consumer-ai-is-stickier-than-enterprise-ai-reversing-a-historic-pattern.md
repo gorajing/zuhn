@@ -51,11 +51,10 @@ related:
   - PRI-260403-5FC4
   - PRI-260328-C581
   - INS-260325-040F
-  - PRI-260328-935B
-  - INS-260403-CA1E
+  - INS-260403-36EC
+  - INS-260403-9482
   - INS-260327-290C
   - INS-260330-7BAE
-  - INS-260403-E69C
   - INS-260405-69F1
 stance: >-
   In a reversal of the traditional software pattern where enterprise was

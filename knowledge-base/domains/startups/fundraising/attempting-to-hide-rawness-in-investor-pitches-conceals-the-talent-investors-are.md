@@ -47,14 +47,12 @@ stance: >-
   technical talent that sophisticated investors specifically want to identify.
 related:
   - INS-260330-1002
-  - INS-260329-4605
   - INS-260403-7586
   - INS-260403-DE45
-  - PRI-260405-4B06
   - INS-260403-FE3B
+  - INS-260403-9942
   - PRI-260403-26B9
   - INS-260405-224A
-  - PRI-260403-2E59
 evidence:
   - id: INS-260403-7586
     type: TRANSFERS_TO

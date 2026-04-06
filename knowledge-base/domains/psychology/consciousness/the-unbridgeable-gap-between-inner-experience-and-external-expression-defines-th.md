@@ -49,7 +49,6 @@ stance: >-
   language or intimacy, making complete understanding between people impossible.
 related:
   - INS-260325-DB82
-  - INS-260323-A64F
   - INS-260329-D1B0
   - INS-260323-6BF4
   - INS-260403-28C7

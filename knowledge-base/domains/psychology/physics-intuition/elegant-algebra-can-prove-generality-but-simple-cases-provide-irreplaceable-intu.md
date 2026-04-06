@@ -51,7 +51,6 @@ stance: >-
   works in general, while the simple case reveals why and how it works
   mechanically.
 related:
-  - INS-260325-1160
   - INS-260329-4A69
   - INS-260330-B904
   - INS-260329-2DF2

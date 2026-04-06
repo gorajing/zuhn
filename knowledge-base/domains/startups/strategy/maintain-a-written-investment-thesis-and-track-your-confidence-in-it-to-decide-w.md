@@ -51,11 +51,13 @@ stance: >-
 related:
   - INS-260330-F1C8
   - INS-260403-82CC
+  - INS-260403-793D
   - INS-260404-8A02
   - INS-260403-64D0
-  - INS-260327-80A8
-  - INS-260404-8890
+  - INS-260403-0992
   - INS-260403-2824
+  - INS-260403-EBC3
+  - INS-260403-2041
 ---
 Hoffman's investment thesis framework resolves the classic founder dilemma of when to persist versus when to pivot. The thesis is a bulleted list of beliefs about why your idea will work — including what you know that critics don't. As you execute, you continuously ask: is my confidence in this thesis increasing or decreasing?
 

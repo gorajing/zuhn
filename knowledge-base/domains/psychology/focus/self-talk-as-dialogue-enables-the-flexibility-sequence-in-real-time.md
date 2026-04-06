@@ -50,10 +50,10 @@ stance: >-
   sequence during moments of distress.
 related:
   - INS-260325-3E86
+  - INS-260329-2F63
   - PRI-260328-39FA
   - INS-260329-0F39
-  - INS-260403-3EFB
-  - PRI-260328-27F7
+  - INS-260403-648C
 evidence:
   - id: INS-260329-2F63
     type: TRANSFERS_TO

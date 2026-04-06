@@ -52,13 +52,13 @@ stance: >-
   adoption because they eliminate the multi-app coordination problem that
   fragments payment networks in competitive markets.
 related:
-  - INS-260327-1F4A
   - INS-260330-C24F
   - INS-260330-E4B6
   - INS-260330-318C
   - INS-260330-D583
   - INS-260330-7ED0
   - PRI-260403-C337
+  - INS-260404-70DE
   - INS-260330-519D
   - INS-260402-5E4E
   - INS-260404-B5EB

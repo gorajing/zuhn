@@ -48,10 +48,9 @@ stance: >-
 related:
   - INS-260320-4B31
   - INS-260329-F84E
-  - INS-260329-9074
+  - INS-260329-D2CA
   - PRI-260405-3080
   - INS-260329-3441
-  - INS-260329-3423
 evidence:
   - id: INS-260330-FBE1
     type: CONTRADICTS

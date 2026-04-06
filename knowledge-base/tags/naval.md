@@ -1,6 +1,7 @@
 # Tag: naval
 
 - `INS-260330-712D` When excited about a new trend, ruthlessly separate the real value proposition from the fantasies you're projecting onto it.
+- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260330-FCA3` A single deep book like Beginning of Infinity, digested over years, upgrades your entire framework for evaluating all future information.
 - `INS-260330-B91E` Naval advocates reading the best books over and over rather than maximizing book count, because deep understanding compounds while shallow reading doesn't.
 - `INS-260403-CE62` Act on problems immediately but accept that results in complex systems take time to materialize.

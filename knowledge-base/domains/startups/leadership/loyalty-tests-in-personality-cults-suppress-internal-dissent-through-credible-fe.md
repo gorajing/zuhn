@@ -54,10 +54,11 @@ stance: >-
   members to self-censor.
 related:
   - INS-260403-D531
+  - INS-260403-272C
   - PRI-260403-E023
   - INS-260330-4045
   - INS-260403-14CB
-  - INS-260323-8B22
+  - INS-260403-1D41
 evidence:
   - id: INS-260323-9D6E
     type: TRANSFERS_TO

@@ -55,7 +55,7 @@ related:
   - INS-260327-6B78
   - INS-260403-F62E
   - PRI-260403-0ABD
-  - INS-260330-56B2
+  - INS-260405-2AFD
 ---
 After leaving Oracle, Mark Benioff didn't immediately start building. He embarked on a deliberate listening tour, engaging with people across different industries and backgrounds. It was this breadth of exposure — not deep enterprise software expertise — that produced the catalytic question: 'What if we sold enterprise-level software like Amazon sells books?'
 

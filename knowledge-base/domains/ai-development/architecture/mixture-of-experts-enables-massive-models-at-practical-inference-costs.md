@@ -44,11 +44,11 @@ stance: >-
   Sparse mixture-of-experts architectures make 671B-parameter models viable by
   activating only a fraction of total parameters per inference pass.
 related:
+  - INS-260403-CDB0
+  - INS-260403-64F4
   - INS-260320-0511
-  - PRI-260328-D893
-  - INS-260327-EE5B
-  - INS-260323-B309
-  - INS-260404-420F
+  - INS-260405-F26B
+  - INS-260322-F46F
 evidence:
   - id: INS-260322-F46F
     type: CHALLENGES

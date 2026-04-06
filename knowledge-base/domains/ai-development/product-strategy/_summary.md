@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 66 insights
+> 83 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -8,29 +8,38 @@
 - `INS-260327-5A72` [high] With 25% of US physicians as monthly active users, Open Evidence can now aggregate distributed clinical wisdom that exists only in doctors' heads -- knowledge not found in any published literature.
 - `INS-260329-7BA7` [high] Internet value accrues to those who control the user relationship while commoditizing supply — now playing out in AI
 - `INS-260323-5CBE` [high] Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
+- `INS-260403-B617` [high] AI-generated code moves the constraint from production speed to decision quality and deployment pipeline capacity.
 - `INS-260327-680A` [high] Claude Code feels like programming with the best programmer you've ever met — and that intoxicating feeling is exactly what should make you suspicious of your output quality.
 - `INS-260325-060A` [high] Elena Verna argues AI companies must re-find PMF every 3 months because capability shifts make yesterday's differentiator today's baseline.
+- `INS-260404-E4C3` [high] AI features embedded in existing vertical workflows achieve faster adoption than standalone AI products because they eliminate the adoption barrier of a new tool.
 - `INS-260327-5D62` [high] AI's biggest contact center opportunity is enabling new customer interactions that couldn't exist before, not just automating existing ones at lower cost.
 - `INS-260325-8A61` [high] Mind the Product's 2026 guide proposes the 3x rule: an AI feature must create measurable value at least 3x its direct compute cost, or treat it as research, not product.
 - `INS-260328-D826` [high] AI features in SaaS create an inverse relationship between user engagement and profitability unless usage caps and smart routing are in place.
 - `INS-260327-F4DD` [high] Products that start AI-light and go AI-heavy end up with AI in a sidebar that can't fully access the application; true AI-native products expose all primitives to models.
+- `INS-260403-699A` [high] AI dev tools form a three-tier hierarchy: chatbots for single pages, cloud environments for multi-feature prototypes, and local IDEs for production apps.
 - `INS-260402-543E` [high] Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
 - `INS-260327-13B3` [high] Ambient agents listen to event streams and act in the background at scale, but they're not fully autonomous -- they need inbox-style UX for human approval, editing, question-answering, and time-travel debugging.
 - `INS-260325-FDF5` [high] Anthropic CPO Krieger: build AI products bottom-up from individual user workflows, not top-down from enterprise requirements — adoption drives sales.
 - `INS-260327-EEBD` [high] When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
+- `INS-260403-415E` [high] When your entire product depends on a third-party API, you don't control pricing, uptime, or differentiation—any competitor can clone you in a weekend.
+- `INS-260403-82E0` [high] Investors should prioritize AI application-layer companies with workflow embedding, data flywheels, and strong net revenue retention over foundational model plays.
 - `INS-260327-7214` [high] Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
 - `INS-260327-42F0` [high] Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
 - `INS-260327-1C7C` [high] Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
 - `INS-260330-6828` [high] Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260327-47E9` [high] Google knew character consistency was a gap in prior models and deliberately designed Nano Banana's architecture and data to solve it, confirming it requires intentional engineering rather than just more compute.
+- `INS-260403-26D4` [high] Smart AI companies build cost moats through hybrid retrieval layers, intelligent caching, and model routing rather than competing on raw feature parity.
 - `INS-260323-8555` [high] Once a developer's intent is determined, all remaining keystrokes to express that intent are zero-entropy actions that AI should eliminate via next-action prediction.
 - `INS-260329-44C9` [high] Figma-first design eliminates the ambiguity that causes AI code editors to hallucinate features and layouts.
 - `INS-260325-040F` [high] AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
+- `INS-260403-990E` [high] AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.
+- `INS-260403-9A0F` [high] Product managers embedded with AI researchers influence model behavior directly, creating differentiation impossible to achieve by building on public APIs alone.
 - `INS-260327-4CB3` [high] Optimizing directly for outcomes via RL produces more flexible, capable agents than human-designed graphs of LLM calls.
 - `INS-260330-8638` [high] The arrow hits the target precisely because it flexes around the obstacle, not despite it.
 - `INS-260327-BF89` [high] Flow engineering -- explicitly designing the agent's state machine rather than relying on LLM implicit planning -- is the current best practice for reliable agent deployment, though it may become unnecessary as models improve.
 - `INS-260327-3E23` [high] Pace achieves 100% pilot-to-production conversion by deploying forward engineers with former-founder profiles who can ship code into the core codebase while simultaneously closing customer distance.
 - `INS-260327-F417` [high] Wayve deployed in Tokyo within 4 months of first driving there because their foundation model generalizes across countries and vehicles, while AV 1.0 companies need to build HD maps for each new city.
+- `INS-260327-66AC` [high] Face consistency can only be evaluated by people who know the face; Google built internal evals using team members' own faces because strangers cannot judge whether a generated image actually looks like someone.
 - `INS-260323-AF7B` [high] AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
 - `INS-260325-5455` [high] In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
 - `INS-260325-FBE5` [high] a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
@@ -45,6 +54,8 @@
 - `INS-260327-C5D9` [high] Just as novice managers check in on delegates after 5 minutes, users must learn to give AI agents minutes or hours before expecting results.
 - `INS-260327-7A48` [high] Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.
 - `INS-260327-5CB0` [high] Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
+- `INS-260403-E706` [high] A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
+- `INS-260403-3B8D` [high] Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
 - `INS-260327-63B5` [high] Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
 - `INS-260325-5CA5` [high] 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260327-9816` [high] Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
@@ -60,6 +71,11 @@
 - `INS-260327-E41B` [medium] When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
 - `INS-260327-E75F` [medium] Just as the internet taught people to consume information through screens, ChatGPT is teaching people to consume it through conversation, which will become the dominant modality because humans prefer easy.
 - `INS-260403-F112` [medium] AI embedded within established innovation frameworks outperforms generic AI tools because it combines methodology guardrails with contextual workflow integration.
+- `INS-260404-F38A` [medium] The defensible value in a custom GPT comes from the curated knowledge and structured workflow baked into it, not from the API connection itself.
+- `INS-260404-60A6` [medium] Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
+- `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
+- `INS-260403-3C6D` [medium] Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
+- `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
 - `INS-260327-5F10` [medium] Programs are written for people to read and only incidentally for machines to execute; as long as humans need to understand what AI agents do to their code, visual code interfaces remain essential.
 - `INS-260327-9C56` [medium] Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
 - `INS-260327-FE24` [medium] The terminal became more important with AI agents because its text-based, loggable, multi-session architecture perfectly matches agentic workflows.
@@ -67,4 +83,5 @@
 - `INS-260329-3D28` [medium] Interact with AI coding tools conversationally — warm them up with context, compliment good output, then describe problems naturally.
 - `INS-260327-DCF8` [medium] Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
 - `INS-260329-8DC5` [medium] Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context.
+- `INS-260405-3805` [low] AI is eating software faster in Europe, shortening competitive windows for cloud companies.
 - `INS-260329-F84E` [low] Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.

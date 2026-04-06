@@ -1,6 +1,25 @@
 # Tag: fundraising-strategy
 
+- `INS-260403-5941` Venture debt deal sizes and activity have grown substantially over the past decade, making it a standard tool rather than an exotic financing option.
+- `INS-260405-5BA9` Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
+- `INS-260404-9103` Sub-100% growth SaaS companies now get better valuations in public markets than from VCs.
+- `INS-260403-BA6A` Building a DCF model forces founders to speak the financial language investors use, shifting negotiations from opinion-based anchoring to assumption-based discussion.
+- `INS-260403-3D75` Burn multiple (net burn ÷ net new ARR) has become the dominant investor filter, with sub-1x considered excellent and over-2x triggering tough conversations.
+- `INS-260404-F26B` Systematic, data-driven cold outreach to investors is a viable alternative to the warm-intro-dependent fundraising playbook.
+- `INS-260405-57C5` Startups with corporate investors behind them are statistically more likely to survive, suggesting founders should actively court strategic CVCs.
+- `INS-260404-5988` With 89% of corporate investors planning to increase or maintain startup investments and CVCs in 25% of European deals, founders must develop CVC-specific fundraising strategies.
+- `INS-260403-D970` Capital planning is a multi-round game where compounding dilution across Seed through Series C dramatically reduces founder ownership beyond what single-round math suggests.
+- `INS-260404-7E85` With 1 in 5 rounds being down rounds, founders must internalize that valuation discipline at entry matters more than growth metrics.
+- `INS-260403-ACC5` Institutional VCs screen for founder ownership levels and messy cap tables before investing, making excessive early dilution a compounding problem.
 - `INS-260404-64EC` Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
+- `INS-260404-5EB8` Treating each fundraising round independently leads to compounding dilution that erodes founder ownership far more than single-round analysis suggests.
+- `INS-260403-EC66` VCs choosing political sides in the Musk-Trump feud introduces political alignment as a hidden variable in fundraising.
+- `INS-260404-8E17` Companies with explicit revenue infrastructure in their value prop (Paddle, Wayflyer, Pennylane, Griffin) raised the largest rounds in this collection.
+- `INS-260403-118B` VC fund formation is increasingly sector-specific, with dedicated vehicles for climate, health, and space signaling that domain expertise is becoming a fundraising prerequisite.
+- `INS-260404-488A` Seed funding has evolved into a fundamentally different game than a decade ago, requiring new frameworks for both founders and investors.
+- `INS-260404-AFE6` Hybrid funding models like seed strapping and boot-scaling blur the line between bootstrapping and traditional VC, giving founders more nuanced growth paths.
+- `INS-260404-688B` Microsoft's Series E investment in Rubrik created ecosystem integration that added credibility and enterprise distribution beyond what financial investors alone could provide.
 - `INS-260328-D866` The most successful Standard Capital founders hadn't talked to any investors or built a deck -- they just applied and committed to the process if accepted.
 - `INS-260402-5974` Founders should fit investor meetings into gaps in their development schedule, not fit development into gaps between investor meetings.
+- `INS-260404-B6DF` Founders must demonstrate capital efficiency and a path to profitability to raise at attractive valuations in the post-ZIRP era.
 - `INS-260403-7E27` Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.

@@ -48,14 +48,15 @@ stance: >-
   predictable liability rather than a threat, because the capital constrains
   their strategic flexibility.
 related:
-  - INS-260327-F651
   - INS-260330-EEED
   - INS-260402-FFB2
   - INS-260403-699F
   - INS-260403-C0FE
   - INS-260404-A520
   - PRI-260405-6216
-  - PRI-260324-5F05
+  - INS-260404-1CC0
+  - INS-260403-4ADC
+  - INS-260403-FBD6
 ---
 Graham describes being delighted rather than worried when a competitor raised $20M — he recognized it as a dead-end street. The competitor couldn't acquire Graham's company cheaply (the obvious smart move) because their investors' expectations wouldn't allow it, and they couldn't accept a modest exit because their valuation demanded a blockbuster outcome.
 

@@ -50,29 +50,28 @@ stance: >-
   Complex transformations are best achieved through sequential stages where each
   step captures a specific quantum of value from a degrading signal
 related:
-  - INS-260327-1C1B
+  - INS-260330-F671
   - INS-260330-4D0E
-  - INS-260330-0017
-  - INS-260330-4B45
-  - INS-260330-545E
-  - PRI-260403-7D53
   - INS-260403-D2FD
+  - INS-260330-545E
   - INS-260404-CDD2
-  - INS-260404-2A07
-  - INS-260404-2D92
+  - INS-260330-85D7
+  - INS-260327-1C1B
+  - INS-260330-3082
+  - INS-260330-2C71
 evidence:
   - id: INS-260327-1C1B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4D0E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0017
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-545E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D2FD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-7738
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Photosynthesis doesn't convert photon energy to usable chemical energy in a single step. Instead, it runs excited electrons through a four-stage transport chain (PSII → Cytochrome Complex → PSI → NADPH reductase), each extracting a specific form of value: water splitting for protons, proton pumping for concentration gradients, ATP synthesis from those gradients, and finally NADPH production. By the end, the electrons are in their lowest useful energy state.
 

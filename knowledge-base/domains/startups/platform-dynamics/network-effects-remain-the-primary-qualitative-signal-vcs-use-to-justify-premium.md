@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "GC, a16z Capture 44% VC fundraising\U0001F4B0, Massive Acquisitions in Software Startups \U0001F6D2, Network Effects\U0001F578️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/gc-a16z-capture-44-vc-fundraising'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs explicitly screen for network effects because they are the strongest
@@ -61,6 +51,17 @@ stance: >-
   Network effects are the single most defensibility-generating mechanism in
   software, and businesses without them face commoditization under competitive
   pressure.
+related:
+  - INS-260323-61CD
+  - INS-260330-2304
+  - INS-260330-E794
+  - INS-260330-6D2E
+  - INS-260330-0294
+  - INS-260330-3D0D
+  - INS-260403-C032
+  - INS-260403-E86E
+  - INS-260403-4964
+  - INS-260403-6341
 ---
 Network effects create compounding defensibility: the more users on a platform, the more valuable it becomes to each individual user, which attracts more users, creating a flywheel that competitors cannot easily replicate with features or price alone. This is why VCs treat them as a primary investment signal — a business with genuine network effects gets harder to displace over time rather than easier.
 

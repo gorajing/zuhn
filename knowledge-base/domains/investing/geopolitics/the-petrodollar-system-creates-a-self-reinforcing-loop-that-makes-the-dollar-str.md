@@ -52,14 +52,14 @@ stance: >-
   assets, which strengthens the dollar further -- that maintains dollar
   dominance independent of U.S. economic performance.
 related:
-  - INS-260325-F484
-  - PRI-260328-8284
   - INS-260330-F79F
+  - INS-260403-EB8F
+  - INS-260403-8C41
+  - PRI-260328-8284
   - PRI-260322-9E36
-  - PRI-260328-37D8
 evidence:
   - id: INS-260325-B234
-    relationship: RELATED
+    type: SUPPORTS
 ---
 After the 1971 Nixon Shock ended gold-dollar convertibility, the U.S. needed a new mechanism to maintain dollar dominance. The 1973 agreement with Saudi Arabia (oil sold only in USD in exchange for military protection) created that mechanism. Since every country needs oil, every country needs dollars, creating constant structural demand.
 

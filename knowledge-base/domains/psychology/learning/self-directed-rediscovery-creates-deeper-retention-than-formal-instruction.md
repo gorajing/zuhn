@@ -50,12 +50,11 @@ stance: >-
   produces fundamentally stronger understanding than learning it from a textbook
   first.
 related:
-  - INS-260323-C5D3
+  - INS-260329-9A58
   - INS-260330-E47D
   - INS-260330-026B
   - INS-260322-DAA1
-  - INS-260325-001B
-  - INS-260325-0713
+  - INS-260329-9CED
 evidence:
   - id: INS-260322-DAA1
     type: SUPPORTS

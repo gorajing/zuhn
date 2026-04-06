@@ -1,7 +1,9 @@
 # Tag: competitive-dynamics
 
+- `INS-260403-C8EF` Anthropic's designation as a 'supply chain risk' for refusing surveillance use demonstrates that AI safety positions carry direct commercial punishment.
 - `INS-260327-C15B` Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
 - `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
+- `INS-260403-83F3` AI prototyping tools compete on hosting architecture (browser-side vs. real cloud vs. full database) rather than code generation quality.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.
 - `INS-260327-1576` BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
@@ -33,22 +35,29 @@
 - `INS-260330-8D0C` The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.
 - `INS-260403-CA1E` Large companies shift from user-serving to user-exploiting, creating predictable openings for startups that genuinely serve users.
 - `INS-260327-325B` Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
+- `INS-260405-E2F2` Companies invest in OSS to influence standards, attract developers, and commoditize competitors' advantages.
 - `INS-260327-90E8` GoPro created and cornered the action camera market but believed that creating the market entitled them to its future -- they flooded it with too many models, failed to diversify, and opened the door for Insta360.
 - `INS-260327-F651` Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
 - `INS-260327-9018` Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
 - `INS-260327-5973` Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
+- `INS-260403-E482` Yahoo rejected Google's $1M/year search deal and later a $3B acquisition because accepting either would acknowledge Google's technology was superior.
 - `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.
 - `INS-260403-699F` Large organizations' advantage erodes proportionally to how fast the competitive landscape changes.
 - `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260403-1258` A monopoly's real death is when new entrants stop considering it a threat, which precedes financial decline by years.
 - `INS-260327-E153` Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
 - `INS-260322-0E41` Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model providers means AI startups face taxation risk, not existential platform risk.
+- `INS-260403-F4D3` Plausible alternatives erode incumbent control more effectively than head-on competition because they expand buyer optionality without triggering defensive responses.
 - `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
 - `INS-260404-CB96` The best defense turns the attacker's greatest strength into their greatest vulnerability.
 - `INS-260327-CC05` In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
 - `INS-260405-F03A` Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
-- `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
+- `INS-260402-A3DB` Coordinate first meetings within a 2-3 week window and manage all funds on parallel timelines to create a competitive market for your equity.
+- `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
+- `INS-260405-474C` ChatGPT's capabilities set the expectation ceiling for every AI product, regardless of use case.
+- `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
 - `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
+- `INS-260403-4572` Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.

@@ -53,7 +53,7 @@ related:
   - INS-260330-7C58
   - PRI-260323-400D
   - INS-260330-5828
-  - PRI-260405-7F1E
+  - INS-260403-B805
 ---
 The video explicitly frames the Mongol evaluation as a mirror: 'What you think about the Mongols ends up saying a lot about you.' Do you value religious diversity over artistic patronage? Is short-lived imperialism better or worse than enduring imperialism? Are certain forms of warfare inherently wrong regardless of outcomes?
 

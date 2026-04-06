@@ -56,6 +56,7 @@ related:
   - INS-260330-7FAC
   - INS-260330-5DFF
   - INS-260330-B869
+  - INS-260330-9515
 stance: >-
   The 'law of stability' in the primordial void: unstable configurations fall
   apart and vanish while stable ones endure long enough to combine into i...

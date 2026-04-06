@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'No, China doesn''t plan 1000 years ahead'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/no-china-doesnt-plan-1000-years-ahead'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Autocrats must constantly manage internal threats to their power, making
@@ -62,6 +50,13 @@ stance: >-
   Autocratic leaders are not freed from short-term thinking by lack of
   elections; their need to manage internal power threats creates equally myopic
   decision-making.
+related:
+  - INS-260323-B40C
+  - INS-260327-3136
+  - INS-260330-51B1
+  - INS-260403-59D5
+  - INS-260405-59AB
+  - INS-260323-0683
 ---
 The common assumption is that autocracies can plan long-term because they don't face elections. But as political scientist Bruce Bueno de Mesquita's selectorate theory shows, autocratic leaders must constantly manage the coalition that keeps them in power — military leaders, party elites, oligarchs. Xi Jinping's purge of his close friend and top general Zhang Youxia illustrates this perfectly: even at the peak of power, autocrats spend enormous energy on internal threat management rather than long-term strategic planning.
 

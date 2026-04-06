@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: OpenAI’s Product Lead on Winning AI Through Distribution
-    author:
-      - '@type': Person
-        name: Miqdad Jaffer
-        url: 'https://substack.com/@miqdadjaffer'
-        description: Product Lead @ OpenAI | EIR @ Product Faculty
-        identifier: 'user:277704439'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!dKnq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97098e5a-916a-4b22-84ce-0a1c5d2168bc_400x400.jpeg
+    author: Miqdad Jaffer
     url: 'https://www.thevccorner.com/p/openai-ai-distribution-strategy'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Every AI feature PRD should specify how the feature distributes itself,
@@ -63,6 +53,14 @@ stance: >-
   Product requirement documents that omit distribution mechanism, workflow
   insertion point, and unit economics at 10x scale are designing liabilities,
   not features.
+related:
+  - INS-260325-8A61
+  - INS-260402-0E46
+  - INS-260404-E4C3
+  - INS-260402-C301
+  - INS-260403-FB82
+  - INS-260325-FDF5
+  - INS-260329-8830
 ---
 Traditional PRDs cover feature description, user stories, and success metrics. For AI products, this is insufficient because features commoditize in weeks and every usage has real compute cost. A Distribution-First PRD adds three non-negotiable sections: the distribution mechanism (how does this feature spread itself?), the workflow insertion point (where in the user's daily routine does this live?), and the economic impact (what does it cost to distribute this at 10x scale?).
 

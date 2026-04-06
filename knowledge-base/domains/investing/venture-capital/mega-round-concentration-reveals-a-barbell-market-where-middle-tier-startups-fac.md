@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Stages of Board Deck Preparation\U0001F4DD, How to be helpful as a VC\U0001F4DA, Secondary Market VC Funds\U0001F504"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/stages-of-board-deck-preparation'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Massive rounds like Zepto's $665M and Poolside's $400M+ coexist with
@@ -57,6 +47,14 @@ stance: >-
   The VC market is bifurcating into mega-rounds for proven winners and
   tightening conditions for everyone else, creating a dangerous middle ground
   for moderately successful startups.
+related:
+  - INS-260403-1034
+  - INS-260404-15B8
+  - INS-260403-1E5F
+  - INS-260403-0680
+  - INS-260404-3821
+  - INS-260404-50AC
+  - INS-260328-3F19
 ---
 The newsletter captures a stark market bifurcation: Zepto raises $665M doubling its valuation, Poolside targets $400M+ at $2B, and Semperis crosses $1B — while simultaneously early-stage AI investors show fatigue. This barbell pattern means capital concentrates at the extremes: proven late-stage winners attract enormous rounds while truly early pre-product bets still get funded on potential.
 

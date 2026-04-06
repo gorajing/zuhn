@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: "\U0001F511 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/key-startup-metrics-vcs'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Different fundraising stages require founders to optimize entirely different
@@ -57,6 +47,14 @@ stance: >-
   The specific metrics that determine fundraising success change at each stage —
   early investors buy market size and retention signals, while later-stage VCs
   demand gross margin efficiency and burn rate discipline.
+related:
+  - INS-260404-771B
+  - INS-260405-2A34
+  - INS-260404-30B2
+  - PRI-260403-26B9
+  - INS-260403-2F77
+  - INS-260404-64EC
+  - INS-260403-6807
 ---
 Pre-seed and seed investors prioritize TAM, early retention, and CAC as proxies for product-market fit potential. By Series A, the bar shifts to ARR ($3-5M+), Net Dollar Retention above 100%, and CAC payback under 12 months — proving the growth model is repeatable. Series B+ investors focus on profitability signals: gross margins (70%+ for SaaS), sustainable YoY revenue growth exceeding 100%, and disciplined burn rates.
 

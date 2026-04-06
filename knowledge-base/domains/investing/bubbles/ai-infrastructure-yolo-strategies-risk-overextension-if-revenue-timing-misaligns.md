@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: "LLMs Will Never Be Intelligent\U0001F9E0, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report \U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/llms-will-never-be-intelligent-anthropic'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Dario Amodei warns that misalignment between massive AI infrastructure
@@ -62,6 +52,12 @@ stance: >-
   Companies making aggressive AI infrastructure bets without conservative
   revenue planning are more likely to face existential financial risk than those
   who pace investment
+related:
+  - INS-260403-738F
+  - PRI-260323-68F0
+  - INS-260403-B0E3
+  - PRI-260405-F20C
+  - INS-260323-9FCA
 ---
 Anthropic's CEO highlights a fundamental tension in the current AI buildout: companies are committing billions to infrastructure (chips, data centers, compute) that depreciates rapidly, while revenue models remain uncertain in both timing and magnitude. The conservative approach — pacing investment to match realistic revenue projections — contrasts sharply with competitors making aggressive bets that assume AI monetization will materialize fast enough to justify the spend.
 

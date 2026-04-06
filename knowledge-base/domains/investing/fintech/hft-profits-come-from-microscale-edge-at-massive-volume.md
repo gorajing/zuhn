@@ -47,26 +47,26 @@ stance: >-
 related:
   - INS-260403-C1A5
   - INS-260405-051E
+  - INS-260404-6D22
   - INS-260321-D183
-  - INS-260404-837E
-  - INS-260404-0298
+  - INS-260404-41AA
 evidence:
   - id: INS-260322-3259
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-60CF
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-228D
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-6079
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-C1A5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260405-051E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-837E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-0298
-    relationship: RELATED
+    type: SUPPORTS
 ---
 High-frequency trading systems target tiny market inefficiencies — price differences between exchanges, temporary order book imbalances, slow price updates — and profit by being first to exploit them. Individual profits are often sub-cent, but at thousands to millions of trades per second, they compound into significant returns.
 

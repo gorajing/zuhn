@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: 'a16z Raised $15B: Ben Horowitz on Scaling Venture Capital'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/a16z-15b-raise-ben-horowitz-venture-scaling'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Hire for being literally the best in the world at one thing that matters,
@@ -54,6 +44,14 @@ resolutions:
 stance: >-
   Passing on world-class talent because of fixable weaknesses destroys more
   value than investing in mediocre talent that lacks obvious flaws.
+related:
+  - INS-260323-C0BD
+  - INS-260327-F6B2
+  - INS-260327-439A
+  - INS-260404-CB96
+  - INS-260405-7DD7
+  - INS-260320-DDD9
+  - INS-260322-A928
 ---
 a16z's core investment principle — evaluate on magnitude of strength — applies directly to hiring and talent evaluation. The rule is binary: never pass on world-class talent because of a fixable weakness, and never invest in non-world-class talent just because they lack obvious flaws. This reframes evaluation from risk-minimization to upside-maximization.
 

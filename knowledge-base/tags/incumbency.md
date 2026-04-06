@@ -1,5 +1,6 @@
 # Tag: incumbency
 
 - `INS-260330-95F3` Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
+- `INS-260403-C8FB` Disapproval of the incumbent doesn't transfer to the challenger without a concrete alternative plan.
 - `INS-260330-519D` Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
 - `INS-260403-1636` Plants evolved entire metabolic pathways to handle RuBisCo's toxic byproducts rather than replacing RuBisCo, making the entrenched system more resilient over time.

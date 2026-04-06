@@ -47,16 +47,16 @@ stance: >-
   individual stock picking a statistically losing proposition for nearly all
   investors.
 related:
-  - INS-260325-EF4C
-  - INS-260330-1608
   - PRI-260328-BD9B
-  - INS-260330-9470
+  - INS-260403-5056
   - INS-260330-D63C
+  - INS-260404-2C23
+  - INS-260404-9103
 evidence:
   - id: INS-260330-8A87
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D63C
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Professor Hendrik Bessembinder at Arizona State University found that approximately 2% of stocks are responsible for all the returns seen over 75 years of market history. Most stocks are up a little, down a little, or flat — they cancel out. A handful get crushed to zero. The remaining tiny percentage of giant winners drive all returns.
 

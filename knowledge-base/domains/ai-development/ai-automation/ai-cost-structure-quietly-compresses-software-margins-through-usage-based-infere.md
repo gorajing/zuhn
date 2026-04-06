@@ -48,11 +48,11 @@ stance: >-
   strategies, and strict per-request cost controls rather than traditional
   scaling economics
 related:
+  - INS-260403-91F7
+  - INS-260405-3240
   - INS-260323-7625
   - INS-260325-BEAC
   - INS-260326-841D
-  - INS-260325-206C
-  - INS-260405-6A94
 evidence:
   - id: INS-260325-BEAC
     type: SUPPORTS

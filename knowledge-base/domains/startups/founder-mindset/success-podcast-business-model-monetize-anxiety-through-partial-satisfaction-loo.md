@@ -46,9 +46,9 @@ resolutions:
     listeners. The practical defense: set a cap on consumption hours per week,
     and measure whether advice consumed leads to actions taken within 7 days.
 related:
-  - INS-260321-C4CD
   - PRI-260403-88F5
   - PRI-260328-27F7
+  - INS-260321-C4CD
   - PRI-260323-0942
   - INS-260330-0102
   - INS-260329-4FB2

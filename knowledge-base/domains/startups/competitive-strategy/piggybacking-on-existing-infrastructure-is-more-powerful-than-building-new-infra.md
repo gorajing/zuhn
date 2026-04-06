@@ -55,29 +55,29 @@ stance: >-
 related:
   - INS-260323-825F
   - INS-260322-06EA
-  - INS-260327-6177
   - INS-260327-C900
   - INS-260327-CA05
-  - INS-260329-19EE
   - INS-260330-4A1F
   - INS-260330-0BD3
   - INS-260330-10CF
-  - INS-260330-DD9C
+  - INS-260330-6BAF
+  - INS-260330-519D
+  - INS-260405-E7F9
 evidence:
   - id: INS-260327-6177
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-E1EB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D583
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-825F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-06EA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0BD3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-19EE
-    relationship: RELATED
+    type: SUPPORTS
 ---
 M-PESA's architecture reveals a powerful competitive strategy: instead of building banking infrastructure from scratch (branches, ATMs, card networks), it layered financial services on top of infrastructure that already had universal penetration — mobile phones and SIM cards. The expensive part (towers, equipment, carrier networks) was already built and paid for by telecom companies.
 

@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: Let's save the human species!
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/lets-save-the-human-species'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Population decline creates a doom loop where fewer workers means fewer
@@ -68,6 +56,15 @@ stance: >-
   reduces the researchers available to improve productivity, while aging
   workforces have measurably lower productivity growth, creating a compounding
   negative spiral.
+related:
+  - INS-260327-F4CB
+  - INS-260403-EC8A
+  - INS-260403-D966
+  - INS-260403-AE6A
+  - INS-260327-3A81
+  - PRI-260328-5CDE
+  - PRI-260328-0993
+  - INS-260403-2833
 ---
 The naive response to population decline is that productivity growth will compensate — fewer workers each producing more. Smith identifies three reasons this fails as a strategy. First, every country is already trying to raise productivity, so there's no unused lever to pull. Second, Chad Jones (2022) models how a shrinking researcher pool directly reduces the rate of productivity improvement — the very mechanism you need to compensate is itself degraded by the problem. Third, empirical data shows aging workforces have measurably lower productivity at the state-industry level.
 

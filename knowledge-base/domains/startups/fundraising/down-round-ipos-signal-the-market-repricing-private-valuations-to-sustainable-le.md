@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "AI Eats the World\U0001F916, Trouble for New VCs\U0001F480, The IPO Market Is Stirring\U0001F4C9"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ai-eats-the-world-trouble-for-new'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Companies like Hinge Health going public at half their private peak signals
@@ -59,6 +49,16 @@ stance: >-
   The return of IPOs at steep discounts to private valuations represents healthy
   market correction rather than failure, and founders who accept repricing will
   outperform those who delay
+related:
+  - INS-260405-C987
+  - INS-260404-78E0
+  - INS-260405-F374
+  - INS-260403-2668
+  - INS-260404-F45E
+  - INS-260404-B661
+  - INS-260403-7045
+  - INS-260322-A31D
+  - INS-260403-E611
 ---
 Hinge Health's IPO trajectory — from a $6.2B private peak to a potential $2.9B public listing — exemplifies the broader repricing happening across venture-backed companies. The era of ever-increasing private valuations disconnected from fundamentals is being corrected by public market discipline. Companies that accept this reality and go public at realistic valuations gain access to liquidity, currency for acquisitions, and credibility that perpetually-private zombiecorns cannot.
 

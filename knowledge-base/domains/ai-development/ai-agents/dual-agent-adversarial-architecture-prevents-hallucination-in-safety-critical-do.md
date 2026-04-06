@@ -43,10 +43,10 @@ stance: >-
   produces advice quality comparable to expert humans in medical contexts
 related:
   - INS-260405-6A0C
+  - INS-260403-4A16
   - INS-260327-4CB3
   - INS-260327-94FE
   - INS-260323-B029
-  - INS-260403-4D80
 evidence:
   - id: INS-260327-94FE
     type: REFINES

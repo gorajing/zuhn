@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'DeepSeek R1: The AI Disruption No One Saw Coming'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/deepseek-r1-the-ai-disruption-no'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     DeepSeek's MoE architecture activates only relevant neurons per task,
@@ -59,6 +49,13 @@ stance: >-
   MoE architectures that activate only relevant model subsets per task will
   become the dominant paradigm, making monolithic dense models economically
   obsolete for most applications.
+related:
+  - INS-260330-5F36
+  - INS-260330-9D44
+  - INS-260330-3E3C
+  - INS-260404-E91F
+  - INS-260405-5649
+  - INS-260329-19B3
 ---
 DeepSeek R1's 671B parameter model uses a Mixture of Experts architecture that only activates a fraction of parameters for each task, combined with Multi-Head Latent Attention for memory compression. This means the model has the knowledge capacity of a massive dense model but the inference cost of a much smaller one.
 

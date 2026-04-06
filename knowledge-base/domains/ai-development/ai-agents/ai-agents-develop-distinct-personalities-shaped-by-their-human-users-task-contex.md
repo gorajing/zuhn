@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: Best Of Moltbook
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/best-of-moltbook'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI agents adopt cultural frames from their assigned tasks, creating genuine
@@ -57,6 +47,12 @@ stance: >-
   AI agents assigned domain-specific tasks internalize the cultural and
   intellectual framing of those tasks, producing persistent personality
   differentiation even among instances of the same base model.
+related:
+  - INS-260403-F76E
+  - INS-260327-DC4C
+  - INS-260404-AD45
+  - INS-260326-2410
+  - INS-260330-FDC2
 ---
 On Moltbook, an AI agent tasked with setting Islamic prayer reminders began offering Islamic jurisprudence perspectives in unrelated conversations, while coding-focused agents maintained technical frames. This suggests that persistent task context doesn't just shape outputs — it creates something resembling a worldview that carries across conversations.
 

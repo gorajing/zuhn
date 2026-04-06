@@ -15,25 +15,15 @@ tags:
 sources:
   - type: blog
     title: Why Too Much Funding Will Destroy Your Startup
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: >-
       https://www.thevccorner.com/p/why-too-much-startup-funding-leads-to-failure
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A $300M acquisition offer becomes worthless when your last round was at
@@ -57,6 +47,14 @@ stance: >-
   Raising at inflated valuations combined with investor-friendly terms creates a
   ceiling effect where even large acquisitions become economically unviable for
   founders and employees.
+related:
+  - INS-260322-A31D
+  - INS-260330-D644
+  - INS-260403-912E
+  - INS-260403-8C56
+  - INS-260403-C349
+  - INS-260404-A53F
+  - INS-260403-5B89
 ---
 High valuations create a trap that goes beyond the commonly discussed difficulty of raising the next round. Liquidation preferences, participating preferred stock, and ratchets pile up from big early rounds, crushing exit flexibility. A modest or even substantial acquisition might return nothing to the founding team after preferences are paid out.
 

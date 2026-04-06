@@ -45,13 +45,11 @@ stance: >-
   A tool that is not the scripting language of a popular system cannot become
   popular regardless of its intrinsic quality
 related:
-  - INS-260323-F204
-  - INS-260321-2241
   - INS-260321-1A0B
   - INS-260403-0372
+  - INS-260404-6398
   - INS-260402-72EF
   - PRI-260321-7307
-  - INS-260403-D2B1
   - INS-260403-5C83
 evidence:
   - id: INS-260323-F204

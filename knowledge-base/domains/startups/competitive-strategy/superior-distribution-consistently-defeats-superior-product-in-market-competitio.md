@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Distribution Is the Final Moat
-    author:
-      - '@type': Person
-        name: GTMnow
-        url: 'https://substack.com/@gtmnow'
-        description: >-
-          The media brand of VC firm, GTMfund. Build, scale and invest with the
-          best minds in tech. 
-        identifier: 'user:304388186'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!9oNA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b85fac-affa-4dbf-bff1-7c9b407b1f7f_1080x1080.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!9oNA!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b85fac-affa-4dbf-bff1-7c9b407b1f7f_1080x1080.png
+    author: GTMnow
     url: 'https://www.thevccorner.com/p/distribution-is-the-final-moat'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Distribution advantage trumps product advantage because reaching customers
@@ -60,6 +48,17 @@ resolutions:
 stance: >-
   A company with better distribution channels will outcompete a company with a
   better product, making distribution the most durable competitive moat
+related:
+  - INS-260322-B641
+  - INS-260322-3C3D
+  - INS-260326-A0B4
+  - INS-260327-472A
+  - INS-260329-CBF6
+  - INS-260329-793D
+  - INS-260329-D5FF
+  - INS-260329-4B07
+  - INS-260330-DCE1
+  - INS-260330-7DAA
 ---
 Investors and founders alike observe that companies with solid products regularly get beaten by competitors with superior distribution. This isn't an edge case — it's a consistent pattern across industries. The reason is structural: product advantages are increasingly ephemeral (especially in AI where capabilities converge quickly), while distribution advantages compound over time through network effects, community trust, and channel ownership.
 

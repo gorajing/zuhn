@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 10 Questions to Expect During a First Call With a VC
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/10-questions-to-expect-during-a-first'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VCs evaluate not just your traction numbers but how you talk about them—one
@@ -59,6 +49,13 @@ resolutions:
 stance: >-
   How founders discuss their metrics—with confidence, precision, and
   honesty—influences VC evaluation as much as the actual numbers at early stages
+related:
+  - INS-260330-0BC2
+  - INS-260404-569C
+  - INS-260327-0595
+  - INS-260402-4719
+  - INS-260330-5E03
+  - INS-260403-A9C9
 ---
 Early-stage traction is inherently limited, so VCs are evaluating two things simultaneously: the validation signal (does the market want this?) and the velocity signal (how fast are you learning and moving?). But there's a third, often overlooked dimension: the quality of your traction narrative.
 

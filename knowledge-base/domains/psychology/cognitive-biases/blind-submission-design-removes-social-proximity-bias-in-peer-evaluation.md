@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: Book Review Contest Rules 2026
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/book-review-contest-rules-2026'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Anonymizing submissions is the only reliable way to prevent social proximity
@@ -59,6 +49,15 @@ stance: >-
   Structurally hiding submitter identity during judging eliminates the advantage
   that social connections and minor internet fame confer, making merit-based
   evaluation actually achievable rather than aspirational.
+related:
+  - INS-260403-1A08
+  - INS-260403-22EE
+  - INS-260403-7732
+  - INS-260403-7F06
+  - INS-260403-31B1
+  - INS-260326-C692
+  - INS-260403-E4C6
+  - INS-260322-1C17
 ---
 Scott Alexander explicitly designs his contest so that he hides the submitter identity column immediately after collecting it, specifically to prevent his friends or 'internet semi-famous people' from gaining an advantage. This acknowledges a real cognitive trap: even well-intentioned evaluators unconsciously weight familiar names or known personal narratives more favorably. The blind submission rule is the structural fix — you can't favor who you don't know.
 

@@ -50,10 +50,10 @@ stance: >-
   Forgetting the source of what you learned is normal and harmless because the
   real output of learning is updated mental models, not stored facts.
 related:
-  - INS-260330-FA9D
   - INS-260405-1CAA
   - INS-260330-6D5C
   - INS-260323-8289
+  - PRI-260405-9A14
   - INS-260403-AC03
 evidence:
   - id: INS-260403-AC03

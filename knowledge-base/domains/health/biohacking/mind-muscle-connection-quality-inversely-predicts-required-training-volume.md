@@ -52,11 +52,10 @@ stance: >-
   volume — the opposite of what most people assume.
 related:
   - INS-260327-6EB6
-  - INS-260330-60A5
+  - INS-260404-9CAD
   - PRI-260328-024A
   - INS-260403-9EB1
   - INS-260327-BEC7
-  - INS-260330-4AE7
 evidence:
   - id: INS-260327-6EB5
     type: TRANSFERS_TO

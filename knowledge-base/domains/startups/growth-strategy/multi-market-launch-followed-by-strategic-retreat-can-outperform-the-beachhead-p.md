@@ -17,37 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'From Zero to IPO: Building eDreams Before the Playbooks'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Mauricio Prieto
-        url: 'https://substack.com/@mprieto'
-        description: Founders • Entrepreneurs • Startups • Investors
-        identifier: 'user:55469'
-        sameAs:
-          - 'https://twitter.com/mauprieto'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mzzc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb623541-3c92-4023-869e-23a40d1a01f9_96x96.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mzzc!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb623541-3c92-4023-869e-23a40d1a01f9_96x96.jpeg
+    author: 'Ruben Dominguez, Mauricio Prieto'
     url: 'https://www.thevccorner.com/p/from-zero-to-ipo-building-edreams-1ac'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     eDreams launched in 4 countries simultaneously, retreated to 2 profitable
@@ -71,6 +48,15 @@ stance: >-
   Launching broadly then contracting to profitable markets produces better
   market intelligence than the conventional narrow-beachhead-then-expand
   approach
+related:
+  - INS-260324-8656
+  - INS-260327-1ACE
+  - INS-260329-B194
+  - INS-260330-C9C6
+  - INS-260403-DF01
+  - INS-260405-5755
+  - INS-260403-7D5B
+  - INS-260405-B4D0
 ---
 Modern startup orthodoxy prescribes finding a beachhead market, dominating it, then expanding. eDreams did the opposite: launching in Spain, Italy, France, and UK simultaneously. When the dot-com bubble burst, they strategically contracted to Spain and Italy to prove profitability, then re-expanded with confidence to 40+ countries.
 

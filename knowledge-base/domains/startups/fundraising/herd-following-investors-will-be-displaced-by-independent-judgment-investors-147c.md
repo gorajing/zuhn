@@ -46,16 +46,16 @@ stance: >-
   year, the variance between top-picking and average-picking investors will
   widen dramatically, making selection skill the dominant factor in returns.
 related:
-  - INS-260325-FDB3
   - INS-260323-85E7
   - INS-260323-422B
-  - INS-260323-FDB8
   - INS-260326-6B98
   - INS-260326-286F
   - INS-260327-DBA1
   - INS-260327-7F11
   - INS-260327-6992
   - INS-260329-EF89
+  - INS-260329-BEFB
+  - INS-260330-0AA7
 evidence:
   - id: INS-260326-6B98
     type: EXTENDS

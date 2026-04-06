@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/jensen-huang-work-ethic-nvidia'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A leader who outworks the entire organization removes the moral ground on
@@ -60,6 +50,14 @@ resolutions:
 stance: >-
   When the CEO visibly absorbs more strain than anyone else in the organization,
   complaints about pace lose moral standing and intensity becomes self-enforcing
+related:
+  - INS-260329-B4C8
+  - INS-260330-1FA8
+  - INS-260330-E4D9
+  - INS-260330-A9CB
+  - INS-260403-DA14
+  - INS-260403-5419
+  - PRI-260403-E023
 ---
 Huang's personal intensity functions not as motivation but as enforcement. By visibly absorbing more pressure than anyone else, he removes the moral ground on which complaints about pace or workload typically stand. This creates a form of authority that policies cannot replicate — it doesn't rely on consensus and doesn't ask permission. The standard is high because that's where the leader maintains it personally.
 

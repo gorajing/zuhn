@@ -52,7 +52,6 @@ stance: >-
   groups, and this blame reflex prevents solutions.
 related:
   - INS-260325-F6CD
-  - INS-260325-1802
   - PRI-260325-697B
   - PRI-260403-88F5
   - INS-260325-25A2

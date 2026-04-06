@@ -52,21 +52,22 @@ stance: >-
   captures significantly more total value than attempting to convert it in one
   step
 related:
-  - INS-260330-545E
-  - INS-260330-4B45
+  - INS-260330-F671
   - INS-260403-D2FD
-  - INS-260330-0017
-  - INS-260404-DDB5
-  - INS-260403-2918
+  - PRI-260405-CE75
+  - INS-260404-1A3A
+  - INS-260330-545E
+  - INS-260330-5C36
+  - INS-260330-2C71
 evidence:
   - id: INS-260330-545E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-5C36
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F671
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-CDD2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D2FD
     type: REFINES
     classified_at: '2026-04-06'

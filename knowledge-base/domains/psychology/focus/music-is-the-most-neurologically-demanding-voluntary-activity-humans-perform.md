@@ -45,7 +45,6 @@ stance: >-
   other voluntary human activity, making it uniquely effective for cognitive
   development and maintenance.
 related:
-  - INS-260323-5EA1
   - INS-260322-7A32
   - INS-260403-2BAD
   - INS-260328-AE33
@@ -53,6 +52,7 @@ related:
   - PRI-260325-663A
   - INS-260327-CB82
   - INS-260403-6932
+  - INS-260403-708E
 evidence:
   - id: INS-260327-CB82
     type: EXTENDS

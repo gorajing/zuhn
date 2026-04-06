@@ -44,7 +44,6 @@ resolutions:
     model (high cost, infrequent trips) to an operations model (amortized cost,
     regular activity).
 related:
-  - INS-260322-3833
   - INS-260403-CAE5
   - PRI-260328-0E23
   - INS-260323-F528

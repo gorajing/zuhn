@@ -1,44 +1,61 @@
 # Topic: ai-capabilities
 
-> 87 insights
+> 121 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
 - `INS-260321-A56C` [very_high] Generative AI can help with more tasks than past automation (more flexible) but takes over fewer tasks completely (less robust) — it's task-augmenting not task-replacing.
 - `INS-260325-8065` [very_high] AlphaProof solved 3 of 5 non-geometry IMO 2024 problems including P6 (solved by only 5 of 609 humans) through RL-guided formal proof search.
 - `INS-260321-F864` [very_high] AI has artificial cleverness (trial and error at scale) but not artificial intelligence (building cumulatively from partial progress, adapting strategies interactively, maintaining and evolving understanding).
+- `INS-260326-CAAB` [very_high] TurboQuant indexes 100K vectors in 0.002s vs 494s for Product Quantization (d=3072) -- and gets better recall -- because its guarantees are mathematical, not statistical.
 - `INS-260325-9BBC` [very_high] AlphaProof frames theorem proving as an RL environment with states (proof states), actions (tactics), and machine-verified rewards — enabling self-play learning on 80M auto-formalized problems.
 - `INS-260326-AE6C` [very_high] A quantizer that minimizes reconstruction error (MSE) does NOT give accurate similarity search -- at 1 bit, MSE-optimal quantization inflates inner products by a factor of 2/pi.
 - `INS-260326-E1A8` [very_high] TurboQuant's core trick: rotate vectors randomly, coordinates become Beta-distributed and nearly independent, then optimal scalar quantizers handle each dimension separately.
 - `INS-260325-9C89` [very_high] AlphaProof's TTRL adds 15 percentage points to solve rates beyond tree search scaling, enabling solutions to problems that exhaustive search at any budget cannot crack.
 - `INS-260326-7F79` [high] On the HumanEval coding benchmark, GPT-3.5 with agentic workflows scored approximately 95% versus GPT-4 zero-shot at 67%, demonstrating that workflow design can matter more than model scale.
 - `INS-260328-C246` [high] Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
+- `INS-260329-5ECD` [high] Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
+- `INS-260403-D090` [high] Karpathy's coding workflow flipped from 80% manual to 80% agent-driven in just weeks, demonstrating that AI coding capability crossed a phase transition rather than improving gradually.
+- `INS-260403-46DD` [high] Mass surveillance was legally possible but practically infeasible before AI; AI removes the cost/scale constraint that served as the real protection.
 - `INS-260325-5656` [high] Dyno trains ML models on petabytes of capsid performance data from primate experiments, then queries them billions of times in silico to find optimal sequences — replacing random mutation with AI-guided design.
 - `INS-260325-F20C` [high] Sequoia sizes AI at $10T+ because it replaces cognitive labor — every knowledge worker seat becomes a software purchase.
+- `INS-260403-C584` [high] Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
 - `INS-260323-F0A2` [high] Each major AI leap — next-word prediction learning anything, predictable improvement from scale, and RL teaching reasoning — seemed 'too simple to work' to experts before being proven right.
 - `INS-260330-E282` [high] AI can generate hypotheses far faster than labs can test them, making verification the true bottleneck in experimental sciences.
 - `INS-260321-BFA3` [high] AI solved 50 Erdős problems which looks amazing, but systematic studies show a 1-2% success rate per problem — scale and selection bias make it look like magic when you only see the wins.
 - `INS-260323-99E0` [high] Coordinated bot swarms using LLMs can now maintain persistent fake personas and manufactured consensus at unprecedented scale, threatening democratic elections.
+- `INS-260403-7EA1` [high] An AI system ranked 4th out of nearly 500 human forecasters on Polymarket by using disciplined data sourcing and calibrated uncertainty.
+- `INS-260403-219F` [high] AI eliminates the burden-of-knowledge bottleneck by instantly connecting ideas across disciplines that human scientists have no time to learn.
+- `INS-260403-1EFF` [high] Bio Anchors estimated 30% yearly algorithmic progress from easy-task benchmarks, but frontier AI saw 200% yearly gains because harder tasks have more room for improvement.
 - `INS-260323-3920` [high] Every sentence in every language forms a tree structure where each word connects to exactly one other word, and languages evolve to minimize the distance between connected words.
 - `INS-260321-8433` [high] Karpathy's auto-research loop found hyperparameter improvements overnight that his two decades of ML experience missed — the agent found weight decay and Adam beta issues that interact jointly.
 - `INS-260325-D392` [high] PolarQuant converts Cartesian vectors to polar coordinates, revealing that angle distributions are naturally concentrated — making compression trivial without the normalization overhead traditional methods require.
+- `INS-260403-976C` [high] Current AI capabilities represent a fraction of what near-future compute investments will enable, creating an accelerating intelligence divergence.
 - `INS-260327-3F40` [high] The fierce debate around Assembly Theory's Nature paper produced more scientific scrutiny and engagement than a hundred uncontroversial papers would have.
 - `INS-260325-3F9B` [high] Quantum effects dissipate almost instantly through decoherence, so a computation needing 100 qubits may require a million physical qubits just for error correction redundancy.
 - `INS-260325-05EC` [high] Prof Kuang Xu distinguishes deep AI (learns from decisions, creates feedback loops) from shallow AI (automates existing tasks) — deep wins long-term.
 - `INS-260327-A44E` [high] Evolution doesn't randomly search the space of possible organisms - it accumulates successful building blocks and recombines them, which is why it can create complexity that random search never could.
 - `INS-260323-4D8D` [high] Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
+- `INS-260403-267B` [high] Functional output, not architectural similarity to human thought, is the meaningful measure of intelligence.
 - `INS-260403-FB82` [high] Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260323-3F30` [high] Godel proved that any sufficiently powerful formal system either contains unprovable truths or is inconsistent -- this is a hard theoretical ceiling on what any AI reasoning system can guarantee about itself.
 - `INS-260323-D56E` [high] Yudkowsky publicly acknowledges that GPT-4 exceeded what he thought stacking transformer layers could achieve, which means he can't predict what GPT-5 will do.
 - `INS-260323-042C` [high] Altman identifies GPT-5's most striking capability as generating working software instantly from natural language, transforming programming from a specialized skill into a universal creative tool.
+- `INS-260325-E23D` [high] Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
 - `INS-260323-C10D` [high] LLM hallucination and creativity are the same mechanism — engineers call it hallucination when it produces errors, and creativity when it generates novel useful ideas.
+- `INS-260323-8D12` [high] Hallucinations stem from how LLMs break information into tokens and reconstruct probable relationships — this is a fundamental design flaw, not a bug to be patched.
 - `INS-260323-8AEC` [high] Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
+- `INS-260403-107E` [high] Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
+- `INS-260321-52EF` [high] Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-539C` [high] Humans interpret language by modeling the speaker's mind and intentions — when LLMs produce coherent text, we involuntarily project intelligence that isn't there.
+- `INS-260403-5F69` [high] Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260323-1BF7` [high] Unlike human children who build world models from minimal data, LLMs require the entire internet as a crutch because they mimic rather than understand.
 - `INS-260323-2C19` [high] A leading psycholinguist confirms that LLMs have mastered the form (syntax, grammar, patterns) of language but not its meaning — and the gap between form and meaning may be much larger than assumed.
 - `INS-260323-D18D` [high] LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
 - `INS-260321-80A9` [high] Models simultaneously feel like a brilliant PhD and a 10-year-old — they're superhuman in RL-trained domains and mediocre outside them. This jaggedness doesn't improve with scale.
+- `INS-260403-AC01` [high] Multi-layered optimization produces emergent capabilities irreducible to any single layer's objective.
 - `INS-260330-5F36` [high] Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
+- `INS-260403-141E` [high] Next-token prediction shapes AI systems the way evolution shapes humans — it's the training process, not the resulting cognition.
 - `INS-260403-58DA` [high] Fine-tuned open-source image models can now generate commercially viable photorealistic content indistinguishable from real photography.
 - `INS-260323-7A50` [high] Just as ChatGPT needed a language model, robots need a world foundation model that understands gravity, friction, inertia, and cause-and-effect — trained in physics-grounded simulations.
 - `INS-260323-B47B` [high] NIST's post-quantum encryption standards use lattice-based problems in ~1000 dimensions where finding the closest vector is computationally infeasible for both classical and quantum machines.
@@ -48,9 +65,11 @@
 - `INS-260323-3F11` [high] The Cursor founders saw the 2020 scaling laws papers as predictable progress, but early GPT-4 access in late 2022 made the theoretical gains concrete enough to bet their careers.
 - `INS-260323-7EEB` [high] The leap from GPT-4 to GPT-5 was subtle enough to require benchmarks, unlike earlier leaps that were obvious in minutes — scaling has hit a wall.
 - `INS-260328-8CCC` [high] Training loss scales predictably but actual capabilities emerge non-linearly, making capability prediction unreliable.
+- `INS-260403-F0DC` [high] Bio Anchors had many anchors and parameters but its output was almost entirely determined by the algorithmic progress rate, which was its least-researched input.
 - `INS-260323-8E4D` [high] The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
 - `INS-260323-B3A3` [high] Nation states are already intercepting and storing encrypted data today, betting that quantum computers within 10-20 years will let them decrypt it — making the quantum threat present-tense for any data with lasting value.
 - `INS-260323-E520` [high] Stanford and Princeton studies show sycophantic models degrade human reasoning by confirming wrong answers — political pressure toward compliant AI worsens this.
+- `INS-260325-6FA7` [high] Symbolic AI's failure at real-world tasks demonstrates that explicit rule-based reasoning hits a complexity ceiling.
 - `INS-260330-264B` [high] Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
 - `INS-260323-4D13` [high] Zuckerberg identifies the scaling question as the single highest-stakes bet in AI: Llama training went from 10-20K GPUs to 100K+ GPUs, with hundreds of billions in infrastructure riding on continued returns.
 - `INS-260321-AE3F` [high] Most AI-solved math problems fell to known techniques that nobody had thought to apply — the 'deductive overhang' of existing knowledge applied systematically to all open problems could be enormous.
@@ -58,14 +77,21 @@
 - `INS-260325-EF79` [high] Nvidia's Jim Fan: the next AI frontier is the physical Turing test — proving competence in real-world tasks, not just conversation.
 - `INS-260329-FEBA` [high] Rather than perfecting one massive prompt, the effective workflow is: prompt, see the result, make a small adjustment, repeat — each cycle taking minutes.
 - `INS-260330-63DD` [high] Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
+- `INS-260403-C501` [high] Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
+- `INS-260403-8953` [high] AI that writes code can act on the physical world through software systems, making it far more dangerous than AI that only talks.
 - `INS-260330-0C0C` [high] Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
 - `INS-260323-6134` [high] The most elegant and efficient robot movement comes from designing machines whose physics naturally want to do the right thing, then augmenting with control rather than overpowering.
 - `INS-260329-8DDF` [medium] Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory.
+- `INS-260403-C709` [medium] Claude Opus 4.6's adaptive effort — dynamically adjusting reasoning depth by task difficulty — represents a fundamental shift from uniform computation to intelligent resource allocation.
 - `INS-260327-EDF0` [medium] Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260323-3045` [medium] The widely accepted belief that AGI is inevitable and we're racing toward it is a community assumption masquerading as scientific consensus — the future is not yet written.
+- `INS-260403-F943` [medium] The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
+- `INS-260405-6A6F` [medium] AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260328-0B99` [medium] Models improved faster than expected in 2025 with multiple strong releases from Google and others, but it takes time to even assess how good new models are -- and the distance from 'very useful' to 'superintelligence' remains vast.
 - `INS-260329-200A` [medium] A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo.
+- `INS-260329-9115` [medium] Cursor excels at quick tasks but degrades in long sessions; Windsurf is slower to start but more reliable for sustained building.
 - `INS-260325-C7FA` [medium] Stanford physicist Xiaoliang Qi argues AI is a civilization-level discontinuity like language invention — the next 10 years will exceed 300 years of prior change.
+- `INS-260403-6632` [medium] Google DeepMind's model generated a novel cancer immunotherapy hypothesis that was experimentally validated, marking AI's shift from analysis to discovery.
 - `INS-260328-0DFE` [medium] Altman describes AI's trajectory as: today a mediocre chatbot, next a world-class chief of staff, then a company of 50 experts, then 10,000 experts per person.
 - `INS-260322-59B9` [medium] The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
 - `INS-260327-9DB0` [medium] Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
@@ -76,6 +102,8 @@
 - `INS-260330-44EF` [medium] If invention is mostly high-dimensional recombination with taste rather than pure creation, then LLMs trained on all human knowledge are architecturally well-suited for it.
 - `INS-260330-4C5A` [medium] Tesla's autopilot, constrained to 100 watts, may pioneer more compute-efficient paths to AGI than data-center-scale LLMs using megawatts.
 - `INS-260328-60C7` [medium] Howard argues that widely distributing AI capabilities creates better defense than centralizing them, since most people use power for defense while centralization attracts power-seekers.
+- `INS-260403-F8CB` [medium] Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
+- `INS-260404-DDC8` [medium] Figure AI's Helix 02 replaces over 100,000 lines of C++ with a three-layer neural network that handles balance, sensor fusion, and reasoning in a single system.
 - `INS-260323-B029` [medium] When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.
 - `INS-260323-8519` [medium] The LLM paradigm applied to biological data — 'large molecule models' — could unlock nature's design intelligence across all five kingdoms of life.
 - `INS-260322-32E3` [medium] Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
@@ -87,5 +115,11 @@
 - `INS-260323-0603` [medium] Social pressure on speech creates invisible constraints on thinking itself — anonymous communication can unlock broader parameter spaces of thought.
 - `INS-260325-1B3E` [medium] The first quantum revolution gave us lasers, transistors, and GPS; the second leverages entanglement and superposition for quantum computers, sensing, imaging, and communication.
 - `INS-260322-474A` [medium] AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
+- `INS-260403-841F` [medium] Superintelligence emerged from combining human-equivalent reasoning with computers' pre-existing superhuman memory, speed, and processing power.
+- `INS-260405-0327` [medium] Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
+- `INS-260327-F608` [medium] You can't determine how complex something is by looking at it - you have to figure out the minimum number of steps it took to create it, which encodes its evolutionary history.
 - `INS-260326-E0CB` [medium] Trust surprising AI outputs enough to investigate them — formal systems regularly reveal truths their creators did not intend.
+- `INS-260405-4F2B` [low] AI's economic footprint may show up first in how hard machines run, not how much workers produce per hour.
+- `INS-260403-A3E4` [low] Human specialization in sparse-data pattern recognition may represent a near-optimal solution that AI cannot meaningfully surpass.
 - `INS-260323-085A` [low] Penrose argues from Goedel's incompleteness theorems that human mathematicians can grasp truths no algorithm can formally prove — suggesting understanding transcends classical computation.
+- `INS-260325-6A2C` [low] Life may use quantum tunneling and coherence in processes like photosynthesis — if so, studying biology could shortcut quantum engineering challenges.

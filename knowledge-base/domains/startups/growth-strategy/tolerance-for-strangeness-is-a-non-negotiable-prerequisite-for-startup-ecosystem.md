@@ -50,10 +50,11 @@ stance: >-
   productive and unproductive forms are inseparably intermingled.
 related:
   - INS-260403-74E5
+  - INS-260405-4EAA
+  - INS-260404-86DE
   - PRI-260324-2C9F
   - INS-260325-436A
-  - INS-260330-B5D2
-  - INS-260326-DBEF
+  - INS-260322-2DBD
 evidence:
   - id: INS-260330-B5D2
     type: TRANSFERS_TO

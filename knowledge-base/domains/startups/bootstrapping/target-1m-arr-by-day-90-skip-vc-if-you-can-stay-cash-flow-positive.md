@@ -44,7 +44,7 @@ related:
   - INS-260329-727B
   - INS-260403-8BE9
   - INS-260327-9BE8
-  - INS-260322-8BC5
+  - INS-260403-F8B6
 stance: >-
   Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only
   consider VC if you actually need it.

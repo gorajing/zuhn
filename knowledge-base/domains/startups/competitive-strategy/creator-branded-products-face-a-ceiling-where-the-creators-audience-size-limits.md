@@ -43,10 +43,11 @@ related:
   - INS-260320-446F
   - PRI-260326-DB67
   - PRI-260328-0C15
+  - INS-260402-C03D
   - PRI-260405-675B
   - INS-260405-6BC4
   - INS-260330-06E3
-  - INS-260403-7B3B
+  - INS-260403-345C
 ---
 Products branded around individual creators have a natural market ceiling equal to the creators engaged audience, and cannot scale beyond it without the brand equity that traditional products build over decades.
 

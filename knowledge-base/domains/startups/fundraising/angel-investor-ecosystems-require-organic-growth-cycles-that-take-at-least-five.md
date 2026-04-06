@@ -55,10 +55,11 @@ related:
   - PRI-260405-E9C5
   - INS-260404-06B9
   - PRI-260403-26B9
-  - INS-260321-3521
+  - INS-260403-D870
   - INS-260403-298E
   - INS-260403-028F
   - INS-260403-E9C6
+  - INS-260403-6190
 ---
 Graham distinguishes between two funding layers: VC firms, which governments can artificially establish by supplying capital and recruiting experienced managers, and angel investors, who can only emerge from the organic cycle of founders succeeding, getting rich, and reinvesting in the next generation. Google exemplifies this — it might never have reached VC scale without Andy Bechtolsheim's $100K angel check, and Bechtolsheim could write that check because he'd founded Sun.
 

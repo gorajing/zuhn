@@ -50,12 +50,11 @@ stance: >-
   dollar in the S&P 500, especially early in a career when earning capacity is
   most elastic
 related:
-  - INS-260323-422B
-  - PRI-260328-26AA
   - INS-260329-9F81
   - PRI-260403-C229
   - INS-260329-55DC
   - INS-260329-5414
+  - PRI-260328-26AA
 evidence:
   - id: INS-260329-A6EA
     type: SUPPORTS

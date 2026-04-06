@@ -47,12 +47,12 @@ stance: >-
   chasing investor sentiment cycles create durable competitive positions
   regardless of market mood.
 related:
-  - INS-260403-4717
+  - INS-260404-2F75
   - INS-260405-092A
   - INS-260403-C732
-  - INS-260402-4719
-  - INS-260404-16E1
-  - INS-260403-EE10
+  - INS-260403-36DB
+  - INS-260403-793D
+  - INS-260403-6EC8
 evidence:
   - id: INS-260403-4717
     type: EXTENDS

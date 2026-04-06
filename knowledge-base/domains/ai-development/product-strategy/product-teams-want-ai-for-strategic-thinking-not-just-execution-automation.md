@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "Applied Intuition’s $15B Blueprint\U0001F697, 2,500 Verified AI & SaaS Angels\U0001F47C, Bitcoin Crash⚠️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/applied-intuitions-15b-blueprint'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A survey of 1,750 tech professionals shows product managers want AI for
@@ -59,6 +49,13 @@ stance: >-
   The highest-value AI applications in product development are research and
   ideation tools, not coding assistants, because strategic leverage compounds
   while execution leverage is linear
+related:
+  - INS-260403-63F9
+  - INS-260403-063E
+  - INS-260403-39CF
+  - PRI-260328-B2EA
+  - INS-260403-E23C
+  - INS-260403-902F
 ---
 A survey of 1,750 tech professionals reveals a telling split: product managers want AI for research, founders want it for ideation, and engineers are shifting from coding to documentation, code review, and testing. The common thread is that all roles are moving AI upstream—from execution tasks toward strategic thinking support.
 

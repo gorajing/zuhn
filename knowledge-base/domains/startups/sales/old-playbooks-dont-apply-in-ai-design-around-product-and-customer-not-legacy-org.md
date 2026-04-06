@@ -63,11 +63,11 @@ stance: >-
   redesigned around products and customer needs rather than preserving legacy
   team boundaries, even when it means painful reorganizations.
 related:
-  - INS-260322-3159
   - INS-260327-999C
   - INS-260328-7942
   - INS-260327-178E
-  - INS-260323-104E
+  - INS-260322-3159
+  - INS-260403-1DDC
 evidence:
   - id: INS-260322-3159
     type: SUPPORTS

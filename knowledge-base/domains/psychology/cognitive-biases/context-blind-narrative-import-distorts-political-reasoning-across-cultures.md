@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: Political Backflow From Europe
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/political-backflow-from-europe'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     People absorb compelling political narratives from other countries without
@@ -57,6 +47,12 @@ stance: >-
   Political narratives routinely cross national borders and get applied in
   contexts where they are factually wrong, because emotional resonance matters
   more than local accuracy.
+related:
+  - INS-260323-9E67
+  - PRI-260323-36A6
+  - INS-260330-4E5F
+  - INS-260403-ABA7
+  - INS-260323-04D4
 ---
 Scott Alexander identifies a phenomenon he calls 'political backflow' — the tendency for political narratives to cross borders and get applied in contexts where they don't fit. Just as Europeans march for BLM in countries without significant Black populations, Americans absorb European immigration narratives that don't match American data.
 

@@ -43,7 +43,6 @@ stance: >-
   The most effective acquisition tactic is getting the seller to convince the
   buyer to purchase, completely reversing who holds psychological leverage
 related:
-  - INS-260330-D644
   - INS-260403-E3E6
   - PRI-260403-26B9
   - INS-260403-C949

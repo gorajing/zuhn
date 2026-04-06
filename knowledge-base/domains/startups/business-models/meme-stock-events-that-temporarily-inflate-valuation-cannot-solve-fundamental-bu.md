@@ -41,6 +41,7 @@ stance: >-
   obsolescence.
 related:
   - INS-260324-72E8
+  - INS-260404-C7B2
   - INS-260403-3D38
   - INS-260327-DD1D
   - PRI-260328-1A2D

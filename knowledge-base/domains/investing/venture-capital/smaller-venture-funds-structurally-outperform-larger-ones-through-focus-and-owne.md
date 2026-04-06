@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Smaller Funds Outperform\U0001F4C8, When Machines Learn to Speak\U0001F5E3️, Venture Trends Q1 2025\U0001F4CA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/smaller-funds-outperform-when-machines'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Smaller funds beat giants by maintaining agility, concentrated ownership,
@@ -62,6 +52,13 @@ stance: >-
   Smaller venture funds generate higher returns than large funds because
   concentrated ownership and portfolio focus outweigh the capital advantages of
   scale.
+related:
+  - INS-260323-C370
+  - INS-260330-8686
+  - INS-260403-01FD
+  - INS-260403-2241
+  - INS-260405-D959
+  - INS-260403-CF1D
 ---
 The persistent outperformance of smaller venture funds challenges the assumption that more capital means more power. Smaller funds can take larger ownership stakes in portfolio companies, maintain tighter thesis discipline, and move faster than institutional mega-funds constrained by committee structures and LP optics.
 

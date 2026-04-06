@@ -61,9 +61,11 @@ resolutions:
 related:
   - INS-260322-6DFC
   - PRI-260321-05B5
+  - INS-260405-7576
   - PRI-260323-68F0
   - PRI-260405-F20C
-  - INS-260323-114D
+  - INS-260403-CCED
+  - INS-260405-DA83
 stance: >-
   Unlike the dot-com era, AI capex is financed by the most profitable companies
   in history and there are 'no dark GPUs' (every deployed GPU gets full...

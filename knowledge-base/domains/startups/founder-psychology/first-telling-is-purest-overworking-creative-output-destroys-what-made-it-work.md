@@ -49,31 +49,32 @@ resolutions:
     first time — that's when the joke comes out purest.'
 related:
   - INS-260323-A430
-  - INS-260330-4AD5
   - INS-260327-A4E3
-  - INS-260329-B6A6
-  - INS-260329-FEBA
   - INS-260327-34EB
   - INS-260330-423B
   - INS-260330-DD91
+  - INS-260330-2294
+  - INS-260330-4AD5
+  - INS-260403-49D1
+  - PRI-260405-BF5B
 stance: >-
   Kreischer's comedy lesson: the first spontaneous telling of a joke is almost
   always the best version
 evidence:
   - id: INS-260329-FEBA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-4AD5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2294
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-423B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-72D5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-DD91
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260323-A430
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Kreischer describes a recurring pattern in his comedy craft: a joke told spontaneously for the first time lands perfectly, then he tries to 'razzle dazzle' it into a 15-minute bit, and the joke dies. His deaf child joke was simple and perfect — Louis CK loved it — but Kreischer's attempts to add gun control material and other layers destroyed it.
 

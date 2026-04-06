@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "The Billion-Dollar Revenue Club\U0001F4B0, Product Metrics That Matter\U0001F3AF, Time-to-Value in AI Age⏱️"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-billion-dollar-revenue-club-product'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     35 companies have now cracked $1B ARR, suggesting billion-dollar revenue
@@ -57,6 +47,15 @@ stance: >-
   The growing number of companies reaching $1B ARR indicates that billion-dollar
   revenue is no longer a black swan event but a learnable pattern with
   identifiable structural prerequisites.
+related:
+  - INS-260330-488B
+  - INS-260403-3106
+  - INS-260404-5CD3
+  - PRI-260328-0993
+  - INS-260403-183D
+  - INS-260403-9CC1
+  - INS-260325-FADB
+  - INS-260405-B4D0
 ---
 When a milestone goes from 1 company to 35 companies, it stops being lightning-in-a-bottle and starts being a category with identifiable characteristics. The $1B ARR club reaching 35 members means there's now enough data to study what these companies have in common: go-to-market motions, pricing architecture, retention benchmarks, expansion revenue mechanisms, and category creation strategies.
 

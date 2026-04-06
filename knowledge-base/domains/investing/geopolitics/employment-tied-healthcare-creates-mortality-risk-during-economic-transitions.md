@@ -44,12 +44,12 @@ stance: >-
   like layoffs and industry transitions directly translate into increased
   mortality, making healthcare a systemic economic risk multiplier.
 related:
+  - INS-260327-02CF
   - INS-260330-DA38
   - PRI-260328-D68F
   - INS-260403-E492
-  - PRI-260328-E3A7
-  - INS-260327-4046
-  - INS-260330-2332
+  - INS-260403-B0CB
+  - INS-260403-86BF
 evidence:
   - id: INS-260330-2332
     type: SUPPORTS

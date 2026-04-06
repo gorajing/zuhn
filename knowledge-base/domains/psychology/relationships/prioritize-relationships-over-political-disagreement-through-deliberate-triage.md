@@ -49,11 +49,11 @@ stance: >-
   sacrifice to political disagreement, while accepting that public-facing
   figures with large platforms warrant a different ethical calculus.
 related:
+  - INS-260403-FF15
   - INS-260330-A151
+  - INS-260403-3876
   - INS-260329-E0B0
   - INS-260405-7DD7
-  - PRI-260324-2A76
-  - INS-260327-C69F
 evidence:
   - id: INS-260327-C69F
     type: TRANSFERS_TO

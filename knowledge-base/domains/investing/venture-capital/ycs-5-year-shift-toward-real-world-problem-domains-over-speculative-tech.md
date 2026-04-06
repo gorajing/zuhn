@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "The Founders Fund Story\U0001F525, YC Investing Patterns\U0001F4CA, AI in the Enterprise\U0001F50D"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-founders-fund-story-yc-investing'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     YC's investment focus has migrated from speculative consumer tech toward
@@ -54,6 +44,17 @@ resolutions:
 stance: >-
   The most successful accelerator cohorts will increasingly favor cybersecurity,
   industrial, and B2B solutions over consumer or speculative technology bets.
+related:
+  - INS-260322-BBED
+  - INS-260321-9E91
+  - INS-260322-5F87
+  - INS-260327-7B2B
+  - INS-260327-368D
+  - INS-260403-021D
+  - INS-260403-EEDB
+  - INS-260404-3D17
+  - INS-260405-B6CB
+  - INS-260404-78E0
 ---
 Analysis of 5 years of YC investing patterns by Tomasz Tunguz reveals a clear directional shift: YC is backing cybersecurity, industrial/manufacturing, and B2B solutions at increasing rates. AI-focused companies within these batches raise slightly more capital, but the broader signal is a move toward solving tangible, real-world problems.
 

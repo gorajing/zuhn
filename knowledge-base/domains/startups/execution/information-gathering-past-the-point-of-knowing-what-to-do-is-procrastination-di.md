@@ -49,18 +49,18 @@ stance: >-
 related:
   - INS-260330-F6B1
   - INS-260403-3CD9
-  - INS-260325-14A9
   - INS-260328-FE38
   - INS-260330-14A1
+  - INS-260402-8223
 evidence:
   - id: INS-260402-8223
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F6B1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260328-FE38
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-14A1
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-3CD9
     type: SUPPORTS
     classified_at: '2026-04-06'

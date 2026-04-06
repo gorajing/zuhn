@@ -48,12 +48,11 @@ stance: >-
   Treating organizational subtrees as black boxes optimizes for manager comfort
   at the cost of founder effectiveness and company performance
 related:
-  - INS-260330-EF51
   - PRI-260328-F0E4
   - PRI-260405-86E0
-  - INS-260327-7F56
-  - PRI-260328-604D
-  - PRI-260405-6216
+  - INS-260403-1984
+  - INS-260403-C23E
+  - INS-260326-291C
 evidence:
   - id: INS-260327-7F56
     type: TRANSFERS_TO

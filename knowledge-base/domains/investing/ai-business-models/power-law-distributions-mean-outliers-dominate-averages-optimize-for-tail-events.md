@@ -52,14 +52,15 @@ resolutions:
     any power-law domain, spend disproportionate effort on positioning for the
     extreme upside rather than optimizing the median case.
 related:
-  - INS-260325-7C72
   - INS-260323-B849
+  - INS-260405-C56F
   - INS-260403-A868
   - PRI-260323-81E9
   - PRI-260405-ED62
-  - INS-260327-D5E0
   - INS-260325-3B28
+  - INS-260327-D5E0
   - INS-260330-E4FA
+  - INS-260326-0045
 stance: >-
   In power-law distributions, the standard deviation is infinite, the average
   keeps growing with more samples, and one outlier (like Bill Gates in a ...

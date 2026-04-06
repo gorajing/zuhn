@@ -49,12 +49,11 @@ stance: >-
   meaning and purpose than those who optimize for safety and comfort, suggesting
   that risk exposure is a component of meaningful life.
 related:
-  - INS-260322-D2E9
   - INS-260327-032F
   - INS-260325-5A72
   - PRI-260323-50FE
   - INS-260327-1845
-  - PRI-260323-A3A3
+  - INS-260403-9012
   - INS-260330-AE70
 evidence:
   - id: INS-260322-D2E9

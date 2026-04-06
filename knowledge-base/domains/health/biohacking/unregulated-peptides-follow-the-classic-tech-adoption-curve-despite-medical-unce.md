@@ -50,11 +50,9 @@ related:
   - PRI-260323-FA42
   - PRI-260323-F37F
   - INS-260321-7C97
+  - INS-260327-98DE
   - INS-260322-823B
-  - INS-260323-23B9
   - INS-260321-CCE3
-  - INS-260327-767B
-  - INS-260403-8448
 stance: >-
   Synthetic peptides beyond GLP-1s are spreading through tech culture using the
   same early-adopter logic as beta-testing software

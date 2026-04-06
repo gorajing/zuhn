@@ -2,6 +2,7 @@
 
 - `INS-260323-03F4` Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
 - `INS-260327-56B3` While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
+- `INS-260403-1CC6` Nearly all fundraising scams converge on the same psychological exploit: fabricating social proof and urgency to override rational evaluation.
 - `INS-260325-36EA` Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260330-A1AF` Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.

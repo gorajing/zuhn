@@ -44,12 +44,11 @@ resolutions:
     the barrier to creating competing features has dropped dramatically.
 related:
   - INS-260325-F20C
-  - INS-260325-73C0
   - PRI-260324-36BF
   - PRI-260405-BFAC
   - PRI-260328-D5EB
-  - PRI-260328-9C71
-  - INS-260322-019A
+  - INS-260405-71E1
+  - INS-260405-FAA3
   - INS-260327-F0B2
 stance: >-
   Traditional moats (system of record, network effects, workflow ownership)

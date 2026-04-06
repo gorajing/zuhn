@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: 'Startup Valuation Methods: 8 Approaches Investors Use'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/8-startup-valuation-methods'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Pre-revenue startups increase valuation most effectively by demonstrably
@@ -59,6 +49,17 @@ stance: >-
   prototype, market validation, strategic relationships) more heavily than
   upside projections, making systematic risk reduction the highest-ROI activity
   for improving valuation.
+related:
+  - INS-260327-80A8
+  - INS-260329-2A5A
+  - INS-260329-1318
+  - INS-260330-8CD4
+  - INS-260403-1904
+  - INS-260403-9D89
+  - INS-260403-599B
+  - INS-260403-D49E
+  - INS-260404-9BC6
+  - INS-260404-30B2
 ---
 The Berkus Method assigns up to $500K each across five categories: the idea, team strength, product progress, launch readiness, and strategic relationships. This framing reveals that at the earliest stages, investors are essentially pricing how much uncertainty you've eliminated, not how big the opportunity could be.
 

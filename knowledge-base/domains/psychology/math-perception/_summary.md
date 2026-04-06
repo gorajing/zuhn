@@ -1,12 +1,13 @@
 # Topic: math-perception
 
-> 51 insights
+> 53 insights
 
 - `INS-260325-03D5` [high] Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
 - `INS-260330-09AB` [high] For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.
 - `INS-260330-B4DA` [high] Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
 - `INS-260329-4109` [high] Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260330-30E8` [high] The inverse Pythagorean theorem lets you split one lighthouse into two while preserving total brightness — transforming the problem without losing information.
+- `INS-260330-849D` [high] Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
 - `INS-260330-6A65` [high] Perfect cancellation of opposing effects — like width-stretching and height-squishing in sphere-to-cylinder projection — is a fingerprint of deeper structural relationships.
 - `INS-260329-A86F` [high] Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
 - `INS-260330-083D` [high] Dirichlet's proof that primes distribute evenly across residue classes relies on complex analysis — calculus with complex-valued functions — despite primes being purely discrete objects.
@@ -20,6 +21,7 @@
 - `INS-260329-9391` [high] Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260330-594E` [high] Our brains treat infinity like a big finite number, which produces wrong answers — infinity/2 = infinity, and the set of even numbers equals the set of all whole numbers.
 - `INS-260325-C523` [high] Infinity is not the biggest number — it's how many numbers there are, a size rather than a quantity on the number line.
+- `INS-260329-C5C6` [high] Epsilon-delta formalizes the intuitive idea of closeness into a precise logical framework that underpins all of calculus.
 - `INS-260329-579D` [high] The limit operation is the conceptual bridge that transforms approximate finite calculations into exact infinite-process results.
 - `INS-260329-8261` [high] Studying behavior at boundaries and limits reveals structural truths invisible at typical operating points.
 - `INS-260329-F8AF` [high] The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.

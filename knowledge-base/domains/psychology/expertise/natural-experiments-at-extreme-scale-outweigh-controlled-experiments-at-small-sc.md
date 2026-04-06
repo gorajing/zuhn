@@ -47,11 +47,11 @@ stance: >-
   across cosmic distances provides stronger evidence than a precise lab
   experiment across hundreds of miles.
 related:
+  - INS-260323-0919
   - INS-260330-601A
   - INS-260330-FEDD
   - INS-260405-D3B5
   - PRI-260328-9FB6
-  - INS-260325-415A
 evidence:
   - id: INS-260325-415A
     type: EXTENDS

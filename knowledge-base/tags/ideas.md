@@ -1,3 +1,3 @@
 # Tag: ideas
 
-- `INS-260326-44C9` The Decembrist revolt of 1825 failed completely within hours, but every subsequent Russian revolutionary movement traced its lineage back to those officers on Senate Square.
+- `INS-260405-3E5F` Inability to communicate an idea simply is a signal the idea itself needs more work.

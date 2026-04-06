@@ -47,12 +47,10 @@ resolutions:
     and perfectly random.
 related:
   - INS-260325-F0CE
-  - INS-260323-D6C7
   - PRI-260403-EA13
   - INS-260405-809E
   - PRI-260328-3FEF
   - INS-260403-2B1D
-  - INS-260327-D6C5
 stance: The Efficient Market Hypothesis has been empirically rejected
 evidence:
   - id: INS-260330-2F13

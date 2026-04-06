@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: A product manager’s guide to web3
-    author:
-      - '@type': Person
-        name: Jason Shah
-        url: 'https://substack.com/@0xshah'
-        description: 'Web3 product leader (https://twitter.com/0xShah)'
-        identifier: 'user:20101102'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!4ex9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c48565c-a0f8-4e64-8177-7841409f326e_400x400.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!4ex9!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c48565c-a0f8-4e64-8177-7841409f326e_400x400.jpeg
+    author: Jason Shah
     url: 'https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Web3 forces PMs to recombine user research, data analysis, design, BD, and
@@ -59,6 +49,17 @@ stance: >-
   Early-stage web3 re-bundles the specialized PM functions that web2 spent a
   decade unbundling, because the tasks are too interdependent and technically
   unique to split across specialists.
+related:
+  - INS-260322-B09B
+  - INS-260327-E3DE
+  - INS-260327-73CB
+  - INS-260327-178E
+  - INS-260330-73C1
+  - INS-260330-E99F
+  - INS-260330-3745
+  - INS-260403-529D
+  - INS-260403-9A0F
+  - INS-260405-8646
 ---
 In mature web2 companies, the PM role was progressively unbundled into user researchers, data scientists, UX designers, product marketing managers, and more. Web3 reverses this trend because the work—on-chain analysis, tokenomics design, community engagement, partnership formation, and launch marketing—is so technically interdependent that splitting it across specialists creates coordination overhead that exceeds the benefit of specialization.
 

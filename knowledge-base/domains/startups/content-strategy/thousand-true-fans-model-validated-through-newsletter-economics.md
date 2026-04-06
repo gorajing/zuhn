@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: 2020 Year in Review
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/2020-year-in-review'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Lenny crossed 1,000 paid subscribers and exceeded his Airbnb PM Lead salary
@@ -57,6 +45,12 @@ resolutions:
 stance: >-
   A creator can replace a senior tech salary with roughly 1,000-3,000 paid
   subscribers on a direct subscription platform
+related:
+  - INS-260321-F0DF
+  - INS-260330-B885
+  - INS-260403-D4D4
+  - INS-260323-D679
+  - INS-260323-6414
 ---
 Kevin Kelly's 1,000 True Fans thesis received concrete validation through Lenny's newsletter trajectory. He launched paid subscriptions and reached 450 paid subscribers within six weeks (~$56K ARR), crossed 1,000 paid at about 4 months, and by year-end had over 3,000 paid subscribers earning more than his PM Lead salary at Airbnb.
 

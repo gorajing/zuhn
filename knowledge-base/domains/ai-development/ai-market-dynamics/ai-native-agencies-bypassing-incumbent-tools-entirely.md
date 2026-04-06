@@ -40,11 +40,11 @@ resolutions:
     their socials and are eager to embrace AI — some customers with $100M+
     marketing budgets now have 90% AI-generated ads.
 related:
+  - INS-260403-2609
   - INS-260323-C90C
   - INS-260328-9C16
   - INS-260403-D49B
   - INS-260322-CFB1
-  - INS-260330-E615
   - INS-260322-DBEA
   - INS-260327-F4DD
 stance: >-

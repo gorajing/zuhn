@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "“Claude Mythos”\U0001F9E0, SaaS Funeral\U0001F480, From Execution to Judgment\U0001F3AF"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The gap between high and low performing teams is defined by speed from idea
@@ -57,6 +47,13 @@ stance: >-
   Most organizational effort is consumed maintaining existing systems rather
   than shipping new work, making deployment velocity the true performance
   differentiator over budget or headcount.
+related:
+  - INS-260329-E7A4
+  - PRI-260323-9D46
+  - PRI-260405-86E0
+  - INS-260404-EC32
+  - PRI-260328-4CC0
+  - INS-260323-D621
 ---
 Modern teams spend the majority of their engineering cycles maintaining existing infrastructure, updating dependencies, fixing regressions, and managing technical debt. The actual percentage of effort that goes toward building new features is surprisingly small in most organizations.
 

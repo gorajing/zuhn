@@ -47,11 +47,11 @@ stance: >-
   but creation — especially early awkward creation — is rarer and more valuable.
 related:
   - INS-260329-4C4C
-  - INS-260403-7093
+  - INS-260404-4666
   - INS-260403-0218
   - PRI-260405-0AC6
-  - INS-260405-020E
-  - INS-260329-4DBC
+  - INS-260404-A1BA
+  - INS-260404-DDFB
 evidence:
   - id: INS-260329-4C4C
     type: SUPPORTS

@@ -18,26 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #75: Checking in on the Bad Guys'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-75-checking-in-on-the-bad'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The NSF's $1B Tech Labs initiative marks metascience's transition from
@@ -65,6 +53,12 @@ stance: >-
   The future of scientific breakthroughs lies in mission-driven institutional
   grants to teams outside university bureaucracy rather than small project-based
   grants to individual academics
+related:
+  - INS-260404-688B
+  - INS-260322-88FC
+  - INS-260403-118B
+  - INS-260403-8EFF
+  - INS-260327-9377
 ---
 The NSF's Tech Labs initiative will invest up to $1 billion over five years in multiyear institutional grants ($10-50M/year) to research organizations operating outside traditional university structures. This represents a concrete implementation of metascience ideas that have been developing over the past decade — the recognition that modern scientific breakthroughs increasingly require massive datasets, large integrated teams, and sustained institutional support that project-based grants to individual PIs cannot provide.
 

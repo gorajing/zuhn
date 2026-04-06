@@ -49,13 +49,13 @@ related:
   - INS-260323-0B5E
   - PRI-260405-64B2
   - PRI-260323-AEE6
+  - INS-260404-E4F1
   - INS-260329-476D
-  - INS-260330-C658
-  - INS-260321-E471
-  - INS-260327-9830
+  - INS-260403-D2F4
   - INS-260328-C2CB
-  - INS-260328-93C8
-  - INS-260330-D272
+  - INS-260330-C658
+  - INS-260403-74DB
+  - INS-260403-E63B
 stance: >-
   A week is long enough to validate ideas and ship products; ten years captures
   true strategic direction

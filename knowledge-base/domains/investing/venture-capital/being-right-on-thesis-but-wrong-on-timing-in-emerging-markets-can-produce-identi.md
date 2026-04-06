@@ -18,24 +18,14 @@ tags:
 sources:
   - type: blog
     title: 'Deep Dive: Is India the Next Economic Giant?'
-    author:
-      - '@type': Person
-        name: Chamath Palihapitiya
-        url: 'https://substack.com/@chamath'
-        description: 'CEO @SocialCapital, Bestie @theallinpod'
-        identifier: 'user:97776398'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    author: Chamath Palihapitiya
     url: 'https://chamath.substack.com/p/deep-dive-is-india-the-next-economic'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Chamath's 2016 India bets around UPI were thesis-correct but timing-wrong,
@@ -62,6 +52,12 @@ stance: >-
   In emerging market venture investing, correct thesis with premature timing
   produces the same financial outcome as an incorrect thesis, making timing the
   dominant variable.
+related:
+  - INS-260330-F1C8
+  - INS-260403-2E2C
+  - INS-260403-910E
+  - INS-260405-092A
+  - INS-260405-5C3F
 ---
 Chamath and friends invested in India around 2016 when UPI launched — a bet on digital payments infrastructure transforming the economy. UPI became a massive success, successful startups like Flipkart and Zomato emerged, yet the bets still didn't pay off because 'India's startup ecosystem was still nascent.'
 

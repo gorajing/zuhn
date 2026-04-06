@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: A playbook for fundraising
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-playbook-for-fundraising'
 date_extracted: '2026-04-02'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Prepare materials to 70% completeness, then test with 4-6 people who've
@@ -62,6 +50,12 @@ stance: >-
   Testing pitch materials at 70% completeness with 4-6 practice audiences before
   entering the real process produces materially better outcomes than perfecting
   materials in isolation
+related:
+  - INS-260323-4457
+  - INS-260323-95BC
+  - PRI-260327-3BD9
+  - INS-260403-49FB
+  - PRI-260323-8EEA
 ---
 Founders consistently discover stronger narrative elements 1-2 weeks into their actual pitch process — after they've already burned meetings with top-tier funds. The 'hardening' technique front-loads this discovery: prepare materials to 70% completeness and test with former founders in similar spaces, friendly seed investors, or growth-stage investors. This serves triple duty: building pitch confidence and reps, surfacing missing elements before real meetings, and potentially generating warm introductions.
 

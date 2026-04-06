@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: "Accelerating Growth at Scale \U0001F525 Phase 2 of Kickstarting and Scaling a Marketplace Business"
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/accelerating-growth-at-scale-phase'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Evaluating new ideas by imagining how they could work rather than why they
@@ -62,6 +50,14 @@ stance: >-
   The correct response to a novel idea is not lower standards but reversed
   polarity — actively imagining ways it could succeed rather than listing
   reasons it will fail — and this mental habit can be deliberately cultivated.
+related:
+  - INS-260330-9863
+  - INS-260403-2B1D
+  - INS-260404-323D
+  - INS-260404-0782
+  - INS-260403-2788
+  - INS-260403-EEE5
+  - INS-260404-9E63
 ---
 Graham distinguishes between being less critical and being differently critical. The right response to early-stage ideas isn't lowering your bar — it's switching from a default-skeptical to a default-constructive frame. Instead of asking 'what's wrong with this?', ask 'under what conditions could this be huge?'. This is what experienced VCs learn to do, and it's what makes Silicon Valley's culture economically productive.
 

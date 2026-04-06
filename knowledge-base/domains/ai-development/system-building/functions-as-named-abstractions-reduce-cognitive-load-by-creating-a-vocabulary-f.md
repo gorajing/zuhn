@@ -50,16 +50,16 @@ stance: >-
   vocabulary that lets programmers reason about programs at a higher level of
   abstraction
 related:
-  - INS-260329-979B
   - INS-260329-2F63
   - INS-260329-500E
-  - INS-260329-25FC
   - INS-260329-04FA
+  - INS-260329-B2F4
+  - INS-260329-0F39
 evidence:
   - id: INS-260329-70D5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-493A
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial introduces functions through a say_hi example where the function body is just one print statement — clearly not about code reuse since it's called only twice. The real lesson is that def say_hi(name) creates a named operation that can be reasoned about without reading its implementation. When you see say_hi('Mike'), you understand the program's intent without needing to trace through the print statement logic.
 

@@ -58,19 +58,21 @@ related:
   - INS-260330-6418
   - INS-260330-B559
   - INS-260330-13EE
-  - INS-260330-7462
+  - INS-260405-F6E6
+  - PRI-260405-8E48
   - INS-260330-F116
+  - INS-260403-7285
 evidence:
   - id: INS-260330-8D0C
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6418
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-13EE
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B7AB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-F116
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Both major Axis powers faced genuine food security crises before expansion. Japan, as an island nation with limited arable land and a growing population, could not feed itself. Germany faced similar constraints exacerbated by WWI-era blockade memories. Both chose military expansion primarily to solve food equations, with ideology providing the narrative framework.
 

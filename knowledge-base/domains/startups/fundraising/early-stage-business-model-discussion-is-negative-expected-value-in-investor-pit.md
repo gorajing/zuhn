@@ -54,12 +54,12 @@ stance: >-
   of the problem and product
 related:
   - INS-260327-363C
-  - INS-260329-FCC6
   - PRI-260405-2A11
   - INS-260404-16E1
   - INS-260327-58AC
   - INS-260328-D2EC
-  - INS-260402-4633
+  - INS-260403-E4C6
+  - INS-260403-B887
 evidence:
   - id: INS-260404-58AE
     type: SUPPORTS

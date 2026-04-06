@@ -51,21 +51,21 @@ stance: >-
   and charisma have no institutional resilience and fracture instantly when that
   leader is gone.
 related:
-  - INS-260323-DF0F
   - INS-260323-B726
-  - PRI-260328-7EA5
   - INS-260327-8912
-  - INS-260330-72BD
   - INS-260327-64A5
+  - PRI-260328-7EA5
   - INS-260330-0F55
-  - INS-260330-88DE
+  - INS-260330-72BD
+  - INS-260327-D25D
+  - INS-260323-DF0F
 evidence:
   - id: INS-260330-72BD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-0F55
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-6BAF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Alexander conquered the largest empire in history by age 32. When he died at 32, it fragmented within years into four warring successor kingdoms. There were no institutions to maintain unity: no administrative system, no shared governance, no succession plan. The empire was held together by Alexander's personal presence alone. Without him, his generals immediately fought each other for pieces.
 

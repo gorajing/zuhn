@@ -44,11 +44,11 @@ resolutions:
     their power source is management itself. The practical test: are you
     pursuing a role for its title, or for the work it lets you do?
 related:
+  - INS-260403-497B
   - INS-260323-DA91
+  - INS-260327-4F3D
+  - INS-260322-116B
   - INS-260322-A928
-  - INS-260330-1C90
-  - INS-260327-70DF
-  - INS-260327-8521
 stance: >-
   Optimizing for stewardship (what you do and serve) rather than status (titles
   and positions) produces both deeper fulfillment and better career out...

@@ -52,35 +52,32 @@ stance: >-
   computing fundamentally advantages startups over incumbents by eliminating
   upfront infrastructure investment barriers
 related:
-  - INS-260327-4BC6
-  - INS-260329-A57B
+  - INS-260403-F68B
+  - INS-260403-401F
+  - INS-260403-2D68
   - INS-260320-8688
   - INS-260403-8256
-  - INS-260321-2D72
-  - INS-260330-D6D3
-  - INS-260329-1085
-  - INS-260329-C6BB
 evidence:
   - id: INS-260320-8688
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-7D53
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260327-4BC6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-A57B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260321-2D72
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-D6D3
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-4EF5
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-1318
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-C6BB
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-8256
-    relationship: RELATED
+    type: SUPPORTS
 ---
 AWS offers four EC2 pricing models: on-demand (pay by the hour, no commitment), spot instances (up to 90% discount but can be interrupted anytime), reserved instances (up to 75% discount for 1-3 year commitments), and dedicated hosts (physical server isolation for compliance). This pricing flexibility means startups can begin with on-demand for experimentation, shift to spot for fault-tolerant batch workloads, and graduate to reserved instances as demand stabilizes. The broader implication is that cloud computing converted infrastructure from a capital expenditure (buying servers upfront) to an operational expenditure (paying as you go), which fundamentally lowers the barrier to entry for new businesses and shifts competitive advantage from capital access to operational efficiency.
 

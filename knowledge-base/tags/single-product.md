@@ -1,3 +1,3 @@
 # Tag: single-product
 
-- `INS-260324-179B` GoPro created and owned the action camera category, had strong margins, profits, and brand recognition — stock still dropped 95% because the market was too small to sustain a standalone company.
+- `INS-260404-C30F` HubSpot reached IPO in 2014 on GTM excellence alone, with additional products only crossing 20% of ARR five years later in 2019.

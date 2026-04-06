@@ -43,11 +43,11 @@ stance: >-
   personal life decision — marriage, children, health — creating hidden costs
   that compound over years.
 related:
+  - INS-260403-A36C
   - INS-260325-BE8A
   - INS-260404-F708
+  - INS-260403-6D4F
   - INS-260330-F737
-  - INS-260327-8254
-  - INS-260327-3349
 evidence:
   - id: INS-260330-F737
     type: EXTENDS

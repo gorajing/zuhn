@@ -49,16 +49,16 @@ stance: >-
   the institution, because a determined learner can find smart peers and
   professors at almost any school.
 related:
-  - INS-260327-D76A
   - INS-260329-1E81
   - INS-260329-EF89
-  - INS-260329-191D
   - INS-260329-8B10
   - INS-260329-4B99
   - INS-260329-3C67
   - INS-260329-C3DF
   - INS-260329-D8C7
   - INS-260329-04CB
+  - INS-260330-B306
+  - INS-260330-45FF
 evidence:
   - id: INS-260329-191D
     type: CHALLENGES

@@ -47,16 +47,16 @@ stance: >-
   time build more resilient competitive positions than those that design once
   and execute
 related:
-  - INS-260325-2BDB
   - INS-260327-D65E
   - INS-260327-418E
-  - INS-260403-A862
   - INS-260403-68C8
   - INS-260403-52DB
   - INS-260403-3F10
   - PRI-260328-43F1
+  - INS-260325-2BDB
   - INS-260403-87AC
   - INS-260404-380C
+  - INS-260403-83A4
 evidence:
   - id: INS-260325-2BDB
     type: EXTENDS

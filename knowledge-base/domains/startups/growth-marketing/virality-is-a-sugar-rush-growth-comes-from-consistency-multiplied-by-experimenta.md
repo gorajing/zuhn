@@ -49,11 +49,10 @@ stance: >-
   platform features.
 related:
   - PRI-260328-C918
+  - INS-260403-B18C
   - INS-260328-EA3A
   - INS-260327-A458
   - INS-260323-A2E5
-  - PRI-260328-1545
-  - INS-260330-20F7
 evidence:
   - id: INS-260328-EA3A
     type: SUPPORTS

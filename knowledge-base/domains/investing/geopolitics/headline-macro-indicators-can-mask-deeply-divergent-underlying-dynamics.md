@@ -15,26 +15,14 @@ tags:
 sources:
   - type: blog
     title: Something feels weird about this economy
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/something-feels-weird-about-this'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Aggregate economic health metrics can look normal while underlying dynamics
@@ -62,6 +50,12 @@ stance: >-
   Healthy aggregate macro statistics (GDP, employment, inflation) can coexist
   with structurally unusual labor market dynamics, meaning surface-level
   economic health is an unreliable guide to sectoral or distributional outcomes.
+related:
+  - INS-260325-7C72
+  - INS-260327-D5E0
+  - PRI-260328-6CDE
+  - PRI-260328-F6DE
+  - PRI-260403-50EF
 ---
 The U.S. economy in early 2026 presents a case study in how aggregates can obscure: GDP growth looks like a normal expansion, prime-age employment is at multi-decade highs, and inflation is only slightly above target. By any bird's-eye reading, this is a healthy economy. Yet beneath those aggregates, two things are simultaneously true that have rarely co-occurred: productivity growth is running at near-historic highs while job creation has stalled.
 

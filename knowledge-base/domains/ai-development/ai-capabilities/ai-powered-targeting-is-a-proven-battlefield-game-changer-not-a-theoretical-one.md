@@ -17,26 +17,14 @@ tags:
 sources:
   - type: blog
     title: Are we in the foothills of World War 3?
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/are-we-in-the-foothills-of-world'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Anthropic's Claude and other AI tools were operationally deployed in the
@@ -60,6 +48,12 @@ stance: >-
   The Iran War demonstrated that AI decision-support systems for military
   targeting have moved from prototype to operational deployment, fundamentally
   changing the speed and precision of modern warfare.
+related:
+  - INS-260327-E0B0
+  - INS-260403-976C
+  - INS-260403-4819
+  - INS-260327-19D2
+  - INS-260329-FCD3
 ---
 The US military used AI — including Anthropic's Claude — for real-time intelligence assessment, target identification, mission planning, and battle damage evaluation during the Iran campaign. This represents the most advanced operational AI deployment in warfare to date, moving beyond the experimental uses seen in Ukraine.
 

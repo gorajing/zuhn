@@ -1,6 +1,7 @@
 # Tag: rationalization
 
 - `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
+- `INS-260404-1678` Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
 - `INS-260330-2EC6` Ross went from libertarian idealist growing mushrooms to approving weapons sales, body parts listings, and commissioning hits — each step rationalized as defending the 'free market' philosophy he started with.
 - `INS-260330-A15F` Bad decisions trigger escalating rationalization rather than course-correction, especially when peer groups reward continued commitment.
 - `INS-260330-C548` Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.

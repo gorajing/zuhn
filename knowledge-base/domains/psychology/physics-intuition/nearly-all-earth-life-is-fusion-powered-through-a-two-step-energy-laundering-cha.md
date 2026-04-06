@@ -54,36 +54,36 @@ stance: >-
   photons from hydrogen fusion are converted through electron excitation chains
   into chemical energy.
 related:
-  - INS-260330-07B1
+  - INS-260330-1084
   - INS-260330-BC56
-  - INS-260404-A1E2
   - INS-260404-EFA8
-  - INS-260404-596E
-  - PRI-260403-181B
+  - INS-260404-3500
   - INS-260330-B076
+  - PRI-260403-181B
+  - INS-260330-07B1
 evidence:
   - id: INS-260330-B076
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-BC56
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-B061
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-1084
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-545E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-2C71
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-20FD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-498B
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-596E
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-A1E2
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-EFA8
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The light-dependent reactions begin when a photon — created by hydrogen fusion 93 million miles away — strikes chlorophyll and excites an electron. The entire elaborate machinery of Photosystem II, the Cytochrome Complex, and Photosystem I exists to systematically extract that photon's energy through a series of electron transfers, converting it into ATP and NADPH. These energy carriers then power the Calvin Cycle to fix carbon into organic molecules.
 

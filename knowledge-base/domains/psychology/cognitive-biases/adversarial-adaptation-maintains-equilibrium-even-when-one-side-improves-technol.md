@@ -19,23 +19,12 @@ sources:
     title: >-
       Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved
       Medical Care
-    author:
-      - '@type': Person
-        name: Scott Alexander
-        url: 'https://substack.com/@astralcodexten'
-        description: null
-        identifier: 'user:12009663'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    author: Scott Alexander
     url: 'https://www.astralcodexten.com/p/record-low-crime-rates-are-real-not'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
+indexed: true
 embedded: false
 resolutions:
   one_line: >-
@@ -62,6 +51,14 @@ stance: >-
   Criminals compensating for improved trauma care by inflicting more severe
   injuries demonstrates that adversarial systems tend toward equilibrium rather
   than one-sided improvement.
+related:
+  - INS-260324-E785
+  - INS-260324-1C12
+  - INS-260403-616B
+  - INS-260403-FB4A
+  - PRI-260328-F497
+  - INS-260327-B715
+  - INS-260403-22E9
 ---
 The finding that gun injury severity has increased at roughly the same rate as trauma care improvement illustrates a deep pattern in adversarial systems. Whether through explicit calculation, cultural transmission of 'street wisdom,' or selection effects (robberies declining while targeted killings remain), the lethality per violent act has stayed roughly constant despite major medical advances.
 

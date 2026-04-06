@@ -44,12 +44,11 @@ stance: >-
   caused by outcome-attachment, and the only fix is redefining success as
   activity consistency rather than revenue.
 related:
-  - INS-260323-0D51
   - INS-260404-56AC
+  - INS-260403-8439
   - INS-260327-7846
+  - INS-260323-0D51
   - INS-260330-067C
-  - INS-260329-764E
-  - INS-260330-BCAF
 evidence:
   - id: INS-260323-0D51
     type: EXTENDS

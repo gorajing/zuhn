@@ -53,10 +53,10 @@ stance: >-
   strategy decisions.
 related:
   - INS-260404-F8B7
+  - INS-260403-E5D4
+  - INS-260403-96D7
   - INS-260327-89C7
   - INS-260322-CCAA
-  - PRI-260328-7E58
-  - PRI-260405-91AD
 evidence:
   - id: INS-260322-CCAA
     type: SUPPORTS

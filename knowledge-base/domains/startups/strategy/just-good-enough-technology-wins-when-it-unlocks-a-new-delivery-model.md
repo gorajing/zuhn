@@ -45,11 +45,12 @@ stance: >-
   model will beat superior technology trapped in the old model, because the
   delivery advantage compounds while the quality gap closes.
 related:
-  - INS-260330-77A2
+  - INS-260403-2496
   - INS-260327-4669
   - INS-260402-B12D
   - INS-260403-E59C
   - INS-260403-6B97
+  - INS-260403-CDB9
 evidence:
   - id: INS-260330-77A2
     type: SUPPORTS

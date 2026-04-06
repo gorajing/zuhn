@@ -18,26 +18,14 @@ sources:
     title: >-
       An inside look at Figma’s unique GTM motion | Claire Butler (first GTM
       hire)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/an-inside-look-at-figmas-unique-bottom'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In early stage, the depth of user love is a better signal than any metric
@@ -62,6 +50,12 @@ stance: >-
   Quantitative metrics in the first 12-18 months of a product mislead founders
   because the user base is too small and self-selected to be statistically
   meaningful, making qualitative intensity signals more diagnostic.
+related:
+  - INS-260403-EDFC
+  - INS-260403-B635
+  - INS-260404-C720
+  - INS-260402-46AD
+  - PRI-260328-B2EA
 ---
 Butler's discussion of signals vs. hard metrics captures a common founder trap: over-indexing on quantitative dashboards when sample sizes are too small for the numbers to mean anything. A 10% retention rate looks terrible in absolute terms but might represent the 5 most passionate early adopters in a new category — the exact cohort you need to understand deeply before scaling.
 

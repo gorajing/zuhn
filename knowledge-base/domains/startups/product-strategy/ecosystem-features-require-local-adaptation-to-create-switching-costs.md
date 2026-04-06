@@ -47,12 +47,12 @@ stance: >-
   services (payments, maps, voice assistant) don't function locally
 related:
   - INS-260325-A54F
-  - INS-260330-6411
   - INS-260330-DCFB
   - INS-260330-F7F4
   - INS-260404-D6EC
-  - INS-260405-8107
+  - INS-260405-71E1
   - INS-260404-B5EB
+  - INS-260405-8107
 evidence:
   - id: INS-260323-3ADC
     type: TRANSFERS_TO

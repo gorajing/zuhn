@@ -19,26 +19,14 @@ tags:
 sources:
   - type: blog
     title: 'Roundup #76: Great Powers acting stupid'
-    author:
-      - '@type': Person
-        name: Noah Smith
-        url: 'https://substack.com/@noahpinion'
-        description: Econ blogger
-        identifier: 'user:8243895'
-        sameAs:
-          - 'https://twitter.com/Noahpinion'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!5YDD!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png
+    author: Noah Smith
     url: 'https://www.noahpinion.blog/p/roundup-76-great-powers-acting-stupid'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     India's electronics industry grew from $22B to $130B in a decade while its
@@ -68,6 +56,13 @@ stance: >-
   India's strategy of prioritizing domestic growth, electrification, and
   scientific capacity over geopolitical posturing positions it to leapfrog China
   in electrotech manufacturing as supply chain diversification demand rises
+related:
+  - INS-260323-4D14
+  - INS-260330-ADB7
+  - INS-260405-4053
+  - INS-260322-BBED
+  - INS-260402-9EBD
+  - INS-260405-2AFD
 ---
 While the US, China, and Russia inflict self-harm through ideological crusades, military purges, and demographic destruction respectively, India is executing a disciplined growth strategy. Its electronics industry surged nearly sixfold from $22 billion (FY2015) to $130 billion (FY2025), mobile phone production went from 2 million to 300 million units, and solar module production hit 120 GW—a twelvefold increase making India self-sufficient. India's well-cited scientific publications have overtaken the UK, Japan, and Germany.
 

@@ -55,14 +55,14 @@ stance: >-
   architectural decisions creates lasting differentiation that feature matrices
   cannot, because buyers remember opinions not checkboxes.
 related:
+  - INS-260404-4434
   - INS-260404-0095
-  - INS-260329-5094
   - INS-260403-D500
   - PRI-260323-BA94
   - PRI-260328-4CC0
 evidence:
   - id: INS-260329-FEA6
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-D500
     type: CHALLENGES
     classified_at: '2026-04-06'

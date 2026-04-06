@@ -45,10 +45,10 @@ stance: >-
   discussions, not in the ability to outvote investors
 related:
   - INS-260330-7675
-  - INS-260330-7BF5
-  - INS-260405-370B
-  - INS-260403-3A71
-  - INS-260323-500B
+  - INS-260403-5772
+  - INS-260403-3876
+  - INS-260403-4E67
+  - INS-260403-BA53
 evidence:
   - id: INS-260405-370B
     type: TRANSFERS_TO

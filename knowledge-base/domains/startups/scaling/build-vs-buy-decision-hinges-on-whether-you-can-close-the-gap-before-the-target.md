@@ -48,10 +48,10 @@ stance: >-
   extends their lead — if not, the math always favors buying.
 related:
   - INS-260330-63BA
+  - INS-260404-B18A
   - INS-260321-0CCD
   - INS-260327-CED9
   - PRI-260328-5CDE
-  - INS-260330-A1D2
 evidence:
   - id: INS-260327-CED9
     type: EXTENDS

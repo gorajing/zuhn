@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: How Harry Stebbings Turned a Podcast Into a $400M Venture Fund
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/how-harry-stebbings-turned-a-podcast'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Harry Stebbings raised $8M in a week from podcast guests because media
@@ -59,6 +49,15 @@ stance: >-
   Building media distribution before raising a fund compresses fundraising
   timelines more effectively than building a traditional investment track record
   first.
+related:
+  - INS-260322-03DD
+  - INS-260330-77D1
+  - INS-260403-D2A9
+  - INS-260405-776D
+  - INS-260403-87C4
+  - INS-260404-7295
+  - INS-260403-1E5F
+  - INS-260403-9746
 ---
 Traditional fund formation requires a track record of returns, which creates a chicken-and-egg problem for first-time managers. Stebbings inverted this by spending years building distribution first — interviewing 1,000+ founders created relationships where guests began sending him deals unprompted. When a multi-billionaire founder offered to back him, 50 others followed within a week, each writing $100K-$250K checks.
 

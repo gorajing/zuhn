@@ -44,13 +44,15 @@ stance: >-
   where visibility is valued over substance.
 related:
   - INS-260324-5952
-  - INS-260327-4F94
+  - INS-260403-014D
+  - INS-260404-CAFA
   - INS-260404-5AC1
+  - INS-260403-93BB
   - INS-260327-94FE
-  - INS-260404-312D
   - INS-260403-7B3B
-  - INS-260322-96D1
   - INS-260404-B863
+  - INS-260403-9E82
+  - INS-260403-3800
 evidence:
   - id: INS-260322-96D1
     type: CHALLENGES

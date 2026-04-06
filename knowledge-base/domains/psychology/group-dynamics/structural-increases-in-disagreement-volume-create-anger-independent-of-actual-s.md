@@ -46,12 +46,11 @@ stance: >-
   disagreement without requiring any change in how angry people actually are.
 related:
   - INS-260323-C304
-  - INS-260323-A48E
-  - INS-260323-8271
   - INS-260403-FAC0
   - PRI-260405-64C0
+  - INS-260403-889B
+  - INS-260403-8C7E
   - INS-260330-3570
-  - INS-260322-F65F
   - INS-260404-F172
 evidence:
   - id: INS-260323-C304

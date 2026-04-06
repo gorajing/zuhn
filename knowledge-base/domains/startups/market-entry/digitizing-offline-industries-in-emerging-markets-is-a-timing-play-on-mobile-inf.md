@@ -52,12 +52,11 @@ stance: >-
   in emerging markets is when mobile adoption is high but digital workflows are
   still absent
 related:
-  - INS-260403-B5C0
   - INS-260403-B387
+  - INS-260405-2703
+  - INS-260404-B494
+  - INS-260404-96CF
   - INS-260403-8256
-  - INS-260322-5932
-  - INS-260403-AC5E
-  - INS-260322-EDC2
 evidence:
   - id: INS-260322-EDC2
     type: EXTENDS

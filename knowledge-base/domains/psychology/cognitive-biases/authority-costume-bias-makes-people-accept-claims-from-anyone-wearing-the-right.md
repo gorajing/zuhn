@@ -46,10 +46,10 @@ stance: >-
   institutional affiliation), not by the quality of evidence presented.
 related:
   - INS-260329-55F7
+  - INS-260405-390B
   - INS-260329-226C
   - INS-260405-966C
   - INS-260329-882A
-  - INS-260327-26CF
 evidence:
   - id: INS-260329-226C
     type: CHALLENGES

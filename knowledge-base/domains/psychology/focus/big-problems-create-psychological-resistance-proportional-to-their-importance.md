@@ -48,15 +48,15 @@ stance: >-
   scales with the problem's significance
 related:
   - INS-260325-8729
-  - INS-260325-13B9
-  - INS-260325-1AD3
   - INS-260322-A9DE
   - INS-260327-2D68
   - INS-260328-0540
   - INS-260403-3E3B
+  - INS-260404-F970
+  - INS-260405-D20A
+  - INS-260403-2814
+  - INS-260405-ECCD
   - INS-260330-1E5E
-  - INS-260330-A3AF
-  - INS-260403-7F97
 evidence:
   - id: INS-260327-2D68
     type: EXTENDS

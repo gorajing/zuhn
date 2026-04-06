@@ -54,7 +54,6 @@ stance: >-
   throughput — and most natural and organizational systems spend the majority of
   their resources just maintaining the conditions for production, not producing.
 related:
-  - INS-260327-0D3C
   - INS-260330-5DFF
   - INS-260404-D1F6
   - INS-260405-0591

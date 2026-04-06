@@ -17,39 +17,15 @@ sources:
     title: >-
       Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose,
       Discipline, and Humility
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Guillermo Flor
-        url: 'https://substack.com/@guillermoflor'
-        description: >-
-          I'm Guillermo, a former startup founder now venture capital investor.
-          I write weekly about startups path to Product Market Fit, growth and
-          fundraising 
-        identifier: 'user:48117658'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
+    author: 'Ruben Dominguez, Guillermo Flor'
     url: >-
       https://www.thevccorner.com/p/daniel-lubetzky-kind-snacks-founder-interview
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Companies lose their creative soul when founders leave because professional
@@ -80,6 +56,12 @@ resolutions:
 stance: >-
   When a founder exits, the company permanently loses its animating force and no
   professional management team can replicate it
+related:
+  - INS-260327-1EC4
+  - INS-260330-D8D1
+  - INS-260327-2B75
+  - INS-260327-2A73
+  - INS-260403-6D4F
 ---
 Lubetzky observes across industries — startups, restaurants, global corporations — that founder departure triggers an irreversible energy loss. His framing ('when the founder leaves, the soul leaves too') points to something deeper than management competence: founders carry the original problem-obsession, taste, and willingness to make irrational bets that created the company's differentiation.
 

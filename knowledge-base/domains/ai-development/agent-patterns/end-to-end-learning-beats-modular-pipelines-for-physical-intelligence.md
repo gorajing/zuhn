@@ -53,12 +53,12 @@ stance: >-
 related:
   - INS-260321-D370
   - PRI-260328-7A4D
-  - INS-260402-F479
   - INS-260321-9906
   - PRI-260328-1ED1
+  - PRI-260328-D401
 evidence:
   - id: INS-260402-2FDF
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Physical Intelligence's founders describe three eras of robotics: hand-coding rules (failed because the world is too complex), learning individual components separately (better but still brittle), and end-to-end pixels-to-actions learning (current approach). The critical insight is that decomposing the problem into perception, planning, and control created artificial interfaces that became the failure points.
 

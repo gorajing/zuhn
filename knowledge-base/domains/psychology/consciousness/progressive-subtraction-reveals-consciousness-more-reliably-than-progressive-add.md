@@ -52,7 +52,6 @@ stance: >-
   imagery, then the sense of 'I' — is more effective for understanding
   consciousness than adding more frameworks or concepts about it.
 related:
-  - PRI-260328-902C
   - INS-260329-A45D
   - INS-260330-909E
   - INS-260330-B360
@@ -61,6 +60,7 @@ related:
   - INS-260330-E107
   - INS-260330-A47D
   - INS-260330-6E6A
+  - PRI-260328-902C
   - INS-260405-E6F5
 evidence:
   - id: INS-260330-B360

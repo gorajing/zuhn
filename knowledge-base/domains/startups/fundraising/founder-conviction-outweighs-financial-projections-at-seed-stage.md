@@ -15,24 +15,14 @@ tags:
 sources:
   - type: blog
     title: '16 Unicorn Pitch Decks: The Slides Before the Billions'
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/unicorn-pitch-decks-before-the-billions'
 date_extracted: '2026-04-04'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Coinbase pitched Bitcoin at $6.25 like a manifesto, and Dropbox's pristine
@@ -56,6 +46,13 @@ stance: >-
   At seed stage, a founder's missionary conviction about a non-obvious future is
   more persuasive to investors than any financial model or market sizing
   exercise.
+related:
+  - INS-260403-B2EB
+  - INS-260403-A331
+  - INS-260323-E551
+  - INS-260405-CB93
+  - INS-260327-555D
+  - INS-260404-B6CA
 ---
 The unicorn deck analysis reveals that the companies that became massive looked almost nothing like what their pitch decks described. Uber pitched as a luxury black car service. Airbnb's revenue projections were wildly wrong. Facebook's deck was barely a fundraising document. Yet all raised successfully.
 

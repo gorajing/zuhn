@@ -51,10 +51,10 @@ stance: >-
   usability.
 related:
   - INS-260330-DBA4
+  - INS-260404-38A6
+  - INS-260327-6F94
   - INS-260323-F528
   - INS-260330-F6A2
-  - PRI-260328-B115
-  - INS-260405-5670
 evidence:
   - id: INS-260327-6F94
     type: CHALLENGES

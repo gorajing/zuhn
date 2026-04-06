@@ -51,10 +51,10 @@ stance: >-
   language.
 related:
   - INS-260323-F2C3
+  - INS-260405-E4FC
   - INS-260327-9C56
   - INS-260326-E5D3
   - INS-260404-9AEC
-  - INS-260320-DDD9
   - INS-260322-02A6
 evidence:
   - id: INS-260322-02A6

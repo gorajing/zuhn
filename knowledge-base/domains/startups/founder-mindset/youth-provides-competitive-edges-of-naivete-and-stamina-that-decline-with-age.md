@@ -45,15 +45,15 @@ stance: >-
   intensity needed to break through barriers.
 related:
   - INS-260323-4AF5
-  - INS-260325-BE8A
-  - INS-260323-1307
-  - INS-260327-0B7C
-  - INS-260327-E3D5
   - PRI-260328-B11D
   - PRI-260405-E256
   - INS-260404-7071
   - INS-260403-FE3B
-  - INS-260402-E140
+  - INS-260403-A36C
+  - INS-260403-C2BE
+  - INS-260403-61ED
+  - INS-260404-1986
+  - INS-260403-1B96
 evidence:
   - id: INS-260330-3138
     type: CHALLENGES

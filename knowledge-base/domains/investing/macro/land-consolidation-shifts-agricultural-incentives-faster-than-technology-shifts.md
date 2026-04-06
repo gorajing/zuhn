@@ -18,42 +18,19 @@ tags:
 sources:
   - type: blog
     title: Who Controls the American Food Supply?
-    author:
-      '@type': Organization
-      name: Chamath Palihapitiya
-      url: 'https://chamath.substack.com'
-      description: |-
-        I make bets on disruptive ideas, technology, and people.
-
-        Subscribe to learn with me.
-      interactionStatistic:
-        '@type': InteractionCounter
-        name: Subscribers
-        interactionType: 'https://schema.org/SubscribeAction'
-        userInteractionCount: 100000
-      identifier: 'pub:975637'
-      logo:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-      image:
-        '@type': ImageObject
-        url: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        contentUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
-        thumbnailUrl: >-
-          https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png
+    author: >-
+      {"@type":"Organization","name":"Chamath
+      Palihapitiya","url":"https://chamath.substack.com","description":"I make
+      bets on disruptive ideas, technology, and people.\n\nSubscribe to learn
+      with
+      me.","interactionStatistic":{"@type":"InteractionCounter","name":"Subscribers","interactionType":"https://schema.org/SubscribeAction","userInteractionCount":100000},"identifier":"pub:975637","logo":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png"},"image":{"@type":"ImageObject","url":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","contentUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png","thumbnailUrl":"https://substackcdn.com/image/fetch/$s_!1xtG!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2e90df-6f98-44ee-8091-3e7df4079133_1280x1280.png"}}
     url: 'https://chamath.substack.com/p/deep-dive-american-agriculture'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Agricultural consolidation reshapes who bears risk and who captures value
@@ -88,6 +65,14 @@ stance: >-
   ownership — poses greater near-term systemic risk than technological
   stagnation because it changes who captures value and who bears risk before
   efficiency gains materialize.
+related:
+  - INS-260403-3615
+  - INS-260403-F01C
+  - INS-260404-1A34
+  - INS-260404-2CA6
+  - INS-260404-8A36
+  - INS-260403-F642
+  - INS-260403-B6C6
 ---
 Technology in agriculture — precision sensors, gene editing, automation — operates on 10-20 year adoption curves bounded by regulatory approval, capital cost, and integration with legacy equipment. Market consolidation operates on deal timescales: an acquisition changes pricing power, risk distribution, and incentive structures within months.
 

@@ -17,39 +17,15 @@ sources:
     title: >-
       Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank
       Lessons for Founders
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Guillermo Flor
-        url: 'https://substack.com/@guillermoflor'
-        description: >-
-          I'm Guillermo, a former startup founder now venture capital investor.
-          I write weekly about startups path to Product Market Fit, growth and
-          fundraising 
-        identifier: 'user:48117658'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
+    author: 'Ruben Dominguez, Guillermo Flor'
     url: >-
       https://www.thevccorner.com/p/robert-herjavec-ai-startups-shark-tank-founder-lessons
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Herjavec's framing — 'the pain of being poor was greater than the pain of
@@ -74,6 +50,15 @@ resolutions:
 stance: >-
   Entrepreneurs who explicitly compare the pain of poverty against the pain of
   hard work make more decisive career bets
+related:
+  - INS-260323-3A54
+  - INS-260327-A75B
+  - INS-260329-6BE8
+  - INS-260330-059B
+  - INS-260330-BC1B
+  - INS-260402-EC9F
+  - PRI-260328-B11D
+  - PRI-260325-A95E
 ---
 Robert Herjavec's most memorable line reframes entrepreneurial risk as a comparison between two types of suffering: the known pain of poverty versus the uncertain pain of rejection, failure, and 20-hour days. By making this an explicit choice rather than an abstract leap of faith, he converts what feels like reckless risk-taking into a rational calculation.
 

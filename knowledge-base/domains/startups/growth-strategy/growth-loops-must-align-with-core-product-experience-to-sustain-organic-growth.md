@@ -15,27 +15,14 @@ tags:
 sources:
   - type: blog
     title: "The Ultimate Go-To-Market Strategy Framework \U0001F680"
-    author:
-      - '@type': Person
-        name: Majd ALAILY
-        url: 'https://substack.com/@majdalaily'
-        description: >-
-          3x Founder | Ex-Google | Obsessed with design-led growth. Now I help
-          early-stage founders get to traction and funding faster. Follow for
-          hands-on startup advice.
-        identifier: 'user:220613238'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!rPkH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dd262ff-dba1-4226-b33f-a85fc37d2393_500x500.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!rPkH!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dd262ff-dba1-4226-b33f-a85fc37d2393_500x500.jpeg
+    author: Majd ALAILY
     url: 'https://www.thevccorner.com/p/the-ultimate-7-step-gtm-framework'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Design growth loops where the sharing mechanism is inseparable from the
@@ -58,6 +45,13 @@ stance: >-
   Growth loops that are tightly coupled to the product's core value proposition
   outperform bolted-on referral programs because users share what they naturally
   use, not what they're artificially incentivized to promote.
+related:
+  - INS-260404-2F57
+  - INS-260402-B743
+  - INS-260402-5523
+  - INS-260403-B18C
+  - PRI-260328-43F1
+  - PRI-260403-5FC4
 ---
 Dropbox's referral loop worked because free storage was the product itself — users shared to get more of what they already valued. TikTok's loop worked because user-generated content IS the product; every creation is simultaneously consumption fuel for others. The common thread: the growth mechanism and the value delivery are the same action.
 

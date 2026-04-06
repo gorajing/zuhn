@@ -50,18 +50,18 @@ stance: >-
   The distinctive white sclera of human eyes is an evolved cooperative signal
   that sacrifices stealth for social coordination through visible gaze direction
 related:
-  - INS-260330-4224
   - INS-260325-DFA5
   - INS-260330-4634
   - INS-260325-D680
   - INS-260325-E19E
+  - INS-260330-C418
 evidence:
   - id: INS-260330-F056
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-D680
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260325-E19E
-    relationship: RELATED
+    type: SUPPORTS
 ---
 Most predators have camouflaged eyes that hide where they're looking — visible gaze direction would betray their hunting strategy. Humans evolved the opposite: conspicuously white scleras that make the direction of our gaze instantly readable to others. This is paired with dedicated neural networks containing individual neurons that fire specifically when someone is looking directly at us and stop firing with just one or two degrees of deviation.
 

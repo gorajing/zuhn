@@ -17,24 +17,14 @@ tags:
 sources:
   - type: blog
     title: "AI’s Fastest Growth Cycle Yet⚡, The VC Fund Trap\U0001F4C9, State of AI 2025\U0001F916"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/ais-fastest-growth-cycle-yet-the'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VC returns are polarizing, squeezing funds that are neither
@@ -58,6 +48,16 @@ resolutions:
 stance: >-
   Venture funds that lack either ownership efficiency or top-tier deal flow will
   drift into irrelevance by 2030 as returns polarize to the extremes
+related:
+  - INS-260327-17BE
+  - INS-260329-7372
+  - INS-260330-137A
+  - INS-260403-4F8E
+  - INS-260404-B496
+  - INS-260403-2330
+  - INS-260404-8CAE
+  - INS-260404-7F24
+  - INS-260404-81AB
 ---
 Venture capital returns are increasingly concentrating at two extremes: small, disciplined funds that maintain ownership efficiency, and elite, large funds with privileged deal flow. Funds stuck in the middle — without a clear structural advantage in either direction — face a compounding disadvantage.
 

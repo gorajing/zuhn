@@ -18,27 +18,14 @@ tags:
 sources:
   - type: blog
     title: Japan can be America's arsenal
-    author:
-      - '@type': Person
-        name: Rie Yano - Coral Capital
-        url: 'https://substack.com/@rieyano'
-        description: >-
-          SF based Partner at Coral Capital (HQ in Tokyo, investing globally).
-          Vitalist, exited founder, always dancing. Dispatches on human agency,
-          AI, and designing a life that still feels like yours.
-        identifier: 'user:742196'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!UjI-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5284770c-f3c5-4281-9bdd-3b9dae7f7c7c_640x641.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!UjI-!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5284770c-f3c5-4281-9bdd-3b9dae7f7c7c_640x641.jpeg
+    author: Rie Yano - Coral Capital
     url: 'https://www.noahpinion.blog/p/japan-can-be-americas-arsenal'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Defense-industrial catch-up requires allied co-manufacturing because
@@ -71,6 +58,12 @@ stance: >-
   co-manufacturing with trusted allies than by reshoring alone, because allied
   capacity can be activated in months while new domestic capacity takes years to
   permit and build.
+related:
+  - INS-260405-24F0
+  - INS-260403-6570
+  - INS-260404-8A36
+  - PRI-260328-3C01
+  - INS-260326-80B1
 ---
 The U.S. faces a structural mismatch: defense production bottlenecks (backed-up shipyards, thin munitions lines, aging workforce) cannot be solved by funding alone because new domestic capacity takes 3-7 years to permit and remains vulnerable to litigation. Meanwhile, China is rapidly outpacing U.S. production of ships, submarines, missiles, drones, and ammunition.
 

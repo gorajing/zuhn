@@ -17,38 +17,14 @@ sources:
     title: >-
       Mark Cuban Interview: Startup Lessons, AI Insights, and Dealflow
       Opportunities for Founders
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-      - '@type': Person
-        name: Guillermo Flor
-        url: 'https://substack.com/@guillermoflor'
-        description: >-
-          I'm Guillermo, a former startup founder now venture capital investor.
-          I write weekly about startups path to Product Market Fit, growth and
-          fundraising 
-        identifier: 'user:48117658'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!C4Tj!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d37b92-10bc-4b85-b19b-c7e595cc9d35_1290x1290.jpeg
+    author: 'Ruben Dominguez, Guillermo Flor'
     url: 'https://www.thevccorner.com/p/mark-cuban-ai-startups-interview-dealflow'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Cuban argues raising money is an obligation, not an achievement — owning
@@ -71,6 +47,17 @@ stance: >-
   Founders who bootstrap and retain maximum equity will build more personal
   wealth than those who optimize for top-line growth through repeated
   fundraising rounds.
+related:
+  - INS-260327-5CB6
+  - INS-260327-FF64
+  - INS-260327-19E5
+  - INS-260329-60CF
+  - INS-260329-D4BC
+  - INS-260329-5514
+  - INS-260329-5B3D
+  - INS-260329-D159
+  - INS-260330-3A7B
+  - INS-260330-C84C
 ---
 Mark Cuban's contrarian fundraising advice centers on a simple math truth: dilution compounds. Every round you raise reduces your ownership, and most founders get caught optimizing top-line revenue rather than bottom-line profit. Cuban frames fundraising as an obligation many founders must accept, not an accomplishment to celebrate.
 

@@ -16,24 +16,14 @@ tags:
 sources:
   - type: blog
     title: "The 49-Year Unicorn Backlog\U0001F984, AI has a gross margin problem\U0001F916, The Path to CFO\U0001F4DA"
-    author:
-      - '@type': Person
-        name: Ruben Dominguez
-        url: 'https://substack.com/@rubendominguez'
-        description: 'Investing, building, writing '
-        identifier: 'user:95342670'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!mcL6!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3403a50f-4e67-40d2-aa6f-a8d845f19c1c_480x480.png
+    author: Ruben Dominguez
     url: 'https://www.thevccorner.com/p/the-49-year-unicorn-backlog-ai-has'
 date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     At current exit velocity, the entire U.S. unicorn backlog would take 49
@@ -56,6 +46,14 @@ stance: >-
   The current pace of IPOs and acquisitions is so slow that it would take 49+
   years for every U.S. unicorn to exit, signaling a structural liquidity crisis
   in venture rather than a temporary lull.
+related:
+  - INS-260403-FA30
+  - INS-260405-5569
+  - INS-260403-53A0
+  - INS-260322-047D
+  - INS-260403-001C
+  - INS-260327-4E34
+  - INS-260404-1A18
 ---
 Crunchbase data as of mid-2024 shows that if IPO markets and M&A activity remain at their sluggish pace, every unicorn currently in the private markets would need 49+ years to find an exit. This is not a cyclical dip — it reflects a structural imbalance between the rate at which capital minted unicorns (especially 2019-2021) and the absorptive capacity of public markets and acquirers.
 

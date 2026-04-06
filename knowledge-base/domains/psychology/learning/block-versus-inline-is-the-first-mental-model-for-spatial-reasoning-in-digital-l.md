@@ -50,28 +50,28 @@ stance: >-
   CSS layout thinking because it establishes that elements have intrinsic
   display behaviors independent of their content
 related:
+  - INS-260330-3257
+  - INS-260330-B539
   - INS-260329-5ECD
   - INS-260329-BAB7
-  - INS-260330-B539
   - INS-260330-AE16
-  - INS-260329-979B
-  - INS-260329-7C59
-  - INS-260329-FEF4
-  - INS-260330-3257
+  - INS-260330-7DCF
+  - INS-260329-04FA
+  - INS-260403-FFFE
 evidence:
   - id: INS-260329-5ECD
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260322-3537
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-AE16
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-BAB7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-04FA
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260329-FEF4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260330-3257
-    relationship: RELATED
+    type: SUPPORTS
 ---
 The tutorial's section on divs and spans introduces a deceptively important concept: HTML elements are not just containers for content but have intrinsic display behaviors. Block elements consume the full width of their container regardless of content size, while inline elements only take the space they need. This is the first mental model shift from thinking about web pages as documents (where content flows linearly) to thinking about them as spatial compositions (where elements have geometric properties). This block/inline distinction is the conceptual gateway to understanding flexbox, grid, responsive design, and ultimately all CSS layout. The insight transfers beyond web development: any system where components have intrinsic spatial or temporal behaviors that differ from their content size requires understanding this kind of 'display mode' concept — from UI frameworks to typesetting to data visualization layout engines.

@@ -60,6 +60,8 @@ related:
   - INS-260403-22FE
   - INS-260403-DE45
   - INS-260403-6178
+  - INS-260404-F366
+  - INS-260403-6399
 evidence:
   - id: INS-260322-627E
     type: TRANSFERS_TO

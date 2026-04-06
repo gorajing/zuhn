@@ -50,5 +50,6 @@ related:
   - INS-260325-4599
   - INS-260330-C456
   - INS-260327-D17A
+  - INS-260325-024F
 ---
 Blood vitamin D measures inactive vitamin D in circulation not what is in cells. The 20 ng/mL threshold only addresses bone health. For therapeutic needs like inflammation diabetes obesity fatty liver and autoimmune disease much higher levels are needed. Toxicity (hypercalcemia) requires hundreds of thousands of IU over months and can be mitigated with magnesium vitamin K2 and adequate hydration. The majority of adults and children worldwide are deficient because we have built an indoor sugar-fed society while being told to avoid sun and that 600 IU suffices.

@@ -56,7 +56,6 @@ related:
   - PRI-260328-AC85
   - INS-260404-5365
   - INS-260402-E11A
-  - INS-260403-0041
 evidence:
   - id: INS-260402-E11A
     type: CONTRADICTS

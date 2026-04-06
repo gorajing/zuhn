@@ -45,21 +45,22 @@ stance: >-
   hearing dozens of pitches.
 related:
   - INS-260320-080B
-  - INS-260403-D375
-  - INS-260403-0AF4
-  - INS-260403-85F1
   - INS-260403-21C4
-  - INS-260404-621F
-  - INS-260404-D8C7
+  - INS-260404-8D37
+  - INS-260404-D242
   - INS-260404-A526
-  - INS-260404-6EB8
+  - INS-260403-F171
+  - INS-260402-9DBC
+  - INS-260405-1BFA
+  - INS-260405-7CF9
+  - INS-260403-5DDE
 evidence:
   - id: INS-260403-0AF4
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260403-448F
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-D8C7
-    relationship: RELATED
+    type: SUPPORTS
   - id: INS-260404-A526
     type: SUPPORTS
     classified_at: '2026-04-06'

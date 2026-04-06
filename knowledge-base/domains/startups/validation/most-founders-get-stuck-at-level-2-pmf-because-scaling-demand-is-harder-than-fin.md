@@ -19,26 +19,14 @@ sources:
     title: >-
       A framework for finding product-market fit | Todd Jackson (First Round
       Capital)
-    author:
-      - '@type': Person
-        name: Lenny Rachitsky
-        url: 'https://substack.com/@lenny'
-        description: Writing • Angel investing • Advising
-        identifier: 'user:1849774'
-        sameAs:
-          - 'https://twitter.com/lennysan'
-        image:
-          '@type': ImageObject
-          contentUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
-          thumbnailUrl: >-
-            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    author: Lenny Rachitsky
     url: 'https://www.lennysnewsletter.com/p/a-framework-for-finding-product-market'
 date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The majority of founders stall at Level 2 PMF — they can find initial
@@ -62,6 +50,13 @@ stance: >-
   The transition from initial customer validation to repeatable demand
   generation is where most startups die, not at the idea stage or the scaling
   stage.
+related:
+  - INS-260323-1B87
+  - INS-260327-B302
+  - INS-260329-78CB
+  - INS-260403-49FB
+  - INS-260402-910C
+  - INS-260330-BEE7
 ---
 While startup mythology emphasizes the importance of the initial idea (Level 1) or scaling challenges (Level 3-4), the data from First Round Capital shows most founders get stuck at Level 2 — the transition from validated problem to repeatable demand. Common symptoms include spending over 12 months struggling to generate new demand, high churn, slow sales cycles, and lack of urgency from potential customers.
 
