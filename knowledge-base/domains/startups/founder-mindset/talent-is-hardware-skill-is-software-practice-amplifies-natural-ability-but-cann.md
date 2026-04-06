@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260323-7CA7
   - INS-260403-D022
+  - PRI-260405-0676
   - INS-260329-9A7F
   - INS-260330-0102
-  - INS-260329-6AF5
 stance: 'The 10,000-hour rule was misunderstood as ''practice creates excellence'''
 evidence:
   - id: INS-260329-6AF5

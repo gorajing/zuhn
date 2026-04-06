@@ -48,7 +48,6 @@ stance: >-
 related:
   - INS-260320-E6DD
   - INS-260320-5F14
-  - INS-260322-CC69
   - PRI-260325-1640
   - INS-260327-7DBF
   - INS-260329-A077
@@ -56,6 +55,7 @@ related:
   - INS-260329-FA1C
   - INS-260329-6004
   - INS-260330-053D
+  - INS-260330-6F2F
 evidence:
   - id: INS-260320-E6DD
     type: TRANSFERS_TO

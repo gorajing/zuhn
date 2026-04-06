@@ -47,7 +47,6 @@ resolutions:
     value accrues to those who use it to increase their cognitive time under
     tension, not escape it.
 related:
-  - INS-260322-A208
   - PRI-260323-C49D
   - INS-260329-0F39
   - INS-260325-36F0
@@ -57,6 +56,7 @@ related:
   - INS-260325-D9D8
   - INS-260325-AC52
   - INS-260329-1739
+  - INS-260329-A45D
 stance: >-
   Some people use AI to avoid thinking; others use it to think more deeply than
   ever before — the tool amplifies whatever intent you bring to it.

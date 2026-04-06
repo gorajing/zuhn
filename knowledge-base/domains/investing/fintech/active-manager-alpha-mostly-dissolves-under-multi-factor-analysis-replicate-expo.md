@@ -45,10 +45,10 @@ resolutions:
     factor investing over traditional stock-picking or active fund selection.
 related:
   - INS-260325-FDB3
+  - PRI-260405-0099
   - INS-260323-422B
   - INS-260326-6B98
   - PRI-260328-26AA
-  - INS-260329-3BEE
   - INS-260403-8002
   - INS-260403-9C63
 stance: >-

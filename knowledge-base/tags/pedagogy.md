@@ -4,6 +4,7 @@
 - `INS-260329-8330` Progressive mini-projects that layer new concepts onto familiar ones create the most effective programming learning paths.
 - `INS-260329-D75D` Progressive project sequences teach concepts in context, producing better retention than abstract-first approaches.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
+- `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
 - `INS-260404-52FC` CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
@@ -41,7 +42,6 @@
 - `INS-260403-8C20` The classic five-paragraph essay is secretly a list of 3 things, and disguising this prevents students from learning that real essays are vehicles for discovering new ideas.
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
-- `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
 - `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
 - `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.

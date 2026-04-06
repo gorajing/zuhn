@@ -50,7 +50,6 @@ stance: >-
   beginners into attributing semantic understanding to the compiler, creating a
   pedagogical trap that must be explicitly addressed.
 related:
-  - INS-260323-E3FD
   - INS-260327-CBCB
   - INS-260330-0102
   - INS-260329-9A7F

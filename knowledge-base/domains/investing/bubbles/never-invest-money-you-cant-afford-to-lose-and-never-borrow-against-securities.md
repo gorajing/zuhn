@@ -47,11 +47,11 @@ resolutions:
     they use the products daily. Index funds beat most mutual funds because few
     managers earn their fees.
 related:
+  - PRI-260405-0099
   - INS-260405-092A
   - INS-260323-1B42
   - INS-260328-195E
   - PRI-260403-26B9
-  - INS-260329-59FF
   - INS-260330-072D
 stance: >-
   The two cardinal rules of investing: only use money you don't need short-term,

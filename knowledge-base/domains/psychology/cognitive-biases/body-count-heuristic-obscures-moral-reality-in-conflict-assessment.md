@@ -54,6 +54,7 @@ related:
   - INS-260330-7E61
   - INS-260330-0764
   - INS-260330-ED37
+  - PRI-260405-0676
   - INS-260330-5779
 ---
 When evaluating conflicts, people instinctively reach for the simplest metric available: body counts. Harris argues this is a fundamental category error — it treats intentional massacre of civilians (designed to maximize horror) as morally equivalent to collateral damage (inadvertent, regretted, sometimes prosecuted). This heuristic feels objective and fair, but it systematically advantages actors who deliberately maximize civilian casualties on both sides: their own (via human shields) and their enemy's (via terrorism).

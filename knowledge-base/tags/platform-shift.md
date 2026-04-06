@@ -4,7 +4,7 @@
 - `INS-260322-5932` Unlike previous platform shifts (internet, mobile), AI lacks a known theoretical ceiling, making deterministic predictions uniquely unreliable.
 - `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
 - `INS-260323-89C2` The 10 Blue Links was always a compromise — if the Google founders had LLMs from the start, they would have gone straight to direct answers, making the current AI transition an inevitability, not a disruption.
+- `INS-260328-8445` The cost to send something to space is declining exponentially like Moore's Law, enabling an explosion of space startups -- and current 'cheap launch' will look expensive in hindsight.
 - `INS-260322-D7B1` Even a 20-30% shift from Google to AI chatbots will dramatically raise paid search costs for remaining advertisers, making current acquisition strategies unviable.
 - `INS-260405-34D7` During major platform transitions, systematically looking for physical objects to replace with software is a reliable source of startup ideas.
 - `INS-260403-C0D4` Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
-- `INS-260328-8445` The cost to send something to space is declining exponentially like Moore's Law, enabling an explosion of space startups -- and current 'cheap launch' will look expensive in hindsight.

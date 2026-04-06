@@ -55,7 +55,7 @@ related:
   - INS-260322-30A0
   - PRI-260403-FBA8
   - INS-260403-E9DD
-  - INS-260403-C135
+  - PRI-260405-0676
 stance: >-
   In the AI era, the core educational skill shifts from producing correct
   answers to evaluating whether answers are correct.

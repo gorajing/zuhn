@@ -9,5 +9,5 @@
 - `INS-260403-57F6` Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs.
 - `INS-260330-7ABB` Two things don't have to literally match for our brains to see a connection — the 'law of near enough' plus selection and confirmation bias make any vague prediction seem prophetic.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
-- `INS-260330-32E6` When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
 - `INS-260325-9AD4` Instead of researching why you should buy an investment, research why you should not — if you cannot find a compelling reason against it, that is a stronger signal than all the confirming evidence combined.
+- `INS-260330-32E6` When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.

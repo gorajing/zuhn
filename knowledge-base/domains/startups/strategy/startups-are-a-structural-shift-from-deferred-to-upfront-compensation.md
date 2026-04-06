@@ -52,12 +52,12 @@ stance: >-
   ladder, just with risk and reward moved earlier rather than eliminated
 related:
   - INS-260330-2BB3
-  - INS-260403-C9C2
   - INS-260403-EE10
+  - INS-260403-C9C2
   - INS-260327-DAA4
+  - PRI-260405-0099
   - INS-260326-6B98
   - INS-260403-214B
-  - INS-260403-776C
 evidence:
   - id: INS-260326-6B98
     type: EXTENDS

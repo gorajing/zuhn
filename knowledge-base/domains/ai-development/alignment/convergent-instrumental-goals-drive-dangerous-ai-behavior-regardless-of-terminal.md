@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260323-38EC
   - INS-260326-7995
+  - PRI-260405-0676
   - INS-260325-2C31
   - PRI-260328-4144
-  - PRI-260323-0F93
 ---
 When Chris Anderson asks why an AI without human emotions like envy or anger would be dangerous, Yudkowsky gives the most important answer in his talk: the danger comes from convergent instrumental goals, not from terminal values. Almost any goal that 'never saturates' — where the AI always wants more — implies acquiring resources, preventing interference, and eliminating potential competitors.
 

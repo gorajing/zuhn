@@ -1,7 +1,7 @@
 # Tag: market-expansion
 
-- `INS-260327-0A48` Under Armour's premium pricing ($25 tees when competitors sold for $10-15, $100 running shoes) built credibility with athletes and retailer confidence, but the same pricing became a barrier when they tried to reach mainstream consumers and international markets.
 - `INS-260405-CF38` Netflix's streaming shift wasn't just about convenience—it structurally expanded the addressable market by removing physical distribution constraints.
+- `INS-260327-0A48` Under Armour's premium pricing ($25 tees when competitors sold for $10-15, $100 running shoes) built credibility with athletes and retailer confidence, but the same pricing became a barrier when they tried to reach mainstream consumers and international markets.
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260403-0550` Shared language and cultural similarity across LatAm countries dramatically reduces the friction of multi-country expansion compared to Europe's patchwork.
 - `INS-260327-8B5B` Insta360 started in 360-degree video (a niche ignored after the VR bubble burst), observed skiers and cyclists organically adopting their camera for action sports, and followed that signal to become the global action camera leader.

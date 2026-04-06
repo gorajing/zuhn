@@ -13,7 +13,7 @@
 - `INS-260404-3D8F` Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
 - `INS-260323-9EDC` The strongest relationships Sexton has seen are where partners are each other's unconditional advocates — they never talk shit about each other to outsiders.
 - `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
+- `INS-260327-5200` Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.
 - `INS-260405-06B0` When membership fees are the primary revenue source, delivering customer value isn't optional — it's arithmetically mandatory.
 - `INS-260330-B384` Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
 - `INS-260330-E4DB` Rome's reliance on Germanic mercenaries loyal only to gold — not to Rome itself — directly caused the civil wars that destroyed the Western Empire.
-- `INS-260327-5200` Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.

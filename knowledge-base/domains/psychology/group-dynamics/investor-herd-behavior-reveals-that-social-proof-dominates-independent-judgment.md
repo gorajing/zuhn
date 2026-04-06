@@ -48,12 +48,11 @@ stance: >-
   their own analysis, making 'who else is investing?' the primary decision
   variable rather than founder or product quality
 related:
-  - INS-260325-13C2
-  - INS-260325-9AD4
   - INS-260402-4719
   - INS-260403-F447
   - INS-260403-47B7
   - INS-260405-4423
+  - INS-260325-9AD4
 evidence:
   - id: INS-260325-13C2
     type: SUPPORTS

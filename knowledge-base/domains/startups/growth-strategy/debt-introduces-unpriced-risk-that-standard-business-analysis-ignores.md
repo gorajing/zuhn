@@ -45,12 +45,11 @@ stance: >-
   excluded from ROI calculations, making leveraged returns appear artificially
   superior to debt-free returns.
 related:
+  - PRI-260405-0099
   - INS-260323-1B42
   - PRI-260328-26AA
   - INS-260403-C732
   - INS-260403-0240
-  - INS-260329-4605
-  - INS-260330-AD13
 evidence:
   - id: INS-260329-4605
     type: CHALLENGES

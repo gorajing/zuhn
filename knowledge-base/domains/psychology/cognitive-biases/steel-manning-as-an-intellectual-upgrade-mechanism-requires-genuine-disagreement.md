@@ -54,10 +54,10 @@ stance: >-
   performed as a rhetorical exercise.
 related:
   - INS-260328-E410
+  - PRI-260405-0676
   - INS-260327-70DF
   - INS-260321-F864
   - PRI-260328-9F8C
-  - INS-260327-9BA2
 evidence:
   - id: INS-260321-F864
     type: TRANSFERS_TO

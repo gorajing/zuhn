@@ -49,7 +49,6 @@ stance: >-
   against specific attack vectors.
 related:
   - INS-260330-5C69
-  - INS-260330-1243
   - INS-260403-C0FE
   - INS-260403-CA57
   - INS-260322-F6AA

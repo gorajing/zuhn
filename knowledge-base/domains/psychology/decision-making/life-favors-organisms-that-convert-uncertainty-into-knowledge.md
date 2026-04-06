@@ -58,7 +58,6 @@ related:
   - INS-260325-75A3
   - INS-260323-1345
   - INS-260403-4DFB
-  - INS-260402-0F45
   - INS-260403-E6FD
 evidence:
   - id: INS-260323-1345

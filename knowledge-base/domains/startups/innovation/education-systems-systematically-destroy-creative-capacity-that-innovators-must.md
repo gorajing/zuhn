@@ -48,7 +48,6 @@ stance: >-
   Formal education's emphasis on convergent thinking and standardization
   actively suppresses the divergent thinking skills that drive innovation
 related:
-  - INS-260322-B693
   - INS-260403-21AF
   - INS-260403-0030
   - INS-260403-E556

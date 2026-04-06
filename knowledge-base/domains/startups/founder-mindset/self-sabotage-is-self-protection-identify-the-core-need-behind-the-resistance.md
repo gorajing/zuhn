@@ -53,7 +53,7 @@ related:
   - PRI-260324-2A76
   - PRI-260323-F92B
   - PRI-260328-39FA
-  - PRI-260328-521E
+  - PRI-260405-0676
   - INS-260404-375E
 stance: Self-sabotage is your brain protecting your ego from perceived threats
 evidence:

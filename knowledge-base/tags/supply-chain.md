@@ -4,6 +4,10 @@
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
+- `INS-260321-4B99` Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
+- `INS-260325-A19C` TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
+- `INS-260323-9676` ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.
+- `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260405-D9C8` Costco's 4,000 SKUs vs. Walmart's 140,000 means each Costco slot is worth far more to suppliers, flipping negotiating power.
 - `INS-260404-B350` Radical SKU reduction turns shelf space into a scarce resource that suppliers compete to access, granting the retailer outsized negotiating power.
@@ -17,7 +21,3 @@
 - `INS-260330-EA23` Domino's centralized all ingredient preparation into hub facilities, enabling individual stores to be much smaller and cheaper while maintaining consistent quality across thousands of locations.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260405-88F9` Costco's ~4,000 SKUs versus Walmart's 140,000 means suppliers fight to be one of two choices, handing Costco extreme pricing power.
-- `INS-260321-4B99` Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
-- `INS-260325-A19C` TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
-- `INS-260323-9676` ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.
-- `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.

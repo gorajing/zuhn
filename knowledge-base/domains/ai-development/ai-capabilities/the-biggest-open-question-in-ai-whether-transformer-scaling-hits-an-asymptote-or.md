@@ -50,7 +50,6 @@ related:
   - INS-260405-6A94
   - PRI-260328-5F64
   - INS-260327-E1EB
-  - INS-260326-6B99
 stance: >-
   Zuckerberg identifies the scaling question as the single highest-stakes bet in
   AI: Llama training went from 10-20K GPUs to 100K+ GPUs, with hundred...

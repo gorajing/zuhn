@@ -7,5 +7,5 @@
 - `INS-260325-9DBB` Like amateur tennis, investing is won not by brilliant plays but by making fewer mistakes than your opponent.
 - `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
 - `INS-260329-D38D` Paying off guaranteed 24% negative returns (credit card debt) before seeking uncertain 10% positive returns is simple arbitrage, not conservative advice.
-- `INS-260403-5843` Acquirers behave like Benjamin Graham's Mr. Market — manic-depressive cycles of overpaying and ignoring, averaging out only over multi-year windows.
 - `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
+- `INS-260403-5843` Acquirers behave like Benjamin Graham's Mr. Market — manic-depressive cycles of overpaying and ignoring, averaging out only over multi-year windows.
